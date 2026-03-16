@@ -2,10 +2,11 @@
 title: "Best Cafes in Windsor — 2026 Local Guide"
 suburb: "windsor"
 vertical: "lifestyle"
-author: "MELBZ Editorial Team"
+author: "dani"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best cafes in Windsor. Our verified 2026 guide covers the best spots for locals."
+cover_image: "/images/windsor_best-cafes.jpg"
 ---
 
 ## The Best Best Cafes in Windsor

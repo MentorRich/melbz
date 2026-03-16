@@ -1,0 +1,8 @@
+---
+title: "Nadia Keane"
+role: "Vegan & Dietary Writer"
+bio: "Nadia maps the best ethical and dietary-inclusive dining across the city, from plant-based fine dining to organic delis."
+avatar: "/images/authors/nadia.jpg"
+type: "authors"
+layout: "term"
+---

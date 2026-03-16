@@ -2,7 +2,7 @@
 title: "AITMA: 5 Melbourne Dilemmas That Will Divide Your Group Chat"
 suburb: melbourne
 vertical: culture
-author: "Lina Nguyen"
+author: "jules"
 author_role: "Nightlife & Culture Editor"
 author_image: "/images/authors/lina.jpg"
 updated: 2026-03-14

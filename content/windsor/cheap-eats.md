@@ -2,10 +2,11 @@
 title: "Cheap Eats in Windsor — 2026 Local Guide"
 suburb: "windsor"
 vertical: "lifestyle"
-author: "MELBZ Editorial Team"
+author: "omar"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the cheap eats in Windsor. Our verified 2026 guide covers the best spots for locals."
+cover_image: "/images/windsor_cheap-eats.jpg"
 ---
 
 ## The Best Cheap Eats in Windsor

@@ -13,9 +13,10 @@ keywords:
   - "Melbourne food events 2026"
 tags: ["food", "events", "festivals", "melbourne"]
 categories: ["Food & Drink"]
-author: "melbz-team"
+author: "jules"
 vibe_score: 9.2
 schema_type: "Event"
+cover_image: "/images/food_melbourne-food-wine-festival-2026-guide.jpg"
 ---
 
 The Melbourne Food & Wine Festival is back from **March 20 to 29, 2026**, with over 200 events across the city. That's ten days of long lunches, pastry pop-ups, barbecue throwdowns, and enough degustation menus to bankrupt your savings account.

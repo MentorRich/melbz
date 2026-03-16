@@ -1,0 +1,8 @@
+---
+title: "Lina Nguyen"
+role: "Nightlife Editor"
+bio: "Lina is our eyes and ears on the ground after dark, covering the best bars, clubs, and late-night eats."
+avatar: "/images/authors/lina.jpg"
+type: "authors"
+layout: "term"
+---

@@ -1,0 +1,8 @@
+---
+title: "Oscar Wright"
+role: "New Openings & Closures Writer"
+bio: "Oscar is the speed-to-market specialist, tracking every movement in Melbourne's hospitality and retail sectors."
+avatar: "/images/authors/oscar.jpg"
+type: "authors"
+layout: "term"
+---

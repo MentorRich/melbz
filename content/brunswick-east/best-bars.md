@@ -2,10 +2,11 @@
 title: "Best Bars in Brunswick East — 2026 Local Guide"
 suburb: "brunswick-east"
 vertical: "lifestyle"
-author: "MELBZ Editorial Team"
+author: "jess"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best bars in Brunswick East. Our verified 2026 guide covers the best spots for locals."
+cover_image: "/images/brunswick-east_best-bars.jpg"
 ---
 
 ## The Best Best Bars in Brunswick East

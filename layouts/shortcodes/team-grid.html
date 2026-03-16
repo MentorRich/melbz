@@ -1,0 +1,12 @@
+<div class="team-grid">
+    {{ range (readDir "data/authors") }}
+        {{ $author := (index $.Site.Data.authors (replace .Name ".json" "")) }}
+        <div class="team-card">
+            <a href="/authors/{{ replace .Name ".json" "" }}/">
+                <img src="{{ $author.avatar }}" alt="{{ $author.name }}" class="team-avatar">
+                <h3 class="team-name">{{ $author.name }}</h3>
+                <p class="team-role">{{ $author.role }}</p>
+            </a>
+        </div>
+    {{ end }}
+</div>

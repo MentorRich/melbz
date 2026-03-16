@@ -2,7 +2,7 @@
 title: "20 Melbourne Confessions That Will Make You Feel Personally Attacked"
 suburb: melbourne
 vertical: culture
-author: "Lina Nguyen"
+author: "freya"
 author_role: "Nightlife & Culture Editor"
 author_image: "/images/authors/lina.jpg"
 updated: 2026-03-14

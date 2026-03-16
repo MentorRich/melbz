@@ -1,0 +1,8 @@
+---
+title: "Liam Murphy"
+role: "Pizza & Italian Writer"
+bio: "Liam is dedicated to the art of the perfect crust and the heritage of Italian dining across Melbourne's suburbs."
+avatar: "/images/authors/liam.jpg"
+type: "authors"
+layout: "term"
+---

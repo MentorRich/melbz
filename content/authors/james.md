@@ -1,0 +1,8 @@
+---
+title: "James Whitfield"
+role: "Real Estate Analyst"
+bio: "James analyzes Melbourne's property market with a focus on house prices, auction results, and identifying the city's next investment hotspots."
+avatar: "/images/authors/james.jpg"
+type: "authors"
+layout: "term"
+---

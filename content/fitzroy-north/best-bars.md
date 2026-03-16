@@ -2,10 +2,11 @@
 title: "Best Bars in Fitzroy North — 2026 Local Guide"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
-author: "MELBZ Editorial Team"
+author: "jess"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best bars in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
+cover_image: "/images/fitzroy-north_best-bars.jpg"
 ---
 
 ## The Best Best Bars in Fitzroy North

@@ -1,0 +1,8 @@
+---
+title: "Jack Reeves"
+role: "Hidden Melbourne Editor"
+bio: "Jack seeks out the secret doors and underground experiences that only true locals know."
+avatar: "/images/authors/jack.jpg"
+type: "authors"
+layout: "term"
+---

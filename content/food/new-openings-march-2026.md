@@ -2,7 +2,7 @@
 title: "19 New Melbourne Restaurants, Bars and Bakeries to Try in March 2026"
 suburb: melbourne-wide
 vertical: food
-author: "Jules Marchetti"
+author: "oscar"
 author_role: "Senior Food Editor"
 author_image: "/images/authors/jules.jpg"
 updated: 2026-03-14

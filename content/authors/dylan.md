@@ -1,0 +1,8 @@
+---
+title: "Dylan Kim"
+role: "Entertainment & Gaming Writer"
+bio: "Dylan is our expert on Melbourne's high-energy entertainment, from late-night arcades to the city's most challenging escape rooms."
+avatar: "/images/authors/dylan.jpg"
+type: "authors"
+layout: "term"
+---

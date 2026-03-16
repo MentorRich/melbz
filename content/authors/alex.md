@@ -1,0 +1,8 @@
+---
+title: "Alex Petrova"
+role: "Cost of Living Analyst"
+bio: "Alex breaks down the numbers that matter to your wallet, from grocery and utility comparison to the true cost of living in Melbourne's suburbs."
+avatar: "/images/authors/alex.jpg"
+type: "authors"
+layout: "term"
+---

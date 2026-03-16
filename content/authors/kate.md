@@ -1,0 +1,8 @@
+---
+title: "Kate Sullivan"
+role: "Family Suburbs Writer"
+bio: "Kate explores Melbourne through the lens of young families, reviewing the best schools, childcare, and playgrounds across the city."
+avatar: "/images/authors/kate.jpg"
+type: "authors"
+layout: "term"
+---

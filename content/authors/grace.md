@@ -1,0 +1,8 @@
+---
+title: "Grace Williams"
+role: "Fine Dining Writer"
+bio: "Grace covers Melbourne's premium dining occasions, spotlighting world-class chefs and exceptional wine lists."
+avatar: "/images/authors/grace.jpg"
+type: "authors"
+layout: "term"
+---

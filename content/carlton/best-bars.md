@@ -2,10 +2,11 @@
 title: "Best Bars in Carlton — 2026 Local Guide"
 suburb: "carlton"
 vertical: "lifestyle"
-author: "MELBZ Editorial Team"
+author: "jess"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best bars in Carlton. Our verified 2026 guide covers the best spots for locals."
+cover_image: "/images/carlton_best-bars.jpg"
 ---
 
 ## The Best Best Bars in Carlton

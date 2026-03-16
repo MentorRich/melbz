@@ -1,0 +1,8 @@
+---
+title: "Finn O'Connor"
+role: "Classes & Workshops Writer"
+bio: "Finn explores the city's creative classes and maker spaces, from pottery studios to high-end cooking workshops."
+avatar: "/images/authors/finn.jpg"
+type: "authors"
+layout: "term"
+---

@@ -1,0 +1,8 @@
+---
+title: "Freya Anderson"
+role: "Confessions & Debrief Writer"
+bio: "Freya curates the city's most unhinged confessions and hot takes, keeping the finger on Melbourne's conversational pulse."
+avatar: "/images/authors/freya.jpg"
+type: "authors"
+layout: "term"
+---

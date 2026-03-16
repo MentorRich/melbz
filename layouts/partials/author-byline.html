@@ -1,19 +1,23 @@
-{{/* Author byline partial */}}
+{{ $authorSlug := .Params.author }}
+{{ $authorData := "" }}
+{{ if $authorSlug }}
+  {{ $authorData = (index .Site.Data.authors $authorSlug) }}
+{{ end }}
+
+{{ if $authorData }}
 <div class="author-byline">
     <div class="author-avatar">
-        {{ if .Params.author_image }}
-            <img src="{{ .Params.author_image }}" alt="{{ .Params.author }}" width="40" height="40" loading="lazy">
-        {{ else }}
-            <span class="author-avatar-letter">{{ if .Params.author }}{{ substr .Params.author 0 1 | upper }}{{ else }}M{{ end }}</span>
-        {{ end }}
+        <a href="/authors/{{ $authorSlug }}/">
+            <img src="{{ $authorData.avatar }}" alt="{{ $authorData.name }}">
+        </a>
     </div>
-    <div class="author-info">
-        <div class="author-name">
-            {{ if .Params.author }}{{ .Params.author }}{{ else }}MELBZ Editorial{{ end }}
-        </div>
-        <div class="author-meta text-muted">
-            {{ if .Params.updated }}{{ dateFormat "2 Jan 2006" .Params.updated }}{{ else if .Date }}{{ .Date.Format "2 Jan 2006" }}{{ end }}
-            {{ if .ReadingTime }} · {{ .ReadingTime }} min read{{ end }}
-        </div>
+    <div class="author-meta">
+        <p class="author-name"><a href="/authors/{{ $authorSlug }}/">{{ $authorData.name }}</a></p>
+        <p class="author-role">{{ $authorData.role }} • {{ .Date.Format "Jan 2, 2006" }} • {{ .ReadingTime }} min read</p>
     </div>
 </div>
+{{ else }}
+<div class="author-byline">
+    <p>MELBZ Editorial Team • {{ .Date.Format "Jan 2, 2006" }}</p>
+</div>
+{{ end }}

@@ -1,0 +1,8 @@
+---
+title: "Isabella Greco"
+role: "Seasonal & Festivals Writer"
+bio: "Isabella ensures life's major Melburnian events are covered, from Moomba to the Melbourne Cup and everything in between."
+avatar: "/images/authors/isabella.jpg"
+type: "authors"
+layout: "term"
+---

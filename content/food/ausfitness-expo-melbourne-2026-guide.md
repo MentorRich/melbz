@@ -6,9 +6,10 @@ slug: "ausfitness-expo-melbourne-2026"
 description: "Your complete guide to AusFitness Expo Melbourne 2026 at MCEC — tickets, prices, live sport competitions, special guests, parking, and insider tips for making the most of March 21-22."
 keywords: ["AusFitness Expo Melbourne 2026", "Melbourne fitness expo March 2026", "AusFitness Expo tickets", "fitness events Melbourne 2026", "MCEC events March 2026"]
 tags: ["events", "fitness", "melbourne", "things-to-do"]
-author: "MELBZ Editorial"
+author: "jules"
 event_date: "2026-03-21"
 event_end: "2026-03-22"
+cover_image: "/images/food_ausfitness-expo-melbourne-2026-guide.jpg"
 ---
 
 # AusFitness Expo Melbourne 2026: Everything You Need to Know Before You Go

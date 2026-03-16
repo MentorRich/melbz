@@ -1,0 +1,8 @@
+---
+title: "Adam Nowak"
+role: "Burger & Comfort Food Writer"
+bio: "Adam is our guide to Melbourne's messiest burgers, decadent desserts, and the best fuel for late-night cravings."
+avatar: "/images/authors/adam.jpg"
+type: "authors"
+layout: "term"
+---

@@ -2,10 +2,11 @@
 title: "Nightlife Guide in St Kilda — 2026 Local Guide"
 suburb: "st-kilda"
 vertical: "lifestyle"
-author: "MELBZ Editorial Team"
+author: "ethan"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the nightlife guide in St Kilda. Our verified 2026 guide covers the best spots for locals."
+cover_image: "/images/st-kilda_nightlife-guide.jpg"
 ---
 
 ## The Best Nightlife Guide in St Kilda

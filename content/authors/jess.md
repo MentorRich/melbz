@@ -1,0 +1,8 @@
+---
+title: "Jess Harper"
+role: "Cocktail & Wine Writer"
+bio: "Jess uncovers the city's best mixology and wine bars, with a particular love for hidden basements and rooftop views."
+avatar: "/images/authors/jess.jpg"
+type: "authors"
+layout: "term"
+---

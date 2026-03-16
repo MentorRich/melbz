@@ -1,0 +1,8 @@
+---
+title: "Josh Brennan"
+role: "Sports & Recreation Writer"
+bio: "Josh covers the sporting soul of Melbourne, from weekend oval vibes to the best local sports clubs."
+avatar: "/images/authors/josh.jpg"
+type: "authors"
+layout: "term"
+---

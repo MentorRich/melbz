@@ -2,10 +2,11 @@
 title: "Nightlife Guide in Thornbury — 2026 Local Guide"
 suburb: "thornbury"
 vertical: "lifestyle"
-author: "MELBZ Editorial Team"
+author: "ethan"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the nightlife guide in Thornbury. Our verified 2026 guide covers the best spots for locals."
+cover_image: "/images/thornbury_nightlife-guide.jpg"
 ---
 
 ## The Best Nightlife Guide in Thornbury

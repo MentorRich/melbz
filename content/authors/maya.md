@@ -1,0 +1,8 @@
+---
+title: "Maya Singh"
+role: "Weekend Activities Writer"
+bio: "Maya is our weekend warrior, dedicated to finding the best free activities and unique ways to spend your days in Melbourne."
+avatar: "/images/authors/maya.jpg"
+type: "authors"
+layout: "term"
+---

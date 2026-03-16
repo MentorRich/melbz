@@ -2,10 +2,11 @@
 title: "Things To Do This Weekend in Brunswick East — 2026 Local Guide"
 suburb: "brunswick-east"
 vertical: "lifestyle"
-author: "MELBZ Editorial Team"
+author: "maya"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the things to do this weekend in Brunswick East. Our verified 2026 guide covers the best spots for locals."
+cover_image: "/images/brunswick-east_things-to-do-this-weekend.jpg"
 ---
 
 ## The Best Things To Do This Weekend in Brunswick East

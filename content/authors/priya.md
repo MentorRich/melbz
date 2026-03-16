@@ -1,0 +1,8 @@
+---
+title: "Priya Sandhu"
+role: "Food Editor"
+bio: "Priya leads our food and dining coverage, exploring every corner of Melbourne's world-class culinary scene."
+avatar: "/images/authors/priya.jpg"
+type: "authors"
+layout: "term"
+---

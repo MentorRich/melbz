@@ -1,0 +1,8 @@
+---
+title: "Ravi Patel"
+role: "Jobs Editor"
+bio: "Ravi connects our community with local job opportunities and the best co-working spaces in the city."
+avatar: "/images/authors/ravi.jpg"
+type: "authors"
+layout: "term"
+---

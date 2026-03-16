@@ -1,0 +1,8 @@
+---
+title: "Tariq Hussain"
+role: "Night Economy & Music Writer"
+bio: "Tariq dives into the music scene, from the city's best DJs to the evolution of Melbourne's night-time economy."
+avatar: "/images/authors/tariq.jpg"
+type: "authors"
+layout: "term"
+---

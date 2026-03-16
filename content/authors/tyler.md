@@ -1,0 +1,8 @@
+---
+title: "Tyler James"
+role: "Suburb Roast Writer"
+bio: "Tyler keeps it real with Melbourne's most brutal and hilarious suburb roasts, finding the funny in the city's unique quirks."
+avatar: "/images/authors/tyler.jpg"
+type: "authors"
+layout: "term"
+---

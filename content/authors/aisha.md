@@ -1,0 +1,8 @@
+---
+title: "Aisha Hassan"
+role: "Family Editor"
+bio: "Aisha provides the ultimate resource for families in Melbourne, from playground reviews to kid-friendly dining."
+avatar: "/images/authors/aisha.jpg"
+type: "authors"
+layout: "term"
+---

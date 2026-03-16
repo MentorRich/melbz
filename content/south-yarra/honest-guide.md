@@ -2,7 +2,7 @@
 title: "An Honest Guide to South Yarra: Where Your Wallet Goes to Die"
 suburb: south-yarra
 vertical: culture
-author: "Darcy Webb"
+author: "jules"
 author_role: "History & Hidden Stories"
 author_image: "/images/authors/darcy.jpg"
 updated: 2026-03-14

@@ -1,0 +1,8 @@
+---
+title: "Jules Marchetti"
+role: "Editor-in-Chief"
+bio: "Jules is the Editor-in-Chief at MELBZ, focusing on the deep culture and hidden stories that define the city's pulse."
+avatar: "/images/authors/jules.jpg"
+type: "authors"
+layout: "term"
+---

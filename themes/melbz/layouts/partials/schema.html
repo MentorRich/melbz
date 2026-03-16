@@ -1,0 +1,55 @@
+{{/* JSON-LD Schema markup */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "description": "{{ .Site.Params.description }}",
+  "url": "{{ .Site.BaseURL }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "MELBZ",
+    "url": "{{ .Site.BaseURL }}"
+  }
+}
+</script>
+{{ else if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}MELBZ Editorial Team{{ end }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "MELBZ",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  {{ if .Params.updated }}
+  "dateModified": "{{ .Params.updated }}",
+  {{ end }}
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "url": "{{ .Permalink }}"
+  {{ if .Params.suburb }},
+  "about": {
+    "@type": "Place",
+    "name": "{{ .Params.suburb | title }}, Melbourne, Victoria, Australia"
+  }
+  {{ end }}
+}
+</script>
+{{ end }}

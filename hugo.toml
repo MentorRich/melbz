@@ -1,0 +1,100 @@
+baseURL = 'https://melbz.com.au/'
+languageCode = 'en-au'
+title = 'MELBZ — We Know Your Suburb Better Than You Do'
+theme = 'melbz'
+
+# Permalinks
+[permalinks]
+  page = '/:section/:slug/'
+  
+# Taxonomies
+[taxonomies]
+  suburb = 'suburbs'
+  vertical = 'verticals' 
+  author = 'authors'
+  tag = 'tags'
+
+# Minification
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+
+# Site-wide params
+[params]
+  description = "Melbourne's hyperlocal intelligence platform. We know your suburb better than you do — from the best restaurants and cafes to property insights and local events."
+  author = "MELBZ Editorial Team"
+  tagline = "We Know Your Suburb Better Than You Do"
+  social_image = "/images/melbz-og.jpg"
+  twitter = "@melbzau"
+  instagram = "@melbzau"
+
+# Main navigation menu
+[menu]
+[[menu.main]]
+  identifier = "vibe-score"
+  name = "Vibe Scores"
+  url = "/vibe-score/"
+  weight = 5
+
+[[menu.main]]
+  identifier = "suburbs"
+  name = "Suburbs"
+  url = "/suburbs/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "food"
+  name = "Food"
+  url = "/food/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "nightlife"
+  name = "Nightlife"
+  url = "/nightlife/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "property"
+  name = "Property"
+  url = "/property/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "events"
+  name = "Events"
+  url = "/events/"
+  weight = 50
+
+# Footer menu
+[[menu.footer]]
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[[menu.footer]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 20
+
+[[menu.footer]]
+  name = "Privacy"
+  url = "/privacy/"
+  weight = 30
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+
+# Output formats
+enableRobotsTXT = true

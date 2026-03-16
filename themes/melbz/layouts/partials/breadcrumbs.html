@@ -1,0 +1,20 @@
+{{/* Breadcrumbs partial */}}
+{{ if not .IsHome }}
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+    <ul>
+        <li><a href="{{ "/" | relURL }}">Home</a></li>
+        
+        {{ if .Params.suburb }}
+        <li><a href="/{{ .Params.suburb }}/">{{ .Params.suburb | title }}</a></li>
+        {{ end }}
+        
+        {{ if and .Section (ne .Section .Params.suburb) }}
+        <li><a href="/{{ .Section }}/">{{ .Section | title }}</a></li>
+        {{ end }}
+        
+        {{ if .IsPage }}
+        <li><span class="current">{{ .Title }}</span></li>
+        {{ end }}
+    </ul>
+</nav>
+{{ end }}

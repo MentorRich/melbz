@@ -1,0 +1,56 @@
+{{/* Suburbs taxonomy page - shows all suburbs */}}
+{{ define "main" }}
+
+<div class="section">
+    <div class="container">
+        {{- partial "breadcrumbs.html" . -}}
+        
+        <div class="hero" style="margin-bottom: 3rem; padding: 2rem 0;">
+            <h1>All Suburbs</h1>
+            <p class="hero-subtitle">Discover Melbourne's suburbs through local intelligence — from the inner north to the bayside and beyond.</p>
+        </div>
+        
+        <!-- Suburbs Grid -->
+        <div class="article-grid">
+            {{ range .Data.Terms.ByCount }}
+                {{ $suburbanPages := .Pages }}
+                <div class="suburb-tile article-card">
+                    <div class="article-card-content">
+                        <h3><a href="{{ .Page.RelPermalink }}">{{ .Page.Title | title }}</a></h3>
+                        <p class="text-muted">{{ .Count }} {{ if eq .Count 1 }}article{{ else }}articles{{ end }}</p>
+                        <div class="article-excerpt">
+                            {{ if .Page.Content }}
+                                {{ .Page.Content | truncate 120 }}
+                            {{ else }}
+                                Local intelligence for {{ .Page.Title | title }} — restaurants, bars, cafes and everything in between.
+                            {{ end }}
+                        </div>
+                        
+                        <!-- Show recent articles from this suburb -->
+                        {{ if $suburbanPages }}
+                        <div style="margin-top: 1rem;">
+                            <strong style="font-size: 0.9rem;">Recent:</strong>
+                            <ul style="font-size: 0.9rem; margin-top: 0.5rem; list-style: none; padding: 0;">
+                                {{ range first 2 $suburbanPages }}
+                                <li style="margin-bottom: 0.25rem;">
+                                    <a href="{{ .RelPermalink }}">{{ .Title | truncate 40 }}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+        
+        <!-- Melbourne Map Callout -->
+        <div style="margin-top: 3rem; padding: 2rem; background: var(--navy-dark); color: white; border-radius: 8px; text-align: center;">
+            <h3>Know a suburb we should cover?</h3>
+            <p>We're constantly expanding our coverage across Melbourne. Got a local tip or suburb suggestion?</p>
+            <a href="/contact/" class="cta-button">Get in Touch</a>
+        </div>
+    </div>
+</div>
+
+{{ end }}

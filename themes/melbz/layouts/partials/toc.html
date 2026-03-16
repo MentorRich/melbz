@@ -1,0 +1,10 @@
+{{/* Table of Contents partial */}}
+{{ $headings := findRE "<h[2-4].*?>(.|\n)*?</h[2-4]>" .Content }}
+{{ if gt (len $headings) 2 }}
+<div class="toc-wrapper">
+    <div class="toc-title">Contents</div>
+    <div class="toc">
+        {{ .TableOfContents }}
+    </div>
+</div>
+{{ end }}

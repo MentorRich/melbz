@@ -1,0 +1,134 @@
+{{/* Individual suburb page */}}
+{{ define "main" }}
+
+<div class="section">
+    <div class="container">
+        {{- partial "breadcrumbs.html" . -}}
+        
+        <!-- Suburb Hero -->
+        <div class="hero" style="margin-bottom: 3rem; padding: 3rem 0;">
+            <h1>{{ .Title | title }}</h1>
+            <p class="hero-subtitle">
+                {{ if .Content }}
+                    {{ .Content }}
+                {{ else }}
+                    Everything we know about {{ .Title | title }} — restaurants, bars, cafes, and local intelligence.
+                {{ end }}
+            </p>
+            
+            <!-- Suburb Stats -->
+            <div style="display: flex; justify-content: center; gap: 2rem; margin-top: 2rem; flex-wrap: wrap;">
+                <div style="text-align: center;">
+                    <div style="font-size: 2rem; font-weight: 700;">{{ len .Pages }}</div>
+                    <div style="font-size: 0.9rem; opacity: 0.8;">Articles</div>
+                </div>
+                <div style="text-align: center;">
+                    <div style="font-size: 2rem; font-weight: 700;">{{ len (where .Pages ".Params.vertical" "food") }}</div>
+                    <div style="font-size: 0.9rem; opacity: 0.8;">Food Guides</div>
+                </div>
+                <div style="text-align: center;">
+                    <div style="font-size: 2rem; font-weight: 700;">{{ len (where .Pages ".Params.vertical" "nightlife") }}</div>
+                    <div style="font-size: 0.9rem; opacity: 0.8;">Nightlife</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Articles by Category -->
+        {{ $foodArticles := where .Pages ".Params.vertical" "food" }}
+        {{ $nightlifeArticles := where .Pages ".Params.vertical" "nightlife" }}
+        {{ $propertyArticles := where .Pages ".Params.vertical" "property" }}
+        {{ $otherArticles := where .Pages ".Params.vertical" "not in" (slice "food" "nightlife" "property") }}
+        
+        <!-- Food & Drink Section -->
+        {{ if $foodArticles }}
+        <section style="margin-bottom: 3rem;">
+            <h2 style="margin-bottom: 1.5rem; color: var(--navy-dark);">Food & Drink</h2>
+            <div class="article-grid">
+                {{ range $foodArticles }}
+                    {{- partial "article-card.html" . -}}
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+        
+        <!-- Nightlife Section -->
+        {{ if $nightlifeArticles }}
+        <section style="margin-bottom: 3rem;">
+            <h2 style="margin-bottom: 1.5rem; color: var(--navy-dark);">Nightlife</h2>
+            <div class="article-grid">
+                {{ range $nightlifeArticles }}
+                    {{- partial "article-card.html" . -}}
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+        
+        <!-- Property Section -->
+        {{ if $propertyArticles }}
+        <section style="margin-bottom: 3rem;">
+            <h2 style="margin-bottom: 1.5rem; color: var(--navy-dark);">Property & Living</h2>
+            <div class="article-grid">
+                {{ range $propertyArticles }}
+                    {{- partial "article-card.html" . -}}
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+        
+        <!-- Other Articles -->
+        {{ if $otherArticles }}
+        <section style="margin-bottom: 3rem;">
+            <h2 style="margin-bottom: 1.5rem; color: var(--navy-dark);">More about {{ .Title | title }}</h2>
+            <div class="article-grid">
+                {{ range $otherArticles }}
+                    {{- partial "article-card.html" . -}}
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+        
+        <!-- No Articles Message -->
+        {{ if not .Pages }}
+        <div class="text-center" style="padding: 3rem 0;">
+            <h3>We haven't covered {{ .Title | title }} yet</h3>
+            <p class="text-muted">But we're always exploring. Know something great about {{ .Title | title }}?</p>
+            <a href="/contact/" class="cta-button">Tell Us About It</a>
+        </div>
+        {{ end }}
+        
+        <!-- Nearby Suburbs -->
+        <aside style="margin-top: 3rem; padding: 2rem; background: #f8f8f8; border-radius: 8px;">
+            <h3>Explore Nearby</h3>
+            <p class="text-muted" style="margin-bottom: 1rem;">Other inner Melbourne suburbs worth exploring</p>
+            <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                {{ $allSuburbs := .Site.Taxonomies.suburbs }}
+                {{ $nearbySuburbs := slice }}
+                
+                {{/* Define nearby suburbs for each suburb */}}
+                {{ if eq .Title "fitzroy" }}{{ $nearbySuburbs = slice "collingwood" "brunswick" "carlton" "melbourne" }}{{ end }}
+                {{ if eq .Title "carlton" }}{{ $nearbySuburbs = slice "fitzroy" "melbourne" "brunswick" "parkville" }}{{ end }}
+                {{ if eq .Title "st-kilda" }}{{ $nearbySuburbs = slice "south-yarra" "prahran" "st-kilda-east" "elwood" }}{{ end }}
+                {{ if eq .Title "collingwood" }}{{ $nearbySuburbs = slice "fitzroy" "abbotsford" "richmond" "clifton-hill" }}{{ end }}
+                {{ if eq .Title "richmond" }}{{ $nearbySuburbs = slice "collingwood" "abbotsford" "south-yarra" "prahran" }}{{ end }}
+                {{ if eq .Title "brunswick" }}{{ $nearbySuburbs = slice "fitzroy" "carlton" "brunswick-east" "northcote" }}{{ end }}
+                
+                {{/* Fallback to random suburbs if no specific nearby list */}}
+                {{ if not $nearbySuburbs }}
+                    {{ $nearbySuburbs = slice "fitzroy" "carlton" "st-kilda" "richmond" "brunswick" }}
+                {{ end }}
+                
+                {{ range $nearbySuburbs }}
+                    {{ if index $allSuburbs . }}
+                    <a href="/suburbs/{{ . }}/" style="background: white; border: 1px solid #ddd; padding: 0.75rem 1rem; border-radius: 4px; text-decoration: none; color: var(--text-primary); font-weight: 500;">{{ . | title }}</a>
+                    {{ end }}
+                {{ end }}
+            </div>
+            
+            <div style="margin-top: 1rem;">
+                <a href="/suburbs/" style="font-size: 0.9rem; font-weight: 600; color: var(--coral-accent);">View all suburbs →</a>
+            </div>
+        </aside>
+    </div>
+</div>
+
+{{ end }}

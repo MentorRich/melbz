@@ -1,0 +1,19 @@
+{{/* Author byline partial */}}
+<div class="author-byline">
+    <div class="author-avatar">
+        {{ if .Params.author_image }}
+            <img src="{{ .Params.author_image }}" alt="{{ .Params.author }}" width="40" height="40" loading="lazy">
+        {{ else }}
+            <span class="author-avatar-letter">{{ if .Params.author }}{{ substr .Params.author 0 1 | upper }}{{ else }}M{{ end }}</span>
+        {{ end }}
+    </div>
+    <div class="author-info">
+        <div class="author-name">
+            {{ if .Params.author }}{{ .Params.author }}{{ else }}MELBZ Editorial{{ end }}
+        </div>
+        <div class="author-meta text-muted">
+            {{ if .Params.updated }}{{ dateFormat "2 Jan 2006" .Params.updated }}{{ else if .Date }}{{ .Date.Format "2 Jan 2006" }}{{ end }}
+            {{ if .ReadingTime }} · {{ .ReadingTime }} min read{{ end }}
+        </div>
+    </div>
+</div>

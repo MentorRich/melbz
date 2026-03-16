@@ -1,0 +1,116 @@
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+
+<!-- Meta description -->
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+<!-- Keywords -->
+{{ if .Params.keywords }}
+<meta name="keywords" content="{{ delimit .Params.keywords ", " }}">
+{{ end }}
+
+<!-- Author -->
+<meta name="author" content="{{ if .Params.author }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="en_AU">
+{{ if .Params.updated }}
+<meta property="article:modified_time" content="{{ .Params.updated }}">
+{{ end }}
+{{ if .Params.author }}
+<meta property="article:author" content="{{ .Params.author }}">
+{{ end }}
+{{ if .Params.suburb }}
+<meta property="article:section" content="{{ .Params.suburb | title }}">
+{{ end }}
+
+<!-- Cover Image for OG/Twitter -->
+{{ if .Params.cover_image }}
+<meta property="og:image" content="{{ .Params.cover_image | absURL }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ .Params.cover_alt | default .Title }}">
+{{ end }}
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="{{ .Site.Params.twitter }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ if .Params.cover_image }}
+<meta name="twitter:image" content="{{ .Params.cover_image | absURL }}">
+<meta name="twitter:image:alt" content="{{ .Params.cover_alt | default .Title }}">
+{{ end }}
+
+<!-- Robots -->
+<meta name="robots" content="index, follow">
+
+<!-- RSS -->
+{{ with .OutputFormats.Get "rss" }}
+<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
+{{ end }}
+
+<!-- Schema.org Structured Data -->
+{{ if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ if .Params.updated }}{{ dateFormat "2006-01-02" .Params.updated }}{{ else }}{{ .Date.Format "2006-01-02" }}{{ end }}",
+  "dateModified": "{{ if .Params.updated }}{{ dateFormat "2006-01-02" .Params.updated }}{{ else }}{{ .Date.Format "2006-01-02" }}{{ end }}",
+  {{ if .Params.cover_image }}"image": "{{ .Params.cover_image | absURL }}",{{ end }}
+  "author": {
+    "@type": "Person",
+    "name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}MELBZ Editorial{{ end }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "MELBZ",
+    "url": "https://melbz.com.au",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://melbz.com.au/images/melbz-logo.png"
+    }
+  }
+}
+</script>
+{{ end }}
+
+<!-- BreadcrumbList Schema -->
+{{ if not .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://melbz.com.au/"
+    }{{ if .Params.suburb }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Params.suburb | title }}",
+      "item": "https://melbz.com.au/{{ .Params.suburb }}/"
+    }{{ end }}{{ if .IsPage }},
+    {
+      "@type": "ListItem",
+      "position": {{ if .Params.suburb }}3{{ else }}2{{ end }},
+      "name": "{{ .Title }}"
+    }{{ end }}
+  ]
+}
+</script>
+{{ end }}

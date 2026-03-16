@@ -1,0 +1,47 @@
+<header class="site-header">
+    <div class="container">
+        <div class="header-content">
+            <a href="{{ "/" | relURL }}" class="site-logo">MELBZ</a>
+            
+            <nav class="main-nav" role="navigation" aria-label="Main navigation">
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+            
+            <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </div>
+</header>
+
+{{/* Determine current suburb from page context */}}
+{{ $currentSuburb := "" }}
+{{ if .Params.suburb }}{{ $currentSuburb = .Params.suburb }}{{ end }}
+{{ if and (not $currentSuburb) .IsSection }}{{ $currentSuburb = .Section }}{{ end }}
+
+<nav class="suburb-pills-bar" aria-label="Suburb navigation">
+    <div class="suburb-pills-scroll">
+        {{ $suburbs := slice
+            (dict "name" "Fitzroy"      "slug" "fitzroy")
+            (dict "name" "Brunswick"    "slug" "brunswick")
+            (dict "name" "Richmond"     "slug" "richmond")
+            (dict "name" "South Yarra"  "slug" "south-yarra")
+            (dict "name" "Carlton"      "slug" "carlton")
+            (dict "name" "Collingwood"  "slug" "collingwood")
+            (dict "name" "St Kilda"     "slug" "st-kilda")
+            (dict "name" "Prahran"      "slug" "prahran")
+            (dict "name" "Footscray"    "slug" "footscray")
+            (dict "name" "CBD"          "slug" "melbourne")
+        }}
+        {{ range $suburbs }}
+        <a href="/{{ .slug }}/" class="suburb-pill{{ if eq .slug $currentSuburb }} suburb-pill--active{{ end }}">{{ .name }}</a>
+        {{ end }}
+        <a href="/suburbs/" class="suburb-pill suburb-pill--all">All Suburbs →</a>
+    </div>
+</nav>

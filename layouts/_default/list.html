@@ -1,0 +1,73 @@
+{{/* List page layout - used for sections, taxonomies */}}
+{{ define "main" }}
+
+<div class="section">
+    <div class="container">
+        {{- partial "breadcrumbs.html" . -}}
+        
+        <!-- Page Header -->
+        <div class="hero" style="margin-bottom: 3rem; padding: 2rem 0;">
+            <h1>
+                {{ if .IsHome }}
+                    {{ .Site.Title }}
+                {{ else if eq .Kind "taxonomy" }}
+                    {{ .Title | title }}
+                {{ else if eq .Kind "term" }}
+                    {{ .Title | title }}
+                {{ else }}
+                    {{ .Title }}
+                {{ end }}
+            </h1>
+            
+            {{ if .Params.description }}
+                <p class="hero-subtitle">{{ .Params.description }}</p>
+            {{ else if eq .Kind "term" }}
+                {{ if eq .Data.Plural "suburbs" }}
+                    <p class="hero-subtitle">Everything we know about {{ .Title | title }} — restaurants, cafes, bars, and local intelligence.</p>
+                {{ else if eq .Data.Plural "verticals" }}
+                    <p class="hero-subtitle">{{ .Title | title }} guides across Melbourne's best suburbs.</p>
+                {{ end }}
+            {{ else }}
+                <p class="hero-subtitle">
+                    {{ with .Content }}{{ . }}{{ else }}Latest articles and insights.{{ end }}
+                </p>
+            {{ end }}
+        </div>
+        
+        <!-- Articles Grid -->
+        {{ $pages := .Pages }}
+        {{ if eq .Kind "home" }}
+            {{ $pages = .Site.RegularPages }}
+        {{ end }}
+        
+        {{ if $pages }}
+        <div class="article-grid">
+            {{ range $pages }}
+                {{- partial "article-card.html" . -}}
+            {{ end }}
+        </div>
+        {{ else }}
+        <div class="text-center" style="padding: 3rem 0;">
+            <h3>No articles found</h3>
+            <p class="text-muted">Check back soon for more local intelligence.</p>
+            <a href="/" class="cta-button">Back to Homepage</a>
+        </div>
+        {{ end }}
+        
+        <!-- Sidebar for taxonomy terms -->
+        {{ if eq .Kind "taxonomy" }}
+        <aside style="margin-top: 3rem; padding: 2rem; background: #f8f8f8; border-radius: 8px;">
+            <h3>Browse by {{ .Data.Plural | title }}</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
+                {{ range .Data.Terms.ByCount }}
+                <a href="{{ .Page.RelPermalink }}" style="background: var(--sage-muted); color: white; padding: 0.5rem 1rem; border-radius: 20px; text-decoration: none; font-size: 0.9rem;">
+                    {{ .Page.Title }} ({{ .Count }})
+                </a>
+                {{ end }}
+            </div>
+        </aside>
+        {{ end }}
+    </div>
+</div>
+
+{{ end }}

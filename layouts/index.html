@@ -1,0 +1,251 @@
+{{/* Homepage layout — MELBZ Energy Overhaul v2 */}}
+{{ define "main" }}
+
+<!-- Hero — Live Pulse -->
+<section class="hero-live">
+    <div class="container">
+        <div class="hero-pulse">🔴 LIVE</div>
+        <h1>Melbourne is happening right now.</h1>
+        <p class="hero-sub">47 new openings this month. 12 closing forever. 3 suburbs trending. Are you keeping up?</p>
+        <div class="hero-ctas">
+            <a href="/food/" class="btn-hot">What's hot this week →</a>
+            <a href="/suburbs/" class="btn-secondary">Explore suburbs →</a>
+        </div>
+    </div>
+</section>
+
+<!-- Trending Ticker -->
+<div class="ticker">
+    <div class="ticker-content">
+        <a href="/fitzroy/vibe-score/">🔥 Fitzroy Vibe Score: 94 — ON FIRE</a>
+        <span class="ticker-sep">|</span>
+        <a href="/carlton/new-openings-march-2026/">⚡ New: Garfield Pizzeria just opened in Carlton</a>
+        <span class="ticker-sep">|</span>
+        <a href="/carlton/new-openings-march-2026/">💀 RIP: Another Lygon St institution gone</a>
+        <span class="ticker-sep">|</span>
+        <a href="/vibe-score/">🗳️ Vote: Is South Yarra overrated? 67% say yes</a>
+        <span class="ticker-sep">|</span>
+        <a href="/confessions/">❤️‍🔥 Confession: "I pretend to like natural wine"</a>
+        <span class="ticker-sep">|</span>
+        <a href="/carlton/best-cafes/">☕ Carlton cafes guide just dropped — 18 tested</a>
+        <span class="ticker-sep">|</span>
+        <a href="/fitzroy/vibe-score/">🔥 Fitzroy Vibe Score: 94 — ON FIRE</a>
+        <span class="ticker-sep">|</span>
+        <a href="/carlton/new-openings-march-2026/">⚡ New: Garfield Pizzeria just opened in Carlton</a>
+        <span class="ticker-sep">|</span>
+        <a href="/carlton/new-openings-march-2026/">💀 RIP: Another Lygon St institution gone</a>
+        <span class="ticker-sep">|</span>
+        <a href="/vibe-score/">🗳️ Vote: Is South Yarra overrated? 67% say yes</a>
+        <span class="ticker-sep">|</span>
+        <a href="/confessions/">❤️‍🔥 Confession: "I pretend to like natural wine"</a>
+        <span class="ticker-sep">|</span>
+        <a href="/carlton/best-cafes/">☕ Carlton cafes guide just dropped — 18 tested</a>
+        <span class="ticker-sep">|</span>
+    </div>
+</div>
+
+<!-- Suburb Pills -->
+<div class="suburb-pills">
+    <div class="container">
+        <div class="pills-scroll">
+            {{ $pills := slice "fitzroy" "carlton" "st-kilda" "collingwood" "brunswick" "south-yarra" "richmond" "prahran" "northcote" "footscray" }}
+            {{ range $pills }}
+            <a href="/{{ . }}/" class="pill">{{ . | title }}</a>
+            {{ end }}
+            <a href="/suburbs/" class="pill pill--all">All Suburbs →</a>
+        </div>
+    </div>
+</div>
+
+<!-- Vibe Score Leaderboard -->
+<section class="section vibe-scores-section">
+    <div class="container">
+        <div class="vibe-scores-header">
+            <h2 class="section-title">This Week's Vibe Scores</h2>
+            <p class="section-sub">Updated weekly. Powered by openings, events, search buzz, and street-level data.</p>
+        </div>
+        <div class="vibe-leaderboard">
+            {{ $scores := slice
+                (dict "rank" 1 "suburb" "Fitzroy" "slug" "fitzroy" "score" 94 "delta" "+3" "badge" "🔥" "label" "ON FIRE" "class" "fire")
+                (dict "rank" 2 "suburb" "Collingwood" "slug" "collingwood" "score" 88 "delta" "+5" "badge" "⚡" "label" "BUZZING" "class" "buzzing")
+                (dict "rank" 3 "suburb" "Brunswick" "slug" "brunswick" "score" 85 "delta" "-1" "badge" "⚡" "label" "BUZZING" "class" "buzzing")
+                (dict "rank" 4 "suburb" "Carlton" "slug" "carlton" "score" 82 "delta" "+2" "badge" "⚡" "label" "BUZZING" "class" "buzzing")
+                (dict "rank" 5 "suburb" "South Yarra" "slug" "south-yarra" "score" 79 "delta" "-2" "badge" "✦" "label" "THRIVING" "class" "thriving")
+            }}
+            {{ range $scores }}
+            <a href="/{{ .slug }}/" class="vibe-row{{ if eq .rank 1 }} vibe-row--top hot{{ end }}">
+                <div class="vibe-rank">#{{ .rank }}</div>
+                <div class="vibe-suburb">{{ .suburb }}</div>
+                <div class="vibe-delta {{ if hasPrefix .delta "+" }}delta-up{{ else }}delta-down{{ end }}">{{ .delta }}</div>
+                <div class="vibe-score-bar">
+                    <div class="vibe-score-fill vibe-score-fill--{{ .class }}" style="width:{{ .score }}%"></div>
+                </div>
+                <div class="vibe-score-num">{{ .score }}</div>
+                <div class="vibe-badge vibe-badge--{{ .class }}">{{ .badge }} {{ .label }}</div>
+            </a>
+            {{ end }}
+        </div>
+        <div class="text-center" style="margin-top:1.5rem">
+            <a href="/vibe-score/" class="btn-secondary">See all suburb scores →</a>
+        </div>
+    </div>
+</section>
+
+<!-- The Debrief — Engagement Section -->
+<section class="section debrief-section">
+    <div class="container">
+        <h2 class="section-title">The Debrief 🫣</h2>
+        <p class="section-sub">Melbourne's most unhinged confessions, dating disasters, and hot takes.</p>
+        <div class="debrief-grid">
+            <a href="/confessions/" class="debrief-card confession">
+                <span class="debrief-tag">CONFESSION</span>
+                <p class="debrief-text">"I told my date I live in Fitzroy but I actually live in Reservoir"</p>
+                <span class="debrief-reactions">😂 2.3K</span>
+            </a>
+            <a href="/aitma/" class="debrief-card aitma">
+                <span class="debrief-tag">AM I THE MELBOURNE A-HOLE?</span>
+                <p class="debrief-text">I refused to split the bill at a restaurant that charged $6 for bread</p>
+                <span class="debrief-reactions">🗳️ Vote now</span>
+            </a>
+            <a href="/confessions/" class="debrief-card dating">
+                <span class="debrief-tag" style="background:#FF4D8D">DATING DIARY</span>
+                <p class="debrief-text">He said "I don't really drink coffee" on the first date. In Melbourne.</p>
+                <span class="debrief-reactions">💀 1.8K</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Latest Intelligence — The Feed -->
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">Latest Intelligence</h2>
+        <p class="section-sub">Don't miss what's happening right now.</p>
+        
+        <div class="article-grid">
+            {{ range first 6 .Site.RegularPages }}
+                {{- partial "article-card.html" . -}}
+            {{ end }}
+        </div>
+        
+        <div class="text-center" style="margin-top:2rem">
+            <a href="/suburbs/" class="btn-hot">See what's happening now →</a>
+        </div>
+    </div>
+</section>
+
+<!-- Newsletter — FOMO Edition -->
+<section class="section">
+    <div class="container">
+        <div class="newsletter-block">
+            <h3 class="newsletter-title">Join 2,847 Melburnians who know what's happening before everyone else.</h3>
+            <p class="newsletter-sub">Free Monday brief. The openings, closures, suburb drama, and insider tips you need to start the week.</p>
+            <form class="newsletter-form">
+                <input type="email" placeholder="Your email" required class="newsletter-input">
+                <button type="submit" class="newsletter-btn">Get the brief →</button>
+            </form>
+            <p class="newsletter-proof">No spam. Unsubscribe anytime. Seriously.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Explore Suburbs -->
+<section class="section section--grey">
+    <div class="container">
+        <h2 class="section-title">Explore Suburbs</h2>
+        <p class="section-sub">From inner-city laneways to bayside villages — every suburb has a story.</p>
+        
+        <div class="article-grid">
+            {{ $suburbs := slice "fitzroy" "carlton" "st-kilda" "richmond" "south-yarra" "brunswick" "collingwood" "prahran" "northcote" "footscray" }}
+            {{ range $suburbs }}
+                {{ $suburbanPages := where $.Site.RegularPages ".Params.suburb" . }}
+                {{ if $suburbanPages }}
+                    <div class="suburb-tile article-card">
+                        <div class="article-card-content">
+                            <h3><a href="/{{ . }}/">{{ . | title }}</a></h3>
+                            <p class="text-muted">{{ len $suburbanPages }} {{ if eq (len $suburbanPages) 1 }}article{{ else }}articles{{ end }}</p>
+                            <p class="article-excerpt">
+                                {{ if eq . "fitzroy" }}Inner north's creative heart. Art, eats, attitude.{{ end }}
+                                {{ if eq . "carlton" }}Italian soul meets uni culture. Coffee is religion.{{ end }}
+                                {{ if eq . "st-kilda" }}Bayside bohemia. Sunsets, bars, and questionable decisions.{{ end }}
+                                {{ if eq . "richmond" }}Phở capital. Bridge Road shopping. Footy on weekends.{{ end }}
+                                {{ if eq . "south-yarra" }}Where your wallet goes to die. Beautifully.{{ end }}
+                                {{ if eq . "brunswick" }}Sydney Road. Live music. $5 falafel at 2am.{{ end }}
+                                {{ if eq . "collingwood" }}Industrial cool. Craft beer. Warehouse everything.{{ end }}
+                                {{ if eq . "prahran" }}Market mornings. Chapel Street nights.{{ end }}
+                                {{ if eq . "northcote" }}The village energy Melbourne forgot to gentrify.{{ end }}
+                                {{ if eq . "footscray" }}Melbourne's most underrated food suburb. Fight us.{{ end }}
+                            </p>
+                        </div>
+                    </div>
+                {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Ad Slot -->
+<section class="section">
+    <div class="container">
+        <div class="ad-slot">
+            <div class="ad-label">Advertisement</div>
+            <div id="ad-home-1" class="ad-placeholder"></div>
+        </div>
+    </div>
+</section>
+
+<!-- Vertical Sections -->
+<section class="section">
+    <div class="container">
+        <div class="article-grid">
+            <div class="vertical-section article-card">
+                <div class="article-card-content">
+                    <h3>🍴 The Feed</h3>
+                    <p class="text-muted">Food & Drink</p>
+                    <ul class="vertical-list">
+                        {{ range first 3 (where .Site.RegularPages ".Params.vertical" "food") }}
+                        <li><a href="{{ .RelPermalink }}">{{ .Title | truncate 50 }}</a></li>
+                        {{ end }}
+                    </ul>
+                    <a href="/food/" class="vertical-link">Don't miss the latest →</a>
+                </div>
+            </div>
+            
+            <div class="vertical-section article-card">
+                <div class="article-card-content">
+                    <h3>📊 The Numbers</h3>
+                    <p class="text-muted">Property & Data</p>
+                    <p class="article-excerpt">Living in this suburb? <a href="https://compareblitz.com.au">Compare energy plans, internet, and insurance.</a></p>
+                    <a href="/property/" class="vertical-link">View property insights →</a>
+                </div>
+            </div>
+            
+            <div class="vertical-section article-card">
+                <div class="article-card-content">
+                    <h3>🌙 The Agenda</h3>
+                    <p class="text-muted">Nightlife & Events</p>
+                    <ul class="vertical-list">
+                        {{ range first 3 (where .Site.RegularPages ".Params.vertical" "nightlife") }}
+                        <li><a href="{{ .RelPermalink }}">{{ .Title | truncate 50 }}</a></li>
+                        {{ end }}
+                    </ul>
+                    <a href="/nightlife/" class="vertical-link">See what's on tonight →</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer FOMO Widget -->
+<section class="section section--dark">
+    <div class="container" style="text-align:center;padding:2rem 0">
+        <p style="font-size:1.1rem;color:rgba(255,255,255,0.7)">New on MELBZ this week:</p>
+        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:1rem;margin-top:1rem">
+            {{ range first 3 .Site.RegularPages }}
+            <a href="{{ .RelPermalink }}" style="color:#E85D3A;font-weight:600;font-size:0.9rem">{{ .Title | truncate 40 }} →</a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ end }}

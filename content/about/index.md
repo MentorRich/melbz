@@ -22,7 +22,7 @@ Daniel founded MELBZ to give Melbourne the suburb-level coverage that no one els
 
 Daniel's background is in digital operations and technology. He runs MELBZ as the flagship publication of Axior Labs, a digital media company focused on content, community, and commerce at scale.
 
-**Contact:** [hq@melbz.com.au](mailto:hq@melbz.com.au)
+**Contact:** [hq@melbz.com.au](mailto:hq@melbz.com.au
 
 ---
 
@@ -37,7 +37,7 @@ Covers Melbourne's dining scene from $12 banh mi to $200 degustations. Former fo
 Expert insights into Melbourne's evolving property landscape, from historical terraces to new developments. Covers rent prices, cost of living, and suburb comparisons.
 
 **Lina Nguyen** — Nightlife & Culture Editor
-Covers Melbourne's bar and nightlife scene with a focus on local favourites and local favourites. Known for discovering venues before they become trendy.
+Covers Melbourne's bar and nightlife scene with a focus on local favourites. Known for discovering venues before they become trendy.
 
 **Nina Okafor** — Wellness & Things To Do Editor
 Covers the intersection of physical and mental health, highlighting the city's top wellness spots, activities, and community events.
@@ -55,7 +55,7 @@ Our team of 20+ local experts covers specific suburbs and specialties including:
 - Property and rent market analysis
 - Transport and accessibility guides
 - Family-friendly activities
-- under the radars and local secrets
+- local secrets
 
 Each MELBZ article is researched, written, and fact-checked by someone who knows Melbourne firsthand.
 
@@ -67,7 +67,7 @@ MELBZ is published by **Axior Labs (ABN 91 949 773 596)**, a digital media compa
 
 Axior Labs owns and operates a portfolio of digital ventures focused on content, community, and commerce. MELBZ represents our flagship publication — hyperlocal content at scale.
 
-For business enquiries: [hq@melbz.com.au](mailto:hq@melbz.com.au)
+For business enquiries: [hq@melbz.com.au](mailto:hq@melbz.com.au
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Omar El-Sayed"
-cover_image: "https://picsum.photos/seed/e528186b/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Street Food & Markets Writer"
 bio: "Omar explores the vibrant street-level food scene, highlighting markets, food trucks, and authentic takeaway gems."
 avatar: "/images/authors/omar.jpg"

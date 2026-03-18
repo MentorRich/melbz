@@ -1,6 +1,6 @@
 ---
 title: "Tariq Hussain"
-cover_image: "https://picsum.photos/seed/24bbfd53/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Night Economy & Music Writer"
 bio: "Tariq dives into the music scene, from the city's best DJs to the evolution of Melbourne's night-time economy."
 avatar: "/images/authors/tariq.jpg"

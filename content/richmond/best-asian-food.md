@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Richmond 2026: Victoria Street & Beyond"
-cover_image: "https://picsum.photos/seed/a1350c2a/800/600"
+cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,asian,vietnamese?lock=2257"
 date: 2026-03-16
 author: yuki
 tags: ["richmond", "asian", "food"]

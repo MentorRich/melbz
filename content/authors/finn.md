@@ -1,6 +1,6 @@
 ---
 title: "Finn O'Connor"
-cover_image: "https://picsum.photos/seed/d29b6d88/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Classes & Workshops Writer"
 bio: "Finn explores the city's creative classes and maker spaces, from pottery studios to high-end cooking workshops."
 avatar: "/images/authors/finn.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Sage Riley"
-cover_image: "https://picsum.photos/seed/a689e306/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Deals Editor"
 bio: "Sage is a master at finding value in the city, from thrift store gems to the best local discounts."
 avatar: "/images/authors/sage.jpg"

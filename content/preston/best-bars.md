@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Preston — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/b9e6f451/800/600"
+cover_image: "https://loremflickr.com/800/600/Preston,melbourne,bar,nightlife?lock=766"
 suburb: "preston"
 vertical: "lifestyle"
 author: "jess"

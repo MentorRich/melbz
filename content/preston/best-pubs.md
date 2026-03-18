@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Preston — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/7b114f34/800/600"
+cover_image: "https://loremflickr.com/800/600/Preston,melbourne,pub,beer?lock=5312"
 suburb: "preston"
 vertical: "lifestyle"
 author: "kai"

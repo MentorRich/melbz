@@ -1,6 +1,6 @@
 ---
 title: "Things to Do in Southbank 2026"
-cover_image: "https://picsum.photos/seed/195fd468/800/600"
+cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,tourism,attractions?lock=3494"
 date: 2026-03-18
 author: nina
 tags: ["southbank", "things-to-do"]

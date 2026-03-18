@@ -1,6 +1,6 @@
 ---
 title: "St Kilda Honest Guide 2026: Tourist Trap or Still Worth It?"
-cover_image: "https://picsum.photos/seed/32e7841f/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,street,city?lock=652"
 date: 2026-03-16
 author: jack
 tags: ["st-kilda", "honest-guide", "lifestyle"]

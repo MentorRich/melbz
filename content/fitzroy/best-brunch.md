@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Fitzroy — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/9a234445/800/600"
+cover_image: "https://loremflickr.com/800/600/Fitzroy,melbourne,brunch,breakfast?lock=2497"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "dani"

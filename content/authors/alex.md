@@ -1,6 +1,6 @@
 ---
 title: "Alex Petrova"
-cover_image: "https://picsum.photos/seed/227535f2/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Cost of Living Analyst"
 bio: "Alex breaks down the numbers that matter to your wallet, from grocery and utility comparison to the true cost of living in Melbourne's suburbs."
 avatar: "/images/authors/alex.jpg"

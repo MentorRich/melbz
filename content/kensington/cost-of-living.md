@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Kensington 2026: The Real Numbers"
-cover_image: "https://picsum.photos/seed/69825ab6/800/600"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,city,urban?lock=6734"
 date: 2026-03-16
 author: marcus
 tags: ["kensington", "cost-of-living", "property"]

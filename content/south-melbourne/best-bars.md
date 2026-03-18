@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in South Melbourne 2026: Drinks Guide"
-cover_image: "https://picsum.photos/seed/6ff32a5c/800/600"
+cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,bar,nightlife?lock=9489"
 date: 2026-03-16
 author: lina
 tags: ["south-melbourne", "bars", "nightlife"]

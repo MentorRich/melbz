@@ -1,6 +1,6 @@
 ---
 title: "Best Cocktails in St Kilda 2026: Where to Drink"
-cover_image: "https://picsum.photos/seed/a4b23d73/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,cocktails,bar?lock=6525"
 date: 2026-03-16
 author: jess
 tags: ["st-kilda", "cocktails", "bars"]

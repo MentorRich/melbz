@@ -1,6 +1,6 @@
 ---
 title: "10 Best Bars in Carlton You Need to Try in 2026"
-cover_image: "https://picsum.photos/seed/d0d4ef3d/800/600"
+cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,bar,nightlife?lock=4296"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "jess"

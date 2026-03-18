@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Abbotsford 2026: The Real Numbers"
-cover_image: "https://picsum.photos/seed/28e12a69/800/600"
+cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,city,urban?lock=3008"
 date: 2026-03-16
 author: marcus
 tags: ["abbotsford", "cost-of-living", "property"]

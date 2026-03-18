@@ -1,6 +1,6 @@
 ---
 title: "Dylan Kim"
-cover_image: "https://picsum.photos/seed/87cb1de8/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Entertainment & Gaming Writer"
 bio: "Dylan is our expert on Melbourne's high-energy entertainment, from late-night arcades to the city's most challenging escape rooms."
 avatar: "/images/authors/dylan.jpg"

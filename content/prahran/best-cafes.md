@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes & Brunch in Prahran 2026"
-cover_image: "https://picsum.photos/seed/c4e7fc8f/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,cafe,cappuccino?lock=9525"
 date: 2026-03-18
 author: priya
 description: "Where to find the best coffee and brunch in Prahran. We tested the top cafes for quality, value, and that perfect weekend morning vibe."

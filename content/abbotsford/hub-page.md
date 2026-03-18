@@ -1,6 +1,6 @@
 ---
 title: "Abbotsford Melbourne Suburb Guide 2026: The Complete Picture"
-cover_image: "https://picsum.photos/seed/92a51a4b/800/600"
+cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,city,suburb?lock=1722"
 date: 2026-03-16
 author: jack
 tags: ["abbotsford", "suburb-guide"]

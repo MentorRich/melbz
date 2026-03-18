@@ -1,6 +1,6 @@
 ---
 title: "Ascot Vale Honest Guide 2026: Maribyrnong Road Reality"
-cover_image: "https://picsum.photos/seed/d03b6589/800/600"
+cover_image: "https://loremflickr.com/800/600/Ascot Vale,melbourne,street,city?lock=7814"
 date: 2026-03-16
 author: jack
 tags: ["ascot-vale", "honest-guide", "lifestyle"]

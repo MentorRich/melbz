@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats Under $20 in Prahran 2026"
-cover_image: "https://picsum.photos/seed/238ac21f/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,cheap,street-food?lock=2220"
 date: 2026-03-18
 author: priya
 description: "Eat well without breaking the bank. The best cheap eats in Prahran under $20, from Asian eateries to pub counter meals."

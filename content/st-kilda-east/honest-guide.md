@@ -1,6 +1,6 @@
 ---
 title: "St Kilda East Honest Guide 2026: Between the Beach & the Highway"
-cover_image: "https://picsum.photos/seed/7de1b26c/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda East,melbourne,street,city?lock=1930"
 date: 2026-03-16
 author: jack
 tags: ["st-kilda-east", "honest-guide", "lifestyle"]

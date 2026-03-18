@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Prahran — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/8793e66f/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,coffee,espresso?lock=7147"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "dani"

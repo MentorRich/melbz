@@ -1,6 +1,6 @@
 ---
 title: "Your Fitzroy Weekend: The Complete Guide"
-cover_image: "https://picsum.photos/seed/bb201687/800/600"
+cover_image: "https://loremflickr.com/800/600/Fitzroy,melbourne,weekend,activities?lock=2305"
 date: 2026-03-16
 author: maya
 tags: ["fitzroy", "weekend", "things-to-do"]

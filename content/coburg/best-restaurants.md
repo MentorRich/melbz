@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Coburg 2026: Where to Eat on Sydney Road"
-cover_image: "https://picsum.photos/seed/c7117f26/800/600"
+cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,restaurant,dining?lock=6989"
 date: 2026-03-16
 author: jules
 tags: ["coburg", "restaurants", "food"]

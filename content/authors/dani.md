@@ -1,6 +1,6 @@
 ---
 title: "Dani Rossi"
-cover_image: "https://picsum.photos/seed/e997c332/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Coffee & Brunch Writer"
 bio: "Dani is our caffeine expert, spending her days hunting for the perfect light-roast and Melbourne's fluffiest pancakes."
 avatar: "/images/authors/dani.jpg"

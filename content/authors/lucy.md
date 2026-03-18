@@ -1,6 +1,6 @@
 ---
 title: "Lucy Tran"
-cover_image: "https://picsum.photos/seed/06dc2e43/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Beauty & Self-Care Writer"
 bio: "Lucy tracks the best in Melbourne self-care, from boutique skin clinics to the city's top aesthetics specialists."
 avatar: "/images/authors/lucy.jpg"

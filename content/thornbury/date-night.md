@@ -1,6 +1,6 @@
 ---
 title: "9 Best Date Night Spots in Thornbury for 2026"
-cover_image: "https://picsum.photos/seed/bf4876e2/800/600"
+cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,romantic,dinner?lock=3947"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "grace"

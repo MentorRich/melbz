@@ -1,9 +1,9 @@
 ---
 title: "Untitled"
-cover_image: "https://picsum.photos/seed/f01fb7b6/800/600"
+cover_image: "https://loremflickr.com/800/600/Carlton North,melbourne,nightlife,bar?lock=2979"
 date: 2026-03-18
 author: lina
-description: "cover_image: "https://picsum.photos/seed/f01fb7b6/800/600"
+description: "cover_image: "https://loremflickr.com/800/600/Carlton North,melbourne,nightlife,bar?lock=2979"
  Carlton North Nightlife Guide
 
 Upd..."
@@ -11,7 +11,7 @@ tags: ["carlton-north"]
 categories: ["nightlife"]
 ---
 
-cover_image: "https://picsum.photos/seed/f01fb7b6/800/600"
+cover_image: "https://loremflickr.com/800/600/Carlton North,melbourne,nightlife,bar?lock=2979"
 # Carlton North Nightlife Guide
 
 Updated 17 March 2025 | MELBZ reporting

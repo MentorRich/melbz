@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Collingwood — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/700c238b/800/600"
+cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,cafe,cappuccino?lock=7514"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "dani"

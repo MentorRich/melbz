@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Windsor — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/fdcc55a9/800/600"
+cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,tourism,attractions?lock=948"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "maya"

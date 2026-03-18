@@ -1,6 +1,6 @@
 ---
 title: "Josh Brennan"
-cover_image: "https://picsum.photos/seed/5e5115da/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Sports & Recreation Writer"
 bio: "Josh covers the sporting soul of Melbourne, from weekend oval vibes to the best local sports clubs."
 avatar: "/images/authors/josh.jpg"

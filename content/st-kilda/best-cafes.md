@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in St Kilda 2026: Acland Street & Beachside"
-cover_image: "https://picsum.photos/seed/66c19cd4/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,cafe,cappuccino?lock=6758"
 date: 2026-03-16
 author: eli
 tags: ["st-kilda", "cafes", "food"]

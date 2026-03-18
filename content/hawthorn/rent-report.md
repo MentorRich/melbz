@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Hawthorn 2026: Glenferrie Road & Beyond"
-cover_image: "https://picsum.photos/seed/d49e1812/800/600"
+cover_image: "https://loremflickr.com/800/600/Hawthorn,melbourne,city,australia?lock=7929"
 date: 2026-03-16
 author: marcus
 tags: ["hawthorn", "rent", "property"]

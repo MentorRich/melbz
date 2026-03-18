@@ -1,6 +1,6 @@
 ---
 title: "Prahran Food Crawl 2026: Market to Chapel Street"
-cover_image: "https://picsum.photos/seed/75d3ea41/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,food,tour?lock=2293"
 date: 2026-03-16
 author: tyler
 tags: ["prahran", "food-crawl", "food"]

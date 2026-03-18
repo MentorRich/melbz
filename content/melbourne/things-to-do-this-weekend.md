@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Melbourne — March 2026 Guide"
-cover_image: "https://picsum.photos/seed/73edb98e/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,tourism,attractions?lock=5656"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "maya"

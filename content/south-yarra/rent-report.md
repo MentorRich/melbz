@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in South Yarra 2026: Chapel Street Premium"
-cover_image: "https://picsum.photos/seed/d6cfe4a4/800/600"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,city,australia?lock=7485"
 date: 2026-03-16
 author: marcus
 tags: ["south-yarra", "rent", "property"]

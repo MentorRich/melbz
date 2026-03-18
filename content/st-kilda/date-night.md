@@ -1,6 +1,6 @@
 ---
 title: "Date Night in St Kilda — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/a4e181b0/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,romantic,dinner?lock=5125"
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "grace"

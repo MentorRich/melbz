@@ -1,6 +1,6 @@
 ---
 title: "Ines Morales"
-cover_image: "https://picsum.photos/seed/af33cb7d/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Multicultural Melbourne Writer"
 bio: "Ines spotlights the diverse cultural communities that make Melbourne world-class, from festivals to heritage hubs."
 avatar: "/images/authors/ines.jpg"

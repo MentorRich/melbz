@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Carlton — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/5587c157/800/600"
+cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,new,restaurant?lock=6658"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "oscar"

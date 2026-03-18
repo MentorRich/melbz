@@ -1,6 +1,6 @@
 ---
 title: "Melbourne CBD Honest Guide 2026: What Nobody Tells You"
-cover_image: "https://picsum.photos/seed/47875994/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,street,city?lock=5336"
 date: 2026-03-16
 author: tyler
 tags: ["melbourne-cbd", "honest-guide", "lifestyle"]

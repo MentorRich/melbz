@@ -1,6 +1,6 @@
 ---
 title: "Amara Diallo"
-cover_image: "https://picsum.photos/seed/0c996fe4/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Community & Local Life Writer"
 bio: "Amara focuses on the heart of Melbourne's suburbs, spotlighting local community groups, markets, and essential neighborhood services."
 avatar: "/images/authors/amara.jpg"

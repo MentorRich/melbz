@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Cremorne — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/96774db8/800/600"
+cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,new,restaurant?lock=9389"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "oscar"

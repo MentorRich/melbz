@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Hawthorn 2026: Glenferrie Road Nights"
-cover_image: "https://picsum.photos/seed/0b2f50da/800/600"
+cover_image: "https://loremflickr.com/800/600/Hawthorn,melbourne,bar,nightlife?lock=626"
 date: 2026-03-16
 author: lina
 tags: ["hawthorn", "bars", "nightlife"]

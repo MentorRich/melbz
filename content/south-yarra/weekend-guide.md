@@ -1,6 +1,6 @@
 ---
 title: "South Yarra Weekend Guide 2026: Chapel Street & Beyond"
-cover_image: "https://picsum.photos/seed/2b8c2bb8/800/600"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,weekend,activities?lock=8681"
 date: 2026-03-16
 author: isabella
 tags: ["south-yarra", "weekend", "lifestyle"]

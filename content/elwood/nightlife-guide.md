@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Elwood — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/d4d46e58/800/600"
+cover_image: "https://loremflickr.com/800/600/Elwood,melbourne,nightlife,bar?lock=3159"
 suburb: "elwood"
 vertical: "lifestyle"
 author: "ethan"

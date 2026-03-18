@@ -1,6 +1,6 @@
 ---
 title: "Ethan Cross"
-cover_image: "https://picsum.photos/seed/4f0e96a5/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Late Night & After Dark Writer"
 bio: "Ethan lives for 1am Melbz, covering the city's subculture, night economy, and best after-hours spots."
 avatar: "/images/authors/ethan.jpg"

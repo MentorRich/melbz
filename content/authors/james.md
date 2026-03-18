@@ -1,6 +1,6 @@
 ---
 title: "James Whitfield"
-cover_image: "https://picsum.photos/seed/1f7c2f4e/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Real Estate Analyst"
 bio: "James analyzes Melbourne's property market with a focus on house prices, auction results, and identifying the city's next investment hotspots."
 avatar: "/images/authors/james.jpg"

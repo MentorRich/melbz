@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Brunswick — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/f2c341c6/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,pub,beer?lock=8784"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "kai"

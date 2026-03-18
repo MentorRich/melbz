@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Windsor — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/300c2903/800/600"
+cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,cheap,street-food?lock=2970"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "omar"

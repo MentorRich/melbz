@@ -1,6 +1,6 @@
 ---
 title: "Coburg Honest Guide 2026: Sydney Road & Real Opinions"
-cover_image: "https://picsum.photos/seed/96278565/800/600"
+cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,street,city?lock=4163"
 date: 2026-03-16
 author: jack
 tags: ["coburg", "honest-guide", "lifestyle"]

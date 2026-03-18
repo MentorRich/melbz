@@ -1,6 +1,6 @@
 ---
 title: "Hidden Gems & Suburb Secrets in Prahran"
-cover_image: "https://picsum.photos/seed/dd81823b/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,hidden,secret?lock=5643"
 date: 2026-03-18
 author: lina
 description: "The best-kept secrets in Prahran. Local favourites and hidden spots that tourists never find."

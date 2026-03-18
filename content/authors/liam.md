@@ -1,6 +1,6 @@
 ---
 title: "Liam Murphy"
-cover_image: "https://picsum.photos/seed/06ba6703/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Pizza & Italian Writer"
 bio: "Liam is dedicated to the art of the perfect crust and the heritage of Italian dining across Melbourne's suburbs."
 avatar: "/images/authors/liam.jpg"

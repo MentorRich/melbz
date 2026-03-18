@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Kensington 2026: What You'll Pay"
-cover_image: "https://picsum.photos/seed/65abd5d9/800/600"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,city,australia?lock=7148"
 date: 2026-03-16
 author: marcus
 tags: ["kensington", "rent", "property"]

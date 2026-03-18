@@ -1,6 +1,6 @@
 ---
 title: "Transport Guide for Southbank"
-cover_image: "https://picsum.photos/seed/877c4016/800/600"
+cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,tram,station?lock=4787"
 date: 2026-03-18
 author: marcus
 tags: ["southbank", "transport-guide"]
@@ -11,6 +11,20 @@ description: "Updated 18 March 2026 | Property Editor
 
 Southbank's transport network is a model of urban connectivity, perfectly complement..."
 ---
+
+### Getting Around Southbank
+
+Southbank's transport network makes it one of Melbourne's most accessible suburbs. Whether you're commuting to work, exploring the city, or heading out for leisure, getting around is straightforward.
+
+**Train services** connect Southbank to Melbourne's CBD and outer suburbs. Peak services run frequently, with journey times to Flinders Street typically under 30 minutes.
+
+**Tram routes** serve the main commercial corridors, providing convenient access to shopping districts, entertainment venues, and neighbouring suburbs.
+
+**Bus services** fill gaps in the network, reaching residential areas not covered by train or tram. Many bus routes connect to major train stations for seamless city travel.
+
+**Cycling** is popular in Southbank, with dedicated bike lanes and relatively flat terrain making two-wheeled transport practical. Several bike storage facilities are available near train stations.
+
+**Driving** in Southbank requires attention to parking restrictions. Permit zones operate in residential areas during business hours, with timed parking on main streets.
 *Updated 18 March 2026 | Property Editor*
 
 # Transport Guide for Southbank

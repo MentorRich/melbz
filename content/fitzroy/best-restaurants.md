@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Fitzroy — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/f63a7558/800/600"
+cover_image: "https://loremflickr.com/800/600/Fitzroy,melbourne,restaurant,dining?lock=4337"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "jules"

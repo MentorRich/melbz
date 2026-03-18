@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in South Melbourne 2026: A Local's Picks"
-cover_image: "https://picsum.photos/seed/430fadf6/800/600"
+cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,restaurant,dining?lock=4813"
 date: 2026-03-16
 author: jules
 tags: ["south-melbourne", "restaurants", "food"]

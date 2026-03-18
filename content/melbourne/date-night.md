@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Melbourne — Where to Actually Take Someone in 2026"
-cover_image: "https://picsum.photos/seed/eca2cc4f/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,romantic,dinner?lock=8714"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "grace"

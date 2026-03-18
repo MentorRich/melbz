@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Carlton Under $20 — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/16bc254a/800/600"
+cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,cheap,street-food?lock=4341"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "omar"

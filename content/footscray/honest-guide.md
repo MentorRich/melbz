@@ -1,6 +1,6 @@
 ---
 title: "Footscray Honest Guide 2026: The Real West Side"
-cover_image: "https://picsum.photos/seed/617f2869/800/600"
+cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,street,city?lock=2625"
 date: 2026-03-16
 author: jack
 tags: ["footscray", "honest-guide", "lifestyle"]

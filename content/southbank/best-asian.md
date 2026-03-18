@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Southbank: From Pho to Ramen"
-cover_image: "https://picsum.photos/seed/a3da8ba8/800/600"
+cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,asian,vietnamese?lock=9240"
 date: 2026-03-18
 author: nina
 tags: ["southbank", "best-asian"]

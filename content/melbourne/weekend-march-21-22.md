@@ -1,6 +1,6 @@
 ---
 title: "Melbourne This Weekend March 21-22 2026: Everything Happening"
-cover_image: "https://picsum.photos/seed/d8e63677/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,weekend,activities?lock=3516"
 date: 2026-03-16
 author: isabella
 tags: ["melbourne", "weekend", "events"]

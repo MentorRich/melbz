@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in St Kilda East 2026: The Real Numbers"
-cover_image: "https://picsum.photos/seed/e2b54f1b/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda East,melbourne,city,urban?lock=9177"
 date: 2026-03-16
 author: marcus
 tags: ["st-kilda-east", "cost-of-living", "property"]

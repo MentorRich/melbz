@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Melbourne — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/cd3382c8/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,cafe,cappuccino?lock=2838"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "dani"

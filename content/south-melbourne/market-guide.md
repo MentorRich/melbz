@@ -1,6 +1,6 @@
 ---
 title: "South Melbourne Market Honest Guide 2026: Worth the Hype?"
-cover_image: "https://picsum.photos/seed/390db6b1/800/600"
+cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,market,food?lock=4911"
 date: 2026-03-16
 author: tyler
 tags: ["south-melbourne", "market", "lifestyle"]

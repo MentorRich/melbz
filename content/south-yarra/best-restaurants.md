@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in South Yarra 2026"
-cover_image: "https://picsum.photos/seed/ee2e08ff/800/600"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,restaurant,dining?lock=9362"
 date: 2026-03-18
 author: priya
 description: "The definitive guide to the best restaurants in South Yarra. From fine dining to casual eats, we review the top venues with addresses, prices, and insider tips."

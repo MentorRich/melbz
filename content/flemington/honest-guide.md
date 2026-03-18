@@ -1,6 +1,6 @@
 ---
 title: "Flemington Honest Guide 2026: Racecourse Road & Newmarket"
-cover_image: "https://picsum.photos/seed/84750ca5/800/600"
+cover_image: "https://loremflickr.com/800/600/Flemington,melbourne,street,city?lock=6646"
 date: 2026-03-16
 author: jack
 tags: ["flemington", "honest-guide", "lifestyle"]

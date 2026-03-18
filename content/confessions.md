@@ -1,5 +1,5 @@
 ---
-cover_image: "https://picsum.photos/seed/11ced576/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,city,australia?lock=9955"
 title: "MELBZ Confessions — Anonymous & Named"
 date: 2026-03-17T08:30:00+10:00
 author: ""

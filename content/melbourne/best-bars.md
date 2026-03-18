@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Melbourne — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/1418ed79/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,bar,nightlife?lock=1358"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "jess"

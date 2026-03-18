@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Kensington 2026: Local Pubs & Hidden Watering Holes"
-cover_image: "https://picsum.photos/seed/911b8295/800/600"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,bar,nightlife?lock=3028"
 date: 2026-03-16
 author: lina
 tags: ["kensington", "bars", "nightlife"]

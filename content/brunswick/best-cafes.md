@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Brunswick — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/7cb40102/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,cafe,cappuccino?lock=8245"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "dani"

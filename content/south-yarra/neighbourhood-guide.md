@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide — South Yarra, Melbourne 2026"
-cover_image: "https://picsum.photos/seed/782c33bc/800/600"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,neighbourhood,street?lock=3244"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "marcusl"

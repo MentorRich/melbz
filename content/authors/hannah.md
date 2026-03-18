@@ -1,6 +1,6 @@
 ---
 title: "Hannah Levy"
-cover_image: "https://picsum.photos/seed/8afae2bc/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Photography & Views Writer"
 bio: "Hannah captures the visual soul of the city, guiding readers to the best vantage points and photography-worthy hidden gems."
 avatar: "/images/authors/hannah.jpg"

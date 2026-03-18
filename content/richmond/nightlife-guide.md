@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Richmond — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/e0b0ea16/800/600"
+cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,nightlife,bar?lock=9743"
 suburb: "richmond"
 vertical: "lifestyle"
 author: "ethan"

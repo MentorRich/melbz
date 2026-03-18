@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Coburg 2026: What You'll Pay"
-cover_image: "https://picsum.photos/seed/a3208209/800/600"
+cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,city,australia?lock=2163"
 date: 2026-03-16
 author: marcus
 tags: ["coburg", "rent", "property"]

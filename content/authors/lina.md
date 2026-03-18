@@ -1,6 +1,6 @@
 ---
 title: "Lina Nguyen"
-cover_image: "https://picsum.photos/seed/3d71b061/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Nightlife Editor"
 bio: "Lina is our eyes and ears on the ground after dark, covering the best bars, clubs, and late-night eats."
 avatar: "/images/authors/lina.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Coburg 2026: From Single-Origin to Zaatar-Stained Fingers"
-cover_image: "https://picsum.photos/seed/0a552862/800/600"
+cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,coffee,espresso?lock=5509"
 suburb: "coburg"
 vertical: "food"
 author: "dani"

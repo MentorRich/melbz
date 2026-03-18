@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Windsor — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/92b66ce2/800/600"
+cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,brunch,breakfast?lock=7041"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "dani"

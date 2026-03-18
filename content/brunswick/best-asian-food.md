@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Brunswick 2026: Sydney Road & Beyond"
-cover_image: "https://picsum.photos/seed/d0914112/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,asian,vietnamese?lock=3271"
 date: 2026-03-16
 author: yuki
 tags: ["brunswick", "asian", "food"]

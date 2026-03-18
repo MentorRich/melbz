@@ -1,6 +1,6 @@
 ---
 title: "Prahran: The Complete Suburb Profile 2026"
-cover_image: "https://picsum.photos/seed/a7756596/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,city,suburb?lock=637"
 date: 2026-03-16
 author: jack
 tags: ["prahran", "suburb-profile", "hub"]

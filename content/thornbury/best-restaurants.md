@@ -1,6 +1,6 @@
 ---
 title: "12 Best Restaurants in Thornbury You Need to Try in 2026"
-cover_image: "https://picsum.photos/seed/20429576/800/600"
+cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,restaurant,dining?lock=3979"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "jules"

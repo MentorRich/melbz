@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Fitzroy — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/606a246d/800/600"
+cover_image: "https://loremflickr.com/800/600/Fitzroy,melbourne,new,restaurant?lock=2438"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "oscar"

@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide to Balaclava — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/12c8dc40/800/600"
+cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,neighbourhood,street?lock=8615"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "marcusl"

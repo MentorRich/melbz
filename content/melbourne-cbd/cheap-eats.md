@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats Under $20 in Melbourne CBD 2026"
-cover_image: "https://picsum.photos/seed/026ef41f/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,cheap,street-food?lock=2400"
 date: 2026-03-16
 author: adam
 tags: ["melbourne-cbd", "cheap-eats", "food"]

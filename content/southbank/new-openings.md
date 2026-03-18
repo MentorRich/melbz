@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Southbank 2026"
-cover_image: "https://picsum.photos/seed/6fc34d9c/800/600"
+cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,new,restaurant?lock=9920"
 date: 2026-03-18
 author: priya
 tags: ["southbank", "new-openings"]

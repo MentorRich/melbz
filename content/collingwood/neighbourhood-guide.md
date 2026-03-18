@@ -1,6 +1,6 @@
 ---
 title: "Collingwood Neighbourhood Guide 2026 — The Streets That Made Melbourne Cool"
-cover_image: "https://picsum.photos/seed/5cdf6160/800/600"
+cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,neighbourhood,street?lock=1957"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "marcusl"

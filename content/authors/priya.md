@@ -1,6 +1,6 @@
 ---
 title: "Priya Sandhu"
-cover_image: "https://picsum.photos/seed/aea128fb/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Food Editor"
 bio: "Priya leads our food and dining coverage, exploring every corner of Melbourne's world-class culinary scene."
 avatar: "/images/authors/priya.jpg"

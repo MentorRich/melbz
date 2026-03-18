@@ -1,6 +1,6 @@
 ---
 title: "Family Guide to Brunswick 2026: Schools, Parks, and Everything Parents Need"
-cover_image: "https://picsum.photos/seed/eb9f2977/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,family,kids?lock=2"
 date: 2026-03-16
 author: chloe
 tags: ["brunswick", "families", "schools"]

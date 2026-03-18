@@ -1,6 +1,6 @@
 ---
 title: "South Yarra Honest Guide 2026: Champagne Taste, Ramen Budget"
-cover_image: "https://picsum.photos/seed/49e6b519/800/600"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,street,city?lock=3040"
 date: 2026-03-16
 author: jack
 tags: ["south-yarra", "honest-guide", "lifestyle"]

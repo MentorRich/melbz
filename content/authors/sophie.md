@@ -1,6 +1,6 @@
 ---
 title: "Sophie Chen"
-cover_image: "https://picsum.photos/seed/d0ed8268/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Shopping Editor"
 bio: "Sophie leads our retail coverage, with an expert eye for fashion and the unique boutiques of Melbourne."
 avatar: "/images/authors/sophie.jpg"

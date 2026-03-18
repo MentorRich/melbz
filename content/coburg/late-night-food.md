@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in Coburg 2026: Where to Eat After Dark"
-cover_image: "https://picsum.photos/seed/d34c7188/800/600"
+cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,late-night,food?lock=4883"
 date: 2026-03-16
 author: ethan
 tags: ["coburg", "late-night", "food"]

@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Richmond — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/9d0e7b9b/800/600"
+cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,brunch,breakfast?lock=637"
 suburb: "richmond"
 vertical: "lifestyle"
 author: "dani"

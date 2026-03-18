@@ -1,6 +1,6 @@
 ---
 title: "Albert Park Honest Guide 2026: The Lake & The Village"
-cover_image: "https://picsum.photos/seed/32046b79/800/600"
+cover_image: "https://loremflickr.com/800/600/Albert Park,melbourne,street,city?lock=4261"
 date: 2026-03-16
 author: jack
 tags: ["albert-park", "honest-guide", "lifestyle"]

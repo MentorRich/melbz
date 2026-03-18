@@ -1,6 +1,6 @@
 ---
 title: "Canterbury Honest Guide 2026: The Leafy East Sider"
-cover_image: "https://picsum.photos/seed/01f1c526/800/600"
+cover_image: "https://loremflickr.com/800/600/Canterbury,melbourne,street,city?lock=5117"
 date: 2026-03-16
 author: jack
 tags: ["canterbury", "honest-guide", "lifestyle"]

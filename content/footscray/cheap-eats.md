@@ -1,6 +1,6 @@
 ---
 title: "Best Cheap Eats in Footscray 2026: Under $15, No Nonsense"
-cover_image: "https://picsum.photos/seed/21c89b48/800/600"
+cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,cheap,street-food?lock=8818"
 date: 2026-03-16
 author: omar
 tags: ["footscray", "cheap-eats", "street-food"]

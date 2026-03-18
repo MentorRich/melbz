@@ -1,6 +1,6 @@
 ---
 title: "Carnegie Honest Guide 2026: Koornang Road & Real Opinions"
-cover_image: "https://picsum.photos/seed/75f0aab1/800/600"
+cover_image: "https://loremflickr.com/800/600/Carnegie,melbourne,street,city?lock=5222"
 date: 2026-03-16
 author: jack
 tags: ["carnegie", "honest-guide", "lifestyle"]

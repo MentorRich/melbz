@@ -1,6 +1,6 @@
 ---
 title: "Tom Barker"
-cover_image: "https://picsum.photos/seed/f436b1e9/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Transport Editor"
 bio: "Tom keeps our readers moving with the latest transport guides and insights into the city's transit network."
 avatar: "/images/authors/tom.jpg"

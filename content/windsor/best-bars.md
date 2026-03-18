@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Windsor — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/064d3c4c/800/600"
+cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,bar,nightlife?lock=8663"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "jess"

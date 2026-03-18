@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Melbourne — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/29d11f06/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,restaurant,dining?lock=2900"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "jules"

@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Balaclava — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/565fe2af/800/600"
+cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,romantic,dinner?lock=2629"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "grace"

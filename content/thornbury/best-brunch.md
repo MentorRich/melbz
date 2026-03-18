@@ -1,6 +1,6 @@
 ---
 title: "9 Best Brunch Spots in Thornbury You Need to Know in 2026"
-cover_image: "https://picsum.photos/seed/f6fd4d2f/800/600"
+cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,brunch,breakfast?lock=2057"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "dani"

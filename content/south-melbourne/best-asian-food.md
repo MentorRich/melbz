@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in South Melbourne 2026: Market Eats & Beyond"
-cover_image: "https://picsum.photos/seed/933f0c8b/800/600"
+cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,asian,vietnamese?lock=5483"
 date: 2026-03-16
 author: yuki
 tags: ["south-melbourne", "asian", "food"]

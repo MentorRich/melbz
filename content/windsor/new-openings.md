@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Windsor — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/3d65a621/800/600"
+cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,new,restaurant?lock=1588"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "oscar"

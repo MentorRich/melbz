@@ -1,6 +1,6 @@
 ---
 title: "Melbourne CBD Market Guide 2026: Queen Vic & Beyond"
-cover_image: "https://picsum.photos/seed/214b730d/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,market,food?lock=3207"
 date: 2026-03-16
 author: tyler
 tags: ["melbourne-cbd", "markets", "lifestyle"]

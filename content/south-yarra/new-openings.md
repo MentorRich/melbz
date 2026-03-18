@@ -1,6 +1,6 @@
 ---
 title: "New Openings in South Yarra 2026"
-cover_image: "https://picsum.photos/seed/d54bcdc5/800/600"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,new,restaurant?lock=5716"
 date: 2026-03-18
 author: priya
 description: "The newest restaurants, cafes, and bars that just opened in South Yarra. Fresh concepts and exciting new venues to try this year."

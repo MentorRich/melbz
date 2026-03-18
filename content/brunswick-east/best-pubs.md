@@ -1,6 +1,6 @@
 ---
 title: "7 Best Pubs in Brunswick East — Your 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/c02e624d/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,pub,beer?lock=7396"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "kai"

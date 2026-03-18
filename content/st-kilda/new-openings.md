@@ -1,6 +1,6 @@
 ---
 title: "New Openings in St Kilda — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/210297b1/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,new,restaurant?lock=8912"
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "oscar"

@@ -1,6 +1,6 @@
 ---
 title: "8 Best Coffee Spots in Brunswick East — Your 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/7018f29c/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,coffee,espresso?lock=6632"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "dani"

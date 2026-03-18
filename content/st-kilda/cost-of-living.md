@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in St Kilda 2026: The Real Numbers"
-cover_image: "https://picsum.photos/seed/6a547625/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,city,urban?lock=3302"
 date: 2026-03-16
 author: marcus
 tags: ["st-kilda", "cost-of-living", "property"]

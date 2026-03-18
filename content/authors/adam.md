@@ -1,6 +1,6 @@
 ---
 title: "Adam Nowak"
-cover_image: "https://picsum.photos/seed/884dcb93/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Burger & Comfort Food Writer"
 bio: "Adam is our guide to Melbourne's messiest burgers, decadent desserts, and the best fuel for late-night cravings."
 avatar: "/images/authors/adam.jpg"

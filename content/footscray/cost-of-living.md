@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Footscray 2026: The Real Numbers"
-cover_image: "https://picsum.photos/seed/c429e9c2/800/600"
+cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,city,urban?lock=6198"
 date: 2026-03-16
 author: marcus
 tags: ["footscray", "cost-of-living", "property"]

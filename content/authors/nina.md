@@ -1,6 +1,6 @@
 ---
 title: "Nina Okafor"
-cover_image: "https://picsum.photos/seed/6fec9bac/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Wellness Editor"
 bio: "Nina covers the intersection of physical and mental health, highlighting the city's top wellness spots."
 avatar: "/images/authors/nina.jpg"

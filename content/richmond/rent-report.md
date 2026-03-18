@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Richmond 2026: Swan Street & Beyond"
-cover_image: "https://picsum.photos/seed/7cb25742/800/600"
+cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,city,australia?lock=5958"
 date: 2026-03-16
 author: marcus
 tags: ["richmond", "rent", "property"]

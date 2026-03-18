@@ -1,6 +1,6 @@
 ---
 title: "Brighton Honest Guide 2026: Church Street & The Beach Boxes"
-cover_image: "https://picsum.photos/seed/e863d8c7/800/600"
+cover_image: "https://loremflickr.com/800/600/Brighton,melbourne,street,city?lock=9978"
 date: 2026-03-16
 author: jack
 tags: ["brighton", "honest-guide", "lifestyle"]

@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Windsor — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/34967c0f/800/600"
+cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,romantic,dinner?lock=7291"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "grace"

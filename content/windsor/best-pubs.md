@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Windsor — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/97b478e0/800/600"
+cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,pub,beer?lock=6666"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "kai"

@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: Prahran 2026 — Market Day & Chapel Street"
-cover_image: "https://picsum.photos/seed/658c8e4c/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,weekend,activities?lock=6927"
 date: 2026-03-16
 author: isabella
 tags: ["prahran", "weekend", "lifestyle"]

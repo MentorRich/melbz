@@ -1,6 +1,6 @@
 ---
 title: "Daniel Abram"
-cover_image: "https://picsum.photos/seed/dacb975b/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Safety & Data Specialist"
 bio: "Daniel utilizes official crime and safety data to provide transparent, honest assessments of Melbourne's residential security and neighborhood safety."
 avatar: "/images/authors/daniela.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Preston — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/116d158d/800/600"
+cover_image: "https://loremflickr.com/800/600/Preston,melbourne,restaurant,dining?lock=141"
 suburb: "preston"
 vertical: "lifestyle"
 author: "jules"

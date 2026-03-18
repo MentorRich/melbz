@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats Under $20 in Richmond 2026: Victoria Street & Beyond"
-cover_image: "https://picsum.photos/seed/83c847b3/800/600"
+cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,cheap,street-food?lock=2015"
 date: 2026-03-16
 author: priya
 tags: ["richmond", "cheap-eats", "food"]

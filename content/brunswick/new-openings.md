@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Brunswick — March 2026"
-cover_image: "https://picsum.photos/seed/3f629062/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,new,restaurant?lock=1863"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "oscar"

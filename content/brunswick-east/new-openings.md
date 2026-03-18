@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Brunswick East — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/434b3084/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,new,restaurant?lock=3977"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "oscar"

@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Richmond — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/22aec59e/800/600"
+cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,new,restaurant?lock=24"
 suburb: "richmond"
 vertical: "lifestyle"
 author: "oscar"

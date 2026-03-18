@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Carnegie — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/427c9d90/800/600"
+cover_image: "https://loremflickr.com/800/600/Carnegie,melbourne,nightlife,bar?lock=8254"
 suburb: "carnegie"
 vertical: "lifestyle"
 author: "ethan"

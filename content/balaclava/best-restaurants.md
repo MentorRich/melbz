@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Balaclava 2026"
-cover_image: "https://picsum.photos/seed/253dc6e3/800/600"
+cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,restaurant,dining?lock=8667"
 date: 2026-03-18
 author: priya
 description: "The definitive guide to the best restaurants in Balaclava. From fine dining to casual eats, we review the top venues with addresses, prices, and insider tips."

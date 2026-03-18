@@ -1,6 +1,6 @@
 ---
 title: "Nadia Keane"
-cover_image: "https://picsum.photos/seed/672e7195/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Vegan & Dietary Writer"
 bio: "Nadia maps the best ethical and dietary-inclusive dining across the city, from plant-based fine dining to organic delis."
 avatar: "/images/authors/nadia.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Hawthorn 2026: Glenferrie & Burwood Road"
-cover_image: "https://picsum.photos/seed/a4c8b962/800/600"
+cover_image: "https://loremflickr.com/800/600/Hawthorn,melbourne,cafe,cappuccino?lock=861"
 date: 2026-03-16
 author: eli
 tags: ["hawthorn", "cafes", "food"]

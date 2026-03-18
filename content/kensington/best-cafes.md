@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Kensington 2026: Coffee in the Quiet Suburb"
-cover_image: "https://picsum.photos/seed/bcc92662/800/600"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,cafe,cappuccino?lock=311"
 date: 2026-03-16
 author: eli
 tags: ["kensington", "cafes", "food"]

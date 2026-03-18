@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Fitzroy North — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/81273e45/800/600"
+cover_image: "https://loremflickr.com/800/600/Fitzroy North,melbourne,restaurant,dining?lock=2778"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "jules"

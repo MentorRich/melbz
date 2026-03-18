@@ -1,6 +1,6 @@
 ---
 title: "Mel Santos"
-cover_image: "https://picsum.photos/seed/11d4a614/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Events Editor"
 bio: "Mel is our dedicated events specialist, ensuring you know exactly what is happening across the city every weekend."
 avatar: "/images/authors/mel.jpg"

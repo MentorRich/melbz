@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Prahran 2026: Greville & Chapel"
-cover_image: "https://picsum.photos/seed/c1f5f345/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,asian,vietnamese?lock=606"
 date: 2026-03-16
 author: yuki
 tags: ["prahran", "asian", "food"]

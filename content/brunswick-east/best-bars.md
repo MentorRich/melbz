@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Brunswick East 2026: Craft, Pubs & Aperitivo"
-cover_image: "https://picsum.photos/seed/38ea6c4e/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,bar,nightlife?lock=9604"
 date: 2026-03-16
 author: lina
 tags: ["brunswick-east", "bars", "nightlife"]

@@ -1,6 +1,6 @@
 ---
 title: "Ella Brooks"
-cover_image: "https://picsum.photos/seed/202c0462/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Outdoor & Adventure Writer"
 bio: "Ella leads our outdoor and adventure coverage, mapping the best trails, swimming spots, and cycling routes around Melbourne."
 avatar: "/images/authors/ella.jpg"

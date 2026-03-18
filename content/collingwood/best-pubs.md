@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Collingwood — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/32408655/800/600"
+cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,pub,beer?lock=2828"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "kai"

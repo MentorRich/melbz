@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Hawthorn 2026: The Real Numbers"
-cover_image: "https://picsum.photos/seed/38bdde4b/800/600"
+cover_image: "https://loremflickr.com/800/600/Hawthorn,melbourne,city,urban?lock=2631"
 date: 2026-03-16
 author: marcus
 tags: ["hawthorn", "cost-of-living", "property"]

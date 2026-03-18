@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Kensington 2026: Where to Eat"
-cover_image: "https://picsum.photos/seed/678ea00f/800/600"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,restaurant,dining?lock=8037"
 date: 2026-03-16
 author: grace
 tags: ["kensington", "restaurants", "food"]

@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide in Prahran — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/f1690008/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,neighbourhood,street?lock=2875"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "marcusl"

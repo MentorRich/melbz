@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Prahran — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/173297b0/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,pub,beer?lock=782"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "kai"

@@ -1,6 +1,6 @@
 ---
 title: "Yarraville Honest Guide 2026: The Village Vibe Reality Check"
-cover_image: "https://picsum.photos/seed/62c9032d/800/600"
+cover_image: "https://loremflickr.com/800/600/Yarraville,melbourne,street,city?lock=9888"
 date: 2026-03-16
 author: jack
 tags: ["yarraville", "honest-guide", "lifestyle"]

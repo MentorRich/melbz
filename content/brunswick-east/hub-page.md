@@ -1,6 +1,6 @@
 ---
 title: "Brunswick East Melbourne Suburb Guide 2026: The Complete Picture"
-cover_image: "https://picsum.photos/seed/642f00bc/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,city,suburb?lock=7938"
 date: 2026-03-16
 author: jack
 tags: ["brunswick-east", "suburb-guide"]

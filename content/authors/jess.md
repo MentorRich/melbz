@@ -1,6 +1,6 @@
 ---
 title: "Jess Harper"
-cover_image: "https://picsum.photos/seed/33f8b780/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Cocktail & Wine Writer"
 bio: "Jess uncovers the city's best mixology and wine bars, with a particular love for hidden basements and rooftop views."
 avatar: "/images/authors/jess.jpg"

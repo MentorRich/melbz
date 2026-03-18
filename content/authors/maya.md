@@ -1,6 +1,6 @@
 ---
 title: "Maya Singh"
-cover_image: "https://picsum.photos/seed/26f49449/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Weekend Activities Writer"
 bio: "Maya is our weekend warrior, dedicated to finding the best free activities and unique ways to spend your days in Melbourne."
 avatar: "/images/authors/maya.jpg"

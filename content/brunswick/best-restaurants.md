@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Brunswick — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/8db0b789/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,restaurant,dining?lock=4184"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "jules"

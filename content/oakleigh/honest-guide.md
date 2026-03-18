@@ -1,6 +1,6 @@
 ---
 title: "Oakleigh Honest Guide 2026: Eaton Mall & The Greek Strip"
-cover_image: "https://picsum.photos/seed/28a6c59d/800/600"
+cover_image: "https://loremflickr.com/800/600/Oakleigh,melbourne,street,city?lock=7205"
 date: 2026-03-16
 author: jack
 tags: ["oakleigh", "honest-guide", "lifestyle"]

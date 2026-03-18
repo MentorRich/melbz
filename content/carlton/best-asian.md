@@ -1,6 +1,6 @@
 ---
 title: "The $14 Laksa in Carlton That's Making Locals Lose Their Minds"
-cover_image: "https://picsum.photos/seed/16bd788f/800/600"
+cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,asian,vietnamese?lock=3755"
 date: 2026-03-16
 author: mei
 tags: ["carlton", "asian", "food"]

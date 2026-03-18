@@ -1,6 +1,6 @@
 ---
 title: "Collingwood Cost of Living 2026: Real Prices, Real Talk"
-cover_image: "https://picsum.photos/seed/db01d117/800/600"
+cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,city,urban?lock=1090"
 date: 2026-03-16
 author: marcus
 tags: ["collingwood", "cost-of-living", "property"]

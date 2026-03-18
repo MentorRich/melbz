@@ -1,6 +1,6 @@
 ---
 title: "Ben Kowalski"
-cover_image: "https://picsum.photos/seed/f48caac8/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Pets Editor"
 bio: "Ben is our voice for the city's pets, covering the best dog parks and animal-friendly spots across the suburbs."
 avatar: "/images/authors/ben.jpg"

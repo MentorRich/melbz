@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide in Windsor — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/27584100/800/600"
+cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,neighbourhood,street?lock=9008"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "marcusl"

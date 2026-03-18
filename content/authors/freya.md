@@ -1,6 +1,6 @@
 ---
 title: "Freya Anderson"
-cover_image: "https://picsum.photos/seed/7547a22c/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Confessions & Debrief Writer"
 bio: "Freya curates the city's most unhinged confessions and hot takes, keeping the finger on Melbourne's conversational pulse."
 avatar: "/images/authors/freya.jpg"

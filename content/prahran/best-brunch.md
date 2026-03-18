@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Prahran — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/1f917d8e/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,brunch,breakfast?lock=7249"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "dani"

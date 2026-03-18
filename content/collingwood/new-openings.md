@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Collingwood — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/0cb47d73/800/600"
+cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,new,restaurant?lock=3460"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "oscar"

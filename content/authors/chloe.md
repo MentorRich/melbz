@@ -1,6 +1,6 @@
 ---
 title: "Chloe Nguyen"
-cover_image: "https://picsum.photos/seed/9843c528/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Renter's Advocate"
 bio: "Chloe is our voice for Melbourne's renters, providing essential guides on rent prices, moving tips, and navigating the city's rental market."
 avatar: "/images/authors/chloe.jpg"

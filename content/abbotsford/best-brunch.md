@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Abbotsford — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/a07cd118/800/600"
+cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,brunch,breakfast?lock=4241"
 suburb: "abbotsford"
 vertical: "lifestyle"
 author: "dani"

@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Abbotsford 2026: Where to Eat"
-cover_image: "https://picsum.photos/seed/0722dc39/800/600"
+cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,restaurant,dining?lock=7758"
 date: 2026-03-16
 author: jules
 tags: ["abbotsford", "restaurants", "food"]

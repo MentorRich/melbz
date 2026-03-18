@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide to Brunswick East — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/d5908cff/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,neighbourhood,street?lock=3999"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "marcusl"

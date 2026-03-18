@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Abbotsford — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/c5051d25/800/600"
+cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,nightlife,bar?lock=5750"
 suburb: "abbotsford"
 vertical: "lifestyle"
 author: "ethan"

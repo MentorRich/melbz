@@ -1,6 +1,6 @@
 ---
 title: "Hawthorn Honest Guide 2026: Leafy Streets & Private Schools"
-cover_image: "https://picsum.photos/seed/56c0685d/800/600"
+cover_image: "https://loremflickr.com/800/600/Hawthorn,melbourne,street,city?lock=9245"
 date: 2026-03-16
 author: jack
 tags: ["hawthorn", "honest-guide", "lifestyle"]

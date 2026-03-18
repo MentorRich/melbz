@@ -1,6 +1,6 @@
 ---
 title: "South Yarra: The Suburb Roast — Every Hot Take, No Apologies"
-cover_image: "https://picsum.photos/seed/5349d69a/800/600"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,city,australia?lock=7485"
 date: 2026-03-16
 author: tyler
 tags: ["south-yarra", "roast", "opinions"]

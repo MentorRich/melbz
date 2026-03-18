@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Cremorne — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/0d061be4/800/600"
+cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,nightlife,bar?lock=1017"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "ethan"

@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Prahran 2026"
-cover_image: "https://picsum.photos/seed/c603e3b9/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,bar,nightlife?lock=3456"
 date: 2026-03-18
 author: lina
 description: "From rooftop cocktails to neighbourhood pubs, the best bars in Prahran for drinks, atmosphere, and good times."

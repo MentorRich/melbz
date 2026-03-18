@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in Abbotsford 2026: Where to Eat After Dark"
-cover_image: "https://picsum.photos/seed/43c900fd/800/600"
+cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,late-night,food?lock=3882"
 date: 2026-03-16
 author: adam
 tags: ["abbotsford", "late-night", "food"]

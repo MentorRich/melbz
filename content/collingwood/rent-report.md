@@ -1,6 +1,6 @@
 ---
 title: "Collingwood Rent Prices 2026: The Data"
-cover_image: "https://picsum.photos/seed/e061cbbf/800/600"
+cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,city,australia?lock=4154"
 date: 2026-03-16
 author: marcusl
 tags: ["collingwood", "rent", "property"]

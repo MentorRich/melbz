@@ -1,6 +1,6 @@
 ---
 title: "Tyler James"
-cover_image: "https://picsum.photos/seed/d90280f1/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Suburb Roast Writer"
 bio: "Tyler keeps it real with Melbourne's most brutal and hilarious suburb roasts, finding the funny in the city's unique quirks."
 avatar: "/images/authors/tyler.jpg"

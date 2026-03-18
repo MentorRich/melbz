@@ -1,6 +1,6 @@
 ---
 title: "Aisha Hassan"
-cover_image: "https://picsum.photos/seed/d3b8a109/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Family Editor"
 bio: "Aisha provides the ultimate resource for families in Melbourne, from playground reviews to kid-friendly dining."
 avatar: "/images/authors/aisha.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Seddon Honest Guide 2026: The Quiet West Sider"
-cover_image: "https://picsum.photos/seed/005d476e/800/600"
+cover_image: "https://loremflickr.com/800/600/Seddon,melbourne,street,city?lock=7558"
 date: 2026-03-16
 author: jack
 tags: ["seddon", "honest-guide", "lifestyle"]

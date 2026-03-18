@@ -1,6 +1,6 @@
 ---
 title: "Ivanhoe Honest Guide 2026: Upper Heidelberg Road & Real Opinions"
-cover_image: "https://picsum.photos/seed/f8cf7b38/800/600"
+cover_image: "https://loremflickr.com/800/600/Ivanhoe,melbourne,street,city?lock=7001"
 date: 2026-03-16
 author: jack
 tags: ["ivanhoe", "honest-guide", "lifestyle"]

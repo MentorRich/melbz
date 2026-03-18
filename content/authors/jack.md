@@ -1,6 +1,6 @@
 ---
 title: "Jack Reeves"
-cover_image: "https://picsum.photos/seed/88fa3454/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Hidden Melbourne Editor"
 bio: "Jack seeks out the secret doors and underground experiences that only true locals know."
 avatar: "/images/authors/jack.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Footscray — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/1b6f01ef/800/600"
+cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,nightlife,bar?lock=5868"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "ethan"

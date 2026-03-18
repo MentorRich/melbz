@@ -1,6 +1,6 @@
 ---
 title: "Coburg Melbourne Suburb Guide 2026: The Complete Picture"
-cover_image: "https://picsum.photos/seed/8a252250/800/600"
+cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,city,suburb?lock=584"
 date: 2026-03-16
 author: jack
 tags: ["coburg", "suburb-guide"]

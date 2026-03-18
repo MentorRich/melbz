@@ -1,6 +1,6 @@
 ---
 title: "Brunswick: The Suburb Roast — Every Hot Take, No Apologies"
-cover_image: "https://picsum.photos/seed/8da7d354/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,city,australia?lock=7084"
 date: 2026-03-16
 author: tyler
 tags: ["brunswick", "roast", "opinions"]

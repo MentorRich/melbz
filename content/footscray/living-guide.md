@@ -1,6 +1,6 @@
 ---
 title: "Living in Footscray 2026: The Definitive Guide"
-cover_image: "https://picsum.photos/seed/97ae8e5f/800/600"
+cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,city,australia?lock=2885"
 date: 2026-03-16
 author: charlie
 tags: ["footscray", "living-guide", "rent"]

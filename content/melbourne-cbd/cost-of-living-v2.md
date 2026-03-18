@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Melbourne CBD 2026: The Real Numbers"
-cover_image: "https://picsum.photos/seed/3b7bac31/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,city,urban?lock=1084"
 date: 2026-03-16
 author: marcus
 tags: ["melbourne-cbd", "cost-of-living", "property"]

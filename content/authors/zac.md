@@ -1,6 +1,6 @@
 ---
 title: "Zac Mitchell"
-cover_image: "https://picsum.photos/seed/3d7f7e82/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Arts Editor"
 bio: "Zac explores Melbourne's vibrant arts scene, with a particular focus on the city's world-famous street art."
 avatar: "/images/authors/zac.jpg"

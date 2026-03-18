@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Melbourne — March 2026 Guide"
-cover_image: "https://picsum.photos/seed/e09df5f0/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,new,restaurant?lock=7184"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "oscar"

@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: South Melbourne 2026 — Saturday & Sunday Done Right"
-cover_image: "https://picsum.photos/seed/e62d1cb6/800/600"
+cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,weekend,activities?lock=9664"
 date: 2026-03-16
 author: isabella
 tags: ["south-melbourne", "weekend", "lifestyle"]

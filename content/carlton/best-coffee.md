@@ -1,6 +1,6 @@
 ---
 title: "11 Best Coffee in Carlton You Need to Try in 2026"
-cover_image: "https://picsum.photos/seed/a8ca4225/800/600"
+cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,coffee,espresso?lock=5864"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "dani"

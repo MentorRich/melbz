@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in South Yarra — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/54f29342/800/600"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,nightlife,bar?lock=670"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "ethan"

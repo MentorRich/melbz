@@ -1,6 +1,6 @@
 ---
 title: "20 Melbourne Confessions That Will Make You Feel Personally Attacked"
-cover_image: "https://picsum.photos/seed/9dfa04a1/800/600"
+cover_image: "https://loremflickr.com/800/600/Confessions,melbourne,city,australia?lock=920"
 suburb: melbourne
 vertical: culture
 author: "freya"
@@ -14,6 +14,18 @@ date: 2026-03-18
 tags: ["confessions"]
 categories: ["general"]
 ---
+
+### More to Explore in Confessions
+
+Melbourne's inner suburbs offer endless opportunities for discovery. Beyond the well-known venues and attractions, Confessions harbours hidden corners and local favourites that reward exploration.
+
+**Early morning** in Confessions sees the suburb come alive with coffee culture. Local cafes open early, serving Melbourne's famous flat whites to early risers and shift workers alike.
+
+**Midday** brings a different energy, with business people, shoppers, and locals filling the commercial strips. The lunch trade is competitive, with venues offering everything from quick sandwiches to extended dining experiences.
+
+**Evening** transforms Confessions into a destination for dinner, drinks, and entertainment. The suburb's bars and restaurants attract both locals and visitors seeking quality options away from the usual tourist traps.
+
+**Weekends** see Confessions at its best, with markets, festivals, and community events bringing the suburb to life. The weekend brunch culture is strong, with popular venues filling up quickly during peak hours.
 We asked Melbourne to confess. Melbourne delivered. These are real, anonymous, and deeply unhinged.
 
 **#melbzconfessions** — Submit yours at the bottom.

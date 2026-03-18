@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in Melbourne CBD 2026: After Midnight Guide"
-cover_image: "https://picsum.photos/seed/31187231/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,late-night,food?lock=9561"
 date: 2026-03-16
 author: ethan
 tags: ["melbourne-cbd", "late-night", "food"]

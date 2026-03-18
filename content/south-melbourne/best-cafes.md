@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in South Melbourne 2026: The Coffee Guide"
-cover_image: "https://picsum.photos/seed/39a6c336/800/600"
+cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,cafe,cappuccino?lock=7362"
 date: 2026-03-16
 author: eli
 tags: ["south-melbourne", "cafes", "coffee"]

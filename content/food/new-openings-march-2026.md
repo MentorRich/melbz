@@ -1,6 +1,6 @@
 ---
 title: "19 New Melbourne Restaurants, Bars and Bakeries to Try in March 2026"
-cover_image: "https://picsum.photos/seed/de4fde33/800/600"
+cover_image: "https://loremflickr.com/800/600/Food,melbourne,new,restaurant?lock=2887"
 suburb: melbourne-wide
 vertical: food
 author: "oscar"

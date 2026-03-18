@@ -1,6 +1,6 @@
 ---
 title: "Richmond Honest Guide 2026: Vietnamese Food & Football Culture"
-cover_image: "https://picsum.photos/seed/2eb35377/800/600"
+cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,street,city?lock=6073"
 date: 2026-03-16
 author: jack
 tags: ["richmond", "honest-guide", "lifestyle"]

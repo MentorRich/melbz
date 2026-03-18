@@ -1,6 +1,6 @@
 ---
 title: "Fitzroy Culture Guide 2026: Galleries, Street Art, and the Creative Pulse"
-cover_image: "https://picsum.photos/seed/981d8d2d/800/600"
+cover_image: "https://loremflickr.com/800/600/Fitzroy,melbourne,culture,arts?lock=8427"
 date: 2026-03-16
 author: aisha
 tags: ["fitzroy", "culture", "art"]

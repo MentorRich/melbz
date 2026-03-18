@@ -1,6 +1,6 @@
 ---
 title: "Riley Nguyen"
-cover_image: "https://picsum.photos/seed/84944731/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Romance & Date Ideas Writer"
 bio: "Riley specializes in the city's most romantic corners, from secret sunset spots to the perfect venues for a first date."
 avatar: "/images/authors/riley.jpg"

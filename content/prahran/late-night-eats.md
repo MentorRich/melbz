@@ -1,6 +1,6 @@
 ---
 title: "Late Night Eats in Prahran: Where to Eat After 10pm"
-cover_image: "https://picsum.photos/seed/876e3615/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,late-night,food?lock=5919"
 date: 2026-03-18
 author: liam
 description: "Hungry after the bars close? The best late night food options in Prahran for midnight snacks and post-drinks feasts."

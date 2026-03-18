@@ -1,6 +1,6 @@
 ---
 title: "Priscilla Osei"
-cover_image: "https://picsum.photos/seed/836c6e3f/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Services & Practical Writer"
 bio: "Priscilla is the guide to working and thriving in Melbourne, from co-working hubs to essential tradie rankings."
 avatar: "/images/authors/priscilla.jpg"

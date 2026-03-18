@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide to Abbotsford — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/74dd9f75/800/600"
+cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,neighbourhood,street?lock=4088"
 suburb: "abbotsford"
 vertical: "lifestyle"
 author: "marcusl"

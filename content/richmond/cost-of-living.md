@@ -1,6 +1,6 @@
 ---
 title: "Richmond Cost of Living 2026: Real Prices, Real Talk"
-cover_image: "https://picsum.photos/seed/2d6bb26d/800/600"
+cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,city,urban?lock=524"
 date: 2026-03-16
 author: marcus
 tags: ["richmond", "cost-of-living", "property"]

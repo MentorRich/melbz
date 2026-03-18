@@ -1,6 +1,6 @@
 ---
 title: "Jules Marchetti"
-cover_image: "https://picsum.photos/seed/ebd365c0/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Editor-in-Chief"
 bio: "Jules is the Editor-in-Chief at MELBZ, focusing on the deep culture and hidden stories that define the city's pulse."
 avatar: "/images/authors/jules.jpg"

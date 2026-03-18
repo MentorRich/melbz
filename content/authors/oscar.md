@@ -1,6 +1,6 @@
 ---
 title: "Oscar Wright"
-cover_image: "https://picsum.photos/seed/f2f4b066/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "New Openings & Closures Writer"
 bio: "Oscar is the speed-to-market specialist, tracking every movement in Melbourne's hospitality and retail sectors."
 avatar: "/images/authors/oscar.jpg"

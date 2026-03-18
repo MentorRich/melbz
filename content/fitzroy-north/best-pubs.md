@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Fitzroy North — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/6fb6e380/800/600"
+cover_image: "https://loremflickr.com/800/600/Fitzroy North,melbourne,pub,beer?lock=7089"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "kai"

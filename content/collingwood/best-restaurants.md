@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Collingwood — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/0564b8c2/800/600"
+cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,restaurant,dining?lock=5951"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "jules"

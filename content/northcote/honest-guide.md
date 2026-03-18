@@ -1,6 +1,6 @@
 ---
 title: "Northcote Honest Guide 2026: High Street & Honest Opinions"
-cover_image: "https://picsum.photos/seed/4e39560a/800/600"
+cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,street,city?lock=2107"
 date: 2026-03-16
 author: jack
 tags: ["northcote", "honest-guide", "lifestyle"]

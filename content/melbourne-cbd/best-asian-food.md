@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Melbourne CBD 2026: Dumplings, Ramen & Beyond"
-cover_image: "https://picsum.photos/seed/ad52f3fe/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,asian,vietnamese?lock=9353"
 date: 2026-03-16
 author: priya
 tags: ["melbourne-cbd", "asian", "food"]

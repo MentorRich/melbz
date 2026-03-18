@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide: Thornbury — Your 2026 Local's Handbook"
-cover_image: "https://picsum.photos/seed/36ec432e/800/600"
+cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,neighbourhood,street?lock=7520"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "marcusl"

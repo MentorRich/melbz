@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Abbotsford 2026: Vietnamese, Thai & More"
-cover_image: "https://picsum.photos/seed/134a8e31/800/600"
+cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,asian,vietnamese?lock=4018"
 date: 2026-03-16
 author: yuki
 tags: ["abbotsford", "asian", "food"]

@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Brunswick East 2026: The Real Numbers"
-cover_image: "https://picsum.photos/seed/86a4ff1c/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,city,urban?lock=932"
 date: 2026-03-16
 author: marcus
 tags: ["brunswick-east", "cost-of-living", "property"]

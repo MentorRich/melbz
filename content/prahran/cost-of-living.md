@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Prahran 2026"
-cover_image: "https://picsum.photos/seed/9c517e80/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,city,urban?lock=1348"
 date: 2026-03-18
 author: marcus
 description: "The real cost of living in Prahran. Rent, food, transport, and everyday expenses — what you need to budget for."

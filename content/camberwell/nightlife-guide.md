@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-cover_image: "https://picsum.photos/seed/ecee68a2/800/600"
+cover_image: "https://loremflickr.com/800/600/Camberwell,melbourne,nightlife,bar?lock=8227"
 date: 2026-03-18
 author: lina
 description: "cover_image: "https://images.pexels.com/photos/17582212/pexels-photo-17582212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

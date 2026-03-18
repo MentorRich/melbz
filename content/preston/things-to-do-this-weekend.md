@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Preston — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/6ef7d7a2/800/600"
+cover_image: "https://loremflickr.com/800/600/Preston,melbourne,tourism,attractions?lock=1554"
 suburb: "preston"
 vertical: "lifestyle"
 author: "maya"

@@ -1,6 +1,6 @@
 ---
 title: "Kensington Honest Guide 2026: Racecourses, Noise & Real Talk"
-cover_image: "https://picsum.photos/seed/3112aa83/800/600"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,street,city?lock=1081"
 date: 2026-03-16
 author: jack
 tags: ["kensington", "honest-guide", "lifestyle"]

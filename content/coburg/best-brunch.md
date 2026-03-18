@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Coburg 2026: Where Sydney Road Does Mornings Right"
-cover_image: "https://picsum.photos/seed/a931fbf3/800/600"
+cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,brunch,breakfast?lock=1547"
 suburb: "coburg"
 vertical: "food"
 author: "dani"

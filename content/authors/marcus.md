@@ -1,6 +1,6 @@
 ---
 title: "Marcus Cole"
-cover_image: "https://picsum.photos/seed/5747df26/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Property Editor"
 bio: "Marcus provides expert insights into Melbourne's evolving property landscape, from historical terraces to new developments."
 avatar: "/images/authors/marcus.jpg"

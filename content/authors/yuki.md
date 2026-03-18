@@ -1,6 +1,6 @@
 ---
 title: "Yuki Tanaka"
-cover_image: "https://picsum.photos/seed/5f98ca78/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Asian Cuisine Writer"
 bio: "Yuki explores the incredible breadth of Asian dining in Melbourne, from high-end sushi to late-night dumpling houses."
 avatar: "/images/authors/yuki.jpg"

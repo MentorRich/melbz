@@ -1,6 +1,6 @@
 ---
 title: "Southbank Hub Page"
-cover_image: "https://picsum.photos/seed/a1d5b964/800/600"
+cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,city,suburb?lock=6011"
 date: 2026-03-18
 author: marcus
 tags: ["southbank", "hub"]
@@ -10,6 +10,18 @@ description: "Updated 18 March 2026 | Property Editor
  Southbank, Melbourne: The Ultimate Urban Hub
 Southbank is a packed, cosmopolitan suburb located directly across the..."
 ---
+
+### Living in Southbank
+
+Southbank offers a unique Melbourne lifestyle that attracts residents from all walks of life. The suburb combines urban convenience with local character, making it a sought-after location for both young professionals and established families.
+
+**Housing options** in Southbank range from period apartments to modern developments. The area has seen significant investment in recent years, with new apartment buildings complementing the traditional housing stock.
+
+**Transport connections** are excellent, with tram routes, train stations, and bike paths providing easy access to Melbourne's CBD and surrounding suburbs.
+
+**Local amenities** include grocery stores, medical centres, schools, and recreation facilities. The suburb's commercial strips offer diverse dining and retail options.
+
+**Community life** in Southbank is active, with local events, markets, and gatherings bringing neighbours together throughout the year.
 *Updated 18 March 2026 | Property Editor*
 
 # Southbank, Melbourne: The Ultimate Urban Hub

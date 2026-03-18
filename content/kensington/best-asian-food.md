@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern & More"
-cover_image: "https://picsum.photos/seed/db4fd3ab/800/600"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,asian,vietnamese?lock=2213"
 date: 2026-03-16
 author: yuki
 tags: ["kensington", "asian", "food"]

@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats Under $20 in Abbotsford 2026"
-cover_image: "https://picsum.photos/seed/a2ba0e87/800/600"
+cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,cheap,street-food?lock=3558"
 date: 2026-03-16
 author: priya
 tags: ["abbotsford", "cheap-eats", "food"]

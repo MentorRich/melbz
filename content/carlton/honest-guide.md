@@ -1,6 +1,6 @@
 ---
 title: "Carlton Honest Guide 2026: Lygon Street & Beyond"
-cover_image: "https://picsum.photos/seed/2ada1315/800/600"
+cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,street,city?lock=2089"
 date: 2026-03-16
 author: jack
 tags: ["carlton", "honest-guide", "lifestyle"]

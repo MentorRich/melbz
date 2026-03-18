@@ -1,6 +1,6 @@
 ---
 title: "Moving to Melbourne CBD in 2026: The Newcomer's Survival Guide"
-cover_image: "https://picsum.photos/seed/d9622cd9/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,city,australia?lock=8166"
 date: 2026-03-16
 author: freya
 tags: ["melbourne-cbd", "newcomer", "lifestyle"]

@@ -1,6 +1,6 @@
 ---
 title: "Dog-Friendly Guide to Melbourne 2026: Parks, Cafes, and Everything for Your Pup"
-cover_image: "https://picsum.photos/seed/eee4b157/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,dog,pet-friendly?lock=960"
 date: 2026-03-16
 author: hannah
 tags: ["melbourne", "dogs", "pets", "parks"]

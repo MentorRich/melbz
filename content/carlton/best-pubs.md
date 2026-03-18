@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Carlton 2026: Where the Locals Drink"
-cover_image: "https://picsum.photos/seed/c21792ef/800/600"
+cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,pub,beer?lock=8861"
 date: 2026-03-16
 author: kai
 tags: ["carlton", "pubs", "beer"]

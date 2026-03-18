@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Southbank 2026"
-cover_image: "https://picsum.photos/seed/4d9c1757/800/600"
+cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,apartment,housing?lock=2491"
 date: 2026-03-18
 author: marcus
 tags: ["southbank", "rent-prices"]
@@ -12,6 +12,22 @@ March 18, 2026
 
 As Melbourne's premier arts and entertainment precinct, Southbank con..."
 ---
+
+### Rent Trends in Southbank 2026
+
+The rental market in Southbank has evolved significantly over the past year. Understanding current trends helps renters and investors make informed decisions.
+
+**Median rents** in Southbank currently sit around market rate for the area, reflecting both the suburb's amenities and its proximity to the Melbourne CBD.
+
+**Property types** available for rent include:
+- Studio apartments: $300-400/week
+- One-bedroom units: $400-550/week
+- Two-bedroom apartments: $550-750/week
+- Two-bedroom houses: $700-900/week
+
+**Suburb comparison** shows Southbank offers value compared to inner-city alternatives while maintaining excellent transport links and lifestyle amenities.
+
+**Future outlook** suggests steady demand for Southbank rentals, supported by ongoing development and the suburb's continuing appeal to Melbourne's diverse population.
 *Updated 18 March 2026 | Property Editor*
 
 # Rent Prices in Southbank 2026

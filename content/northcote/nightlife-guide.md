@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Northcote — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/a5c38537/800/600"
+cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,nightlife,bar?lock=5825"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "ethan"

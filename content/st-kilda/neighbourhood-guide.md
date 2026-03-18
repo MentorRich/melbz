@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide in St Kilda — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/23438789/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,neighbourhood,street?lock=5267"
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "marcusl"

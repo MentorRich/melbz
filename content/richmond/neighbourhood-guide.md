@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide to Richmond — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/e27f1f89/800/600"
+cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,neighbourhood,street?lock=816"
 suburb: "richmond"
 vertical: "lifestyle"
 author: "marcusl"

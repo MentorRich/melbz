@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Northcote — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/aa168406/800/600"
+cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,brunch,breakfast?lock=4365"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "dani"

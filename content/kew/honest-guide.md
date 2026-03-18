@@ -1,6 +1,6 @@
 ---
 title: "Kew Honest Guide 2026: Leafy Streets & Real Talk"
-cover_image: "https://picsum.photos/seed/d8af2eb1/800/600"
+cover_image: "https://loremflickr.com/800/600/Kew,melbourne,street,city?lock=7378"
 date: 2026-03-16
 author: jack
 tags: ["kew", "honest-guide", "lifestyle"]

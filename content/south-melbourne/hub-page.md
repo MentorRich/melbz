@@ -1,6 +1,6 @@
 ---
 title: "South Melbourne Suburb Guide 2026: Everything You Need to Know"
-cover_image: "https://picsum.photos/seed/1652350b/800/600"
+cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,city,suburb?lock=5810"
 date: 2026-03-16
 author: jack
 tags: ["south-melbourne", "suburb-guide"]

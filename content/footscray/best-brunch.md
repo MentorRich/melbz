@@ -1,6 +1,6 @@
 ---
 title: "10 Best Brunch Spots in Footscray You Need to Try in 2026"
-cover_image: "https://picsum.photos/seed/125cdd48/800/600"
+cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,brunch,breakfast?lock=8923"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "dani"

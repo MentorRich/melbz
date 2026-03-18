@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats Under $20 in St Kilda 2026: Beyond the Cake Shops"
-cover_image: "https://picsum.photos/seed/5ef50da4/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,cheap,street-food?lock=7965"
 date: 2026-03-16
 author: priya
 tags: ["st-kilda", "cheap-eats", "food"]

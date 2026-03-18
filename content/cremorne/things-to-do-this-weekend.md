@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Cremorne — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/e48c70e7/800/600"
+cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,tourism,attractions?lock=4648"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "maya"

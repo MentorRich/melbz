@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Cremorne — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/b46ad8cf/800/600"
+cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,bar,nightlife?lock=5707"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "jess"

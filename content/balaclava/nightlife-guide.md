@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Balaclava — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/8fb2eea9/800/600"
+cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,nightlife,bar?lock=5928"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "ethan"

@@ -1,6 +1,6 @@
 ---
 title: "9 Best Brunch Spots in Brunswick East — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/88fa5e16/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,brunch,breakfast?lock=8993"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "dani"

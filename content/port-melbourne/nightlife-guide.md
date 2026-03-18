@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Port Melbourne — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/6492541e/800/600"
+cover_image: "https://loremflickr.com/800/600/Port Melbourne,melbourne,nightlife,bar?lock=4538"
 suburb: "port-melbourne"
 vertical: "lifestyle"
 author: "ethan"

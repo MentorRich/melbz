@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in South Yarra — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/fa1eb406/800/600"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,brunch,breakfast?lock=9783"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "dani"

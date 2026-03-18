@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Prahran 2026"
-cover_image: "https://picsum.photos/seed/52323c1b/800/600"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,apartment,housing?lock=3634"
 date: 2026-03-18
 author: marcus
 description: "Current rent prices in Prahran. What it costs to live in Prahran in 2026, from studio apartments to family homes."

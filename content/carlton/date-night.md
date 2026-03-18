@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Carlton — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/48d22406/800/600"
+cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,romantic,dinner?lock=5544"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "grace"

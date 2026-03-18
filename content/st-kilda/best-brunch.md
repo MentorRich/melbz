@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in St Kilda — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/f0206bcf/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,brunch,breakfast?lock=6952"
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "dani"

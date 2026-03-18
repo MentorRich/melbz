@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Abbotsford 2026: What You'll Pay"
-cover_image: "https://picsum.photos/seed/d43c41d9/800/600"
+cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,city,australia?lock=7679"
 date: 2026-03-16
 author: marcus
 tags: ["abbotsford", "rent", "property"]

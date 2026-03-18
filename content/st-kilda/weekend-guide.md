@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: St Kilda 2026 — Beach to Bars"
-cover_image: "https://picsum.photos/seed/748eee2b/800/600"
+cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,weekend,activities?lock=5177"
 date: 2026-03-16
 author: isabella
 tags: ["st-kilda", "weekend", "lifestyle"]

@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Collingwood — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/60965c2f/800/600"
+cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,brunch,breakfast?lock=5108"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "dani"

@@ -1,6 +1,6 @@
 ---
 title: "11 Cheap Eats in Thornbury Under $20 — Your 2026 Budget Guide"
-cover_image: "https://picsum.photos/seed/aef4226b/800/600"
+cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,cheap,street-food?lock=9357"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "omar"

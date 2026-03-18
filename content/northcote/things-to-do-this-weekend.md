@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Northcote — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/73122fdf/800/600"
+cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,tourism,attractions?lock=9508"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "maya"

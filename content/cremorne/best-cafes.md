@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Cremorne — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/d4077541/800/600"
+cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,cafe,cappuccino?lock=8671"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "dani"

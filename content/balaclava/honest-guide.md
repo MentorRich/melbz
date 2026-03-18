@@ -1,6 +1,6 @@
 ---
 title: "Balaclava Honest Guide 2026: Carlisle Street & Real Opinions"
-cover_image: "https://picsum.photos/seed/086e19a6/800/600"
+cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,street,city?lock=1238"
 date: 2026-03-16
 author: jack
 tags: ["balaclava", "honest-guide", "lifestyle"]

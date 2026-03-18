@@ -1,6 +1,6 @@
 ---
 title: "Best Cocktails in Melbourne CBD 2026: The Complete Guide"
-cover_image: "https://picsum.photos/seed/845bf431/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,cocktails,bar?lock=9753"
 date: 2026-03-16
 author: jess
 tags: ["melbourne-cbd", "cocktails", "bars"]

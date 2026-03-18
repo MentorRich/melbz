@@ -1,6 +1,6 @@
 ---
 title: "Things to Do in Melbourne CBD 2026: The Complete Guide"
-cover_image: "https://picsum.photos/seed/eab706dc/800/600"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,tourism,attractions?lock=7190"
 date: 2026-03-16
 author: maya
 tags: ["melbourne-cbd", "things-to-do", "lifestyle"]

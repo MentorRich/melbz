@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Brunswick — 2026 Local Guide"
-cover_image: "https://picsum.photos/seed/74a3849e/800/600"
+cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,brunch,breakfast?lock=528"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "dani"

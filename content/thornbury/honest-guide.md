@@ -1,6 +1,6 @@
 ---
 title: "Thornbury Honest Guide 2026: High Street North & Real Opinions"
-cover_image: "https://picsum.photos/seed/c1288b3b/800/600"
+cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,street,city?lock=163"
 date: 2026-03-16
 author: jack
 tags: ["thornbury", "honest-guide", "lifestyle"]

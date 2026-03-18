@@ -1,6 +1,6 @@
 ---
 title: "Ravi Patel"
-cover_image: "https://picsum.photos/seed/e432bdce/800/600"
+cover_image: "https://loremflickr.com/800/600/Authors,melbourne,city,australia?lock=4955"
 role: "Jobs Editor"
 bio: "Ravi connects our community with local job opportunities and the best co-working spaces in the city."
 avatar: "/images/authors/ravi.jpg"

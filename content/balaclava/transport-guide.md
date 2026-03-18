@@ -1,6 +1,6 @@
 ---
 title: "Transport Guide for Balaclava"
-cover_image: "https://picsum.photos/seed/c3d1757e/800/600"
+cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,tram,station?lock=7665"
 date: 2026-03-18
 author: marcus
 description: "Getting around Balaclava. Train, tram, and bus options, plus driving, parking, and cycling guide."

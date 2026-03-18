@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Collingwood 2026: Smith Street and Beyond"
-cover_image: "https://picsum.photos/seed/4e2d9f46/800/600"
+cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,bar,nightlife?lock=9342"
 date: 2026-03-16
 author: lina
 tags: ["collingwood", "bars", "nightlife"]

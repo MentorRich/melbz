@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in St Kilda — 2026 Local Guide"
 cover_image: "/images/st-kilda/things-to-do-this-weekend.jpg"
+---
+
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "maya"
@@ -9,12 +11,10 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in St Kilda. Our verified 2026 guide covers the best spots for locals."
 tags: ["st-kilda"]
 categories: ["things"]
----
 ## The Best Things To Do This Weekend in St Kilda
 
 St Kilda doesn't do quiet weekends. Between the tram-scattered foreshore, Acland Street's cake-shop windows, and Luna Park's grinning face staring down Jacka Boulevard, there's a rhythm here that other Melbourne suburbs simply can't replicate. Whether you've lived here your whole life or you're catching the 96 tram down from the CBD, this is your verified 2026 guide to making the most of your Saturday and Sunday.
 
----
 
 ### Morning: Start With the Water
 
@@ -28,7 +28,6 @@ If you've got kids in tow, the **St Kilda Botanical Gardens** (111 Blessington S
 
 The **St Kilda Pier walk** is a classic for a reason. Park at the Pier Road car park and walk the full breakwater to the end. On a clear morning, you can see across to the Mornington Peninsula. The pier itself is about 1.5km return — flat, easy, and with a guaranteed pelican sighting if you walk far enough. In the evening, the pier is where the little penguins come ashore at the breakwater colony (dusk, free, but be quiet and don't use flash photography — the volunteers will politely but firmly tell you off).
 
----
 
 ### Brunch: Where St Kilda Earns Its Reputation
 
@@ -46,7 +45,6 @@ Over in neighbouring **Elwood**, **Code Black Coffee** (33 Ormond Road) pulls a 
 
 > **📊 MELBZ POLL** — What's your go-to St Kilda brunch? Vote: Loretta's, The Cat's Kaka, or somewhere else entirely?
 
----
 
 ### Afternoon: Culture, Games, and Cake
 
@@ -60,7 +58,6 @@ After you've eaten, St Kilda offers three distinct afternoon energy tracks.
 
 If you're heading towards **Prahran** for the afternoon, Chapel Street is a ten-minute tram ride from the Fitzroy Street stop, and the Prahran Market (163 Commercial Road) is a strong option for artisan cheese and charcuterie to take home.
 
----
 
 ### Evening: Where the Night Actually Starts
 
@@ -76,7 +73,6 @@ If Donovans is fully booked, **Là Bas** (107 Barkly Street) is the backup plan 
 
 For something more casual, **Lentil As Anything** (41 Blessington Street) operates on a pay-what-you-feel model and serves vegetarian and vegan meals in a community-oriented space. It's not fine dining — it's a neighbourhood institution that feeds everyone regardless of budget. The curries and stews rotate daily and a satisfying meal will cost you $12–$20 depending on what you choose to contribute. Cash is appreciated but card works too.
 
----
 
 ### What We Skipped and Why
 
@@ -86,7 +82,6 @@ For something more casual, **Lentil As Anything** (41 Blessington Street) operat
 
 **Petting zoo at Catani Gardens** — We've seen it pop up on weekends but it's inconsistent. Not reliable enough to recommend as a plan.
 
----
 
 ### Nearby Guides Worth Reading
 
@@ -96,11 +91,9 @@ For something more casual, **Lentil As Anything** (41 Blessington Street) operat
 
 > **📊 MELBZ POLL** — Rate this guide: 🔥 Essential | 👍 Helpful | 🤷 Could be better
 
----
 
 *Last verified March 2026. Prices and hours change — check ahead before you go.*
 
----
 
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
 

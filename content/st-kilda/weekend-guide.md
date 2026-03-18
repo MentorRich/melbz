@@ -5,12 +5,17 @@ date: 2026-03-16
 author: isabella
 tags: ["st-kilda", "weekend", "lifestyle"]
 categories: ["lifestyle"]
-description: "Weekend Guide: St Kilda 2026 — Beach to Bars
+description: "Weekend Guide: St Kilda 2026 — Beach to Bars"
+---
 
-Updated 16 March 2026 | Isabella Greco reporting
+**Updated 16 March 2026 | Isabella Greco reporting**
+
+
 
 St Kilda is Melbourne's seaside strip that refuses to behave...."
----
+
+*Updated 16 March 2026 | Isabella Greco reporting*
+
 # Weekend Guide: St Kilda 2026 — Beach to Bars
 
 *Updated 16 March 2026 | Isabella Greco reporting*
@@ -19,7 +24,6 @@ St Kilda is Melbourne's seaside strip that refuses to behave. One minute you're 
 
 This is a full weekend plan: Saturday morning to Sunday sunset, with real addresses, real prices, and a few hard-earned lessons about where your money is well spent and where it isn't.
 
----
 
 ## Saturday Morning: Brunch and the Pier
 
@@ -45,7 +49,6 @@ Entry to the grounds is free. Individual rides run from $6 to $15. The Scenic Ra
 
 If you're not riding, just walk through the grounds. The carousel ($6) is beautiful and the laughing clowns are a Melbourne institution whether you love them or find them unsettling. Luna Park runs seasonal hours — in March, it's typically open 11am–6pm weekdays, 10am–8pm weekends. Check lunapark.com.au before you go, as hours shift.
 
----
 
 ## Saturday Midday: Acland Street and the Cake Strip
 
@@ -61,7 +64,6 @@ Walk from Luna Park up Marine Parade to Acland Street — about five minutes. Th
 
 The stretch between Carlisle and Barkly Streets has a mix of vintage stores, bookshops, and homewares. **Gould's Books** on Acland (if it's still in its current location — they move around) is a chaotic secondhand paradise. The vintage clothing shops between numbers 30 and 60 are worth a rummage, particularly if you're after festival-season pieces.
 
----
 
 ## Saturday Afternoon: Beach, Bathing Boxes, and a Drink
 
@@ -81,7 +83,6 @@ Republica sits right on the beach promenade and does the rare trick of being a b
 
 *Cross-link: South Melbourne has a different pace entirely — more neighbourhood bars, less beach-town energy. If you want to swap the waterfront for laneways and rooftop bars, our [South Melbourne guide](/south-melbourne/) covers the best of it.*
 
----
 
 ## Saturday Evening: Dinner and Bars
 
@@ -105,7 +106,6 @@ For something reliable and verified: **Borsch Vodka & Tears** at 257 Chapel Stre
 
 *Cross-link: If you want to keep the night going further south, Elwood's bar scene is quieter but loyal — see our [Elwood nightlife picks](/elwood/). Balaclava's pockets around Carlisle Street offer late-night food options that beat anything on the main strip — our [Balaclava guide](/balaclava/) has the details.*
 
----
 
 ## Sunday: Recovery and the Slow Finish
 
@@ -125,7 +125,6 @@ If you want to end the weekend with something special, Cicciolina at 130 Acland 
 
 Walk back to the foreshore for one last coffee overlooking the bay. A flat white ($5) and a moment watching the kitesurfers on the water is the right way to close a St Kilda weekend.
 
----
 
 ## What We Skipped and Why
 
@@ -137,7 +136,6 @@ Walk back to the foreshore for one last coffee overlooking the bay. A flat white
 
 **Acland Street late-night dining:** The strip empties out after about 9pm on weekends. If you're looking for late-night food, you're better off on Carlisle Street in Balaclava (which has more options open past 10pm) or heading to Chapel Street. Acland Street is a daytime show — respect its hours.
 
----
 
 ## Weekend Budget Summary
 
@@ -155,7 +153,6 @@ Walk back to the foreshore for one last coffee overlooking the bay. A flat white
 
 *Transport extra. The 96 tram from CBD to St Kilda runs every 6–8 minutes on weekends and costs a full-fare Myki of $5.30.*
 
----
 
 ## Getting There and Getting Home
 
@@ -167,7 +164,6 @@ Walk back to the foreshore for one last coffee overlooking the bay. A flat white
 
 **Getting home safe:** If you're out late, stick to the main streets (Fitzroy Street, The Esplanade, Carlisle Street). The poorly lit laneways between the main strips are best avoided solo after midnight. St Kilda Police Station is at 490 St Kilda Road — a 5-minute walk from the main strip. Emergency: 000. Non-emergency: 131 444.
 
----
 
 **St Kilda doesn't pretend to be refined. It's loud, it's a little rough around the edges, and the seagulls will absolutely steal your food. But it's also one of the few Melbourne suburbs where you can start the day watching penguins and end it dancing to live music in a basement. That range — that willingness to be everything at once — is why people keep coming back.**
 

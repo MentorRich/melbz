@@ -5,10 +5,10 @@ date: 2026-03-16
 author: marcusl
 tags: ["collingwood", "rent", "property"]
 categories: ["property"]
-description: "Collingwood Rent Prices 2026: The Data
+description: "Collingwood Rent Prices 2026: The Data"
+---
 
 You want to rent in Collingwood. That puts you in the top tier of Melbourne's rental desirability — and you're going ..."
----
 # Collingwood Rent Prices 2026: The Data
 
 You want to rent in Collingwood. That puts you in the top tier of Melbourne's rental desirability — and you're going to pay for the privilege.
@@ -19,7 +19,6 @@ We pulled the numbers, checked the listings, and crunched the year-over-year cha
 
 **Collingwood Vibe Score: 91/100** 🏆
 
----
 
 ## The Headline Numbers
 
@@ -38,7 +37,6 @@ For context: Melbourne's metro-wide 1-bedroom median sits around $515/week right
 
 The big story here is **houses**. A 7.1% jump in median house rent — from $700 to $750 per week — outpaces every other property type in the suburb. Collingwood only has a small number of detached houses (most of the housing stock is Victorian terraces and warehouses converted to apartments), so the low supply means any listing with a front door and a postcode of 3066 gets fought over.
 
----
 
 ## Collingwood vs Melbourne: What the Gap Looks Like
 
@@ -54,7 +52,6 @@ That house premium is the killer. Collingwood houses are running a 21% premium o
 
 The 1-bedroom and 2-bedroom unit premiums are actually modest. That's because Collingwood has been absorbing a wave of new apartment development along Hoddle Street and the Smith Street corridor. More supply in the unit market has kept price growth relatively measured.
 
----
 
 ## The Three Pockets: Where Your Money Goes Further
 
@@ -84,7 +81,6 @@ Johnston Street between Hoddle and Smith is the Fitzroy spillover zone. You're t
 
 The trade-off: Johnston Street is a main road. Traffic, tram noise (the 96 runs through here), and the Saturday morning rush to the Victoria Street markets.
 
----
 
 ## Year-Over-Year Trend: Three Years of Data
 
@@ -100,7 +96,6 @@ The pandemic-era surge peaked in 2023 when inner Melbourne rents were jumping 15
 
 Houses, on the other hand, have barely blinked. There's simply not enough of them. When a three-bedroom terrace on Peel Street comes up, it's gone within a week.
 
----
 
 ## Vacancy Rate: What It Tells You
 
@@ -111,7 +106,6 @@ Collingwood's current vacancy rate sits at **1.73%** — well below Melbourne's 
 
 The 1.73% figure also means Collingwood is tighter than the inner-north average. Neighbouring Fitzroy sits around 1.9%, Richmond at 2.1%, and Abbotsford at 2.4%. If you're flexible on suburb, your odds of finding a place improve as you move east.
 
----
 
 ## The Salary Question: Can You Actually Afford Collingwood?
 
@@ -127,7 +121,6 @@ For a single person on a below-median income — say $70k — a 1-bed in Colling
 
 For context on what that rent actually buys you in nearby suburbs, check our full [Cost of Living in Collingwood breakdown](/collingwood/cost-of-living) — it covers everything from groceries at the Smith Street Woolworths to parking permits to average utility bills.
 
----
 
 ## Who's Renting in Collingwood?
 
@@ -141,7 +134,6 @@ The demographic data paints a clear picture. Collingwood's population of 8,510 s
 
 4. **Students** — fewer than you'd expect. University of Melbourne students tend to cluster in Carlton and Parkville where the walk-to-campus convenience trumps Collingwood's lifestyle appeal. RMIT students do rent here in decent numbers though.
 
----
 
 ## What's Coming: Supply and the Pipeline
 
@@ -151,7 +143,6 @@ This matters because Collingwood's unit rents have already flatlined — that 0%
 
 Houses are a different story. Council restrictions on overdevelopment of the heritage-protected terrace streets mean the housing stock isn't growing. If you're in the market for a 3-bedroom house rental, expect the competition — and the price — to keep climbing.
 
----
 
 ## The Verdict
 
@@ -163,7 +154,6 @@ The real question isn't whether Collingwood is worth the rent — it's whether y
 
 **Your Collingwood Vibe Score this week: 91/100** — Still one of Melbourne's highest-scoring suburbs, dragged down only by the transport situation and the relentless competition for housing.
 
----
 
 ## 🗳️ POLL: What's your biggest Collingwood rent gripe?
 
@@ -174,7 +164,6 @@ The real question isn't whether Collingwood is worth the rent — it's whether y
 
 **Vote and see what other Collingwood renters think.**
 
----
 
 ## ⚔️ FIGHT US: Is Collingwood Still Worth It?
 
@@ -182,13 +171,11 @@ We say Collingwood at $520/week for a 1-bed is fair value for what you get. Othe
 
 **Think we're wrong? Fight us.** Drop a comment, tag a mate who rents in Collingwood, or submit your own rent horror story to our [Confessions page](/confessions).
 
----
 
 ## 🔥 URGENCY: The Inspection Reality Check
 
 Vacancy rate: 1.73%. Listings available: 102. Average days on market: under 14 for well-priced properties. If you're looking at a Collingwood rental right now, don't "think about it overnight." Inspect today. Apply tonight. The 86 tram will still be running tomorrow — the apartment won't be.
 
----
 
 ## Related Reading
 
@@ -198,7 +185,6 @@ Vacancy rate: 1.73%. Listings available: 102. Average days on market: under 14 f
 - [Cost of Living in Collingwood: What $80K Actually Gets You](/collingwood/cost-of-living)
 - [Melbourne Vibe Score Leaderboard — This Week's Rankings](/vibe-score)
 
----
 
 *Sources: REIV March 2026 quarterly data, Domain Rent Report Q4 2025, realestateinvestar.com.au, Bamboo Routes Melbourne rent analysis January 2026, Australian Bureau of Statistics median income data. All figures represent medians and may not reflect individual listing prices.*
 

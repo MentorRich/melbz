@@ -5,12 +5,17 @@ date: 2026-03-16
 author: lina
 tags: ["brunswick-east", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Best Bars in Brunswick East 2026: Craft, Pubs & Aperitivo
+description: "Best Bars in Brunswick East 2026: Craft, Pubs & Aperitivo"
+---
 
-Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
+**Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
+
+
 
 Brunswick East doesn't shout abou..."
----
+
+*Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
+
 # Best Bars in Brunswick East 2026: Craft, Pubs & Aperitivo
 
 **Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
@@ -121,7 +126,6 @@ What makes Brunswick East's bar scene work is how walkable it is. You can hit th
 
 It's also worth noting that Brunswick East sits in a sweet spot between its neighbours. Head south toward [Carlton](/carlton) for the Italian dining and espresso culture. Cross Sydney Road into [Brunswick](/brunswick) for the big-name pubs and live music. Wander east to [Fitzroy North](/fitzroy-north) for the wine bars and brunch spots. Brunswick East gives you the edge of all three without the tourist traffic of any.
 
----
 
 ### Quick Hits: Your Brunswick East Bar Cheat Sheet
 
@@ -134,11 +138,9 @@ It's also worth noting that Brunswick East sits in a sweet spot between its neig
 | Bar Elsie | Bistro + bar, groups | $9–$22 | — |
 | East Brunswick Hotel | Pub, live music | $8–$14 | 3–6pm weekdays |
 
----
 
 *Got a favourite Brunswick East bar we missed? Drop us a line — we're always walking the strip.*
 
----
 
 **More from MELBZ:**
 - [Best Bars in Brunswick](/brunswick) — the craft beer and pub heavyweights

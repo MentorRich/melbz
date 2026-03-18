@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/things-to-do-this-weekend.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "maya"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne might be small, but weekends here are packed with great food, markets, and Yarra walks. Here's what to do in 3121 this weekend."
 tags: ["cremorne"]
 categories: ["things"]
----
 # Things To Do This Weekend in Cremorne — 3121 Weekend Guide
 
 Cremorne doesn't do weekends like other suburbs. There's no major market, no iconic park, no festival that shuts down the streets. What you get instead is a suburb that's built for the kind of weekend you actually want: good coffee, great food, walks along the Yarra, and a drink or two without the crowds of Chapel Street or the CBD.
@@ -20,7 +21,6 @@ This is your weekend itinerary for Cremorne — Saturday and Sunday, done proper
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## Saturday: The Proper Weekend
 
@@ -57,7 +57,6 @@ For Saturday dinner, you've got options:
 
 After dinner, if you're not ready to call it, hit State of Grace (475 Church Street) for cocktails in the basement, or Bierkeller (620 Church Street) if you want to drink a stein and eat a schnitzel that's too big for your head.
 
----
 
 ## Sunday: The Recovery Day
 
@@ -85,7 +84,6 @@ You've eaten, you've walked, you've drunk. Sunday afternoon in Cremorne is about
 
 This is the side of Cremorne that weekday workers never see — the suburb breathing at a human pace instead of a corporate one.
 
----
 
 ## What's On in Cremorne (The Calendar Bits)
 
@@ -99,7 +97,6 @@ Cremorne doesn't really do events. There's no monthly market, no annual festival
 
 For anything bigger, you're heading to Richmond or the CBD.
 
----
 
 ## Pairing Cremorne with Neighbouring Suburbs
 
@@ -118,7 +115,6 @@ The smart Cremorne weekend doesn't stay in Cremorne. Here's how locals actually 
 - Afternoon: Back to Cremorne for pub lunch at The Grand
 - Evening: Early dinner, early night — you've earned it
 
----
 
 ## Getting Around Cremorne on Weekends
 
@@ -128,7 +124,6 @@ The smart Cremorne weekend doesn't stay in Cremorne. Here's how locals actually 
 - **Cars:** Parking exists but fills by 11am on Saturday. Most venues have no dedicated parking. Don't drive unless you have to.
 - **Ubers:** Pickup points marked at major venues. Easy to get from Cremorne to Richmond, South Yarra, CBD.
 
----
 
 ## The Weather Factor
 
@@ -140,7 +135,6 @@ Melbourne's weekend weather determines everything:
 - **Cold (below 12°C):** The indoor venues win. Lilac, SOGUMM, Ms Frankie, State of Grace basement. Keep moving between places.
 - **Hot (30°C+):** Rooftops still attract, but indoor air-con venues become refuges. Cold brew at OnAir or Suupaa's banana cold brew.
 
----
 
 ## The Bottom Line
 
@@ -157,7 +151,6 @@ It's a compact, walkable weekend that feels luxurious without requiring you to s
 
 **Your Cremorne Vibe Score this week: 79/100** — Weekends in 3121 are small, curated, and end early.
 
----
 
 *Know a spot we missed? Let us know.*
 

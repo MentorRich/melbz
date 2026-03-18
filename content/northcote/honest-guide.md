@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["northcote", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Northcote Honest Guide 2026: High Street & Honest Opinions
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Northcote Honest Guide 2026: High Street & Honest Opinions"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Right, let's have a proper chat about North..."
----
 # Northcote Honest Guide 2026: High Street & Honest Opinions
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Right, let's have a proper chat about Northcote.
 
@@ -45,7 +48,6 @@ It's not glamorous. It's not aspirational. But it is deeply, unshakably useful. 
 
 The Plaza is the suburb's beating heart whether it likes it or not, and there's something almost admirable about that refusal to reinvent itself.
 
----
 
 🗳️ **POLL: Your honest take on Northcote Plaza?**
 - A) National treasure, leave it alone
@@ -53,7 +55,6 @@ The Plaza is the suburb's beating heart whether it likes it or not, and there's 
 - C) I go there solely for the Coles and leave immediately
 - D) It's perfect in its imperfection
 
----
 
 ## What Northcote Actually Feels Like
 
@@ -99,12 +100,10 @@ The cycling infrastructure has improved over the years, particularly along the M
 
 **Late-night options are limited.** If you want a proper night out — dancing, DJ sets, something past midnight — you're probably heading to [Brunswick](/brunswick/) or the city. Northcote winds down, and it winds down relatively early.
 
----
 
 💬 **DISCUSSION: What's the one thing Northcote desperately needs?**
 Drop your take in the comments — we read every one.
 
----
 
 ## What We Skipped and Why
 
@@ -144,11 +143,9 @@ If you're considering Northcote, come walk High Street on a Saturday. Eat someth
 
 **The honest score: 7.8/10** — Strong fundamentals, some rough edges, plenty of soul.
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 📊 **RATE THIS GUIDE**
 Did you find the Northcote Honest Guide useful?
@@ -158,7 +155,6 @@ Did you find the Northcote Honest Guide useful?
 - ⭐⭐ Not quite hitting the mark
 - ⭐ Way off — I have thoughts
 
----
 
 **Related Reading:** [Fitzroy Honest Guide](/fitzroy/honest-guide) · [Brunswick Honest Guide](/brunswick/honest-guide) · [Thornbury Honest Guide](/thornbury/honest-guide)
 

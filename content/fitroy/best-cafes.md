@@ -5,10 +5,10 @@ date: 2026-03-16
 author: priya
 tags: ["fitzroy", "cafes", "coffee"]
 categories: ["food"]
-description: "Best Cafes in Fitzroy 2026
+description: "Best Cafes in Fitzroy 2026"
+---
 
 Fitzroy has more cafés per square kilometre than any other Melbourne suburb, and most of them are average. I've spent the last th..."
----
 # Best Cafes in Fitzroy 2026
 
 Fitzroy has more cafés per square kilometre than any other Melbourne suburb, and most of them are average. I've spent the last three months crawling through every overpriced flat white and mediocre avo toast on Brunswick, Gertrude, and Smith Streets so you don't have to waste a Saturday morning on a dud.
@@ -17,7 +17,6 @@ This is the real list. Not the Instagram list. Not the "we found a cute spot" li
 
 **Updated 16 March 2026 | 12 places tested | Priya Sandhu reporting**
 
----
 
 > ### 🗳️ POLL: What matters most to you in a Fitzroy café?
 > - ☕ Coffee quality above all
@@ -25,7 +24,6 @@ This is the real list. Not the Instagram list. Not the "we found a cute spot" li
 > - 🪑 Vibes and fit-out
 > - 💰 Keeping it under $20
 
----
 
 ## 1. Proud Mary — The One That Set the Standard
 
@@ -39,7 +37,6 @@ The catch? It's loud. The acoustics in that warehouse space bounce every convers
 
 **Insider tip:** Skip the window seats. Grab a spot in the back near the coffee bar where you can watch the baristas work. They're performing at a level most Melbourne cafés can't touch.
 
----
 
 ## 2. Industry Beans — The Brunch Heavyweight
 
@@ -55,7 +52,6 @@ Where it gets interesting is the lunch menu — the pulled pork benedict and the
 
 **Insider tip:** Tuesday and Wednesday mornings are blissfully quiet. You'll get a table without waiting and the staff have more bandwidth to recommend off-menu coffee preparations.
 
----
 
 ## 3. Dead Man Espresso — Where Serious Coffee Lives
 
@@ -71,7 +67,6 @@ The fit-out is dark, moody, minimal. No exposed brick aesthetic playing to the F
 
 **Insider tip:** Ask for a "dead man" — it's their signature espresso preparation. Don't ask what's in it. Just drink it.
 
----
 
 ## 4. Aminor — The Quiet Achiever
 
@@ -87,7 +82,6 @@ The space is compact, maybe 20 seats inside plus a handful out front. It fills f
 
 **Insider tip:** The takeaway window on the side does a reduced menu with faster service. If you're walking to the [Fitzroy Pool](https://melbz.com.au/fitzroy/things-to-do/fitroy-pool) or heading into the city, grab a coffee and one of their pastries here.
 
----
 
 ## 5. Thieves Cafe — The One That Feeds You Properly
 
@@ -103,7 +97,6 @@ The downside? Service can be slow when they're packed. The team isn't rushing, a
 
 **Insider tip:** Sit in the back courtyard. It catches afternoon sun and feels like a different café entirely.
 
----
 
 ## 6. Porgie + Mr Jones — The Pretty One
 
@@ -119,7 +112,6 @@ Coffee is serviceable to good depending on the day. The pour-over is better than
 
 **Insider tip:** Weekday mornings before 9am, you'll likely score a window seat. The natural light makes everything look better, including your brunch photos.
 
----
 
 ## 7. Berry St Cafe — The Local Favourite
 
@@ -135,7 +127,6 @@ It's the kind of place where the barista knows your order by the second visit. I
 
 **Insider tip:** They do a loyalty card that actually rewards you.第九杯免费 (Ninth coffee free). In Fitzroy, that's a genuine saving.
 
----
 
 ## 8. The Premier Hotel Café — The Pub-Café Hybrid
 
@@ -151,12 +142,10 @@ It's not the most Instagrammable café on this list. It's the one you'll actuall
 
 **Insider tip:** They do a rotating daily special board that isn't always on the main menu. Ask what's up on the chalkboard — I had a lamb merguez benedict that was extraordinary.
 
----
 
 > ### 📣 CONFESSION BOX
 > *The MELBZ Confessions Hotline is open. Anonymously tell us: What's the worst café experience you've had in Fitzroy? We've heard stories about a place on Smith Street that charges $9 for a regular flat white and gets the milk temperature wrong every. Single. Time. [Submit yours →](https://melbz.com.au/confess)*
 
----
 
 ## What We Skipped and Why
 
@@ -166,12 +155,10 @@ It's not the most Instagrammable café on this list. It's the one you'll actuall
 
 **The patisseries pretending to be cafés** — If the best thing on your menu is a croissant and your coffee is an afterthought, you're a bakery. Great bakeries exist in Fitzroy, but that's a different article. (Watch this space.)
 
----
 
 > ### 🏆 THE MOVE
 > **Saturday Morning Protocol:** Start at Proud Mary on Smith Street for the first flat white of the day (arrive before 9:30). Walk it off through [Victoria Street](https://melbz.com.au/fitzroy/streets/victoria-street-guide) toward Brunswick Street. Hit Thieves Cafe for a late brunch at 11am when the breakfast rush dies. Walk home via Gertrude Street and stop at Aminor for an afternoon pick-me-up. Three cafés, one morning, zero bad decisions.
 
----
 
 ## The Contrarian Take
 
@@ -181,7 +168,6 @@ But density creates complacency. Some of Fitzroy's most popular cafés are coast
 
 The best thing about Fitzroy cafés isn't any single café. It's that you can walk five minutes in any direction and find another one to try. And another. And another. The competition keeps the good ones honest.
 
----
 
 > ### 📊 VIBE SCORE
 > **Fitzroy Café Scene 2026**
@@ -193,7 +179,6 @@ The best thing about Fitzroy cafés isn't any single café. It's that you can wa
 >
 > **Overall Vibe: 7.4/10** — Still one of Melbourne's strongest café suburbs, but the gap between the leaders and the laggards is growing. [See how Fitzroy's score compares to other suburbs →](https://melbz.com.au/suburb-vibe-scores)
 
----
 
 ## The Open Loop
 
@@ -201,7 +186,6 @@ We've covered the cafés, but Fitzroy's food story doesn't end at breakfast. The
 
 Here's the thing: our [Best Restaurants in Fitzroy 2026 guide](https://melbz.com.au/fitzroy/food/best-restaurants) drops next week, and it includes a place on Gertrude Street that made me physically put my fork down and say "what the f***" out loud. I won't say more. But you'll want to read that one.
 
----
 
 *Priya Sandhu is the Food Editor at MELBZ. She has eaten her way through every Melbourne suburb so you don't have to make bad brunch decisions. Follow her [Melbourne food diary on Instagram](https://instagram.com/melbz) for real-time café reviews and the occasional rant about $7 oat lattes.*
 

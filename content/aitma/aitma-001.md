@@ -1,6 +1,8 @@
 ---
 title: "AITMA: 5 Melbourne Dilemmas That Will Divide Your Group Chat"
 cover_image: "/images/aitma/aitma-001.jpg"
+---
+
 suburb: melbourne
 vertical: culture
 author: "jules"
@@ -13,7 +15,6 @@ cover_alt: "Group of friends laughing together in Melbourne — every scenario h
 date: 2026-03-18
 tags: ["aitma"]
 categories: ["general"]
----
 
 ### More to Explore in Aitma
 
@@ -28,7 +29,6 @@ Melbourne's inner suburbs offer endless opportunities for discovery. Beyond the 
 **Weekends** see Aitma at its best, with markets, festivals, and community events bringing the suburb to life. The weekend brunch culture is strong, with popular venues filling up quickly during peak hours.
 **Am I The Melbourne A-Hole?** Five real Melbourne scenarios. You vote. No mercy.
 
----
 
 ## AITMA #1: The Brunch Betrayal
 
@@ -42,7 +42,6 @@ She hasn't spoken to me in four days.
 
 🗳️ **YOU DECIDE:** Share this with your group chat and count the votes.
 
----
 
 ## AITMA #2: The Outer Suburb Refusal
 
@@ -56,7 +55,6 @@ They're starting to notice. My excuses are getting thinner. Last week I said I h
 
 🗳️ **YOU DECIDE**
 
----
 
 ## AITMA #3: The Flat White After 11am
 
@@ -70,7 +68,6 @@ She said I was being pretentious. I said I was being honest. We sat in silence f
 
 🗳️ **YOU DECIDE**
 
----
 
 ## AITMA #4: The $6 Bread Refusal
 
@@ -86,7 +83,6 @@ I paid my share minus $1.20 (my portion of the phantom bread). The table went si
 
 🗳️ **YOU DECIDE**
 
----
 
 ## AITMA #5: The Suburb Lie
 
@@ -100,7 +96,6 @@ We're both liars. But am I the worse one?
 
 🗳️ **YOU DECIDE**
 
----
 
 **Got an AITMA scenario?** Send it to aitma@melbz.com.au. We'll publish it (anonymously) and let Melbourne judge you.
 

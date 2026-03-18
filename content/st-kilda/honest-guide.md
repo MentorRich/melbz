@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jack
 tags: ["st-kilda", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "St Kilda Honest Guide 2026: Tourist Trap or Still Worth It?
+description: "St Kilda Honest Guide 2026: Tourist Trap or Still Worth It?"
+---
 
-Updated 16 March 2026 | Jack Morrison reporting
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
 
 Let's get this out of the way upfront: St Kilda..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # St Kilda Honest Guide 2026: Tourist Trap or Still Worth It?
 
 **Updated 16 March 2026 | Jack Morrison reporting**
@@ -21,7 +26,6 @@ The truth, as usual, is somewhere in the middle — and slightly more interestin
 
 I've lived in and around St Kilda on and off for years. I've watched Luna Park get its nth facelift, seen the Esplanade market rise and stumble, eaten the $30 steak at a dozen places that have since closed, and staggered home down Fitzroy Street at 3am enough times to know the good bits and the bad bits intimately. So let's do this properly — no brochure language, no TripAdvisor sugar-coating, just the honest picture of what St Kilda is in 2026 and whether it deserves your weekend.
 
----
 
 ## The Bits That Are Still Genuinely Good
 
@@ -43,7 +47,6 @@ The strip itself has had a rough few years — a couple of vacancies, some turno
 
 The Espy is St Kilda's anchor tenant, and it's held on through multiple ownership changes and a pandemic. The live music program is still one of the best in the inner south — we're talking multiple stages, genuine acts, not just tribute bands playing to a room of tourists. It's the kind of venue where you stumble downstairs from a gig into the Gershwin Room and discover some incredible local act playing to 40 people on a Wednesday.
 
----
 
 ## The Bits That Are a Bit Shit
 
@@ -67,7 +70,6 @@ If you're visiting Melbourne and thinking of staying in St Kilda — don't, unle
 
 You're better off staying in [South Melbourne](/suburbs/south-melbourne) or even Prahran and catching the tram down. The 96 tram runs from the city straight down Bourke Street to St Kilda in about 30 minutes. It's Melbourne's most reliable tram line and it drops you right in the middle of everything.
 
----
 
 ## What We Skipped and Why
 
@@ -81,7 +83,6 @@ Every honest guide needs to tell you what it's *not* recommending, so here's our
 
 **The bike path along the beach on a Saturday.** It sounds romantic, doesn't it? A leisurely ride along the bay. In reality, on a busy weekend, that path is a war zone of e-scooters, tourists walking four abreast, off-leash dogs, and rollerbladers who haven't rollerskated since 1997 but are determined to rediscover the hobby right in front of you. Walk it instead. Or ride it early on a weekday morning when it's yours.
 
----
 
 ## Getting There and Getting Around
 
@@ -91,7 +92,6 @@ Every honest guide needs to tell you what it's *not* recommending, so here's our
 
 **Cycling:** The Capital City Trail runs through St Kilda and connects to the broader Melbourne bike network. Dedicated bike lanes on some sections, white-knuckle close calls with pedestrians on others.
 
----
 
 ## The Neighbours Worth Knowing About
 
@@ -103,7 +103,6 @@ St Kilda doesn't exist in a vacuum. If you're here, these suburbs are worth the 
 
 **[Balaclava](/suburbs/balaclava)** — The emerging food destination that's still under most people's radar. Carlisle Street has some exceptional small-format restaurants and cafes, and the Jewish bakery tradition means the bread is always, always good.
 
----
 
 ## Is St Kilda Worth It in 2026?
 
@@ -117,7 +116,6 @@ The trick is to go like a local, not a tourist. Grab a cake on Acland Street, wa
 
 St Kilda isn't Melbourne's best suburb. But it's one of its most interesting, and in 2026, that's enough.
 
----
 
 **Was this honest guide helpful? Tell us what you think:**
 
@@ -125,15 +123,12 @@ St Kilda isn't Melbourne's best suburb. But it's one of its most interesting, an
 - 🥱 Overrated — give me Elwood instead
 - 😬 Depends on the day (it's complicated)
 
----
 
 *How would you rate St Kilda's current vibe? [Rate this suburb](/rate/st-kilda) — your score feeds into the weekly MELBZ Vibe Score and helps other Melburnians decide where to spend their weekend.*
 
----
 
 *Want more honest suburb takes like this? Subscribe to the MELBZ Monday Briefing — your weekly guide to what's happening, what's changing, and what's worth your time across Melbourne.*
 
----
 
 *Spotted something we missed? Know a St Kilda spot that deserves a mention — or one that needs calling out? [Submit a tip](/submit) and help us keep this guide honest and current.*
 

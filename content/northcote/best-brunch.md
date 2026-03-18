@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/best-brunch.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best brunch in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["best"]
----
 # The Best Brunch in Northcote — 2026 Edition
 
 **Updated 16 March 2026 | Dani reporting**
@@ -18,7 +19,6 @@ Northcote brunch isn't a meal — it's a weekend ceremony. Somewhere between the
 
 The inner north does brunch better than anywhere else in Melbourne. That's not a controversial statement — it's basically accepted fact. But Northcote specifically has a brunch identity that distinguishes it from its neighbours. It's less performative than [Brunswick](/brunswick/best-brunch), less polished than [Fitzroy North](/fitzroy-north/best-brunch), and more community-driven than both. These are places where the staff know the regulars, where the menu changes with the seasons, and where a plate of eggs will cost you less than the tram fare to get here from the CBD.
 
----
 
 ## 1. Maling Room — The Corner Store That Outgrew Its Boots
 
@@ -35,7 +35,6 @@ The ricotta hotcakes are the headliner — fluffy, golden, served with seasonal 
 
 > **Insider tip:** Ask for the seasonal specials board, even if the main menu looks good. They run a winter porridge with roasted figs and pepita praline that single-handedly justifies the cold months.
 
----
 
 ## 2. Dead Man Espresso — The Name Alone Is Worth the Visit
 
@@ -52,7 +51,6 @@ The coffee here is strong. Proper strong. If you usually order a flat white, con
 
 **Insider tip:** Their weekend specials board is where the real magic happens. Last month they ran a Korean fried chicken waffle with gochujang butter that shouldn't have worked but absolutely did. Ask what's new when you arrive.
 
----
 
 ## 3. Mister Nice — The One That Breaks the Rules
 
@@ -69,7 +67,6 @@ It's on the smaller side, which means waits on weekends. There's no bookings. It
 
 **Insider tip:** If you're visiting in winter, the hot chocolate here is made with real melted chocolate and it's thick enough to eat with a spoon. Pair it with the soufflé pancakes and you've got the most comforting brunch in the inner north.
 
----
 
 ## 4. Tuleli — The Italian Nonna Energy
 
@@ -86,7 +83,6 @@ The deli counter is worth browsing even if you're not eating in. Import olive oi
 
 **Insider tip:** Sit in the back courtyard. It's tiny — maybe six tables — but it gets the afternoon sun in winter and feels like a secret. Nobody goes back there on their first visit.
 
----
 
 ## 5. Wide Open Road — The Brunswick Border Crosser
 
@@ -101,7 +97,6 @@ The vegan banana bread is famous for a reason. It's dense, moist, and topped wit
 
 **Open Loop → Pair Wide Open Road with a stroll through [Brunswick's best brunch spots](/brunswick/best-brunch) for a full inner-north brunch marathon.**
 
----
 
 ## Brunch by Budget — The Honest Breakdown
 
@@ -117,7 +112,6 @@ Because "brunch" can mean anything from a $12 toastie to a $45 eggs Benedict at 
 
 **Budget tip:** Most Northcote brunch spots do a solid coffee + toast combo for $12–$15 if you don't want the full brunch experience. Maling Room's $14 toast with house-made jam and a flat white is the weekday morning power move.
 
----
 
 **POLL: Sweet or savoury brunch?**
 
@@ -128,7 +122,6 @@ Because "brunch" can mean anything from a $12 toastie to a $45 eggs Benedict at 
 
 *Vote and tag your brunch crew @melbzcomau with #NorthcoteBrunch*
 
----
 
 **NEIGHBOURING SUBURBS: Extend the Brunch Crawl**
 
@@ -138,7 +131,6 @@ Because "brunch" can mean anything from a $12 toastie to a $45 eggs Benedict at 
 - 🍳 [Best Brunch in Fitzroy North](/fitzroy-north/best-brunch) — "Where the brunch scene started and never stopped"
 - 🍳 [Best Brunch in Brunswick](/brunswick/best-brunch) — "Lygon Street's brunch legacy lives on"
 
----
 
 **CONFESSION BOX 🗣️**
 
@@ -146,7 +138,6 @@ Because "brunch" can mean anything from a $12 toastie to a $45 eggs Benedict at 
 
 The most passionate response: "Maling Room's ricotta hotcakes are better than any brunch dish in Melbourne and I will fight anyone who disagrees. I've been going every Saturday for two years and they've never disappointed. The staff know my order before I open my mouth. That's not sad — that's commitment."
 
----
 
 **Living in Northcote? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=northcote)**
 

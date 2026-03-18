@@ -1,6 +1,8 @@
 ---
 title: "Cheap Eats in Cremorne Under $20 — 2026 Local Guide"
 cover_image: "/images/cremorne/cheap-eats.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "omar"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne has a reputation for tech-bro spending. Here's the truth: you can eat very well in 3121 for under $20."
 tags: ["cremorne"]
 categories: ["cheap"]
----
 # Cheap Eats in Cremorne — Eating Well in 3121 Without the Corporate Credit Card
 
 Let's address the elephant in the Cremorne room: this suburb has a reputation for being expensive. And sure, some of that is deserved — when your neighbour is paying $1,200 a week for a warehouse conversion, the café prices tend to follow. But here's what the reputation gets wrong: Cremorne has some of the best value eating in Melbourne's inner east, if you know where to look.
@@ -20,7 +21,6 @@ This is your guide to eating very well in Cremorne for under $20.
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## 1. My Oh My Espresso — $4.50–$12
 **The vibe:** 6am start, no pretence, and prices that haven't caught up with the suburb's reputation.
@@ -34,7 +34,6 @@ It's the anti-influencer café. No oat milk latte art competitions here — just
 **Hours:** Mon–Fri 6am–6pm, Sat–Sun 7am–6pm
 **Insider tip:** The 6:45am sweet spot means no queue and the freshest coffee of the day. You'll be in and out in five minutes with a perfect breakfast for under $17.
 
----
 
 ## 2. Gepetto's Trattoria — $12–$18
 **The vibe:** Italian trattoria where the pasta is under $15 and the portions suggest the chef is feeding his own family.
@@ -48,7 +47,6 @@ The food is honest Italian — no foam, no deconstructed anything, just good pas
 **Hours:** Tue–Sun 5pm–10pm
 **Insider tip:** Tuesday BYO night: bring a bottle of wine, pay nothing for corkage, and eat pasta for $14. Your total dinner cost can be under $15 if you already have wine at home. That's cheaper than Uber Eats.
 
----
 
 ## 3. La Manna & Sons — $12–$18
 **The vibe:** Italian deli where the toasted panini are stacked, the focaccia is warm, and $16 buys you a meal that feels handmade with love.
@@ -62,7 +60,6 @@ The focaccia — soft, warm, impossibly fresh — is under $10 and big enough fo
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–3pm
 **Insider tip:** The daily salads at the deli counter are $8–$12 and are some of the best cheap eats in the suburb. The roasted vegetable option is particularly good.
 
----
 
 ## 4. Café Decjuba x St. Ali — $8–$15
 **The vibe:** Corner café where the $4.50 coffee is excellent and the $8 croissant is the best pastry deal in Cremorne.
@@ -76,7 +73,6 @@ For the budget-conscious Cremorne worker, this is the daily driver. Coffee and p
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–2pm
 **Insider tip:** They occasionally have a soup-and-bread combo for around $15 during winter. Ask at the counter — it's not always on the menu but it's always worth it.
 
----
 
 ## 5. Baker Bleu — $12–$20
 **The vibe:** Sourdough temple where a $12 loaf is the best food investment you'll make all week.
@@ -90,7 +86,6 @@ The key value move is the takeaway: buy a sourdough loaf ($12), maybe a pastry (
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** The "coffee and loaf" deal (flat white + half loaf for $15) is available on weekday mornings and is the best value breakfast in Cremorne. It's not advertised — just ask.
 
----
 
 ## 6. Suupaa — $10–$18
 **The vibe:** Japanese convenience store where $10 buys you an onigiri that's more interesting than most $25 mains.
@@ -104,7 +99,6 @@ It's cheap, it's interesting, and it proves that affordable food doesn't have to
 **Hours:** Mon–Fri 8am–4pm
 **Insider tip:** The bento boxes (when available) are $15–$18 and are the best value lunch in the suburb. They sell out fast — arrive before noon.
 
----
 
 ## 7. Rice Paper Scissors — $15–$20 per person (share plates)
 **The vibe:** Vietnamese share plates that hit hard on flavour and leave your wallet relatively unharmed.
@@ -118,7 +112,6 @@ The fresh rice paper rolls ($16), the crispy pork belly ($22), and the lemongras
 **Hours:** Mon–Sun 11:30am–10pm
 **Insider tip:** Weekday lunch specials are often cheaper than the evening menu. If you're a solo diner, the lunch rice bowls come in at $14–$18 and are properly portioned.
 
----
 
 ## 8. Hunted+Gathered — $6–$13
 **The vibe:** Chocolate factory café where the hot chocolate and brownie combo is $13 and better than most desserts twice the price.
@@ -132,7 +125,6 @@ For a mid-morning break or an afternoon treat that costs less than a petrol stat
 **Hours:** Mon–Fri 7:30am–3:30pm, Sat 8:30am–3:30pm
 **Insider tip:** They sell their chocolate bars retail from $6. Grab a 72% single-origin bar for the afternoon — it's better than any vending machine snack you've ever had.
 
----
 
 ## What We Skipped and Why
 
@@ -142,7 +134,6 @@ For a mid-morning break or an afternoon treat that costs less than a petrol stat
 
 **Top Paddock** — The benedicts are $24+, and while they're excellent, they're brunch-industry pricing. See [Best Brunch](/cremorne/best-brunch).
 
----
 
 ## The Bottom Line
 
@@ -152,7 +143,6 @@ The $4.50 flat white still exists in Cremorne. That alone is worth celebrating.
 
 **Your Cremorne Vibe Score this week: 79/100** — Affordability hiding behind a corporate postcode.
 
----
 
 *Know a spot we missed? Let us know.*
 

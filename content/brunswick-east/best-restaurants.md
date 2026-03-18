@@ -5,11 +5,15 @@ date: 2026-03-16
 author: jules
 tags: ["brunswick-east", "restaurants", "food"]
 categories: ["food"]
-description: "Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting
-
-Brunswick East has quietly become Melbourne's most rewarding dining strip. While nearby ..."
+description: "Best Restaurants in Brunswick East 2026: Where to Eat"
 ---
-*Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
+
+*description: "16 March 2026 | 6 places tested | Jules Marchetti reporting"*
+
+
+***Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting***
+
+
 
 Brunswick East has quietly become Melbourne's most rewarding dining strip. While nearby [Brunswick](/brunswick/best-restaurants) leans into its bohemian grit and [Fitzroy North](/fitzroy-north/best-restaurants) keeps things neighbourhood-casual, Brunswick East has carved out something rarer: a one-kilometre stretch of Lygon Street where almost every door opens onto something genuinely worth your time and money.
 
@@ -29,7 +33,6 @@ The draw is the charcoal grill. Abboud marinates lamb shoulder in advieh (a Pers
 
 **POLL_WIDGET: What's your go-to Rumi dish? | Cheese Cigars | Lamb Shoulder | Persian Meatballs | Fried Cauliflower**
 
----
 
 ## 2. Etta
 
@@ -43,7 +46,6 @@ Everything is kissed by fire — whether that's a whole fish charring over coals
 
 **Budget guide:** Expect $80–120 per person depending on how you navigate the wine list. Worth every cent.
 
----
 
 ## 3. Figlia
 
@@ -57,7 +59,6 @@ Post up at the central bar for natural wines and snacks, or grab a bistro-style 
 
 **Budget guide:** Pizzas $18–28, larger plates $28–50. A full meal with wine runs $60–90 per person.
 
----
 
 ## 4. Bar Idda
 
@@ -71,7 +72,6 @@ The food is nostalgic in the best possible way: home-style Sicilian dishes made 
 
 **Budget guide:** $70 set menu, or à la carte mains averaging $25–35. Wine pairing $45.
 
----
 
 ## 5. Eat Pierogi Make Love
 
@@ -87,7 +87,6 @@ The pierogi are the event. Ruskie (potato and twaróg cheese), wild mushroom, an
 
 **ENGAGEMENT_WIDGET: Have you tried Polish food in Melbourne? Drop your recommendations below — we're always looking for the next pierogi fix.**
 
----
 
 ## 6. Teta Mona
 
@@ -101,7 +100,6 @@ The space is warm and unassuming. There's a strong vegetarian and vegan offering
 
 **Budget guide:** $20–30 per person for mains, mezze from $10–18. Most dinners land around $30–40 per head with a drink.
 
----
 
 ## Honourable Mention: CDMX and Old Palm Liquor
 
@@ -109,7 +107,6 @@ Two more spots deserve a nod. **CDMX** (315 Lygon Street) is the Mexico City taq
 
 **Old Palm Liquor** (133 Lygon Street) comes from the Neighbourhood Wine crew — Simon Denman and chef Almay Jordaan — and lives in a converted warehouse with an open fire, a sprawling natural wine list, and share plates that keep you ordering until you've lost track of time. Budget around $100–120 per person, but you'll leave feeling like you had an experience, not just a meal.
 
----
 
 ## What We Skipped and Why
 
@@ -123,7 +120,6 @@ Not every restaurant on Lygon Street made the cut. Here's what we left out and w
 
 The gap between "good enough to recommend" and "good enough to put our name next to" matters to us. We'd rather give you six places that are genuinely excellent than pad a list to twelve.
 
----
 
 ## The Lygon Street Corridor: How Brunswick East Fits In
 
@@ -135,7 +131,6 @@ Brunswick East's dining strength is its location. The strip sits at the intersec
 
 Brunswick East takes threads from all three and weaves them into something distinctly its own. Middle Eastern institutions sit next to Sicilian trattorias, which neighbour Polish diners and Mexican taquerias. It shouldn't work. It absolutely does.
 
----
 
 ## Tips for Eating Well in Brunswick East
 
@@ -147,7 +142,6 @@ Brunswick East takes threads from all three and weaves them into something disti
 
 **Lygon Street is changing fast.** East Brunswick Village has brought a new wave of venues and foot traffic. What's on this list today may look different in 12 months — check back for updates.
 
----
 
 **Want more Melbourne food guides?** Check our latest roundups for [Brunswick](/brunswick/best-restaurants), [Fitzroy North](/fitzroy-north/best-restaurants), and [Carlton](/carlton/best-restaurants).
 

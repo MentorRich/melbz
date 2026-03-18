@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Prahran — 2026 Local Guide"
 cover_image: "/images/prahran/best-pubs.jpg"
+---
+
 suburb: "prahran"
 vertical: "lifestyle"
 author: "kai"
@@ -9,12 +11,10 @@ updated: 2026-03-16
 description: "Discover the best pubs in Prahran. Our verified 2026 guide covers the best spots for locals."
 tags: ["prahran"]
 categories: ["general"]
----
 ## The Best Pubs in Prahran
 
 Prahran's pub scene sits in that sweet spot between the polished gastropubs of South Yarra and the rowdier Chapel Street strip. These are the places where locals go for a proper pint, a decent parma, and a seat that doesn't come with a minimum spend. Whether you want the art-deco charm of a heritage hotel or the bare-bones honesty of a back-street local, here's where to find the best pubs in Prahran in 2026.
 
----
 
 ### 1. Prahran Hotel — The Grand Old Lady
 
@@ -28,7 +28,6 @@ The venue has three distinct spaces: the public bar (no frills, cheap drinks, fo
 
 **The insider move:** Thursday steak night is a Prahran institution. Check their current specials — it's usually a $25 steak with a drink, which in this part of the world is borderline miraculous.
 
----
 
 ### 2. The College Lawn Hotel — The Footy Pub
 
@@ -40,7 +39,6 @@ The food is pub-standard — decent burgers, solid parma ($22), and a Sunday roa
 
 **The insider move:** The College Lawn gets packed for AFL matches. If you want a seat for a big game, arrive at least 30 minutes before bounce. The back garden has a screen, but the sound doesn't always carry — bring your phone as a backup for scores.
 
----
 
 ### 3. The Flying Duck Hotel — The Hidden Local
 
@@ -52,7 +50,6 @@ The venue offers full-service dining in a proper restaurant space alongside a mo
 
 **The insider move:** Wednesday nights are quieter, and the kitchen does specials that don't appear on the weekend menu. If you want the full Flying Duck experience without the weekend crush, go mid-week.
 
----
 
 ### 4. Mount Erica Hotel — The Refined Local
 
@@ -64,7 +61,6 @@ The food is where the Mount Erica really shines. The menu changes seasonally and
 
 **The insider move:** Their happy hour (typically 4pm–6pm weekdays) features discounted schooners and house wines. The bar snacks during happy hour are better than most pubs' full menus — the arancini and the lamb kofta are worth a visit on their own.
 
----
 
 ### 5. The Smith (High Street Hotel) — Under Renovation, Worth the Wait
 
@@ -76,7 +72,6 @@ We're including it here because when it reopens (expected mid-2026), it'll likel
 
 **The insider move:** Follow their Instagram for renovation updates and reopening announcements. Based on past form, they'll likely do a soft launch before the official reopening — that's when you want to be there.
 
----
 
 ### 6. Rising Sun Hotel — The South-Prahran stalwart
 
@@ -88,13 +83,11 @@ It's the kind of pub where the bartender might ask how your week's been, and act
 
 **The insider move:** The Sunday session here is genuinely lovely. Locals bring kids to the garden, someone inevitably brings a dog, and the afternoon stretches out in that lazy, golden way that Melbourne does better than anywhere.
 
----
 
 ## Pubs Beyond Prahran's Borders
 
 Prahran sits in the middle of one of Melbourne's richest pub corridors. If you're exploring further afield, [South Yarra's pub scene](/south-yarra/best-pubs) has some excellent options along Toorak Road and Domain Road, including The Como and a few newer entries that lean more gastropub. [Windsor's pub strip](/windsor/best-pubs) along Chapel Street's northern end is rowdier and younger — good for a big night but less suited to a quiet pint. And if you want to see how the other half lives, the [Melbourne CBD](/melbourne-cbd/best-pubs) has everything from heritage pubs in the Gold Rush era buildings to rooftop bars with skyline views.
 
----
 
 ## Getting Home Safe
 
@@ -106,7 +99,6 @@ Prahran's pubs are clustered around Commercial Road, Greville Street, and the Ch
 - **Prahran Police Station:** Closest is Glen Eira Police Station at 360 Punt Road, South Yarra. Open 24 hours.
 - **If you need help:** Call 000 for emergencies. Text the venue's security if you feel unsafe inside.
 
----
 
 ## What We Skipped and Why
 
@@ -116,11 +108,9 @@ Prahran's pubs are clustered around Commercial Road, Greville Street, and the Ch
 
 Every pub on this list has been visited by the MELBZ team multiple times across different days and times. Prices and specials are verified for early 2026 but always double-check before heading out — pubs change their menus more often than they admit.
 
----
 
 **Living in Prahran?** [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=prahran)
 
----
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. No sponsored rankings. No paid placements. For more Prahran guides, see our [nightlife guide](/prahran/nightlife-guide), [neighbourhood guide](/prahran/neighbourhood-guide), or [date night picks](/prahran/date-night).*
 

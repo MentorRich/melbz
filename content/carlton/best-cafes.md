@@ -1,6 +1,8 @@
 ---
 title: "12 Best Cafes in Carlton for Brunch, Brekkie & Lazy Weekends in 2026"
 cover_image: "/images/carlton/best-cafes.jpg"
+---
+
 suburb: "carlton"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best cafes in Carlton for 2026 — brunch spots, breakfast legends, and pastry havens. Real venues, honest reviews, proper prices."
 tags: ["carlton"]
 categories: ["best"]
----
 # 12 Best Cafes in Carlton for Brunch, Brekkie & Lazy Weekends in 2026
 
 Carlton didn't just adopt café culture — it created it. When Italian immigrants settled here in the 1950s and 60s, they brought espresso machines, a tradition of lingering over morning coffee, and an insistence that breakfast should actually be worth getting out of bed for. Decades later, that ethos has evolved into one of the most competitive café scenes in Australia. Every café in Carlton knows that a mediocre smashed avo won't survive here — the standard is too high and the locals are too savvy.
@@ -18,7 +19,6 @@ This guide covers the 12 best cafes in Carlton for 2026, from the old-school Ita
 
 **Last updated: 17 March 2026** | **Carlton Vibe Score: 87/100** 🟢
 
----
 
 ## 1. Seven Seeds Coffee Roasters
 **The vibe:** The grand dame of Carlton cafés — big space, bigger reputation, brunch that actually delivers
@@ -31,7 +31,6 @@ Seven Seeds' Berkeley Street flagship isn't just a coffee roastery with a café 
 **Price range:** $15–$28 for breakfast
 **Insider tip:** Weekend mornings get hectic by 9:30am. Book online or arrive at opening. The courtyard tables are the best seats in the house when the weather cooperates.
 
----
 
 ## 2. Fenton
 **The vibe:** Paddock-to-plate bistro that brings Gippsland farm freshness to inner-city Carlton
@@ -44,7 +43,6 @@ Fenton is a café with a genuine story: much of the produce comes directly from 
 **Price range:** $16–$25 for breakfast
 **Insider tip:** The Friday night harvest dinner ($65pp, book ahead) is one of Carlton's best-kept secrets. Farm food, good wine, good tunes, zero pretension.
 
----
 
 ## 3. Woodside Green
 **The vibe:** Neighbourhood institution with a 5:30am opening and a menu built around bacon, eggs, and doing things properly
@@ -57,7 +55,6 @@ Woodside Green is proof that you don't need to reinvent the wheel — you just n
 **Price range:** $8–$18
 **Insider tip:** The 5:30am opening is genuine. If you're an early runner or cyclist doing laps of the Royal Park loop, this is your first stop on the way home.
 
----
 
 ## 4. Assembly
 **The vibe:** A Pelham Street original with a decade of roasting experience and a quiet, unpretentious charm
@@ -70,7 +67,6 @@ Assembly is the anti-hype café. No Instagram-friendly food towers, no $28 acai 
 **Price range:** $8–$20
 **Insider tip:** Sit on the Pelham Street side, facing away from the square. It's quieter, and you'll feel like a regular by your second visit.
 
----
 
 ## 5. Brunetti Classico
 **The vibe:** Carlton's grande dame Italian café — marble floors, a cabinet of sin-worthy pastries, and four decades of pulling shots
@@ -83,7 +79,6 @@ Brunetti has been a Lygon Street landmark since 1985, and walking through the do
 **Price range:** $8–$22
 **Insider tip:** Most visitors queue at the front counter. Walk straight past to the back dining room — same food, same coffee, fraction of the chaos.
 
----
 
 ## 6. Le Petite Bourke
 **The vibe:** French-inflected brunch with croissants that rival anything in Melbourne and coffee that holds its own
@@ -96,7 +91,6 @@ Le Petite Bourke brings a distinctly Gallic energy to Carlton's café scene. The
 **Price range:** $10–$24
 **Insider tip:** The almond croissants sell out by mid-morning on weekends. Get there by 9am or accept your disappointment.
 
----
 
 ## 7. Fossey's Distillery Lygon (Breakfast Menu)
 **The vibe:** A distillery that does breakfast — yes, really — and pulls it off with unexpected grace
@@ -109,7 +103,6 @@ Fossey's is known for its house-distilled gin, whisky, and vodka, but the daytim
 **Price range:** $15–$26
 **Insider tip:** This is the only café on the list where you can reasonably order a gin-and-tonic with your eggs and not feel like a degenerate.
 
----
 
 ## 8. Good Measure
 **The vibe:** A cosy corner café that punches well above its weight on flavour and creativity
@@ -122,7 +115,6 @@ Good Measure is one of those cafés that keeps popping up in "best of" lists bec
 **Price range:** $14–$24
 **Insider tip:** Technically on the Carlton North border, but absolutely worth including. Grab a window seat for prime Lygon Street people-watching.
 
----
 
 ## 9. Sunhands
 **The vibe:** A corner shop meets café meets wine store meets deli — and somehow it all works beautifully
@@ -135,7 +127,6 @@ Sunhands is one of Carlton's most charming hybrid spaces. Part café, part wine 
 **Price range:** $12–$22
 **Insider tip:** The dual café/deli model means you can browse local cheeses, preserves, and wines while waiting for your breakfast. It's retail therapy meets brunch.
 
----
 
 ## 10. Animal Orchestra
 **The vibe:** Wholesome, slightly quirky, ethically sourced, and genuinely delicious
@@ -148,7 +139,6 @@ Animal Orchestra takes a thoughtful approach to café culture. The focus on ethi
 **Price range:** $14–$22
 **Insider tip:** The outdoor seating gets excellent morning sun. Pair with some Carlton people-watching for peak weekend vibes.
 
----
 
 ## 11. Heartattack and Vine
 **The vibe:** The chaotic good of Carlton cafés — mismatched furniture, strong coffee, and a Mediterranean-leaning menu
@@ -161,7 +151,6 @@ Heartattack and Vine has been a Lygon Street fixture for years, serving strong I
 **Price range:** $10–$22
 **Insider tip:** Come back in the evening for a completely different experience — the wine list is excellent and the vibe shifts from café-casual to intimate neighbourhood bar.
 
----
 
 ## 12. Milk the Cow
 **The vibe:** Fromage-forward brunch where cheese is the star and the coffee's a very strong supporting act
@@ -174,7 +163,6 @@ Milk the Cow is primarily a cheese bar, but the brunch service is criminally und
 **Price range:** $14–$28
 **Insider tip:** Weekend brunch fills up fast. Book ahead or arrive before 9:30am. The outdoor tables on Lygon Street are prime territory in autumn.
 
----
 
 
 ## Venue Addresses & Details
@@ -193,13 +181,11 @@ The only real risk in Carlton? Decision paralysis. There are too many good optio
 
 **Your Carlton Vibe Score this week: 87/100** — brunch capital of Melbourne's inner north.
 
----
 
 *Know a spot we missed? [Let us know.](/submit)*
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ## 🔗 Related Reading
 
@@ -209,7 +195,6 @@ The only real risk in Carlton? Decision paralysis. There are too many good optio
 - [Best Brunch in Carlton North](/carlton-north)
 - [What's On in Fitzroy](/fitzroy)
 
----
 
 ## 📊 Quick Stats
 

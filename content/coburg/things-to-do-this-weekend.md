@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Coburg 2026: Sydney Road & Beyond"
 cover_image: "/images/coburg/things-to-do-this-weekend.jpg"
+---
+
 suburb: "coburg"
 vertical: "lifestyle"
 author: "maya"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "The best things to do this weekend in Coburg for 2026 — events, markets, parks, and hidden gems. Saturday and Sunday sorted."
 tags: ["coburg"]
 categories: ["things"]
----
 # Things To Do This Weekend in Coburg 2026: Sydney Road & Beyond
 
 Coburg doesn't try to impress you. That's what makes it impressive.
@@ -20,7 +21,6 @@ Here's how to do a full weekend in Coburg without repeating a single venue.
 
 **Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
 
----
 
 ## Saturday Morning
 
@@ -43,7 +43,6 @@ By now you're hungry again. Zaatar is a Middle Eastern bakery where everything i
 **Address:** 240 Sydney Road, Coburg VIC 3058
 **Hours:** Daily 7am–6pm
 
----
 
 ## Saturday Afternoon
 
@@ -61,7 +60,6 @@ Wild Timor Coffee is part cafe, part social enterprise. Every bag of beans sold 
 **Address:** 266 Sydney Road, Coburg VIC 3058
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–3pm
 
----
 
 ## Saturday Evening
 
@@ -78,7 +76,6 @@ Rosa is the kind of Italian restaurant that Reddit consistently calls "the most 
 **Hours:** Wed–Sun 5:30pm–10pm, closed Mon–Tue
 **Pro tip:** Book ahead for Friday and Saturday. Wednesday and Thursday are the secret nights where you'll get more attention from the staff.
 
----
 
 ## Saturday Night
 
@@ -94,7 +91,6 @@ If you're still out, Melbourne Kebab Station stays open until midnight and serve
 **Address:** 490 Sydney Road, Coburg VIC 3058
 **Hours:** Daily 10am–midnight
 
----
 
 ## Sunday Morning
 
@@ -112,7 +108,6 @@ If it's the first or third Sunday of the month, check out the Coburg Farmers Mar
 - Visit the Salvos op shop for vintage finds
 - Check out the new retail spaces in the Pentridge precinct
 
----
 
 ## Sunday Afternoon
 
@@ -135,7 +130,6 @@ Trivelli is an Italian cake shop that's been operating since 1965. The cannoli a
 **Address:** 316 Sydney Road, Coburg VIC 3058
 **Hours:** Tue–Sat 8am–5pm, Sun 9am–3pm, closed Mondays
 
----
 
 ## Sunday Evening
 
@@ -151,7 +145,6 @@ If you're feeling nostalgic or just want something different, the Coburg Drive-I
 **Address:** 155 Newlands Road, Coburg North VIC 3058
 **Hours:** Sessions start at sundown
 
----
 
 ## If You've Got Kids
 
@@ -162,7 +155,6 @@ Coburg is surprisingly good for families:
 - **Coburg Library** — Storytime sessions, kids' activities, and a great children's section
 - **Coburg North Primary School Farmers Market** — Kid-friendly with food trucks and activities
 
----
 
 ## If It Rains
 
@@ -173,7 +165,6 @@ Melbourne weather is unpredictable. If it's raining:
 - **Trivelli Cakes** — Sit inside with a coffee and a cannoli and watch the rain
 - **My Aeon** — Check their social media for indoor events and gigs
 
----
 
 ## How Coburg Compares
 
@@ -183,7 +174,6 @@ What Coburg offers is a weekend that feels like a break from the city without ac
 
 **Your Coburg Vibe Score this week: 72/100** — Weekend sorted. No pretension required.
 
----
 
 *Know something we missed for a Coburg weekend? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

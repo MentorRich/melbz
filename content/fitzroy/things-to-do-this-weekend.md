@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/things-to-do-this-weekend.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "maya"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["things"]
----
 ## Things To Do This Weekend in Fitzroy
 
 Fitzroy is the suburb that makes you feel guilty for staying home. There's always something on — markets, live music, art openings, food that makes you rethink your cooking. The challenge isn't finding something to do. It's narrowing it down before it's already Sunday evening and you've achieved nothing.
 
 Here's your actual plan for the weekend, based on what's genuinely worth leaving the house for.
 
----
 
 ## SATURDAY
 
@@ -44,7 +44,6 @@ The Tote is a Fitzroy institution and one of Melbourne's best live music venues.
 
 **What to drink:** They pour a decent Carlton Draught ($8) and the bar staff don't judge.
 
----
 
 ## SUNDAY
 
@@ -72,7 +71,6 @@ This is Fitzroy's best free activity: walking. Start at Gertrude Street and brow
 
 Brunswick Street has mellowed in recent years — fewer clubs, more restaurants. For a Sunday dinner, aim for something low-key. **Marhaba** (272 Brunswick Street) does outstanding Lebanese share plates ($16–$28 per dish), **Bimbo's** (365 Brunswick Street) does Italian with a great wine list ($22–$38 mains), and **Tiamo** (305 Brunswick Street) is a Fitzroy institution for proper Italian comfort food.
 
----
 
 ## Rainy Day Options
 
@@ -87,7 +85,6 @@ Fitzroy punches above its weight for free galleries:
 
 **Sun Theatre** — 8 Ballarat Street, Yarraville — a 1930s art deco cinema that shows a mix of indie, arthouse, and mainstream. Tickets $15–$18. Worth the 20-minute trip.
 
----
 
 ## What We Skipped and Why
 
@@ -97,7 +94,6 @@ Fitzroy punches above its weight for free galleries:
 
 **Trivia nights:** We love trivia, but venue-specific nights change too frequently to list reliably. Check your local pub's socials.
 
----
 
 ## Cross-Suburb Weekend Ideas
 
@@ -105,7 +101,6 @@ Fitzroy punches above its weight for free galleries:
 - [Things To Do in Carlton](/fitzroy/things-to-do-this-weekend) — Italian quarter energy
 - [Things To Do in Fitzroy North](/fitzroy/things-to-do-this-weekend) — quieter weekend rhythms
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Your perfect Fitzroy Saturday?**
@@ -116,7 +111,6 @@ Fitzroy punches above its weight for free galleries:
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-weekend-style)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -125,7 +119,6 @@ Weekend activity density is a major driver. Fitzroy consistently ranks among Mel
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What did we miss?**
@@ -134,7 +127,6 @@ Fitzronians (is that a word?) — what's your weekend ritual? Tell us what we go
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -143,7 +135,6 @@ Fitzronians (is that a word?) — what's your weekend ritual? Tell us what we go
 - [New Openings in Fitzroy](/fitzroy/new-openings) — what's just landed this month
 - [Date Night in Fitzroy](/fitzroy/date-night) — weekend plans for two
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every experience, and received no sponsorship or compensation. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

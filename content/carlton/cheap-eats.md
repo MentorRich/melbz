@@ -1,6 +1,8 @@
 ---
 title: "Cheap Eats in Carlton Under $20 — 2026 Local Guide"
 cover_image: "/images/carlton/cheap-eats.jpg"
+---
+
 suburb: "carlton"
 vertical: "lifestyle"
 author: "omar"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Discover the cheap eats in Carlton. Our verified 2026 guide covers the best spots for locals on a budget."
 tags: ["carlton"]
 categories: ["cheap"]
----
 # Cheap Eats in Carlton Under $20 — Your 2026 Guide
 
 Carlton's got a secret weapon that most people overlook when they think about Melbourne dining: because of the University of Melbourne and RMIT campuses nearby, this suburb has always had a student population that demands good food at prices that won't destroy you. The result is one of the best cheap eats scenes in the inner north — and it's not all cheap pizza, either.
 
 **Last updated: 17 March 2026** | **Carlton Vibe Score: 82/100 🟢**
 
----
 
 ## 1. The Heart of Carlton
 
@@ -27,7 +27,6 @@ This is the one everyone's talking about, and for good reason. The Heart of Carl
 **Hours:** Weekdays and some weekends — check their socials
 **Insider tip:** Cash is appreciated. Get there before 1pm or you'll miss the pasta.
 
----
 
 ## 2. Rice Bar (Not Only Rice)
 
@@ -38,7 +37,6 @@ Tucked on Grattan Street near the university, this Malaysian spot is a lunchtime
 **Hours:** Lunch daily
 **Insider tip:** The laksa is underrated. If you want something soupier, go for that instead.
 
----
 
 ## 3. Saigon Pho
 
@@ -49,7 +47,6 @@ Lygon Street's Vietnamese anchor, Saigon Pho has been doing what it does for yea
 **Hours:** Lunch and dinner daily
 **Insider tip:** Ask for extra bean sprouts and Vietnamese mint — they'll pile them on for free.
 
----
 
 ## 4. Animal Orchestra
 
@@ -60,7 +57,6 @@ Don't let the name throw you — this is a tiny cafe on Grattan Street that look
 **Hours:** Breakfast and lunch, weekdays
 **Insider tip:** They do a daily special that's usually under $8 — ask at the counter.
 
----
 
 ## 5. La Cabra Tacos
 
@@ -71,7 +67,6 @@ If you're in Carlton on a Tuesday, stop everything and get to La Cabra. Their Ta
 **Hours:** Lunch and dinner
 **Insider tip:** Get there early on Tuesday. The $5 deal draws a crowd.
 
----
 
 ## 6. Dan's Deli
 
@@ -82,7 +77,6 @@ Another Queensberry Street gem, Dan's Deli is famous for its $2.75 hashbrowns �
 **Hours:** Daily
 **Insider tip:** The falafel roll is the quiet MVP.
 
----
 
 ## 7. Casa Del Gelato
 
@@ -93,7 +87,6 @@ Technically not lunch, but you can't talk about cheap eats in Carlton without me
 **Hours:** Daily, extended hours on weekends
 **Insider tip:** The queue after 7pm on weekends can be massive. Go at 4pm or wait until it dies down at 9pm.
 
----
 
 ## 8. Filou's Patisserie
 
@@ -104,7 +97,6 @@ At the corner of Lygon and Fenwick Street, Filou's bakes fresh pies daily — an
 **Hours:** Morning to mid-afternoon, daily
 **Insider tip:** They sell out by early afternoon on weekends. Get in before noon.
 
----
 
 ## 9. Sea Salt Burger
 
@@ -115,7 +107,6 @@ For something more casual, Sea Salt on Lygon Street does a Sea Salt Burger for $
 **Hours:** Lunch and dinner
 **Insider tip:** The grilled fish lunch special on weekdays is even cheaper than the burger.
 
----
 
 ## 9. Supermaxi
 
@@ -126,7 +117,6 @@ An unsung hero of Carlton's sandwich scene, Supermaxi does towering, properly-bu
 **Hours:** Lunch daily
 **Insider tip:** Get it toasted. Non-negotiable.
 
----
 
 ## 10. D.O.C Deli
 
@@ -137,7 +127,6 @@ The D.O.C group is best known for their pizza and mozzarella bar, but the deli n
 **Hours:** Daily
 **Insider tip:** Grab a cannoli for dessert. They're filled to order.
 
----
 
 
 ## Venue Addresses & Details
@@ -158,12 +147,10 @@ Another pro move: lunch specials. Almost every Carlton restaurant does some kind
 
 **Your Carlton Vibe Score this week: 82/100** — Student discount energy with genuinely good food. Not a single sad salad in sight.
 
----
 
 *Know a spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 
 ## Venue Addresses & Details
@@ -183,7 +170,6 @@ Another pro move: lunch specials. Almost every Carlton restaurant does some kind
 → [Fitzroy's Best Budget Meals](/fitzroy/cheap-eats)
 → [Melbourne CBD: Lunch Under $15](/melbourne-cbd/cheap-eats)
 
----
 
 *Living in Carlton? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=carlton)*
 

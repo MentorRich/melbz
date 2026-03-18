@@ -5,12 +5,17 @@ date: 2026-03-16
 author: priya
 tags: ["kensington", "cheap-eats", "food"]
 categories: ["food"]
-description: "Cheap Eats Under $20 in Kensington 2026
+description: "Cheap Eats Under $20 in Kensington 2026"
+---
 
-Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting
+**Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
+
+
 
 Kensington doesn't shout about its food scene. Tuc..."
----
+
+*Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
+
 # Cheap Eats Under $20 in Kensington 2026
 
 *Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
@@ -19,7 +24,6 @@ Kensington doesn't shout about its food scene. Tucked between Flemington Racecou
 
 I spent a week eating my way through the suburb to find the best meals you can get for under $20. Here's where your money goes furthest.
 
----
 
 ## 1. La Tortillería — The Gold Standard for Tacos
 
@@ -35,7 +39,6 @@ La Tortillería has been making tortillas from scratch using nixtamalised corn s
 
 La Tortillería also supplies their tortillas to other Mexican restaurants across Melbourne. Eating them here, straight from the source, you understand why. If you're exploring the inner west more broadly, the Mexican food corridor extending into [Footscray](/suburb/footscray/) offers great variety — but this is the anchor.
 
----
 
 ## 2. Clay Oven Pizza — Woodfired Perfection on Macaulay Road
 
@@ -51,7 +54,6 @@ The name does the heavy lifting here. Clay Oven is a proper woodfired pizzeria d
 
 Clay Oven also operates locations in Flemington, North Melbourne, Parkville, Ascot Vale, and Docklands — but the original Kensington shop has the best atmosphere. It's a narrow, no-nonsense space where the kitchen is always in view. If you're also exploring [Flemington](/suburb/flemington/) dining, their second location there is solid, but the Macaulay Road original is where the heart is.
 
----
 
 ## 3. Mama Le — Vietnamese Fusion Done Right
 
@@ -67,7 +69,6 @@ Mama Le is Vietnamese fusion in the best possible sense — Leanne's cooking dra
 
 Mama Le only does dinner service, Wednesday through Saturday. Book ahead — the room is small and Kensington locals keep this place close. Their proximity to Flemington Racecourse makes them a popular pre-race dinner spot too.
 
----
 
 ## 4. The Premises — Kensington's Brunch Institution
 
@@ -83,7 +84,6 @@ The Premises has occupied its V-shaped corner site on Bellair Street for well ov
 
 If The Premises is full (which it often is on weekends), [North Melbourne](/suburb/north-melbourne/) is a five-minute walk north with plenty of brunch alternatives — but you'll struggle to match this quality at the price.
 
----
 
 ## 5. Borghetti Café — Pastries and Coffee in a Beautiful Setting
 
@@ -99,7 +99,6 @@ Borghetti occupies a gorgeous heritage building on Macaulay Road — high ceilin
 
 Borghetti also hosts events in their upstairs space, which gives you a sense of how much character this building has. It's the kind of café that makes you slow down.
 
----
 
 ## 6. 1565 Gelateria & Café — The Panini-and-Gelato Combo
 
@@ -115,7 +114,6 @@ Borghetti also hosts events in their upstairs space, which gives you a sense of 
 
 1565 is also open late (until 10pm most nights), which makes it a rare option for a cheap evening bite when every other kitchen in the suburb has shut. If you're out near the racecourse or wandering back from a [Flemington](/suburb/flemington/) pub, it's a reliable final stop.
 
----
 
 ## What We Skipped and Why
 
@@ -125,7 +123,6 @@ Borghetti also hosts events in their upstairs space, which gives you a sense of 
 
 **Noughts and Crosses** — Another one that's technically Flemington (Pin Oak Crescent), not Kensington proper. Solid brunch spot with a Scandi-cool fit-out, but at $19–$22 per dish, it sits right on the borderline of our $20 threshold and doesn't offer enough budget options to make the cut.
 
----
 
 ## The Kensington Cheap Eats Cheat Sheet
 
@@ -138,7 +135,6 @@ Borghetti also hosts events in their upstairs space, which gives you a sense of 
 | Borghetti Café | Ricotta & honey walnut panini | $13 |
 | 1565 | Chicken schnitzel panino | $14 |
 
----
 
 ## Getting There
 
@@ -146,13 +142,11 @@ Kensington station sits on the Craigieburn line, a 12-minute ride from Southern 
 
 If you're making a day of it, combine Kensington with [Flemington](/suburb/flemington/) (one tram stop away, strong café and pub scene) and [Footscray](/suburb/footscray/) (two stops, outstanding Vietnamese and Ethiopian food). The inner west is Melbourne's best-kept food value corridor.
 
----
 
 *Priya Sandhu is the food editor at MELBZ. She eats at every venue before writing about it. No sponsored placements, no advertorials. Just the best cheap eats, tested and priced.*
 
 *Have a cheap eat we missed? Tell us on [Instagram](https://instagram.com/melbzcomau) or [email the editorial team](mailto:hello@melbz.com.au).*
 
----
 
 ### 📊 Poll: What's your go-to Kensington cheap eat?
 
@@ -163,7 +157,6 @@ If you're making a day of it, combine Kensington with [Flemington](/suburb/flemi
 - Borghetti — pastry and coffee combo
 - 1565 — gelato for the win
 
----
 
 ### 🏠 Read More Cheap Eats Guides
 

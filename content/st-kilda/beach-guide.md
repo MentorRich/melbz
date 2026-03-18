@@ -5,10 +5,10 @@ date: 2026-03-16
 author: tyler
 tags: ["st-kilda", "beach", "lifestyle"]
 categories: ["lifestyle"]
-description: "St Kilda Beach Guide 2026: Sand, Piers & Prat Falls
+description: "St Kilda Beach Guide 2026: Sand, Piers & Prat Falls"
+---
 
 Look, let's get something straight. St Kilda Beach is not Bondi. It's not trying to be Bondi. If you com..."
----
 # St Kilda Beach Guide 2026: Sand, Piers & Prat Falls
 
 Look, let's get something straight. St Kilda Beach is not Bondi. It's not trying to be Bondi. If you come here expecting turquoise water and Instagram-model beachscape, you're going to have a bad time — and honestly, you probably deserve one. St Kilda Beach is Melbourne's beach the way Melbourne is Melbourne: a little gritty, a little weird, and absolutely packed with people who insist they're having the best day of their lives despite the fact that the water is 14 degrees and the sand has more clothing in it than a Salvos bin.
@@ -19,7 +19,6 @@ St Kilda Beach is 700 metres of Port Phillip Bay frontage that does more heavy l
 
 This guide covers everything: the sand, the water, the pier, the penguins, the promenade, Luna Park's manic energy, and the very real question of whether you'll emerge from the bay with all your belongings. Let's go.
 
----
 
 ## The Beach Itself
 
@@ -43,7 +42,6 @@ Here's where we get serious for a minute, because this matters.
 
 **Getting your stuff nicked:** St Kilda Beach has a genuine issue with theft from unattended belongings. Don't leave phones, wallets, or keys unattended on your towel while you swim. Seriously. Someone will take them. The lifeguards have a lost property system but prevention is better than grief.
 
----
 
 ## The Pier
 
@@ -62,7 +60,6 @@ The penguins are genuinely extraordinary — roughly 30 centimetres tall, blue-g
 
 The colony has been present since the late 1990s, when a few penguins discovered the breakwater and, like any good Melburnian, decided the rent was acceptable and the neighbours were tolerable. Numbers fluctuate but typically range from several dozen to over a hundred breeding pairs.
 
----
 
 ## Luna Park
 
@@ -78,7 +75,6 @@ Luna Park runs seasonal events including live music, markets, and family-friendl
 
 **The vibe:** Luna Park is chaotic in the best possible way. It's not Disneyland. The paint is slightly faded, the rides are slightly creaky, and the overall atmosphere is one of cheerful imperfection. That's the charm. If you go expecting polished corporate entertainment, you've missed the point entirely.
 
----
 
 ## The Promenade Walks
 
@@ -107,7 +103,6 @@ The Bay Trail path connects to **Elwood Beach** if you head further south — an
 
 **Getting there:** Tram 96 from the CBD drops you right at Luna Park. Tram 16 heads to Brighton. Bus 606 connects to Elwood. The 96 is the most frequent and reliable — the other routes are... Melbourne routes, which means they run on their own schedule and you should factor in patience.
 
----
 
 ## Food & Drink on the Foreshore
 
@@ -121,7 +116,6 @@ St Kilda's foreshore dining scene is not fine dining. It's not trying to be. Thi
 
 **Fish and chips on the beach** — multiple vendors along Marine Parade sell takeaway fish and chips. Expect to pay $16–$22 for a basic fish and chips. Sit on the sand. Eat with your hands. Accept that seagulls will judge you.
 
----
 
 ## What We Skipped and Why
 
@@ -139,7 +133,6 @@ Every beach guide tries to cover everything. We deliberately skipped some things
 
 **"Best time to visit" clichés** — Every time is the right time to visit St Kilda Beach if you're the right kind of person. Sunrise joggers, sunset lovers, midnight strollers, Sunday afternoon picnickers — the beach doesn't judge. (The seagulls judge, but that's different.)
 
----
 
 ## The Practical Stuff
 
@@ -154,7 +147,6 @@ Every beach guide tries to cover everything. We deliberately skipped some things
 | **Accessibility** | The promenade is flat and fully wheelchair accessible. Beach wheelchair available — contact Lifesaving Victoria for bookings. |
 | **Dogs** | Dogs allowed off-leash on the beach south of the pier, before 9am and after 4pm. On-leash everywhere else, all day. |
 
----
 
 ## Final Word
 
@@ -164,11 +156,9 @@ But St Kilda Beach is the most *Melbourne* beach, and that distinction matters. 
 
 If you haven't been, go. If you've been before, go again. The penguins are waiting, the gelato is overpriced, and the tram is probably running late. That's St Kilda.
 
----
 
 **Updated 16 March 2026 | Tyler James reporting**
 
----
 
 **🗳️ POLL: What's your St Kilda Beach hot take?**
 
@@ -179,7 +169,6 @@ If you haven't been, go. If you've been before, go again. The penguins are waiti
 
 [Vote now on the MELBZ app →]
 
----
 
 **📊 ST KILDA VIBE SCORE THIS WEEK: 82/100**
 
@@ -187,7 +176,6 @@ St Kilda's vibe score is up 3 points from last week, driven by warm weather, the
 
 [Rate St Kilda's vibe →]
 
----
 
 **👀 READ NEXT:**
 
@@ -196,7 +184,6 @@ St Kilda's vibe score is up 3 points from last week, driven by warm weather, the
 - [Brighton Bathing Boxes: Worth the Trip or Just an Instagram Trap?](/brighton/bathing-boxes)
 - [St Kilda Nightlife: Where to Go After the Sun Sets](/st-kilda/nightlife-guide)
 
----
 
 **💬 SUBMIT YOUR ST KILDA STORY**
 

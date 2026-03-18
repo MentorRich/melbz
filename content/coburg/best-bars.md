@@ -5,15 +5,15 @@ date: 2026-03-16
 author: lina
 tags: ["coburg", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
-
+description: "Best Bars in Coburg 2026: Sydney Road Pubs & Hidden Watering Holes"
 ---
+
+*description: "16 March 2026 | 6 places tested | Lina Nguyen reporting"*
+
 
 Coburg has always been Melbourne's secret middle child — squeezed between the hype of B..."
----
 *Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
 
----
 
 Coburg has always been Melbourne's secret middle child — squeezed between the hype of [Brunswick's bar scene](/brunswick/best-bars/) and the emerging cool of [Preston's neighbourhood pubs](/preston/best-bars/). But walk a few blocks off the usual inner-north pub crawl and you'll find a strip of Sydney Road watering holes that punch well above their weight.
 
@@ -21,7 +21,6 @@ I spent two weekends working my way from the Moreland Road end all the way up to
 
 Here's where to drink in Coburg right now.
 
----
 
 ## 1. Post Office Hotel
 
@@ -38,7 +37,6 @@ The food menu leans Modern Australian with solid pub classics — the chicken pa
 
 **Pro tip:** Tuesday's the night. Happy hour runs until 6pm and the kitchen does specials that'll keep you fed without touching your wallet too hard.
 
----
 
 ## 2. Hotel Lombardo
 
@@ -55,7 +53,6 @@ Drinks lean classic — well-made Negronis, solid espresso martinis, and a beer 
 
 **Pro tip:** The pool table is free and the crowd is friendly. Come on a weeknight, grab a booth, and order a round of pizzas for the table. This is Coburg date-night territory at its finest.
 
----
 
 ## 3. Gemini
 
@@ -72,7 +69,6 @@ By night, the food gets interesting. Think skewered octopus in sweet gochujang, 
 
 **Pro tip:** Open from 8am most days, so you can literally start your day here with a flat white and end it with a glass of Victorian shiraz in the same beautiful room.
 
----
 
 ## 4. BrewDog Pentridge
 
@@ -90,7 +86,6 @@ The food menu leans into the prison theme with tongue-in-cheek items like "Hoppy
 
 **Pro tip:** Grab a rug from the IGA next door, pick up some beers, and have a "picnic" in the old prison yard. It's one of the most surreal drinking experiences in Melbourne.
 
----
 
 ## 5. Woodlands Hotel
 
@@ -107,7 +102,6 @@ The food ranges from solid pub fare (the Wednesday parma special is a local inst
 
 **Pro tip:** Parma Wednesday is non-negotiable if you live within 5km. Also, the upstairs space is available for private functions and it's one of the most distinctive event spaces in Melbourne's north.
 
----
 
 ## 6. The Drums Hotel
 
@@ -124,7 +118,6 @@ It's also one of the few remaining pubs in the area that still feels like a true
 
 **Pro tip:** If you've been drinking at the fancier spots further south and want to end the night somewhere completely unpretentious, walk the 15 minutes north to The Drums. You'll feel like you've time-travelled in the best possible way.
 
----
 
 ## What We Skipped and Why
 
@@ -138,7 +131,6 @@ It's also one of the few remaining pubs in the area that still feels like a true
 
 **Mango Lounge Bar (Moonee Ponds):** Stylish cocktail lounge, but it's a suburb over on Hall Street. Saving for a Moonee Ponds night out feature.
 
----
 
 ## 🗳️ POLL: What's Your Coburg Local?
 
@@ -152,7 +144,6 @@ It's also one of the few remaining pubs in the area that still feels like a true
 
 *[Vote on Instagram @melabornebars](https://instagram.com/melbzcomau)*
 
----
 
 ## 💰 Budget Guide: Coburg Bar Crawl
 
@@ -163,7 +154,6 @@ It's also one of the few remaining pubs in the area that still feels like a true
 | **$80–$120** | Full crawl: one drink each at 4 venues with snacks |
 | **$120+** | The full experience: drinks, dinner, cocktails, and a BrewDog beer garden session |
 
----
 
 ## 🗺️ How to Crawl Sydney Road
 
@@ -178,13 +168,11 @@ The beauty of Coburg's bar strip is it's all on one road. Start at the southern 
 
 It's about a 20-minute walk end to end, or you can hop on Tram 19 which runs the full length of Sydney Road. Last tram from the city is usually around midnight, but check PTV for current schedules.
 
----
 
 ## 📸 Share Your Coburg Night Out
 
 Tag **#MELBZNightOut** and **@melbzcomau** on Instagram for a chance to be featured. We repost the best Coburg bar moments every Friday.
 
----
 
 ## 🔗 Also in This Series
 
@@ -193,7 +181,6 @@ Tag **#MELBZNightOut** and **@melbzcomau** on Instagram for a chance to be featu
 - [Brunswick East Neighbourhood Guide](/brunswick-east/)
 - [Coburg: The Complete Suburb Guide](/coburg/)
 
----
 
 *Lina Nguyen is the Nightlife Editor at MELBZ. She's been drinking her way through Melbourne's inner north since 2019 and considers it research. Follow her bar adventures on Instagram [@linaonfoot](https://instagram.com/linaonfoot).*
 

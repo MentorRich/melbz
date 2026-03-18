@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Richmond — 2026 Local Guide"
 cover_image: "/images/richmond/new-openings.jpg"
+---
+
 suburb: "richmond"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the new openings in Richmond. Our verified 2026 guide covers the best spots for locals."
 tags: ["richmond"]
 categories: ["new"]
----
 ## The Best New Openings in Richmond
 
 Richmond's hospitality scene moves fast. Swan Street alone has seen more turnover in the last two years than some suburbs see in a decade. The good news? The places that survive Richmond's competitive landscape tend to be genuinely good. The bad news? The places that close often had loyal fans who are still mourning them.
 
 Here's what's new, what's worth your time, and what to watch in Richmond in 2026.
 
----
 
 ## 1. Tipo 00 — 462 Church Street, Richmond
 
@@ -30,7 +30,6 @@ Tipo 00 made its name in the CBD with some of Melbourne's best handmade pasta, a
 
 **Why it matters:** Tipo 00 in Richmond means you no longer need to trek to the CBD for Melbourne's best pasta. That's a genuine quality-of-life upgrade.
 
----
 
 ## 2. Hotel Lincoln — 179 River Street, Richmond
 
@@ -44,7 +43,6 @@ Hotel Lincoln is a pub reopening done right. The heritage-listed building sat va
 
 **Why it matters:** Richmond needed a proper local pub that wasn't a sports bar. Hotel Lincoln fills that gap perfectly.
 
----
 
 ## 3. Nativ Bakery — 204 Swan Street, Richmond
 
@@ -58,7 +56,6 @@ Nativ Bakery is a sourdough-focused bakery that opened on Swan Street in late 20
 
 **Why it matters:** Good neighbourhood bakeries are disappearing in Melbourne. Nativ is a throwback to when your local bakery was a daily destination, not a weekend luxury.
 
----
 
 ## 4. Chimac — 192 Swan Street, Richmond
 
@@ -72,7 +69,6 @@ Chimac is a Korean fried chicken spot that opened on Swan Street in mid-2025 and
 
 **Why it matters:** Melbourne's Korean fried chicken scene is booming and Richmond now has a legitimate contender on Swan Street. The price point makes it accessible for students and young locals.
 
----
 
 ## 5. Rare Hare — 260 Church Street, Richmond
 
@@ -86,7 +82,6 @@ Rare Hare is a wine bar that opened in early 2026 on Church Street, filling the 
 
 **Why it matters:** Richmond was missing a proper wine bar — somewhere between a pub and a restaurant where you could spend a whole evening over good wine and snacks. Rare Hare is that place.
 
----
 
 ## Coming Soon
 
@@ -94,7 +89,6 @@ Rare Hare is a wine bar that opened in early 2026 on Church Street, filling the 
 
 **Several Swan Street refits** — Three former retail spaces on Swan Street are undergoing hospitality fit-outs. The exact concepts haven't been announced, but the locations suggest restaurants or bars aiming for the after-work crowd from Cremorne.
 
----
 
 ## What We Skipped and Why
 
@@ -104,7 +98,6 @@ Rare Hare is a wine bar that opened in early 2026 on Church Street, filling the 
 
 **Places we haven't personally visited yet:** If a venue is too new for us to have been and formed an opinion, it's not on this list. We'd rather be late than wrong.
 
----
 
 ## Cross-Suburb New Openings
 
@@ -114,7 +107,6 @@ The inner east is evolving fast. If you want to know what's new beyond Richmond:
 - [New Openings in Collingwood](/collingwood/new-openings) — Smith Street continues its relentless evolution
 - [New Openings in Cremorne](/cremorne/new-openings) — The corporate area is getting some surprising after-hours venues
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Which new Richmond opening are you most excited about?**
@@ -125,7 +117,6 @@ The inner east is evolving fast. If you want to know what's new beyond Richmond:
 
 [Vote in our weekly suburb poll →](/poll/richmond-new-openings)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Richmond Vibe Score This Week: 88/100**
@@ -134,7 +125,6 @@ New openings are pushing the score up. Hotel Lincoln and Tipo 00 have been the b
 
 [See the full Vibe Score breakdown →](/richmond/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 Heard about something we missed?**
@@ -143,7 +133,6 @@ Richmond's scene moves fast. If you've spotted a new opening we haven't listed, 
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Richmond**
@@ -152,7 +141,6 @@ Richmond's scene moves fast. If you've spotted a new opening we haven't listed, 
 - [Neighbourhood Guide to Richmond](/richmond/neighbourhood-guide) — the full picture
 - [Nightlife Guide to Richmond](/richmond/nightlife-guide) — where to go after dinner
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

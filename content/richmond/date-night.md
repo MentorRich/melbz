@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Richmond — 2026 Local Guide"
 cover_image: "/images/richmond/date-night.jpg"
+---
+
 suburb: "richmond"
 vertical: "lifestyle"
 author: "grace"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the best date night options in Richmond. Our verified 2026 guide covers the best spots for locals."
 tags: ["richmond"]
 categories: ["date"]
----
 ## The Best Date Night in Richmond
 
 Richmond is a surprisingly strong date night suburb. It's got the variety — you can go cheap and cheerful or full fine dining without leaving the postcode. It's got the atmosphere — Swan Street buzzes, Bridge Road has romance tucked between the shops, and the quieter side streets offer intimacy if you know where to look. And crucially, it's got escape routes. If the date's going badly, you're one train stop from the CBD and plausible deniability.
 
 Here's where to take someone you actually like in 2026.
 
----
 
 ## 1. Becco — 302 Swan Street, Richmond
 
@@ -32,7 +32,6 @@ Becco is the gold standard for a Richmond date night. The Italian menu is polish
 
 **Pro tip:** Ask for a table near the window — you get the Swan Street energy without the noise.
 
----
 
 ## 2. Lantern by Wagaya — 156 Bridge Road, Richmond
 
@@ -46,7 +45,6 @@ Lantern by Wagaya is one of those places that works for date night because it's 
 
 **Bookings:** Walk-ins possible on weeknights, bookings recommended for Friday and Saturday.
 
----
 
 ## 3. N. Lee Bakery — 426 Victoria Street, Richmond
 
@@ -60,7 +58,6 @@ Not every date night needs to cost $150. N. Lee Bakery on Victoria Street is the
 
 **Pro tip:** Walk Victoria Street after eating. The bakery shops, grocery stores, and street energy make for great people-watching.
 
----
 
 ## 4. The Precinct Hotel — 586 Swan Street, Richmond
 
@@ -74,7 +71,6 @@ The Precinct is a pub, but it's a pub that's been designed for people who want a
 
 **Bookings:** Not usually required for the bistro, but wise for Saturday night.
 
----
 
 ## 5. Sapore — 346 Church Street, Richmond
 
@@ -88,7 +84,6 @@ Sapore is a smaller, more intimate Italian spot that flies under the radar compa
 
 **Bookings:** Recommended for weekends. Walk-ins possible midweek.
 
----
 
 ## 6. Evening Itinerary — MCG or AAMI Park
 
@@ -100,7 +95,6 @@ Not all date nights need to centre around food. Richmond is home to the MCG and 
 
 **Pro tip:** The walk from Swan Street to the MCG through the parklands is genuinely lovely in the evening. Use it.
 
----
 
 ## Date Night Logistics
 
@@ -110,7 +104,6 @@ Not all date nights need to centre around food. Richmond is home to the MCG and 
 
 **Safety:** Richmond is safe for couples walking at night. Stick to main streets — Swan, Bridge, Church, Victoria — and you'll be fine. The railway underpasses near Hoddle Street are best avoided after dark.
 
----
 
 ## What's Happening Nearby
 
@@ -120,7 +113,6 @@ If Richmond doesn't quite hit the mark, these neighbouring suburbs have strong d
 - [Date Night in Collingwood](/collingwood/date-night) — Smith Street brings energy and variety
 - [Date Night in Cremorne](/cremorne/date-night) — Newer venues and a polished corporate-meets-dining scene
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Your ideal Richmond date night?**
@@ -131,7 +123,6 @@ If Richmond doesn't quite hit the mark, these neighbouring suburbs have strong d
 
 [Vote in our weekly suburb poll →](/poll/richmond-date-night-style)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Richmond Vibe Score This Week: 88/100**
@@ -140,7 +131,6 @@ Evening energy is up this week as the footy season warms up and Swan Street come
 
 [See the full Vibe Score breakdown →](/richmond/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 Where do you take your dates?**
@@ -149,7 +139,6 @@ Richmond locals always have a secret spot. Tell us where we should go next.
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Richmond**
@@ -158,7 +147,6 @@ Richmond locals always have a secret spot. Tell us where we should go next.
 - [Nightlife Guide to Richmond](/richmond/nightlife-guide) — if the date goes really well
 - [Neighbourhood Guide to Richmond](/richmond/neighbourhood-guide) — the full suburb picture
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

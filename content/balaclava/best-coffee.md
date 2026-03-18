@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Balaclava — 2026 Local Guide"
 cover_image: "/images/balaclava/best-coffee.jpg"
+---
+
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best coffee in Balaclava. Our verified 2026 guide covers the best spots for locals."
 tags: ["balaclava"]
 categories: ["general"]
----
 # Best Coffee in Balaclava — 7 Spots That Actually Deliver in 2026
 
 Carlisle Street doesn't mess around when it comes to coffee. Balaclava has been pulling shots since before "specialty" was a marketing buzzword, and the strip between Hotham Street and Chapel Street still punches well above its weight for a suburb most Melburnians drive through on the way to somewhere else. That's their loss.
@@ -20,7 +21,6 @@ Balaclava sits in that sweet pocket between St Kilda and Caulfield — close eno
 
 Here's where to get the best coffee in Balaclava right now.
 
----
 
 ## 1. Monk Bodhi Dharma
 **The vibe:** A tiny red brick cubby hidden in the back corner of a Woolworths car park, surrounded by street art. If you didn't know it was here, you'd walk past — and you'd be making a mistake.
@@ -34,7 +34,6 @@ But the coffee is genuinely world-class. They roast in-house and rotate single-o
 **Hours:** Mon–Sun 7am–3:30pm
 **Insider tip:** Come before 8:30am on weekdays for zero wait. The umami mushrooms with goat's cheese are worth staying for, but you didn't hear that from us — this is a coffee guide.
 
----
 
 ## 2. Wall Two 80
 **The vibe:** A former Kosher butcher shop turned into the most beloved hole-in-the-wall café in Balaclava. The ordering window faces Nelson Street, right across from Balaclava Station.
@@ -48,7 +47,6 @@ The coffee uses Genovese beans and has that classic Melbourne richness — full-
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** If you're catching the train, this is the last good coffee before you hit the city. Grab one at the window and you'll be sipping by Richmond.
 
----
 
 ## 3. Batch Espresso
 **The vibe:** The New Zealand–owned café that Carlisle Street didn't know it needed. Cosy, unpretentious, and the kind of place where the staff remember your order after two visits.
@@ -62,7 +60,6 @@ The coffee itself is punchy and consistent — a proper Melbourne flat white tha
 **Hours:** Mon–Wed 7am–5pm, Thu–Fri 7am–10pm, Sat–Sun 7am–4pm
 **Insider tip:** Thursday evenings are the under the radar — the bistro lighting comes on, they pour wines alongside the coffee, and it feels like a different place entirely.
 
----
 
 ## 4. Las Chicas
 **The vibe:** The longest-running café on Carlisle Street. Bare brick walls, mismatched chairs, local event posters taped to the walls, and a backyard garden that makes you forget you're in the middle of suburbia.
@@ -76,7 +73,6 @@ What makes Las Chicas special isn't the coffee alone (though it's excellent). It
 **Hours:** Mon–Sun 7am–5pm (kitchen closes 2:30pm)
 **Insider tip:** The backyard fills up fast on weekends. Get there before 9am or be prepared to wait. Walk-ins only — they don't take bookings for groups under 10.
 
----
 
 ## 5. All Things Equal
 **The vibe:** A café with a mission. 100% of proceeds go towards training and employing adults with disabilities. The vibe is warm, energetic, and the food is genuinely some of the best brunch on the strip.
@@ -90,7 +86,6 @@ The coffee is solid — good extraction, proper milk texture, served in a space 
 **Hours:** Tue–Sun 8:30am–3pm
 **Insider tip:** They also do catering, and the venue is available for private hire after hours. A genuinely good option for a low-key dinner party or work event.
 
----
 
 ## 6. Common Ground
 **The vibe:** Clean, crisp, minimalist design with a lively energy. The kind of café that proves you don't need exposed brick and Edison bulbs to make great coffee.
@@ -104,7 +99,6 @@ The coffee is smooth and well-balanced, and they're one of the few spots on the 
 **Hours:** Mon–Sun 7am–4pm
 **Insider tip:** Weekday mornings are the sweet spot. It's quiet enough to actually have a conversation, and the baristas have time to get your coffee exactly right.
 
----
 
 ## 7. Glick's Bakery
 **The vibe:** Melbourne's original bagel bakery, running since 1968. This isn't a café — it's an institution. Come for the coffee, stay for the best boiled bagels in the southern suburbs.
@@ -118,7 +112,6 @@ The coffee is standard café fare, served alongside the baked goods. But honestl
 **Hours:** Sun–Fri (closed Saturday for Shabbat)
 **Insider tip:** Friday mornings are the best time to visit — the line out the door is locals stocking up for Shabbat, and the energy is incredible. Go before 11am to beat the rush.
 
----
 
 ## The Bottom Line
 
@@ -126,7 +119,6 @@ Balaclava's coffee scene isn't flashy. It doesn't need to be. This is a suburb w
 
 **Your Balaclava Vibe Score this week: 72/100** — solid and steady. The café strip keeps the suburb alive while the residential streets stay quiet and leafy.
 
----
 
 *Know a spot we missed? [Let us know.](https://melbz.com.au/tips)*
 

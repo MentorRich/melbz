@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Preston — 2026 Local Guide"
 cover_image: "/images/preston/new-openings.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the new openings in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["new"]
----
 ## The Best New Openings in Preston
 
 Preston's dining and bar scene is in a constant state of flux. While the Vietnamese and Italian institutions along High Street have been serving locals for decades, there's a steady stream of new openings that are reshaping what Preston means as a food and drink destination.
@@ -113,7 +114,6 @@ Several projects are in development for Preston in 2026:
 
 These are still in planning stages — we'll update this guide as they open and prove themselves.
 
----
 
 **Keep an eye on these streets for the next wave:**
 - High Street between Murray Road and Bell Street
@@ -121,7 +121,6 @@ These are still in planning stages — we'll update this guide as they open and 
 - The Cramer Street corridor near the market
 - Side streets off High Street with warehouse conversions
 
----
 
 **Explore more of Preston's food scene:**
 → [Best Restaurants in Preston — established and newer spots](/preston/best-restaurants/)
@@ -129,7 +128,6 @@ These are still in planning stages — we'll update this guide as they open and 
 → [Best Cafes in Preston — new and classic alike](/preston/best-cafes/)
 → [Cheap Eats in Preston — new market vendors included](/preston/cheap-eats/)
 
----
 
 *This guide was researched and written by the MELBZ team. Opening dates and details are accurate as of March 2026. We recommend checking venue websites or social media before visiting, as hours and offerings can change. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

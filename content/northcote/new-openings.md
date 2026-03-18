@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/new-openings.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the new openings in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["new"]
----
 ## The Best New Openings in Northcote
 
 Northcote doesn't do trends — it does evolution. While Brunswick is busy opening its third natural wine bar of the month and Fitzroy North is trying to decide if it's the new Fitzroy, Northcote just quietly adds to its already stacked lineup. The result? A suburb that's been doing interesting things for so long that new openings here aren't gimmicks — they're genuine additions to a community that knows what it wants.
@@ -18,7 +19,6 @@ Here's what's landed, what's coming, and what you need to know about Northcote's
 
 **Last updated: 16 March 2026** | **Northcote Vibe Score: 81/100 🟢**
 
----
 
 ## 🔥 Vex Dining — The Veg-Forward Wine Bar Everyone's Talking About
 
@@ -32,7 +32,6 @@ The space itself is split between a sunlight-filled dining room and a fairy ligh
 **Budget:** $60–$90 for two with wine
 **Go now if:** You care about what you eat and you're bored of the same veg options everywhere else
 
----
 
 ## 🍽️ Zsa's — European Bistro, Bar and Deli
 
@@ -46,7 +45,6 @@ The bistro menu does all-day European classics — think tartines, seasonal plat
 **Budget:** $40–$70 for two at the bistro, or grab deli items for $20–$30
 **Go now if:** You want a place that's as good for a Tuesday arvo cheese plate as it is for a Saturday night dinner
 
----
 
 ## 🎵 High Note Bar — Heritage Theatre turned Wine Cave
 
@@ -60,7 +58,6 @@ The wine list leans lo-fi and natural, with a emphasis on Victorian producers yo
 **Budget:** $30–$50 for two (wine by the glass + snacks)
 **Go now if:** You want a date spot that makes you look like you discovered it yourself
 
----
 
 ## 🥟 Ophelia — The Retro Cafe-Wine Bar Hybrid
 
@@ -74,7 +71,6 @@ The menu changes seasonally but always leans European — think tarts, seasonal 
 **Budget:** $30–$50 for two
 **Go now if:** You're the type who picks a cafe based on its record collection
 
----
 
 ## 🥖 Akimbo Bread — Micro-Bakery That Top Restaurants Rely On
 
@@ -88,7 +84,6 @@ The suburban shopfront sells the same sourdough that ends up on the tables of Me
 **Budget:** $8–$15 per loaf/pastry
 **Go now if:** You care about bread the way some people care about wine — deeply and personally
 
----
 
 ## 🏠 Brother Bon — Pan-Asian Vegan in a Converted Space
 
@@ -102,7 +97,6 @@ Since opening, Brother Bon has been steadily building a following among Northcot
 **Budget:** $25–$45 for two
 **Go now if:** You want a vegan brunch that doesn't feel like a compromise
 
----
 
 ## 🌮 Welcome to Thornbury — Still Going Strong
 
@@ -116,7 +110,6 @@ Recent additions include an expanded arcade section, improved outdoor heating (b
 **Budget:** $25–$45 for two (drinks + food truck meals)
 **Go now if:** You've somehow never been, or it's been a while — it's evolved more than you'd expect
 
----
 
 ## 📅 Coming Soon: What's on the Radar
 
@@ -126,7 +119,6 @@ Northcote's High Street strip is always evolving. While we can't confirm specifi
 - **Expanded outdoor dining** — several High Street venues are adding or improving courtyard and street-facing seating ahead of autumn and winter, following the trend from Thornbury and Brunswick
 - **Merri Creek precinct** — the area around the creek and bike trail is always good for a surprise opening. Keep your eyes on the gap between the trail and High Street for anything that looks like a cafe or bar with a river view
 
----
 
 ## What's Changed: Updates to Existing Venues
 
@@ -137,7 +129,6 @@ Not every opening is a brand-new venue. Sometimes the news is that an existing s
 - **Mesob Ethiopian** maintains its live jazz program on weekends, which has become as much a draw as the food
 - **Pizza Meine Liebe** continues to refine its seasonal menu — the woodfired specials change weekly and are worth following on Instagram
 
----
 
 ## Getting Around the New Openings
 
@@ -149,7 +140,6 @@ The beauty of Northcote's new openings is that they're almost all on or near Hig
 
 **Parking:** Free on side streets off High Street. Avoid the main strip itself on weekends.
 
----
 
 ## The Bottom Line
 
@@ -157,7 +147,6 @@ Northcote's new openings in 2026 reinforce what this suburb has always been abou
 
 **Your Northcote Vibe Score this week: 81/100** — New openings are landing with impact. The High Street strip between Westgarth and the Social Club is one of the most dynamic food-and-drink corridors in Melbourne right now.
 
----
 
 ## More From the Neighbourhood
 
@@ -168,7 +157,6 @@ Northcote's new openings in 2026 reinforce what this suburb has always been abou
 - → [What's New in Fitzroy North](/fitzroy-north/new-openings)
 - → [Brunswick's Latest Openings](/brunswick/new-openings)
 
----
 
 *Spotted something new we haven't listed? Let us know — we're always scouting.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

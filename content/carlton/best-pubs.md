@@ -5,19 +5,23 @@ date: 2026-03-16
 author: kai
 tags: ["carlton", "pubs", "beer"]
 categories: ["nightlife"]
-description: "Best Pubs in Carlton 2026: Where the Locals Drink
+description: "Best Pubs in Carlton 2026: Where the Locals Drink"
+---
 
-Updated 16 March 2026 | 8 places tested | Kai Thompson reporting
+**Updated 16 March 2026 | 8 places tested | Kai Thompson reporting**
+
+
 
 Carlton has always been Melbourne's univ..."
----
+
+*Updated 16 March 2026 | 8 places tested | Kai Thompson reporting*
+
 # Best Pubs in Carlton 2026: Where the Locals Drink
 
 Updated 16 March 2026 | 8 places tested | Kai Thompson reporting
 
 Carlton has always been Melbourne's university drinking district, but strip away the uni crowd and you'll find a pub scene that actually holds up. After eight weekends working through this suburb's tap lists, bar snacks, and backyard smoking areas, here's the honest ranking.
 
----
 
 ## 1. The Curtin Hotel
 
@@ -33,7 +37,6 @@ The Curtin is the pub Carlton pretends it doesn't need but absolutely does. It s
 
 > **🍺 THE MOVE:** Walk in on a Wednesday, order a pint of whatever Bricklane has on tap, sit in the front window, and watch Lygon Street do its thing. Free entertainment. No booking required.
 
----
 
 ## 2. The Empress Hotel
 
@@ -47,7 +50,6 @@ The Empress straddles the Carlton–Carlton North border and has done the whole 
 
 **Vibe:** Two levels — downstairs is the classic front bar with pool tables and a TAB. Upstairs is lighter, more restaurant-style, and has a covered balcony overlooking Nicholson Street. Friday nights downstairs get loud in the best way. Sunday arvo upstairs is peak relaxation.
 
----
 
 ## 3. The Clyde Hotel
 
@@ -61,7 +63,6 @@ The Clyde is what happens when a pub decides it doesn't need to be everything to
 
 **Vibe:** Quiet. Low. Intimate. The Clyde seats maybe 40 people comfortably and that's the point. Books on shelves, jazz on the speakers, and a bartender who makes eye contact when you walk in. If you're bringing a group of eight for a birthday, go elsewhere. If you're bringing one mate to talk about which GABS festival beers actually delivered, this is your spot.
 
----
 
 ## 4. The Royal Derby Hotel (formerly The Old Derby)
 
@@ -75,7 +76,6 @@ The Royal Derby holds the record for the longest continuously operating pub site
 
 **Vibe:** This is the pub you take visiting friends to when they say "I want to go to a real Melbourne pub." It looks the part. It sounds the part. The front bar has that specific hum of conversation that only exists in pubs with more than a century of spilled beer in the floorboards. The beer garden out back is generous and gets good use in summer.
 
----
 
 ## 5. The Brunswick Hotel
 
@@ -89,7 +89,6 @@ The Brunswick Hotel sits right on the Carlton–CBD fringe and has spent years b
 
 **Vibe:** Big, loud, and unapologetic. The Brunswick Hotel doesn't try to be boutique. It's a proper Melbourne pub with pool tables, big screens for the footy, and a DJ booth that comes alive after 10pm on Fridays. The outdoor area on Swanston Street is perfect for people-watching, which in this part of town is a full-contact sport.
 
----
 
 ## 6. The Victoria Hotel
 
@@ -103,7 +102,6 @@ The Vic is a proper neighbourhood pub that has resisted the urge to become a gas
 
 **Vibe:** Carpet. Wood panelling. A TV showing the racing in the corner. The Vic is aggressively old-school and completely unashamed about it. The crowd is a mix of local residents, uni students who've discovered that not every pub needs a DJ, and retirees who've been drinking here since before some of us were born. The outdoor area is small but well-positioned for afternoon sun.
 
----
 
 ## 7. The Prince of Wales Hotel
 
@@ -117,7 +115,6 @@ Right near RMIT, the Prince of Wales has always had one foot in the student worl
 
 **Vibe:** Two levels with a rooftop that opens in summer. Downstairs is the classic front bar with a pool table and enough room to stand without elbowing strangers. Upstairs is the band room and event space — it hosts local acts on Friday and Saturday nights. The rooftop is the crown jewel: not huge, but it gets afternoon sun and offers a clear view of the city skyline.
 
----
 
 ## 8. The Lyrebird Hotel
 
@@ -138,7 +135,6 @@ The Lyrebird is the newest addition to this list in terms of its current ownersh
 > - The Empress Hotel
 > - Something else (tell us in the confession box 👇)
 
----
 
 ## What We Skipped and Why
 
@@ -148,7 +144,6 @@ Not every pub in Carlton made the cut. Here's why a few familiar names aren't in
 - **Various campus bars** — We don't include RMIT or University of Melbourne campus bars because they're not truly public pubs. Different rules, different crowd, different purpose.
 - **Sports bars on Lygon Street** — A couple of places prioritise the big screens and the TAB over the actual pub experience. If your primary criteria is how many TVs are showing the AFL, those places will serve you fine. They didn't make our list because we're ranking on beer, food, and the overall experience of walking in and feeling like you're somewhere worth being.
 
----
 
 > **📢 CONFESSION BOX:** We know you have opinions. Which pub did we rate too high? Which one did we miss? Drop your confession — no names needed, no judgement guaranteed.
 >
@@ -158,7 +153,6 @@ Not every pub in Carlton made the cut. Here's why a few familiar names aren't in
 >
 > *"The Empress Sunday roast is better than my mum's and I will take that secret to the grave."*
 
----
 
 ## The Verdict
 
@@ -168,18 +162,15 @@ The Curtin takes the top spot because it nails the balance: good beer, honest fo
 
 If you're working your way through Melbourne's pub scene suburbs by suburb, check our [complete nightlife guide for Melbourne](/melbourne-nightlife-guide-2026) for what's coming next — and our [Carlton food guide](/carlton-food-guide-2026) covers where to eat before or after your pub crawl.
 
----
 
 > **🍺 THE MOVE:** Grab a crew, start at The Curtin for the opening pint, walk to The Clyde for a palate reset, end at The Royal Derby for a parma and a jug. The Lygon Street pub crawl nobody asked for but everyone needs.
 
----
 
 *Have a pub tip or a venue we should review next? [Contact the editorial team](/contact) or drop a message in the comments below. Kai Thompson writes about pubs and craft beer across Melbourne. Follow the MELBZ [nightlife section](/nightlife) for weekly updates.*
 
 > **😍 REACT:** How did this guide make you feel?
 > 🍺 "Thirsty" | 😤 "Disagree" | 🤝 "Accurate" | 😂 "Send this to my mate Dave"
 
----
 
 **Also from MELBZ:**
 - [Best Pubs in Fitzroy 2026](/best-pubs-fitzroy-2026)

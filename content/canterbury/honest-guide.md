@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["canterbury", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Canterbury Honest Guide 2026: The Leafy East Sider
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Canterbury Honest Guide 2026: The Leafy East Sider"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Canterbury is what happens when a suburb decides it..."
----
 # Canterbury Honest Guide 2026: The Leafy East Sider
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Canterbury is what happens when a suburb decides it doesn't need to try. No flash, no fanfare, no "look at us, we've got a laneway bar now." Just tree after immaculate tree, heritage homes that cost more than most people's life ambitions, and a quiet, unshakeable certainty that this is one of Melbourne's finest postcodes.
 
@@ -168,7 +171,6 @@ If you want excitement, Canterbury isn't it. If you want a beautiful, safe, well
 
 Just don't move here expecting it to change for you. Canterbury knows exactly what it is. Those trees have been making that point for over a hundred years.
 
----
 
 *Have a hot take on Canterbury? Think we missed something? Tell us on the [MELBZ Facebook page](https://facebook.com/melbz) or hit us up on Instagram [@melbz.com.au](https://instagram.com/melbz.com.au). We read everything — even the angry ones.*
 
@@ -179,7 +181,6 @@ Maybe you think it's overpriced. Maybe you think the cafés are all the same. Ma
 
 [Submit your Canterbury confession →](/confess)
 
----
 
 **Previous Honest Guides:** [Camberwell](/camberwell/honest-guide) | [Balwyn](/balwyn/honest-guide) | [Mont Albert](/mont-albert/honest-guide) | [Kew](/kew/honest-guide) | [Hawthorn](/hawthorn/honest-guide)
 

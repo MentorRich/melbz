@@ -5,11 +5,10 @@ date: 2026-03-16
 author: jack
 tags: ["balaclava", "suburb-guide"]
 categories: ["lifestyle"]
-description: "Balaclava Melbourne Suburb Guide 2026: The Complete Picture
-
-Seven kilometres south-east of the CBD, wedged between Caulfield and St Kilda East, Balaclava pu..."
+description: "Balaclava Melbourne Suburb Guide 2026: The Complete Picture"
 ---
-# Balaclava Melbourne Suburb Guide 2026: The Complete Picture
+
+Seven kilometres south-east of the CBD, wedged between Caulfield and St Kilda East, Balaclava punches well above its weight for a suburb most Melburnians drive through without stopping. Carlisle Street — its commercial spine — is one of the most underrated food strips in the city, and the train ride to Flinders Street takes under 20 minutes. This is the full picture of Balaclava in 2026, warts and all.
 
 Seven kilometres south-east of the CBD, wedged between Caulfield and St Kilda East, Balaclava punches well above its weight for a suburb most Melburnians drive through without stopping. Carlisle Street — its commercial spine — is one of the most underrated food strips in the city, and the train ride to Flinders Street takes under 20 minutes. This is the full picture of Balaclava in 2026, warts and all.
 

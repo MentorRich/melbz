@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Hawthorn — 2026 Local Guide"
 cover_image: "/images/hawthorn/nightlife-guide.jpg"
+---
+
 suburb: "hawthorn"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Discover the nightlife guide in Hawthorn. Our verified 2026 guide covers the best spots for locals."
 tags: ["hawthorn"]
 categories: ["nightlife"]
----
 ## The Best Nightlife Guide in Hawthorn
 
 Hawthorn doesn't have the nightlife reputation of its inner-north neighbours, but that's precisely the point. What the suburb lacks in bar density, it makes up for in character: proper pubs that have been serving the community for decades, a few small bars that punch above their weight, and a scene that rewards locals who know where to go.
@@ -18,7 +19,6 @@ The geography is straightforward. **Burwood Road** is the main artery — runs e
 
 This is your verified 2026 guide to going out in Hawthorn, from the historic hotel to the unconventional small bar.
 
----
 
 ### The Early Evening: Pubs and Wine
 
@@ -28,7 +28,6 @@ Hawthorn's early evening scene is pub-forward, which suits the suburb's characte
 
 **Nevermind Bar** (336 Burwood Road) is Hawthorn's small bar, and it's been doing its thing since 1998 — which makes it practically ancient by Melbourne bar standards. The fit-out is unpretentious: dark wood, low lighting, and the kind of furniture that says "we care about drinks, not décor." The cocktail list is short and well-executed ($22–$28), and the bar does a brisk trade in beer and wine. What makes Nevermind special is the schedule: **Monday is $1 wings and $9 pizzas**, **Tuesday is $3 tacos and Drag Bingo**, **Wednesday is $15 parmas and Trivia**, **Thursday is $10 burgers and Comedy Night**, **Friday and Saturday have live music and DJs until late**, and **Sunday has $3 tacos, $15 parmas, and Open Mic from 7pm**. This is a bar that understands entertainment value. The crowd is a mix of locals, uni students (RMIT Bundoora isn't far), and regulars who've been coming here for years. The live music on weekends is surprisingly good — not the polished tribute band circuit, but actual acts playing original material. Cover charges are rare or nominal ($5–$10 when they apply). This is Hawthorn's under the radar, and anyone who lives in the area should know it.
 
----
 
 ### The Main Event: Pubs and Bars
 
@@ -40,7 +39,6 @@ Hawthorn's pub scene has depth, mostly because the venues have been around long 
 
 **Beta Bar** (level 1/642 Burwood Road) is Hawthorn's unconventional small bar option, tucked away above a retail space on Burwood Road. The fit-out is eclectic: vintage furniture, mismatched chairs, and the kind of atmosphere that says "we don't take ourselves too seriously." The cocktail list is creative without being pretentious ($20–$26), and the wine list has some interesting options. The crowd is a mix of locals and people who've stumbled upon it after wandering past. This is a weekday-night spot, the kind of place where you can have a conversation and actually hear yourself think.
 
----
 
 ### Late Night: After 11pm
 
@@ -52,7 +50,6 @@ Hawthorn's late-night options are limited but characterful. The key is knowing w
 
 **Late-night food** in Hawthorn is patchy. A few kebab shops operate near Glenferrie Road, but quality is inconsistent. Your best bet is grabbing something before last drinks or ordering delivery when you get home.
 
----
 
 ### Live Music and Events
 
@@ -64,7 +61,6 @@ Hawthorn has a small but genuine live music scene, mostly concentrated at Neverm
 
 **Circus Bar & Night Club** (nearby in Cremorne) is worth mentioning for Hawthorn locals who want more options. It's a dedicated nightclub with DJs and events most weekends.
 
----
 
 ### Getting Home Safe
 
@@ -80,7 +76,6 @@ Hawthorn is well-connected by train and tram, making it one of the easier suburb
 
 **Walking** is viable if you're heading to **Camberwell** (about 20 minutes along Burke Road) or **Richmond** (about 25 minutes along Swan Street). The areas are well-lit and safe.
 
----
 
 ### What We Skipped and Why
 
@@ -92,7 +87,6 @@ Hawthorn is well-connected by train and tram, making it one of the easier suburb
 
 **Pokies rooms** — They exist at some of the bigger pubs but are usually segregated. We left them out because they actively make the experience worse.
 
----
 
 ### Nearby Guides Worth Reading
 
@@ -103,11 +97,9 @@ Hawthorn is well-connected by train and tram, making it one of the easier suburb
 
 > **📊 MELBZ POLL** — Hawthorn's best night out starts at: Hawthorn Hotel | Nevermind Bar | Auburn Hotel | Beta Bar
 
----
 
 *Last verified March 2026. Opening hours and cover charges change — always check before you head out.*
 
----
 
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
 

@@ -1,6 +1,8 @@
 ---
 title: "Best Bars in Preston — 2026 Local Guide"
 cover_image: "/images/preston/best-bars.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "jess"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best bars in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["best"]
----
 ## The Best Bars in Preston
 
 Preston's bar scene is one of Melbourne's best-kept open secrets. It's not trying to compete with the CBD or South Yarra — it's building something more interesting: a collection of neighbourhood bars where the bartender knows your drink, the music doesn't overwhelm conversation, and you won't need a second mortgage to cover a round.
@@ -106,7 +107,6 @@ We left out several smaller bars and bottle shops that serve the local community
 
 We also skipped the pub-style venues (the Olympic Hotel, the Preston Hotel) because we cover those in our [best pubs guide](/preston/best-pubs/). And if you're looking for late-night dancing, Preston isn't really the suburb for that — [Thornbury's](/thornbury/) High Street strip and the [Northcote](/northcote/) Social Club will serve you better after midnight.
 
----
 
 **Explore more in Preston's neighbourhood:**
 → [Best Pubs in Preston](/preston/best-pubs/)
@@ -114,7 +114,6 @@ We also skipped the pub-style venues (the Olympic Hotel, the Preston Hotel) beca
 → [Thornbury's bar scene — 10 min walk south](/thornbury/)
 → [Northcote nightlife — 20 min walk](/northcote/)
 
----
 
 *This guide was researched and written by the MELBZ team. Prices and hours are accurate as of March 2026 but should be confirmed before visiting. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

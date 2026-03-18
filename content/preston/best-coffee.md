@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Preston — 2026 Local Guide"
 cover_image: "/images/preston/best-coffee.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best coffee in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["general"]
----
 ## The Best Coffee in Preston
 
 Here's something people don't say often enough: Preston has good coffee. Not "good for the northern suburbs" or "good considering how far from the CBD it is." Just good coffee. The kind that would hold its own against anything in Fitzroy or Collingwood if anyone bothered to make the trip north to try it.
@@ -108,14 +109,12 @@ We focused on Preston's standalone cafes rather than hotel coffee bars, fast-foo
 
 We also left out a few newer spots that haven't been operating long enough to assess their coffee consistency. Quality control takes time, and we'd rather recommend a cafe we know than one that might have changed its beans since opening.
 
----
 
 **More coffee guides in the area:**
 → [Best Coffee in Northcote — the established specialty scene](/northcote/)
 → [Best Coffee in Thornbury — 10 min walk south](/thornbury/)
 → [Best Coffee in Reservoir — multicultural coffee experiences](/reservoir/)
 
----
 
 *This guide was researched and written by the MELBZ team. Prices and hours are accurate as of March 2026 but should be confirmed before visiting. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

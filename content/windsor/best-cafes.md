@@ -1,6 +1,8 @@
 ---
 title: "Best Cafes in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/best-cafes.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best cafes in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["best"]
----
 ## The Best Cafes in Windsor
 
 If Chapel Street was a breakfast menu, the Windsor end would be the bit you actually order from. Not the overpriced, under-flavoured theatre of the South Yarra stretch — the real part, where cafes open at 7am and the coffee doesn't taste like someone made it with resentment.
@@ -100,7 +101,6 @@ The eggs Florentine on a toasted English muffin with hollandaise ($19) is done p
 
 **Insider tip:** On weekday arvos after 2pm, they often have pastries and coffee deals for $10. Good spot for a late-afternoon pit stop.
 
----
 
 ## What We Skipped and Why
 
@@ -110,7 +110,6 @@ The eggs Florentine on a toasted English muffin with hollandaise ($19) is done p
 
 **Any chain cafe** — Windsor doesn't really have chain cafes, and we'd skip them anyway. We're here for the independents.
 
----
 
 ## The Windsor Cafe Scene: What You're Working With
 
@@ -120,14 +119,12 @@ Most Windsor cafes open between 7:00–8:30am and close by 3–4pm. There's not 
 
 If you're comparing suburbs, Windsor's cafe scene is comparable to Prahran in quality and slightly more relaxed in atmosphere. South Yarra has flashier options but charges accordingly.
 
----
 
 **Cross-links:**
 - [Best Cafes in Prahran](/prahran/best-cafes) — similar quality, different vibe
 - [Best Cafes in South Yarra](/south-yarra/best-cafes) — where it gets posher
 - [Best Cafes in St Kilda](/st-kilda/best-cafes) — beach-adjacent brunching
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
 

@@ -1,6 +1,8 @@
 ---
 title: "Coburg Neighbourhood Guide 2026: The Suburb Between Everything"
 cover_image: "/images/coburg/neighbourhood-guide.jpg"
+---
+
 suburb: "coburg"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "The complete neighbourhood guide to Coburg for 2026 — who lives here, what it costs, where to eat, and why people keep moving north."
 tags: ["coburg"]
 categories: ["neighbourhood"]
----
 # Coburg Neighbourhood Guide 2026: The Suburb Between Everything
 
 Coburg sits 11 kilometres north of the CBD, wedged between Brunswick and Preston like the middle child who quietly turned out to be the most interesting one. It's in the City of Merri-Bek (formerly Moreland — the name change happened in 2022 and some locals still haven't adjusted), straddling the border with the City of Darebin on its eastern edge. If you're thinking about moving here, already live here and want to know your suburb better, or just wondering whether it's worth the train ride from the city, this is your guide.
@@ -18,7 +19,6 @@ No fluff. No "packed and diverse" boilerplate. Just what Coburg is actually like
 
 **Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
 
----
 
 ## Who Lives Here
 
@@ -28,7 +28,6 @@ This is one of Melbourne's most genuinely multicultural suburbs. Walk down Sydne
 
 The housing mix reflects this: 1960s and 70s brick flats along the main roads, Victorian-era cottages on the side streets (especially the western side), newer apartment developments around the Pentridge precinct, and the occasional housing commission tower that's been part of the landscape for decades.
 
----
 
 ## Getting Around
 
@@ -40,7 +39,6 @@ The housing mix reflects this: 1960s and 70s brick flats along the main roads, V
 
 **Cars:** Parking is generally easy on side streets (permit zones exist on some blocks near the station). Sydney Road itself is a nightmare to park on during weekends. If you're driving, use the side streets and walk 2 minutes.
 
----
 
 ## Where to Eat & Drink
 
@@ -56,7 +54,6 @@ The food scene is Coburg's biggest asset, and it's not even close. Sydney Road i
 
 **Coburg North:** The strip up near the [Coburg North](/coburg-north/) industrial area is building its own food scene — more casual, more emerging, worth exploring if you've already done the main Sydney Road hits.
 
----
 
 ## Parks & Green Space
 
@@ -67,7 +64,6 @@ Coburg's green spaces are its secret weapon. While the suburb's built environmen
 - **Merri Creek Trail** — runs along Coburg's western edge and connects to a trail network stretching from the Yarra all the way to the north. Walking, cycling, running — it's the best thing about Coburg's geography.
 - **Bridges Reserve** — on Bell Street, hosts the annual [Coburg Night Market](https://www.timeout.com/melbourne/things-to-do/coburg-night-market/) in summer (December). Food trucks, live music, local stalls — genuinely one of Melbourne's best community events.
 
----
 
 ## Shopping
 
@@ -75,7 +71,6 @@ Sydney Road is the main shopping strip and has the mix you'd expect: a good butc
 
 The Pentridge precinct has added some retail — homewares, a bottle shop, and a few independent boutiques — but the real shopping experience in Coburg is the diversity of the Sydney Road strip. You can buy everything from a $5 lahmacun to imported Turkish deli goods to a vintage jacket from the Salvos, all within a 500-metre stretch.
 
----
 
 ## What Nobody Tells You
 
@@ -89,7 +84,6 @@ The Pentridge precinct has added some retail — homewares, a bottle shop, and a
 
 **Brunswick is a 10-minute drive south.** If Coburg doesn't have something, Brunswick almost certainly does. They're sister suburbs in many ways — same train line, similar demographics, overlapping food scenes. The difference is that Brunswick is more expensive and more crowded.
 
----
 
 ## The Bottom Line
 
@@ -97,7 +91,6 @@ Coburg is Melbourne's best-value inner-north suburb. It's got the food diversity
 
 **Your Coburg Vibe Score this week: 72/100** — Steady, genuine, and still undervalued.
 
----
 
 *Know something we missed about Coburg? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

@@ -1,6 +1,8 @@
 ---
 title: "10 Best Coffee Spots in Footscray You Need to Try in 2026"
 cover_image: "/images/footscray/best-coffee.jpg"
+---
+
 suburb: "footscray"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The definitive guide to Footscray's best coffee in 2026. From warehouse roasteries to Vietnamese iced coffee — the west side's caffeine game is seriously underrated."
 tags: ["footscray"]
 categories: ["general"]
----
 # 10 Best Coffee Spots in Footscray You Need to Try in 2026
 
 Here's something Melbourne's inner north doesn't want you to know: Footscray's coffee scene doesn't need defending anymore. It's past the "up-and-coming" stage. It's here. You've got a warehouse roastery where you watch the beans being turned, a Vietnamese bakery slinging $4 iced coffees that put most specialty spots to shame, Ethiopian ceremonies that make a flat white look like a lazy afterthought, and a Japanese-French fusion cafe whose matcha latte might be the best in the city.
@@ -18,7 +19,6 @@ The average flat white in Footscray sits around $4.50 — that's $1.50 less than
 
 **Last updated: 17 March 2026** | **Footscray Vibe Score: 82/100 🔥 RISING**
 
----
 
 ## 1. First Love Coffee Roasters
 **The vibe:** Sun-drenched warehouse in the old cotton mills, watching your coffee get roasted in real-time.
@@ -32,7 +32,6 @@ They source beans with serious intentionality — you can taste the difference b
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** They'll grind beans to your exact specs on the spot. The house blend makes an everyday espresso that punches well above its price at home.
 
----
 
 ## 2. Cafe Larome
 **The vibe:** Japanese-French fusion pastry counter, matcha perfection, and the kind of drinks menu that makes you want to try everything.
@@ -46,7 +45,6 @@ Beyond matcha, the drink menu includes ube lattes (purple, creamy, surprisingly 
 **Hours:** Tue–Sun 8am–3pm
 **Insider tip:** The pastries sell out early. If you see something you want in the cabinet, take it. Waiting is a rookie mistake.
 
----
 
 ## 3. Konjo Cafe
 **The vibe:** Ethiopian coffee ceremony in a modern space — the most soulful cup you'll drink this year.
@@ -60,7 +58,6 @@ For the espresso crowd, the house blends are smooth and approachable. But honest
 **Hours:** Wed–Mon 8am–3pm
 **Insider tip:** Ask for the full coffee ceremony on your first visit. It takes a bit longer, but it's one of the most unique cafe experiences in Melbourne. Come with time to spare.
 
----
 
 ## 4. Rudimentary
 **The vibe:** Shipping container cafe, kitchen garden out back, and a menu that makes sustainability taste exciting.
@@ -74,7 +71,6 @@ You'll sit in a sun-dappled space that feels like a friend's backyard, drink a b
 **Hours:** Tue–Sun 8am–3pm
 **Insider tip:** The garden area is the best spot for a slow morning. Bring a book, order everything, and don't rush. No one's timing you here.
 
----
 
 ## 5. Nhu Lan
 **The vibe:** A Vietnamese bakery institution where the iced coffee is $4 and better than most specialty spots.
@@ -88,7 +84,6 @@ The hot coffee is similarly excellent: strong, sweet, no-nonsense. This is coffe
 **Hours:** Daily from 7am
 **Insider tip:** Go early for the full experience. The roast pork sells out by 11am on weekends, and the coffee hits different at 7:30am when the market's just waking up.
 
----
 
 ## 6. The 2 Men Cafe
 **The vibe:** Vietnamese-flair cafe where the coffee drinks are as creative as the brunch menu.
@@ -102,7 +97,6 @@ The regular espresso game is strong too — properly pulled shots, good milk tex
 **Hours:** Tue–Sun 8am–3pm
 **Insider tip:** The tiramisu brew is seasonal — ask if it's currently on. If it is, order it immediately and thank me later.
 
----
 
 ## 7. Migrant Coffee
 **The vibe:** QPOC-owned bagel and coffee shop where every cup tells a story about community and culture.
@@ -116,7 +110,6 @@ The bagels are New York-style with Filipino, Thai, and Island flavours, and the 
 **Hours:** Tue–Sun 7:30am–2:30pm
 **Insider tip:** Ask about seasonal bagel specials — the limited-run flavours aren't always on the board but are always worth trying.
 
----
 
 ## 8. The Reading Room
 **The vibe:** Books, coffee, and the quietest corner of Footscray — perfect for a working morning.
@@ -130,7 +123,6 @@ It's also one of the few Footscray cafes where you can genuinely sit for two hou
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–3pm
 **Insider tip:** Best weekday morning spot in Footscray for remote workers. Power outlets are available, Wi-Fi is reliable, and nobody judges you for camping out.
 
----
 
 ## 9. Footscray Milking Station
 **The vibe:** Neighbourhood institution, solid coffee, and a pulled-pork panini that's been locally famous for years.
@@ -144,7 +136,6 @@ It's the kind of place where the staff know the regulars by name, where the morn
 **Hours:** Mon–Fri 7am–4pm, Sat 8am–3pm
 **Insider tip:** This is old-school Footscray. Don't come expecting oat milk art — come expecting a proper cup and genuine service.
 
----
 
 ## 10. Dancing Dog Cafe
 **The vibe:** Eclectic cafe with all-day breakfast, good coffee, and a名字 that matches its personality.
@@ -158,7 +149,6 @@ The space is a bit quirky — you'll find local art on the walls, a mix of seati
 **Hours:** Daily 7:30am–3:30pm
 **Insider tip:** Weekend mornings get busy but the outdoor seating turns over faster than inside. If you're in a rush, grab a seat out front.
 
----
 
 ## The Price Check
 
@@ -175,7 +165,6 @@ Here's what a flat white costs across the inner west (2026):
 
 The west wins on price. And the quality gap? What quality gap?
 
----
 
 ## The Bottom Line
 
@@ -185,13 +174,11 @@ If you only try one spot, make it First Love Coffee Roasters. Sit in the warehou
 
 **Your Footscray Vibe Score this week: 82/100** — Coffee scene alone is top-tier for the inner west.
 
----
 
 *Know a spot we missed? Let us know.*
 *Also worth exploring: [Best Coffee in Seddon](/seddon/best-coffee) · [Best Coffee in Yarraville](/yarraville/best-coffee) · [Best Coffee in West Melbourne](/west-melbourne/best-coffee)*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Explore more of Footscray:**
 - 🍽️ [Best Restaurants in Footscray](/footscray/best-restaurants)

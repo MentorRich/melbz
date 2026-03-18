@@ -1,6 +1,8 @@
 ---
 title: "Best Cafes in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/best-cafes.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne is Melbourne's #1 suburb for cafe density. Here are the cafes actually worth your time in 3121."
 tags: ["cremorne"]
 categories: ["best"]
----
 # Best Cafes in Cremorne — Where Melbourne's Coffee Obsession Lives Smallest
 
 Let's get this out of the way: Cremorne is Melbourne's most cafe-dense suburb. Not Carlton, not South Melbourne, not Fitzroy — this tiny industrial pocket wedged between Richmond and South Yarra topped the Domain Liveable Melbourne study for cafe culture. And when a suburb the size of a large car park has that many cafes, the quality bar has to be sky-high just to survive.
@@ -18,7 +19,6 @@ The story of Cremorne's cafe scene is the story of tech money meeting old-school
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## 1. Niccolo Coffee
 **The vibe:** Specialty coffee taken to its logical extreme — light-filled, precise, and run by people who think about extraction times while you sleep.
@@ -32,7 +32,6 @@ It's all about the coffee here. There's food, but honestly, you come for the esp
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–2pm
 **Insider tip:** Ask the barista what they're cupping that day. They love talking about it, and the answer will be better than anything on the regular menu.
 
----
 
 ## 2. Baker Bleu
 **The vibe:** Sourcery and pastry sorcery in a blue-and-white warehouse that makes you want to buy the building.
@@ -46,7 +45,6 @@ The café side serves Market Lane coffee, which is excellent, and the food menu 
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** Buy a loaf of the signature sourdough to take home. It's $12 and it will ruin every other bread you've ever eaten. You've been warned.
 
----
 
 ## 3. OnAir
 **The vibe:** Coffee culture meets club culture — great brews, crisp beats, and DJs dropping in for impromptu sets before lunch.
@@ -60,7 +58,6 @@ It's built for the creatives who miss late nights but still love an early latte.
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–2pm
 **Insider tip:** Thursday and Friday afternoons sometimes have surprise DJ sets that start around 2pm. Follow their Instagram for announcements.
 
----
 
 ## 4. Café Decjuba x St. Ali
 **The vibe:** Corner café where the $4.50 coffee is a genuine neighbourhood service and the croissants punch well above their weight.
@@ -74,7 +71,6 @@ It's not trying to be the coolest café in Cremorne. It's trying to be the most 
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–2pm
 **Insider tip:** The outdoor tables catch the morning sun from about 9am. Park yourself on the Cubitt Street corner and watch Cremorne wake up.
 
----
 
 ## 5. La Manna & Sons
 **The vibe:** Italian deli meets café, where the panini are stacked and the Allpress coffee flows like it's 2012 all over again.
@@ -88,7 +84,6 @@ The coffee is Allpress, which is a deliberate choice and a good one. Wani Sak an
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–3pm
 **Insider tip:** The focaccia sells out by mid-morning most days. If you want one, make it your first stop, not your second.
 
----
 
 ## 6. My Oh My Espresso
 **The vibe:** No-nonsense early-morning espresso bar that opens at 6am because actual humans need coffee at 6am.
@@ -102,7 +97,6 @@ It's the café equivalent of a reliable friend: always there, never flashy, alwa
 **Hours:** Mon–Fri 6am–6pm, Sat–Sun 7am–6pm
 **Insider tip:** The 6:45am slot is the sweet spot — coffee's flowing, no queue, and you'll feel like you own the suburb.
 
----
 
 ## 7. Hunted+Gathered
 **The vibe:** Bean-to-bar chocolate factory meets café. The air alone is worth the trip down Gwynne Street.
@@ -116,7 +110,6 @@ The coffee is good too — smooth, balanced, sourced and roasted with the same c
 **Hours:** Mon–Fri 7:30am–3:30pm, Sat 8:30am–3:30pm
 **Insider tip:** They occasionally do chocolate-making workshops — check their socials. It's the kind of thing that makes a great date or a terrible first date, depending on how confident you are with tempering chocolate.
 
----
 
 ## 8. Suupaa
 **The vibe:** Tokyo konbini meets Melbourne brunch in a playful, colourful space that refuses to take itself seriously.
@@ -130,7 +123,6 @@ It's fun, it's different, and it proves that Cremorne's café scene isn't just a
 **Hours:** Mon–Fri 8am–4pm (check for evening hours)
 **Insider tip:** The bento boxes change seasonally and sell out fast. If you see one on the counter, grab it — don't deliberate.
 
----
 
 ## What We Skipped and Why
 
@@ -140,7 +132,6 @@ It's fun, it's different, and it proves that Cremorne's café scene isn't just a
 
 **Top Paddock** — Featured in our [Best Brunch guide](/cremorne/best-brunch) because it's first and foremost a brunch destination. For pure coffee-focused café coverage, we've kept this list to the spots where the café experience is the primary draw.
 
----
 
 ## The Bottom Line
 
@@ -148,7 +139,6 @@ Cremorne has more cafes per person than any Melbourne suburb, which means the co
 
 **Your Cremorne Vibe Score this week: 79/100** — Coffee culture runs so deep here that even the offices have good beans.
 
----
 
 *Know a spot we missed? Let us know.*
 

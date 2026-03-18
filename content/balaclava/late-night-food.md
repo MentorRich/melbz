@@ -5,12 +5,17 @@ date: 2026-03-16
 author: ethan
 tags: ["balaclava", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in Balaclava 2026: After Dark on Carlisle Street
+description: "Late Night Food in Balaclava 2026: After Dark on Carlisle Street"
+---
 
-Updated 16 March 2026 | 6 places tested | Ethan Cross reporting
+**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
+
+
 
 Carlisle Street doesn't ge..."
----
+
+*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
+
 # Late Night Food in Balaclava 2026: After Dark on Carlisle Street
 
 *Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
@@ -19,7 +24,6 @@ Carlisle Street doesn't get the hype it deserves. You hear about [St Kilda](/st-
 
 We walked the strip on three weeknights and a Saturday to see what's actually open when hunger hits after dark. Here's what survived.
 
----
 
 ## 1. Rufio — Latin Fusion With a Rooftop
 
@@ -36,7 +40,6 @@ Kitchen runs until late on Fridays and Saturdays. The cocktail list leans hard i
 
 **Best for:** Date night that turns into a big night. The rooftop in warmer months is unbeatable.
 
----
 
 ## 2. Balaclava Hotel — The Pub That Never Sleeps
 
@@ -53,7 +56,6 @@ The rooftop deck is small but pleasant, and the heritage facade gives the whole 
 
 **Best for:** The late-night parma and a jug of beer when everywhere else has shut.
 
----
 
 ## 3. Si Senor Art Taqueria — Tacos Until 10pm
 
@@ -70,7 +72,6 @@ Kitchen closes at 9:30pm weekdays and 10pm on weekends. That's late enough to be
 
 **Best for:** Tacos and margies after work, or a group dinner that doesn't break the bank.
 
----
 
 ## 4. Mopho Canteen — Vietnamese That Runs Late
 
@@ -87,7 +88,6 @@ The menu has strong vegetarian options and the flavour combinations are more con
 
 **Best for:** A proper sit-down dinner when you want flavour without fuss. Weekend late-night slot.
 
----
 
 ## 5. The Local Taphouse — Craft Beer and Kitchen-Until-Late Pub Food
 
@@ -104,7 +104,6 @@ There's also regular trivia and comedy nights that bring in a mixed crowd of loc
 
 **Best for:** Craft beer drinkers who want decent food with their pints. The rooftop is a winter winner.
 
----
 
 ## 6. Ms Carlisles — The Late-Night Dark Horse
 
@@ -120,7 +119,6 @@ It's not cheap by Balaclava standards, but the quality-to-price ratio is strong,
 
 **Best for:** A quieter late-night option when the pubs feel too rowdy. Good date spot.
 
----
 
 ## What We Skipped and Why
 
@@ -134,7 +132,6 @@ Not every venue on Carlisle Street made the cut. Here's what we left out and why
 
 **Any late-night delivery-only spots** — We deliberately excluded ghost kitchens and delivery-only operations. This list is about walking out your door and finding food. Delivery is a different article.
 
----
 
 ## Getting There and Getting Home
 
@@ -142,7 +139,6 @@ Balaclava Station sits right on the Sandringham line and most of these venues ar
 
 Trams along Carlisle Street itself run frequently during the day but thin out after 10pm. Rideshare is reliable in this pocket given the proximity to St Kilda and Chapel Street.
 
----
 
 ## The Verdict
 
@@ -152,7 +148,6 @@ The strip's sweet spot is Friday and Saturday from 8pm to midnight — Rufio is 
 
 The lack of a truly late-night dedicated takeaway spot (after midnight) is the one gap. The Balaclava Hotel's bar food fills most of that hole, but a proper 24-hour banh mi or kebab shop would own this street. Someone get on that.
 
----
 
 > **Disclaimer:** Hours and prices were verified in March 2026 but can change without notice. We paid for every meal on this list — no comped food, no sponsored placements. Always check ahead for public holiday hours.
 

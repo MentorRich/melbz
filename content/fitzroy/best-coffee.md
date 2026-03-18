@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/best-coffee.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the best coffee in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["general"]
----
 ## The Best Coffee in Fitzroy
 
 Fitzroy takes its coffee personally. This is a suburb where people will argue about extraction times at dinner parties and where baristas get recognised on the street. That intensity isn't performative — it's earned. Fitzroy has been Melbourne's coffee proving ground since the mid-90s, and the spots that survive here do so because the coffee is genuinely excellent, not because of a nice Instagram grid.
 
 Here's where to get the best cup in Fitzroy right now.
 
----
 
 ## 1. Industry Beans — 47 Rose Street, Fitzroy
 
@@ -28,7 +28,6 @@ Industry Beans has been a Fitzroy anchor since 2010 and they've earned every bit
 
 **Accessibility:** Step-free entry, accessible bathroom. The warehouse floor is level throughout.
 
----
 
 ## 2. Dead Man Espresso — 359 Smith Street, Fitzroy
 
@@ -38,7 +37,6 @@ Dead Man is the anti-hipster coffee shop, which is ironic given it's in the hear
 
 **The vibe:** Three stools inside and a bench out front. This is grab-and-go or quick-chat territory. The staff know regulars by name and by order. It feels like a neighbourhood shop, not a destination cafe, and that's exactly the point.
 
----
 
 ## 3. Proud Mary — 40 Rose Street, Fitzroy
 
@@ -48,7 +46,6 @@ Proud Mary is what happens when a coffee nerd opens a cafe with no intention of 
 
 **The vibe:** busy, loud, unapologetically busy. Communal tables mean you'll end up talking to strangers. This is a Saturday morning power-move cafe. Bookings not accepted, expect a 15–20 minute wait on weekends.
 
----
 
 ## 4. 5 and Dime — 155 Brunswick Street, Fitzroy
 
@@ -58,7 +55,6 @@ Proud Mary is what happens when a coffee nerd opens a cafe with no intention of 
 
 **The vibe:** Quiet, contemplative, good for actual conversation. The music is low, the light is soft, and nobody is filming a TikTok. If you need to get work done or have a proper chat, this is your spot.
 
----
 
 ## 5. Code Black Coffee — 151 Johnston Street, Fitzroy
 
@@ -68,7 +64,6 @@ Code Black operates out of a converted warehouse on Johnston Street and brings a
 
 **The vibe:** Exposed concrete, black steel, big communal tables. The Johnston Street location means it pulls a slightly different crowd than the Brunswick/Smith Street cafes — more locals, fewer tourists. Dog-friendly outdoor area.
 
----
 
 ## 6. Fitzroy Coffee — 241 Gertrude Street, Fitzroy
 
@@ -78,7 +73,6 @@ The name is aggressively literal and that's fine. Fitzroy Coffee is a small oper
 
 **The vibe:** Small, clean, efficient. This is the "coffee on the way to work" spot. Quick service, no-nonsense, and they get the orders right every time. There's a bench out front if you've got five minutes to spare.
 
----
 
 ## The Prices at a Glance
 
@@ -93,7 +87,6 @@ The name is aggressively literal and that's fine. Fitzroy Coffee is a small oper
 
 Prices as of early 2026. They go up, they never go down.
 
----
 
 ## What We Skipped and Why
 
@@ -103,7 +96,6 @@ Prices as of early 2026. They go up, they never go down.
 
 **Generic chain spots:** No. Just no.
 
----
 
 ## Cross-Suburb Coffee Comparisons
 
@@ -113,7 +105,6 @@ If you're exploring beyond Fitzroy, these guides cover the coffee scene in neigh
 - [Best Coffee in Carlton](/fitzroy/best-coffee) — Lygon Street's old guard versus the new wave
 - [Best Coffee in Fitzroy North](/fitzroy/best-coffee) — The quieter, more residential sibling with under the radars
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ What's your Fitzroy coffee order?**
@@ -124,7 +115,6 @@ If you're exploring beyond Fitzroy, these guides cover the coffee scene in neigh
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-coffee-order)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -133,7 +123,6 @@ Coffee culture is the #1 driver of Fitzroy's score this week. Up 3 points from l
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 Think we got it wrong?**
@@ -142,7 +131,6 @@ Fitzroy locals have opinions. Strong ones. Tell us where we stuffed up or what w
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -151,7 +139,6 @@ Fitzroy locals have opinions. Strong ones. Tell us where we stuffed up or what w
 - [Best Cafes in Fitzroy](/fitzroy/best-cafes) — the full sit-down experience
 - [New Openings in Fitzroy](/fitzroy/new-openings) — what's just landed
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every coffee, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

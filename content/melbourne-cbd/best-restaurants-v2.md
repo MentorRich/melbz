@@ -5,10 +5,10 @@ date: 2026-03-16
 author: jules
 tags: ["melbourne-cbd", "restaurants", "food"]
 categories: ["food"]
-description: "Best Restaurants in Melbourne CBD 2026: Laneways & Fine Dining
+description: "Best Restaurants in Melbourne CBD 2026: Laneways & Fine Dining"
+---
 
 Melbourne's CBD dining scene in 2026 is doing something it hasn't done in years — it's genuin..."
----
 # Best Restaurants in Melbourne CBD 2026: Laneways & Fine Dining
 
 Melbourne's CBD dining scene in 2026 is doing something it hasn't done in years — it's genuinely surprising again. New openings from Andrew McConnell, the Conferre Group behind Tipo 00, and a Filipino wood-fire joint called Serai that's been steadily collecting accolades have shaken up what was starting to feel like a predictable loop of steakhouses and dumpling bars. The laneways are alive (sorry, had to), and the range of what you can eat between Flinders Street and Spring Street has never been wider.
@@ -17,7 +17,6 @@ This isn't a list of every restaurant in the city — that would take a month an
 
 **Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting**
 
----
 
 ## 1. Serai — The Wood-Fire Filipino That's Redefining the CBD
 
@@ -35,7 +34,6 @@ What makes Serai special isn't just the Filipino angle. It's that Magnaye, along
 
 [Related: Planning dinner before a show? Check our guide to [cheap eats in Carlton](/carlton) for pre-theatre options]
 
----
 
 ## 2. Ishizuka — The Underground Kaiseki Worth Every Dollar
 
@@ -55,7 +53,6 @@ At $315 per person (plus optional drink pairing), this isn't Tuesday night feed 
 
 [Related: If Ishizuka is the $315 night, our [Fitzroy dining guide](/fitzroy) covers the $40-and-under gems]
 
----
 
 ## 3. Tipo 00 — Melbourne's Best Pasta, Full Stop
 
@@ -73,7 +70,6 @@ The chef's menu at $65 per person is genuinely one of the best-value multi-cours
 **Hours:** Monday to Saturday, 11.30am–10.00pm
 **Insider tip:** They don't take reservations for small groups — just walk in and put your name down. Tuesday or Wednesday lunch is the sweet spot: minimal wait, same food. Grab a drink at the bar while you wait; the Italian wine list is excellent and well-priced.
 
----
 
 ## 4. Flower Drum — The Cantonese Institution That's Still Got It
 
@@ -91,7 +87,6 @@ Yes, it's expensive. Mains hover around $80–120, and a group dinner here can c
 **Hours:** Monday to Saturday, 12.00pm–2.30pm and 6.00pm–11.00pm
 **Insider tip:** Ask for selections from the unpublished chef's menu — regulars know about this, and it's where the kitchen shows off its best work. The lunch service is significantly more affordable than dinner and just as good. Parking in the Chinatown multi-storey is easiest — the laneways are a nightmare after 6pm.
 
----
 
 ## 5. Soi 38 — From Car Park Legend to Proper Restaurant
 
@@ -111,7 +106,6 @@ At $15–35 per person, Soi 38 remains one of the best-value meals in the CBD. F
 
 [Related: Love the affordability of Soi 38? Our [Southbank dining guide](/southbank) has more budget-friendly options near the river]
 
----
 
 ## 6. Gimlet at Cavendish House — Old-World Glamour, Modern Melbourne
 
@@ -129,7 +123,6 @@ McConnell is also opening Côte Basque on Crossley Street in mid-2026, so if you
 **Hours:** Seven days, lunch and dinner, plus weekend brunch
 **Insider tip:** The bar doesn't take bookings — walk in for a pre-dinner drink or a solo meal at the counter. Weekend brunch is the quietest service and arguably the best value, with dishes like eggs Benedict done the McConnell way. Book the dining room window seat if you want the view; it's worth specifying when you reserve.
 
----
 
 ## 7. Longrain — The Thai Banquet That Started It All
 
@@ -145,7 +138,6 @@ Upstairs, Longsong bar opens Thursday to Saturday for pre- or post-dinner drinks
 **Hours:** Monday to Saturday, dinner from 6.00pm; Longsong Thursday to Saturday
 **Insider tip:** The banquet is the only way to eat here if it's your first time — it takes the guesswork out and ensures you try the best of the menu. If you're coming from a Southbank show, it's a 15-minute walk through the CBD or a short tram ride down Bourke Street. The communal tables mean you might end up sharing with strangers — and honestly, that's part of the charm.
 
----
 
 
 ## Venue Addresses & Details
@@ -170,7 +162,6 @@ Every "best restaurants" list has omissions, and here's ours with explanations:
 
 **Marmelo** — Ross and Sunny Lusted's brand-new CBD restaurant just opened and we haven't had enough visits to give it a fair rating. Early buzz is extremely positive. Check back next month.
 
----
 
 
 ## Venue Addresses & Details
@@ -189,7 +180,6 @@ The sweet spot? That's somewhere in the middle — restaurants like Tipo 00 and 
 
 The other thing worth noting: the CBD's best restaurants are increasingly hiding in laneways and side streets rather than on main drags. Racing Club Lane, McIlwraith Place, Middleton Lane — if you're not looking, you're not finding them. Melbourne's always been a city that rewards the curious, and in 2026, that's truer than ever in its dining scene.
 
----
 
 *Have a CBD favourite we missed? Tell us — we eat everything.*
 *[Subscribe to the MELBZ Melbourne CBD weekly briefing](/subscribe) for new openings, hot tables, and what's happening in the city this week.*

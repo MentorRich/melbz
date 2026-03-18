@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["ivanhoe", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Ivanhoe Honest Guide 2026: Upper Heidelberg Road & Real Opinions
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Ivanhoe Honest Guide 2026: Upper Heidelberg Road & Real Opinions"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Let's get this out of the way early: ..."
----
 # Ivanhoe Honest Guide 2026: Upper Heidelberg Road & Real Opinions
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Let's get this out of the way early: Ivanhoe is not trying to be cool. It's not pretending to be the next Fitzroy or the next Footscray. It's not gentrifying itself into some performative version of "authentic." Ivanhoe is Ivanhoe — a leafy, hilly, slightly sleepy pocket of Melbourne's northeast that has quietly been doing its own thing for about 150 years, and it's not particularly bothered if you've noticed.
 
@@ -122,7 +125,6 @@ If you're comparing it to Heidelberg, Heidelberg has more going on commercially 
 
 **The bottom line:** Ivanhoe is Melbourne's most underrated "fine" suburb. Not fine as in "average" — fine as in "actually, this is pretty good, and I don't need to justify it to anyone."
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 

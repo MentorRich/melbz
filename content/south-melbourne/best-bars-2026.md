@@ -5,12 +5,17 @@ date: 2026-03-16
 author: lina
 tags: ["south-melbourne", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Best Bars in South Melbourne 2026: The Drinks Guide
+description: "Best Bars in South Melbourne 2026: The Drinks Guide"
+---
 
-Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
+**Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
+
+
 
 South Melbourne doesn't shout about its..."
----
+
+*Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
+
 # Best Bars in South Melbourne 2026: The Drinks Guide
 
 *Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
@@ -120,7 +125,6 @@ If you're planning a bar crawl, Clarendon Street is your natural corridor. Start
 
 For more Melbourne bar guides, check out our roundups of the [best bars in St Kilda](/st-kilda/best-bars-2026), [best bars in South Yarra](/south-yarra/best-bars-2026), and the [best cocktail bars in the CBD](/cbd/best-cocktail-bars-2026).
 
----
 
 **🗳️ FINAL POLL: Rate this guide**
 Super helpful · Good but I want more · I already knew all of these · Take me to the next suburb

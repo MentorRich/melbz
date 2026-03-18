@@ -3,9 +3,10 @@ title: "St Kilda"
 cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
 description: "Bayside bohemia with iconic nightlife. From Luna Park to Fitzroy Street's bars and Acland Street's cafes, discover Melbourne's seaside playground and cultural melting pot."
 author: "Jules Marchetti"
+---
+
 author_role: "Editor-in-Chief"
 author_image: "/images/authors/jules.jpg"
----
 
 St Kilda is Melbourne’s weekend escape without leaving the city. It’s where the tram lines end and the bay begins, where the scent of salt air mixes with espresso and beer, and where a century of carnival history lives on in the laughter echoing from Luna Park. This is a suburb that knows how to play—whether you’re here for a morning swim, an afternoon pint on a rooftop, or a late‑night dance in a heritage‑listed ballroom.
 

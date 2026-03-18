@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Coburg 2026: Where Romance Meets Sydney Road"
 cover_image: "/images/coburg/date-night.jpg"
+---
+
 suburb: "coburg"
 vertical: "food"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "The best date night spots in Coburg for 2026 — 6 verified restaurants and bars for romantic dinners, first dates, and everything in between."
 tags: ["coburg"]
 categories: ["date"]
----
 # Date Night in Coburg 2026: Where Romance Meets Sydney Road
 
 Here's what nobody tells you about Coburg and date night: it's actually one of the best spots in Melbourne for it. Not because it's trying to be — there are no rooftop candlelit dinners overlooking the Yarra, no tasting menus with 14 courses and a wine pairing that costs more than your weekly groceries. What Coburg offers is something better: restaurants where the food is genuinely excellent, the atmosphere is warm without being try-hard, and you won't blow a week's pay before the entrees arrive.
@@ -20,7 +21,6 @@ Here are six spots that'll make your date night in Coburg memorable for the righ
 
 **Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
 
----
 
 ## 1. North & Common
 
@@ -35,7 +35,6 @@ The menu changes with the seasons, but expect things like Spencer Gulf kingfish 
 **Hours:** Wed–Sat 5:30pm–late, Sat 12pm–3pm (bottomless brunch)
 **Insider tip:** Book the chef's counter if it's available — you'll watch the kitchen work and it's a much more intimate experience than a regular table. Perfect for a date where you want something to talk about.
 
----
 
 ## 2. Antalya Turkish Restaurant
 
@@ -50,7 +49,6 @@ The food is proper Turkish — not the tourist-trap version, but the kind that T
 **Hours:** Daily 10am–10pm
 **Insider tip:** Ask for the back room if it's available — it seats 6-8 and feels like a private dining experience without the private dining price tag. Great for when you want to make it feel special.
 
----
 
 ## 3. Rosa Restaurant
 
@@ -65,7 +63,6 @@ The menu rotates, but the constants are excellent: a burrata starter that's crea
 **Hours:** Wed–Sun 5:30pm–10pm, closed Mon–Tue
 **Insider tip:** Book ahead for Friday and Saturday — the 30 seats fill up fast. Wednesday and Thursday are the secret nights where you'll get the same food with more attention from the staff and more table time.
 
----
 
 ## 4. Gemini Melbourne
 
@@ -80,7 +77,6 @@ For a first date, Gemini is ideal: it's a bar, so the pressure is lower than a s
 **Hours:** Wed–Thu 4pm–11pm, Fri–Sat 4pm–1am, Sun 2pm–10pm
 **Insider tip:** The late-night Friday and Saturday sessions have a different energy — more like a bar, less like a restaurant. If you want the intimate date-night vibe, go Wednesday or Thursday evening.
 
----
 
 ## 5. The Boot Factory
 
@@ -95,7 +91,6 @@ The evening menu focuses on share plates — think slow-cooked meats, seasonal v
 **Hours:** Dinner Wed–Sat from 5:30pm
 **Insider tip:** Ask for a table near the windows — the view of the Pentridge precinct at dusk, with the old bluestone walls lit up, is genuinely romantic. Better than any city restaurant view.
 
----
 
 ## 6. Strangeloves Wine Bar
 
@@ -110,7 +105,6 @@ The food is simple and shareable: cheese plates, charcuterie, seasonal small pla
 **Hours:** Thu–Sat 4pm–11pm, Sun 2pm–8pm
 **Insider tip:** The bar seats are great for solo visits or casual dates, but for a proper date-night experience, book one of the small tables in the back. It's more private and the lighting is better.
 
----
 
 ## The Bottom Line
 
@@ -122,7 +116,6 @@ The inner-north date-night landscape is competitive: [Brunswick's date night sce
 
 **Your Coburg Vibe Score this week: 72/100** — Date night sorted. No pretension required.
 
----
 
 *Know a date-night spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

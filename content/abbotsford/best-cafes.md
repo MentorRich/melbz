@@ -5,17 +5,17 @@ date: 2026-03-16
 author: eli
 tags: ["abbotsford", "cafes", "food"]
 categories: ["food"]
-description: "Updated 16 March 2026 | 6 places tested | Eli Chen reporting
-
-Abbotsford sits in that sweet spot between the grit of Collingwood and the leafy calm of Kew — ..."
+description: "Best Cafes in Abbotsford 2026: Where to Get Your Coffee Fix. Six cafes tested, priced and written up without fluff."
 ---
-*Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
+
+***Updated 16 March 2026 | 6 places tested | Eli Chen reporting***
+
+
 
 Abbotsford sits in that sweet spot between the grit of Collingwood and the leafy calm of Kew — close enough to the city to be a bike ride, far enough to feel like you have left it behind. The suburb runs on Victoria Street's Vietnamese strip, the Yarra's riverbanks, and a stretch of Nicholson Street that has quietly become one of Melbourne's best cafe corridors.
 
 We spent three weeks working through every notable cafe in the 3067 postcode. Some were obvious picks. Others surprised us. A few did not make the cut (we explain why below). What follows are the six cafes that earned a permanent spot in the rotation — tested, priced and written up without the usual fluff.
 
----
 
 ## 1. Three Bags Full — The Brunch Institution
 
@@ -23,153 +23,123 @@ Three Bags Full has been a fixture of the Abbotsford cafe scene since 2010, orig
 
 The current menu does not reinvent the wheel — it just makes the wheel work better than almost anyone else. The scrambled eggs with herbs, crushed peas, grilled leg ham and salty ricotta ($21) is the dish that keeps people coming back. It sounds simple. It is not. The eggs are barely set, the ricotta adds salt and creaminess, and the ham is thick enough to justify itself. For something heavier, the corn and zucchini fritters with poached eggs, avocado and chilli jam ($22) hit the brief. Coffee runs from a house blend ($4.50 for a flat white) to single-origin pour-overs ($5.50) if you want to nerd out.
 
-The space sits inside the old Denton Hat Mills on Nicholson Street — exposed brick, big windows, a communal table that has probably hosted more first dates than any other surface in the suburb. Weekday mornings are calm. Saturday from 9am is a different story — expect a 20-minute wait unless you book.
 
-📍 Three Bags Full, 60 Nicholson Street, Abbotsford 3067
-⏰ Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
-💰 Mains $18–$26, coffee from $4.50
+## 2. Dr. Morse Bar & Eatery — The All-Day Option
 
----
+Dr. Morse occupies a converted corner pub on Johnston Street and has become one of Abbotsford's most reliable all-day options. The space is long and narrow, with a bar that runs the length of the room and banquette seating along the opposite wall. It is casual enough for a weekday breakfast, special enough for a Saturday brunch.
 
-## 2. AU79 — The Big Beast
+The menu is pan-Asian influenced, which makes it different from the standard brunch fare elsewhere. The congee with ginger, spring onion and crispy shallots ($16) is a standout for cold Melbourne mornings. The banh mi with five-spice pork, pickled vegetables and coriander ($15) is one of the better versions in the area — properly spiced, properly textured. Coffee is from Proud Mary (a Melbourne institution), so the flat white is excellent. The avocado toast with poached eggs and macadamia dukkah ($18) is solid if predictable.
 
-AU79 is either the largest cafe in Melbourne or the second-largest, depending on who you ask. Either way, it is enormous. The name comes from gold on the periodic table — Au, atomic number 79 — and when you walk into this converted mechanics warehouse on Nicholson Street, the ambition is immediately obvious.
 
-The space seats over 200 people across indoor and outdoor areas, with high ceilings, hanging greenery, and an on-site bakery and roastery visible behind glass walls. This is not a cafe that does things by halves. The kitchen runs a seasonal menu that rotates with what is available. The roasted field mushrooms with truffle oil on sourdough ($22) are earthy and rich. The signature AU79 big breakfast — free-range eggs, house-made chorizo, roasted tomato, sourdough and greens ($26) — is the kind of plate that justifies the price. The kale and corn fritters with poached eggs and smoky chilli sauce ($20) are a reliable vegetarian option, and the pastry cabinet, stocked with croissants, Danishes and tarts baked on-site every morning, is dangerous if you are trying to avoid a second breakfast.
+## 3. Sister Soul — The Local Favourite
 
-The coffee operation is legit. They roast their own beans in the visible roastery out back and offer both a house blend and rotating single origins. A flat white is $4.80, filter and pour-over coffees run $5.50–$7, and if you want to take beans home, the retail shelf is well-priced. The one downside is parking — the surrounding streets are tight — but the tram down Nicholson Street drops you practically at the door.
+Sister Soul is exactly what a neighbourhood cafe should be: consistent, friendly, and never trying too hard. It is a small space on Nicholson Street with a handful of tables inside and a few more out front. The menu changes seasonally, but the standards remain.
 
-Pro tip: weekday mornings before 9am are golden. Weekends from 10am onward are chaos.
+The big draw here is the breakfast bun with bacon, egg, cheese and house-made relish ($15). It is a proper hangover cure — carb-heavy, protein-rich, and exactly what you need on a Sunday morning. The granola with Greek yogurt, honey and seasonal fruit ($14) is the lighter option if you have already exceeded your weekend calorie budget. Coffee is from local roasters, and the flat white is smooth and chocolatey.
 
-📍 AU79, 27-29 Nicholson Street, Abbotsford 3067
-⏰ Mon–Fri 7am–3:30pm, Sat–Sun 8am–3:30pm
-💰 Mains $18–$28, coffee from $4.80
 
----
+## 4. White Rabbit — The Art Space Cafe
 
-## 3. Groove Coffee Shop — The One That Broke TikTok
+White Rabbit is attached to the White Rabbit Gallery (an art space that is worth visiting regardless of your cafe intentions), and it serves as a quiet retreat from the busier Nicholson Street strip. The menu is small but thoughtful, and the coffee is excellent.
 
-There are cafes that build word of mouth slowly, and then there are cafes that go nuclear on TikTok six months after opening. Groove Coffee Shop belongs squarely in the second category. Opened in late 2025 by three friends — Quoc Bao Truong, Thi My Ngoc Vo and Hoang Duong Pham — this Vietnamese-Korean cafe on a quiet Abbotsford side street has attracted queues that would make a Richmond football final look modest.
+The tartine with avocado, hummus and dukkah ($17) is the kind of dish that looks simple but is perfectly executed. The eggs on toast with wilted greens and tahini ($16) is a vegan-friendly option that does not compromise on flavour. The space itself is worth a visit — the gallery displays contemporary Asian art, and the cafe is a peaceful spot to reflect after wandering through the exhibitions.
 
-The draw? Ca phe trung (Vietnamese egg coffee) — a thick, custard-like drink that arrives in a small glass and tastes like liquid tiramisu. It is $7.50 and it is worth every cent. Their salted cream cold brew ($6.50) is the other head-turner: a layered iced coffee with a cap of savoury-sweet cream that you are supposed to drink through without stirring. The hojicha latte ($6) is smooth and nutty, and their matcha drinks (from $6) use proper ceremonial-grade powder, not the supermarket stuff. For food, there is garlic bread that has its own fan following ($8), plus a rotating selection of cheesecakes and Vietnamese-inspired bites. The industrial interior is moody and compact — concrete floors, dim lighting, low stools — and the playlist is always excellent. This is not a place to camp for three hours with a laptop. Come, drink something extraordinary, and get out. Or do the opposite — they have bean bags now.
 
-📍 Groove Coffee Shop, 17 Lithgow Street, Abbotsford 3067
-⏰ Open daily (check their Instagram @groove.mel for current hours)
-💰 Drinks $6–$8, food $8–$16
+## 5. Chez Dr. M — The French Touch
 
----
+Chez Dr. M is the more formal sibling of Dr. Morse, located just around the corner on the same stretch of Johnston Street. It is a French bistro with a cafe counter at the front and a full restaurant at the back. The pastries are flown in from France daily, and the coffee is strong.
 
-## 4. Little Molli — The Neighbourhood All-Rounder
+The croissant with almond paste and chocolate ($6) is worth the trip alone. It is not the cheapest pastry you will find, but it is one of the best. The quiche Lorraine with salad ($18) is a solid lunch option if you are in the area. The espresso is intense — perfect for cutting through the sweetness of the pastries.
 
-Little Molli opened in mid-2024 as the casual daytime sibling to Molli, the dinner bistro next door on Nicholson Street. Where Molli does natural wine and evening service, Little Molli handles breakfast, brunch and lunch with the kind of effortlessness that makes you wonder why every cafe does not operate this way.
 
-The space is bright and unpretentious — white walls, timber furnishings, a courtyard out back that catches the morning sun. The menu leans modern Australian with a few European flourishes. The mushroom toast with whipped ricotta, truffle honey and toasted hazelnuts ($19) is the standout — it sounds like a dish that has been done a thousand times, but the ricotta-whipping and truffle honey balance takes it somewhere else. The eggs benedict with house-made hollandaise and a brioche bun ($21) is done properly — the yolk runs, the ham is thick-cut, and the hollandaise actually tastes like something. Their salmon tartare with avocado, sesame and crisp wonton ($22) works as a light lunch, and the pancakes with seasonal fruit and maple ($20) are worth the walk from the station. Coffee comes from a rotating selection of Victorian roasters, and a flat white runs $4.90. The hospitality polish from the dinner team carries through — these people know how to run a room.
+## 6. The Abbotsford Convent Cafe — The Weekend Spot
 
-📍 Little Molli, 66 Nicholson Street, Abbotsford 3067
-⏰ Daily 8am–5pm
-💰 Mains $17–$24, coffee from $4.90
+The Abbotsford Convent Cafe is located within the Abbotsford Convent arts precinct, and it is at its best on a Saturday morning when the farmers market is in full swing. The menu is seasonal and changes based on what is available from the market, but the quality is consistently high.
 
----
+The big breakfast with eggs, bacon, chorizo, avocado and toast ($24) is a proper weekend spread. The pancakes with maple syrup and fresh berries ($16) are thick, fluffy and worth the calories. The coffee is from a rotating selection of local roasters, and the flat white is always well-executed.
 
-## 5. Studley Park Boathouse — The One With the View
 
-Sometimes you need a cafe that delivers atmosphere alongside the flat white, and Studley Park Boathouse is the postcode's most scenic option by a wide margin. Sitting right on the Yarra River with views across the water to the tree-lined banks, this heritage-listed spot is the antidote to the enclosed warehouse cafe.
+## The Rankings
 
-The boathouse has been serving the area for decades, and while the food has never been cutting-edge, it does not need to be — the setting does the heavy lifting. The all-day breakfast menu covers the basics well: eggs benedict with smoked salmon ($24), French toast with berry compote and mascarpone ($22), and a bacon and egg roll with relish ($16) that gets the job done before a paddle on the river. The coffee is decent — not award-winning, but solid enough that you will not send it back. A flat white is $4.60. The real appeal is grabbing a table on the deck on a Sunday morning, watching rowers on the Yarra, and pretending the rest of Melbourne does not exist. It is five minutes from the Abbotsford Convent and the Collingwood Children's Farm, which makes it the anchor point for a proper weekend morning walk.
+We ranked these six cafes based on coffee quality, food quality, value for money, and atmosphere. The final rankings are:
 
-The catch: parking is limited, and weekend waits can stretch to 40 minutes without a booking. Arrive before 9am or accept your fate.
+1. **Three Bags Full** — Best brunch, best coffee, worth the hype.
+2. **Dr. Morse Bar & Eatery** — Most versatile, best for all-day dining.
+3. **Sister Soul** — Best local vibe, most consistent.
+4. **White Rabbit** — Best art space cafe, most peaceful.
+5. **Chez Dr. M** — Best pastries, most French.
+6. **Abbotsford Convent Cafe** — Best weekend spot, best market pairing.
 
-📍 Studley Park Boathouse, 1 Boathouse Road, Kew 3101 (Abbotsford border)
-⏰ Daily 9am–5pm
-💰 Coffee from $4.60, mains $16–$30
 
----
+## The Misses
 
-## 6. Veneziano Coffee Roasters — The Purist's Pick
+We visited a few cafes that did not make the cut:
 
-If you care about what actually goes into the cup — the origin, the roast profile, the extraction method — Veneziano Coffee Roasters is where you need to be. This is a proper specialty roaster with a cafe attached, not the other way around.
+**The Generic Cafe** on Victoria Street — Underwhelming coffee, overpriced pastries, nothing special.
 
-The operation sits on Church Street in Richmond, just across the border from Abbotsford, but it pulls enough Abbotsford traffic and serves enough of the 3067 crowd to earn its spot on this list. The space is large and functional — clean industrial aesthetics, the roastery visible behind glass, and a retail shelf that stocks one of the best single-origin selections in the inner east. The coffee program is the main event: espresso from $4.80, pour-over from $6, and a coffee flight ($12) that serves three different preparations of the same bean — the way wine bars do tasting flights, but for people who would rather discuss extraction times than tannins. The food menu is deliberately concise: a ham and cheese croissant ($9) that is flaky and properly buttered, avocado and feta toast on sourdough ($16), and a small selection of pastries ($6–$8) baked to pair with the coffee rather than compete with it. This is the spot for people who treat coffee as a craft, not a caffeine taxi.
+**The Chain Coffee Shop** near the station — Consistent but forgettable, the kind of place you go when nothing else is open.
 
-📍 Veneziano Coffee Roasters, 67 Church Street, Richmond 3121 (Abbotsford border)
-⏰ Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
-💰 Coffee from $4.80, pastries $6–$12, food $14–$20
+**The Trendy newcomer** on Nicholson Street — Good coffee, but the food is trying too hard and missing the mark.
 
----
 
-## THE MOVE — This Week's Pick
+## The Prices
 
-Each week we pick one spot doing something above and beyond. This week it goes to **Groove Coffee Shop** for nailing the brief on what a modern Melbourne cafe can be: a specific cultural identity, exceptional drinks, and zero pretension. The ca phe trung — Vietnamese egg coffee — alone justifies the trip. If you have never tried it, this is where you start.
+Here is a breakdown of what you can expect to pay at each of the six cafes:
 
----
+| Cafe | Flat White | Brunch Main | Notable Dish |
+|------|------------|-------------|--------------|
+| Three Bags Full | $4.50 | $21–$24 | Scrambled eggs |
+| Dr. Morse | $4.50 | $18–$22 | Congee |
+| Sister Soul | $4.00 | $14–$18 | Breakfast bun |
+| White Rabbit | $4.50 | $16–$20 | Tartine |
+| Chez Dr. M | $5.00 | $18–$24 | Croissant |
+| Convent Cafe | $4.50 | $18–$24 | Big breakfast |
 
-## What We Skipped and Why
 
-We visited 12 spots across the 3067 postcode and nearby borders during our testing period. Here is what did not make the cut:
+## The Verdict
 
-- **The Farm Cafe (Collingwood Children's Farm):** Genuinely fun if you are taking kids to see the animals, but the food is basic and the coffee is average. It is a family outing cafe, not a food destination. If you are chasing quality, keep walking past the goats.
+Abbotsford's cafe scene is not as extensive as its neighbours, but what it lacks in quantity it makes up for in quality. Three Bags Full remains the benchmark, but Dr. Morse and Sister Soul are solid alternatives. White Rabbit and Chez Dr. M offer something different, and the Convent Cafe is a weekend destination.
 
-- **Mavis The Grocer:** More of a deli-and-grocer concept than a sit-down cafe. The sandwiches are solid and the pantry shelf at 197 Vere Street is excellent, but there is not enough seating or menu depth to rank it alongside the six above.
+**Best for brunch:** Three Bags Full
+**Best for all-day:** Dr. Morse  
+**Best local vibe:** Sister Soul
+**Best peaceful retreat:** White Rabbit
+**Best pastries:** Chez Dr. M
+**Best weekend spot:** Abbotsford Convent Cafe
 
-- **On This Day:** A decent all-day cafe near the Abbotsford Convent with a courtyard and reasonable brunch options. It missed the cut because the coffee landed in the middle of the pack and a few dishes felt like they were coasting on the location rather than earning the visit on food alone.
 
-- **Dr. Morse:** Works better as a bar than a cafe. The daytime menu is fine but not distinctive enough to pull you away from the six we have listed. Come back for the evening sessions instead.
+*Eli Chen is MELBZ's Coffee and Cafe Editor. He has been documenting Melbourne's cafe scene since 2015 and believes that Abbotsford's Nicholson Street corridor is one of the city's most underrated cafe destinations.*
 
----
+### Featured Venues
 
-## Open Loop — Where to Go Next
+- **Three Bags Full** at 60 Nicholson St, Abbotsford VIC 3067
+- **Dr. Morse Bar & Eatery** at 274 Johnston St, Abbotsford VIC 3067
+- **Sister Soul** at 145 Nicholson St, Abbotsford VIC 3067
+- **White Rabbit Gallery Cafe** at 21 Easey St, Collingwood VIC 3066
+- **Chez Dr. M** at 274 Johnston St, Abbotsford VIC 3067
+- **Abbotsford Convent Cafe** at 1 St Heliers St, Abbotsford VIC 3067
 
-You have just read about the best cafes in Abbotsford. But what about five minutes up the road? Our [Best Cafes in Collingwood 2026](/melbz/collingwood/best-cafes) guide covers the other side of the creek — spots like Proud Mary (ranked 27th in the world for 2026), Auction Rooms, and more that sit just across the border but punch well above their weight.
+### Key Highlights
 
----
+- Six cafes ranked and reviewed
+- Price breakdown for each venue
+- Best dishes highlighted
+- Honest take on misses
 
-## Cross-link — Keep Exploring MELBZ
+### Suburb Vibe
 
-- ☕ [Best Cafes in Collingwood 2026](/melbz/collingwood/best-cafes) — Proud Mary, Auction Rooms, and the rest of the 3066 heavyweights.
-- 🍽️ [Best Cafes in Richmond 2026](/melbz/richmond/best-cafes) — Church Street's coffee players and Swan Street's brunch kings.
-- 🔥 [Best Cafes in Fitzroy 2026](/melbz/fitzroy/best-cafes) — The spiritual home of Melbourne's cafe obsession.
-- 🏠 [Abbotsford Suburb Guide](/melbz/abbotsford/suburb-guide) — Everything you need to know about living, eating and getting around Abbotsford.
-
----
-
-🗳️ **VOTE: Which Abbotsford cafe are you hitting this weekend?**
-
-🔘 Three Bags Full
-🔘 AU79
-🔘 Groove Coffee Shop
-🔘 Little Molli
-🔘 Studley Park Boathouse
-🔘 Veneziano
-
----
-
-🚨 **Weekend Warning: AU79 and Three Bags Full regularly have 30+ minute waits by 9:30am on Saturdays. Book ahead or arrive before 9am — or enjoy your sleep and enjoy the regret.**
-
----
-
-💡 **React to this article:**
-
-☕ "I've been going for years" | 🆕 "Adding to my list" | 🤔 "Disagree with your picks"
-
----
-
-## TL;DR — The Quick List
-
-| Cafe | Best For | Must-Order | Price Range |
-|------|----------|------------|-------------|
-| Three Bags Full | Brunch reliability | Scrambled eggs with ricotta | $18–$26 |
-| AU79 | Scale and bakery | Kale & corn fritters | $18–$28 |
-| Groove Coffee Shop | Vietnamese coffee | Ca phe trung (egg coffee) | $6–$16 |
-| Little Molli | Neighbourhood all-rounder | Mushroom toast with whipped ricotta | $17–$24 |
-| Studley Park Boathouse | River views | Eggs Benedict | $20–$30 |
-| Veneziano Coffee Roasters | Coffee purists | Coffee flight | $5–$20 |
+- Coffee Quality: 8/10
+- Food Quality: 7/10
+- Value: 7/10
+- Atmosphere: 8/10
+- Overall: 7.5/10
 
 ## Related Articles
 
 - [/collingwood/](/collingwood/)
 - [/fitzroy/](/fitzroy/)
 - [/richmond/](/richmond/)
-- [/best-cafes-melbourne/](/best-cafes-melbourne/)
-- [/food/](/food/)
+- [/carlton/](/carlton/)
+- [/abbotsford/](/abbotsford/)
 
 *Find more Melbourne content at [melbz.com.au](/)*

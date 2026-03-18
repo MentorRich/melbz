@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/date-night.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the date night in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["date"]
----
 ## The Best Date Night in Fitzroy North
 
 This is your verified guide to the best date night spots in Fitzroy North for 2026.
@@ -20,7 +21,6 @@ Fitzroy North doesn't have flashy rooftop bars with infinity pools or tasting me
 
 Whether it's first-date jitters or tenth-date comfort, here's where to take someone you actually want to see again.
 
----
 
 ### 1. Long Play
 
@@ -37,7 +37,6 @@ The lighting is low but not romantic-comedy dim — you can actually see each ot
 
 **Why it works for dates:** You can talk without shouting. You can stay for one drink or five. It feels special without feeling staged.
 
----
 
 ### 2. Ovest
 
@@ -54,7 +53,6 @@ Saturday nights book out — reserve a week ahead for a Friday or Saturday.
 
 **Why it works for dates:** The food is excellent enough to feel like an occasion. The wine list gives you something to talk about ("Have you tried Nebbiolo from the King Valley?"). The intimacy fosters connection.
 
----
 
 ### 3. Bar Nancy
 
@@ -71,7 +69,6 @@ The lighting is candlelit, the music is thoughtful (Chet Baker, modern jazz), th
 
 **Why it works for dates:** Low pressure, high quality, conversation-friendly. You can stay as long as you like without anyone subtly checking the time.
 
----
 
 ### 4. The Delphi Tavern
 
@@ -86,7 +83,6 @@ The space is spacious enough for a comfortable table for two, with enough ambien
 
 **Why it works for dates:** The sharing format encourages interaction. The food is exciting without being intimidating. The prices mean you can both order what you actually want without calculating who owes what later.
 
----
 
 ### 5. Lune Croissanterie (Sweets Date)
 
@@ -101,7 +97,6 @@ The Brunswick Street location has a glass viewing window where you can watch the
 
 **Why it works for dates:** It's low-pressure, affordable, and genuinely delightful. You can walk to Edinburgh Gardens with your treats and make an afternoon of it. Nobody feels obligated to "perform" for a date over pastries.
 
----
 
 ### 6. Deco Wine Bar
 
@@ -114,7 +109,6 @@ The wine flights ($36 for three glasses) are the perfect way to explore if you'r
 
 **Why it works for dates:** You learn something together (about wine), the setting is romantic without being cliché, and the small space means you're in your own little world for the evening.
 
----
 
 ### 7. Loretta's (Dinner Service)
 
@@ -127,7 +121,6 @@ Dishes like pan-seared barramundi ($32) or slow-braised lamb shoulder ($36) are 
 
 **Why it works for dates:** You know the food will be good. You know the service will be fine. You can book a table without needing to plan a month ahead. Sometimes that's exactly what you want — reliability over spectacle.
 
----
 
 ## Date Night Budgeting in Fitzroy North
 
@@ -140,7 +133,6 @@ Dishes like pan-seared barramundi ($32) or slow-braised lamb shoulder ($36) are 
 
 Fitzroy North date night doesn't have to break the bank. The best dates aren't about the money spent — they're about the connection. A $22 coffee and pastry date at Lune can be better than a $200 dinner if the conversation flows.
 
----
 
 ## Date Night Do's and Don'ts
 
@@ -158,7 +150,6 @@ Fitzroy North date night doesn't have to break the bank. The best dates aren't a
 - Use your phone at the table
 - Forget to check if your date has dietary requirements before picking a venue
 
----
 
 ## If The Date Goes Well…
 
@@ -168,7 +159,6 @@ Where to go next:
 - **Keep walking:** Edinburgh Gardens is perfect for strolling if the weather's nice
 - **Dance it off:** Monty's if you're feeling energetic and the night's still young
 
----
 
 ## If The Date Isn't Going Well…
 
@@ -178,7 +168,6 @@ An exit strategy:
 - The 86 tram runs along Brunswick Street — hop on and be gone
 - The Fitzroy Police Station at 292 Smith Street is open 24 hours if you genuinely need help
 
----
 
 ## Cross-Links
 

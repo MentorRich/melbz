@@ -1,6 +1,8 @@
 ---
 title: "10 Best Cafes in Thornbury for Your Daily Fix in 2026"
 cover_image: "/images/thornbury/best-cafes.jpg"
+---
+
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Thornbury's best cafes in 2026 — specialty coffee, organic produce, and neighbourhood vibes on High Street and beyond. No tourist traps."
 tags: ["thornbury"]
 categories: ["best"]
----
 # 10 Best Cafes in Thornbury for Your Daily Fix in 2026
 
 Thornbury's café culture isn't trying to impress anyone, which is exactly why it's so good. While other suburbs compete for "Melbourne's best café" listicle spots, Thornbury cafes quietly serve excellent coffee, seasonal food, and a sense of neighbourhood that can't be manufactured by an interior designer. Most of these spots are within walking distance of each other along High Street, and all of them are within the 86 tram catchment. Here's where your mornings should happen.
 
 **Last updated: 17 March 2026** | **Thornbury Vibe Score: 78/100 🟢**
 
----
 
 ## 1. Short Round
 **The vibe:** A High Street local that treats seasonal menus and specialty coffee like the basics they are.
@@ -28,7 +28,6 @@ At 731 High Street, Short Round is the café that converts casual coffee drinker
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** The cocktail list at brunch is low-key brilliant. An espresso martini at 10am on a Saturday is a Thornbury power move.
 
----
 
 ## 2. Rat the Cafe
 **The vibe:** Wales Street's best-kept secret — organic produce, naturally leavened bread, and zero pretension.
@@ -40,7 +39,6 @@ Rat sits on a quiet residential corner of Wales Street, opposite a primary schoo
 **Hours:** Wed–Sun 7:30am–3pm; Mon–Tue closed
 **Insider tip:** They do a small wine and natural wine selection for arvo visits. Rat at 4pm with a glass of pet-nat is an underrated move.
 
----
 
 ## 3. The Brickie & The Barista
 **The vibe:** Industrial-chic meets serious coffee — a dual-concept space that nails both the morning and afternoon brief.
@@ -52,7 +50,6 @@ The Brickie & The Barista lives up to its name with a space that's equal parts b
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** Take-home coffee beans are excellent value. Ask what's seasonal — they rotate single-origins regularly.
 
----
 
 ## 4. Brother Alec
 **The vibe:** The anti-hipster café — good food, good coffee, stupidly low prices.
@@ -64,7 +61,6 @@ Brother Alec at 719 High Street is proof that you don't need a $25 avocado toast
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Weekday mornings are the sweet spot. After 10am on weekends you'll queue. Not a long queue — but a queue nonetheless.
 
----
 
 ## 5. Le Café Flo
 **The vibe:** A French-inspired café where the croque madame tastes like it was made in Lyon, not Thornbury.
@@ -76,7 +72,6 @@ Le Café Flo brings genuine European café culture to High Street. The croque ma
 **Hours:** Wed–Mon 8am–3pm; Tue closed
 **Insider tip:** The fixed-price dinner nights (when available) are excellent value — check their social media for dates.
 
----
 
 ## 6. Crunch Cafe
 **The vibe:** A spacious, no-fuss café that does everything on the breakfast menu properly and fills up fast.
@@ -88,7 +83,6 @@ Crunch is the workhorse of the Thornbury café scene — not the flashiest, but 
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** The smoothie bowls are genuinely underrated — the açaí bowl is a lighter alternative that doesn't sacrifice flavour.
 
----
 
 ## 7. Barton Fink
 **The vibe:** A café-to-bar chameleon that excels at both — specialty coffee by day, cocktails by night.
@@ -100,7 +94,6 @@ Barton Fink pulls double duty as a serious café and a neighbourhood cocktail ba
 **Hours:** Daily from 7:30am (café hours); bar from 5pm Wed–Sat
 **Insider tip:** If you're a solo worker, the window seats have good light and fast Wi-Fi. Just buy something every couple of hours — they notice.
 
----
 
 ## 8. Larks of Joy
 **The vibe:** A cheerful, bright café where dietary needs are taken seriously and the coffee hits every time.
@@ -112,7 +105,6 @@ Larks of Joy lives up to its name with a bright, happy space and food that cater
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Order ahead on their app if you're on the 86 tram and passing through — they do excellent takeaway.
 
----
 
 ## 9. Smug Relish
 **The vibe:** Confidently named and consistently excellent — the café that's earned the right to be smug.
@@ -124,7 +116,6 @@ Smug Relish has been quietly excellent for long enough that the name feels less 
 **Hours:** Wed–Mon 8am–3pm; Tue closed
 **Insider tip:** They sell their relishes sometimes. If you like it (you will), ask at the counter about take-home jars.
 
----
 
 ## 10. Cafe Gummo
 **The vibe:** A newer entry to the Thornbury café scene with creative dishes and a fresh perspective.
@@ -136,7 +127,6 @@ Cafe Gummo is one of the newer additions to the Thornbury café landscape and ha
 **Hours:** Wed–Mon 7:30am–3pm; Tue closed
 **Insider tip:** Follow their Instagram for daily specials — they post the menu each morning and the interesting stuff sells out.
 
----
 
 ## The Bottom Line
 
@@ -144,12 +134,10 @@ Thornbury's café scene is a genuine strength. Short Round and Rat the Cafe are 
 
 **Your Thornbury Vibe Score this week: 78/100** — The café scene holds up against [Northcote](/northcote) and [Brunswick](/brunswick) without breaking a sweat.
 
----
 
 *Know a spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Also in the area:**
 → [Best Coffee in Thornbury](/thornbury/best-coffee)

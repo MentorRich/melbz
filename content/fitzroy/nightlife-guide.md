@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/nightlife-guide.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the nightlife in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["nightlife"]
----
 ## Nightlife Guide in Fitzroy
 
 Fitzroy doesn't do "big night out" the way Chapel Street or King Street does. There are no superclubs, no bottle-service booths, no velvet ropes. What Fitzroy does is better: bars with character, venues with real music, and pubs where you can actually get a drink without waiting 20 minutes. It's nightlife for adults who want to enjoy themselves without feeling like they're in a queue for a theme park.
 
 Here's how to do Fitzroy after dark.
 
----
 
 ## THE BARS
 
@@ -64,7 +64,6 @@ The Marquis is at the quieter southern end of Brunswick Street, near the Edinbur
 
 **The vibe:** No-frills, community pub energy. Dogs in the beer garden. Footy on the screens. This is where Fitzroy residents go when they don't want to deal with Brunswick Street's busiest stretch.
 
----
 
 ## THE LIVE MUSIC
 
@@ -94,7 +93,6 @@ The Workers Club is a small venue on the southern end of Brunswick Street that p
 
 **The vibe:** Intimate, sweaty, great. The capacity is small enough that every show feels like a private gig. If you see a band you love on the lineup, go — don't wait for your mates to come with you.
 
----
 
 ## THE PLAN — HOW TO DO A FITZROY NIGHT
 
@@ -116,7 +114,6 @@ The Workers Club is a small venue on the southern end of Brunswick Street that p
 **11:30pm:** The Tote for the late show.
 **1am:** Kebab on Johnston Street because you're a human being.
 
----
 
 ## SAFETY AT NIGHT
 
@@ -127,7 +124,6 @@ The Workers Club is a small venue on the southern end of Brunswick Street that p
 - If you or someone you're with needs help: call 000, or speak to venue security. Fitzroy Police Station is at 292 Smith Street, open 24/7.
 - Drink responsibly. We know, we know. But the trams stop running around midnight on weekends (check PTV for exact times). Plan your way home before you're three cocktails deep.
 
----
 
 ## What We Skipped and Why
 
@@ -137,7 +133,6 @@ The Workers Club is a small venue on the southern end of Brunswick Street that p
 
 **Late-night kebab recommendations:** We considered it. We decided it deserved its own guide.
 
----
 
 ## Cross-Suburb Nightlife
 
@@ -145,7 +140,6 @@ The Workers Club is a small venue on the southern end of Brunswick Street that p
 - [Nightlife in Carlton](/fitzroy/nightlife-guide) — Lygon Street pubs and the university crowd
 - [Nightlife in Fitzroy North](/fitzroy/nightlife-guide) — Quieter but with under the radars
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Your ideal Fitzroy Friday night?**
@@ -156,7 +150,6 @@ The Workers Club is a small venue on the southern end of Brunswick Street that p
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-nightlife-style)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -165,7 +158,6 @@ Nightlife density is a key contributor to Fitzroy's score. The live music scene 
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's your Friday night Fitzroy ritual?**
@@ -174,7 +166,6 @@ We want the route. The order. The usual. Share your plan so others can steal it.
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -183,7 +174,6 @@ We want the route. The order. The usual. Share your plan so others can steal it.
 - [Best Pubs in Fitzroy](/fitzroy/best-pubs) — where to get a proper pint
 - [Date Night in Fitzroy](/fitzroy/date-night) — romance after dark
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every drink, and received no sponsorship or compensation. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

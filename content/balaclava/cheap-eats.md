@@ -1,15 +1,15 @@
 ---
-title: "Cheap Eats Under $20 in Balaclava 2026"
+title: "Cheap Eats in Balaclava 2026: Budget-Friendly Spots"
 cover_image: "/images/balaclava/cheap-eats.jpg"
 date: 2026-03-16
-author: priya
-tags: ["balaclava", "cheap-eats", "food"]
-categories: ["food"]
-description: "Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting
-
+author: jack
+tags: ["balaclava", "cheap-eats", "lifestyle"]
+categories: ["lifestyle"]
+description: "Cheap Eats in Balaclava 2026: Budget-Friendly Spots"
 ---
 
-Balaclava doesn't scream "dining destination" the way its flashy neighbour St Kilda do..."
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 ---
 *Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
 

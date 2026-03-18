@@ -5,12 +5,11 @@ date: 2026-03-18
 author: priya
 tags: ["southbank", "best-restaurants"]
 categories: ["best"]
-description: "Updated 18 March 2026 | Food Editor
-
- Southbank's Best Restaurants 2026: Where Culture Meets the Plate
-
-The Southbank dining scene in 2026 is a fascinating p..."
+description: "Best Restaurants in Southbank 2026"
 ---
+
+*description: "18 March 2026 | Food Editor"*
+
 *Updated 18 March 2026 | Food Editor*
 
 # Southbank's Best Restaurants 2026: Where Culture Meets the Plate

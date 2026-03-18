@@ -5,12 +5,17 @@ date: 2026-03-16
 author: ravi
 tags: ["melbourne", "students", "budget"]
 categories: ["lifestyle"]
-description: "Student Guide to Melbourne 2026: Everything You Need to Know
+description: "Student Guide to Melbourne 2026: Everything You Need to Know"
+---
 
-Updated 16 March 2026 | Ravi Patel reporting
+**Updated 16 March 2026 | Ravi Patel reporting**
+
+
 
 You've got your offer letter, your student ID pho..."
----
+
+*Updated 16 March 2026 | Ravi Patel reporting*
+
 # Student Guide to Melbourne 2026: Everything You Need to Know
 
 **Updated 16 March 2026 | Ravi Patel reporting**
@@ -150,7 +155,6 @@ Here's a quick-hit checklist for your first month:
 
 For more on building that Melbourne life week by week, check our full [Living in Melbourne guide](/melbourne/living-in-melbourne) — it goes deeper on settling in long-term.
 
----
 
 ## The Bottom Line
 
@@ -160,7 +164,6 @@ The students who thrive here aren't the ones with the biggest budgets. They're t
 
 Now go make this city yours.
 
----
 
 *If this guide saved you money (or at least made you feel better about being broke), share it with a friend who's about to move to Melbourne. They'll owe you one — and you'll need that favour when you need someone to split a pizza at 2am.*
 
@@ -168,7 +171,6 @@ Now go make this city yours.
 
 **Updated 16 March 2026 | Ravi Patel reporting**
 
----
 
 **📖 Read next:** [Melbourne Cost of Living 2026 — The Full Breakdown](/melbourne/cost-of-living) | [Best Cheap Eats by Suburb](/melbourne/cheap-eats) | [What's On This Weekend in Melbourne](/melbourne/whats-on-this-weekend)
 

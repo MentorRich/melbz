@@ -5,12 +5,17 @@ date: 2026-03-16
 author: marcus
 tags: ["kensington", "rent", "property"]
 categories: ["property"]
-description: "Rent Prices in Kensington 2026: What You'll Pay
+description: "Rent Prices in Kensington 2026: What You'll Pay"
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 Kensington has always been the inner-west suburb that nobody ..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Rent Prices in Kensington 2026: What You'll Pay
 
 Updated 16 March 2026 | Marcus Cole reporting
@@ -35,7 +40,6 @@ The median house rent sits at $680 per week. That's $35,360 a year just for the 
 
 To live in Kensington without financial stress on a single income, you'd want to be pulling in at least $85,000–$90,000 before tax. On a couple's combined income, anything north of $130,000 keeps you comfortable. Below that, you'll be making compromises.
 
----
 
 📊 **HOW MUCH RENT CAN YOU ACTUALLY AFFORD?**
 
@@ -47,7 +51,6 @@ The old rule says spend no more than 30% of your after-tax income on rent. Here'
 
 If you're earning the Melbourne median full-time salary (~$88,000 gross), a solo 1-bed apartment is doable. A house by yourself is tight.
 
----
 
 ## How Kensington Compares to Its Neighbours
 
@@ -92,7 +95,6 @@ Three factors are keeping Kensington rents make betterd:
 
 3. **No new social housing.** Kensington's public housing stock — concentrated around the Macaulay Road and Epsom Road estates — hasn't expanded. The state government's Big Housing Build has delivered units elsewhere in Melbourne's west, but Kensington's share has been minimal. This means the affordable end of the market remains squeezed, pushing low-income renters further out to Footscray, Yarraville, and Seddon.
 
----
 
 🗳️ **WHAT ARE YOU PAYING IN KENSINGTON?**
 
@@ -104,7 +106,6 @@ We want to hear from real renters. What's your weekly rent? How does it compare 
 
 Submit your rent via our anonymous form and we'll publish aggregated results in next month's report. No names, no addresses — just honest data from real people.
 
----
 
 ## What $550 a Week Actually Gets You
 
@@ -149,7 +150,6 @@ If you're on a single income below $85,000 and want to live alone in Kensington,
 
 For couples, it's more manageable. Combined income of $140,000+ puts a 2-bed unit well within comfortable range. Combined income of $180,000+ opens up the house market.
 
----
 
 💡 **THE SHARING CALCULATOR**
 
@@ -161,7 +161,6 @@ Renting with housemates in Kensington? Here's how the maths works:
 
 The house-share route saves $10,000–$17,000 per year compared to living solo. For many inner-west renters in their 20s and early 30s, that's the difference between surviving and actually building savings.
 
----
 
 ## Is Kensington Worth It?
 
@@ -185,7 +184,6 @@ Flemington remains the most direct comparison. Both suburbs share demographics (
 
 **Student accommodation:** The University of Melbourne and RMIT both have student housing programs that operate outside the standard private rental market. We've excluded these because they're institutionally managed and not comparable to open-market leasing.
 
----
 
 📊 **TREND WATCH: WHERE ARE KENSINGTON RENTS HEADING?**
 
@@ -197,7 +195,6 @@ Based on current supply data and demand trends:
 
 The biggest variable is supply. If the remaining Macaulay Road development stages complete on schedule (2026–2027), there will be a temporary oversupply of 2-bed apartments that could soften rents for 6–12 months. After that, normal growth resumes.
 
----
 
 ## The Bottom Line
 
@@ -209,7 +206,6 @@ And if you do end up in Kensington, the 57 tram to the city is your best friend.
 
 *— Marcus Cole is MELBZ's Property Editor. He's rented in Kensington, Flemington, and Footscray over the past decade and still can't decide which one he prefers. Got a rental story or tip? [Submit it here](/submit).*
 
----
 
 **Data sources:** Domain.com.au, Your Investment Property Magazine, Homes Victoria Rental Report (September Quarter 2025), REIV, Domain rental listings as at March 2026. Individual listing prices cited are asking rents at time of publication — actual rent may differ based on negotiation, lease terms, and market conditions.
 

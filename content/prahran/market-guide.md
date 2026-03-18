@@ -5,12 +5,17 @@ date: 2026-03-16
 author: tyler
 tags: ["prahran", "market", "lifestyle"]
 categories: ["lifestyle"]
-description: "Prahran Market Guide 2026: Worth the Early Wake-Up?
+description: "Prahran Market Guide 2026: Worth the Early Wake-Up?"
+---
 
-Updated 16 March 2026 | Tyler James reporting
+**Updated 16 March 2026 | Tyler James reporting**
+
+
 
 Every Saturday morning, somewhere between the alarm and t..."
----
+
+*Updated 16 March 2026 | Tyler James reporting*
+
 # Prahran Market Guide 2026: Worth the Early Wake-Up?
 
 *Updated 16 March 2026 | Tyler James reporting*
@@ -145,7 +150,6 @@ What hasn't changed: this is still the best meat and cheese market in Melbourne,
 > **📧 Get your suburb briefing**
 > Want the Prahran Market seasonal guide delivered every Saturday morning? [Subscribe to the Prahran Weekly Briefing](/subscribe) — it covers what's in season, what's new, and what's closing. No spam, just your suburb, every week.
 
----
 
 *Tyler James is MELBZ's Roast Editor. He's been shopping at Prahran Market since the paella stall was new and the dim sims were 50c. These days he writes about it instead of just eating through it. Mostly.*
 

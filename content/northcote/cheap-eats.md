@@ -1,6 +1,8 @@
 ---
 title: "Cheap Eats in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/cheap-eats.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "omar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the cheap eats in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["cheap"]
----
 ## The Best Cheap Eats in Northcote
 
 Northcote's food scene has always been about substance over pretension. While some suburbs charge $28 for a bowl of granola with a gold leaf garnish, Northcote's best kitchens are busy making genuinely brilliant food at prices that don't require a second thought. This is the inner north's most underrated eating strip — and the fact that you can eat like royalty for under $20 is the worst-kept secret on High Street.
@@ -18,7 +19,6 @@ Here's where your money goes furthest.
 
 **Last updated: 16 March 2026** | **Northcote Vibe Score: 81/100 🟢**
 
----
 
 ## 1. Wazzup Falafel
 **The vibe:** Open kitchen, cowboy hat, vegan food that makes committed carnivores forget about meat
@@ -31,7 +31,6 @@ Ahmad Al Alaea has been running Wazzup Falafel with the kind of single-minded de
 **Hours:** Tue–Sun, 11am–9pm
 **Insider tip:** Ahmad does two types of falafel — traditional and a beetroot version. Get both. The beetroot one is vivid pink and tastes like something from a fancy degustation, except it costs $16 total.
 
----
 
 ## 2. Tahina
 **The vibe:** Israeli street food that proves vegetarian doesn't mean boring
@@ -44,7 +43,6 @@ Tahina is one of those places that regulars try to keep quiet about. A vegetaria
 **Hours:** Mon–Sun, 11am–9pm
 **Insider tip:** They do a lunch special during the week — pita + drink + side for around $15. It's the best value meal on High Street and the reason you see the same office workers eating here three days a week.
 
----
 
 ## 3. 300 Grams
 **The vibe:** Compact, no-pretence burger joint where the patties do all the talking
@@ -57,7 +55,6 @@ Twenty-five seats. That's it. 300 Grams is the anti-gourmet burger joint — no 
 **Hours:** Wed–Sun, 11:30am–9pm
 **Insider tip:** They're tiny, so takeaway is often faster than dining in. Grab your burgers and walk five minutes to the Rucker's Hill lookout for a sunset burger with a city skyline view. It's $14 for a meal and a view. Name a better deal.
 
----
 
 ## 4. Curry Cafe
 **The vibe:** packed on weekends Indian joint where the tables fill up by 6:30pm and nobody's here for the décor
@@ -70,7 +67,6 @@ Curry Cafe is a Northcote institution in the most unpretentious sense. The table
 **Hours:** Tue–Sun, 5:30pm–10pm
 **Insider tip:** BYO wine — no corkage fee. They'll even lend you a glass. House wines in tumblers are available if you forgot to stop at the bottle shop. A bottle from Samuel Pepys (directly opposite Palace Westgarth, five minutes' walk) and dinner at Curry Cafe is the Northcote power move.
 
----
 
 ## 5. Yuni's Kitchen
 **The vibe:** Hidden Indonesian gem tucked behind a church, BYO, and worth every minute of the search
@@ -83,7 +79,6 @@ Yuni's Kitchen is the kind of restaurant you find by accident and then spend the
 **Hours:** Wed–Sun, 11:30am–2:30pm, 5:30pm–9pm
 **Insider tip:** BYO with zero corkage. This is genuinely one of the cheapest and best date dinners in Melbourne — two mains, a side, and a bottle of wine you brought from home will set you back about $50 total for two people. You'd pay that for a single main at half the restaurants in Fitzroy.
 
----
 
 ## 6. Mesob Ethiopian
 **The vibe:** Communal dining, injera bread you eat with your hands, and live jazz on weekends
@@ -96,7 +91,6 @@ Mesob isn't just a restaurant — it's a pillar of Northcote's community. Ethiop
 **Hours:** Mon–Sun, 5:30pm–10pm
 **Insider tip:** Friday and Saturday nights get packed, especially when the jazz is on. Book ahead or arrive before 6pm. The BYO policy is legend — no corkage, and they'll keep your bottle behind the bar if you want to spread dinner over a few hours.
 
----
 
 ## 7. Brother Bon
 **The vibe:** Pan-Asian vegan food in a converted church — sounds weird, works perfectly
@@ -109,7 +103,6 @@ Brother Bon proves that vegan food doesn't need to be preachy or expensive. Set 
 **Hours:** Wed–Sun, 10am–3pm, 5pm–9pm
 **Insider tip:** The cocktail list is unexpectedly good — a Vietnamese-style espresso martini ($16) made with condensed milk is the move for an after-work drink that also counts as dessert.
 
----
 
 ## 8. Va Penne
 **The vibe:** Cosy Sicilian neighbourhood spot where forgetting to book means a spritz at the bar
@@ -122,7 +115,6 @@ Va Penne is the Italian restaurant Northcote didn't know it needed until it arri
 **Hours:** Wed–Sun, 5:30pm–10pm
 **Insider tip:** Walk-in bar seats are always available, even when the dining room is full. Sit at the bar, eat the bread, drink the spritz, and watch the kitchen work. It's dinner and a show for the cost of a drink.
 
----
 
 ## 9. Pizza Meine Liebe
 **The vibe:** Produce-driven, woodfired pizza that earned its staying power
@@ -135,7 +127,6 @@ German name ("pizza my love"), Italian soul, Melbourne attitude. Pizza Meine Lie
 **Hours:** Thu–Sun, 5:30pm–10pm
 **Insider tip:** They don't deliver, which is deliberate — pizza doesn't travel well and they know it. Dine in or takeaway within walking distance. Grab your pizza and eat it on the Northcote Social Club deck if you're buying a drink there.
 
----
 
 ## 10. Ruckers Hill
 **The vibe:** French-leaning bistro at the base of the hill, ex-Bistro Thierry chef, generous wine list
@@ -148,7 +139,6 @@ Ruckers Hill is the cheapest "fancy" dinner in Northcote, which is a weird compl
 **Hours:** Wed–Sun, 5:30pm–10pm
 **Insider tip:** Right next to Palace Westgarth. Movie + dinner at Ruckers Hill is the classic Northcote date night for about $60 total.
 
----
 
 ## The Bottom Line
 
@@ -156,7 +146,6 @@ Northcote's cheap eats scene is the real deal — not "cheap" as in compromise, 
 
 **Your Northcote Vibe Score this week: 81/100** — High Street is humming. The cheap eats scene is carrying the inner north right now while the $30-pasta crowd figures itself out.
 
----
 
 ## More From the Neighbourhood
 
@@ -167,7 +156,6 @@ Northcote's cheap eats scene is the real deal — not "cheap" as in compromise, 
 - → [Best Budget Eats in Fitzroy North](/fitzroy-north/cheap-eats)
 - → [Brunswick's Cheapest Best Meals](/brunswick/cheap-eats)
 
----
 
 *Found a $10 feed we missed? Tell us — we'll check it out.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

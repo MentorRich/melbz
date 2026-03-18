@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Richmond — 2026 Local Guide"
 cover_image: "/images/richmond/best-brunch.jpg"
+---
+
 suburb: "richmond"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the best brunch in Richmond. Our verified 2026 guide covers the best spots for locals."
 tags: ["richmond"]
 categories: ["best"]
----
 ## The Best Brunch in Richmond
 
 Richmond's brunch scene doesn't try to out-Fitzroy Fitzroy. There's no race to put the weirdest thing on sourdough or to create a dish that photographs better than it tastes. What Richmond does well is brunch that actually fills you up, at prices that don't require a second mortgage, in spaces where you can hear yourself think. It's a working brunch suburb in the best sense — places that respect the meal without turning it into performance art.
 
 Here's where to spend your Saturday and Sunday mornings in 2026.
 
----
 
 ## 1. Thorne Street Kitchen — 33 Thorne Street, Richmond
 
@@ -28,7 +28,6 @@ Thorne Street Kitchen is the kind of place you discover through word of mouth, n
 
 **Accessibility:** Narrow doorframe, steps at entry. Challenging for wheelchair users.
 
----
 
 ## 2. Becco — 302 Swan Street, Richmond
 
@@ -40,7 +39,6 @@ Becco is better known as a dinner spot, but their weekend brunch program has bee
 
 **Accessibility:** Step-free entry. Ground floor dining.
 
----
 
 ## 3. Stagger Lee's — 357 Swan Street, Richmond
 
@@ -50,7 +48,6 @@ Stagger Lee's earns a second appearance on this list because their brunch game d
 
 **The vibe:** Already described in our coffee guide — moody, warm, bar-like. On weekend mornings it shifts to a more brunch-forward energy with bigger groups and slower service. Pet-friendly outdoor seating.
 
----
 
 ## 4. Apte — 59 Swan Street, Richmond
 
@@ -62,7 +59,6 @@ Apte is a vegetarian brunch spot that doesn't make a big deal about being vegeta
 
 **Accessibility:** Step-free entry. Outdoor seating accessible.
 
----
 
 ## 5. Omelette — 352 Church Street, Richmond
 
@@ -72,7 +68,6 @@ Yes, Omelette is on the coffee list too. But their brunch menu is strong enough 
 
 **The vibe:** Compact and popular. Weekends mean waits, but turnover is quick given the small space. It's worth the squeeze — the food is consistently a cut above.
 
----
 
 ## 6. The Corner Store Cafe — 220 Swan Street, Richmond
 
@@ -82,7 +77,6 @@ The Corner Store Cafe does double duty as a reliable coffee stop and a legitimat
 
 **The vibe:** Cosy, slightly hidden, and local. It doesn't have the hype of some Swan Street spots, which means you're more likely to get a table. A reliable neighbourhood choice.
 
----
 
 ## 7. N. Lee Bakery — 426 Victoria Street, Richmond
 
@@ -94,7 +88,6 @@ Brunch doesn't have to mean a sit-down cafe with table service and a $30 plate. 
 
 **Budget:** Under $15 for a full brunch. Yes, really.
 
----
 
 ## The Prices at a Glance
 
@@ -110,7 +103,6 @@ Brunch doesn't have to mean a sit-down cafe with table service and a $30 plate. 
 
 Prices as of early 2026. Weekend brunch prices have crept up across Melbourne — Richmond is still more reasonable than Fitzroy or South Yarra.
 
----
 
 ## What We Skipped and Why
 
@@ -120,7 +112,6 @@ Prices as of early 2026. Weekend brunch prices have crept up across Melbourne �
 
 **MCG-area cafes on event days:** The pop-up food around the ground is fine for a quick bite before the footy, but it's not brunch. Brunch implies sitting down, taking your time, and making a morning of it.
 
----
 
 ## Cross-Suburb Brunch Comparisons
 
@@ -130,7 +121,6 @@ If you're brunching beyond Richmond's borders, these guides have you covered:
 - [Best Brunch in Collingwood](/collingwood/best-brunch) — Smith Street brings the big guns
 - [Best Brunch in Cremorne](/cremorne/best-brunch) — The corporate area's best-kept weekend secret
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ What's your ideal brunch move?**
@@ -141,7 +131,6 @@ If you're brunching beyond Richmond's borders, these guides have you covered:
 
 [Vote in our weekly suburb poll →](/poll/richmond-brunch-style)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Richmond Vibe Score This Week: 88/100**
@@ -150,7 +139,6 @@ Brunch culture keeps Richmond's weekend scene humming. Swan Street is the epicen
 
 [See the full Vibe Score breakdown →](/richmond/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 Where's your go-to brunch spot?**
@@ -159,7 +147,6 @@ We know we haven't covered everything. Richmond has depth. Tell us where we shou
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Richmond**
@@ -168,7 +155,6 @@ We know we haven't covered everything. Richmond has depth. Tell us where we shou
 - [Neighbourhood Guide to Richmond](/richmond/neighbourhood-guide) — everything else you need to know
 - [Date Night in Richmond](/richmond/date-night) — because after brunch comes dinner planning
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

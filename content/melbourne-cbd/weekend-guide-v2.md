@@ -5,12 +5,17 @@ date: 2026-03-16
 author: isabella
 tags: ["melbourne-cbd", "weekend", "lifestyle"]
 categories: ["lifestyle"]
-description: "Weekend Guide: Melbourne CBD 2026 — Saturday & Sunday Done Right
+description: "Weekend Guide: Melbourne CBD 2026 — Saturday & Sunday Done Right"
+---
 
-Updated 16 March 2026 | Isabella Greco reporting
+**Updated 16 March 2026 | Isabella Greco reporting**
+
+
 
 The CBD on a weekend is a different anima..."
----
+
+*Updated 16 March 2026 | Isabella Greco reporting*
+
 # Weekend Guide: Melbourne CBD 2026 — Saturday & Sunday Done Right
 
 *Updated 16 March 2026 | Isabella Greco reporting*
@@ -19,7 +24,6 @@ The CBD on a weekend is a different animal to the weekday rush of suits and comm
 
 This guide covers a full weekend in the CBD — where to eat, what to see, where to drink, and what's honestly not worth your time. Prices are real, hours are current as of mid-March 2026, and everything here is within walking distance of a tram stop. Let's get into it.
 
----
 
 ## SATURDAY
 
@@ -95,7 +99,6 @@ The container bar in the laneway. Shipping containers converted into a bar with 
 
 **Getting home safe:** The last trams run around 1am on Saturdays. Night Network trains operate from 1:30am–4:30am on the Craigieburn, Pakenham, Sandringham, and Werribee lines. If you're staying out later, rideshare pickup is best from Swanston Street near Flinders Street Station — it's the most reliable spot and well-lit.
 
----
 
 ## SUNDAY
 
@@ -155,7 +158,6 @@ The three-level Collins Street bookstore is the kind of place you enter for five
 
 Unmarked entrance (you push open what looks like a service door). Three levels: ground floor is the bar, first floor is a science lab-themed space, and the top floor is a library. Cocktails $20–$25, each themed to its floor. The ground floor is open and airy; the top floor is intimate and quiet — perfect for a Sunday afternoon drink where you can actually think about the week ahead. Open from 4pm Sundays.
 
----
 
 ## What We Skipped and Why
 
@@ -169,7 +171,6 @@ Not everything in the CBD deserves your weekend. Here's what we left out, and th
 
 **Southern Cross Station and the Docklands** — Docklands has improved significantly since 2020 with new restaurants and the UNSW campus bringing more foot traffic, but it's still a 20-minute tram ride from the CBD centre and doesn't have enough standalone draw to justify a slot in a weekend guide. We'll cover it in a separate Docklands piece when the next wave of venues opens in winter 2026.
 
----
 
 ## Getting Around: Practical Bits
 
@@ -179,7 +180,6 @@ Not everything in the CBD deserves your weekend. Here's what we left out, and th
 - **Accessibility:** The CBD has step-free access to most major venues. The City of Melbourne's accessibility map (melbourne.vic.gov.au/accessibility) covers accessible tram stops, crossings, and public toilets. ACCA, NGV, and the Shrine of Remembrance all have lift access and accessible bathrooms.
 - **Weather:** March in Melbourne averages 18–24°C but can swing from 12°C to 32°C in a single day. Bring layers. Always bring layers.
 
----
 
 ## The Weekend at a Glance
 
@@ -190,7 +190,6 @@ Not everything in the CBD deserves your weekend. Here's what we left out, and th
 | **Afternoon** | ACCA or NGV galleries | Queen Victoria Market, Melbourne Central |
 | **Evening** | Cocktails at Eau De Vie or rooftop drinks | The Croft Institute, then home |
 
----
 
 **Was this guide useful?** Drop us a rating below — it helps us know what to write more of.
 
@@ -210,7 +209,6 @@ Not everything in the CBD deserves your weekend. Here's what we left out, and th
 
 *Cross-neighbourhood weekend reading: [Southbank After Dark: A Locals' Honest Guide](/southbank/after-dark-guide) | [Carlton's Lygon Street: Beyond the Stereotype](/carlton/lygon-street-guide) | [Fitzroy's Best Bars, Ranked by People Who Actually Go](/fitzroy/best-bars-ranked)*
 
----
 
 *Isabella Greco is MELBZ's Seasonal Editor, covering CBD and inner-city lifestyle. She has lived, brunched, and gotten lost in Melbourne's laneways for the past eleven years. If you spot someone taking notes at a bar, it's probably her.*
 

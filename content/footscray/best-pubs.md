@@ -1,6 +1,8 @@
 ---
 title: "8 Best Pubs in Footscray You Need to Try in 2026"
 cover_image: "/images/footscray/best-pubs.jpg"
+---
+
 suburb: "footscray"
 vertical: "lifestyle"
 author: "kai"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The definitive guide to Footscray's best pubs in 2026. Corner locals, live music dens, and the steak pub that's worth the drive from anywhere in Melbourne."
 tags: ["footscray"]
 categories: ["general"]
----
 # 8 Best Pubs in Footscray You Need to Try in 2026
 
 Footscray pubs are a different breed. They don't have the heritage-listed facades of a South Melbourne local or the craft-beer-on-tap-everywhere energy of Collingwood. What they've got is better: genuine neighbourhood pubs where the parma is crispy, the beer is cold, the footy's on, and nobody's pretending to be anything they're not. This is working-class pub culture that's been upgraded without being gentrified away.
@@ -18,7 +19,6 @@ The inner west has always punched above its weight for pubs. Some of these spots
 
 **Last updated: 17 March 2026** | **Footscray Vibe Score: 82/100 🔥 RISING**
 
----
 
 ## 1. The Victoria Hotel (The Vic)
 **The vibe:** The platonic ideal of a corner pub, done properly. Sun-splashed front bar, cold beer, and a parma that sets the standard.
@@ -32,7 +32,6 @@ What sets The Vic apart is that it does everything without fuss. The beer garden
 **Hours:** Mon–Thu 12pm–10pm, Fri–Sat 12pm–1am, Sun 12pm–10pm
 **Insider tip:** The Vic is proudly gluten-free across the entire menu — celiac-friendly pub food that tastes exactly as good as the regular stuff. This is rare in Melbourne pubs and genuinely impressive.
 
----
 
 ## 2. The Station Hotel
 **The vibe:** A contender for the best steaks in Melbourne's west. French-influenced, beef-focused, and worth every cent.
@@ -46,7 +45,6 @@ The dining room is warmer and more polished than your average Footscray pub, but
 **Hours:** Tue–Sun from 12pm
 **Insider tip:** Book ahead for weekends. The dining room fills up, and this is not the kind of steak you want to miss because you didn't reserve. The lunch menu is a steal.
 
----
 
 ## 3. Hotel Westwood
 **The vibe:** Live music venue, fireplace corner, Mexican food, and a beer garden — the pub that does everything.
@@ -60,7 +58,6 @@ The Mexican food menu is a curveball for a Footscray pub, but it works. Tacos, b
 **Hours:** Mon–Thu 12pm–11pm, Fri–Sat 12pm–2am, Sun 12pm–10pm
 **Insider tip:** Follow their gig listings — they book genuine emerging talent, not cover bands. Some of Melbourne's best small shows happen here on random weeknights.
 
----
 
 ## 4. The Mallow Hotel
 **The vibe:** Newly renovated, surprisingly polished, and the kind of pub where your parents would feel comfortable.
@@ -74,7 +71,6 @@ It's the pub for people who want the neighbourhood pub experience without the st
 **Hours:** Mon–Sun 11am–11pm
 **Insider tip:** The weekend lunch specials are excellent value. Check their socials for the current deals — they rotate regularly.
 
----
 
 ## 5. The Cheeky Pint
 **The vibe:** British-style hand pumps, house-brewed beers, and beer-friendly mains that actually understand beer pairing.
@@ -88,7 +84,6 @@ The food is what make betters it beyond "just a beer bar." These are mains desig
 **Hours:** Mon–Thu 12pm–10pm, Fri–Sat 12pm–12am, Sun 12pm–9pm
 **Insider tip:** The cask ale is the move if you've never tried it. It's a different experience from standard keg beer — softer, lower carbonation, more flavour. The staff will explain the difference if you ask.
 
----
 
 ## 6. Mona Castle Hotel
 **The vibe:** Technically Seddon, spiritually Footscray. The corner pub you wish was yours.
@@ -102,7 +97,6 @@ The parma here is the kind that derails best-laid Tuesday plans. Families, dates
 **Hours:** Mon–Thu 12pm–10pm, Fri–Sat 12pm–1am, Sun 12pm–10pm
 **Insider tip:** The courtyard on a Sunday arvo is peak Melbourne pub culture. Bring the dog, order a roast, and let the afternoon happen.
 
----
 
 ## 7. Hardimans Hotel
 **The vibe:** Kensington's only pub, a short stroll from Footscray's border, and surprisingly excellent.
@@ -116,7 +110,6 @@ The space has genuine character: exposed brick, wooden bars, and the kind of atm
 **Hours:** Mon–Thu 12pm–11pm, Fri–Sat 12pm–1am, Sun 12pm–10pm
 **Insider tip:** Happy hour Tuesday to Friday, 4pm–7pm. This is genuinely one of the best value drinking windows in the inner west. Get in early.
 
----
 
 ## 8. The Rogue Squire
 **The vibe:** Modern gastropub energy with a focus on good food, decent drinks, and a space that works for everything from solo lunch to group dinner.
@@ -130,7 +123,6 @@ It's the kind of pub where you can take visiting friends from overseas and not w
 **Hours:** Mon–Thu 12pm–10pm, Fri–Sat 12pm–11pm, Sun 12pm–9pm
 **Insider tip:** The weekday lunch menu is significantly cheaper than dinner. If you're working from home and want a pub lunch without the pub-lunch price, go between 12pm and 3pm on a Tuesday or Wednesday.
 
----
 
 ## Getting There & Back
 
@@ -140,7 +132,6 @@ Late-night options are limited compared to the CBD, but that's the point. These 
 
 If you're driving, metered parking is available on most side streets. Free after 6:30pm and on Sundays.
 
----
 
 ## The Bottom Line
 
@@ -150,13 +141,11 @@ If you only try one spot, make it The Station Hotel for the steak. Book ahead. O
 
 **Your Footscray Vibe Score this week: 82/100** — Pub culture alone is worth the trip across the river.
 
----
 
 *Know a spot we missed? Let us know.*
 *Also worth exploring: [Best Pubs in Seddon](/seddon/best-pubs) · [Best Pubs in Yarraville](/yarraville/best-pubs) · [Best Pubs in West Melbourne](/west-melbourne/best-pubs)*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Explore more of Footscray:**
 - 🍷 [Best Bars in Footscray](/footscray/best-bars)

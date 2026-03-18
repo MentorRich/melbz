@@ -1,23 +1,26 @@
 ---
-title: "Cremorne Honest Guide 2026: Church Street & Corporate Cool"
+title: "Cremorne Honest Guide 2026: Church Street Corporate Cool"
 cover_image: "/images/cremorne/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["cremorne", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Cremorne Honest Guide 2026: Church Street & Corporate Cool
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Cremorne Honest Guide 2026: Church Street & Corporate Cool"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Look, someone has to say it: Cremorne is Me..."
----
 # Cremorne Honest Guide 2026: Church Street & Corporate Cool
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Look, someone has to say it: Cremorne is Melbourne's most confusing suburb, and it absolutely knows it. One minute you're walking past a furniture showroom that hasn't changed its window display since the Hawke government, the next you're sipping a $7 single-origin flat white in a converted warehouse that smells like reclaimed timber and venture capital. It's the suburb that can't decide if it's industrial chic or corporate cool, and honestly? That tension is exactly what makes it interesting.
 
@@ -96,14 +99,12 @@ If you want a suburb with character that's still being written, Cremorne is it. 
 
 Some things never change. And some things change so fast you'll wish they'd slow down.
 
----
 
 **Related Reading:**
 - [The Honest Guide to Richmond](/richmond/honest-guide) — Cremorne's bigger, louder neighbour
 - [South Yarra: Worth the Hype?](/south-yarra/honest-guide) — Where Cremorne residents go to shop and brunch
 - [South Melbourne Market Guide](/south-melbourne/honest-guide) — The best weekend market run from Cremorne
 
----
 
 *Have a hot take about Cremorne we missed? Drop it in the comments. We read everything.*
 

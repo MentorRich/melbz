@@ -5,28 +5,29 @@ date: 2026-03-16
 author: yuki
 tags: ["south-melbourne", "cheap-eats", "food"]
 categories: ["food"]
-description: "Cheap Eats Under $20 in South Melbourne 2026
-
-Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
-
+description: "Cheap Eats Under $20 in South Melbourne 2026"
 ---
+
+**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
+
+
+
+
+*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
+
 
 South Melbourne doesn't do budget dining ..."
----
 # Cheap Eats Under $20 in South Melbourne 2026
 
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
 
----
 
 South Melbourne doesn't do budget dining quietly. Between the market stalls slinging $5 borek that's been perfecting its craft for decades and the hole-in-the-wall joints that locals queue for without telling anyone, this pocket of Melbourne punches well above its weight on a tight budget. I walked every block, ate everything, and kept a running tally. Here's where your $20 goes furthest.
 
----
 
 > **🚨 URGENCY BANNER**
 > **Prices move fast in 2026.** Several vendors on this list raised prices in the last six months. The $9 banh mi? It was $8.50 in January. Lock in your favourites now before the next round of increases hits before winter.
 
----
 
 ## 1. Ba Ba Rolls — The Banh Mi That Eats Like a Meal
 
@@ -40,7 +41,6 @@ A single roll here is a complete lunch. Add a Vietnamese iced coffee from one of
 
 **What to order:** Lemongrass Beef roll ($10)
 
----
 
 ## 2. Market Borek — $4.50 of Flaky, Spiced Perfection
 
@@ -54,12 +54,10 @@ Grab two borek for $9.50 and you've got lunch that actually fills you up. Or go 
 
 **What to order:** Spicy Lamb borek ($5) + Spicy Potato borek ($4.50) = $9.50 total
 
----
 
 > **📢 THE MOVE — MELBZ CALL-OUT**
 > **This is THE MOVE for South Melbourne lunch.** Two Market Borek pastries and a Ba Ba Rolls banh mi. That's a multi-course market feast for under $15. You're welcome. Tag us **@melaborne** with your haul.
 
----
 
 ## 3. Dragon Room Chinese — The $9 Lunch Box That Feeds Like Dinner
 
@@ -73,7 +71,6 @@ The small at $7.80 is generous. The large at $9 is enormous. For office workers 
 
 **What to order:** Large lunch box, two combinations with rice ($9)
 
----
 
 ## 4. Little Hof — Bavarian Street Food That Actually Delivers
 
@@ -87,7 +84,6 @@ This is not fine dining. It's a sausage in a roll eaten standing up next to stra
 
 **What to order:** Cheese Kransky with onions and mustard ($10)
 
----
 
 ## 5. Lat's Sushi — Sushi Rolls from $2.70
 
@@ -101,7 +97,6 @@ The okonomiyaki with sweet sauce and mayo is the wildcard. It's not sushi, it's 
 
 **What to order:** Four mixed rolls + okonomiyaki (~$14)
 
----
 
 > **🗳️ POLL — VOTE NOW**
 > **What's your $20 South Melbourne move?**
@@ -113,7 +108,6 @@ The okonomiyaki with sweet sauce and mayo is the wildcard. It's not sushi, it's 
 >
 > **Vote in the comments or reply to our [South Melbourne food poll](/south-melbourne/food-guide) — results drop next week.**
 
----
 
 ## 6. Pieno di Grazia — Pizza by the Slice, Italian by Heart
 
@@ -127,7 +121,6 @@ The Torta Maria ($6.50) is the sleeper hit — a savoury pie with veggies, egg, 
 
 **What to order:** One Pizza A Taglio + one Torta Maria ($12.50)
 
----
 
 ## 7. South Melbourne Seafoods Oyster Bar — Poke Bowls for the Price of a Coffee
 
@@ -141,7 +134,6 @@ If poke isn't your thing, single oysters from $4 let you sample Tasmanian, Coffi
 
 **What to order:** Poke bowl ($13.80) or 3 x Tasmanian oysters (~$12)
 
----
 
 > **📢 REACTION BAR**
 > 🔥 = Best bang for buck
@@ -151,7 +143,6 @@ If poke isn't your thing, single oysters from $4 let you sample Tasmanian, Coffi
 >
 > **React to your favourite pick in the comments.**
 
----
 
 ## What We Skipped and Why
 
@@ -167,7 +158,6 @@ Not everything under $20 deserves your attention. Here's what I passed on and wh
 
 **The premium poke bowl spots outside the market.** Some of the newer poke places on Park Street and Fitzroy Street charge $18–$22 for a standard bowl. South Melbourne Seafoods does it at $13.80 with comparable freshness. Do the maths.
 
----
 
 ## The $20 Challenge: Three Menus That Actually Work
 
@@ -192,12 +182,10 @@ Here's what a full day of eating in South Melbourne for under $20 looks like:
 
 All three keep you fed, happy, and nowhere near a credit card panic.
 
----
 
 > **💡 WANT MORE?**
 > Hungry for the full picture? Our **[South Melbourne Food Guide](/south-melbourne/food-guide)** covers every restaurant, cafe, and bar worth your time — from the $6 slices to the $60 mains. And if you're exploring beyond the market, check our **[Melbourne Cheap Eats Index](/food/cheap-eats-melbourne)** for suburb-by-suburb breakdowns across the city. Planning a weekend market day? Our **[South Melbourne Market Weekend Itinerary](/south-melbourne/market-weekend)** maps out the perfect Saturday.
 
----
 
 ## The Bottom Line
 
@@ -207,7 +195,6 @@ The trick is ignoring the brunch tax that some of the Clarendon Street cafes cha
 
 Your $20 is safe here. Spend it wisely.
 
----
 
 *Have a cheap eats spot in South Melbourne we missed? Drop it in the comments or tag us on socials. We test everything before we list it — no free passes.*
 

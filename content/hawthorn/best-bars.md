@@ -5,12 +5,11 @@ date: 2026-03-16
 author: lina
 tags: ["hawthorn", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
-
- Best Bars in Hawthorn 2026: Glenferrie Road Nights
-
-Hawthorn has always been the Boroondara..."
+description: "Best Bars in Hawthorn 2026: Glenferrie Road Nights"
 ---
+
+*description: "16 March 2026 | 6 places tested | Lina Nguyen reporting"*
+
 *Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
 
 # Best Bars in Hawthorn 2026: Glenferrie Road Nights
@@ -23,7 +22,6 @@ This year, the strip has genuinely stepped up. Bar Selecta's arrival in mid-2025
 
 Here's where to drink in Hawthorn in 2026.
 
----
 
 ## 1. Bar Selecta
 
@@ -44,7 +42,6 @@ The Age named Bar Selecta to its Good Food Guide Top 20 Bars 2026 list, and Broa
 
 **Budget note:** You'll spend around $50–70 per person for a couple of drinks. It's not cheap, but the quality is there.
 
----
 
 ## 2. The Kilburn
 
@@ -63,7 +60,6 @@ The velvet lounges and low lighting make this a natural date spot. It's also one
 
 **Budget note:** A whisky-and-cocktail date for two will land around $80–120 depending on your pours.
 
----
 
 ## 3. The Resistance Bar & Burgers
 
@@ -82,7 +78,6 @@ Weekly events keep things moving — trivia nights, live music, and themed cockt
 
 **Budget note:** A burger and two cocktails runs about $45–55. Hard to argue with that.
 
----
 
 ## 4. Vaporetto Bar & Eatery
 
@@ -99,7 +94,6 @@ It's not a place you go to get rowdy. It's a place you go when you want to sit w
 
 **Budget note:** A couple sharing two glasses of wine and a plate or two will spend $50–70. The Friday and Saturday late-night slots are worth booking.
 
----
 
 ## 5. Nevermind Bar
 
@@ -118,7 +112,6 @@ The cocktail list exists and is competent, but the real draw is the atmosphere. 
 
 **Budget note:** You can have a full night here for under $50. This is one of the most affordable late-night options in the inner east.
 
----
 
 ## 6. The Glenferrie Hotel
 
@@ -135,7 +128,6 @@ This isn't a cocktail destination and it doesn't try to be. It's where you go to
 
 **Budget note:** A pot and a parma will run you about $28–32. That's fair in 2026.
 
----
 
 ## 7. The Hawthorn Hotel
 
@@ -150,7 +142,6 @@ Live music and trivia nights keep the weekly calendar full. The beer garden is g
 
 **Budget note:** Happy hour makes this one of the cheapest drink options in Hawthorn. A $6 schooner during happy hour is not a myth — it happens here.
 
----
 
 ## What We Skipped and Why
 
@@ -164,7 +155,6 @@ We visited more than seven venues during our rounds of Hawthorn. Here's what did
 
 - **Barr'd Wine & Tapas Bar:** A pleasant little wine bar, but the offering didn't stand out enough from Vaporetto to justify two Italian-leaning wine spots on a list of seven. If you're in the area and Barr'd is closer, it'll serve you well.
 
----
 
 ## Getting There and Getting Home
 
@@ -178,7 +168,6 @@ We visited more than seven venues during our rounds of Hawthorn. Here's what did
 
 **Night Network:** Night Bus 966 runs from the CBD through Hawthorn on weekend nights. It's not glamorous, but it's free with a Myki and it gets you home.
 
----
 
 ## The Verdict
 
@@ -190,7 +179,6 @@ The strip rewards exploration. Don't just hit one place — make a night of it a
 
 That's a proper Hawthorn night out.
 
----
 
 *Have a favourite Hawthorn bar we missed? Rate this article below or submit your tip to the MELBZ editorial team.*
 

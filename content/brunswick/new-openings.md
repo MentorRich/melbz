@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Brunswick — March 2026"
 cover_image: "/images/brunswick/new-openings.jpg"
+---
+
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "New restaurant, bar, and venue openings in Brunswick for 2026. Alpha Ouzeri's comeback, Daphne in Brunswick East, and the spots worth queueing for."
 tags: ["brunswick"]
 categories: ["new"]
----
 # New Openings in Brunswick — What Just Landed and What's Worth Your Time
 
 Brunswick doesn't have the turnover of the CBD. Venues here don't open every Friday and close every Tuesday. When something new shows up on Sydney Road or the Lygon Street strip, it tends to stick around — because the locals will kill it fast if it's no good, and embrace it fiercely if it delivers. That's the filter we apply to this list: these are the openings from the past six months that are still running, still worth visiting, and actually add something to the suburb rather than just occupying a lease.
 
 **Last updated: 17 March 2026** | **Brunswick Vibe Score: 78/100 🟢**
 
----
 
 ## 1. Alpha Ouzeri — The Comeback
 **The vibe:** Northern Greek meze that left Brunswick, was missed, and came back like it never left. The ouzo flows, the octopus is grilled properly, and the meze plates make you want to book a trip to Kastoria.
@@ -32,7 +32,6 @@ Alpha Ouzeri reopened in Brunswick in late 2025 under chef Harry Tsiukardanis, a
 
 **Verdict:** This is the best new (old) opening in Brunswick in 2025/26. If you've been to Greek restaurants in Oakleigh and thought "this is fine but not special," Alpha Ouzeri will recalibrate your expectations entirely.
 
----
 
 ## 2. Daphne — Brunswick East's Addition from the Etta Team
 **The vibe:** A neighbourhood wine bar and diner from the people behind hatted restaurant Etta, occupying the much-loved former Bar Romantica space on Lygon Street. DJs, cocktails, burgers, and a vibe that says "I take food seriously but I don't take myself seriously."
@@ -48,7 +47,6 @@ Daphne opened in late 2025 on the Brunswick East end of Lygon Street (52–54 Ly
 
 **Verdict:** Daphne is what happens when a hatted chef opens a casual venue and actually means "casual." It's the new default for a Tuesday night when cooking feels impossible and Uber Eats feels like giving up.
 
----
 
 ## 3. Tawooq — Lebanese Street Food
 **The vibe:** A family-run Lebanese spot on the Brunswick East end of Lygon Street that opened in mid-2024 and has quietly built a following on the strength of its chicken tawook wraps and beef shawarma.
@@ -64,7 +62,6 @@ Tawooq at 109 Lygon Street, Brunswick East is the kind of place that doesn't nee
 
 **Verdict:** Not flashy, not trying to be. Just genuinely good Lebanese street food from a family that knows what they're doing. This is the lunch spot Brunswick East needed.
 
----
 
 ## 4. The Pontian Club — From Pop-Up to Permanent
 **The vibe:** A Pontian Greek concept that started as a Brunswick East pop-up and graduated to a permanent home on Smith Street, bringing a cuisine that most Melburnians have never properly encountered.
@@ -80,7 +77,6 @@ The Pontian Club was born as a pop-up in Brunswick East and grew enough of a fol
 
 **Verdict:** This is the opening that Brunswick's broader dining scene should be talking about. It's technically Smith Street, but it came from Brunswick East and the food connects to the suburb's Greek heritage in a way that feels authentic rather than nostalgic.
 
----
 
 ## 5. Brunswick Music Festival 2026 — Annual Opening Season
 **The vibe:** The annual festival that takes over Sydney Road for a day and fills Brunswick's venues with 100+ artists for a week, proving that this suburb's live music credentials aren't just inherited — they're actively maintained.
@@ -94,7 +90,6 @@ The Brunswick Music Festival returned in early 2026 with its signature Sydney Ro
 
 **Verdict:** If you're reading this in March 2026 and the festival just finished, you already know. If you missed it, put the 2027 edition in your calendar now.
 
----
 
 ## Also on Our Radar
 
@@ -106,7 +101,6 @@ These are openings and developments we're watching — not yet fully reviewed bu
 
 **Waxflower seasonal menu changes** — The Weston Street bar has been rotating their menu based on season and availability. They don't get "new opening" press, but their quarterly menu updates are worth tracking.
 
----
 
 ## What We Skipped and Why
 
@@ -120,7 +114,6 @@ These are openings and developments we're watching — not yet fully reviewed bu
 
 **Fitzroy North venues.** [Fitzroy North](/fitzroy-north/new-openings) has some excellent new openings of its own, particularly around the Smith Street and St Georges Road corridors. We cover them in their own guide.
 
----
 
 ## The New Openings Cheat Sheet
 
@@ -132,7 +125,6 @@ These are openings and developments we're watching — not yet fully reviewed bu
 
 **Want the full Brunswick experience?** Time your visit to coincide with the Brunswick Music Festival. Eat at A1 Bakery during the day, see a show at the Ballroom at night, and watch the street party from the balcony.
 
----
 
 **Your Brunswick Vibe Score this week: 78/100** — The new openings here aren't about chasing trends. They're about people who know what they're doing opening the kind of places they want to eat at themselves.
 
@@ -140,7 +132,6 @@ These are openings and developments we're watching — not yet fully reviewed bu
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 *Also see: [Best Restaurants in Brunswick](/brunswick/best-restaurants) · [Brunswick East New Openings](/brunswick-east/new-openings) · [Coburg New Openings](/coburg/new-openings) · [Best Bars in Brunswick](/brunswick/best-bars) · [Brunswick Date Night Guide](/brunswick/date-night) · [Brunswick Cheap Eats](/brunswick/cheap-eats)*
 

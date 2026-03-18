@@ -1,6 +1,8 @@
 ---
 title: "8 Best Pubs in Thornbury for a Proper Pour in 2026"
 cover_image: "/images/thornbury/best-pubs.jpg"
+---
+
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "kai"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Thornbury's best pubs for 2026 — from converted warehouses to local bowls clubs. Real ales, proper parma, and no pretension."
 tags: ["thornbury"]
 categories: ["general"]
----
 # 8 Best Pubs in Thornbury for a Proper Pour in 2026
 
 Thornbury doesn't do gastropubs with $32 schnitzels and a curated "heritage" beer list. What it does is better: neighbourhood watering holes where the beer's cold, the food's honest, and nobody's trying to reinvent the pub. Some of these places are genuinely old-school; others are newer takes on the format. All of them are places you can walk into alone on a Tuesday and leave having made a friend. That's the Thornbury pub test.
 
 **Last updated: 17 March 2026** | **Thornbury Vibe Score: 78/100 🟢**
 
----
 
 ## 1. Northern Git
 **The vibe:** A Yorkshire pub cosplaying as a Melbourne corner shop, and it absolutely nails it.
@@ -28,7 +28,6 @@ Northern Git is one of those spots that defies categorisation and thrives becaus
 **Hours:** Wed–Sun 11:30am–9pm; Mon–Tue closed
 **Insider tip:** The weekday lunch pie special at $15 is the best value meal on High Street. Arrive by 1pm — they sell out and don't restock.
 
----
 
 ## 2. Thornbury Bowls Club
 **The vibe:** Barefoot bowls, $5 schooners, and live music in a community club that's been here longer than most of the bars on High Street.
@@ -40,7 +39,6 @@ The Thornbury Bowls Club is a genuine relic — in the best possible way. This i
 **Hours:** Check their website for event nights; bar generally open Wed–Sun
 **Insider tip:** Book a barefoot bowls session for your next birthday. It's $15–20 per person, includes bowls hire, and they provide the drinks. Best birthday party you'll ever throw.
 
----
 
 ## 3. Ballard's
 **The vibe:** All-vegan pub food that doesn't preach — it just serves good meals and lets the food do the converting.
@@ -52,7 +50,6 @@ Ballard's occupies a unique position in Thornbury: a pub where everything is pla
 **Hours:** Tue–Sat 12–10pm, Sun 12–9pm; Mon closed
 **Insider tip:** Saturday arvo in the beer garden with a book and a pint is one of Thornbury's quiet rituals. Get there before 2pm for the good seats.
 
----
 
 ## 4. Carwyn Cellars Back Room
 **The vibe:** A bottle shop with a back room that serves as Melbourne's unofficial craft beer parliament.
@@ -64,7 +61,6 @@ While Carwyn is primarily known as a bottle shop (and Melbourne's best one at th
 **Hours:** Mon–Thu 12–10pm, Fri–Sat 12–11pm, Sun 12–9pm
 **Insider tip:** Wednesday $10 pint nights on selected taps. Also, the bottle shop pricing is better than retail — grab a four-pack to take home.
 
----
 
 ## 5. Franklin's Bar
 **The vibe:** A warehouse bar with a 3am licence, woodfired pizza, and hospitality that remembers your name.
@@ -76,7 +72,6 @@ Franklin's straddles the line between bar and pub with effortless ease. The spac
 **Hours:** Mon–Thu 4pm–1am, Fri–Sat 4pm–3am, Sun 4pm–11pm
 **Insider tip:** The weekday 4pm opening means Franklin's is your after-work transition spot. Early bird pizzas with a colleague, and suddenly it's 9pm and you haven't checked your email once.
 
----
 
 ## 6. Nasty's
 **The vibe:** A dive bar with a drinks list short enough to fit on a coaster. No cocktails, no pretence, no problems.
@@ -88,7 +83,6 @@ Nasty's is the pub equivalent of a "keep it simple" tattoo. The drinks list is d
 **Hours:** Thu–Sat 5pm–late
 **Insider tip:** Cash moves faster at the bar on busy nights. They take cards, but the EFTPOS is slower than your mate who's "just about to leave."
 
----
 
 ## 7. 3 Ravens Brewery Taproom
 **The vibe:** A proper brewery taproom where the beer was made 50 metres from where you're drinking it.
@@ -100,7 +94,6 @@ Nasty's is the pub equivalent of a "keep it simple" tattoo. The drinks list is d
 **Hours:** Fri 4–9pm, Sat 12–6pm, Sun 12–5pm
 **Insider tip:** Check their website or socials before visiting — the taproom hours change seasonally, and limited releases disappear fast.
 
----
 
 ## 8. Pallino Bar & Bocce
 **The vibe:** A 1950s espresso bar turned spritz-and-bocce joint. It shouldn't work this well.
@@ -112,7 +105,6 @@ Pallino occupies a genuine 1950s espresso bar space on High Street and has added
 **Hours:** Wed–Sun 12–10pm
 **Insider tip:** Book the bocce court for groups of 6+. It turns a Friday night into an event without the event price tag.
 
----
 
 ## Getting Home Safe
 
@@ -120,7 +112,6 @@ All the pubs on this list sit along or near High Street, which is well-served by
 
 **If you or someone you're with needs help:** Call 000. Thornbury Police Station is on Plenty Road.
 
----
 
 ## The Bottom Line
 
@@ -128,12 +119,10 @@ Thornbury's pub scene doesn't need gimmicks. You've got a bowls club with $5 sch
 
 **Your Thornbury Vibe Score this week: 78/100** — The pub scene is steady and honest, which is exactly what Thornbury does best.
 
----
 
 *Know a spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Also in the area:**
 → [Best Bars in Thornbury](/thornbury/best-bars)

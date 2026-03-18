@@ -1,16 +1,21 @@
 ---
-title: "Best Restaurants in Hawthorn 2026: Glenferrie Road & Beyond"
+title: "Best Restaurants in Hawthorn 2026: Glenferrie Road Best Beyond"
 cover_image: "/images/hawthorn/best-restaurants.jpg"
 date: 2026-03-16
 author: jules
 tags: ["hawthorn", "restaurants", "food"]
 categories: ["food"]
-description: "Best Restaurants in Hawthorn 2026: Glenferrie Road & Beyond
+description: "Best Restaurants in Hawthorn 2026: Glenferrie Road & Beyond"
+---
 
-Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting
+**Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting**
+
+
 
 Hawthorn sits in a funny sp..."
----
+
+*Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
+
 # Best Restaurants in Hawthorn 2026: Glenferrie Road & Beyond
 
 *Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
@@ -19,7 +24,6 @@ Hawthorn sits in a funny spot on Melbourne's dining map. It's not trying to be t
 
 I walked the strip, ate through the menus, and tracked down the spots actually worth your Saturday night booking. Here are the six places we rate in Hawthorn right now.
 
----
 
 ## 1. Izakaya Jiro — The Sake Specialist
 
@@ -36,7 +40,6 @@ The room itself is compact — dark timber, ambient lighting, a sushi bar up fro
 
 **Signature dishes:** Wagyu tataki with ponzu, sashimi platter, teishoku lunch sets
 
----
 
 ## 2. Ocha — Hawthorn's Best-Kept Japanese Secret
 
@@ -53,7 +56,6 @@ Ocha offers BYO wine at all lunches and Tuesday through Thursday dinner — a ge
 
 **Signature dishes:** Miso-glazed black cod, soft-shell crab with yuzu, chef's selection sashimi
 
----
 
 ## 3. Santoni Pizza & Bar — The Glenferrie Institution
 
@@ -70,7 +72,6 @@ Rotating seasonal specials keep repeat visits interesting, and the wine list lea
 
 **Signature dishes:** The Greek Boy pizza, mafaldine with wagyu ragu, margherita
 
----
 
 ## 4. Pettah Road — Sri Lankan Soul Food
 
@@ -87,7 +88,6 @@ For à la carte, the hopper pack with chicken and fish curries and kotthu roti i
 
 **Signature dishes:** Weekend buffet, hopper pack with curries, kotthu roti, chicken biryani
 
----
 
 ## 5. Short Straw — Brunch Done Right
 
@@ -104,7 +104,6 @@ Short Straw also does a solid lunch menu with burgers, salads, and bowls that ke
 
 **Signature dishes:** Corn fritters with avocado, eggs benedict, house-made banana bread
 
----
 
 ## 6. Nini's Hawthorn — Rooftop Mediterranean
 
@@ -121,7 +120,6 @@ The rooftop deck is the real draw on warm evenings, with Melbourne's eastern sky
 
 **Signature dishes:** Slow-roasted lamb shoulder, mezze platter, grilled haloumi with tahini
 
----
 
 ## Honourable Mentions
 
@@ -133,7 +131,6 @@ A few spots that didn't quite make the main list but deserve a nod:
 
 - **Sushi Matsuri** (near Hawthorn Station) — A hole-in-the-wall sushi spot that locals adore. The fish is fresh, the portions are generous, and it's perfect for a quick lunch when you don't want to sit down for a full restaurant experience.
 
----
 
 ## What We Skipped and Why
 
@@ -145,7 +142,6 @@ Every restaurant guide includes things that don't make the cut. Here's ours:
 
 - **Generic Glenferrie Road chains** — We skipped the usual suspects (pizza chains, fast-casual Thai, the identikit cafés) because this list is about the places that make Hawthorn worth the trip from [Kew](/kew), [Richmond](/richmond), or [Camberwell](/camberwell). You already know where to get a pad thai in a hurry.
 
----
 
 ## The Verdict
 
@@ -153,13 +149,11 @@ Hawthorn's dining scene doesn't shout — it just quietly delivers. Whether you'
 
 The thing about Hawthorn is that it sits perfectly between its neighbours. If [Richmond](/richmond) is Melbourne's most exciting dining suburb and [Camberwell](/camberwell) is the most polished, Hawthorn is the one you'll actually end up eating at most often — because it's where the good stuff lives without the fanfare.
 
----
 
 **📌 Pin it for later:**
 
 > *"Hawthorn doesn't shout about its food scene — and that's exactly why it's one of Melbourne's best-kept dining secrets. Six restaurants, six reasons to cross the Yarra."*
 
----
 
 *Have a favourite Hawthorn restaurant we missed? Tell us on Instagram [@melbzcomau](https://instagram.com/melbzcomau) or email editors@melbz.com.au.*
 

@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["southbank", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Southbank Honest Guide 2026: Arts Precinct & Apartment Living
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Southbank Honest Guide 2026: Arts Precinct & Apartment Living"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Let's get something straight about South..."
----
 # Southbank Honest Guide 2026: Arts Precinct & Apartment Living
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Let's get something straight about Southbank before we go any further. This is not a neighbourhood in the traditional Melbourne sense. There's no corner pub with a resident cat. No bakery that's been there since 1953. No local who'll tell you about the time the council tried to put in bike lanes and old mate from the bowling club started a petition. Southbank is Melbourne's most ambitious attempt at building a suburb from scratch, and depending on who you ask, it's either a triumph of urban planning or a very expensive apartment with a nice view.
 
@@ -125,13 +128,11 @@ Southbank consistently scores in the high 60s to mid-70s on our Suburb Vibe Scor
 
 **Who it's not for:** Families (limited green space, limited schools), people who need silence, anyone looking for a tight-knit community feel, dog owners without a balcony or a nearby park plan.
 
----
 
 *Southbank won't give you the Melbourne you've seen in tourism ads — the leafy streets, the corner pubs, the sense of a neighbourhood that's been here forever. What it will give you is a front-row seat to one of the world's most liveable cities, wrapped in glass and concrete, with the Yarra at your feet and the NGV a lazy 8-minute walk away. Whether that trade-off works is entirely up to you.*
 
 *The Yarra's still brown, though. Some things never change.*
 
----
 
 **Quick Poll: What's your Southbank take?**
 
@@ -141,19 +142,16 @@ Southbank consistently scores in the high 60s to mid-70s on our Suburb Vibe Scor
 - 🎭 The Arts Precinct alone makes it worth it
 
 
----
 
 **Rate Southbank's vibe:**
 
 👍 👎
 
 
----
 
 **Want the honest take on your suburb?** Drop it below and we'll cover it next.
 
 
----
 
 **Get Southbank's weekly briefing** — new openings, vibe score changes, and the stuff worth knowing about, delivered every Monday.
 

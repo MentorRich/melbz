@@ -3,9 +3,10 @@ title: "Carlton"
 cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
 description: "Italian heritage meets university culture. From Lygon Street's espresso institutions to the Carlton Gardens, explore Melbourne's little Italy and university precinct."
 author: "Jules Marchetti"
+---
+
 author_role: "Editor-in-Chief"
 author_image: "/images/authors/jules.jpg"
----
 
 Carlton is where Melbourne learned to drink coffee. It’s where generations of students have debated politics over a pint at the Clyde, where nonnas still hand‑roll pasta in family‑run restaurants, and where the city’s intellectual and culinary histories collide. This isn’t just a suburb—it’s a living archive of Melbourne’s post‑war immigration story, wrapped in the energy of a university campus.
 

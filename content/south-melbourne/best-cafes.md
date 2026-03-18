@@ -5,12 +5,17 @@ date: 2026-03-16
 author: eli
 tags: ["south-melbourne", "cafes", "coffee"]
 categories: ["food"]
-description: "Best Cafes in South Melbourne 2026: The Coffee Guide
+description: "Best Cafes in South Melbourne 2026: The Coffee Guide"
+---
 
-Updated 16 March 2026 | 8 places tested | Eli Chen reporting
+**Updated 16 March 2026 | 8 places tested | Eli Chen reporting**
+
+
 
 South Melbourne doesn't mess around when ..."
----
+
+*Updated 16 March 2026 | 8 places tested | Eli Chen reporting*
+
 # Best Cafes in South Melbourne 2026: The Coffee Guide
 
 **Updated 16 March 2026 | 8 places tested | Eli Chen reporting**
@@ -19,7 +24,6 @@ South Melbourne doesn't mess around when it comes to coffee. The suburb has been
 
 I spent two weeks working through every notable cafe in South Melbourne. Some made the cut. Some didn't. Here's what I found.
 
----
 
 ## 1. ST. ALi Coffee Roasters
 
@@ -36,7 +40,6 @@ The food menu goes well beyond what you'd expect from a "coffee shop." We're tal
 
 > **🔥 THE MOVE:** Grab a table outside on a Saturday morning and order the cold drip alongside their egg and bacon roll. It's the original South Melbourne power combo and it still hits.
 
----
 
 ## 2. Chéri
 
@@ -50,7 +53,6 @@ The space is generous, with a 50-person courtyard that fills up fast on weekends
 **Coffee style:** Specialty espresso, matcha latte, seasonal blends  
 **Food:** French-inspired patisserie, brunch plates, chicken cotoletta, pastries and cakes
 
----
 
 ## 3. Proper & Son
 
@@ -71,7 +73,6 @@ Don't come expecting a sit-down fine dining experience. This is market eating do
 > □ Dumplings from the food court  
 > □ I just grab a coffee and walk around
 
----
 
 ## 4. Market Lane Coffee
 
@@ -85,7 +86,6 @@ The coffee is exceptional. They source and roast with serious intent, and it sho
 **Coffee style:** Specialty single-origin espresso, filter, pour-over  
 **Food:** Pastries, toasties, light bites — coffee is the main event
 
----
 
 ## 5. Code Black Coffee
 
@@ -102,7 +102,6 @@ The brunch menu is the real draw. Full à la carte with properly executed dishes
 
 > **💬 CONFESSION BOX:** I once told my friends I "discovered" Code Black South Melbourne. I did not discover Code Black South Melbourne. They have a website and everything. My ego has since been corrected.
 
----
 
 ## 6. The Kettle Black
 
@@ -117,7 +116,6 @@ The food menu is solid Modern Australian — brunch staples done with care, good
 **Coffee style:** Specialty espresso, flat whites, consistent quality  
 **Food:** Modern Australian brunch, seasonal plates, good portions
 
----
 
 ## 7. Kuu Japanese Cafe
 
@@ -132,7 +130,6 @@ The space is intimate — don't come expecting sprawling courtyards — but the 
 **Coffee style:** Melbourne espresso, matcha lattes, Japanese-influenced coffee service  
 **Food:** Japanese breakfast platters, poached salmon, seasonal Japanese dishes
 
----
 
 ## 8. 2Elements Canteen
 
@@ -149,7 +146,6 @@ The matcha is properly whisked, not that pre-mixed powder nonsense. The breakfas
 
 > **🔗 OPEN LOOP CLOSE:** This list covers the cafe scene in South Melbourne, but if you're heading north, our [Best Brunch Spots in Fitzroy](/fitzroy/best-brunch) covers the eastside heavyweights. Different vibe, equally good coffee.
 
----
 
 ## What We Skipped and Why
 
@@ -163,7 +159,6 @@ Every "best cafes" list needs a honesty section. Here's what didn't make the cut
 
 **Generic market food court stalls** — South Melbourne Market has plenty of food options, but most are restaurants or food stalls rather than dedicated cafes. We focused on places where coffee is a primary offering, not an afterthought.
 
----
 
 ## The Bigger Picture
 
@@ -173,7 +168,6 @@ If you're visiting for the first time, start at the market on a Wednesday, Frida
 
 For more Melbourne coffee coverage, check our guide to [Melbourne's Best Coffee Roasters](/melbourne/best-coffee-roasters) and our [South Melbourne Market Complete Guide](/south-melbourne/market-guide).
 
----
 
 *This article is part of the MELBZ [food and drink](/food) series. Eli Chen covers Melbourne's café scene. Got a tip or a correction? Drop it in the comments or tag us @melbz on socials.*
 

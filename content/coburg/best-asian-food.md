@@ -5,12 +5,17 @@ date: 2026-03-16
 author: yuki
 tags: ["coburg", "asian", "food"]
 categories: ["food"]
-description: "Best Asian Food in Coburg 2026: Sydney Road's Global Flavours
+description: "Best Asian Food in Coburg 2026: Sydney Road's Global Flavours"
+---
 
-Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
+**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
+
+
 
 Sydney Road doesn't get the l..."
----
+
+*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
+
 # Best Asian Food in Coburg 2026: Sydney Road's Global Flavours
 
 *Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
@@ -19,7 +24,6 @@ Sydney Road doesn't get the love it deserves. While foodies flock to Lygon Stree
 
 I walked Sydney Road (and a short detour to Pentridge) to find the six spots worth your time and money in 2026. Here's what made the cut.
 
----
 
 <!-- WIDGET 1 -->
 **🍜 POLL: What's your go-to Sydney Road order?**
@@ -28,7 +32,6 @@ I walked Sydney Road (and a short detour to Pentridge) to find the six spots wor
 - C) Chinese stir-fry with fried rice
 - D) Something I won't tell you about (it's my secret spot)
 
----
 
 ## 1. Pho My Tho — The Pho Purist
 
@@ -43,7 +46,6 @@ It's BYO, cash-friendly, and the service is brisk in the best possible way. This
 
 **Yuki's pick:** Combination pho ($16) with a side of pork rice paper rolls ($8).
 
----
 
 ## 2. Hanoi Lotus — The Reliable All-Rounder
 
@@ -58,7 +60,6 @@ Hanoi Lotus is also one of the more accessible spots on the strip for gluten-fre
 
 **Yuki's pick:** Bun bo hue ($17) and the crispy spring rolls to share ($12 for four).
 
----
 
 ## 3. Mama Wong's Kitchen — The Halal Chinese Stalwart
 
@@ -73,14 +74,12 @@ It's not going to win any fine dining awards. But for a $16 plate of chilli chic
 
 **Yuki's pick:** Chilli chicken withcashews ($18) and a serve of combination fried rice ($14).
 
----
 
 <!-- WIDGET 2 -->
 
 > **🗺️ SPOT GUIDE: Sydney Road Asian Food Crawl**
 > Start at Bell Street (Pho My Tho) → walk south to Mama Wong's (164) → Taste of Thai (434) → Hanoi Lotus (472). That's roughly 1.5 km. Doable in 20 minutes on foot. Best done on a Saturday lunch, hopping between restaurants for one dish each. We call it the Sydney Road Sampler. You're welcome.
 
----
 
 ## 4. Taste of Thai — The Quick Fix
 
@@ -95,7 +94,6 @@ Service is fast — this place is built for the lunch rush and the "I can't be b
 
 **Yuki's pick:** Green curry with chicken ($16) and a pad thai to share ($15).
 
----
 
 ## 5. Koi Toy — The Curveball
 
@@ -110,7 +108,6 @@ Prices are a step above everything else on this list, and Koi Toy is more bar-th
 
 **Yuki's pick:** Angel hair tempura king prawns ($23) to start, sake-cured ocean trout ($28), and a sake negroni ($22).
 
----
 
 <!-- WIDGET 3 -->
 
@@ -124,7 +121,6 @@ Prices are a step above everything else on this list, and Koi Toy is more bar-th
 | Taste of Thai | $15 | Yes | Yes | Yes |
 | Koi Toy | $28 | No | No | Yes |
 
----
 
 ## 6. KFL Supermarket — The Pantry Builder
 
@@ -139,7 +135,6 @@ If you're cooking Asian at home — and after eating your way down Sydney Road, 
 
 **Yuki's pick:** Grab a basket. You won't need a list. Just start wandering and see what happens.
 
----
 
 ## What We Skipped and Why
 
@@ -153,14 +148,12 @@ We're honest on MELBZ. Here's what we left off and why.
 
 **Any Korean or Malaysian options in Coburg proper** — The honest truth: Coburg's Korean and Malaysian scenes are thin compared to neighbouring Preston (which has some belters along High Street) or Brunswick. If you're after bibimbap or nasi lemak, head south to Brunswick or east to Preston.
 
----
 
 <!-- WIDGET 4 -->
 
 **💬 Have we missed your favourite?**
 Drop it in the comments below. We update this guide every few months and we're always looking for the next spot to test. If you've been to any of these restaurants recently and had a different experience, we want to hear that too.
 
----
 
 ## Also Worth Reading
 
@@ -169,7 +162,6 @@ Drop it in the comments below. We update this guide every few months and we're a
 - [Brunswick East Food Guide 2026](/brunswick-east/food-guide/) — Lygon Street's quieter cousin delivers big
 - [Suburb Vibe Score: Coburg](/coburg/vibe-score/) — See how Coburg scored this month across food, culture, and liveability
 
----
 
 *Yuki Tanaka is MELBZ's Asian Food Editor. She eats at every restaurant at least twice before writing about it — once alone, once with friends. She pays for every meal. No comped dinners, no sponsorships, no exceptions. If you want to tip her, buy her a whisky highball.*
 

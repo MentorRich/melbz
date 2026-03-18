@@ -1,6 +1,8 @@
 ---
 title: "Cheap Eats in Melbourne Under $20 — 2026 Local Guide"
 cover_image: "/images/melbourne/cheap-eats.jpg"
+---
+
 suburb: "melbourne"
 vertical: "food"
 author: "omar"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cheap eats in Melbourne that are actually good. Our verified 2026 guide covers the best meals under $20 across the CBD and inner suburbs."
 tags: ["melbourne"]
 categories: ["cheap"]
----
 # Cheap Eats in Melbourne Under $20 — 2026 Guide
 
 Melbourne's a city where a flat white costs $4.80 and a degustation can set you back $300, and somehow both feel normal. But between those two extremes lives the real Melbourne food scene — the $12 banh mi, the $13.90 noodle soup, the $10 rice bowl that keeps you going through a Wednesday arvo without touching your savings. This is the stuff that feeds the city. Not the tourist trail, not the Instagram traps — the meals that working Melburnians actually eat.
@@ -18,7 +19,6 @@ We've done the rounds. Every venue here has been checked, prices verified, and t
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. Ta-ke Don
 **The vibe:** A grab-and-go rice bowl spot near the State Library that does exactly what it says on the tin — no frills, fast service, and bowls that actually fill you up.
@@ -30,7 +30,6 @@ This is the kind of place you discover because you're power-walking past on Swan
 **Hours:** Mon–Sat, roughly 11am–3pm
 **Insider tip:** Go before 12:30pm or after 1:30pm. The State Library crowd hits hard at lunchtime and you'll be queued behind students deliberating over their order for five minutes.
 
----
 
 ## 2. Kajiken
 **The vibe:** A Japanese noodle chain that's conquered Asia and finally landed in Melbourne, serving soupless ramen that sounds wrong but tastes right.
@@ -42,7 +41,6 @@ Kajiken's signature aburasoba — a soupless ramen bowl where you mix your own s
 **Hours:** Daily, 11am–9pm
 **Insider tip:** The condiment station is key. Start with light vinegar and chilli oil, eat half the bowl, then add more. The flavour builds — first clean and savoury, then punchy and warm.
 
----
 
 ## 3. Om Vegetarian
 **The vibe:** All-you-can-eat Indian vegetarian thali for under $10. That sentence alone should be enough to get you through the door.
@@ -54,7 +52,6 @@ Om Vegetarian on Swanston Street is Melbourne's most underrated lunch deal, and 
 **Hours:** Daily, 11am–10pm
 **Insider tip:** Go with a friend and order different curries on your respective thalis, then share. You'll effectively double your variety for no extra cost.
 
----
 
 ## 4. Thai Social
 **The vibe:** Emporium food court meets Thai street market. Hawker-style decor, tight menu, and a weekday noodle soup special that's become a quiet cult favourite.
@@ -66,7 +63,6 @@ Thai Social sits inside the Emporium shopping centre on the upper level, which m
 **Hours:** Daily, 11am–3pm (noodle special weekdays only)
 **Insider tip:** The braised beef noodle soup is the better option — deeper flavour, more filling. Ask for extra chilli if you want the Thai-level heat, not the Aussie-level heat.
 
----
 
 ## 5. Brim CC
 **The vibe:** A modest Japanese café near Southern Cross Station that serves donburi bowls starting at $13.90, with a menu long enough that you could eat here every day for two weeks without repeating.
@@ -78,7 +74,6 @@ Brim CC is the kind of place that doesn't need to be trendy because the food doe
 **Hours:** Mon–Sat, 11am–8pm
 **Insider tip:** Sit by the window. The view of the Southern Cross Station concourse is oddly calming when you're warm inside with a bowl of ramen and the commuters are rushing past in the rain.
 
----
 
 ## 6. Kantin
 **The vibe:** Indonesian comfort food in the city end of Lygon Street, Carlton. Mie goreng, nasi goreng, and chicken satay that tastes like it was made by someone's grandmother — because it probably was, somewhere in Jakarta.
@@ -90,7 +85,6 @@ Kantin sits among Carlton's Italian heavyweight restaurants and doesn't compete 
 **Hours:** Tue–Sun, 11:30am–9pm
 **Insider tip:** If you're coming from the CBD, take the 1/8 trams down Swanston Street and get off at Lygon. It's faster than walking and drops you right at the door.
 
----
 
 ## 7. Bali Hai
 **The vibe:** Asian fusion that knows its lane. The $20 booze-and-bao deal on Thursdays and Fridays is the CBD's best-kept happy hour secret.
@@ -102,7 +96,6 @@ Bali Hai is new to the Melbourne dining scene and they're clearly trying to buil
 **Hours:** Mon–Fri, 11am–3pm (deal runs Thu–Fri, 12–2pm)
 **Insider tip:** The non-deal menu is pricier and decent but not the play. This place is about the $20 deal. Time your visit accordingly.
 
----
 
 ## 8. Fortune Alley Swanston
 **The vibe:** No-frills Chinese food on Swanston Street with a cult following among Melbourne's Chinese student community. When the people who grew up eating this food keep coming back, you know it's right.
@@ -114,7 +107,6 @@ Fortune Alley is easy to walk past — it's a narrow space with basic seating an
 **Hours:** Daily, 10am–10pm
 **Insider tip:** The lunch special (noodle soup + dumplings) is the move if you're here between 11:30am and 2pm. Ask for it even if it's not on the board — they usually have it.
 
----
 
 ## What We Skipped and Why
 
@@ -126,7 +118,6 @@ Fortune Alley is easy to walk past — it's a narrow space with basic seating an
 
 **South Yarra brunch:** [South Yarra](/south-yarra/) has some outstanding brunch spots, but "brunch" and "cheap eats" don't usually occupy the same sentence in this city. A $24 smashed avo is not a cheap eat no matter how many seeds are on top.
 
----
 
 ## The Bottom Line
 
@@ -134,7 +125,6 @@ You can eat well in Melbourne CBD for under $20 every day of the week. The trick
 
 **Your Melbourne Vibe Score this week: 81/100** — Autumn in Melbourne means warm noodle soups and covered courtyards. The cheap eats are as good as ever.
 
----
 
 *Prices verified as of March 2026. Menu prices change — call ahead if you're travelling from far out to confirm.*
 
@@ -142,7 +132,6 @@ You can eat well in Melbourne CBD for under $20 every day of the week. The trick
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ### 📊 Quick Widgets
 

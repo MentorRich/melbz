@@ -5,19 +5,22 @@ date: 2026-03-16
 author: ethan
 tags: ["kensington", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in Kensington 2026: Where to Eat After 10pm
-
-Updated 16 March 2026 | 6 places tested | Ethan Cross reporting
-
+description: "Late Night Food in Kensington 2026: Where to Eat After 10pm"
 ---
+
+**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
+
+
+
+
+*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
+
 
 Kensington isn't the CBD. ..."
----
 # Late Night Food in Kensington 2026: Where to Eat After 10pm
 
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
 
----
 
 Kensington isn't the CBD. You won't find neon-lit noodle bars open at 3am on every corner. But this pocket of Melbourne's inner west punches well above its weight when the clock ticks past 10pm — especially on weekends. Between Racecourse Road, Macaulay Road, and the surrounds straddling Flemington, there's enough late-night grub to keep you fed without hopping on the 57 tram into town.
 
@@ -25,7 +28,6 @@ I spent two weeks working my way through every kitchen still taking orders after
 
 > **Quick take:** Friday and Saturday nights are your best bet for late service across the board. Midweek options thin out fast — plan accordingly.
 
----
 
 ## The Spots That Made It
 
@@ -44,7 +46,6 @@ The crowd is a genuine mix: post-racegoers from Flemington, locals walking home 
 
 > **Cross-link:** If the Doutta Galla's kitchen has already shut, your next best bet is the CBD. Check our [late night dining guide for the CBD](/food/late-night-dining-cbd) for kitchens serving past midnight.
 
----
 
 ### 2. Flemington Kebab House — The 2am Champion
 
@@ -61,7 +62,6 @@ The halal snack pack is the move if you want something you can eat while walking
 
 > **Related reading:** This is one of the best [kebab shops in Melbourne's inner west](/food/best-kebabs-inner-west). For more options heading west, [Footscray's Vietnamese strip](/food/footscray-vietnamese-guide) is only 10 minutes down the road.
 
----
 
 ### 3. Hardimans Hotel — Wood-Fired and Well-Tapped
 
@@ -78,7 +78,6 @@ The kitchen's late-night window is narrower than Doutta Galla's (last orders ten
 
 > **Getting there:** Hardimans is a two-minute walk from Kensington station, one stop from North Melbourne. If you're coming from Footscray, the 216 bus runs directly along Macaulay Road.
 
----
 
 ### 4. Kensington Pizza House — Quick, Cheap, Open
 
@@ -94,7 +93,6 @@ It sits right on Racecourse Road between the Doutta Galla and Flemington Kebab H
 
 > **Want to explore further?** The western suburbs have a quietly incredible pizza scene. Our [Footscray food guide](/food/footscray-late-night-eats) covers the spots worth the extra few minutes' travel.
 
----
 
 ### 5. Kensington Kebab — The Arden Street Underdog
 
@@ -110,7 +108,6 @@ It won't win awards for ambiance. You're ordering at a window. But at 10:30pm on
 
 > **Tip:** If you're staying near the Racecourse Road end of Kensington, Flemington Kebab House is the more reliable late-night bet. Arden Street's spot is better suited to the eastern pockets of the suburb near the market.
 
----
 
 ### 6. Back Alley Sally's — The Late-Night Wildcard
 
@@ -126,7 +123,6 @@ When it's firing, though, it's one of the most interesting late-night food exper
 
 > **Planning a bigger night out?** Start here, end at Flemington Kebab House at 1:30am. If you're looking for more variety on the other side of the creek, our [North Melbourne late-night roundup](/food/north-melbourne-late-night) has you covered.
 
----
 
 ## What We Skipped and Why
 
@@ -140,7 +136,6 @@ Not every Kensington venue made the list. Here's what didn't cut it and why:
 
 **CBD spots** — Obviously the CBD has a dozen places open past midnight. But this is a Kensington guide. If you're willing to head into the city, that's a different article entirely.
 
----
 
 ## The Verdict
 
@@ -150,7 +145,6 @@ The suburb benefits enormously from its position between Flemington, North Melbo
 
 **My pick for a Friday night?** Hardimans for a wood-fired pizza and a craft beer at 9pm, then walk to Flemington Kebab House at midnight for a mixed grill. Total damage: about $45. No regrets.
 
----
 
 ### 🗳️ What's your go-to late-night feed in Kensington?
 
@@ -166,11 +160,9 @@ We're building the ultimate late-night power rankings for Melbourne's inner west
 
 *Cast your vote on our Instagram @melbzdotcom — we update the rankings monthly.*
 
----
 
 *Have we missed your favourite Kensington late-night spot? Drop us a line at [hello@melbz.com.au](mailto:hello@melbz.com.au) and we'll check it out for the next update.*
 
----
 
 **More from MELBZ's food team:**
 - [Best Late-Night Eats in the CBD](/food/late-night-dining-cbd)

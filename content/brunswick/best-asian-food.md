@@ -5,12 +5,17 @@ date: 2026-03-16
 author: yuki
 tags: ["brunswick", "asian", "food"]
 categories: ["food"]
-description: "Best Asian Food in Brunswick 2026: Sydney Road & Beyond
+description: "Best Asian Food in Brunswick 2026: Sydney Road & Beyond"
+---
 
-Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
+**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
+
+
 
 Brunswick has quietly become one of..."
----
+
+*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
+
 # Best Asian Food in Brunswick 2026: Sydney Road & Beyond
 
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
@@ -19,7 +24,6 @@ Brunswick has quietly become one of Melbourne's most rewarding postcodes for Asi
 
 I've eaten my way through six spots this month. Here's where to spend your money and what to order when you get there.
 
----
 
 ## 1. Tom Phat — The OG South East Asian Kitchen
 
@@ -33,7 +37,6 @@ Their cocktail list is surprisingly good for a suburban Thai spot. The lychee ma
 
 **What to order:** The Tom Phat tasting plate for first-timers. It's a greatest-hits selection that'll give you a sense of the kitchen's range without committing to a single dish. The drunken noodles with chicken are a reliable weeknight staple, and the pandan crème brûlée is criminally underrated for dessert.
 
----
 
 ## 2. Misoya Sake Bar — Brunswick's Ramen Revelation
 
@@ -47,7 +50,6 @@ Beyond ramen, the izakaya-style small plates are worth exploring. The gyoza are 
 
 **What to order:** Misoya Special Ramen (around $22) with level one chilli oil. Add a side of gyoza and a cold Asahi. That's a proper Brunswick dinner for under $35.
 
----
 
 ## 3. Kao Thai — The Quiet Achiever of Sydney Road
 
@@ -61,7 +63,6 @@ Kao Thai serves lunch and dinner and is open six days a week (closed Tuesdays). 
 
 **What to order:** Chicken cashew stir-fry, tom yum goong, and sticky rice for mopping up the sauce. Bring your own wine. Total damage: roughly $45 for two if you're sensible about it.
 
----
 
 ## 4. Green Field — Reliable Vietnamese, No MSG
 
@@ -75,7 +76,6 @@ Green Field is fully licensed but also BYO-friendly, and the prices remain stubb
 
 **What to order:** A large pho with rare beef ($18), a serve of crispy fried spring rolls ($16), and a Vietnamese iced coffee if you're not heading home for a nap. Perfect for a rainy Wednesday.
 
----
 
 ## 5. Baba Hawker — Malaysian Brilliance with Board Games
 
@@ -89,7 +89,6 @@ The menu also does a solid job of sourcing locally. Most of the produce comes fr
 
 **What to order:** The roti canai with curry dhal for starters, followed by the laksa. If you're vegetarian, the vegan butter chicken curry is a genuine standout. Bring friends — the board games don't play themselves.
 
----
 
 ## 6. Dodam — Korean Feasting in East Brunswick Village
 
@@ -103,7 +102,6 @@ What sets Dodam apart is the house-made everything. The mandu (dumplings) are ha
 
 **What to order:** The pork jowl hansang ($35 for two), a bowl of hand-pulled beef noodle soup at lunch ($20), and a jug of house-brewed makgeolli. Open daily, with extended hours on Friday and Saturday.
 
----
 
 ## The Honourable Mentions
 
@@ -111,7 +109,6 @@ A few spots didn't make the main cut but deserve a mention:
 
 **Tochi Deli** (655–661 Sydney Road, Brunswick) is a tiny Japanese market stall inside Brunswick Market run by a husband-and-wife team. It's the kind of place you stumble into for a salmon rice bowl and leave wondering how something so simple could taste so good. Worth seeking out if you're already browsing the market.
 
----
 
 ## What We Skipped and Why
 
@@ -121,7 +118,6 @@ A few spots didn't make the main cut but deserve a mention:
 
 **Generic "Asian fusion" spots.** Several newer venues on Sydney Road lean heavily into the word "fusion" without really committing to any particular cuisine. We're watching a few of them, but none have earned a spot yet. Come back in six months.
 
----
 
 ## Quick Bites: Brunswick East, Coburg & Northcote Cross-Links
 
@@ -131,7 +127,6 @@ Brunswick's Asian food scene doesn't stop at the suburb boundary. If you're alre
 - **Coburg:** The Asian scene along the Sydney Road corridor extends north into Coburg, where a new wave of Vietnamese and Chinese restaurants is emerging. Our [Coburg food roundup](/coburg/best-asian-food) covers the best of it.
 - **Northcote:** Just across Merri Creek, [Tao Dumplings](https://taodumplings.com.au/) (329 High Street, Northcote) remains one of Melbourne's best dumpling houses. See our [Northcote Asian food guide](/northcote/asian-food) for more options.
 
----
 
 ## The Bottom Line
 
@@ -139,11 +134,9 @@ Brunswick's Asian food scene in 2026 is characterised by a few things: genuine a
 
 The best advice? Start on Sydney Road, work your way north, and keep your phone in your pocket. Some of the best meals in Melbourne are the ones you didn't photograph.
 
----
 
 *Yuki Tanaka is the Asian Food Editor at MELBZ, covering Melbourne's inner-north dining scene. When not eating her way through Brunswick, she's probably in Footscray making notes about bánh mì.*
 
----
 
 **🗳️ What's your go-to Asian restaurant in Brunswick?**
 - [ ] Tom Phat — the OG
@@ -155,19 +148,16 @@ The best advice? Start on Sydney Road, work your way north, and keep your phone 
 
 *Vote in our poll on the [MELBZ Melbourne Food Facebook group](https://facebook.com/groups/melbzfood)*
 
----
 
 **🍜 Your Turn: Tell Us What We Missed**
 Brunswick's food scene moves fast. If there's an Asian spot we haven't covered — or if you disagree with our picks — drop a comment below or tag us on Instagram [@melbz.au](https://instagram.com/melbz.au) with your recommendation. We taste-test every suggestion.
 
----
 
 **📱 Never Miss a Food Guide**
 Get the best of MELBZ's food coverage delivered to your inbox every week. Suburb-by-suburb guides, new restaurant alerts, and honest reviews — no spam, no fluff.
 
 [Subscribe to MELBZ Food Briefing →](/newsletter/food)
 
----
 
 **🔥 More Brunswick Food Guides**
 - [Best Cafes in Brunswick](/brunswick/best-cafes)

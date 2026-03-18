@@ -5,19 +5,22 @@ date: 2026-03-16
 author: adam
 tags: ["northcote", "burgers", "food"]
 categories: ["food"]
-description: "Best Burgers in Northcote 2026: The Definitive Rankings
-
-Updated 16 March 2026 | 8 places tested | Adam Nowak reporting
-
+description: "Best Burgers in Northcote 2026: The Definitive Rankings"
 ---
+
+**Updated 16 March 2026 | 8 places tested | Adam Nowak reporting**
+
+
+
+
+*Updated 16 March 2026 | 8 places tested | Adam Nowak reporting*
+
 
 High Street Northcote runs for ..."
----
 # Best Burgers in Northcote 2026: The Definitive Rankings
 
 *Updated 16 March 2026 | 8 places tested | Adam Nowak reporting*
 
----
 
 High Street Northcote runs for roughly three kilometres, and within that stretch you'll find more burger diversity per block than most Melbourne suburbs manage across their entire postcode. From smash patty specialists to late-night fish shops turning out beef patties on Turkish bread, Northcote's burger scene is wide-ranging and deeply opinionated.
 
@@ -25,7 +28,6 @@ We ate our way through eight venues over six weeks — dine-in and takeaway, pea
 
 Here's the definitive ranking.
 
----
 
 ## 1. 300 Grams — The Smash King of High Street
 
@@ -43,12 +45,10 @@ For the chicken crowd, the Hot Bird brings buttermilk-brined fried chicken with 
 
 **The verdict:** Best burger in Northcote, full stop. Consistent, well-priced, and actually delivers on the nostalgia it's selling.
 
----
 
 > ### 🍔 THE MOVE
 > **If you only have time for one burger in Northcote, this is it: The Norfcote at 300 Grams. Get a double, add the loaded Mac fries, and wash it down with one of the organic sodas. You'll spend about $25 and feel like you've had a proper meal.**
 
----
 
 ## 2. Sideshow Burgers — The Showman
 
@@ -64,7 +64,6 @@ What sets Sideshow apart is range. They serve breakfast through dinner (7am star
 
 **The verdict:** A strong number two. The vibe is infectious, the menu is broad, and the quality holds up across the board. If 300 Grams is the pick for purists, Sideshow is for people who want the full experience.
 
----
 
 ## 3. Northcote Social Club — The Pub Entry
 
@@ -80,7 +79,6 @@ This isn't a burger that will blow your mind on Instagram. It's the burger you e
 
 **The verdict:** Best pub burger in Northcote by a comfortable margin. Not a destination burger, but a very good one in the right setting.
 
----
 
 > ### 📊 VOTE: What matters most in a burger?
 >
@@ -94,7 +92,6 @@ This isn't a burger that will blow your mind on Instagram. It's the burger you e
 >
 > *Drop your pick in the comments. We'll publish the results next month.*
 
----
 
 ## 4. Sookie La La — The Diner Throwback
 
@@ -110,7 +107,6 @@ The trade-off is pace. Sookie La La is not a quick in-and-out. It's a sit-down, 
 
 **The verdict:** A unique proposition on High Street. The burger alone might not crack the top three, but the total experience — the setting, the shakes, the atmosphere — puts it firmly in the top half.
 
----
 
 ## 5. Westgarth Fish and Burger — The Late-Night Contender
 
@@ -126,7 +122,6 @@ The fish burger deserves a mention too: a whole piece of battered fish with prop
 
 **The verdict:** Not the best burger in Northcote during business hours. But when it's 10:30pm and you need a feed, Westgarth is the best option by default — and the food is genuinely good, not just available.
 
----
 
 ## 6. Northcote Fish and Chips — The Old Faithful
 
@@ -142,7 +137,6 @@ The beef burger is straightforward: a standard patty with the usual toppings, se
 
 **The verdict:** A reliable option that won't excite you but won't disappoint you. Perfectly placed at number six — good enough to recommend, not quite good enough to chase.
 
----
 
 ## 7. Danny's Burgers — The North Fitzroy Adjacent
 
@@ -158,14 +152,12 @@ The late-night hours (open until 2am most nights) make Danny's an institution fo
 
 **The verdict:** The cheapest and most nostalgic burger on this list. Not the best burger in Northcote, but the one with the most history behind it.
 
----
 
 > ### 💬 FIGHT US
 > **Do you think Danny's should have made the top five? Is a smash patty really better than a proper thick pub burger? Are fish burgers even burgers?**
 >
 > **Tell us we're wrong.** Drop a comment, send us a DM, or tag us on Instagram at [@melbzcomau](https://instagram.com/melbzcomau) with your hot takes. We read everything and we will absolutely argue back.
 
----
 
 ## 8. Northcote Social Club (The Parma Burger) — Honourable Mention
 
@@ -179,7 +171,6 @@ At $24, it's the most expensive burger on this list, and you'll need the appetit
 
 **The verdict:** Not a burger purist's pick, but an undeniable good time.
 
----
 
 ## What We Skipped and Why
 
@@ -193,7 +184,6 @@ At $24, it's the most expensive burger on this list, and you'll need the appetit
 
 **Easey's (Collingwood)** — The train-carriage burgers on Easey Street are iconic, but that's Collingwood. Again, we'll cover it in the [inner north burger roundup](/collingwood/best-burgers/).
 
----
 
 ## The Final Word
 
@@ -203,11 +193,9 @@ If you're visiting for the first time: go to 300 Grams. Order the Norfcote doubl
 
 If you're a local and you think we've got it wrong — good. That's the point. Northcote has too many good burgers for any single list to settle the argument.
 
----
 
 *Want the full picture? Check our guide to [Melbourne's best burgers](/melbourne/best-burgers/) for the wider city rankings, or dive into the [Northcote suburb profile](/northcote/) for every restaurant, bar, and café worth knowing about.*
 
----
 
 > ### 🙌 REACTION BAR
 > **How do you feel about this ranking?**
@@ -217,7 +205,6 @@ If you're a local and you think we've got it wrong — good. That's the point. N
 > 😏 *Decent list, but you missed my spot*
 > 🤷 *I just eat Maccas tbh*
 
----
 
 *Prices are approximate and may have changed since publication. Always check the venue's current menu. All venues were visited anonymously and paid for in full by the MELBZ team.*
 

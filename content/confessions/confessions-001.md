@@ -1,6 +1,8 @@
 ---
 title: "20 Melbourne Confessions That Will Make You Feel Personally Attacked"
 cover_image: "/images/confessions/confessions-001.jpg"
+---
+
 suburb: melbourne
 vertical: culture
 author: "freya"
@@ -13,7 +15,6 @@ cover_alt: "Melbourne laneway scene capturing the city's anonymous confessional 
 date: 2026-03-18
 tags: ["confessions"]
 categories: ["general"]
----
 
 ### More to Explore in Confessions
 
@@ -30,7 +31,6 @@ We asked Melbourne to confess. Melbourne delivered. These are real, anonymous, a
 
 **#melbzconfessions** — Submit yours at the bottom.
 
----
 
 ### 1.
 "I've lived in Melbourne for 8 years and still haven't been to MONA. I just nod when people talk about it."
@@ -92,7 +92,6 @@ We asked Melbourne to confess. Melbourne delivered. These are real, anonymous, a
 ### 20.
 "I pretend to understand the tram network. I have missed my stop at least 400 times. I will never admit this to anyone."
 
----
 
 **Got a confession?** DM us on Instagram [@melbzhq](https://instagram.com/melbzhq) or email confessions@melbz.com.au. Anonymous. Always.
 

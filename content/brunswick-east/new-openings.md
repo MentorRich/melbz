@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Brunswick East — 2026 Local Guide"
 cover_image: "/images/brunswick-east/new-openings.jpg"
+---
+
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the new openings in Brunswick East. Our verified 2026 guide covers the best spots for locals."
 tags: ["brunswick-east"]
 categories: ["new"]
----
 # New Openings in Brunswick East: What Just Landed on Lygon Street
 
 Brunswick East has been quietly having a moment. While Melbourne's food media obsesses over whatever Andrew McConnell is opening in the CBD, this stretch of Lygon Street between Nicholson Street and the [Fitzroy North](/froyo-north/) border has been collecting some of the most exciting new venues in the inner north. And the best part? None of them feel like they're trying to be the next big thing. They just are.
@@ -18,7 +19,6 @@ If you've been sleeping on Brunswick East — or if you moved here six months ag
 
 **Last updated: 16 March 2026** | **Brunswick East Vibe Score: 78/100 🟡 SOLID**
 
----
 
 ## Daphne — The One Everyone's Talking About
 
@@ -34,7 +34,6 @@ The thing about Daphne is that it doesn't feel like a "concept." It feels like w
 
 **Insider tip:** Go on a Thursday before 7:30pm and you'll usually walk in without a booking. After that, you'll need to plan ahead. The back corner table is the best seat in the house — ask for it specifically.
 
----
 
 ## Bar Elsie — Brunswick East's Neighbourhood Bar
 
@@ -50,7 +49,6 @@ In a strip that's already home to Bahama Gold and Atticus Finch, Bar Elsie slots
 
 **Insider tip:** New bars always have their best service in the first six months. Get in now before everyone else discovers it and the wait stretches past quarter of an hour.
 
----
 
 ## The Coffee Bar — A Roller Door Café on Lygon
 
@@ -66,7 +64,6 @@ The menu is tight, the coffee is serious, and the vibe is deliberately unpolishe
 
 **Insider tip:** Entry is via Hickford Street, not Lygon. It's easy to walk past if you're sticking to the main strip. Look for the roller door — if it's up, they're open.
 
----
 
 ## Da Bepi — Brunswick's Italian Nightcap Spot
 
@@ -82,13 +79,11 @@ The team behind it has created something that feels both old-school Italian and 
 
 **Insider tip:** Go late. The vibe at 10pm is completely different from 7pm — the lights go down, the records get louder, and the crowd shifts from dinner-for-two to neighbourhood locals who know this is their spot.
 
----
 
 ## Etta's Birthday Block Party — Annual Lygon Street Shindig
 
 **Not a venue opening, but worth knowing:** Etta throws an annual birthday block party that transforms their stretch of Lygon Street into a leafy, linen-adorned paradise. Previous years have featured guests from Bali's Potato Head and the late Bar Romantica crew. Wood-fired snacks, tropical vibes, and the kind of community energy that makes you proud to live in this postcode. Keep an eye on [ettadining.com.au](https://ettadining.com.au) for 2026 dates.
 
----
 
 ## What to Watch For in 2026
 
@@ -99,7 +94,6 @@ Brunswick East's Lygon Street strip is evolving fast. Here's what to keep an eye
 - **The Merri Creek corridor:** The trail connecting Brunswick East to [Fitzroy North](/froyo-north/) is seeing more development on the eastern side. Watch for hospitality venues opening near the trailheads.
 - **Cross-pollination with Carlton North:** The walk between Brunswick East and [Carlton North](/carlton-north/) along the creek is getting shorter every year — new venues on the Carlton North side of Lygon Street are creating a continuous food and drink strip that stretches from Princes Park to the Merri Creek.
 
----
 
 ## The Bottom Line
 
@@ -109,7 +103,6 @@ The new openings only make it better. Daphne proves the Etta crew can do casual.
 
 **Your Brunswick East Vibe Score this week: 78/100** — The openings are landing. Get here before everyone else does.
 
----
 
 ## Related Reading
 

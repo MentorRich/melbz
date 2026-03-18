@@ -5,17 +5,16 @@ date: 2026-03-16
 author: marcus
 tags: ["footscray", "cost-of-living", "property"]
 categories: ["property"]
-description: "Cost of Living in Footscray 2026: The Real Numbers
+description: "Cost of Living in Footscray 2026: The Real Numbers"
+---
 
 Footscray has officially shed its "up-and-coming" label. In 2026, it's here — and the cost of living refl..."
----
 # Cost of Living in Footscray 2026: The Real Numbers
 
 Footscray has officially shed its "up-and-coming" label. In 2026, it's *here* — and the cost of living reflects that. But here's the thing most guides get wrong: they lump Footscray in with the inner west generically, or worse, use city-wide averages that don't capture what it actually costs to live in this specific suburb.
 
 We did the legwork. Real prices. Real rent. Real coffee. What you'll actually spend in a month living in Footscray in 2026.
 
----
 
 ## Rent: The Big One
 
@@ -39,7 +38,6 @@ Footscray rents have tracked roughly 3–4% higher than this time last year. Tha
 
 The sweet spot for value remains western Footscray, between the train line and the river. You're still close to everything but paying noticeably less than the precinct near Footscray Station.
 
----
 
 ## Groceries: Weekly Shop Breakdown
 
@@ -64,7 +62,6 @@ This is where the inner west flexes. Fresh fruit and veg at the market on Hopkin
 
 **Monthly grocery budget for one person: $280–$450** depending on where you shop and how much you cook.
 
----
 
 ## Transport: Getting Around
 
@@ -87,7 +84,6 @@ Footscray's transport mix is one of its genuine selling points. You have options
 
 The drive to the CBD is 15 minutes outside peak, 35–50 minutes during. The West Gate Tunnel project has genuinely improved connectivity, though you'll still hit snarls on Footscray Road during construction phases.
 
----
 
 ## Dining and Coffee: What Things Actually Cost
 
@@ -119,7 +115,6 @@ A realistic date night out in Footscray — drinks, dinner, maybe dessert — la
 
 > **Widget: What's your monthly dining spend in Footscray? Drop your range in the comments — under $300, $300–$500, $500–$700, or "I stopped counting."**
 
----
 
 ## Utilities: The Boring (But Essential) Numbers
 
@@ -140,7 +135,6 @@ A few notes:
 - Cheapest NBN providers in the area: Spintel, Aussie Broadband, and TPG are all competitive. Aussie Broadband consistently wins on customer service.
 - Water bills in Victoria are metered for renters, unlike some other states. Usage matters.
 
----
 
 ## Gym and Fitness
 
@@ -157,7 +151,6 @@ Footscray is not short on fitness options, from budget to boutique.
 
 **Realistic gym budget: $55–$180/month** depending on your style. The river trail from Footscray to Flemington is one of the best free fitness options in Melbourne — flat, paved, and with actual scenery.
 
----
 
 ## Entertainment and Lifestyle
 
@@ -174,7 +167,6 @@ Footscray is not short on fitness options, from budget to boutique.
 
 **Monthly entertainment: $150–$400** depending on how social you are.
 
----
 
 ## The Monthly Total: One Person in Footscray
 
@@ -193,7 +185,6 @@ A single person living comfortably in Footscray in 2026 needs roughly **$3,600�
 
 For context, the median individual income in the Maribyrnong municipality is around $1,100–$1,300/week after tax (~$4,800–$5,600/month). So it's doable on a single median income, but tight. Two median incomes make it quite comfortable.
 
----
 
 ## What We Skipped and Why
 
@@ -208,7 +199,6 @@ We deliberately left a few categories out. Here's why:
 
 We'd rather give you accurate numbers for the categories we cover than pad this out with guesses for everything.
 
----
 
 ## The Verdict: Is Footscray Worth It?
 
@@ -220,7 +210,6 @@ If you're considering the move, the question isn't whether Footscray is worth it
 
 > **Widget: Moving to Footscray? Tell us what matters most to you — rent prices, food scene, transport, or community vibe. Vote below and we'll dig deeper.**
 
----
 
 ## More Footscray Guides
 
@@ -231,7 +220,6 @@ If you're considering the move, the question isn't whether Footscray is worth it
 - [Yarraville: The Quieter Alternative](/yarraville/living-guide)
 - [West Melbourne vs Footscray: The Price Gap](/west-melbourne/vs-footscray)
 
----
 
 *Updated 16 March 2026 | Marcus Cole reporting*
 

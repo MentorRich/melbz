@@ -5,12 +5,17 @@ date: 2026-03-16
 author: lina
 tags: ["kensington", "pubs", "nightlife"]
 categories: ["nightlife"]
-description: "Best Pubs in Kensington 2026: Local Watering Holes
+description: "Best Pubs in Kensington 2026: Local Watering Holes"
+---
 
-Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
+**Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
+
+
 
 Kensington doesn't shout about its pub s..."
----
+
+*Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
+
 # Best Pubs in Kensington 2026: Local Watering Holes
 
 **Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
@@ -21,7 +26,6 @@ I spent three weekends working through every pub within walking distance of Kens
 
 Here are the six that made the cut.
 
----
 
 ## 1. Hardimans Hotel — The Neighbourhood Anchor
 
@@ -37,7 +41,6 @@ If Kensington had a living room, it would be Hardimans. Built in the 1870s, this
 
 **Good to know:** Book on weekends. The bistro fills up fast, especially on Saturdays when the Flemington crowd spills over.
 
----
 
 ## 2. Doutta Galla Hotel — The Comeback King
 
@@ -53,7 +56,6 @@ The "Doot" has been a Kensington institution since 1889, and after a major renov
 
 **Good to know:** The Doot sits right at the junction of Flemington, Kensington and Ascot Vale — it pulls from all three suburbs. On race days at Flemington, expect a crowd.
 
----
 
 ## 3. Auntie Annie's Hotel — The Irish Reinvention
 
@@ -69,7 +71,6 @@ This spot has a story. Formerly The Quiet Man — a much-loved Irish pub that cl
 
 **Good to know:** Happy Hour and Steak Night deals run weekly. The Happy Hour timing is generous — check their socials for the latest.
 
----
 
 ## 4. Bonehead Brewing — The Brewery Taproom
 
@@ -85,7 +86,6 @@ Not technically a traditional pub, but absolutely essential to the Kensington dr
 
 **Good to know:** Open Thursday to Sunday only. Plan accordingly. If you visit on a Friday or Saturday, grab tacos from La Tortilleria first — the chipotle chicken tacos and a Sweet Pea is a perfect Kensington pairing.
 
----
 
 ## 5. Kensington RSL — The Under-the-Radar Classic
 
@@ -101,7 +101,6 @@ Every neighbourhood needs an RSL that doesn't try to be anything it's not. Kensi
 
 **Good to know:** Members and their guests are always welcome, and visitors can pop in without any fuss. Check for regular events — trivia nights and darts comp draws tend to fill the room.
 
----
 
 ## 6. The Royal Mail on Spencer — The West Melbourne Crossover
 
@@ -117,7 +116,6 @@ Technically just outside Kensington's postcode, but a ten-minute walk from Macau
 
 **Good to know:** Open Monday to Saturday for lunch and dinner. Closed Sundays. Book ahead for Friday and Saturday — the dining room is smaller than you'd expect.
 
----
 
 ## What We Skipped and Why
 
@@ -129,7 +127,6 @@ Technically just outside Kensington's postcode, but a ten-minute walk from Macau
 
 **North Melbourne pubs** — Arden and Macaulay hotels fall technically into North Melbourne territory. We'll cover those in our [North Melbourne nightlife](/suburbs/north-melbourne) guide.
 
----
 
 ## The Verdict
 
@@ -139,7 +136,6 @@ The sweet spot? Start at Bonehead for a Thursday evening tasting session. Walk t
 
 Kensington doesn't need to shout. It just needs you to show up.
 
----
 
 ## Quick Reference
 
@@ -152,7 +148,6 @@ Kensington doesn't need to shout. It just needs you to show up.
 | Kensington RSL | 25–27 Rankins Rd, Kensington | Cheap drinks, billiards, no frills | $ |
 | Royal Mail on Spencer | 519 Spencer St, West Melbourne | Date night, quality parma | $$$ |
 
----
 
 *Love your local? Hate that we included one of these? [Drop us a confession](/confess) or tag us on Instagram @melbz.com.au. We read everything.*
 

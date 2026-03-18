@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Coburg 2026: Sydney Road's Drinking Institutions"
 cover_image: "/images/coburg/best-pubs.jpg"
+---
+
 suburb: "coburg"
 vertical: "nightlife"
 author: "kai"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "The best pubs in Coburg for 2026 — 6 verified neighbourhood pubs from the Post Office Hotel to the Cornish Arms. Cold beer, honest food, no pretension."
 tags: ["coburg"]
 categories: ["general"]
----
 # Best Pubs in Coburg 2026: Sydney Road's Drinking Institutions
 
 Coburg doesn't do gastropubs. It doesn't do craft-beer-temples-with-a-curator. It doesn't do venues where the bartender has a PhD in fermentation and the bar snacks come with a tasting note card. What Coburg does is proper neighbourhood pubs — the kind where the beer is cold, the parma is good, and the bartender will remember your name by your third visit.
@@ -20,7 +21,6 @@ Here are the six best pubs in Coburg, ranked by someone who actually drinks at p
 
 **Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
 
----
 
 ## 1. Post Office Hotel
 
@@ -37,7 +37,6 @@ But it's the atmosphere that sells it. The Post Office feels like a place that b
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun 11am–10pm
 **Insider tip:** Tuesday night trivia is genuinely competitive. Teams have been playing together for years. If you're new to Coburg, show up solo and ask to join a team — it's the fastest way to make friends in the suburb.
 
----
 
 ## 2. Cornish Arms Hotel
 
@@ -52,7 +51,6 @@ The beer garden is spacious and leafy — the kind of place where you can sit fo
 **Hours:** Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 12pm–9pm
 **Insider tip:** The pool table in the front bar has been there for decades and the regulars take it seriously. If you're a good player, challenge them — they'll respect you for it. If you're not, just buy a round and enjoy the show.
 
----
 
 ## 3. The Raccoon Club
 
@@ -67,7 +65,6 @@ The food is a step above typical pub fare: think properly made burgers with good
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun 12pm–10pm
 **Insider tip:** Sunday sessions here are excellent — the roast, a few pints, and the sports on the big screen. It's the kind of Sunday afternoon that turns into Sunday evening without anyone noticing.
 
----
 
 ## 4. My Aeon
 
@@ -82,7 +79,6 @@ The lineup changes regularly: punk gigs one night, vinyl DJ sets the next, commu
 **Hours:** Check social media for event-specific hours
 **Insider tip:** The best nights at My Aeon are the ones you don't plan for. Follow them on Instagram and show up when something catches your eye.
 
----
 
 ## 5. Trumpy
 
@@ -97,7 +93,6 @@ The food is straightforward pub fare — burgers, chips, counter meals — and t
 **Hours:** Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 12pm–9pm
 **Insider tip:** Trumpy is worth the extra few minutes' walk from the main Sydney Road strip. It's quieter, more local, and feels like a genuine neighbourhood pub without the foot traffic crowds.
 
----
 
 ## 6. The Back Room Bar
 
@@ -112,7 +107,6 @@ This isn't where you go for a $6 pot and a parma. This is where you go when you 
 **Hours:** Thu–Sat from 6pm
 **Insider tip:** Book ahead for Friday and Saturday. Walk-ins work on quieter nights, but the 20-odd seats fill up fast when word gets out.
 
----
 
 ## How Coburg Pubs Compare
 
@@ -120,7 +114,6 @@ Coburg's pub scene sits between two worlds. [Brunswick's pub and bar scene](/bru
 
 What Coburg offers is a pubs-per-capita ratio that's hard to beat, prices that haven't been inflated by trend-chasing, and a genuine community feel at every venue. The Post Office Hotel is the best pub in the area, full stop. The Cornish Arms is the best beer garden. And My Aeon is the best live music pub. Between them, they cover everything a suburb needs from its drinking institutions.
 
----
 
 ## The Bottom Line
 
@@ -130,7 +123,6 @@ If you want the polished gastropub experience, head to Brunswick. If you want a 
 
 **Your Coburg Vibe Score this week: 72/100** — Pubs that serve the community, not the algorithm.
 
----
 
 *Know a pub we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/best-pubs.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "kai"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the best pubs in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["general"]
----
 ## The Best Pubs in Fitzroy
 
 Fitzroy has more pubs per square kilometre than almost anywhere in Melbourne — and the competition is fierce. This is a suburb where a pub lives or dies on its parma, its beer garden, and its ability to make you feel like a regular even if it's your first time walking through the door.
 
 The good pubs in Fitzroy aren't trying to be gastropubs with $28 mains and a wine list curated by a sommelier. They're the real thing: cold beer, honest food, sticky carpets (or beautiful beer gardens), and a front bar where you can lose three hours without noticing. Here's where to find them.
 
----
 
 ## 1. The Marquis of Lorne — 411 George Street, Fitzroy
 
@@ -28,7 +28,6 @@ The Marquis of Lorne has been standing on the corner of George and Johnston Stre
 
 **Budget check:** Pints $9–$12. Parma $24. Two people with food and drinks: $60–$80.
 
----
 
 ## 2. The Rainbow Hotel — 274 Brunswick Street, Fitzroy
 
@@ -40,7 +39,6 @@ Ask any Fitzroy local to name the best pint and parma in the suburb, and the Rai
 
 **Budget check:** Parma $23. Jugs $28–$36. Two people with food and drinks: $55–$75.
 
----
 
 ## 3. The Napier Hotel — 66 Napier Street, Fitzroy
 
@@ -52,7 +50,6 @@ The Napier is the kind of pub that makes locals misty-eyed. Tucked on a quiet ba
 
 **Budget check:** Mains $18–$26. Pots $7–$9. Two people with food and drinks: $50–$70.
 
----
 
 ## 4. The Rose Hotel — 639 Brunswick Street, Fitzroy
 
@@ -64,7 +61,6 @@ The Rose is Fitzroy's oldest pub and it wears that title like a badge of honour.
 
 **Budget check:** Parma $24 (Wednesdays $18). Pints $9–$12. Two people: $55–$75.
 
----
 
 ## 5. The Standard Hotel — 96 Lygon Street, Fitzroy
 
@@ -76,7 +72,6 @@ The Standard hides in plain sight on Lygon Street and commands one of the fierce
 
 **Budget check:** Parma $24. Burgers $18. Two people: $55–$75.
 
----
 
 ## 6. The Rochester Castle Hotel — 115 Johnston Street, Fitzroy
 
@@ -88,7 +83,6 @@ Known affectionately as "The Rochey," this Johnston Street stalwart has reinvent
 
 **Budget check:** Parma $26. Scotch eggs $14. Cocktail jugs $36. Two people: $65–$90.
 
----
 
 ## 7. The Builders Arms Hotel — 274 Gertrude Street, Fitzroy
 
@@ -100,7 +94,6 @@ The Builders Arms is a heritage pub on Gertrude Street that's been under the ste
 
 **Budget check:** Burger $22. Rotisserie $30–$36. Pints $10–$13. Two people: $70–$100.
 
----
 
 ## 8. The Napier Hotel — 66 Napier Street, Fitzroy
 
@@ -116,7 +109,6 @@ Goldy's is a backstreet Fitzroy pub that was once the haunt of underworld figure
 
 **Budget check:** Tuesday parma $20. Regular mains $20–$28. Pots $7–$8. Two people: $50–$70.
 
----
 
 ## The Price Comparison
 
@@ -131,7 +123,6 @@ Goldy's is a backstreet Fitzroy pub that was once the haunt of underworld figure
 | Builders Arms | Burger | $22 | $70–$100 |
 | Goldy's Hotel | Tuesday Parma | $20 | $50–$70 |
 
----
 
 ## What We Skipped and Why
 
@@ -141,7 +132,6 @@ Goldy's is a backstreet Fitzroy pub that was once the haunt of underworld figure
 
 **Chain pubs and hotel bars:** Fitzroy's pub scene is defined by independents. We don't include venues that feel like they belong in an airport.
 
----
 
 ## Cross-Suburb Pub Guides
 
@@ -149,7 +139,6 @@ Goldy's is a backstreet Fitzroy pub that was once the haunt of underworld figure
 - [Best Pubs in Carlton](/carlton/best-pubs) — Lygon Street's European-style beer halls
 - [Best Pubs in Fitzroy North](/fitzroy-north/best-pubs) — The quieter neighbourhood pubs
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Pub essential: what matters most?**
@@ -160,7 +149,6 @@ Goldy's is a backstreet Fitzroy pub that was once the haunt of underworld figure
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-pub-preference)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -169,7 +157,6 @@ Fitzroy's pub culture is the backbone of the suburb's social life. The mix of he
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's your local Fitzroy pub?**
@@ -178,7 +165,6 @@ Every suburb person has one. Which pub do you defend when someone suggests going
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -187,7 +173,6 @@ Every suburb person has one. Which pub do you defend when someone suggests going
 - [Best Restaurants in Fitzroy](/fitzroy/best-restaurants) — when you want more than a parma
 - [Nightlife Guide to Fitzroy](/fitzroy/nightlife-guide) — the complete after-dark planner
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

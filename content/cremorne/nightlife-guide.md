@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/nightlife-guide.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne's nightlife is small but perfectly formed for after-work drinks and early evenings. Here's where to go when the sun goes down in 3121."
 tags: ["cremorne"]
 categories: ["nightlife"]
----
 # Nightlife in Cremorne — Where 3121 Goes After Hours
 
 Let's be clear about something upfront: Cremorne is not a nightlife suburb.
@@ -22,7 +23,6 @@ This is the honest guide to Cremorne's nightlife — what exists, what's good, a
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## The Nightlife Reality Check
 
@@ -32,7 +32,6 @@ What you get instead is a selection of bars that do their thing well, serve exce
 
 If you want nightlife that lasts until sunrise, go to Fitzroy. If you want nightlife that gets rowdy on a Saturday, go to Chapel Street. If you want nightlife that's sophisticated and ends while you're still considering whether to have that last drink, Cremorne is your suburb.
 
----
 
 ## 1. Lilac Wine Bar
 **The vibe:** Dinner party at a friend's warehouse — if your friend had impeccable taste in natural wine and a wood-fired oven.
@@ -48,7 +47,6 @@ It gets buzzing, especially on weekends and during aperitivo hour, but it never 
 **Hours:** Tue–Thu 4pm–late, Fri–Sat noon–late
 **Insider tip:** Wednesday steak night — book ahead. Arrive before 6pm for aperitivo hour. The disco ball spinning means the night is officially happening.
 
----
 
 ## 2. Amatrice
 **The vibe:** Rooftop Italian with views that make you forget you're above an office building.
@@ -62,7 +60,6 @@ The energy shifts throughout the evening — early evening is buzzing but manage
 **Hours:** Wed–Fri 4pm–late, Sat–Sun noon–late
 **Insider tip:** The bar area is walk-in only and has the same views as the tables without the booking hassle. Face west for sunset.
 
----
 
 ## 3. Good Heavens Rooftop Bar
 **The vibe:** Rooftop bar that takes itself just seriously enough — good drinks, good music, the city skyline doing the heavy lifting.
@@ -76,7 +73,6 @@ It's the kind of place that works for a Tuesday quiet drink or a Friday that spi
 **Hours:** Mon–Thu 4pm–11pm, Fri–Sat noon–1am, Sun noon–10pm
 **Insider tip:** Walk down Balmain Street along the Yarra from Cremorne — it's prettier than cutting through Richmond and takes about eight minutes.
 
----
 
 ## 4. State of Grace
 **The vibe:** Split personality — ground floor is a bright café by day, basement is a moody cocktail den by night.
@@ -90,7 +86,6 @@ Upstairs is a completely different beast: bright, airy, great for weekday lunche
 **Hours:** Mon–Fri 7am–late, Sat–Sun 8am–late
 **Insider tip:** The basement has no visible signage. Look for the door marked "GRACE" and head downstairs. If you can't find it, you're not alone — it's a filter.
 
----
 
 ## 5. Bierkeller
 **The vibe:** German beer hall energy imported to Church Street — steins, schnitzels, communal tables, and rowdy fun.
@@ -104,7 +99,6 @@ It gets loud, it gets rowdy, and it stays open latest of any Cremorne venue (unt
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun noon–10pm
 **Insider tip:** Tuesday is stein night — $12 steins all evening. The mix of after-work tradies and tech bros is weirdly harmonious.
 
----
 
 ## 6. Naked for Satan (in Fitzroy, but worth mentioning)
 **The vibe:** Basque pintxos bar with a rooftop, house-infused vodkas, and a name that guarantees questions from your mum.
@@ -118,7 +112,6 @@ If you're in Cremorne and decide the night needs to go later and rowdier, this i
 **Hours:** Mon–Thu 4pm–11pm, Fri–Sat noon–1am, Sun noon–11pm
 **Insider tip:** Skip the ground floor, head straight to the rooftop. Even in winter the heaters are aggressive enough.
 
----
 
 ## Nightlife by Night
 
@@ -136,7 +129,6 @@ If you're in Cremorne and decide the night needs to go later and rowdier, this i
 
 **Sunday:** Everything's winding down. Most venues closed or closing by 10pm. Restoration mode.
 
----
 
 ## The Nightlife Gaps
 
@@ -151,7 +143,6 @@ Cremorne's nightlife failures are as telling as its successes:
 
 If your definition of nightlife includes these things, Cremorne isn't for you. And that's okay — it wasn't built for that.
 
----
 
 ## Getting Home Safe
 
@@ -164,7 +155,6 @@ Cremorne's nightlife venues are all within walking distance of each other, and m
 
 Most venues are in the Melbourne CBD hunts zone for police purposes, but Richmond Police Station (357 Church Street) is the closest permanent station. For emergencies, call 000.
 
----
 
 ## The Bottom Line
 
@@ -174,7 +164,6 @@ You won't be coming to Cremorne for a night that lasts until dawn. You'll be com
 
 **Your Cremorne Vibe Score this week: 79/100** — The last call comes early, but the drinks are worth it.
 
----
 
 *Know a spot we missed? Let us know.*
 

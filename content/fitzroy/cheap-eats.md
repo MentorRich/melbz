@@ -1,6 +1,8 @@
 ---
 title: "Cheap Eats in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/cheap-eats.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "omar"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the cheap eats in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["cheap"]
----
 ## Cheap Eats in Fitzroy
 
 Fitzroy has a reputation for being expensive. That reputation is partly earned — there are plenty of $26 brunch plates and $38 pasta dishes. But Fitzroy also has a scrappy, democratic food scene where you can eat extremely well for under $20. You just need to know where to look.
 
 This guide is about the places where your wallet doesn't cry. Real food, real prices, no catch.
 
----
 
 ## 1. Vego & Loved One — 232 Brunswick Street, Fitzroy
 
@@ -26,7 +26,6 @@ Vego & Loved One has been doing cheap, fast, vegetarian and vegan food on Brunsw
 
 **The vibe:** Takeaway-focused with a few indoor seats. Fast service, friendly staff, no frills. This is your weekday lunch sorted.
 
----
 
 ## 2. Son in Law — 270 Brunswick Street, Fitzroy
 
@@ -36,7 +35,6 @@ Son in Law does Thai food that hits the sweet spot between cheap and excellent. 
 
 **The vibe:** Casual dine-in or takeaway. The Brunswick Street location makes it easy to grab food and eat at nearby Edinburgh Gardens if the weather's good.
 
----
 
 ## 3. Moroccan Soup Bar — 196 St Georges Road, Fitzroy North
 
@@ -46,7 +44,6 @@ Technically just over the Fitzroy North border, but it's close enough and too go
 
 **The vibe:** Warm, atmospheric, slightly mystical. Candles, Moroccan tiles, communal tables. Cash only. BYO. Open Wednesday to Sunday evenings. This is the best cheap date night in the inner north and it's not even close.
 
----
 
 ## 4. Alimentari — 255 Brunswick Street, Fitzroy
 
@@ -56,7 +53,6 @@ Alimentari is a deli-cafe that does Italian sandwiches so good they should be il
 
 **The vibe:** Standing room and a couple of tables. This is street food in the truest sense. Get in, get your sandwich, get out. Or loiter on the Brunswick Street footpath like everyone else does.
 
----
 
 ## 5. Babajan — 636 Heidelberg Road, Fitzroy North
 
@@ -66,7 +62,6 @@ Babajan does Turkish food at prices that feel like a time warp. The pides, the m
 
 **The vibe:** Warm, woody, Mediterranean. The kind of place where the owner remembers your order. Outdoor seating on a quiet stretch of road. Perfect for a slow Sunday morning.
 
----
 
 ## 6. Jimmy's Dumplings — 308 Brunswick Street, Fitzroy
 
@@ -76,7 +71,6 @@ Jimmy's Dumplings does exactly what the name promises. Dumplings, and plenty of 
 
 **The vibe:** Small, casual, a little chaotic. Service is brisk and the tables turn quickly. This is not a lingering dinner spot — it's a fill-up-and-go operation that does it well.
 
----
 
 ## 7. Ethiopian Restaurant — 302 Brunswick Street, Fitzroy
 
@@ -86,7 +80,6 @@ This has been on Brunswick Street for over a decade and it remains one of the be
 
 **The vibe:** Traditional Ethiopian decor, unhurried service, communal eating. You eat with your hands, tearing off pieces of injera and scooping up stews. It's a genuinely different dining experience and the price makes it accessible.
 
----
 
 ## 8. N Lee Bakery — 278A Brunswick Street, Fitzroy
 
@@ -96,7 +89,6 @@ N Lee does Vietnamese banh mi and it does them brilliantly. Crusty baguette, pic
 
 **The vibe:** Pure takeaway. Two stools out front if you're lucky. Get in, order, eat on the bench across the road. No-nonsense, no waiting, no regrets.
 
----
 
 ## The Price Check
 
@@ -111,7 +103,6 @@ N Lee does Vietnamese banh mi and it does them brilliantly. Crusty baguette, pic
 | Ethiopian Restaurant | Veggie Combo | $16 |
 | N Lee Bakery | Pork Roll | $9.50 |
 
----
 
 ## What We Skipped and Why
 
@@ -121,7 +112,6 @@ N Lee does Vietnamese banh mi and it does them brilliantly. Crusty baguette, pic
 
 **Places that were cheap when they opened but have quietly doubled their prices:** A few candidates fell off the list for this reason. We update this guide every six months.
 
----
 
 ## Cross-Suburb Cheap Eats
 
@@ -129,7 +119,6 @@ N Lee does Vietnamese banh mi and it does them brilliantly. Crusty baguette, pic
 - [Cheap Eats in Carlton](/fitzroy/cheap-eats) — Lygon Street Italian that doesn't wreck your bank balance
 - [Cheap Eats in Fitzroy North](/fitzroy/cheap-eats) — the quieter neighbourhood with under the radars
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Best cheap eat under $15 in Fitzroy?**
@@ -140,7 +129,6 @@ N Lee does Vietnamese banh mi and it does them brilliantly. Crusty baguette, pic
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-cheap-eats)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -149,7 +137,6 @@ Affordable dining options are a key component of Fitzroy's liveability score. Th
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's your go-to cheap eat in Fitzroy?**
@@ -158,7 +145,6 @@ We know there are more. Tell us your under-$15 worth seeking out.
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -167,7 +153,6 @@ We know there are more. Tell us your under-$15 worth seeking out.
 - [Best Coffee in Fitzroy](/fitzroy/best-coffee) — the fuel to go with it
 - [Neighbourhood Guide to Fitzroy](/fitzroy/neighbourhood-guide) — the full suburb breakdown
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices may change. If something's wrong, tell us — we fix things fast.*
 

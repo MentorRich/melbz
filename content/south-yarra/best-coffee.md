@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in South Yarra — 2026 Local Guide"
 cover_image: "/images/south-yarra/best-coffee.jpg"
+---
+
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Where South Yarra actually gets its coffee. Eight real cafes, real prices, and the honest take on what's worth your morning."
 tags: ["south-yarra"]
 categories: ["general"]
----
 # The Best Coffee in South Yarra — 2026
 
 South Yarra takes its coffee seriously. Not in a performative, latte-art-competing way (that's more Carlton) — but in a "this is simply what we do before anything else" way. Between the Toorak Road strip, the Chapel Street fringe, and the quiet pockets off Murphy and Claremont Streets, you'll find some of Melbourne's most consistently good coffee within a few flat white's walk of each other.
 
 We've been to all of these. Multiple times. Early mornings, weekend rushes, and the dead Tuesday arvo when you can really judge a barista without the pressure of a queue. Here's the honest rundown.
 
----
 
 ## 1. Market Lane Coffee
 
@@ -32,7 +32,6 @@ On weekends, the mushroom burger with chipotle mayo is genuinely legendary — i
 
 **Price check:** Flat white $4.80 | Long black $4.50 | Batch brew $5 | Mushroom burger $18
 
----
 
 ## 2. Two Birds One Stone
 
@@ -48,7 +47,6 @@ Walk-in only, which is refreshing. Weekends can mean a 15-20 minute wait by 10am
 
 **Price check:** Flat white $4.90 | Avocado toast $19 | Ricotta hotcakes $22
 
----
 
 ## 3. Maker Coffee
 
@@ -64,7 +62,6 @@ Prices are reasonable for the quality: flat white at $4.50, single-origin pour-o
 
 **Price check:** Flat white $4.50 | Long black $4.30 | Pour-over $6 | Bag of beans from $18
 
----
 
 ## 4. Commonfolk Coffee
 
@@ -80,7 +77,6 @@ Open weekdays 7am-2pm and weekends 8am-2pm. The early weekday opening makes it a
 
 **Price check:** Flat white $4.50 | Filter $5 | Bagel with smoked salmon $16
 
----
 
 ## 5. Norman
 
@@ -96,7 +92,6 @@ The Toorak Road location means you're in the heart of South Yarra's shopping str
 
 **Price check:** Flat white $4.70 | Sourdough with cultured butter $8 | Full brunch from $19
 
----
 
 ## 6. Campos Coffee
 
@@ -112,7 +107,6 @@ The space suits solo workers, morning meetings, and anyone who wants a reliable 
 
 **Price check:** Flat white $4.80 | Iced latte $6.50 | Bag of Superior Blend $18
 
----
 
 ## 7. Bayano The Rebel
 
@@ -128,7 +122,6 @@ The space is eclectic, with mismatched furniture and a slightly chaotic energy t
 
 **Price check:** Single-origin espresso from $4 | Microlot pour-over from $8 | Brunch plates from $17
 
----
 
 ## 8. Darling Cafe
 
@@ -144,7 +137,6 @@ Coffee is solid rather than show-stopping — a well-made flat white or long bla
 
 **Price check:** Flat white $4.80 | Poached eggs on sourdough $18 | French toast $20
 
----
 
 ## What We Skipped and Why
 
@@ -158,7 +150,6 @@ Coffee is solid rather than show-stopping — a well-made flat white or long bla
 
 **The Final Step** — Was at 1C Murphy Street but appears to have been replaced by Commonfolk. If it's relocated, we haven't found the new address yet. Let us know if you have intel.
 
----
 
 ## Getting There and Getting Around
 
@@ -166,7 +157,6 @@ South Yarra station is on the Frankston, Sandringham, and Pakenham/Cranbourne li
 
 Parking is what you'd expect in a suburb this popular: competitive. Street parking on Murphy and Ellis Streets is your best bet, but after 9am on weekdays it's a lottery. The paid car parks on Toorak Road and Chapel Street will cost you $4-6 per hour.
 
----
 
 ## Cross-Links: Keep Exploring
 
@@ -176,13 +166,11 @@ If you've sorted your coffee but need more, we've got you covered:
 - **Commuting through the city?** The [Melbourne CBD coffee guide](/melbourne-cbd/best-coffee) has the spots worth getting off the tram for
 - **Coming from the other side?** Check out our [Richmond coffee guide](/richmond/best-coffee) — especially if you're a Bridge Road regular
 
----
 
 **Rate this article:** Was this guide useful? 👍 👎
 
 **Have we missed your favourite?** [Submit a tip](/submit) and we'll check it out.
 
----
 
 *Prices listed are accurate as of March 2026 and may change. Hours can vary on public holidays — call ahead if you're planning a Australia Day or Easter Monday coffee run. We visited all eight cafés multiple times before publishing. No venue paid for inclusion.*
 

@@ -5,10 +5,10 @@ date: 2026-03-16
 author: dani
 tags: ["carlton", "brunch", "cafes"]
 categories: ["food"]
-description: "Best Brunch in Carlton 2026: Where to Eat After You've Earned It
+description: "Best Brunch in Carlton 2026: Where to Eat After You've Earned It"
+---
 
 Carlton's brunch scene has always been different from the rest of Melbourne. It's less abou..."
----
 # Best Brunch in Carlton 2026: Where to Eat After You've Earned It
 
 Carlton's brunch scene has always been different from the rest of Melbourne. It's less about proving you found it first and more about the fact that some of these kitchens have been running since before brunch was even a word people used unironically. Lygon Street still anchors the suburb, but the real action has scattered — into warehouse conversions on Berkeley Street, florist-cafes on Queensberry, and a Sri Lankan spot hiding inside an apartment block that nobody's figured out yet.
@@ -17,7 +17,6 @@ We ate our way through eight places over three weekends. Some we loved. Some wer
 
 **Updated 16 March 2026 | 8 places tested | Dani Rossi reporting**
 
----
 
 ## 1. Seven Seeds Coffee Roasters
 **The vibe:** Warehouse-roastery where the coffee is the main event and the food quietly backs it up.
@@ -30,7 +29,6 @@ Seven Seeds has been roasting since 2007 and their Carlton flagship on Berkeley 
 **Hours:** Mon–Sat 7am–5pm, Sun 8am–4pm
 **Insider tip:** Skip the front room if you want to sit. Walk through to the back courtyard — it catches the morning sun and nobody fights for tables out there. Park on Faraday Street, not Berkeley. The meters are cheaper and the walk is two minutes.
 
----
 
 ## 2. Humble Rays
 **The vibe:** Bouverie Street's greatest hits machine, plated with enough skill to make you forget you're eating brunch.
@@ -43,7 +41,6 @@ Humble Rays has been doing Asian-inspired brunch since 2016 and it remains Carlt
 **Hours:** Mon–Sun 8am–4pm
 **Insider tip:** They take walk-ins but the wait hits hard after 10:30am on weekends. Book via OpenTable or get there before 9:45. The takeaway window runs separately — if you just want the coffee and a pastry, bypass the queue entirely.
 
----
 
 ## 3. Heartattack and Vine
 **The vibe:** European neighbourhood bar that accidentally does one of Carlton's best brunches.
@@ -56,7 +53,6 @@ This Lygon Street stalwart models itself on the Venetian cicchetti bar, and the 
 **Hours:** Mon–Thu 8am–10:30pm, Fri–Sat 8am–11pm, Sun 8am–3pm
 **Insider tip:** Sunday morning is the sweet spot. The rest of Lygon Street is heaving with tourists queueing for Tiamo, and you're sitting at a beautiful bar eating a perfect sandwich with actual space around you. It also doubles as a wine bar in the evening — worth coming back for the cicchetti and a glass of something Italian.
 
----
 
 ## 4. Flovie Florist Cafe
 **The vibe:** A florist and a cafe had a very photogenic baby on Queensberry Street.
@@ -69,7 +65,6 @@ Flovie is a florist-cafe hybrid — part flower shop, part brunch destination �
 **Hours:** Mon–Fri 8am–2:45pm, Sat–Sun 8am–3:45pm
 **Insider tip:** Weekday mornings are the move here — you'll get a table without waiting and the light through the front windows is excellent. If you're buying flowers anyway, pick them up with your brunch. The arrangements start at $35 and are genuinely good.
 
----
 
 ## 5. Brunetti Classico
 **The vibe:** Carlton's Italian nonna, open every single day of the year, doing what she's always done.
@@ -82,7 +77,6 @@ You don't go to Brunetti for innovation. You go because you want a proper Italia
 **Hours:** Daily 7am–late (kitchen open all day)
 **Insider tip:** The queue outside on weekend mornings is real and it's long. But there's a second entrance on the side that almost nobody uses — it leads straight to the gelato and pastry counter, skipping the main room bottleneck entirely. Park in the Lygon Street car park (Wilson, $4/hr) rather than circling for street parking.
 
----
 
 ## 6. Lankan Tucker
 **The vibe:** Sri Lankan brunch pioneers hiding in plain sight inside an apartment building on Lygon Street.
@@ -95,7 +89,6 @@ Nerissa Jayasingha and Hiran Kroon ran their Sri Lankan brunch cafe in Brunswick
 **Hours:** Fri–Sat only
 **Insider tip:** They close early when they sell out, which has been happening most weekends. Get there before 10am or you'll be looking at a closed sign and regret. The takeaway meals (available through the week) include butter chicken pie and Sri Lankan curries — grab a couple for dinner while you're there.
 
----
 
 ## 7. Midsquare Coffee
 **The vibe:** A tiny neighbourhood coffee shop that does the quiet Carlton brunch better than most of the loud ones.
@@ -108,7 +101,6 @@ Midsquare on Pelham Street is the antithesis of Carlton's Instagram-circuit brun
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** This is a weekday hero. Quiet, fast, good value. The sandwich cabinet is stocked by mid-morning with fresh rolls and wraps that are genuinely better than anything from the chain shops nearby. Grab one for lunch and eat it in the Carlton Gardens — two minutes' walk.
 
----
 
 ## 8. Poolhouse Coffee
 **The vibe:** A pocket-sized neighbourhood joint with a loyal following and a menu that punches well above its square footage.
@@ -121,7 +113,6 @@ Poolhouse is small enough that you'll know the barista's name by your second vis
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Midweek arvo coffees here are a different experience to the weekend rush. Grab a seat by the window and watch the Lygon Street foot traffic while eating a $5 pastry that's better than most $12 ones elsewhere.
 
----
 
 ## 🗳️ VOTE: What's your go-to Carlton brunch order?
 
@@ -133,7 +124,6 @@ Poolhouse is small enough that you'll know the barista's name by your second vis
 
 [Vote now and see what other Carlton locals are choosing →](/vote)
 
----
 
 ## What We Skipped and Why
 
@@ -147,7 +137,6 @@ Not everything made the cut. Here's what we left off and why:
 
 **Any Lygon Street tourist trap** — If the menu has 85 items, a photo on every page, and a "tourist special" board out front, it's not on this list. You know the ones.
 
----
 
 ## 🤔 CROSS-SUBURB JAB: Carlton vs Fitzroy — who's actually winning brunch?
 
@@ -157,7 +146,6 @@ The honest answer? Fitzroy wins on breadth. Carlton wins on consistency. Neither
 
 👉 [Read our full Fitzroy brunch guide →](/fritzroy/best-brunch)
 
----
 
 ## THE MOVE: Your Carlton Brunch Game Plan
 
@@ -177,7 +165,6 @@ Flovie. It's the one that photographs best AND tastes best. No compromises.
 
 Midsquare. $15 gets you eggs, toast, and a coffee. No Instagram flex needed.
 
----
 
 ## What Else to Read
 
@@ -186,7 +173,6 @@ Midsquare. $15 gets you eggs, toast, and a coffee. No Instagram flex needed.
 - [Living in Carlton: Rent, Transport, and the Real Cost →](/carlton/suburb-profile)
 - [The Melbourne Brunch Map: Every Suburb's Best →](/melbourne/brunch-map)
 
----
 
 ## The Bottom Line
 
@@ -196,7 +182,6 @@ If you only try one spot: **Humble Rays**. The Crab Meat Scramble is worth the w
 
 **Your Carlton Vibe Score this week: 81/100** 🟢 — Strong brunch energy, solid café culture, minus a few points for weekend parking chaos.
 
----
 
 *Updated 16 March 2026. Prices and hours may change — check before you go. Did we miss your favourite? [Tell us →](/submit)*
 

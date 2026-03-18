@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jack
 tags: ["kensington", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Kensington Honest Guide 2026: The Unfiltered Truth
+description: "Kensington Honest Guide 2026: The Unfiltered Truth"
+---
 
-Updated 16 March 2026 | Jack Morrison reporting
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
 
 Look, someone has to say it: Kensington is Melbourne's m..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # Kensington Honest Guide 2026: The Unfiltered Truth
 
 **Updated 16 March 2026 | Jack Morrison reporting**
@@ -23,7 +28,6 @@ You get the idea. Kensington is a suburb that doesn't quite fit a neat category,
 
 Let's cut through the waffle.
 
----
 
 ## The Quick Stats
 
@@ -38,7 +42,6 @@ Let's cut through the waffle.
 | **Train Stations** | Kensington, Flemington Racecourse, South Kensington |
 | **Vibe** | Quiet inner-west village that accidentally got trendy |
 
----
 
 ## What's Actually Good About Kensington
 
@@ -62,7 +65,6 @@ Kensington's main drag, Bellair Street, is compact but functional. You've got a 
 
 Kensington Primary is well-regarded, and there are several options nearby in Flemington and North Melbourne. It's not Melbourne's top school zone, but for an inner-city suburb, you're not going to struggle to find a decent public school for primary-aged kids. For secondary, you'll likely be looking at options in the broader area — including some good picks over in [Footscray](/suburbs/footscray) if you're open to a short commute.
 
----
 
 ## What's Overhyped (or Just Plain Annoying)
 
@@ -86,7 +88,6 @@ Flemington Racecourse shares the postcode, and when the Melbourne Cup, Derby Day
 
 Reddit locals will tell you (and they're right) that the northern fringe of Kensington, where it bleeds into Flemington near Epsom Road, has a different energy. It's not dangerous per se, but it's grittier — more industrial pockets, social housing, and the occasional late-night drama. The further south you go towards Macaulay Road and the station, the more polished things get. It's a small suburb, but there's a real split in "vibe" from one end to the other.
 
----
 
 ## Who Should Live in Kensington
 
@@ -96,7 +97,6 @@ Reddit locals will tell you (and they're right) that the northern fringe of Kens
 - **Downsizers** from the outer suburbs who want to be close to the city without the noise of true inner-city living
 - **Anyone who values a proper pub** over a cocktail bar
 
----
 
 ## Who Should Probably Not Bother
 
@@ -105,7 +105,6 @@ Reddit locals will tell you (and they're right) that the northern fringe of Kens
 - **Bargain hunters** — the days of Kensington being a "cheap inner-city option" are basically over
 - **People who need a big shopping precinct** — Bellair Street is charming but limited. You're heading to the CBD or Highpoint for anything serious
 
----
 
 ## What We Skipped and Why
 
@@ -117,7 +116,6 @@ Reddit locals will tell you (and they're right) that the northern fringe of Kens
 
 **Arts and culture scene:** There's some community stuff — local markets, occasional events at JJ Holland Park — but Kensington isn't Brunswick. It's not trying to be. The cultural heavy lifting in this part of Melbourne happens over in [Footscray](/suburbs/footscray) with its growing food scene and arts spaces, or in North Melbourne's gallery and bar strip. Kensington is more "let's grab a pub lunch" than "let's discuss the installation at the warehouse space."
 
----
 
 ## The Verdict
 
@@ -131,7 +129,6 @@ Think of it as Melbourne's version of that mate who never posts on social media 
 
 But the clock is ticking. Every year, more apartments go up. More buyers get priced out of Fitzroy and cast their eyes west. The days of Kensington as a quiet, affordable secret are numbered. If it's on your shortlist, now is the time — not in 2028 when a two-bedroom unit costs $800 a week.
 
----
 
 ## How Would You Describe Kensington in One Word?
 
@@ -139,7 +136,6 @@ But the clock is ticking. Every year, more apartments go up. More buyers get pri
 
 Vote and share your take in the comments below.
 
----
 
 ## What's Your Kensington Hot Take?
 
@@ -147,11 +143,9 @@ Got a love-it-or-hate-it opinion about Kensington? Lived here for years and thin
 
 **Drop your thoughts in the comments.** We read every one.
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 **Related reading:**
 - [Flemington Honest Guide 2026](/suburbs/flemington/honest-guide) — Melbourne's most famous postcode for all the wrong reasons

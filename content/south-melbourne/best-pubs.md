@@ -5,12 +5,17 @@ date: 2026-03-16
 author: kai
 tags: ["south-melbourne", "pubs", "nightlife"]
 categories: ["nightlife"]
-description: "Best Pubs in South Melbourne 2026: Heritage Hotels & Modern Taprooms
+description: "Best Pubs in South Melbourne 2026: Heritage Hotels & Modern Taprooms"
+---
 
-Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
+**Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
+
+
 
 South Melbourne sits ..."
----
+
+*Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
+
 # Best Pubs in South Melbourne 2026: Heritage Hotels & Modern Taprooms
 
 **Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
@@ -19,7 +24,6 @@ South Melbourne sits in that sweet spot between the CBD and the bay — close en
 
 We've spent weeks working our way through the area — lunch sessions, after-work pints, weekend parmas — and here's where your drinking time and money should actually go.
 
----
 
 ## 1. Lamaro's Hotel — The Gastropub Benchmark
 
@@ -35,7 +39,6 @@ Lamaro's is the pub South Melbourne locals recommend when someone asks "where sh
 
 **Best For:** Date nights, parents' dinners, anyone who wants a pub that still respects the food.
 
----
 
 ## 2. The George Hotel — 160 Years and Freshly Reborn
 
@@ -51,7 +54,6 @@ The George has been standing on this corner since 1865 — that's a decade befor
 
 **Best For:** Weekend sessions, after-work drinks, anyone who appreciates heritage architecture with their hops.
 
----
 
 ## 3. Westside Ale Works — The Brewery Taproom
 
@@ -67,7 +69,6 @@ Westside Ale Works is not a pub in the traditional sense — it's something argu
 
 **Best For:** Beer enthusiasts, weekend afternoon sessions, groups who want to share a tasting paddle and a few pizzas.
 
----
 
 ## 4. Bells Hotel — The Rooftop All-Rounder
 
@@ -83,7 +84,6 @@ Bells is South Melbourne's answer to the question "can one pub do everything?" T
 
 **Best For:** Big groups, sports watching, rooftop sunset drinks, and anyone chasing a happy hour bargain.
 
----
 
 ## 5. Railway Hotel — The Quiet Achiever
 
@@ -99,7 +99,6 @@ The Railway Hotel is the kind of pub that doesn't need to shout. Tucked on Ferra
 
 **Best For:** Low-key weeknight pints, catching the game, anyone who values authenticity over Instagram aesthetics.
 
----
 
 ## 6. Hunter & Hound — The New Kid Doing It Right
 
@@ -115,13 +114,11 @@ Hunter & Hound is the newer addition to South Melbourne's pub scene, and it's ma
 
 **Best For:** Adventurous eaters, date nights, anyone tired of the same chicken parma everywhere.
 
----
 
 ## How South Melbourne Compares
 
 South Melbourne's pub scene benefits enormously from its inner-city location. You're a short walk from [South Yarra's Chapel Street strip](/south-yarra/) if you want to keep the night going, a quick tram or rideshare from [St Kilda's beachside bars](/st-kilda/), and just down the road from the leafy streets of [Albert Park](/albert-park/), which has its own quietly excellent pub culture. The interconnectedness means a South Melbourne pub crawl can easily sprawl into a multi-suburb adventure — which, on the right Saturday afternoon, is exactly the kind of plan worth making.
 
----
 
 ## What We Skipped and Why
 
@@ -133,7 +130,6 @@ No list is comprehensive, and we want to be transparent about what didn't make t
 
 - **Pop-ups and short-term residences:** Several temporary bar concepts have rotated through South Melbourne venues this summer. We've excluded anything without a permanent, committed presence.
 
----
 
 ## The Verdict
 
@@ -141,11 +137,9 @@ South Melbourne doesn't have the volume of, say, Collingwood or Fitzroy, but the
 
 South Melbourne's pub scene in 2026 isn't trying to be Melbourne's best. It just quietly is.
 
----
 
 *Have we missed your favourite South Melbourne local? Tell us on Instagram [@melbzcomau](https://instagram.com/melbzcomau) or email editors@melbz.com.au.*
 
----
 
 **POLL: What's your South Melbourne pub pick?**
 - 🍺 Lamaro's Hotel — food first, always
@@ -157,7 +151,6 @@ South Melbourne's pub scene in 2026 isn't trying to be Melbourne's best. It just
 
 *Cast your vote in our Telegram channel.*
 
----
 
 **READ NEXT:**
 - [Best Pubs in South Yarra 2026](/south-yarra/best-pubs/)

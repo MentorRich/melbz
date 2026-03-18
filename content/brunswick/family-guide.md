@@ -1,23 +1,26 @@
 ---
-title: "Family Guide to Brunswick 2026: Schools, Parks, and Everything Parents Need"
+title: "Family Guide to Brunswick 2026: Schools, Parks & More"
 cover_image: "/images/brunswick/family-guide.jpg"
 date: 2026-03-16
 author: chloe
 tags: ["brunswick", "families", "schools"]
 categories: ["property"]
-description: "Family Guide to Brunswick 2026: Schools, Parks, and Everything Parents Need
-
-Updated 16 March 2026 | Chloe Nguyen reporting
-
+description: "Family Guide to Brunswick 2026: Schools, Parks, and Everything Parents Need"
 ---
+
+**Updated 16 March 2026 | Chloe Nguyen reporting**
+
+
+
+
+*Updated 16 March 2026 | Chloe Nguyen reporting*
+
 
 Brunswick has a reputation ..."
----
 # Family Guide to Brunswick 2026: Schools, Parks, and Everything Parents Need
 
 *Updated 16 March 2026 | Chloe Nguyen reporting*
 
----
 
 Brunswick has a reputation as the suburb where Melbourne's creative types and uni students go to drink oat lattes and argue about gentrification. But here's what nobody talks about enough: families have been quietly colonising this area for over a decade, and by 2026, it's one of the most liveable pockets of Melbourne's inner north for people raising kids.
 
@@ -115,7 +118,6 @@ What you get instead is a place where your kids grow up around art, food from tw
 
 The trade-offs are real: crowded playgrounds on weekends, waitlists for everything, and house prices that require either a strong deposit or a willingness to compromise on space. But for the families who commit to it, Brunswick delivers a version of Melbourne parenting that's hard to find this close to the CBD.
 
----
 
 **[VOTE: Is Brunswick worth the house price premium for families?]**
 
@@ -124,7 +126,6 @@ The trade-offs are real: crowded playgrounds on weekends, waitlists for everythi
 🔘 It depends on whether you need a backyard
 🔘 Moving to Brunswick was the best decision we made
 
----
 
 **🗳️ SUBURB VIBE SCORE: Brunswick (Families)**
 
@@ -140,7 +141,6 @@ The trade-offs are real: crowded playgrounds on weekends, waitlists for everythi
 
 *See how Brunswick ranks against other suburbs on our [Suburb Vibe Score leaderboard](/suburb-scores).*
 
----
 
 **🤫 CONFESS: Your Brunswick family secret**
 
@@ -148,7 +148,6 @@ The trade-offs are real: crowded playgrounds on weekends, waitlists for everythi
 
 [Submit your anonymous Brunswick parenting confession →](/confessions)
 
----
 
 **⚔️ CROSS-SUBURB JAB: Brunswick vs. Northcote**
 
@@ -158,13 +157,11 @@ The truth? Northcote edges out Brunswick on green space and tranquillity. Brunsw
 
 Pick a side in our [Brunswick vs. Northcote showdown](/compare/brunswick-vs-northcote).
 
----
 
 ## Before You Move: The Open Loop
 
 Thinking about the northern suburbs but not sure Brunswick is the right fit? Our [Complete Northern Suburbs Family Relocation Guide](/relocation/northern-suburbs-2026) breaks down every suburb from Coburg to Reservoir with school zones, price points, and family scores so you can compare the lot in one place.
 
----
 
 *Chloe Nguyen is the Families Editor at MELBZ. She has lived in Melbourne's inner north for eight years and has personally tested every playground mentioned in this article with a reluctant three-year-old. Contact: [chloe@melbz.com.au](mailto:chloe@melbz.com.au)*
 

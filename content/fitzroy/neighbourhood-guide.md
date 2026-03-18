@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide to Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/neighbourhood-guide.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the neighbourhood guide to Fitzroy. Our verified 2026 guide covers everything locals need to know."
 tags: ["fitzroy"]
 categories: ["neighbourhood"]
----
 ## Neighbourhood Guide to Fitzroy
 
 Fitzroy is Melbourne's oldest suburb. Founded in 1839, it was the city's first to be designated — before Melbourne's CBD even had a proper grid. That history shows. The streets are narrow, the buildings are low, the warehouses are converted, and the culture runs deep. It's been working-class, it's been migrant, it's been countercultural, and now it's expensive. But it's still, somehow, the most Melbourne suburb in Melbourne.
 
 This is the full picture — what it's like to actually live here, not just visit.
 
----
 
 ## THE BASICS
 
@@ -32,7 +32,6 @@ This is the full picture — what it's like to actually live here, not just visi
 
 **Median rent:** ~$650/week for a 2-bedroom house, ~$500/week for a 1-bedroom unit. You will compete for good properties. Having references and proof of income ready is non-negotiable.
 
----
 
 ## THE STREETS THAT MATTER
 
@@ -56,7 +55,6 @@ Johnston Street is wide, busy, and lined with restaurants — many Spanish and P
 
 Smith Reserve (corner of Smith and Johnston) is the patch of green where locals sit, walk dogs, and eat takeaway. Edinburgh Gardens, just north of Alexandra Parade in Fitzroy North, is the big one — a proper park with a bowling club, bandroom, and the best BYO picnic spot in the inner north.
 
----
 
 ## THE VIBE
 
@@ -85,7 +83,6 @@ The architecture is distinctive — Victorian terraces, converted warehouses, mo
 - **The gentrification conversation:** It's real. Long-term residents and communities have been displaced by rising costs. Fitzroy's diversity is less than it was 20 years ago. If you move here, it's worth knowing and respecting that history.
 - **Bins and rubbish:** The narrow streets and high population density mean bins overflow on collection days. The City of Yarra is working on it, but it's an ongoing issue.
 
----
 
 ## GETTING AROUND
 
@@ -104,7 +101,6 @@ No train station in Fitzroy. The nearest are Clifton Hill (10-minute walk from S
 ### Cycling
 Fitzroy is flat and bike-friendly, though the bike lanes on Brunswick Street are inconsistent. Secure bike parking is available at Melbourne University (10 minutes away) and various council racks. The Capital City Trail runs nearby and connects to the Merri Creek path.
 
----
 
 ## SCHOOLS
 
@@ -113,7 +109,6 @@ Fitzroy is flat and bike-friendly, though the bike lanes on Brunswick Street are
 - **Collingwood College** — nearby in Collingwood, takes students from Fitzroy for secondary. Has a strong reputation despite the postcode stigma some people attach to "Collingwood."
 - **Melbourne College of Hair and Beauty** — on Brunswick Street. Not a school for your kids, but a landmark you'll recognise.
 
----
 
 ## SAFETY
 
@@ -124,7 +119,6 @@ Fitzroy is generally safe for a dense inner-city suburb. The main concerns are:
 
 Fitzroy Police Station is at 292 Smith Street. Open 24/7. Non-emergency: 131 444. Emergency: 000.
 
----
 
 ## What We Skipped and Why
 
@@ -134,7 +128,6 @@ Fitzroy Police Station is at 292 Smith Street. Open 24/7. Non-emergency: 131 444
 
 **Pet services, doctors, dentists:** We'll cover these in a dedicated "Living In" guide. This is the big picture.
 
----
 
 ## Cross-Suburb Guides
 
@@ -142,7 +135,6 @@ Fitzroy Police Station is at 292 Smith Street. Open 24/7. Non-emergency: 131 444
 - [Neighbourhood Guide to Carlton](/fitzroy/neighbourhood-guide) — the Italian quarter
 - [Neighbourhood Guide to Fitzroy North](/fitzroy/neighbourhood-guide) — the quieter half
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Why did you move to (or choose not to move to) Fitzroy?**
@@ -154,7 +146,6 @@ Fitzroy Police Station is at 292 Smith Street. Open 24/7. Non-emergency: 131 444
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-why-live-here)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -163,7 +154,6 @@ Fitzroy consistently scores in Melbourne's top 10 for walkability, food culture,
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's the one thing about living in Fitzroy that nobody tells you?**
@@ -172,7 +162,6 @@ Good or bad. We want the real stuff that doesn't make it into guides.
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -181,7 +170,6 @@ Good or bad. We want the real stuff that doesn't make it into guides.
 - [Best Restaurants in Fitzroy](/fitzroy/best-restaurants) — where to eat well
 - [Things To Do This Weekend in Fitzroy](/fitzroy/things-to-do-this-weekend) — your weekend plan
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every area discussed, spoke with local residents and business owners, and received no sponsorship or compensation. Data points are sourced from Domain, realestate.com.au, and the City of Yarra. If something's wrong, tell us — we fix things fast.*
 

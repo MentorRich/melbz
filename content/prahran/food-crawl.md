@@ -5,12 +5,17 @@ date: 2026-03-16
 author: tyler
 tags: ["prahran", "food-crawl", "food"]
 categories: ["food"]
-description: "Prahran Food Crawl 2026: Market to Chapel Street
+description: "Prahran Food Crawl 2026: Market to Chapel Street"
+---
 
-Updated 16 March 2026 | Tyler James reporting
+**Updated 16 March 2026 | Tyler James reporting**
+
+
 
 There's a version of Prahran where people just wander around..."
----
+
+*Updated 16 March 2026 | Tyler James reporting*
+
 # Prahran Food Crawl 2026: Market to Chapel Street
 
 *Updated 16 March 2026 | Tyler James reporting*
@@ -23,7 +28,6 @@ Prahran punches absurdly above its weight for food. It's got the [Prahran Market
 
 This crawl is designed as a full-day Saturday experience. Five stops. No running. Plenty of sitting. Budget roughly $120–$180 per person if you order like someone who deserves it.
 
----
 
 ## Stop 1: Breakfast — Giddiup, Commercial Road
 
@@ -37,7 +41,6 @@ If you're after something heavier, their breakfast burger does the job. Runny yo
 
 **Damage:** ~$22–$28 per person with coffee.
 
----
 
 ## Stop 2: Mid-Morning Snack — Prahran Market
 
@@ -57,7 +60,6 @@ The market operates Thursday through Saturday, with Saturday being peak chaos. G
 
 **Damage:** ~$15–$25 depending on willpower.
 
----
 
 ## Stop 3: Lunch — Entrecôte, Greville Street
 
@@ -73,7 +75,6 @@ The trick here is the simplicity. The steak is properly sourced, cooked with the
 
 **Damage:** ~$45–$55 per person with a drink.
 
----
 
 ## Stop 4: Afternoon Snack — Chapel Street Sweet Stops
 
@@ -93,7 +94,6 @@ If your stomach is telling you "mate, no more food," pivot to a drink instead. A
 
 **Damage:** ~$8–$18 depending on your sweet-to-savoury ratio.
 
----
 
 ## Stop 5: Dinner — The Local Heroes
 
@@ -113,7 +113,6 @@ If you've still got room and energy, the [Windsor](/suburb/windsor) border is ri
 
 **Damage:** ~$40–$70 per person depending on venue and alcohol consumption.
 
----
 
 ## What We Skipped and Why
 
@@ -127,7 +126,6 @@ Every crawl has gaps. Here's what we left out and why you might want to fill the
 
 **The bottom end of Chapel Street (Prahran proper vs. the Toorak Road end)** — This crawl stays firmly in the Prahran Village pocket. The northern stretch toward South Yarra has its own food crawl written all over it, but that's a different Saturday.
 
----
 
 ## How Prahran Compares to Its Neighbours
 
@@ -135,7 +133,6 @@ Prahran sits in a golden triangle of Melbourne food. To the south, [Windsor](/su
 
 Prahran's sweet spot is the mix: market culture, independent restaurants, and that Chapel Street energy that keeps things from getting too precious. It's not trying to be Armadale. It's not trying to be Windsor. It's just doing its own thing, and doing it well.
 
----
 
 ## The Route at a Glance
 
@@ -151,7 +148,6 @@ Prahran's sweet spot is the mix: market culture, independent restaurants, and th
 
 **Budget for the full day:** $120–$180 per person including drinks. Split dishes at dinner and you can bring it down to $100.
 
----
 
 ## The Verdict
 
@@ -161,11 +157,9 @@ This crawl will take you a full Saturday if you do it right. And doing it right 
 
 Their loss. More spanakopita for us.
 
----
 
 *What's your Prahran food crawl essential? Drop your picks in the comments — we update this guide based on what the locals actually rate.*
 
----
 
 **Related reading:**
 - [The Windsor Food Scene: Late Nights and Bold Flavours](/suburb/windsor/food-guide)

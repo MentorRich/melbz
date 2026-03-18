@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Melbourne — Where to Actually Take Someone in 2026"
 cover_image: "/images/melbourne/date-night.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Date night in Melbourne that doesn't suck. Real restaurants, real bars, real walking routes. From $30 meals to splurges worth the money."
 tags: ["melbourne"]
 categories: ["date"]
----
 # Date Night in Melbourne — Where to Actually Take Someone in 2026
 
 Dating in Melbourne is weird. You're matching with people from four different suburbs, coordinating schedules around shift work and AFL finals, and trying to figure out if a $200 degustation says "I'm serious" or "I'm trying too hard." The stakes feel high even when they're not, and choosing the wrong venue can turn a promising evening into an awkward one.
@@ -18,7 +19,6 @@ This guide isn't about impressing someone. It's about choosing a place where the
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. Bar Liberty — Fitzroy
 **The vibe:** A corner wine bar on Johnston Street where the natural wine list is long, the snacks are sharp, and nobody's judging you for ordering a second round of the good cheese.
@@ -32,7 +32,6 @@ Bar Liberty is Melbourne's answer to the question: "Where do you take someone wh
 **Getting there:** 86 tram from CBD, get off at Johnston Street
 **Insider tip:** Sit at the bar if there's only two of you. Side-by-side is less pressure than face-to-face on a first date, and you can both watch the bartender work, which gives you something to talk about if conversation stalls.
 
----
 
 ## 2. Al Dente Enoteca — Carlton
 **The vibe:** A tiny Italian wine bar on Faraday Street where the pasta is handmade daily, the room is warm, and the tortellini cacio e pepe has been called one of Melbourne's best date-night dishes by multiple chefs.
@@ -45,7 +44,6 @@ Al Dente Enoteca is small. Really small. Which is actually perfect for date nigh
 **Budget:** $50–$80 per person with drinks
 **Insider tip:** Book ahead for Friday and Saturday. Weeknights you can usually walk in, but the word's out on this place and tables go fast on weekends. Ask for a table by the window if available.
 
----
 
 ## 3. Zareh — Collingwood
 **The vibe:** Fire, brass, Armenian-Australian flavours, and a chef (Tom Sarafian) who's as fun to watch cook as he is to talk to. This is the date spot that makes you interesting by association.
@@ -59,7 +57,6 @@ Zareh is in Collingwood on Smith Street, and it's one of those places where the 
 **Getting there:** 86 tram from CBD, get off at Smith Street
 **Insider tip:** If you're here on a Saturday night, arrive early (before 7pm). The room fills up and the energy shifts from "cosy dinner" to "loud dinner party." Both are good, but they're different vibes. Early is better for a date where you actually want to talk.
 
----
 
 ## 4. Poodle — Fitzroy
 **The vibe:** An elegant but relaxed bistro on Brunswick Street where the service is always spot-on, the food is French-leaning without being fussy, and the room makes everyone look slightly better than they do in real life.
@@ -72,7 +69,6 @@ Poodle has been a Melbourne date-night staple since it opened, and it's earned t
 **Budget:** $70–$110 per person with drinks
 **Insider tip:** The banquettes on the left side of the room (as you walk in) are the best seats. More privacy, better lighting. Ask for them specifically when booking.
 
----
 
 ## 5. France-Soir — South Yarra
 **The vibe:** A Parisian bistro on Toorak Road that's been Melbourne's most reliable date-night restaurant for decades. The steak tartare is legendary, the room is packed, and the French waiters make you feel like you're in a film.
@@ -86,7 +82,6 @@ France-Soir is not trendy. It's not new. It doesn't have a natural wine list or 
 **Getting there:** Train to South Yarra station, then 5-minute walk, or 58 tram down Toorak Road
 **Insider tip:** The bar at the front is walk-in only and serves the full menu. If you can't get a dining room table, the bar is actually better for a date — more intimate, and you're watching the kitchen action over the counter.
 
----
 
 ## 6. Kirbie — South Melbourne
 **The vibe:** Fun, lively, cosy, and a little bit romantic — a South Melbourne spot that multiple chefs name as their personal date-night pick. Says something.
@@ -99,7 +94,6 @@ Kirbie came up in conversations when we asked Melbourne chefs where they take th
 **Budget:** $55–$85 per person with drinks
 **Insider tip:** Book at least a week ahead for Friday and Saturday. Midweek you'll get a table with less notice, and honestly, midweek is when this place shines — less crowded, more attentive service, and you can linger without feeling like you're holding up the next seating.
 
----
 
 ## 7. Bar Olo — Carlton
 **The vibe:** Low-lit, Milan-inspired, with a bar counter where you sit side-by-side and a pasta dish that Kate Reid of Lune calls one of the greatest in Melbourne.
@@ -112,7 +106,6 @@ Bar Olo is tucked away in Carlton and it's the kind of place you'd walk past ten
 **Budget:** $50–$80 per person with drinks
 **Insider tip:** If the bar is full, the small tables in the back are still good, but the bar is where the energy is. Go early on a weeknight to guarantee stools.
 
----
 
 ## What We Skipped and Why
 
@@ -124,7 +117,6 @@ Bar Olo is tucked away in Carlton and it's the kind of place you'd walk past ten
 
 **South Yarra cocktail bars:** [South Yarra](/south-yarra/) has plenty of flashy cocktail spots, but standing at a crowded bar yelling over music isn't a date — it's an audition for tinnitus.
 
----
 
 ## The Bottom Line
 
@@ -132,7 +124,6 @@ The best date-night restaurants in Melbourne aren't the most expensive ones — 
 
 **Your Melbourne Vibe Score this week: 81/100** — Autumn in Melbourne is peak date-night season. The weather's cool enough that nobody's sweaty, and every good restaurant has its heaters on.
 
----
 
 *Getting home safe: If the date goes well, you'll figure that out. If it goes badly, the 96 tram runs from Fitzroy to the CBD until midnight, the 86 runs from Collingwood, and rideshares are cheapest if you walk a few blocks away from Brunswick Street before requesting. South Yarra has trains until about midnight on weekends.*
 
@@ -140,7 +131,6 @@ The best date-night restaurants in Melbourne aren't the most expensive ones — 
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ### 📊 Quick Widgets
 

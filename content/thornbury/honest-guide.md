@@ -1,16 +1,21 @@
 ---
-title: "Thornbury Honest Guide 2026: High Street North & Real Opinions"
+title: "Thornbury Honest Guide 2026: High Street North Thornbury Real Opinions"
 cover_image: "/images/thornbury/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["thornbury", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Thornbury Honest Guide 2026: High Street North & Real Opinions
+description: "Thornbury Honest Guide 2026: High Street North & Real Opinions"
+---
 
-Updated 16 March 2026 | Jack Morrison reporting
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
 
 Let's get this out of the way immediately: T..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # Thornbury Honest Guide 2026: High Street North & Real Opinions
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -90,35 +95,30 @@ Is it perfect? No. The tram is slow. The identity is still forming. You'll walk 
 
 If you're considering Thornbury, go visit on a Saturday. Walk High Street from the Preston border down to the Northcote end. Grab dumplings. Get a coffee. Sit in the park. And if you can see yourself doing that every weekend without needing to be somewhere "cooler," then you've found your suburb.
 
----
 
 ## Thornbury Vibe Score
 
 
 *This week's score is based on community ratings, new venue openings, weather, and seasonal factors. [Rate Thornbury yourself →](/suburbs/thornbury/rate)*
 
----
 
 ## How Thornbury Compares
 
 
 *Scores updated weekly. Data reflects Vibe Score, median rent, transit score, and safety rating.*
 
----
 
 ## This Week in Thornbury
 
 
 *Events, new openings, and community highlights for the week of 16 March 2026.*
 
----
 
 ## Reader Poll
 
 
 *Vote and see how other Thornbury locals answered. Results update in real-time.*
 
----
 
 *Have a Thornbury tip, hot take, or correction? [Submit it here →](/submit)*
 

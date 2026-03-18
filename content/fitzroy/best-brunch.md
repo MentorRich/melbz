@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/best-brunch.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the best brunch in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["best"]
----
 ## The Best Brunch in Fitzroy
 
 Fitzroy invented the Melbourne brunch obsession. That's not hyperbole — it's basically true. Before smashed avocado became a national punchline, Fitzroy cafes were quietly perfecting the art of weekend breakfast that costs as much as a weeknight dinner. The difference is, the good places still deliver.
 
 Brunch in Fitzroy isn't about the Instagram shot. It's about sitting in a converted warehouse, eating something thoughtful, and not feeling like a mug for paying $24 for eggs. Here's where your money is actually well spent.
 
----
 
 ## 1. Rue & Co — 157 Gertrude Street, Fitzroy
 
@@ -28,7 +28,6 @@ Rue & Co is the kind of place that makes you feel like you've got your life toge
 
 **Budget check:** Main dishes $18–$26. Coffee $5. Two people with drinks: $55–$70.
 
----
 
 ## 2. Smith & Daughters — 172 Brunswick Street, Fitzroy
 
@@ -40,7 +39,6 @@ Smith & Daughters is fully plant-based and doesn't apologise for it, which is re
 
 **Budget check:** Mains $18–$26. Smoothies $12. Two people: $60–$75.
 
----
 
 ## 3. Bowery to Broadway — 233 Gertrude Street, Fitzroy
 
@@ -52,7 +50,6 @@ Bowery to Broadway does American-inspired brunch, which in Fitzroy could go terr
 
 **Budget check:** Mains $16–$24. Two people: $50–$65.
 
----
 
 ## 4. The Terrace — 171 Smith Street, Fitzroy
 
@@ -64,7 +61,6 @@ The Terrace sits on the Smith Street end of Fitzroy that borders Collingwood, an
 
 **Budget check:** Mains $18–$25. Two people: $55–$70.
 
----
 
 ## 5. Fawks — 282 Smith Street, Fitzroy
 
@@ -76,7 +72,6 @@ Fawks is a bit further north on Smith Street and it's less well-known than the B
 
 **Budget check:** Mains $17–$23. Two people: $45–$60.
 
----
 
 ## 6. Easy Street — 367 Brunswick Street, Fitzroy
 
@@ -88,7 +83,6 @@ Easy Street rounds out the list as the casual, no-pretension option. It's not tr
 
 **Budget check:** Mains $16–$24. Two people: $50–$65.
 
----
 
 ## The Price Comparison
 
@@ -101,7 +95,6 @@ Easy Street rounds out the list as the casual, no-pretension option. It's not tr
 | Fawks | French Toast | $20 | $45–$60 |
 | Easy Street | Big Brekkie | $22 | $50–$65 |
 
----
 
 ## What We Skipped and Why
 
@@ -111,7 +104,6 @@ Easy Street rounds out the list as the casual, no-pretension option. It's not tr
 
 **Brunswick Street mega-cafes with 90-minute time limits:** We don't rate places that rush you out the door. Brunch should be leisurely or what's the point?
 
----
 
 ## Cross-Suburb Brunch Guides
 
@@ -119,7 +111,6 @@ Easy Street rounds out the list as the casual, no-pretension option. It's not tr
 - [Best Brunch in Carlton](/fitzroy/best-brunch) — Lygon Street's Italian brunch influence
 - [Best Brunch in Fitzroy North](/fitzroy/best-brunch) — Quieter spots for a slower Saturday
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Brunch essential: savoury or sweet?**
@@ -130,7 +121,6 @@ Easy Street rounds out the list as the casual, no-pretension option. It's not tr
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-brunch-preference)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -139,7 +129,6 @@ Brunch culture is a core pillar of Fitzroy's identity. The weekend scene remains
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's your go-to Fitzroy brunch spot?**
@@ -148,7 +137,6 @@ Did we miss your favourite? Tell us where you take visitors when they say "let's
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -157,7 +145,6 @@ Did we miss your favourite? Tell us where you take visitors when they say "let's
 - [Best Restaurants in Fitzroy](/fitzroy/best-restaurants) — for when brunch isn't enough
 - [Cheap Eats in Fitzroy](/fitzroy/cheap-eats) — because $24 eggs add up fast
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

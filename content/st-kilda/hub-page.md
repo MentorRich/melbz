@@ -5,14 +5,14 @@ date: 2026-03-16
 author: josh
 tags: ["st-kilda", "suburb-profile", "hub"]
 categories: ["editorial"]
-description: "St Kilda: The Complete Suburb Profile 2026
+description: "St Kilda: The Complete Suburb Profile 2026"
+---
 
 !St Kilda Beach at golden hour(/images/st-kilda-hub.jpg)
 
 ST KILDA VIBE SCORE: 79/100 ⚡️ CLASSIC (+0 this week)
 
 ..."
----
 # St Kilda: The Complete Suburb Profile 2026
 
 ![St Kilda Beach at golden hour](/images/st-kilda-hub.jpg)
@@ -21,13 +21,11 @@ ST KILDA VIBE SCORE: 79/100 ⚡️ CLASSIC (+0 this week)
 
 *Updated 16 March 2026 | Josh Morrison reporting*
 
----
 
 St Kilda is Melbourne's original beachside escape — the suburb that taught the city how to take its shirt off and relax. Sitting 6km south-east of the CBD along the Port Phillip Bay coastline, St Kilda has been drawing crowds since the 1840s and shows absolutely no signs of slowing down. It's equal parts tourist playground, live music mecca, cycling paradise, and genuine residential neighbourhood where people actually raise kids among the gelato shops and rollerbladers.
 
 This is not a sleepy coastal village. St Kilda is loud, proud, and perpetually mid-party. Whether you're moving here, visiting, or just trying to work out why your mate won't shut up about the place, this is your definitive guide.
 
----
 
 ## The Vibe
 
@@ -37,7 +35,6 @@ But St Kilda isn't just the chaos. The residential streets between Barkly and Ca
 
 The suburb straddles the City of Port Phillip and carries a population of roughly 20,000 across its postcodes (3182). It attracts a mix of young professionals, international students, long-term residents who've been here since the '80s, and a rotating cast of short-termers who come for the lifestyle and stay because leaving feels like giving up.
 
----
 
 ## Rent & Property
 
@@ -55,7 +52,6 @@ St Kilda is one of those suburbs where the apartment market moves fast. Good pla
 
 **Pro tip:** Head to our [Melbourne Rental Market Tracker](/rent-tracker) to compare St Kilda's prices against neighbouring suburbs like Elwood, Balaclava, and Ripponlea.
 
----
 
 ## Food
 
@@ -72,7 +68,6 @@ St Kilda's dining scene is genuinely impressive, stretching from cheap eats to f
 
 The **St Kilda Esplanade Market** runs every Sunday and is the best place to grab handmade dumplings, Turkish gozleme, and artisan doughnuts while pretending you're exercising by walking.
 
----
 
 ## Bars & Nightlife
 
@@ -89,7 +84,6 @@ This is where St Kilda earns its reputation. The nightlife scene here isn't just
 
 For something different, the **St Kilda Festival** (held annually in February) shuts down multiple streets for a free music festival that regularly attracts 400,000+ punters. It's the biggest community festival in Australia, and it's free. The 2026 edition was no exception.
 
----
 
 ## Transport
 
@@ -104,7 +98,6 @@ Cycling is huge here. The **Bay Trail** runs along the waterfront and connects S
 
 Driving is... an experience. Parking on Fitzroy Street is competitive on weekends. The side streets fill up fast. Take the tram.
 
----
 
 ## Parks & Outdoor Life
 
@@ -120,7 +113,6 @@ St Kilda's green spaces are some of the best in inner Melbourne.
 
 The **St Kilda Pier and Breakwater** is where you'll find the famous little penguins that nest near the breakwater. They come ashore at dusk and are genuinely wonderful to watch, provided you can tolerate the crowd of tourists who also want to watch. Free viewing, every night.
 
----
 
 ## Schools
 
@@ -135,7 +127,6 @@ St Kilda has a solid range of schooling options:
 
 For early education, there are numerous childcare centres and kindergartens scattered through the suburb. The City of Port Phillip also runs maternal and child health services.
 
----
 
 ## The Beach
 
@@ -147,7 +138,6 @@ But it's Melbourne's most accessible beach, and it's absolutely iconic. On a sum
 
 Check our [Beach Rating Index](/beach-ratings) to see how St Kilda stacks up against other Melbourne beaches.
 
----
 
 ## Fight Us: The Controversial Opinions
 
@@ -165,7 +155,6 @@ Every suburb has them. Here are St Kilda's:
 
 **FIGHT US:** Which side are you on? Drop your hottest St Kilda take in the comments below or hit us on socials. We'll feature the best (and most unhinged) responses next week.
 
----
 
 ## 🗳️ Poll: Best thing about St Kilda?
 
@@ -179,7 +168,6 @@ What's the #1 reason you love (or would love) St Kilda?
 
 [Vote now and see live results →]
 
----
 
 ## 📝 Confession Box
 
@@ -193,7 +181,6 @@ What's the #1 reason you love (or would love) St Kilda?
 
 **Submit your St Kilda confession anonymously** — what's the thing you've never told anyone about this suburb?
 
----
 
 ## The Verdict
 
@@ -205,7 +192,6 @@ At 79/100, our Vibe Score reflects a suburb that's been doing this for a long ti
 
 **Who should look elsewhere:** Families wanting big backyards (check [Elwood](/elwood) instead), early risers, people who need off-street parking, anyone who finds tourists exhausting.
 
----
 
 ## Related Reading
 
@@ -215,7 +201,6 @@ At 79/100, our Vibe Score reflects a suburb that's been doing this for a long ti
 - [Melbourne Rental Market Tracker 2026](/rent-tracker) — Updated weekly with real pricing data
 - [Port Phillip Bay Suburb Showdown](/bay-suburbs-showdown) — St Kilda vs Brighton vs Sandringham vs Elwood
 
----
 
 *St Kilda is one of Melbourne's most well-documented suburbs, which makes it both easy to research and hard to surprise. If you think we've missed something — a restaurant, a street, a deeply held local opinion — tell us. We update these profiles quarterly, and the best reader tips get incorporated into the next version.*
 

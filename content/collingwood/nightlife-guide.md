@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Collingwood — 2026 Local Guide"
 cover_image: "/images/collingwood/nightlife-guide.jpg"
+---
+
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "The complete Collingwood nightlife guide for 2026 — from Smith Street cocktail bars to warehouse DJs, live music venues, and getting home safe."
 tags: ["collingwood"]
 categories: ["nightlife"]
----
 # Collingwood Nightlife Guide 2026 — Where to Go and When
 
 Collingwood after dark is a different suburb. The daytime cafe crowd clears out, the warehouse lights go on, and the strip transforms into one of Melbourne's most concentrated nightlife corridors. Smith Street anchors the scene with cocktail bars and pubs, but the real discoveries happen when you duck into the side streets and laneways — a basement bar behind a record store, a DJ set in a converted factory, a rooftop that only locals know about. Collingwood doesn't do velvet ropes or door staff in suits. It does good drinks, good music, and the kind of atmosphere that comes from a suburb that takes its nightlife seriously without taking itself too seriously. Here's how to do it properly.
 
 **Last updated: 17 March 2026** | **Collingwood Vibe Score: 83/100 ⚡️**
 
----
 
 ## The Pre-Game: Where to Start (6pm–9pm)
 
@@ -36,7 +36,6 @@ Collingwood after dark is a different suburb. The daytime cafe crowd clears out,
 **Where:** Just off Smith Street, Collingwood
 **Insider tip:** The outdoor area is the star here. In March and April, Melbourne's evening weather is usually kind enough to make outdoor drinking a pleasure rather than a gamble.
 
----
 
 ## The Main Event: Bars & Late Night (9pm–2am)
 
@@ -74,7 +73,6 @@ This is the bar you take someone to when you want to impress without it feeling 
 **Where:** Smith Street, Collingwood
 **Insider tip:** The growler fill station is the real draw for locals — bring your own growler or buy one there, and fill it with whatever's on tap at much better per-litre prices than buying by the glass.
 
----
 
 ## The Aftermath: Late-Night Eats (10pm–3am)
 
@@ -90,7 +88,6 @@ Johnston Street between Hoddle and Smith is kebab central. Two or three shops co
 
 Look, sometimes the night takes a turn and you're standing outside the Smith Street 7-Eleven at 2am with a $2 sausage roll. We've all been there. No judgement from MELBZ.
 
----
 
 ## Getting Home Safe
 
@@ -113,7 +110,6 @@ Look, sometimes the night takes a turn and you're standing outside the Smith Str
 - Keep your belongings secure — phone theft on Smith Street after 11pm is not uncommon.
 - If you or someone you're with needs help, Collingwood Police Station on Wellington Street is open 24/7.
 
----
 
 ## The Crawl: A Suggested Route
 
@@ -124,13 +120,11 @@ Look, sometimes the night takes a turn and you're standing outside the Smith Str
 **12:30am** — Food break at **N. Lee Bakery** (banh mi) or the Johnston Street kebabs.
 **1:00am** — If you've still got legs, one more at the **Prince Patrick Hotel** on Johnston Street before heading home.
 
----
 
 ## Collingwood vs Fitzroy: The Nightlife Border War
 
 Both suburbs claim great nightlife, and both are right — but they're different. **Collingwood** is louder, grittier, and more rock-and-roll. Live music, craft beer, and warehouses. **Fitzroy** is slightly more polished — more cocktail bars, more restaurants that stay open late, and the Brunswick Street strip that's been Melbourne's going-out backbone for 30 years. The best night out? Start in Fitzroy for dinner, walk east into Collingwood for the real chaos, and end with a banh mi on Smith Street. Both suburbs, one crawl.
 
----
 
 ## The Bottom Line
 
@@ -138,7 +132,6 @@ Collingwood nightlife in 2026 is the inner north's beating heart after dark. You
 
 **Your Collingwood Vibe Score this week: 83/100 ⚡️** — The nightlife is what pushes this score into electric territory.
 
----
 
 *Related reads: [Best Bars in Collingwood](/suburbs/collingwood/best-bars) · [Best Pubs in Collingwood](/suburbs/collingwood/best-pubs) · [Fitzroy Nightlife Guide](/suburbs/fitzroy/nightlife-guide) · [Things To Do This Weekend in Collingwood](/suburbs/collingwood/things-to-do-this-weekend)*
 

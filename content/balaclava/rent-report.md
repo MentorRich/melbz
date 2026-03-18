@@ -5,19 +5,22 @@ date: 2026-03-16
 author: marcus
 tags: ["balaclava", "rent", "property"]
 categories: ["property"]
-description: "Rent Prices in Balaclava 2026: What You'll Pay
-
-Updated 16 March 2026 | Marcus Cole reporting
-
+description: "Rent Prices in Balaclava 2026: What You'll Pay"
 ---
+
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
+
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 
 Balaclava sits in that awkward sweet spot of Melbourne's ..."
----
 # Rent Prices in Balaclava 2026: What You'll Pay
 
 *Updated 16 March 2026 | Marcus Cole reporting*
 
----
 
 Balaclava sits in that awkward sweet spot of Melbourne's rental market — too close to St Kilda to be cheap, too quiet to command a premium. It's the suburb people rent in because they got priced out of Elwood, or because they discovered that the 16 tram gets them to Acland Street in eight minutes without paying St Kilda prices.
 
@@ -35,7 +38,6 @@ The lower end ($440) gets you something unrenovated on the Hotham Street side, l
 
 **What that looks like in practice:** On a $75,000 salary, a $460/week one-bedroom eats 31.7% of your pre-tax income. On $90,000, it's 26.4%. Both figures sit uncomfortably close to the 30% affordability threshold that housing researchers keep citing. If you're on anything below $70K, you're either getting a housemate or finding a studio.
 
----
 
 ### 📊 POLL: What are you currently paying for rent in Balaclava?
 
@@ -45,7 +47,6 @@ The lower end ($440) gets you something unrenovated on the Hotham Street side, l
 - $600+/week
 - I sold my soul to a real estate agent, rent is the least of my concerns
 
----
 
 ## Two-Bedroom Units and Apartments
 
@@ -71,7 +72,6 @@ A room in a shared house runs **$250–$330 per week** depending on the house, t
 
 This is where Balaclava becomes genuinely affordable. $280/week on a $65,000 salary is 22.4% of pre-tax income. That's livable. That's a life where you can still eat out on Carlisle Street and take the occasional weekend trip without checking your bank balance first.
 
----
 
 ### 💰 RENT CALCULATOR
 
@@ -86,7 +86,6 @@ On a $70,000 salary, your weekly take-home is roughly $1,085 after tax. Here's w
 
 The 1-bed at $460 leaves you $625/week for bills, groceries, transport, and everything else. Tight but doable if you're disciplined. The 2-bed at $610? That's $475/week for all other expenses. You'd want a partner splitting it or a salary north of $90K.
 
----
 
 ## The Comparison: What Do Neighbours Pay?
 
@@ -120,7 +119,6 @@ The trade-off is clear. Elwood gives you the beach and that laid-back coastal vi
 
 **The verdict:** The Elwood beach premium is roughly $130/week over Balaclava. That's $6,760 a year. Unless the beach is central to your identity, Balaclava wins on value.
 
----
 
 ### 🏘️ SUBURB COMPARISON AT A GLANCE
 
@@ -135,7 +133,6 @@ The trade-off is clear. Elwood gives you the beach and that laid-back coastal vi
 
 *\*St Kilda house median is lower due to high volume of small terrace houses and units classified as houses in some datasets. The figure is misleading — quality houses in St Kilda are $700+/week.*
 
----
 
 ## What Actually Drives Balaclava Rent Prices
 
@@ -158,7 +155,6 @@ Because every MELBZ rent article should answer the obvious question: **what do y
 
 These aren't aspirational figures. They're the maths of actually living here without drowning in rent stress.
 
----
 
 ### 📈 RENT TREND TRACKER: Balaclava Units (2021–2026)
 
@@ -173,7 +169,6 @@ Melbourne's inner south-east has seen dramatic rent increases since 2021. Here's
 
 The rate of increase has slowed significantly. After the post-COVID rental squeeze of 2022–2023, growth has been moderating — but moderating from extreme levels. A 3.8% annual increase is still $260 a year in extra rent. It's just not the 14% shock of 2022 anymore.
 
----
 
 ## What We Skipped and Why
 
@@ -183,7 +178,6 @@ We also skipped parking costs as a separate line item because most Balaclava uni
 
 Finally, we didn't include studio-to-one-bedroom comparisons in depth because there simply aren't enough studio listings to form reliable data. A handful appear each month and they vanish within days. If you're actively hunting for a studio in Balaclava, check Domain and realestate.com.au daily — this is a market where speed matters more than negotiation.
 
----
 
 ## The Bottom Line
 
@@ -195,13 +189,11 @@ The rental market here won't crash. Supply remains constrained by council planni
 
 Move in. Get a flat white at Aminor on Carlisle Street. Learn which 16 tram stop is closest to your place. Call it home.
 
----
 
 *Marcus Cole is MELBZ's Property Editor. He's tracked Melbourne's rental market for a decade and still can't believe what a two-bedroom in Balaclava costs. Got a rental story, tip, or complaint? [Share it with us](/submit).*
 
 *Data sources: CoreLogic, Your Investment Property Magazine, Homes Victoria Quarterly Rental Report (Q3 2025), Domain Group, REIV. Figures reflect asking rents as of early March 2026 and may differ from actual lease agreements.*
 
----
 
 ### 🗳️ RATE YOUR SUBURB
 
@@ -217,7 +209,6 @@ Rate the following out of 5:
 
 [Submit your Balaclava rating →](/rate)
 
----
 
 ### 📬 GET YOUR SUBURB BRIEFING
 

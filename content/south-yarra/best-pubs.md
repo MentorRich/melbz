@@ -5,12 +5,12 @@ date: 2026-03-16
 author: kai
 tags: ["south-yarra", "pubs", "nightlife"]
 categories: ["nightlife"]
-description: "Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
+description: "South Yarra's Best Pubs 2026: From Dive Bars to Gastropubs."
+---
 
  Best Pubs in South Yarra 2026: Heritage Hotels & Craft Beer
 
 South Yarra doesn't do boring..."
----
 Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
 
 # Best Pubs in South Yarra 2026: Heritage Hotels & Craft Beer
@@ -19,7 +19,6 @@ South Yarra doesn't do boring pubs. This pocket of Melbourne's inner south has b
 
 I walked Chapel Street end to end, ducked into Toorak, and crossed the Yarra fringe into Richmond and Prahran to find the spots that actually deliver. Here's where to drink in South Yarra this year.
 
----
 
 ## 1. Temperance Hotel
 
@@ -35,7 +34,6 @@ On the tap list you'll find the usual Carlton Draught and VB alongside rotating 
 
 **The vibe:** Your reliable Friday-night local, even if you don't live here.
 
----
 
 ## 2. Imperial Hotel South Yarra
 
@@ -51,7 +49,6 @@ Downstairs leans more traditional — public bar, cold beers, sport on the scree
 
 **The vibe:** Heritage bones with a nightlife heartbeat. Dress like you mean it after 9pm.
 
----
 
 ## 3. The Windsor Alehouse
 
@@ -67,7 +64,6 @@ The space is warm and woody, with exposed brick and a relaxed beer-hall setup. L
 
 **The vibe:** A beer nerd's paradise that doesn't alienate casual drinkers.
 
----
 
 ## 4. The Bridge Hotel
 
@@ -83,7 +79,6 @@ Upstairs is where things open up. The rooftop bar is one of the best in Richmond
 
 **The vibe:** An inner-city pub that feels like a neighbourhood local. Cross-link with Prahran and Richmond — they're all part of the same drinking ecosystem.
 
----
 
 ## 5. Toorak Hotel
 
@@ -99,7 +94,6 @@ The interior is polished timber and leather banquettes, with a covered outdoor a
 
 **The vibe:** raise the standardd pub dining without the stuffiness. Your parents would love it.
 
----
 
 ## 6. Prahran Hotel
 
@@ -115,7 +109,6 @@ The beer list leans toward local craft, and the kitchen does a parma that regula
 
 **The vibe:** Three bars, one great pub. The Art Deco public bar alone is worth the trip.
 
----
 
 ## What We Skipped and Why
 
@@ -129,7 +122,6 @@ Every "best pubs" list has gaps. Here's ours:
 
 - **Barunga Bar (599 Chapel St):** This venue has changed hands multiple times and the current iteration focuses more on events and private functions than walk-in pub trade. We'll revisit if a new operator brings it back to its mid-century glory.
 
----
 
 ## Quick Cross-Links: Your Inner South Pub Crawl
 
@@ -139,7 +131,6 @@ Every "best pubs" list has gaps. Here's ours:
 | **Richmond** | The Bridge Hotel, Rising Sun Hotel | [Best Pubs in Richmond](/south-yarra/../richmond/best-pubs) |
 | **Toorak** | Toorak Hotel, 505 Cellar | [Best Pubs in Toorak](/south-yarra/../toorak/best-pubs) |
 
----
 
 ## The Verdict
 
@@ -147,7 +138,6 @@ South Yarra's pub scene in 2026 is a living timeline. You've got heritage hotels
 
 The best thing about South Yarra pubs? They haven't tried to become something they're not. These are still places built for drinking, eating, and spending a long afternoon with your mates. Some of them just happen to do it with a bit more style than others.
 
----
 
 *MELBZ Pubs — your guide to Melbourne's best bars, beer gardens, and local watering holes. Updated monthly. Got a pub we should review? [Tell us about it](/contact).*
 

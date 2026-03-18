@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Preston — 2026 Local Guide"
 cover_image: "/images/preston/nightlife-guide.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the nightlife guide in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["nightlife"]
----
 ## The Nightlife Guide to Preston
 
 Preston's nightlife scene has evolved quietly over the past decade. What was once a suburb defined by a few traditional pubs and early closing times has become one of Melbourne's northern hubs for craft beer, cocktails, and neighbourhood bars that stay open late enough to make a night of it without needing to catch the last train.
@@ -125,7 +126,6 @@ In winter (June–August), the indoor bars with heating and cosy atmospheres shi
 
 The Shoulder seasons (March–May, September–November) are Preston's best for nightlife — you can move between indoor and outdoor spaces comfortably, and the crowds are less intense than the summer peak.
 
----
 
 **More Preston nightlife:**
 → [Best Bars in Preston — deeper bar coverage](/preston/best-bars/)
@@ -133,7 +133,6 @@ The Shoulder seasons (March–May, September–November) are Preston's best for 
 → [Thornbury nightlife — 10 min walk south for more bars](/thornbury/)
 → [Northcote nightlife — 20 min walk for cocktails](/northcote/)
 
----
 
 *This guide was researched and written by the MELBZ team. Opening hours and events can change — check venues' social media before heading out. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

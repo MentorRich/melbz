@@ -1,6 +1,8 @@
 ---
 title: "Date Night in South Yarra — 2026 Local Guide"
 cover_image: "/images/south-yarra/date-night.jpg"
+---
+
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "grace"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Your honest guide to date night in South Yarra — real venues, real prices, no tourist traps. From Chapel Street diners to hidden cocktail bars."
 tags: ["south-yarra"]
 categories: ["date"]
----
 ## Date Night in South Yarra — The Honest Version
 
 South Yarra is one of Melbourne's most date-friendly suburbs, and that's not a compliment — it's a warning. The density of restaurants, bars, and "experiences" crammed between Chapel Street and Toorak Road means you'll never run out of options. You'll also never run out of bad ones. The suburb attracts both genuine hospitality and pure hype in equal measure, and the price tag doesn't always tell you which is which.
 
 This guide cuts through the noise. We've walked Chapel Street on a Friday night, booked the tables, eaten the food, and drunk the cocktails so you don't have to learn the hard way. Whether it's date number one or your three-hundredth, here's where to go, what to spend, and what to avoid.
 
----
 
 ## The Dinner Picks
 
@@ -56,7 +56,6 @@ This is a good first-date restaurant because the food is shareable, the portions
 
 **Cost:** $60–$90 per person with drinks. Sharing plates range from $16–$38.
 
----
 
 ## The Drinks-Only Date
 
@@ -88,7 +87,6 @@ Talk To Me does exactly what the name suggests. It's a late-night bar where the 
 
 **Cost:** Cocktails $22–$26. Entry is free most nights, occasional cover charge for DJs.
 
----
 
 ## The Non-Dinner Ideas
 
@@ -108,7 +106,6 @@ The Jam Factory cinema is old-school in the best way. Reclining seats, proper le
 
 **Cost:** Standard tickets around $21–$25. Gold Class if you want to push the boat out (around $40–$45 including reserved seating and in-cinema service).
 
----
 
 ## Budget Date Night — Under $50 Per Person
 
@@ -120,7 +117,6 @@ Not every date needs to cost a week's pay. South Yarra has options for when you'
 
 **The $50 option:** Early-bird seating at a Chapel Street Italian. Cucinetta on Greville Street does pasta and a glass of wine for around $40–$50 if you go before 6:30pm. The early seating isn't uncool — it's smart.
 
----
 
 ## Getting Home Safe
 
@@ -130,7 +126,6 @@ If you've been drinking and the apps are pricing you out of a ride, walk to the 
 
 South Yarra Police Station is at 178 Commercial Road if you need assistance.
 
----
 
 ## What We Skipped and Why
 
@@ -144,7 +139,6 @@ South Yarra Police Station is at 178 Commercial Road if you need assistance.
 
 **Degustation-only restaurants.** Some places in South Yarra won't let you order à la carte. For a date, especially an early one, being locked into eight courses and three hours is a lot. We've kept our picks to places where you control the pace and the bill.
 
----
 
 ## Cross-Neighbourhood Moves
 
@@ -156,7 +150,6 @@ South Yarra is well-connected enough that you can extend your date into neighbou
 
 **South Yarra → [Melbourne CBD](/melbourne-cbd/):** Tram down Toorak Road or a ride-share across the river. The CBD's laneway bars make a good nightcap stop if you want to keep the evening going without staying in the Chapel Street orbit. Allow 20 minutes by tram.
 
----
 
 ## The Bottom Line
 
@@ -166,11 +159,9 @@ The picks above are the ones we'd actually send a friend to. They're not the fla
 
 For more suburb guides, check our coverage of [Prahran](/prahran/), [South Melbourne](/south-melbourne/), and the [Melbourne CBD](/melbourne-cbd/) for date night options across the inner city.
 
----
 
 Living in South Yarra? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=south-yarra)
 
----
 
 *This guide was researched and written by the MELBZ team. Venue details, prices, and hours are accurate as of March 2026. Always check with the venue before booking — things change in Melbourne faster than the weather.*
 

@@ -1,6 +1,8 @@
 ---
 title: "Best Cafes in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/best-cafes.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the best cafes in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["best"]
----
 ## The Best Cafes in Fitzroy
 
 Fitzroy is where Melbourne's cafe obsession started — and honestly, it still sets the standard. While other suburbs play catch-up with their third-wave pour-overs and deconstructed lattes, Fitzroy cafes just quietly get on with making genuinely brilliant coffee and food in spaces that feel like they belong to the neighbourhood, not to an algorithm.
 
 Whether you're after a world-class croissant, a flat white that actually changes your morning, or a full brunch spread that justifies the wait, Fitzroy delivers. Here's where to go.
 
----
 
 ## 1. Lune Croissanterie — 123 Brunswick Street, Fitzroy
 
@@ -28,7 +28,6 @@ Lune is the one everyone talks about, and for once, the hype is real. Founded by
 
 **Budget check:** Croissants $7–$10. Coffee $5–$6. Two people with pastries and coffee: $25–$35.
 
----
 
 ## 2. Stagger Lee's — 276 Brunswick Street, Fitzroy
 
@@ -40,7 +39,6 @@ Stagger Lee's is the cafe that proves Fitzroy's creative reputation isn't just m
 
 **Budget check:** Mains $16–$27. Coffee $5–$6. Two people: $50–$65.
 
----
 
 ## 3. Industry Beans — 62 Rose Street, Fitzroy
 
@@ -52,7 +50,6 @@ Industry Beans moved into their Rose Street warehouse and immediately made it on
 
 **Budget check:** Mains $19–$28. Coffee $5–$7. Two people: $55–$75.
 
----
 
 ## 4. Bentwood — 251 Brunswick Street, Fitzroy
 
@@ -64,7 +61,6 @@ Bentwood occupies a converted furniture warehouse on the northern stretch of Bru
 
 **Budget check:** Toast $12. Mains $17–$26. Two people: $45–$60.
 
----
 
 ## 5. Napier Quarter — 597 Napier Street, Fitzroy
 
@@ -76,7 +72,6 @@ Napier Quarter is Fitzroy's answer to the Parisian wine bar that serves breakfas
 
 **Budget check:** Breakfast $18–$24. Wine $14–$18/glass. Two people for coffee and breakfast: $45–$55.
 
----
 
 ## 6. Min Lokal — 188 Brunswick Street, Fitzroy
 
@@ -88,7 +83,6 @@ Min Lokal is one of those cafes that doesn't shout about itself. Tucked on a qui
 
 **Budget check:** Mains $16–$22. Coffee $4.50–$5.50. Two people: $40–$55.
 
----
 
 ## 7. Alimentari — 255 Brunswick Street, Fitzroy
 
@@ -100,7 +94,6 @@ Alimentari is part deli, part cafe, part Italian grandmother's pantry. Walking i
 
 **Budget check:** Sandwiches $13–$17. Coffee $4.50–$5. Two people: $35–$50.
 
----
 
 ## The Price Comparison
 
@@ -114,7 +107,6 @@ Alimentari is part deli, part cafe, part Italian grandmother's pantry. Walking i
 | Min Lokal | Nasi Goreng | $19 | $40–$55 |
 | Alimentari | Mortadella Sandwich | $15 | $35–$50 |
 
----
 
 ## What We Skipped and Why
 
@@ -124,7 +116,6 @@ Alimentari is part deli, part cafe, part Italian grandmother's pantry. Walking i
 
 **Places that are technically on the border:** A few cafes sit right on the Fitzroy–Collingwood boundary and we've kept them in their proper suburb guide.
 
----
 
 ## Cross-Suburb Cafe Guides
 
@@ -132,7 +123,6 @@ Alimentari is part deli, part cafe, part Italian grandmother's pantry. Walking i
 - [Best Cafes in Carlton](/carlton/best-cafes) — Lygon Street's Italian-influenced morning spots
 - [Best Cafes in Fitzroy North](/fitzroy-north/best-cafes) — Quieter neighbourhood gems
 
----
 
 <!-- WIDGET: Poll -->
 **投票 Coffee order: what's your go-to?**
@@ -143,7 +133,6 @@ Alimentari is part deli, part cafe, part Italian grandmother's pantry. Walking i
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-cafe-preference)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -152,7 +141,6 @@ Cafe culture is the backbone of Fitzroy's identity. The brunch and coffee scene 
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's your go-to Fitzroy cafe?**
@@ -161,7 +149,6 @@ Did we miss your favourite? Tell us where you get your morning coffee and what y
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -170,7 +157,6 @@ Did we miss your favourite? Tell us where you get your morning coffee and what y
 - [Best Coffee in Fitzroy](/fitzroy/best-coffee) — if you're here for the beans, not the food
 - [Cheap Eats in Fitzroy](/fitzroy/cheap-eats) — Fitzroy on a budget
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

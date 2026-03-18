@@ -5,12 +5,17 @@ date: 2026-03-16
 author: ethan
 tags: ["st-kilda", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in St Kilda 2026: After the Pier Closes
+description: "Late Night Food in St Kilda 2026: After the Pier Closes"
+---
 
-Updated 16 March 2026 | 6 places tested | Ethan Cross reporting
+**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
+
+
 
 The sun goes down over St Kilda Bea..."
----
+
+*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
+
 # Late Night Food in St Kilda 2026: After the Pier Closes
 
 *Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
@@ -160,7 +165,6 @@ The council's push to revitalise Fitzroy Street has brought new foot traffic and
 
 *We're curious — when the clock hits midnight and hunger strikes, where do you end up? Drop your vote and see what other Melburnians are choosing.*
 
----
 
 **Read next:** [Elwood's Best Late-Night Eats](/elwood/late-night-eats) · [Balaclava's Food Scene Under the Radar](/balaclava/food-guide) · [South Melbourne Dim Sims: The Definitive Guide](/south-melbourne/dim-sims)
 

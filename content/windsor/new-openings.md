@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/new-openings.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the new openings in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["new"]
----
 ## The New Openings in Windsor
 
 Windsor's Chapel Street is in a constant state of renewal — venues come and go, trends rise and fall, but the strip keeps its character because it's never just about the new. The best new openings in Windsor aren't the flashy flagship stores that South Yarra attracts; they're the solid, well-executed restaurants and bars that know what they're doing and do it well.
@@ -100,7 +101,6 @@ The cocktails are $18–$24 and change seasonally. The small plates ($14–$24) 
 
 **Insider tip:** The bar stools are the best seats in the house. Claim one early.
 
----
 
 ## What We Skipped and Why
 
@@ -110,7 +110,6 @@ The cocktails are $18–$24 and change seasonally. The small plates ($14–$24) 
 
 **Any chain or franchise** — Windsor doesn't really get them, and we wouldn't cover them if it did.
 
----
 
 ## Keeping Up with New Openings
 
@@ -122,14 +121,12 @@ Windsor's dining and bar scene changes faster than most Melbourne suburbs. To st
 
 New openings that don't make the cut often close within six months. We'd rather tell you about the places that last.
 
----
 
 **Cross-links:**
 - [New Openings in Prahran](/prahran/new-openings) — Chapel Street's polished end
 - [New Openings in South Yarra](/south-yarra/new-openings) — where flagship stores land
 - [New Openings in St Kilda](/st-kilda/new-openings) — beachside newcomers
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au. New openings added monthly.*
 

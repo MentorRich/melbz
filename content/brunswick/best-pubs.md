@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Brunswick — 2026 Local Guide"
 cover_image: "/images/brunswick/best-pubs.jpg"
+---
+
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "kai"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best pubs in Brunswick for 2026. The Retreat, Cornish Arms, The Bergy Seltzer, Brunswick Green, and the spots where the beer is cold and the parma is still under $20."
 tags: ["brunswick"]
 categories: ["general"]
----
 # Best Pubs in Brunswick — The 2026 Guide
 
 Brunswick's pub scene has survived everything Melbourne's thrown at it: lockout laws, COVID, gentrification, and the slow realisation that a pint now costs more than a coffee used to. Through it all, Sydney Road has kept its pub identity intact — a strip of drinking institutions where the beer garden is king, the parma is sacred, and live music still matters more than the cocktail menu.
@@ -18,7 +19,6 @@ This is not a list of bars pretending to be pubs. These are seven proper Brunswi
 
 **Last updated: 17 March 2026** | **Brunswick Vibe Score: 78/100 🟢**
 
----
 
 ## 1. The Retreat Hotel — The Undisputed King
 
@@ -32,7 +32,6 @@ The Retreat Hotel on Sydney Road has been a Brunswick institution for longer tha
 **Hours:** Daily, 11am–late
 **Insider tip:** Monday night is jazz. Wednesday is the popular parma deal. The back room fills fast for headline acts — check their program online and book if it's a band you know. The Retreat is a two-minute walk from Anstey station, making it the easiest pub to reach on the Upfield line.
 
----
 
 ## 2. The Cornish Arms — The Vegan Pub That Converted Everyone
 
@@ -46,7 +45,6 @@ The Cornish Arms is the pub that proved "vegan pub food" doesn't have to mean a 
 **Hours:** Daily, noon–late
 **Insider tip:** The rooftop fills fast on warm evenings — arrive by 5pm on Fridays for a seat. Wednesday night's $15 vegan parma deal is genuinely one of the best value meals in Brunswick. The Cornish Arms is also within walking distance of [Brunswick East](/brunswick-east), making it a great starting point before heading to Lygon Street for dinner.
 
----
 
 ## 3. The Bergy Seltzer — The Live Music Engine
 
@@ -60,7 +58,6 @@ The Bergy Seltzer on Sydney Road is not a quiet pint kind of pub. It's a pub whe
 **Hours:** Daily, 4pm–3am (kitchen until midnight)
 **Insider tip:** Monday comedy is free and starts around 8pm — arrive early for a seat. The Bergy is the last stop on most people's Friday nights, but the smart move is to make it the first stop: arrive at 7pm, get a table, order wings, and let the night build around you. If you're coming from [Fitzroy North](/fitzroy-north), it's a $12 Uber or a 25-minute walk down Nicholson Street.
 
----
 
 ## 4. Brunswick Green — The Cosy Back-Street Winner
 
@@ -74,7 +71,6 @@ Brunswick Green doesn't have the reputation of The Retreat or the rooftop of the
 **Hours:** Daily, 11am–late
 **Insider tip:** Brunswick Green is the best "first pub" of the night — low-key enough for a weeknight drink, good enough to keep you there. The fire in winter makes it one of the cosiest spots in the inner north. After a few here, the walk to The Bergy or The Retreat is five minutes.
 
----
 
 ## 5. Union Hotel Brunswick — The Newcomer That Earned Its Place
 
@@ -88,7 +84,6 @@ The Union Hotel has had a few incarnations over the years, but the current versi
 **Hours:** Daily, 11am–late
 **Insider tip:** The Union is slightly further north on Sydney Road than most pub guides cover, which means it's less tourist-heavy and more local. If you're heading to [Coburg](/coburg) for dinner afterwards, it's a natural halfway point between the two suburbs' pub scenes.
 
----
 
 ## 6. The Brunswick Hotel — The Strip's Workhorse
 
@@ -102,7 +97,6 @@ The Brunswick Hotel is the reliable option on a strip full of characters. It doe
 **Hours:** Daily, 11am–late
 **Insider tip:** The Brunswick Hotel is the best "I just need a quiet pint" pub on the strip. If you're waiting for someone arriving on the train, this is two minutes from Brunswick station — no excuses for being late.
 
----
 
 ## 7. Waxflower — The Hidden Bar-Pub Hybrid
 
@@ -116,7 +110,6 @@ Waxflower isn't technically a pub in the traditional sense — it doesn't have a
 **Hours:** Wed–Mon, 4pm–late
 **Insider tip:** Waxflower is the best "second venue" of the night — the kind of place you end up after The Bergy or The Retreat when you're not ready to go home but don't want another loud pub. It's also a natural starting point for a Saturday afternoon session before hitting the Sydney Road strip.
 
----
 
 ## The Pub Crawl That Actually Works
 
@@ -130,7 +123,6 @@ For the ambitious: here's a one-night Brunswick pub crawl that won't bankrupt yo
 
 **Total spend per person: roughly $80–100.** Brunswick does affordable nights out better than anywhere else in the inner north.
 
----
 
 ## The Bottom Line
 
@@ -138,7 +130,6 @@ Brunswick's pub scene in 2026 is as strong as it's ever been. The old guard (The
 
 The Sydney Road pub strip between Brunswick Road and Glenlyon Road remains the sweet spot — seven quality pubs within a ten-minute walk. That's a density of good drinking that most Melbourne suburbs can't match.
 
----
 
 **Your Brunswick Vibe Score this week: 78/100** — More pubs per kilometre than the UK and twice the parma quality.
 
@@ -146,7 +137,6 @@ The Sydney Road pub strip between Brunswick Road and Glenlyon Road remains the s
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 *Also see: [Best Bars in Brunswick](/brunswick/best-bars) · [Nightlife Guide](/brunswick/nightlife-guide) · [Coburg Pub Guide](/coburg/best-pubs) · [Fitzroy North Pubs](/fitzroy-north/best-pubs) · [Brunswick East Dining](/brunswick-east/best-restaurants)*
 

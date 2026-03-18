@@ -5,10 +5,10 @@ date: 2026-03-16
 author: adam
 tags: ["kensington", "food-crawl", "food"]
 categories: ["food"]
-description: "Kensington Food Crawl 2026: The Best Day Out
+description: "Kensington Food Crawl 2026: The Best Day Out"
+---
 
 Kensington doesn't scream about its food scene. It doesn't need to. Tucked between Flemington's racecourse gran..."
----
 # Kensington Food Crawl 2026: The Best Day Out
 
 Kensington doesn't scream about its food scene. It doesn't need to. Tucked between Flemington's racecourse grandeur and Footscray's Vietnamese backbone, this pocket of inner-west Melbourne has been quietly stacking venues that would headline in flashier suburbs. The difference here is the neighbours actually eat at them — not influencers shooting content for 45 minutes before leaving.
@@ -17,7 +17,6 @@ A proper Kensington food crawl takes you from Bellair Street's cafe strip throug
 
 **Updated 16 March 2026 | Adam Nowak reporting**
 
----
 
 ## 🥞 Stop 1 — Breakfast at The Premises (7:30am)
 
@@ -34,7 +33,6 @@ The space is all exposed brick, dark green subway tiles, and warm wood — minim
 **Hours:** Mon–Fri 7am–4:30pm, Sat–Sun 8am–4pm
 **Accessibility:** Step-free entry from the street, standard-width doorways.
 
----
 
 ## 🥑 Stop 2 — Brunch at Luncheonette (10:00am)
 
@@ -50,7 +48,6 @@ The menu is deliberately short. Reuben sandwiches, tuna melts, classic avo toast
 
 **Accessibility:** Small venue with limited space. No step-free entry — there's a small step at the door.
 
----
 
 ## 🌮 Stop 3 — Lunch at La Tortilleria (12:30pm)
 
@@ -69,7 +66,6 @@ The eatery side serves tacos, tostadas, and salsas that taste like they were tra
 **Hours:** Lunch and dinner Wed–Sun (check their Instagram @latortilleriaau for current hours)
 **Accessibility:** Flat warehouse floor, step-free entry, wide aisles. Accessible bathroom available.
 
----
 
 ## 🍰 Stop 4 — Afternoon Snack at Karelay Patisserie + Rumble Coffee (3:00pm)
 
@@ -85,7 +81,6 @@ Then walk five minutes to **Rumble Coffee Roasters** on Macaulay Road. This is w
 
 **Insider tip:** Rumble's retail shelf sells their seasonal single origins at bean-level prices. If you find one you love, grab a bag ($18–$24) — it's cheaper than buying it roasted elsewhere and you'll be supporting a genuine Kensington operation.
 
----
 
 ## 🍷 Stop 5 — Pre-Dinner Drinks at Arnold's (5:30pm)
 
@@ -99,7 +94,6 @@ Eddington spent 20 years in kitchens including Sydney's Automata and North Melbo
 
 **Insider tip:** Sit outside if the weather holds. Bellair Street opposite the station gets beautiful late-afternoon light and you can watch Kensington do its evening shuffle — kids home from school, dogs getting their second walk, the dinner crowd starting to materialise.
 
----
 
 ## 🍝 Stop 6 — Dinner at Rick's Place or Clay Oven (7:30pm)
 
@@ -127,13 +121,11 @@ Clay Oven does traditional Italian pizza with a Mod Oz twist, and they do it exc
 
 **Insider tip:** If you're coming in a group, get a few pizzas between you and add a salad or two. Their garlic bread is dangerously good and will derail your dinner plans if you let it.
 
----
 
 ## 🚆 Getting Home
 
 Kensington Station is on the Craigieburn line — trains run roughly every 10–20 minutes into the city. From there you can connect to anywhere in Melbourne. The 57 tram runs along Epsom Road through Flemington if you're heading toward Ascot Vale or the city. For late-night options, an Uber from the city back to Kensington runs about $15–$20 on a normal night.
 
----
 
 ## What We Skipped and Why
 
@@ -145,7 +137,6 @@ Kensington Station is on the Craigieburn line — trains run roughly every 10–
 
 **Wolf and Hound:** Proper little cafe with excellent Rumble Coffee, but with The Premises and Luncheonette covering breakfast and brunch, adding a third cafe would be gluttony without purpose. Wolf and Hound is your Tuesday-morning-when-everyone-else-is-at-work spot.
 
----
 
 ## The Bottom Line
 
@@ -153,7 +144,6 @@ Kensington's food scene works because the people who run these venues live here.
 
 If you only do three stops, make it The Premises for breakfast, La Tortilleria for lunch, and Arnold's for drinks. That trio alone tells you everything about why Kensington is Melbourne's most underrated food suburb.
 
----
 
 ## Nearby Crawls Worth Your Time
 
@@ -161,7 +151,6 @@ If you only do three stops, make it The Premises for breakfast, La Tortilleria f
 → [Footscray Vietnamese Crawl: The Complete Guide](/kensington-food-crawl) *(coming soon)*
 → [North Melbourne's Best Brunch Spots 2026](/kensington-food-crawl) *(coming soon)*
 
----
 
 *Know a Kensington venue we missed? Drop us a tip.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

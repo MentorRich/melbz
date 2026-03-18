@@ -5,10 +5,10 @@ date: 2026-03-16
 author: marcus
 tags: ["st-kilda-east", "cost-of-living", "property"]
 categories: ["property"]
-description: "Cost of Living in St Kilda East 2026: The Real Numbers
+description: "Cost of Living in St Kilda East 2026: The Real Numbers"
+---
 
 St Kilda East sits in that sweet spot between the chaos of St Kilda(/suburbs/st-kilda) and the calm o..."
----
 # Cost of Living in St Kilda East 2026: The Real Numbers
 
 St Kilda East sits in that sweet spot between the chaos of [St Kilda](/suburbs/st-kilda) and the calm of [Caulfield](/suburbs/caulfield). It's quieter than its famous neighbour, cheaper than people expect, and has a density of Eastern European bakeries that would make Budapest jealous. But does it actually stack up as a place to live in 2026? We did the maths so you don't have to.
@@ -229,7 +229,6 @@ If you're moving here, visit the neighbourhood at 8am (commute reality), 6pm (pa
 
 **Marcus Cole is the Property Editor at MELBZ. He has lived in and written about Melbourne's inner-south suburbs for over a decade. Got a cost-of-living question about your suburb? [Drop us a line](/submit).**
 
----
 
 *This article was researched using rental listing data from Domain and Realestate.com.au (March 2026), grocery prices verified at Woolworths, Coles, and Aldi in St Kilda East, transport fares from PTV, and dining prices from venue menus checked in person. All figures in AUD.*
 

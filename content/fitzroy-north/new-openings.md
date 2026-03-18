@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/new-openings.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the new openings in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["new"]
----
 ## New Openings in Fitzroy North 2026
 
 This is your verified guide to the newest cafes, bars, and restaurants in Fitzroy North for 2026.
@@ -18,7 +19,6 @@ Fitzroy North isn't exactly gentrification-proof — that ship sailed when the f
 
 Here's what's opened in the last 12-18 months and actually deserves your attention. Not every new spot deserves a mention — we've skipped the ones that are just doing the same thing with better tile work.
 
----
 
 ## Venues That Actually Matter
 
@@ -31,7 +31,6 @@ Here's what's opened in the last 12-18 months and actually deserves your attenti
 **Reservations:** Recommended on weekends.
 **Our take:** This is the rare satellite location that feels like its own thing rather than a clone. Worth a visit if you like wine bars that take wine seriously without taking themselves seriously.
 
----
 
 ### 2. Pearl Diver (Late 2025)
 
@@ -43,7 +42,6 @@ Here's what's opened in the last 12-18 months and actually deserves your attenti
 **Reservations:** Essential for dinner, especially weekends.
 **Our take:** One of the best new restaurants in the inner north in 2025/26. It's bringing something genuinely new to Brunswick Street — seafood with a conscience and a cocktail to match.
 
----
 
 ### 3. Above Board (North) — Planned Mid 2026
 
@@ -54,7 +52,6 @@ Here's what's opened in the last 12-18 months and actually deserves your attenti
 **Price point:** Likely $$-$$$.
 **Our take:** Keep an eye on this one. Above Board's formula works, and Fitzroy North needs more cocktail venues that focus on the drinks rather than the decor.
 
----
 
 ### 4. Cinder (2025 expansion)
 
@@ -66,7 +63,6 @@ Here's what's opened in the last 12-18 months and actually deserves your attenti
 **Reservations:** Recommended for dinner Friday-Sunday.
 **Our take:** One of the best pub-quality-with-restaurant-ambition venues in the area. The expansion has made it more accessible, and the quality has stayed high.
 
----
 
 ### 5. Frankie's (Late 2025)
 
@@ -78,7 +74,6 @@ Here's what's opened in the last 12-18 months and actually deserves your attenti
 **Reservations:** Not taken — first in, best dressed.
 **Our take:** Perfect for a casual date or pre/dinner drink. The no-reservation policy means it's never too crowded, which is exactly the vibe they're going for.
 
----
 
 ### 6. Small Batch Coffee Roasters Expansion (2026)
 
@@ -89,7 +84,6 @@ Here's what's opened in the last 12-18 months and actually deserves your attenti
 **What to expect:** Full espresso bar, filter coffee stations, retail of all their beans, and possibly a small kitchen doing pastries and toasts.
 **Our take:** This could be the most important coffee opening in Fitzroy North in years. Mark it in your diary.
 
----
 
 ## What's Missing (And Might Be Next)
 
@@ -103,7 +97,6 @@ Fitzroy North still has gaps in its hospitality scene:
 
 Keep an eye on the Brunswick Street strip north of Johnston — that's where the latest action is happening. Queens Parade is getting more food, but it's slower. St Georges Road is emerging as a secondary dining strip with more Greek and Sri Lankan places opening.
 
----
 
 ## How to Stay On Top of New Openings
 
@@ -112,7 +105,6 @@ Keep an eye on the Brunswick Street strip north of Johnston — that's where the
 - Walk Brunswick Street regularly — new places announce with awnings and fit-outs you can't miss
 - Word of mouth still rules — if a new place is good, your friends will have heard about it within weeks
 
----
 
 ## Our Criteria for Inclusion
 
@@ -125,7 +117,6 @@ We only include venues that:
 
 If a new place doesn't meet these criteria, we won't waste your time telling you about it.
 
----
 
 ## Cross-Links
 

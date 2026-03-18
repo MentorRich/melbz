@@ -1,6 +1,8 @@
 ---
 title: "Best Bars in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/best-bars.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "jess"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne's bar scene packs more personality per square metre than most Melbourne suburbs twice its size. Here's where to drink in 3121."
 tags: ["cremorne"]
 categories: ["best"]
----
 # Best Bars in Cremorne — Where 3121 Drinks After Hours
 
 Cremorne is barely fifteen minutes end to end, but it punches absurdly above its weight when the sun goes down. This is the industrial pocket wedged between Richmond and South Yarra where warehouse conversions meet Church Street corners, and the bar scene has quietly become one of Melbourne's most interesting — largely because the tech-money crowd who work here demand good drinks without the CBD pretension.
@@ -18,7 +19,6 @@ You won't find sticky-floored sports bars (well, not many). What you will find i
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## 1. Lilac Wine Bar
 **The vibe:** Dinner party at a friend's warehouse — if your friend had impeccable taste in natural wine and a wood-fired oven.
@@ -32,7 +32,6 @@ The food is French-bistro-meets-whatever-feels-right: think housemade charcuteri
 **Hours:** Tue–Thu 4pm–late, Fri–Sat noon–late, Sun–Mon closed
 **Insider tip:** Arrive before 6pm on Friday for aperitivo hour — it fills up fast, and once the disco ball starts spinning, you're not leaving.
 
----
 
 ## 2. Amatrice
 **The vibe:** Rooftop Italian with views that make you forget you're above a tech office building.
@@ -46,7 +45,6 @@ The menu goes well beyond standard rooftop fare. Pastas are made in-house, the t
 **Hours:** Wed–Fri 4pm–late, Sat–Sun noon–late
 **Insider tip:** Book the window seats facing west for sunset. If you can't get a table, the bar area has the same views and no booking required.
 
----
 
 ## 3. Good Heavens Rooftop Bar
 **The vibe:** The rooftop bar that takes itself just seriously enough — good drinks, good music, and the CBD skyline doing the heavy lifting on atmosphere.
@@ -58,7 +56,6 @@ Good Heavens sits atop the Somerset building on Bourke Street but pulls the Crem
 **Hours:** Mon–Thu 4pm–11pm, Fri–Sat noon–1am, Sun noon–10pm
 **Insider tip:** If you're coming from Cremorne, walk down Balmain Street along the Yarra — it's prettier than cutting through Richmond and takes about eight minutes.
 
----
 
 ## 4. Bierkeller
 **The vibe:** Proper German beer hall energy in a suburb that usually takes itself a bit more seriously. Exactly the tension Cremorne needs.
@@ -72,7 +69,6 @@ For a suburb dominated by tech offices and specialty coffee, Bierkeller is the l
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun noon–10pm
 **Insider tip:** Tuesday is stein night — $12 steins all evening. It gets packed with after-work tradies and tech bros in an unlikely but harmonious alliance.
 
----
 
 ## 5. The Grand Hotel
 **The vibe:** Old-school Melbourne pub that refuses to gentrify, right on the Swan Street edge of Cremorne.
@@ -86,7 +82,6 @@ It's deliberately unpolished, and that's exactly why it matters. In a suburb of 
 **Hours:** Mon–Sun 11am–11pm
 **Insider tip:** The beer garden out back catches the afternoon sun perfectly. Duck in from Swan Street when the footy's on — it's the closest thing to a proper Richmond footy pub on the Cremorne side.
 
----
 
 ## 6. State of Grace
 **The vibe:** Cocktail bar with a split personality — the ground floor is a light-filled café by day, the basement is a moody cocktail den by night.
@@ -100,7 +95,6 @@ Upstairs is a different beast entirely — bright, airy, great for a weekday lun
 **Hours:** Mon–Fri 7am–late, Sat–Sun 8am–late
 **Insider tip:** The basement has no visible signage from the street. Look for the door marked "GRACE" and head downstairs. If you can't find it, you're not alone — regulars use it as a filter.
 
----
 
 ## 7. Naked for Satan
 **The vibe:** Basque-inspired pintxos bar with a name that guarantees your mum will ask questions when you mention it.
@@ -114,7 +108,6 @@ The pintxos are Basque Country inspired, the house-infused vodkas have been a Me
 **Hours:** Mon–Thu 4pm–11pm, Fri–Sat noon–1am, Sun noon–11pm
 **Insider tip:** Skip the ground floor and head straight to the rooftop. Even in winter, the heaters are aggressive enough that you'll be fine.
 
----
 
 ## The Bottom Line
 
@@ -124,7 +117,6 @@ Honestly? This suburb is quietly becoming one of Melbourne's best after-dark des
 
 **Your Cremorne Vibe Score this week: 79/100** — The corporate crowd leaves by 7pm and the real Cremorne wakes up.
 
----
 
 *Know a spot we missed? Let us know.*
 

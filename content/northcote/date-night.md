@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/date-night.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the date night in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["date"]
----
 ## The Best Date Night in Northcote
 
 Here's the thing about dating in Northcote: it doesn't try too hard. And that's exactly why it works. While other suburbs are busy constructing elaborate "experience dining" concepts with dry ice and edible napkins, Northcote just quietly offers some of the most genuinely romantic — and honestly fun — date night options in Melbourne. No gimmicks required.
@@ -18,7 +19,6 @@ Whether you're on a first date trying to gauge if this person is worth a second,
 
 **Last updated: 16 March 2026** | **Northcote Vibe Score: 81/100 🟢**
 
----
 
 ## 1. The First Date: Keep It Low-Key at Oh Loretta!
 **Budget:** $40–$70 for two (wine + share plates)
@@ -32,7 +32,6 @@ The courtyard out back — strung with fairy lights and feeling more like someon
 **Address:** 282 High Street, Northcote
 **Tip:** Book ahead for a courtyard table on Friday or Saturday. Walk-ins at the bar are fine midweek.
 
----
 
 ## 2. The "I'm Trying to Impress" Date: The Estelle
 **Budget:** $80–$120 for two (à la carte) or $95pp for the set menu
@@ -45,7 +44,6 @@ The dining room is sharp without being stuffy. The set menu is the smart play �
 **Book:** theestelle.com.au
 **Tip:** The set menu at $95pp includes five courses and is the best value fine-ish dining in the inner north. Book at least a week ahead for weekends.
 
----
 
 ## 3. The "We've Been Together Forever" Date: Mesob Ethiopian + Northcote Social Club
 **Budget:** $50–$80 for two
@@ -57,7 +55,6 @@ Then walk five minutes down High Street to Northcote Social Club. Grab a table o
 **Address:** Mesob — 303 High Street / NSC — 301 High Street
 **Tip:** Mesob does live jazz on weekends. Time your dinner for a Friday and you'll get dinner + live music + pub drinks for under $100 total. That's two hours of date night for the price of one mediocre Melbourne degustation.
 
----
 
 ## 4. The "Movie and Dinner" Combo: Palace Westgarth + Ruckers Hill
 **Budget:** $60–$90 for two
@@ -70,7 +67,6 @@ Walk three minutes downhill to Ruckers Hill for dinner. An ex-Bistro Thierry che
 
 **Tip:** Book the Palace courtyard bar for a pre-movie spritz. It only seats about 15, so arrive early. The courtyard has heaters for the inevitable Melbourne "it was sunny at 4pm and freezing by 6pm" weather.
 
----
 
 ## 5. The "We're Foodies" Date: Va Penne + High Note Bar
 **Budget:** $70–$100 for two
@@ -84,7 +80,6 @@ Then walk eight minutes to High Note — the wine bar inside a heritage-listed t
 **Address:** Va Penne — 371 High Street / High Note — 238 High Street
 **Tip:** High Note can be hard to find if you've never been — look for the heritage theatre entrance and follow the stairs down. It's deliberately hidden, which makes it feel like your secret.
 
----
 
 ## 6. The "Adventure" Date: Welcome to Thornbury + Merah
 **Budget:** $50–$80 for two
@@ -96,7 +91,6 @@ Then, if you're still hungry (the food trucks are good but portion control is ch
 **Address:** Welcome to Thornbury — 520 High Street, Thornbury / Merah — 364 High Street, Northcote
 **Tip:** Bring a board game to Welcome to Thornbury. There's an arcade, but a $2-opinionated game of Scrabble in the beer garden is a better date move. Don't @ us.
 
----
 
 ## 7. The "Impress Their Parents" Date: The Estelle or Zsa's
 **Budget:** $100–$160 for two
@@ -110,7 +104,6 @@ Sometimes a date involves meeting someone important — a parent, a best friend,
 **Address:** Zsa's — check Broadsheet for current Northcote location
 **Tip:** Zsa's deli counter doubles as a great "we're just popping in for a quick bite" if the actual date is going well and you want to extend it with something casual.
 
----
 
 ## 8. The "We Just Want Dessert" Date: 300 Grams + Samuel Pepys
 **Budget:** $25–$40 for two
@@ -123,7 +116,6 @@ Not every date needs a three-course production. Some dates are just: "Let's get 
 
 **Tip:** Samuel Pepys is right opposite the Westgarth Cinema — if there's a film on, you've got a full evening sorted for under $100.
 
----
 
 ## Getting Home Safe
 
@@ -133,7 +125,6 @@ Not every date needs a three-course production. Some dates are just: "Let's get 
 - **If you're walking** — High Street itself is busy and well-lit on Friday/Saturday. Side streets are quieter. Well Street and Bruce Street are the safest cross-streets between venues.
 - **Nearest police station:** Northcote Police Station, 251 St Georges Road
 
----
 
 ## The Bottom Line
 
@@ -141,7 +132,6 @@ Northcote does date night the way it does everything else: without trying too ha
 
 **Your Northcote Vibe Score this week: 81/100** — Date night energy is high. The autumn weather means candlelit indoor spots are back in rotation, and High Street's bar scene is in full swing.
 
----
 
 ## More From the Neighbourhood
 
@@ -152,7 +142,6 @@ Northcote does date night the way it does everything else: without trying too ha
 - → [Romantic Spots in Fitzroy North](/fitzroy-north/date-night)
 - → [Brunswick's Best Date Night Spots](/brunswick/date-night)
 
----
 
 *Tried one of these and it went well? Or spectacularly badly? We want to hear about it.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

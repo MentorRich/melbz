@@ -5,12 +5,17 @@ date: 2026-03-16
 author: adam
 tags: ["melbourne-cbd", "burgers", "food"]
 categories: ["food"]
-description: "Best Burgers in Melbourne CBD 2026: The Definitive Rankings
+description: "Best Burgers in Melbourne CBD 2026: The Definitive Rankings"
+---
 
-Updated 16 March 2026 | 8 places tested | Adam Nowak reporting
+**Updated 16 March 2026 | 8 places tested | Adam Nowak reporting**
+
+
 
 Look, Melbourne's CBD has no sho..."
----
+
+*Updated 16 March 2026 | 8 places tested | Adam Nowak reporting*
+
 # Best Burgers in Melbourne CBD 2026: The Definitive Rankings
 
 **Updated 16 March 2026 | 8 places tested | Adam Nowak reporting**
@@ -21,7 +26,6 @@ We walked in, ordered the house signature at each venue, then came back for the 
 
 Here's where your lunch money should go.
 
----
 
 ## 1. 8BIT — The Gold Standard
 
@@ -35,7 +39,6 @@ The patties hit that sweet spot of crispy edges and juicy centre, the bun is sof
 
 **The verdict:** Consistent, properly constructed, and priced well below what you'd pay for an equivalent burger at a sit-down restaurant. If you eat one burger in the CBD this year, eat this one.
 
----
 
 ## 2. Royal Stacks — The Power Move
 
@@ -51,7 +54,6 @@ They're also one of the few CBD spots that genuinely cater to late-night diners,
 
 > **🔥 THE MOVE:** Skip the single patties and go straight for the double. Always. The price difference is usually $3–4 and the experience difference is night and day. If the menu offers an "upgrade to a double" option, take it every single time. This is non-negotiable burger law.
 
----
 
 ## 3. Burgertory — The Contender
 
@@ -65,7 +67,6 @@ Their chicken burgers deserve special mention. Where most places treat fried chi
 
 The breakfast burger menu, featuring bacon and egg with their signature sauces, has become a genuine reason to roll into the CBD before 10am.
 
----
 
 ## 4. Betty's Burgers & Concrete Co — The Experience
 
@@ -81,7 +82,6 @@ Betty's also does a solid mushroom burger that doesn't feel like an apology to v
 
 **Perfect for:** Date night burgers where you want the atmosphere to carry half the conversation.
 
----
 
 ## 5. Five Guys — The Tourist Trap That Actually Delivers
 
@@ -97,7 +97,6 @@ At $20+ for a burger, chips, and a drink, it's the most expensive option on this
 
 **The honest take:** You're paying a premium, but you're getting transparency and consistency that most independent spots can't match.
 
----
 
 ## 6. Time Out Fed Square — The Underdog
 
@@ -111,7 +110,6 @@ The buns are toasted properly (a detail that sounds minor until you encounter th
 
 Open until 9:30pm on weekends, it's a solid late-afternoon option when you want a burger that doesn't feel like fast food but doesn't require a reservation either.
 
----
 
 ## 7. Grill'd — The Reliable Workhorse
 
@@ -134,7 +132,6 @@ They also do a solid kids' menu and have high chairs, making them one of the few
 > 🍔 **Betty's** is the whole package
 > 🤷 They're all fine, none are great
 
----
 
 ## Honourable Mentions: Worth a Walk
 
@@ -144,7 +141,6 @@ Before we get to the ranking breakdown, a few spots that sit just outside the to
 - **Tuck Shop** (various pop-ups) — When they're on, they're on. Check their [Melbourne CBD events calendar](/melbourne-cbd/) for current availability.
 - **Mr Burger** (food truck + delivery) — Not a fixed CBD location, but their delivery radius covers the CBD and their Classic is still one of Melbourne's best mobile burgers.
 
----
 
 ## What We Skipped and Why
 
@@ -156,7 +152,6 @@ No list like this is complete without explaining the gaps. Here's what we left o
 
 **Any chain that uses the word "gourmet" unironically in their tagline:** We skipped venues that market themselves primarily on adjectives rather than food. If your Instagram has more filters than your kitchen has ingredients, you didn't make the cut.
 
----
 
 ## The Definitive Rankings: Summary
 
@@ -170,7 +165,6 @@ No list like this is complete without explaining the gaps. Here's what we left o
 | 6 | **Time Out Fed Square** | The Beefed | $19 | Pub-style |
 | 7 | **Grill'd** | The Mighty Melbourne | $18 | Better burgers |
 
----
 
 ## The Bottom Line
 
@@ -178,11 +172,9 @@ Melbourne's CBD burger scene in 2026 is genuinely competitive, and the gap betwe
 
 The real winner? You. Because within a 1km radius of Flinders Street Station, you can eat a burger that would embarrass most international cities without breaking a $25 ceiling.
 
----
 
 > **🥊 FIGHT US:** Think we got the ranking wrong? Think Huxtaburger's ghost still deserves a spot? Think Five Guys is overpriced and under-delivered? Drop your hot takes in the comments below. We read every single one — including the angry ones. Especially the angry ones.
 
----
 
 > **👍 How did this article make you feel?**
 > 😋 Hungry — now I'm heading out
@@ -191,13 +183,11 @@ The real winner? You. Because within a 1km radius of Flinders Street Station, yo
 > 🫡 Served — this is useful info
 > 😴 Meh — I already knew this
 
----
 
 *Before you head out, check our guide to [Melbourne CBD's best cheap eats](/melbourne-cbd/) for the spots that won't destroy your wallet. Planning a broader food crawl? Our [Melbourne food scene overview](/melbourne-cbd/) covers everything from dumplings to dessert bars across the city.*
 
 *Have a burger spot we missed? A grievance with our rankings? The comments are open and we don't delete criticism. [Fight us.](#)*
 
----
 
 **About the author:** *Adam Nowak is the Burgers Editor at MELBZ, covering Melbourne's burger scene since 2019. He has eaten approximately 340 CBD burgers for "research" and regrets nothing except the time he ordered a salad at a burger restaurant. Follow MELBZ on [Instagram](https://instagram.com/maborosu) for daily food content across Melbourne.*
 

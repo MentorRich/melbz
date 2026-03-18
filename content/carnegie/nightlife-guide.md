@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Carnegie — 2026 Local Guide"
 cover_image: "/images/carnegie/nightlife-guide.jpg"
+---
+
 suburb: "carnegie"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Discover the nightlife in Carnegie. Our verified 2026 guide covers the best spots for locals."
 tags: ["carnegie"]
 categories: ["nightlife"]
----
 ## Nightlife Guide in Carnegie
 
 Carnegie is multicultural Melbourne distilled into one convenient suburb. You want Greek, Lebanese, Chinese, Japanese, Italian, Indian? Carnegie's got it, often on the same block. The nightlife reflects this diversity — it's not about trendy bars and cocktails, it's about community pubs, late-night eateries, and venues that have been serving the same local crowds for years.
@@ -18,7 +19,6 @@ This isn't a suburb that tries to be something it's not. Carnegie is unapologeti
 
 Here's how to do it.
 
----
 
 ## THE PUBS
 
@@ -56,7 +56,6 @@ The Dandenong Hotel is another traditional corner pub that's been serving the Ca
 
 **The vibe:** Traditional, community-focused, unpretentious. It's where you go when you want a predictable good time.
 
----
 
 ## THE BARS AND WINE BARS
 
@@ -104,7 +103,6 @@ Tom Pockett Cellars is a bottle shop with a difference — they've carved out a 
 
 **The vibe:** Unpretentious, discovery-focused, local. Perfect for a low-key drink without any pressure.
 
----
 
 ## THE LATE-NIGHT FOOD SCENE
 
@@ -130,7 +128,6 @@ The Asian restaurants in Carnegie stay open later than most Melbourne suburban o
 
 **What to order:** Dim sum, noodle dishes, or BBQ meats. The quality varies, but the established spots are reliably good.
 
----
 
 ## THE PLAN — HOW TO DO A CARNEGIE NIGHT
 
@@ -151,7 +148,6 @@ The Asian restaurants in Carnegie stay open later than most Melbourne suburban o
 **9pm:** Dinner at one of the local Thai or Chinese restaurants.
 **11pm:** Home. It's Carnegie — you have work tomorrow.
 
----
 
 ## SAFETY AT NIGHT
 
@@ -162,7 +158,6 @@ The Asian restaurants in Carnegie stay open later than most Melbourne suburban o
 - Public transport: Carnegie station is on the Cranbourne/Pakenham line, about 25 minutes to the city. Trains run until midnight.
 - If you need help: call 000, or approach any venue staff. The local police station is nearby.
 
----
 
 ## What We Skipped and Why
 
@@ -172,7 +167,6 @@ The Asian restaurants in Carnegie stay open later than most Melbourne suburban o
 
 **The Caulfield Racecourse area:** It's technically adjacent but feels separate from Carnegie's core. We've focused on the Koornang Road and Dandenong Road strips where the actual nightlife happens.
 
----
 
 ## Cross-Suburb Nightlife
 
@@ -180,7 +174,6 @@ The Asian restaurants in Carnegie stay open later than most Melbourne suburban o
 - [Nightlife in Oakleigh](/oakleigh/nightlife-guide) — the Greek food connection continues
 - [Nightlife in Malvern](/malvern/nightlife-guide) — the next suburb south with more options
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Your ideal Carnegie Friday night?**
@@ -191,7 +184,6 @@ The Asian restaurants in Carnegie stay open later than most Melbourne suburban o
 
 [Vote in our weekly suburb poll →](/poll/carnegie-nightlife-style)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Carnegie Vibe Score This Week: 74/100**
@@ -200,7 +192,6 @@ Carnegie scores high on diversity and late-night options. The multicultural food
 
 [See the full Vibe Score breakdown →](/carnegie/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's your Carnegie night out?**
@@ -209,7 +200,6 @@ The pub, the taverna, the late-night feed. Share the route you take when you're 
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Carnegie**
@@ -218,7 +208,6 @@ The pub, the taverna, the late-night feed. Share the route you take when you're 
 - [Best Restaurants in Carnegie](/carnegie/best-restaurants) — multicultural dining options
 - [Food Guide to Carnegie](/carnegie/food) — the full food scene breakdown
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every drink, and received no sponsorship or compensation. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

@@ -5,12 +5,17 @@ date: 2026-03-16
 author: eli
 tags: ["brunswick-east", "cafes", "food"]
 categories: ["food"]
-description: "Best Cafes in Brunswick East 2026: Lygon Street & Beyond
+description: "Best Cafes in Brunswick East 2026: Lygon Street & Beyond"
+---
 
-Updated 16 March 2026 | 6 places tested | Eli Chen reporting
+**Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
+
+
 
 Brunswick East doesn't try to be anyt..."
----
+
+*Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
+
 # Best Cafes in Brunswick East 2026: Lygon Street & Beyond
 
 **Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
@@ -19,7 +24,6 @@ Brunswick East doesn't try to be anything it's not. While [Brunswick](/brunswick
 
 We spent three weeks working our way through the suburb's best, from the established roasteries to the converted warehouse spots tucked off the main drag. Here are the places worth your Saturday morning.
 
----
 
 > 🗳️ **POLL: What's your go-to order in Brunswick East?**
 > A) Flat white + smashed avo
@@ -28,7 +32,6 @@ We spent three weeks working our way through the suburb's best, from the establi
 > D) Oat latte + something sweet
 > *Vote on our Telegram channel @melaborunepoll*
 
----
 
 ## 1. Padre Coffee — The OG
 
@@ -44,7 +47,6 @@ Padre has since expanded to South Melbourne, Noosa, and even Paddington in Sydne
 
 **What to order:** Flat white + house granola with seasonal fruit.
 
----
 
 ## 2. Sani — The Globetrotter
 
@@ -60,7 +62,6 @@ The coffee program deserves its own paragraph. There's a dedicated pour-over sta
 
 **What to order:** Turkish eggs + a pour-over from the single-origin menu.
 
----
 
 ## 3. Wild Life Bakery — The Bread Worship
 
@@ -78,7 +79,6 @@ This is the kind of place where you go for a toastie and stay for two hours beca
 
 **What to order:** Seasonal sourdough toastie + a batch brew. Take a loaf home.
 
----
 
 ## 4. Core Roasters — The Quiet Achiever
 
@@ -96,7 +96,6 @@ If you're comparing, think of Core Roasters as the anti-hype cafe. No Instagram 
 
 **What to order:** Kaya toast + flat white. If you want something heartier, try the banana bread.
 
----
 
 ## 5. Suntop Plaza — The Milk Bar Revival
 
@@ -114,7 +113,6 @@ This is also a spot that does catering — their sandwich platters are worth kee
 
 **What to order:** Poached chicken sandwich + an iced coffee in summer, hot flat white in winter.
 
----
 
 ## 6. Bellboy Cafe — The Bagel King
 
@@ -132,7 +130,6 @@ Bellboy is also open later than most cafes on this list (until 4pm on weekends),
 
 **What to order:** NYC-style bagel with smoked salmon + batch brew.
 
----
 
 > 🗳️ **POLL: Lygon Street or Nicholson Street — which side of Brunswick East wins for coffee?**
 > A) Lygon Street — give me Padre and Sani
@@ -141,7 +138,6 @@ Bellboy is also open later than most cafes on this list (until 4pm on weekends),
 > D) I'll take my coffee wherever there's no queue
 > *Let us know on Telegram @melaborunepoll*
 
----
 
 ## What We Skipped and Why
 
@@ -155,7 +151,6 @@ Not everything in Brunswick East made the cut. Here's what we left off and why:
 
 **Any cafe that felt like a clone** — A few spots on the strip serve perfectly fine coffee and perfectly forgettable food. If it didn't have something that made us want to come back, it didn't make the list.
 
----
 
 ## The Neighbourhood Context
 
@@ -165,7 +160,6 @@ What makes Brunswick East distinctive is the lack of pretension. This isn't a su
 
 **Getting here:** The 96 tram runs straight up Lygon Street from the CBD. Brunswick East station (Upfield line) is a short walk from the Lygon Street strip. Most of the cafes on this list are within a 10-minute walk of each other.
 
----
 
 > 🗳️ **FINAL POLL: How many of these 6 cafes have you visited?**
 > A) All 6 — I'm a Brunswick East local
@@ -174,11 +168,9 @@ What makes Brunswick East distinctive is the lack of pretension. This isn't a su
 > D) Zero — adding to my weekend list right now
 > *Join the conversation @melaborunepoll*
 
----
 
 > 📩 **Get the weekly Melbourne cafe drop.** New reviews, under the radars, and the odd controversial opinion delivered to your inbox every Friday. [Subscribe to the MELBZ newsletter.](/newsletter)
 
----
 
 *Prices are approximate and may have changed since publication. Always check the venue's website or call ahead, especially for weekend hours. Feature your Brunswick East cafe? Get in touch via [hello@melbz.com.au](mailto:hello@melbz.com.au).*
 

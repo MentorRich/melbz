@@ -5,12 +5,12 @@ date: 2026-03-16
 author: maya
 tags: ["coburg", "weekend", "lifestyle"]
 categories: ["lifestyle"]
-description: "Weekend Guide: Coburg 2026 — Saturday & Sunday Done Right
+description: "Weekend Guide: Coburg 2026 — Saturday & Sunday Done Right"
+---
 
 Coburg doesn't try to impress you. That's what makes it impressive.
 
 While Brunswick(/suburbs/brun..."
----
 # Weekend Guide: Coburg 2026 — Saturday & Sunday Done Right
 
 Coburg doesn't try to impress you. That's what makes it impressive.
@@ -21,7 +21,6 @@ Here's how to do a full weekend in Coburg without repeating a single venue.
 
 **Updated 16 March 2026 | Maya Singh reporting**
 
----
 
 ## SATURDAY
 
@@ -75,7 +74,6 @@ If you've got energy left, connect to the **Merri Creek Trail** heading south. T
 
 **Cost:** Free. Always.
 
----
 
 ## SUNDAY
 
@@ -119,7 +117,6 @@ A few ways to round out the weekend:
 
 - **Sydney Road browse** — The stretch between Preston Road and Bell Street has a mix of Persian grocers, Turkish bakeries, and hardware shops that rewards a slow wander.
 
----
 
 ## WHAT WE SKIPPED AND WHY
 
@@ -131,7 +128,6 @@ A few ways to round out the weekend:
 
 **Coburg's nightclub scene** — Because it doesn't exist. Coburg does pubs and bars. If you need DJ sets and 2am finishes, head to [Brunswick](/suburbs/brunswick) or the CBD.
 
----
 
 ## THE NUMBERS
 
@@ -146,7 +142,6 @@ A few ways to round out the weekend:
 
 **Full weekend budget, per person:** $60–$120 depending on how many markets you can resist.
 
----
 
 ## GETTING THERE
 
@@ -156,7 +151,6 @@ A few ways to round out the weekend:
 - **Bike:** The Merri Creek Trail connects to the Capital City Trail and runs through Coburg. Secure bike parking at most venues.
 - **Car:** Street parking is generally available but fills in the afternoon around Sydney Road. The Pentridge precinct has dedicated parking.
 
----
 
 *Need more inner north content? Read our guides to [Brunswick's best brunch spots](/suburbs/brunswick), [Preston's weekend markets](/suburbs/preston), and [Brunswick East's café trail](/suburbs/brunswick-east).*
 

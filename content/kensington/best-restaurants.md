@@ -5,10 +5,10 @@ date: 2026-03-16
 author: grace
 tags: ["kensington", "restaurants", "food"]
 categories: ["food"]
-description: "Best Restaurants in Kensington 2026: Where to Eat
+description: "Best Restaurants in Kensington 2026: Where to Eat"
+---
 
 Kensington's food scene is proper. Tucked between the tram lines and Racecourse Road, this pocket of Melbo..."
----
 # Best Restaurants in Kensington 2026: Where to Eat
 
 Kensington's food scene is proper. Tucked between the tram lines and Racecourse Road, this pocket of Melbourne has quietly built itself into one of the west's most underrated dining strips. No flashy openings, no Instagram stunts — just bloody good food from people who actually care about what they're serving.
@@ -19,7 +19,6 @@ Walk down Bellair Street any weeknight and you'll see what we mean: locals queui
 
 **Kensington Vibe Score: 87/100** 📈 *Up 3 points this week*
 
----
 
 ## 1. The Abyssinian
 **The vibe:** Intimate Ethiopian warmth where eating with your hands isn't just encouraged — it's the whole point
@@ -35,7 +34,6 @@ The injera bread arrives like a spongy tablecloth, ready to be torn and used as 
 
 *🌟 ENGAGEMENT WIDGET: Rate The Abyssinian's injera bread out of 10*
 
----
 
 ## 2. La Tortilleria
 **The vibe:** Mexico City taqueria vibes in a Kensington warehouse — as authentic as it gets this side of the Pacific
@@ -49,7 +47,6 @@ The al pastor ($6 each) are textbook perfect — marinated pork, charred pineapp
 **Hours:** Monday-Thursday 5:30pm-9pm, Friday-Saturday 12pm-9:30pm
 **Insider tip:** BYOB with a $2 corkage fee — grab a Dos Equis from the bottle shop next door
 
----
 
 ## 3. Mama Le
 **The vibe:** Vietnamese fusion that takes mum's recipes seriously but isn't afraid to add a contemporary twist
@@ -65,7 +62,6 @@ The soft-shell crab banh mi ($18) shouldn't work but absolutely does — crispy 
 
 *🌟 ENGAGEMENT WIDGET: Vietnamese fusion — genius or sacrilege? Vote now*
 
----
 
 ## 4. White Rabbit Record Bar
 **The vibe:** Vinyl-spinning hybrid where you can browse records while waiting for your mushroom toast
@@ -79,7 +75,6 @@ The mushroom toast ($16) is a thing of beauty — field mushrooms, goat's cheese
 **Hours:** Wednesday-Saturday 11am-9pm (11pm Thursday-Friday)
 **Insider tip:** Check the gig guide — intimate acoustic sets happen regularly
 
----
 
 ## 5. PIMM Thai Cafe
 **The vibe:** Honest neighbourhood Thai that's been getting the fundamentals right for years
@@ -95,7 +90,6 @@ This isn't destination dining — it's Tuesday night dinner when you can't be bo
 
 *🌟 ENGAGEMENT WIDGET: Best weeknight curry in Kensington — PIMM or somewhere else?*
 
----
 
 ## 6. The Premises
 **The vibe:** Industrial-chic breakfast and lunch spot where the coffee hits harder than the 6am freight train
@@ -111,7 +105,6 @@ The lunch offerings are equally impressive. The roast beef sandwich ($17) is gen
 
 *🌟 ENGAGEMENT WIDGET: Rate Kensington's coffee scene vs Footscray*
 
----
 
 ## What We Skipped and Why
 
@@ -123,7 +116,6 @@ The lunch offerings are equally impressive. The roast beef sandwich ($17) is gen
 
 We also checked out a few spots that are technically in Flemington but serve the same catchment — **Wayo Japanese Dining** on Racecourse Road is excellent for sushi and bento, but it's geographically Flemington's problem, not Kensington's glory.
 
----
 
 ## The Bottom Line
 
@@ -131,7 +123,6 @@ Kensington's dining scene punches way above its weight for a suburb most people 
 
 **Your Kensington Vibe Score this week: 87/100** — Up 3 points thanks to consistently excellent service across the strip and two new positive reviews for Mama Le.
 
----
 
 ## Explore More West Melbourne
 
@@ -139,7 +130,6 @@ Kensington's dining scene punches way above its weight for a suburb most people 
 **South:** [Best Restaurants in Footscray](../footscray/best-restaurants) — Vietnamese, Ethiopian, and everything in between
 **East:** [Best Restaurants in North Melbourne](../north-melbourne/best-restaurants) — From workers' cafes to fine dining
 
----
 
 *Know a Kensington spot we missed? Let us know at tips@melbz.com.au*
 *MELBZ — We Know Your Suburb Better Than You Do.*

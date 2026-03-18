@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide to Brunswick — 2026 Local Guide"
 cover_image: "/images/brunswick/neighbourhood-guide.jpg"
+---
+
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Your 2026 neighbourhood guide to Brunswick. Sydney Road, Lygon Street, the bike path, CERES, Nightingale Village, and everything you need to know about Melbourne's most culturally dense inner-north suburb."
 tags: ["brunswick"]
 categories: ["neighbourhood"]
----
 # Neighbourhood Guide to Brunswick — The 2026 Map
 
 Brunswick is the suburb that turned Melbourne's inner north into a cultural warzone — and loved every minute of it. Sydney Road stretches out like a 3km-long argument between a Turkish bakery and a vinyl record shop, while the side streets hum with the kind of creative chaos that makes real estate agents nervous and poets very comfortable. This is a place where your barista has opinions about Marx, where the vegan options outnumber the meat ones on most menus, and where Saturday mornings feel like a competitive sport involving sourdough and tote bags.
@@ -18,7 +19,6 @@ But what actually makes Brunswick work as a neighbourhood? Where do you go, what
 
 **Last updated: 17 March 2026** | **Brunswick Vibe Score: 78/100 🟢**
 
----
 
 ## The Geography: Sydney Road vs Lygon Street
 
@@ -40,7 +40,6 @@ Lygon Street Brunswick East is more relaxed than Sydney Road — wider footpaths
 
 **Cross-link:** See our full [Brunswick East Guide](/brunswick-east/neighbourhood-guide) for the complete Lygon Street breakdown.
 
----
 
 ## The Key Neighbourhoods Within Brunswick
 
@@ -58,7 +57,6 @@ CERES (Centre for Education and Research in Environmental Strategies) is a 10-ac
 
 The Principal Bicycle Network route runs through Brunswick, connecting the CBD through to Moreland and beyond. More importantly for daily life, it creates a parallel world to Sydney Road — a car-free corridor lined with cafés, studios, and small businesses that most car-driving visitors never discover. Osoi (Japanese matcha bar), several bike mechanics, and a string of creative studios sit along or near this path. If you live in Brunswick and don't own a bike, you're missing half the suburb.
 
----
 
 ## What to Do in Brunswick
 
@@ -84,7 +82,6 @@ Brunswick has more live music venues per capita than almost any Melbourne suburb
 
 → [Nightlife Guide](/brunswick/nightlife-guide)
 
----
 
 ## Transport: Getting In and Out
 
@@ -100,7 +97,6 @@ Brunswick's public transport is strong. The combination of the 19 tram and the U
 
 **Parking:** Street parking on Sydney Road is metered and competitive. Side streets are permit-zoned in many areas. If you're driving to Brunswick for dinner, budget $5–8 for a parking garage or catch public transport.
 
----
 
 ## Who Lives in Brunswick?
 
@@ -114,7 +110,6 @@ Brunswick's demographics in 2026 reflect decades of layered immigration and more
 
 The result is a suburb that feels genuinely mixed — not curated-mixed like some gentrified areas, but actually mixed in a way that you can see, hear, and taste on every block.
 
----
 
 ## Brunswick vs Its Neighbours
 
@@ -127,7 +122,6 @@ The result is a suburb that feels genuinely mixed — not curated-mixed like som
 
 **Cross-links:** [Brunswick East Guide](/brunswick-east/neighbourhood-guide) · [Coburg Guide](/coburg/neighbourhood-guide) · [Fitzroy North Guide](/fitzroy-north/neighbourhood-guide)
 
----
 
 ## The Honest Verdict
 
@@ -143,7 +137,6 @@ The downsides are real: Sydney Road is noisy, parking is a nightmare, and the re
 
 **Total: $38.** Three meals and a drink in Melbourne's inner north for under forty bucks. That's why people keep moving here.
 
----
 
 **Your Brunswick Vibe Score this week: 78/100** — The inner north's most underrated all-rounder.
 
@@ -151,7 +144,6 @@ The downsides are real: Sydney Road is noisy, parking is a nightmare, and the re
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 *Also see: [Brunswick East Guide](/brunswick-east/neighbourhood-guide) · [Coburg Guide](/coburg/neighbourhood-guide) · [Fitzroy North Guide](/fitzroy-north/neighbourhood-guide) · [Brunswick Cost of Living](/brunswick/cost-of-living) · [Living in Brunswick](/brunswick/living-guide)*
 

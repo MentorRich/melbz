@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["seddon", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Seddon Honest Guide 2026: The Quiet West Sider
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Seddon Honest Guide 2026: The Quiet West Sider"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Seddon is the suburb your mate from university told you..."
----
 # Seddon Honest Guide 2026: The Quiet West Sider
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Seddon is the suburb your mate from university told you about just before he moved there and stopped coming to the pub. It's the inner west's answer to Northcote, except quieter, smaller, and with significantly fewer fixie bikes. If Footscray is the loud, ambitious older sibling who started a podcast, Seddon is the younger one who opened a natural wine bar and doesn't need to talk about it.
 
@@ -35,7 +38,6 @@ Seddon scores high on the liveability scale, and not just because some architect
 
 It's small. That's both its charm and its limitation. You can walk the entire "village" strip in about four minutes. Some people love that intimacy. Others will find themselves in Footscray or Yarraville within six months because they need a bigger Woolworths and somewhere that sells batteries after 9pm.
 
----
 
 ## 📊 POLL: What brings you to Seddon?
 
@@ -45,7 +47,6 @@ It's small. That's both its charm and its limitation. You can walk the entire "v
 - 🍷 Natural wine bars and good food
 - 📍 Close to the city but not Fitzroy prices
 
----
 
 ## What You Actually Get
 
@@ -79,7 +80,6 @@ Seddon has a solid primary school in Seddon Primary, which has a genuine communi
 
 The suburb has become quietly popular with young families — the ones who've decided they want the inner west lifestyle without the full Footscray intensity. It's calmer, quieter, and the streets feel safe for kids on bikes. The parks are small but well-maintained. Ercildoune Reserve is the kind of pocket park where toddlers run free and parents actually relax.
 
----
 
 ## 🏠 PROPERTY SNAPSHOT: Seddon 3011
 
@@ -90,7 +90,6 @@ The suburb has become quietly popular with young families — the ones who've de
 | Sales (12 months) | ~99 | — |
 | Days on Market | ~30 | ~25 |
 
----
 
 ## The Neighbour Effect
 
@@ -120,7 +119,6 @@ The truth is, Seddon benefits enormously from its neighbours. Walk east and you'
 
 **Limited evening options.** If you want dinner after 9pm on a weeknight, choices narrow dramatically. The suburb is resolutely daytime-oriented.
 
----
 
 ## 🗳️ QUIZ: Which inner-west suburb should you actually live in?
 
@@ -129,7 +127,6 @@ The truth is, Seddon benefits enormously from its neighbours. Walk east and you'
 **You want:** Quiet streets + café walking distance + easy trains → **Seddon**
 **You want:** Affordable + character + close to everything → **West Footscray**
 
----
 
 ## What We Skipped and Why
 
@@ -151,7 +148,6 @@ If you're after the big suburb with everything on your doorstep, look at Footscr
 
 Just don't tell too many people. We've got parking to worry about.
 
----
 
 **Related Reading:**
 - [Footscray Honest Guide 2026](/footscray/honest-guide) — The louder, bigger sibling
@@ -159,7 +155,6 @@ Just don't tell too many people. We've got parking to worry about.
 - [West Footscray Honest Guide 2026](/west-footscray/honest-guide) — The affordable wildcard
 - [Inner West Suburb Showdown](/inner-west/showdown) — We rank them all against each other
 
----
 
 *Have you lived in Seddon? Got a take we missed? [Drop us a line](/contact) — we update these guides based on what locals actually tell us, not what the real estate brochures promise.*
 

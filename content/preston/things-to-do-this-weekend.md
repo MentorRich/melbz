@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Preston — 2026 Local Guide"
 cover_image: "/images/preston/things-to-do-this-weekend.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "maya"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["things"]
----
 ## The Best Things To Do This Weekend in Preston
 
 Preston's weekend scene isn't about tourist attractions or curated experiences. It's about the rhythm of a working-class suburb that has gradually developed a food and bar scene worth exploring. A weekend in Preston should include good food, good coffee, maybe a market visit, and time spent in a bar where the bartender knows the regulars.
@@ -164,14 +165,12 @@ If you're coming from the inner north or the CBD, Preston is close enough that y
 
 **Weather:** Preston is exposed and can be windy. If you're planning to sit outside at a bar or the market, bring layers. A windy 12-degree day feels like 6.
 
----
 
 **Explore more weekend itineraries in Melbourne's north:**
 → [Things to Do This Weekend in Thornbury — 10 min south](/thornbury/)
 → [Things to Do This Weekend in Northcote — 20 min walk](/northcote/)
 → [Weekend Guide to Reservoir — 5 min north](/reservoir/)
 
----
 
 *This guide was researched and written by the MELBZ team. Market days and venue hours are accurate as of March 2026 but can change — check socials before heading out. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

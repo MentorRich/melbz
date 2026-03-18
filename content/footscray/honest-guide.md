@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["footscray", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Footscray Honest Guide 2026: The Real West Side
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Footscray Honest Guide 2026: The Real West Side"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Footscray is Melbourne's most interesting suburb that ..."
----
 # Footscray Honest Guide 2026: The Real West Side
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Footscray is Melbourne's most interesting suburb that nobody outside a 10-kilometre radius can agree on how to pronounce. (It's Foot-scray, not Foot-scree, and if someone says "Footskray" you can safely assume they just moved from interstate.)
 
@@ -25,7 +28,6 @@ Here's the thing about Footscray: it's been "up and coming" for about twenty yea
 
 But let's be honest about what Footscray actually is — not the sanitised version, not the real estate brochure version, and not the version your mate who "discovered" it in 2019 tells you about at parties.
 
----
 
 ## The Geography Lesson You Actually Need
 
@@ -35,7 +37,6 @@ Footscray sits in Melbourne's inner west, wedged between Yarraville to the south
 
 **Barkly Street** is the spine. If you're new to Footscray, start here. Walk it from the train station end toward the west. Within 10 minutes you'll pass a Vietnamese bakery, an Ethiopian restaurant, an old-school pub, a craft beer bar, and at least three places selling bahn mi for under $10.
 
----
 
 ## What's Actually Good
 
@@ -68,7 +69,6 @@ The pub crawl from Footscray through to Yarraville is one of Melbourne's better-
 
 **Markets in neighbouring Seddon** are more boutique — think small-batch everything, farmers' market vibes, $12 sourdough. If Footscray Market is a broadsheet, Seddon's markets are a lifestyle magazine.
 
----
 
 ## The Vibe Score Snapshot
 
@@ -83,7 +83,6 @@ The pub crawl from Footscray through to Yarraville is one of Melbourne's better-
 </div>
 </div>
 
----
 
 ## Getting Around
 
@@ -97,7 +96,6 @@ The pub crawl from Footscray through to Yarraville is one of Melbourne's better-
 
 **Getting home late:** Night Network buses run through Footscray on Friday and Saturday nights. Uber and DiDi are reliable, though surge pricing can hit after big events at Marvel Stadium (which is just across the river).
 
----
 
 ## What It Costs to Actually Live Here
 
@@ -112,7 +110,6 @@ Can you live here on $65K? A single person in a 1-bed, yes — comfortably, with
 
 The financial reality of Footscray is this: you're paying for proximity to the CBD and a food scene that rivals suburbs twice its price. Whether that's worth it depends on how much you value a 12-minute train ride versus, say, a 40-minute commute from Frankston.
 
----
 
 ## The Neighbours
 
@@ -134,7 +131,6 @@ West Melbourne is technically a different suburb entirely, but the Maribyrnong R
 
 **Cross-link:** We cover this in our [West Melbourne Honest Guide](/suburbs/west-melbourne/honest-guide).
 
----
 
 ## What We Skipped and Why
 
@@ -146,7 +142,6 @@ West Melbourne is technically a different suburb entirely, but the Maribyrnong R
 
 **Specific café recommendations.** The café scene shifts fast enough that any specific picks would be outdated within six months. Our general advice: walk along Hopkins Street, see what looks busy, and go there. The Footscray café ecosystem is self-correcting — bad places don't last long because the locals will just go to the one next door.
 
----
 
 ## The Honest Verdict
 
@@ -158,7 +153,6 @@ If you're thinking about moving here, come on a Saturday morning. Walk Barkly St
 
 Footscray doesn't try to impress you. That's why it does.
 
----
 
 ## Quick Links
 
@@ -168,7 +162,6 @@ Footscray doesn't try to impress you. That's why it does.
 - 🏘️ [West Melbourne Honest Guide](/suburbs/west-melbourne/honest-guide)
 - 📅 [What's On in the West This Weekend](/tonight/west)
 
----
 
 <!-- ENGAGEMENT WIDGET 2: This Week's Question -->
 <h3>🗳️ This Week's Question</h3>
@@ -192,7 +185,6 @@ Footscray doesn't try to impress you. That's why it does.
 <button class="newsletter-btn">Subscribe to Footscray Weekly</button>
 </div>
 
----
 
 *Jack Morrison writes suburb profiles for MELBZ. He has eaten approximately 340 bahn mi across Melbourne and has strong opinions about all of them. Got a tip? [hello@melbz.com.au](mailto:hello@melbz.com.au)*
 

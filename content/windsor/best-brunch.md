@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/best-brunch.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best brunch in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["best"]
----
 ## The Best Brunch in Windsor
 
 Brunch in Windsor isn't a trend anymore — it's an institution. This suburb has been quietly perfecting the weekend morning meal while the rest of Melbourne argues about whether avocado toast is over. Spoiler: it's not, and Windsor does it better than most.
@@ -98,7 +99,6 @@ Cheeky Monkey has been doing reliable, well-priced brunch on Chapel Street for l
 
 Coffee is $4.20 for a flat white, which is noticeably cheaper than most nearby cafes. The portions are generous and the vibe is relaxed. It's not the place you'll tell your friends about in excited tones, but it's the place you'll actually end up going every weekend because it's good and it doesn't cost much.
 
----
 
 ## What We Skipped and Why
 
@@ -108,7 +108,6 @@ Coffee is $4.20 for a flat white, which is noticeably cheaper than most nearby c
 
 **Any venue that doesn't serve breakfast before 10am** — If a cafe doesn't open until 10, it's not really doing brunch. We left them for the lunch and dinner guides.
 
----
 
 ## Windsor Brunch Economics
 
@@ -116,14 +115,12 @@ Brunch mains in Windsor average $18, which sits between Prahran ($19–$22) and 
 
 The scene is most active on Saturday and Sunday mornings, with the peak crush between 9:30–11:30. If you want a table without queuing, aim for before 9am or after 12:30. Monday public holiday brunches are also popular — most Windsor cafes open on public holidays with slightly reduced hours.
 
----
 
 **Cross-links:**
 - [Best Brunch in Prahran](/prahran/best-brunch) — similar scene, slightly pricier
 - [Best Brunch in South Yarra](/south-yarra/best-brunch) — more polished, less value
 - [Best Brunch in St Kilda](/st-kilda/best-brunch) — beach-adjacent mornings
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
 

@@ -1,6 +1,8 @@
 ---
 title: "Cheap Eats in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/cheap-eats.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "omar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the cheap eats in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["cheap"]
----
 ## The Best Cheap Eats in Fitzroy North
 
 This is your verified guide to the best cheap eats in Fitzroy North for 2026.
@@ -18,7 +19,6 @@ Let's be honest: Fitzroy North can feel expensive. The $5.50 flat whites, the $2
 
 This is a guide to eating well in Fitzroy North without needing to check your bank balance first. These are places where you can get a proper meal for under $20, a coffee and pastry for under $10, and still leave feeling like you've eaten something worth eating. Because good food shouldn't be a luxury — it should be a right.
 
----
 
 ### 1. Delphi Café & Tavern (Breakfast/Brunch)
 
@@ -35,7 +35,6 @@ Coffee is $4.50, and the Greek-style iced coffee ($7) in summer is a refreshing 
 
 **Value score:** 9/10 — you'd struggle to spend $20 here and leave hungry.
 
----
 
 ### 2. Bababababababa (Brunch/Lunch)
 
@@ -52,7 +51,6 @@ Turkish coffee ($5) is made traditionally: strong, unfiltered, served with a gla
 
 **Value score:** 8/10 — $17-19 for a main that's more interesting than most places charging $28.
 
----
 
 ### 3. Citrus (Sri Lankan Lunch Buffet)
 
@@ -67,7 +65,6 @@ The space is modest and clean, run by a family who will happily explain any dish
 
 **Value score:** 10/10 — $22 for unlimited homemade Sri Lankan food that's both comforting and complex is criminal value.
 
----
 
 ### 4. The Terminus Hotel (Bistro)
 
@@ -84,7 +81,6 @@ The dining room is separate from the bar, so families can eat in relative peace.
 
 **Value score:** 7/10 — standard pub prices but executed better than most.
 
----
 
 ### 5. Alimentari Delicatessen & Cafe
 
@@ -99,7 +95,6 @@ The house-made biscotti ($8/bag) are the perfect coffee companion for home.
 
 **Value score:** 8/10 — deli pricing means you control your spend. Quality is excellent.
 
----
 
 ### 6. The Black Cat Café
 
@@ -114,7 +109,6 @@ Coffee is $4.50, and oat milk is included standard rather than charged extra —
 
 **Value score:** 8/10 — $20 for a filling, well-executed vegan meal with drink is excellent value.
 
----
 
 ### 7. Archie's All Day
 
@@ -129,7 +123,6 @@ The Oreo milkshake ($9) is a cult favourite — yes, it's good.
 
 **Value score:** 7/10 — early bird is the standout; regular pricing is still fair.
 
----
 
 ### 8. Loretta's (Afternoon Special)
 
@@ -142,7 +135,6 @@ The space is beautiful and comfortable, making it worth lingering.
 
 **Value score:** 7/10 — $22 for a proper sit-down meal with coffee is reasonable for what you get.
 
----
 
 ### 9. Code Black Coffee
 
@@ -155,7 +147,6 @@ This isn't a place for a full meal, but for a coffee-and-snack pit stop, it's af
 
 **Value score:** 8/10 — quality coffee and simple food at fair prices.
 
----
 
 ### 10. Twenty & Six Espresso
 
@@ -166,7 +157,6 @@ Twenty & Six has been a Fitzroy institution for years. Coffee is $4.50, pastries
 
 **Value score:** 8/10 — reliable, no-nonsense, won't break the bank.
 
----
 
 ## The Cheap Eats Price Guide
 
@@ -183,7 +173,6 @@ What "cheap" means in Fitzroy North 2026:
 
 The absolute best value is Citrus's lunch buffet at $22 — unlimited excellent Sri Lankan food. The Delphi's bougatsa at $12 is the steal of the century.
 
----
 
 ## Cheap Eats Strategy
 
@@ -194,7 +183,6 @@ Fitzroy North rewards:
 - **Grab-and-go** — Alimentari, Code Black, Twenty & Six all do excellent takeaway
 - **Buffet lunch** — Citrus on a weekday is the best $22 you'll spend all month
 
----
 
 ## Cross-Links
 

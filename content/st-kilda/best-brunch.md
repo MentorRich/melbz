@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in St Kilda — 2026 Local Guide"
 cover_image: "/images/st-kilda/best-brunch.jpg"
+---
+
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best brunch in St Kilda. Our verified 2026 guide covers the best spots for locals."
 tags: ["st-kilda"]
 categories: ["best"]
----
 ## The Best Brunch in St Kilda
 
 St Kilda takes brunch seriously. This isn't a suburb where you grab a quick toastie and move on — it's where cafés compete for the best ricotta hotcake, where lines form before opening, and where the brunch menu is the main event rather than an afterthought. Melbourne's café culture runs deep here, shaped by the European heritage of Acland Street, the creative crowd that's called St Kilda home for decades, and the simple fact that beachside living makes people want to eat well on a Sunday morning.
@@ -18,7 +19,6 @@ The geography of St Kilda brunch matters. Bay Street in **Brighton**-adjacent No
 
 We've eaten our way through St Kilda's brunch scene to bring you this verified 2026 guide. Every dish mentioned was tried, every price checked, and every verdict earned.
 
----
 
 ### 1. Loretta's — 397 Bay Street
 
@@ -31,7 +31,6 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 
 > **📊 MELBZ POLL** — Have you queued for Loretta's? Absolutely, worth it | Too long, went elsewhere | What's a queue?
 
----
 
 ### 2. The Cat's Kaka — 52 Acland Street
 
@@ -42,7 +41,6 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 **Dietary:** Excellent for gluten-free (rice-based options) and pescatarian diners. Vegan options limited.
 **Budget:** $25–$40 per person with coffee and a side.
 
----
 
 ### 3. Code Black Coffee — 33 Ormond Road, Elwood
 
@@ -53,7 +51,6 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 **Getting here:** Tram 96 to the Esplanade, then walk south along the foreshore path for 10 minutes. Or just follow your nose — the roasting happens on-site.
 **Budget:** $20–$30 per person with coffee.
 
----
 
 ### 4. Grigons & Orr — 492 Victoria Street
 
@@ -64,7 +61,6 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 **Parking:** Street parking on Victoria Street is usually available on weekday mornings. On weekends, try the side streets off Dorcas Street.
 **Budget:** $25–$35 per person with coffee and juice.
 
----
 
 ### 5. Baked. — 67 Fitzroy Street
 
@@ -73,7 +69,6 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 **The room:** Minimal, bright, with natural light and a small counter. About 15 seats. Go early — by 11am, the best pastries are gone and you're left with the raisin bread. Still good, but not the same.
 **Budget:** $15–$20 per person with coffee and a pastry.
 
----
 
 ### 6. Borsch Vodka & Tears — 152 Chapel Street
 
@@ -83,7 +78,6 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 **Location note:** Technically on the Prahran border. Tram 78 stops right outside.
 **Budget:** $20–$30 per person.
 
----
 
 ### 7. Lune Croissanterie — 119 Rose Street, Fitzroy
 
@@ -92,7 +86,6 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 **The wait:** Can be 15–30 minutes on Saturday mornings. Sunday is worse. Weekday mornings are almost queue-free.
 **Budget:** $15–$25 per person.
 
----
 
 ### The Honourable Mentions
 
@@ -101,7 +94,6 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 - **The Sea Baths Café** (10–18 Jacka Boulevard) for the view, not the menu. Coffee and a muffin with the bay in front of you
 - **Acland Street cake shops** for grab-and-go pastry if you want to eat on Catani Gardens — not a sit-down brunch but a fine way to start a St Kilda morning
 
----
 
 ### What We Skipped and Why
 
@@ -113,7 +105,6 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 
 **Buffet brunch at the Prince of Wales** — Occasionally runs a Sunday session, but it's more of an event than a regular brunch offering. Check their socials if it's on.
 
----
 
 ### Brunch Transport — Getting There
 
@@ -125,7 +116,6 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 
 **Cycling** is easy — the foreshore path runs the full length of the beach and connects to the Capital City Trail.
 
----
 
 ### Nearby Guides Worth Reading
 
@@ -135,11 +125,9 @@ We've eaten our way through St Kilda's brunch scene to bring you this verified 2
 
 > **📊 MELBZ POLL** — Savoury or sweet brunch? 🍳 Eggs and bacon forever | 🥞 Hotcakes and waffles | 🤷 Depends on the hangover
 
----
 
 *Last verified March 2026. Prices change. Get there before the hotcakes sell out.*
 
----
 
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
 

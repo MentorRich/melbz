@@ -1,6 +1,8 @@
 ---
 title: "Best Restaurants in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-restaurants.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "jules"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best restaurants in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually eat dinner — from $20 plates to splurge-worthy degustations."
 tags: ["melbourne"]
 categories: ["best"]
----
 # Best Restaurants in Melbourne — 2026 Guide
 
 Melbourne doesn't have a single food identity — it has about forty, all competing for your attention and your wallet. Italian on Lygon Street, Vietnamese in Richmond, Greek in Oakleigh, Ethiopian in Footscray, fine dining on Collins Street, and enough laneway restaurants to keep you eating out every night for a year without repeating a venue. That's not an exaggeration. Someone's done the maths and it checks out.
@@ -18,7 +19,6 @@ This guide is about the restaurants that Melbourne locals actually go to. Not th
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. Gimlet at Cavendish House — CBD (Collins Street)
 
@@ -32,7 +32,6 @@ The menu is European-leaning with an Australian sensibility. Think wood-grilled 
 **Budget:** $50–$90 per person with drinks
 **Booking:** Essential. Book via their website at least a week ahead for Friday/Saturday.
 
----
 
 ## 2. Attica — Ripponlea
 
@@ -46,7 +45,6 @@ The seven-course degustation ($295 per person) is the only way to eat here, and 
 **Budget:** $350+ per person with matched wines ($165 wine pairing)
 **Booking:** Essential. Book weeks, sometimes months, in advance.
 
----
 
 ## 3. Tipo 00 — CBD (Lonsdale Street)
 
@@ -60,7 +58,6 @@ The pasta here is exceptional. Every shape is made in-house from Tipo 00 flour (
 **Budget:** $40–$65 per person with wine
 **Booking:** Walk-in only for lunch. Dinner bookings recommended.
 
----
 
 ## 4. Cumulus Inc. — CBD (Flinders Lane)
 
@@ -73,7 +70,6 @@ At dinner, Cumulus Inc. excels at share-style dining. The slow-roasted lamb shou
 **Hours:** Daily, 7am–5pm
 **Budget:** $45–$80 per person with drinks
 
----
 
 ## 5. Chin Chin — CBD (Flinders Lane)
 
@@ -87,7 +83,6 @@ The menu is Southeast Asian with a modern Australian twist — think kingfish sa
 **Budget:** $40–$70 per person with drinks
 **Booking:** Book via their website. If you can't get a table, walk in and put your name down at the bar — you'll drink while you wait.
 
----
 
 ## 6. Tipo 00 Osteria — CBD (Lonsdale Street, upstairs)
 
@@ -97,7 +92,6 @@ The pasta is the same exceptional standard, but the osteria adds dishes like a w
 
 **Order this:** The tasting menu ($89 per person) — five courses of pasta and Italian small plates that'll leave you questioning why you ever eat anywhere else.
 
----
 
 ## 7. Supernormal — CBD (Flinders Lane)
 
@@ -110,7 +104,6 @@ The menu is designed for sharing: a raw bar with sashimi and tartare, bao buns w
 **Hours:** Daily, 11:30am–late
 **Budget:** $45–$80 per person with drinks
 
----
 
 ## 8. Cutler and Co. — CBD (Collins Street)
 
@@ -124,7 +117,6 @@ The menu is modern European with a focus on premium Australian produce. The tast
 **Budget:** $100–$200+ per person with drinks
 **Booking:** Essential.
 
----
 
 ## 9. Lygon Street Trattorias — Carlton (the Old-School Picks)
 
@@ -139,7 +131,6 @@ The menu is modern European with a focus on premium Australian produce. The tast
 
 **Cross-link:** Carlton's dining scene goes way beyond Lygon Street — see our [best restaurants in Carlton](/carlton/best-restaurants/) guide.
 
----
 
 ## 10. Entrecôte — South Yarra (Greville Street)
 
@@ -154,7 +145,6 @@ Entrecôte does one thing exceptionally well: steak frites. The cut is properly 
 
 **Cross-link:** More South Yarra dining in our [best restaurants in South Yarra](/south-yarra/best-restaurants/) guide.
 
----
 
 ## 11. South Melbourne Market Restaurants
 
@@ -168,7 +158,6 @@ The dim sim at **South Melbourne Market Dim Sim** is a Melbourne institution. No
 
 **Cross-link:** More in our [South Melbourne dining guide](/south-melbourne/best-restaurants/).
 
----
 
 ## 12. Gimlet Bar Menu — CBD (Collins Street, late-night option)
 
@@ -176,13 +165,11 @@ The dim sim at **South Melbourne Market Dim Sim** is a Melbourne institution. No
 
 The wagyu burger ($32) is the late-night hero — a properly cooked patty, good cheese, and the kind of bun that holds everything together structurally and flavourfully. Pair it with a martini ($24) and you've had the classiest midnight meal possible in the CBD.
 
----
 
 ## The Price Reality
 
 Melbourne dining in 2026 is not cheap. A couple eating at most of the restaurants on this list can expect to spend $80–$150 per person with drinks, and that's without going overboard. The city's best cheap eats are no longer in sit-down restaurants — they're in markets, food courts, and takeaway spots. But the restaurants listed here deliver value through quality, atmosphere, and experience. A $42 steak frites at Entrecôte that's perfectly cooked, served in a beautiful room, with proper service? That's a fair price. A $295 degustation at Attica that changes how you think about food? Worth every cent once in your life.
 
----
 
 ## Getting There
 
@@ -192,7 +179,6 @@ Melbourne dining in 2026 is not cheap. A couple eating at most of the restaurant
 - **South Melbourne Market:** Tram 96 from the CBD, or walk from Flinders Street (15 minutes).
 - **Ripponlea (Attica):** Train from Flinders Street to Ripponlea (12 minutes), then a 5-minute walk.
 
----
 
 ## Related Guides
 

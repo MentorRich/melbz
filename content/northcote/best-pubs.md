@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/best-pubs.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "kai"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best pubs in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["general"]
----
 # The Best Pubs in Northcote — 2026 Edition
 
 **Updated 16 March 2026 | Kai reporting**
@@ -20,7 +21,6 @@ Northcote's pub scene tells the story of the suburb's evolution. You've got the 
 
 This is your guide to where Northcote drinks, eats, argues about parking, and pretends the weather isn't terrible.
 
----
 
 ## 1. Croxton Park Hotel — The Pub That Got It Right
 
@@ -39,7 +39,6 @@ The bistro runs the classics: burgers ($18), chicken parma ($22), fish and chips
 
 > **Insider tip:** The front bar (inside, separate from the bistro area) is the locals' zone. Cheaper drinks, quieter vibe, same beer garden access. If you're not eating, this is where you want to be. Nobody's taking photos of their cocktails here — they're watching the footy and arguing about Essendon's midfield.
 
----
 
 ## 2. The Union Hotel — The Last Real Pub on High Street
 
@@ -58,7 +57,6 @@ The meat raffle — yes, we're mentioning it again because it deserves it — ru
 
 **Insider tip:** Friday arvo from 3:30pm. The after-work crowd starts filtering in, the schooners are flowing, and the whole corner of Arthurton and High Street feels like a scene from an Australian film. Except it's real and the beer is actually $7.
 
----
 
 ## 3. Northcote Social Club — The Pub That Plays Music
 
@@ -77,7 +75,6 @@ When there IS a gig, the room transforms. Chairs stacked, PA fired up, and 150 p
 
 **Open Loop → The Northcote Social Club is the natural starting point before walking north to [Thornbury's best pubs](/thornbury/best-pubs) for a High Street pub crawl that crosses postcode lines.**
 
----
 
 ## 4. The Merri Creek Tavern — The Watering Hole by the Creek
 
@@ -96,7 +93,6 @@ The drink selection covers the bases without reinventing the wheel. Solid tap li
 
 **Insider tip:** If you're walking the Merri Creek trail and need a pit stop, this is the spot. Roll in from the trail, grab a pint in the beer garden, and watch other cyclists attempt the hill near the bridge. Free entertainment.
 
----
 
 ## 5. Croxton RSL — The Quiet Achiever
 
@@ -115,7 +111,6 @@ Drinks are priced like it's 2010. A schooner of Carlton is $6. A glass of house 
 
 **Insider tip:** The bistro does a Wednesday night "feed the family" deal that's worth knowing about if you've got kids. Two adults and two kids eat for under $50 total, and there's a dedicated kids' area where they can be noisy without anyone giving you the side-eye.
 
----
 
 ## Pub Essentials: The Quick Comparison
 
@@ -127,7 +122,6 @@ Drinks are priced like it's 2010. A schooner of Carlton is $6. A glass of house 
 | Merri Creek Tavern | Families, creek walks | $18 | Spacious | No |
 | Croxton RSL | Budget bistro, community | $16 | Basic | No |
 
----
 
 ## Getting to the Pubs: Transport Notes
 
@@ -142,7 +136,6 @@ All five pubs are accessible by public transport:
 
 **If you or someone you're with needs help:** Call 000. Most venues have trained staff on weekends. The "Ask for Angela" protocol works at the Croxton and the Social Club — say those words to any staff member and they'll help you get home.
 
----
 
 **POLL: What makes a pub a "local"?**
 
@@ -154,7 +147,6 @@ All five pubs are accessible by public transport:
 
 *Vote and tag your pub crew @melbzcomau with #NorthcotePubs*
 
----
 
 **NEIGHBOURING SUBURBS: Expand Your Pub Circuit**
 
@@ -164,7 +156,6 @@ All five pubs are accessible by public transport:
 - 🍺 [Best Pubs in Fitzroy North](/fitzroy-north/best-pubs) — "Where the pub meets the Smith Street scene"
 - 🍺 [Best Pubs in Brunswick](/brunswick/best-pubs) — "Lygon Street and Sydney Road have their own pub legends"
 
----
 
 **CONFESSION BOX 🗣️**
 
@@ -172,7 +163,6 @@ All five pubs are accessible by public transport:
 
 The most Northcote response: "Where else am I going to get a $7 schooner, a proper game of pool, and a conversation with someone who's lived on the same street for 30 years? The fancy places come and go. The Union stays. That's the point."
 
----
 
 **Living in Northcote? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=northcote)**
 

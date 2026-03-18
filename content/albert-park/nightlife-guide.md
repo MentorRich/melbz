@@ -1,18 +1,14 @@
 ---
-title: "Untitled"
+title: "Albert Park Nightlife Guide 2026: Pubs, Bars & Lake Views"
 cover_image: "/images/albert-park/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
-description: "cover_image: "/images/albert-park/nightlife-guide.jpg"
- Albert Park Nightlife Guide
-
-Updat..."
-tags: ["albert-park"]
+tags: ["albert-park", "nightlife", "bars"]
 categories: ["nightlife"]
+description: "Albert Park Nightlife Guide 2026: Pubs, Bars & Lake Views"
 ---
 
-cover_image: "/images/albert-park/nightlife-guide.jpg"
-# Albert Park Nightlife Guide
+*Updated 17 March 2025 | MELBZ reporting*
 
 Updated 17 March 2025 | MELBZ reporting
 

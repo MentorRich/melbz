@@ -1,11 +1,12 @@
 ---
-title: "Best Restaurants in Melbourne 2026 — The Ultimate Suburb-by-Suburb Guide"
+title: "Best Restaurants in Melbourne 2026 — The Ultimate"
 cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
 description: "The best restaurants in Melbourne for 2026, organised by suburb. From Fitzroy fine dining to Carlton trattorias and St Kilda seafood — every neighbourhood covered."
 author: "Jules Marchetti"
+---
+
 author_role: "Editor-in-Chief"
 author_image: "/images/authors/jules.jpg"
----
 
 The question isn’t “what’s the best restaurant in Melbourne?” It’s “what’s the best restaurant in Melbourne for where you are, what you’re craving, and who you’re with?” Because Melbourne doesn’t have a single dining precinct—it has dozens, each with its own personality, price point and culinary strengths. A degustation temple in Fitzroy, a family‑run trattoria in Carlton, a seafood shack with bay views in St Kilda—they’re all essential, and they’re all miles apart (literally and figuratively).
 

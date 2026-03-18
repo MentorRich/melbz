@@ -5,12 +5,11 @@ date: 2026-03-16
 author: lina
 tags: ["kensington", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
-
- Best Bars in Kensington 2026: Local Pubs & Hidden Watering Holes
-
-Kensington doesn't shout ..."
+description: "Best Bars in Kensington 2026: Local Pubs & Hidden Watering Holes"
 ---
+
+*description: "16 March 2026 | 6 places tested | Lina Nguyen reporting"*
+
 *Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
 
 # Best Bars in Kensington 2026: Local Pubs & Hidden Watering Holes
@@ -157,7 +156,6 @@ The best nights out in Kensington don't start with a plan. They start with a pin
 <p>🔥 <strong>WHAT TO READ NEXT:</strong> New to the area? Start with our <a href="/kensington/suburb-guide/">complete Kensington suburb guide</a> — restaurants, transport, rent prices, and the full Vibe Score breakdown. Or if you're already plotting your next night out, our <a href="/kensington/best-restaurants/">best restaurants in Kensington</a> guide covers where to eat before the drinking starts.</p>
 <!-- /wp:paragraph -->
 
----
 
 **Lina Nguyen** is the Nightlife Editor at MELBZ. She has been writing about Melbourne's bar scene since 2019 and drinks an average of 47 schooners per suburb review. Follow her on Instagram @lina.melbz.
 

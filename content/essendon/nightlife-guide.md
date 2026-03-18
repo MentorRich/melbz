@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Essendon — 2026 Local Guide"
 cover_image: "/images/essendon/nightlife-guide.jpg"
+---
+
 suburb: "essendon"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Discover the nightlife in Essendon. Our verified 2026 guide covers the best spots for locals."
 tags: ["essendon"]
 categories: ["nightlife"]
----
 ## Nightlife Guide in Essendon
 
 Essendon doesn't get mentioned in the same breath as Fitzroy or Collingwood when Melburnians talk about nightlife. That's their loss. Essendon is a suburb that's comfortable in its own skin — working-class roots, family-oriented, with a pub culture that's genuinely good and completely unpretentious.
@@ -18,7 +19,6 @@ What Essendon offers is exactly what many Melburnians are looking for: good pubs
 
 Here's how to do it.
 
----
 
 ## THE PUBS
 
@@ -56,7 +56,6 @@ Anglers Tavern is a smaller, more intimate pub tucked away from the main Mt Alex
 
 **The vibe:** Low-key, locals-only feeling. If you want to escape the busier pubs on the main road, this is your spot.
 
----
 
 ## THE BARS
 
@@ -92,7 +91,6 @@ Biagio's is a family-run wine bar that's been serving the Essendon community for
 
 **The vibe:** Warm, authentic, community-focused. It feels like stepping into a small Italian town rather than a Melbourne suburb.
 
----
 
 ## THE PLAN — HOW TO DO AN ESSENDON NIGHT
 
@@ -112,7 +110,6 @@ Biagio's is a family-run wine bar that's been serving the Essendon community for
 **8pm:** Counter meal — parma and beer, the classic combo.
 **10pm:** Home. It's Essendon — you have work tomorrow.
 
----
 
 ## SAFETY AT NIGHT
 
@@ -123,7 +120,6 @@ Biagio's is a family-run wine bar that's been serving the Essendon community for
 - Public transport: Essendon station is on the Craigieburn line, about 15 minutes to the city. Multiple tram routes also serve the area.
 - If you need help: call 000, or approach venue staff. The local police station is on Mt Alexander Road.
 
----
 
 ## What We Skipped and Why
 
@@ -133,7 +129,6 @@ Biagio's is a family-run wine bar that's been serving the Essendon community for
 
 **Flemington racecourse events:** While adjacent, race days are a separate scene from normal Essendon nightlife. We'll cover those separately.
 
----
 
 ## Cross-Suburb Nightlife
 
@@ -141,7 +136,6 @@ Biagio's is a family-run wine bar that's been serving the Essendon community for
 - [Nightlife in Ascot Vale](/ascot-vale/nightlife-guide) — another northwest suburb option
 - [Nightlife in Brunswick](/brunswick/nightlife-guide) — for actual club and late-night vibes
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Your ideal Essendon Friday night?**
@@ -152,7 +146,6 @@ Biagio's is a family-run wine bar that's been serving the Essendon community for
 
 [Vote in our weekly suburb poll →](/poll/essendon-nightlife-style)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Essendon Vibe Score This Week: 72/100**
@@ -161,7 +154,6 @@ Essendon scores well on community and consistency. Nightlife isn't the suburb's 
 
 [See the full Vibe Score breakdown →](/essendon/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's your Essendon night out?**
@@ -170,7 +162,6 @@ The pub you default to. The route you take. The feed you get on the way home. Sh
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Essendon**
@@ -179,7 +170,6 @@ The pub you default to. The route you take. The feed you get on the way home. Sh
 - [Best Bars in Essendon](/essendon/best-bars) — cocktails and wine
 - [Dining in Essendon](/essendon/best-restaurants) — bistro and restaurant options
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every drink, and received no sponsorship or compensation. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

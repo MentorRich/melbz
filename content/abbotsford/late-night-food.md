@@ -1,16 +1,22 @@
 ---
-title: "Late Night Food in Abbotsford 2026: Where to Eat After Dark"
+title: "Late Night Food in Abbotsford 2026: Where to Eat After 10pm"
 cover_image: "/images/abbotsford/late-night-food.jpg"
 date: 2026-03-16
-author: adam
-tags: ["abbotsford", "late-night", "food"]
-categories: ["food"]
-description: "Late Night Food in Abbotsford 2026: Where to Eat After Dark
+author: marcus
+tags: ["abbotsford", "late-night-food", "lifestyle"]
+categories: ["lifestyle"]
+description: "Late Night Food in Abbotsford 2026: Where to Eat After 10pm"
+---
 
-Updated 16 March 2026 | 6 places tested | Adam Nowak reporting
+***Updated 16 March 2026 | Marcus Cole reporting***
+
+
+
 
 Here's the honest truth about Ab..."
----
+
+*Updated 16 March 2026 | 6 places tested | Adam Nowak reporting*
+
 # Late Night Food in Abbotsford 2026: Where to Eat After Dark
 
 **Updated 16 March 2026 | 6 places tested | Adam Nowak reporting**
@@ -23,12 +29,10 @@ Abbotsford sits in a funny spot geographically. It's wedged between the [Richmon
 
 Let's get into it.
 
----
 
 > **⚡ THE MOVE**
 > **Before you read on:** If it's already after 10pm and you're hungry NOW, jump straight to Spot #1 (Hungry Nawabz) or #4 (Pacific Seafood BBQ House). Both had food on plates past 10:30pm on the nights we tested. The others close earlier — plan accordingly.
 
----
 
 ## 1. Hungry Nawabz — The 11pm Indian That Reddit Swears By
 
@@ -45,7 +49,6 @@ On a Friday night at 10:15pm, there were still eight tables occupied. The kitche
 
 **The catch:** Service is functional, not warm. Don't come for the ambiance — come because you want a proper curry at a time when your other options are Maccas or a sad kebab.
 
----
 
 ## 2. Jinda Thai — Abbotsford's Best Thai, Full Stop
 
@@ -62,7 +65,6 @@ Here's why it makes a late-night list: they close at 10pm, which sounds early, b
 
 **The catch:** Bookings are essential on Friday and Saturday nights. Walk-ins after 8:30pm on weekends are a gamble. They don't do delivery through the apps consistently, so plan to dine in or call ahead for takeaway.
 
----
 
 ## 3. Cam's Kiosk at Abbotsford Convent — The 11pm Closing Time You Forgot About
 
@@ -79,7 +81,6 @@ The courtyard views over the Convent gardens are free. On a warm evening, there'
 
 **The catch:** The food is good, not groundbreaking. You're paying for the setting and the hours, not culinary fireworks. And on Sundays, they shut at 9pm — don't rock up at 10 expecting dinner.
 
----
 
 > **🗳️ POLL: What's your late-night non-negotiable?**
 >
@@ -90,7 +91,6 @@ The courtyard views over the Convent gardens are free. On a warm evening, there'
 >
 > *Vote in the comments or hit us up on the MELBZ Telegram channel.*
 
----
 
 ## 4. Pacific Seafood BBQ House — Cantonese Roast Meats at 11:30pm
 
@@ -107,7 +107,6 @@ This is where Abbotsford locals end up when Jinda Thai's closed and the curry sh
 
 **The catch:** Cash is still preferred (cards accepted but the EFTPOS machine "mysteriously" works better with cash). And the weekend wait can hit 20 minutes past 9pm — put your name down or grab a takeaway container.
 
----
 
 ## 5. Co Thu Quan Richmond — Northern Vietnamese That Goes Against the Grain
 
@@ -122,7 +121,6 @@ The hours aren't super late (9:30pm on weekends), but what makes this spot worth
 
 **The catch:** 9:30pm close means this is a "start here at 8, move somewhere else by 9:30" play, not a midnight destination. Also, the menu is Vietnamese-only on the physical copy — your phone's camera translate will help if you can't read it.
 
----
 
 ## 6. Thanh Thanh Vietnamese Restaurant — The Quiet Reliable on Victoria Street
 
@@ -139,12 +137,10 @@ At 9:45pm on a Wednesday, we were one of three tables. No pressure, no rush. Jus
 
 **The catch:** If you want adventure, look elsewhere. This is comfort food done properly. The dining room is dated — think 2000s banquet chairs and paper placemats — but the food has held its standard.
 
----
 
 > **⚡ URGENCY BANNER**
 > **Weekend reminder:** Abbotsford's late-night options thin out fast after 10pm on weeknights. Friday and Saturday give you the most flexibility (Pacific BBQ House goes to 11:30pm, Cam's to 11pm). If you're planning a weeknight mission, plan around Hungry Nawabz or Pacific BBQ House — they're your safest bets past 10.
 
----
 
 ## What We Skipped and Why
 
@@ -158,7 +154,6 @@ Not every food spot in the area made the cut. Here's what got left off and the r
 
 **The late-night kebab shops** — There are a few on the periphery, but none in Abbotsford proper that matched the quality threshold. We ate three kebabs across two nights to confirm this. Our stomachs are still recovering.
 
----
 
 ## The Honest Reckoning
 
@@ -168,7 +163,6 @@ The sweet spot for late-night Abbotsford eating is **8:30pm–10:30pm on a weeke
 
 If you're coming from [Collingwood](/suburb/collingwood), the smart play is to start at a Smith Street bar, walk south through Abbotsford to hit Jinda Thai or Cam's Kiosk, then finish at Pacific BBQ House or Hungry Nawabz on Victoria Street. That's a proper food crawl route and I'm surprised nobody's mapped it before.
 
----
 
 > **💬 REACTION BAR**
 >
@@ -177,13 +171,11 @@ If you're coming from [Collingwood](/suburb/collingwood), the smart play is to s
 > 📍 Saved for the weekend
 > 🤔 Got a spot we missed? Tell us in the comments
 
----
 
 ## Open Loop
 
 This is just the Abbotsford chapter. We've mapped the late-night food corridors across the entire inner city — and the one that surprised us most was [Collingwood's late-night scene](/suburb/collingwood/late-night-food), where the Smith Street strip has quietly become one of Melbourne's most underrated after-dark eating precinct. That guide drops next week.
 
----
 
 *Updated 16 March 2026 | 6 places tested | Adam Nowak reporting*
 

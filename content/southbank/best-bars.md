@@ -5,12 +5,11 @@ date: 2026-03-18
 author: lina
 tags: ["southbank", "best-bars"]
 categories: ["best"]
-description: "Updated 18 March 2026 | Nightlife Writer
-
- Best Bars in Southbank 2026
-
-Southbank's bar scene has evolved into a sophisticated playground where riverside vie..."
+description: "Best Bars in Southbank 2026"
 ---
+
+*description: "18 March 2026 | Nightlife Writer"*
+
 *Updated 18 March 2026 | Nightlife Writer*
 
 # Best Bars in Southbank 2026

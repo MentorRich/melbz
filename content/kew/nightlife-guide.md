@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Kew — 2026 Local Guide"
 cover_image: "/images/kew/nightlife-guide.jpg"
+---
+
 suburb: "kew"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Discover the nightlife guide in Kew. Our verified 2026 guide covers the best spots for locals."
 tags: ["kew"]
 categories: ["nightlife"]
----
 ## The Best Nightlife Guide in Kew
 
 Kew has a reputation for being buttoned-up, and honestly, it's earned. This is the suburb of heritage mansions, tree-lined streets, and people who take their wine seriously. But beneath the polished surface, there's a genuine local scene: pubs that have been serving the community for over a century, bars that understand their affluent clientele, and a nightlife that rewards those who know where to look.
@@ -18,7 +19,6 @@ The geography is compact. **High Street** is the spine — runs east-west throug
 
 This is your verified 2026 guide to going out in Kew, from the historic hotel to the wine bar worth seeking out.
 
----
 
 ### The Early Evening: Pubs and Wine
 
@@ -30,7 +30,6 @@ Kew's early evening scene is refined but not pretentious. These are venues that 
 
 **Barr'd Wine & Tapas Bar** (located near Kew Junction) is Kew's small bar, the kind of place that justifies the suburb's wine credentials. The fit-out is intimate: low lighting, a handful of tables, and a wine list that takes its subject seriously without taking itself too seriously. By-the-glass options start around $12 and go up to $30 for special bottles. The tapas menu is designed for sharing: cheese boards, charcuterie, and a few hot plates that work well with wine. The crowd is affluent but unpretentious — people who appreciate good wine without needing to prove it. This is a weekday-night spot, the kind of place where you can have a conversation and actually hear yourself think. Closing time is usually around 11pm, which makes it an early-evening destination rather than a late-night one.
 
----
 
 ### The Main Event: Pubs and Bars
 
@@ -42,7 +41,6 @@ Kew's pub scene has depth, mostly because the venues have been around long enoug
 
 **The Back Room Bar** (near Kew Junction) is Kew's small bar, tucked away in a quiet location that rewards those who seek it out. The fit-out is moody: dark wood, low lighting, and the kind of atmosphere that makes everything feel more sophisticated. The cocktail list is creative without being pretentious ($22–$28), and the wine list has some interesting options. The crowd is a mix of locals who know about it and people who've stumbled upon it. This is a date-night spot, a catch-up spot, a "let's have one drink before heading home" spot. Closing time is usually around 11pm.
 
----
 
 ### Late Night: After 11pm
 
@@ -54,7 +52,6 @@ Kew's late-night options are limited, which suits the suburb's character. Most v
 
 **Late-night food** in Kew is limited. A few kebab shops operate near Kew Junction, but quality is inconsistent. Your best bet is grabbing something before last drinks or ordering delivery when you get home.
 
----
 
 ### Live Music and Events
 
@@ -66,7 +63,6 @@ Kew's live music scene is low-key but genuine, concentrated at a few venues that
 
 **Nevermind Bar** in nearby Hawthorn is a short drive or tram ride away and hosts live music most nights. Worth mentioning for Kew locals who want more options.
 
----
 
 ### Getting Home Safe
 
@@ -84,7 +80,6 @@ Kew is well-connected by tram and train, making it easy to navigate after a nigh
 
 **Cycling** is a viable option for the adventurous. The terrain is flat, the roads are quiet, and most venues have bike storage.
 
----
 
 ### What We Skipped and Why
 
@@ -96,7 +91,6 @@ Kew is well-connected by tram and train, making it easy to navigate after a nigh
 
 **Pokies rooms** — They exist at some of the bigger pubs but are usually segregated. We left them out because they actively make the experience worse.
 
----
 
 ### Nearby Guides Worth Reading
 
@@ -107,11 +101,9 @@ Kew is well-connected by tram and train, making it easy to navigate after a nigh
 
 > **📊 MELBZ POLL** — Kew's best night out starts at: Postmaster Hotel | Harp of Erin | Skinny Dog Hotel | Back Room Bar
 
----
 
 *Last verified March 2026. Opening hours and cover charges change — always check before you head out.*
 
----
 
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
 

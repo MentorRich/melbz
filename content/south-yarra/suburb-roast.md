@@ -5,19 +5,21 @@ date: 2026-03-16
 author: tyler
 tags: ["south-yarra", "roast", "opinions"]
 categories: ["editorial"]
-description: "South Yarra: The Suburb Roast — Every Hot Take, No Apologies
-
-SOUTH YARRA VIBE SCORE: 76/100 ⚡️ SLIDING (-1 this week)
-
-Updated 16 March 2026 | Tyler James r..."
+description: "South Yarra: The Suburb Roast — Every Hot Take, No Apologies."
 ---
+
+**Updated 16 March 2026 | Tyler James r..."**
+
+
+
+*Updated 16 March 2026 | Tyler James r..."*
+
 # South Yarra: The Suburb Roast — Every Hot Take, No Apologies
 
 **SOUTH YARRA VIBE SCORE: 76/100 ⚡️ SLIDING (-1 this week)**
 
 *Updated 16 March 2026 | Tyler James reporting*
 
----
 
 South Yarra. The suburb Melbourne love-hates with the intensity usually reserved for a Melbourne Cup day tram packed with sunburnt tourists. It's where Chapel Street meets its own reflection in a $400 pair of sunglasses and doesn't blink. It's the postcode that tells people everything and nothing at the same time. And if you live here, you already know this — because you paid roughly $2,400 a month to be here, and you're going to defend that decision with your life.
 
@@ -134,7 +136,6 @@ Maybe. For one Saturday. Then rent is due again on Monday.
 
 > **"At least South Yarra has the self-awareness to know it's overpriced. That's more than we can say for Toorak, where the residents genuinely believe their air smells different. Spoiler: it doesn't. It smells like other people's lawns, which is basically the same thing. Read our [Toorak Roast](/toorak/suburb-roast) and fight us."**
 
----
 
 ## The Verdict
 
@@ -148,7 +149,6 @@ The question isn't whether South Yarra is worth it. The question is whether you'
 
 > **⚡ OPEN LOOP: Think South Yarra is overrated? Wait until you see what we have to say about [Richmond](/richmond). The [Richmond Roast](/richmond/suburb-roast) drops next week and it's going to cause arguments. [Subscribe to the newsletter](/newsletter) so you don't miss it.**
 
----
 
 ## Your Turn 🔥
 
@@ -160,14 +160,12 @@ The question isn't whether South Yarra is worth it. The question is whether you'
 - [📖] **Read the [South Yarra suburb hub](/south-yarra)** for our full guide — restaurants, bars, cost of living, and the live Vibe Score.
 - [🔥] **Compare scores** — Check the [Melbourne Suburb Leaderboard](/leaderboard) to see where South Yarra ranks this week.
 
----
 
 *Tyler James is the Roast Editor at MELBZ. He has lived in Melbourne for 11 years, in five different suburbs, and has strong opinions about all of them. Especially the ones he got kicked out of. Follow him on [Instagram](https://instagram.com/melbz) or submit a roast suggestion at [melbz.com.au/confess](/confess).*
 
 **South Yarra Vibe Score: 76/100 ⚡️ — SLIDING (-1 this week)**  
 *Score updated weekly. [See how it's calculated](/about/vibe-score).*
 
----
 
 *Cross-linked suburbs: [Fitzroy](/fitzroy) • [Richmond](/richmond) • [Collingwood](/collingwood) • [South Melbourne](/south-melbourne) • [Brunswick](/brunswick) • [Toorak](/toorak) • [Prahran](/prahran)*
 

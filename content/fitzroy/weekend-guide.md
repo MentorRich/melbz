@@ -5,19 +5,18 @@ date: 2026-03-16
 author: maya
 tags: ["fitzroy", "weekend", "things-to-do"]
 categories: ["lifestyle"]
-description: "Updated 16 March 2026 | Maya Singh reporting
-
+description: "Your Fitzroy Weekend: The Complete Guide"
 ---
+
+*description: "16 March 2026 | Maya Singh reporting"*
+
 
 Fitzroy doesn't do lazy weekends. The suburb wakes up hungover, drags itself to a flat white, and somehow ..."
----
 Updated 16 March 2026 | Maya Singh reporting
 
----
 
 Fitzroy doesn't do lazy weekends. The suburb wakes up hungover, drags itself to a flat white, and somehow turns the day into something worth talking about by Monday. If you've got 48 hours to fill, here's how to do Fitzroy properly — no tourist traps, no vague suggestions, just a Saturday and Sunday planned out with venues that actually deliver.
 
----
 
 ## SATURDAY: The Full Fitzroy Day
 
@@ -53,7 +52,6 @@ You've got two options here depending on the weather and your mood:
 
 The Town Hall Hotel on the corner of Gertrude and George Streets is Fitzroy's best pub for a pre-dinner drink. It's been around forever, the beer garden is decent-sized, and they keep the taps interesting without getting wanky about it. A pot is $6, a pint around $11. This is the kind of pub where you sit down for one and end up staying for three because the conversation flows and nobody's in a rush.
 
----
 
 > **📊 VOTE: What's your go-to Fitzroy pub?**
 > - The Town Hall Hotel 🍺
@@ -63,7 +61,6 @@ The Town Hall Hotel on the corner of Gertrude and George Streets is Fitzroy's be
 >
 > *Vote in our weekly Fitzroy poll — results drop every Monday in the [Fitzroy Vibe Score roundup](/suburbs/fitzroy).*
 
----
 
 ### 7:30pm — Dinner at Marion
 
@@ -79,13 +76,11 @@ Two paths diverge here, and both are very Fitzroy:
 
 **Path B — The Tote or The Curtin:** If you want live music and a sticky carpet, the Tote on Johnston Street is the place. Check their gig listings before you go — some Saturdays are packed, some are quiet depending on who's playing. The Curtin on Lygon Street (technically Carlton but close enough) is the other option for late-night Fitzroy-adjacent action.
 
----
 
 > **⚡ URGENCY BANNER**
 > **Fitzroy's Vibe Score is sitting at 91 this week — 6 points higher than last month.**
 > [See what's driving the score up →](/suburbs/fitzroy)
 
----
 
 ## SUNDAY: Slower Pace, Same Quality
 
@@ -117,7 +112,6 @@ If pizza isn't the move, the Merri Creek Hotel on the northern edge of Fitzroy (
 
 End the weekend where you should end every weekend: at a good pub with a cold beer. The Standard Hotel on Fitzroy Street has a front beer garden that catches the late afternoon sun, a solid tap list, and the kind of low-key energy that makes Sunday evening feel like it could last forever. A pot is $6. Order one, sit down, and start planning next weekend.
 
----
 
 > **💬 REACTION BAR**
 > Does this match your Fitzroy weekend? Tell us below:
@@ -126,7 +120,6 @@ End the weekend where you should end every weekend: at a good pub with a cold be
 > - 🤔 "Swap Amore for DOC — fight me"
 > - 😂 "I live here and I needed this"
 
----
 
 ## The MELBZ Scorecard: Fitzroy This Week
 
@@ -138,7 +131,6 @@ End the weekend where you should end every weekend: at a good pub with a cold be
 | Transport | Tram 86 or bike. Drive only if you like pain. |
 | Safety after dark | Smith Street strip is well-lit and busy. Brunswick Street gets quieter north of Johnston — keep your wits about you. Fitzroy Police Station: 292 Smith Street. |
 
----
 
 ## What's Coming Next in Fitzroy
 
@@ -146,7 +138,6 @@ The inner north moves fast. Last month three new spots opened on Smith Street al
 
 **One more thing:** If you think you know Fitzroy well, wait until you see how Collingwood and Abbotsford are reshaping the north-east corridor. The [Complete Guide to Collingwood's Smith Street strip](/suburbs/collingwood) covers every venue worth visiting — and some that aren't. The rivalry between Fitzroy and Collingwood is about to get a lot more interesting.
 
----
 
 *Maya Singh is the Weekend Editor at MELBZ. She's been living in and writing about inner Melbourne for eight years. She has never once successfully parked on Smith Street.*
 

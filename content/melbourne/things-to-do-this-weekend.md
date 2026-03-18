@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Melbourne — March 2026 Guide"
 cover_image: "/images/melbourne/things-to-do-this-weekend.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "maya"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Your actual guide to things to do this weekend in Melbourne. Real venues, real prices, no tourism brochure nonsense. March 2026."
 tags: ["melbourne"]
 categories: ["things"]
----
 # Things To Do This Weekend in Melbourne — March 2026
 
 Melbourne's turning on one of those late-autumn weekends where the weather can't decide if it's summer's last gasp or winter's opening act. Good news: everything on this list works rain or shine. We've pulled together what's actually worth your time this weekend (21–22 March), from a new film festival to rooftop drinks to the sort of lazy Sunday that starts with a croissant and ends at a pub with nowhere to be.
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. Melbourne Food & Wine Festival Opens
 
@@ -26,7 +26,6 @@ The Melbourne Food & Wine Festival kicks off on 20 March and runs through 29 Mar
 **When:** 20–29 March
 **Insider tip:** Follow the festival's Instagram for last-minute free event announcements. They often drop surprise pop-ups 24 hours before — last year a Collingwood warehouse turned into a seven-course Vietnamese feast with only 40 seats.
 
----
 
 ## 2. Melbourne Women in Film Festival at ACMI
 
@@ -37,7 +36,6 @@ Now in its 10th year, the Melbourne Women in Film Festival (MWFF) takes over ACM
 **Tickets:** From $15 via mwff.org.au
 **Insider tip:** The Friday night opening event usually has a DJ and drinks after the screening. Worth arriving early for the social side, not just the films.
 
----
 
 ## 3. Frankston Street Art Festival
 
@@ -48,7 +46,6 @@ If you're up for a day trip, the Frankston Street Art Festival runs 16–22 Marc
 **Cost:** Free
 **Getting there:** Frankston line from Flinders Street, about 55 minutes.
 
----
 
 ## 4. Europa! Europa! Film Festival
 
@@ -58,7 +55,6 @@ The Europa! Europa! Film Festival is winding up its run on 19 March, so this wee
 **When:** Final screenings through 19 March
 **Tickets:** Around $20 via europafilmfestival.com.au
 
----
 
 ## 5. Brimbank Writers and Readers Festival (Final Day)
 
@@ -68,7 +64,6 @@ The Brimbank Writers and Readers Festival wraps up on 17 March. If you've got Mo
 **When:** Final day, 17 March
 **Cost:** Free
 
----
 
 ## 6. Melbourne Celtic Festival at Mission to Seafarers
 
@@ -78,7 +73,6 @@ The Melbourne Celtic Festival is on at the Mission to Seafarers in Docklands on 
 **When:** 17 March
 **Tickets:** Via trybooking.com
 
----
 
 ## 7. A Long Lunch That Turns Into Arvo Drinks
 
@@ -88,7 +82,6 @@ Melbourne's late-March weather is unpredictable enough that outdoor dining is a 
 **Cost:** $25–$55 per person depending on how many courses and wines you commit to
 **Insider tip:** If Tiamo is packed (it will be), walk two blocks to DOC Dolomites on Drummond Street. Same Italian soul, smaller crowds, better wine list.
 
----
 
 ## 8. The Melbourne Museum + Carlton Gardens Combo
 
@@ -98,7 +91,6 @@ Sometimes the best weekend plan is the simplest one. Melbourne Museum in Carlton
 **Cost:** Adults $15, children free
 **Insider tip:** The museum is free on the first Sunday of each month, but even at $15 it's Melbourne's best-value rainy-day option.
 
----
 
 ## What We Skipped and Why
 
@@ -110,7 +102,6 @@ Sometimes the best weekend plan is the simplest one. Melbourne Museum in Carlton
 
 **The Grampians Harmony Festival:** It's on this weekend in Stawell and it's free and genuinely lovely — but it's a three-hour drive from Melbourne. If you're already heading west, go for it. Otherwise, save it for a long weekend.
 
----
 
 ## The Bottom Line
 
@@ -118,7 +109,6 @@ Melbourne Food & Wine Festival is the headline act this weekend. But honestly, t
 
 **Your Melbourne Vibe Score this week: 81/100** — Festival season is ramping up, the weather's playing nice enough, and autumn Melbourne is quietly the best version of the city.
 
----
 
 *Getting home safe: If you're out late this weekend, Night Network buses run across the city from midnight to 5am. Check PTV for routes. Uber surge pricing on Saturday nights in the CBD is brutal after 11pm — walk a few blocks south toward South Melbourne or east toward Richmond before requesting, and you'll save yourself $15–$20.*
 
@@ -126,7 +116,6 @@ Melbourne Food & Wine Festival is the headline act this weekend. But honestly, t
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ### 📊 Quick Widgets
 

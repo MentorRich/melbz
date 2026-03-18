@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/things-to-do-this-weekend.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "maya"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["things"]
----
 ## The Best Things To Do This Weekend in Northcote
 
 Northcote doesn't try to impress you — it just does. Perched on Rucker's Hill with views stretching from the city skyline to the Dandenongs, this inner-north legend has been quietly out-cooling its neighbours for decades. While Fitzroy North brunches and Brunswick argues about which cafe invented the flat white, Northcote just keeps getting better without needing anyone's permission.
@@ -18,7 +19,6 @@ This weekend, skip the algorithm and do Northcote like a local. Here's your game
 
 **Last updated: 16 March 2026** | **Northcote Vibe Score: 81/100 🟢**
 
----
 
 ## 🎬 Catch a Film at Palace Westgarth
 
@@ -29,7 +29,6 @@ There's a reason this place has survived over 100 years on High Street. Palace W
 **Address:** 89 High Street, Northcote
 **Book:** palacecinemas.com.au
 
----
 
 ## 🍺 Welcome to Thornbury — The Northside's Living Room
 
@@ -41,7 +40,6 @@ Friday and Saturday nights get packed — the 699-capacity space fills up fast. 
 
 **Address:** 520 High Street, Thornbury (right on the Northcote border)
 
----
 
 ## 🎵 Live Music at Northcote Social Club
 
@@ -54,7 +52,6 @@ Check their gig guide for this weekend's lineup — they run shows Thursday thro
 **Address:** 301 High Street, Northcote
 **Gigs:** northcotesocialclub.com/gigs
 
----
 
 ## 🍷 Bar Hop Down High Street
 
@@ -68,7 +65,6 @@ High Street between Clarendon and Station is one of Melbourne's best bar-hopping
 
 **Getting home:** The 86 tram runs until about 1:30am on weekends. Or walk 10 minutes to Northcote Station for a Craigieburn line train. Uber pickup from the High Street / Station Street intersection is your best bet if the tram's gone.
 
----
 
 ## 🥘 Eat Your Way Along the Strip
 
@@ -79,7 +75,6 @@ If you haven't eaten yet (unlikely after the bar hop, but ambition is ambition),
 - **Tahina** — Israeli street food that'll wreck your expectations. Loaded pita pockets, two types of falafel, shakshuka, and smoothies that are basically a meal. Under $15 for a filling lunch.
 - **Pizza Meine Liebe** — German-named, wood-fired, produce-driven pizza. Thin, slightly chewy bases with combos that shouldn't work but absolutely do.
 
----
 
 ## 🚶 Walk the Main Yarra Trail
 
@@ -89,7 +84,6 @@ Start from the Chandler Highway bridge and walk north. You'll pass through parkl
 
 **For families:** The trail is sealed and flat, perfect for prams and bikes. Pack a picnic and stop at one of the riverbank clearings.
 
----
 
 ## 🏛️ Browse High Street Shops
 
@@ -99,7 +93,6 @@ High Street between Murray Road and the train station is a proper local shopping
 - The odd antique dealer hiding between a hair salon and a Vietnamese bakery
 - Record stores that still exist in 2026 because Northcote
 
----
 
 ## Getting There & Getting Home
 
@@ -110,7 +103,6 @@ High Street between Murray Road and the train station is a proper local shopping
 
 **Safety note:** High Street itself is well-lit and busy on weekend nights. Side streets off the main strip can be darker — stick to Well Street or Bruce Street if walking between venues. The area around Northcote Station is generally safe but quiet after 10pm — have your transport sorted before then.
 
----
 
 ## Weekend Budget Guide
 
@@ -125,7 +117,6 @@ High Street between Murray Road and the train station is a proper local shopping
 | Main Yarra Trail walk | Free |
 | High Street browsing | Depends on your willpower |
 
----
 
 ## The Bottom Line
 
@@ -133,7 +124,6 @@ Northcote is the kind of suburb that rewards you for showing up without a plan. 
 
 **Your Northcote Vibe Score this week: 81/100** — Solid autumn energy. Live music is back, the MABO festival season is winding down, and the weather is cooperating just enough to use the Welcome to Thornbury beer garden without a jacket.
 
----
 
 ## More From the Neighbourhood
 
@@ -144,7 +134,6 @@ Northcote is the kind of suburb that rewards you for showing up without a plan. 
 - → [What's On in Fitzroy North This Weekend](/fitzroy-north/things-to-do-this-weekend)
 - → [Brunswick Weekend Guide](/brunswick/things-to-do-this-weekend)
 
----
 
 *Know something we missed? Drop us a line — we're always updating.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

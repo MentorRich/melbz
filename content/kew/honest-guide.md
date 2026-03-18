@@ -1,23 +1,26 @@
 ---
-title: "Kew Honest Guide 2026: Leafy Streets & Real Talk"
+title: "Kew Honest Guide 2026: Leafy Streets Real Talk"
 cover_image: "/images/kew/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["kew", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Kew Honest Guide 2026: Leafy Streets & Real Talk
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Kew Honest Guide 2026: Leafy Streets & Real Talk"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Right, let's talk about Kew. The suburb that thinks i..."
----
 # Kew Honest Guide 2026: Leafy Streets & Real Talk
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Right, let's talk about Kew. The suburb that thinks it's a suburb but really operates as a small, leafy kingdom where the trees are old enough to have witnessed Federation and the houses cost enough to fund one. If Melbourne's inner east had a monarchy, Kew would be wearing the crown, polishing it daily, and complaining that the crown isn't quite prestigious enough.
 
@@ -161,7 +164,6 @@ If you want leafy streets, strong schools, genuine safety, and proximity to the 
 
 Just don't move here expecting it to change for you. Kew was here before you and it'll be here after you. Those trees have seen it all.
 
----
 
 *Have a hot take on Kew? Think we got it wrong? Tell us on the [MELBZ Facebook page](https://facebook.com/melbz) or hit us up on Instagram [@melbz.com.au](https://instagram.com/melbz.com.au). We read everything — even the angry ones.*
 

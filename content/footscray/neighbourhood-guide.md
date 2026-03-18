@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide to Footscray — 2026 Local Guide"
 cover_image: "/images/footscray/neighbourhood-guide.jpg"
+---
+
 suburb: "footscray"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Your complete neighbourhood guide to living in Footscray. Our verified 2026 guide covers everything you need to know."
 tags: ["footscray"]
 categories: ["neighbourhood"]
----
 ## The Neighbourhood Guide to Footscray
 
 Footscray sits five kilometres west of Melbourne's CBD, bordered by the Maribyrnong River to the east and the suburbs of Seddon, West Footscray, and Kingsville in every other direction. It's inner-city by postcode, but it carries itself like a village. The kind of place where Vietnamese grandmothers shop next to young families, where Ethiopian restaurants sit beside Japanese comfort-food joints, and where the weekend markets smell like lemongrass and fresh bread simultaneously.
@@ -18,7 +19,6 @@ If you're considering a move — or just trying to understand why your friends f
 
 **Last updated: March 2026** | **Footscray Vibe Score: 74/100 🟢 THRIVING**
 
----
 
 ## Where Is Footscray, Really?
 
@@ -33,7 +33,6 @@ Footscray is in the City of Maribyrnong, 5km west of the CBD. The Maribyrnong Ri
 
 This positioning is key. You're close enough to the city for an easy commute but far enough out that you actually get space, character, and value. The Werribee and Williamstown train lines run through Footscray Station, getting you to Flinders Street in about 12 minutes. Trams and buses cover the rest.
 
----
 
 ## The Streets That Define Footscray
 
@@ -45,7 +44,6 @@ This positioning is key. You're close enough to the city for an easy commute but
 
 **The streets north of Barkly** — Lynch, Stirling, and surrounding areas — are where the residential sweet spot sits. Quiet, tree-lined, and increasingly popular with young families and professionals priced out of the inner north. The area around Commercial Road also offers good living with less foot traffic.
 
----
 
 ## Living Here: What to Expect
 
@@ -75,7 +73,6 @@ Compared to Fitzroy or Collingwood, you're saving $100–200/week for a similar 
 - The Maribyrnong River parks and playgrounds are excellent for families.
 - Footscray Market (Hopkins Street) is the weekly ritual — fresh produce, seafood, Asian groceries, and the kind of bargaining that Melbourne's other markets have lost.
 
----
 
 ## The Food and Drink Scene
 
@@ -91,7 +88,6 @@ Footscray's food culture is what puts it on the map for most people. The Vietnam
 
 No neighbourhood guide is complete without mentioning Footscray Market. This sprawling indoor market on Hopkins Street is where locals buy fresh meat, fish, fruit, and vegetables at prices that put supermarkets to shame. There are also Vietnamese, Filipino, and Chinese grocery stalls selling ingredients you won't find at Coles. The street-food vendors inside serve some of the cheapest, most authentic meals in the suburb.
 
----
 
 ## What's Nearby
 
@@ -107,7 +103,6 @@ Yarraville Village, a few minutes by train from Footscray Station, is known for 
 
 Cross the Maribyrnong River and you're in West Melbourne — an area undergoing rapid development with new apartment complexes and a growing food scene of its own. West Melbourne gives Footscray residents an easy city-side option for something different, and the riverside path connecting the two is a beautiful walk, especially at sunset.
 
----
 
 ## The Vibe: What Does Footscray Actually Feel Like?
 
@@ -117,7 +112,6 @@ On any given Saturday, you'll see Vietnamese families loading up at Footscray Ma
 
 The gentrification conversation is real — rents are rising, new apartment blocks are going up along Hopkins Street, and the gap between Footscray's working-class history and its increasingly middle-class present is visible. But in 2026, the balance still holds. The multicultural fabric remains the suburb's defining feature, and the local businesses reflect that.
 
----
 
 ## Parks, Green Spaces and the Outdoors
 
@@ -132,7 +126,6 @@ The Maribyrnong River is Footscray's greatest outdoor asset. The riverside trail
 
 For those who like weekend markets beyond Footscray Market, the wider Maribyrnong area hosts occasional community markets and events. The Footscray Community Arts Centre (FCAC) on Hopkins Street also runs regular free and low-cost programming — exhibitions, performances, workshops — that draws the local creative community.
 
----
 
 ## The History (Quick Version)
 
@@ -140,7 +133,6 @@ Footscray has been one of Melbourne's most culturally diverse suburbs since the 
 
 In recent years, young professionals and families priced out of the inner north have moved in, bringing natural wine bars, brunch cafés, and weekend routines that revolve around Barkly Street rather than Brunswick Street. The result, in 2026, is a suburb where a Vietnamese grandmother and a thirty-something couple from Northcote can exist comfortably on the same block — and that's what makes Footscray special.
 
----
 
 ## Practical Tips for New Residents
 
@@ -151,7 +143,6 @@ In recent years, young professionals and families priced out of the inner north 
 - **Library:** Footscray Library on Bradford Street — recently renovated, good community programs.
 - **Fitness:** Several gyms along the main strip. The Maribyrnong River trail is the best free gym in the west.
 
----
 
 ## The Bottom Line
 

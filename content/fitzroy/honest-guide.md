@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["fitzroy", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Fitzroy Honest Guide 2026: Brunswick Street Reality Check
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Fitzroy Honest Guide 2026: Brunswick Street Reality Check"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Let's get something straight before we start..."
----
 # Fitzroy Honest Guide 2026: Brunswick Street Reality Check
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Let's get something straight before we start. Fitzroy is not the quirky, bohemian village it was in 2012. It's not the gritty, cheap-rent artist enclave your older mate keeps telling you about. If you moved to Melbourne in the last five years expecting Fitzroy to be some kind of indie wonderland where you stumble into underground galleries and pay $12 for a plate of pasta, I'm sorry. Someone lied to you.
 
@@ -37,7 +40,6 @@ Brunswick Street is Fitzroy's main artery and, depending on the time of day, it'
 
 > **Getting Home Safe:** If you're out late on Brunswick Street, the 86 tram runs down Smith Street until around 1am (check Night Network for later services). Uber pick-ups are smoother on Johnston Street or Brunswick Street near Victoria Parade — avoid trying to get a ride from the middle of the strip. Fitzroy Police Station is at 292 Smith Street, open 24/7.
 
----
 
 ## The Cafes (The Ones Actually Worth Your Saturday Morning)
 
@@ -49,7 +51,6 @@ Everyone will tell you about the "best" cafe in Fitzroy. Here's what they won't 
 
 **The cafe-to-person ratio in Fitzroy** is roughly 1:38. There are more cafes per square metre here than anywhere in Melbourne except maybe South Yarra. This means you will never struggle for coffee. It also means the mediocre ones get weeded out eventually. The survivors are worth knowing.
 
----
 
 ## What You'll Actually Pay For Things
 
@@ -71,7 +72,6 @@ Because "affordable" means nothing without numbers.
 
 Can you live here on $65K? Barely, if you want to eat out regularly and don't have housemates. On $85K? Comfortably, with a partner or flatmate. On $110K+? You're fine. You'll probably still complain about the rent, but you'll be fine.
 
----
 
 ## The Neighbourhoods Within the Neighbourhood
 
@@ -85,7 +85,6 @@ Fitzroy isn't one suburb — it's at least three that people lump together.
 
 **Gertrude Street end** — Where Fitzroy gets a bit more gallery-and-boutique. Gertrude Contemporary and a cluster of independent designers. Closer to [Carlton](/carlton/honest-guide) in vibe than the Brunswick Street strip.
 
----
 
 ## The Pub Situation
 
@@ -99,7 +98,6 @@ Fitzroy pubs fall into three categories:
 
 > **Safety note on Fitzroy pubs:** Most are genuinely welcoming and safe. But if you're out solo late at night, stick to the busier streets. The quieter blocks between Brunswick and Smith Streets around midnight can feel isolated. Not dangerous — just quiet enough that you'd rather not be walking alone with headphones in.
 
----
 
 ## What Fitzroy Gets Right
 
@@ -111,7 +109,6 @@ Fitzroy pubs fall into three categories:
 
 **Arts and live music.** The Brunswick Street strip still books live acts regularly. The Northcote Social Club is a 10-minute walk from the Fitzroy border. Small galleries, artist studios, community theatre — the creative infrastructure is real, even if the artists themselves have been pushed further north to [Brunswick](/brunswick/honest-guide) and beyond.
 
----
 
 ## What Fitzroy Gets Wrong
 
@@ -123,7 +120,6 @@ Fitzroy pubs fall into three categories:
 
 **The "I'm not like other Fitzroy people" brigade.** You'll meet people who live in Fitzroy and immediately tell you they're "not really a Fitzroy person." They'll tell you they "prefer the old Fitzroy." They've been saying this since 2008. Just nod.
 
----
 
 ## What We Skipped and Why
 
@@ -137,7 +133,6 @@ Fitzroy pubs fall into three categories:
 
 **We skipped pet-friendly content.** Because every second venue in Fitzroy is dog-friendly to the point where not having a dog in Fitzroy feels like the exception. If you have a dog, you already know the drill. If you don't, the dogs will find you anyway.
 
----
 
 ## The Collingwood & Carlton Connection
 
@@ -147,7 +142,6 @@ To the north-west, the Fitzroy-Carlton border near Lygon Street is where the Ita
 
 The 86 tram connects Fitzroy to [Brunswick](/brunswick/honest-guide) to the north. If you're priced out of Fitzroy (and honestly, many people are), Brunswick is the natural next step — similar vibe, slightly cheaper, more student energy, and Sydney Road's Middle Eastern food corridor is criminally underrated.
 
----
 
 ## The Verdict
 
@@ -157,13 +151,11 @@ Should you live here? If you've got the budget and you value walkability and com
 
 Should you visit? Every Melbourne local should spend a proper Saturday in Fitzroy at least once a season. Walk the streets, skip the queues, eat somewhere that doesn't have a menu board in calligraphy font, and remember that this suburb was Melbourne's first — and it still feels like it has something to prove.
 
----
 
 **Was this honest guide helpful?** Rate Fitzroy's vibe [on our interactive score page](/suburb-scores/fitzroy) and let us know what we got right — and what we missed.
 
 **Want more honest suburb takes?** Check our [Collingwood Honest Guide](/collingwood/honest-guide), [Carlton Honest Guide](/carlton/honest-guide), and [Brunswick Honest Guide](/brunswick/honest-guide) for the full inner-north picture.
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 

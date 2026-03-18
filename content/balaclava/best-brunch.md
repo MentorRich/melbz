@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Balaclava — 2026 Local Guide"
 cover_image: "/images/balaclava/best-brunch.jpg"
+---
+
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best brunch in Balaclava. Our verified 2026 guide covers the best spots for locals."
 tags: ["balaclava"]
 categories: ["best"]
----
 # Best Brunch in Balaclava — 8 Spots Worth Waking Up For in 2026
 
 Balaclava doesn't get the brunch hype that Fitzroy or Carlton do, and honestly? That's perfect. You won't queue for an hour behind a Instagram influencer photographing their acai bowl. You'll sit down, order something that actually tastes good, and be done before the 96 tram even leaves St Kilda. That's the Balaclava brunch advantage.
@@ -20,7 +21,6 @@ Carlisle Street is the brunch artery here, and it runs on something different to
 
 Here's where to eat on a Saturday morning in Balaclava and actually enjoy it.
 
----
 
 ## 1. Monk Bodhi Dharma
 **The vibe:** A hidden red brick building in a Woolworths car park, surrounded by street art and the unmistakable smell of properly roasted coffee. The most Melbourne brunch spot in Balaclava, full stop.
@@ -34,7 +34,6 @@ The zucchini and mint fritters with beetroot relish are another standout — lig
 **Hours:** Mon–Sun 7am–3:30pm
 **Insider tip:** Arrive by 8am on Saturday or expect a 20-minute wait. Weekday mornings are calm and the staff are friendlier when the rush hasn't hit.
 
----
 
 ## 2. Las Chicas
 **The vibe:** A bare-brick Carlisle Street veteran with a backyard garden, seasonal menus, and the energy of a café that's been doing this longer than most of its competitors have existed.
@@ -50,7 +49,6 @@ The backyard garden is the real draw on sunny days. Surrounded by greenery, with
 **Hours:** Mon–Sun 7am–5pm (kitchen closes 2:30pm)
 **Insider tip:** No bookings for groups under 10 — walk-ins only. Get there by 9am on weekends or plan to wait. The backyard fills first.
 
----
 
 ## 3. All Things Equal
 **The vibe:** An inclusive café where every meal supports training and employment for adults with disabilities. The food is genuinely excellent, and the atmosphere is warm without being saccharine.
@@ -64,7 +62,6 @@ The brunch menu changes seasonally but the quality stays consistent. What really
 **Hours:** Tue–Sun 8:30am–3pm
 **Insider tip:** They offer catering and after-hours venue hire — worth knowing if you need a low-key function space. The space transforms nicely in the evening.
 
----
 
 ## 4. Batch Espresso
 **The vibe:** The Kiwi-owned café with a Slayer espresso machine, weekend brunch game that competes with the city's best, and Thursday evenings that feel like a different venue entirely.
@@ -78,7 +75,6 @@ What makes Batch interesting for brunch is the flexibility. Open until 10pm on T
 **Hours:** Mon–Wed 7am–5pm, Thu–Fri 7am–10pm, Sat–Sun 7am–4pm
 **Insider tip:** Thursday evenings are their hidden-good moment. The brunch menu runs alongside dinner options, and the atmosphere shifts from "Saturday morning" to "Friday night" without you noticing.
 
----
 
 ## 5. Wall Two 80
 **The vibe:** A former Kosher butcher turned neighbourhood café with one of the best takeaway windows in Melbourne and a brunch menu that's evolved nicely beyond its coffee-first origins.
@@ -92,7 +88,6 @@ The brunch here isn't trying to reinvent the wheel. It's the reliable, well-made
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** If you're catching the Sandringham line from Balaclava Station, grab takeaway here. The station entrance is directly across from the ordering window — it's practically a commute-through café.
 
----
 
 ## 6. Blencowes Milk Bar
 **The vibe:** A retro milk bar that's been holding it down in Balaclava for years, serving straightforward brunch classics in a space that feels like stepping back in time — in the best way.
@@ -106,7 +101,6 @@ It's the kind of place where families have been coming for years, where the staf
 **Hours:** Mon–Sun 7:30am–3pm
 **Insider tip:** The milkshakes are old-school proper — thick, real-ice-cream milkshakes. Not a brunch item technically, but worth the detour if you're there with kids.
 
----
 
 ## 7. Common Ground
 **The vibe:** Clean, minimal, modern. The kind of café where the design doesn't distract from the food, and the food doesn't need the design to sell it.
@@ -120,7 +114,6 @@ The coffee is solid and the service is fast. If you've had a bad experience at a
 **Hours:** Mon–Sun 7am–4pm
 **Insider tip:** The minimalist interior photographs beautifully if that's your thing, but more importantly, it means no visual clutter while you eat. Small mercy.
 
----
 
 ## 8. Little Westbury Café
 **The vibe:** A neighbourhood spot that flies under the radar but has a quietly devoted following. The brunch here feels homemade in the best sense — generous, flavourful, and made without pretension.
@@ -134,7 +127,6 @@ The vibe is relaxed, the portions are generous, and the prices are noticeably mo
 **Hours:** Mon–Sun 7am–3:30pm
 **Insider tip:** The daily specials chalk board is where the real magic is. Ignore the printed menu and ask what's good today.
 
----
 
 ## The Bottom Line
 
@@ -142,7 +134,6 @@ Balaclava brunch doesn't chase trends and doesn't need to. The strip has enough 
 
 **Your Balaclava Vibe Score this week: 72/100** — steady and reliable, just like the brunch scene.
 
----
 
 *Know a spot we missed? [Let us know.](https://melbz.com.au/tips)*
 

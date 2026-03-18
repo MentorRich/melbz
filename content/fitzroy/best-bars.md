@@ -1,6 +1,8 @@
 ---
 title: "Best Bars in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/best-bars.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "jess"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the best bars in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["best"]
----
 ## The Best Bars in Fitzroy
 
 Fitzroy doesn't need a nightlife "scene" — it has a nightlife ecosystem. Within a ten-minute walk, you can hit a world-class cocktail bar, a 150-year-old pub, a rooftop with city views, a Spanish wine bar that costs less than an Uber to Madrid, and a secret speakeasy that doesn't technically exist. No other Melbourne suburb packs this much drinking variety into such a small footprint.
 
 Whether you're after a $22 martini made by someone who's won international awards or a $9 schooner in a beer garden the size of a tennis court, Fitzroy has your night sorted. Here's where to go.
 
----
 
 ## 1. Black Pearl — 304 Brunswick Street, Fitzroy
 
@@ -28,7 +28,6 @@ The Black Pearl is one of those bars that makes other bars try harder. It's been
 
 **Budget check:** Cocktails $19–$25. Wine $14–$18/glass. Two people: $60–$90.
 
----
 
 ## 2. The Everleigh — 1 Gertrude Street, Fitzroy
 
@@ -40,7 +39,6 @@ The Everleigh is Melbourne's definitive cocktail bar. Styled after a 1920s speak
 
 **Budget check:** Cocktails $22–$28. Two people: $70–$100.
 
----
 
 ## 3. The Marquis of Lorne — 411 George Street, Fitzroy
 
@@ -52,7 +50,6 @@ The Marquis of Lorne has been standing since the 1860s and it looks like it — 
 
 **Budget check:** Pints $9–$12. Parma $24. Two people with food and drinks: $60–$80.
 
----
 
 ## 4. Naked in the Sky — 285 Brunswick Street, Fitzroy
 
@@ -64,7 +61,6 @@ Naked in the Sky sits above Naked for Satan (the downstairs pintxos bar) and off
 
 **Budget check:** Cocktails $16–$22. Pintxos $5–$14. Two people: $55–$85.
 
----
 
 ## 5. Bar Liberty — 234 Johnston Street, Fitzroy
 
@@ -76,7 +72,6 @@ Bar Liberty pulls double duty as both one of Fitzroy's best restaurants and one 
 
 **Budget check:** Wine $16–$22/glass. Cocktails $20–$24. Two people grazing and drinking: $70–$110.
 
----
 
 ## 6. Amarillo — 189 Gertrude Street, Fitzroy
 
@@ -88,7 +83,6 @@ Amarillo is Fitzroy's answer to a Barcelona wine bar, and it nails the brief. Wa
 
 **Budget check:** Tapas $12–$28. Wine $14–$20/glass. Two people: $65–$100.
 
----
 
 ## 7. The Gertrude Hotel — 85 Gertrude Street, Fitzroy
 
@@ -100,7 +94,6 @@ The Gertrude Hotel is a 19th-century pub that's been reimagined as an Italian-le
 
 **Budget check:** Share plates $14–$22. Mains $24–$32. Two people with drinks: $80–$120.
 
----
 
 ## The Price Comparison
 
@@ -114,7 +107,6 @@ The Gertrude Hotel is a 19th-century pub that's been reimagined as an Italian-le
 | Amarillo | Spanish Wine Bar | Jalapeño Margarita | $20 | $65–$100 |
 | The Gertrude Hotel | Gastropub | Aperol Spritz | $19 | $80–$120 |
 
----
 
 ## What We Skipped and Why
 
@@ -124,7 +116,6 @@ The Gertrude Hotel is a 19th-century pub that's been reimagined as an Italian-le
 
 **Brunswick Street mega-bars with bottle-service culture:** Not Fitzroy's vibe. If you want a $400 magnum and a velvet rope, head to Southbank.
 
----
 
 ## Cross-Suburb Bar Guides
 
@@ -132,7 +123,6 @@ The Gertrude Hotel is a 19th-century pub that's been reimagined as an Italian-le
 - [Best Bars in Carlton](/carlton/best-bars) — Lygon Street's aperitivo culture
 - [Best Bars in Fitzroy North](/fitzroy-north/best-bars) — Quieter neighbourhood spots
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Friday night: what's your move?**
@@ -143,7 +133,6 @@ The Gertrude Hotel is a 19th-century pub that's been reimagined as an Italian-le
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-bar-preference)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -152,7 +141,6 @@ Fitzroy's bar scene is one of Melbourne's deepest. The mix of world-class cockta
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's your Friday night Fitzroy route?**
@@ -161,7 +149,6 @@ Every local has their crawl. Where do you start, where do you end, and what do y
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -170,7 +157,6 @@ Every local has their crawl. Where do you start, where do you end, and what do y
 - [Best Restaurants in Fitzroy](/fitzroy/best-restaurants) — food before drinks
 - [Nightlife Guide to Fitzroy](/fitzroy/nightlife-guide) — the complete after-dark planner
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every drink, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

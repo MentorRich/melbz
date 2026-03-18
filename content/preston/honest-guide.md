@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["preston", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Preston Honest Guide 2026: High Street & Real Opinions
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Preston Honest Guide 2026: High Street & Real Opinions"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Here's the thing about Preston. Everyone has an..."
----
 # Preston Honest Guide 2026: High Street & Real Opinions
 
 Updated 16 March 2026 | Jack Morrison reporting
 
----
 
 Here's the thing about Preston. Everyone has an opinion and none of them fully agree. Ask a Sydneysider and they'll say it's "up and coming." Ask someone from Fitzroy and they'll say it's where Fitzroy went to retire. Ask a local and they'll tell you to shut up and try the bánh mì on High Street.
 

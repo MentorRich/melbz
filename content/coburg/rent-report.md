@@ -5,17 +5,16 @@ date: 2026-03-16
 author: marcus
 tags: ["coburg", "rent", "property"]
 categories: ["property"]
-description: "Rent Prices in Coburg 2026: What You'll Pay
+description: "Rent Prices in Coburg 2026: What You'll Pay"
+---
 
 Coburg is one of those inner-north suburbs where you can still almost call it affordable — if you squint and com..."
----
 # Rent Prices in Coburg 2026: What You'll Pay
 
 Coburg is one of those inner-north suburbs where you can still *almost* call it affordable — if you squint and compare it to Brunswick. But let's not pretend the rental market here hasn't tightened considerably. If you're eyeing a move to the 3058, you need real numbers, not vibes. Here's exactly what you'll pay for every bedroom count, how Coburg stacks up against its neighbours, and what salary you actually need to live here without eating two-minute noodles five nights a week.
 
 **Updated 16 March 2026 | Marcus Cole reporting**
 
----
 
 ## The Quick Numbers
 
@@ -30,7 +29,6 @@ Those figures come from rolling 12-month data across Domain, YIP, and htAG. That
 
 Let's break it down by what you're actually looking for.
 
----
 
 ## 1-Bedroom: What You'll Pay
 
@@ -40,7 +38,6 @@ You'll find the cheaper end around **$400–$430** for older units south of Bell
 
 **What $450/week actually means:** That's $1,950 a month, or roughly $23,400 a year just on rent. To keep rent under 30% of your income (the old rule of thumb that feels increasingly quaint), you'd need to earn about **$78,000/year before tax**. Comfortably doable on a single professional salary — barely achievable on a single retail wage.
 
----
 
 ## 2-Bedroom: The Sweet Spot (And the Competition)
 
@@ -52,7 +49,6 @@ The older two-bed flats along the Bell Street corridor and around这片zone betw
 
 **Insider tip:** The two-bedroom townhouse-style properties in the side streets off Sydney Road (think Nicholson, Glencairn, and Murray) often come with small backyards and street parking. They rent slightly above median ($580–$630) but offer far more space per dollar than a comparable unit in [Brunswick](/melbz/brunswick). Worth the extra $20–40/week if you have a dog or need room for a home office.
 
----
 
 ## 3-Bedroom: Houses vs. Units
 
@@ -64,7 +60,6 @@ A well-maintained three-bedroom house in Coburg — updated kitchen, decent heat
 
 For a family, $700/week means **$36,400/year** in rent alone. To keep that at 30% of income, you'd need a household income north of **$121,000/year**. That's two mid-range professional salaries, or one very solid one.
 
----
 
 ## 4-Bedroom and Above
 
@@ -72,7 +67,6 @@ Larger properties exist but they're less common and less predictable in pricing.
 
 These tend to be snapped up quickly by larger families or groups of friends sharing. If you're a group of four or five professionals splitting an $850/week house, that's $170–$212 each — actually not terrible compared to the per-person cost of renting two separate one-bedrooms.
 
----
 
 ## How Coburg Compares: The Inner-North Showdown
 
@@ -105,7 +99,6 @@ Preston offers more space for less money. It's got a thriving High Street scene,
 
 The honest verdict? If budget is your primary concern, [Preston](/melbz/preston) wins. If you want to be closer to the city and value train access, Coburg has the edge.
 
----
 
 ## What You'd Need to Earn
 
@@ -122,7 +115,6 @@ These aren't unachievable numbers — but they're not pocket change either. Melb
 
 For families, dual incomes make it work. For students and younger renters, sharing is still the move — a $560/week two-bed split two ways is $280/week each, which is livable.
 
----
 
 ## Rent Trends: Is It Going Up or Down?
 
@@ -136,7 +128,6 @@ The pace is slower than 2022–2023, when inner-north rents jumped 15–20% in a
 
 **Translation:** Landlords still have the leverage. Applications are competitive. Have your documents ready, have references sorted, and don't lowball the rent offer.
 
----
 
 ## The Lifestyle Tax: What You're Really Paying For
 
@@ -152,7 +143,6 @@ Rent data doesn't tell you what you *get* for the money. Here's what makes Cobur
 
 **What you're missing:** The nightlife is thin. Coburg is not Fitzroy or Brunswick after dark. If your social life revolves around late-night bars and gig venues, you'll be catching the tram south regularly. The retail strip also has more gaps than Sydney Road in Brunswick — vacant shopfronts still dot the landscape.
 
----
 
 ## What We Skipped and Why
 
@@ -166,7 +156,6 @@ Rent data doesn't tell you what you *get* for the money. Here's what makes Cobur
 
 **Student accommodation.** The proximity to RMIT's Brunswick campus and not-too-far-from-University-of-Melbourne location means some of Coburg's market is influenced by student demand. But there's no dedicated student housing in Coburg itself, so this plays out as competition for the same 1-bed and 2-bed units, not a separate price tier.
 
----
 
 ## The Verdict
 
@@ -178,11 +167,9 @@ For families, the three-bedroom house market is tight everywhere in this corrido
 
 The honest truth: nobody moves to the inner north to save money. You move here for the walkability, the food, the culture, and the 25-minute train to Flinders Street. Coburg delivers all of those at a slight discount to its flashier neighbours. Whether that discount is enough depends on your budget and your priorities.
 
----
 
 *Your [Coburg](/melbz/coburg) Vibe Score this week: check the live score on our suburb page.*
 
----
 
 **Disclaimer:** Rent data sourced from YIP (Your Investment Property Magazine), htAG Property Analytics, Homes Victoria Rental Report (September Quarter 2025), Domain.com.au market forecasts, and ConnectMarket Melbourne Rent Trends. All figures represent medians and ranges as of early 2026. Individual rental prices vary based on property condition, location within the suburb, and market conditions at time of listing. Always verify current prices on realestate.com.au or domain.com.au before making rental decisions. Rental support services are available via Consumer Affairs Victoria (1300 558 181).
 

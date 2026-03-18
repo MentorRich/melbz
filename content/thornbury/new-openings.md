@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Thornbury — Your 2026 What's Fresh Guide"
 cover_image: "/images/thornbury/new-openings.jpg"
+---
+
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Thornbury's newest restaurants, cafes, and bars in 2026. We verify what's actually open and worth your time — no vapourware, no hype, just real spots."
 tags: ["thornbury"]
 categories: ["new"]
----
 # New Openings in Thornbury — Your 2026 What's Fresh Guide
 
 Thornbury's High Street is in a near-perpetual state of renovation, which is exactly why we love it. While other suburbs chase the next big thing with queues and influencer launches, Thornbury's new spots open quietly, build a local following, and either stabilize or disappear within six months. That filter — the community vote by foot traffic — is a brutal but effective quality control mechanism. Here's what's actually open and worth your time in 2026, plus a few legitimately opening soon spots to watch.
 
 **Last updated: 17 March 2026** | **Thornbury Vibe Score: 78/100 🟢**
 
----
 
 ## Open Now and Worth Your Time
 
@@ -30,7 +30,6 @@ Casa Sicilia brings proper Sicilian café culture to Thornbury. The breakfast me
 **Why it lasts:** Authentic concept, family-run, fills a genuine niche (Sicilian breakfast). No flashy launch — just steady business.
 **Try this:** Arancini trio ($15)
 
----
 
 ### Larry David's (Opened Q1 2025)
 **The vibe:** A café with a name that promises neurotic energy and delivers caffeinated excellence.
@@ -42,7 +41,6 @@ Larry David's opened quietly and has quickly built a following for its strong co
 **Why it'll stick:** Consistent quality, good location between Short Round and Rat the Cafe, strong social media presence without the hype.
 **Try this:** The daily special ($20–24)
 
----
 
 ### Cafe Gummo (Opened Q2 2025)
 **The vibe:** A newer entry to the Thornbury café scene with creative dishes and a fresh perspective.
@@ -54,7 +52,6 @@ Cafe Gummo has built a following fast by taking risks with brunch combinations t
 **Why it'll stick:** Rotating menu keeps regulars coming back, good coffee programme, fills a gap between Barton Fink and Le Café Flo.
 **Try this:** Dish of the day ($18–23)
 
----
 
 ## Recent Stabilizers (12–24 Months Old)
 
@@ -69,7 +66,6 @@ Barton Fink opened during the post-pandemic bar boom and has carved out a unique
 **Hours:** From 7:30am daily (café); bar from 5pm Wed–Sat
 **Stability rating:** High. Has survived two summers, built a loyal regular base, and the dual-concept model works year-round.
 
----
 
 ### 3 Ravens Brewery Taproom (Expanded 2024)
 **The vibe:** A proper brewery taproom where the beer was made 50 metres from where you're drinking it.
@@ -80,7 +76,6 @@ Barton Fink opened during the post-pandemic bar boom and has carved out a unique
 **Hours:** Fri 4–9pm, Sat 12–6pm, Sun 12–5pm
 **Stability rating:** Very high. Established brewery brand, real production site, and a captive local audience.
 
----
 
 ## Opening Soon (Watch This Space)
 
@@ -93,7 +88,6 @@ These are legitimate openings in the pipeline — not "maybe" or "rumoured" but 
 **What to expect:** A genuine neighbourhood restaurant that changes the menu with the seasons, remembers regulars, and prices for locals — not tourists on expense accounts.
 **Opening window:** June–August 2026
 
----
 
 ### Wolf & Swill Expansion (Opening Q3 2026)
 **Concept:** Extended pizza and small plates menu from the Thornbury team that already does the best pizza on the strip (Moors Head).
@@ -102,7 +96,6 @@ These are legitimate openings in the pipeline — not "maybe" or "rumoured" but 
 **What to expect:** Better-than-average pizza with a focus on small plates and natural wines. Expect Thursday–Sunday service initially, expanding if demand holds.
 **Opening window:** September–December 2026
 
----
 
 ## What Closed (And Why It Matters)
 
@@ -116,7 +109,6 @@ Every opening is also a closing. Here's what Thornbury lost in the past 12 month
 
 **The Moor's Head Pizza Pop-Up** — Was a weekly pop-up at Carwyn Cellars. Graduated to a full-time spot at Wolf & Swill on nearby Charles St. Follow Wolf & Swill for schedule.
 
----
 
 ## How to Spot a Real Opening vs Hype
 
@@ -138,7 +130,6 @@ Thornbury has a brutal but effective filter for hospo ventures:
 
 Thornbury's best spots (Umberto, Carwyn, Franklin's, Rat) all opened quietly and grew through word-of-mouth. That's the filter.
 
----
 
 ## The Bottom Line
 
@@ -146,12 +137,10 @@ Thornbury's new openings in 2026 are modest but solid: Casa Sicilia (2024) and L
 
 **Your Thornbury Vibe Score this week: 78/100** — The turnover is healthy, the quality is stable, and the hype is minimal. Exactly how we like it.
 
----
 
 *Got a tip on a new opening we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Also in the area:**
 → [Best Restaurants in Thornbury](/thornbury/best-restaurants)

@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-coffee.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best coffee in Melbourne's CBD and surrounds for 2026. Real cafes, real prices, and where Melburnians actually get their daily fix — from flat whites to filter."
 tags: ["melbourne"]
 categories: ["general"]
----
 # Best Coffee in Melbourne — 2026 Guide
 
 Right, let's get something straight. Melbourne's coffee reputation isn't a myth, but it also isn't a free pass for every cafe with a La Marzocca and a minimal interior to charge $5.50 for a flat white that tastes like warm milk. The city has some of the best coffee in the world — and some of the most overhyped. This guide separates the two.
@@ -18,7 +19,6 @@ Every cafe on this list has been visited, ordered from, and judged by someone wh
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. Market Lane Coffee — CBD (Degraves Street)
 
@@ -31,7 +31,6 @@ The Degraves Street location is the OG — a narrow, standing-room-heavy space w
 **Hours:** Mon–Fri, 7am–4pm; Sat–Sun, 8am–5pm
 **Budget:** $4.50–$6.50 per drink
 
----
 
 ## 2. Patricia Coffee Brewers — CBD (Little Bourke Street)
 
@@ -44,7 +43,6 @@ The space is a former 1930s hairdresser's, retained with original tiles and a lo
 **Hours:** Mon–Fri, 7:30am–4pm
 **Budget:** $4–$7 per visit
 
----
 
 ## 3. Proud Mary — Collingwood (Smith Street)
 
@@ -59,7 +57,6 @@ The "Grand Crus" menu features rare and limited-edition beans that you won't fin
 
 **Cross-link:** Collingwood sits right between Carlton and South Yarra on the specialty coffee spectrum — if you love Proud Mary's approach, check [Carlton's coffee scene](/carlton/best-coffee/) for a different but equally excellent vibe.
 
----
 
 ## 4. Higher Ground — CBD (Little Bourke Street)
 
@@ -72,7 +69,6 @@ The coffee program here is serious. They use Single O beans and the baristas are
 **Hours:** Mon–Fri, 7am–4pm; Sat–Sun, 8am–3pm
 **Budget:** $4.50–$6.50 for coffee; $18–$32 for food
 
----
 
 ## 5. Axil Coffee Roasters — CBD (Bourke Street)
 
@@ -85,7 +81,6 @@ The space is purpose-built — you can see the roaster through a glass partition
 **Hours:** Mon–Fri, 7am–4pm; Sat, 8am–4pm
 **Budget:** $4.50–$7 per drink
 
----
 
 ## 6. Industry Beans — CBD (Royal Arcade)
 
@@ -98,7 +93,6 @@ What Industry Beans does better than almost anyone is cold brew. Their signature
 **Hours:** Mon–Fri, 7am–4pm
 **Budget:** $4.50–$7 per drink
 
----
 
 ## 7. St. ALi — South Melbourne (Clarendon Street)
 
@@ -113,7 +107,6 @@ St. ALi roasts their own beans, trains their baristas to competition level, and 
 
 **Cross-link:** South Melbourne Market is just around the corner — pair your St. ALi coffee with a market wander. Check our [South Melbourne guide](/south-melbourne/best-cafes/) for more options in the area.
 
----
 
 ## 8. Auction Rooms — North Melbourne (Errol Street)
 
@@ -126,7 +119,6 @@ The coffee is excellent. Auction Rooms uses their own house blend and a rotating
 **Hours:** Daily, 7:30am–4pm
 **Budget:** $4.50–$6.50 for coffee; $17–$28 for food
 
----
 
 ## 9. Coffee Supreme — CBD (Hosier Lane area)
 
@@ -139,7 +131,6 @@ What makes Coffee Supreme stand out is consistency. Every single time, every sin
 **Hours:** Mon–Fri, 7am–4pm; Sat–Sun, 8am–3pm
 **Budget:** $4.50–$6.50 per drink
 
----
 
 ## 10. Code Black Coffee — South Yarra (Chapel Street)
 
@@ -154,7 +145,6 @@ Code Black roasts in-house and the espresso is bold and full-bodied, designed to
 
 **Cross-link:** South Yarra's Chapel Street has serious cafe depth — explore [South Yarra's best cafes](/south-yarra/best-cafes/) for the full picture.
 
----
 
 ## The CBD Coffee Walk — A Self-Guided Tour
 
@@ -167,19 +157,16 @@ If you want to experience Melbourne's coffee scene in a single morning, here's a
 
 Total distance: about 800 metres. Total caffeine: approximately four coffees. Total cost: around $35–$50. Productivity for the rest of the day: compromised but worth it.
 
----
 
 ## A Note on Price
 
 Yes, Melbourne coffee prices have gone up. A standard flat white that was $4 two years ago is now $4.50–$5 at most specialty cafes. That's inflation, increased rent, and the cost of ethically sourced beans all hitting at once. But here's the thing: $4.80 for a coffee made by a trained barista using single-origin beans, served in a proper ceramic cup, in a city with actual cafe culture? That's still one of the best-value daily luxuries in the developed world. The $7 oat milk latte at the chain place down the road? That's the one to skip.
 
----
 
 ## Getting Around
 
 Most of the cafes on this list are walkable within the CBD. Bring a Myki for anything beyond the CBD boundaries — tram Zone 1 covers the CBD and inner suburbs. The 86 tram gets you from the CBD to Collingwood (Proud Mary). The 58 tram connects the CBD to South Melbourne (St. ALi). South Yarra is accessible via the Sandringham or Frankston train lines from Flinders Street.
 
----
 
 ## Related Guides
 

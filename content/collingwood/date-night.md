@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Collingwood — 2026 Local Guide"
 cover_image: "/images/collingwood/date-night.jpg"
+---
+
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "grace"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the date night in Collingwood. Our verified 2026 guide covers the best spots for locals."
 tags: ["collingwood"]
 categories: ["date"]
----
 # Date Night in Collingwood — Where to Take Them (and Not Screw It Up)
 
 Collingwood isn't the obvious date night suburb. It doesn't have the waterfront views of South Yarra, the candlelit heritage of Carlton, or the "look how much money I spend" energy of the CBD. What it has is something better: authenticity, atmosphere, and the kind of places where you can actually have a conversation without shouting over a DJ you didn't choose. If you're bringing someone to Collingwood for a date, you're telling them you care about good food, good drinks, and good vibes — not just Instagram backdrop.
 
 **Last updated: 16 March 2026** | **Collingwood Vibe Score: 87/100 🟢**
 
----
 
 ## The Serious Date: Le Bon Ton
 
@@ -34,7 +34,6 @@ Le Bon Ton (51 Gipps Street) does Southern US barbecue done properly — the bri
 
 **Insider tip:** Ask for the absinthe list if you're into it. They have one of Melbourne's best collections, and the staff will walk you through the drip ritual if you've never done it. It's a genuine conversation piece, not a party trick.
 
----
 
 ## The Wine Bar Date: Suze
 
@@ -52,7 +51,6 @@ The staff at Suze genuinely know their wine and won't judge you for saying "I li
 **Hours:** Wed–Sun from 5pm
 **Insider tip:** The bar seats facing the kitchen are the best spots for a couple — you get to watch the chefs work while you eat, which gives you something to talk about if conversation stalls. Not that it will.
 
----
 
 ## The Casual Date: Molly Rose Brewing
 
@@ -68,7 +66,6 @@ Molly Rose (279 Wellington Street) is the answer to "where should we go that's l
 **Hours:** Wed–Fri from 4pm, Sat–Sun from 12pm
 **Insider tip:** They occasionally do tap takeovers and collaboration brews with other Victorian breweries — check their Instagram before you go. These events draw a crowd but also create a fun, communal atmosphere that takes the pressure off a one-on-one dynamic.
 
----
 
 ## The Coffee Date: Aunty Peg's or Hi Fi
 
@@ -80,7 +77,6 @@ Sometimes a date isn't dinner. Sometimes it's a Saturday morning walk that turns
 
 **The coffee date strategy:** Meet at 10am on a Saturday. Start with coffee and something to eat. If it's going well, suggest a walk — Smith Street toward Abbotsford Convent is a natural 20-minute route with plenty of detour options. If it's not going well, you've spent $30 and two hours, not $200 and four.
 
----
 
 ## The Outdoors Date: Abbotsford Convent and the Yarra Trail
 
@@ -96,7 +92,6 @@ Walk from Collingwood via Gertrude Street, through the back streets of Abbotsfor
 **Hours:** Grounds open daily, dawn to dusk; buildings vary
 **Insider tip:** The Convent's garden has a hidden bench area about halfway down the slope, tucked behind some trees. Two seats, river view, almost always empty. You didn't hear it from us.
 
----
 
 ## What We Skipped and Why
 
@@ -105,7 +100,6 @@ Walk from Collingwood via Gertrude Street, through the back streets of Abbotsfor
 - **Any Smith Street bar with a DJ** — If you can't hear each other talk, it's not a date, it's a night out with someone you happen to know.
 - **Fine dining** — Collingwood's restaurant scene is excellent, but if you want white-tablecloth fine dining, you're better off heading to Carlton or the CBD. Collingwood does atmosphere and authenticity better than formality.
 
----
 
 ## The Bottom Line
 
@@ -113,7 +107,6 @@ Collingwood's date night strength is its range: you can do a $20 coffee date tha
 
 **Your Collingwood Vibe Score this week: 87/100** — low-key romance, zero pretension.
 
----
 
 *Know a spot we missed? [Drop us a tip.](https://melbz.com.au/tip)*
 *→ Related reads: [Best Restaurants in Collingwood](/collingwood/best-restaurants) | [Cheap Eats in Collingwood](/collingwood/cheap-eats) | [Things to Do This Weekend](/collingwood/things-to-do-this-weekend)*
@@ -121,14 +114,12 @@ Collingwood's date night strength is its range: you can do a $20 coffee date tha
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Widget: Vibe Score** | Collingwood this week: **87/100** 🟢 | [See full ranking →](https://melbz.com.au/vibe-score)
 **Widget: Tonight's Picks** | [What's on in Collingwood tonight →](https://melbz.com.au/tonight/collingwood)
 **Widget: This Weekend** | [Saturday & Sunday picks across Melbourne →](https://melbz.com.au/this-weekend)
 **Widget: Rate Your Suburb** | How's Collingwood feeling this week? [Rate it →](https://melbz.com.au/rate/collingwood)
 
----
 
 *Living in Collingwood? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=collingwood)*
 

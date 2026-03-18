@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Brunswick — 2026 Local Guide"
 cover_image: "/images/brunswick/best-brunch.jpg"
+---
+
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best brunch spots in Brunswick for 2026. Lux Foundry, Code Black, iMa Asa Yora, Wide Open Road and the places worth setting an alarm for."
 tags: ["brunswick"]
 categories: ["best"]
----
 # Best Brunch in Brunswick — The 2026 Guide
 
 Brunswick doesn't do brunch quietly. While Fitzroy North has its leafy corner cafés and Brunswick East guards the Lygon Street pasta brunch with grim Sicilian seriousness, Brunswick proper has carved out something different: warehouse conversions with exposed brick and single-origin filter, Japanese set meals that make the smashed avo crowd rethink their life choices, and enough plant-based options to keep the vegans from staging another protest at the Cornish Arms.
@@ -18,7 +19,6 @@ This is not a list of ten mediocre cafés ranked by Instagram followers. This is
 
 **Last updated: 17 March 2026** | **Brunswick Vibe Score: 78/100 🟢**
 
----
 
 ## 1. Lux Foundry — The One That Earned Its Reputation
 
@@ -32,7 +32,6 @@ Lux Foundry has been Brunswick's brunch heavyweight for over a decade, and in 20
 **Hours:** Daily, 7:30am–3pm
 **Insider tip:** Weekday mornings are calm. Saturday queues can hit 45 minutes by 10am. Arrive before 9am or accept your fate. The back courtyard gets morning sun — fight for it.
 
----
 
 ## 2. Code Black Coffee — The Industrial Cool One
 
@@ -46,7 +45,6 @@ Code Black's Brunswick HQ on Sydney Road is part roastery, part café, part aest
 **Hours:** Daily, 7am–4pm
 **Insider tip:** Their takeaway window on the side means you can skip the sit-down queue entirely on busy mornings. Same coffee, zero wait.
 
----
 
 ## 3. iMa Asa Yora — The Japanese Brunch Nobody Saw Coming
 
@@ -60,7 +58,6 @@ iMa Asa Yora translates roughly to "now, morning, forever" — and the concept i
 **Hours:** Wed–Sun, 8am–3pm
 **Insider tip:** There's a resident cat named Udon. He will sit on your chair if you let him. The matcha latte here is the best in Brunswick — possibly the best north of the river.
 
----
 
 ## 4. Wide Open Road — The All-Day Engine
 
@@ -74,7 +71,6 @@ Wide Open Road has been a Brunswick institution since it opened, and the all-day
 **Hours:** Daily, 7am–4pm
 **Insider tip:** Their cabinet pastries sell out fast on weekends. The almond croissant is best before 9am. They have a dedicated kids' menu, which is rarer than you'd think in Brunswick.
 
----
 
 ## 5. Mokum — The Dutch Surprise
 
@@ -88,7 +84,6 @@ Mokum on Sydney Road is the kind of place that regulars protect jealously. It's 
 **Hours:** Wed–Mon, 8am–3pm
 **Insider tip:** Mokum has zero pretension. No oat milk hierarchy, no pour-over theatre. Just good food, quick service, and a table by the window if you're lucky.
 
----
 
 ## 6. Ovens Street Bakery — The Queue That's Worth It
 
@@ -102,7 +97,6 @@ Ovens Street Bakery isn't technically a brunch café — it's a bakery that happ
 **Hours:** Thu–Mon, 7:30am–2pm
 **Insider tip:** They open at 7:30am and the best stuff is gone by 9:30am. If you're queuing after 10am on a Saturday, you're getting what's left. Still good, but not the same.
 
----
 
 ## 7. A1 Bakery — The $3.50 Wake-Up Call
 
@@ -116,7 +110,6 @@ A1 Bakery on Sydney Road is the anti-brunch brunch. No Instagram aesthetic. No s
 **Hours:** Daily, 6am–9pm
 **Insider tip:** The hot food counter rotates — falafel wraps, grilled meats, stuffed vine leaves. Arrive before 11am for the full selection. This is also a legit late-night feed if you're stumbling home from the Bergy Seltzer.
 
----
 
 ## The Bottom Line
 
@@ -124,7 +117,6 @@ Brunswick's brunch game in 2026 is exactly what it should be: diverse, unpretent
 
 If you only hit one spot, make it Lux Foundry for the full Brunswick experience. If you want something genuinely different, iMa Asa Yora will rearrange your brunch expectations. And if you're broke but hungry, A1 Bakery at 7am on a Tuesday is the most honest breakfast in Melbourne.
 
----
 
 **Your Brunswick Vibe Score this week: 78/100** — Still the best brunch strip north of the river.
 
@@ -132,7 +124,6 @@ If you only hit one spot, make it Lux Foundry for the full Brunswick experience.
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 *Also see: [Best Cafes in Brunswick](/brunswick/best-cafes) · [Best Coffee in Brunswick](/brunswick/best-coffee) · [Cheap Eats in Brunswick](/brunswick/cheap-eats) · [Brunswick East Brunch Guide](/brunswick-east/best-brunch) · [Coburg Weekend Brunch](/coburg/best-brunch) · [Fitzroy North Brunch Spots](/fitzroy-north/best-brunch)*
 

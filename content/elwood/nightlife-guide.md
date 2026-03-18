@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Elwood — 2026 Local Guide"
 cover_image: "/images/elwood/nightlife-guide.jpg"
+---
+
 suburb: "elwood"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The complete Elwood nightlife guide for 2026 — from local pubs and neighbourhood bars to the hidden gems along Ormond Road and the bayside scene."
 tags: ["elwood"]
 categories: ["nightlife"]
----
 # Elwood Nightlife Guide 2026 — Bayside Living After Dark
 
 Elwood doesn't have the nightlife reputation of its neighbours St Kilda and Brighton. And honestly, the locals prefer it that way. This bayside suburb has a different rhythm after dark — slower, more local, focused on quality over quantity. The drinking options here are spread across the Ormond Road strip, with a handful of genuine local pubs that have been serving the community for generations. There's no pretension in Elwood. No velvet ropes. No door policies that require you to be on a list. Just good pubs, decent drinks, and the kind of atmosphere that comes from a suburb that's comfortable in its own skin.
@@ -18,7 +19,6 @@ What Elwood lacks in density, it makes up for in consistency. The venues here do
 
 **Last updated: 17 March 2026** | **Elwood Vibe Score: 68/100** 🌊
 
----
 
 ## The Local Institutions: Pubs That Define Elwood
 
@@ -42,7 +42,6 @@ The sports bar area is a draw for the local crowd, with enough screens that you 
 **Where:** 1A Hotham Street, Elsternwick (adjacent to Elwood)
 **Insider tip:** The front bar is the most authentic experience. The back function rooms are popular for private events so call ahead.
 
----
 
 ## The Ormond Road Strip: Bars and Neighbourhood Venues
 
@@ -76,7 +75,6 @@ The crowd is diverse — locals who've been coming for years, newcomers discover
 **Where:** Ormond Road, Elwood
 **Insider tip:** Happy hour deals are worth timing your visit around. The outdoor area is popular but exposed to the elements.
 
----
 
 ## The Bayside Bonus: Beach Access
 
@@ -84,7 +82,6 @@ Elwood's proximity to the beach adds a dimension to the nightlife experience tha
 
 For those who want to extend their night with a walk, the coastal path to St Kilda takes about 20 minutes and passes by several venues worth checking out. It's a legitimate option for a night that combines drinking with mild exercise, which is more than most Melbourne suburbs can offer.
 
----
 
 ## The Late-Night Situation
 
@@ -92,7 +89,6 @@ Elwood's venues generally close around midnight, with a few staying later on wee
 
 For those wanting to continue past midnight, St Kilda is a short walk or taxi ride away and offers significantly more late-night options. It's a natural extension point for a night that starts in Elwood and continues elsewhere.
 
----
 
 ## What We Skipped and Why
 
@@ -104,7 +100,6 @@ For those wanting to continue past midnight, St Kilda is a short walk or taxi ri
 
 **Late-night clubs:** Elwood doesn't have them and never really has. For clubbing, St Kilda is the natural destination.
 
----
 
 ## Cross-Suburb Nightlife
 
@@ -113,7 +108,6 @@ For those wanting to continue past midnight, St Kilda is a short walk or taxi ri
 - [Nightlife in Brighton](/brighton/nightlife-guide) — The next bayside suburb south
 - [Nightlife in Balaclava](/balaclava/nightlife-guide) — The inner suburb connection
 
----
 
 **Your Elwood Vibe Score this week: 68/100** — Local, comfortable, and exactly what the suburb needs.
 
@@ -121,7 +115,6 @@ For those wanting to continue past midnight, St Kilda is a short walk or taxi ri
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 *Also see: [Best Pubs in Elwood](/elwood/best-pubs) · [Best Bars in Elwood](/elwood/best-bars) · [Beachside Day Out](/elwood/best-restaurants) · [St Kilda Night Out](/st-kilda/nightlife-guide) · [Brighton Evening](/brighton/nightlife-guide)*
 ## Related Articles

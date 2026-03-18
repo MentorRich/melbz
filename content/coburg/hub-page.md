@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jack
 tags: ["coburg", "suburb-guide"]
 categories: ["lifestyle"]
-description: "Coburg Melbourne Suburb Guide 2026: The Complete Picture
+description: "Coburg Melbourne Suburb Guide 2026: The Complete Picture"
+---
 
-Updated 16 March 2026 | Jack Morrison reporting
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
 
 Coburg sits 11 kilometres north of the CBD, stradd..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # Coburg Melbourne Suburb Guide 2026: The Complete Picture
 
 **Updated 16 March 2026 | Jack Morrison reporting**
@@ -151,7 +156,6 @@ If you're a renter priced out of [Brunswick](/brunswick) or [Brunswick East](/br
 
 > **Widget: Moving to Coburg?** What's the one question you need answered before you sign a lease? Ask below and our editors or local residents will answer.
 
----
 
 *Melbourne's suburbs aren't just postcodes — they're personalities. The MELBZ suburb guide gives you the complete picture, not the tourism brochure. Got a correction or something we should add? Hit us up at the usual address.*
 

@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/best-coffee.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best coffee in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["general"]
----
 # The Best Coffee in Northcote — 2026 Edition
 
 **Updated 16 March 2026 | Dani reporting**
@@ -18,7 +19,6 @@ Northcote takes its coffee the way it takes most things — seriously, but witho
 
 We hit every serious coffee spot on and near High Street, ordered flat whites, long blacks, and filter coffees, and came back more than once because Northcote's a suburb that rewards repeat visits. Here's what's actually worth your morning.
 
----
 
 ## 1. Code Black Coffee Roasters — The Northcote Standard
 
@@ -37,7 +37,6 @@ The space itself is designed for lingering. Large communal tables, decent Wi-Fi,
 
 **Open Loop → Code Black is a 12-minute walk from the [Northcote Social Club](/northcote/northcote-social-club-guide). Grab a coffee here before an afternoon gig — they're open from 7am.**
 
----
 
 ## 2. Sensory Lab — The Precision Nerds
 
@@ -54,7 +53,6 @@ If you're the kind of person who just wants a quick flat white and doesn't care 
 
 **Insider tip:** They do a "coffee flight" on Saturdays — three different brews of the same bean prepared different ways. It's $12 and it will either ruin you for all other coffee or make you appreciate it more. Either way, you'll learn something.
 
----
 
 ## 3. Maling Room — The South End Classic
 
@@ -69,7 +67,6 @@ The corner position means plenty of natural light, which in Melbourne winter is 
 
 **Insider tip:** Tuesday and Wednesday mornings are dead quiet here. If you want the full Maling Room experience without the weekend crush, show up at 8am on a Tuesday. You'll get the corner table, the full menu, and a barista who actually has time to chat.
 
----
 
 ## 4. Patricia's Bakehouse — The Greek Legacy
 
@@ -86,7 +83,6 @@ This is Northcote's answer to the $7 flat white phenomenon. Same caffeine. Half 
 
 > **Insider tip:** Get there before 9am on a weekday for the freshest pastries. By 10am, the good stuff is gone. The almond croissants go first — always.
 
----
 
 ## 5. Wide Open Road — The Brunswick Crossover
 
@@ -103,7 +99,6 @@ The food menu deserves its own article. The shakshuka is one of the best in the 
 
 **Open Loop → If you're exploring the Northcote–Brunswick corridor, pair Wide Open Road with a visit to [Brunswick's best cafes](/brunswick/best-cafes) for a full inner-north coffee crawl.**
 
----
 
 ## The Coffee Price Check (March 2026)
 
@@ -119,7 +114,6 @@ Because Melbourne people deserve to know exactly what they're paying.
 
 Average flat white in Northcote: **$4.36**. Compare that to Fitzroy North's average of $4.80 and the CBD's $5.20. Northcote still represents, but the gap is closing.
 
----
 
 **POLL: What's your Northcote coffee non-negotiable?**
 
@@ -130,7 +124,6 @@ Average flat white in Northcote: **$4.36**. Compare that to Fitzroy North's aver
 
 *Cast your vote and tag your coffee crew @melbzcomau with #NorthCoteCoffee*
 
----
 
 **NEIGHBOURING SUBURBS: Expand Your Coffee Map**
 
@@ -140,7 +133,6 @@ Average flat white in Northcote: **$4.36**. Compare that to Fitzroy North's aver
 - ☕ [Best Coffee in Fitzroy North](/fitzroy-north/best-coffee) — "Where the baristas have tattoos and opinions"
 - ☕ [Best Coffee in Brunswick](/brunswick/best-coffee) — "Lygon Street's old guard meets the new wave"
 
----
 
 **CONFESSION BOX 🗣️**
 
@@ -148,7 +140,6 @@ Average flat white in Northcote: **$4.36**. Compare that to Fitzroy North's aver
 
 The winner: "A decaf oat milk latte with extra sugar, no foam, and a shot of vanilla — at 6am. It's not coffee at that point. It's a milkshake with a memory of espresso."
 
----
 
 **Living in Northcote? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=northcote)**
 

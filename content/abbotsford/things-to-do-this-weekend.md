@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Abbotsford — 2026 Local Guide"
 cover_image: "/images/abbotsford/things-to-do-this-weekend.jpg"
+---
+
 suburb: "abbotsford"
 vertical: "lifestyle"
 author: "maya"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Abbotsford. Our verified 2026 guide covers the best spots for locals."
 tags: ["abbotsford"]
 categories: ["things"]
----
 ## The Best Things To Do This Weekend in Abbotsford
 
 There's a particular Saturday morning feeling in Abbotsford that you just don't get anywhere else in Melbourne. It's the sound of coffee grinders firing up at Au79 on Nicholson Street, the smell of woodfire pizza dough being prepped at the Studley Park Boathouse kitchen, and the sight of locals walking their greyhounds through the Yarra Bend Park fog like they're extras in some beautifully shot indie film.
@@ -20,7 +21,6 @@ Tucked between the industrial grit of Collingwood, the Vietnamese buzz of Richmo
 
 Here's your insider's guide to the best things to do this weekend in Abbotsford — written by people who actually live here, not tourists with a DayOuting voucher.
 
----
 
 ### Start at the Abbotsford Convent — Obviously
 
@@ -34,7 +34,6 @@ After the market, check what's on at the gallery. The Convent rotates exhibition
 
 **Pro tip:** The courtyard garden behind the main building is the best quiet spot in the inner east. Bring a book, sit under the wisteria, and pretend you don't have a phone.
 
----
 
 ### Paddle the Yarra at Studley Park Boathouse
 
@@ -46,7 +45,6 @@ Back on dry land, the Boathouse kitchen does a seasonal Australian menu that goe
 
 **Cost:** Kayak hire starts around $30/hour for a single. The restaurant doesn't take bookings for groups under six, so rock up early on weekends or expect a 20-minute wait.
 
----
 
 ### The Saturday Cafe Crawl: Abbotsford's Best Morning Fuel
 
@@ -58,7 +56,6 @@ Abbotsford's cafe scene punches absurdly above its weight for a suburb this size
 
 **For the adventurous:** Proud Mary on Queen Street. This is where Melbourne's specialty coffee scene came of age, and it still delivers. The breakfast menu is creative without being annoying about it — expect things like smoked ocean trout hash, house-cured meats, and seasonal specials that actually change with the seasons. The space has that perfect inner-city warehouse energy: exposed brick, Edison bulbs, and a communal table where you might end up sitting next to a barista from another cafe who's here to study their competition.
 
----
 
 ### Afternoon Culture Fix: Art, Vinyl, and Vintage
 
@@ -70,7 +67,6 @@ For vinyl, the short walk up to Collingwood's Johnston Street puts you within re
 
 If vintage is your thing, the Collingwood/Abbotsford border along Johnston Street has several second-hand clothing stores that are genuinely good rather than just expensive. Pro tip: the best stuff is usually in the back racks, behind the curated front displays that are designed to catch tourists.
 
----
 
 ### Evening: Dinner, Drinks, and the Abbotsford Nightlife
 
@@ -84,7 +80,6 @@ Bodriggy Brewery, also on Johnston Street, is Abbotsford's home-grown craft beer
 
 For something more casual, the Victoria Street stretch just across the border in Richmond is one of Melbourne's legendary Vietnamese dining strips. Pho Hung Vuong 2 is the late-night classic, but honestly, just walk the strip and follow your nose. The banh mi from Banh Mi Stand is worth the queue if you're after something quick before bar-hopping.
 
----
 
 ### The Yarra Bend Park Sunset Walk
 
@@ -92,7 +87,6 @@ If you've still got daylight and energy, the Yarra Bend Park loop is Abbotsford'
 
 The park is also home to a permanent flying fox colony — yes, actual fruit bats — that emerge at dusk in a spectacular cloud of wings. It's genuinely one of Melbourne's most underrated natural spectacles, and it's free. If you time your walk right, you'll catch the bats lifting off from the eucalyptus trees as the sky turns orange. It's the kind of thing that makes a regular Saturday feel cinematic.
 
----
 
 ### Weekend Plans Sorted
 
@@ -102,7 +96,6 @@ The best thing about Abbotsford? You can have a completely different weekend her
 
 **Also explore:** [Collingwood weekend guide](/collingwood/things-to-do-this-weekend) · [Richmond weekend guide](/richmond/things-to-do-this-weekend) · [Fitzroy weekend guide](/fitzroy/things-to-do-this-weekend)
 
----
 
 
 Living in Abbotsford? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=abbotsford)

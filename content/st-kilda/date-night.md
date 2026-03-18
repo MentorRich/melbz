@@ -1,6 +1,8 @@
 ---
 title: "Date Night in St Kilda — 2026 Local Guide"
 cover_image: "/images/st-kilda/date-night.jpg"
+---
+
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the date night in St Kilda. Our verified 2026 guide covers the best spots for locals."
 tags: ["st-kilda"]
 categories: ["date"]
----
 ## The Best Date Night in St Kilda
 
 St Kilda was practically built for date night. The bay lights up at golden hour, the trams rattle past, and there's enough range — from candlelit degustations to barefoot beach walks — that you can calibrate the evening to exactly where you are in a relationship. First date? Third date? Twelve years in and trying to remember why you liked each other? St Kilda's got you.
@@ -18,7 +19,6 @@ The geography of a date night in St Kilda matters. Fitzroy Street is the high-en
 
 Here's your verified 2026 guide to doing date night right.
 
----
 
 ### The First Date: Keep It Light
 
@@ -36,7 +36,6 @@ For a walk-first, eat-second approach, **Catani Gardens** (Avoca and Beaconsfiel
 
 > **📊 MELBZ POLL** — First date vibe: Fancy dinner or casual drinks? Vote now.
 
----
 
 ### The Third Date: Raise the Stakes
 
@@ -54,7 +53,6 @@ If you want to mix it up, head to **Luna Park** (12A Jacka Boulevard) after dinn
 
 > **📊 MELBZ POLL** — Best St Kilda date spot after 10pm: Espy, Limbo, or somewhere else?
 
----
 
 ### The Long-Term Date Night: Remember Why You're Together
 
@@ -68,7 +66,6 @@ For a slightly more make betterd version of this, **Donovans** does a bar menu t
 
 For an at-home date night, hit the **Prahran Market** (163 Commercial Road, Prahran) earlier in the day. Grab fresh pasta from **Mario's**, some burrata, a bottle of something good, and a slab of dark chocolate from **Haigh's**. Total damage: $60–$80, and you'll spend less than an hour in the market. Cook together at home, open the wine early, and you've got the kind of date night that actually strengthens a relationship rather than just checking a box.
 
----
 
 ### The Date-Night-Adjacent: Experiences That Aren't Dinner
 
@@ -82,7 +79,6 @@ Sometimes dinner is the last thing you want. These St Kilda experiences are perf
 
 **ArtVo** (9/442 Docklands Drive — okay, this one's in Docklands, but it's a 20-minute drive and worth mentioning) is a 90-minute immersive art experience where you walk through themed rooms designed for photos and interaction. Tickets are $38 per person. Book the "Sakura" room if you want peak romance.
 
----
 
 ### What We Skipped and Why
 
@@ -94,7 +90,6 @@ Sometimes dinner is the last thing you want. These St Kilda experiences are perf
 
 **Wine bars without food** — A few spots along Fitzroy Street serve wine and nothing else. Fine for a drink, but date night needs food. Always.
 
----
 
 ### Getting There and Getting Home
 
@@ -106,7 +101,6 @@ Sometimes dinner is the last thing you want. These St Kilda experiences are perf
 
 **Walking home** to adjacent suburbs is viable — **Elwood** is 15 minutes along the foreshore (well-lit), **Prahran** is 20 minutes up Fitzroy Street and Greville Street, **South Melbourne** is 25 minutes up Carlisle Street.
 
----
 
 ### Nearby Guides Worth Reading
 
@@ -116,11 +110,9 @@ Sometimes dinner is the last thing you want. These St Kilda experiences are perf
 
 > **📊 MELBZ POLL** — Best St Kilda date spot after 10pm: Espy | Limbo | Prince rooftop | Borsch
 
----
 
 *Last verified March 2026. Prices and availability change — always book ahead for Friday and Saturday nights.*
 
----
 
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
 

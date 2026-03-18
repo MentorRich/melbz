@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/date-night.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne's date night scene is small but perfectly formed. Here's where to go when you want romance without the Chapel Street crowds."
 tags: ["cremorne"]
 categories: ["date"]
----
 # Date Night in Cremorne — Where 3121 Gets Romantic
 
 Here's the thing about date night in Cremorne: it's not South Yarra. It's not Richmond. It's not the CBD. And that's exactly why it works.
@@ -20,7 +21,6 @@ This is where you go when you want romance without the Chapel Street chaos, conv
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## 1. Lilac Wine Bar
 **The vibe:** Dinner party at a friend's warehouse — if your friend had impeccable taste in natural wine and a wood-fired oven.
@@ -34,7 +34,6 @@ The food is French-bistro-meets-whatever-feels-right: housemade charcuterie, woo
 **Hours:** Tue–Thu 4pm–late, Fri–Sat noon–late
 **Insider tip:** Arrive before 6pm on Friday for aperitivo hour — it fills up fast, and once the disco ball starts spinning, you're not leaving. Wednesday steak night is a local institution.
 
----
 
 ## 2. Amatrice
 **The vibe:** Rooftop Italian with views that make you forget you're above a tech office building.
@@ -48,7 +47,6 @@ The cocktail list is strong enough to justify a pre-dinner drink, and the wine l
 **Hours:** Wed–Fri 4pm–late, Sat–Sun noon–late
 **Insider tip:** Book the window seats facing west for sunset. If you can't get a table, the bar area has the same views and no booking required.
 
----
 
 ## 3. SOGUMM
 **The vibe:** Korean temple food philosophy meets fine-dining technique in a quiet Church Street space that rewards attention.
@@ -62,7 +60,6 @@ The menu is seasonal and thoughtful, the dishes arrive in beautiful ceramicware,
 **Hours:** Lunch and dinner, Tue–Sun
 **Insider tip:** The shrub (drinking vinegar) is offered as a palate cleanser between courses. Say yes every time — it's never what you expect and always sparks conversation.
 
----
 
 ## 4. Ms Frankie
 **The vibe:** Contemporary Italian in an industrial space where the pasta is made in front of you and the wine list is long enough to get lost in.
@@ -76,7 +73,6 @@ It's the kind of place where you can dress up or keep it casual, and neither fee
 **Hours:** Tue–Fri 12pm–11pm, Sat 5pm–11pm
 **Insider tip:** The bar seats are walk-in only and often the best seats in the house — you get to watch the pasta being made while you eat. Better than any chef's table.
 
----
 
 ## 5. Rice Paper Scissors
 **The vibe:** Vietnamese street food done Melbourne-style — communal tables, share plates, and flavours that make you wonder why you ever ate anywhere else.
@@ -90,7 +86,6 @@ The food is Vietnamese-inspired but not afraid to Melbourne-ify things — fresh
 **Hours:** Mon–Sun 11:30am–10pm
 **Insider tip:** Go with a group of four or more and order everything to share. The per-person cost works out to about $35–$40, which is excellent value for this quality. Book ahead on weekends.
 
----
 
 ## 5. Good Heavens Rooftop Bar
 **The vibe:** The rooftop bar that takes itself just seriously enough — good drinks, good music, and the CBD skyline doing the heavy lifting on atmosphere.
@@ -102,7 +97,6 @@ Good Heavens is the date night spot for when you want drinks with a view but don
 **Hours:** Mon–Thu 4pm–11pm, Fri–Sat noon–1am, Sun noon–10pm
 **Insider tip:** If you're coming from Cremorne, walk down Balmain Street along the Yarra — it's prettier than cutting through Richmond and takes about eight minutes.
 
----
 
 ## What We Skipped and Why
 
@@ -112,7 +106,6 @@ Good Heavens is the date night spot for when you want drinks with a view but don
 
 **State of Grace** — Technically on the border, and while it's excellent, it's more of a cocktail bar than a dinner destination. Featured in [Best Bars](/cremorne/best-bars).
 
----
 
 ## The Bottom Line
 
@@ -122,7 +115,6 @@ In Cremorne, date night isn't about having fifteen options. It's about having th
 
 **Your Cremorne Vibe Score this week: 79/100** — Small suburb, big romantic energy.
 
----
 
 *Know a spot we missed? Let us know.*
 

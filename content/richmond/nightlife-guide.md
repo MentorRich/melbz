@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Richmond — 2026 Local Guide"
 cover_image: "/images/richmond/nightlife-guide.jpg"
+---
+
 suburb: "richmond"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the nightlife guide in Richmond. Our verified 2026 guide covers the best spots for locals."
 tags: ["richmond"]
 categories: ["nightlife"]
----
 ## The Best Nightlife Guide to Richmond
 
 Richmond's nightlife is defined by two very different worlds. The first is the MCG effect — footy nights, concerts, and the tidal wave of energy that floods Swan Street and Punt Road on event days. The second is the regular Tuesday-through-Saturday scene — bars, pubs, and live music venues that cater to locals who live here year-round, not just when their team's playing. This guide covers both.
 
 A note on safety: Richmond is generally safe at night, but like any inner-city suburb, stay aware. Stick to main streets, watch your belongings, and know that Richmond Police Station (392 Church Street) is staffed 24/7.
 
----
 
 ## 1. The Corner Hotel — 57 Swan Street, Richmond
 
@@ -32,7 +32,6 @@ The Corner Hotel is Richmond's most important live music venue and one of Melbou
 
 **Why it matters:** Melbourne has lost too many live music venues. The Corner Hotel's survival and continued excellence matters to the entire city's music scene. Support it.
 
----
 
 ## 2. The Precinct Hotel — 586 Swan Street, Richmond
 
@@ -46,7 +45,6 @@ The Precinct is Richmond's most versatile evening venue. It functions as a pub d
 
 **Budget:** $40–$80 for a pub night, more if you eat.
 
----
 
 ## 3. Rare Hare — 260 Church Street, Richmond
 
@@ -60,7 +58,6 @@ Rare Hare is the grown-up option for evenings that don't need loud music and cro
 
 **Budget:** $80–$130 for two with wine and snacks.
 
----
 
 ## 4. Stagger Lee's — 357 Swan Street, Richmond
 
@@ -74,7 +71,6 @@ By day, Stagger Lee's is a cafe. By night — particularly Thursday through Satu
 
 **Budget:** $40–$70 for a solo session, $80–$120 for two.
 
----
 
 ## 5. Swan Street Pub Crawl
 
@@ -88,7 +84,6 @@ If you're after variety rather than settling in one spot, Swan Street between Pu
 
 **Late-night food:** When you need to eat at midnight, the Vietnamese restaurants on Victoria Street are your friends. Pho Hung Vuong Saigon (208 Victoria Street) stays open late and the $16 pho at 1am is better than it has any right to be.
 
----
 
 ## 6. Live Music Beyond The Corner Hotel
 
@@ -100,7 +95,6 @@ Richmond punches above its weight for live music. Beyond The Corner Hotel:
 
 For the full live music picture, check our Collingwood and Fitzroy guides — Richmond sits in a triangle of venues that makes it one of the best suburbs in Melbourne for catching a gig.
 
----
 
 ## Event Days at the MCG
 
@@ -112,7 +106,6 @@ You can't have a Richmond nightlife guide without addressing the MCG. On AFL nig
 
 **Safety on event nights:** If you're not attending the event, be aware that the areas around Punt Road, Brunton Avenue, and the MCG approaches get very congested. Richmond Police Station is at 392 Church Street. Ambulance Victoria has a presence on major event nights. If you feel unsafe, any venue with security will help.
 
----
 
 ## Getting Home
 
@@ -122,7 +115,6 @@ You can't have a Richmond nightlife guide without addressing the MCG. On AFL nig
 
 **Driving:** Don't. Parking is a nightmare on event nights and drink-driving is not a personality trait.
 
----
 
 ## What We Skipped and Why
 
@@ -132,7 +124,6 @@ You can't have a Richmond nightlife guide without addressing the MCG. On AFL nig
 
 **Places with unreliable opening hours:** A few bars on the fringes of Richmond open "when they feel like it." If we can't confirm consistent hours, we can't recommend them for a night out.
 
----
 
 ## Cross-Suburb Nightlife Comparisons
 
@@ -142,7 +133,6 @@ Richmond sits in the centre of Melbourne's inner-north nightlife triangle:
 - [Nightlife Guide to Collingwood](/collingwood/nightlife-guide) — Smith Street and Johnston Street bring serious variety
 - [Nightlife Guide to Cremorne](/cremorne/nightlife-guide) — The newer kid on the block with some surprisingly good after-hours spots
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Your perfect Richmond night out?**
@@ -153,7 +143,6 @@ Richmond sits in the centre of Melbourne's inner-north nightlife triangle:
 
 [Vote in our weekly suburb poll →](/poll/richmond-nightlife-style)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Richmond Vibe Score This Week: 88/100**
@@ -162,7 +151,6 @@ Nightlife energy peaks on event weekends. The Corner Hotel and Precinct Hotel ar
 
 [See the full Vibe Score breakdown →](/richmond/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 Where's your go-to Richmond night out?**
@@ -171,7 +159,6 @@ Every local has their routine. Tell us yours — we might feature it next.
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Richmond**
@@ -180,7 +167,6 @@ Every local has their routine. Tell us yours — we might feature it next.
 - [Neighbourhood Guide to Richmond](/richmond/neighbourhood-guide) — everything else you need to know
 - [New Openings in Richmond](/richmond/new-openings) — what's just landed on the scene
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every drink, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

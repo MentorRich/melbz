@@ -5,12 +5,17 @@ date: 2026-03-16
 author: kai
 tags: ["kensington", "pubs", "nightlife"]
 categories: ["nightlife"]
-description: "Best Pubs in Kensington 2026: Racecourse Road & Beyond
+description: "Best Pubs in Kensington 2026: Racecourse Road & Beyond"
+---
 
-Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
+**Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
+
+
 
 Kensington doesn't shout about its ..."
----
+
+*Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
+
 # Best Pubs in Kensington 2026: Racecourse Road & Beyond
 
 *Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
@@ -21,7 +26,6 @@ What sets Kensington apart from, say, the density of pubs in [North Melbourne](/
 
 We tested six of them over four weekends. Here's what we found.
 
----
 
 ## 1. Hardimans Hotel
 
@@ -39,7 +43,6 @@ The front bar is exactly what you want from a Melbourne local: wooden floors, hi
 
 [Widget: Poll — "What's your non-negotiable pub meal? Parma / Steak / Burgers / Fish & Chips"]
 
----
 
 ## 2. Doutta Galla Hotel (The Doot)
 
@@ -55,7 +58,6 @@ The three-storey building has been completely reimagined. Previously unused firs
 
 **Vibe:** The Doot wears its history proudly while looking forward. On a Saturday afternoon it's packed with locals, race fans, and people who've heard the buzz about the renovation. There's a warmth here that newer venues struggle to fake.
 
----
 
 ## 3. Auntie Annie's Hotel
 
@@ -73,7 +75,6 @@ The headline here is the special Guinness tap system that pours a pint in roughl
 
 [Widget: Quiz — "Match the Kensington Pub to Its Specialty" — interactive quiz with Doot/Parma, Auntie Annie's/Guinness, Bonehead/Brews, Hardimans/Pizza]
 
----
 
 ## 4. Bonehead Brewing
 
@@ -91,7 +92,6 @@ Founded in 2018 by Anthony Dinoto and Travis Nott — whose family has owned bus
 
 [Widget: Comment prompt — "Tag your pub crawl crew 👇 Who's doing the Kensington loop this weekend?"]
 
----
 
 ## 5. Flemington/Kensington RSL
 
@@ -107,7 +107,6 @@ This is a proper community club — full-sized billiard table, darts teams that 
 
 **Vibe:** Quiet weekdays, busier on match days and during social events. The RSL is a genuine community hub — if you're new to Kensington, becoming a member here is one of the fastest ways to meet your neighbours. It's the antidote to every over-designed, Instagram-bait bar in the inner north.
 
----
 
 ## 6. The Laurel Hotel
 
@@ -123,7 +122,6 @@ The restoration preserved the heritage character while adding thoughtful modern 
 
 **Vibe:** Trivia nights, live music on the deck Thursday to Saturday, and a rooftop that fills quickly on warm evenings. The Laurel has the rare quality of feeling both like a historic institution and a genuinely contemporary venue. It's the kind of pub that reminds you why Melbourne's pub culture is the best in the country.
 
----
 
 ## The Kensington Pub Crawl: A Suggested Route
 
@@ -138,7 +136,6 @@ For those planning to do the full loop (responsibly, obviously):
 
 Total walk: roughly 2.5 kilometres. Allow 4–6 hours depending on commitment levels.
 
----
 
 ## What We Skipped and Why
 
@@ -152,7 +149,6 @@ Total walk: roughly 2.5 kilometres. Allow 4–6 hours depending on commitment le
 
 ** pubs with fewer than 12 months' trading history** — Several new venues are reported to be in development along Racecourse Road and the Kensington/Epsom Road corridor. We'll add them once they've had time to settle in.
 
----
 
 ## The Verdict
 
@@ -160,7 +156,6 @@ Kensington's pub scene in 2026 is in the best shape it's been in years. The dual
 
 Whether you're a Kensington local, a race-day visitor, or someone exploring Melbourne's inner west for the first time, this pub crawl is one of the city's best-kept secrets. Get in before everyone else figures it out.
 
----
 
 *Have we missed your favourite Kensington pub? Drop a comment below or tag us on Instagram @melbzdotcomau with your local recommendations.*
 

@@ -5,17 +5,17 @@ date: 2026-03-16
 author: maya
 tags: ["melbourne-cbd", "things-to-do", "lifestyle"]
 categories: ["lifestyle"]
-description: "Updated 16 March 2026 | 6 places tested | Maya Singh reporting
-
+description: "Things to Do in Melbourne CBD 2026: The Complete Guide"
 ---
+
+*description: "16 March 2026 | 6 places tested | Maya Singh reporting"*
+
 
  The CBD is NOT boring. You're just doing it wrong.
 
 Here's the thing about the Melbourn..."
----
 *Updated 16 March 2026 | 6 places tested | Maya Singh reporting*
 
----
 
 ## The CBD is NOT boring. You're just doing it wrong.
 
@@ -27,7 +27,6 @@ The CBD — or more accurately, the Hoddle Grid and its immediate surroundings �
 
 I spent last weekend working through six CBD spots with fresh eyes. Some I'd visited dozens of times. One I'd somehow never been to despite living here for years. Here's what I found — the real version, not the Tourism Victoria version.
 
----
 
 ## 🎯 THE MOVE: Start Here
 
@@ -37,7 +36,6 @@ I spent last weekend working through six CBD spots with fresh eyes. Some I'd vis
 >
 > **Do this:** Grab a free timed ticket on the NGV website. Go at 10am before the school groups arrive. Start on Level 3 and work down.
 
----
 
 ## 1. The Ian Potter Centre: NGV Australia
 
@@ -51,7 +49,6 @@ The permanent collection covers Aboriginal and Torres Strait Islander art, colon
 
 **Maya's tip:** Go on a Thursday evening (they sometimes have late openings — check their site) and then cross the road to [Brunswick Street in Fitzroy](/suburbs/fitzroy/) for dinner. The 86 tram runs every eight minutes until late and takes about 12 minutes.
 
----
 
 ## 2. Queen Victoria Market
 
@@ -69,7 +66,6 @@ The American Doughnut Kitchen van (operating since the 1950s) still does hot jam
 
 **Getting there:** The Queen Victoria Market tram (Route 19, 57, or 58) stops right outside. Or walk 10 minutes up Elizabeth Street from Flinders Street Station.
 
----
 
 ## 3. Hosier Lane Street Art
 
@@ -85,7 +81,6 @@ The art rotates constantly — pieces get painted over, new ones appear, and som
 
 **Maya's tip:** If you're into street art, the real action is across the river in [Richmond](/suburbs/richmond/) and [Collingwood](/suburbs/collingwood/) — AC/DC Lane off Flinders Lane is worth a walk too, and the artworks there get refreshed more regularly than Hosier these days.
 
----
 
 > ### 📊 YOUR MOVE: Vote
 >
@@ -98,7 +93,6 @@ The art rotates constantly — pieces get painted over, new ones appear, and som
 >
 > *Vote on the MELBZ app or reply to our Instagram story.*
 
----
 
 ## 4. Royal Arcade and Block Arcade
 
@@ -115,7 +109,6 @@ Block Arcade is the fancier of the two. It connects Collins Street to Elizabeth 
 
 **Cross-suburb pairing:** After the arcades, walk five minutes to the Chinatown end of Little Bourke Street, then head east toward [Richmond](/suburbs/richmond/) for the Vietnamese strip on Victoria Street if you want dinner. Or stay central and duck into [Southbank](/suburbs/southbank/) along the river for an evening stroll.
 
----
 
 ## 5. Melbourne Central Tower Observation Deck (Skydeck)
 
@@ -131,7 +124,6 @@ The "Edge" experience ($39.50 add-on) suspends you in a glass cube that extends 
 
 **Getting there:** It's on the Southbank side of the river. Walk across the pedestrian bridge from Flinders Street Station (about 5 minutes) or take the free City Circle tram to Stop 113.
 
----
 
 ## 6. State Library of Victoria
 
@@ -147,13 +139,11 @@ Beyond the reading room, the library runs regular exhibitions (usually free), ha
 
 **Maya's tip:** The library's free Wi-Fi is excellent and the desks have power points. If you need to get work done in the CBD without paying $22 for a coffee you don't need, set up at a desk in the La Trobe Reading Room. No purchase required. No one will look at you funny. It's what the space was built for.
 
----
 
 > ### ⚡ URGENCY BANNER
 >
 > **This weekend only:** The Queen Victoria Market Thursday Night Market runs this Thursday 19 March. Live music starts at 5:30pm, food stalls open from 4pm. It's free entry. Once autumn kicks in properly, the night market switches to weekends — this is one of the last Thursday sessions. Don't sleep on it.
 
----
 
 ## What We Skipped and Why
 
@@ -167,7 +157,6 @@ Every CBD "things to do" list has the usual suspects. Some we left out deliberat
 
 **Sea Life Melbourne Aquarium:** $42 for an adult to look at fish in tanks. If you're in Melbourne for a week with kids and it's raining sideways, fine. Otherwise, your $42 is better spent on a proper meal at [Lygon Street in Carlton](/suburbs/carlton/) or the pub scene in [Fitzroy](/suburbs/fitzroy/).
 
----
 
 > ### 😤 OR 👌: How We Going?
 >
@@ -179,7 +168,6 @@ Every CBD "things to do" list has the usual suspects. Some we left out deliberat
 >
 > *Tap to react. Your feedback shapes what we write next.*
 
----
 
 ## The Open Loop: What We Haven't Covered
 
@@ -187,7 +175,6 @@ This guide covers the CBD's greatest hits and a few under-appreciated spots. But
 
 If you want to know what happens when you walk beyond the Hoddle Grid, the next place to go is [Brunswick: The Complete Guide](/suburbs/brunswick/). Brunswick is where the CBD's coffee culture meets punk rock attitude, live music venues, and a Greek-Vietnamese food axis that rivals anywhere in Australia. It's a 15-minute tram ride up Sydney Road and it'll change how you think about Melbourne entirely.
 
----
 
 ## The Details
 
@@ -203,7 +190,6 @@ If you want to know what happens when you walk beyond the Hoddle Grid, the next 
 
 **Safety:** The CBD is generally safe at all hours, but late-night Flinders Street (particularly the Elizabeth Street end) gets rowdy on Friday and Saturday nights. If you're leaving a venue in that area after midnight, stick to well-lit main streets and avoid detours through empty laneways. The nearest police station is at 637 Flinders Street — look for the blue lights.
 
----
 
 *Updated 16 March 2026 | 6 places tested | Maya Singh reporting*
 

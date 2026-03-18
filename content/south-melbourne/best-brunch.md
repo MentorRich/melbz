@@ -5,24 +5,27 @@ date: 2026-03-16
 author: priya
 tags: ["south-melbourne", "brunch", "cafes"]
 categories: ["food"]
-description: "Best Brunch in South Melbourne 2026: The Complete Guide
+description: "Best Brunch in South Melbourne 2026: The Complete Guide"
+---
 
-Updated 16 March 2026 | 8 places tested | Priya Sandhu reporting
+**Updated 16 March 2026 | 8 places tested | Priya Sandhu reporting**
+
+
 
 South Melbourne doesn't do brunch ..."
----
+
+*Updated 16 March 2026 | 8 places tested | Priya Sandhu reporting*
+
 # Best Brunch in South Melbourne 2026: The Complete Guide
 
 *Updated 16 March 2026 | 8 places tested | Priya Sandhu reporting*
 
 South Melbourne doesn't do brunch quietly. Between the Saturday market crowds, the espresso aficionados, and the couples who've been debating poached eggs vs. scrambled for twenty minutes, the suburb runs on weekend eating. After months of dragging myself through the best and the merely okay, here's where your Saturday morning should actually go.
 
----
 
 > **THE MOVE** 🔥
 > Skip the 9am rush at all of these. South Melbourne brunch peaks between 9:30 and 11am on weekends. Arrive before 9 or after 11:45 and you'll walk straight in. Arrive at 10am and you'll be standing on the footpath checking your phone like everyone else.
 
----
 
 ## 1. Dead Man Espresso
 
@@ -37,7 +40,6 @@ The brunch menu leans into proper cafe food without overthinking it. The signatu
 
 The balcony seats fill first. If you're with a group of more than three, expect a 15–20 minute wait on weekends.
 
----
 
 ## 2. The Kettle Black
 
@@ -52,7 +54,6 @@ The menu is where the Kettle Black earns its reputation. The fluffy ricotta hotc
 
 Weekend waits here can hit 30 minutes. They take bookings for groups of six or more, which is worth knowing if you're doing a birthday brunch.
 
----
 
 ## 3. Chez Dré
 
@@ -67,7 +68,6 @@ For brunch proper, the croque madame ($20) is the play: béchamel, Gruyère, pro
 
 The courtyard out the back seats about 15. It's the spot on a mild morning. No reservations — first in, best seated.
 
----
 
 > **POLL** 🗳️
 > **What matters most to you in a brunch spot?**
@@ -78,7 +78,6 @@ The courtyard out the back seats about 15. It's the spot on a mild morning. No r
 >
 > *Vote in the comments or tag us @melbzcomau*
 
----
 
 ## 4. Proper & Son
 
@@ -93,7 +92,6 @@ The constant? Quality. The big breakfast plate ($22) uses eggs from the market's
 
 No reservations. Everything on the menu is also available to take away, which is useful if you've already committed to a full market shop and can't carry both a tray and a bag of heirloom tomatoes.
 
----
 
 ## 5. St Ali
 
@@ -108,7 +106,6 @@ The brunch menu matches the ambition. Expect dishes like miso-cured salmon with 
 
 The General Store section at the front sells retail coffee, pantry goods, and grab-and-go options if you're not sitting in. Kitchen closes at 3pm daily, so don't roll in at 4 expecting brunch — you'll get coffee and cake only.
 
----
 
 ## 6. Station Street Trading Co.
 
@@ -123,7 +120,6 @@ The signature is the Station Street Stack ($23): sourdough base loaded with smas
 
 This is a cafe built for takeaway too — the front counter has a rotating selection of pastries, sandwiches, and daily specials for workers in the area. But sitting inside on a Sunday with a full plate and a long black is the real move.
 
----
 
 > **THE CONFESSION BOX** 🤫
 > *Anonymously confess your worst Melbourne brunch sin.*
@@ -132,7 +128,6 @@ This is a cafe built for takeaway too — the front counter has a rotating selec
 >
 > *Send your confession to hello@melbz.com.au. We won't judge. (Much.)*
 
----
 
 ## 7. Market Lane Coffee — South Melbourne
 
@@ -147,7 +142,6 @@ But for what it does, Market Lane does it exceptionally well. The Coventry Stree
 
 This is the brunch companion, not the main event. Grab a coffee here, walk two minutes to Proper & Son, and you've built yourself a two-stop morning. Or sit in, order a flat white and a ham and cheese croissant, and enjoy the Coventry Street foot traffic.
 
----
 
 ## 8. Hurricane Handsome
 
@@ -162,7 +156,6 @@ The brunch menu covers the bases — eggs your way ($16), acai bowls ($19), hous
 
 Family-friendly without being overwhelmed by high chairs. The outdoor seating faces Bay Street, which on a good morning is prime people-watching territory.
 
----
 
 > **REACTION BAR** ⚡
 > How did this guide make you feel?
@@ -170,7 +163,6 @@ Family-friendly without being overwhelmed by high chairs. The outdoor seating fa
 >
 > *Drop your reaction and tell us where we should go next.*
 
----
 
 ## What We Skipped and Why
 
@@ -184,7 +176,6 @@ Not every South Melbourne cafe made the cut. Here's what we tested and left out:
 
 **Markets-only stalls.** A couple of food hall vendors at South Melbourne Market do interesting brunch-adjacent things, but they rotate too frequently to list in a guide meant to last more than a month. Check our [South Melbourne Market food guide](/south-melbourne/south-melbourne-market-food) for the current lineup.
 
----
 
 ## The Bottom Line
 
@@ -194,7 +185,6 @@ The neighbourhood works best as a brunch crawl rather than a single-stop morning
 
 For more Melbourne food coverage, check our [complete guide to eating around the inner south](/inner-south/food-guide) — or if you're branching out this weekend, our [best brunch in Fitzroy and Collingwood](/fitzroy/best-brunch) list covers the north-side competition.
 
----
 
 *Priya Sandhu is the Food Editor at MELBZ. She has been writing about Melbourne's food scene for eight years and remains undefeated in the "how many cafes can one person visit in a single weekend" category. Follow her @priyasandhufood.*
 

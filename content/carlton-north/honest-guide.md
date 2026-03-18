@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["carlton-north", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Carlton North Honest Guide 2026: Lygon North & Real Talk
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Carlton North Honest Guide 2026: Lygon North & Real Talk"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Carlton North is the suburb Melbourne forgot ..."
----
 # Carlton North Honest Guide 2026: Lygon North & Real Talk
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Carlton North is the suburb Melbourne forgot to gossip about. Everyone's got an opinion on [Fitzroy](/suburbs/fitzroy) — "too gentrified," "too cool," "too much matcha." Everyone's got thoughts on [Carlton](/suburbs/carlton) — "the food's incredible," "the parking's a war crime," "my cousin went to uni there and never left." But Carlton North? It just sits there, quietly being one of the best-kept liveability secrets in the inner north, and honestly, the residents seem fine with that.
 
@@ -75,7 +78,6 @@ Carlton North sits in that uncomfortable inner-north bracket where the median re
 
 Carlton North suffers from a genuine identity problem. It's not Carlton enough for the Carlton diehards, not Northcote enough for the inner-north crowd, and not Fitzroy enough for the creative types. Locals sometimes struggle to explain where they live. "It's like Carlton but... quieter? And further north? Near the park?" It's a real suburb with real character, but the marketing department has clearly been on smoko for a few decades.
 
----
 
 ## {{WIDGET: POLL}}
 
@@ -85,7 +87,6 @@ Carlton North suffers from a genuine identity problem. It's not Carlton enough f
 - C) Perfect for dogs, average for nightlife
 - D) I still can't tell it apart from Carlton
 
----
 
 ## The Vibe Check: Who Lives Here?
 
@@ -128,7 +129,6 @@ If Carlton North has you curious about the inner north, here's where to go:
 - **[Fitzroy North](/suburbs/fitzroy-north)** — Gentrification central with killer cafes and a postcode that carries serious cultural weight. Different energy, similar price point.
 - **[Brunswick East](/suburbs/brunswick-east)** — Across the creek, a bit more laid-back, the Merri Creek trail connects you directly. Great for a weekend ride-and-eat loop.
 
----
 
 ## {{WIDGET: RATE}}
 
@@ -136,7 +136,6 @@ If Carlton North has you curious about the inner north, here's where to go:
 ⭐ ⭐ ⭐ ⭐ ⭐
 Tap your rating — we'll aggregate community scores in next month's Suburb Vibe Report.
 
----
 
 ## The Bottom Line
 
@@ -146,13 +145,11 @@ It's the quiet achiever. The dependable friend. The suburb that doesn't need to 
 
 Carlton North isn't for everyone. But for the people it's for — and there are more of them every year — it's exactly right.
 
----
 
 ## {{WIDGET: SHARE}}
 
 **Found this useful?** Share it with someone who's thinking about the inner north or just wants to argue about Melbourne suburbs. That's basically everyone.
 
----
 
 *Have a Carlton North tip, correction, or hot take? Drop it in the comments or hit us up on social. We update these guides regularly based on what locals tell us — your intel matters.*
 

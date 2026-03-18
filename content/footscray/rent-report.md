@@ -5,12 +5,17 @@ date: 2026-03-16
 author: marcus
 tags: ["footscray", "rent", "property"]
 categories: ["property"]
-description: "Rent Prices in Footscray 2026: The West Side Value Play
+description: "Rent Prices in Footscray 2026: The West Side Value Play"
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 Footscray has long been Melbourne's inner-west underd..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Rent Prices in Footscray 2026: The West Side Value Play
 
 *Updated 16 March 2026 | Marcus Cole reporting*
@@ -115,7 +120,6 @@ The suburb's fundamentals remain strong: transport, food, green space, community
 
 For most renters doing the maths in 2026, Footscray still makes the numbers work better than almost any other inner Melbourne suburb. That's not a secret anymore — but it's still the truth.
 
----
 
 *Sources: Domain Rental Report (December 2025), ABS Employee Earnings (August 2025), Homes Victoria Rental Report (September 2025), Your Investment Property Magazine, PropertyValue.com.au, Realestateinvestar.com.au, HTAG.com.au. Data reflects rolling-year medians as of Q4 2025/Q1 2026.*
 

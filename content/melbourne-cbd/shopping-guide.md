@@ -5,12 +5,17 @@ date: 2026-03-16
 author: zara
 tags: ["melbourne-cbd", "shopping", "fashion"]
 categories: ["lifestyle"]
-description: "Shopping in Melbourne CBD 2026: The Ultimate Guide
+description: "Shopping in Melbourne CBD 2026: The Ultimate Guide"
+---
 
-Updated 16 March 2026 | Zara Khan reporting
+**Updated 16 March 2026 | Zara Khan reporting**
+
+
 
 Look, Melbourne CBD shopping isn't what it was five years ag..."
----
+
+*Updated 16 March 2026 | Zara Khan reporting*
+
 # Shopping in Melbourne CBD 2026: The Ultimate Guide
 
 **Updated 16 March 2026 | Zara Khan reporting**
@@ -19,7 +24,6 @@ Look, Melbourne CBD shopping isn't what it was five years ago. Half the old guar
 
 This is the CBD shopping guide for people who live here, not people visiting for the weekend.
 
----
 
 ## Bourke Street Mall — The Backbone (With Some Cracks)
 
@@ -33,7 +37,6 @@ The stretch closest to QV and the State Library is where things thin out. A few 
 
 **Safety note for Bourke Street at night:** The area between Swanston Street and Elizabeth Street near the mall is well-patrolled and lit, but the side streets off Little Bourke towards Chinatown get quiet after 9pm. If you're shopping late, stick to the main strip and cut through QV to get to Lonsdale Street rather than wandering down the darker laneways.
 
----
 
 ## Melbourne Central — The Revamp Nobody Talks About
 
@@ -49,7 +52,6 @@ Melbourne Central is best for: sneaker shopping, tech accessories, beauty, and t
 
 > *Have you ever dropped $200 at Melbourne Central on stuff you've never worn? Submit your confession anonymously and we'll feature the best ones in next week's briefing.*
 
----
 
 ## Emporium Melbourne — Where the Budget Goes to Die (Respectfully)
 
@@ -61,7 +63,6 @@ Emporium connects directly to Myer via the upper-level walkway, which means you 
 
 **What Emporium does better than anywhere else in the CBD:** Australian-made fashion with proper customer service. The staff at Viktoria & Woods will actually help you find the right cut for your body instead of pointing vaguely at a rack and disappearing.
 
----
 
 ## Degraves Street — Coffee First, Shopping Second (But Shopping Is Good)
 
@@ -71,7 +72,6 @@ You'll find a handful of small fashion boutiques — mostly vintage and pre-love
 
 The real Degraves play is the food-to-go circuit: grab a croissant from Rustica, a coffee from Degraves Espresso, and browse the vintage racks between bites. That's a CBD morning done right.
 
----
 
 ## Brunswick Street, Fitzroy — The Detour That Pays Off
 
@@ -87,7 +87,6 @@ The south end of Brunswick Street (closer to the CBD) has gone more upmarket —
 
 > **THE MOVE this month:** Linen shirts. Not ironic, not a flex — it's 28 degrees in March and we're all sweating through our cotton. Skip the $180 Gorman version. Kuwaii's linen camp collar shirt at $135 is the play — it washes better, sits better, and won't make your bank account cry. Pair it with anything from [our autumn fashion guide](/fashion/autumn-2026-picks) for the full look.
 
----
 
 ## Chapel Street, Prahran to South Yarra — Still the King of Range
 
@@ -113,7 +112,6 @@ Chapel Street is the longest shopping strip in Melbourne and in 2026, it's still
 > 🔘 Degraves — coffee + browsing combo
 > 🔘 Online — couldn't be bothered leaving the house
 
----
 
 ## What We Skipped and Why
 
@@ -127,7 +125,6 @@ Every shopping guide pretends everything is worth visiting. That's dishonest and
 
 **High Street, Armadale** — This is a great shopping strip, full stop. But it's firmly in the "luxury bridal and $500 dresses" category. Unless that's your lane, it's not where you should be spending a Saturday.
 
----
 
 ## The Practical Stuff: Hours, Transport, and Budget
 
@@ -148,7 +145,6 @@ Late trading Thursday is the real move if you hate crowds. Most stores stay open
 - Premium single item (Gorman, Zimmermann, Viktoria & Woods): $200–$500
 - "I went to Emporium and now I'm broke": $400–$800+
 
----
 
 ## The Honest Verdict
 
@@ -158,16 +154,13 @@ The CBD itself is still the easiest place to shop in terms of logistics: everyth
 
 That's the landscape. Plan accordingly.
 
----
 
 [👈 Read Next: Melbourne's Best Op Shops and Vintage Stores by Suburb](/fashion/best-op-shops-vintage)
 
----
 
 [😊 Was this helpful?](#reaction-bar)
 👍 Yes — saved me time | 👎 Nope — wanted more detail | 💡 Got a tip to add? Submit below
 
----
 
 *Updated 16 March 2026 | Zara Khan reporting. Got a correction or a shopping tip? Drop it in the confession box or tag us on socials.*
 

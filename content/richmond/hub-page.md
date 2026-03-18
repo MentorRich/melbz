@@ -5,29 +5,29 @@ date: 2026-03-16
 author: josh
 tags: ["richmond", "suburb-profile", "hub"]
 categories: ["editorial"]
-description: "Richmond: The Complete Suburb Profile 2026
-
-RICHMOND VIBE SCORE: 81/100 ⚡️ ELECTRIC (+1 this week)
-
-Updated 16 March 2026 | Josh Morrison reporting
-
+description: "Richmond: The Complete Suburb Profile 2026"
 ---
+
+**Updated 16 March 2026 | Josh Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Josh Morrison reporting*
+
 
 Ric..."
----
 # Richmond: The Complete Suburb Profile 2026
 
 **RICHMOND VIBE SCORE: 81/100 ⚡️ ELECTRIC (+1 this week)**
 
 *Updated 16 March 2026 | Josh Morrison reporting*
 
----
 
 Richmond is Melbourne's loudest, most opinionated, and most unapologetically itself suburb. It's the kind of place where a Tuesday night at a wine bar turns into a philosophical argument about whether Swinburne Uni is actually in Richmond or Hawthorn (it's both, and nobody wins that fight). It's 3km from the CBD, it's got the MCG on its doorstep, and it's been the epicentre of Melbourne's food and footy culture since before most of us were born.
 
 If you're thinking about moving here, drinking here, eating here, or just trying to understand why Richmonders are so intense about their laneways — this is your guide.
 
----
 
 ## The Vibe
 
@@ -43,7 +43,6 @@ Richmond doesn't have a single personality. It's got at least four, and they all
 
 The overall Richmond vibe? Confident. A bit scruffy around the edges. Opinionated about pizza. And absolutely certain that their suburb is the best in Melbourne — and they might be right.
 
----
 
 ## Rent & Cost of Living
 
@@ -65,7 +64,6 @@ For a realistic weekly budget in Richmond:
 
 Richmond is doable on a decent income, but it rewards couples who can split a two-bed and punishes anyone trying to solo it in a renovated terrace. See our full breakdown in [Melbourne's Cost of Living Guide 2026](/cost-of-living) for the complete picture.
 
----
 
 ## The Food Scene
 
@@ -86,7 +84,6 @@ Richmond's food game is elite. Not "nice for a suburban strip" elite — Melbour
 
 If a restaurant has a handwritten menu taped to the window and no Instagram presence, it's probably incredible. The Italian trattorias on Church Street and the Vietnamese spots along Victoria Street (Richmond technically bleeds into Little Saigon) are the kind of places that don't need marketing — they've got 30 years of loyal regulars doing the work for them.
 
----
 
 ## The Bars
 
@@ -107,7 +104,6 @@ Richmond doesn't do pretentious cocktail bars with smoke-infused anything. Well,
 
 Yes, every pub in Richmond turns into a sports bar on game day. No, this is not a problem unless you're actively trying to avoid footy culture. If you are, maybe stick to the Church Street end on Grand Final Day.
 
----
 
 ## Transport
 
@@ -121,7 +117,6 @@ Richmond is one of Melbourne's best-connected suburbs. Full stop.
 
 For a deeper dive into how Richmond's transport stacks up against neighbouring suburbs, check our [Inner East Transport Comparison](/transport/inner-east).
 
----
 
 ## Parks & Green Space
 
@@ -135,7 +130,6 @@ Richmond has one absolute stunner and a few solid backups.
 
 The **Main Yarra Trail** is technically the best thing about Richmond's green space situation — it gives you continuous walking and cycling access from Fairfield all the way to Southbank. On a weekend morning, it's Melbourne at its best.
 
----
 
 ## Schools
 
@@ -148,7 +142,6 @@ Richmond falls into a mix of school zones, and the primary schools are the real 
 
 The secondary school picture in Richmond proper is thinner — most families zone into schools in surrounding suburbs like Kew, Hawthorn, or Collingwood. It's worth checking the specific zone maps if schools are a deciding factor for you. See our [Schools & Families in the Inner East](/schools/inner-east) guide for a full comparison.
 
----
 
 ## Nightlife & Culture
 
@@ -164,7 +157,6 @@ The rest of the time, Richmond's nightlife is more refined than its reputation s
 
 Culturally, you're a short walk from **The Australian Ballet**, the **MCG Museum**, and the ever-growing gallery and creative space scene along the inner-east corridor. Richmond isn't Fitzroy for arts and counterculture, but it doesn't try to be. It's got its own creative energy — more street art than gallery walls, more live music than exhibitions, more action than contemplation.
 
----
 
 ## Who Lives Here?
 
@@ -178,7 +170,6 @@ Richmond's demographic has shifted significantly over the past decade. You'll fi
 
 It's a suburb that works because these groups don't just coexist — they overlap. You'll find a CEO sharing a bench at a Church Street trattoria with a Swinburne undergrad, both arguing about whether the Tigers can make finals. That's Richmond.
 
----
 
 ## The Verdict
 
@@ -188,7 +179,6 @@ It's not for everyone. If you want peace and quiet, try Kew. If you want nightli
 
 **Richmond Vibe Score: 81/100 ⚡️ ELECTRIC** — and trending up as we head into autumn footy season.
 
----
 
 ## 🗳️ YOUR TURN: Vote on Richmond
 
@@ -201,7 +191,6 @@ It's not for everyone. If you want peace and quiet, try Kew. If you want nightli
 
 *Cast your vote and see what other Richmonders think.*
 
----
 
 ## 💬 RICHMOND CONFESSIONS
 
@@ -215,7 +204,6 @@ It's not for everyone. If you want peace and quiet, try Kew. If you want nightli
 
 > "I pretended to know about wine at Marion Wine Bar until the bartender gently corrected me. Now I actually know about wine. Richmond made me better."
 
----
 
 ## 🗣️ FIGHT US: Is Richmond the Best Inner-City Suburb in Melbourne?
 
@@ -227,7 +215,6 @@ We said what we said. Richmond scores 81/100 on the Vibe Score, sits 3km from th
 
 [Drop your take in the comments or hit us on socials. The debate is open.]
 
----
 
 ## RELATED READING
 
@@ -235,7 +222,6 @@ We said what we said. Richmond scores 81/100 on the Vibe Score, sits 3km from th
 - [South Yarra: The Complete Suburb Profile 2026](/south-yarra/hub-page) — Fashion, nightlife, and the Yarra River divide.
 - [Melbourne's Cost of Living Guide 2026](/cost-of-living) — Can you actually afford the inner city? We did the maths.
 
----
 
 **OPEN LOOP** → *If you're deciding between Richmond and its neighbours, our [Brunswick Hub Page](/brunswick/hub-page) breaks down what the inner north offers that the east can't match. The answer might surprise you.*
 

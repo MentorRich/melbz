@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/nightlife-guide.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Discover the nightlife guide in Melbourne. Our verified 2026 guide covers the best spots for locals."
 tags: ["melbourne"]
 categories: ["nightlife"]
----
 # Nightlife Guide to Melbourne — 2026
 
 Melbourne after dark is a different city. The daytime coffee snobs become cocktail snobs. The office workers who wouldn't make eye contact on the 8:15 tram are suddenly your best mate at the pub. The laneways that looked charming at noon become mysterious at midnight, and the ones that looked sketchy at noon become genuinely concerning at 2am.
@@ -18,13 +19,11 @@ This guide covers Melbourne's real nightlife — the bars, clubs, live music roo
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 🌙 THE MOVE
 
 > **This week's move:** The Lui Bar (Level 55, Rialto Building) is doing a special cocktail menu launch this Friday featuring native Australian botanicals — wattleseed old fashioneds, finger lime margaritas, and a lemon myrtle gin fizz that reportedly takes 40 minutes to make. $28 a glass. The view from 55 storeys up over the CBD at night is the kind of thing you stop taking for granted after the first time. Book if you can. Walk in if you're feeling lucky.
 
----
 
 ## 1. The Laneway Bars — CBD
 
@@ -38,7 +37,6 @@ This guide covers Melbourne's real nightlife — the bars, clubs, live music roo
 
 **Bar Americano** (Presgrave Place) seats about 20 people, hand-carves its ice, and specialises in Italian aperitivo cocktails done with an obsession that borders on religious devotion. The Negroni here — made with house-made sweet vermouth and Campari infused with blood orange peel — is $24 and it's the best Negroni in Melbourne. You don't need to argue about it. Just go drink one.
 
----
 
 ## 2. The Clubs — CBD and Southbank
 
@@ -52,7 +50,6 @@ This guide covers Melbourne's real nightlife — the bars, clubs, live music roo
 
 **Safety note for clubs:** Melbourne clubs are generally safe, but drink spiking happens everywhere, not just here. Watch your drink, travel with friends, and if someone seems off, tell venue security — they're trained for this. If you need help, call 000. The nearest 24-hour police station is at 439 Little Bourke Street in the CBD.
 
----
 
 ## 3. The Live Music Rooms — Inner City
 
@@ -66,7 +63,6 @@ This guide covers Melbourne's real nightlife — the bars, clubs, live music roo
 
 **Section 8** (27-29 Tattersalls Lane, CBD) is the container bar that defines Melbourne's outdoor drinking and music culture. Shipping containers turned into a bar with DJs on weekends, a crowd that looks like a streetwear lookbook, and an energy that's equal parts hipster and genuine fun. It's weather-dependent (not always open in winter), but when it's firing, it's the best outdoor spot in the CBD.
 
----
 
 ## 4. The Late-Night Eats
 
@@ -80,7 +76,6 @@ This guide covers Melbourne's real nightlife — the bars, clubs, live music roo
 
 **Late-night dumplings:** Chinatown's dumpling joints on Little Bourke stay open until 1–2am on weekends. **Shanghai Village** does pan-fried pork buns until midnight, and a few doors down, several unnamed spots do takeaway dumplings for $8–$12. Follow the queue of people in their going-out clothes. They know.
 
----
 
 ## 5. Getting Home Safe
 
@@ -101,7 +96,6 @@ No nightlife guide is complete without the getting-home section, because a great
 - **Drink spiking:** It happens everywhere, not just Melbourne. Watch your drink, don't accept drinks from strangers, and tell venue security if something feels off. Most Melbourne clubs now have drink covers available at the bar — ask for one.
 - **Solo travel:** If you're leaving alone, text your route to a friend. Share your Uber ride. Stay on main streets. These aren't paranoid precautions — they're just smart city living.
 
----
 
 ## Nightlife Budget Cheat Sheet
 
@@ -115,7 +109,6 @@ No nightlife guide is complete without the getting-home section, because a great
 | Late-night food (post-club) | $15–$25 | Dumplings, congee, or fried chicken |
 | Getting home (Uber from CBD) | $20–$45 | Depends on distance and surge pricing |
 
----
 
 ## Seasonal Nightlife Notes
 
@@ -127,7 +120,6 @@ No nightlife guide is complete without the getting-home section, because a great
 
 **Spring (Sep–Nov):** The city wakes up. Outdoor venues reopen, festival season starts (Melbourne Music Week usually lands in November), and there's a collective energy shift. People want to be out. Venues feel buzzing again after the winter hibernation.
 
----
 
 ## Related Guides
 
@@ -138,13 +130,11 @@ No nightlife guide is complete without the getting-home section, because a great
 - [Nightlife in South Melbourne](/south-melbourne/nightlife-guide/) — the underrated south-of-the-river scene
 - [Nightlife in South Yarra](/south-yarra/nightlife-guide/) — Chapel Street's cocktail bars and late-night spots
 
----
 
 ## Living in Melbourne? Compare and Save
 
 Living in Melbourne? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=melbourne)
 
----
 
 > **What's your Melbourne nightlife ritual?** [Rate the city's nightlife](/rate) or [submit your favourite late-night spot](/submit) — the best guides are written by the people who actually go out.
 

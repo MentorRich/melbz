@@ -5,25 +5,27 @@ date: 2026-03-16
 author: ethan
 tags: ["brunswick-east", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in Brunswick East 2026: Where to Eat After Dark
-
-Updated 16 March 2026 | 6 places tested | Ethan Cross reporting
-
+description: "Late Night Food in Brunswick East 2026: Where to Eat After Dark"
 ---
+
+**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
+
+
+
+
+*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
+
 
 Brunswick East doesn't..."
----
 # Late Night Food in Brunswick East 2026: Where to Eat After Dark
 
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
 
----
 
 Brunswick East doesn't roll up its awnings at 9pm. While half of Melbourne retreats to Uber Eats and the couch, Lygon Street's northern stretch hums with woodfired ovens, robata grills, and cocktail bars that won't judge you for ordering a second plate of carbonara at 11pm. This is the suburb where Carlton's Italian heritage meets Brunswick's punk edge — and the after-dark food scene is genuinely excellent.
 
 I spent two weeks eating my way through every late-night option in Brunswick East (and one nearby outlier on Sydney Road) to figure out where's actually worth your evening. Here's what made the cut.
 
----
 
 ## 🍕 Compass Pizza Bar
 
@@ -39,7 +41,6 @@ The wine list is tight and well-priced. Staff are the kind of people who remembe
 
 **Verdict:** The default late-night choice. Open later than anywhere else on Lygon Street in Brunswick East, and the food backs it up.
 
----
 
 ## 🍝 Figlia
 
@@ -57,7 +58,6 @@ Aperitivo hour (weekdays 5–6pm) is genuinely good value with discounted drinks
 
 **Verdict:** The most refined late-night option. Ideal for a date or when you want to eat well without heading into the CBD.
 
----
 
 ## 🥩 98 Lygon St Bar & Bistro
 
@@ -75,7 +75,6 @@ What makes 98 Lygon St work as a late-night option is consistency. You can rock 
 
 **Verdict:** The bistro that Brunswick East didn't know it needed. Classic cooking, late hours, no pretension.
 
----
 
 ## 🍢 Kumo Izakaya & Sake Bar
 
@@ -93,7 +92,6 @@ Note: Kumo doesn't take bookings for small groups, so be prepared to wait on bus
 
 **Verdict:** Melbourne's izakaya darling. The kind of place that turns casual diners into regulars.
 
----
 
 ## 🫓 Mama Manoush
 
@@ -109,7 +107,6 @@ The outdoor garden area is one of the nicest in Brunswick East — string lights
 
 **Verdict:** The best Middle Eastern food on Lygon Street. Go with a group, order the banquet, and don't rush.
 
----
 
 ## 🍸 Da Bepi
 
@@ -127,7 +124,6 @@ The Lucato brothers have created something that feels genuinely new for Melbourn
 
 **Verdict:** The new heavyweight of Melbourne's late-night food scene. Worth the walk from Brunswick East.
 
----
 
 ## What We Skipped and Why
 
@@ -139,7 +135,6 @@ The Lucato brothers have created something that feels genuinely new for Melbourn
 
 **Fitzroy North options:** We deliberately kept this list to Brunswick East and its immediate borders. If you're willing to cross Alexandra Parade, you'll find spots like the Duke of Edinburgh and various Brunswick Road venues that stay open late — we'll cover those in a separate guide.
 
----
 
 ## 📊 Quick Comparison
 
@@ -152,7 +147,6 @@ The Lucato brothers have created something that feels genuinely new for Melbourn
 | Mama Manoush | Lebanese | 9:30pm | $50–$90 |
 | Da Bepi | Venetian | 3am Fri–Sat | $50–$120 |
 
----
 
 ## 🗺️ The Cross-Suburb Trail
 
@@ -160,7 +154,6 @@ One of the best things about Brunswick East's position is how walkable the food 
 
 The 86 tram runs the full length of Lygon Street, making it easy to bar-hop between suburbs without a car.
 
----
 
 ## 🍽️ Ethan's Rules for Late-Night Dining in Brunswick East
 
@@ -170,7 +163,6 @@ The 86 tram runs the full length of Lygon Street, making it easy to bar-hop betw
 4. **Weeknight late-night is underrated.** Nine times out of ten, a Wednesday at 10pm at 98 Lygon St is more enjoyable than a Saturday at 7pm anywhere.
 5. **Walk, don't drive.** Parking in Brunswick East after dark is a contact sport. Take the tram.
 
----
 
 **Last orders:**
 

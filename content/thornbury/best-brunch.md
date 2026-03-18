@@ -1,6 +1,8 @@
 ---
 title: "9 Best Brunch Spots in Thornbury You Need to Know in 2026"
 cover_image: "/images/thornbury/best-brunch.jpg"
+---
+
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Thornbury's best brunch spots in 2026 — from seasonal menus on High Street to organic sourdough on quiet backstreets. Real prices, real food."
 tags: ["thornbury"]
 categories: ["best"]
----
 # 9 Best Brunch Spots in Thornbury You Need to Know in 2026
 
 Thornbury's brunch game doesn't get the recognition it deserves, mostly because the suburb is too busy being itself to care about rankings. While [Northcote](/northcote) gets the headlines and [Brunswick](/brunswick) gets the Instagrammers, Thornbury quietly serves some of the inner north's best morning meals — seasonal menus, organic produce, house-made everything — at prices that haven't been inflated by a Broadsheet feature. Here's where to get your Saturday morning fix.
 
 **Last updated: 17 March 2026** | **Thornbury Vibe Score: 78/100 🟢**
 
----
 
 ## 1. Short Round
 **The vibe:** The neighbourhood brunch spot that treats seasonal menus like a religion and your coffee like a sacrament.
@@ -28,7 +28,6 @@ Short Round at 731 High Street is the brunch venue Thornbury locals recommend by
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Arrive before 9am on weekends or expect a 15–20 minute wait. There's no booking system — it's first in, best dressed, which is very Thornbury.
 
----
 
 ## 2. Rat the Cafe
 **The vibe:** A quiet backstreet gem where the sourdough is naturally leavened and the eggs are truly free-range.
@@ -40,7 +39,6 @@ Rat the Cafe sits on Wales Street, tucked away from the High Street bustle, oppo
 **Hours:** Wed–Sun 7:30am–3pm; Mon–Tue closed
 **Insider tip:** Ask about the wine — Rat does a small but well-chosen selection for "brunch with a glass" situations. No judgement.
 
----
 
 ## 3. Brother Alec
 **The vibe:** A laid-back High Street café where $13 gets you a plate of nachos that could feed two.
@@ -52,7 +50,6 @@ Brother Alec at 719 High Street is Thornbury's best argument for café culture w
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Weekday mornings before 9am are peaceful. After 10am it's a local rush. If you're working from Thornbury, this is your morning office.
 
----
 
 ## 4. Le Café Flo
 **The vibe:** A French-leaning café that feels like stumbling into a Parisian arrondissement on High Street.
@@ -64,7 +61,6 @@ Le Café Flo brings a touch of European café culture to Thornbury without the P
 **Hours:** Wed–Mon 8am–3pm; Tue closed
 **Insider tip:** Their pastries sell out by 10am on Saturdays. If you're pastry-motivated, get there early.
 
----
 
 ## 5. Crunch Cafe
 **The vibe:** A spacious eatery with a wealth of breakfast and lunch options and a no-nonsense approach to generous portions.
@@ -76,7 +72,6 @@ Crunch Cafe is one of those places that does everything well without being famou
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** The smoothie bowls are underrated. Order the açaí bowl if you want something lighter than a full breakfast.
 
----
 
 ## 6. The Brickie & The Barista
 **The vibe:** A dual-concept space where the morning coffee crowd and the afternoon drinkers coexist in perfect harmony.
@@ -88,7 +83,6 @@ The Brickie & The Barista is exactly what the name suggests: a brick-themed spac
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–3pm
 **Insider tip:** Their take-home coffee beans are surprisingly good and well-priced. Grab a bag for your home machine.
 
----
 
 ## 7. Larry David's
 **The vibe:** A café with a name that promises neurotic energy and delivers caffeinated excellence.
@@ -100,7 +94,6 @@ Larry David's is a newer addition to the Thornbury café scene and has quickly e
 **Hours:** Wed–Mon 7:30am–3pm; Tue closed
 **Insider tip:** Check their specials board — they rotate weekly and the experimental dishes are often the best ones.
 
----
 
 ## 8. Larks of Joy
 **The vibe:** A cheerful neighbourhood café where the name says it all and the coffee brings the joy.
@@ -112,7 +105,6 @@ Larks of Joy is one of those spots that feels exactly like its name — bright, 
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** They do excellent takeaway — order ahead on their app if you're passing through on the 86 tram and don't have time to stop.
 
----
 
 ## 9. Smug Relish
 **The vibe:** Confidently named, consistently good — the brunch spot that lives up to its own hype.
@@ -124,7 +116,6 @@ Smug Relish has been around long enough to earn its reputation, and the name is 
 **Hours:** Wed–Mon 8am–3pm; Tue closed
 **Insider tip:** If you like their relish (you will), they sometimes sell jars to take home. Ask at the counter.
 
----
 
 ## The Bottom Line
 
@@ -132,12 +123,10 @@ Thornbury's brunch scene is built for locals, not tourists. Short Round and Rat 
 
 **Your Thornbury Vibe Score this week: 78/100** — Brunch is one of Thornbury's quiet strengths. The strip holds its own against [Northcote](/northcote) and [Brunswick](/brunswick) without trying.
 
----
 
 *Know a spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Also in the area:**
 → [Best Cafes in Thornbury](/thornbury/best-cafes)

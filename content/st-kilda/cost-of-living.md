@@ -5,12 +5,17 @@ date: 2026-03-16
 author: marcus
 tags: ["st-kilda", "cost-of-living", "property"]
 categories: ["property"]
-description: "Cost of Living in St Kilda 2026: The Real Numbers
+description: "Cost of Living in St Kilda 2026: The Real Numbers"
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 St Kilda. The suburb that makes you fall in love with Melbo..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Cost of Living in St Kilda 2026: The Real Numbers
 
 **Updated 16 March 2026 | Marcus Cole reporting**
@@ -21,7 +26,6 @@ But for the right person? There's nowhere else like it.
 
 Let's talk numbers. Real ones. The kind your accountant would actually accept.
 
----
 
 ## Rent: The Big One
 
@@ -43,7 +47,6 @@ For context, the same 1-bed in **South Melbourne** averages $460–$520 — comp
 
 **The salary question:** To rent a 1-bed in St Kilda without losing sleep, you're looking at needing a gross income of roughly $95,000–$110,000. For a 2-bed split between two people, $75,000 each gets you in comfortably. Below that, and you're making real trade-offs.
 
----
 
 ## Groceries: The Coles vs Aldi War
 
@@ -59,7 +62,6 @@ The **Acland Street** bakeries and specialty stores are not where you do your we
 
 **Insider tip:** The Queen Victoria Market run on Wednesday or Saturday mornings saves serious money. St Kilda locals who do it right hit Vic Market for produce and meat, Aldi for staples, and the local IGA for emergencies only.
 
----
 
 ## Transport: Getting Around Without Going Broke
 
@@ -82,7 +84,6 @@ Rideshare costs from St Kilda to the CBD run $18–$30 depending on surge pricin
 
 **The parking reality:** If you own a car in St Kilda, budget $300–$400/month for a secure spot. Street parking is competitive and the council is aggressive with infringement notices. One local I know racked up $800 in fines in three months before giving up and selling the car. He now uses Car Next Door when he needs one.
 
----
 
 ## Dining: What Meals Actually Cost
 
@@ -106,7 +107,6 @@ St Kilda's dining scene is one of Melbourne's most varied — and one of its mos
 - **Regular eater-out (eating out 4–5 times/week):** $600–$900
 - **"I live on Fitzroy Street" mode:** $1,200+
 
----
 
 ## Utilities: Keeping the Lights On
 
@@ -128,7 +128,6 @@ Internet is straightforward — most of St Kilda has decent NBN coverage. A 50Mb
 
 **South Melbourne** and **Elwood** have similar utility profiles. The older housing stock in those areas has the same energy efficiency issues — charming Victorian facades, terrible insulation.
 
----
 
 ## Fitness: Gym Memberships
 
@@ -144,7 +143,6 @@ St Kilda has more gym options per square kilometre than most Melbourne suburbs. 
 
 The free option is honestly the best one in summer. Running the foreshore path from **St Kilda Pier** down towards **Elwood Beach** is one of the finest urban jogs in Australia. Winter is a different story, and that's when the gym membership pays for itself.
 
----
 
 ## Entertainment: What Fun Costs in 2026
 
@@ -162,7 +160,6 @@ St Kilda's entertainment budget is what you make it. The beach, the Esplanade Ho
 
 The proximity to **South Melbourne Market** adds cheap entertainment value too — it's a 15-minute tram ride and you can spend a Saturday morning there for the price of a coffee and a dumpling.
 
----
 
 ## The Full Monthly Budget: One Person, St Kilda, 2026
 
@@ -182,7 +179,6 @@ The proximity to **South Melbourne Market** adds cheap entertainment value too �
 
 The budget scenario is doable on a $55K–$60K salary if you're disciplined. The mid-range is comfortable at $75K–$90K. The premium tier needs $110K+ to not feel the pinch.
 
----
 
 ## What We Skipped and Why
 
@@ -194,7 +190,6 @@ We didn't break down clothing, personal care, or subscription services because t
 
 We also didn't factor in the cost of the occasional emotional support pastry from Acland Street, which, if you're being honest with yourself, is at least $30/week.
 
----
 
 ## The Verdict
 
@@ -206,13 +201,11 @@ The real cost of St Kilda isn't the dollars — it's whether you can handle the 
 
 If you can handle that, welcome home.
 
----
 
 *This article is part of the MELBZ Cost of Living series. Also read: [Cost of Living in Elwood](/elwood/cost-of-living), [Cost of Living in Balaclava](/balaclava/cost-of-living), [Cost of Living in South Melbourne](/south-melbourne/cost-of-living).*
 
 *Marcus Cole is MELBZ's Property Editor. He has lived, rented, and overpaid for coffee in nine Melbourne suburbs and has the bank statements to prove it.*
 
----
 
 <!-- WIDGET: Was this helpful? -->
 **Was this cost breakdown useful?** Tell us below — 👍 spot on, 👎 way off, 🤷 depends on your situation.

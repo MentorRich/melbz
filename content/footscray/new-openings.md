@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Footscray — 2026 Local Guide"
 cover_image: "/images/footscray/new-openings.jpg"
+---
+
 suburb: "footscray"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the newest restaurant, bar, and café openings in Footscray. Our verified 2026 guide covers the latest arrivals for locals."
 tags: ["footscray"]
 categories: ["new"]
----
 ## New Openings in Footscray
 
 Footscray has always been Melbourne's best-value dining suburb, but in 2026 the neighbourhood is undergoing something more interesting than a standard gentrification wave. New venues are arriving that don't try to erase what was there before — they build on it. Natural wine bars sit comfortably next to decades-old pho joints. Craft breweries tuck themselves into 19th-century factory spaces. And the new wave of cafés understands that Footscray doesn't want oat lattes with names in Italian — it wants good coffee, honest food, and prices that don't require a second thought.
@@ -18,7 +19,6 @@ Here's what's landed recently and what's worth your attention.
 
 **Last updated: March 2026** | **Footscray Vibe Score: 74/100 🟢 THRIVING**
 
----
 
 ## The Recent Arrivals Worth Knowing
 
@@ -30,7 +30,6 @@ Here's what's landed recently and what's worth your attention.
 **Hours:** Thu–Sun, from 5pm
 **Insider tip:** Saturday nights are the peak — arrive by 9pm to get a spot before it fills up.
 
----
 
 ### Bud Love
 **What:** Petite community wine bar with BYO food
@@ -40,7 +39,6 @@ Here's what's landed recently and what's worth your attention.
 **Hours:** Fri–Sun, from 4pm
 **Insider tip:** Board games are available. First-date energy is immaculate.
 
----
 
 ### Moon Dog Wild West
 **What:** Wild-west themed bar in the iconic Franco Cozzo building
@@ -50,7 +48,6 @@ Here's what's landed recently and what's worth your attention.
 **Hours:** Daily, from noon
 **Insider tip:** The mechanical bull is not ironic — it's dangerous. Ride it after a few Moon Dog ales at your own risk.
 
----
 
 ### Hail Lilith
 **What:** Goth-inspired cocktail bar with burlesque shows
@@ -60,7 +57,6 @@ Here's what's landed recently and what's worth your attention.
 **Hours:** Thu–Sun, from 5pm
 **Insider tip:** The burlesque nights sell out. Check their socials and book ahead — walk-ins on show nights are nearly impossible.
 
----
 
 ### The Cheeky Pint
 **What:** British-style craft beer pub with house brews
@@ -70,7 +66,6 @@ Here's what's landed recently and what's worth your attention.
 **Hours:** Daily, from noon
 **Insider tip:** The tasting paddle of five house brews is the move for first-timers. Pair it with the wings.
 
----
 
 ### West Footscray Wines
 **What:** Local wine bar and bottle shop in a colourful courtyard setting
@@ -80,7 +75,6 @@ Here's what's landed recently and what's worth your attention.
 **Hours:** Wed–Sun, from 3pm
 **Insider tip:** Oyster Fridays are becoming a thing. Check their socials for the schedule.
 
----
 
 ## The Bigger Picture: Why Footscray Is Drawing New Operators
 
@@ -92,7 +86,6 @@ This is a virtuous cycle: more interesting venues attract more engaged residents
 
 For context, the broader Melbourne dining scene in 2026 is booming. Venues like **Pho Hung Vuong Saigon** in Footscray made Time Out's recommended list for all of Melbourne. That kind of recognition brings visitors from across the city, which benefits every venue on Barkly Street and Hopkins Street. When one Footscray restaurant gets attention, the whole suburb wins.
 
----
 
 ## What's Coming Soon
 
@@ -102,7 +95,6 @@ Footscray, specifically, is seeing increased interest from operators who recogni
 
 **What to watch for in late 2026:** Several new venues are reportedly in the pipeline for the Hopkins Street and Barkly Street corridors. The expansion of apartment developments along Hopkins is creating ground-floor retail spaces that will likely attract more cafés and restaurants. Whether these new arrivals complement or compete with Footscray's existing scene will define the suburb's next chapter.
 
----
 
 ## The Bottom Line
 

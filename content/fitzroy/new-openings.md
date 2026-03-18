@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/new-openings.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the new openings in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["new"]
----
 ## New Openings in Fitzroy
 
 Fitzroy's hospitality scene moves fast. Venues open, close, reinvent, change hands, and sometimes come back as something completely different within 12 months. Keeping track of what's actually new — versus what's just had a menu shake-up — is a full-time job.
 
 We've done the reconnaissance for you. Here's what's opened in Fitzroy recently, what's worth visiting, and what's still finding its feet.
 
----
 
 ## RESTAURANTS & CAFES
 
@@ -50,7 +50,6 @@ Poodle took over a previously empty Gertrude Street space and turned it into a E
 
 **Budget:** Bar snacks $12–$22. Bistro mains $28–$42. Cocktails $20–$24.
 
----
 
 ## BARS
 
@@ -74,7 +73,6 @@ Bar K is a small, dog-friendly bar on Brunswick Street that's carved out a niche
 
 **Budget:** Wine $14–$18. Beer $10–$12. Snacks $8–$16.
 
----
 
 ## RETAIL & SHOPS
 
@@ -94,7 +92,6 @@ Earwig is a vinyl and bookshop that replaced a closing fashion boutique. The spa
 
 **Budget:** Vinyl $15–$45. Books $20–$50. Zines $5–$15.
 
----
 
 ## WHAT TO WATCH: COMING SOON
 
@@ -106,7 +103,6 @@ A new Korean BBQ restaurant is going into the old Smith Street location that's b
 
 Another wine bar (we know, we know) is fitting out a ground-floor space on the quieter end of Brunswick Street. Early signs suggest a focus on natural wines and small plates. No opening date confirmed.
 
----
 
 ## What We Skipped and Why
 
@@ -116,7 +112,6 @@ Another wine bar (we know, we know) is fitting out a ground-floor space on the q
 
 **Venues that opened in 2024 or earlier:** Even if they're "new to you," they're not new openings. We cover those in our full [Neighbourhood Guide](/fitzroy/neighbourhood-guide).
 
----
 
 ## Cross-Suburb New Openings
 
@@ -124,7 +119,6 @@ Another wine bar (we know, we know) is fitting out a ground-floor space on the q
 - [New Openings in Carlton](/fitzroy/new-openings) — Italian tradition meets modern Melbourne
 - [New Openings in Fitzroy North](/fitzroy/new-openings) — quieter but happening
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ What kind of opening gets you excited?**
@@ -136,7 +130,6 @@ Another wine bar (we know, we know) is fitting out a ground-floor space on the q
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-new-openings-pref)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -145,7 +138,6 @@ New venue openings boost Fitzroy's novelty and culture scores. The suburb's high
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 Spotted something new we missed?**
@@ -154,7 +146,6 @@ Fitzroy moves fast. If you've seen a new venue open, a fit-out starting, or a si
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -163,7 +154,6 @@ Fitzroy moves fast. If you've seen a new venue open, a fit-out starting, or a si
 - [Best Bars in Fitzroy](/fitzroy/best-bars) — including established favourites
 - [Best Restaurants in Fitzroy](/fitzroy/best-restaurants) — the proven performers
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every new venue, paid for everything, and received no sponsorship or compensation. Opening dates and details may change. If something's wrong, tell us — we fix things fast.*
 

@@ -1,14 +1,14 @@
 ---
-title: "Glen Iris Honest Guide 2026: Burke Road & Real Opinions"
+title: "Glen Iris Honest Guide 2026: Burke Road Real Opinions"
 cover_image: "/images/glen-iris/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["glen-iris", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Glen Iris Honest Guide 2026: Burke Road & Real Opinions
+description: "Glen Iris Honest Guide 2026: Burke Road & Real Opinions"
+---
 
 Glen Iris is the suburb Melbourne's real estate agents describe as "family-friendly" because they le..."
----
 # Glen Iris Honest Guide 2026: Burke Road & Real Opinions
 
 Glen Iris is the suburb Melbourne's real estate agents describe as "family-friendly" because they legally cannot say "expensive and boring" in a listing. But here's the thing — that's only half true. There's plenty going on in Glen Iris if you know where to look, and if you don't, you'll drive through on Burke Road, see a strip of well-kept shops, assume it's all beige, and keep going to [Camberwell](/suburbs/camberwell) where the DFO and the Rivoli give you something to talk about at dinner.
@@ -17,7 +17,6 @@ Let me fix that.
 
 Updated 16 March 2026 | Jack Morrison reporting
 
----
 
 ## The Quick Take
 
@@ -144,7 +143,6 @@ But here's the honest truth that nobody says out loud: once people move to Glen 
 
 *[Cast your vote → melbz.com.au/rate/glen-iris](/rate/glen-iris)*
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 

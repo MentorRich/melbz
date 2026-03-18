@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jack
 tags: ["brunswick-east", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Brunswick East Honest Guide 2026: Lygon East & Real Opinions
+description: "Brunswick East Honest Guide 2026: Lygon East & Real Opinions"
+---
 
-Updated 16 March 2026 | Jack Morrison reporting
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
 
 Brunswick East is what happens when Brunswick ..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # Brunswick East Honest Guide 2026: Lygon East & Real Opinions
 
 Updated 16 March 2026 | Jack Morrison reporting
@@ -129,11 +134,9 @@ If you're thinking about moving here, do it before the next wave of development 
 
 You should feel validated. Brunswick East is a genuinely good suburb. Just don't tell too many people, yeah?
 
----
 
 *Brunswick East — where Lygon Street gets real and the creek trail sorts out your weekends.*
 
----
 
 ### 📊 Rate Brunswick East
 
@@ -146,7 +149,6 @@ How accurate is this guide? Tell us what we got right (or wrong).
 
 *Vote in the MELBZ app or comment on our [Brunswick East Instagram post](/instagram)*
 
----
 
 ### 🗺️ Explore the Neighbours
 
@@ -157,7 +159,6 @@ How accurate is this guide? Tell us what we got right (or wrong).
 | [Carlton North](/carlton-north) | 82 | 1km south | Quiet family life, Italian food |
 | [Carlton](/carlton) | 85 | 2km south | University, Lygon Street proper, galleries |
 
----
 
 ### 📩 Your Brunswick East Briefing
 
@@ -165,7 +166,6 @@ Get the real talk on Brunswick East every Monday — new openings, Vibe Score ch
 
 **[Subscribe to the Brunswick East Monday Briefing →](/subscribe/brunswick-east)**
 
----
 
 ### 🔥 What's Trending in Brunswick East This Week
 
@@ -177,7 +177,6 @@ Get the real talk on Brunswick East every Monday — new openings, Vibe Score ch
 
 *Want to add to the list? [Submit a tip](/submit)*
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 

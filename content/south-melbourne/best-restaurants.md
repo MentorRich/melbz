@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jules
 tags: ["south-melbourne", "restaurants", "food"]
 categories: ["food"]
-description: "Best Restaurants in South Melbourne 2026: A Local's Picks
+description: "Best Restaurants in South Melbourne 2026: A Local's Picks"
+---
 
-Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting
+**Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting**
+
+
 
 South Melbourne doesn't try t..."
----
+
+*Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
+
 # Best Restaurants in South Melbourne 2026: A Local's Picks
 
 **Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting**
@@ -19,14 +24,12 @@ South Melbourne doesn't try to impress you. That's what makes eating here so goo
 
 I've been eating through South Melbourne for years, revisiting old favourites and checking out the new arrivals. These are the six spots I'd actually send friends to, and the ones I keep going back to myself.
 
----
 
 <!-- THE MOVE CALLOUT -->
 <div style="background:#1a1a2e; color:#fff; padding:20px 24px; border-left:4px solid #e94560; border-radius:6px; margin:24px 0;">
 <strong>🔥 THE MOVE:</strong> South Melbourne Market hits different on a Wednesday. Most stalls are open, the crowds are thin, and you can actually get a seat at Claypots Evening Star without waiting. Pair it with a late lunch at Aegli on Conventry Street for the best food day this side of the river.
 </div>
 
----
 
 ## 1. Aegli — Greek, Reinvented
 
@@ -43,7 +46,6 @@ The dining room keeps the Lune bones — timber, clean lines, good lighting — 
 
 **Signature dishes:** 72-hour roasted lamb shoulder, baked cheese with sour cherry and caper relish, hilopites with lobster and ricotta
 
----
 
 ## 2. Komeyui — The Counter Worth Saving For
 
@@ -60,13 +62,11 @@ The dining room is minimalist without being cold — stone, dark wood, restraine
 
 **Signature dishes:** 10-course sushi omakase, miso-marinated black cod, fish-skin crackling, chawanmushi with foie gras
 
----
 
 <div style="background:#fff3cd; border:1px solid #ffc107; padding:16px 20px; border-radius:6px; margin:24px 0;">
 <strong>⚡ URGENCY:</strong> Komeyui's omakase counter is 12 seats. That's it. Weekend slots book out 3–4 weeks in advance. If you want a Saturday night spot, book now — not after you finish reading this article.
 </div>
 
----
 
 ## 3. Park Street Pasta & Wine — Handmade, Every Day
 
@@ -83,7 +83,6 @@ The menu rotates with the seasons, but expect classic Italian done with good pro
 
 **Signature dishes:** Fresh rigatoni with seasonal ragù, house-made bucatini, seasonal pasta specials
 
----
 
 ## 4. Half Acre — The Warehouse That Does Everything
 
@@ -100,7 +99,6 @@ The space itself is part of the appeal: exposed brick, high ceilings, good natur
 
 **Signature dishes:** Weekend brunch plates, seasonal small plates, house cocktails
 
----
 
 <!-- POLL / VOTE WIDGET -->
 <div style="background:#f8f9fa; border:1px solid #dee2e6; padding:20px 24px; border-radius:8px; margin:24px 0; text-align:center;">
@@ -112,7 +110,6 @@ D) Lamaro's for a steak<br><br>
 <em>Tell us in the comments — we read every one.</em>
 </div>
 
----
 
 ## 5. Lamaro's Hotel — Melbourne's Best Gastropub, Still
 
@@ -129,7 +126,6 @@ If you've been sleeping on Lamaro's because you think "pub food," correct that a
 
 **Signature dishes:** Woodfired porterhouse, oysters with shallot dressing, potato purée, red duck curry
 
----
 
 ## 6. Claypots Evening Star — South Melbourne Market's Best Seat
 
@@ -146,7 +142,6 @@ This is not fine dining. It's better than that. It's the kind of place that remi
 
 **Signature dishes:** Claypot curries (the fish curry is elite), grilled whole fish, market-fresh sashimi plates
 
----
 
 <!-- REACTION BAR -->
 <div style="background:#fff; border:2px solid #eee; padding:16px 24px; border-radius:8px; margin:24px 0; text-align:center;">
@@ -154,7 +149,6 @@ This is not fine dining. It's better than that. It's the kind of place that remi
 🤤 Saved for later &nbsp;|&nbsp; 🍽️ Now I'm hungry &nbsp;|&nbsp; 📍 Booking Aegli tonight &nbsp;|&nbsp; 😤 Where's [your suburb]?
 </div>
 
----
 
 ## What We Skipped and Why
 
@@ -168,7 +162,6 @@ Not every South Melbourne restaurant made the cut. Here's why certain places did
 
 **Any place we missed?** Drop a comment and tell us. We eat where you eat.
 
----
 
 ## The Bigger Picture: Where South Melbourne Fits in Melbourne's Food Scene
 
@@ -176,7 +169,6 @@ If you're exploring beyond the suburb, South Melbourne sits in the middle of a b
 
 For the full picture of what's opening and closing across the inner south, our [new openings tracker](/south-yarra/new-openings/) covers the wider area. South Melbourne's scene is moving fast — Aegli was the big arrival of 2025, and there are already whispers about what's coming in 2026.
 
----
 
 ## Quick Reference
 
@@ -189,7 +181,6 @@ For the full picture of what's opening and closing across the inner south, our [
 | Lamaro's Hotel | Gastropub | $$$ | 293–295 Cecil St |
 | Claypots Evening Star | Seafood/SE Asian | $$–$$$ | Shop 101, South Melbourne Market |
 
----
 
 *Prices are per person for a main course and drink. Book ahead for Komeyui and Aegli on weekends. Park Street and Claypots are walk-in friendly. Lamaro's takes reservations via OpenTable. Half Acre is best mid-week for dinner without the wait.*
 

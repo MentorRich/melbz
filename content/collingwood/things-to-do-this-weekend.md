@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Collingwood — 2026 Local Guide"
 cover_image: "/images/collingwood/things-to-do-this-weekend.jpg"
+---
+
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "maya"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Collingwood. Our verified 2026 guide covers the best spots for locals."
 tags: ["collingwood"]
 categories: ["things"]
----
 # Things To Do This Weekend in Collingwood — Your March 2026 Guide
 
 Collingwood doesn't do lazy weekends. While the rest of Melbourne sleeps in and orders Uber Eats, Smith Street is already humming by 8am — coffee machines firing, vintage store doors rolling up, and the inevitable Saturday morning queue forming at whichever new spot has captured the suburb's attention this month. If you're based in Collingwood (or within a 15-minute tram ride and looking for something better to do), here's how to spend your weekend without repeating yourself.
 
 **Last updated: 16 March 2026** | **Collingwood Vibe Score: 87/100 🟢**
 
----
 
 ## Start With Coffee — But Make It an Experience
 
@@ -30,7 +30,6 @@ For something with less of a following (read: shorter queue), **Aunty Peg's** (2
 
 **Insider tip:** If you walk up Wellington Street past Aunty Peg's toward Smith Street, you'll hit **Terror Twilight** (11-13 Johnston Street) — a health-focused cafe doing some of the best wholesome bowls in the inner north. The bone broth bowl ($18) is exactly what you need after a big Friday night.
 
----
 
 ## Mid-Morning: Wander, Browse, Pretend You're Not Shopping
 
@@ -48,7 +47,6 @@ Smith Street between Johnston and Gertrude is the beating heart. On any given Sa
 
 If you want to escape the Smith Street crowd, walk east toward Johnston Street. The vibe shifts — more residential, more industrial, more "I live here and I'm walking my dog" than "I'm here to be seen." The bonus: less competition for tables and seats.
 
----
 
 ## Afternoon Adventures
 
@@ -66,7 +64,6 @@ Ten minutes further past the Convent, the **Collingwood Children's Farm** (70 St
 
 The Main Yarra Trail runs right through the area. You can walk, run, or ride from Collingwood all the way to the CBD (about 45 minutes on foot) or east toward Heidelberg. The section between the Convent and Dights Falls is particularly gorgeous in March — the trees are still green, the air's cooling down, and you'll mostly have it to yourself.
 
----
 
 ## Evening: Where Collingwood Comes Alive
 
@@ -86,7 +83,6 @@ Collingwood's late-night scene is more low-key than Fitzroy's — fewer crowded 
 
 **Getting home safe:** The 86 tram is your best bet for late-night transport. The 24-hour Night Bus (route 964) runs along Smith Street in the early hours. Uber and Didi pickups are plentiful around the Johnston/Smith intersection. If you're walking, Smith Street is well-lit and busy until late on weekends — the quieter streets north of Johnston are where you want to be a bit more switched on.
 
----
 
 ## What We Skipped and Why
 
@@ -94,7 +90,6 @@ Collingwood's late-night scene is more low-key than Fitzroy's — fewer crowded 
 - **Factory outlet shopping** — Collingwood has some warehouse sales and factory outlets, but they're inconsistent and often appointment-only on weekends. Not worth building a weekend around.
 - **The Saturday morning farmers' market at the Children's Farm** — We actually love it, but it only runs on the second Saturday of each month, so we've listed it above rather than guaranteeing it for every weekend.
 
----
 
 ## The Bottom Line
 
@@ -102,7 +97,6 @@ Collingwood in March 2026 is a suburb that knows exactly what it is: caffeinated
 
 **Your Collingwood Vibe Score this week: 87/100** — autumn warmth without the summer crowds.
 
----
 
 *Spotted something new we missed? [Drop us a tip.](https://melbz.com.au/tip)*
 *→ Related reads: [Best Cheap Eats in Collingwood](/collingwood/cheap-eats) | [Date Night in Collingwood](/collingwood/date-night) | [New Openings in Collingwood](/collingwood/new-openings)*
@@ -110,14 +104,12 @@ Collingwood in March 2026 is a suburb that knows exactly what it is: caffeinated
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Widget: Vibe Score** | Collingwood this week: **87/100** 🟢 | [See full ranking →](https://melbz.com.au/vibe-score)
 **Widget: Tonight's Picks** | [What's on in Collingwood tonight →](https://melbz.com.au/tonight/collingwood)
 **Widget: This Weekend** | [Saturday & Sunday picks across Melbourne →](https://melbz.com.au/this-weekend)
 **Widget: Rate Your Suburb** | How's Collingwood feeling this week? [Rate it →](https://melbz.com.au/rate/collingwood)
 
----
 
 *Living in Collingwood? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=collingwood)*
 

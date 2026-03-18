@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jules
 tags: ["coburg", "restaurants", "food"]
 categories: ["food"]
-description: "Best Restaurants in Coburg 2026: Where to Eat on Sydney Road
+description: "Best Restaurants in Coburg 2026: Where to Eat on Sydney Road"
+---
 
-Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting
+**Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting**
+
+
 
 Sydney Road is the beating..."
----
+
+*Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
+
 # Best Restaurants in Coburg 2026: Where to Eat on Sydney Road
 
 *Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
@@ -19,13 +24,11 @@ Sydney Road is the beating heart of Coburg's dining scene, and honestly, it dese
 
 I spent a week eating my way up and down Sydney Road and its side streets to bring you the six spots that actually deliver in 2026. No filler, no tourist traps, no places coasting on reputation alone. Here's where your next meal in Coburg should come from.
 
----
 
 <!-- WIDGET 1 -->
 > **🗳️ Poll:** What's your go-to cuisine on Sydney Road?
 > — Lebanese | Turkish | Thai | Egyptian | American BBQ | Surprise me
 
----
 
 ## 1. Bluestone American BBQ
 
@@ -40,7 +43,6 @@ The smoked brisket is the main event. Twelve hours in the smoker, properly rende
 
 **Signature dish:** Pit-Braised Pulled Lamb with salsa criolla and arepas ($38)
 
----
 
 ## 2. Manara Lebanese Restaurant
 
@@ -55,7 +57,6 @@ The mezze spread is where you start — smoky baba ganoush, tangy fattoush, and 
 
 **Signature dish:** Lamb shoulder with garlic sauce and saj bread ($32)
 
----
 
 ## 3. Half Moon Cafe
 
@@ -70,13 +71,11 @@ The menu is simple and that's the point. The shanklish wrap (falafel with olives
 
 **Signature dish:** Shanklish wrap with falafel, olives, and feta ($14)
 
----
 
 <!-- WIDGET 2 -->
 
 > **📊 Did you know?** Coburg has the highest concentration of Middle Eastern restaurants north of the Yarra. The suburb's Turkish, Lebanese, and Egyptian dining scene rivals Brunswick's — with smaller crowds and better parking. Keen to explore more? Check our guides to [eating in Brunswick](/brunswick/best-restaurants) and [Preston's food scene](/preston/best-restaurants).
 
----
 
 ## 4. Chorba Cafe
 
@@ -91,7 +90,6 @@ The gozleme is made fresh to order — thin, crispy dough stuffed with spinach a
 
 **Signature dish:** Menemen with feta and mozzarella ($16)
 
----
 
 ## 5. North & COMMON
 
@@ -106,13 +104,11 @@ The space is stunning: high ceilings, moody lighting, raw bluestone juxtaposed w
 
 **Signature dish:** Wood-roasted heritage carrots with labneh and dukkah ($18)
 
----
 
 <!-- WIDGET 3 -->
 > **💬 Your turn:** What's your favourite under the radar on Sydney Road?
 > Drop your recommendation below — we review every single one and the best picks make it into next month's update.
 
----
 
 ## 6. Wild Timor Coffee
 
@@ -127,7 +123,6 @@ The breakfast menu is where Wild Timor shines. Expect dishes like Timorese-spice
 
 **Signature dish:** Timorese-spiced scrambled eggs with roasted sweet potato ($17)
 
----
 
 ## Honourable Mentions
 
@@ -136,7 +131,6 @@ A few other Sydney Road and Coburg spots worth knowing about:
 - **The Post Office Hotel** (229–231 Sydney Road) — A Coburg pub institution with modern Australian pub fare and live music. Good for a casual counter meal and a pint, especially on a sunny afternoon in the beer garden.
 - **The Glass Den** (15 Urquhart Street) — A socially inclusive café next to Pentridge Prison, with creative brunch dishes and a lovely courtyard. Great vegan options including their famous soy-and-mushroom "bacon."
 
----
 
 <!-- WIDGET 4 -->
 
@@ -146,7 +140,6 @@ A few other Sydney Road and Coburg spots worth knowing about:
 > — Most spots are BYO-friendly or have reasonable drink menus
 > — Weekend brunch spots fill up fast — book ahead for North & COMMON and The Glass Den
 
----
 
 ## What We Skipped and Why
 
@@ -160,7 +153,6 @@ Not every Coburg restaurant made the cut, and here's why:
 
 **New openings** — A couple of spots opened in late 2025 that haven't been around long enough to assess properly. We'd rather wait and see if they settle in before recommending them. Check back in our winter update.
 
----
 
 ## The Verdict
 
@@ -172,7 +164,6 @@ Sydney Road rewards the curious. Skip the chain, follow the aromas, and eat like
 
 *Have a Coburg restaurant we need to try? Email us at hello@melbz.com.au or find us on Instagram @melbz.com.au.*
 
----
 
 **Related reading:**
 - [Best Restaurants in Brunswick 2026](/brunswick/best-restaurants)
@@ -180,7 +171,6 @@ Sydney Road rewards the curious. Skip the chain, follow the aromas, and eat like
 - [Brunswick East Food Guide](/brunswick-east/food-guide)
 - [Sydney Road Walking Food Trail](/coburg/food-trail)
 
----
 
 *Jules Marchetti is the Senior Food Editor at MELBZ. She's been eating Melbourne's northern suburbs since she could chew and still hasn't stopped. Follow her on Instagram @julesmarchetti.*
 

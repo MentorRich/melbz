@@ -5,12 +5,17 @@ date: 2026-03-16
 author: yuki
 tags: ["south-yarra", "asian", "food"]
 categories: ["food"]
-description: "Best Asian Food in South Yarra 2026: Chapel Street Eats
+description: "Best Asian Food in South Yarra 2026: Chapel Street Eats."
+---
 
-Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
+**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
+
+
 
 South Yarra gets labelled as the su..."
----
+
+*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
+
 # Best Asian Food in South Yarra 2026: Chapel Street Eats
 
 *Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
@@ -21,7 +26,6 @@ We spent three weeks eating our way along Chapel Street, Toorak Road, and the si
 
 Here's what actually deserves your money in South Yarra right now.
 
----
 
 ## 1. Yūgen Dining — The Underground Japanese Worth Every Dollar
 
@@ -37,7 +41,6 @@ Drinks are no afterthought. The cocktail list leans into Japanese whisky and sak
 
 **The verdict:** This is special-occasion dining done without the stuffiness. If you're trying to impress someone or just want to remind yourself what good Japanese food tastes like in Melbourne, Yūgen is the pick. Reservations are essential on weekends — they book out a week ahead.
 
----
 
 ## 2. Oriental Teahouse — Chapel Street's Dim Sum Institution
 
@@ -53,7 +56,6 @@ Prices are genuinely reasonable for Chapel Street. A table of two people eating 
 
 **The verdict:** Reliable, affordable, and exactly what you want when you're craving proper Chinese food without the schmick-but-shallow treatment some newer spots serve up. Works for a lazy Sunday yum cha with family or a quick weeknight dumpling fix. No bookings for small groups — just rock up and queue.
 
----
 
 ## 3. Miss Chu — Vietnamese Street Food, Done Right
 
@@ -69,7 +71,6 @@ It's casual. Think share tables, minimal decoration, and a fast turnover. You or
 
 **The verdict:** The best quick Asian lunch in South Yarra for under $20. If you work in the area and you're sick of $28 salads, Miss Chu is your new regular.
 
----
 
 ## 4. Mr.Tam — Asian Fusion With a Fine Dining Pretence
 
@@ -85,7 +86,6 @@ Service is polished and attentive without being overbearing, which isn't always 
 
 **The verdict:** Mr.Tam works best as a date night or a group dinner where everyone wants something different from the menu. It's not the most authentic Asian food in South Yarra, but it's well-executed fusion that won't disappoint. Mid-range pricing for the quality.
 
----
 
 ## 5. Mopho Canteen — The Pho Shop That Punches Above Its Weight
 
@@ -103,7 +103,6 @@ Prices are some of the most competitive on Chapel Street. A full pho and a Vietn
 
 **The verdict:** If you want pho in South Yarra and you're not willing to trek to [Richmond's Victoria Street](/tags/richmond/), Mopho is the answer. Small, loud, fast, and genuinely delicious.
 
----
 
 ## 6. Master Roll Vietnam — Chapel Street's Best Banh Mi Under $15
 
@@ -119,7 +118,6 @@ It's the kind of place you duck into when you're browsing Chapel Street and need
 
 **The verdict:** The best-value Asian meal on this entire list. Fourteen bucks will get you a bánh mì and a drink with change to spare. Perfect for a Chapel Street shop-and-eat afternoon.
 
----
 
 
 ## Venue Addresses & Details
@@ -141,7 +139,6 @@ Not every Asian restaurant in South Yarra made the cut. Here's what we left off 
 
 - **Kekou** (Chapel Street, Asian fusion) — Interesting concept, inconsistent execution. We visited twice and got two very different experiences. Worth keeping an eye on, but not ready for a recommendation yet.
 
----
 
 
 ## Venue Addresses & Details
@@ -159,7 +156,6 @@ A few spots that didn't quite make the main list but deserve a nod:
 
 - **Chin Chin** (Flinders Lane) — Not in South Yarra, obviously, but it's impossible to write about Melbourne Asian food without acknowledging the beast. If you're already in the CBD, it's still worth the wait.
 
----
 
 
 ## Venue Addresses & Details
@@ -175,7 +171,6 @@ Two trends stood out during our testing. First, the casual Vietnamese spots are 
 
 Second, Japanese is having a moment. Yūgen's success has clearly inspired confidence — we've noticed more Japanese-influenced menus popping up in South Yarra and across towards [Toorak](/tags/toorak/). Whether that's a trend or a permanent shift remains to be seen, but for now, if you love Japanese food, South Yarra is a great place to be.
 
----
 
 
 ## Venue Addresses & Details
@@ -196,7 +191,6 @@ Second, Japanese is having a moment. Yūgen's success has clearly inspired confi
 | Mopho Canteen | Vietnamese | $ | Pho, cold-weather comfort food |
 | Master Roll Vietnam | Vietnamese | $ | Banh mi, grab-and-go |
 
----
 
 
 ## Venue Addresses & Details
@@ -212,7 +206,6 @@ Second, Japanese is having a moment. Yūgen's success has clearly inspired confi
 - [Prahran Food Guide 2026: What's Worth Eating](/tags/prahran/)
 - [Toorak Dining: Where to Eat in Melbourne's Priciest Suburb](/tags/toorak/)
 
----
 
 *Yuki Tanaka is MELBZ's Asian Food Editor. She's been eating her way through Melbourne's suburbs since 2019 and has strong opinions about pho. Follow her restaurant picks on the MELBZ weekly newsletter.*
 

@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jack
 tags: ["balaclava", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Balaclava Honest Guide 2026: Carlisle Street & Real Opinions
+description: "Balaclava Honest Guide 2026: Carlisle Street & Real Opinions"
+---
 
-Updated 16 March 2026 | Jack Morrison reporting
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
 
 Let's get this out of the way: if you've never..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # Balaclava Honest Guide 2026: Carlisle Street & Real Opinions
 
 **Updated 16 March 2026 | Jack Morrison reporting**
@@ -112,7 +117,6 @@ If you want excitement, look at Fitzroy or South Yarra. If you want space, look 
 
 And for what it's worth: IGA Bakery. That's my pick. Come at me.
 
----
 
 **Widget: Rate Balaclava**
 How would you rate Balaclava out of 10?
@@ -137,7 +141,6 @@ Which neighbouring suburb deserves an honest guide?
 - St Kilda East — Melbourne's quiet achiever
 - Balaclava again — but just the bakeries, ranked
 
----
 
 *Jack Morrison is MELBZ's Suburb Profile Editor. He has strong opinions about bread and weak tolerance for pretension. Follow MELBZ for honest takes on every Melbourne suburb — because someone has to say what everyone's thinking.*
 

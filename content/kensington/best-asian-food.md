@@ -5,12 +5,17 @@ date: 2026-03-16
 author: yuki
 tags: ["kensington", "asian", "food"]
 categories: ["food"]
-description: "Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern & More
+description: "Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern & More"
+---
 
-Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
+**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
+
+
 
 Kensington doesn't ge..."
----
+
+*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
+
 # Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern & More
 
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
@@ -19,7 +24,6 @@ Kensington doesn't get the food credit it deserves. Tucked between Flemington's 
 
 I spent two weeks eating my way through Kensington (and just over the border into Flemington, where the boundaries blur) to find the Asian spots actually worth your time and money. Here are six that delivered.
 
----
 
 ## 1. Mama Le — Vietnamese Fusion Done Right
 
@@ -38,7 +42,6 @@ The dining room fills fast on weekends. Book ahead or expect a wait.
 **What to order:** Feed Me menu, lemongrass beef pho rolls, any of the cocktails  
 **Vibe:** Date night meets family reunion — warm, loud, and generous  
 
----
 
 ## 2. Mikasa Fusion — Asian Meets Latin on Macaulay Road
 
@@ -57,7 +60,6 @@ The space is small and the menu is tight, which is exactly how it should be. Eve
 **What to order:** Kimchi empanadas, eggplant katsu tacos, soy-braised ribs  
 **Vibe:** Experimental without being chaotic — the hits outnumber the misses  
 
----
 
 ## 3. Parrot Seafood BBQ House — The Cantonese Smokehouse Racecourse Road Forgot
 
@@ -76,7 +78,6 @@ Don't expect Instagram aesthetics. Do expect honest Cantonese cooking at prices 
 **What to order:** Roasted duck, century egg congee, steamed fish  
 **Vibe:** Old-school Cantonese canteen — efficient, unpretentious, flavourful  
 
----
 
 ## 4. Sahara Restaurant — East African & Middle Eastern Soul Food
 
@@ -95,7 +96,6 @@ If you've only ever had African food in Footscray, Sahara deserves a spot on you
 **What to order:** Lamb kalankal, fahfah, mix grill  
 **Vibe:** Family-style feast with stunning interiors — bring a group and order everything  
 
----
 
 ## 5. The Abyssinian — Ethiopian & Eritrean on the Border
 
@@ -114,7 +114,6 @@ It's BYO, which makes it even better value. Grab a bottle from the bottleshop on
 **What to order:** Doro wat, vegetarian combination plate, kitfo (if you eat raw meat, you're brave and rewarded)  
 **Vibe:** Intimate, soulful, hands-on — bring someone you're comfortable eating with  
 
----
 
 ## 6. Wayo Japanese Dining — Quiet Excellence Just Over the Line
 
@@ -133,7 +132,6 @@ If you're doing a food crawl from Kensington into Flemington, this is your Japan
 **What to order:** Nasu dengaku, sashimi platter, chicken katsu bento  
 **Vibe:** Low-key neighbourhood Japanese — the kind of place you wish was on your street  
 
----
 
 ## What We Skipped and Why
 
@@ -145,7 +143,6 @@ If you're doing a food crawl from Kensington into Flemington, this is your Japan
 
 **Footscray Vietnamese strip (Hopkins Street):** We know. Footscray's Vietnamese food scene is legendary and just a few minutes' drive away. But that's a different suburb and a different article. Check our [Best Vietnamese in Footscray](/food/footscray/best-vietnamese) guide for that deep dive.
 
----
 
 ## The Bigger Picture: Kensington's Food Identity
 
@@ -155,19 +152,16 @@ What you won't find in Kensington is a single dominant food identity — and tha
 
 If you're nearby in **North Melbourne**, you're within walking distance and the food scene there skews more toward modern Australian and Italian — worth comparing in our [North Melbourne food guide](/food/north-melbourne). And if you've got a car, **Flemington's** Racecourse Road has more Asian options beyond what we've listed here — see our [Flemington eats roundup](/food/flemington) for the full picture.
 
----
 
 *Have we missed your favourite Kensington Asian spot? Tell us on Instagram at [@melbzfood](https://instagram.com/melbz) or email yuki@melbz.com.au — I eat everything you recommend, eventually.*
 
 *Prices listed are approximate and may vary. Always check with the restaurant for current hours and availability. This article was independently reviewed; no venue paid for inclusion.*
 
----
 
 ### 🔥 POLL: What's your go-to Kensington Asian feed?
 
 [Pho & noodles](#) · [BBQ & roasted meats](#) · [Fusion & experimental](#) · [Middle Eastern feast](#)
 
----
 
 ### 📊 You Might Also Like
 
@@ -176,13 +170,11 @@ If you're nearby in **North Melbourne**, you're within walking distance and the 
 - [North Melbourne Food Walking Guide](/food/north-melbourne) — 4km, 5 stops, one afternoon
 - [Suburb Vibe Score: Kensington](/suburbs/kensington) — Live scores, rent, transport, and lifestyle
 
----
 
 ### 💬 Over to You
 
 Kensington's Asian food scene punches well above its weight — but it changes fast. Restaurants open, menus shift, and under the radars appear overnight. If we missed your favourite spot, or if you've tried somewhere on this list and had a different experience, we want to hear it. Drop a comment below or tag us on Instagram [@melbzfood](https://instagram.com/melbzfood). Every tip gets checked. Every good rec gets added to the next update.
 
----
 
 ### 🥢 Quick-Kick Kensington Food Crawl (Saturday Night Itinerary)
 

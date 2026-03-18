@@ -5,10 +5,10 @@ date: 2026-03-16
 author: marcusl
 tags: ["brunswick", "suburb-profile", "hub"]
 categories: ["editorial"]
-description: "Brunswick: The Complete Suburb Profile 2026
+description: "Brunswick: The Complete Suburb Profile 2026"
+---
 
 Brunswick is the suburb that turned Melbourne's inner north into a cultural warzone — and loved every minute of ..."
----
 # Brunswick: The Complete Suburb Profile 2026
 
 Brunswick is the suburb that turned Melbourne's inner north into a cultural warzone — and loved every minute of it. Sydney Road stretches out like a 3km-long argument between a Turkish bakery and a vinyl record shop, while the side streets hum with the kind of creative chaos that makes real estate agents nervous and poets very comfortable. This is a place where your barista has opinions about Marx, where the vegan options outnumber the meat ones on most menus, and where Saturday mornings feel like a competitive sport involving sourdough and tote bags.
@@ -17,7 +17,6 @@ If you're considering Brunswick as your next home — or if you already live her
 
 **Updated 16 March 2026 | Marcus Lee reporting**
 
----
 
 <!-- VIBE SCORE BADGE -->
 <div class="vibe-badge">
@@ -31,7 +30,6 @@ If you're considering Brunswick as your next home — or if you already live her
   <p class="vibe-note">Running hot. Brunswick Music Festival energy is lingering, the new Autumn terrace season is kicking off, and three new venues opened on Lygon Street East in the last fortnight.</p>
 </div>
 
----
 
 ## The Vibe
 
@@ -41,7 +39,6 @@ The main artery is **Sydney Road** — not to be confused with Lygon Street, whi
 
 Brunswick doesn't try to be pretty. It's not trying to be anything. That's the point. It's a suburb that has, through sheer stubbornness and a refusal to become anything else, become exactly the place its residents want it to be.
 
----
 
 ## Rent & Living Costs
 
@@ -58,7 +55,6 @@ That median rent puts Brunswick above the national average of $395/week by a con
 
 For a deeper breakdown, check out our **[Brunswick Cost of Living Guide 2026](/cost-of-living/brunswick)** — it has the actual maths on what a real Brunswick budget looks like.
 
----
 
 ## Food
 
@@ -77,7 +73,6 @@ Brunswick's food scene is what happens when decades of migration, a student popu
 
 For the full rundown, our **[Best Restaurants in Brunswick](/food/brunswick-restaurants)** list has 27 picks across every budget and cuisine.
 
----
 
 ## Bars & Nightlife
 
@@ -97,7 +92,6 @@ Brunswick doesn't do nightclubs. What it does is pubs with soul, bars with opini
 
 Before you head out, make sure you've read our **[Brunswick Nightlife Survival Guide](/nightlife/brunswick)** — it covers the unwritten rules, the safe walking routes home, and where to get a kebab at 1am that won't destroy you.
 
----
 
 ## Transport
 
@@ -111,7 +105,6 @@ Brunswick is one of Melbourne's best-connected suburbs for public transport, whi
 
 **Driving:** Don't. Seriously. On-street parking is a blood sport, and Sydney Road traffic during peak hours will make you question your life choices. If you must drive, aim for side streets off the main strip.
 
----
 
 ## Parks & Green Space
 
@@ -122,7 +115,6 @@ Brunswick isn't a suburb you'd describe as "leafy" in the way that, say, Kew is 
 - **Bulleke-bek Park** — The newest addition, sitting beneath the improved tracks. Well-designed, with playground equipment and open grass. A sign of what the completed rail project will deliver across the corridor.
 - **Princes Park** — Spans into Carlton North but Brunswick residents are regulars. The running track is popular, the facilities are solid, and it's one of the better spots for outdoor exercise in the inner north.
 
----
 
 ## Schools & Education
 
@@ -136,7 +128,6 @@ Brunswick is served by a mix of government, Catholic, and independent schools:
 
 The proximity to the University of Melbourne (a short tram ride south) also makes Brunswick one of the most popular suburbs for uni students, which shapes the area's character significantly.
 
----
 
 ## The Personality Test
 
@@ -146,7 +137,6 @@ You know you live in Brunswick when you have a strong opinion about the best sou
 
 Brunswick is the suburb where people come to be themselves, and then discover everyone else is doing the same thing — just slightly differently.
 
----
 
 <!-- ENGAGEMENT WIDGET: POLL -->
 
@@ -161,7 +151,6 @@ Brunswick is the suburb where people come to be themselves, and then discover ev
 
 **Vote now and see what the community thinks.**
 
----
 
 ## What's Next for Brunswick
 
@@ -171,7 +160,6 @@ The **Brunswick Music Festival** — featuring the iconic Sydney Road Street Par
 
 The big question is whether Brunswick can densify without losing its soul. The optimists point to the fact that density tends to make food scenes better and public transport more frequent. The pessimists point to what happened to parts of Fitzroy and Collingwood when the money moved in. The truth, as always, is probably somewhere on Sydney Road between two kebab shops and a vintage clothing store.
 
----
 
 <!-- ENGAGEMENT WIDGET: CONFESSION BOX -->
 
@@ -189,7 +177,6 @@ The big question is whether Brunswick can densify without losing its soul. The o
 
 **Submit your confession → [confessions.melbz.com.au](/confessions)**
 
----
 
 <!-- ENGAGEMENT WIDGET: FIGHT US -->
 
@@ -211,13 +198,11 @@ We'll take on anyone who says Northcote is better. Or Coburg. Or — God help th
 
 **Think we're wrong? Tell us why → reply on our socials with #FightUsBrunswick**
 
----
 
 ## Open Loop: What's Next?
 
 Brunswick's story doesn't stop at the suburb boundary. The rivalry with its southern neighbours is the kind of gentle, ongoing war that keeps Melbourne interesting. If you want to see what happens when Brunswick's creative chaos meets Fitzroy's polished edge, read our complete profile: **[Fitzroy: The Complete Suburb Profile 2026](/fitzroy/hub-page)**. Spoiler: the argument about which suburb has the better brunch scene gets heated.
 
----
 
 ## The Final Word
 
@@ -227,7 +212,6 @@ If you want manicured lawns and silence after 9pm, look south. If you want a sub
 
 **Brunswick Vibe Score: 82/100 ⚡️ BUZZING**
 
----
 
 *Marcus Lee is the Suburb Profile Editor for MELBZ. He has spent an unreasonable amount of time in Brunswick and considers this a feature, not a bug.*
 

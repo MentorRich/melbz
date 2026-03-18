@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Collingwood — 2026 Local Guide"
 cover_image: "/images/collingwood/best-brunch.jpg"
+---
+
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "The 8 best brunch spots in Collingwood for 2026 — from warehouse-scale brekkies to quiet corner spots where the eggs are always runny."
 tags: ["collingwood"]
 categories: ["best"]
----
 # Best Brunch in Collingwood — 8 Spots That Actually Deliver (2026)
 
 Collingwood takes brunch more seriously than most suburbs take their entire identity. This is a place where a Saturday morning egg is a political statement, where the queue at 9am is part of the experience, and where "just a quick breakfast" never actually takes less than 90 minutes because you spotted someone you know three tables over and had to catch up. The food scene here skews ambitious — kitchens that treat brunch like a proper service, not just a warm-up for lunch. If you want eggs, you'll get eggs. If you want something better, Collingwood has that too.
 
 **Last updated: 17 March 2026** | **Collingwood Vibe Score: 83/100 ⚡️**
 
----
 
 ## 1. Proud Mary — The Big Beast
 
@@ -29,7 +29,6 @@ The coffee is world-class (27th in the world's best coffee shops 2026), which me
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** If you're a group of 4+, they'll often seat you faster than couples. The wait can stretch to 40 minutes on Saturday at 9:30am — pre-book via their website for groups, or rock up at 8am and walk straight in.
 
----
 
 ## 2. Terror Twilight — The Corner Classic
 
@@ -42,7 +41,6 @@ The zucchini fritters are the headliner, but the seasonal specials are worth ask
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
 **Insider tip:** The corner window table is the best seat in the house. If it's taken, the outdoor tables are solid in warmer months. From Fitzroy, it's a straight 5-minute walk down Johnston Street.
 
----
 
 ## 3. The Farm Cafe — The One With Actual Produce
 
@@ -55,7 +53,6 @@ The all-day breakfast runs until 3pm, which is perfect for anyone whose Saturday
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
 **Insider tip:** They do a solid take-home range — house-made granola, relishes, and bread. Grab a jar of their chilli jam. It's $9 and it will transform your toast game forever.
 
----
 
 ## 4. Addict Food & Coffee — The Consistency King
 
@@ -68,7 +65,6 @@ The French toast is a standout. Not the "drown it in maple syrup and call it don
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Faraday Street is one block off Lygon Street (the Collingwood end, not Carlton). Less tourist foot traffic, more locals. There's usually free street parking on Faraday after 10:30am.
 
----
 
 ## 5. Seedling Cafe — The Quiet Gem
 
@@ -81,7 +77,6 @@ The space is light-filled and simple, with a small courtyard out back that's per
 **Hours:** Tue–Fri 7:30am–2:30pm, Sat–Sun 8am–2:30pm
 **Insider tip:** Closed Mondays — plan accordingly. The banana bread here is baked in-house and sells out most days. If you see it, buy it immediately.
 
----
 
 ## 6. Three Bags Full — The Mount Alexander Road Classic
 
@@ -94,7 +89,6 @@ The poached eggs here deserve a paragraph of their own. Perfectly runny, every t
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
 **Insider tip:** Technically Abbotsford, but Collingwood locals claim it. If you're heading to the [Abbotsford Convent](/suburbs/abbotsford) after brunch, it's a 10-minute walk along the boulevard. Combine both for a perfect morning.
 
----
 
 ## 7. Fifty Acres — The Botanical One
 
@@ -107,7 +101,6 @@ The coffee is good, the pastries are excellent (get the seasonal tart if it's on
 **Hours:** Wed–Sun 8am–2:30pm
 **Insider tip:** Open Thursday to Sunday only. The seasonal tart changes weekly and always sells out by 1pm on weekends — come early if you want one.
 
----
 
 ## 8. Bowery to Williamsburg — The American Twist
 
@@ -120,7 +113,6 @@ It's a refreshing change of pace from the avocado-toast brigade. If you're cravi
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
 **Insider tip:** It's on the Fitzroy side of Johnston Street — the border between the two suburbs is blurry here. If you're coming from the [Fitzroy food scene](/suburbs/fitzroy/best-brunch), this is a natural crossover point.
 
----
 
 ## The Bottom Line
 
@@ -128,7 +120,6 @@ Collingwood brunch in 2026 is genuinely world-class — this is the suburb that 
 
 **Your Collingwood Vibe Score this week: 83/100 ⚡️** — Brunch is the engine that drives this score.
 
----
 
 *Related reads: [Best Coffee in Collingwood](/suburbs/collingwood/best-coffee) · [Best Cafes in Collingwood](/suburbs/collingwood/best-cafes) · [Fitzroy Brunch Guide](/suburbs/fitzroy/best-brunch) · [Cheap Eats in Collingwood](/suburbs/collingwood/cheap-eats)*
 

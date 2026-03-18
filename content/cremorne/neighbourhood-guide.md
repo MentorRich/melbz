@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/neighbourhood-guide.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne is Melbourne's most confusing suburb with the best coffee. This is your guide to the real identity of 3121."
 tags: ["cremorne"]
 categories: ["neighbourhood"]
----
 # Cremorne Neighbourhood Guide — Corporate Cool with Edge
 
 Let's settle this right now: Cremorne is Melbourne's most confusing suburb, and it absolutely knows it.
@@ -22,7 +23,6 @@ It's tiny. You can walk across it in about fifteen minutes. But what it lacks in
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100**
 
----
 
 ## The Geography That Matters
 
@@ -32,7 +32,6 @@ Church Street is the main artery, running north-south through the suburb's heart
 
 Swan Street forms the southern edge, where the tech谷歌办公室和现代公寓楼逐渐让位于更传统的墨尔本排屋。
 
----
 
 ## The Corporate Takeover (And Why You Should Care)
 
@@ -42,7 +41,6 @@ The logic was simple: tech companies liked the postcode. Close to the CBD, easy 
 
 That workforce demanded more than just coffee. They wanted lunch spots, after-work drinks, weekend brunches, and eventually, places to live. The transformation was swift and, in many ways, complete.
 
----
 
 ## What Cremorne Is (And Isn't)
 
@@ -62,7 +60,6 @@ That workforce demanded more than just coffee. They wanted lunch spots, after-wo
 - A food destination in its own right — it borrows heavily from Richmond's culinary reputation
 - Where you go to feel like you've "discovered" something — it's already discovered, and everyone knows it
 
----
 
 ## The Three Zones of Cremorne
 
@@ -81,7 +78,6 @@ The southern border along Swan Street is where Cremorne phases into Richmond. Th
 
 Key spots: My Oh My Espresso, The Grand Hotel, Bierkeller.
 
----
 
 ## How to Spend a Day in Cremorne
 
@@ -103,7 +99,6 @@ Café hop in the side streets. Hit OnAir for a coffee and maybe a surprise DJ se
 ### Evening (6pm onwards)
 Dinner at SOGUMM if you want something genuinely unique, or at Amatrice if you want rooftop views. Drinks afterwards at Good Heavens (if you want views) or Lilac (if you want vibe). Don't expect to stay out past midnight — Cremorne sleeps early.
 
----
 
 ## Transport: Getting Around Cremorne
 
@@ -114,7 +109,6 @@ Dinner at SOGUMM if you want something genuinely unique, or at Amatrice if you w
 **Cycling:** Dedicated bike lanes on Church Street and Swan Street. The Yarra River trail runs along the southern edge.
 **Parking:** Street parking exists but is limited. Most cafés have no dedicated parking — you'll be hunting.
 
----
 
 ## Where Cremorne Borrows From
 
@@ -127,7 +121,6 @@ Cremorne's identity is partly theft, and that's fine.
 
 Cremorne is the ultimate hybrid — part Richmond, part South Yarra, part Fitzroy, part CBD. And that's what makes it work.
 
----
 
 ## The History That Matters (The Short Version)
 
@@ -142,7 +135,6 @@ Cremorne wasn't always cool. For most of its history, it was industrial:
 
 There's almost no heritage-listed buildings. The character is industrial, not Victorian. That's why the converted warehouses work — they're authentic to the suburb's DNA, not an aesthetic applied later.
 
----
 
 ## What Cremorne Is Missing
 
@@ -155,7 +147,6 @@ Even with all its strengths, Cremorne has gaps:
 - **No green space** — the Yarra River border is the closest thing to a park, and it's not even in the postcode
 - **No identity beyond "good cafes"** — ask someone what Cremorne is known for and they'll say "cafés" or "Google"
 
----
 
 ## Living in Cremorne: The Reality
 
@@ -177,7 +168,6 @@ If you're considering moving to Cremorne, here's the honest take:
 
 Cremorne is a place to live if you work in the tech industry, are paid well, and want to be close to everything but don't need a backyard or community feeling. It's not for families. It's not for creatives on a budget. It's not for anyone who cares about having a local pub they can call their own.
 
----
 
 ## The Bottom Line
 
@@ -189,7 +179,6 @@ You'll either love Cremorne or you'll walk through it once and never return. Bot
 
 **Your Cremorne Vibe Score this week: 79/100** — Corporate cool with a side of "wait, what suburb am I in?"
 
----
 
 *Know a spot we missed? Let us know.*
 

@@ -5,19 +5,22 @@ date: 2026-03-16
 author: sam
 tags: ["melbourne", "transport", "trams", "trains"]
 categories: ["lifestyle"]
-description: "Melbourne Transport Guide 2026: Trains, Trams, and Getting Around
-
-Updated 16 March 2026 | Sam Torres reporting
-
+description: "Melbourne Transport Guide 2026: Trains, Trams, and Getting Around"
 ---
+
+**Updated 16 March 2026 | Sam Torres reporting**
+
+
+
+
+*Updated 16 March 2026 | Sam Torres reporting*
+
 
 Melbourne's transport network is sprawl..."
----
 # Melbourne Transport Guide 2026: Trains, Trams, and Getting Around
 
 *Updated 16 March 2026 | Sam Torres reporting*
 
----
 
 Melbourne's transport network is sprawling, occasionally unreliable, and genuinely one of the best public transport systems in the Southern Hemisphere — if you know how to use it. Whether you've just moved here, you're visiting, or you've lived here your whole life and still get confused by the train timetable at Richmond, this guide is for you.
 
@@ -184,7 +187,6 @@ The **Metro Tunnel** (which opened in late 2025) has already cut travel times on
 
 The **level crossing removal program** continues — there are now over 100 crossings removed, which means fewer boom gates, faster train times, and genuinely improved safety in the suburbs that had them. If you drive through the south-east, you've probably noticed the difference on the Frankston line.
 
----
 
 ## Your Next Move
 
@@ -194,7 +196,6 @@ If you're new to the city or just exploring, start with our [Melbourne Brunch Cr
 
 The network isn't perfect. The 19 tram will test your patience. Signal faults will make you late. Replacement buses are a form of slow psychological torture. But when everything's running smoothly — when you're on the 96 at golden hour heading down St Kilda Road with the bay ahead and the city behind — you remember why Melbourne is worth the hassle.
 
----
 
 *Sam Torres is the Transport Editor at MELBZ. She's caught every tram line, been on every train line, and only cried on public transport once (the 86 on a 40-degree day, no air conditioning, 2019 — she's fine now). Follow her transport updates in the [Monday Morning Briefing](/newsletter).*
 

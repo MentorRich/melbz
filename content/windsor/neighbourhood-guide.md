@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/neighbourhood-guide.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the neighbourhood guide in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["neighbourhood"]
----
 ## Windsor Neighbourhood Guide: Chapel Street's Cool Sibling
 
 Windsor is the suburb Prahran wishes it still was and the one South Yarra pretends doesn't exist because it can't charge you $32 for a spritz here. It's the part of Chapel Street that still feels like a neighbourhood rather than a runway, where the cafes open at 7am and the bars stay open late and nobody's showing off their new Prada bag while waiting for a table.
@@ -28,7 +29,6 @@ This is where Windsor feels most like Prahran. The cafes are polished, the bouti
 
 **Parking:** Side streets off Claremont or Clements streets.
 
----
 
 ### Central Windsor (High Street to Punt Road)
 
@@ -42,7 +42,6 @@ This is the heart of Windsor's food and bar scene. Where the restaurants cluster
 
 **Parking:** Side streets off Williams Road or metered spots on Chapel.
 
----
 
 ### Lower Windsor (Punt Road to Sandown Street)
 
@@ -56,7 +55,6 @@ This is where Windsor starts feeling scrappy in a good way. The venues are more 
 
 **Parking:** Side streets off Punt or Williams — easier here than central.
 
----
 
 ### The Punt Road Corridor
 
@@ -70,7 +68,6 @@ Punt Road itself is a mess of traffic and fast food, but the side streets off it
 
 **Parking:** On-street parking on the side streets is usually available.
 
----
 
 ### Victoria Gardens Precinct
 
@@ -84,7 +81,6 @@ Victoria Gardens is Windsor's green lung — a small park with shade, seating, a
 
 **Parking:** Side streets off Punt Road.
 
----
 
 ## The Windsor Grid: How to Navigate
 
@@ -98,7 +94,6 @@ Windsor's street grid is simple once you get the hang of it:
 
 If you get lost, head to Chapel Street and walk north towards Prahran or south towards Punt Road. You'll find your way.
 
----
 
 ## What Makes Windsor Different from Its Neighbours
 
@@ -108,7 +103,6 @@ If you get lost, head to Chapel Street and walk north towards Prahran or south t
 
 **vs St Kilda:** St Kilda has the beach, the amusement park, the pier. Windsor has Chapel Street. Completely different scenes — not really comparable except that they're all southside suburbs with good food and drink.
 
----
 
 ## Living in Windsor: The Reality
 
@@ -116,7 +110,6 @@ Windsor is inner-city living without the inner-city prices (well, relatively spe
 
 The suburb is safe, well-lit, and walkable. The main safety consideration is Chapel Street on Friday and Saturday nights after midnight — it gets chaotic, with rowdy crowds and traffic gridlock. Stick to the well-lit footpaths, and you'll be fine.
 
----
 
 ## Getting Around
 
@@ -126,14 +119,12 @@ The suburb is safe, well-lit, and walkable. The main safety consideration is Cha
 - **Bike:** Chapel Street has bike lanes, but they're often blocked by parked cars
 - **Car:** Not recommended for nights out — parking is tight and Chapel Street gridlocks
 
----
 
 **Cross-links:**
 - [Neighbourhood Guide in Prahran](/prahran/neighbourhood-guide)
 - [Neighbourhood Guide in South Yarra](/south-yarra/neighbourhood-guide)
 - [Neighbourhood Guide in St Kilda](/st-kilda/neighbourhood-guide)
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
 

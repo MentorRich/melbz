@@ -5,12 +5,17 @@ date: 2026-03-16
 author: yuki
 tags: ["south-melbourne", "asian", "food"]
 categories: ["food"]
-description: "Best Asian Food in South Melbourne 2026: Market Eats & Beyond
+description: "Best Asian Food in South Melbourne 2026: Market Eats & Beyond"
+---
 
-Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
+**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
+
+
 
 South Melbourne doesn't shout..."
----
+
+*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
+
 # Best Asian Food in South Melbourne 2026: Market Eats & Beyond
 
 *Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
@@ -19,7 +24,6 @@ South Melbourne doesn't shout about its Asian food scene the way [South Yarra](/
 
 I spent two weeks eating my way through South Melbourne's Asian offerings — market halls, Clarendon Street strip shops, hidden spots near the domain — to find the places actually worth your time and money. No tourist traps. No "Asian-inspired" bars charging $22 for a cocktail with an umbrella. Just real food, from real people, at prices that won't make you flinch.
 
----
 
 ## 1. South Melbourne Market Dim Sims — The OG
 
@@ -33,7 +37,6 @@ The spring rolls are the unsung hero here. Crispy, piping hot, and stuffed with 
 
 **Don't skip:** The deep-fried spring rolls. Order them alongside the dim sims and thank me later.
 
----
 
 ## 2. BAMBU Asian Eating House — Market Hawker Vibes Done Right
 
@@ -47,7 +50,6 @@ Budget-wise, you're looking at roughly $16–22 for a main, with small plates st
 
 **Pro tip:** Visit on a Wednesday or Friday when the full market is open. Grab lunch at BAMBU, then wander the fresh produce halls for your weekend groceries. That's a proper Melbourne morning sorted.
 
----
 
 ## 3. Peko Peko — South Melbourne's Best-Kept Secret
 
@@ -61,7 +63,6 @@ Peko Peko is closed Sundays and public holidays, and it's not open for dinner ev
 
 **Must-order:** The Peko Box with fried chicken cubes, upgrade to fried rice. Non-negotiable.
 
----
 
 ## 4. Penang Road — The Clarendon Street Laksa Legend
 
@@ -75,7 +76,6 @@ It's BYO with a small corkage, which means you can bring that bottle of riesling
 
 **The move:** Order the asam laksa if you want something tangier than the curry version. It's sour, fishy, and utterly addictive.
 
----
 
 ## 5. Thai Deli — Old-School Thai That Doesn't Need Instagram
 
@@ -89,7 +89,6 @@ Prices are refreshingly low: most mains sit between $13–17, and portions are g
 
 **What to order:** The jungle curry (kaeng pa) if you like heat — it's the real deal, coconut-free, and proper spicy. Ask for it "Thai spicy" if you're feeling brave.
 
----
 
 ## 6. Red Petite Thai Cafe — Bank Street's Cosy Corner
 
@@ -103,7 +102,6 @@ It's slightly pricier than Thai Deli (mains around $17–22), but the setting is
 
 **Insider tip:** Sit outside if the weather's good. Bank Street is quiet enough to feel like a hidden pocket of the city, especially on a Sunday afternoon.
 
----
 
 ## What We Skipped and Why
 
@@ -117,7 +115,6 @@ Every list like this has casualties. Here's what didn't make the cut and why:
 
 **New Wave Asian Fusion on Clarendon** — We noticed a couple of newer fusion spots that lean heavily into "make betterd" Asian dining with mains pushing $30+. They're not bad, but at those prices, we'd honestly recommend crossing into [St Kilda](/suburbs/st-kilda) for some of the established Vietnamese restaurants on Fitzroy Street, or heading to [South Yarra](/suburbs/south-yarra) for the Japanese options on Toorak Road.
 
----
 
 ## How to Do the Full South Melbourne Asian Food Crawl
 
@@ -137,7 +134,6 @@ If you're planning a day of eating (and honestly, why wouldn't you?), here's the
 
 Total damage for the day? Roughly $60–80 per person across all meals. That's less than a single entree at half the "fine dining Asian" spots in the CBD, and you'll have eaten ten times better.
 
----
 
 ## The Verdict
 
@@ -145,7 +141,6 @@ South Melbourne's Asian food scene isn't trying to compete with the flashier off
 
 The market is the beating heart. Clarendon Street is the backbone. And the back streets — Wells, Bank — hold the surprises. Come hungry, bring cash for the market stalls, and don't be afraid to eat standing up.
 
----
 
 **Related Reading:**
 - [Best Food in South Yarra 2026](/suburbs/south-yarra) — For when you want the polished end of Asian dining
@@ -153,7 +148,6 @@ The market is the beating heart. Clarendon Street is the backbone. And the back 
 - [CBD Dumpling Crawl Guide](/suburbs/melbourne-cbd) — Little Bourke Street's finest, mapped out
 - [South Melbourne Suburb Guide](/suburbs/south-melbourne) — Everything you need to know about living and eating here
 
----
 
 *Yuki Tanaka is MELBZ's Asian Food Editor. She has been eating her way through Melbourne's suburbs since 2019 and has strong opinions about wok hei. Follow her recs or don't — but don't say you weren't warned about the jungle curry.*
 

@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide to Richmond — 2026 Local Guide"
 cover_image: "/images/richmond/neighbourhood-guide.jpg"
+---
+
 suburb: "richmond"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the neighbourhood guide to Richmond. Our verified 2026 guide covers the best spots for locals."
 tags: ["richmond"]
 categories: ["neighbourhood"]
----
 ## The Real Neighbourhood Guide to Richmond
 
 Richmond is Melbourne's most misunderstood suburb. Outsiders think it's all footy crowds and Swan Street kebabs. Locals know better. Richmond is a suburb of layers — each street has its own personality, each block has its own rhythm, and the gap between "tourist Richmond" and "local Richmond" is wider than almost anywhere else in the inner east.
 
 This isn't a brochure. This is the real guide to living, eating, drinking, and navigating Richmond in 2026, written by people who actually spend time here.
 
----
 
 ## The Streets That Matter
 
@@ -52,7 +52,6 @@ Victoria Street is Richmond's Vietnamese heartland. Melbourne's best pho lives h
 
 Church Street is the boundary line between Richmond and Cremorne. The southern end near Swan Street is well-established, with a mix of restaurants and bars. Head north toward the Yarra and the character shifts — it becomes quieter, leafier, and more residential.
 
----
 
 ## Getting Around
 
@@ -66,7 +65,6 @@ Church Street is the boundary line between Richmond and Cremorne. The southern e
 
 **Parking:** Street parking is metered and competitive. Expect $4–$6 per hour depending on the zone. The MCG car parks charge $25–$40 on event days. You're better off catching public transport.
 
----
 
 ## What It Costs to Live Here
 
@@ -76,7 +74,6 @@ Groceries are competitive — you've got Coles on Swan Street, Woolworths on Chu
 
 Coffee runs $4.50–$5.50 for a flat white. A pub meal will set you back $22–$30. A nice dinner with wine for two? Budget $120–$180 depending on where you go.
 
----
 
 ## The Sports Question
 
@@ -86,7 +83,6 @@ You can't write about Richmond without addressing the elephant in the arena. The
 
 **If you live here and love footy:** The MCG is your backyard. Walking to a final is a privilege you never get tired of. Richmond (the team) plays home games at the MCG and the atmosphere during a Tigers game is unlike anywhere else in the league.
 
----
 
 ## What's Happening Nearby
 
@@ -96,7 +92,6 @@ Richmond sits between some of Melbourne's best suburbs. The borders blur natural
 - [Neighbourhood Guide to Collingwood](/collingwood/neighbourhood-guide) — Walk north across Smith Street and you're in Collingwood's cafe and bar scene.
 - [Neighbourhood Guide to Cremorne](/cremorne/neighbourhood-guide) — Cremorne bleeds into Richmond's eastern end. It's smaller, more corporate, and has some under the radars.
 
----
 
 ## Safety Notes
 
@@ -110,7 +105,6 @@ If you're out late, the safest routes are along main streets — Swan, Bridge, C
 
 Cremorne bleeds into Richmond's eastern edge along Church Street and the areas near Swan Street's eastern end. If you're living or visiting near the Church Street–Swan Street intersection, you're technically in both suburbs simultaneously. The Cremorne influence means more corporate workers during the day, newer venues, and a slightly more polished atmosphere. It's not a hard boundary — Richmond and Cremorne share restaurants, pubs, and the same tram routes. For a deeper look at what's happening on the other side, check our [Neighbourhood Guide to Cremorne](/cremorne/neighbourhood-guide).
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Which Richmond street is the real main drag?**
@@ -121,7 +115,6 @@ Cremorne bleeds into Richmond's eastern edge along Church Street and the areas n
 
 [Vote in our weekly suburb poll →](/poll/richmond-main-street)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Richmond Vibe Score This Week: 88/100**
@@ -130,7 +123,6 @@ Footy season is kicking in and Swan Street is buzzing. The MCG effect is real.
 
 [See the full Vibe Score breakdown →](/richmond/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 Think we missed something?**
@@ -139,7 +131,6 @@ Richmond locals know every laneway and hidden spot. Tell us what we should add.
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Richmond**
@@ -148,7 +139,6 @@ Richmond locals know every laneway and hidden spot. Tell us what we should add.
 - [Date Night in Richmond](/richmond/date-night) — where to take someone you actually like
 - [Best Brunch in Richmond](/richmond/best-brunch) — weekend mornings done right
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

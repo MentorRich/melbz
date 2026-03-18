@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in South Yarra — 2026 Local Guide"
 cover_image: "/images/south-yarra/best-brunch.jpg"
+---
+
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "The real best brunch spots in South Yarra — verified addresses, honest prices, and no tourist traps. 8 places worth your Saturday morning."
 tags: ["south-yarra"]
 categories: ["best"]
----
 # Best Brunch in South Yarra — 2026 Local Guide
 
 South Yarra runs on two things: overpriced activewear and excellent brunch. If you live anywhere between the Yarra and Toorak Road, you've probably formed strong opinions about where to spend your Saturday morning — and you're probably right about most of them. But for everyone else (or if you've just moved into one of the endless new apartment blocks going up near Claremont Street), here's the honest breakdown of where to actually eat.
 
 We've eaten at every spot on this list multiple times. We've queued on Sundays, watched menus change, and seen which places hold up when the novelty wears off. These are the ones that do.
 
----
 
 ## 1. Two Birds One Stone
 
@@ -35,7 +35,6 @@ Coffee is Five Senses, which puts it ahead of half the cafés on Chapel Street o
 
 > **MELBZ Tip:** Park on Daly Street if you're driving. The side streets off Claremont have 2-hour free parking that actually has spots before 10am. On Chapel Street itself, you'll circle for 15 minutes and end up at the paid garage behind the Jam Factory for $8/hour.
 
----
 
 ## 2. Abacus Bar & Kitchen
 
@@ -54,7 +53,6 @@ What sets Abacus apart from most South Yarra brunch spots is the evening program
 
 > **Getting here:** Tram 72 stops right outside on Commercial Road. The 58 and 6 also run nearby. If you're coming from [Richmond](/richmond), it's a 15-minute walk across the commercial road bridge — quicker than driving and parking.
 
----
 
 ## 3. Rustica Sourdough
 
@@ -71,7 +69,6 @@ The pastry cabinet is dangerous. Croissants, sourdough doughnuts with rotating f
 
 **Worth noting:** The 501 Chapel Street location is the only one with the full dine-in brunch menu. Their other locations (Fitzroy, Hawthorn, CBD) are more bakery-cafe focused. If you're after the full experience, this is the one.
 
----
 
 ## 4. Norman
 
@@ -90,7 +87,6 @@ The Aperol spritz cart is Norman's party trick. On warm weekends, they wheel out
 
 > **Cross suburb note:** If you're coming from [Prahran](/prahran), Norman is a 10-minute walk straight down Toorak Road. Prahran Market is only a few blocks north if you want to pair brunch with some market browsing afterwards. From the [Melbourne CBD](/melbourne-cbd), it's a 25-minute tram ride on the 58 from Elizabeth Street.
 
----
 
 ## 5. The Terrace
 
@@ -107,7 +103,6 @@ The menu is lighter than most brunch spots — think pastries, sandwiches, and s
 
 **Worth noting:** Free entry to the gardens, so the cafe experience costs what you eat, nothing more. The 30-second walk from the Anderson Street gate to the terrace is one of the most pleasant cafe approaches in Melbourne. Dogs are welcome in the outdoor area but not inside.
 
----
 
 ## 6. Neds Bake & Bistro
 
@@ -124,7 +119,6 @@ The evening programme is where Neds really differentiates itself. Tuesday throug
 
 **Worth noting:** The South Yarra location also serves St Ali coffee, which is a proper Melbourne roaster. If you're into coffee, this is one of the better brews on Toorak Road. They also have locations in Middle Park and Armadale, but the South Yarra spot has the full bistro offering.
 
----
 
 ## 7. Campos Coffee
 
@@ -141,7 +135,6 @@ This isn't where you go for a two-hour brunch. It's where you go when you want g
 
 **Worth noting:** The interior is tight, with limited seating. This is primarily a takeaway spot. If you want to sit down, grab a table early. The corner location makes it an ideal meeting point if you're splitting time between South Yarra and [Prahran](/prahran) — it's literally the border.
 
----
 
 ## 8. Darling Café
 
@@ -158,7 +151,6 @@ The real selling point is the outdoor seating. The Toorak Road corner table is o
 
 **Worth noting:** No weekend bookings. Arrive before 9am on Saturdays or expect a wait. The 58 tram from the CBD drops you a two-minute walk away.
 
----
 
 ## The Price Check — What Brunch Actually Costs in South Yarra
 
@@ -177,7 +169,6 @@ For the curious (or the budget-conscious), here's what a typical brunch for two 
 
 South Yarra is not a cheap suburb for brunch. You're paying a premium over suburbs like [Richmond](/richmond) or Abbotsford, where you can get similar quality for $10–$15 less per person. But you're also paying for the locations, the fit-outs, and in some cases, the genuinely excellent kitchens.
 
----
 
 ## What We Skipped and Why
 
@@ -189,7 +180,6 @@ South Yarra is not a cheap suburb for brunch. You're paying a premium over subur
 
 **Como Lane by Scott Pickett Group.** This is the newest entrant — a Parisian-garden-themed cafe inside the Como House estate. Early reviews are positive (XO chilli scrambles, lemon-myrtle pancakes), but it opened late 2025 and we want to see a full year of service before adding it to a "best of" list. First impressions: promising. Watch this space.
 
----
 
 ## Getting to South Yarra Brunch
 
@@ -201,7 +191,6 @@ South Yarra is not a cheap suburb for brunch. You're paying a premium over subur
 
 **Parking:** Street parking on side streets off Chapel and Toorak is your best bet — look for the 2-hour free zones on Daly Street, Claremont Street, and Darling Street. The Jam Factory car park charges $8/hour but guarantees a spot. On Saturdays after 10am, consider parking near [Richmond](/richmond) and walking over the bridge.
 
----
 
 ## The Verdict
 
@@ -215,13 +204,11 @@ Our top three for different occasions:
 
 South Yarra has always been a suburb that takes brunch seriously. These are the places that prove it.
 
----
 
 *This guide was last updated March 2026. Prices and hours may have changed — call ahead or check the venue's website if you're planning around a specific time. We update this list quarterly.*
 
 *Living in South Yarra? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=south-yarra)*
 
----
 
 **About the author:** Dani writes about food and lifestyle across Melbourne's inner suburbs for MELBZ. Based in South Yarra since 2019, she's eaten at every venue on this list multiple times and paid for every meal out of her own pocket. No sponsored content, no free meals, no bullshit.
 

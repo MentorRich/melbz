@@ -1,6 +1,8 @@
 ---
-title: "Collingwood Neighbourhood Guide 2026 — The Streets That Made Melbourne Cool"
+title: "Collingwood Neighbourhood Guide 2026 — The Streets That Define It"
 cover_image: "/images/collingwood/neighbourhood-guide.jpg"
+---
+
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "The complete Collingwood neighbourhood guide for 2026 — streets, housing, transport, parks, schools, food, and the real story of living in Melbourne's grittiest inner-north suburb."
 tags: ["collingwood"]
 categories: ["neighbourhood"]
----
 # Collingwood Neighbourhood Guide 2026 — The Real Streets, The Real Story
 
 Collingwood doesn't introduce itself politely. It doesn't have a cute tagline or a heritage walking tour that ends at a gelato shop. What it has is Smith Street — one of Melbourne's most alive strips — and a grid of backstreets where $600-a-week apartments sit above former factories, where you can walk to three world-class coffee shops before breakfast, and where the neighbour on one side is an artist and the neighbour on the other is a tradie and somehow that's exactly the mix that works. If you're thinking about moving here, already here, or just trying to understand why people talk about this suburb the way they do, this guide covers the streets, the vibe, the practical stuff, and the honest truth about what it's actually like to live in postcode 3066.
 
 **Last updated: 17 March 2026** | **Collingwood Vibe Score: 83/100 ⚡️**
 
----
 
 ## The Borders — Where Does Collingwood Actually Start?
 
@@ -24,7 +24,6 @@ Collingwood's boundaries are more straightforward than its reputation. The weste
 
 The geography matters because it explains why Collingwood feels so connected to its neighbours. You can walk to Fitzroy in 5 minutes, Abbotsford in 10, and Richmond in 15. It's the geographical centre of the inner north, which is exactly why so much culture concentrates here.
 
----
 
 ## The Streets — A Block-by-Block Breakdown
 
@@ -54,7 +53,6 @@ Gertrude Street sits between Smith and Brunswick streets, running through both C
 
 These cross streets running east from Smith Street are where Collingwood's residential character lives. The terraces are a mix of Victorian workers' cottages, converted warehouses, and new apartment blocks. Parking is easier, the noise drops significantly, and you're still a 5-minute walk from Smith Street. If you're apartment hunting, these streets offer the best balance of quiet living with nearby amenity.
 
----
 
 ## Housing — What You'll Actually Pay
 
@@ -80,7 +78,6 @@ Collingwood is no longer the cheap option it was a decade ago. Median rent for a
 
 The property market in Collingwood has cooled slightly from its 2024 peak but remains expensive by any standard that isn't "inner Melbourne." The warehouses are the trophy buys — high ceilings, industrial character, and the kind of floor space you don't get in a new-build apartment. But they also come with body corporate fees, shared walls, and the occasional noise complaint from the cafe below.
 
----
 
 ## Transport — Getting Around
 
@@ -106,7 +103,6 @@ Driving in Collingwood is fine during the day. It's a grid, the streets are wide
 - **To Clifton Hill:** 10 minutes north via Alexandra Parade
 - **To the CBD:** 30–40 minutes on foot, or 12 minutes by train from Collingwood Station
 
----
 
 ## Parks & Green Space
 
@@ -122,7 +118,6 @@ Technically a path rather than a park, but it's Collingwood's green lifeline. Ru
 ### Princes Park
 Just over the northern border in Princes Hill, but a 10-minute walk from most of Collingwood. A proper athletics track, multiple sports ovals, and enough space to make you forget you're 3km from the CBD.
 
----
 
 ## Schools & Family Life
 
@@ -136,7 +131,6 @@ For childcare, there are several options along Smith Street and in the surroundi
 
 The family scene in Collingwood is growing. Pram traffic on Smith Street on Saturday mornings is now a genuine thing, and the cafes have adapted — high chairs, kids' menus, and the kind of staff who don't flinch when a toddler drops a babycino.
 
----
 
 ## The Honest Truth: What's Good and What's Not
 
@@ -152,7 +146,6 @@ The family scene in Collingwood is growing. Pram traffic on Smith Street on Satu
 - **Rent:** It's no longer cheap. What was once the affordable alternative to Fitzroy is now almost at parity. The price advantage has shifted to Abbotsford and Clifton Hill.
 - **Green space:** Collingwood is inner-city dense. There's no park the size of Princes Park within the suburb proper — Willsmere is the best option, and it's modest.
 
----
 
 ## Who Lives Here?
 
@@ -165,7 +158,6 @@ The 2026 Collingwood demographic is a mix:
 
 The common thread: people who value being able to walk to good food, good coffee, and good transport over having a big backyard and a garage.
 
----
 
 ## The Bottom Line
 
@@ -173,7 +165,6 @@ Collingwood in 2026 is the suburb that proves you don't have to choose between u
 
 **Your Collingwood Vibe Score this week: 83/100 ⚡️** — Electric, and worth every point.
 
----
 
 *Related reads: [Collingwood Cost of Living](/suburbs/collingwood/cost-of-living) · [Collingwood Rent Prices](/suburbs/collingwood/rent-report) · [Collingwood Honest Guide](/suburbs/collingwood/honest-guide) · [Fitzroy Neighbourhood Guide](/suburbs/fitzroy/neighbourhood-guide) · [Abbotsford Neighbourhood Guide](/suburbs/abbotsford/neighbourhood-guide)*
 

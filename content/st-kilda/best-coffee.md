@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in St Kilda — 2026 Local Guide"
 cover_image: "/images/st-kilda/best-coffee.jpg"
+---
+
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best coffee in St Kilda. Our verified 2026 guide covers the best spots for locals."
 tags: ["st-kilda"]
 categories: ["general"]
----
 ## The Best Coffee in St Kilda
 
 St Kilda's coffee scene punches well above its weight. For a beachside suburb that tourists associate with fairy floss and roller coasters, the standard of espresso and filter coffee here is genuinely high — a product of the fierce Melbourne café culture that treats a flat white as a baseline, not a luxury.
@@ -18,7 +19,6 @@ What makes St Kilda's coffee landscape interesting is the geography. Fitzroy Str
 
 We visited 14 cafés across St Kilda and its borders to bring you this verified 2026 ranking. Every coffee was ordered as a flat white unless noted. Prices, quality, consistency, and overall experience were all considered.
 
----
 
 ### 1. Auction Rooms — 103 Brunswick Street (at the Fitzroy Street end)
 
@@ -38,7 +38,6 @@ The space is an actual former auction house — high ceilings, exposed brick, in
 
 **Price point:** Coffee and a pastry: $12–$15. Coffee and breakfast: $25–$35. Not cheap, but the quality justifies it.
 
----
 
 ### 2. Code Black Coffee — 33 Ormond Road, Elwood
 
@@ -62,7 +61,6 @@ The space is small with a courtyard out back that catches morning sun. On a week
 
 **Price point:** Coffee and a pastry: $10–$12. Coffee and breakfast: $20–$25. The banana bread is $8 and worth every cent.
 
----
 
 ### 3. Lune Croissanterie — the St Kilda-Adjacent Pick
 
@@ -80,7 +78,6 @@ We're including it because a good coffee morning sometimes means a short journey
 
 **Price point:** Croissant and coffee: $12–$14. A proper Lune breakfast (croissant plus a second pastry): $18–$20. Worth it for the experience.
 
----
 
 ### 4. Baked. — 67 Fitzroy Street
 
@@ -100,7 +97,6 @@ The space is minimal and bright, with good natural light that makes the pastries
 
 **Flat white:** $5 | **Filter:** Not offered | **Vibe:** Minimalist bakery | **Best for:** Early risers and sourdough lovers
 
----
 
 ### 5. Borsch Vodka & Tears — 152 Chapel Street
 
@@ -110,7 +106,6 @@ Not the cheapest, not the fastest, but absolutely the most atmospheric morning c
 
 **Flat white:** $5 | **Filter:** Not offered | **Vibe:** European candlelit | **Best for:** Moody mornings and pastry people
 
----
 
 ### 6. The Cat's Kaka — 52 Acland Street
 
@@ -120,7 +115,6 @@ The matcha latte ($6.50) is the other standout — actual ceremonial-grade match
 
 **Flat white:** $5.50 | **Japanese iced:** $6.50 | **Vibe:** Clean Japanese-minimal | **Best for:** Iced coffee devotees and brunch-first people
 
----
 
 ### 7. Grigons & Orr — 492 Victoria Street (South Melbourne border)
 
@@ -130,7 +124,6 @@ The food is what draws most people: big breakfasts, avo toast, the classics done
 
 **Flat white:** $5 | **Filter:** $5.50 | **Vibe:** Classic Aussie café | **Best for:** Full breakfast and a solid brew
 
----
 
 ### 8. St Kilda Sea Baths Café — 10–18 Jacka Boulevard
 
@@ -140,7 +133,6 @@ This is a "mood" pick, not a "coffee quality" pick, and we're being transparent 
 
 **Flat white:** $5.50 | **Filter:** Not offered | **Vibe:** Waterfront casual | **Best for:** Morning views and slow starts
 
----
 
 ### Honourable Mentions
 
@@ -148,7 +140,6 @@ This is a "mood" pick, not a "coffee quality" pick, and we're being transparent 
 - **The Esplanade Hotel front bar** — Yes, they do coffee. No, it's not great. But at 7am, sitting in the Espy before anyone else arrives, there's a romance to it.
 - **Acland Street cake shops** — Several do passable espresso. Not guide-worthy individually, but useful if you're already there for the pastries and need a caffeine hit.
 
----
 
 ### What We Skipped and Why
 
@@ -160,7 +151,6 @@ This is a "mood" pick, not a "coffee quality" pick, and we're being transparent 
 
 **Mobile coffee vans** — A few operate around the St Kilda foreshore on weekends. They're convenient if you're at the beach but not consistent enough to rank.
 
----
 
 ### Coffee Getting-There Guide
 
@@ -172,7 +162,6 @@ This is a "mood" pick, not a "coffee quality" pick, and we're being transparent 
 
 **Cycling** is ideal — the foreshore path runs the full length and connects to the Capital City Trail. Most of these cafés have bike racks out front.
 
----
 
 ### Nearby Guides Worth Reading
 
@@ -182,11 +171,9 @@ This is a "mood" pick, not a "coffee quality" pick, and we're being transparent 
 
 > **📊 MELBZ POLL** — What's your daily order? Flat white | Long black | Piccolo | Filter | Iced everything
 
----
 
 *Last verified March 2026. Prices may vary — baristas deserve their raises.*
 
----
 
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
 

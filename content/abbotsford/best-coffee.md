@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Abbotsford — 2026 Local Guide"
 cover_image: "/images/abbotsford/best-coffee.jpg"
+---
+
 suburb: "abbotsford"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best coffee in Abbotsford. Our verified 2026 guide covers the best spots for locals."
 tags: ["abbotsford"]
 categories: ["general"]
----
 # Best Coffee in Abbotsford — Where Locals Actually Get Their Fix
 
 Abbotsford doesn't shout about its coffee scene the way neighbouring [Collingwood](/suburbs/collingwood/) does, and that's exactly the point. While Smith Street tourists queue at whatever's trending, Abbotsford locals have been quietly pulling perfect shots at spots that never make the "top 10 Melbourne cafes" lists — and they'd prefer to keep it that way.
@@ -20,7 +21,6 @@ Abbotsford's coffee identity sits at a crossroads: the industrial grit of the CU
 
 **Last updated: 16 March 2026** | **Abbotsford Vibe Score: 81/100** 🟢
 
----
 
 ## 1. The Farm Cafe
 **The vibe:** Saturday morning slow-down in the best possible way
@@ -34,7 +34,6 @@ The coffee here is consistently good without being showy about it. They use a so
 **Hours:** Daily, 8am–3pm
 **Insider tip:** Go via the Convent entrance off Victoria Street, not the main road. The walk through the grounds is half the experience. Also, if you've got kids, the chooks and goats are free entertainment — just guard your toast.
 
----
 
 ## 2. CafeKaede
 **The vibe:** Tiny Tokyo corner store energy in suburban Melbourne
@@ -48,7 +47,6 @@ The teishoku sets — essentially all-inclusive bento-style meals — are the re
 **Hours:** Wed–Mon, 8am–3pm
 **Insider tip:** They close when they sell out, which on weekends can be by 1pm. Get there before 10:30 if you want the full menu — after that, it's first come, first served on whatever's left.
 
----
 
 ## 3. JC Patisserie Boulangerie
 **The vibe:** A Parisian fever dream squeezed into a Abbotsford shopfront
@@ -62,7 +60,6 @@ But let's talk coffee, because that's why you're here. Their house blend is smoo
 **Hours:** Thu–Mon, 7:30am–3pm
 **Insider tip:** The madeleines come out warm around 9am and disappear fast. If you see them on the counter, buy six. You'll eat four on the walk home and wish you'd bought twelve.
 
----
 
 ## 4. Dr Morse
 **The vibe:** Your cool mate's living room — if your mate had a killer espresso machine and a cocktail list
@@ -76,7 +73,6 @@ The coffee program here leans toward the reliable rather than the experimental. 
 **Hours:** Daily, 7am–late
 **Insider tip:** The courtyard is one of the best-kept sunny spots in Abbotsford. It faces north-east and catches morning light beautifully. On a Tuesday at 10am, you'll have the whole thing to yourself. Also — their evening natural wine selection is genuinely excellent and criminally underpriced.
 
----
 
 ## 5. Frankie Says
 **The vibe:** Riverside Italian nonna energy meets specialty coffee
@@ -90,7 +86,6 @@ The coffee is good — not the best in the suburb, but absolutely solid — and 
 **Hours:** Daily, 8am–4pm
 **Insider tip:** Weekday mornings are blissfully quiet. Weekend brunch draws a crowd from neighbouring [Fitzroy](/suburbs/fitzroy/) and [Richmond](/suburbs/richmond/), so book ahead or rock up before 9:30. The Aperol spritz on a Sunday arvo here is one of Melbourne's best-kept simple pleasures.
 
----
 
 ## 6. Cam's Kiosk
 **The vibe:** The local that does everything and does it well
@@ -104,7 +99,6 @@ The coffee is straightforward and well-made, which is exactly what you want from
 **Hours:** Daily, 7am–late
 **Insider tip:** The courtyard faces the Convent — it's one of the few spots where you can watch the sun set behind the heritage buildings with a glass of something interesting. Sunday arvo sessions here are magic.
 
----
 
 ## The Bottom Line
 
@@ -116,12 +110,10 @@ The surrounding suburbs are stacked too — check out our guides to [best coffee
 
 **Your Abbotsford Vibe Score this week: 81/100** — Solid. The coffee scene is holding strong and the Convent precinct keeps pulling people in. Spring energy is building.
 
----
 
 *Know a spot we missed? [Drop us a tip.](/submit-tip)*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ## 📌 More From Abbotsford
 - [Best Brunch in Abbotsford](/suburbs/abbotsford/best-brunch/)

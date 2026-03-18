@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["camberwell", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Camberwell Honest Guide 2026: Burke Road & Real Opinions
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Camberwell Honest Guide 2026: Burke Road & Real Opinions"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Look, Camberwell gets a rough rap from people..."
----
 # Camberwell Honest Guide 2026: Burke Road & Real Opinions
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Look, Camberwell gets a rough rap from people who've never actually spent time here. The usual line is "it's where ambition goes to retire" or "it's basically a massive Coles parking lot with delusions of grandity." And honestly? There's a kernel of truth in that. But Camberwell is also one of those suburbs that rewards people who bother to look past the strip mall exterior and the median house price that makes even agents wince.
 
@@ -123,7 +126,6 @@ It's the suburb you move to when you're done chasing the new and shiny and want 
 
 If Camberwell's not quite your speed but the inner-east is calling, check our honest guides to [Hawthorn](/suburbs/hawthorn), [Glen Iris](/suburbs/glen-iris), and [Canterbury](/suburbs/canterbury) for comparison.
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 

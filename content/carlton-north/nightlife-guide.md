@@ -1,15 +1,17 @@
 ---
-title: "Untitled"
+title: "Carlton North Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/carlton-north/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
-description: "cover_image: "/images/carlton-north/nightlife-guide.jpg"
- Carlton North Nightlife Guide
+tags: ["carlton-north", "nightlife", "bars"]
+categories: ["nightlife"]
+description: "Carlton North Nightlife Guide 2026: Pubs, Bars & Local Spots"
+---
 
-Upd..."
+*Updated 17 March 2025 | Lina Nguyen reporting*
+
 tags: ["carlton-north"]
 categories: ["nightlife"]
----
 
 cover_image: "/images/carlton-north/nightlife-guide.jpg"
 # Carlton North Nightlife Guide
@@ -78,7 +80,6 @@ Carlton North is highly walkable, with most venues clustered around Lygon Street
 
 Carlton North residents often explore **[Fitzroy](/fitzroy/nightlife-guide)** for a more diverse nightlife scene, while **[Preston](/preston/nightlife-guide)** has emerged as a food and drink destination worth investigating. **[Carlton](/carlton/nightlife-guide)** offers the famous Lygon Street scene that neighbours this area.
 
----
 
 *This guide is part of MELBZ's comprehensive Melbourne nightlife coverage.*
 ### Featured Venues

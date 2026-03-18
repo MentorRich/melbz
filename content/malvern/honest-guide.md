@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["malvern", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Malvern Honest Guide 2026: High Street & Glenferrie Road
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Malvern Honest Guide 2026: High Street & Glenferrie Road"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Malvern. The suburb your accountant recommend..."
----
 # Malvern Honest Guide 2026: High Street & Glenferrie Road
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Malvern. The suburb your accountant recommended when you asked where to move "if you want something safe but not boring." It sits on the Glen Waverley train line, wedged between the leafy confidence of Caulfield and the gentle slope towards [Glen Iris](/suburbs/glen-iris), and it carries itself with the quiet self-assurance of someone who peaked in Year 10 but kept the blazer.
 
@@ -162,7 +165,6 @@ If you want edge, go to Collingwood. If you want nightlife, go to [Prahran](/sub
 
 You won't brag about it at dinner parties. But you'll sleep well. And after a few years, you'll realise that's worth more.
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 

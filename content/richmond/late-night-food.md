@@ -5,12 +5,17 @@ date: 2026-03-16
 author: ethan
 tags: ["richmond", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in Richmond 2026: Victoria Street After Dark
+description: "Late Night Food in Richmond 2026: Victoria Street After Dark"
+---
 
-Updated 16 March 2026 | 6 places tested | Ethan Cross reporting
+**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
+
+
 
 Richmond has always been Melbo..."
----
+
+*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
+
 # Late Night Food in Richmond 2026: Victoria Street After Dark
 
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
@@ -142,7 +147,6 @@ Your best bet on a Friday or Saturday? Start on Victoria Street for pho before 1
 
 Whatever you choose, skip the Maccas on Swan Street. Richmond deserves better than that.
 
----
 
 *Have we missed your favourite Richmond late-night spot? Drop us a line — we update this list every few months and we're always looking for the next addition.*
 

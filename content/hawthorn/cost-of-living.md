@@ -5,12 +5,17 @@ date: 2026-03-16
 author: marcus
 tags: ["hawthorn", "cost-of-living", "property"]
 categories: ["property"]
-description: "Cost of Living in Hawthorn 2026: The Real Numbers
+description: "Cost of Living in Hawthorn 2026: The Real Numbers"
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 Hawthorn sits in that sweet spot that makes property editor..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Cost of Living in Hawthorn 2026: The Real Numbers
 
 **Updated 16 March 2026 | Marcus Cole reporting**
@@ -204,7 +209,6 @@ What you get for that money is a suburb with character, good transport, proper c
 
 Hawthorn doesn't try to impress you. That's what makes it worth the money.
 
----
 
 *Marcus Cole is MELBZ's Property Editor. He's lived in Melbourne's inner east for over a decade and has strong opinions about sandwich shops near train stations. Got a question about living costs in your suburb? [Drop us a line](/contact).*
 

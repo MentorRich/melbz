@@ -5,12 +5,17 @@ date: 2026-03-16
 author: priya
 tags: ["northcote", "restaurants", "food"]
 categories: ["food"]
-description: "Best Restaurants in Northcote 2026: The Complete Guide
+description: "Best Restaurants in Northcote 2026: The Complete Guide"
+---
 
-Updated 16 March 2026 | 8 places tested | Priya Sandhu reporting
+**Updated 16 March 2026 | 8 places tested | Priya Sandhu reporting**
+
+
 
 Northcote's High Street is a dining..."
----
+
+*Updated 16 March 2026 | 8 places tested | Priya Sandhu reporting*
+
 # Best Restaurants in Northcote 2026: The Complete Guide
 
 **Updated 16 March 2026 | 8 places tested | Priya Sandhu reporting**
@@ -19,7 +24,6 @@ Northcote's High Street is a dining corridor that punches well above its weight.
 
 We tested, re-tested, and argued over eight venues across price points. No paid placements. No free meals. Just the straight take from someone who eats on High Street more than their GP would approve of.
 
----
 
 ## 1. Estelle — The Benchmark
 
@@ -36,7 +40,6 @@ The menu changes with the seasons but the philosophy doesn't: premium Victorian 
 
 > **Insider tip:** Book the front window table. It's the best people-watching perch on the entire strip, and on a Friday night, the parade of Northcote characters is better than anything on Netflix.
 
----
 
 ## 2. Vex Dining — Where Vegetables Are the Main Event
 
@@ -51,7 +54,6 @@ The low-waste ethos is genuine, not performative. Vegetable trim becomes stocks 
 
 **Open Loop → Vex is the perfect warm-up before catching a show at the [Northcote Social Club](/northcote/northcote-social-club-guide) — just a 10-minute walk north up High Street. Dinner at 6, band at 9. You're welcome.**
 
----
 
 ## 3. Yuni's Kitchen — The Indonesian Local You'll Claim as Your Own
 
@@ -67,7 +69,6 @@ The ikan pepes — barramundi steamed in banana leaves with a spice paste that h
 **CONFESSION BOX 🗣️**
 *We rate Yuni's nasi goreng higher than any version we've had in Melbourne — including spots charging three times the price. Come at us.*
 
----
 
 ## 4. Mesob Ethiopian — Dinner and Jazz on High Street
 
@@ -88,7 +89,6 @@ The vegetarian platter is a strong move for groups — eight or nine different v
 
 *Drop your vote in the comments below or tag us @melbzcomau with #NorthcoteDateNight*
 
----
 
 ## 5. Ruckers Hill — French-Leaning Wine Bar, No Pretence
 
@@ -101,7 +101,6 @@ Steered by an ex-Bistro Thierry chef, Ruckers Hill sits at the quiet, southern e
 
 The interior has that "converted warehouse but make it cosy" energy — original features, exposed brick, soft lighting. It's the kind of place where you intend to have one glass and a snack, then suddenly it's 10pm and you've had three courses and a bottle of Savennières.
 
----
 
 ## 6. Tahina Bar — Israeli Street Food, Done Right
 
@@ -117,7 +116,6 @@ The shakshuka is generous and properly spiced, the salads are genuinely fresh (n
 **CROSS-SUBURB JAB 💬**
 *Northcote people love to carry on about their High Street food scene. And look — they're not wrong. But if you think Tahina is good, wait until you see what [Brunswick Street in Fitzroy](/fitroy/best-restaurants) is doing with a similar format. Just saying.*
 
----
 
 ## 7. Pizza Meine Liebe — Woodfired, Produce-Driven, Always Booked
 
@@ -130,7 +128,6 @@ Pizza Meine Liebe (German for "pizza my love") has been a High Street fixture fo
 
 The courtyard is one of the best outdoor dining spaces in the area, and it's ideal for groups. They do gluten-free and vegan bases without making it feel like a compromise.
 
----
 
 ## 8. Danté — Greek-Inspired Cocktails and Late-Night Energy
 
@@ -143,7 +140,6 @@ Danté straddles the line between restaurant and cocktail bar in a way that few 
 
 The atmosphere is electric on weekends. It's dim, it's loud in a good way, and the crowd is dressed like they're going somewhere after dinner (they might be — or they might just stay). This is the High Street pick for groups, celebrations, or any night where you want energy over intimacy.
 
----
 
 ## What We Skipped and Why
 
@@ -155,7 +151,6 @@ No guide is complete without being honest about what didn't make the cut.
 
 **Curry Cafe (73 High Street, Westgarth)** — A genuinely excellent Indian restaurant that uses whole spices rather than pre-made mixes, which puts it ahead of most. But the Westgarth end of High Street technically borders Northcote and it's been covered extensively elsewhere. We'll feature it when we do our Westgarth pocket guide.
 
----
 
 ## The Practical Stuff
 
@@ -170,7 +165,6 @@ No guide is complete without being honest about what didn't make the cut.
 | Pizza Meine Liebe | Groups, families | Weekends, yes | Yes |
 | Danté | Late night, cocktails | Fri/Sat, yes | Yes |
 
----
 
 ## Northcote vs. The Rest
 
@@ -178,13 +172,11 @@ Northcote's dining scene has a specific character that distinguishes it from nea
 
 What High Street does better than almost any other Melbourne dining strip is range. You can spend $12 on the best falafel pita in the city, or $150 on a tasting menu with matched wines, and both will feel like they belong on the same street. That's not an accident — it's what happens when a suburb attracts operators who genuinely care about food rather than just the "concept" of a restaurant.
 
----
 
 **Have a Northcote restaurant we haven't covered? Drop it in the comments or hit us on Instagram [@melbzcomau](https://instagram.com/melbzcomau). We test everything.**
 
 *Priya Sandhu is the Food Editor at MELBZ. She has eaten at every venue in this guide at least twice, once anonymously and once making sure the kitchen knew she was coming. Follow her food adventures [@priyaeats](https://instagram.com/priyaeats).*
 
----
 
 *Looking for more Melbourne dining guides? Check out our [complete Melbourne food directory](/melbourne/food-directory) for every suburb we've covered.*
 

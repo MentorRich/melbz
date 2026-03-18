@@ -5,10 +5,10 @@ date: 2026-03-16
 author: marcus
 tags: ["brunswick", "rent", "property"]
 categories: ["property"]
-description: "Rent Prices in Brunswick 2026: Sydney Road Premium
+description: "Rent Prices in Brunswick 2026: Sydney Road Premium"
+---
 
 Brunswick has always been the inner north's middle child — too scruffy for Northcote's tastemakers, too g..."
----
 # Rent Prices in Brunswick 2026: Sydney Road Premium
 
 Brunswick has always been the inner north's middle child — too scruffy for Northcote's tastemakers, too gentrified for Coburg's old guard, and somehow still convinced it's an underdog. But in 2026, the rent data tells a different story. Brunswick is charging like it knows exactly what it's worth, and the Sydney Road corridor is where that premium hits hardest.
@@ -19,7 +19,6 @@ If you're hunting for a rental along Sydney Road right now, you're competing for
 
 Here's what you're actually looking at, based on current asking rents, Homes Victoria data, and Domain quarterly reports.
 
----
 
 ## Brunswick Rent Prices by Dwelling Type (March 2026)
 
@@ -36,7 +35,6 @@ The Sydney Road premium is real. A 2-bedroom apartment within earshot of the 19 
 
 For context: Melbourne's metro-wide median rent hit $580/week in the September 2025 Homes Victoria report, with combined asking rents across houses and units averaging $651/week by December 2025. Brunswick is tracking slightly above metro average for units and meaningfully above for houses — the inner-north postcode premium in full effect.
 
----
 
 ## How Brunswick Compares: The Inner North Rent Map
 
@@ -80,7 +78,6 @@ Northcote is Brunswick's closest price peer. High Street runs a similar energy �
 
 The real differentiator is transport. Brunswick has the 19 tram running the full length of Sydney Road to the CBD — 20 minutes to Elizabeth Street. Northcote relies on the 86 tram (unreliable is a kind description) and the train from Northcote station. If your commute matters, Brunswick wins on access.
 
----
 
 ## The Salary Reality Check
 
@@ -101,7 +98,6 @@ For couples on a combined income of $160,000, a 3-bedroom house in Brunswick is 
 
 The uncomfortable truth: if you're a single person on $75,000 trying to live alone in a 2-bedroom Brunswick apartment, you're spending nearly 40% of your income on rent. That's not comfortable. That's survival mode.
 
----
 
 ## What's Driving the Sydney Road Premium?
 
@@ -113,7 +109,6 @@ Three things are keeping Brunswick rents make betterd in 2026:
 
 **3. Supply constraints.** Brunswick's housing stock is predominantly Victorian and Edwardian terrace houses, many converted into flats or apartments. There's limited space for new large-scale developments along the Sydney Road strip, which keeps supply relatively tight. New apartment blocks are going up — you can see them creeping along the corridor — but they're mostly 2-bedroom investor-grade stock at $550–650/week, not exactly adding affordable options to the market.
 
----
 
 ## Where to Save Money in Brunswick
 
@@ -124,7 +119,6 @@ If you want Brunswick but not the Sydney Road price tag, here's where to look:
 - **Older blocks** — The 1970s and 1980s brick flats between Moreland Road and Park Street are consistently $50–80/week cheaper than the renovated terrace conversions closer to the action
 - **Sharehousing** — A room in a 3-bedroom Brunswick house averages $250–300/week, which is the most realistic option for anyone earning under $80K
 
----
 
 ## 4 Engagement Widgets
 
@@ -140,7 +134,6 @@ If you could save $70–100/week by moving from Brunswick to Coburg, would you d
 **💰 The 30% Rule Reality**
 Are you hitting the 30% affordability threshold, or are you spending 40%+ on rent like half of Melbourne? Take our quick poll — no judgement, just data.
 
----
 
 ## What We Skipped and Why
 
@@ -150,7 +143,6 @@ We also left out rooming houses and boarding houses from the comparison. Brunswi
 
 Finally, we didn't factor in short-term or Airbnb-style rentals. Brunswick's inner-north location makes it popular for temporary stays, and some properties never make it to the long-term rental market because landlords can earn more on short stays. This reduces supply and pushes long-term rents up — but that's a policy conversation, not a rental guide.
 
----
 
 ## The Bottom Line
 
@@ -162,7 +154,6 @@ The real question isn't whether Brunswick is worth $580/week for a 2-bedroom. It
 
 **Your Brunswick Vibe Score this week: 87/100** — strong demand, tight supply, and absolutely no sign of prices dropping.
 
----
 
 *Got a rental listing, a rent horror story, or an insider tip on a street that's still underpriced? [Submit it here](/submit).*
 

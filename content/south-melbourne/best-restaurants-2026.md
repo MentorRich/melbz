@@ -5,31 +5,32 @@ date: 2026-03-16
 author: jules
 tags: ["south-melbourne", "restaurants", "food"]
 categories: ["food"]
-description: "Best Restaurants in South Melbourne 2026: Market & Beyond
-
-Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting
-
+description: "Best Restaurants in South Melbourne 2026: Market & Beyond"
 ---
+
+**Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting**
+
+
+
+
+*Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
+
 
 South Melbourne has alwa..."
----
 # Best Restaurants in South Melbourne 2026: Market & Beyond
 
 *Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
 
----
 
 South Melbourne has always been Melbourne's best-kept culinary secret — too close to the CBD to feel suburban, too independent to feel corporate, and anchored by one of the greatest food markets in the Southern Hemisphere. But in 2026, the neighbourhood is having a genuine moment. New openings are sitting alongside beloved veterans, and the result is a dining corridor that stretches from the heritage-listed South Melbourne Market all the way down to the quieter residential pockets that bleed into Albert Park.
 
 I walked, ate, and revisited six spots over the past month to build this guide. Some have been here for years. A couple are newer. All of them are doing something worth crossing town for.
 
----
 
 > **📊 Quick Poll: What's your go-to cuisine in South Melbourne?**
 > 🍣 Japanese | 🍝 Italian | 🍛 Thai | 🥙 Middle Eastern
 > *(Drop your answer in the comments — we'll feature the winning cuisine in next month's neighbourhood guide)*
 
----
 
 ## 1. St Kilda Dispensary (Corner of Clarendon & St Kilda Road, South Melbourne)
 
@@ -43,7 +44,6 @@ The space is tight, with a no-reservations policy that keeps the energy up and t
 **Go for:** The weekday lunch set. It's one of the best value meals in inner Melbourne.
 **Cross-link:** If you love the produce focus here, check our guide to the best restaurants in South Yarra for more farm-to-table options.
 
----
 
 ## 2. Claypots Barbarossa (255 South Melbourne Market, Coventry Street)
 
@@ -57,7 +57,6 @@ The lamb tagine with prunes and almonds ($26) is the move. Rich, sweet, savoury 
 **Go for:** Saturday morning breakfast while the market is buzzing.
 **Cross-link:** For more market dining, see our St Kilda restaurants guide — Espy and Acland Street have similar energy.
 
----
 
 ## 3. Borsch, Vodka & Tears (282 Domain Road, South Melbourne)
 
@@ -73,7 +72,6 @@ What sets this place apart is the vodka list. Over 40 varieties, many Polish, ma
 **Go for:** A cold winter's night, a bowl of borsch, and a shot of something you've never heard of.
 **Cross-link:** Craving more Eastern European flavours? Our Albert Park dining guide has a few more surprises.
 
----
 
 ## 4. Simply Pho You (254 Clarendon Street, South Melbourne)
 
@@ -89,7 +87,6 @@ The rice paper rolls ($14 for five) are fresh and tightly wrapped, and the Vietn
 **Go for:** A quick, affordable lunch that won't leave you disappointed.
 **Cross-link:** For more affordable eats across the bay, our best restaurants in St Kilda guide covers Acland Street gems.
 
----
 
 ## 5. Tipo 00 (362 Little Bourke Street — wait, that's CBD-adjacent, but hear me out)
 
@@ -103,7 +100,6 @@ However, staying true to the South Melbourne postcode: **La Camera Southgate** (
 **Go for:** A reliable, no-surprises Italian dinner that consistently delivers.
 **Cross-link:** For more Italian along the river, our South Yarra restaurants roundup has you sorted.
 
----
 
 ## 6. Mjølner (267 Russell Street — technically CBD, but close enough to the South Melbourne border that it earns a mention)
 
@@ -117,7 +113,6 @@ The tasting menu ($95 per person) is a theatrical journey through Scandinavian f
 **Go for:** A special occasion dinner that feels like nowhere else in Melbourne.
 **Cross-link:** For more unique dining experiences heading toward St Kilda, check our full St Kilda restaurant guide.
 
----
 
 ## What We Skipped and Why
 
@@ -128,7 +123,6 @@ Every guide needs boundaries. Here's what didn't make the cut this year:
 - **South Melbourne Market seafood stalls.** The fresh seafood is brilliant, but they're ingredient-focused stalls rather than sit-down restaurants. We're planning a dedicated Market seafood guide.
 - **CBD fine dining.** There are about 30 restaurants within walking distance of South Melbourne that technically sit in the CBD postcode. We'll save those for a CBD-specific piece.
 
----
 
 ## The Neighbourhood in 2026
 
@@ -136,13 +130,11 @@ South Melbourne's dining scene in 2026 feels less like it's trying to compete wi
 
 It's a good time to eat in South Melbourne.
 
----
 
 ## Interactive Map: Where to Eat in South Melbourne
 
 > **🗺️ Want to see all these spots on a map?** Drop a 🗺️ in the comments and we'll publish an interactive South Melbourne dining map with walking routes — perfect for a weekend food crawl.
 
----
 
 ## The Bill
 
@@ -155,7 +147,6 @@ It's a good time to eat in South Melbourne.
 | La Camera Southgate | Italian | $24–$42 | Reliable Italian |
 | Mjølner | Modern Scandinavian | $35–$95 | Special occasions |
 
----
 
 ## Want More?
 
@@ -164,7 +155,6 @@ It's a good time to eat in South Melbourne.
 - [Albert Park Dining Guide 2026](/food/albert-park/dining-guide-2026/)
 - [South Melbourne Market: The Complete Food Lover's Walk](/food/south-melbourne/market-food-walk/)
 
----
 
 *Jules Marchetti is the Senior Food Editor at MELBZ. She's eaten her way through every suburb from Fitzroy to Frankston and has the receipt hoard to prove it. Follow her on [Instagram](https://instagram.com/melbzfood) for real-time eating.*
 

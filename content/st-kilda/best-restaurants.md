@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jules
 tags: ["st-kilda", "restaurants", "food"]
 categories: ["food"]
-description: "Best Restaurants in St Kilda 2026: Acland Street & Beyond
+description: "Best Restaurants in St Kilda 2026: Acland Street & Beyond"
+---
 
-Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting
+**Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting**
+
+
 
 St Kilda has always been Melb..."
----
+
+*Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
+
 # Best Restaurants in St Kilda 2026: Acland Street & Beyond
 
 *Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
@@ -19,7 +24,6 @@ St Kilda has always been Melbourne's most theatrical dining suburb. One minute y
 
 This isn't a list of every restaurant in St Kilda. There are 200-odd venues here, and most of them are perfectly fine but forgettable. These are the six that earned a return visit, the ones where the food justifies the trek across town, and the ones that actually feel like they belong to this neighbourhood. We tested them across multiple visits over summer and into early autumn 2026, eating at the counter, at the window, and tucked in the back corner like a regular.
 
----
 
 ## 1. Stokehouse — The Big Night Out
 
@@ -36,7 +40,6 @@ The wine list leans heavily Australian with some sharp European picks. Ask for t
 
 **Insider tip:** Book for a late sitting on a clear evening. When the sun drops behind the buildings along St Kilda Road and the bay goes pink-to-purple, you'll understand why this place charges what it charges.
 
----
 
 ## 2. Cafe Di Stasio — The Institution
 
@@ -55,7 +58,6 @@ The set menu is the move if you haven't been before. It takes the guesswork out 
 
 **Note:** 10% weekend and public holiday surcharge applies. Book ahead — this place fills up, especially on Fridays and Saturdays.
 
----
 
 ## 3. Claypots Seafood Bar — The People's Champion
 
@@ -74,7 +76,6 @@ The atmosphere is the real drawcard. This place is loud. Tables are close togeth
 
 **Getting there:** It's a 15-minute walk from Acland Street down Barkly Street, or a short tram ride on the 96. If you're coming from [South Melbourne](/south-melbourne), the 96 tram drops you right nearby.
 
----
 
 ## 4. Radio Mexico — The Late-Night Legend
 
@@ -95,7 +96,6 @@ The drinks list is built around tequila and mezcal, with a handful of margaritas
 
 **Hours:** Mon–Thu 5pm–10pm, Fri–Sun from noon. Closed Tuesdays.
 
----
 
 ## 5. Cicciolina — The Acland Street Darling
 
@@ -114,7 +114,6 @@ The menu isn't trying to reinvent Italian food. It's trying to do the classics p
 
 **Getting here:** Right on Acland Street, opposite Luna Park. If you're coming from [Elwood](/elwood), it's a pleasant 20-minute walk along the Esplanade with the bay on your left the whole way.
 
----
 
 ## 6. Mya Tiger — The View You Earned
 
@@ -133,7 +132,6 @@ Yum Cha Sundays are the main event: a shared selection of starters plus six yum 
 
 **Getting there:** Straight off the 96 tram at the stop outside Luna Park. The Espy entrance is on the Esplanade — head up the ornate staircase and follow the chandelier.
 
----
 
 ## Honourable Mentions
 
@@ -143,7 +141,6 @@ A few places that almost made the cut:
 - **Flour Child** (Level 1, 77 Acland Street) — Their "pinsa romana" style pizza is genuinely lighter and more interesting than most woodfired options. Great cocktails, great views of Luna Park from the upstairs terrace. Can get chaotic on weekends — go on a Wednesday.
 - **Rococo Acland Street** — A St Kilda stalwart doing solid Italian with their famous antipasti boards. Reliable rather than thrilling, but there's something to be said for reliability.
 
----
 
 ## What We Skipped and Why
 
@@ -155,7 +152,6 @@ A few places that almost made the cut:
 
 **Gelato shops:** We ate at all of them. We have opinions. That's a separate article.
 
----
 
 ## Getting There and Getting Home
 
@@ -167,7 +163,6 @@ A few places that almost made the cut:
 
 **Accessibility:** Stokehouse, Cafe Di Stasio, and the Espy (Mya Tiger) all have step-free entry and accessible bathrooms. Claypots and Radio Mexico have ground-floor access but tight interiors — worth calling ahead if accessibility is a priority. Cicciolina has stairs.
 
----
 
 ## The Bottom Line
 
@@ -177,7 +172,6 @@ The old cake shops on Acland Street still have their window displays. The Esy st
 
 *Have a St Kilda restaurant we need to try? [Submit a tip](/tips) or rate the suburb on our [interactive map](/map).*
 
----
 
 **Related reading:**
 - [Best Cafes in South Melbourne 2026](/south-melbourne/best-cafes)
@@ -185,13 +179,11 @@ The old cake shops on Acland Street still have their window displays. The Esy st
 - [Balaclava's Hidden Food Street: Carlisle Street Deep Dive](/balaclava/carlisle-street-food)
 - [St Kilda Suburb Vibe Score This Week](/st-kilda/vibe-score)
 
----
 
 *This article was independently reviewed. No venue paid for inclusion. Prices and menus were accurate at time of testing (February–March 2026). Hours may vary — always check the venue's website or call ahead.*
 
 *Jules Marchetti is MELBZ's Senior Food Editor. She's eaten at every restaurant on Fitzroy Street at least twice, once on a Tuesday and once on a Saturday. She has opinions.*
 
----
 
 **Was this article helpful?** 👍 👎
 

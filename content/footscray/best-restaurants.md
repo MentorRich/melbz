@@ -1,6 +1,8 @@
 ---
 title: "Best Restaurants in Footscray — 2026 Local Guide"
 cover_image: "/images/footscray/best-restaurants.jpg"
+---
+
 suburb: "footscray"
 vertical: "lifestyle"
 author: "jules"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best restaurants in Footscray. Our verified 2026 guide covers the best spots for locals."
 tags: ["footscray"]
 categories: ["best"]
----
 ## The Best Restaurants in Footscray
 
 Footscray doesn't try to impress you. It just feeds you — brilliantly, cheaply, and without a shred of pretension. Tucked five kilometres west of the CBD, this is where Melbourne's multicultural soul shows up on the plate. Vietnamese pho joints that have been simmering broth since dawn. Ethiopian eateries where injera doubles as your plate and your utensil. Japanese comfort food that warms you from the inside out. And increasingly, modern Australian spots that treat Footscray like the inner-city heavyweight it's always deserved to be.
@@ -18,7 +19,6 @@ If you're coming from [Seddon](/suburbs/seddon) or [Yarraville](/suburbs/yarravi
 
 **Last updated: March 2026** | **Footscray Vibe Score: 74/100 🟢 THRIVING**
 
----
 
 ## 1. Bar Thyme
 **The vibe:** A neighbourhood wine bar with the soul of a European bistro
@@ -30,7 +30,6 @@ Perched on Barkly Street, Bar Thyme is the kind of place that makes you want to 
 **Hours:** Wed–Sun, from 5pm
 **Insider tip:** Tuesday–Wednesday nights often have walk-in availability, but weekends book out fast. Sit at the bar if you can — that's where the energy is.
 
----
 
 ## 2. Station Hotel
 **The vibe:** A proper gastropub where the steaks are serious but the service isn't
@@ -42,7 +41,6 @@ The Station Hotel has been a Footscray institution for years, and it earns that 
 **Hours:** Daily, 11am–late
 **Insider tip:** Book ahead on weekends — this place fills up with locals and visitors from neighbouring [West Melbourne](/suburbs/west-melbourne) who've caught on. The outdoor courtyard is gold on warm evenings.
 
----
 
 ## 3. Sapa Hills
 **The vibe:** A colourful slice of northern Vietnam on Barkly Street
@@ -54,7 +52,6 @@ Sapa Hills brings the terraced hills of Vietnam's Sapa region to Footscray — l
 **Hours:** Daily, 10am–10pm
 **Insider tip:** Large groups are easy here — the spacious layout means you won't be stacked on top of the next table. If you're coming from [Seddon](/suburbs/seddon), it's a 10-minute walk along Hopkins Street.
 
----
 
 ## 4. Bánh Xèo Tay Do
 **The vibe:** No-frills Vietnamese with the best crispy pancakes in Melbourne's west
@@ -66,7 +63,6 @@ The sizzle of batter hitting a hot pan greets you before you sit down. Bánh Xè
 **Hours:** Daily, 10am–9pm
 **Insider tip:** The open kitchen window lets you watch the cooks work. Pull up a seat near it if you want the full sensory experience — the sound, the smell, the show.
 
----
 
 ## 5. Ras Dashen
 **The vibe:** Warm, aromatic Ethiopian dining that rewards the adventurous
@@ -78,7 +74,6 @@ Ras Dashen is one of those places that reminds you why Footscray is special. On 
 **Hours:** Daily, 11am–10pm
 **Insider tip:** The vegetarian options are genuinely excellent — not an afterthought. Perfect for mixed groups with different dietary needs. Don't skip the honey wine.
 
----
 
 ## 6. Don Don
 **The vibe:** Fast, cheap, no-nonsense Japanese that nails the lunch rush
@@ -90,7 +85,6 @@ Don Don is the antidote to overpriced CBD ramen. This compact Japanese eatery ch
 **Hours:** Mon–Sat, 11am–8pm
 **Insider tip:** Seating is tight during the 12–1pm lunch rush. Come at 11:30 or after 1:30 for a seat without the wait. Works brilliantly as a takeaway too.
 
----
 
 ## 7. Ebi Fine Foods
 **The vibe:** Cozy Japanese comfort food with a cult following
@@ -102,7 +96,6 @@ Ebi Fine Foods is one of those quiet achievers that locals guard jealously. The 
 **Hours:** Tue–Sun, 11:30am–8:30pm
 **Insider tip:** The house-made sauces make better everything. Ask for extra of the ponzu if they'll let you.
 
----
 
 ## 8. Chercher
 **The vibe:** Authentic Ethiopian dining with traditional furnishings and warm hospitality
@@ -114,7 +107,6 @@ Chercher brings another dimension to Footscray's Ethiopian scene. The intimate s
 **Hours:** Daily, 10am–10pm
 **Insider tip:** The coffee ceremony, if available, is an experience worth asking about. Traditional Ethiopian coffee is roasted, ground, and brewed right at your table.
 
----
 
 ## 9. Hien Vuong
 **The vibe:** Classic, no-fuss Vietnamese with Melbourne's most underrated pho
@@ -126,7 +118,6 @@ Don't let the simple fit-out fool you. Hien Vuong has been quietly serving some 
 **Hours:** Daily, 9am–9pm
 **Insider tip:** The Vietnamese coffee with condensed milk is the perfect finish. It's the kind of meal that costs under $25 and beats most $80 restaurant experiences.
 
----
 
 ## 10. Footscray Milking Station
 **The vibe:** A brunch destination that justifies the walk from anywhere
@@ -138,7 +129,6 @@ This café-meets-restaurant has earned its OpenTable bookings and its reputation
 **Hours:** Fri–Sun, 8am–3pm
 **Insider tip:** No reservations for walk-ins on weekends — arrive before 9am or after 1pm to dodge the wait. It's a short stroll from Footscray Station.
 
----
 
 ## Honourable Mentions
 
@@ -151,7 +141,6 @@ The restaurants above are the headliners, but Footscray's food scene runs deep. 
 
 **Insider tip:** The beauty of Footscray's food scene is that the "honourable mentions" in this suburb would be the headline act in most others. Every Vietnamese restaurant on Hopkins Street has a different specialty. Walk the strip and pick the one with the most locals inside — you won't go wrong.
 
----
 
 ## The Bottom Line
 

@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["carnegie", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Carnegie Honest Guide 2026: Koornang Road & Real Opinions
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Carnegie Honest Guide 2026: Koornang Road & Real Opinions"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Carnegie is the suburb Melbourne forgot to h..."
----
 # Carnegie Honest Guide 2026: Koornang Road & Real Opinions
 
 **Updated 16 March 2026 | Jack Morrison reporting**
 
----
 
 Carnegie is the suburb Melbourne forgot to have an opinion about — and honestly, that might be its greatest strength.
 
@@ -132,7 +135,6 @@ Carnegie is Melbourne's best-kept open secret. And if you've read this far, you 
 - 🙈 No idea what that is
 - 📍 *opens Google Maps immediately*
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 

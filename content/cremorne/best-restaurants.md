@@ -1,6 +1,8 @@
 ---
 title: "Best Restaurants in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/best-restaurants.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "jules"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne's dining scene has gone from industrial backwater to one of Melbourne's most exciting food pockets. Here's where to eat in 3121."
 tags: ["cremorne"]
 categories: ["best"]
----
 # Best Restaurants in Cremorne — Melbourne's Smallest Suburb, Biggest Flavours
 
 Something shifted in Cremorne over the last few years. This was always a place you passed through on the way to Richmond — a collection of warehouses, tech offices, and the occasional furniture showroom. But somewhere between the office conversions and the residential boom, the restaurant scene exploded. And it didn't explode in the predictable way (another mediocre Italian, another $35-bowl pasta joint). It exploded with range.
@@ -20,7 +21,6 @@ These are the restaurants actually worth your reservation.
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## 1. SOGUMM
 **The vibe:** Korean temple food philosophy meets fine-dining technique in a quiet Church Street space that rewards attention.
@@ -36,7 +36,6 @@ Vegan options aren't an afterthought here; they're integral, drawn from Korean t
 **Hours:** Lunch and dinner, Tue–Sun (check for current hours)
 **Insider tip:** The shrub (a drinking vinegar) changes daily and is offered as a palate cleanser between courses. Say yes every time — it's never what you expect.
 
----
 
 ## 2. Ms Frankie
 **The vibe:** Contemporary Italian in an industrial space where the pasta is made in front of you and the wine list is long enough to get lost in.
@@ -50,7 +49,6 @@ The restaurant opens for lunch at midday and runs through to 11pm, which means i
 **Hours:** Tue–Fri 12pm–11pm, Sat 5pm–11pm, Sun–Mon closed
 **Insider tip:** The bar seats are walk-in only and often the best seats in the house — you get to watch the pasta being made while you eat. Better than any chef's table.
 
----
 
 ## 3. Lilac Wine Bar
 **The vibe:** French bistro meets warehouse party — wood-fired everything, natural wine, and a disco ball that signals when the evening is about to get interesting.
@@ -64,7 +62,6 @@ The Mulberry Group (Top Paddock, Higher Ground, The Kettle Black) behind Lilac k
 **Hours:** Tue–Thu 4pm–late, Fri–Sat noon–late, Sun–Mon closed
 **Insider tip:** If you're here for dinner, ask for the off-menu specials — they usually have two or three that aren't written down, and they're always the best things on offer.
 
----
 
 ## 4. Rice Paper Scissors
 **The vibe:** Vietnamese street food done Melbourne-style — communal tables, share plates, and flavours that make you wonder why you ever ate anywhere else.
@@ -78,7 +75,6 @@ It's not trying to be the most authentic Vietnamese restaurant in Melbourne. It'
 **Hours:** Mon–Sun 11:30am–10pm
 **Insider tip:** Go with a group of four or more and order everything to share. The per-person cost works out to about $35–$40, which is excellent value for this quality. Book ahead on weekends — walk-ins can mean a long wait.
 
----
 
 ## 5. Agapi
 **The vibe:** Greek-meets-Middle Eastern in a warm, considered space that makes Cremorne feel more cosmopolitan than its size suggests.
@@ -92,7 +88,6 @@ The space is warm without being cosy — there's enough industrial heritage in t
 **Hours:** Tue–Sun, 5pm–late
 **Insider tip:** The weekend lunch service (when available) is quieter and more relaxed than dinner, and the menu is slightly different with more daytime-appropriate dishes. Worth checking their socials for current hours.
 
----
 
 ## 6. Gepetto's Trattoria
 **The vibe:** Old-school Italian trattoria where the pasta is under $15, the pizza has more toppings than sense, and the service is warm in that Italian way that makes you feel like family.
@@ -106,7 +101,6 @@ It's not fine dining. It's not trying to be. It's the Italian restaurant your no
 **Hours:** Tue–Sun 5pm–10pm
 **Insider tip:** BYO wine on Tuesdays — no corkage fee. Bring a bottle, get it opened, and spend under $20 per person for a two-course dinner with wine. In Cremorne, that's basically a miracle.
 
----
 
 ## 7. Feast of Merit
 **The vibe:** Modern Australian with global influences in a space that manages to feel both neighbourhood and special occasion.
@@ -120,7 +114,6 @@ It's the restaurant you take visitors to when you want to show them that Cremorn
 **Hours:** Tue–Sat 5:30pm–10pm
 **Insider tip:** The bar area is walk-in and often has a shorter, more affordable menu — great for weeknights when you want the Feast of Merit quality without the full commitment.
 
----
 
 ## What We Skipped and Why
 
@@ -132,7 +125,6 @@ It's the restaurant you take visitors to when you want to show them that Cremorn
 
 **Light Years** — Thai restaurant that's excellent, but operates more as a casual eatery than a sit-down dinner destination. We'll revisit if the menu expands.
 
----
 
 ## The Bottom Line
 
@@ -142,7 +134,6 @@ The question isn't whether Cremorne has a dining scene. It's whether you've been
 
 **Your Cremorne Vibe Score this week: 79/100** — Small suburb, big flavours, zero pretension.
 
----
 
 *Know a spot we missed? Let us know.*
 

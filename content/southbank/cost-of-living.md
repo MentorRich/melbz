@@ -5,13 +5,11 @@ date: 2026-03-18
 author: marcus
 tags: ["southbank", "cost-of-living"]
 categories: ["cost"]
-description: "Updated 18 March 2026 | Property Editor
-
- The Southbank Shuffle: Navigating Melbourne's Riverside Precinct in 2026
-
-By Marcus Chen, Property Editor
-18 March ..."
+description: "Cost of Living in Southbank 2026"
 ---
+
+*description: "18 March 2026 | Property Editor"*
+
 *Updated 18 March 2026 | Property Editor*
 
 # The Southbank Shuffle: Navigating Melbourne's Riverside Precinct in 2026

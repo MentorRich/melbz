@@ -5,13 +5,11 @@ date: 2026-03-18
 author: marcus
 tags: ["southbank", "rent-prices"]
 categories: ["rent"]
-description: "Updated 18 March 2026 | Property Editor
-
- Rent Prices in Southbank 2026
-March 18, 2026
-
-As Melbourne's premier arts and entertainment precinct, Southbank con..."
+description: "Rent Prices in Southbank 2026"
 ---
+
+*description: "18 March 2026 | Property Editor"*
+
 
 ### Rent Trends in Southbank 2026
 

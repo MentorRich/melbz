@@ -1,145 +1,98 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kensingtons on MELBZ — We Know Your Suburb Better Than You Do</title>
-    <link>https://melbz.com.au/kensington/</link>
-    <description>Recent content in Kensingtons on MELBZ — We Know Your Suburb Better Than You Do</description>
-    <generator>Hugo</generator>
-    <language>en-au</language>
-    <lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://melbz.com.au/kensington/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nightlife Guide in Kensington — 2026 Local Guide</title>
-      <link>https://melbz.com.au/kensington/nightlife-guide/</link>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/nightlife-guide/</guid>
-      <description>&lt;h1 id=&#34;kensington-nightlife-guide-2026--melbournes-best-kept-western-secret&#34;&gt;Kensington Nightlife Guide 2026 — Melbourne&amp;rsquo;s Best Kept Western Secret&lt;/h1&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t have the name recognition of Fitzroy or Collingwood when it comes to nightlife, and honestly, the locals like it that way. This inner-western suburb has spent the last five years quietly building a bar and pub scene that punches well above its weight. What was once just a strip of old pubs serving the local footy crowd has transformed into something far more interesting — a mix of heritage hotels, craft beer venues, and the kind of neighbourhood bars that reward those willing to venture beyond the well-trodden nightlife postcodes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern &amp; More</title>
-      <link>https://melbz.com.au/kensington/best-asian-food/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/best-asian-food/</guid>
-      <description>&lt;h1 id=&#34;best-asian-food-in-kensington-2026-vietnamese-middle-eastern--more&#34;&gt;Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern &amp;amp; More&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t get the food credit it deserves. Tucked between Flemington&amp;rsquo;s Racecourse Road strip and the industrial pockets off Macaulay Road, this inner-west suburb packs an absurd amount of flavour into its modest streets. Vietnamese pho joints sit shoulder to shoulder with Cantonese BBQ smokehousees, while East African stews simmer next to Japanese izakaya plates — all within a 10-minute walk of the station.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Best Bars in Kensington 2026: Local Pubs &amp; Hidden Watering Holes</title>
-      <link>https://melbz.com.au/kensington/best-bars/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/best-bars/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;best-bars-in-kensington-2026-local-pubs--hidden-watering-holes&#34;&gt;Best Bars in Kensington 2026: Local Pubs &amp;amp; Hidden Watering Holes&lt;/h1&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its drinking scene. That&amp;rsquo;s part of the charm. While Fitzroy and Carlton grab the headlines, this pocket of Melbourne&amp;rsquo;s inner west has quietly built a bar culture that punches well above its weight — one brewpub, one wine bar, a legendary old-school pub, and a cocktail bar hidden inside a Vietnamese restaurant. No pretension. No queues down the laneway. Just cold drinks and good company, tucked between the railway yards and Flemington Racecourse.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Best Cafes in Kensington 2026: Coffee in the Quiet Suburb</title>
-      <link>https://melbz.com.au/kensington/best-cafes/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/best-cafes/</guid>
-      <description>&lt;h1 id=&#34;best-cafes-in-kensington-2026-coffee-in-the-quiet-suburb&#34;&gt;Best Cafes in Kensington 2026: Coffee in the Quiet Suburb&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Eli Chen reporting&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t scream about its coffee. That&amp;rsquo;s the whole point. Tucked between Flemington&amp;rsquo;s Racecourse Road strip and North Melbourne&amp;rsquo;s warehouse conversions, this 3031 postcode runs on Bellair Street caffeine and Macaulay Road baked goods. No neon signs begging for Instagram. No queues around the block designed for content creators. Just six spots doing the work, quietly and well.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Best Pubs in Kensington 2026: Local Watering Holes</title>
-      <link>https://melbz.com.au/kensington/best-pubs/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/best-pubs/</guid>
-      <description>&lt;h1 id=&#34;best-pubs-in-kensington-2026-local-watering-holes&#34;&gt;Best Pubs in Kensington 2026: Local Watering Holes&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its pub scene the way Brunswick or Fitzroy does. That&amp;rsquo;s part of the charm. Tucked between Flemington Racecourse, the Moonee Ponds Creek trail and a short tram from the CBD, this inner-west suburb packs more character per square metre than most Melbourne nightlife strips — and it does it without the pretension.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Best Pubs in Kensington 2026: Racecourse Road &amp; Beyond</title>
-      <link>https://melbz.com.au/kensington/best-pubs-v2/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/best-pubs-v2/</guid>
-      <description>&lt;h1 id=&#34;best-pubs-in-kensington-2026-racecourse-road--beyond&#34;&gt;Best Pubs in Kensington 2026: Racecourse Road &amp;amp; Beyond&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Kai Thompson reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its pub scene. That&amp;rsquo;s partly the point. Tucked between Flemington Racecourse, the Maribyrnong River and the freight rail lines, this inner-west suburb has quietly assembled one of Melbourne&amp;rsquo;s most rewarding pub crawls — five stops along Racecourse Road and a short detour to Macaulay Road, all within a comfortable stagger.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Best Restaurants in Kensington 2026: Where to Eat</title>
-      <link>https://melbz.com.au/kensington/best-restaurants/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/best-restaurants/</guid>
-      <description>&lt;h1 id=&#34;best-restaurants-in-kensington-2026-where-to-eat&#34;&gt;Best Restaurants in Kensington 2026: Where to Eat&lt;/h1&gt;&#xA;&lt;p&gt;Kensington&amp;rsquo;s food scene is proper. Tucked between the tram lines and Racecourse Road, this pocket of Melbourne has quietly built itself into one of the west&amp;rsquo;s most underrated dining strips. No flashy openings, no Instagram stunts — just bloody good food from people who actually care about what they&amp;rsquo;re serving.&lt;/p&gt;&#xA;&lt;p&gt;Walk down Bellair Street any weeknight and you&amp;rsquo;ll see what we mean: locals queuing for tacos at La Tortilleria, couples sharing Ethiopian injera at The Abyssinian, and shift workers grabbing Thai curry from PIMM before the late service. This isn&amp;rsquo;t tourist food. This is neighbourhood eating at its finest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cheap Eats Under $20 in Kensington 2026</title>
-      <link>https://melbz.com.au/kensington/cheap-eats/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/cheap-eats/</guid>
-      <description>&lt;h1 id=&#34;cheap-eats-under-20-in-kensington-2026&#34;&gt;Cheap Eats Under $20 in Kensington 2026&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its food scene. Tucked between Flemington Racecourse and the Maribyrnong River, this inner-west suburb keeps things low-key — a string of family-run spots along Macaulay Road, Bellair Street, and Stubbs Street that punch well above their price tag. No flashy fit-outs or influencer-friendly walls. Just properly good food at prices that won&amp;rsquo;t make you wince.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cheap Eats Under $20 in Kensington 2026: Macaulay Road &amp; Beyond</title>
-      <link>https://melbz.com.au/kensington/cheap-eats-v2/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/cheap-eats-v2/</guid>
-      <description>&lt;h1 id=&#34;cheap-eats-under-20-in-kensington-2026-macaulay-road--beyond&#34;&gt;Cheap Eats Under $20 in Kensington 2026: Macaulay Road &amp;amp; Beyond&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its food scene the way neighbouring &lt;strong&gt;Flemington&lt;/strong&gt; or &lt;strong&gt;Footscray&lt;/strong&gt; do. That&amp;rsquo;s partly the point — this compact suburb, squeezed between the racecourse and the rail yards, has always been a bit under the radar. But walk down Macaulay Road on a Tuesday lunchtime and you&amp;rsquo;ll find more flavour per square metre than most Melbourne suburbs manage across their entire high street.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cost of Living in Kensington 2026: The Real Numbers</title>
-      <link>https://melbz.com.au/kensington/cost-of-living/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/cost-of-living/</guid>
-      <description>&lt;h1 id=&#34;cost-of-living-in-kensington-2026-the-real-numbers&#34;&gt;Cost of Living in Kensington 2026: The Real Numbers&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kensington is one of those suburbs where everyone has an opinion and nobody checks the maths. It&amp;rsquo;s 4km from the CBD, wedged between Flemington&amp;rsquo;s wide streets and North Melbourne&amp;rsquo;s grit, and it carries a reputation as the &amp;ldquo;affordable inner-north option&amp;rdquo; — a label that&amp;rsquo;s been getting harder to justify every quarter.&lt;/p&gt;&#xA;&lt;p&gt;So let&amp;rsquo;s do what nobody does and put actual numbers on it. Not vibes. Not &amp;ldquo;it depends.&amp;rdquo; Real 2026 AUD figures for what it costs to actually live in Kensington, postcode 3031, right now.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kensington Food Crawl 2026: The Best Day Out</title>
-      <link>https://melbz.com.au/kensington/food-crawl/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/food-crawl/</guid>
-      <description>&lt;h1 id=&#34;kensington-food-crawl-2026-the-best-day-out&#34;&gt;Kensington Food Crawl 2026: The Best Day Out&lt;/h1&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t scream about its food scene. It doesn&amp;rsquo;t need to. Tucked between Flemington&amp;rsquo;s racecourse grandeur and Footscray&amp;rsquo;s Vietnamese backbone, this pocket of inner-west Melbourne has been quietly stacking venues that would headline in flashier suburbs. The difference here is the neighbours actually eat at them — not influencers shooting content for 45 minutes before leaving.&lt;/p&gt;&#xA;&lt;p&gt;A proper Kensington food crawl takes you from Bellair Street&amp;rsquo;s cafe strip through Macaulay Road&amp;rsquo;s warehouse-converted restaurants and down to Stubbs Street&amp;rsquo;s industrial-fringe eateries. You&amp;rsquo;ll cover roughly 1.5 kilometres on foot. Start early, bring stretchy pants.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kensington Honest Guide 2026: Racecourses, Noise &amp; Real Talk</title>
-      <link>https://melbz.com.au/kensington/honest-guide-v2/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/honest-guide-v2/</guid>
-      <description>&lt;h1 id=&#34;kensington-honest-guide-2026-racecourses-noise--real-talk&#34;&gt;Kensington Honest Guide 2026: Racecourses, Noise &amp;amp; Real Talk&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Jack Morrison reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Kensington sits in that awkward middle ground of Melbourne suburbia — too close to the city to feel suburban, too suburban to feel inner-city. It&amp;rsquo;s wedged between the manicured prestige of Flemington, the gritty reinvention of Footscray, and the slow gentrification of North Melbourne. If Melbourne&amp;rsquo;s western suburbs were a family dinner, Kensington would be the middle child — overlooked but quietly getting on with things.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kensington Honest Guide 2026: The Unfiltered Truth</title>
-      <link>https://melbz.com.au/kensington/honest-guide/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/honest-guide/</guid>
-      <description>&lt;h1 id=&#34;kensington-honest-guide-2026-the-unfiltered-truth&#34;&gt;Kensington Honest Guide 2026: The Unfiltered Truth&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Jack Morrison reporting&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Look, someone has to say it: Kensington is Melbourne&amp;rsquo;s most confusing suburb to explain to people who don&amp;rsquo;t live there.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;It&amp;rsquo;s near Flemington. No, not &lt;em&gt;at&lt;/em&gt; Flemington. It&amp;rsquo;s got its own train station. No, not &lt;em&gt;that&lt;/em&gt; station. It&amp;rsquo;s in the west, but it&amp;rsquo;s not Footscray. It&amp;rsquo;s got pubs, but only one. It&amp;rsquo;s inner city, but affordable-ish. Sort of.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kensington Melbourne Suburb Guide 2026: The Sleeper Suburb</title>
-      <link>https://melbz.com.au/kensington/suburb-guide/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/suburb-guide/</guid>
-      <description>&lt;h1 id=&#34;kensington-melbourne-suburb-guide-2026-the-sleeper-suburb&#34;&gt;Kensington Melbourne Suburb Guide 2026: The Sleeper Suburb&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;There&amp;rsquo;s a stretch of Macaulay Road where you can stand on a Saturday morning and watch three generations of the same family walk past — a toddler on a scooter, a mum with a canvas tote, and a grandfather reading the Age on a bench. That&amp;rsquo;s the whole Kensington pitch in a single scene. No one&amp;rsquo;s trying to sell you on the lifestyle. It just exists, and it&amp;rsquo;s been quietly outperforming the hype of suburbs twice as famous.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Late Night Food in Kensington 2026: Where to Eat After 10pm</title>
-      <link>https://melbz.com.au/kensington/late-night-food-v2/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/late-night-food-v2/</guid>
-      <description>&lt;h1 id=&#34;late-night-food-in-kensington-2026-where-to-eat-after-10pm&#34;&gt;Late Night Food in Kensington 2026: Where to Eat After 10pm&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Ethan Cross reporting&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Kensington isn&amp;rsquo;t the CBD. You won&amp;rsquo;t find neon-lit noodle bars open at 3am on every corner. But this pocket of Melbourne&amp;rsquo;s inner west punches well above its weight when the clock ticks past 10pm — especially on weekends. Between Racecourse Road, Macaulay Road, and the surrounds straddling Flemington, there&amp;rsquo;s enough late-night grub to keep you fed without hopping on the 57 tram into town.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Late Night Food in Kensington 2026: Where to Eat After Dark</title>
-      <link>https://melbz.com.au/kensington/late-night-food/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/late-night-food/</guid>
-      <description>&lt;h1 id=&#34;late-night-food-in-kensington-2026-where-to-eat-after-dark&#34;&gt;Late Night Food in Kensington 2026: Where to Eat After Dark&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Ethan Cross reporting&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its food scene. That&amp;rsquo;s partly the point — this is a suburb that does things at its own pace, anchored by Racecourse Road, Macaulay Road, and a handful of side streets where you&amp;rsquo;ll find Ethiopian stews, hand-pressed corn tortillas, and Turkish grills all within a 10-minute walk. But when the sun drops and the trains thin out, the options get narrower fast.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Neighbourhood Guide to Kensington 2026: Melbourne&#39;s Quiet Overachiever</title>
-      <link>https://melbz.com.au/kensington/living-guide/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/living-guide/</guid>
-      <description>&lt;h2 id=&#34;neighbourhood-guide-to-kensington-2026-melbournes-quiet-overachiever&#34;&gt;Neighbourhood Guide to Kensington 2026: Melbourne&amp;rsquo;s Quiet Overachiever&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Amara Diallo reporting&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;KENSINGTON VIBE SCORE: 74/100 ⚡️ EMERGING (+1 this week)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t try to impress you. It doesn&amp;rsquo;t need to. While its louder neighbours — Flemington with its racecourse fanfare, Footscray with its dining reinvention, and Docklands with its glass towers — fight for your attention, Kensington just quietly gets on with being one of the most liveable pockets in Melbourne&amp;rsquo;s inner west.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Kensington 2026: What You&#39;ll Pay</title>
-      <link>https://melbz.com.au/kensington/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-kensington-2026-what-youll-pay&#34;&gt;Rent Prices in Kensington 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;&#xA;&lt;p&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/p&gt;&#xA;&lt;p&gt;Kensington has always been the inner-west suburb that nobody argues about. It doesn&amp;rsquo;t have the flash of &lt;a href=&#34;https://melbz.com.au/suburbs/flemington&#34;&gt;Flemington&lt;/a&gt;, the cultural noise of &lt;a href=&#34;https://melbz.com.au/suburbs/footscray&#34;&gt;Footscray&lt;/a&gt;, or the proximity bragging rights of &lt;a href=&#34;https://melbz.com.au/suburbs/north-melbourne&#34;&gt;North Melbourne&lt;/a&gt;. What it has is space, a train station that actually works, and prices that — for now — haven&amp;rsquo;t fully caught up to the suburbs around it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekend Guide: Kensington 2026 — Saturday &amp; Sunday Done Right</title>
-      <link>https://melbz.com.au/kensington/weekend-guide/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/weekend-guide/</guid>
-      <description>&lt;h1 id=&#34;weekend-guide-kensington-2026--saturday--sunday-done-right&#34;&gt;Weekend Guide: Kensington 2026 — Saturday &amp;amp; Sunday Done Right&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Isabella Greco reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Kensington doesn&amp;rsquo;t shout for attention the way its flashier neighbours do. It doesn&amp;rsquo;t need to. While Flemington gets the crowds on race day and Footscray gets the food press, Kensington sits quietly between them — leafy, lived-in, and loaded with spots that reward the weekend wanderer who actually knows where to look.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kensingtons on MELBZ — We Know Your Suburb Better Than You Do</title><link>https://melbz.com.au/kensington/</link><description>Recent content in Kensingtons on MELBZ — We Know Your Suburb Better Than You Do</description><generator>Hugo</generator><language>en-au</language><lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://melbz.com.au/kensington/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern &amp; More</title><link>https://melbz.com.au/kensington/best-asian-food/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/best-asian-food/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t ge&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="best-asian-food-in-kensington-2026-vietnamese-middle-eastern--more"&gt;Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern &amp;amp; More&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t get the food credit it deserves. Tucked between Flemington&amp;rsquo;s Racecourse Road strip and the industrial pockets off Macaulay Road, this inner-west suburb packs an absurd amount of flavour into its modest streets. Vietnamese pho joints sit shoulder to shoulder with Cantonese BBQ smokehousees, while East African stews simmer next to Japanese izakaya plates — all within a 10-minute walk of the station.&lt;/p&gt;</description></item><item><title>Best Bars in Kensington 2026: Local Pubs &amp; Hidden Watering Holes</title><link>https://melbz.com.au/kensington/best-bars/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/best-bars/</guid><description>&lt;p&gt;&lt;em&gt;description: &amp;ldquo;16 March 2026 | 6 places tested | Lina Nguyen reporting&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="best-bars-in-kensington-2026-local-pubs--hidden-watering-holes"&gt;Best Bars in Kensington 2026: Local Pubs &amp;amp; Hidden Watering Holes&lt;/h1&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its drinking scene. That&amp;rsquo;s part of the charm. While Fitzroy and Carlton grab the headlines, this pocket of Melbourne&amp;rsquo;s inner west has quietly built a bar culture that punches well above its weight — one brewpub, one wine bar, a legendary old-school pub, and a cocktail bar hidden inside a Vietnamese restaurant. No pretension. No queues down the laneway. Just cold drinks and good company, tucked between the railway yards and Flemington Racecourse.&lt;/p&gt;</description></item><item><title>Best Cafes in Kensington 2026: Coffee in the Quiet Suburb</title><link>https://melbz.com.au/kensington/best-cafes/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/best-cafes/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Eli Chen reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t scream about its &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Eli Chen reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="best-cafes-in-kensington-2026-coffee-in-the-quiet-suburb"&gt;Best Cafes in Kensington 2026: Coffee in the Quiet Suburb&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Eli Chen reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t scream about its coffee. That&amp;rsquo;s the whole point. Tucked between Flemington&amp;rsquo;s Racecourse Road strip and North Melbourne&amp;rsquo;s warehouse conversions, this 3031 postcode runs on Bellair Street caffeine and Macaulay Road baked goods. No neon signs begging for Instagram. No queues around the block designed for content creators. Just six spots doing the work, quietly and well.&lt;/p&gt;</description></item><item><title>Best Pubs in Kensington 2026: Local Watering Holes</title><link>https://melbz.com.au/kensington/best-pubs/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/best-pubs/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its pub s&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="best-pubs-in-kensington-2026-local-watering-holes"&gt;Best Pubs in Kensington 2026: Local Watering Holes&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its pub scene the way Brunswick or Fitzroy does. That&amp;rsquo;s part of the charm. Tucked between Flemington Racecourse, the Moonee Ponds Creek trail and a short tram from the CBD, this inner-west suburb packs more character per square metre than most Melbourne nightlife strips — and it does it without the pretension.&lt;/p&gt;</description></item><item><title>Best Pubs in Kensington 2026: Racecourse Road &amp; Beyond</title><link>https://melbz.com.au/kensington/best-pubs-v2/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/best-pubs-v2/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Kai Thompson reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Kai Thompson reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="best-pubs-in-kensington-2026-racecourse-road--beyond"&gt;Best Pubs in Kensington 2026: Racecourse Road &amp;amp; Beyond&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Kai Thompson reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its pub scene. That&amp;rsquo;s partly the point. Tucked between Flemington Racecourse, the Maribyrnong River and the freight rail lines, this inner-west suburb has quietly assembled one of Melbourne&amp;rsquo;s most rewarding pub crawls — five stops along Racecourse Road and a short detour to Macaulay Road, all within a comfortable stagger.&lt;/p&gt;</description></item><item><title>Best Restaurants in Kensington 2026: Where to Eat</title><link>https://melbz.com.au/kensington/best-restaurants/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/best-restaurants/</guid><description>&lt;p&gt;Kensington&amp;rsquo;s food scene is proper. Tucked between the tram lines and Racecourse Road, this pocket of Melbo&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="best-restaurants-in-kensington-2026-where-to-eat"&gt;Best Restaurants in Kensington 2026: Where to Eat&lt;/h1&gt;
+&lt;p&gt;Kensington&amp;rsquo;s food scene is proper. Tucked between the tram lines and Racecourse Road, this pocket of Melbourne has quietly built itself into one of the west&amp;rsquo;s most underrated dining strips. No flashy openings, no Instagram stunts — just bloody good food from people who actually care about what they&amp;rsquo;re serving.&lt;/p&gt;</description></item><item><title>Cheap Eats Under $20 in Kensington 2026</title><link>https://melbz.com.au/kensington/cheap-eats/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/cheap-eats/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its food scene. Tuc&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="cheap-eats-under-20-in-kensington-2026"&gt;Cheap Eats Under $20 in Kensington 2026&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its food scene. Tucked between Flemington Racecourse and the Maribyrnong River, this inner-west suburb keeps things low-key — a string of family-run spots along Macaulay Road, Bellair Street, and Stubbs Street that punch well above their price tag. No flashy fit-outs or influencer-friendly walls. Just properly good food at prices that won&amp;rsquo;t make you wince.&lt;/p&gt;</description></item><item><title>Cheap Eats Under $20 in Kensington 2026: Macaulay Road &amp; Beyond</title><link>https://melbz.com.au/kensington/cheap-eats-v2/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/cheap-eats-v2/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t sh&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="cheap-eats-under-20-in-kensington-2026-macaulay-road--beyond"&gt;Cheap Eats Under $20 in Kensington 2026: Macaulay Road &amp;amp; Beyond&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its food scene the way neighbouring &lt;strong&gt;Flemington&lt;/strong&gt; or &lt;strong&gt;Footscray&lt;/strong&gt; do. That&amp;rsquo;s partly the point — this compact suburb, squeezed between the racecourse and the rail yards, has always been a bit under the radar. But walk down Macaulay Road on a Tuesday lunchtime and you&amp;rsquo;ll find more flavour per square metre than most Melbourne suburbs manage across their entire high street.&lt;/p&gt;</description></item><item><title>Cost of Living in Kensington 2026: The Real Numbers</title><link>https://melbz.com.au/kensington/cost-of-living/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/cost-of-living/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington is one of those suburbs where everyone has an &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="cost-of-living-in-kensington-2026-the-real-numbers"&gt;Cost of Living in Kensington 2026: The Real Numbers&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington is one of those suburbs where everyone has an opinion and nobody checks the maths. It&amp;rsquo;s 4km from the CBD, wedged between Flemington&amp;rsquo;s wide streets and North Melbourne&amp;rsquo;s grit, and it carries a reputation as the &amp;ldquo;affordable inner-north option&amp;rdquo; — a label that&amp;rsquo;s been getting harder to justify every quarter.&lt;/p&gt;</description></item><item><title>Kensington Food Crawl 2026: The Best Day Out</title><link>https://melbz.com.au/kensington/food-crawl/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/food-crawl/</guid><description>&lt;p&gt;Kensington doesn&amp;rsquo;t scream about its food scene. It doesn&amp;rsquo;t need to. Tucked between Flemington&amp;rsquo;s racecourse gran&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="kensington-food-crawl-2026-the-best-day-out"&gt;Kensington Food Crawl 2026: The Best Day Out&lt;/h1&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t scream about its food scene. It doesn&amp;rsquo;t need to. Tucked between Flemington&amp;rsquo;s racecourse grandeur and Footscray&amp;rsquo;s Vietnamese backbone, this pocket of inner-west Melbourne has been quietly stacking venues that would headline in flashier suburbs. The difference here is the neighbours actually eat at them — not influencers shooting content for 45 minutes before leaving.&lt;/p&gt;</description></item><item><title>Kensington Honest Guide 2026: Racecourses, Noise &amp; Real Talk</title><link>https://melbz.com.au/kensington/honest-guide-v2/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/honest-guide-v2/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Jack Morrison reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Jack Morrison reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kensington sits in that awkward middle gr&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="kensington-honest-guide-2026-racecourses-noise--real-talk"&gt;Kensington Honest Guide 2026: Racecourses, Noise &amp;amp; Real Talk&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Jack Morrison reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kensington sits in that awkward middle ground of Melbourne suburbia — too close to the city to feel suburban, too suburban to feel inner-city. It&amp;rsquo;s wedged between the manicured prestige of Flemington, the gritty reinvention of Footscray, and the slow gentrification of North Melbourne. If Melbourne&amp;rsquo;s western suburbs were a family dinner, Kensington would be the middle child — overlooked but quietly getting on with things.&lt;/p&gt;</description></item><item><title>Kensington Honest Guide 2026: The Unfiltered Truth</title><link>https://melbz.com.au/kensington/honest-guide/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/honest-guide/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Jack Morrison reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Look, someone has to say it: Kensington is Melbourne&amp;rsquo;s m&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Jack Morrison reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="kensington-honest-guide-2026-the-unfiltered-truth"&gt;Kensington Honest Guide 2026: The Unfiltered Truth&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Jack Morrison reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Look, someone has to say it: Kensington is Melbourne&amp;rsquo;s most confusing suburb to explain to people who don&amp;rsquo;t live there.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;It&amp;rsquo;s near Flemington. No, not &lt;em&gt;at&lt;/em&gt; Flemington. It&amp;rsquo;s got its own train station. No, not &lt;em&gt;that&lt;/em&gt; station. It&amp;rsquo;s in the west, but it&amp;rsquo;s not Footscray. It&amp;rsquo;s got pubs, but only one. It&amp;rsquo;s inner city, but affordable-ish. Sort of.&amp;rdquo;&lt;/p&gt;</description></item><item><title>Kensington Melbourne Suburb Guide 2026: The Sleeper Suburb</title><link>https://melbz.com.au/kensington/suburb-guide/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/suburb-guide/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a stretch of Macaulay Road where you &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="kensington-melbourne-suburb-guide-2026-the-sleeper-suburb"&gt;Kensington Melbourne Suburb Guide 2026: The Sleeper Suburb&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a stretch of Macaulay Road where you can stand on a Saturday morning and watch three generations of the same family walk past — a toddler on a scooter, a mum with a canvas tote, and a grandfather reading the Age on a bench. That&amp;rsquo;s the whole Kensington pitch in a single scene. No one&amp;rsquo;s trying to sell you on the lifestyle. It just exists, and it&amp;rsquo;s been quietly outperforming the hype of suburbs twice as famous.&lt;/p&gt;</description></item><item><title>Late Night Food in Kensington 2026: Where to Eat After 10pm</title><link>https://melbz.com.au/kensington/late-night-food-v2/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/late-night-food-v2/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Ethan Cross reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Ethan Cross reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kensington isn&amp;rsquo;t the CBD. &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="late-night-food-in-kensington-2026-where-to-eat-after-10pm"&gt;Late Night Food in Kensington 2026: Where to Eat After 10pm&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Ethan Cross reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington isn&amp;rsquo;t the CBD. You won&amp;rsquo;t find neon-lit noodle bars open at 3am on every corner. But this pocket of Melbourne&amp;rsquo;s inner west punches well above its weight when the clock ticks past 10pm — especially on weekends. Between Racecourse Road, Macaulay Road, and the surrounds straddling Flemington, there&amp;rsquo;s enough late-night grub to keep you fed without hopping on the 57 tram into town.&lt;/p&gt;</description></item><item><title>Late Night Food in Kensington 2026: Where to Eat After Dark</title><link>https://melbz.com.au/kensington/late-night-food/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/late-night-food/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Ethan Cross reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | 6 places tested | Ethan Cross reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout a&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="late-night-food-in-kensington-2026-where-to-eat-after-dark"&gt;Late Night Food in Kensington 2026: Where to Eat After Dark&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | 6 places tested | Ethan Cross reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout about its food scene. That&amp;rsquo;s partly the point — this is a suburb that does things at its own pace, anchored by Racecourse Road, Macaulay Road, and a handful of side streets where you&amp;rsquo;ll find Ethiopian stews, hand-pressed corn tortillas, and Turkish grills all within a 10-minute walk. But when the sun drops and the trains thin out, the options get narrower fast.&lt;/p&gt;</description></item><item><title>Neighbourhood Guide to Kensington 2026: Melbourne's Quiet Overachiever</title><link>https://melbz.com.au/kensington/living-guide/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/living-guide/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Amara Diallo reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Amara Diallo reporting&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;KENSINGTON VIBE SCORE: 74/100 &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="neighbourhood-guide-to-kensington-2026-melbournes-quiet-overachiever"&gt;Neighbourhood Guide to Kensington 2026: Melbourne&amp;rsquo;s Quiet Overachiever&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Amara Diallo reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;KENSINGTON VIBE SCORE: 74/100 ⚡️ EMERGING (+1 this week)&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t try to impress you. It doesn&amp;rsquo;t need to. While its louder neighbours — Flemington with its racecourse fanfare, Footscray with its dining reinvention, and Docklands with its glass towers — fight for your attention, Kensington just quietly gets on with being one of the most liveable pockets in Melbourne&amp;rsquo;s inner west.&lt;/p&gt;</description></item><item><title>Rent Prices in Kensington 2026: What You'll Pay</title><link>https://melbz.com.au/kensington/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/rent-report/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington has always been the inner-west suburb that nobody &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-kensington-2026-what-youll-pay"&gt;Rent Prices in Kensington 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;
+&lt;p&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/p&gt;
+&lt;p&gt;Kensington has always been the inner-west suburb that nobody argues about. It doesn&amp;rsquo;t have the flash of &lt;a href="https://melbz.com.au/suburbs/flemington"&gt;Flemington&lt;/a&gt;, the cultural noise of &lt;a href="https://melbz.com.au/suburbs/footscray"&gt;Footscray&lt;/a&gt;, or the proximity bragging rights of &lt;a href="https://melbz.com.au/suburbs/north-melbourne"&gt;North Melbourne&lt;/a&gt;. What it has is space, a train station that actually works, and prices that — for now — haven&amp;rsquo;t fully caught up to the suburbs around it.&lt;/p&gt;</description></item><item><title>Weekend Guide: Kensington 2026 — Saturday &amp; Sunday Done Right</title><link>https://melbz.com.au/kensington/weekend-guide/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/weekend-guide/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Isabella Greco reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Isabella Greco reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout for attention &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="weekend-guide-kensington-2026--saturday--sunday-done-right"&gt;Weekend Guide: Kensington 2026 — Saturday &amp;amp; Sunday Done Right&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Isabella Greco reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t shout for attention the way its flashier neighbours do. It doesn&amp;rsquo;t need to. While Flemington gets the crowds on race day and Footscray gets the food press, Kensington sits quietly between them — leafy, lived-in, and loaded with spots that reward the weekend wanderer who actually knows where to look.&lt;/p&gt;</description></item><item><title>Nightlife Guide in Kensington — 2026 Local Guide</title><link>https://melbz.com.au/kensington/nightlife-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/nightlife-guide/</guid><description>&lt;p&gt;suburb: &amp;ldquo;kensington&amp;rdquo;
+vertical: &amp;ldquo;lifestyle&amp;rdquo;
+author: &amp;ldquo;ethan&amp;rdquo;
+date: 2026-03-17
+updated: 2026-03-17
+description: &amp;ldquo;The complete Kensington nightlife guide for 2026 — from historic pubs to craft breweries, hidden cocktail bars, and the suburb&amp;rsquo;s emerging evening scene.&amp;rdquo;
+tags: [&amp;ldquo;kensington&amp;rdquo;]
+categories: [&amp;ldquo;nightlife&amp;rdquo;]&lt;/p&gt;
+&lt;h1 id="kensington-nightlife-guide-2026--melbournes-best-kept-western-secret"&gt;Kensington Nightlife Guide 2026 — Melbourne&amp;rsquo;s Best Kept Western Secret&lt;/h1&gt;
+&lt;p&gt;Kensington doesn&amp;rsquo;t have the name recognition of Fitzroy or Collingwood when it comes to nightlife, and honestly, the locals like it that way. This inner-western suburb has spent the last five years quietly building a bar and pub scene that punches well above its weight. What was once just a strip of old pubs serving the local footy crowd has transformed into something far more interesting — a mix of heritage hotels, craft beer venues, and the kind of neighbourhood bars that reward those willing to venture beyond the well-trodden nightlife postcodes.&lt;/p&gt;</description></item></channel></rss>

@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Southbank — Weekend Breakfast Spots"
 date: 2026-03-17
+---
+
 updated: 2026-03-17
 author: "Priya Sandhu"
 suburb: "southbank"
@@ -9,7 +11,6 @@ tags: ["brunch", "breakfast", "southbank", "melbourne", "weekend"]
 categories: ["Food & Drink"]
 description: "Where to get brunch in Southbank Melbourne. The best weekend breakfast spots along the river and near Crown."
 cover_image: "/images/southbank/best-brunch.jpg"
----
 
 Southbank isn't famous for brunch. This postcode is more known for fine dining and cocktail bars than leisurely weekend breakfasts. But if you live here, work here, or find yourself here on a Saturday morning, there are actually some solid options for eggs, avo, and the kind of coffee that makes the weekend feel worthwhile.
 
@@ -75,7 +76,6 @@ Southbank's brunch scene isn't going to make you fall in love with the postcode.
 
 The key is managing expectations. You're not going to discover the next big brunch trend in Southbank. You're going to find solid, reliable breakfast in pleasant surroundings, and sometimes that's exactly what you need.
 
----
 
 *Priya Sandhu believes that $18 is the new normal for brunch and has accepted her fate. She still hasn't found the perfect avo in Southbank, but Brolly gets closest.*
 

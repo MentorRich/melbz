@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/best-coffee.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best coffee in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["general"]
----
 ## The Best Coffee in Windsor
 
 Windsor doesn't mess around with its coffee. This is the stretch of Chapel Street where the tourism crowds thin out and the real Melbourne kicks in — the one that actually cares about extraction times and milk texture. Forget the flashy storefronts up in South Yarra; the Windsor coffee scene is where substance beats style, and a $4.50 flat white from a no-name roaster will genuinely ruin you for everything else.
@@ -76,7 +77,6 @@ It's not the cafe you'll write home about, but it's the cafe you'll end up at fo
 
 **Insider tip:** Wednesday mornings they do a two-coffee-and-toast special for $12. It's not widely advertised but the regulars know.
 
----
 
 ## What We Skipped and Why
 
@@ -86,7 +86,6 @@ It's not the cafe you'll write home about, but it's the cafe you'll end up at fo
 
 **Tula Bakery** — More bakery than cafe. We're covering them in our Best Bakeries guide instead, where they'll get the space they deserve.
 
----
 
 ## Coffee in Windsor: What You Actually Need to Know
 
@@ -96,14 +95,12 @@ Most Windsor cafes use locally roasted beans, with Five Senses, Proud Mary, and 
 
 If you're coming from Prahran, the coffee scene is comparable in quality but different in character — Prahran has more polished, design-forward spaces, while Windsor leans toward no-frills substance.
 
----
 
 **Cross-links:**
 - [Best Coffee in Prahran](/windsor/best-coffee) — Chapel Street's polished sibling
 - [Best Coffee in South Yarra](/south-yarra/best-coffee) — where the prices jump
 - [Best Coffee in St Kilda](/st-kilda/best-coffee) — beachside brewing
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
 

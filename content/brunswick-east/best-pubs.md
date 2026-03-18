@@ -1,6 +1,8 @@
 ---
 title: "7 Best Pubs in Brunswick East — Your 2026 Local Guide"
 cover_image: "/images/brunswick-east/best-pubs.jpg"
+---
+
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "kai"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "From a restored 1880s rock-and-roll hotel to a heritage bank turned all-day pub — here are the 7 Brunswick East pubs worth your time and your $10 pint."
 tags: ["brunswick-east"]
 categories: ["general"]
----
 # 7 Best Pubs in Brunswick East — Your 2026 Local Guide
 
 Brunswick East has never been a "pub suburb" in the way that [Brunswick](/brunswick) is — with its Sydney Road strip of grand old locals and the Retreat's massive beer garden. But that's been changing. The Lygon Street corridor through Brunswick East now boasts a genuinely impressive collection of pubs, from heritage-restored hotels to all-day dining halls, and the East Brunswick Village development has added a brewery that would hold its own anywhere in Melbourne.
@@ -20,7 +21,6 @@ What makes Brunswick East's pub scene different? It's less crowded than Brunswic
 
 Here are the seven pubs that make this suburb worth a visit, even if you don't live here.
 
----
 
 ## 1. East Brunswick Hotel
 **The vibe:** A rock and roll institution, reborn after more than a century
@@ -32,7 +32,6 @@ The East has been a Brunswick fixture since the 1880s, and after a painstaking r
 **Hours:** Mon–Sun 11am–late
 **Insider tip:** The upstairs cocktail bar is bookable for private functions and it's one of the best hidden venues in the inner north. Friday and Saturday nights have free live music in the public bar. If you're visiting from [Fitzroy North](/fitzroy-north), it's a short walk south along Lygon Street — easier than getting the tram, honestly.
 
----
 
 ## 2. Bridge Road Brewers Brunswick East
 **The vibe:** A 350-seat brewery dining hall that redefines what a pub can be
@@ -44,7 +43,6 @@ This is not your average pub. Bridge Road Brewers — the beloved Beechworth bra
 **Hours:** Mon–Tue 12pm–8pm, Wed–Sun 12pm–late
 **Insider tip:** Wednesday through Friday happy hour has $7 pints — one of the best deals on the inner north. The space is so large (350 seats) that even on peak weekends you'll find a spot. The rotating small-batch releases from the on-site brewhouse are often the best beers on the menu — ask the bartenders what's new. If you're coming from [Carlton North](/carlton-north), catch the 96 tram and get off at the Village.
 
----
 
 ## 3. Teller
 **The vibe:** A heritage bank reborn as Brunswick East's perfect neighbourhood pub
@@ -56,7 +54,6 @@ Teller is what happens when someone with good taste buys a heritage bank buildin
 **Hours:** Mon–Sun 7am–late
 **Insider tip:** The happy hour is genuine — not tokenistic. The beer garden catches afternoon sun and is one of the most underrated outdoor spots on Lygon Street. If you're looking for a "local" that isn't too crowded, this is your spot. The breakfast menu is surprisingly good if you want to combine a morning coffee with a midday pint.
 
----
 
 ## 4. The Quarry Hotel
 **The vibe:** A get-what-you-pay-for, no-pretence, stand-up pub
@@ -68,7 +65,6 @@ The Quarry Hotel is exactly what it looks like from the outside — a proper Mel
 **Hours:** Mon–Sun 11am–late
 **Insider tip:** The pool table is free most days (check for league nights). If you're coming from the [Brunswick](/brunswick) side of Lygon Street, it's one of the first proper pubs you'll hit before the East Brunswick Village stretch. The outdoor seating is decent for a sunny arvo.
 
----
 
 ## 5. Enter The Beast
 **The vibe:** Burgers, bands, and free live music — Brunswick East's entertainment pub
@@ -80,7 +76,6 @@ Enter The Beast takes the "pub" concept and injects it with actual fun. The form
 **Hours:** Wed–Sun 12pm–late
 **Insider tip:** Trivia Wednesday is genuinely one of the best midweek nights in the inner north — the questions are pop-culture heavy (think music, movies, gaming), the prizes are real, and the $10 pints help. All live music is free entry, always. If you're into vinyl, check the record selection by the bar.
 
----
 
 ## 6. Ramblin' Man
 **The vibe:** A craft beer bar and bottle shop with a retro soul and a dog-friendly beer garden
@@ -92,7 +87,6 @@ Ramblin' Man sits on the Brunswick East strip and has carved out a niche as the 
 **Hours:** Wed–Mon 3pm–late
 **Insider tip:** The bottle shop is genuinely well-curated — better than most Dan Murphy's runs. If you're starting a crawl, come here first to pick up something for home later, then stay for a couple on the way out. The beer garden has heaters for Melbourne's unpredictable shoulder seasons.
 
----
 
 ## 7. Brunswick Aces
 **The vibe:** Australia's first non-alcoholic distillery, and it's far more interesting than that sounds
@@ -104,7 +98,6 @@ Brunswick Aces is the wild card on this list — a non-alcoholic distillery that
 **Hours:** Wed–Sun 12pm–9pm
 **Insider tip:** Even if you drink alcohol, this is worth visiting. The non-alcoholic spirits are genuinely well-made and a refreshing change of pace. Great for designated drivers, people doing Dry July, or anyone who wants a night out without the hangover. They also sell bottles to take home.
 
----
 
 ## THE PUB CRAWL: DONE RIGHT
 
@@ -118,7 +111,6 @@ If you're doing a proper crawl through Brunswick East pubs, here's the optimal r
 6. **Late night food:** A1 Bakery — shawarma wrap (10:30pm)
 7. **Home:** Tram 96 from Nicholson Street, or walk to [Fitzroy North](/fitzroy-north) (11pm)
 
----
 
 ## GETTING HOME SAFE
 
@@ -129,7 +121,6 @@ If you're doing a proper crawl through Brunswick East pubs, here's the optimal r
 - **Emergency:** 000. Non-emergency: 131 444.
 - **Late-night food:** A1 Bakery (Lygon Street) is the only reliable option open past 10pm.
 
----
 
 ## The Bottom Line
 
@@ -139,7 +130,6 @@ Brunswick East pubs aren't trying to be everything — they're trying to be the 
 
 **Your Brunswick East Vibe Score this week: 78/100** — The pub scene is maturing fast. East Brunswick Village has changed the game, and the heritage pubs are getting the love they deserve.
 
----
 
 *Know a spot we missed? Let us know.*
 *Related reads: [Brunswick East Nightlife Guide](/brunswick-east/nightlife-guide) | [Best Coffee in Brunswick East](/brunswick-east/best-coffee) | [Best Brunch in Brunswick East](/brunswick-east/best-brunch)*

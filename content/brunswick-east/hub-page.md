@@ -5,10 +5,10 @@ date: 2026-03-16
 author: jack
 tags: ["brunswick-east", "suburb-guide"]
 categories: ["lifestyle"]
-description: "Brunswick East Melbourne Suburb Guide 2026: The Complete Picture
+description: "Brunswick East Melbourne Suburb Guide 2026: The Complete Picture"
+---
 
 Brunswick East is what happens when Brunswick's rebel younger sibling gets its act together..."
----
 # Brunswick East Melbourne Suburb Guide 2026: The Complete Picture
 
 Brunswick East is what happens when Brunswick's rebel younger sibling gets its act together. Sitting 5 kilometres north of the CBD in the City of Merri-bek, it's the suburb that quietly lured half of Fitzroy North over the Merri Creek with cheaper rent and better brunch options — and nobody's left since.
@@ -17,7 +17,6 @@ This isn't the polished postcard version. This is the full picture: what it actu
 
 **Updated 16 March 2026 | Jack Morrison reporting**
 
----
 
 ## The Vibe
 
@@ -37,7 +36,6 @@ One-third of the population was born overseas. You'll hear more languages on a w
 > - **Wouldn't live anywhere else** 🏠
 > *Results published weekly in the Merri-bek Vibe Report*
 
----
 
 ## Rent Prices: What It Actually Costs in 2026
 
@@ -58,7 +56,6 @@ The housing stock is 49% units and apartments, 18% houses, and 33% townhouses an
 > - Shared 2-bed at $600/week split two ways = $300/week each ($15,600/year)
 > - **Verdict:** Solable solo on $110K+. Very doable shared.
 
----
 
 ## Transport: Getting Around
 
@@ -81,7 +78,6 @@ Cycling is genuinely good here. The **Merri Creek Trail** runs through the subur
 > - **Airport (Tullamarine):** 45–60 min by car/bus (no rail link yet)
 > - **St Kilda (via 96):** 45 min by tram
 
----
 
 ## The Food Scene
 
@@ -95,7 +91,6 @@ Brunch is a competitive sport here. Pope Joan on Nicholson Street has been a loc
 
 For groceries, the Lygon Street strip has a mix of European delis, an Aldi, and several smaller grocers. Queen Victoria Market is a 15-minute tram ride for the serious weekly shop.
 
----
 
 ## Nightlife
 
@@ -117,7 +112,6 @@ For something more refined, a handful of wine bars along the northern stretch of
 > - **Wine bar wind-down** — a natural wine on Nicholson Street, home by 10
 > - **What locals actually do:** walk the dog, grab a bowl of noodles, watch something on the couch. Not every night needs a plan.
 
----
 
 ## Parks and Green Space
 
@@ -127,7 +121,6 @@ The **Merri Creek Trail** is the suburb's green spine. Running north-south, it c
 
 **Roberts Reserve**, **Jones Park**, and **Allard Park** are the smaller neighbourhood reserves scattered through the eastern side. None of them will make the tourist brochures, but they're where locals walk dogs, kick footys, and let kids burn off weekend energy. The creek-side sections have been restored with indigenous vegetation and are genuinely pleasant for a wander.
 
----
 
 ## Schools
 
@@ -135,7 +128,6 @@ Brunswick East Primary School (BEPS) is the main government primary in the area,
 
 For secondary education, the catchment feeds into several well-regarded schools in neighbouring suburbs including Brunswick Secondary College. There's no dedicated high school within Brunswick East boundaries, but the tram network and proximity to the CBD mean options are plentiful. The University of Melbourne and RMIT are both easily accessible by public transport, which keeps tertiary students in the area after graduation.
 
----
 
 ## Who Lives Here
 
@@ -149,7 +141,6 @@ The demographic breakdown tells a clear story:
 
 You'll also find a growing cohort of "lifestyle downshifters" — people who sold in more expensive inner-east suburbs (Kew, Hawthorn) and pocketed the difference by moving to Brunswick East while keeping their inner-city lifestyle. The arbitrage works: you get better food, comparable schools, and a shorter commute for significantly less than the inner east.
 
----
 
 ## Pros and Cons
 
@@ -169,7 +160,6 @@ You'll also find a growing cohort of "lifestyle downshifters" — people who sol
 - New apartment builds can be shoeboxes — check the actual square metres before signing
 - The 96 tram during peak hour will test the patience of a Buddhist monk
 
----
 
 ## What We Skipped and Why
 
@@ -181,7 +171,6 @@ You'll also find a growing cohort of "lifestyle downshifters" — people who sol
 
 **Individual venue hours and menus:** We've given you the landscape, but specific hours change seasonally. Call ahead or check Google Maps for live hours before visiting any venue we mentioned.
 
----
 
 ## Cross-Links and Neighbour Subbourhoods
 
@@ -193,7 +182,6 @@ Brunswick East doesn't exist in isolation. Here's how it connects to its neighbo
 
 - **[Carlton](/carlton/):** South, where Lygon Street's "Little Italy" begins. Carlton is more established, more expensive, and more student-heavy (University of Melbourne campus). Brunswick East is where Carlton's creative class moves when they want a backyard and a parking spot.
 
----
 
 ## The Bottom Line
 
@@ -201,11 +189,9 @@ Brunswick East in 2026 is a suburb that knows exactly what it is and doesn't nee
 
 If you're a couple earning a combined $160K+, a single professional on $120K+, or willing to share a two-bed with a friend, Brunswick East is one of Melbourne's best inner-north options. Just don't tell too many people — the locals have a good thing going and they'd prefer it stays that way.
 
----
 
 *Your Brunswick East Vibe Score this week: 82/100* — Strong food culture, solid community, good transit. Docked for peak-hour tram crowding and median rents that keep climbing faster than wages.
 
----
 
 **Brunswick East at a Glance**
 
@@ -220,7 +206,6 @@ If you're a couple earning a combined $160K+, a single professional on $120K+, o
 | **Local council** | Merri-bek |
 | **Postcode** | 3057 |
 
----
 
 *Know something we got wrong? Spotted a venue we should cover? Drop us a line — we update these guides constantly.*
 

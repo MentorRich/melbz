@@ -5,19 +5,22 @@ date: 2026-03-16
 author: isabella
 tags: ["south-melbourne", "weekend", "lifestyle"]
 categories: ["lifestyle"]
-description: "Weekend Guide: South Melbourne 2026 — Saturday & Sunday Done Right
-
-Updated 16 March 2026 | Isabella Greco reporting
-
+description: "Weekend Guide: South Melbourne 2026 — Saturday & Sunday Done Right"
 ---
+
+**Updated 16 March 2026 | Isabella Greco reporting**
+
+
+
+
+*Updated 16 March 2026 | Isabella Greco reporting*
+
 
 There's a postcode in Melbourne wh..."
----
 # Weekend Guide: South Melbourne 2026 — Saturday & Sunday Done Right
 
 *Updated 16 March 2026 | Isabella Greco reporting*
 
----
 
 There's a postcode in Melbourne where you can eat dim sum for breakfast, buy a vintage coat for $20, watch greyhounds chase an imaginary rabbit, and drink a negroni as the sun drops behind the city skyline. That postcode is 3205, and this is your weekend in it.
 
@@ -25,7 +28,6 @@ South Melbourne has always been the neighbourhood that quietly outperforms its f
 
 Here's how to spend a full weekend here — without the guesswork.
 
----
 
 ## 🗳️ WEEKEND POLL
 
@@ -38,7 +40,6 @@ Here's how to spend a full weekend here — without the guesswork.
 
 *[Cast your vote at melbz.com.au — we'll share results next week]*
 
----
 
 ## SATURDAY: MARKETS, DIM SIMS & THE WATERFRONT
 
@@ -119,7 +120,6 @@ A proper Melbourne pub in a bluestone building that's been pouring since the 186
 
 Sleeker than the Railway, The Osborne does cocktails with intention. Their weekend menu changes seasonally — at the moment, expect gin-heavy drinks with native botanicals. The wine list leans Victorian, and the staff actually know what they're talking about.
 
----
 
 ## SUNDAY: BRUNCH, ART & A LONG WALK HOME
 
@@ -173,7 +173,6 @@ A King Street institution that somehow avoids the chaos of the strip. Good tap b
 
 Or if you want something more intimate, walk five minutes north to **Bar Humbug** (332a Clarendon Street) — a tiny wine bar with a tight, clever list and a back-alley courtyard that feels like a secret.
 
----
 
 ## 📊 BY THE NUMBERS
 
@@ -184,7 +183,6 @@ Or if you want something more intimate, walk five minutes north to **Bar Humbug*
 | **Best for** | Couples, mates, families | Families, solo explorers |
 | **Peak crowds** | 10am–1pm (market) | 10am–12pm (brunch) |
 
----
 
 ## 🗳️ WEEKEND POLL #2
 
@@ -197,7 +195,6 @@ Or if you want something more intimate, walk five minutes north to **Bar Humbug*
 
 *[Vote at melbz.com.au and we'll feature the winner in next month's guide]*
 
----
 
 ## WHAT WE SKIPPED AND WHY
 
@@ -213,7 +210,6 @@ We left things out on purpose. Here's what didn't make the cut — and why:
 
 **F1 Grand Prix (March)** — The Grand Prix runs at Albert Park in mid-March and completely disrupts the park walk. If your weekend coincides with race weekend, skip Albert Park and head straight to the [South Yarra](/south-yarra/) retail strip instead. The rest of the guide still works.
 
----
 
 ## 📋 YOUR WEEKEND CHEAT SHEET
 
@@ -229,7 +225,6 @@ We left things out on purpose. Here's what didn't make the cut — and why:
 - 📍 **Sun 2pm:** Walk to St Kilda via Albert Park
 - 📍 **Sun 5pm:** The Newmarket Hotel or Bar Humbug
 
----
 
 ## 🗳️ WEEKEND POLL #3
 
@@ -242,7 +237,6 @@ We left things out on purpose. Here's what didn't make the cut — and why:
 
 *[Vote and comment at melbz.com.au]*
 
----
 
 ## 🗳️ WEEKEND POLL #4
 
@@ -255,7 +249,6 @@ We left things out on purpose. Here's what didn't make the cut — and why:
 
 *[Hit melbz.com.au to have your say]*
 
----
 
 ## FINAL WORD
 
@@ -265,7 +258,6 @@ If you're planning your next weekend and don't want to think too hard, this post
 
 See you at the dim sim counter.
 
----
 
 *Updated 16 March 2026 | Isabella Greco reporting*
 

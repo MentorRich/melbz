@@ -5,12 +5,17 @@ date: 2026-03-16
 author: ethan
 tags: ["south-melbourne", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in South Melbourne 2026: After the Market Closes
+description: "Late Night Food in South Melbourne 2026: After the Market Closes"
+---
 
-Updated 16 March 2026 | 6 places tested | Ethan Cross reporting
+**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
+
+
 
 South Melbourne Market shu..."
----
+
+*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
+
 # Late Night Food in South Melbourne 2026: After the Market Closes
 
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
@@ -19,7 +24,6 @@ South Melbourne Market shuts its doors at 4pm on weekdays, and suddenly the neig
 
 I spent two weeks eating my way through South Melbourne's late-night options, from seafood joints still firing at 11pm to pub kitchens that won't turn you away until the small hours. Here's what's worth your time, your money, and your hangover.
 
----
 
 ## 1. Claypots Evening Star
 
@@ -35,7 +39,6 @@ Happy hour runs daily from 4pm to 6pm, which makes this an ideal first stop when
 
 **The verdict:** Reliable, atmospheric, and genuinely open late enough to count as a proper dinner destination. The courtyard on a warm evening is one of the best spots in the inner south.
 
----
 
 ## 2. Honey Bar & Restaurant
 
@@ -51,7 +54,6 @@ It's not fine dining. It's not trying to be. What Honey offers is the rarer thin
 
 **The verdict:** The best genuine late-night kitchen in South Melbourne proper. Those Friday and Saturday 3am closes put it in a league of its own south of the river.
 
----
 
 ## 3. Coppersmith Hotel
 
@@ -67,7 +69,6 @@ The kitchen runs until late every night, with the bar staying open until 1am on 
 
 **The verdict:** A step above typical pub food in a setting that feels more like someone's well-appointed living room. The rooftop is a under the radar.
 
----
 
 ## 4. Limerick Arms Hotel
 
@@ -83,7 +84,6 @@ Friday and Saturday nights extend to 1am, making this a solid option when you wa
 
 **The verdict:** Classic pub done well, with enough history on the walls to make every visit feel like you're part of something. Late enough for most people's needs.
 
----
 
 ## 5. Kirbie
 
@@ -99,7 +99,6 @@ It's the sort of place where "midday to late" is a philosophy, not just a timeta
 
 **The verdict:** If you want late-night food that feels like an occasion rather than a compromise, Kirbie is the pick. The wine list alone is worth the trip.
 
----
 
 ## 6. Hunky Dory
 
@@ -115,7 +114,6 @@ It won't keep you fed past 10pm, but if you're starting your evening early or gr
 
 **The verdict:** The best fish and chips on Clarendon Street, full stop. Just plan your evening around the 10pm close.
 
----
 
 ## What We Skipped and Why
 
@@ -129,7 +127,6 @@ Every late-night food list needs honesty, so here's what didn't make the cut and
 
 **CBD spots like Supper Inn, Ling Nan, and Stalactites** — All excellent late-night options, but they're CBD venues, not South Melbourne. If you're already in the CBD at 1am, you don't need this guide. For our CBD late-night picks, see our [CBD after-hours food guide](/melbourne/late-night-food-cbd-2026).
 
----
 
 ## Beyond the Border: Where to Go When You Need More
 
@@ -141,7 +138,6 @@ South Melbourne sits in a sweet spot between three neighbourhoods that each brin
 
 **[CBD](/melbourne/late-night-food-cbd)** — Melbourne's CBD remains the undisputed heavyweight of late-night dining. Dragon Hot Pot runs until 2am. Supper Inn stays open until 2:30am. The Korean joints on Little Bourke Street keep feeding well past midnight. If you need to eat at 3am, the CBD has you sorted.
 
----
 
 ## The Practical Bits
 
@@ -159,17 +155,14 @@ On-street parking is metered until 8:30pm, then free. The South Melbourne Market
 - **Mid-range evening:** $30–$50 per person (Claypots, Coppersmith, Limerick Arms)
 - **Treat yourself:** $50–$80 per person (Kirbie with wine, Claypots with seafood platters)
 
----
 
 > **Our Top Pick:** Honey Bar for the latest kitchen hours and best value. Kirbie for a more polished experience. Claypots Evening Star if you want seafood and atmosphere.
 
----
 
 *Prices and hours are correct as of March 2026 but may change. We recommend calling ahead for kitchen closing times, especially on quieter weeknights. All venues were visited anonymously and paid for in full by MELBZ.*
 
 *Got a late-night South Melbourne spot we missed? Drop us a line at hello@melbz.com.au — we'll check it out.*
 
----
 
 **Related Reading:**
 - [Best Coffee in South Melbourne 2026](/south-melbourne/best-coffee-2026)

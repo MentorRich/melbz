@@ -1,16 +1,22 @@
 ---
-title: "Weekend Guide: Abbotsford 2026 — Saturday & Sunday Done Right"
+title: "Abbotsford Weekend Guide 2026: Victoria Street & River"
 cover_image: "/images/abbotsford/weekend-guide.jpg"
 date: 2026-03-16
-author: maya
-tags: ["abbotsford", "weekend", "lifestyle"]
+author: marcus
+tags: ["abbotsford", "weekend-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Weekend Guide: Abbotsford 2026 — Saturday & Sunday Done Right
+description: "Abbotsford Weekend Guide 2026: Victoria Street & River"
+---
 
-Updated 16 March 2026 | Maya Singh reporting
+***Updated 16 March 2026 | Marcus Cole reporting***
+
+
+
 
 Abbotsford sits 2km east of the CBD, wedged betw..."
----
+
+*Updated 16 March 2026 | Maya Singh reporting*
+
 # Weekend Guide: Abbotsford 2026 — Saturday & Sunday Done Right
 
 **Updated 16 March 2026 | Maya Singh reporting**
@@ -19,7 +25,6 @@ Abbotsford sits 2km east of the CBD, wedged between the Yarra River, Victoria St
 
 I've spent three Saturdays mapping this out so you don't have to guess. Here's how to do Abbotsford properly, start to finish.
 
----
 
 ## Saturday Morning: The 8am Start
 
@@ -38,7 +43,6 @@ The **Convent Bakery** opens at 7:30am and runs to 3:30pm (Mon-Sun). Their crois
 
 The grounds are free to wander. There's a sculpture garden, artist studios, and on a Saturday morning, usually a handful of market stalls near the entrance. The carpark is paid — expect $2-4 per hour. Best to catch the 109 tram to Victoria Street and walk in from there.
 
----
 
 ## Saturday Late Morning: The River Trail
 
@@ -56,7 +60,6 @@ The trail itself runs from Fairfield all the way into the CBD if you've got the 
 
 **Pro tip:** If you're on a bike, the trail is shared-use. Pedestrians have right of way on the narrow sections near Dights Falls. Call out when passing. The Merri Creek Trail junction near Dights Falls is where you can loop north through [Collingwood](/suburbs/collingwood) if you want to extend the ride.
 
----
 
 ## Saturday Afternoon: Victoria Street & the Border with Richmond
 
@@ -70,7 +73,6 @@ The queue here on a Saturday at noon is the length of a small street. The beef p
 
 Slightly less hectic than Van Mai. Their beef pho ($15) uses a 24-hour bone broth and the spring rolls ($8) are worth adding. Open for lunch and dinner. BYO unless otherwise noted.
 
----
 
 ## Saturday Afternoon Beers
 
@@ -92,7 +94,6 @@ About a 10-minute walk south across the river. The Bridge has live music most Sa
 
 If you want something more low-key, **Shadow Electric** is a small bar tucked behind the Abbotsford Convent that does natural wine and cheese plates in a courtyard that feels like someone's backyard. Check their Instagram for opening hours — they're not open every day, and when they are, capacity is limited.
 
----
 
 ## Saturday Night: Dinner Decision
 
@@ -109,7 +110,6 @@ A proper pub with a decent tap list, a bistro, and the kind of Friday-night ener
 > **URGENCY BANNER**
 > **Heading out Saturday night?** Melbourne's Night Network trams run 24/7 on weekends. The 109 runs along Victoria Street. Grab a Myki top-up before 6pm ($5.04 daily cap) or use the Night Bus. Don't rely on the 75 tram after midnight — it doesn't run through Abbotsford late.
 
----
 
 ## Sunday: The Slow Recovery
 
@@ -137,7 +137,6 @@ If Saturday night went longer than planned, the Main Yarra Trail walk is medicin
 
 Before you head home, swing by the **Convent Cafe** (the sit-down restaurant in the main convent building, not the bakery). They do Aperol spritz for $16 and a solid wine list. Sit in the courtyard, watch the light change on the old bluestone walls, and tell yourself you'll come back next weekend. You probably will.
 
----
 
 ## What We Skipped and Why
 
@@ -151,7 +150,6 @@ Every weekend guide pretends everything is worth your time. That's a lie. Here's
 
 **Cycling the full Main Yarra Trail in weekend traffic** — The trail is wonderful. The shared-use path on a Saturday is an obstacle course of toddlers, dogs on extendable leads, and e-bike riders who think they're in the Tour de France. Walk it instead, or ride early (before 9am) when the path belongs to the serious runners and the peloton crowd hasn't shown up yet.
 
----
 
 ## Getting There and Getting Home
 
@@ -163,7 +161,6 @@ Every weekend guide pretends everything is worth your time. That's a lie. Here's
 
 **Getting home Saturday night:** Night Network tram 109, Night Bus 941, or Uber from Johnston Street (expect $18-25 to the CBD).
 
----
 
 ## The Weekend Budget (Per Person)
 
@@ -181,13 +178,11 @@ Every weekend guide pretends everything is worth your time. That's a lie. Here's
 
 That's a full Saturday and Sunday with food, drink, activities, and transport. Not cheap, not expensive. Exactly what Melbourne weekends cost when you're doing them right.
 
----
 
 ## Open Loop: Your Next Suburb
 
 If Abbotsford's river-and-cafe energy is your vibe, you'll want to read our [Collingwood weekend guide](/suburbs/collingwood) — it covers the other side of Johnston Street with a completely different Saturday energy. Smith Street is where Abbotsford's quiet confidence turns into full-blown confidence.
 
----
 
 **Updated 16 March 2026 | Maya Singh reporting**
 MELBZ Weekend Guide — [Subscribe to your suburb's weekly briefing](/subscribe) so you never miss a Saturday plan.

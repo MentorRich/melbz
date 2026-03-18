@@ -5,12 +5,17 @@ date: 2026-03-16
 author: lina
 tags: ["brunswick", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Best Bars in Brunswick 2026: Where to Drink on Sydney Road
+description: "Best Bars in Brunswick 2026: Where to Drink on Sydney Road"
+---
 
-Updated 16 March 2026 | 8 places tested | Lina Nguyen reporting
+**Updated 16 March 2026 | 8 places tested | Lina Nguyen reporting**
+
+
 
 Brunswick's bar strip doesn't me..."
----
+
+*Updated 16 March 2026 | 8 places tested | Lina Nguyen reporting*
+
 # Best Bars in Brunswick 2026: Where to Drink on Sydney Road
 
 *Updated 16 March 2026 | 8 places tested | Lina Nguyen reporting*
@@ -19,7 +24,6 @@ Brunswick's bar strip doesn't mess around. Sydney Road and its side streets hold
 
 I've walked this strip more times than I can count on a Friday night. Whether you want a pint with a parma, a cocktail in a converted milk bar, or live African music until 3am, Sydney Road has you sorted. Here's where to actually spend your money this year.
 
----
 
 ## 1. The Bergy Seltzer
 
@@ -36,7 +40,6 @@ The food offering has upgraded recently, with pies from inner-city baker Carla M
 
 **Order this:** Whatever's on tap from a local brewer — the rotation keeps it interesting.
 
----
 
 ## 2. Howler
 
@@ -53,7 +56,6 @@ The crowd at Howler skews slightly older than the Sydney Road pubs — think 30-
 
 **Order this:** A Victorian natural wine and the burger special if it's a weeknight. You'll thank me.
 
----
 
 ## 3. The Brunswick Green
 
@@ -70,7 +72,6 @@ This is a locals' pub in the truest sense. You'll see the same faces on a Tuesda
 
 **Order this:** A craft pale ale and a seat in the beer garden before 6pm. After 6pm, you'll be fighting for one.
 
----
 
 ## 4. Joey Smalls
 
@@ -89,7 +90,6 @@ The only catch: it's only open Thursday through Saturday. Plan accordingly.
 
 **Order this:** A rum-based cocktail at the front bar, then move to the garden when the DJs start.
 
----
 
 ## 5. The Retreat Hotel
 
@@ -108,7 +108,6 @@ The vibe is unpretentious in the best way. No dress code, no queue at the door, 
 
 *[Planning a weekend in the inner north? Our [Brunswick Weekend Itinerary](/brunswick/weekend-guide) maps out the perfect two days — bars, food, and everything in between.]*
 
----
 
 ## 6. The Penny Black
 
@@ -127,7 +126,6 @@ The $10 steak night on Wednesdays draws a devoted following. Arrive early or mis
 
 **Order this:** A schooner and the beef tataki to start, then relocate to the beer garden.
 
----
 
 ## 7. Miss Moses
 
@@ -146,7 +144,6 @@ The bottle shop component means you can taste something on tap, decide you love 
 
 **Order this:** Whatever's on tap that you haven't tried, and the vegan eggplant bap. Trust me.
 
----
 
 ## 8. Bar Oussou
 
@@ -165,7 +162,6 @@ Some of my best nights in Brunswick have ended at Bar Oussou. Arrive at midnight
 
 **Order this:** A beer, the yassa chicken if you're eating, and an open mind for whatever genre the band is playing.
 
----
 
 ## What We Skipped and Why
 
@@ -179,7 +175,6 @@ Every "best bars" list has omissions. Here's what didn't make the cut and why:
 
 - **The Brunswick Ballroom** (314 Sydney Rd) — More of a gig venue than a bar. When there's a show on, it's electric. But on off-nights, it's not somewhere you'd wander into for a casual drink. We'll cover it in our [live music venues guide](/brunswick/live-music) instead.
 
----
 
 > **🗳️ YOUR TURN: Vote for Brunswick's Best Bar**
 >
@@ -189,7 +184,6 @@ Every "best bars" list has omissions. Here's what didn't make the cut and why:
 >
 > *Results published in next month's Brunswick nightlife roundup.*
 
----
 
 > **🍺 THE MOVE: The Ultimate Sydney Road Bar Crawl**
 >
@@ -204,7 +198,6 @@ Every "best bars" list has omissions. Here's what didn't make the cut and why:
 >
 > *Total spend per person: roughly $120–$150 including food. Brunswick does expensive differently — it just doesn't.*
 
----
 
 > **📣 CONFESSION BOX**
 >
@@ -214,7 +207,6 @@ Every "best bars" list has omissions. Here's what didn't make the cut and why:
 >
 > Got a Melbourne confession? Drop it at [confess.melbz.com.au](/confess)
 
----
 
 ## The Bottom Line
 
@@ -222,7 +214,6 @@ Brunswick's bar scene in 2026 is doing exactly what it's always done: giving Mel
 
 The prices haven't gone insane — you can still have a full night out for under $80 if you're sensible, or under $150 if you're not. The live music is as strong as ever, and the crowd remains one of the most genuine in Melbourne. Nobody in Brunswick is here for the 'gram. They're here because the beer is cold, the music is loud, and the parma is $10 on Wednesdays.
 
----
 
 > **👍 RATE THIS ARTICLE**
 >
@@ -230,11 +221,9 @@ The prices haven't gone insane — you can still have a full night out for under
 >
 > 🔥 Great list / 🤔 Missed my favourite / 🍺 Now I'm thirsty / 💬 Got opinions
 
----
 
 **What to read next:** Planning to eat your way through the suburb after all those drinks? Our [Best Cheap Eats in Brunswick](/brunswick/cheap-eats) covers the spots where a $15 meal still actually exists. Or if you want to explore further north, check out our [Coburg Bar Guide](/coburg/best-bars) — the scene up there is quietly getting very good.
 
----
 
 *Lina Nguyen is MELBZ's Nightlife Editor. She has spent an unreasonable amount of time in The Bergy Seltzer and regrets nothing. Follow her Sydney Road adventures [@lina.melbz](https://instagram.com/lina.melbz).*
 

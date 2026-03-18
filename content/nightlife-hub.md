@@ -5,13 +5,14 @@ author: lina
 cover_image: "/images/melbourne/nightlife-hub.jpg"
 tags: ["nightlife", "bars", "pubs", "melbourne"]
 categories: ["lifestyle"]
+---
+
 url: "/nightlife/"
-description: "Your guide to Melbourne's best bars, pubs, rooftop drinks and live music venues across 34+ suburbs.
+description: "Your guide to Melbourne's best bars, pubs, rooftop drinks and live music venues across 34+ suburbs."
 
  Nightlife Guides by Suburb
 
 We've compiled comprehensiv..."
----
 Your guide to Melbourne's best bars, pubs, rooftop drinks and live music venues across 34+ suburbs.
 
 ## Nightlife Guides by Suburb

@@ -5,25 +5,27 @@ date: 2026-03-16
 author: marcus
 tags: ["coburg", "cost-of-living", "property"]
 categories: ["property"]
-description: "Cost of Living in Coburg 2026: The Real Numbers
-
-Updated 16 March 2026 | Marcus Cole reporting
-
+description: "Cost of Living in Coburg 2026: The Real Numbers"
 ---
+
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
+
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 
 If you're thinking about moving to Coburg, or you alread..."
----
 # Cost of Living in Coburg 2026: The Real Numbers
 
 Updated 16 March 2026 | Marcus Cole reporting
 
----
 
 If you're thinking about moving to Coburg, or you already live there and want to know whether you're actually getting ahead, let's cut through the vibes and look at the numbers. I've been tracking Melbourne's inner-north suburbs for years, and Coburg sits in an interesting spot — cheaper than its neighbours but catching up fast.
 
 Here's what it actually costs to live in Coburg in 2026. No fluff. No aspirational budgets for people earning $150K. Real numbers for real people.
 
----
 
 ## Rent: The Big One
 
@@ -44,7 +46,6 @@ The takeaway: if you want to be in the inner north without the Brunswick premium
 
 **What $680/week actually means:** That's $35,360 a year on a three-bedroom house, before rates, before electricity, before anything else. To keep rent under 30% of your income (the old affordability benchmark that fewer and fewer people actually hit), a household would need to earn about $118,000 combined. In practice, most Coburg households are spending closer to 32–35% of their income on rent.
 
----
 
 ## Groceries and Everyday Food
 
@@ -60,7 +61,6 @@ Coburg's grocery scene is anchored by the usual suspects — Coles on Sydney Roa
 
 The [Preston Market](https://prestonmarket.com.au/) is a 15-minute bike ride or a quick 58 tram hop and remains one of Melbourne's best-value fresh food markets. Saturday morning there, and you'll stock up on fruit, veg, and deli items for the week at prices that make Coles look like a rip-off. Which, frankly, it is for fresh produce.
 
----
 
 ## Transport: Getting Around
 
@@ -88,7 +88,6 @@ Coburg is well-served by public transport, though "well-served" and "reliable" a
 | Mix of tram + occasional Uber | $70–$85 |
 | Own a car (rego, insurance, fuel, parking) | $180–$250 |
 
----
 
 ## Eating Out: Cafes, Pubs, and Dinner
 
@@ -116,7 +115,6 @@ Coburg's coffee is genuinely good and roughly 50 cents cheaper per cup than the 
 
 The Turkish restaurants along Sydney Road between Bell and Moreland remain Coburg's calling card. A full mezze spread for two at places like Mankoushe or Erciyes will run $55–$70 with drinks, which is genuinely excellent value compared to what you'd pay for equivalent quality in Brunswick or Fitzroy.
 
----
 
 ## Utilities: Keeping the Lights On
 
@@ -137,7 +135,6 @@ A few notes. Many of the older flats in Coburg still use electric heating (no ga
 
 Internet-wise, most of Coburg is on NBN with speeds of 50–100 Mbps available. Expect $70–$80 a month for a decent 50/20 plan.
 
----
 
 ## Gym and Fitness
 
@@ -149,7 +146,6 @@ Coburg Leisure Centre on Victoria Street is the obvious pick for swimming. It's 
 
 If you're a runner, the Merri Creek trail is right there. Free, scenic, and you'll probably see more wildlife than you'd expect this close to the city. The trail connects all the way from Coburg through to the CBD if you're keen on a long run, or north through [Preston](/preston/) if you want a flatter route.
 
----
 
 ## Entertainment and Going Out
 
@@ -161,7 +157,6 @@ If you're a runner, the Merri Creek trail is right there. Free, scenic, and you'
 
 You're technically Coburg's neighbour, but Brunswick's live music and bar scene is your entertainment district. The 19 tram drops you right into it. Brunswick has more venues per square metre than almost anywhere outside Fitzroy, and you don't need to mortgage yourself to have a night out there.
 
----
 
 ## The Monthly Total: What You're Actually Spending
 
@@ -180,7 +175,6 @@ Here's a realistic monthly budget for a single person renting a 1-bedroom apartm
 
 To cover that comfortably (assuming you want to save something and not live pay cheque to pay cheque), you'd need a post-tax income of around $4,200–$4,500 per month, or roughly $65,000–$72,000 a year gross. A couple sharing a 2-bed would need a combined household income of about $95,000–$110,000 gross to live in Coburg without constant financial anxiety.
 
----
 
 ## What We Skipped and Why
 
@@ -194,7 +188,6 @@ We deliberately left out a few categories that other cost-of-living guides inclu
 
 **Clothing and personal spending:** Completely personal. We're not going to tell you how much to spend on clothes.
 
----
 
 ## The Verdict
 
@@ -204,7 +197,6 @@ If you're earning above $70K single or $110K as a household, Coburg is genuinely
 
 But Coburg gives you a better crack at it than most places inside the ring.
 
----
 
 *Marcus Cole writes about Melbourne property and cost of living for MELBZ. He has lived in four of the suburbs he covers and regrets leaving at least two of them. Follow him for more brutally honest suburb breakdowns.*
 

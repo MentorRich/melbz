@@ -5,12 +5,17 @@ date: 2026-03-16
 author: eli
 tags: ["coburg", "cafes", "food"]
 categories: ["food"]
-description: "Best Cafes in Coburg 2026: Sydney Road & Beyond
+description: "Best Cafes in Coburg 2026: Sydney Road & Beyond"
+---
 
-Updated 16 March 2026 | 6 places tested | Eli Chen reporting
+**Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
+
+
 
 Coburg's cafe scene has always been a bit scra..."
----
+
+*Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
+
 # Best Cafes in Coburg 2026: Sydney Road & Beyond
 
 **Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
@@ -152,7 +157,6 @@ The cost of living in 2026 means a $55/week coffee habit is no longer casual for
 **By bike:** The Upfield Shared Path runs parallel — solid bike parking near Pentridge Boulevard
 **By car:** Council parking on Murray Road and Bell Street. Sydney Road itself is a nightmare to park on Saturday mornings. Don't even try.
 
----
 
 *Have a Coburg cafe tip we missed? [Submit it here](/submit/tip) and we'll check it out before the next update.*
 

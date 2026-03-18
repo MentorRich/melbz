@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Brighton — 2026 Local Guide"
 cover_image: "/images/brighton/nightlife-guide.jpg"
+---
+
 suburb: "brighton"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The complete Brighton nightlife guide for 2026 — from the famous Brighton Beach Boxes to local pubs, rooftop bars, and the Bay Street scene."
 tags: ["brighton"]
 categories: ["nightlife"]
----
 # Brighton Nightlife Guide 2026 — Bayside Sophistication Meets Pub Culture
 
 Brighton has a reputation that precedes it — the beachside suburb with the famous coloured boxes, the expensive real estate, the kind of postcode that makes Melbourne real estate headlines. But strip away the stereotypes and you'll find a nightlife scene that's more diverse and accessible than the reputation suggests. Yes, there are venues that cater to the high-end demographic. But there are also genuinely excellent pubs, relaxed neighbourhood bars, and the kind of drinking options that work for every budget and every mood.
@@ -18,7 +19,6 @@ The Bay Street strip is the obvious anchor — it's walkable, varied, and dense 
 
 **Last updated: 17 March 2026** | **Brighton Vibe Score: 76/100** 🌊
 
----
 
 ## The Classic Pubs: Brighton Institutions
 
@@ -52,7 +52,6 @@ The crowd is a mix of locals who've been coming for years, beach visitors lookin
 **Where:** 75 The Esplanade, Brighton
 **Insider tip:** The beachfront positioning means it gets windy. Choose your spot carefully and bring a jacket if you're sitting outside.
 
----
 
 ## The Bay Street Bar Scene: Modern Venues
 
@@ -86,7 +85,6 @@ The fitout is what you'd expect from a sports bar — screens, memorabilia, the 
 **Where:** Bay Street, Brighton
 **Insider tip:** Get there early for big games. The venue fills quickly and standing room is limited.
 
----
 
 ## The Sophisticated End: Cocktails and Views
 
@@ -110,7 +108,6 @@ The crowd tends toward the younger end of the demographic spectrum, with groups 
 **Where:** Bay Street, Brighton (upper level)
 **Insider tip:** The sunset times are the most popular. Book a table if you can, or arrive early to secure a good spot.
 
----
 
 ## The Late-Night Situation
 
@@ -118,7 +115,6 @@ Brighton's nightlife follows a typical Melbourne pattern — venues wind down ar
 
 The late-night food situation is reasonable, with several options along Bay Street and the nearby areas. The beach location means the suburb feels safe and walkable even late at night, which is more than can be said for some inner-city areas.
 
----
 
 ## What We Skipped and Why
 
@@ -130,7 +126,6 @@ The late-night food situation is reasonable, with several options along Bay Stre
 
 **Late-night clubs:** Brighton doesn't have a club scene worth mentioning. For dancing until dawn, St Kilda or the city are your options.
 
----
 
 ## Cross-Suburb Nightlife
 
@@ -139,7 +134,6 @@ The late-night food situation is reasonable, with several options along Bay Stre
 - [Nightlife in Hampton](/hampton/nightlife-guide) — The next suburb south along the bay
 - [Nightlife in Port Melbourne](/port-melbourne/nightlife-guide) — The northern end of the Bay Street corridor
 
----
 
 **Your Brighton Vibe Score this week: 76/100** — A suburb that offers more than just its reputation, with genuine variety and quality options.
 
@@ -147,7 +141,6 @@ The late-night food situation is reasonable, with several options along Bay Stre
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 *Also see: [Best Pubs in Brighton](/brighton/best-pubs) · [Best Bars in Brighton](/brighton/best-bars) · [Rooftop Bars in Melbourne](/melbourne/rooftop-bars) · [St Kilda Night Out](/st-kilda/nightlife-guide) · [Elwood Evening](/elwood/nightlife-guide)*
 ## Related Articles

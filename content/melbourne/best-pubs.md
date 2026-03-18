@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-pubs.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "kai"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best pubs in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually drink — from heritage hotels to craft beer dens."
 tags: ["melbourne"]
 categories: ["general"]
----
 # Best Pubs in Melbourne — 2026 Guide
 
 A Melbourne pub isn't just a place to drink — it's a community centre, a sports stadium, a restaurant, a meeting room, and occasionally a time machine. The city's pub culture runs deep, from the grand heritage hotels of the CBD to the neighbourhood locals that anchor every suburb. In 2026, Melbourne pubs are in a golden age: the old-school working man's pubs are still going strong, while a new wave of craft beer-focused venues is raising the bar (literally) on what a pub can be.
@@ -18,7 +19,6 @@ This guide covers the pubs worth walking into. Whether you want a cold pot on Fr
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. The Railway Hotel — CBD (Lonsdale Street)
 
@@ -31,7 +31,6 @@ The beer selection covers all the bases — VB, Carlton Draught, and a rotating 
 **Hours:** Daily, 11am–late
 **Budget:** $7–$12 per drink; $18–$28 for meals
 
----
 
 ## 2. The Elephant & Wheelbarrow — CBD (Bourke Street)
 
@@ -44,7 +43,6 @@ The food is the drawcard. The kitchen takes pub classics and make betters them w
 **Hours:** Daily, 11am–late
 **Budget:** $8–$14 per drink; $20–$30 for meals
 
----
 
 ## 3. The Precinct Hotel — Richmond (Swan Street)
 
@@ -57,7 +55,6 @@ The beer garden is the real draw on warm days — it's large, it's leafy, and it
 **Hours:** Daily, 11am–late
 **Budget:** $8–$13 per drink; $18–$28 for meals
 
----
 
 ## 4. The Royal Melbourne Hotel — CBD (Queen Street)
 
@@ -70,7 +67,6 @@ The ground floor bar is a classic city pub — cold beer on tap, a TAB, and a cr
 **Hours:** Daily, 10am–late
 **Budget:** $7–$12 per drink; $18–$28 for meals
 
----
 
 ## 5. The Great Northern — Carlton North (Nicholson Street)
 
@@ -85,7 +81,6 @@ The Great Northern does everything a pub should do, and it does it all well. The
 
 **Cross-link:** Carlton North flows into Carlton — see our [best pubs in Carlton](/carlton/best-pubs/) guide for more options on that side of the suburb border.
 
----
 
 ## 6. The Railway Hotel — South Melbourne (Clarendon Street)
 
@@ -100,7 +95,6 @@ The food menu is generous and the prices are fair — a steak sandwich for $20, 
 
 **Cross-link:** South Melbourne has a stack of great venues — more in our [best pubs in South Melbourne](/south-melbourne/best-pubs/) guide.
 
----
 
 ## 7. The Tucky Duck — Carlton (Lygon Street)
 
@@ -113,7 +107,6 @@ The Duck (as locals call it) is the quintessential Lygon Street pub. The crowd i
 **Hours:** Daily, 11am–late
 **Budget:** $7–$10 per drink; $18–$26 for meals
 
----
 
 ## 8. The Fox Hotel — South Melbourne (Wellington Street)
 
@@ -126,7 +119,6 @@ The food at The Fox is a step above standard pub fare. The kitchen works with lo
 **Hours:** Daily, 11am–late
 **Budget:** $9–$14 per drink; $22–$38 for meals
 
----
 
 ## 9. The Prince Alfred Hotel — South Yarra (Chapel Street)
 
@@ -141,7 +133,6 @@ The PA does good pub food, solid drinks, and has enough space that you can alway
 
 **Cross-link:** Chapel Street is packed with venues — more in our [best pubs in South Yarra](/south-yarra/best-pubs/) guide.
 
----
 
 ## 10. The Duke of Wellington — South Melbourne (Clarendon Street)
 
@@ -154,7 +145,6 @@ The Duke is the pre-footy pub for anyone heading to the MCG or AAMI Park. On a S
 **Hours:** Daily, 11am–late
 **Budget:** $8–$12 per drink; $16–$25 for meals
 
----
 
 ## 11. The Royston Hotel — Richmond (Swan Street)
 
@@ -167,7 +157,6 @@ The Royston's beer garden is the spot on a Saturday arvo — cold beers, warm su
 **Hours:** Daily, 11am–late
 **Budget:** $8–$12 per drink; $18–$26 for meals
 
----
 
 ## 12. The Terminus Hotel — Fitzroy North (Nicholson Street)
 
@@ -180,7 +169,6 @@ The Terminus does a solid range of craft beer on tap, a food menu that goes beyo
 **Hours:** Daily, 11am–late
 **Budget:** $9–$13 per drink; $18–$26 for meals
 
----
 
 ## Pub Quiz Night Cheat Sheet
 
@@ -192,13 +180,11 @@ Melbourne pub quizzes are a serious business. Here's where to find the best ones
 - **Thursday:** The Terminus (Fitzroy North) — 7:30pm, free, themed rounds
 - **Friday:** The Great Northern (Carlton North) — 6pm (early start for the keen ones)
 
----
 
 ## The Friday Arvo Ritual
 
 If you're new to Melbourne, know this: Friday arvo (3pm–7pm) at a good pub is a sacred institution. It's when the working week ends, the pints start flowing, and the pub garden fills with people who've earned their first drink. The venues above that have good beer gardens — The Great Northern, The Precinct, The Duke of Wellington, The Tucky Duck — are the places to be. Arrive by 4pm or miss out on a seat.
 
----
 
 ## Getting There
 
@@ -209,7 +195,6 @@ If you're new to Melbourne, know this: Friday arvo (3pm–7pm) at a good pub is 
 - **South Yarra:** Train from Flinders Street to South Yarra (8 minutes), then walk to Chapel Street.
 - **Fitzroy North:** Tram 86 from the CBD up Sydney Road/Brunswick Street.
 
----
 
 ## Related Guides
 

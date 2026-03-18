@@ -5,15 +5,15 @@ date: 2026-03-16
 author: isabella
 tags: ["prahran", "weekend", "lifestyle"]
 categories: ["lifestyle"]
-description: "Updated 16 March 2026 | Isabella Greco reporting
-
+description: "Weekend Guide: Prahran 2026 — Market Day & Chapel Street"
 ---
+
+*description: "16 March 2026 | Isabella Greco reporting"*
+
 
 Prahran on a weekend is a different animal to Prahran on a Tuesday. The commuters disappear, the jogge..."
----
 *Updated 16 March 2026 | Isabella Greco reporting*
 
----
 
 Prahran on a weekend is a different animal to Prahran on a Tuesday. The commuters disappear, the joggers thin out, and what's left is the suburb the way it actually lives — market bags swinging, flat whites in hand, Chapel Street buzzing with people who've come from three postcodes over because they heard about a new wine bar on Greville Street or they simply know Saturday morning at Prahran Market hits different than anywhere else in Melbourne.
 
@@ -193,7 +193,6 @@ It's not trying to be Fitzroy. It's not competing with Brunswick. It's doing its
 
 Updated 16 March 2026 | Isabella Greco reporting
 
----
 
 **Related reads on MELBZ:**
 - [South Yarra Weekend Guide — Toorak Road to the Yarra](/south-yarra/weekend-guide)

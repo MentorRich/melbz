@@ -1,6 +1,8 @@
 ---
 title: "12 Best Restaurants in Thornbury You Need to Try in 2026"
 cover_image: "/images/thornbury/best-restaurants.jpg"
+---
+
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "jules"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Real Thornbury restaurants worth your money. No fluff, no filler — just the spots on High Street and beyond that locals actually eat at in 2026."
 tags: ["thornbury"]
 categories: ["best"]
----
 # 12 Best Restaurants in Thornbury You Need to Try in 2026
 
 Thornbury's restaurant scene runs on High Street like a vine along a fence — dense between Darebin Road and Dundas Street, then thinning out into residential streets where the real gems hide. It's not trying to be South Yarra or Carlton. It's got Greek families who've been here since the 1960s, Italian joints in converted shoe shops, and a burger place with slot cars. That's the appeal.
 
 **Last updated: 17 March 2026** | **Thornbury Vibe Score: 78/100 🟢**
 
----
 
 ## 1. Umberto Espresso Bar
 **The vibe:** Your nonna's kitchen if your nonna was Calabrian and had a rooftop bar upstairs.
@@ -28,7 +28,6 @@ Umberto is a love letter to the owner's Calabrian-born father, and the feeling i
 **Hours:** Wed–Mon 8am–3pm, 5:30–10pm; Tue closed
 **Insider tip:** Duck upstairs to Gigi Rooftop for a Negroni after dinner. It's the same owners and the sunset views over the northern suburbs are genuinely worth the climb.
 
----
 
 ## 2. Northern Git
 **The vibe:** A proper British pub trapped in the body of a Melbourne corner restaurant.
@@ -40,7 +39,6 @@ From the outside, Northern Git looks like any other High Street corner spot. Wal
 **Hours:** Wed–Sun 11:30am–9pm; Mon–Tue closed
 **Insider tip:** They do a $15 weekday lunch pie special that's the best value meal on the entire High Street strip. Get there by 1pm or miss out.
 
----
 
 ## 3. Kustom Burgers
 **The vibe:** An American diner that takes itself exactly seriously enough.
@@ -52,7 +50,6 @@ The hot-rod memorabilia is real, the electric slot car track in the corner is fr
 **Hours:** Thu–Sun 11am–10pm, Fri–Sat 11am–11pm; Mon–Wed closed
 **Insider tip:** Tuesday nights sometimes host trivia — check their Instagram. Also, the fried chicken burger is criminally underrated.
 
----
 
 ## 4. Farro Pizzeria
 **The vibe:** Homely Italian where the word "spelt" appears on the menu more than any other restaurant in Melbourne.
@@ -64,7 +61,6 @@ Farro is named after the Italian word for spelt, and they use it in everything �
 **Hours:** Tue–Sun 5:30–10pm; Mon closed
 **Insider tip:** They do takeaway if you call ahead. Grab a pizza, walk five minutes to Thornbury Picture House, and eat in the park next door before the film.
 
----
 
 ## 5. Greek Street Food
 **The vibe:** The souva mobile finally got a roof. Same stacked flavours, proper seating now.
@@ -76,7 +72,6 @@ What started as a beloved food truck has found a permanent home on High Street, 
 **Hours:** Tue–Sun 11:30am–9pm; Mon closed
 **Insider tip:** Ask for extra tzatziki. They don't charge for it and it's house-made.
 
----
 
 ## 6. Capers
 **The vibe:** Your yiayia's house, but with a liquor licence and better music.
@@ -88,7 +83,6 @@ Capers is a Greek neighbourhood bar that takes its cues from the retro living ro
 **Hours:** Tue–Sat 12pm–11pm, Sun–Mon 12pm–10pm
 **Insider tip:** Sunday arvo at Capers with a spritz in the sun is one of Thornbury's quiet pleasures. Gets busy after 3pm.
 
----
 
 ## 7. Sandro Pasta & Wine
 **The vibe:** A convivial Italian wine bar where you'll make friends with the next table.
@@ -100,7 +94,6 @@ Sandro is part pasta shop, part wine bar, and entirely welcoming. You can eat in
 **Hours:** Wed–Sun 12–10pm; Mon–Tue closed
 **Insider tip:** Buy a packet of their fresh pasta to cook at home — it's cheaper than eating in and almost as good.
 
----
 
 ## 8. 1800 Lasagne
 **The vibe:** One dish, done obsessively, with cocktails. What could go wrong?
@@ -112,7 +105,6 @@ Sandro is part pasta shop, part wine bar, and entirely welcoming. You can eat in
 **Hours:** Check their Instagram for current hours
 **Insider tip:** If they're open, the Wednesday night special is the best deal on the strip.
 
----
 
 ## 9. Casa Sicilia Caffe
 **The vibe:** A slice of Palermo on High Street, complete with arancini the size of your fist.
@@ -124,7 +116,6 @@ One of the newer additions to the Thornbury strip, Casa Sicilia brings proper Si
 **Hours:** Wed–Mon 7:30am–3:30pm; Tue closed
 **Insider tip:** Go early on Saturday. By 10am the arancini are gone and you'll be standing on the footpath waiting.
 
----
 
 ## 10. Ballard's
 **The vibe:** All-vegan, all-cosy, no judgement — just genuinely good pub food without the animal products.
@@ -136,7 +127,6 @@ Ballard's is the pub local Thornbury deserves. Everything is plant-based, from t
 **Hours:** Tue–Sat 12–10pm, Sun 12–9pm; Mon closed
 **Insider tip:** Happy hour weekdays 4–6pm — $8 pints and half-price small bites.
 
----
 
 ## 11. The Thornbury Local
 **The vibe:** Neighbourhood dining that doesn't try too hard, which is exactly why it works.
@@ -148,7 +138,6 @@ The Thornbury Local is the kind of neighbourhood restaurant that quietly builds 
 **Hours:** Wed–Sun 5:30–10pm; Mon–Tue closed
 **Insider tip:** Book ahead for Friday and Saturday. Walk-ins on weeknights are fine.
 
----
 
 ## 12. Karlay's Lebanese Kitchen
 **The vibe:** Generous Lebanese home cooking at prices that feel like a time machine.
@@ -160,7 +149,6 @@ Karlay's has been feeding Thornbury families for years, and the portions reflect
 **Hours:** Daily 11am–10pm
 **Insider tip:** Order the garlic sauce on the side. They make it fresh and it's dangerously good.
 
----
 
 ## The Bottom Line
 
@@ -168,12 +156,10 @@ Thornbury's restaurant scene isn't about one headline-grabbing venue — it's ab
 
 **Your Thornbury Vibe Score this week: 78/100** — The restaurant strip is holding strong, but keep an eye on the 1800 Lasagne situation. If they come back from administration, it'll bump the score.
 
----
 
 *Know a spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Also in the area:**
 → [Best Bars in Thornbury](/thornbury/best-bars)

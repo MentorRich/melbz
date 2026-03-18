@@ -5,12 +5,17 @@ date: 2026-03-16
 author: isabella
 tags: ["south-yarra", "weekend", "lifestyle"]
 categories: ["lifestyle"]
-description: "South Yarra Weekend Guide 2026: Chapel Street & Beyond
+description: "South Yarra Weekend Guide 2026: Chapel Street & Beyond."
+---
 
-Updated 16 March 2026 | Isabella Greco reporting
+**Updated 16 March 2026 | Isabella Greco reporting**
+
+
 
 South Yarra has always been Melbourne's most confid..."
----
+
+*Updated 16 March 2026 | Isabella Greco reporting*
+
 # South Yarra Weekend Guide 2026: Chapel Street & Beyond
 
 *Updated 16 March 2026 | Isabella Greco reporting*
@@ -19,7 +24,6 @@ South Yarra has always been Melbourne's most confident suburb — the one that w
 
 This guide covers a full weekend — Saturday through Sunday — with brunch, shopping, gardens, drinks, and dinner. We've kept it specific: exact venues, real prices, opening hours, and the honest take on what's actually worth your time.
 
----
 
 ## Saturday Morning: Brunch That Earns the Hype
 
@@ -45,7 +49,6 @@ If Liar Liar's wait is too long, Operator Twenty-Five on Toorak Road is your saf
 >
 > *Drop your answer in the comments*
 
----
 
 ## Saturday Late Morning: Chapel Street Shopping Walk
 
@@ -70,7 +73,6 @@ The walk from Toorak Road to the Prahran boundary takes about 20 minutes at brow
 >
 > *Let us know below*
 
----
 
 ## Saturday Afternoon: Royal Botanic Gardens and Como Gardens
 
@@ -92,7 +94,6 @@ The gardens are particularly good for a late afternoon wander. The hedge maze ar
 
 **Hours:** Grounds open daily 9am–5pm. House tours Saturday and Sunday 10am–4pm.
 
----
 
 ## Saturday Evening: Dinner
 
@@ -110,7 +111,6 @@ If you want something lighter or more modern, Japan Society on Claremont Street 
 
 **Hours:** Wednesday to Sunday, 5pm–10:30pm.
 
----
 
 ## Sunday Morning: A Slower Start
 
@@ -126,7 +126,6 @@ From Claremont Street, it's a 10-minute walk down to the Yarra River trail. Turn
 
 The full walk from South Yarra to the Swan Street bridge in Richmond takes about 25 minutes at an easy pace. If you keep going past the bridge, you end up in the heart of Richmond's Bridge Road shopping precinct — good for a browse if you've got the legs for it.
 
----
 
 ## Sunday Afternoon: Drinks and Wind-Down
 
@@ -150,7 +149,6 @@ From Prahran Market, you can walk five minutes south into Greville Street, Prahr
 >
 > *We're building the ultimate MELBZ weekend ranking*
 
----
 
 ## What We Skipped and Why
 
@@ -164,7 +162,6 @@ Every guide has gaps. Here's ours — and why we left these out:
 
 **Crown complex.** Technically on the South Yarra/Prahran border, but Crown's dining and entertainment offerings are a separate category entirely. We'll cover Crown in a dedicated guide.
 
----
 
 ## Cross-Border Day Trip Options
 
@@ -176,7 +173,6 @@ South Yarra sits at a crossroads of some of Melbourne's best inner suburbs. If y
 
 - **Toorak:** Walk south from Chapel Street up Toorak Road. It's a different world — quiet, leafy, high-end. The Toorak Village shops have antique dealers, bespoke tailors, and one of Melbourne's best bookshops in The Avenue. [Toorak guide →](/toorak/weekend-guide)
 
----
 
 ## The Practical Bit
 
@@ -188,7 +184,6 @@ South Yarra sits at a crossroads of some of Melbourne's best inner suburbs. If y
 | **Budget for a full weekend** | Brunch: $25–30pp. Shopping: up to you. Dinner: $60–100pp with wine. Drinks: $20–40pp. Garden walks: free. |
 | **Accessibility** | Chapel Street is flat and well-paved. Botanic Gardens have sealed paths. Como House has some steps in the garden. |
 
----
 
 ## The Verdict
 
@@ -198,13 +193,11 @@ The weekend works because it's contained. You can do everything in this guide on
 
 South Yarra doesn't beg for your attention. It knows you'll come back.
 
----
 
 *Got a favourite South Yarra spot we missed? Drop it in the comments — we update these guides based on what readers actually love.*
 
 *More Melbourne suburb guides: [Fitzroy](/fitzroy/weekend-guide) | [Carlton](/carlton/weekend-guide) | [St Kilda](/st-kilda/weekend-guide) | [Flemington](/flemington/weekend-guide)*
 
----
 
 **About the Author:** *Isabella Greco is the Seasonal Editor at MELBZ. She writes about where Melbourne eats, drinks, and wanders — no fluff, no filler, just the places worth your Saturday.*
 

@@ -1,6 +1,8 @@
 ---
 title: "Best Bars in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/best-bars.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "jess"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best bars in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["best"]
----
 ## The Best Bars in Fitzroy North
 
 This is your verified guide to the best bars in Fitzroy North for 2026.
@@ -20,7 +21,6 @@ If you've just moved here from [Fitzroy](/fitzroy/best-bars) proper, you'll noti
 
 Here are the bars worth your time — and your tab.
 
----
 
 ### 1. Long Play
 
@@ -35,7 +35,6 @@ The real magic of Long Play is the pacing. You never feel rushed. The staff read
 
 **Insider tip:** The back courtyard is gold on warm evenings but fills up fast. Aim for a 6pm arrival on Fridays if you want a seat without the wait.
 
----
 
 ### 2. The Terminus Hotel
 
@@ -50,7 +49,6 @@ The bistro does honest pub food. The parma is solid, the steak sandwich doesn't 
 
 **Insider tip:** Grab a seat by the front window on Sunday arvo. Brunswick Street foot traffic is free entertainment, and the people-watching from the Terminus is unbeatable.
 
----
 
 ### 3. Francesca's Bar
 
@@ -65,7 +63,6 @@ On weekends, Francesca's fills up with a mix of locals who've been coming for ye
 
 **Insider tip:** Wednesday nights often have reduced prices on Italian wines. It's not widely advertised, which is exactly why it's worth knowing about.
 
----
 
 ### 4. The Fitzroy Pinnacle
 
@@ -80,7 +77,6 @@ Thursday nights see a trivia crowd roll in, and weekends are peak session territ
 
 **Insider tip:** The front bar is the real experience. The bistro area is fine, but if you want the Pinnacle at its most Pinnacle, plant yourself at the bar and let the night unfold.
 
----
 
 ### 5. Bar Nancy
 
@@ -97,7 +93,6 @@ The space itself is small — maybe 30 seats — which works in its favour. It f
 
 **Insider tip:** Bar Nancy does a Tuesday night happy hour that's criminally underrated. Half-price wines by the glass and a small plates special that makes it the best value dinner in Fitzroy North.
 
----
 
 ### 6. Monty's
 
@@ -112,7 +107,6 @@ What makes Monty's special is the crowd. It's genuinely mixed — you'll see twe
 
 **Insider tip:** The back room DJs really hit their stride around midnight on Saturdays. If you want the full Monty's experience, arrive at 10pm and let the night carry you.
 
----
 
 ### 7. Kelvin Bar
 
@@ -127,7 +121,6 @@ The outdoor area faces St Georges Road and catches the afternoon light beautiful
 
 **Insider tip:** Kelvin's happy hour is one of the last honest ones in Melbourne. Check the chalkboard out front — they rotate deals weekly and some of them are genuinely generous.
 
----
 
 ### 8. Deco Wine Bar
 
@@ -142,7 +135,6 @@ The food is simple but well-executed: cheese and charcuterie boards, seasonal sm
 
 **Insider tip:** Deco does a "wine flight" option — three glasses of carefully chosen wines for $36. It's the best way to explore the list if you're unfamiliar with natural wines and want to dip your toe in without committing to a full bottle.
 
----
 
 ### 9. The Workers Club
 
@@ -157,7 +149,6 @@ Drinks are cheap by inner north standards. You can still get a beer for under $1
 
 **Insider tip:** Check their gig listing before heading down. The Workers Club books some genuinely impressive acts for a room this size — many touring bands play here as part of their Melbourne run.
 
----
 
 ### 10. Delphi Tavern
 
@@ -172,7 +163,6 @@ The Delphi draws a mixed crowd: Greek-Australian families who've been in the are
 
 **Insider tip:** Sunday lunch at the Delphi is a neighbourhood institution. Book ahead if you want the lamb kleftiko — it sells out, and when it's gone, it's gone.
 
----
 
 ## Getting Home Safe
 
@@ -186,7 +176,6 @@ Fitzroy North is well-served by public transport, but it pays to plan your route
 
 **If you need help:** Fitzroy Police Station is at 292 Smith Street, Fitzroy, and is open 24 hours. For emergencies, always call 000.
 
----
 
 ## Cross-Links
 

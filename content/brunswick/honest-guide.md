@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["brunswick", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Brunswick Honest Guide 2026: Sydney Road & Beyond
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Brunswick Honest Guide 2026: Sydney Road & Beyond"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Let's get this out of the way early: Brunswick is no..."
----
 # Brunswick Honest Guide 2026: Sydney Road & Beyond
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Let's get this out of the way early: Brunswick is not the quirky, affordable, bohemian haven that people who moved here in 2014 keep telling you it is. That Brunswick is gone. It's been replaced by something more complicated, more expensive, and — depending on your perspective — either more mature or more soul-crushing. This is the honest guide to what Brunswick actually is in 2026, what it offers, and what you should know before committing.
 
@@ -118,7 +121,6 @@ Cycling infrastructure has improved along the creek corridors but remains patchy
 
 Brunswick in 2026 is still one of Melbourne's most interesting suburbs. It's just not the underdog anymore. It's established, it's priced accordingly, and it's busy. Whether that's a good thing depends entirely on what you're looking for — and whether your budget agrees with your aspirations.
 
----
 
 *Love it or hate it, Brunswick has opinions about itself. Drop your honest Brunswick take below — we read everything.*
 
@@ -137,7 +139,6 @@ Share your favourite Brunswick spot that no guide has ever mentioned. Top voted 
 **Widget: 📬 WEEKLY BRUNSWICK BRIEFING**
 Get one email a week with what's opening, closing, and happening in Brunswick. No spam. No fluff. Just the suburb, straight up.
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 

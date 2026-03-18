@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Preston — 2026 Local Guide"
 cover_image: "/images/preston/best-brunch.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best brunch in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["best"]
----
 ## The Best Brunch in Preston
 
 Preston's brunch scene doesn't follow the Melbourne playbook. You won't find too many spots doing the standard $24 smashed avo on sourdough with a deconstructed latte on the side. What you will find is a suburb that treats brunch as an extension of its multicultural identity — Colombian arepas for brekkie, Turkish gözleme at the market, and a few all-day spots that remind you brunch doesn't have to involve a $19 grain bowl.
@@ -102,14 +103,12 @@ We didn't include any bottomless brunch options because Preston doesn't really d
 
 We also left out a few newer spots that haven't been open long enough to judge. We'll review them once they've settled in.
 
----
 
 **Explore more brunch guides nearby:**
 → [Best Brunch in Northcote — 20 min walk south](/northcote/)
 → [Best Brunch in Thornbury — 10 min walk](/thornbury/)
 → [Best Brunch in Reservoir — 5 min bike ride north](/reservoir/)
 
----
 
 *This guide was researched and written by the MELBZ team. Prices and hours are accurate as of March 2026 but should be confirmed before visiting. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

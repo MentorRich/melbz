@@ -5,12 +5,17 @@ date: 2026-03-16
 author: eli
 tags: ["st-kilda", "cafes", "food"]
 categories: ["food"]
-description: "Best Cafes in St Kilda 2026: Acland Street & Beachside
+description: "Best Cafes in St Kilda 2026: Acland Street & Beachside"
+---
 
-Updated 16 March 2026 | 6 places tested | Eli Chen reporting
+**Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
+
+
 
 St Kilda doesn't do boring cafes. Betwe..."
----
+
+*Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
+
 # Best Cafes in St Kilda 2026: Acland Street & Beachside
 
 *Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
@@ -19,7 +24,6 @@ St Kilda doesn't do boring cafes. Between the heritage cake shops on Acland Stre
 
 We spent three weeks walking the strip, ordering too many coffees, and eating our weight in sourdough to bring you this list. These are the six cafes we actually go back to — not the ones with the most Instagram followers, but the ones that nail it every single time.
 
----
 
 ## 1. Galleon Cafe
 
@@ -36,7 +40,6 @@ Galleon Cafe has been feeding St Kilda since 1984, and walking in feels like ste
 
 **Local tip:** Weekends fill up fast by 9am. Aim for a weekday visit or get there early for the full experience without the wait.
 
----
 
 ## 2. Monarch Cakes
 
@@ -53,7 +56,6 @@ Monarch Cakes is older than most of Melbourne's famous landmarks and infinitely 
 
 **Local tip:** Monarch does takeaway whole cakes if you want to bring a slice of St Kilda home. Order the cheesecake for weekend entertaining and watch your guests lose their minds.
 
----
 
 ## 3. Woodfrog Bakery
 
@@ -70,7 +72,6 @@ Woodfrog Bakery started in St Kilda in 2011 with one mission: to make the best s
 
 **Local tip:** They also have a store in [South Melbourne Market](/food/south-melbourne-market-cafes/), so if you're already exploring the southern bayside suburbs, you can grab a loaf there too. The [Elwood](/food/best-cafes-elwood/) and [Balaclava](/food/best-cafes-balaclava/) scenes owe a lot to Woodfrog raising the bar on what a neighbourhood bakery should be.
 
----
 
 ## 4. Sebby's Scrolls
 
@@ -87,7 +88,6 @@ Sebby's Scrolls started life in Caulfield South, where the queues became so lege
 
 **Local tip:** They sell out of popular flavours by early afternoon on weekends. If you've got your heart set on the cream cheese iced scroll, get there before 10am.
 
----
 
 ## 5. Hello Sparrow
 
@@ -104,7 +104,6 @@ Hello Sparrow is one of those cafes that doesn't need to shout. Chef Tj draws on
 
 **Local tip:** It's tucked just off Chapel Street, so it's slightly off the main tourist drag — which means shorter waits and a more local crowd. If you're visiting St Kilda from the [Balaclava](/food/best-cafes-balaclava/) end, it's an easy walk down.
 
----
 
 ## 6. The Wedge
 
@@ -121,7 +120,6 @@ Wedged between Acland Street and Carlisle Street, The Wedge brings something gen
 
 **Local tip:** The outdoor seats catch the morning sun perfectly. Grab a spot outside with a chai latte and people-watch your way through a slow Saturday.
 
----
 
 ## What We Skipped and Why
 
@@ -133,7 +131,6 @@ Wedged between Acland Street and Carlisle Street, The Wedge brings something gen
 
 **Sebby's Scrolls** almost got cut for being "just" a scroll shop — but the quality is so high and the Acland Street location so perfect that we couldn't leave it off. It earned its place.
 
----
 
 ## How St Kilda Compares to the Neighbourhoods
 
@@ -141,7 +138,6 @@ St Kilda's cafe scene sits in an interesting spot between its neighbours. Head s
 
 St Kilda's advantage? It's got the most character. The cafes here have history, personality, and a stubborn refusal to be anything other than what they are. You'll find better pastries in South Melbourne and more experimental menus in Balaclava, but nowhere else on the bay combines beachside lazy mornings, heritage cake shops, and retro milkbars quite like this.
 
----
 
 ## The Bottom Line
 
@@ -149,7 +145,6 @@ St Kilda isn't trying to be Fitzroy or Carlton. Its cafes aren't chasing Micheli
 
 Grab a tram down Acland Street, pick a spot, and settle in. St Kilda's cafes aren't going anywhere — and neither should you.
 
----
 
 **Related reads:**
 - [Best Cafes in Balaclava](/food/best-cafes-balaclava/) — The multicultural brunch strip you need to explore

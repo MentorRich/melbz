@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/best-brunch.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne has more brunch spots per square kilometre than anywhere in Melbourne. Here's where the 3121 crowd actually eats on weekends."
 tags: ["cremorne"]
 categories: ["best"]
----
 # Best Brunch in Cremorne — 2026 Local Guide
 
 Here's something that surprises people: Cremorne ranked number one in Melbourne for cafe density in the Domain Liveable Melbourne study, beating the CBD, Southbank, and South Melbourne. For a suburb you can walk across in fifteen minutes, that's absurd. And it means the brunch game here is stupidly competitive — only the good survive.
@@ -18,7 +19,6 @@ Cremorne's brunch scene is shaped by two forces: the tech workers who need coffe
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## 1. Baker Bleu
 **The vibe:** Melbourne's sourdough cult headquarters just got a flagship — and they added all-day dining to make sure you never leave.
@@ -32,7 +32,6 @@ But it's the all-day brunch that makes Baker Bleu the anchor of Cremorne weekend
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** The toasted sandwiches are exclusive to the Cremorne location — you can't get them at their other stores. The ham and cheese on their house sourdough is embarrassingly good for something so simple.
 
----
 
 ## 2. Top Paddock
 **The vibe:** The brunch institution that started Cremorne's café obsession. Still delivering, still packed, still worth the wait.
@@ -46,7 +45,6 @@ The space is generous, the coffee is faultless, and the seasonal menu means ther
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Arrive before 8:30am on weekends or expect a 20–30 minute wait. Alternatively, come at 2pm when the crowd thins and you can linger.
 
----
 
 ## 3. La Manna & Sons
 **The vibe:** Your Italian nonna's kitchen, if nonna had a warehouse space on Balmain Street and an Allpress espresso machine.
@@ -60,7 +58,6 @@ Wani Sak and Melinda Aloisio opened the original 1983 Espresso on Cremorne Stree
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–3pm, Sun closed
 **Insider tip:** Grab a focaccia to go before 10am — they sell out most days, and once they're gone, they're gone.
 
----
 
 ## 4. Café Decjuba x St. Ali
 **The vibe:** Corner café where the $4.50 coffee is genuinely excellent and the ham and cheese croissant has no right to be that good.
@@ -74,7 +71,6 @@ It's not trying to reinvent brunch. It's just doing the basics at a level that e
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–2pm
 **Insider tip:** The outdoor tables on the Cubitt Street corner get the morning sun perfectly. Perfect for people-watching the Cremorne morning rush.
 
----
 
 ## 5. My Oh My Espresso
 **The vibe:** Early-morning espresso bar on Swan Street that opens at 6am and doesn't judge you for showing up in yesterday's clothes.
@@ -88,7 +84,6 @@ The coffee is consistently good, the vibe is unpretentious, and the fact that it
 **Hours:** Mon–Fri 6am–6pm, Sat–Sun 7am–6pm
 **Insider tip:** The 6am weekday opening is no joke — by 7:30am there's a genuine queue. Come at 6:45am for the sweet spot of excellent coffee and no wait.
 
----
 
 ## 6. Hunted+Gathered
 **The vibe:** Part café, part bean-to-bar chocolate factory, entirely intoxicating. The air alone is worth the visit.
@@ -102,7 +97,6 @@ It's not a full brunch destination — you won't get a three-course Saturday fee
 **Hours:** Mon–Fri 7:30am–3:30pm, Sat 8:30am–3:30pm
 **Insider tip:** Ask for the drinking chocolate flight if it's available — it's not always on the menu, but when it is, it's three different cacao origins side by side. Changed this writer's understanding of chocolate.
 
----
 
 ## 7. Cheeky Monkey
 **The vibe:** The all-day brunch spot where the portions are generous, the vibe is loud, and nobody's pretending to be somewhere else.
@@ -116,7 +110,6 @@ It's the anti-influencer brunch. Nobody's here for the photos. They're here beca
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 7:30am–3:30pm
 **Insider tip:** Sit in the back courtyard if the weather's playing nice — it's quieter than the front and catches the mid-morning sun.
 
----
 
 ## What We Skipped and Why
 
@@ -126,7 +119,6 @@ It's the anti-influencer brunch. Nobody's here for the photos. They're here beca
 
 **Square One Coffee Roasters** — Their Cremorne roastery isn't a public café. They've just opened a flagship cafe at the Rialto in the CBD, which is the one you can actually visit. We'll cover it if they open a retail space in 3121.
 
----
 
 ## The Bottom Line
 
@@ -136,7 +128,6 @@ And if someone tells you Cremorne is "just offices," take them to any of these o
 
 **Your Cremorne Vibe Score this week: 79/100** — Weekend brunch in 3121 hits differently than the Chapel Street queues.
 
----
 
 *Know a spot we missed? Let us know.*
 

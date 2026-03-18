@@ -5,12 +5,17 @@ date: 2026-03-16
 author: yuki
 tags: ["prahran", "asian", "food"]
 categories: ["food"]
-description: "Best Asian Food in Prahran 2026: Greville & Chapel
+description: "Best Asian Food in Prahran 2026: Greville & Chapel"
+---
 
-Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
+**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
+
+
 
 Prahran doesn't get the same love as Ric..."
----
+
+*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
+
 # Best Asian Food in Prahran 2026: Greville & Chapel
 
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
@@ -19,7 +24,6 @@ Prahran doesn't get the same love as Richmond for Vietnamese or Box Hill for dum
 
 I've spent the past three weeks eating my way through Greville, Chapel, and the streets between them. Six places made the cut. A few didn't. Here's the honest breakdown.
 
----
 
 ## 1. Huong Viet — The One the Locals Protect
 
@@ -36,7 +40,6 @@ Their bánh mì ($9.50) is excellent value: proper crusty baguette, pâté, pick
 
 **Insider tip:** Go before 12pm on weekdays and you'll mostly find Prahran office workers and tradies who've been coming here for years. That's the seal of approval that matters more than any rating.
 
----
 
 ## 2. Sushi Monger — Fresh Enough to Rival the Inner North
 
@@ -55,7 +58,6 @@ Their bento boxes ($16–$22) are the weekday move — rice, miso, tempura or sa
 
 **Insider tip:** They do a lunch special Monday to Friday that knocks $4 off most mains. Grab a seat by the window and watch Greville Street do its thing.
 
----
 
 ## 3. Spice Alley Prahran — The South East Asian Kitchen That Got It Right
 
@@ -74,7 +76,6 @@ Char kway teow ($20) arrives with the wok hei you want — that smoky, slightly 
 
 **Insider tip:** Tuesday nights are quiet, which means you get the full kitchen attention and faster service. The weekend wait can stretch to 30+ minutes with no bookings.
 
----
 
 ## 4. Dodee Korean Fried Chicken — Loud, Crispy, Unapologetic
 
@@ -93,7 +94,6 @@ Their tteokbokki ($15) — chewy rice cakes in a gochujang sauce — is good but
 
 **Insider tip:** Wednesday night = half-price chicken after 9pm. It gets rowdy. This is a feature, not a bug.
 
----
 
 ## 5. Song Kitchen — Thai That Respects the Balance
 
@@ -114,7 +114,6 @@ The som tum (green papaya salad, $14) is sharp and crunchy and does exactly what
 
 **Insider tip:** They do a $35 per person sharing menu on weekends that covers five dishes. It's the best value Thai dinner you'll find on this side of Chapel Street. Book ahead though — Song fills up fast on Friday and Saturday.
 
----
 
 ## 6. Dumplings Plus — The Greville Street Institution
 
@@ -133,7 +132,6 @@ Their noodle soups ($16–$19) are the winter option — the beef brisket noodle
 
 **Insider tip:** Cash is still king here for the dumpling prices, though they do take card now. The fried dumplings are better than the steamed — the crispy bottom is where it's at. Get there before 12:30pm to avoid the lunch rush.
 
----
 
 
 ## Venue Addresses & Details
@@ -153,7 +151,6 @@ Every suburb listicle has places people expect to see. Here's why certain Prahra
 
 **Any place I couldn't visit twice.** If I only ate somewhere once, it doesn't get a spot here. The six places above all got at least two visits over three weeks — that's the minimum to judge consistency, which is the thing that actually matters more than any single great meal.
 
----
 
 
 ## Venue Addresses & Details
@@ -173,7 +170,6 @@ If you're coming from the city, the **Tram 78** runs down Chapel Street and stop
 
 **Parking:** If you're driving, Prahran Square has an underground car park ($4.50/hr). Street parking on Greville is metered and tight after 5pm. Side streets off Greville near the Prahran High School end are your best bet for free parking after 6pm.
 
----
 
 
 ## Venue Addresses & Details
@@ -191,7 +187,6 @@ The [Armadale](/armadale) dining scene is also worth exploring if you want somet
 
 Prahran's vibe score has been climbing steadily this year, and the food scene is a big part of why. The Greville Street strip in particular feels like it's found its rhythm — enough variety to eat somewhere new every week for a month, but not so much that any single place coasts on volume.
 
----
 
 
 ## Venue Addresses & Details
@@ -207,7 +202,6 @@ Prahran won't replace Richmond for Vietnamese or Box Hill for dumplings, and it 
 
 The sweet spot? Dumplings Plus for a $12 lunch that fills you up, Song Kitchen for a $35 dinner that impresses, and Dodee for a Wednesday night half-price chicken that turns into a night out.
 
----
 
 *Have we missed your Prahran Asian food spot? Tell us about it — we're always eating, always updating.*
 

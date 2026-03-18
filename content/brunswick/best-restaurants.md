@@ -1,6 +1,8 @@
 ---
 title: "Best Restaurants in Brunswick — 2026 Local Guide"
 cover_image: "/images/brunswick/best-restaurants.jpg"
+---
+
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "jules"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best restaurants in Brunswick for 2026. 400 Gradi, Tiba's, Basco, Rumi, Madonna Electric, and the dining rooms that make Sydney Road and Lygon Street Melbourne's best food strip."
 tags: ["brunswick"]
 categories: ["best"]
----
 # Best Restaurants in Brunswick — The 2026 Guide
 
 Brunswick doesn't have a single food identity and that's exactly the point. Within the one suburb you'll find Neapolitan pizza certified by the Associazione Verace Pizza Napoletana, Lebanese grills that have been running since the 1990s, modern Filipino fine-casual, and a Sicilian diner with plastic tablecloths that makes better pasta than half the Italian restaurants charging triple. The dining scene here isn't trying to be the next South Yarra or the next CBD. It's trying to be Brunswick — diverse, honest, and occasionally chaotic in the best possible way.
@@ -18,7 +19,6 @@ We ate at all of them. Twice. Here are the seven restaurants in Brunswick that a
 
 **Last updated: 17 March 2026** | **Brunswick Vibe Score: 78/100 🟢**
 
----
 
 ## 1. 400 Gradi — The Neapolitan Flag-Bearer
 
@@ -32,7 +32,6 @@ We ate at all of them. Twice. Here are the seven restaurants in Brunswick that a
 **Hours:** Mon–Thu 12pm–11pm, Fri–Sun 12pm–11pm
 **Insider tip:** Book ahead for Friday and Saturday — walk-ins face a 30–45 minute wait. The Lygon Street location puts it squarely in [Brunswick East](/brunswick-east) territory, making it the natural anchor for a Lygon Street dinner crawl that could include pizza at Gradi, then wine and small plates at [Bar Idda](/brunswick-east) up the road.
 
----
 
 ## 2. Tiba's Lebanese Restaurant — The Sydney Road Institution
 
@@ -46,7 +45,6 @@ Tiba's is not trying to win design awards. The lighting is fluorescent, the tabl
 **Hours:** Daily, 11am–11pm
 **Insider tip:** Tiba's is a perfect post-pub meal after The Retreat or The Bergy Seltzer — it's further up Sydney Road and open late. The takeaway counter at the front is separate from the sit-down restaurant and runs faster if you're in a rush. If you're heading to [Coburg](/coburg) for the Preston Market, Tiba's is a natural stop on the way north.
 
----
 
 ## 3. Basco — The Filipino Breakout
 
@@ -60,7 +58,6 @@ Basco took a cuisine that Melbourne had largely ignored and made it unmissable. 
 **Hours:** Wed–Sat, 5:30pm–10pm; Sun, 12pm–3pm
 **Insider tip:** Book at least three days ahead for weekend dinner. Walk-ins are possible on Wednesday and Thursday but risky. Basco is BYO on certain nights — check before you bring a bottle. The lunch service on Sunday is the secret: same food, shorter wait, and you can walk to [Brunswick East](/brunswick-east) for dessert afterwards.
 
----
 
 ## 4. Rumi — The Middle Eastern Master
 
@@ -74,7 +71,6 @@ Rumi has been a Melbourne institution since 2006, and the move to East Brunswick
 **Hours:** Tue–Sun, 5:30pm–10pm
 **Insider tip:** Rumi is in Brunswick East, but no Brunswick dining guide is complete without it. The East Brunswick Village location is a 10-minute walk from Sydney Road, making it easy to combine with a pre-dinner drink at one of Brunswick's pubs. Bookings essential on weekends.
 
----
 
 ## 5. Madonna Electric — The Tiny Room That Punches Above Its Weight
 
@@ -88,7 +84,6 @@ Madonna Electric is Brunswick's answer to the "natural wine bar with serious foo
 **Hours:** Thu–Sat, 5:30pm–10pm; Sat lunch by request
 **Insider tip:** Madonna Electric is open three nights a week and books out fast. This is the date night restaurant of 2026 — intimate enough for conversation, interesting enough to talk about afterwards. It's in the same postcode vibe as [Fitzroy North](/fitzroy-north)'s quieter dining rooms, but with more Brunswick grit.
 
----
 
 ## 6. The Brunswick Mess Hall — The Group Dinner Champion
 
@@ -102,7 +97,6 @@ The Brunswick Mess Hall exists for the dinners where you've got eight people, th
 **Hours:** Daily, 5:30pm–11pm
 **Insider tip:** Book ahead for groups of six or more — walk-ins can wait a long time on weekends. The Mess Hall is one of the few Brunswick restaurants that handles a full sit-down dinner for twelve without falling apart. It's also close to [Brunswick East](/brunswick-east) if your group wants to continue the night on Lygon Street.
 
----
 
 ## 7. Bar Idda — The Sicilian Authentic
 
@@ -116,7 +110,6 @@ Bar Idda is the anti-fine-dining restaurant. The dining room looks like someone'
 **Hours:** Wed–Sun, 5:30pm–10pm
 **Insider tip:** Bar Idda is walk-in only and they don't take bookings. Arrive before 6:30pm on weekends or expect a wait. It's the perfect starting point for a Lygon Street dinner that continues at [400 Gradi](#1-400-gradi--the-neapolitan-flag-bearer) or [Rumi](#4-rumi--the-middle-eastern-master) — all three are within walking distance of each other in [Brunswick East](/brunswick-east).
 
----
 
 ## The Dinner Crawl That Makes Sense
 
@@ -128,7 +121,6 @@ Brunswick's dining geography works perfectly for a progressive dinner:
 
 **Total spend: roughly $65–85 per person** across three restaurants, three cuisines, and two streets. That's Melbourne dining at its best.
 
----
 
 ## The Bottom Line
 
@@ -136,7 +128,6 @@ Brunswick's restaurant scene in 2026 is one of Melbourne's most diverse and unde
 
 The dual-corridor geography (Sydney Road for the multicultural strip, Lygon Street for the Italian and new-wave dining) gives you more variety in a ten-minute walk than most suburbs offer in their entirety.
 
----
 
 **Your Brunswick Vibe Score this week: 78/100** — More cuisines per block than the United Nations cafeteria.
 
@@ -144,7 +135,6 @@ The dual-corridor geography (Sydney Road for the multicultural strip, Lygon Stre
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 *Also see: [Best Asian Food in Brunswick](/brunswick/best-asian-food) · [Cheap Eats in Brunswick](/brunswick/cheap-eats) · [Date Night in Brunswick](/brunswick/date-night) · [Brunswick East Restaurants](/brunswick-east/best-restaurants) · [Coburg Dining Guide](/coburg/best-restaurants) · [Fitzroy North Eats](/fitzroy-north/best-restaurants)*
 

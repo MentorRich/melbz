@@ -1,6 +1,8 @@
 ---
 title: "8 Best Coffee in Thornbury — Your 2026 Local Guide"
 cover_image: "/images/thornbury/best-coffee.jpg"
+---
+
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "The best coffee in Thornbury for 2026. Specialty roasters, single-origin pours, and baristas who actually care. No chain coffee here."
 tags: ["thornbury"]
 categories: ["general"]
----
 # 8 Best Coffee in Thornbury — Your 2026 Local Guide
 
 Melbourne takes its coffee seriously, and Thornbury takes it personally. You won't find a single Starbucks on this list — not because we're snobs (okay, maybe a little), but because Thornbury's café scene is built on independent operators who roast their own beans, dial in their grinders every morning, and will argue passionately about extraction times if you ask. Here's where your $4.50–$5.50 is best spent.
 
 **Last updated: 17 March 2026** | **Thornbury Vibe Score: 78/100 🟢**
 
----
 
 ## 1. Short Round
 **The vibe:** High Street's coffee temple, where the baristas treat every cup like a performance and the seasonal menu backs it up.
@@ -28,7 +28,6 @@ At 731 High Street, Short Round has built a reputation that extends well beyond 
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Ask what single-origin they're running — they change it often and the barista will have an opinion about which brewing method suits it best.
 
----
 
 ## 2. Rat the Cafe
 **The vibe:** A Wales Street backstreet gem where the coffee is specialty and the vibe is aggressively chill.
@@ -40,7 +39,6 @@ Rat sits on a quiet corner of Wales Street, and it's the kind of place you have 
 **Hours:** Wed–Sun 7:30am–3pm; Mon–Tue closed
 **Insider tip:** They do a natural wine selection for afternoon visits — Rat at 4pm with a pet-nat is an underrated Thornbury ritual.
 
----
 
 ## 3. Barton Fink
 **The vibe:** Morning coffee spot turned evening cocktail bar — both done with equal skill and zero pretension.
@@ -52,7 +50,6 @@ Barton Fink's morning coffee operation is seriously good. The beans are well-sou
 **Hours:** From 7:30am daily (café); bar from 5pm Wed–Sat
 **Insider tip:** They run cocktail masterclasses occasionally — follow their socials. The contrast between morning barista and evening mixologist is worth witnessing.
 
----
 
 ## 4. The Brickie & The Barista
 **The vibe:** A dual-concept space that takes its morning coffee as seriously as its afternoon drinks.
@@ -64,7 +61,6 @@ The Brickie & The Barista has a name that tells you everything: bricks and coffe
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** Ask about their seasonal single-origin rotation — they change beans regularly and the barista will tell you which brew method suits each one best.
 
----
 
 ## 5. Le Café Flo
 **The vibe:** European café culture where the café au lait is served properly and the pastries smell like a Parisian boulangerie.
@@ -76,7 +72,6 @@ Le Café Flo isn't just a café that happens to serve coffee — it's a café bu
 **Hours:** Wed–Mon 8am–3pm; Tue closed
 **Insider tip:** Their pastries sell out by 10am on Saturdays. Set an alarm or accept defeat.
 
----
 
 ## 6. Brother Alec
 **The vibe:** No-nonsense coffee at no-nonsense prices — $4.50 for a flat white that rivals places charging $6.
@@ -88,7 +83,6 @@ Brother Alec at 719 High Street is the anti-pretension café. The coffee is stro
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Weekday mornings before 9am are the sweet spot — quiet enough to enjoy your coffee without the weekend rush.
 
----
 
 ## 7. Thornbury Espresso Bar
 **The vibe:** The 1956 original, reborn during the pandemic — coffee heritage in a space that's seen decades of Melbourne mornings.
@@ -100,7 +94,6 @@ Thornbury Espresso Bar first opened its doors in 1956. It closed, sat dormant, a
 **Hours:** Mon–Fri 7:30am–4pm (café); bar events Fri–Sat evenings
 **Insider tip:** Their pop-up event nights are worth following — wine tastings, live jazz, and the occasional market. Coffee by day, culture by night.
 
----
 
 ## 8. Larks of Joy
 **The vibe:** A bright, cheerful café where the coffee is consistently strong and dietary needs are genuinely catered for.
@@ -112,7 +105,6 @@ Larks of Joy rounds out the list as the spot that does everything well without b
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Order ahead on their app for quick tram-side pickup. The 86 stop is right outside.
 
----
 
 ## The Bottom Line
 
@@ -120,12 +112,10 @@ Thornbury's coffee is as good as anywhere in the inner north — you just won't 
 
 **Your Thornbury Vibe Score this week: 78/100** — Coffee is a genuine Thornbury strength. The strip holds its own against [Northcote](/northcote) and [Brunswick](/brunswick) baristas without the price tag or the queue.
 
----
 
 *Know a spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Also in the area:**
 → [Best Cafes in Thornbury](/thornbury/best-cafes)

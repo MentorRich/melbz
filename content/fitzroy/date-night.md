@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/date-night.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "grace"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the date night in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["date"]
----
 ## Date Night in Fitzroy
 
 Fitzroy is one of Melbourne's best date suburbs because it's versatile. You can do cheap and casual or full-blown romantic, and neither feels out of place. The narrow streets, the warehouse spaces, the dimly lit bars — it's a suburb that was practically designed for courtship.
 
 Here's how to do date night in Fitzroy depending on your budget, your vibe, and how serious this date actually is.
 
----
 
 ## THE FOOD
 
@@ -52,7 +52,6 @@ Lebanese food is inherently shareable, which makes it ideal date food. Marhaba h
 
 **What to order:** Start with the hummus ($10) and fatoush ($12). Add the mixed grill ($28) and the rice pilaf ($8). Share a hookah on the terrace ($20) if the weather's right. Total: $75–$100 for two.
 
----
 
 ## THE DRINKS
 
@@ -80,7 +79,6 @@ If The Everleigh is the flashy option, Low Key is the casual one. It's a neighbo
 
 **What to order:** The espresso martini ($19) — Fitzroy, after all. Or a schooner of Local Mountain ($10) if you're keeping it simple. The rooftop has views across to the city and it's free of the pretension that plagues some Fitzroy bars.
 
----
 
 ## THE ACTIVITY
 
@@ -98,7 +96,6 @@ If the date is going well and you want a low-pressure activity, the bookshops on
 
 For summer dates, Edinburgh Gardens is the move. Bring a blanket, a bottle of wine (BYO, no glass in the main area), and some snacks from Alimentari. Free, romantic, zero pressure. If there's a park event or outdoor cinema on, even better.
 
----
 
 ## DATE NIGHT PLANS — READY TO GO
 
@@ -114,7 +111,6 @@ Marion dinner ($70–$90pp) → The Everleigh cocktails ($60–$70pp). **Total: 
 ### Plan D: Summer Outdoor Date
 Edinburgh Gardens picnic ($15–$20 for supplies) → Moroccan Soup Bar for dinner ($30pp, BYO) — just over the Fitzroy North border. **Total: ~$25–$40 per person.**
 
----
 
 ## What We Skipped and Why
 
@@ -124,7 +120,6 @@ Edinburgh Gardens picnic ($15–$20 for supplies) → Moroccan Soup Bar for dinn
 
 **Fine dining over $150pp:** Fitzroy doesn't really do that scene. If you want that level, South Yarra and the CBD have options, but it's not this suburb's strength.
 
----
 
 ## Cross-Suburb Date Ideas
 
@@ -132,7 +127,6 @@ Edinburgh Gardens picnic ($15–$20 for supplies) → Moroccan Soup Bar for dinn
 - [Date Night in Carlton](/fitzroy/date-night) — Italian classics on Lygon Street
 - [Date Night in Fitzroy North](/fitzroy/date-night) — quieter, more neighbourhood feel
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Ideal date night budget for two?**
@@ -143,7 +137,6 @@ Edinburgh Gardens picnic ($15–$20 for supplies) → Moroccan Soup Bar for dinn
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-date-budget)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -152,7 +145,6 @@ Date-night friendliness is a major component of Fitzroy's vibe. Walkable streets
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's your go-to Fitzroy date spot?**
@@ -161,7 +153,6 @@ Spill it. Where do you take someone you actually like? We're all friends here.
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -170,7 +161,6 @@ Spill it. Where do you take someone you actually like? We're all friends here.
 - [Best Restaurants in Fitzroy](/fitzroy/best-restaurants) — more dining options
 - [Nightlife Guide in Fitzroy](/fitzroy/nightlife-guide) — if the date goes really well
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal and drink, and received no sponsorship or compensation. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

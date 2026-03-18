@@ -1,6 +1,8 @@
 ---
 title: "Best Cafes in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/best-cafes.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best cafes in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["best"]
----
 # The Best Cafes in Northcote — 2026 Edition
 
 **Updated 16 March 2026 | Dani reporting**
@@ -18,7 +19,6 @@ Northcote's cafe scene is what happens when a suburb decides it's not going to c
 
 The inner north runs on coffee and the Northcote strip delivers. From the old-school Greek bakeries still pulling $3.50 flat whites to the specialty roasters charging $5.50 for a pour-over that changes your understanding of what coffee can be, this guide covers the places that are actually worth your time and your morning.
 
----
 
 ## 1. Code Black Coffee Roasters — The Roastery Cafe
 
@@ -38,7 +38,6 @@ The space is designed for lingering. Power outlets at every table, fast Wi-Fi, a
 
 > **Insider tip:** The back courtyard gets full sun from 10am and has about eight seats. It's always quieter than the front and the vibe is more "relaxed Sunday" than "Monday morning panic."
 
----
 
 ## 2. Maling Room — The Corner Institution
 
@@ -56,7 +55,6 @@ The food is where Maling Room earns its reputation. The ricotta hotcakes ($20) a
 
 **Insider tip:** The weekday lunch menu is a different beast from the weekend brunch. The toasted sandwich special (changes daily, usually around $14) is the kind of simple, well-executed food that reminds you cafes don't need to be complicated to be good.
 
----
 
 ## 3. Sensory Lab — The Coffee Purists
 
@@ -74,7 +72,6 @@ The food offering is minimal: a few pastries, maybe a toastie. Come here for the
 
 **Insider tip:** They run occasional "cupping" events (free, Saturday mornings) where you can taste six different coffees side by side. Sign up on their Instagram — spots fill fast but the experience is worth it if you care at all about what you're drinking.
 
----
 
 ## 4. Tuleli — The Italian Cafe-Deli Hybrid
 
@@ -92,7 +89,6 @@ The coffee is good — they use a local Victorian roaster and the flat white is 
 
 **Insider tip:** The deli counter does a "panino of the day" that costs $12 and is always made with whatever's freshest. It's not on the menu — you have to ask. It's the best $12 lunch on High Street.
 
----
 
 ## 5. Patricia's Bakehouse — The Time Capsule
 
@@ -110,7 +106,6 @@ The pastries are the real draw. Spanakopita ($4), tiropita ($4), and the baklava
 
 **Insider tip:** Grab a flat white and a spanakopita for under $8 and eat it on the bench outside. It's the cheapest, most satisfying breakfast on High Street and you'll feel like a genuine Northcote local rather than a visitor.
 
----
 
 ## The Cafe Map at a Glance
 
@@ -122,7 +117,6 @@ The pastries are the real draw. Spanakopita ($4), tiropita ($4), and the baklava
 | Tuleli | Italian brunch + deli browsing | ~$28 | Courtyard yes | Courtyard only |
 | Patricia's | Cheap and cheerful bakery | ~$8 | Street front yes | No |
 
----
 
 **POLL: What makes a cafe a "regular" spot for you?**
 
@@ -134,7 +128,6 @@ The pastries are the real draw. Spanakopita ($4), tiropita ($4), and the baklava
 
 *Cast your vote @melbzcomau with #NorthcoteCafes*
 
----
 
 **NEIGHBOURING SUBURBS: Expand Your Cafe Map**
 
@@ -144,7 +137,6 @@ The pastries are the real draw. Spanakopita ($4), tiropita ($4), and the baklava
 - ☕ [Best Cafes in Fitzroy North](/fitzroy-north/best-cafes) — "Where Northcote's south end meets the original brunch strip"
 - ☕ [Best Cafes in Brunswick](/brunswick/best-cafes) — "Lygon Street and beyond — the Italian coffee legacy continues"
 
----
 
 **CONFESSION BOX 🗣️**
 
@@ -152,7 +144,6 @@ The pastries are the real draw. Spanakopita ($4), tiropita ($4), and the baklava
 
 The winner: "A bloke comes in every morning at 7:15 and orders a long black with exactly one-third of the cup filled with boiling water, then tops it up with cold milk from the fridge. He says it's 'efficient.' We don't argue. He's been coming for four years."
 
----
 
 **Living in Northcote? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=northcote)**
 

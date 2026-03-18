@@ -5,12 +5,11 @@ date: 2026-03-18
 author: marcus
 tags: ["southbank", "transport-guide"]
 categories: ["transport"]
-description: "Updated 18 March 2026 | Property Editor
-
- Transport Guide for Southbank
-
-Southbank's transport network is a model of urban connectivity, perfectly complement..."
+description: "Transport Guide for Southbank"
 ---
+
+*description: "18 March 2026 | Property Editor"*
+
 
 ### Getting Around Southbank
 

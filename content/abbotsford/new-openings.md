@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Abbotsford — 2026 Local Guide"
 cover_image: "/images/abbotsford/new-openings.jpg"
+---
+
 suburb: "abbotsford"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the new openings in Abbotsford. Our verified 2026 guide covers the best spots for locals."
 tags: ["abbotsford"]
 categories: ["new"]
----
 ## The Best New Openings in Abbotsford
 
 Abbotsford has always been the quiet achiever of Melbourne's inner east. While neighbouring Collingwood grabs headlines for every new warehouse conversion and Fitzroy getsCredit for every cutting-edge dining concept, Abbotsford has been steadily evolving — adding new venues, hosting emerging talent, and doing it all with the kind of understated confidence that says "we don't need a PR campaign."
@@ -18,7 +19,6 @@ But 2025 and into 2026, the quiet evolution has turned into something harder to 
 
 Here's what's new, what's worth your attention, and what's changed in Abbotsford recently.
 
----
 
 ### Molli: The Restaurant That Put Abbotsford on the Fine-Dining Map
 
@@ -32,7 +32,6 @@ What sets Molli apart is the wine list. It's not just "good for a neighbourhood 
 
 **Budget:** Mains $28–$48. Worth every cent.
 
----
 
 ### Range: Johnston Street's New Guard
 
@@ -46,7 +45,6 @@ What makes Range interesting from a "new openings" perspective is what it signal
 
 **Budget:** Cocktails $18–$22. Wines from $14.
 
----
 
 ### The Craft Beer Renaissance: Bodriggy and Beyond
 
@@ -58,7 +56,6 @@ The broader craft beer scene along the Collingwood-Abbotsford border has also ex
 
 **The word from locals:** "Bodriggy is where you go when you want good beer without the craft beer wank."
 
----
 
 ### The Convent Precinct: Always Evolving
 
@@ -70,7 +67,6 @@ What's particularly interesting about the Convent precinct in 2026 is the growin
 
 **The word from locals:** "The Convent is the heart of Abbotsford. Everything else orbits around it."
 
----
 
 ### Victoria Street: The Vietnamese Food Corridor Gets Fresh
 
@@ -82,7 +78,6 @@ What's exciting about the Victoria Street evolution is that it's being driven by
 
 **The word from locals:** "Victoria Street just keeps getting better. The new generation of Vietnamese-Australian operators are doing incredible things."
 
----
 
 ### What's Coming Next
 
@@ -98,7 +93,6 @@ Abbotsford's trajectory in 2026 is pointing firmly upward. The suburb benefits f
 
 Expect to see more wine bars, more specialty food concepts, more creative spaces, and more evening options as the residential population grows and the suburb's cultural infrastructure catches up to its potential.
 
----
 
 ### The Neighbourhood Effect: Collingwood, Richmond, Fitzroy
 
@@ -112,7 +106,6 @@ Fitzroy's Brunswick Street and Gertrude Street are 15 minutes' walk from the hea
 
 The result is that a night out or a weekend in Abbotsford can seamlessly extend into three or four suburbs without ever needing a tram, train, or rideshare. That walkability is increasingly rare and increasingly valuable.
 
----
 
 ### New Openings Worth Your Time
 
@@ -122,7 +115,6 @@ Whether you're checking out Molli for a special dinner, exploring Range for Frid
 
 **Also explore:** [Collingwood new openings](/collingwood/new-openings) · [Richmond food guide](/richmond/best-restaurants) · [Fitzroy new openings](/fitzroy/new-openings)
 
----
 
 
 Living in Abbotsford? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=abbotsford)

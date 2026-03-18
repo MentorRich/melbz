@@ -5,19 +5,23 @@ date: 2026-03-16
 author: priya
 tags: ["richmond", "cheap-eats", "food"]
 categories: ["food"]
-description: "Cheap Eats Under $20 in Richmond 2026: Victoria Street & Beyond
+description: "Cheap Eats Under $20 in Richmond 2026: Victoria Street & Beyond"
+---
 
-Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting
+**Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
+
+
 
 Richmond has always been M..."
----
+
+*Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
+
 # Cheap Eats Under $20 in Richmond 2026: Victoria Street & Beyond
 
 **Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
 
 Richmond has always been Melbourne's worst-kept secret for budget-friendly eating. Victoria Street — or Little Saigon, as the locals properly call it — remains one of the last pockets of the inner east where a tenner still buys you a genuinely excellent meal. But the strip has shifted in the past year. Some old favourites have tightened portions, a couple of new spots have appeared, and prices have crept up everywhere (thanks, cost of living). So we walked the length of Victoria Street, ducked down Bridge Road, and ate our way through the best cheap eats Richmond has to offer. Every place on this list kept us under twenty bucks.
 
----
 
 ## 1. Nhu Lan Bakery — The Banh Mi Benchmark
 
@@ -32,7 +36,6 @@ The BBQ pork roll remains king, but the lemongrass chicken roll ($10) is the sle
 
 **Pro tip:** Go before 10am. The bread is at peak crispness, the queue moves faster, and you'll avoid the lunchtime scrum of Richmond workers who've discovered the same thing.
 
----
 
 ## 2. I Love Pho 264 — Victoria Street's Best Broth
 
@@ -47,7 +50,6 @@ The space is modest: plastic stools, fluorescent lighting, zero pretension. This
 
 **What to order:** Beef pho dac biet, with extra bean sprouts and a squeeze of lime. Add a side of Vietnamese spring rolls ($7 for four) if you're still hungry, and you'll still be well under twenty dollars.
 
----
 
 ## 3. Super Bowl Pho & Bun Bo Hue — The Spicy Alternative
 
@@ -62,7 +64,6 @@ Their standard beef pho ($14) is also solid — not quite at I Love Pho's level,
 
 **Atmosphere:** Family-run, no-nonsense, fast service. Open until 10pm, making it one of the best late-night cheap eats on Victoria Street.
 
----
 
 ## 4. Mister Minh — Bridge Road's Quiet Achiever
 
@@ -77,7 +78,6 @@ Mister Minh also does a "Bring It On" option where the kitchen selects your meal
 
 **Good to know:** The evening crowd is lively, and the restaurant earns a 4.2 rating on Uber Eats. Dine-in is better value than delivery, obviously, but it's a solid fallback for Richmond locals who can't be bothered leaving the house.
 
----
 
 ## 5. Thy Thy Counter & Canteen — Old-School Roots, Fresh Approach
 
@@ -94,7 +94,6 @@ Finish with a banh flan ($5) — Vietnam's answer to crème caramel — silky, c
 
 **Why it matters:** Thy Thy represents the next generation of Victoria Street dining — respectful of tradition but not afraid to modernise. It's also one of the few spots on the strip where you'd happily bring a visitor who's never had Vietnamese food before.
 
----
 
 ## 6. Phuoc Hung Bakery — The Quiet Contender
 
@@ -109,7 +108,6 @@ Where Phuoc Hung really shines is consistency. Every roll we've had — and we'v
 
 **Accessibility:** They take EFTPOS (a real plus on a strip where some places still prefer cash), and the queue rarely exceeds five minutes even at peak hour.
 
----
 
 ## Honourable Mentions
 
@@ -119,7 +117,6 @@ A few other Richmond spots that nearly made the cut:
 - **Van Mai** (Victoria Street) — A long-standing family restaurant with reliable rice plates and noodle soups. Nothing flashy, everything solid.
 - **N. Lee Bakery Cafe** — A modern banh mi spot with a broader café-style menu. Slightly pricier than the old-guard bakeries but good quality.
 
----
 
 ## What We Skipped and Why
 
@@ -131,7 +128,6 @@ Not everything on Victoria Street deserves your money, and being honest about th
 
 **Delivery-only ghost kitchens** that pop up on Uber Eats and DoorDash under various Vietnamese-sounding names were also excluded. If there's no physical shopfront, no queue, and no way to verify the food is being made fresh, it doesn't make our list. We're recommending places you can walk into, eat at, and judge with your own eyes.
 
----
 
 ## How Richmond Compares to the Neighbours
 
@@ -145,7 +141,6 @@ Richmond's cheap eats scene is tightly clustered around Vietnamese cuisine, whic
 
 The truth is, if you want the best value for your twenty dollars in Melbourne's inner east, Victoria Street in Richmond is still the undisputed champion. Nothing else comes close.
 
----
 
 ## The MELBZ Methodology
 
@@ -159,7 +154,6 @@ We don't do paid placements, and we don't write nice things because someone sent
 
 Prices were verified in March 2026 and may change. Some restaurants adjust seasonally.
 
----
 
 ## Quick Reference: Your $20 Cheat Sheet
 
@@ -172,7 +166,6 @@ Prices were verified in March 2026 and may change. Some restaurants adjust seaso
 | Thy Thy Counter | 60–66 Victoria St | Banh Xeo | $14 |
 | Phuoc Hung Bakery | 152 Victoria St | Lemongrass Tofu Banh Mi | $9 |
 
----
 
 **Priya Sandhu is the Food Editor at MELBZ. She has been eating her way through Melbourne's inner suburbs since 2019 and has strong opinions about bread-to-filling ratios.**
 

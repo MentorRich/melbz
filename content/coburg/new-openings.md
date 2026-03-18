@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Coburg 2026: What Just Landed on Sydney Road"
 cover_image: "/images/coburg/new-openings.jpg"
+---
+
 suburb: "coburg"
 vertical: "food"
 author: "oscar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "The latest new openings in Coburg for 2026 — new restaurants, cafes, bars, and shops that just arrived on Sydney Road and the Pentridge precinct."
 tags: ["coburg"]
 categories: ["new"]
----
 # New Openings in Coburg 2026: What Just Landed on Sydney Road
 
 Coburg is having a moment. While everyone's been watching Brunswick's endless cafe turnover and Preston's foodie renaissance, the strip between them has been quietly attracting a wave of new venues that are reshaping what Sydney Road offers. The Pentridge precinct development keeps delivering, side streets are popping with independent operators, and the old guard — the Turkish bakeries, the family-run Italian spots — are holding firm while new blood flows in.
@@ -18,7 +19,6 @@ Here's what's new, what's worth visiting, and what you need to know about Coburg
 
 **Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
 
----
 
 ## Beit Siti
 
@@ -32,7 +32,6 @@ The owner, Rahaf Al Khatib, describes it as a love letter to her family's food c
 **Hours:** Wed–Mon 8am–3pm, closed Tuesdays
 **First impression:** Go before 9am on weekends or expect a 30-minute queue. It's worth it.
 
----
 
 ## Gemini Melbourne
 
@@ -46,7 +45,6 @@ The fit-out is considered: moody lighting, curated playlists, interesting art, a
 **Hours:** Wed–Thu 4pm–11pm, Fri–Sat 4pm–1am, Sun 2pm–10pm
 **First impression:** This changes Coburg's evening landscape. Before Gemini, there wasn't really a bar that did "date night" and "casual drinks" equally well. Now there is.
 
----
 
 ## Two Franks
 
@@ -60,7 +58,6 @@ The coffee program is solid — sourced from local roasters and pulled carefully
 **Hours:** Tue–Sun 7am–3pm, closed Mondays
 **First impression:** Already has regulars after just a few months. That tells you everything.
 
----
 
 ## The Pentridge Precinct Expansion
 
@@ -78,7 +75,6 @@ The precinct is becoming a genuine dining and cultural destination, not just a r
 **Open:** Various hours depending on venue
 **First impression:** The bluestone architecture makes everything look better. A brewery in a former prison workshop is exactly the kind of Melbourne thing that actually works.
 
----
 
 ## 150 Bell Street
 
@@ -95,7 +91,6 @@ The development is still filling up, but the early signs are positive. It's brin
 **Address:** 150 Bell Street, Coburg VIC 3058
 **First impression:** Worth watching. The Bell Street corridor is the next frontier for Coburg development.
 
----
 
 ## What's Still Coming
 
@@ -105,7 +100,6 @@ A few openings announced but not yet confirmed for 2026:
 - **Sydney Road infill** — as rents remain lower than Brunswick, expect more small operators taking over former shopfronts along the strip
 - **Coburg North industrial-to-hospitality conversions** — the area around the Upfield line between Coburg and Coburg North is attracting interest from operators looking for larger spaces at lower rents
 
----
 
 ## The Bottom Line
 
@@ -115,7 +109,6 @@ The inner-north opening landscape is competitive: [Brunswick's new openings](/br
 
 **Your Coburg Vibe Score this week: 72/100** — New energy, old soul.
 
----
 
 *Know an opening we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

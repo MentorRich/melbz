@@ -1,16 +1,21 @@
 ---
-title: "Dog-Friendly Guide to Melbourne 2026: Parks, Cafes, and Everything for Your Pup"
+title: "Dog-Friendly Guide to Melbourne 2026: Parks, Cafes, and"
 cover_image: "/images/melbourne/dog-friendly-guide.jpg"
 date: 2026-03-16
 author: hannah
 tags: ["melbourne", "dogs", "pets", "parks"]
 categories: ["lifestyle"]
-description: "Dog-Friendly Guide to Melbourne 2026: Parks, Cafes, and Everything for Your Pup
-
-Updated 16 March 2026 | Hannah Levy reporting
-
-Melbourne has always been a c..."
+description: "Dog-Friendly Guide to Melbourne 2026: Parks, Cafes, and Everything for Your Pup."
 ---
+
+**Updated 16 March 2026 | Hannah Levy reporting**
+
+
+
+Melbourne has always been a c...
+
+*Updated 16 March 2026 | Hannah Levy reporting*
+
 # Dog-Friendly Guide to Melbourne 2026: Parks, Cafes, and Everything for Your Pup
 
 **Updated 16 March 2026 | Hannah Levy reporting**
@@ -19,7 +24,6 @@ Melbourne has always been a city that takes its coffee seriously. Turns out, we 
 
 Whether you've got a high-energy kelpie who needs to sprint, a staffy who lives for the social scene, or a senior greyhound who just wants a shady patch of grass and a bowl of water, this guide covers the parks, cafes, off-leash zones, and services that make Melbourne genuinely brilliant for dog owners in 2026.
 
----
 
 ## The Best Off-Leash Parks in Melbourne
 
@@ -57,7 +61,6 @@ If you're in the northern suburbs, Bundoora Park is the one. The off-leash area 
 
 South-east Melbourne's best-kept open secret (sorry, but it is). Karkarook Park has a proper fenced dog park with separate areas, dams for swimming, and walking trails through native bushland. It's run by the City of Kingston and they actually maintain the facilities — the fencing is solid, the bins are emptied, and the water bowls get cleaned.
 
----
 
 ## Dog-Friendly Cafes That Actually Welcome Dogs (Not Just Tolerate Them)
 
@@ -75,7 +78,6 @@ There's a difference between a cafe that says "dogs welcome" on their website an
 
 **Hardware Société, Melbourne CBD** — The tiny laneway seating out the front can fit a dog at your feet. It's tight, and they don't have a dedicated dog area, but the staff are genuinely welcoming. Worth the queue if you're in the CBD with your pup — just don't try to bring a Great Dane.
 
----
 
 ## Dog-Friendly Beaches
 
@@ -93,7 +95,6 @@ Wider sand, fewer crowds than St Kilda, and the iconic Brighton bathing boxes in
 
 If you're south-east, Frankston's off-leash beach is long, uncrowded, and the water is cleaner than the inner bayside spots. The off-leash area extends along the foreshore with plenty of space. Worth the 45-minute drive from the CBD if you want a proper beach day without the St Kilda circus.
 
----
 
 ## Pet Services Worth Knowing About
 
@@ -113,7 +114,6 @@ If you're south-east, Frankston's off-leash beach is long, uncrowded, and the wa
 
 **Camp K9, Richmond** — Full-day daycare from $55/day. They have webcams so you can watch your dog having the time of their life (or cowering in a corner, depending on temperament). Trial day required before booking.
 
----
 
 ## The Laws You Actually Need to Know
 
@@ -127,7 +127,6 @@ Melbourne's dog laws are set by individual councils, not the city as a whole, wh
 
 For a deeper dive into Melbourne's cost of living with a pet — registration fees, vet bills, food costs, and whether you can actually afford a dog on an inner-city salary — check out our [Melbourne Cost of Living Guide](/melbourne/cost-of-living/).
 
----
 
 ## Dog-Friendly Events and Markets
 
@@ -137,20 +136,17 @@ For a deeper dive into Melbourne's cost of living with a pet — registration fe
 
 **Lupin Markets, Camberwell** — The outdoor sections of the Camberwell Sunday Market are dog-friendly. It's tight and crowded, so better for small-to-medium dogs. Large dogs might find it overwhelming. The bargain hunters don't care — they're too busy fighting over vintage records.
 
----
 
 > ### 💬 CONFESSION BOX
 > *"I take my dog to more places than I take my friends. Last weekend I cancelled plans with three people because my dog wanted to go to the beach. I have no regrets." — Anonymous, Bayside*
 
----
 
 ## How Melbourne Compares to Other Aussie Cities for Dog Owners
 
 Melbourne does well, but it's not perfect. Sydney has more off-leash beaches, but worse public transport for dogs (Melbourne's trams are more dog-friendly than Sydney's trains). Brisbane has better weather year-round but fewer inner-city off-leash parks. Perth has incredible beaches but the city itself is less walkable with a dog.
 
-Melbourne's real advantage? The cafe culture. No other Australian city has this many cafes that genuinely welcome dogs with water bowls, treats, and staff who treat your pup like a regular customer. The downside: Melbourne's weather means outdoor seating is usable roughly six months of the year. The other six months, you're huddled under an umbrella with a flat white while your dog looks at you like "why do we live here?"
+Melbourne's real advantage? The cafe culture. No other Australian city has this many cafes that genuinely welcome dogs with water bowls, treats, and staff who treat your pup like a regular customer. The downside: Melbourne's weather means outdoor seating is usable roughly six months of the year. The other six months, you're huddled under an umbrella with a flat white while your dog looks at you like "why do we live here?
 
----
 
 > ### 🗳️ POLL: What's Melbourne's best dog park?
 > - Edinburgh Gardens, Fitzroy North
@@ -162,19 +158,16 @@ Melbourne's real advantage? The cafe culture. No other Australian city has this 
 >
 > **Vote below** 👇
 
----
 
 ## THE MOVE: The One Thing You Should Do This Weekend
 
 If you do nothing else from this guide, do this: take your dog to Royal Park on Sunday morning, do the full loop, then walk five minutes to the cafes on Sydney Road in Brunswick for brunch. The combination of open space, fresh air, and Brunswick's cafe scene is the closest thing to a perfect Melbourne dog day. Total cost: free park, $20–25 for brunch. Your dog will sleep for six hours straight afterwards. Trust me.
 
----
 
 ## Open Loop: But Wait, Is Your Suburb Actually Good for Dogs?
 
 Every Melbourne suburb has a different vibe — for humans AND for dogs. Some suburbs have three off-leash parks within walking distance. Others have... a nature strip and a prayer. If you're thinking about moving (or just curious about how your suburb stacks up), check out our [Suburb Vibe Scores](/suburb-vibe-scores/) — we're adding pet-friendliness data to every suburb page in 2026. Your suburb's score might surprise you.
 
----
 
 ## The Bottom Line
 
@@ -184,7 +177,6 @@ Your dog doesn't care about your Instagram feed or your suburb's Vibe Score. The
 
 Now go take them outside. They've been waiting.
 
----
 
 > ### 👍👎 WAS THIS GUIDE HELPFUL?
 > This article helped me find new spots: 👍
@@ -192,7 +184,6 @@ Now go take them outside. They've been waiting.
 >
 > **Rate this guide** and help us make it better for next time.
 
----
 
 *Updated 16 March 2026 | Hannah Levy reporting*
 *Have a dog-friendly venue we should add? Submit a tip and we'll check it out.*

@@ -1,6 +1,8 @@
 ---
 title: "10 Best Bars in Carlton You Need to Try in 2026"
 cover_image: "/images/carlton/best-bars.jpg"
+---
+
 suburb: "carlton"
 vertical: "lifestyle"
 author: "jess"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best bars in Carlton for 2026 — rooftop drinks, wine bars, cocktail lounges, and neighbourhood pubs. Real venues, real prices, honest reviews."
 tags: ["carlton"]
 categories: ["best"]
----
 # 10 Best Bars in Carlton You Need to Try in 2026
 
 Carlton isn't Fitzroy. It doesn't do warehouse parties, hidden speakeasies behind fake bookshelves, or cocktails served in miniature bathtubs. What it does is something more considered: grown-up drinking done properly. Long Italian dinners that roll into amaro nightcaps, rooftop bars with city views and Italo disco on the speakers, neighbourhood pubs where the owner knows your name, and wine bars where the list is deeper than your Spotify library.
@@ -18,7 +19,6 @@ The bar scene in Carlton in 2026 is anchored by its Italian heritage but stretch
 
 **Last updated: 17 March 2026** | **Carlton Vibe Score: 87/100** 🟢
 
----
 
 ## 1. Johnny's Green Room
 **The vibe:** Italian-beach-club energy on a rooftop overlooking Carlton — the undisputed king of Carlton's bar scene
@@ -31,7 +31,6 @@ Perched on the roof of the King and Godfree building on Lygon Street, Johnny's G
 **Price range:** $15–$25 per drink, $15–$22 food
 **Insider tip:** Sunday arvo sessions at Johnny's are the secret best time — same rooftop, same views, but the weekend-queuing crowd has gone home. Grab a table at 3pm and watch the sunset over the city.
 
----
 
 ## 2. Gerald's Bar
 **The vibe:** The neighbourhood wine bar that every suburb wishes it had — zero pretension, excellent wines, and a menu that changes daily
@@ -44,7 +43,6 @@ Gerald's Bar on Rathdowne Street is one of Melbourne's most loved neighbourhood 
 **Price range:** $20–$40pp for food and wine
 **Insider tip:** There's no menu online — you have to show up. That's the charm. Trust the staff's recommendations and order three dishes between two. You won't be disappointed.
 
----
 
 ## 3. The John Curtin Hotel
 **The vibe:** Bob Hawke's old local turned rock 'n' roll institution — bands upstairs, DJs downstairs, and Sonny's diner for the late-night feed
@@ -57,7 +55,6 @@ The Curtin is a Carlton legend. Named after Australia's wartime Prime Minister (
 **Price range:** $12–$22
 **Insider tip:** Check the gig listing before you go. A Tuesday night with a band you've never heard of often turns into the best night of your week. The upstairs room is small and intimate — get there early.
 
----
 
 ## 4. Bar Bellamy
 **The vibe:** Is it a cocktail bar? A wine bar? A bistro? Yes. And the Martinis are outstanding.
@@ -70,7 +67,6 @@ Bar Bellamy defies easy categorisation, and that's exactly the point. On Lygon S
 **Price range:** $18–$35pp
 **Insider tip:** Sit at the bar if you're alone or a couple. The bartenders are excellent conversationalists and you'll learn something about Martinis you didn't know.
 
----
 
 ## 5. Fossey's Distillery Lygon
 **The vibe:** Carlton's own distillery — house-made gin, whisky, and cocktails you won't find anywhere else
@@ -83,7 +79,6 @@ Fossey's started in Mildura and brought its distilling operation to Lygon Street
 **Price range:** $16–$25 per cocktail, $14–$24 food
 **Insider tip:** The gin flight is the move if you're visiting for the first time. Try all three, pick your favourite, then order a full cocktail with it. The staff love talking about their spirits.
 
----
 
 ## 6. Carlton Wine Room
 **The vibe:** A Victorian-era building reimagined as a European-influenced wine bar and restaurant — class without the stiffness
@@ -96,7 +91,6 @@ Housed in a beautiful Victorian building on Lygon Street, Carlton Wine Room is o
 **Price range:** $25–$55pp
 **Insider tip:** The front window table is the best seat in the house on a Friday evening. Book it specifically.
 
----
 
 ## 7. The Green Man's Arms
 **The vibe:** A pub that looks like a pub, acts like a pub, but serves an entirely plant-based menu — and nobody notices
@@ -109,7 +103,6 @@ The Green Man's Arms on Lygon Street is one of Melbourne's best-kept secrets for
 **Price range:** $18–$28
 **Insider tip:** Bring the friend who says "I'd never eat vegan food." Convert them with the schnitzel. You're welcome.
 
----
 
 ## 8. Marama
 **The vibe:** Community-focused pub with a five-kilometre sourcing radius — local beer, local wine, local everything
@@ -122,7 +115,6 @@ Marama is a pub that takes "local" seriously. The drinks list features exclusive
 **Price range:** $14–$30
 **Insider tip:** Wednesday nights often feature winemaker or brewer meet-and-greets. Check their socials — it's a great way to discover something new and meet the people who made it.
 
----
 
 ## 9. The Lincoln
 **The vibe:** A 19th-century gastropub with one of Melbourne's best bistro menus — the schnitzel with chicken butter is not optional
@@ -135,7 +127,6 @@ The Lincoln on Cardigan Street is a proper gastropub in the best sense of the te
 **Price range:** $18–$38
 **Insider tip:** The set menu on Thursday evenings ($45pp for four courses) is outstanding value. Book ahead — it's popular with locals who know.
 
----
 
 ## 10. Prince Alfred Hotel
 **The vibe:** Right opposite the university, Prince Alfred is the pub that launched a thousand missed lectures — and a lush rooftop bar
@@ -148,7 +139,6 @@ Prince Alfred is a classic student pub make betterd by one of Carlton's best roo
 **Price range:** $12–$25
 **Insider tip:** The rooftop is the real draw, but it fills up on sunny Friday arvos. Arrive by 3pm to snag a table, or take your chances later and stand with a beer in the sun.
 
----
 
 
 ## Venue Addresses & Details
@@ -168,7 +158,6 @@ Carlton's bar scene is concentrated along Lygon Street and the surrounding stree
 - **Walking:** If you're heading to the CBD, the walk down Lygon Street to Swanston Street takes about 15 minutes. Well-lit, populated, and safe.
 - **Nearest police station:** Carlton Police Station, 258 Nicholson Street, Carlton. Open 24/7.
 
----
 
 
 ## Venue Addresses & Details
@@ -184,13 +173,11 @@ Carlton's bar scene is about quality over quantity. You won't find 50 bars on on
 
 **Your Carlton Vibe Score this week: 87/100** — good drinks, good company, and zero pretension.
 
----
 
 *Know a spot we missed? [Let us know.](/submit)*
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ## 🔗 Related Reading
 
@@ -200,7 +187,6 @@ Carlton's bar scene is about quality over quantity. You won't find 50 bars on on
 - [What's On in Fitzroy](/fitzroy)
 - [Best Bars in Carlton North](/carlton-north)
 
----
 
 ## 📊 Quick Stats
 

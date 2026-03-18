@@ -5,10 +5,10 @@ date: 2026-03-16
 author: ethan
 tags: ["south-yarra", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in South Yarra 2026: Where to Eat After 10pm
+description: "Late Night Food in South Yarra 2026: Where to Eat After 10pm."
+---
 
 It's 10:30pm on a Friday. You've just left a packed bar on Chapel Street, the Ubers are surging..."
----
 # Late Night Food in South Yarra 2026: Where to Eat After 10pm
 
 It's 10:30pm on a Friday. You've just left a packed bar on Chapel Street, the Ubers are surging, and your stomach is staging a full revolt against the two drinks and zero dinner you've had. South Yarra after dark is a different suburb — the brunch crowd disappears, the bouncers take over, and a much smaller set of kitchens keep their lights on for people like you.
@@ -17,7 +17,6 @@ We spent two weeks eating our way through South Yarra's late-night options. Eigh
 
 > **Updated 16 March 2026 | 8 places tested | Ethan Cross reporting**
 
----
 
 ## THE MOVE: Your Cheat Sheet for Tonight
 
@@ -33,7 +32,6 @@ We spent two weeks eating our way through South Yarra's late-night options. Eigh
 
 </div>
 
----
 
 ## 1. France-Soir — The Midnight Bistro
 
@@ -52,7 +50,6 @@ The critical thing here is that France-Soir serves its full menu right up to 11p
 
 > 🔔 **URGENCY BANNER:** Friday and Saturday nights don't take bookings for tables under 4. Walk in before 11pm or prepare to wait.
 
----
 
 ## 2. Chapelli's — The 24-Hour Institution
 
@@ -69,7 +66,6 @@ The outdoor seating along Chapel Street is worth grabbing if the weather's good 
 
 **Verdict:** Not where you go for culinary excellence. Where you go when everything else is closed and you still need to eat.
 
----
 
 ## 3. Chez Olivier Le Bistro — The Late-Night Splurge
 
@@ -86,7 +82,6 @@ Mains run $38–$65, and you'll want a drink from the cocktail or wine list, whi
 
 **Verdict:** Best sit-down option if you want the evening to feel like an event. Not cheap, but worth it when the occasion fits.
 
----
 
 ## 4. Yūgen Dining — The Underground Supper Club
 
@@ -109,7 +104,6 @@ Bookings are essential on weekends. The music gets louder as the night progresse
 > - C) Atmosphere — I want the whole experience
 > - D) I'm asleep by 10pm, what is this article
 
----
 
 ## 5. Lamb on Chapel — The Post-Bar Souvlaki
 
@@ -126,7 +120,6 @@ Friday and Saturday until 2am. Earlier close on weeknights. If you're in the are
 
 **Verdict:** The Chapel Street late-night classic. Fast, affordable, and exactly what you need at that hour.
 
----
 
 ## 6. 48h Pizza e Gnocchi Bar — Award-Winning Pizza Till Late
 
@@ -145,7 +138,6 @@ It sits slightly off the Chapel Street main drag on Malvern Road, which means it
 
 > **🔗 Related reading:** Planning your full evening? Check our guide to [the best bars on Chapel Street](/south-yarra/chapel-street-bars) to plan the before and after around your late dinner.
 
----
 
 ## 7. Chubby Chef Kebab — The No-Nonsense Takeaway
 
@@ -162,7 +154,6 @@ Available on Uber Eats and DoorDash for delivery if you're already home and don'
 
 **Verdict:** Solid, affordable, and perfectly positioned between Lamb on Chapel and Chapelli's on the late-night strip.
 
----
 
 ## 8. The Yarra Indian — Late-Night Curry on Toorak Road
 
@@ -179,7 +170,6 @@ It's not glamorous. The fit-out is basic. But at 10:30pm on a Tuesday when you w
 
 **Verdict:** The affordable late-night option that doesn't sacrifice on portion size or flavour. Just mind the 11pm close.
 
----
 
 ## What We Skipped and Why
 
@@ -191,12 +181,10 @@ It's not glamorous. The fit-out is basic. But at 10:30pm on a Tuesday when you w
 
 **Late-night McDonald's and KFC** — Technically available, technically food, technically in the area. We're not including them because if you're reading a curated food guide, you've already decided you want something better than a Big Mac at midnight. We respect that decision.
 
----
 
 > 💬 **REACTION BAR:** Which spot are you hitting tonight?
 > 🍷 France-Soir | 🫒 Chapelli's | 🥩 Chez Olivier | 🍣 Yūgen | 🥙 Lamb on Chapel | 🍕 48h Pizza
 
----
 
 ## The Verdict: How to Actually Decide
 
@@ -211,11 +199,9 @@ Here's the honest breakdown:
 
 If you're heading out tonight, our recommendation is simple: **book France-Soir or Yūgen if you can, and walk into Lamb on Chapel if you can't.** Everything else on this list is a solid backup.
 
----
 
 **🔗 Open Loop Close:** If South Yarra isn't your only stop tonight, our [best cheap eats in Fitzroy](/fitroy/cheap-eats-2026) covers the other side of the river with the same honest breakdown — 10 places tested, 11pm close times, and a strong opinion about who's actually worth your money. Or if you're planning a full evening out, start with our [South Yarra bar guide](/south-yarra/chapel-street-bars) and work backwards from there.
 
----
 
 *Ethan Cross is the Late Night Editor at MELBZ. He has eaten dinner after 10pm more times than he'd care to admit and believes the best restaurants are the ones still taking orders when everyone else has gone home.*
 

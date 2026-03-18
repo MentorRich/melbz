@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Carlton — 2026 Local Guide"
 cover_image: "/images/carlton/new-openings.jpg"
+---
+
 suburb: "carlton"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Discover the new openings in Carlton. Our verified 2026 guide covers the latest restaurants, bars, and venues for locals."
 tags: ["carlton"]
 categories: ["new"]
----
 # New Openings in Carlton — What's Fresh in 2026
 
 Carlton's restaurant scene is in the middle of a genuine renaissance. After decades of coasting on its Italian heritage (which, to be fair, is still excellent), the suburb is pulling in some of Melbourne's most exciting operators. 2025 and early 2026 have seen a wave of new openings that are rewriting what Carlton dining looks like — and the momentum isn't slowing down.
 
 **Last updated: 17 March 2026** | **Carlton Vibe Score: 82/100 🟢**
 
----
 
 ## 1. Cordelia — Rathdowne Street's New Seafood Star
 
@@ -29,7 +29,6 @@ Carlton's restaurant scene is in the middle of a genuine renaissance. After deca
 **Hours:** Lunch Wed–Sun, dinner Wed–Sat
 **Why it matters:** It's the kind of place that make betters an entire street. Rathdowne Street between Princes Hill and Carlton Gardens is suddenly a destination again.
 
----
 
 ## 2. Frenchie — The King & Godfree Reimagining
 
@@ -42,7 +41,6 @@ Carlton's restaurant scene is in the middle of a genuine renaissance. After deca
 **Hours:** Dinner daily, lunch weekends
 **Why it matters:** The King & Godfree building has been a Carlton landmark for over a century. Seeing it come alive with three new venues — not just one — signals that this corner is about to become the most exciting stretch of Lygon Street.
 
----
 
 ## 3. The King & Godfree Pizza Concept
 
@@ -54,7 +52,6 @@ Carlton's restaurant scene is in the middle of a genuine renaissance. After deca
 **Address:** 297 Lygon Street, Carlton (King & Godfree building)
 **Why it matters:** Carlton's Italian scene has been due for a shake-up. If this works, it could redefine what "Italian food" means on Lygon Street.
 
----
 
 ## 4. Di Stasio Carlton
 
@@ -67,7 +64,6 @@ Carlton's restaurant scene is in the middle of a genuine renaissance. After deca
 **Hours:** Lunch and dinner, closed Mondays
 **Why it matters:** Di Stasio's arrival confirmed that Carlton is worth investing in. This isn't a casual side project — it's a statement.
 
----
 
 ## 5. Cherrywood (formerly Residence)
 
@@ -80,7 +76,6 @@ Carlton's restaurant scene is in the middle of a genuine renaissance. After deca
 **Hours:** Daytime daily; dinner Wed–Sat
 **Why it matters:** It's the model that Melbourne does best — a venue that evolves through the day and gives you a reason to come back at different hours.
 
----
 
 ## 6. Malin (Carlton North, but Close Enough)
 
@@ -92,7 +87,6 @@ Carlton's restaurant scene is in the middle of a genuine renaissance. After deca
 **Address:** Carlton North (Rathdowne Street strip)
 **Why it matters:** The Carlton–Carlton North dining corridor is becoming one of the most exciting stretches in Melbourne. Malin is a big reason why.
 
----
 
 ## 7. Sooshi Mango's Restaurant
 
@@ -104,7 +98,6 @@ The comedy trio Sooshi Mango — known for their viral Italian-Australian sketch
 **Hours:** Dinner, weekends
 **Why it matters:** It proves that Carlton dining doesn't have to be serious to be good. Sometimes a great plate of rigatoni and a room full of laughing people is all you need.
 
----
 
 ## 8. Lagoon Dining
 
@@ -116,7 +109,6 @@ While not technically brand-new in 2026, Lagoon Dining has continued to evolve a
 **Hours:** Dinner Tue–Sun
 **Why it matters:** Lagoon represents the new wave of Carlton dining — less Italian, more global, and designed for the way Melbourne actually eats now.
 
----
 
 
 ## Venue Addresses & Details
@@ -134,7 +126,6 @@ There's also talk of further development along the Lygon Street–Carlton North 
 
 The other trend worth watching: cafe-to-restaurant conversions. Cherrywood (formerly Residence) isn't the only Carlton venue doing the day-cafe-night-restaurant pivot. Several operators are taking over daytime-only spaces and extending into evening service, which means more dining options without the cost of building from scratch. It's smart, sustainable, and it's giving Carlton more dinner options without losing its strong cafe culture.
 
----
 
 
 ## Venue Addresses & Details
@@ -152,12 +143,10 @@ If you haven't been to Carlton in a while, now is the time to come back. The old
 
 **Your Carlton Vibe Score this week: 82/100** — Renaissance energy. New blood, old bones, and a neighbourhood that's clearly going somewhere.
 
----
 
 *Know a new opening we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 
 ## Venue Addresses & Details
@@ -176,7 +165,6 @@ If you haven't been to Carlton in a while, now is the time to come back. The old
 → [What's New in Fitzroy](/fitzroy/new-openings)
 → [Melbourne CBD New Restaurant Openings](/melbourne-cbd/new-openings)
 
----
 
 *Living in Carlton? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=carlton)*
 

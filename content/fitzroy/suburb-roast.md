@@ -5,12 +5,12 @@ date: 2026-03-16
 author: tyler
 tags: ["fitzroy", "roast", "opinions"]
 categories: ["editorial"]
-description: "Fitzroy: The Suburb Roast — Every Hot Take, No Apologies
+description: "Fitzroy: The Suburb Roast — Every Hot Take, No Apologies"
+---
 
 <div class="vibe-score">FITZROY VIBE SCORE: 84/100 ⚡️ ICONIC (+2 this week)</div>
 
 Let's get one th..."
----
 # Fitzroy: The Suburb Roast — Every Hot Take, No Apologies
 
 <div class="vibe-score">FITZROY VIBE SCORE: 84/100 ⚡️ ICONIC (+2 this week)</div>
@@ -19,7 +19,6 @@ Let's get one thing straight before the inner-north defenders show up in our DMs
 
 This is the roast Fitzroy deserves but has never asked for, because nobody in Fitzroy has ever admitted they need anything from anyone. They're too busy curating.
 
----
 
 ## Who Actually Lives Here
 
@@ -33,7 +32,6 @@ Fitzroy's population is a Venn diagram of three circles:
 
 The median rent for a one-bedroom apartment in Fitzroy currently sits somewhere between "you're kidding" and "my parents would literally pass out." Expect to pay $450–$550 a week for something that's been described as "cosy" in the listing, which is real estate code for "you will touch both walls of the bathroom simultaneously."
 
----
 
 ## The Gertrude St Divide
 
@@ -48,7 +46,6 @@ The divide is real. East Gertrude thinks West Gertrude is pretentious. West Gert
 🔥 <strong>FIGHT US:</strong> Which side of Gertrude Street has the superior energy? East or West? Drop your answer in the comments and prepare to defend it. No fence-sitters allowed. <a href="/contact">Tell us why we're wrong →</a>
 </div>
 
----
 
 ## Café Politics: The Real Power Structure
 
@@ -74,7 +71,6 @@ Ordering a flat white in Fitzroy is a political statement. Ordering a long black
 <strong>Vote now. Your suburb status depends on it.</strong>
 </div>
 
----
 
 ## The Cycling Wars
 
@@ -90,7 +86,6 @@ Fitzroy is ground zero for Melbourne's cycling culture wars, and both sides are 
 
 The new bike infrastructure on Brunswick Street and Johnston Street has made things simultaneously better and worse, depending entirely on who you ask. Which is the most Fitzroy outcome imaginable.
 
----
 
 ## Best Streets vs. Worst Streets
 
@@ -119,7 +114,6 @@ Let's settle this.
 🤐 <strong>CONFESSION BOX:</strong> What's your Fitzroy confession? Lived there for years but never been to Marios? Think Brunswick Street is overrated? Still don't know how to pronounce Kerr Street? <a href="/contact">Confess anonymously →</a> We'll publish the best ones.
 </div>
 
----
 
 ## The Food Scene Truth
 
@@ -141,7 +135,6 @@ The density of excellent restaurants per square kilometre in Fitzroy is absurd. 
 <strong>React in the comments. We can take it.</strong>
 </div>
 
----
 
 ## The Collingwood Question
 
@@ -155,7 +148,6 @@ Meanwhile, if you're comparing inner-north energy to inner-south polish, the ete
 
 And for the full inner-north tour, check out our guide to <a href="/suburbs/thornbury/honest-guide">Thornbury</a> — it's where Fitzroy residents move when they want a backyard and start referring to themselves as "formerly inner north" as if they've taken holy orders.
 
----
 
 ## The Parking Nightmare
 
@@ -171,7 +163,6 @@ The rules:
 
 The Wilson Parking on Brunswick Street charges rates that would make a CBD car park blush. People pay it. People have *accepted* it. That's how you know a suburb has broken you — when you willingly pay $12 an hour to park in a concrete box and consider it a win.
 
----
 
 ## So Is Fitzroy Worth It?
 
@@ -190,7 +181,6 @@ It might be right.
 🔥 <strong>FIGHT US:</strong> We gave Fitzroy an 84. Too high? Too low? You probably think it's a 95 and everyone else is wrong. Fine. Come argue with us. <a href="/contact">Send your rage →</a> Or vote below and make your case.
 </div>
 
----
 
 ## The Open Loop
 
@@ -200,7 +190,6 @@ We're about to drop the full Melbourne Inner North Power Rankings, and Fitzroy's
 
 [→ **The Melbourne Inner North Suburb Rankings** — See where your suburb actually stands](/suburbs/inner-north-rankings)
 
----
 
 *Tyler James is MELBZ's Provocative Rankings editor. He has opinions about your suburb and he's not sorry. If you disagree, good — that's the point. Hit us up and let's argue about it.*
 

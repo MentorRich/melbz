@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in South Yarra — 2026 Local Guide"
 cover_image: "/images/south-yarra/things-to-do-this-weekend.jpg"
+---
+
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "maya"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in South Yarra. Our verified 2026 guide covers the best spots for locals."
 tags: ["south-yarra"]
 categories: ["things"]
----
 # Things To Do This Weekend in South Yarra
 
 *Updated 16 March 2026 | Maya Petrovic reporting | 8 places reviewed*
@@ -18,7 +19,6 @@ South Yarra on a weekend is a different animal to South Yarra on a Tuesday. The 
 
 We spent the last three weekends working through South Yarra's offering — from the greasy spoon brilliance of a $14 fry-up to the $45 pasta that's actually worth it. Here's the honest itinerary.
 
----
 
 ## Saturday Morning: Brunch and Coffee
 
@@ -51,7 +51,6 @@ Crossing the border into [Prahran](/south-yarra/../prahran/), the brunch game is
 >
 > *Vote in the comments*
 
----
 
 ## Late Morning: The Royal Botanic Gardens
 
@@ -71,7 +70,6 @@ The Ornamental Lake loop is about 2 km — flat, shaded, and popular enough that
 
 **Insider Tip:** Bring a blanket and picnic from one of the South Yarra bakeries. The grassy slope near the Observatory lookout has a direct line of sight to the city skyline and it's the best free seat in Melbourne on a sunny Saturday.
 
----
 
 ## Saturday Afternoon: Shopping and Wandering
 
@@ -93,7 +91,6 @@ Chapel Street between Toorak Road and Commercial Road is still the main shopping
 
 The laneways off Chapel Street are where the interesting stuff hides. Glessell Lane and the Chapel Street Arcade have smaller retailers, vintage shops, and pop-ups that rotate fast enough that every visit feels different.
 
----
 
 ## Saturday Night: Dinner and Drinks
 
@@ -134,7 +131,6 @@ After dinner, the Chapel Street strip between Toorak Road and Commercial Road is
 >
 > *Tell us below*
 
----
 
 ## Sunday: Recovery Mode
 
@@ -159,7 +155,6 @@ Walk south on Chapel Street from Commercial Road through to Prahran. The Prahran
 
 If you're winding down, walk from the Botanic Gardens down to the Yarra River path. You can walk east toward Richmond or west toward the CBD — either direction gives you a flat, sealed path along the river with views of the skyline. The path is well-lit and busy on weekends, so it's a safe option for solo walkers.
 
----
 
 ## What We Skipped and Why
 
@@ -173,7 +168,6 @@ Not everything in South Yarra deserves your weekend. Here's what we left out and
 
 **The tourist-oriented Chapel Street tram tours.** Nobody who lives here has ever taken one. The entire strip is walkable. You don't need a guided tour of a street you can see from end to end.
 
----
 
 ## Getting There and Getting Home
 
@@ -190,7 +184,6 @@ Not everything in South Yarra deserves your weekend. Here's what we left out and
 - **Uber/Ola:** Surge pricing on Saturday nights between 11pm–2am is brutal — expect $35–$50 to the CBD. Walk to Toorak Road or Domain Road for faster pickups and slightly better rates.
 - **South Yarra station:** Last train Saturday night is usually around midnight. Check the PTV app for your specific line — the Frankston and Sandringham lines both stop here.
 
----
 
 ## The Weekend at a Glance
 
@@ -207,7 +200,6 @@ Not everything in South Yarra deserves your weekend. Here's what we left out and
 
 **Total weekend budget:** $90–$150 per person (excluding shopping and transport), assuming one brunch, one dinner, and a few drinks. South Yarra isn't cheap, but it doesn't have to be exorbitant if you choose wisely.
 
----
 
 > **📊 MELBZ WEEKEND VERDICT: Rate your South Yarra weekend experience**
 >
@@ -219,7 +211,6 @@ Not everything in South Yarra deserves your weekend. Here's what we left out and
 >
 > *Cast your vote*
 
----
 
 ## Neighbourhood Cross-Links
 
@@ -230,7 +221,6 @@ Not everything in South Yarra deserves your weekend. Here's what we left out and
 - [South Yarra Brunch Guide](/south-yarra/best-brunch/)
 - [Cost of Living in South Yarra 2026](/south-yarra/cost-of-living/)
 
----
 
 **Written by Maya Petrovic, South Yarra local.** Prices verified March 2026. Hours may change — call ahead if you're making a special trip. This guide is independently written and not sponsored by any venue listed. MELBZ does not accept paid placements in editorial content.
 

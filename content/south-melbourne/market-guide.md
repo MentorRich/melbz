@@ -5,12 +5,17 @@ date: 2026-03-16
 author: tyler
 tags: ["south-melbourne", "market", "lifestyle"]
 categories: ["lifestyle"]
-description: "South Melbourne Market Honest Guide 2026: Worth the Hype?
+description: "South Melbourne Market Honest Guide 2026: Worth the Hype?"
+---
 
-Updated 16 March 2026 | Tyler James reporting
+**Updated 16 March 2026 | Tyler James reporting**
+
+
 
 South Melbourne Market is the one your interstate f..."
----
+
+*Updated 16 March 2026 | Tyler James reporting*
+
 # South Melbourne Market Honest Guide 2026: Worth the Hype?
 
 **Updated 16 March 2026 | Tyler James reporting**
@@ -71,7 +76,6 @@ And if South Melbourne Market's weekend crowd is too much for you, [Albert Park]
 
 The hype is earned. But only if you go with a plan.
 
----
 
 ### How often do you visit South Melbourne Market?
 
@@ -83,7 +87,6 @@ Only when visitors are in town 🤷
 
 Never — it's too crowded 😤
 
----
 
 ### Read Next
 
@@ -92,7 +95,6 @@ Never — it's too crowded 😤
 - [Albert Park — Melbourne's Best Kept Secret?](/albert-park)
 - [Melbourne's Best Markets Ranked — The Honest List](/markets)
 
----
 
 *Have a South Melbourne Market hot take we missed? A secret stall the tourists haven't found? [Submit your tip](/submit) and you might see it in next month's update.*
 

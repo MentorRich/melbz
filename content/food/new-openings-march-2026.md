@@ -1,6 +1,8 @@
 ---
 title: "19 New Melbourne Restaurants, Bars and Bakeries to Try in March 2026"
 cover_image: "/images/food/new-openings-march-2026.jpg"
+---
+
 suburb: melbourne-wide
 vertical: food
 author: "oscar"
@@ -13,7 +15,6 @@ cover_alt: "A bright, bustling new Melbourne restaurant interior with diners and
 date: 2026-03-18
 tags: ["food"]
 categories: ["new"]
----
 Melbourne's hospitality machine never stops. Here are 19 new restaurants, bars and bakeries that opened in February and March 2026 — from a Tokyo ramen institution making its Australian debut to a mother-daughter dumpling shop in Carlton, a CBD Lune flagship and a Korean burger joint that's already generating serious hype.
 
 **What's inside:**
@@ -27,7 +28,6 @@ Melbourne added 19 new venues to its already ridiculous dining scene in the past
 
 Here's what opened, what's good, and where you should be eating this month.
 
----
 
 ## The Big Arrivals
 
@@ -41,7 +41,6 @@ Ginza Kagari has had queues wrapped around the block in Tokyo's Ginza district f
 **Address:** Russell Street, Melbourne CBD
 **Vibe:** Queue-worthy Tokyo import
 
----
 
 ### 2. Lune Croissanterie — CBD Flagship
 
@@ -54,7 +53,6 @@ The original Lune in Fitzroy turned croissant-buying into a Melbourne pilgrimage
 **Address:** Russell Street, Melbourne CBD
 **Vibe:** Croissant perfection, scaled up
 
----
 
 ### 3. Gaon — Koornang Road
 
@@ -66,7 +64,6 @@ When a chef leaves Nobu to open a small Korean restaurant in suburban Carnegie, 
 **Address:** Koornang Road, Carnegie
 **Vibe:** Serious Korean craft in an unassuming room
 
----
 
 ## Carlton's New Wave
 
@@ -80,7 +77,6 @@ The heritage-listed King & Godfree building on Lygon Street sat dormant for 18 m
 **Address:** 293 Lygon Street, Carlton
 **Vibe:** Lygon Street reborn. Read more in our [Carlton cheap eats guide](/carlton/cheap-eats/).
 
----
 
 ### 5. Aunty's Dumplings — Carlton
 
@@ -92,7 +88,6 @@ This is the kind of venue that makes Melbourne's food scene special. No PR machi
 **Address:** Lygon Street, Carlton
 **Vibe:** The next cult dumpling spot
 
----
 
 ### 6. Bar Carnation — Rathdowne Village
 
@@ -104,7 +99,6 @@ Bar Carnation brings a European-leaning wine bar sensibility to Rathdowne Villag
 **Address:** Rathdowne Street, Carlton
 **Vibe:** Neighbourhood wine bar done right
 
----
 
 ### 7. Florian To Go — Carlton North
 
@@ -116,7 +110,6 @@ When your cafe is permanently packed, the move is obvious: open a takeaway next 
 **Address:** Rathdowne Street, Carlton North
 **Vibe:** Premium ingredients, zero pretension
 
----
 
 ## CBD & Inner Suburbs
 
@@ -131,7 +124,6 @@ Seoul Tiger maps Korean flavours onto American burger architecture, and the resu
 **Address:** Melbourne CBD
 **Vibe:** Korea meets America. Budget-friendly genius.
 
----
 
 ### 9. Santito — Collingwood
 
@@ -144,7 +136,6 @@ Santito occupies the former Hotel Jesus site on Smith Street and takes Mexican c
 **Address:** Smith Street, Collingwood
 **Vibe:** The most serious taqueria in Melbourne
 
----
 
 ### 10. Apa's Canteen — CBD
 
@@ -156,7 +147,6 @@ Apa's Canteen fills a gap nobody knew existed. Owner Sonam Thinley brings authen
 **Address:** Little Collins Street, Melbourne CBD
 **Vibe:** Bhutanese home cooking in the city
 
----
 
 ### 11. Fannys Sannys — Prahran
 
@@ -169,7 +159,6 @@ When a chef who ran the kitchen at one of Melbourne's most respected restaurants
 **Address:** Commercial Road, Prahran
 **Vibe:** Fine dining chops, sandwich prices
 
----
 
 ### 12. Gamja Hotteok — Queen Vic Market
 
@@ -181,7 +170,6 @@ Gamja Hotteok brings one of Korea's most beloved street snacks to Melbourne. The
 **Address:** Queen Victoria Market
 **Vibe:** Korean street food perfection
 
----
 
 ## Drinking & Late Night
 
@@ -194,7 +182,6 @@ The Pinnacle's return is a win for Fitzroy North's pub scene. The bones are the 
 **Address:** Fitzroy North
 **Vibe:** The neighbourhood pub, version 2.0
 
----
 
 ### 14. Blackhearts & Sparrows — Fitzroy
 
@@ -205,7 +192,6 @@ Blackhearts & Sparrows has been one of Melbourne's best bottle shops for years. 
 **Address:** Fitzroy
 **Vibe:** Drink here, buy there
 
----
 
 ### 15. Brewpub Huzzah — Glen Iris
 
@@ -216,7 +202,6 @@ The craft beer scene in Melbourne's inner east just got a proper brewpub. Huzzah
 **Address:** Glen Iris
 **Vibe:** Your new local brewery
 
----
 
 ### 16. Miscellania Rooftop — CBD
 
@@ -227,7 +212,6 @@ Miscellania's rooftop has reopened, bringing back one of the CBD's best warm-wea
 **Address:** Melbourne CBD
 **Vibe:** Rooftop season, extended
 
----
 
 ### 17. Otoya — Crown
 
@@ -238,7 +222,6 @@ Otoya brings the Japanese listening bar concept — dimly lit rooms designed for
 **Address:** Crown Melbourne
 **Vibe:** Tokyo listening bar, Melbourne edition
 
----
 
 ## More New Spots
 
@@ -251,7 +234,6 @@ Melbourne's Armenian food scene barely existed until Tatik's Delights arrived. T
 **Address:** Check @tatiks.delights for location
 **Vibe:** Armenian baking tradition, Melbourne debut
 
----
 
 ### 19. Cafe Ogawa — Ascot Vale
 
@@ -262,7 +244,6 @@ With shops in Tokyo and Kanagawa, the Ogawa team picked Ascot Vale for their Aus
 **Address:** Ascot Vale
 **Vibe:** Tokyo ramen + Melbourne coffee
 
----
 
 ## The Takeaway
 

@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Collingwood — 2026 Local Guide"
 cover_image: "/images/collingwood/best-pubs.jpg"
+---
+
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "kai"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "The 8 best pubs in Collingwood for 2026 — from historic corner locals to brewery taprooms and the rooms where Melbourne's live music still breathes."
 tags: ["collingwood"]
 categories: ["general"]
----
 # Best Pubs in Collingwood — 8 That Still Feel Like Actual Pubs (2026)
 
 Collingwood's pub scene is what happens when a suburb's working-class roots refuse to be gentrified out of existence. The corner pubs on Johnston Street have been there since the 1870s, and while the beer lists have upgraded from VB to craft IPAs, the rooms haven't lost their soul. These are not wine-bar-with-taps operations or gastro-pubs that charge $28 for a parma. These are real pubs — sticky carpet, pool tables, TAB corners, and the kind of warm anonymity where you can sit alone with a pot and nobody bothers you, or walk in with eight mates and the publican just nods and pushes some tables together. In 2026, that's increasingly rare. Collingwood still has it.
 
 **Last updated: 17 March 2026** | **Collingwood Vibe Score: 83/100 ⚡️**
 
----
 
 ## 1. The Gasometer — The Smith Street Icon
 
@@ -29,7 +29,6 @@ The Gaso has that rare pub energy where the room feels alive whether it's a quie
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun 11am–10pm
 **Insider tip:** The live music schedule is on their Instagram — they book everything from punk to jazz to comedy. Check before you go on a weeknight; sometimes the back room is the best free entertainment in the inner north. If you're coming from [Fitzroy](/suburbs/fitzroy), the 86 tram drops you right outside.
 
----
 
 ## 2. The Marquis of Lorne — The Heritage Beauty
 
@@ -42,7 +41,6 @@ The beer list covers the essentials plus a few craft options, the wine list is b
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun 12pm–10pm
 **Insider tip:** George Street is the quiet backstreet between Smith and Brunswick streets. If you're pub-crawling from Fitzroy, hit the Marquis second — it's a 5-minute walk from the Gasometer and a perfect mid-crawl rest stop. The courtyard is the best seat in the house on a summer afternoon.
 
----
 
 ## 3. The Prince Patrick Hotel — The Johnston Street Rock Venue
 
@@ -55,7 +53,6 @@ The beer list is pub-standard (nothing fancy, everything cold), the burgers are 
 **Hours:** Mon–Thu 3pm–11pm, Fri–Sat 12pm–1am, Sun 12pm–10pm
 **Insider tip:** Check their gig listings before heading out — weekend shows can mean a cover charge ($10–20), but the quality of bands is consistently excellent for the price. The PP is a straight walk from the [Abbotsford](/suburbs/abbotsford) border — if you're coming from the Convent area, it's 10 minutes south.
 
----
 
 ## 4. The Builders Arms Hotel — The Divisive Local
 
@@ -68,7 +65,6 @@ The Builders sits right on the Gertrude Street strip, which means you can combin
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun 11am–10pm
 **Insider tip:** Technically Fitzroy postcode, but firmly in Collingwood's orbit. Gertrude Street walks the border between the two suburbs — after a pint here, continue east into Collingwood proper or west into [Fitzroy's pub scene](/suburbs/fitzroy/best-pubs). The schnitzel Wednesday deal ($14) is one of the best midweek deals in the inner north.
 
----
 
 ## 5. The Carringbush Hotel — The Literally Cool One
 
@@ -81,7 +77,6 @@ This is the pub where you take visiting friends to show them "the real Collingwo
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun 12pm–10pm
 **Insider tip:** Langridge Street is parallel to Smith Street but two blocks east — much quieter, easier parking, and a more residential feel. If you're walking from [Richmond](/suburbs/richmond), cut through from Victoria Street via the back streets and you'll hit Langridge in about 12 minutes.
 
----
 
 ## 6. The Black Pearl — The Cocktail-Pub Hybrid
 
@@ -94,7 +89,6 @@ The crowd skews slightly older than some of the other pubs on this list — late
 **Hours:** Mon–Thu 3pm–11pm, Fri–Sat 2pm–1am, Sun 2pm–10pm
 **Insider tip:** The upstairs bar fills on Friday and Saturday nights — arrive before 9pm to snag a good spot. The back staircase from the pub is easy to miss; look for the narrow door near the pool table. If you're comparing cocktail bars, [Fitzroy](/suburbs/fitzroy) has more of them, but the Black Pearl's pub-downstairs-plus-cocktails-upstairs formula is unique.
 
----
 
 ## 7. The Rochester Hotel — The Quiet Contender
 
@@ -107,7 +101,6 @@ The Rochester doesn't try to be the best pub on Smith Street. It just tries to b
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun 12pm–10pm
 **Insider tip:** The upper end of Smith Street (north of Peel Street) is significantly quieter than the Johnston Street end. If you want a pub experience without the Friday night crush, this is your area. Parking is also much easier up here.
 
----
 
 ## 8. The Napier Hotel — The Two-Storey Classic
 
@@ -120,7 +113,6 @@ The location — a block off Smith Street — means it attracts both Smith Stree
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun 12pm–10pm
 **Insider tip:** The rooftop is seasonal (roughly October–April) and can seat about 30. It's the best spot in the house on a warm evening. If you're pub-crawling from the Gasometer, the Napier is a 10-minute walk via Smith Street — perfect for a fourth or fifth stop.
 
----
 
 ## The Bottom Line
 
@@ -128,7 +120,6 @@ Collingwood's pub scene in 2026 is the real deal. These aren't bars pretending t
 
 **Your Collingwood Vibe Score this week: 83/100 ⚡️** — The pub culture is the backbone of this score.
 
----
 
 *Related reads: [Best Bars in Collingwood](/suburbs/collingwood/best-bars) · [Nightlife Guide: Collingwood](/suburbs/collingwood/nightlife-guide) · [Fitzroy Pubs Guide](/suburbs/fitzroy/best-pubs) · [Richmond Pub Scene](/suburbs/richmond/best-pubs)*
 

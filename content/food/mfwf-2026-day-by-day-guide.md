@@ -3,12 +3,13 @@ title: "Melbourne Food & Wine Festival 2026: Your Complete Day-by-Day Guide"
 cover_image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800"
 description: "The 2026 Melbourne Food & Wine Festival runs March 20-29. Our day-by-day guide covers the best events, where to book, and free highlights across 10 delicious days."
 author: "Marcus Chen"
+---
+
 author_role: "Food & Events Editor"
 author_image: "/images/authors/marcus.jpg"
 date: "2026-03-17"
 tags: ["melbourne events", "food festival", "mfwf 2026", "wine festival"]
 categories: ["Events", "Food & Drink"]
----
 
 The Melbourne Food & Wine Festival returns for its 2026 edition, bringing more than 200 events across 10 delicious days from March 20 to 29. Whether you're hunting for exclusive degustation dinners, free community feasts, or opportunities to meet internationally renowned chefs, this year's program delivers. This guide breaks down what's happening each day so you can plan your festival experience without the overwhelm.
 
@@ -23,7 +24,6 @@ Before diving into the daily schedule, here's the essential information that app
 
 The festival hub remains at Fed Square, but events sprawl across the city—from high-end restaurants in the CBD to pop-ups in suburban eateries and long lunches in the Yarra Valley. If you're driving to regional events, note that Melbourne's fuel crisis continues to affect regional travel, so plan ahead or consider public transport where available.
 
----
 
 ## Friday, March 20 — Festival Opening Day
 
@@ -39,7 +39,6 @@ The festival kicks off with a bang, and the first day sets the tone for what's t
 
 Not looking to spend a fortune on day one? Head to **Leonardo's Pizza Night** (CBD, from 5pm), where the team serves up free pizza slices (1,000 available, first come first served). It's a great way to dip your toe into the festival energy without spending a cent.
 
----
 
 ## Saturday, March 21 — The Weekend Begins
 
@@ -55,7 +54,6 @@ Saturday marks the first proper weekend of the festival, and the program ramps u
 
 **Greek Feast Community Lunch** (various locations, 12pm-3pm): A more accessible alternative to the World's Longest Lunch, with Greek restaurants across Melbourne hosting special long lunch events. Prices are reasonable (typically $50-80 per person for three courses), and the festive atmosphere makes it perfect for groups.
 
----
 
 ## Sunday, March 22 — Mid-Festival Momentum
 
@@ -71,7 +69,6 @@ By Sunday, the festival hits its stride. The crowds have settled into a rhythm, 
 
 **Free Pizza at Leonardo's** (CBD, from 6pm): Another batch of free pizza slices, this time with a focus on regional Victorian ingredients (a nod to the fuel crisis affecting regional travel). Arrive by 5:30pm to secure your spot in line.
 
----
 
 ## Monday, March 23 — The Weekday Wave
 
@@ -87,7 +84,6 @@ The festival continues through the working week, and this is when things get int
 
 **Happy Hour Festival Edition** (various bars, 5pm-7pm): Several bars along Collins Street and Flinders Lane host festival-themed happy hours, with discounted drinks and complimentary snacks. A low-key way to soak up the festival atmosphere after work.
 
----
 
 ## Tuesday, March 24 — Mid-Festival Check-In
 
@@ -99,7 +95,6 @@ By Tuesday, you've likely attended a few events and have a feel for the festival
 
 **Dandenong Ranges Food Trail** (Dandenong Ranges, 10am-4pm): A self-guided trail through the hills, featuring cafes, bakeries, and producers. This is perfect for families or anyone wanting to escape the city. Pair with the KaBloom flower festival (opens March 21) for a full day out. Note: fuel availability remains limited in the ranges—plan accordingly.
 
----
 
 ## Wednesday, March 25 — Halfway Point
 
@@ -111,7 +106,6 @@ The festival reaches its midpoint, and the energy remains high. This is often wh
 
 **Pop-Up Chef Dinners** (various secret locations, 7pm-11pm): Several one-off dinners hosted by visiting chefs in unconventional spaces. These events are announced only a few days in advance, so follow MFWF social accounts for real-time updates. Tickets typically $100-180.
 
----
 
 ## Thursday, March 26 — The Final Push
 
@@ -123,7 +117,6 @@ As the festival enters its final days, the program takes on a more celebratory t
 
 **Cheese and Wine Masterclasses** (South Melbourne, 2pm-5pm): Expert-led sessions covering Victorian cheese and wine pairings. These sell out fast but occasionally have last-minute availability. Book through Eventbrite or directly with the venue.
 
----
 
 ## Friday, March 27 — Penultimate Night
 
@@ -135,7 +128,6 @@ The second-to-last day brings some of the festival's most anticipated events. Th
 
 **Last Night Pizza Party** (CBD, 6pm-10pm): Leonardo's final free pizza event of the festival, with 1,000 slices up for grabs. The atmosphere is festive and forgiving—this is where you celebrate making it through 10 days of eating.
 
----
 
 ## Saturday, March 28 — Second-to-Last Day
 
@@ -147,7 +139,6 @@ The festival's penultimate day is all about easing into the finish line. Many ev
 
 **Family Feast Day** (Fed Square, 11am-3pm): A family-friendly event with kids' cooking classes, food stalls, and entertainment. Free entry makes this accessible for everyone.
 
----
 
 ## Sunday, March 29 — Festival Finale
 
@@ -159,7 +150,6 @@ The final day is a bittersweet affair. The crowds thin, the energy softens, and 
 
 **Community Picnic** (Royal Botanic Gardens, 12pm-4pm): The festival's closing event is a bring-your-own picnic in the gardens, with optional add-ons from Melbourne's best food trucks. Free entry, BYO blanket and food (or buy on-site).
 
----
 
 ## Practical Tips for Festival Success
 
@@ -175,7 +165,6 @@ Melbourne's fuel situation remains challenging. If you're driving to events, esp
 
 Set a festival budget before you start, and stick to it. It's easy to get swept up in the excitement and spend $500 over 10 days on tickets alone. The free events are genuinely good—don't feel pressured to book expensive dinners if you can't afford them.
 
----
 
 ## What to Eat and Drink
 
@@ -183,7 +172,6 @@ Beyond the scheduled events, the festival transforms Melbourne's restaurant scen
 
 The Global Dining Series brings international techniques to Melbourne kitchens, but the real value is in seeing how local chefs interpret those influences. Keep an eye out for dishes that blend international inspiration with Victorian ingredients—these are the conversations that matter.
 
----
 
 ## Beyond the Festival
 
@@ -191,7 +179,6 @@ The Melbourne Food & Wine Festival isn't just 10 days of eating—it's a reminde
 
 And if you're still hungry for more content after the festival, explore our [Melbourne food guide](/food/) for year-round recommendations, or dive into suburb-specific guides like [Fitzroy restaurants](/fitzroy/best-restaurants/) and [Carlton cafes](/carlton/best-cafes/).
 
----
 
 The Melbourne Food & Wine Festival 2026 runs March 20-29. Book now, plan your route, and get ready for 10 days of exceptional eating across Australia's food capital.
 ## Related Articles

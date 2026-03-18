@@ -5,12 +5,17 @@ date: 2026-03-16
 author: isabella
 tags: ["richmond", "weekend", "lifestyle"]
 categories: ["lifestyle"]
-description: "Weekend Guide: Richmond 2026 — Swan Street to the MCG
+description: "Weekend Guide: Richmond 2026 — Swan Street to the MCG"
+---
 
-Updated 16 March 2026 | Isabella Greco reporting
+**Updated 16 March 2026 | Isabella Greco reporting**
+
+
 
 Richmond on a weekend is a different animal to Richm..."
----
+
+*Updated 16 March 2026 | Isabella Greco reporting*
+
 # Weekend Guide: Richmond 2026 — Swan Street to the MCG
 
 *Updated 16 March 2026 | Isabella Greco reporting*
@@ -19,7 +24,6 @@ Richmond on a weekend is a different animal to Richmond on a Tuesday. During the
 
 This is your complete weekend playbook. We're covering the strip from Victoria Street down through Swan Street, across Bridge Road, and into the MCG precinct. Every venue has an address, opening hours, and what it'll cost you. We're not here to pretend Richmond is perfect — it's not — but on its day, it's one of the best weekend suburbs in Melbourne.
 
----
 
 ## Saturday Morning: Brunch and Brekkie
 
@@ -40,7 +44,6 @@ If you'd rather skip the queue at Patricia's, walk three minutes south to Stovet
 **Hours:** 7am–2:30pm, closed Mondays
 **Insider tip:** Sit at the window bench facing Swan Street. Prime people-watching position, especially on a Saturday when the markets are running.
 
----
 
 ## Mid-Morning: Walk It Off
 
@@ -52,7 +55,6 @@ The strip has been home to Melbourne's Vietnamese community since the 1980s. Wal
 
 **Budget option:** Grab a bánh mì from Cuong Bami (501 Victoria Street, Richmond) for $10.50 — pork, pickled carrot, chilli, the works. Best eaten standing on the footpath because taking it to go is part of the experience.
 
----
 
 ## 📊 Weekend Poll: Richmond Weekend Vibes
 
@@ -64,7 +66,6 @@ The strip has been home to Melbourne's Vietnamese community since the 1980s. Wal
 
 *Have your say at melbz.com.au/richmond*
 
----
 
 ## Lunch: Swan Street and Bridge Road
 
@@ -93,7 +94,6 @@ If you want lunch that rolls into afternoon drinks, Bar Carolina is the play. It
 **Hours:** 12pm–late, 7 days
 **Safety note:** Swan Street between Church Street and the railway gets busier late afternoon. It's well-trafficked and fine during the day, but if you're walking east towards the MCG after dark, stick to the main road. Richmond Police Station is at 356 Church Street, a 5-minute walk north.
 
----
 
 ## Afternoon: Bridge Road and Markets
 
@@ -115,7 +115,6 @@ The market is compact — you can do a full lap in 20 minutes — but plan to li
 **Getting there:** Walk from the 75 tram stop, or 12 minutes from Richmond Station
 **Tip:** Get there before 10am. After that, the sourdough sells out and the chorizo queue gets out of control.
 
----
 
 ## Afternoon Drinks
 
@@ -135,7 +134,6 @@ For something with more atmosphere and less footy, Roxy Collins on Church Street
 **Hours:** 3pm–late, Thursday to Sunday
 **Atmosphere:** Warm lighting, exposed brick, good music at a volume where you can actually talk
 
----
 
 ## 📊 Cost Check: A Saturday in Richmond
 
@@ -147,7 +145,6 @@ For something with more atmosphere and less footy, Roxy Collins on Church Street
 | Shopping | $0 (browse Bridge Rd) | $50 (one outlet purchase) | $150+ (full haul) |
 | **Total** | **$48** | **$139** | **$297+** |
 
----
 
 ## Evening: Dinner and Beyond
 
@@ -168,7 +165,6 @@ If you want something more casual for Saturday night, Banny's opened in late 202
 **Hours:** 5pm–11pm, Thursday to Saturday; 12pm–10pm Sunday
 **Insider tip:** Tuesday–Thursday they do a $12 burger and beer special that's worth a weeknight visit too.
 
----
 
 ## 📊 Weekend Ratings: Rate Your Richmond
 
@@ -181,7 +177,6 @@ If you want something more casual for Saturday night, Banny's opened in late 202
 
 *Rate at melbz.com.au/richmond/rate*
 
----
 
 ## Getting Home Safe
 
@@ -196,7 +191,6 @@ Richmond is well-served by public transport on weekends:
 
 **Safety note:** If you're out late and walking home, the well-lit main roads (Swan Street, Church Street, Bridge Road) are your best bet. Avoid cutting through side streets between Swan Street and the river after midnight — it gets quiet and poorly lit. If something doesn't feel right, duck into any pub still open or call a ride.
 
----
 
 ## What We Skipped and Why
 
@@ -210,7 +204,6 @@ Every weekend guide has to make cuts. Here's what we left out and why — becaus
 
 **South Yarra's Toorak Road strip:** We're often asked how Richmond compares to **South Yarra**, and honestly, they're different animals. South Yarra is more polished, more expensive, and more focused on fashion and nightlife. Richmond is more food-forward, more relaxed, and cheaper. If you want a dressed-up Saturday night, South Yarra might suit better. If you want to eat really well without spending a fortune, Richmond wins. We'll do a dedicated South Yarra guide when the season turns.
 
----
 
 ## The Verdict
 
@@ -218,7 +211,6 @@ Richmond on a weekend is a suburb that rewards wandering. Start with brunch on S
 
 It's not the prettiest suburb in Melbourne. It's not the quietest. But it's one of the most complete weekend destinations in the inner east, and if you plan it right, you'll leave full, happy, and already planning next Saturday.
 
----
 
 ## 📊 Share Your Richmond Tips
 
@@ -229,7 +221,6 @@ It's not the prettiest suburb in Melbourne. It's not the quietest. But it's one 
 
 *Drop your tips at melbz.com.au/richmond/tips — the best ones get featured in next week's newsletter.*
 
----
 
 *Updated 16 March 2026 | Isabella Greco reporting*
 *Prices and hours verified at time of publication. Call ahead if you're making a special trip — things change in Richmond faster than Melbourne's weather.*

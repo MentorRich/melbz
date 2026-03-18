@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide in St Kilda — 2026 Local Guide"
 cover_image: "/images/st-kilda/neighbourhood-guide.jpg"
+---
+
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,12 +11,10 @@ updated: 2026-03-16
 description: "Discover the neighbourhood guide in St Kilda. Our verified 2026 guide covers the best spots for locals."
 tags: ["st-kilda"]
 categories: ["neighbourhood"]
----
 ## The Best Neighbourhood Guide in St Kilda
 
 St Kilda is one of Melbourne's most recognisable suburbs and one of its most misunderstood. Tourists think it's all Luna Park and trams. Locals know it's a patchwork of distinct micro-neighbourhoods, each with its own personality, price bracket, and Saturday morning routine. This guide breaks down what it's actually like to live, eat, and exist in St Kilda in 2026.
 
----
 
 ### The Lay of the Land
 
@@ -28,7 +28,6 @@ The suburb is bisected by two main strips:
 
 **Carlisle Street** is the unsung hero. Running east-west through the middle of the suburb, it's where St Kilda's everyday life happens. Indian restaurants, a Woolworths, a couple of bakeries, and the kind of shops that serve locals rather than visitors. It's also where the 16 tram runs, connecting you to **South Melbourne** and the CBD. If Fitzroy Street is St Kilda's living room, Carlisle Street is its kitchen.
 
----
 
 ### Where to Live: Street by Street
 
@@ -44,7 +43,6 @@ The suburb is bisected by two main strips:
 
 **Jacka Boulevard / The Sea Baths end** — The eastern fringe, closer to Elwood. Quieter, more residential, with the Sea Baths building as the architectural centrepiece. Apartments here are newer and pricier ($500–$600/week for a one-bed) but you're steps from the foreshore path, the penguin colony, and the quieter end of St Kilda's beach strip.
 
----
 
 ### Getting Around
 
@@ -60,7 +58,6 @@ The suburb is bisected by two main strips:
 
 > **📊 MELBZ POLL** — Best way to get to St Kilda from CBD? Tram 96 | Bike | Drive (lol good luck) | Walk (if you're fit)
 
----
 
 ### Schools and Families
 
@@ -74,7 +71,6 @@ For secondary, families often look at **Wesley College** (St Kilda campus on St 
 
 **Luna Park** (12A Jacka Boulevard) is the obvious kids' attraction. Entry is free and individual rides are $8–$15, or grab a fun pass for $44. It's not a theme park — it's a heritage-listed amusement park with charm intact. Kids under 5 love the carousel and the dodgem cars. Older kids want the roller coaster. Parents just want the fairy floss.
 
----
 
 ### Groceries and Daily Life
 
@@ -86,7 +82,6 @@ The **Saturday Pram Market** at 99 Garton Street, St Kilda East (technically out
 
 For everyday essentials, the **Carlisle Street strip** between Hotham and Inkerman has everything: bakeries, an Indian grocer, a bottle shop, a post office, and a chemist. It's the kind of street where you can do your entire Saturday errand run on foot.
 
----
 
 ### The St Kilda Vibe — Honest
 
@@ -96,7 +91,6 @@ The trade-off is real: St Kilda's nightlife means noise, crowds, and the occasio
 
 What keeps people here is the walkability, the community feel on the side streets, and the simple fact that living near the bay in Melbourne is a privilege that most suburbs can't offer. The sunsets from the Espy terrace. The penguins on the breakwater. The Saturday morning walk to Loretta's with the bay on your left. These are the things that make the rent worth it.
 
----
 
 ### What We Skipped and Why
 
@@ -108,7 +102,6 @@ What keeps people here is the walkability, the community feel on the side street
 
 **Crime statistics** — We're a lifestyle guide, not a police report. St Kilda has its issues (car break-ins, Friday-night incidents on Fitzroy Street), but if safety is your primary concern, the quieter pockets — Carlisle Street, Clarendon Street, Jacka Boulevard — are genuinely safe and well-lit.
 
----
 
 ### Nearby Guides Worth Reading
 
@@ -117,11 +110,9 @@ What keeps people here is the walkability, the community feel on the side street
 - [Neighbourhood Guide: Prahran](/prahran/neighbourhood-guide) — Chapel Street living and beyond
 - [Cost of Living in St Kilda](/st-kilda/cost-of-living) — the full financial picture
 
----
 
 *Last verified March 2026. Rental prices reflect current listings — always check Domain, Flatmates, or Fairy Floss Real Estate for the latest.*
 
----
 
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
 

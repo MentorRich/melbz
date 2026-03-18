@@ -1,6 +1,8 @@
 ---
 title: "9 Best Brunch Spots in Brunswick East — 2026 Local Guide"
 cover_image: "/images/brunswick-east/best-brunch.jpg"
+---
+
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Brunswick East has quietly become one of Melbourne's most reliable brunch neighbourhoods. Here are the 9 spots worth waking up for."
 tags: ["brunswick-east"]
 categories: ["best"]
----
 # 9 Best Brunch Spots in Brunswick East — 2026 Local Guide
 
 Brunswick East doesn't do brunch the way Carlton North does — all Lygon Street theatres and Italian heritage pretensions. And it certainly doesn't do it like Fitzroy North, where half the cafes are vying for a Broadsheet listing. Brunswick East brunch is something else entirely: unpretentious, locally owned, and built around regulars rather than one-off Instagram visits. The suburb has quietly assembled one of the most reliable brunch scenes in the inner north, and if you haven't explored it lately, you're missing out.
@@ -18,7 +19,6 @@ Brunswick East doesn't do brunch the way Carlton North does — all Lygon Street
 
 Here are the nine spots that make setting an alarm on a Saturday genuinely worthwhile.
 
----
 
 ## 1. Bellboy Cafe
 **The vibe:** The polished neighbourhood spot that somehow does everything well
@@ -30,7 +30,6 @@ Bellboy is the brunch equivalent of a Swiss Army knife — bagels, eggs benedict
 **Hours:** Mon–Fri 7am–3:30pm, Sat 7am–4pm, Sun 8am–4pm
 **Insider tip:** Free parking on-site and the 96 tram stops right outside. If you've got kids, the children's menu (waffle soldiers, scrambled eggs, chia pudding) runs $6–$8 and they don't rush you out. Go weekday mornings for the full relaxed experience — weekends get busy from 10am.
 
----
 
 ## 2. Wild Life Bakery
 **The vibe:** A warehouse cathedral of sourdough where the toasties are the main event
@@ -42,7 +41,6 @@ Wild Life Bakery isn't your typical brunch spot. Founded by former Market Lane b
 **Hours:** Mon–Sun 7:30am–3pm
 **Insider tip:** Arrive before 9am on weekends or expect a 15–20 minute queue. The sourdough loaves sell out by early afternoon — if you want one to take home, order it when you arrive. Their seasonal specials board changes weekly and often features miso butter toast or harissa shakshouka.
 
----
 
 ## 3. Sani
 **The vibe:** Globetrotting brunch in a space with genuinely stunning architecture
@@ -54,7 +52,6 @@ Sani is what happens when someone with excellent taste in food, architecture, an
 **Hours:** Wed–Mon 8am–3pm (closed Tue)
 **Insider tip:** The morning light through those arched windows around 9–10am is genuinely beautiful — bring a book, not just a phone. If you're visiting with someone who "doesn't really like brunch," take them here. It'll change their mind.
 
----
 
 ## 4. Smug Relish
 **The vibe:** No-fuss locals' cafe doing honest brunch on Lygon Street
@@ -66,7 +63,6 @@ Smug Relish has been quietly feeding Brunswick East since before the suburb's fo
 **Hours:** Mon–Sun 8am–4pm
 **Insider tip:** The courtyard out back gets morning sun and is blissfully quiet on weekdays. They roast their own beans across the street, which means the coffee is always fresh. If you're coming from Carlton North via the 96 tram, it's the last stop before the strip gets busy.
 
----
 
 ## 5. El Mirage
 **The vibe:** A decade-old institution that refuses to chase trends — and that's exactly the point
@@ -78,7 +74,6 @@ El Mirage has been running on Lygon Street for more than a decade, which in Melb
 **Hours:** Mon–Sun 7:30am–3pm
 **Insider tip:** This is the spot where you'll see the same faces every weekend. If you're new to the area, sitting at the bar is the fastest way to meet your neighbours. The portions are generous for the price — hard to find on the inner north these days.
 
----
 
 ## 6. Suntop Plaza
 **The vibe:** A seaside town cafe that accidentally ended up 15 kilometres from the coast
@@ -90,7 +85,6 @@ There's something about Suntop Plaza that doesn't quite belong in Brunswick East
 **Hours:** Wed–Mon 8am–3pm
 **Insider tip:** The ricotta cake (when available) is worth setting an alarm for — one tray, gone by noon. This is the place to bring a friend who "doesn't like Melbourne brunch" because it's missing the performative pretension entirely.
 
----
 
 ## 7. A1 Bakery & Cafe
 **The vibe:** Brunswick East's multicultural heart, served with flatbread and a flat white
@@ -102,7 +96,6 @@ A1 isn't a brunch cafe in the traditional sense, but on a Saturday morning it fu
 **Hours:** Mon–Sun 7am–10pm
 **Insider tip:** Open until 10pm, which makes it the only "brunch" spot on this list you can hit at 8pm after a few too many at [Bridge Road Brewers](/brunswick-east/best-pubs). The bakery section has fresh pastries from early morning — the baklava is made in-house and sells fast.
 
----
 
 ## 8. New Day Rising
 **The vibe:** A Brunswick East institution finding its next chapter
@@ -114,7 +107,6 @@ New Day Rising has been a Brunswick East staple for 13 years — a tiny, beloved
 **Hours:** Check current hours if under new ownership
 **Insider tip:** This tiny spot near RRR radio has been the neighbourhood's quiet secret for over a decade. The ordering is relaxed — you basically just grab whoever's near the coffee machine and tell them what you want. Long may it continue.
 
----
 
 ## 9. Cafe Ray (Victoria Street)
 **The vibe:** A rustic institution that bridges Brunswick and Brunswick East
@@ -126,7 +118,6 @@ Cafe Ray sits right on the border of Brunswick and Brunswick East on Victoria St
 **Hours:** Mon–Sun 7:30am–3:30pm
 **Insider tip:** If you're coming from the Brunswick East side, walk down Victoria Street — it's one of the nicest residential walks in the inner north. On a sunny morning, grab the outdoor seats facing the street for peak people-watching. They also do beer and Bloody Marys later in the day, which is a vibe.
 
----
 
 ## The Bottom Line
 
@@ -136,7 +127,6 @@ Brunswick East brunch isn't about spectacle. It's about places that have earned 
 
 **Your Brunswick East Vibe Score this week: 78/100** — The brunch scene is genuinely one of the suburb's strongest assets. East Brunswick Village has make betterd the area, and the old guard (Smug Relish, El Mirage, A1) keeps it grounded.
 
----
 
 *Know a spot we missed? Let us know.*
 *Related reads: [Best Coffee in Brunswick East](/brunswick-east/best-coffee) | [Best Pubs in Brunswick East](/brunswick-east/best-pubs) | [Brunswick East Nightlife Guide](/brunswick-east/nightlife-guide)*

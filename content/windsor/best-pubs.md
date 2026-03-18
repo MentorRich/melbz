@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/best-pubs.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "kai"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best pubs in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["general"]
----
 ## The Best Pubs in Windsor
 
 Windsor's pub scene is a tale of two Chapel Streets. On one side, you've got the heritage joints that have been pouring since before the Second World War — the kind of places where the bar staff know your name and the tap list hasn't changed since 1998. On the other, you've got the modern pubs that have worked out how to do good food, good beer, and good vibes without losing the essential pub-ness that makes a pub worth going to.
@@ -82,7 +83,6 @@ The outdoor area is the biggest on Chapel Street, which gives it an edge when yo
 
 **Insider tip:** Wednesday happy hour runs 4–6pm with $7 pots and $12 wine. It's one of the last genuine happy hours on Chapel Street.
 
----
 
 ## What We Skipped and Why
 
@@ -92,7 +92,6 @@ The outdoor area is the biggest on Chapel Street, which gives it an edge when yo
 
 **Any venue that primarily functions as a nightclub** — Circus, La La Land, Revolver Upstairs are nightlife venues. See our Nightlife Guide.
 
----
 
 ## The Pub Scene by the Numbers
 
@@ -105,14 +104,12 @@ The outdoor area is the biggest on Chapel Street, which gives it an edge when yo
 
 Windsor's pubs are concentrated along Chapel Street with most within walking distance of each other. The 78 tram runs the full length, and Prahran station is a 5-minute walk from the northern pubs. Most pubs open by 11am and close around 11pm on weeknights, midnight on weekends.
 
----
 
 **Cross-links:**
 - [Best Pubs in Prahran](/prahran/best-pubs) — similar strip, different character
 - [Best Pubs in South Yarra](/south-yarra/best-pubs) — more upmarket, less local
 - [Best Pubs in St Kilda](/st-kilda/best-pubs) — beachside pub culture
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
 

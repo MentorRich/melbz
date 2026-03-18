@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Abbotsford — 2026 Local Guide"
 cover_image: "/images/abbotsford/date-night.jpg"
+---
+
 suburb: "abbotsford"
 vertical: "lifestyle"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the date night in Abbotsford. Our verified 2026 guide covers the best spots for locals."
 tags: ["abbotsford"]
 categories: ["date"]
----
 ## The Best Date Night in Abbotsford
 
 Let's get something straight: Abbotsford is not where you go for a first date if you're the kind of person who wants a white tablecloth and a sommelier. This is where you go when you want a date that actually tells you something about the person you're with — how they react to a slightly divey bar, whether they appreciate a good banh mi, if they can handle a kayak on the Yarra without panicking.
@@ -20,7 +21,6 @@ Situated between the creative buzz of Fitzroy, the Vietnamese food corridor of R
 
 Here's your definitive guide to date night in Abbotsford in 2026 — from first-date nerves to hundredth-date comfort.
 
----
 
 ### The Romantic Classic: Studley Park Boathouse at Sunset
 
@@ -36,7 +36,6 @@ But here's the real move for date night: arrive early enough to hire a kayak bef
 
 **Bookings:** Not taken for groups under six, so arrive before 6pm on weekends or expect a wait. Weeknight dates are significantly more relaxed.
 
----
 
 ### The Low-Key Cool Date: Lulie Tavern & Full Moon Fever
 
@@ -50,7 +49,6 @@ The adjacent Full Moon Fever space is where things get interesting for date nigh
 
 **Budget:** Beers from $9, wines from $12. Entry to Full Moon Fever events is usually free or under $15.
 
----
 
 ### The Foodie Date: Molli and the Victoria Street Strip
 
@@ -64,7 +62,6 @@ But here's the Abbotsford insider move for a foodie date: start at Molli for din
 
 **Budget:** Molli mains $28–$48. A full Victoria Street Vietnamese dinner for two can come in under $40 if you go street-food style.
 
----
 
 ### The Active Date: Convent Markets + River Walk
 
@@ -78,7 +75,6 @@ After the market, take the riverside path from the Convent towards Studley Park.
 
 **Budget:** Coffee and a pastry at the Convent: $15–$20. The market itself is free to browse. If you impulse-buy artisan cheese and a bunch of flowers, that's on you.
 
----
 
 ### The Culture Date: Art After Dark + Hidden Bars
 
@@ -92,7 +88,6 @@ Alternatively, cross into neighbouring Fitzroy for Smith Street's bar scene, whi
 
 **Budget:** Gallery events are often free or $10–$20. Drinks at Range or Lulie: $12–$18 each.
 
----
 
 ### The Late-Night Move: Midnight Pho on Victoria Street
 
@@ -108,7 +103,6 @@ The beauty of ending a date night with midnight pho is that it strips away all p
 
 **Budget:** A bowl of pho: $15–$18. Dessert: $5–$8. Total late-night feed for two: under $50.
 
----
 
 ### Date Night, Abbotsford Style
 
@@ -118,7 +112,6 @@ And honestly? If your date can't have a good time in Abbotsford, they're probabl
 
 **Also explore:** [Collingwood date night](/collingwood/date-night) · [Richmond dining guide](/richmond/best-restaurants) · [Fitzroy date night](/fitzroy/date-night)
 
----
 
 
 Living in Abbotsford? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=abbotsford)

@@ -5,10 +5,10 @@ date: 2026-03-16
 author: yuki
 tags: ["st-kilda", "asian", "food"]
 categories: ["food"]
-description: "Best Asian Food in St Kilda 2026: Fitzroy Street & Beyond
+description: "Best Asian Food in St Kilda 2026: Fitzroy Street & Beyond"
+---
 
 St Kilda doesn't do subtle with its Asian food. This is a suburb where Cantonese roast duck shares..."
----
 # Best Asian Food in St Kilda 2026: Fitzroy Street & Beyond
 
 St Kilda doesn't do subtle with its Asian food. This is a suburb where Cantonese roast duck shares a strip with hawker-style pan-Asian cocktails, where dumpling joints have been hand-pleating since 2012, and where a hipster Indian restaurant inside a heritage hotel is somehow one of the best things on the southside. Whether you're rolling off the 96 tram or wandering back from the beach, the Asian dining here punches well above its beachside postcode.
@@ -17,7 +17,6 @@ We ate our way from Fitzroy Street to Acland Street and a few side streets in be
 
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
 
----
 
 ## 1. Mahjong Restaurant
 **The vibe:** Cantonese elegance meets Fitzroy Street energy — think white tablecloths and a park view, not a suburban yum cha hall.
@@ -31,7 +30,6 @@ The chilli wontons are criminally good. So is the Cantonese roast duck — order
 **Hours:** Tue–Sun, 12pm–10pm. Closed Monday.
 **Insider tip:** Book for a window table overlooking Albert Park Lake. At sunset with a Tsingtao in hand, you'll forget you're ten minutes from Chapel Street.
 
----
 
 ## 2. Bang Bang St Kilda
 **The vibe:** Hawker market energy in a slick, 60-seat dining room — like someone dropped a Singapore food court into the Paris end of Fitzroy Street.
@@ -45,7 +43,6 @@ The karaage chicken is properly crunchy, the Korean fried cauliflower disappears
 **Hours:** Mon–Thu 5pm–10pm, Fri–Sun 12pm–10pm
 **Insider tip:** Sit at the bar for the best banter with the bartenders. First Table does 50% off lunch if you book the early slot — genuinely half price.
 
----
 
 ## 3. Babu Ji
 **The vibe:** Bollywood films projected on the wall, craft beer on tap, and the kind of Indian food that makes you question every takeaway curry you've ever ordered.
@@ -59,7 +56,6 @@ The Instagram tagline says "hipster Indian" and they're not wrong — but the fo
 **Hours:** Mon–Wed 6pm–9pm, Thu–Sat 6pm–10pm. Closed Sundays.
 **Insider tip:** The George Hotel has free street parking on Grey Street after 6pm — a genuine rarity this close to Fitzroy Street. Arrive by 6:15 and you'll snag a spot.
 
----
 
 ## 4. I Love Dumplings
 **The vibe:** No-frills, fast, and absolutely stuffed with dumplings. This is $15-wallet-happiness territory.
@@ -73,7 +69,6 @@ This isn't fine dining. It's the place you duck into when you've spent too much 
 **Hours:** Daily, 11am–10pm
 **Insider tip:** The $15 dine-in lunch set is still one of the best value meals on Fitzroy Street. Includes dumplings and a noodle dish — order it before 2pm when the tourists are still at the beach.
 
----
 
 ## 5. Derby Thai St Kilda
 **The vibe:** Unpretentious, reliable Thai comfort food in a casual room. The kind of place that doesn't need to try hard because the green curry does the work.
@@ -87,7 +82,6 @@ Open until 10pm on weeknights, it's also one of the few Asian spots on Fitzroy S
 **Hours:** Mon–Fri 11am–10pm, Sat–Sun 12pm–10pm
 **Insider tip:** They do solid takeaway — order via DoorDash or call ahead and walk in to grab it. The curry travels well and reheats better than it has any right to.
 
----
 
 ## 6. Sister of Soul
 **The vibe:** Plant-based eating with an Asian heart — this Acland Street staple proves vegan doesn't mean boring.
@@ -101,13 +95,11 @@ The okonomiyaki is the dish that keeps vegans coming back. It's savoury, it's fi
 **Hours:** Daily, 9:30am–9:30pm
 **Insider tip:** The breakfast menu runs all day on weekends. The vegan eggs benedict with cashew hollandaise sounds wrong and tastes right. Pair it with a flat white — their coffee is surprisingly good for a restaurant this size.
 
----
 
 ## The Bottom Line
 
 St Kilda's Asian food scene is genuinely underrated. While everyone's fighting over dumplings on Swanston Street and queuing for dumplings in Box Hill, Fitzroy Street has quietly built a lineup that covers Chinese, Indian, Thai, pan-Asian, and vegan Asian — all within walking distance of each other. If you only try one place, make it **Mahjong** for the yum cha. If you're on a budget, **I Love Dumplings** at lunch is unbeatable value. And if you want the full "treat yourself" experience, **Bang Bang's** Feed Me menu is the move.
 
----
 
 ## What We Skipped and Why
 
@@ -121,7 +113,6 @@ Not everything made the cut. Here's our honest list:
 
 **Cha Ching** — Mentioned on OpenTable as a standout Chinese option, but we couldn't verify current opening hours at time of writing. We'll circle back.
 
----
 
 ## Nearby Neighbourhoods Worth the Tram Ride
 
@@ -129,11 +120,9 @@ Not everything made the cut. Here's our honest list:
 - [Cheap Eats in Elwood](/elwood/cheap-eats) — Ms Elwood and a few hidden spots along Ormond Road
 - [Balaclava Food Guide](/balaclava/best-food) — Carlisle Street is the unsung hero of southside eating
 
----
 
 *Your St Kilda Vibe Score this week: 81/100 — Beach season is winding down but the restaurants are heating up.*
 
----
 
 Was this article helpful? 👍 👎
 

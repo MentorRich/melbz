@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Carlton — 2026 Local Guide"
 cover_image: "/images/carlton/things-to-do-this-weekend.jpg"
+---
+
 suburb: "carlton"
 vertical: "lifestyle"
 author: "maya"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Discover the things to do this weekend in Carlton. Our verified 2026 guide covers the best spots for locals."
 tags: ["carlton"]
 categories: ["things"]
----
 # Things To Do This Weekend in Carlton — Your 2026 Guide
 
 Carlton isn't just Melbourne's Little Italy — it's one of the most walkable, culture-packed suburbs in the inner north. Whether you're a long-time local or just jumping off the tram at Elgin Street, this is the weekend guide that actually tells you where to go and what to skip.
 
 **Last updated: 17 March 2026** | **Carlton Vibe Score: 82/100 🟢**
 
----
 
 ## 1. Stroll the Carlton Gardens & Visit the Melbourne Museum
 
@@ -28,7 +28,6 @@ The Carlton Gardens are one of only a handful of UNESCO World Heritage-listed si
 **Hours:** Gardens open 24/7; Museum 10am–5pm daily
 **Insider tip:** The Royal Exhibition Building next door hosts rotating events — check the What's On Melbourne calendar before you head out. The flower and garden show in March is massive.
 
----
 
 ## 2. Hit Lygon Street for the Full Italian Experience
 
@@ -39,7 +38,6 @@ You can't do Carlton without doing Lygon Street properly. This isn't the tourist
 **Key stops:** Brunetti Classico (198 Lygon St), D.O.C Pizza (295 Drummond St), Readings Bookshop (307 Lygon St)
 **Insider tip:** Sunday morning is the sweet spot. Most of the shops are open but the dinner crowds haven't arrived yet.
 
----
 
 ## 3. Catch a Film at Cinema Nova
 
@@ -51,7 +49,6 @@ Cinema Nova is one of Melbourne's best independent cinemas, and it's been a Carl
 **Hours:** Sessions from late morning to late evening
 **Insider tip:** Monday and Wednesday tickets are cheaper. Sign up for their email list — they often send out advance screening invites.
 
----
 
 ## 4. Explore La Mama Theatre & the Carlton Courthouse
 
@@ -62,7 +59,6 @@ La Mama is one of Melbourne's most important independent theatre companies, and 
 **Address:** La Mama HQ, 205 Faraday St; Courthouse, 718 Drummond St
 **Insider tip:** Shows are usually 60–90 minutes with no interval, so grab a drink beforehand.
 
----
 
 ## 5. Browse the Carlton Markets (or the Lygon Street Shops)
 
@@ -72,7 +68,6 @@ Carlton doesn't have a regular weekend market like Fitzroy's Queen Vic, but the 
 
 **Insider tip:** Walk one block off Lygon onto Faraday, Drummond, or Nicholson streets. That's where the locals actually shop.
 
----
 
 ## 6. Walk to Carlton North or Fitzroy
 
@@ -82,7 +77,6 @@ Carlton sits right in the middle of Melbourne's best inner-north neighbourhoods.
 
 **Insider tip:** The No. 1 tram runs straight up Lygon Street from the CBD to Lygon Street's northern end. Grab a Myki and go.
 
----
 
 ## 7. Eat Like a Local at the Heart of Carlton
 
@@ -94,7 +88,6 @@ The Heart of Carlton on Elgin Street is the kind of place that makes you love a 
 **Hours:** Check their socials — hours can shift
 **Insider tip:** The pasta changes daily. Don't ask what's on the menu; just order whatever's being made.
 
----
 
 ## 8. Grab Coffee at Brunetti Classico
 
@@ -106,7 +99,6 @@ Brunetti Classico on Lygon Street is Melbourne's most iconic Italian cafe, and i
 **Hours:** 7am–6pm daily
 **Insider tip:** The maritozzo (Italian cream bun) is criminally underrated. Order one before they sell out.
 
----
 
 ## 9. Visit the Melbourne Museum's Permanent Exhibitions
 
@@ -116,7 +108,6 @@ Even if you've been to the Melbourne Museum before, the permanent collections ar
 **Hours:** 10am–5pm daily
 **Insider tip:** First Sunday of the month often has free community events and workshops.
 
----
 
 ## 10. Walk Along the Capital City Trail
 
@@ -126,7 +117,6 @@ Carlton sits on the Capital City Trail, a 29-kilometre walking and cycling loop 
 
 **Insider tip:** The stretch from Carlton Gardens through Royal Park to the Melbourne Zoo is the prettiest section. Allow 90 minutes for the full loop at a walking pace.
 
----
 
 ## The Bottom Line
 
@@ -134,12 +124,10 @@ Carlton packs more into a few square kilometres than most suburbs manage in ten.
 
 **Your Carlton Vibe Score this week: 82/100** — Peak autumn energy. The gardens are golden, the restaurants are full, and the trams are running on time.
 
----
 
 *Know something we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ## Continue Exploring
 
@@ -150,7 +138,6 @@ Carlton packs more into a few square kilometres than most suburbs manage in ten.
 → [Fitzroy Weekend Guide](/fitzroy/things-to-do)
 → [Melbourne CBD Events & What's On](/melbourne-cbd/things-to-do)
 
----
 
 *Living in Carlton? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=carlton)*
 

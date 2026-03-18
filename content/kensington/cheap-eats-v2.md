@@ -5,19 +5,22 @@ date: 2026-03-16
 author: priya
 tags: ["kensington", "cheap-eats", "food"]
 categories: ["food"]
-description: "Cheap Eats Under $20 in Kensington 2026: Macaulay Road & Beyond
-
-Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting
-
+description: "Cheap Eats Under $20 in Kensington 2026: Macaulay Road & Beyond"
 ---
+
+**Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
+
+
+
+
+*Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
+
 
 Kensington doesn't sh..."
----
 # Cheap Eats Under $20 in Kensington 2026: Macaulay Road & Beyond
 
 *Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
 
----
 
 Kensington doesn't shout about its food scene the way neighbouring **Flemington** or **Footscray** do. That's partly the point — this compact suburb, squeezed between the racecourse and the rail yards, has always been a bit under the radar. But walk down Macaulay Road on a Tuesday lunchtime and you'll find more flavour per square metre than most Melbourne suburbs manage across their entire high street.
 
@@ -25,7 +28,6 @@ We spent two weeks eating our way through Kensington's budget offerings, spendin
 
 Here's where your money goes furthest.
 
----
 
 ## 1. The Kensington Hotel
 
@@ -46,7 +48,6 @@ The counter meals are all under $18, and the schnitzel wrap at lunch clocks in a
 - Fish and chips
 - Dumplings
 
----
 
 ## 2. Macaulay Bakery
 
@@ -61,7 +62,6 @@ This is the kind of place that keeps the neighbourhood honest. No Instagram acco
 
 **Order:** Sausage roll. Two if you're not driving.
 
----
 
 ## 3. Phuoc Thanh
 
@@ -88,7 +88,6 @@ How many of these have you tried?
 
 *Score: 0-2 = Tourist. 3-4 = Local. 5-6 = Legend.*
 
----
 
 ## 4. Kensington Fresh Fish & Chips
 
@@ -103,7 +102,6 @@ Grab your lot and walk two minutes to **Kensington Gardens Reserve** to eat by t
 
 **Order:** Three-piece fish and chips. Salt and vinegar on the chips, obviously.
 
----
 
 ## 5. The Kensington Collective (or what was previously Tiamo)
 
@@ -126,7 +124,6 @@ Kensington sits in a triangle of cheap eats excellence. Extend your budget beyon
 
 👉 **North Melbourne** — 20 min walk across the Dynon Road bridge. More polished cheap eats here, with Korean fried chicken and Japanese curry joints that deliver serious flavour.
 
----
 
 ## 6. Kensington Snack Bar
 
@@ -141,7 +138,6 @@ This is Kensington at its most unpretentious: good food, no pretence, fair price
 
 **Order:** Chicken schnitzel roll with garlic sauce.
 
----
 
 ## What We Skipped and Why
 
@@ -155,7 +151,6 @@ Every cheap eats guide involves trade-offs. Here's what we left out and the hone
 
 **One particular dumpling spot** — We visited a place on the Macaulay Road strip that shall remain unnamed. The dumplings were rubbery, the service was indifferent, and at $16 for eight pieces it felt like a rip. We'd rather point you towards **Footscray's dumpling trail** where your dollar goes three times as far.
 
----
 
 ## The Bottom Line
 
@@ -167,7 +162,6 @@ If you're already in the area for the Flemington Markets or a race day, make Ken
 
 Kensington doesn't need to be trendy. It just needs to keep doing what it's doing.
 
----
 
 *Priya Sandhu is the food editor at MELBZ. She has eaten her way through every suburb in Melbourne's inner west and lived to tell the tale. Follow her on the MELBZ app for weekly cheap eats alerts and neighbourhood food drops.*
 

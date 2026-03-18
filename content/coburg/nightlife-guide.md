@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Coburg 2026: Pubs, Bars & After Dark"
 cover_image: "/images/coburg/nightlife-guide.jpg"
+---
+
 suburb: "coburg"
 vertical: "nightlife"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "The complete nightlife guide to Coburg for 2026 — best pubs, bars, late-night spots, and what happens when Sydney Road goes dark."
 tags: ["coburg"]
 categories: ["nightlife"]
----
 # Nightlife Guide in Coburg 2026: Pubs, Bars & After Dark
 
 Let's be honest: Coburg isn't Lygon Street. It's not Chapel Street. It's not even Brunswick on a Friday night. And that's exactly the point.
@@ -20,7 +21,6 @@ That said, the scene is evolving. New openings like Gemini and Strangeloves Wine
 
 **Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
 
----
 
 ## 1. Post Office Hotel
 
@@ -35,7 +35,6 @@ The front bar is the local's domain — pool table, TAB, a TV showing whatever s
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun 11am–10pm
 **Insider tip:** Tuesday night is trivia. It gets properly competitive. If you're new to Coburg, showing up to trivia is the fastest way to meet your neighbours.
 
----
 
 ## 2. Strangeloves Wine Bar
 
@@ -50,7 +49,6 @@ The space is small and intimate — dim lighting, exposed brick, a bar that seat
 **Hours:** Thu–Sat 4pm–11pm, Sun 2pm–8pm
 **Insider tip:** Sunday afternoon sessions are the under the radar — quiet, sunlit (if you get the front window), and the perfect way to ease into the week. A glass of natural rosé and a cheese board at 3pm on a Sunday is peak Coburg living.
 
----
 
 ## 3. Gemini Melbourne
 
@@ -65,7 +63,6 @@ The cocktail list is tight and well-curated — no 40-drink menu paralysis. The 
 **Hours:** Wed–Thu 4pm–11pm, Fri–Sat 4pm–1am, Sun 2pm–10pm
 **Insider tip:** Wednesday and Thursday evenings are quiet enough to get a seat at the bar and chat with the bartenders. Friday and Saturday have more energy but it's still relaxed — you won't be competing with crowds.
 
----
 
 ## 4. The Back Room Bar
 
@@ -80,7 +77,6 @@ The drinks list leans classic with a few house signatures. The bartenders are th
 **Hours:** Thu–Sat from 6pm
 **Insider tip:** Book ahead if you want a table. Walk-ins are possible on quieter nights but Friday and Saturday are often at capacity.
 
----
 
 ## 5. Cornish Arms Hotel
 
@@ -95,7 +91,6 @@ The beer garden is the main draw in summer — it's spacious, shady, and has a r
 **Hours:** Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 12pm–9pm
 **Insider tip:** The front bar has a pool table that's in constant use. Challenge the regulars at your own risk — some of them have been playing that table for 20 years.
 
----
 
 ## 6. My Aeon
 
@@ -110,7 +105,6 @@ The room itself has that inner-north character: slightly rough around the edges,
 **Hours:** Check social media for event-specific hours
 **Insider tip:** Follow them on Instagram for the gig listings. The best nights are the ones you don't plan for — just check what's on and show up.
 
----
 
 ## The Coburg Night Market
 
@@ -120,7 +114,6 @@ The room itself has that inner-north character: slightly rough around the edges,
 
 The Coburg Night Market at Bridges Reserve is the highlight of the summer calendar. It's not a massive commercial operation — it's a genuinely community event with local musicians, food vendors from the Sydney Road strip, and a festival atmosphere that's more neighbourhood barbecue than Spring Racing Carnival. Previous lineups have included Miss Katalyna, Kee'Ahn, DJ General Feelings, and Amaru Tribe. Keep an eye on Merri-Bek Council's events page for 2026 dates.
 
----
 
 ## Late-Night Eats
 
@@ -131,7 +124,6 @@ A nightlife guide is incomplete without addressing the most important question: 
 
 For more late-night food options, see the dedicated [late night food guide](/coburg/late-night-food/).
 
----
 
 ## How Coburg Compares
 
@@ -139,7 +131,6 @@ Coburg's nightlife is different from its neighbours. [Brunswick's bar scene](/br
 
 Coburg sits in the middle: more options than Preston, less overwhelming than Brunswick, with a local-first energy that makes every venue feel like your pub. If you want to dance until 4am, head south to Brunswick or the CBD. If you want to sit at a bar, drink something good, and have a real conversation — Coburg is your suburb.
 
----
 
 ## The Bottom Line
 
@@ -147,7 +138,6 @@ Coburg nightlife is about quality over quantity. The Post Office Hotel is the ne
 
 **Your Coburg Vibe Score this week: 72/100** — Quiet confidence. No need to shout.
 
----
 
 *Know a nightlife spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Port Melbourne — 2026 Local Guide"
 cover_image: "/images/port-melbourne/nightlife-guide.jpg"
+---
+
 suburb: "port-melbourne"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The complete Port Melbourne nightlife guide for 2026 — from waterfront bars and rooftop venues to local pubs and the growing Bay Street scene."
 tags: ["port-melbourne"]
 categories: ["nightlife"]
----
 # Port Melbourne Nightlife Guide 2026 — Waterfront Vibes and Growing Bars
 
 Port Melbourne has an identity problem. Is it the ritzy waterfront suburb with multimillion-dollar apartments and harbour views? Is it the working-class area with tradie pubs and fishing history? The answer, increasingly, is that it's both — and that tension makes for a nightlife scene that's more interesting than you might expect. The suburb has transformed dramatically over the past decade, with new developments bringing new venues, new residents, and new energy. But the old pubs are still there, serving the people who've been coming here for decades.
@@ -18,7 +19,6 @@ The Bay Street strip is the obvious starting point for a night out — it's walk
 
 **Last updated: 17 March 2026** | **Port Melbourne Vibe Score: 74/100** ⚡️
 
----
 
 ## The Classic Pubs: Where Local History Lives
 
@@ -42,7 +42,6 @@ The dual-level layout means different vibes depending on where you sit. Downstai
 **Where:** 286 Bay Street, Port Melbourne
 **Insider tip:** The rooftop bar gets crowded on Friday and Saturday nights. Weeknight visits are more relaxed and let you actually enjoy the views.
 
----
 
 ## The New Wave: Port Melbourne's Emerging Bar Scene
 
@@ -76,7 +75,6 @@ This is the kind of place that works for dates, for group catchups, for after-wo
 **Where:** Bay Street, Port Melbourne
 **Insider tip:** Arrive before sunset to claim a good spot and watch the sky change colour. The views are the main draw, so position yourself accordingly.
 
----
 
 ## The Waterfront Experience: Station Pier and Beyond
 
@@ -90,7 +88,6 @@ The atmosphere here is different from the Bay Street strip — quieter, more rel
 **Where:** Station Pier, Port Melbourne
 **Insider tip:** Combine it with a walk along the beach foreshore. The area has improved dramatically in recent years and is now genuinely pleasant to walk around.
 
----
 
 ## The Late-Night Situation
 
@@ -98,7 +95,6 @@ Port Melbourne's nightlife winds down around midnight on most nights, with a few
 
 The suburb's proximity to Albert Park means there's a particular energy during the Grand Prix period, when the area transforms into a temporary entertainment precinct. Outside of that, the vibe is more consistent and less chaotic.
 
----
 
 ## What We Skipped and Why
 
@@ -110,7 +106,6 @@ The suburb's proximity to Albert Park means there's a particular energy during t
 
 **Clubs:** Port Melbourne simply doesn't have a club scene worth writing about. For dancing until dawn, you're looking at the city or South Melbourne.
 
----
 
 ## Cross-Suburb Nightlife
 
@@ -119,7 +114,6 @@ The suburb's proximity to Albert Park means there's a particular energy during t
 - [Nightlife in St Kilda](/st-kilda/nightlife-guide) — The bayside party scene
 - [Nightlife in Southbank](/southbank/nightlife-guide) — Riverfront bars and city proximity
 
----
 
 **Your Port Melbourne Vibe Score this week: 74/100** — A suburb in transition with solid options and improving venues.
 
@@ -127,7 +121,6 @@ The suburb's proximity to Albert Park means there's a particular energy during t
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 *Also see: [Best Pubs in Port Melbourne](/port-melbourne/best-pubs) · [Best Bars in Port Melbourne](/port-melbourne/best-bars) · [Rooftop Bars in Melbourne](/melbourne/rooftop-bars) · [Albert Park Night Out](/albert-park/nightlife-guide) · [South Melbourne Food and Drink](/south-melbourne/best-restaurants)*
 ## Related Articles

@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jack
 tags: ["brighton", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Brighton Honest Guide 2026: Church Street & The Beach Boxes
+description: "Brighton Honest Guide 2026: Church Street & The Beach Boxes"
+---
 
-Updated 16 March 2026 | Jack Morrison reporting
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
 
 Let's get this out of the way upfront: Brighton..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # Brighton Honest Guide 2026: Church Street & The Beach Boxes
 
 Updated 16 March 2026 | Jack Morrison reporting
@@ -19,7 +24,6 @@ Let's get this out of the way upfront: Brighton is Melbourne's most photographed
 
 I've spent enough time here to know the difference between the Brighton that shows up in real estate brochures and the Brighton people actually live in. Here's the honest one.
 
----
 
 ## Church Street: The Strip That Doesn't Try Too Hard
 
@@ -33,7 +37,6 @@ Church Street, Brighton is not Chapel Street. It's not Acland Street. It doesn't
 
 **What it doesn't have:** A decent late-night option. Church Street winds down by 9pm like a responsible suburb that has an early start tomorrow. If you want a proper sit-down dinner with drinks that goes past 10pm, you're heading to Hampton or down to Elwood where the dining culture has a bit more breathing room.
 
----
 
 ## The Bathing Boxes: Yes, They're Worth Seeing. No, You Don't Need an Article About Them.
 
@@ -48,7 +51,6 @@ Here's what the Instagram posts don't tell you:
 
 The bathing boxes are a Melbourne icon and they deserve their reputation. Just manage your expectations — they're a 15-minute photo stop, not a day trip.
 
----
 
 ## Living in Brighton: The Maths and the Vibe
 
@@ -60,7 +62,6 @@ Brighton's median house price sits around $2.8 million in early 2026, according 
 
 **Getting to the city** takes 25–30 minutes on the Sandringham line from Brighton Beach station. The train runs frequently during peak and the commute is painless if unremarkable. Driving into the CBD is a different story — Beach Road is a scenic crawl that can take 45 minutes or more when the bay trail is busy, and the Nepean Highway is a speed-limited gauntlet of traffic lights. Park at the station and take the train. Seriously.
 
----
 
 ## The Neighbourhood Web: Brighton's Place in the Bayside Chain
 
@@ -72,7 +73,6 @@ Brighton doesn't exist in isolation. It sits in a chain of bayside suburbs, each
 
 **Brighton East** (technically its own suburb, but let's be real — it's Brighton's backyard) is where you find the bigger blocks, the newer builds, and the golf courses. Hurlingham Park and the Royal Brighton Yacht Club straddle the border. Brighton East is quieter, more residential, and significantly less photogenic. The median house price is slightly lower (~$2.1M), which in Brighton terms means "only" expensive rather than eye-wateringly so. If you want Brighton's postcode and schools without the bathing box premium, this is where you look.
 
----
 
 ## What We Skipped and Why
 
@@ -82,7 +82,6 @@ We didn't deep-dive the Royal Brighton Yacht Club because unless you're a member
 
 We also skipped a detailed nightlife section because Brighton doesn't have one. The pubs close early, there's no cocktail bar worth the name, and anyone telling you Brighton has a "happening scene" is either lying to sell you something or has never left the suburb. For a proper night out, head to Elwood or Hampton and come home to Brighton for the quiet satisfaction of a well-maintained nature strip.
 
----
 
 ## The Honest Verdict
 
@@ -92,7 +91,6 @@ The bathing boxes are gorgeous and absurd in equal measure. Church Street is qui
 
 If you can afford it and you value peace over pulse, Brighton is a genuinely lovely place to live. Just don't expect it to surprise you very often.
 
----
 
 **Rate this article:** Was this guide useful? [👍](/feedback) [👎](/feedback)
 

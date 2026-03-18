@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Richmond — 2026 Local Guide"
 cover_image: "/images/richmond/best-coffee.jpg"
+---
+
 suburb: "richmond"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the best coffee in Richmond. Our verified 2026 guide covers the best spots for locals."
 tags: ["richmond"]
 categories: ["general"]
----
 ## The Best Coffee in Richmond
 
 Richmond doesn't have the coffee reputation of Fitzroy or Brunswick — and that's actually an advantage. The cafes here aren't performing for Instagram or competing for "best new roaster" awards. They're just making excellent coffee for the people who live and work here. That said, the standard is absurdly high. Richmond's proximity to the city means it draws serious baristas, and the rents aren't quite premium enough to force the soul-crushing mediocrity you find in some CBD-adjacent suburbs.
 
 Here's where to get the best cup in Richmond right now.
 
----
 
 ## 1. Axil Coffee Roasters — 545 Church Street, Richmond
 
@@ -28,7 +28,6 @@ Axil is one of Melbourne's most respected roasters and their Church Street outpo
 
 **Accessibility:** Step-free entry, accessible bathroom. Good for wheelchair users.
 
----
 
 ## 2. Stagger Lee's — 357 Swan Street, Richmond
 
@@ -38,7 +37,6 @@ Stagger Lee's occupies a weird and wonderful spot in the Richmond ecosystem — 
 
 **The vibe:** Moody lighting, vintage decor, a bar that looks like it belongs in a speakeasy. It's busy from open to close but never feels rushed. Good for solo coffee or a lingering weekend session.
 
----
 
 ## 3. Omelette — 352 Church Street, Richmond
 
@@ -48,7 +46,6 @@ Omelette is a small-batch roaster-cafe that punches well above its weight. The s
 
 **The vibe:** Compact, warm, and focused. A handful of stools, a counter where you can watch the baristas work, and a genuine neighbourhood feel. This isn't a laptop cafe — it's a come-for-coffee-and-conversation spot.
 
----
 
 ## 4. Code Black Coffee — 580 Church Street, Richmond
 
@@ -58,7 +55,6 @@ Code Black has a second Richmond location on Church Street, further south than t
 
 **The vibe:** Spacious, good acoustics for conversation, and dog-friendly outdoor seating. It's a reliable default when you want good coffee without any drama. The Church Street location is less hectic than their other venues.
 
----
 
 ## 5. The Corner Store Cafe — 220 Swan Street, Richmond
 
@@ -68,7 +64,6 @@ Don't let the name fool you. This is not a quaint corner store selling mixed lol
 
 **The vibe:** Cosy, neighbourhood-oriented, and slightly under the radar. It doesn't have the foot traffic of the Swan Street heavy-hitters, which means you're more likely to get a seat. Good for a quiet weekday morning.
 
----
 
 ## 6. 7 Seeds — 597 Church Street, Richmond
 
@@ -78,7 +73,6 @@ Don't let the name fool you. This is not a quaint corner store selling mixed lol
 
 **The vibe:** Industrial-meets-botanical. Plants everywhere, exposed brick, and a surprisingly spacious outdoor area. It attracts a slightly more polished crowd than some of the other spots on this list — think Cremorne office workers on lunch breaks.
 
----
 
 ## 7. The Black Cat — 226 Swan Street, Richmond
 
@@ -90,7 +84,6 @@ The Black Cat is a quieter operation tucked on Swan Street that has quietly buil
 
 **Accessibility:** Step-free entry at ground level. Small interior but navigable.
 
----
 
 ## The Prices at a Glance
 
@@ -106,7 +99,6 @@ The Black Cat is a quieter operation tucked on Swan Street that has quietly buil
 
 Prices as of early 2026. Coffee prices only go one direction and it's not down.
 
----
 
 ## What We Skipped and Why
 
@@ -116,7 +108,6 @@ Prices as of early 2026. Coffee prices only go one direction and it's not down.
 
 **McDonald's McCafé:** No. Just no.
 
----
 
 ## Cross-Suburb Coffee Comparisons
 
@@ -126,7 +117,6 @@ Richmond borders some of Melbourne's best coffee neighbourhoods. If you're explo
 - [Best Coffee in Collingwood](/collingwood/best-coffee) — Smith Street's competitive scene pushes standards sky-high
 - [Best Coffee in Cremorne](/cremorne/best-coffee) — The corporate precinct hiding some serious espresso talent
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ What's your Richmond coffee order?**
@@ -137,7 +127,6 @@ Richmond borders some of Melbourne's best coffee neighbourhoods. If you're explo
 
 [Vote in our weekly suburb poll →](/poll/richmond-coffee-order)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Richmond Vibe Score This Week: 88/100**
@@ -146,7 +135,6 @@ Coffee culture is pulling its weight this week. The cafe scene has been stable w
 
 [See the full Vibe Score breakdown →](/richmond/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 Think we missed your spot?**
@@ -155,7 +143,6 @@ Richmond has more good cafes than we can fit in one list. Tell us where we shoul
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Richmond**
@@ -164,7 +151,6 @@ Richmond has more good cafes than we can fit in one list. Tell us where we shoul
 - [Neighbourhood Guide to Richmond](/richmond/neighbourhood-guide) — the full suburb deep-dive
 - [New Openings in Richmond](/richmond/new-openings) — what's just landed on the scene
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every coffee, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

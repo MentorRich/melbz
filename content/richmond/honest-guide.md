@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["richmond", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Richmond Honest Guide 2026: Vietnamese Food & Football Culture
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Richmond Honest Guide 2026: Vietnamese Food & Football Culture"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Richmond is the suburb Melbourne built ..."
----
 # Richmond Honest Guide 2026: Vietnamese Food & Football Culture
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Richmond is the suburb Melbourne built on pho and premierships, and honestly, it's never apologised for either. This is the postcode where Vietnamese grandmothers outnumber craft beer sommelis three to one, where the roar from the MCG rattles your ribs on a Saturday afternoon, and where Victoria Street's neon signs flicker like a city within a city. It's chaotic, it's delicious, it's loud, and it is absolutely itself.
 
@@ -105,7 +108,6 @@ If you want Melbourne at its most multicultural and unfiltered, Richmond deliver
 
 Come for the pho. Stay for the footy. And whatever you do, don't try to get a parking spot on game day.
 
----
 
 *Want more? Read our [Cremorne Honest Guide](/cremorne/honest-guide), [Collingwood Honest Guide](/collingwood/honest-guide), and [South Yarra Honest Guide](/south-yarra/honest-guide) for the full inner-east picture.*
 
@@ -113,7 +115,6 @@ Come for the pho. Stay for the footy. And whatever you do, don't try to get a pa
 **Found this useful?**
 🔖 [Save this guide](#) · 📤 [Share with a friend](#) · 💬 [Tell us what we missed](#)
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 

@@ -5,10 +5,10 @@ date: 2026-03-16
 author: priya
 tags: ["melbourne-cbd", "asian", "food"]
 categories: ["food"]
-description: "Best Asian Food in Melbourne CBD 2026: Dumplings, Ramen & Beyond
+description: "Best Asian Food in Melbourne CBD 2026: Dumplings, Ramen & Beyond"
+---
 
 Melbourne CBD's Asian food scene is ruthless in the best possible way. The competition on L..."
----
 # Best Asian Food in Melbourne CBD 2026: Dumplings, Ramen & Beyond
 
 Melbourne CBD's Asian food scene is ruthless in the best possible way. The competition on Little Bourke Street, Flinders Lane, and Swanston Street means only the restaurants with genuine craft survive past year two. This is not a list of tourist traps or Instagram-friendly degustations. These are the places where the food earns every cent of your spend — from $8 dumpling plates that feed two to blowout Cantonese feasts that justify a celebratory dinner.
@@ -17,7 +17,6 @@ We ate our way through the CBD over four weeks, hitting lunch and dinner service
 
 **Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
 
----
 
 ## 🗳️ VOTE: What's your CBD go-to?
 
@@ -30,7 +29,6 @@ We ate our way through the CBD over four weeks, hitting lunch and dinner service
 >
 > **Vote below — we'll share the results next week.**
 
----
 
 ## 1. Shanghai Village Dumpling
 **The vibe:** Chaotic, fluorescent-lit, zero pretence. Exactly what a dumpling house should be.
@@ -44,7 +42,6 @@ The pan-fried pork buns ($9.80) come with the signature crispy bottom and a scat
 **Hours:** Mon–Sun 11am–10pm
 **Insider tip:** Skip the upstairs seating. Wait five minutes for a downstairs table. The atmosphere is part of the experience.
 
----
 
 ## 2. Supernormal
 **The vibe:** Polished without being stiff. Andrew McConnell's love letter to pan-Asian flavours.
@@ -60,7 +57,6 @@ Expect to spend $50–80 per person with drinks. Book ahead on weekends or prepa
 **Hours:** Mon–Sat 12pm–10pm, Sun 12pm–9pm
 **Insider tip:** The cocktail list rotates seasonally. The "Supernormal Negroni" with shiso is worth the visit alone.
 
----
 
 ## 3. Mr Huang Jin Dumplings
 **The vibe:** Cosy, family-run, and unapologetically focused on doing one thing brilliantly.
@@ -76,7 +72,6 @@ Lunch specials bring the price down to around $15–20 per person, making this o
 **Hours:** Mon–Fri 11:30am–3pm, 5pm–9:30pm; Sat–Sun 11:30am–9:30pm
 **Insider tip:** The lunch service is quieter and faster. Dinner queues can hit 20 minutes on Fridays.
 
----
 
 ## 4. Tina's Noodle Kitchen
 **The vibe:** Loud, spicy, unapologetic. This is Chongqing street food, not your mum's chicken corn soup.
@@ -92,7 +87,6 @@ Budget around $18–25 per person for a filling meal with a cold drink. Delivery
 **Hours:** Mon–Sun 10am–10pm
 **Insider tip:** Order at spice level "medium" first. You can always add chilli, but you can't take it back.
 
----
 
 ## 5. Old Beijing
 **The vibe:** Imperial Chinese with yum cha energy. Part feast, part spectacle.
@@ -108,7 +102,6 @@ Weekend yum cha gets packed — arrive before 11:30am or book ahead. Weekday din
 **Hours:** Mon–Sun 11am–10:30pm (yum cha on weekends)
 **Insider tip:** The duck takes 30–40 minutes. Order it when you sit down, then fill up on dumplings while you wait.
 
----
 
 ## 6. Kan Eang by Thai Culinary
 **The vibe:** Polished Thai dining that actually tastes like Thailand, not a hotel buffet's interpretation.
@@ -124,7 +117,6 @@ A full meal with a Thai iced tea runs $35–50 per person. They do a lunch expre
 **Hours:** Mon–Sun 12pm–2:30pm, 5:30pm–10pm
 **Insider tip:** The express lunch menu (Tue–Fri) includes a main, rice, and a drink for under $25. It's the best Thai lunch deal in the CBD.
 
----
 
 > ⚡ **THE MOVE**
 >
@@ -134,7 +126,6 @@ A full meal with a Thai iced tea runs $35–50 per person. They do a lunch expre
 >
 > **If you just want to sweat it out:** Tina's Noodle Kitchen. Bring tissues.
 
----
 
 
 ## Venue Addresses & Details
@@ -157,7 +148,6 @@ Not every CBD Asian restaurant made the cut. Here's what we left off and why:
 
 **Ramen-only spots** — Melbourne CBD has several dedicated ramen shops (some excellent), but we've covered those separately in our [Best Ramen in Melbourne CBD](/melbourne-cbd/best-ramen) guide. Supernormal's seasonal ramen made this list because it stands up against the specialists.
 
----
 
 
 ## Venue Addresses & Details
@@ -178,7 +168,6 @@ The CBD's density means you're never more than a five-minute walk from something
 
 For more on where Melbourne's food scene is heading, our [2026 Melbourne Food Trends: What's Hot and What's Not](/melbourne-wide/food-trends-2026) breakdown covers the cuisines, price points, and neighbourhoods to watch.
 
----
 
 ### 🗳️ POLL RESULTS PREVIEW
 
@@ -190,7 +179,6 @@ For more on where Melbourne's food scene is heading, our [2026 Melbourne Food Tr
 >
 > *New poll above — cast your vote!*
 
----
 
 ### 😍 How did this article make you feel?
 
@@ -199,13 +187,11 @@ For more on where Melbourne's food scene is heading, our [2026 Melbourne Food Tr
 > 😏 Smug — I already knew all of these
 > 😤 Frustrated — you missed my favourite place
 
----
 
 ### 🔥 URGENCY BANNER
 
 > **Weekend warning:** Old Beijing's Peking duck is first-come, first-served and they only prep a limited number each day. If you want duck on Saturday night, book by Thursday. We've seen it sell out by 7pm.
 
----
 
 *Updated 16 March 2026 | Prices verified in February–March 2026 | All meals paid for by MELBZ — no comped meals, no sponsors, no editorial influence*
 

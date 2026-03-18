@@ -1,6 +1,8 @@
 ---
 title: "Best Restaurants in Fitzroy — 2026 Local Guide"
 cover_image: "/images/fitzroy/best-restaurants.jpg"
+---
+
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "jules"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the best restaurants in Fitzroy. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy"]
 categories: ["best"]
----
 ## The Best Restaurants in Fitzroy
 
 Fitzroy doesn't do boring dining. This is the suburb where Melbourne's food scene took its most interesting risks — where fine dining shares streets with Vietnamese hole-in-the-wards, where a $15 banh mi sits three doors down from a $200 tasting menu, and where nobody judges you for doing both in the same day.
 
 The restaurant scene here is genuinely diverse: modern Australian, Italian, Japanese, Vietnamese, and places that defy categorisation entirely. What they all share is a commitment to doing something well, not just doing something trendy. Here's where to eat in Fitzroy right now.
 
----
 
 ## 1. Bar Liberty — 234 Johnston Street, Fitzroy
 
@@ -28,7 +28,6 @@ Bar Liberty is the restaurant that made Johnston Street a dining destination rat
 
 **Budget check:** Small plates $14–$28. Mains $32–$45. Two people with wine: $100–$160.
 
----
 
 ## 2. Cutler & Co — 55 Gertrude Street, Fitzroy
 
@@ -40,7 +39,6 @@ Cutler & Co has been one of Melbourne's finest restaurants for over a decade, an
 
 **Budget check:** Tasting menu $150pp. À la carte mains $42–$58. Two people with wine: $200–$350.
 
----
 
 ## 3. Rocco's Bologna Discoteca — 257 Gertrude Street, Fitzroy
 
@@ -52,7 +50,6 @@ Rocco's started as a pop-up sandwich operation and earned itself a permanent hom
 
 **Budget check:** Sandwiches $16–$20. Pasta $22–$28. Two people with wine: $80–$120.
 
----
 
 ## 4. Marion — 533 Brunswick Street, Fitzroy (Fitzroy North border)
 
@@ -64,7 +61,6 @@ Marion sits right on the Fitzroy–Fitzroy North border and straddles both world
 
 **Budget check:** Set menu $75pp. À la carte mains $32–$48. Two people with wine: $120–$200.
 
----
 
 ## 5. Evie's Disco Diner — 230 Gertrude Street, Fitzroy
 
@@ -76,7 +72,6 @@ Evie's is the anti-fine-dining restaurant that Fitzroy didn't know it needed. Th
 
 **Budget check:** Burgers $18–$22. Sides $10–$16. Two people with drinks: $60–$85.
 
----
 
 ## 6. Rue de Thanh — 223 Brunswick Street, Fitzroy
 
@@ -88,7 +83,6 @@ Rue de Thanh brings Vietnamese food to Fitzroy with a French-influenced twist �
 
 **Budget check:** Mains $16–$28. Starters $10–$16. Two people: $55–$80.
 
----
 
 ## 7. Matteo's — 575 Nicholson Street, Fitzroy North
 
@@ -100,7 +94,6 @@ Matteo's occupies a beautiful Victorian terrace on the Fitzroy North end and has
 
 **Budget check:** Starters $18–$36. Mains $38–$58. Two people with wine: $150–$220.
 
----
 
 ## The Price Comparison
 
@@ -114,7 +107,6 @@ Matteo's occupies a beautiful Victorian terrace on the Fitzroy North end and has
 | Rue de Thanh | Vietnamese-French | Phở | $18 | $55–$80 |
 | Matteo's | Contemporary | Wagyu Rump Cap | $52 | $150–$220 |
 
----
 
 ## What We Skipped and Why
 
@@ -124,7 +116,6 @@ Matteo's occupies a beautiful Victorian terrace on the Fitzroy North end and has
 
 **Brunswick Street mega-restaurants with set-hour seatings:** We don't rate places that treat dinner like a factory shift. When you're spending $100+ on dinner, you should be able to arrive when you want.
 
----
 
 ## Cross-Suburb Restaurant Guides
 
@@ -132,7 +123,6 @@ Matteo's occupies a beautiful Victorian terrace on the Fitzroy North end and has
 - [Best Restaurants in Carlton](/carlton/best-restaurants) — Lygon Street's Italian dominance
 - [Best Restaurants in Fitzroy North](/fitzroy-north/best-restaurants) — The quieter, more local dining scene
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ Date night budget: what's the sweet spot?**
@@ -143,7 +133,6 @@ Matteo's occupies a beautiful Victorian terrace on the Fitzroy North end and has
 
 [Vote in our weekly suburb poll →](/poll/fitzroy-dining-budget)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Fitzroy Vibe Score This Week: 91/100**
@@ -152,7 +141,6 @@ Fitzroy's restaurant scene is one of the strongest in Melbourne. The diversity o
 
 [See the full Vibe Score breakdown →](/fitzroy/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 Where do you take visitors for dinner in Fitzroy?**
@@ -161,7 +149,6 @@ Every local has a go-to. What's yours — and what do you order?
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Fitzroy**
@@ -170,7 +157,6 @@ Every local has a go-to. What's yours — and what do you order?
 - [Best Cafes in Fitzroy](/fitzroy/best-cafes) — recover the next morning
 - [Date Night in Fitzroy](/fitzroy/date-night) — the complete evening planner
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

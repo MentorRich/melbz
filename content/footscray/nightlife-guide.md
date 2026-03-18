@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Footscray — 2026 Local Guide"
 cover_image: "/images/footscray/nightlife-guide.jpg"
+---
+
 suburb: "footscray"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the nightlife in Footscray. Our verified 2026 guide covers the best bars, pubs, and late-night spots for locals."
 tags: ["footscray"]
 categories: ["nightlife"]
----
 ## The Best Nightlife in Footscray
 
 Footscray's nightlife doesn't scream for attention. It doesn't need to. This is a suburb where you can start the evening at a heritage pub, end it at a goth-themed burlesque bar, and spend nothing more than you would on a round in the CBD. The western suburbs have always done things differently — less pretension, more personality — and Footscray's bar scene is the proof.
@@ -18,7 +19,6 @@ Whether you're after a quiet pint, a proper dance, or something you'll tell peop
 
 **Last updated: March 2026** | **Footscray Vibe Score: 74/100 🟢 THRIVING**
 
----
 
 ## 1. Sloth Bar
 **The vibe:** A two-storey maze with enough rooms to keep any night interesting
@@ -31,7 +31,6 @@ Sloth Bar is the reliable friend of Footscray nightlife — always there, always
 **Best for:** Groups, casual catch-ups, nights that start early and go late
 **Insider tip:** The balcony is the best seat in the house on a Friday night — grab two stools and watch Barkly Street do its thing. The beer garden fills up fast on Saturdays, so arrive by 6pm.
 
----
 
 ## 2. Misfits
 **The vibe:** Art, music, and a dancefloor that gets properly busy
@@ -44,7 +43,6 @@ Misfits took over the former Baby Snakes space and turned it into one of the mos
 **Best for:** Dancing, late nights, music lovers
 **Insider tip:** Saturday nights are the main event — arrive by 9pm for a spot. Weeknights are more chill, with art-focused events and smaller DJ sets.
 
----
 
 ## 3. Hail Lilith
 **The vibe:** Gothic glamour meets bourbon-fuelled burlesque
@@ -57,7 +55,6 @@ Named after the banished first wife of Adam, Hail Lilith goes its own way — an
 **Best for:** Date nights with an edge, group outings, anyone who's bored of "normal" bars
 **Insider tip:** Burlesque nights sell out fast — book ahead. The plant-based sharing plates are legitimately good and worth ordering even if you're "not vegan."
 
----
 
 ## 4. Back Alley Sally's
 **The vibe:** Hidden, unpretentious, and open late — the bar equivalent of a secret handshake
@@ -70,7 +67,6 @@ Head down a laneway and up a flight of stairs to find one of Footscray's most un
 **Best for:** Late-night drinks, casual groups, people who hate "vibey" bars
 **Insider tip:** The laneway entrance is easy to miss — look for the stairs. If you're bar-hopping from [West Melbourne](/suburbs/west-melbourne), it's the perfect halfway stop before the night gets serious.
 
----
 
 ## 5. BarBack (formerly Back Alley Sally's bar section)
 **The vibe:** The upstairs cocktail arm of the Sally's complex
@@ -83,7 +79,6 @@ Connected to the downstairs dining, BarBack focuses on well-made cocktails in a 
 **Best for:** Couples, smaller groups, food-and-drink combo evenings
 **Insider tip:** The cocktail specials change regularly — ask the bartender what's new.
 
----
 
 ## 6. The Station Hotel
 **The vibe:** A serious pub with serious drinks and the best steaks in the west
@@ -96,7 +91,6 @@ The Station Hotel straddles the line between gastropub and proper restaurant, an
 **Best for:** Pre-dinner drinks, weekend sessions, wine-lovers
 **Insider tip:** The courtyard catches afternoon sun beautifully. Grab a table out there with a glass of shiraz and a cheese board — that's a Tuesday done right.
 
----
 
 ## 7. Victoria Hotel Footscray
 **The vibe:** A contemporary pub ahead of the curve
@@ -109,7 +103,6 @@ The Vic is a Footscray pub that bucks tradition in the best way. It has an entir
 **Best for:** Footy nights, gluten-free diners, anyone who wants a pub that feels slightly make betterd
 **Insider tip:** Bulldogs home games transform this pub into a sea of red, white, and blue. Arrive early if you want a seat.
 
----
 
 ## 8. Hop Nation Brewing Co.
 **The vibe:** Experimental craft beer in a hidden 19th-century factory
@@ -122,7 +115,6 @@ Two former winemakers started Hop Nation, and their background shows in the expe
 **Best for:** Beer enthusiasts, small groups, people who want something different
 **Insider tip:** The unmarked entrance is part of the charm. If you're visiting from [Seddon](/suburbs/seddon), combine this with a walk along the Maribyrnong River.
 
----
 
 ## 9. Mr West
 **The vibe:** A neighbourhood bottle shop that doubles as a bar
@@ -135,7 +127,6 @@ Mr West in Nicholson Street Mall is the bottle shop for people who know what the
 **Best for:** Pre-bottle-shop drinks, quiet catch-ups, wine discovery
 **Insider tip:** Ask for a recommendation and they'll nail it every time. This is where Footscray locals come when they want to learn about wine without the intimidation of a fancy cellar door.
 
----
 
 ## 10. Footscray Bowls Club
 **The vibe:** Barefoot bowls, cold beer, and $50 memberships that pay for themselves
@@ -148,7 +139,6 @@ The Footscray Bowls Club is not a bar in the traditional sense, but it is one of
 **Best for:** Sunday arvo sessions, groups, anyone who wants something different
 **Insider tip:** Sunday arvo bowls followed by a walk along the Maribyrnong River at sunset is a weekend plan that costs almost nothing and delivers outsized joy.
 
----
 
 ## The Bar Crawl: One Perfect Night in Footscray
 
@@ -156,7 +146,6 @@ Here's the plan. Start at **Mr West** in Nicholson Street Mall at 5pm for a glas
 
 Coming from [Seddon](/suburbs/seddon)? Start at Bud Love for a quick glass, then walk up to Barkly Street. Coming from [Yarraville](/suburbs/yarraville)? The train takes three minutes to Footscray Station — you're on Barkly Street in under ten minutes from stepping off the train.
 
----
 
 ## The Bottom Line
 

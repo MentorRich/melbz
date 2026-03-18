@@ -5,11 +5,12 @@ date: 2026-03-16
 author: yuki
 tags: ["balaclava", "asian", "food"]
 categories: ["food"]
-description: "Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
-
-Carlisle Street doesn't shout about its Asian food scene. It doesn't need to. Between the fi..."
+description: "Best Asian Food in Balaclava 2026: Japanese, Thai & More"
 ---
+
 *Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
+
+
 
 Carlisle Street doesn't shout about its Asian food scene. It doesn't need to. Between the fish and chip shops and the sourdough bakeries, you'll find a quiet stretch of Japanese izakayas, Vietnamese pho canteens, a Korean-Japanese hybrid that shouldn't work but absolutely does, and a modern Chinese bistro housed in what used to be a Red Rooster. That's not a joke — the building was literally a Red Rooster before Moonhouse moved in.
 
@@ -17,7 +18,6 @@ Balaclava sits in a sweet spot between [St Kilda](/st-kilda/best-restaurants/) a
 
 I ate my way through six Asian restaurants over two weeks to find out which ones are actually worth your Saturday night.
 
----
 
 ## 1. Bounty of the Sun — The Izakaya That Earned Its Name
 
@@ -42,7 +42,6 @@ Low floor tables, counter seating, and a covered deck that's perfect for people 
 🍶 Honestly here for the sake
 :::
 
----
 
 ## 2. Moonhouse — The Art Deco Chinese Bistro
 
@@ -59,7 +58,6 @@ Weekend lunch is the real drawcard: unlimited yum cha with a rotating menu, incl
 
 **The order:** Salt and pepper calamari, Peking duck, and book a yum cha session for the full experience.
 
----
 
 ## 3. Park Bar — Korean-Japanese Fusion That Actually Works
 
@@ -83,7 +81,6 @@ The space is small, with hanging greenery and 90s Japanese pop music setting the
 🤷 Surprise me — serve me something I didn't know I liked
 :::
 
----
 
 ## 4. Mopho Canteen — Carlisle Street's Pho Fix
 
@@ -100,7 +97,6 @@ This is the kind of place you tell friends about in a whisper — not because it
 
 **The order:** Beef pho, Hanoi pork roll, and a Vietnamese iced coffee to finish.
 
----
 
 ## 5. Saigon Street Eats — A Family Pho Institution
 
@@ -122,7 +118,6 @@ After a decade on Carlisle Street, Saigon Street Eats recently expanded to a big
 Drop your pick on our [Instagram @melbzcomau](https://instagram.com/melbzcomau) — we'll settle this once and for all.
 :::
 
----
 
 ## 6. Top Taste on Carlisle — The $8 Banh Mi Benchmark
 
@@ -139,7 +134,6 @@ This is the grab-and-go option on the list. Don't expect table service or cockta
 
 **The order:** BBQ pork roll with extra chilli, plus a lamb roll for the road.
 
----
 
 
 ## Venue Addresses & Details
@@ -156,7 +150,6 @@ These didn't quite make the main list but deserve a shout-out:
 - **Charlong** (2/124 Carlisle St, St Kilda) — Just across the Balaclava border but worth the walk. Former Rice Paper Scissors and Longsong head chef Alex Kaew does contemporary Thai rooted in four regional styles. Casual fine dining without the price tag.
 - **Nogga Cafe** — A Balaclava café that does Japanese-influenced brunch dishes worth trying if you're in the area for a weekend morning.
 
----
 
 
 ## Venue Addresses & Details
@@ -174,7 +167,6 @@ These didn't quite make the main list but deserve a shout-out:
 
 **Quan 88** — A Barkly Street Vietnamese spot with strong pho credentials, but Saigon Street Eats and Mopho Canteen already cover the pho category at a higher standard with more consistent execution.
 
----
 
 
 ## Venue Addresses & Details
@@ -190,7 +182,6 @@ Balaclava's Asian food scene benefits from its location. [St Kilda](/st-kilda/) 
 
 The strip also hosts the Carlisle Street Market on select Saturdays, which draws local producers and adds a weekend buzz that spills into the surrounding restaurants. If you're planning a food-focused visit, a Saturday afternoon-to-evening crawl — market browsing followed by dinner at Park Bar or Moonhouse — is the way to do it.
 
----
 
 
 ## Venue Addresses & Details
@@ -210,7 +201,6 @@ The strip also hosts the Carlisle Street Market on select Saturdays, which draws
 | Saigon Street Eats | Vietnamese | 249 Carlisle St | $15–30pp |
 | Top Taste on Carlisle | Vietnamese Bakery | 109 Carlisle St | $1–15pp |
 
----
 
 
 ## Venue Addresses & Details
@@ -231,7 +221,6 @@ Start at Saigon Street Eats for lunch, grab a pork roll from Top Taste for the w
 Save this article and send it to the friend who always says "you choose the restaurant" then complains about what you pick. You know the one.
 :::
 
----
 
 *Yuki Tanaka is the Asian Food Editor at MELBZ, covering Melbourne's inner-south dining scene. Have a recommendation or a correction? Reach out via our [contact page](/contact/).*
 

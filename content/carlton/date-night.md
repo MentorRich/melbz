@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Carlton — 2026 Local Guide"
 cover_image: "/images/carlton/date-night.jpg"
+---
+
 suburb: "carlton"
 vertical: "lifestyle"
 author: "grace"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Discover the best date night spots in Carlton. Our verified 2026 guide covers romantic restaurants, bars, and experiences for couples."
 tags: ["carlton"]
 categories: ["date"]
----
 # Date Night in Carlton — Your 2026 Guide
 
 Carlton doesn't try to be romantic. It just is. The leafy streets, the warm glow of trattoria windows spilling onto Lygon Street, the hidden wine bars tucked behind unmarked doors — this is the kind of suburb where date night feels natural, not forced. Forget the CBD's overpriced degustations. Carlton gives you atmosphere without the pretension, and prices that don't require a second mortgage.
 
 **Last updated: 17 March 2026** | **Carlton Vibe Score: 82/100 🟢**
 
----
 
 ## 1. Di Stasio Carlton
 
@@ -29,7 +29,6 @@ This is the big one. Rinaldo Di Stasio's Carlton outpost is part restaurant, par
 **Hours:** Lunch and dinner, closed Mondays
 **Insider tip:** Book a table by the window for people-watching, or sit deeper inside for more intimacy. The bar area is also excellent for a pre-dinner drink if you're running early.
 
----
 
 ## 2. Cordelia
 
@@ -42,7 +41,6 @@ Opened in 2025 on Rathdowne Street by the team behind Prahran's beloved Don's wi
 **Hours:** Lunch Wed–Sun, dinner Wed–Sat
 **Insider tip:** The outdoor tables are gold on a sunny afternoon. Book ahead — it fills up fast.
 
----
 
 ## 3. Epocha
 
@@ -55,7 +53,6 @@ Epocha sits in a gorgeous double-storey terrace overlooking Carlton Gardens, and
 **Hours:** Dinner Wed–Sat, lunch Sat–Sun
 **Insider tip:** If it's your first time, ask for the upstairs bar when you book. Not everyone knows it's there.
 
----
 
 ## 4. Lagoon Dining
 
@@ -68,7 +65,6 @@ Lagoon Dining is a restaurant and bar that leans into Chinese culinary tradition
 **Hours:** Dinner Tue–Sun
 **Insider tip:** The bar area is first-come, no booking — turn up early and grab a seat for a more casual vibe.
 
----
 
 ## 5. The Carlton Wine Room
 
@@ -81,7 +77,6 @@ If you want to strip the date back to basics — wine, cheese, candlelight, good
 **Hours:** Evening, Tue–Sat
 **Insider tip:** Sit at the bar if you're a couple of two. It's more intimate than the tables.
 
----
 
 ## 6. Lèonie
 
@@ -94,7 +89,6 @@ A reimagination of Japanese dining, Lèonie brings a more refined approach to Ca
 **Hours:** Dinner, limited days — book ahead
 **Insider tip:** Don't rush it. This is a two-hour experience, and that's the point.
 
----
 
 ## 7. Cordelia Bar or Jimmy Watson's Wine Bar (Post-Dinner Drinks)
 
@@ -105,7 +99,6 @@ Every great date night needs a second act. If you've eaten at one of the restaur
 **Address:** Jimmy Watson's, 333 Lygon Street, Carlton
 **Insider tip:** Ask the bartender for a fortified wine recommendation. Jimmy Watson's selection is deep.
 
----
 
 ## Date Night Itineraries
 
@@ -124,7 +117,6 @@ Long lunch at Cordelia → Walk to Carlton North for a drink at Neighbourhood Wi
 ### The Low-Key Weeknight ($)
 Pasta at The Heart of Carlton ($5 each) → Walk through Carlton Gardens at dusk → Gelato at Casa Del Gelato ($6)
 
----
 
 ## A Note on Timing
 
@@ -132,7 +124,6 @@ Carlton is a suburb that rewards the off-peak. Saturday night dinner reservation
 
 The other thing to know about Carlton date nights: the streets are beautiful at night. The Carlton Gardens are lit up, Lygon Street has that warm trattoria glow, and the side streets (Faraday, Drummond, Nicholson) are quiet and atmospheric. Don't just go from restaurant to car. Walk. Let the suburb be part of the evening.
 
----
 
 ## Why Carlton Beats the CBD for Date Night
 
@@ -144,12 +135,10 @@ Let's be honest: the CBD's date night scene is overpriced and overhyped. You'll 
 
 Carlton is one of Melbourne's best date night suburbs because it doesn't try too hard. The restaurants are genuinely good, the bars are intimate, and the streets are beautiful to walk at night. You don't need a plan — just pick a restaurant, book a table, and let the suburb do the rest. And if things go well, Carlton North and Fitzroy are a ten-minute walk away for the next date.
 
----
 
 *Spotted a new date spot? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ## Continue Reading
 
@@ -160,7 +149,6 @@ Carlton is one of Melbourne's best date night suburbs because it doesn't try too
 → [Fitzroy's Best Date Night Spots](/fitzroy/date-night)
 → [Melbourne CBD Date Ideas](/melbourne-cbd/date-night)
 
----
 
 *Living in Carlton? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=carlton)*
 

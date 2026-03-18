@@ -5,24 +5,27 @@ date: 2026-03-16
 author: kai
 tags: ["melbourne-cbd", "pubs", "nightlife"]
 categories: ["nightlife"]
-description: "Best Pubs in Melbourne CBD 2026: Heritage, Rooftops & Craft
+description: "Best Pubs in Melbourne CBD 2026: Heritage, Rooftops & Craft"
+---
 
-Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
+**Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
+
+
 
 Melbourne's CBD pub scene does..."
----
+
+*Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
+
 # Best Pubs in Melbourne CBD 2026: Heritage, Rooftops & Craft
 
 *Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
 
 Melbourne's CBD pub scene doesn't sit still. While new cocktail bars and natural wine joints keep opening every few months, the traditional pub — the one where you can sink a proper pot and eat a parma off a chipped plate — remains the backbone of this city's after-work culture. We spent three weeks working through the CBD's best, starting at 5pm on a Wednesday and finishing at last drinks on a Saturday. Here's what made the cut.
 
----
 
 > **📢 URGENCY BANNER**
 > **Melbourne's CBD pub scene is shifting fast.** Three heritage venues on this list are currently undergoing renovations or have announced changes to their operating hours in 2026. If you want the full old-school experience, go before winter hits. Things are changing.
 
----
 
 ## 1. The Mitre Tavern — The Oldest Building in Melbourne
 
@@ -39,12 +42,10 @@ The Mitre sits at the top of our list because it does what a CBD pub should do: 
 
 **Our take:** The pub equivalent of a leather jacket — it only gets better with age.
 
----
 
 > **🍺 THE MOVE — Kai's Pick of the Week**
 > **Go here on a Tuesday night at 6:15pm.** Grab a table near the back, order a pot of Coopers and the chicken parma. By 6:30, trivia starts, and suddenly you're on a team with strangers who know far too much about Australian cricket. This is how you make mates in Melbourne. No app required.
 
----
 
 ## 2. Captain Melville — The Bushranger's Pub
 
@@ -61,7 +62,6 @@ The daily specials board is the move here. They run genuine discounts on food th
 
 **Our take:** The best pub for a weekday lunch that doesn't cost city prices.
 
----
 
 ## 3. The Duke of Wellington — Melbourne's Oldest Operating Pub
 
@@ -78,7 +78,6 @@ But the food menu deserves its own paragraph. The "Larmagiana" — a chicken par
 
 **Our take:** The rooftop alone justifies the visit. The Larmagiana justifies the food coma that follows.
 
----
 
 > **📊 POLL: What's your CBD pub priority?**
 > 🍺 Craft beer selection
@@ -88,7 +87,6 @@ But the food menu deserves its own paragraph. The "Larmagiana" — a chicken par
 >
 > *Drop your vote in the comments — we'll feature the winner in next month's pub guide.*
 
----
 
 ## 4. Young & Jackson — The Most Famous Pub in Melbourne
 
@@ -105,7 +103,6 @@ What makes Y&J work is that it balances its landmark status with genuine pub ene
 
 **Our take:** Touristy? Sure. But that's because it's actually good. Go for Chloe, stay for the craft taps.
 
----
 
 ## 5. Garden State Hotel — Four Levels of Pub Excellence
 
@@ -122,12 +119,10 @@ The Kiosk area rotates Melbourne food trucks, which means the offerings change r
 
 **Our take:** If you can't find something to like across four levels, the problem isn't the pub.
 
----
 
 > **📢 URGENCY BANNER**
 > **The Garden State Hotel's new Rooftop Garden opened in February 2026.** It's already packed on Friday evenings. If you want a table without a booking, aim for before 5pm on weekdays. The weekend wait times are getting real.
 
----
 
 ## 6. The Imperial Hotel — Bourke Street's Rooftop King
 
@@ -144,7 +139,6 @@ What makes the Imperial work as a CBD pub is its location and scale. Bourke Stre
 
 **Our take:** The rooftop is the headline, but the pub underneath earns its keep.
 
----
 
 > **📢 REACTION BAR**
 > **Which pub are you heading to this weekend?**
@@ -156,7 +150,6 @@ What makes the Imperial work as a CBD pub is its location and scale. Bourke Stre
 > 🍺 The Imperial
 > 💬 Tell us in the comments or tag a mate who needs a proper pub session.
 
----
 
 ## What We Skipped and Why
 
@@ -168,7 +161,6 @@ What makes the Imperial work as a CBD pub is its location and scale. Bourke Stre
 
 **Any venue on Hardware Lane** — Hardware Lane's restaurant-bar scene is more Italian dining than pub culture. Great for a meal with wine, not for a Tuesday afternoon pot.
 
----
 
 ## The Open Loop
 
@@ -176,7 +168,6 @@ If you enjoyed this CBD pub crawl, you'll want to read our [best late-night eats
 
 Planning a pub crawl across Melbourne's inner suburbs? Check out our suburb-by-suburb guides for [Richmond's Swan Street](/suburbs/richmond), [Carlton's Lygon Street](/suburbs/carlton), and [Fitzroy's Gertrude Street](/suburbs/fitzroy) — each with their own pick of the best locals.
 
----
 
 ## Quick Reference
 
@@ -189,7 +180,6 @@ Planning a pub crawl across Melbourne's inner suburbs? Check out our suburb-by-s
 | Garden State Hotel | 112 Flinders Lane | Four levels, rooftop garden, beer garden | $16–$30 meals |
 | The Imperial Hotel | 296 Bourke Street | Massive rooftop, reliable pub fare | $14–$24 meals |
 
----
 
 *All venues were visited in February–March 2026. Menus and hours may change. Check each pub's website or call ahead for current trading hours and special events. Prices are per main dish, drinks extra.*
 

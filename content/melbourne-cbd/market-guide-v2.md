@@ -5,12 +5,17 @@ date: 2026-03-16
 author: tyler
 tags: ["melbourne-cbd", "markets", "lifestyle"]
 categories: ["lifestyle"]
-description: "Melbourne CBD Market Guide 2026: Queen Vic & Beyond
+description: "Melbourne CBD Market Guide 2026: Queen Vic & Beyond"
+---
 
-Updated 16 March 2026 | Tyler James reporting
+**Updated 16 March 2026 | Tyler James reporting**
+
+
 
 There's a moment every Saturday morning where Melbourne f..."
----
+
+*Updated 16 March 2026 | Tyler James reporting*
+
 # Melbourne CBD Market Guide 2026: Queen Vic & Beyond
 
 *Updated 16 March 2026 | Tyler James reporting*
@@ -21,7 +26,6 @@ Markets are Melbourne's cultural heartbeat — not Federation Square, not the MC
 
 This guide covers the four pillars: **Queen Victoria Market**, **South Melbourne Market**, **Degraves Street**, and the **Block Arcade**. We'll compare them head to head, tell you what's changed this year, and explain exactly where to spend your Saturday dollar.
 
----
 
 ## Queen Victoria Market: The Undisputed Heavyweight
 
@@ -45,7 +49,6 @@ Queen Vic also has the best-value lunch options in the CBD if you know where to 
 
 First-timers, families, anyone wanting a genuine Melbourne experience, and anyone who needs to actually buy groceries for the week. It's the most versatile market in the city.
 
----
 
 ## South Melbourne Market: The Locals' Favourite
 
@@ -69,7 +72,6 @@ The café culture bleeds into the market itself. You'll find quality espresso al
 
 Food-focused shoppers, date mornings, anyone who finds Queen Vic overwhelming, and people living in [South Melbourne](https://melbz.com.au/south-melbourne), [South Yarra](https://melbz.com.au/south-yarra), or the southern CBD fringe.
 
----
 
 ## Queen Vic vs South Melbourne: The Head-to-Head
 
@@ -88,7 +90,6 @@ Food-focused shoppers, date mornings, anyone who finds Queen Vic overwhelming, a
 
 **The honest take:** Go to both. Queen Vic for the spectacle and the produce haul. South Melbourne for the focused food shopping and the dim sim pilgrimage. They're not competitors — they serve different purposes. Melbourne is big enough for both.
 
----
 
 ## Degraves Street: The Laneway That Eats
 
@@ -110,7 +111,6 @@ Degraves works best as a weekday lunch stop or a weekend coffee-and-pastry loop.
 
 CBD workers on lunch break, coffee enthusiasts, laneway culture devotees, and anyone heading to [Carlton](https://melbz.com.au/carlton) who wants to start the food crawl early.
 
----
 
 ## Block Arcade: Heritage Glamour Meets Gourmet
 
@@ -132,7 +132,6 @@ Block Arcade attracts a different crowd than Degraves or Queen Vic. There are mo
 
 Visitors, anyone wanting a more refined CBD market experience, chocolate and pastry lovers, and people who appreciate heritage architecture with their flat white.
 
----
 
 ## What We Skipped and Why
 
@@ -150,7 +149,6 @@ Every guide has blind spots, and we'd rather be honest about ours than pretend t
 
 We'd rather give you four things done well than twelve things done badly. That's how we roll at MELBZ.
 
----
 
 ## The Complete Saturday Morning Itinerary
 
@@ -168,7 +166,6 @@ For the ambitious, here's how to hit all four in a single morning:
 
 Total spend for the morning: roughly $50–70, including groceries. Total memories: immeasurable.
 
----
 
 ## Cross-Suburb Links
 
@@ -178,7 +175,6 @@ Want to keep exploring after the markets? We've got suburb guides for every corn
 - **[Carlton](https://melbz.com.au/carlton)** — Lygon Street's Italian quarter, just a short tram ride north. The logical next stop after a Degraves morning.
 - **[South Yarra](https://melbz.com.au/south-yarra)** — Prahran Market territory, Chapel Street retail, and the kind of brunch culture that starts arguments.
 
----
 
 ## The Bottom Line
 
@@ -188,7 +184,6 @@ The best part? They're all within walking or short tram distance of each other. 
 
 That's Melbourne. The market city. And it's never been better.
 
----
 
 *Tyler James is the Roast Editor at MELBZ, covering Melbourne's food, markets, and city life. He has eaten an unreasonable number of South Melbourne dim sims in the name of research. Contact: [tyler@melbz.com.au](mailto:tyler@melbz.com.au)*
 

@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/best-pubs.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "kai"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best pubs in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["general"]
----
 ## The Best Pubs in Fitzroy North
 
 This is your verified guide to the best pubs in Fitzroy North for 2026.
@@ -20,7 +21,6 @@ The pub scene here sits on Brunswick Street's northern stretch, spills into Quee
 
 Here's where to get a proper drink in Fitzroy North.
 
----
 
 ### 1. The Terminus Hotel
 
@@ -37,7 +37,6 @@ The Terminus is the kind of pub where you arrive for "just the one" and end up o
 
 **Insider tip:** Grab a seat by the front window on Sunday arvo. Brunswick Street foot traffic is free entertainment, and the people-watching from the Terminus is unbeatable.
 
----
 
 ### 2. The Fitzroy Pinnacle
 
@@ -52,7 +51,6 @@ Thursday nights see a trivia crowd roll in, and weekends are peak session territ
 
 **Insider tip:** The front bar is the real experience. The bistro area is fine, but if you want the Pinnacle at its most Pinnacle, plant yourself at the bar and let the night unfold.
 
----
 
 ### 3. The Delphi Tavern
 
@@ -65,7 +63,6 @@ The Delphi draws a mixed crowd: Greek-Australian families who've been in the are
 
 **Insider tip:** Sunday lunch at the Delphi is a neighbourhood institution. Book ahead if you want the lamb kleftiko — it sells out, and when it's gone, it's gone.
 
----
 
 ### 4. The Builders Arms Hotel
 
@@ -82,7 +79,6 @@ The front bar is classic pub territory — pool table, jukebox, plenty of seatin
 
 **Insider tip:** The Builders Arms does a weekday lunch special — any main + a drink for $25. It's one of the best pub lunch deals in the inner north.
 
----
 
 ### 5. The Marquis of Lorne
 
@@ -99,7 +95,6 @@ The beer garden is the Marquis's secret weapon — large, covered, with heaters 
 
 **Insider tip:** The Marquis does a "Sunday Session" — live acoustic music from 4pm to 7pm. It's the perfect way to end the weekend, and the beer garden fills up fast.
 
----
 
 ### 6. The Rob Roy
 
@@ -116,7 +111,6 @@ What makes the Rob Roy special is the atmosphere — it's the kind of place wher
 
 **Insider tip:** The Rob Roy's beer garden is open until late. It's the best spot in Fitzroy North for a late-night smoke or a conversation that shouldn't happen inside.
 
----
 
 ### 7. The Grace Darling Hotel
 
@@ -133,7 +127,6 @@ The Grace Darling is the kind of pub where you can have a quiet drink downstairs
 
 **Insider tip:** The rooftop bar gets busy on weekends, especially in summer. Arrive before 7pm if you want a seat with a view.
 
----
 
 ## Pub Economics in Fitzroy North
 
@@ -148,7 +141,6 @@ Pub prices in Fitzroy North in 2026:
 
 Compared to Fitzroy proper, Fitzroy North pubs are 10-15% cheaper on average. Compared to the CBD, they're 20-30% cheaper. This is one of the last suburbs in inner Melbourne where you can have a proper pub experience without spending $50 before you've even ordered food.
 
----
 
 ## Getting Home From the Pub
 
@@ -162,7 +154,6 @@ Fitzroy North pubs are well-served by public transport, but it pays to plan your
 
 **If you need help:** Fitzroy Police Station is at 292 Smith Street, Fitzroy, and is open 24 hours. For emergencies, always call 000.
 
----
 
 ## Cross-Links
 

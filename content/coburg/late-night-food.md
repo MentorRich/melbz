@@ -5,29 +5,30 @@ date: 2026-03-16
 author: ethan
 tags: ["coburg", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in Coburg 2026: Where to Eat After Dark
-
-Updated 16 March 2026 | 6 places tested | Ethan Cross reporting
-
+description: "Late Night Food in Coburg 2026: Where to Eat After Dark"
 ---
+
+**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
+
+
+
+
+*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
+
 
 Coburg has always been Melbour..."
----
 # Late Night Food in Coburg 2026: Where to Eat After Dark
 
 *Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
 
----
 
 Coburg has always been Melbourne's unsung after-dark suburb. While the food press obsesses over Chinatown and Lygon Street, the old north keeps its fluorescent lights glowing well past midnight — kebab smoke drifting across Sydney Road, pizza ovens cranking at 1am, and the 24-hour grill joints doing exactly what they've always done: feeding everyone, regardless of the hour.
 
 I spent two weeks eating my way up and down the strip to work out where it's actually worth stopping after 10pm. Some of these spots are institutions. A couple are holes in the wall you'd walk past without noticing. All of them deliver the goods when the rest of Melbourne has called it a night.
 
----
 
 ## The Picks: Where to Eat Late in Coburg
 
----
 
 ### 1. Fat Chef Coburg North — The 24-Hour Grail
 
@@ -43,7 +44,6 @@ The dining room is basic but clean, with booth seating and a counter. It attract
 
 **The verdict:** Not the best food in Coburg, but the only game in town when you're genuinely eating at 3am. Reliable for what it is.
 
----
 
 ### 2. Coburg Pizza — The 2am Slice King
 
@@ -59,7 +59,6 @@ Friday and Saturday nights are the peak, with the shop staying open until 2am. D
 
 **The verdict:** Solid, affordable pizza that hits the spot after midnight. No pretence, no problems. The Friday-night close at 2am makes it the best late-pizza option north of the river.
 
----
 
 ### 3. Al Kababjii — The Shawarma Cult Favourite
 
@@ -75,7 +74,6 @@ Prices have crept up since the pandemic — TikTok videos show skewer wraps now 
 
 **The verdict:** This is the best late-night kebab in Coburg, full stop. Get the chicken skewer wrap if you're a tahini skeptic, or the lamb if you're not. Open late Thu–Sun.
 
----
 
 ### 4. Pelicana Chicken — Korea's KFC Comes to the Strip
 
@@ -91,7 +89,6 @@ The Coburg location doesn't push to the extreme hours that the CBD store sometim
 
 **The verdict:** Genuinely excellent fried chicken in a casual setting. The bulgogi loaded fries alone are worth the trip. Check weekend hours if you're heading over after midnight.
 
----
 
 ### 5. Afghan Charcoal Kebab — The Quiet Achiever
 
@@ -107,7 +104,6 @@ The catch for this guide: Afghan Charcoal Kebab isn't a true late-night spot on 
 
 **The verdict:** The best daytime and early-evening kebab in Coburg, with weekend hours that stretch into genuine late-night territory. Don't sleep on the $5 falafel.
 
----
 
 ### 6. Nando's Coburg — The Reliable Safety Net
 
@@ -123,7 +119,6 @@ The Bell Street location is easy to reach by car with parking in the shopping ce
 
 **The verdict:** Not exciting, never disappointing. The 10pm close makes it a viable weeknight option when the proper late-night spots haven't opened yet. Best for families and comfort-food moments.
 
----
 
 ## What We Skipped and Why
 
@@ -139,7 +134,6 @@ Every late-night food guide has a shortlist of places that don't quite make the 
 
 **Any venue with inconsistent or unverifiable late-night hours** — If we couldn't confirm that a kitchen was reliably open past 10pm, we left it out rather than send you to a dark shopfront. Hours in Coburg shift seasonally, so always check Google or call ahead for the late-night spots listed above.
 
----
 
 ## Cross-Suburb Late-Night Options
 
@@ -151,7 +145,6 @@ One of Coburg's advantages is its position in the inner north's food corridor. Y
 
 The tram line down Sydney Road connects you from Coburg all the way to the CBD, which means you don't even need a car to access the full northside late-night circuit.
 
----
 
 ## The Bottom Line
 
@@ -159,11 +152,9 @@ Coburg isn't trying to be Melbourne's late-night food capital. It doesn't have t
 
 If you're north of Moreland Road after 10pm, you're covered.
 
----
 
 *Ethan Cross is the Late Night Editor at MELBZ. He has been eating after midnight in Melbourne's northern suburbs for more than a decade and has no plans to stop. Got a tip for a late-night spot we've missed? Drop it in the comments or find us on socials.*
 
----
 
 **Related MELBZ reading:**
 - [Best Late-Night Food in Brunswick 2026](https://melbz.com.au/brunswick/late-night-food)

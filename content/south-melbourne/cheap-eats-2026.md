@@ -5,12 +5,17 @@ date: 2026-03-16
 author: priya
 tags: ["south-melbourne", "cheap-eats", "food"]
 categories: ["food"]
-description: "Cheap Eats Under $20 in South Melbourne 2026
+description: "Cheap Eats Under $20 in South Melbourne 2026"
+---
 
-Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting
+**Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
+
+
 
 South Melbourne doesn't do pretentious. While..."
----
+
+*Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
+
 # Cheap Eats Under $20 in South Melbourne 2026
 
 *Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
@@ -93,7 +98,6 @@ Yes, there's always a queue. Yes, it's worth it. Agathe has become one of Melbou
 
 **Budget maths:** Two custard tarts and a coffee will run you about $13. That's breakfast sorted with pastries that would cost $18+ at a CBD patisserie.
 
----
 
 ## 🗳️ Poll: What's Your Go-To Under $20 Meal?
 
@@ -106,7 +110,6 @@ Yes, there's always a queue. Yes, it's worth it. Agathe has become one of Melbou
 
 Let us know in the comments or tag us @melbz.com.au on Instagram.
 
----
 
 ## What We Skipped and Why
 
@@ -120,7 +123,6 @@ Not every cheap eat in South Melbourne made the cut. Here's what we left off and
 
 **Any place that charges $18+ for a burger and calls it "cheap."** We set a hard $20 ceiling, and we meant it. If your meal requires you to lie to yourself about what "affordable" means, it's not on this list.
 
----
 
 ## 🗺️ Map It Out: Your South Melbourne Cheap Eats Crawl
 
@@ -134,7 +136,6 @@ Not every cheap eat in South Melbourne made the cut. Here's what we left off and
 
 Route starts and ends at South Melbourne Market, 322–326 Coventry Street. Open Wed, Fri, Sat, Sun.
 
----
 
 ## How South Melbourne Compares
 
@@ -146,7 +147,6 @@ South Melbourne sits in a sweet spot between three food-heavy neighbours. Here's
 
 The verdict? South Melbourne is the quiet achiever. No hype, no influencer tax, no $6 oat lattes (well, maybe one or two). Just good food at honest prices.
 
----
 
 ## 💬 Community Picks
 
@@ -160,7 +160,6 @@ The verdict? South Melbourne is the quiet achiever. No hype, no influencer tax, 
 
 Have a pick we missed? Drop it in the comments or hit us on Instagram @melbz.com.au.
 
----
 
 ## The Final Word
 
@@ -170,7 +169,6 @@ The trick in South Melbourne is knowing where to look. Skip the generic cafés c
 
 Eat well. Spend less. That's the South Melbourne way.
 
----
 
 *Priya Sandhu is the Food Editor at MELBZ. She's eaten her way through every suburb on the list and lived to tell the tale. Follow her picks @melbz.food on Instagram.*
 

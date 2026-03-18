@@ -1,5 +1,5 @@
 ---
-title: "Melbourne Food Guide — Best Restaurants, Cafes and Cheap Eats by Suburb"
+title: "Melbourne Food Guide — Best Restaurants, Cafes and Cheap Eats"
 cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
 description: "The definitive Melbourne food guide. Discover the best restaurants, cafes, brunch spots and cheap eats across Fitzroy, Carlton, St Kilda and beyond."
 author: "Priya Sandhu"
@@ -7,9 +7,6 @@ author_role: "Food & Dining Editor"
 author_image: "/images/authors/priya.jpg"
 ---
 
-Melbourne’s food scene doesn’t live in one postcode. It’s a sprawling, delicious mosaic that changes block by block, suburb by suburb. What you eat in Carlton is different from what you eat in St Kilda, which is different again from what you’ll find in Fitzroy. That’s the joy of eating here—every neighbourhood has its own personality, its own culinary traditions, and its own secret spots that locals guard fiercely.
-
-This guide is your map to that diversity. We’ve broken down Melbourne’s best food by suburb, so you can explore with intention. Whether you’re hunting for the perfect espresso, a degustation that’ll blow your mind, or a cheap eat that tastes like a million bucks, we’ve got you covered. Forget the generic “top 10” lists—this is about understanding where to go, why it’s good, and how each suburb contributes to Melbourne’s reputation as one of the world’s great eating cities.
 
 ## Where to eat, suburb by suburb
 

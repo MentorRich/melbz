@@ -1,6 +1,8 @@
 ---
 title: "Cheap Eats in Collingwood — 2026 Local Guide"
 cover_image: "/images/collingwood/cheap-eats.jpg"
+---
+
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "omar"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the cheap eats in Collingwood. Our verified 2026 guide covers the best spots for locals."
 tags: ["collingwood"]
 categories: ["cheap"]
----
 # Cheap Eats in Collingwood — Under $20 and Actually Good (2026)
 
 Let's be honest about something: there is no genuinely cheap food in Melbourne anymore. The $6 parma is dead. The $5 dumpling basket is a memory. But Collingwood — bless its concrete-and-graffiti heart — still has enough sub-$20 meals to keep your bank account from weeping. This suburb was built on working-class food, and while the warehouses have been converted into apartments, a decent chunk of the food scene still honours the original price point.
 
 **Last updated: 16 March 2026** | **Collingwood Vibe Score: 87/100 🟢**
 
----
 
 ## 1. N. Lee Bakery — The Banh Mi That Built an Empire
 
@@ -31,7 +31,6 @@ The CBD and South Melbourne branches are cleaner and have better lighting. The C
 **Hours:** Mon–Sat 7am–5pm, Sun 8am–4pm
 **Insider tip:** Go before 10am to skip the lunch crowd. The bread is freshest in the first two hours.
 
----
 
 ## 2. Red Sparrow Pizza — Woodfired Perfection Under $20
 
@@ -44,7 +43,6 @@ Red Sparrow (438 Smith Street) does one thing and does it brilliantly: thin-crus
 **Hours:** Wed–Sun from 5pm
 **Insider tip:** They don't take bookings for small groups — just rock up and put your name down. Tuesday night is the quietest if you hate queues. Grab a bottle from the BYO-friendly wine shop next door and make a night of it.
 
----
 
 ## 3. Hi Fi Collingwood — Chef Sandwiches, Serious Coffee, and Vinyl
 
@@ -57,7 +55,6 @@ Hi Fi (316 Smith Street) is Collingwood's newest cheap eat, and it's already bec
 **Hours:** 7am–3pm daily
 **Insider tip:** They sometimes have off-menu specials that only regulars know about. Ask what's fresh today — don't just read the board.
 
----
 
 ## 4. Smith & Deli — Vegan Food That Doesn't Preach
 
@@ -70,13 +67,11 @@ Smith & Deli (113 - 115 Moor Street) is one of those places that converts skepti
 **Hours:** Wed–Sun 9am–4pm
 **Insider tip:** The baked goods case is dangerous. The chocolate chip cookies ($4) are legitimately some of the best in Melbourne, vegan or otherwise. Don't skip them.
 
----
 
 ## 5. N. Lee Bakery (Bonus: the Original Location)
 
 We already covered N. Lee's Smith Street branch above, but it's worth noting that this bakery has been feeding Collingwood since 1991, making it one of the longest-running cheap eats in the inner north. The chain has expanded to the CBD, but the Collingwood shop retains the original charm — and prices that haven't kept pace with inflation, which is great for your wallet if not for the Lee family's margins.
 
----
 
 ## 6. Terror Twilight — Wholesome Bowls That Actually Fill You Up
 
@@ -89,7 +84,6 @@ Terror Twilight (11-13 Johnston Street) isn't the cheapest option on this list �
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** They do a shorter takeaway menu at the counter if you're in a rush — same quality, faster service, and you can eat on the Johnston Street footpath without feeling like you're missing anything.
 
----
 
 ## 7. The Farm Cafe — A Working Farm With a Cafe on It
 
@@ -102,7 +96,6 @@ The Farm Cafe at the Collingwood Children's Farm (70 St Heliers Street) is techn
 **Hours:** Daily 9am–4pm (kitchen closes 3:30pm)
 **Insider tip:** The second Saturday of each month is the farmers' market — arrive before 9am for the best produce and to beat the crowds. The cafe still operates during the market but gets heaving.
 
----
 
 
 ## Venue Addresses & Details
@@ -120,7 +113,6 @@ The Farm Cafe at the Collingwood Children's Farm (70 St Heliers Street) is techn
 - **Molly Rose Brewing** — Brewery food done well, but the Chef's Table and à la carte prices are a step above "cheap eat." Great for a splurge weekend.
 - **Supermarket prepared meals** — Coles and Woolies on Smith Street do $8–$10 meal deals, but that's not really what you come to Collingwood for, is it?
 
----
 
 
 ## Venue Addresses & Details
@@ -137,7 +129,6 @@ Collingwood's cheap eats scene isn't what it was ten years ago — nothing is �
 
 **Your Collingwood Vibe Score this week: 87/100** — good food, fair prices, zero pretension.
 
----
 
 *Know a spot we missed? [Drop us a tip.](https://melbz.com.au/tip)*
 *→ Related reads: [Best Restaurants in Collingwood](/collingwood/best-restaurants) | [Date Night in Collingwood](/collingwood/date-night) | [Cost of Living in Collingwood](/collingwood/cost-of-living)*
@@ -145,14 +136,12 @@ Collingwood's cheap eats scene isn't what it was ten years ago — nothing is �
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Widget: Vibe Score** | Collingwood this week: **87/100** 🟢 | [See full ranking →](https://melbz.com.au/vibe-score)
 **Widget: Tonight's Picks** | [What's on in Collingwood tonight →](https://melbz.com.au/tonight/collingwood)
 **Widget: This Weekend** | [Saturday & Sunday picks across Melbourne →](https://melbz.com.au/this-weekend)
 **Widget: Rate Your Suburb** | How's Collingwood feeling this week? [Rate it →](https://melbz.com.au/rate/collingwood)
 
----
 
 *Living in Collingwood? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=collingwood)*
 

@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/best-pubs.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "kai"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne's pub scene is small but real — from heritage Swan Street locals to beer halls that have no business being this good."
 tags: ["cremorne"]
 categories: ["general"]
----
 # Best Pubs in Cremorne — 3121's Unlikely Pub Scene
 
 Here's the thing about Cremorne and pubs: this suburb wasn't built for pub culture. It was built for furniture warehouses, light industry, and the kind of commercial spaces where people worked, not drank. But somewhere between the tech offices moving in and the warehouse conversions going residential, Cremorne developed a pub scene that's small, scrappy, and honest.
@@ -20,7 +21,6 @@ Cremorne's pubs are the antidote to the suburb's polished corporate image. And t
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## 1. The Grand Hotel
 **The vibe:** The last truly unpretentious pub on Swan Street — cold schooners, proper parma, and regulars who've been coming here since before the tech offices existed.
@@ -34,7 +34,6 @@ In a suburb that's been reshaped by money, The Grand Hotel is a reminder of what
 **Hours:** Mon–Sun 11am–11pm
 **Insider tip:** The beer garden out the back gets the afternoon sun from about 2pm. It's the perfect spot for a long lunch that accidentally becomes a long afternoon. On footy Fridays, arrive early — it fills fast.
 
----
 
 ## 2. Bierkeller
 **The vibe:** Bavarian beer hall energy imported wholesale to Church Street — steins, schnitzels, and communal tables that force strangers to become friends.
@@ -48,7 +47,6 @@ It shouldn't work in a suburb this corporate. But it does, because sometimes peo
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun noon–10pm
 **Insider tip:** Tuesday nights are stein nights — $12 steins all evening. The crowd is a mix of after-work tradies and startup employees, and somehow it works perfectly. Live music on weekends adds a layer of chaos that's entirely positive.
 
----
 
 ## 3. The Market Hotel
 **The vibe:** A pub with more personality than its modest exterior suggests — good beers, good prices, and a crowd that's genuinely local.
@@ -62,7 +60,6 @@ It's the pub you end up at when you meant to go somewhere "better," and you neve
 **Hours:** Mon–Sun 11am–11pm
 **Insider tip:** Wednesday night has a pot-and-parma special that's become a quiet institution for locals. No reservations, just turn up and claim a table.
 
----
 
 ## 4. Ludlow Bar & Dining Room
 **The vibe:** The step-up pub — still a pub at heart, but with a dining room that takes food seriously enough to justify a Friday night booking.
@@ -76,7 +73,6 @@ It's the venue for when the group can't agree on "pub" or "restaurant." Ludlow i
 **Hours:** Mon–Sun 11am–late
 **Insider tip:** The outdoor seating is excellent for weekend lunches. Book the dining room for Friday or Saturday night — the bar is walk-in only.
 
----
 
 ## 5. The Bridge Hotel
 **The vibe:** The border pub — sits right on the Cremorne-Richmond line and serves both suburbs with equal enthusiasm.
@@ -90,7 +86,6 @@ It's not the fanciest pub on this list. It doesn't need to be. What it offers is
 **Hours:** Mon–Sun 11am–11pm
 **Insider tip:** The outdoor area catches the late afternoon sun and is one of the few spots on Church Street where you can drink outside without feeling like you're in a beer garden designed by committee.
 
----
 
 ## What We Skipped and Why
 
@@ -100,7 +95,6 @@ It's not the fanciest pub on this list. It doesn't need to be. What it offers is
 
 **Amatrice** — Rooftop Italian, not a pub. Featured in [Best Bars](/cremorne/best-bars).
 
----
 
 ## The Bottom Line
 
@@ -110,7 +104,6 @@ These aren't destination pubs. They're neighbourhood pubs, and there's a world o
 
 **Your Cremorne Vibe Score this week: 79/100** — Even the corporate crowd needs a proper pub.
 
----
 
 *Know a spot we missed? Let us know.*
 

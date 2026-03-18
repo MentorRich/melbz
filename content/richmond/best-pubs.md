@@ -5,12 +5,17 @@ date: 2026-03-16
 author: kai
 tags: ["richmond", "pubs", "nightlife"]
 categories: ["nightlife"]
-description: "Best Pubs in Richmond 2026: Punt Road to Church Street
+description: "Best Pubs in Richmond 2026: Punt Road to Church Street"
+---
 
-Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
+**Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
+
+
 
 Richmond has always been Melbourne'..."
----
+
+*Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
+
 # Best Pubs in Richmond 2026: Punt Road to Church Street
 
 *Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
@@ -135,11 +140,9 @@ If you want live music, the Corner Hotel is non-negotiable. For architecture and
 
 **The best pub crawl route:** Start at the Royston (River Street) → Corner Hotel (Swan Street) → Royal Saxon (Church Street) → Prince Alfred (Church Street) → Richmond Republic (Bridge/Church corner) → The Bridge Hotel (Bridge Road). That's six pubs, roughly 3 kilometres, and one excellent day out.
 
----
 
 *Related reads: [Best Pubs in Cremorne](/melbourne/nightlife/best-pubs-cremorne/) · [Best Pubs in Collingwood](/melbourne/nightlife/best-pubs-collingwood/) · [Best Pubs in South Yarra](/melbourne/nightlife/best-pubs-south-yarra/)*
 
----
 
 ### 🗳️ POLL: What's your go-to Richmond pub?
 
@@ -150,7 +153,6 @@ If you want live music, the Corner Hotel is non-negotiable. For architecture and
 - 🍗 Richmond Republic — for the chicken
 - 🍻 The Royston — for the craft beer
 
----
 
 ### 📰 Get the Richmond Nightlife Brief
 
@@ -158,13 +160,11 @@ Every Thursday, we send the best bar openings, pub events, and live music picks 
 
 **[Subscribe →]**
 
----
 
 ### 💬 Join the Conversation
 
 Got a Richmond pub we missed? Think we got it wrong? Drop your opinion in the comments below — we read every one.
 
----
 
 ### 📍 Plan Your Night
 

@@ -5,12 +5,17 @@ date: 2026-03-16
 author: mei
 tags: ["carlton", "asian", "food"]
 categories: ["food"]
-description: "The $14 Laksa in Carlton That's Making Locals Lose Their Minds
+description: "The $14 Laksa in Carlton That's Making Locals Lose Their Minds"
+---
 
-Updated 16 March 2026 | 15 places tested | Mei Chen reporting
+**Updated 16 March 2026 | 15 places tested | Mei Chen reporting**
+
+
 
 Carlton gets labelled as Melbo..."
----
+
+*Updated 16 March 2026 | 15 places tested | Mei Chen reporting*
+
 # The $14 Laksa in Carlton That's Making Locals Lose Their Minds
 
 **Updated 16 March 2026 | 15 places tested | Mei Chen reporting**
@@ -19,11 +24,9 @@ Carlton gets labelled as Melbourne's Italian quarter. Fair enough — Lygon Stre
 
 I've spent the last three weeks eating my way through Carlton's Asian restaurants — every noodle house, dumpling counter, Thai kitchen, and Vietnamese canteen I could find. Fifteen places. Some were outstanding. A few were average. One made me actually text my group chat mid-meal. Here's what made the cut.
 
----
 
 > **🔥 THE MOVE: Save this article.** Bookmark it before your next Carlton walk. You'll want it when you're standing on Lygon Street arguing with your mates about where to eat.
 
----
 
 
 ## Venue Addresses & Details
@@ -45,7 +48,6 @@ Saigon Pho also does a cracking Beef & Brisket Phở ($16) and Fresh Rice Paper 
 
 **The verdict:** At $14, this laksa is the single best-value Asian meal I found in Carlton across all 15 venues tested. It's not even close.
 
----
 
 
 ## Venue Addresses & Details
@@ -66,7 +68,6 @@ The black garlic tonkotsu ($19) is the move for anyone who wants more depth. For
 
 **Go for:** The broth. Always the broth.
 
----
 
 ### 2. Lemongrass Thai Restaurant
 **176 Lygon Street, Carlton | Mains $18–$28 | Established 1989**
@@ -77,7 +78,6 @@ The green chicken curry ($18) is their weekday lunch workhorse and it's consiste
 
 **Go for:** The Massaman Curry and the sense that you're eating somewhere with actual history.
 
----
 
 ### 3. Hi Chong Qing
 **26 Orr Street, Carlton | Mains $12–$16**
@@ -92,7 +92,6 @@ The Dan Dan noodles ($13) are the second pick. Skip the rice dishes — the nood
 
 **Go for:** The heat, the value, and the fact that you'll spend your entire meal trying to figure out how they get the broth this good in a space this small.
 
----
 
 > **📊 POLL: What's your Carlton default?**
 > - A) Laksa at Saigon Pho
@@ -102,7 +101,6 @@ The Dan Dan noodles ($13) are the second pick. Skip the rice dishes — the nood
 >
 > *Vote in the comments below 👇*
 
----
 
 ### 4. Saigon Secret
 **651 Rathdowne Street, Carlton North | Mains $18–$28**
@@ -113,7 +111,6 @@ At $20–$40 per person for lunch, it's pricier than Saigon Pho down the road, b
 
 **Go for:** When you want Vietnamese food but also want to sit down properly.
 
----
 
 ### 5. Thai City Restaurant
 **124 Lygon Street, Carlton | Mains $15–$22**
@@ -124,7 +121,6 @@ Run by a team that knows their regulars by name, Thai City feels like a neighbou
 
 **Go for:** The Duck Curry, the price point, and the feeling of eating at someone's home kitchen.
 
----
 
 ### 6. Saigon Pho Carlton (Beyond the Laksa)
 **106 Lygon Street, Carlton | Mains $14–$20**
@@ -133,7 +129,6 @@ I've already covered the laksa above, but Saigon Pho deserves a broader mention.
 
 For the full breakdown of what to order here, check our [Carlton Vietnamese food guide](/carlton/vietnamese-guide).
 
----
 
 ### 7. Dumpling House
 **Lygon Street, Carlton | Mains $12–$18**
@@ -144,7 +139,6 @@ Service is brisk and the room fills quickly at lunch. Grab a table, order two se
 
 **Go for:** Dumplings. Specifically the pork and chive and the pan-fried pork buns.
 
----
 
 ### 8. Fu Lu Chinese Cafe
 **Lygon Street, Carlton | Mains $11–$16**
@@ -155,11 +149,9 @@ The lunch specials are particularly good value — often under $10 for a main an
 
 **Go for:** Weekday lunch when the budget is tight but the appetite is real.
 
----
 
 > **⚠️ URGENCY BANNER:** Most of these restaurants are small. Friday and Saturday dinner service fills every seat by 7pm. Book ahead for Lemongrass and Saigon Secret. For Hakata Gensuke and Hi Chong Qing, arriving before 6:30pm is the difference between a table and a 20-minute wait.
 
----
 
 
 ## Venue Addresses & Details
@@ -175,7 +167,6 @@ Chin Chin (125 Flinders Lane, CBD) isn't technically in Carlton — it's a tram 
 
 For more on what's happening across Melbourne's dining scene beyond Carlton, our [Melbourne food events calendar](/events/food) keeps a running list of what's worth booking.
 
----
 
 
 ## Venue Addresses & Details
@@ -195,7 +186,6 @@ Not every Asian restaurant in Carlton made this list. Here's what didn't make th
 
 **Anywhere that's already closed since we started testing** — Three places we visited in the first week have since changed ownership or shut their doors. The Carlton restaurant scene moves fast, and we'll update this list as new places open.
 
----
 
 
 ## Venue Addresses & Details
@@ -218,11 +208,9 @@ Not every Asian restaurant in Carlton made this list. Here's what didn't make th
 | Thai (Budget) | Thai City | $15–$22 | 124 Lygon St |
 | Chinese (Budget) | Fu Lu Chinese Cafe | $11–$16 | Lygon St |
 
----
 
 > **💬 CONFESSION BOX:** I ate laksa three days in a row during testing. Monday at Saigon Pho (chicken), Wednesday at Saigon Pho (prawn and chicken combo), and Friday I tried a different place entirely and just ended up back at Saigon Pho ordering the combo again. Some things don't need reinventing. The laksa is $14 and it's perfect. I need help.
 
----
 
 
 ## Venue Addresses & Details
@@ -240,7 +228,6 @@ The $14 laksa at Saigon Pho is the headline, but the real story is the depth: Ch
 
 Start with the laksa. But don't stop there.
 
----
 
 **Related Reading:**
 - [Our complete guide to Melbourne's best phở](/melbourne/pho-guide)
@@ -248,7 +235,6 @@ Start with the laksa. But don't stop there.
 - [Melbourne food events calendar](/events/food)
 - [Lygon Street: The Italian side of Carlton](/carlton/lygon-street-italian)
 
----
 
 *Mei Chen is the Asian Food Editor at MELBZ. She has been eating her way through Melbourne's inner-north suburbs for eight years and has strong opinions about broth. Follow her picks on the [MELBZ weekly food newsletter](/newsletter).*
 

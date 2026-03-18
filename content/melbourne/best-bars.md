@@ -1,6 +1,8 @@
 ---
 title: "Best Bars in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-bars.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "jess"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best bars in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually drink — from rooftop gin joints to underground whisky dens."
 tags: ["melbourne"]
 categories: ["best"]
----
 # Best Bars in Melbourne — 2026 Guide
 
 Melbourne's bar scene is one of the best in the world, and no, that's not tourism brochure talk — it's what happens when a city with a laneway obsession, a deep immigrant food culture, and a population that takes drinking very seriously collides with bartenders who treat cocktails like engineering problems. The CBD alone has more bars per square kilometre than most cities have in total, and the quality gap between the best and the worst is enormous. This guide closes that gap for you.
@@ -18,7 +19,6 @@ We've hit every venue on this list in the last three months. Some twice. OK, mos
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. Eau De Vie — CBD (Mollie Street)
 
@@ -32,7 +32,6 @@ The cocktail list is encyclopaedic. You'll find classics executed with surgical 
 **Budget:** $22–$30 per cocktail
 **Getting there:** Walk from Parliament Station (3 minutes) or catch the 86 tram down Bourke Street
 
----
 
 ## 2. The Croft Institute — CBD (Laneway off Lonsdale Street)
 
@@ -45,7 +44,6 @@ The Croft is known for pushing boundaries. Their drinks use techniques borrowed 
 **Hours:** Tue–Sat, 5pm–1am
 **Budget:** $20–$26 per cocktail
 
----
 
 ## 3. Beneath Driver Lane — CBD (Basement, Driver Lane)
 
@@ -58,7 +56,6 @@ The whisky list is one of the deepest in the Southern Hemisphere — over 400 bo
 **Hours:** Mon–Sat, 4pm–1am
 **Budget:** $15–$80 per pour
 
----
 
 ## 4. Robot Rooftop Bar — CBD (Level 5, 234 Swanston Street)
 
@@ -71,7 +68,6 @@ This place nails the rooftop brief: 360-degree city views, a retractable awning 
 **Hours:** Daily, noon–late (weather dependent)
 **Budget:** $16–$24 per drink
 
----
 
 ## 5. Bar Americano — CBD (Presgrave Place)
 
@@ -84,7 +80,6 @@ Bar Americano specialises in classic Italian aperitivo cocktails — Negronis, A
 **Hours:** Wed–Sat, 5pm–1am
 **Budget:** $20–$26 per cocktail
 
----
 
 ## 6. Ponyfish Island — Southbank (Under the pedestrian bridge)
 
@@ -99,7 +94,6 @@ The drinks are solid (think spritzes, gin and tonics, and a solid wine list) but
 
 **Cross-link:** If you love the riverside vibe, check out [South Yarra's best bars](/south-yarra/best-bars/) — Chapel Street's cocktail scene is a whole different animal.
 
----
 
 ## 7. Marrakesh Bar — CBD (Bourke Street)
 
@@ -112,7 +106,6 @@ Marrakesh fills a niche that most CBD bars ignore: it's genuinely atmospheric wi
 **Hours:** Daily, 4pm–1am
 **Budget:** $17–$22 per cocktail
 
----
 
 ## 8. The Emerson — South Yarra (Chapel Street)
 
@@ -127,7 +120,6 @@ The Emerson attracts a well-dressed crowd that takes drinking seriously but does
 
 **Cross-link:** Chapel Street has serious bar depth — see our full [South Yarra nightlife guide](/south-yarra/nightlife-guide/) for the complete picture.
 
----
 
 ## 9. Boilermaker House — CBD (Lacey Street)
 
@@ -140,7 +132,6 @@ The space is industrial-chic — exposed brick, concrete floors, pendant lights 
 **Hours:** Daily, 11am–late
 **Budget:** $14–$22 per pairing
 
----
 
 ## 10. The Tucky Duck — Carlton (Lygon Street)
 
@@ -155,7 +146,6 @@ The bar does a solid range of Victorian craft beers on tap, a surprisingly good 
 
 **Cross-link:** Carlton is packed with great venues — explore our full [best bars in Carlton](/carlton/best-bars/) guide for more.
 
----
 
 ## 11. The Duke of Wellington — South Melbourne (Clarendon Street)
 
@@ -170,7 +160,6 @@ The beer garden is the main attraction — it's one of the largest in the inner 
 
 **Cross-link:** South Melbourne has its own bar scene worth exploring — check out [South Melbourne's best bars and pubs](/south-melbourne/best-bars/).
 
----
 
 ## 12. Maybe Mae — CBD (Laneway off Little Bourke Street)
 
@@ -180,7 +169,6 @@ The cocktail menu changes seasonally and every drink is made with ingredients so
 
 **Order this:** Ask for the seasonal special — whatever it is, it'll be made with something from that week's market run. Trust the process. ($24)
 
----
 
 ## Getting Home Safe
 
@@ -191,7 +179,6 @@ No article about Melbourne's best bars should end without the important bit. If 
 - **Rideshare:** Uber and Didi are reliable in the CBD but surge pricing kicks in after midnight. Walk a block away from Swanston/Bourke to dodge the worst of it.
 - **If you or someone you need help:** Call 000. CBD Police Station is at 439 Little Bourke Street, open 24hrs.
 
----
 
 ## Related Guides
 

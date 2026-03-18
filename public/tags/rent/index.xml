@@ -1,138 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rent on MELBZ — We Know Your Suburb Better Than You Do</title>
-    <link>https://melbz.com.au/tags/rent/</link>
-    <description>Recent content in Rent on MELBZ — We Know Your Suburb Better Than You Do</description>
-    <generator>Hugo</generator>
-    <language>en-au</language>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://melbz.com.au/tags/rent/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Collingwood Rent Prices 2026: The Data</title>
-      <link>https://melbz.com.au/collingwood/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/collingwood/rent-report/</guid>
-      <description>&lt;h1 id=&#34;collingwood-rent-prices-2026-the-data&#34;&gt;Collingwood Rent Prices 2026: The Data&lt;/h1&gt;&#xA;&lt;p&gt;You want to rent in Collingwood. That puts you in the top tier of Melbourne&amp;rsquo;s rental desirability — and you&amp;rsquo;re going to pay for the privilege.&lt;/p&gt;&#xA;&lt;p&gt;We pulled the numbers, checked the listings, and crunched the year-over-year changes so you don&amp;rsquo;t have to wade through Domain&amp;rsquo;s endless dropdowns. Here&amp;rsquo;s what renting in postcode 3066 actually costs right now, what&amp;rsquo;s gone up, what&amp;rsquo;s held flat, and which pockets of Collingwood offer the best value — if you can call any of it &amp;ldquo;value&amp;rdquo; anymore.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Living in Brunswick 2026: The Definitive Guide</title>
-      <link>https://melbz.com.au/brunswick/living-guide/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/brunswick/living-guide/</guid>
-      <description>&lt;h1 id=&#34;living-in-brunswick-2026-the-definitive-guide&#34;&gt;Living in Brunswick 2026: The Definitive Guide&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Sam Torres reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Brunswick. The suburb that hipsters colonised, Greek grandmothers held down for decades, and now young professionals are pricing everyone out of. If you&amp;rsquo;re thinking about moving here — or you already live here and want to know what you&amp;rsquo;ve gotten yourself into — this is the guide you actually need.&lt;/p&gt;&#xA;&lt;p&gt;No rose-coloured glasses. No real estate brochure language. Just the real deal on what it&amp;rsquo;s like to live in one of Melbourne&amp;rsquo;s most talked-about inner-north suburbs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Living in Footscray 2026: The Definitive Guide</title>
-      <link>https://melbz.com.au/footscray/living-guide/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/footscray/living-guide/</guid>
-      <description>&lt;h1 id=&#34;living-in-footscray-2026-the-definitive-guide&#34;&gt;Living in Footscray 2026: The Definitive Guide&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Charlie Dunn reporting&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://melbz.com.au/images/vibes/footscray-76.svg&#34; alt=&#34;Footscray Vibe Score Badge&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;FOOTSCRAY VIBE SCORE: 76/100 ⚡️ RISING (+2 this week)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Footscray has been on a slow burn for years. While inner-north suburbs like &lt;a href=&#34;https://melbz.com.au/fitzroy&#34;&gt;Fitzroy&lt;/a&gt; and &lt;a href=&#34;https://melbz.com.au/collingwood&#34;&gt;Collingwood&lt;/a&gt; went through their full gentrification arcs and stabilised, Footscray has been catching up in fits and starts — Vietnamese pho shops sitting next to natural wine bars, docker families alongside design students, and a rent market that still hasn&amp;rsquo;t fully caught up with the postcode hype.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Living in South Melbourne 2026: The Definitive Guide</title>
-      <link>https://melbz.com.au/south-melbourne/living-guide/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/south-melbourne/living-guide/</guid>
-      <description>&lt;h1 id=&#34;living-in-south-melbourne-2026-the-definitive-guide&#34;&gt;Living in South Melbourne 2026: The Definitive Guide&lt;/h1&gt;&#xA;&lt;p&gt;Updated 16 March 2026 | Sophie Chen reporting&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;SOUTH MELBOURNE VIBE SCORE: 80/100 ⚡️ REFINED (+1 this week)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;South Melbourne sits in that sweet spot between the CBD&amp;rsquo;s relentless energy and the bayside suburbs&amp;rsquo; laid-back rhythm. It&amp;rsquo;s old-money Victorian terraces meeting laneway coffee, the converted warehouses of City Road sitting across from the clapboard cottages of Dorcas Street. If Melbourne had a suburb that dressed well without trying too hard, this is it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Abbotsford 2026: What You&#39;ll Pay</title>
-      <link>https://melbz.com.au/abbotsford/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/abbotsford/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-abbotsford-2026-what-youll-pay&#34;&gt;Rent Prices in Abbotsford 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Abbotsford sits in that sweet spot between the grit of Collingwood and the polish of Richmond — close enough to the CBD to jog home from the MCG, leafy enough along the Yarra to trick you into thinking you live in the country, and just weird enough (hello, Victoria Street Vietnamese strip) to keep things interesting. It&amp;rsquo;s also getting more expensive by the quarter.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Balaclava 2026: What You&#39;ll Pay</title>
-      <link>https://melbz.com.au/balaclava/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/balaclava/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-balaclava-2026-what-youll-pay&#34;&gt;Rent Prices in Balaclava 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Balaclava sits in that awkward sweet spot of Melbourne&amp;rsquo;s rental market — too close to St Kilda to be cheap, too quiet to command a premium. It&amp;rsquo;s the suburb people rent in because they got priced out of Elwood, or because they discovered that the 16 tram gets them to Acland Street in eight minutes without paying St Kilda prices.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Brunswick 2026: Sydney Road Premium</title>
-      <link>https://melbz.com.au/brunswick/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/brunswick/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-brunswick-2026-sydney-road-premium&#34;&gt;Rent Prices in Brunswick 2026: Sydney Road Premium&lt;/h1&gt;&#xA;&lt;p&gt;Brunswick has always been the inner north&amp;rsquo;s middle child — too scruffy for Northcote&amp;rsquo;s tastemakers, too gentrified for Coburg&amp;rsquo;s old guard, and somehow still convinced it&amp;rsquo;s an underdog. But in 2026, the rent data tells a different story. Brunswick is charging like it knows exactly what it&amp;rsquo;s worth, and the Sydney Road corridor is where that premium hits hardest.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Brunswick East 2026: What You&#39;ll Pay</title>
-      <link>https://melbz.com.au/brunswick-east/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/brunswick-east/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-brunswick-east-2026-what-youll-pay&#34;&gt;Rent Prices in Brunswick East 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Brunswick East is that sweet spot between &amp;ldquo;too cool for you&amp;rdquo; and &amp;ldquo;actually affordable&amp;rdquo; — and in 2026, the rent prices tell a fascinating story. If you&amp;rsquo;re considering a move to the postcode 3057, or you&amp;rsquo;re already here and wondering whether your lease renewal is about to sting, let&amp;rsquo;s get into the real numbers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Coburg 2026: What You&#39;ll Pay</title>
-      <link>https://melbz.com.au/coburg/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/coburg/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-coburg-2026-what-youll-pay&#34;&gt;Rent Prices in Coburg 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;&#xA;&lt;p&gt;Coburg is one of those inner-north suburbs where you can still &lt;em&gt;almost&lt;/em&gt; call it affordable — if you squint and compare it to Brunswick. But let&amp;rsquo;s not pretend the rental market here hasn&amp;rsquo;t tightened considerably. If you&amp;rsquo;re eyeing a move to the 3058, you need real numbers, not vibes. Here&amp;rsquo;s exactly what you&amp;rsquo;ll pay for every bedroom count, how Coburg stacks up against its neighbours, and what salary you actually need to live here without eating two-minute noodles five nights a week.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Footscray 2026: The West Side Value Play</title>
-      <link>https://melbz.com.au/footscray/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/footscray/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-footscray-2026-the-west-side-value-play&#34;&gt;Rent Prices in Footscray 2026: The West Side Value Play&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Footscray has long been Melbourne&amp;rsquo;s inner-west underdog — the suburb that renters whisper about like it&amp;rsquo;s a secret they don&amp;rsquo;t want to share. While Fitzroy and South Yarra grab the Instagram glory, Footscray has been quietly building something better: genuine livability at prices that don&amp;rsquo;t require a trust fund.&lt;/p&gt;&#xA;&lt;p&gt;But &amp;ldquo;affordable&amp;rdquo; is a relative term in 2026 Melbourne. So let&amp;rsquo;s break down what renting in Footscray actually costs right now, how it stacks up against its neighbours, and whether your paycheque can handle it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Hawthorn 2026: Glenferrie Road &amp; Beyond</title>
-      <link>https://melbz.com.au/hawthorn/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/hawthorn/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-hawthorn-2026-glenferrie-road--beyond&#34;&gt;Rent Prices in Hawthorn 2026: Glenferrie Road &amp;amp; Beyond&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;ve been apartment hunting along Glenferrie Road lately, you already know the deal. Hawthorn&amp;rsquo;s rental market in 2026 is not messing around. What used to be the sensible inner-east alternative to Richmond&amp;rsquo;s chaos or Kew&amp;rsquo;s pedigree prices now sits firmly in premium territory — and the gap is narrowing fast.&lt;/p&gt;&#xA;&lt;p&gt;This is the definitive breakdown of what it actually costs to rent in Hawthorn right now, how it stacks up against the neighbours, and whether your salary can handle it without a side hustle.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Kensington 2026: What You&#39;ll Pay</title>
-      <link>https://melbz.com.au/kensington/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/kensington/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-kensington-2026-what-youll-pay&#34;&gt;Rent Prices in Kensington 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;&#xA;&lt;p&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/p&gt;&#xA;&lt;p&gt;Kensington has always been the inner-west suburb that nobody argues about. It doesn&amp;rsquo;t have the flash of &lt;a href=&#34;https://melbz.com.au/suburbs/flemington&#34;&gt;Flemington&lt;/a&gt;, the cultural noise of &lt;a href=&#34;https://melbz.com.au/suburbs/footscray&#34;&gt;Footscray&lt;/a&gt;, or the proximity bragging rights of &lt;a href=&#34;https://melbz.com.au/suburbs/north-melbourne&#34;&gt;North Melbourne&lt;/a&gt;. What it has is space, a train station that actually works, and prices that — for now — haven&amp;rsquo;t fully caught up to the suburbs around it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Melbourne CBD 2026: What You&#39;ll Actually Pay</title>
-      <link>https://melbz.com.au/melbourne-cbd/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/melbourne-cbd/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-melbourne-cbd-2026-what-youll-actually-pay&#34;&gt;Rent Prices in Melbourne CBD 2026: What You&amp;rsquo;ll Actually Pay&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Melbourne&amp;rsquo;s CBD rental market in 2026 is behaving unlike anywhere else in Australia. While Sydney landlords keep hiking and Perth plays catch-up, the CBD has quietly become one of the most competitive inner-city rental markets — not because rents are skyrocketing, but because the relationship between what you pay and what you get has shifted dramatically.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Prahran 2026: Chapel Street Premium</title>
-      <link>https://melbz.com.au/prahran/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/prahran/rent-report/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;rent-prices-in-prahran-2026-chapel-street-premium&#34;&gt;Rent Prices in Prahran 2026: Chapel Street Premium&lt;/h1&gt;&#xA;&lt;p&gt;There&amp;rsquo;s a stretch of Chapel Street between Commercial Road and High Street where the foot traffic, the cafe culture, and the retail density all converge into something that feels distinctly expensive. If you&amp;rsquo;ve ever stood at that intersection checking rental listings on your phone while a $7 oat milk flat white slowly cools in your hand, you already know the Prahran rent story. It&amp;rsquo;s not about whether this inner-south gem is pricey. It&amp;rsquo;s about &lt;em&gt;how&lt;/em&gt; pricey — and whether you can actually afford to call it home.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in Richmond 2026: Swan Street &amp; Beyond</title>
-      <link>https://melbz.com.au/richmond/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/richmond/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-richmond-2026-swan-street--beyond&#34;&gt;Rent Prices in Richmond 2026: Swan Street &amp;amp; Beyond&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Richmond in 2026 is the suburb where footy fans, foodies, young professionals, and long-time locals all compete for the same有限 square metres — and the rent bill tells you exactly where you sit in that pecking order.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re eyeing a place along Swan Street, tucked behind the Corner Hotel, or somewhere in the leafy pocket between Bridge Road and the Yarra, here&amp;rsquo;s what you&amp;rsquo;re actually looking at this year. No fluff. Just the numbers, the context, and the honest maths on whether you can swing it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in South Melbourne 2026: What You&#39;ll Pay</title>
-      <link>https://melbz.com.au/south-melbourne/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/south-melbourne/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-south-melbourne-2026-what-youll-pay&#34;&gt;Rent Prices in South Melbourne 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;South Melbourne has always been the suburb that outperforms its reputation. It doesn&amp;rsquo;t scream for attention like &lt;a href=&#34;https://melbz.com.au/suburbs/south-yarra/&#34;&gt;South Yarra&lt;/a&gt; or chase Instagram clout like St Kilda. It just quietly delivers — CBD proximity without the high-rise grind, village feel without the postcode premium, and rental stock that actually makes sense for people who want to &lt;em&gt;live&lt;/em&gt; somewhere, not just post about it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in South Yarra 2026: Chapel Street Premium</title>
-      <link>https://melbz.com.au/south-yarra/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/south-yarra/rent-report/</guid>
-      <description>&lt;h1 id=&#34;rent-prices-in-south-yarra-2026-chapel-street-premium&#34;&gt;Rent Prices in South Yarra 2026: Chapel Street Premium&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;South Yarra has always been Melbourne&amp;rsquo;s most aspirational inner-city suburb — and in 2026, that aspiration comes with a price tag to match. If you&amp;rsquo;re eyeing an apartment along Chapel Street or a terrace house off Domain Road, here&amp;rsquo;s the unfiltered truth about what it costs to rent in one of Melbourne&amp;rsquo;s most coveted postcodes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rent Prices in St Kilda 2026: Seaside Premium</title>
-      <link>https://melbz.com.au/st-kilda/rent-report/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://melbz.com.au/st-kilda/rent-report/</guid>
-      <description>&lt;p&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/p&gt;&#xA;&lt;h1 id=&#34;rent-prices-in-st-kilda-2026-seaside-premium&#34;&gt;Rent Prices in St Kilda 2026: Seaside Premium&lt;/h1&gt;&#xA;&lt;p&gt;You already know St Kilda costs more. What you might not know is exactly how much more — and whether the premium actually stacks up against what you get. We crunched the numbers across every dwelling type, compared St Kilda to its nearest neighbours, and ran the salary reality check that nobody wants to have.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rent on MELBZ — We Know Your Suburb Better Than You Do</title><link>https://melbz.com.au/tags/rent/</link><description>Recent content in Rent on MELBZ — We Know Your Suburb Better Than You Do</description><generator>Hugo</generator><language>en-au</language><lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://melbz.com.au/tags/rent/index.xml" rel="self" type="application/rss+xml"/><item><title>Collingwood Rent Prices 2026: The Data</title><link>https://melbz.com.au/collingwood/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/collingwood/rent-report/</guid><description>&lt;p&gt;You want to rent in Collingwood. That puts you in the top tier of Melbourne&amp;rsquo;s rental desirability — and you&amp;rsquo;re going &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="collingwood-rent-prices-2026-the-data"&gt;Collingwood Rent Prices 2026: The Data&lt;/h1&gt;
+&lt;p&gt;You want to rent in Collingwood. That puts you in the top tier of Melbourne&amp;rsquo;s rental desirability — and you&amp;rsquo;re going to pay for the privilege.&lt;/p&gt;
+&lt;p&gt;We pulled the numbers, checked the listings, and crunched the year-over-year changes so you don&amp;rsquo;t have to wade through Domain&amp;rsquo;s endless dropdowns. Here&amp;rsquo;s what renting in postcode 3066 actually costs right now, what&amp;rsquo;s gone up, what&amp;rsquo;s held flat, and which pockets of Collingwood offer the best value — if you can call any of it &amp;ldquo;value&amp;rdquo; anymore.&lt;/p&gt;</description></item><item><title>Living in Brunswick 2026: The Definitive Guide</title><link>https://melbz.com.au/brunswick/living-guide/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/brunswick/living-guide/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Sam Torres reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Brunswick. The suburb that hipsters colonised, Greek grandmothe&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Sam Torres reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="living-in-brunswick-2026-the-definitive-guide"&gt;Living in Brunswick 2026: The Definitive Guide&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Sam Torres reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Brunswick. The suburb that hipsters colonised, Greek grandmothers held down for decades, and now young professionals are pricing everyone out of. If you&amp;rsquo;re thinking about moving here — or you already live here and want to know what you&amp;rsquo;ve gotten yourself into — this is the guide you actually need.&lt;/p&gt;</description></item><item><title>Living in Footscray 2026: The Definitive Guide</title><link>https://melbz.com.au/footscray/living-guide/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/footscray/living-guide/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Charlie Dunn reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;!Footscray Vibe Score Badge(&lt;a href="https://melbz.com.au/images/vibes...%22"&gt;https://melbz.com.au/images/vibes...&amp;quot;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Charlie Dunn reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="living-in-footscray-2026-the-definitive-guide"&gt;Living in Footscray 2026: The Definitive Guide&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Charlie Dunn reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://melbz.com.au/images/vibes/footscray-76.svg" alt="Footscray Vibe Score Badge"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;FOOTSCRAY VIBE SCORE: 76/100 ⚡️ RISING (+2 this week)&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Footscray has been on a slow burn for years. While inner-north suburbs like &lt;a href="https://melbz.com.au/fitzroy"&gt;Fitzroy&lt;/a&gt; and &lt;a href="https://melbz.com.au/collingwood"&gt;Collingwood&lt;/a&gt; went through their full gentrification arcs and stabilised, Footscray has been catching up in fits and starts — Vietnamese pho shops sitting next to natural wine bars, docker families alongside design students, and a rent market that still hasn&amp;rsquo;t fully caught up with the postcode hype.&lt;/p&gt;</description></item><item><title>Living in South Melbourne 2026: The Definitive Guide</title><link>https://melbz.com.au/south-melbourne/living-guide/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/south-melbourne/living-guide/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Sophie Chen reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;SOUTH MELBOURNE VIBE SCORE: 80/100 ⚡️ REFINED (+1 this&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Sophie Chen reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="living-in-south-melbourne-2026-the-definitive-guide"&gt;Living in South Melbourne 2026: The Definitive Guide&lt;/h1&gt;
+&lt;p&gt;Updated 16 March 2026 | Sophie Chen reporting&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;SOUTH MELBOURNE VIBE SCORE: 80/100 ⚡️ REFINED (+1 this week)&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;South Melbourne sits in that sweet spot between the CBD&amp;rsquo;s relentless energy and the bayside suburbs&amp;rsquo; laid-back rhythm. It&amp;rsquo;s old-money Victorian terraces meeting laneway coffee, the converted warehouses of City Road sitting across from the clapboard cottages of Dorcas Street. If Melbourne had a suburb that dressed well without trying too hard, this is it.&lt;/p&gt;</description></item><item><title>Rent Prices in Balaclava 2026: What You'll Pay</title><link>https://melbz.com.au/balaclava/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/balaclava/rent-report/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Balaclava sits in that awkward sweet spot of Melbourne&amp;rsquo;s &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-balaclava-2026-what-youll-pay"&gt;Rent Prices in Balaclava 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Balaclava sits in that awkward sweet spot of Melbourne&amp;rsquo;s rental market — too close to St Kilda to be cheap, too quiet to command a premium. It&amp;rsquo;s the suburb people rent in because they got priced out of Elwood, or because they discovered that the 16 tram gets them to Acland Street in eight minutes without paying St Kilda prices.&lt;/p&gt;</description></item><item><title>Rent Prices in Brunswick 2026: Sydney Road Premium</title><link>https://melbz.com.au/brunswick/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/brunswick/rent-report/</guid><description>&lt;p&gt;Brunswick has always been the inner north&amp;rsquo;s middle child — too scruffy for Northcote&amp;rsquo;s tastemakers, too g&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-brunswick-2026-sydney-road-premium"&gt;Rent Prices in Brunswick 2026: Sydney Road Premium&lt;/h1&gt;
+&lt;p&gt;Brunswick has always been the inner north&amp;rsquo;s middle child — too scruffy for Northcote&amp;rsquo;s tastemakers, too gentrified for Coburg&amp;rsquo;s old guard, and somehow still convinced it&amp;rsquo;s an underdog. But in 2026, the rent data tells a different story. Brunswick is charging like it knows exactly what it&amp;rsquo;s worth, and the Sydney Road corridor is where that premium hits hardest.&lt;/p&gt;</description></item><item><title>Rent Prices in Brunswick East 2026: What You'll Pay</title><link>https://melbz.com.au/brunswick-east/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/brunswick-east/rent-report/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Brunswick East is that sweet spot between &amp;ldquo;too cool for y&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-brunswick-east-2026-what-youll-pay"&gt;Rent Prices in Brunswick East 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Brunswick East is that sweet spot between &amp;ldquo;too cool for you&amp;rdquo; and &amp;ldquo;actually affordable&amp;rdquo; — and in 2026, the rent prices tell a fascinating story. If you&amp;rsquo;re considering a move to the postcode 3057, or you&amp;rsquo;re already here and wondering whether your lease renewal is about to sting, let&amp;rsquo;s get into the real numbers.&lt;/p&gt;</description></item><item><title>Rent Prices in Coburg 2026: What You'll Pay</title><link>https://melbz.com.au/coburg/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/coburg/rent-report/</guid><description>&lt;p&gt;Coburg is one of those inner-north suburbs where you can still almost call it affordable — if you squint and com&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-coburg-2026-what-youll-pay"&gt;Rent Prices in Coburg 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;
+&lt;p&gt;Coburg is one of those inner-north suburbs where you can still &lt;em&gt;almost&lt;/em&gt; call it affordable — if you squint and compare it to Brunswick. But let&amp;rsquo;s not pretend the rental market here hasn&amp;rsquo;t tightened considerably. If you&amp;rsquo;re eyeing a move to the 3058, you need real numbers, not vibes. Here&amp;rsquo;s exactly what you&amp;rsquo;ll pay for every bedroom count, how Coburg stacks up against its neighbours, and what salary you actually need to live here without eating two-minute noodles five nights a week.&lt;/p&gt;</description></item><item><title>Rent Prices in Footscray 2026: The West Side Value Play</title><link>https://melbz.com.au/footscray/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/footscray/rent-report/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Footscray has long been Melbourne&amp;rsquo;s inner-west underd&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-footscray-2026-the-west-side-value-play"&gt;Rent Prices in Footscray 2026: The West Side Value Play&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Footscray has long been Melbourne&amp;rsquo;s inner-west underdog — the suburb that renters whisper about like it&amp;rsquo;s a secret they don&amp;rsquo;t want to share. While Fitzroy and South Yarra grab the Instagram glory, Footscray has been quietly building something better: genuine livability at prices that don&amp;rsquo;t require a trust fund.&lt;/p&gt;</description></item><item><title>Rent Prices in Hawthorn 2026: Glenferrie Road Beyond</title><link>https://melbz.com.au/hawthorn/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/hawthorn/rent-report/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve been apartment hunting along Glenferrie Road&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-hawthorn-2026-glenferrie-road--beyond"&gt;Rent Prices in Hawthorn 2026: Glenferrie Road &amp;amp; Beyond&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve been apartment hunting along Glenferrie Road lately, you already know the deal. Hawthorn&amp;rsquo;s rental market in 2026 is not messing around. What used to be the sensible inner-east alternative to Richmond&amp;rsquo;s chaos or Kew&amp;rsquo;s pedigree prices now sits firmly in premium territory — and the gap is narrowing fast.&lt;/p&gt;</description></item><item><title>Rent Prices in Kensington 2026: What You'll Pay</title><link>https://melbz.com.au/kensington/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/kensington/rent-report/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kensington has always been the inner-west suburb that nobody &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-kensington-2026-what-youll-pay"&gt;Rent Prices in Kensington 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;
+&lt;p&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/p&gt;
+&lt;p&gt;Kensington has always been the inner-west suburb that nobody argues about. It doesn&amp;rsquo;t have the flash of &lt;a href="https://melbz.com.au/suburbs/flemington"&gt;Flemington&lt;/a&gt;, the cultural noise of &lt;a href="https://melbz.com.au/suburbs/footscray"&gt;Footscray&lt;/a&gt;, or the proximity bragging rights of &lt;a href="https://melbz.com.au/suburbs/north-melbourne"&gt;North Melbourne&lt;/a&gt;. What it has is space, a train station that actually works, and prices that — for now — haven&amp;rsquo;t fully caught up to the suburbs around it.&lt;/p&gt;</description></item><item><title>Rent Prices in Melbourne CBD 2026: What You'll Actually Pay</title><link>https://melbz.com.au/melbourne-cbd/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/melbourne-cbd/rent-report/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Melbourne&amp;rsquo;s CBD rental market in 2026 is behaving&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-melbourne-cbd-2026-what-youll-actually-pay"&gt;Rent Prices in Melbourne CBD 2026: What You&amp;rsquo;ll Actually Pay&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Melbourne&amp;rsquo;s CBD rental market in 2026 is behaving unlike anywhere else in Australia. While Sydney landlords keep hiking and Perth plays catch-up, the CBD has quietly become one of the most competitive inner-city rental markets — not because rents are skyrocketing, but because the relationship between what you pay and what you get has shifted dramatically.&lt;/p&gt;</description></item><item><title>Rent Prices in Prahran 2026: Chapel Street Premium</title><link>https://melbz.com.au/prahran/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/prahran/rent-report/</guid><description>&lt;p&gt;&lt;em&gt;description: &amp;ldquo;16 March 2026 | Marcus Cole reporting&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-prahran-2026-chapel-street-premium"&gt;Rent Prices in Prahran 2026: Chapel Street Premium&lt;/h1&gt;
+&lt;p&gt;There&amp;rsquo;s a stretch of Chapel Street between Commercial Road and High Street where the foot traffic, the cafe culture, and the retail density all converge into something that feels distinctly expensive. If you&amp;rsquo;ve ever stood at that intersection checking rental listings on your phone while a $7 oat milk flat white slowly cools in your hand, you already know the Prahran rent story. It&amp;rsquo;s not about whether this inner-south gem is pricey. It&amp;rsquo;s about &lt;em&gt;how&lt;/em&gt; pricey — and whether you can actually afford to call it home.&lt;/p&gt;</description></item><item><title>Rent Prices in Richmond 2026: Swan Street &amp; Beyond</title><link>https://melbz.com.au/richmond/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/richmond/rent-report/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Richmond in 2026 is the suburb where footy fans, foodies, &amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-richmond-2026-swan-street--beyond"&gt;Rent Prices in Richmond 2026: Swan Street &amp;amp; Beyond&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Richmond in 2026 is the suburb where footy fans, foodies, young professionals, and long-time locals all compete for the same有限 square metres — and the rent bill tells you exactly where you sit in that pecking order.&lt;/p&gt;</description></item><item><title>Rent Prices in South Melbourne 2026: What You'll Pay</title><link>https://melbz.com.au/south-melbourne/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/south-melbourne/rent-report/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;South Melbourne has always been the suburb that outperfo&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-south-melbourne-2026-what-youll-pay"&gt;Rent Prices in South Melbourne 2026: What You&amp;rsquo;ll Pay&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;South Melbourne has always been the suburb that outperforms its reputation. It doesn&amp;rsquo;t scream for attention like &lt;a href="https://melbz.com.au/suburbs/south-yarra/"&gt;South Yarra&lt;/a&gt; or chase Instagram clout like St Kilda. It just quietly delivers — CBD proximity without the high-rise grind, village feel without the postcode premium, and rental stock that actually makes sense for people who want to &lt;em&gt;live&lt;/em&gt; somewhere, not just post about it.&lt;/p&gt;</description></item><item><title>Rent Prices in South Yarra 2026: Chapel Street Premium</title><link>https://melbz.com.au/south-yarra/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/south-yarra/rent-report/</guid><description>&lt;p&gt;&lt;strong&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;South Yarra has always been Melbourne&amp;rsquo;s most aspiratio&amp;hellip;&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="rent-prices-in-south-yarra-2026-chapel-street-premium"&gt;Rent Prices in South Yarra 2026: Chapel Street Premium&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;South Yarra has always been Melbourne&amp;rsquo;s most aspirational inner-city suburb — and in 2026, that aspiration comes with a price tag to match. If you&amp;rsquo;re eyeing an apartment along Chapel Street or a terrace house off Domain Road, here&amp;rsquo;s the unfiltered truth about what it costs to rent in one of Melbourne&amp;rsquo;s most coveted postcodes.&lt;/p&gt;</description></item><item><title>Rent Prices in St Kilda 2026: Seaside Premium</title><link>https://melbz.com.au/st-kilda/rent-report/</link><pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate><guid>https://melbz.com.au/st-kilda/rent-report/</guid><description>&lt;p&gt;&lt;em&gt;description: &amp;ldquo;16 March 2026 | Marcus Cole reporting&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Updated 16 March 2026 | Marcus Cole reporting&lt;/p&gt;
+&lt;h1 id="rent-prices-in-st-kilda-2026-seaside-premium"&gt;Rent Prices in St Kilda 2026: Seaside Premium&lt;/h1&gt;
+&lt;p&gt;You already know St Kilda costs more. What you might not know is exactly how much more — and whether the premium actually stacks up against what you get. We crunched the numbers across every dwelling type, compared St Kilda to its nearest neighbours, and ran the salary reality check that nobody wants to have.&lt;/p&gt;</description></item></channel></rss>

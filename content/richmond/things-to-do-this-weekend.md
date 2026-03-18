@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Richmond — 2026 Local Guide"
 cover_image: "/images/richmond/things-to-do-this-weekend.jpg"
+---
+
 suburb: "richmond"
 vertical: "lifestyle"
 author: "maya"
@@ -9,12 +11,10 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Richmond. Our verified 2026 guide covers the best spots for locals."
 tags: ["richmond"]
 categories: ["things"]
----
 ## The Best Things To Do This Weekend in Richmond
 
 Richmond is one of Melbourne's most dynamic suburbs for a weekend, but only if you know where to look. The MCG might dominate the skyline and Swan Street might grab the headlines, but the real weekend in Richmond is built from layers — a good coffee in the morning, a walk through the parklands, a lazy lunch, and a bar that doesn't kick you out at 11pm. Here's how to spend a weekend in Richmond that doesn't feel like a tourist itinerary.
 
----
 
 ## Saturday Morning: Coffee and a Walk
 
@@ -24,7 +24,6 @@ From there, walk south along Church Street toward the Yarra River. The stretch b
 
 **Alternative morning:** If you've got kids or dogs, skip the cafe and head straight to **Yarra Bend Park**. It's a 15-minute walk from Swan Street and it's one of Melbourne's best inner-city parks — river trails, bird-watching (look for the flying fox colony at dusk), enough space to actually breathe. Free, always open.
 
----
 
 ## Saturday Late Morning: Brunch
 
@@ -36,7 +35,6 @@ You've got options and they're all good. Our top picks for a Saturday brunch:
 
 **Stagger Lee's** (357 Swan Street) — The all-day diner energy. If you want something indulgent, the fried chicken and waffle ($24) is a legitimate meal. Coffee here is also excellent, which matters if you're making a day of it.
 
----
 
 ## Saturday Afternoon: Explore
 
@@ -54,7 +52,6 @@ Even if there's no game on, walking around the MCG is worth doing. The **Nationa
 
 Bridge Road was once Melbourne's factory outlet capital. It's evolved into something more interesting — a mix of independent fashion, homewares, and design stores that's worth browsing even if you're not buying. **Richmond Hill Cafe & Larder** (4 Bridge Road) is the anchor — the cheese toastie ($18) and retail cheese selection are both worth your time.
 
----
 
 ## Saturday Evening: Dinner and Drinks
 
@@ -72,7 +69,6 @@ Start at **Chimac** (192 Swan Street) for Korean fried chicken ($18–$20) and b
 
 Grab a bánh mì from **Minh Xuong** (374 Victoria Street) at $6.50, walk Victoria Street for the atmosphere, then head to **Rare Hare** (260 Church Street) for a wine bar session. Share a charcuterie board ($28), work through the wine-by-the-glass list ($14–$20), and let the evening unfold naturally. This is the "no plans, just vibes" Saturday and it's underrated.
 
----
 
 ## Sunday Morning: Slow It Down
 
@@ -80,7 +76,6 @@ Sunday is for lingering. If you're brunching again, **Apte** (59 Swan Street) is
 
 For something different, grab sourdough and pastries from **Nativ Bakery** (204 Swan Street) and eat them in Yarra Bend Park. The bakery opens at 7am and the pain au chocolat ($6.50) is worth the early alarm. A $5 flat white from Axil to-go, a bench by the river, and nowhere to be — that's a Sunday morning done right.
 
----
 
 ## Sunday Afternoon: Sport, Culture, or Chill
 
@@ -96,7 +91,6 @@ The MCG or AAMI Park will be hosting something. Check the AFL fixture, cricket c
 
 That's allowed. Richmond has enough good bars and restaurants that "not doing much" can be its own kind of weekend. A slow lunch at Sapore (346 Church Street), a walk through the residential streets, and an early night is a perfectly valid Richmond weekend.
 
----
 
 ## If There's an MCG Event
 
@@ -106,7 +100,6 @@ Check the schedule before planning your weekend. On AFL match days, cricket test
 - **Transport:** Drive if you must, but park well away from the ground. Trams and trains will be full but functional. Rideshare surge pricing will be brutal.
 - **Dining:** Book restaurants well ahead — everything within walking distance of the MCG fills up.
 
----
 
 ## The Weekend Budget
 
@@ -125,7 +118,6 @@ Here's what a typical Richmond weekend might cost:
 
 You can absolutely do Richmond for less. A $6.50 bánh mì for lunch and a pub parma for dinner keeps the weekend under $100. The point is you have the choice.
 
----
 
 ## What We Skipped and Why
 
@@ -135,7 +127,6 @@ You can absolutely do Richmond for less. A $6.50 bánh mì for lunch and a pub p
 
 **Day trips and excursions:** Richmond is your base. If you want to leave the suburb, we have guides for that.
 
----
 
 ## Cross-Suburb Weekend Ideas
 
@@ -145,7 +136,6 @@ If you want to mix things up, these neighbouring suburbs are easy to reach:
 - [Things To Do This Weekend in Collingwood](/collingwood/things-to-do-this-weekend) — Smith Street markets, galleries, and the full hipster experience
 - [Things To Do This Weekend in Cremorne](/cremorne/things-to-do-this-weekend) — New venues and a surprisingly good weekend scene
 
----
 
 <!-- WIDGET: Poll -->
 **🗳️ What's your perfect Richmond weekend?**
@@ -156,7 +146,6 @@ If you want to mix things up, these neighbouring suburbs are easy to reach:
 
 [Vote in our weekly suburb poll →](/poll/richmond-weekend-style)
 
----
 
 <!-- WIDGET: Suburb Vibe Score -->
 **📊 Richmond Vibe Score This Week: 88/100**
@@ -165,7 +154,6 @@ Weekend energy is the biggest driver of Richmond's score. Match days push it hig
 
 [See the full Vibe Score breakdown →](/richmond/vibe-score)
 
----
 
 <!-- WIDGET: Comment Prompt -->
 **💬 What's your Richmond weekend routine?**
@@ -174,7 +162,6 @@ Everyone does it differently. Tell us your go-to and we might feature it in a fu
 
 [Drop a comment below or email us at hello@melbz.com.au](#comments)
 
----
 
 <!-- WIDGET: Related Reading -->
 **📖 More from Richmond**
@@ -183,7 +170,6 @@ Everyone does it differently. Tell us your go-to and we might feature it in a fu
 - [Best Brunch in Richmond](/richmond/best-brunch) — the full brunch deep-dive
 - [Nightlife Guide to Richmond](/richmond/nightlife-guide) — when Saturday night keeps going
 
----
 
 *This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
 

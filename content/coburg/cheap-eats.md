@@ -1,6 +1,8 @@
 ---
 title: "Cheap Eats in Coburg 2026: Sydney Road Under $15"
 cover_image: "/images/coburg/cheap-eats.jpg"
+---
+
 suburb: "coburg"
 vertical: "food"
 author: "omar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "The best cheap eats in Coburg for 2026 — 8 verified spots under $15 on Sydney Road and beyond. Kebabs, dumplings, falafel, and bakery steals."
 tags: ["coburg"]
 categories: ["cheap"]
----
 # Cheap Eats in Coburg 2026: Sydney Road Under $15
 
 Here's the thing about Coburg and cheap food: it's not a trend, it's the baseline. Sydney Road has been feeding people well and cheaply for decades — long before "affordable dining" became a clickbait category. Turkish bakeries that charge $7 for a filling the size of a small child. Lebanese spots where a plate of hummus and bread is an entire meal. Vietnamese joints doing pho for under $13. This strip doesn't do overpriced.
@@ -20,7 +21,6 @@ Here are eight spots where you can eat properly for under $15. Most under $10.
 
 **Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
 
----
 
 ## 1. A1 Bakery
 
@@ -35,7 +35,6 @@ The manoush (zaatar flatbread) is $3. The spinach fatayer are $3.50. A full plat
 **Hours:** Daily 6am–8pm
 **Insider tip:** The freshly baked bread comes out in waves throughout the day. The 10am batch is the sweet spot — still warm, crisp, and perfect. Avoid the 5pm rush when the after-work crowd descends.
 
----
 
 ## 2. Al Alamy
 
@@ -50,7 +49,6 @@ The Lebanese pizza with cheese and zaatar ($8) is the size of a dinner plate and
 **Hours:** Daily 7am–8pm
 **Insider tip:** They do a mixed plate with falafel, hummus, tabouli, and bread for about $12 — it's genuinely enough for two people if you're not ravenous. Great for a quick stop before hopping on the train from Coburg Station.
 
----
 
 ## 3. Melbourne Kebab Station
 
@@ -65,7 +63,6 @@ The falafel plate is slightly cheaper and arguably better — golden, crunchy on
 **Hours:** Daily 10am–midnight
 **Insider tip:** The late-night window (after 10pm) is the same menu but with smaller portions and faster service. Perfect for a post-pub stop without committing to a full plate.
 
----
 
 ## 4. Zaatar Bakehouse
 
@@ -80,7 +77,6 @@ But it's the simplicity that works. You walk in, point at what looks good (every
 **Hours:** Daily 7am–6pm
 **Insider tip:** The cheese-and-jalapeño pies on Fridays are a weekly special that regulars know about. Get there before noon or they're gone.
 
----
 
 ## 5. Half Moon Cafe
 
@@ -95,7 +91,6 @@ The rice paper rolls are $8 for a serve of four — fresh, tightly rolled, and s
 **Hours:** Tue–Sun 9am–4pm, closed Mondays
 **Insider tip:** They do a lunch special Monday to Friday — any roll or rice paper combo for $9 with a drink. Check their window for the handwritten specials board.
 
----
 
 ## 6. Antalya Turkish Restaurant
 
@@ -110,7 +105,6 @@ The doner kebab plate ($13) comes with rice, salad, and bread and is noticeably 
 **Hours:** Daily 10am–10pm
 **Insider tip:** The Friday and Saturday dinner service is the real deal — they do mixed grills and pide that are worth the trip. But for cheap eats purposes, stick to the gozleme and lunch specials.
 
----
 
 ## 7. Wang Wang Dumpling
 
@@ -125,7 +119,6 @@ The wonton soup ($10) is another winner — a big bowl of broth with plump, meat
 **Hours:** Daily 11am–9pm
 **Insider tip:** Call ahead if you're taking away — the queue can build during the lunch rush and they make each batch fresh. A 10-minute wait is normal, but calling ahead saves you standing on the footpath looking hungry.
 
----
 
 ## 8. Trivelli Cakes
 
@@ -140,7 +133,6 @@ This place has been here since 1965 and the recipes haven't changed. That's not 
 **Hours:** Tue–Sat 8am–5pm, Sun 9am–3pm, closed Mondays
 **Insider tip:** The cartocci sell out fast on Saturday mornings. If you want one, get there before 10am. If they're out, the Sicilian ricotta cake slice ($7) is a worthy backup.
 
----
 
 ## The Bottom Line
 
@@ -154,7 +146,6 @@ Also worth checking: [Coburg North's growing food scene](/coburg-north/cheap-eat
 
 **Your Coburg Vibe Score this week: 72/100** — Feeds you well for under $15. Always has.
 
----
 
 *Know a cheap eat we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

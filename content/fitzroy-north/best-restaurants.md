@@ -1,6 +1,8 @@
 ---
 title: "Best Restaurants in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/best-restaurants.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "jules"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best restaurants in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["best"]
----
 ## The Best Restaurants in Fitzroy North
 
 This is your verified guide to the best restaurants in Fitzroy North for 2026.
@@ -20,7 +21,6 @@ The dining scene here sits on the Brunswick Street spine, radiates out through S
 
 Whether you're after a weeknight pasta or a Saturday night splurge, here's where to eat in Fitzroy North.
 
----
 
 ### 1. Ovest
 
@@ -37,7 +37,6 @@ The space is small and intimate — maybe 40 seats — with warm lighting, expos
 
 **Insider tip:** Ovest does a "Pasta Monday" special — any pasta dish + a glass of wine for $32. It's the best value dinner in the suburb, and the only reason more people don't know about it is that Monday-night diners tend to guard their secrets.
 
----
 
 ### 2. Bababababababa
 
@@ -54,7 +53,6 @@ The space seats maybe 20, which means reservations are essential for weekend din
 
 **Insider tip:** If you can BYO, bring a good Turkish or Lebanese red — something medium-bodied that pairs with the spice and smoke of the menu. The staff will happily recommend pairings if you're stuck.
 
----
 
 ### 3. Citrus
 
@@ -71,7 +69,6 @@ The space is modest and clean, with the kind of unpretentious warmth that comes 
 
 **Insider tip:** The weekday lunch buffet is the single best value meal in Fitzroy North. $22 for unlimited food that's genuinely delicious, with fresh fruit juice included. Go hungry — you'll want to try everything.
 
----
 
 ### 4. The Terminus Hotel (Bistro)
 
@@ -88,7 +85,6 @@ The dining room is separate from the bar, which means families and groups can ea
 
 **Insider tip:** The Terminus does a Sunday roast special ($22) that rotates between beef, pork, and lamb. It sells out most weeks, so arrive early or call ahead to reserve a plate.
 
----
 
 ### 5. Delphi Tavern (Dinner)
 
@@ -105,7 +101,6 @@ The atmosphere is casual and family-friendly. The dining area is spacious enough
 
 **Insider tip:** The Delphi's Friday night lamb roast special ($24) — whole roast lamb, roasted vegetables, and gravy — is a neighbourhood institution. Book ahead, especially in winter.
 
----
 
 ### 6. Loretta's (Dinner Service)
 
@@ -122,7 +117,6 @@ The space transforms in the evening: warmer lighting, candles on tables, and a q
 
 **Insider tip:** Loretta's does a "Chef's Table" dinner on the last Friday of each month — a five-course set menu ($75pp) with matched wines ($45pp supplement). It books out quickly but is worth the effort.
 
----
 
 ### 7. Wong's Late Night Kitchen
 
@@ -137,7 +131,6 @@ Follow their social media to find where they're set up each week — they rotate
 
 **Insider tip:** Wong's does a "double special" on Sundays — any two dishes + a drink for $30. It's designed for hangover recovery and it works spectacularly.
 
----
 
 ## Dinner Price Guide
 
@@ -152,7 +145,6 @@ Fitzroy North dining in 2026:
 
 Wine and drinks add $15-30 per person depending on your choices. Tipping isn't expected but 5-10% for excellent service is always appreciated.
 
----
 
 ## Getting There & Home
 
@@ -166,7 +158,6 @@ All restaurants on this list are within walking distance in Fitzroy North. For g
 
 **If you need help:** Fitzroy Police Station, 292 Smith Street, is open 24 hours. Emergency: 000.
 
----
 
 ## Cross-Links
 

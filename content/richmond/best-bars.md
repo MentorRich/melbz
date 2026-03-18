@@ -5,12 +5,17 @@ date: 2026-03-16
 author: lina
 tags: ["richmond", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Best Bars in Richmond 2026: Swan Street & Church Street
+description: "Best Bars in Richmond 2026: Swan Street & Church Street"
+---
 
-Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
+**Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
+
+
 
 Richmond doesn't try to be cool. Th..."
----
+
+*Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
+
 # Best Bars in Richmond 2026: Swan Street & Church Street
 
 *Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
@@ -21,7 +26,6 @@ While Fitzroy and Collingwood get the Instagram love, Richmond has quietly built
 
 I spent two weeks working my way along both strips (and a few side streets) to find the bars actually worth your time in 2026. Here's what made the cut.
 
----
 
 ## The Corner Hotel
 
@@ -39,7 +43,6 @@ But the Corner isn't just about the bandroom. Upstairs, there's a rooftop bar an
 
 **Best for:** Live music nights (check their gig calendar — it's stacked), rooftop drinks before footy, or a casual midweek beer.
 
----
 
 ## Maeve Fox
 
@@ -55,7 +58,6 @@ The cocktail game here is genuinely strong. The Dharma & Diego (Vida Mezcal, car
 
 **Best for:** Cocktails with ambition, sneaky weeknight sessions, and post-MCG drinks when you don't want to deal with the Crown precinct crowds.
 
----
 
 ## Brogan's Way Distillery
 
@@ -73,7 +75,6 @@ Food leans European: crisp flatbreads, cheese boards, gin-friendly bar snacks. N
 
 **Best for:** Gin discovery, food-and-drink pairings, and impressing someone without spending a fortune.
 
----
 
 ## Clover
 
@@ -89,7 +90,6 @@ The menu is modern Australian with a French lean — think razor-sharp technique
 
 **Best for:** Date nights, wine nerdery, and long dinners where the food keeps getting better as the night goes on.
 
----
 
 ## Harlow
 
@@ -105,7 +105,6 @@ Downstairs, the vibe shifts to something more pub-adjacent: acoustic live music 
 
 **Best for:** Rooftop sessions, weekend bottomless lunch, acoustic music nights, and anyone avoiding the Swan Street footy crush.
 
----
 
 ## Bar 9T4
 
@@ -121,7 +120,6 @@ This is not a craft cocktail bar. This is a place where you go when the sun's go
 
 **Best for:** Late nights, cheap drinks, footy crowds, and nights when you want to dance without paying a cover charge.
 
----
 
 ## What We Skipped and Why
 
@@ -137,7 +135,6 @@ Not every Richmond bar made the cut. Here's why a few well-known names didn't ge
 
 **The Royston Hotel** — A true locals' pub with great parmas and plenty of taps, but it's more "beloved local" than "destination bar." If you're already in Richmond and want a quiet pint, it's perfect. If you're coming from across town, there are bigger draws.
 
----
 
 ## Getting There and Getting Home
 
@@ -148,7 +145,6 @@ Richmond is one of Melbourne's most accessible suburbs for a night out:
 - **Driving:** Paid parking along both streets, but honestly — train it. Parking on a Saturday night is an exercise in frustration.
 - **Rideshare:** Surge pricing kicks in hard after midnight, especially after MCG events. Walk to a side street and order from there.
 
----
 
 ## The Verdict
 
@@ -158,15 +154,12 @@ Start on Swan Street for the energy. End on Church Street for the cocktails. And
 
 Richmond doesn't do pretension. It does good drinks, good food, and enough variety that every night out feels different from the last. That's not flashy. That's just Melbourne at its best.
 
----
 
 **Read next:** [Best Bars in Collingwood 2026](/collingwood/best-bars) · [Best Bars in Cremorne 2026](/cremorne/best-bars) · [Best Bars in South Yarra 2026](/south-yarra/best-bars)
 
----
 
 *What's your go-to Richmond bar? Did we miss your favourite? Drop us a line at [hello@melbz.com.au](mailto:hello@melbz.com.au) and we'll check it out for the next update.*
 
----
 
 **Poll:** What's your Richmond drinking style?
 

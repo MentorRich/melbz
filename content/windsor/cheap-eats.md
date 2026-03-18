@@ -1,6 +1,8 @@
 ---
 title: "Cheap Eats in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/cheap-eats.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "omar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the cheap eats in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["cheap"]
----
 ## The Best Cheap Eats in Windsor
 
 Windsor has quietly become one of Melbourne's best suburbs for eating well without spending much. The Chapel Street strip here still has that mix of established restaurants and scrappy newcomers that keeps prices competitive — when you've got Lah Bros doing Nepali thalis for $22 and Lucky Coq slinging pizza-and-beer deals for $20, it forces everyone else to keep their prices honest.
@@ -108,7 +109,6 @@ A margherita at $19 with a tap beer ($10) is a $29 dinner that's better than man
 
 **Insider tip:** The antipasti boards ($16–$22) are generous enough to share between two as a light dinner.
 
----
 
 ## What We Skipped and Why
 
@@ -118,7 +118,6 @@ A margherita at $19 with a tap beer ($10) is a $29 dinner that's better than man
 
 **Any food court or chain** — Windsor doesn't really have chain food, and we're here for the independents.
 
----
 
 ## The Windsor Cheap Eats Landscape
 
@@ -126,14 +125,12 @@ The average cheap eat in Windsor runs about $15–$20 per person for a main, whi
 
 The best strategy for cheap eats in Windsor: lunch is cheaper than dinner at most places, weekday specials beat weekend prices, and sharing dishes at places like Hawker Hall brings your per-person cost down dramatically.
 
----
 
 **Cross-links:**
 - [Cheap Eats in Prahran](/prahran/cheap-eats) — similar strip, slightly pricier
 - [Cheap Eats in South Yarra](/south-yarra/cheap-eats) — where "cheap" means something different
 - [Cheap Eats in St Kilda](/st-kilda/cheap-eats) — beachside value options
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
 

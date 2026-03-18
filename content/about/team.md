@@ -2,12 +2,13 @@
 title: "Meet the MELBZ Editorial Team"
 cover_image: "/images/about/team.jpg"
 description: "Meet the experts, local legends, and specialists behind Melbourne's hyperlocal intelligence platform."
+---
+
 layout: "team"
 date: 2026-03-18
 author: marcus
 tags: ["about"]
 categories: ["general"]
----
 
 ### More to Explore in About
 

@@ -5,12 +5,17 @@ date: 2026-03-16
 author: marcus
 tags: ["south-yarra", "rent", "property"]
 categories: ["property"]
-description: "Rent Prices in South Yarra 2026: Chapel Street Premium
+description: "Rent Prices in South Yarra 2026: Chapel Street Premium."
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 South Yarra has always been Melbourne's most aspiratio..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Rent Prices in South Yarra 2026: Chapel Street Premium
 
 *Updated 16 March 2026 | Marcus Cole reporting*
@@ -118,7 +123,6 @@ The Chapel Street premium is real. Whether it's worth it depends entirely on you
 
 *Sources: Domain Group, OpenAgent, HtAG Analytics, ABS Employee Earnings (August 2025), Homes Victoria Rental Report (September Quarter 2025), RealestateInvestar.*
 
----
 
 > **📊 Poll:** What's the maximum percentage of your income you'd pay in South Yarra rent?
 > - Under 25% — I need to save
@@ -126,19 +130,15 @@ The Chapel Street premium is real. Whether it's worth it depends entirely on you
 > - 35–45% — Lifestyle over savings
 > - 45%+ — It's South Yarra, I'll make it work
 
----
 
 > **💬 Have your say:** Are you renting in South Yarra in 2026? What are you actually paying? Drop your rent and dwelling type in the comments — real numbers help everyone.
 
----
 
 > **📬 Get the weekly Melbourne rent report:** Suburb-by-suburb rent data, new listings, and market moves — delivered every Monday. [Subscribe to MELBZ newsletter →](/newsletter)
 
----
 
 > **📖 Read next:** [South Yarra Cost of Living 2026](/south-yarra/cost-of-living) | [Prahran vs South Yarra: Which Suburb Wins?](/prahran) | [Richmond Rental Guide 2026](/richmond)
 
----
 
 *Marcus Cole is the Property Editor at MELBZ. He has covered Melbourne's rental and property markets for over a decade. Have data or a tip? [Contact the newsroom.](/about)*
 

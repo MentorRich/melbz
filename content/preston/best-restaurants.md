@@ -1,6 +1,8 @@
 ---
 title: "Best Restaurants in Preston — 2026 Local Guide"
 cover_image: "/images/preston/best-restaurants.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "jules"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best restaurants in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["best"]
----
 ## The Best Restaurants in Preston
 
 Preston's restaurant scene is one of Melbourne's most underrated. While food media obsesses over the latest opening in Collingwood or the revival of South Yarra, Preston has been quietly building a dining landscape that spans Vietnamese, Italian, Mexican, modern Australian, and everything in between — at prices that make the inner south look like highway robbery.
@@ -120,7 +121,6 @@ We focused on restaurants that define Preston's identity — the places a local 
 
 We also skipped newer openings that haven't been operating long enough to properly assess. Several Preston spots have launched in late 2025 and early 2026, and we'll add them to future guides once we've had time to form real opinions.
 
----
 
 **More Preston dining guides:**
 → [Cheap Eats in Preston — budget-friendly dining](/preston/cheap-eats/)
@@ -128,7 +128,6 @@ We also skipped newer openings that haven't been operating long enough to proper
 → [Restaurants in Northcote — 20 min walk south](/northcote/)
 → [Restaurants in Thornbury — 10 min walk](/thornbury/)
 
----
 
 *This guide was researched and written by the MELBZ team. Prices and hours are accurate as of March 2026 but should be confirmed before visiting. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

@@ -5,12 +5,17 @@ date: 2026-03-16
 author: priya
 tags: ["melbourne-cbd", "cheap-eats", "food"]
 categories: ["food"]
-description: "Cheap Eats Under $20 in Melbourne CBD 2026: Food Courts & Laneways
+description: "Cheap Eats Under $20 in Melbourne CBD 2026: Food Courts & Laneways"
+---
 
-Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting
+**Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
+
+
 
 Melbourne's CBD has a r..."
----
+
+*Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
+
 # Cheap Eats Under $20 in Melbourne CBD 2026: Food Courts & Laneways
 
 *Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
@@ -21,7 +26,6 @@ I spent a week eating my way through the CBD — from the fluorescent lights of 
 
 Here's what made the cut.
 
----
 
 ## 1. Shanghai Village Dumpling House — Chinatown
 
@@ -39,7 +43,6 @@ The dumplings arrive with a golden, crispy base and a juicy pork filling that's 
 
 **Neighbourhood link:** Chinatown bleeds straight into Chinatown and up Little Bourke, but if you want to explore further, walk 10 minutes north to Carlton's Lygon Street for gelato and Italian vibes at the other end of the food spectrum.
 
----
 
 ## 2. Tognini's Food Store — Bourke Street
 
@@ -55,7 +58,6 @@ This is a grab-and-go operation. You order at the counter, they hand it to you s
 
 **Pro tip:** Get in before noon. By 1pm the popular stuff sells out and you're left choosing between the things nobody else wanted.
 
----
 
 ## 3. Supernormal — Chinatown Food Court
 
@@ -71,7 +73,6 @@ The noodles have actual bite to them — chewy and springy, not the soggy superm
 
 **Neighbourhood link:** Walk five minutes south and you'll hit the Southbank promenade along the Yarra. Not exactly cheap eats territory, but if you're stretching the budget, the free riverside views pair nicely with your noodles.
 
----
 
 ## 4. N. Lee Bakery — Bourke Street Mall
 
@@ -87,7 +88,6 @@ This is the kind of meal that ruins every other sandwich for you. The bread shat
 
 **Pro tip:** The queue moves fast — don't be put off by a line of 15 people. You'll be eating within 10 minutes.
 
----
 
 ## 5. Hu Tieu Nam Vang — Elizabeth Street
 
@@ -103,7 +103,6 @@ The Hu Tieu Nam Vang (the house special, which gives the restaurant its name) co
 
 **Pro tip:** This place is cash only. The ATM around the corner charges $3, so bring notes.
 
----
 
 ## 6. Queen Victoria Market Food Hall — Various Vendors
 
@@ -121,7 +120,6 @@ The bratwurst stand near the Elizabeth Street entrance does a classic sausage wi
 
 **Neighbourhood link:** From Queen Vic Market, you can walk south into the CBD proper (10 minutes) or head east into the laneways near Chinatown. If you've got time, walk north to Carlton (15 minutes on foot) and hit Lygon Street for more affordable Italian eats.
 
----
 
 
 ## Venue Addresses & Details
@@ -140,7 +138,6 @@ The bratwurst stand near the Elizabeth Street entrance does a classic sausage wi
 
 **Grain Store** (531 Flinders Lane) — The $12 sandwich special at lunch is excellent if you catch it. Changes daily, so there's an element of surprise.
 
----
 
 
 ## Venue Addresses & Details
@@ -163,7 +160,6 @@ Not everything made the cut. Here's what we looked at and left off the list:
 
 **The $1 dumpling specials.** Some places still advertise $1 dumplings, but the portion sizes have shrunk and the quality has dropped. A $1 dumpling that tastes like seasoned cardboard isn't a cheap eat — it's just cheap.
 
----
 
 
 ## Venue Addresses & Details
@@ -180,7 +176,6 @@ The pattern is consistent across all six spots above: skip the sit-down restaura
 
 The CBD's best value is in the edges — Chinatown along Little Bourke, the Elizabeth Street corridor, and the market precinct. The middle of the CBD (Bourke Street Mall, Collins Street) is where prices go up and portions go down.
 
----
 
 
 ## Venue Addresses & Details
@@ -195,7 +190,6 @@ The CBD's best value is in the edges — Chinatown along Little Bourke, the Eliz
 
 This CBD guide is part of our ongoing cheap eats series. If you're exploring beyond the CBD, check out our picks for **[Carlton's best cheap Italian eats](/melbourne-cbd)**, **[Southbank's affordable waterfront dining](/southbank)**, and **[Fitzroy's $15 lunch legends](/fitzroy)** for more budget-friendly options across the city.
 
----
 
 *Have we missed your favourite cheap eat in the CBD? Drop it in the comments — we'll test it for the next update.*
 

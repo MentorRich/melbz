@@ -1,18 +1,14 @@
 ---
-title: "Untitled"
+title: "Ascot Vale Nightlife Guide 2026: Pubs, Bars & Local Gems"
 cover_image: "/images/ascot-vale/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
-description: "cover_image: "/images/ascot-vale/nightlife-guide.jpg"
- Ascot Vale Nightlife Guide
-
-Update..."
-tags: ["ascot-vale"]
+tags: ["ascot-vale", "nightlife", "bars"]
 categories: ["nightlife"]
+description: "Ascot Vale Nightlife Guide 2026: Pubs, Bars & Local Gems"
 ---
 
-cover_image: "/images/ascot-vale/nightlife-guide.jpg"
-# Ascot Vale Nightlife Guide
+*Updated 17 March 2025 | MELBZ reporting*
 
 Updated 17 March 2025 | MELBZ reporting
 

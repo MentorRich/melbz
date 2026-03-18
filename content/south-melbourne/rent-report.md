@@ -5,12 +5,17 @@ date: 2026-03-16
 author: marcus
 tags: ["south-melbourne", "rent", "property"]
 categories: ["property"]
-description: "Rent Prices in South Melbourne 2026: What You'll Pay
+description: "Rent Prices in South Melbourne 2026: What You'll Pay"
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 South Melbourne has always been the suburb that outperfo..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Rent Prices in South Melbourne 2026: What You'll Pay
 
 *Updated 16 March 2026 | Marcus Cole reporting*
@@ -41,12 +46,10 @@ If you're renting a house in South Melbourne, you're paying for scarcity. Terrac
 
 **The takeaway:** A single professional or couple is realistically budgeting $480–$650/week for an apartment. A family wanting a house is looking at $900+. Annualised, that's $25,000–$34,000 for an apartment or $47,000–$57,000 for a house — just on rent.
 
----
 
 > **📊 How does your suburb compare?**
 > [Rate your suburb on MELBZ →](/rate)
 
----
 
 ## How South Melbourne Compares to Its Neighbours
 
@@ -78,7 +81,6 @@ Albert Park also has the "village" feel dialled up to 11. Fewer apartment blocks
 
 **Verdict:** For apartments, Albert Park and South Melbourne are comparable — choose based on the specific street. For houses, Albert Park commands a clear premium, and South Melbourne offers better value if you don't need the full village treatment.
 
----
 
 > **🗳️ What matters most to you in a rental?**
 > - [ ] Price per week
@@ -87,7 +89,6 @@ Albert Park also has the "village" feel dialled up to 11. Fewer apartment blocks
 > - [ ] Building quality
 > [Vote and see what other renters prioritise →](/polls/rent-priorities-2026)
 
----
 
 ## The Salary Reality Check
 
@@ -118,13 +119,11 @@ Price is one thing. Value is another. Here's what sets South Melbourne apart fro
 
 **Parking:** This is where it gets painful. Street parking in South Melbourne is a competitive sport, particularly between 6–8pm when everyone comes home. Many apartments come with no parking, or one spot for a two-bedroom. Factor in $150–$250/month for a secure car space if you drive, because circling Clarendon Street at 7pm on a Tuesday is not a viable life strategy.
 
----
 
 > **💬 South Melbourne renters — what's your experience?**
 > Submit your rent amount, property type, and street (anonymous) to help build the real picture.
 > [Submit your data →](/submit/rent-check)
 
----
 
 ## What We Skipped and Why
 
@@ -157,7 +156,6 @@ South Melbourne won't wow you on a Saturday afternoon stroll the way Fitzroy mig
 
 *Marcus Cole is MELBZ's Property Editor. He's rented in six Melbourne suburbs over 14 years and has strong opinions about strata fees. Follow his property coverage on MELBZ or submit your own suburb rent data to help build the most honest rental picture in Melbourne.*
 
----
 
 *Data sourced from Homes Victoria Rental Report (September Quarter 2025), Domain House Price Report (December 2025), REIV Quarterly Data, InvestorKit Melbourne Market Report (March 2026), RateChallenge South Melbourne Property Report (January 2026), and current listing analysis. Figures represent median asking rents and market ranges as of March 2026. Individual results vary by property condition, lease terms, and exact location.*
 

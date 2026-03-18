@@ -5,12 +5,17 @@ date: 2026-03-16
 author: eli
 tags: ["kensington", "cafes", "food"]
 categories: ["food"]
-description: "Best Cafes in Kensington 2026: Coffee in the Quiet Suburb
+description: "Best Cafes in Kensington 2026: Coffee in the Quiet Suburb"
+---
 
-Updated 16 March 2026 | 6 places tested | Eli Chen reporting
+**Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
+
+
 
 Kensington doesn't scream about its ..."
----
+
+*Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
+
 # Best Cafes in Kensington 2026: Coffee in the Quiet Suburb
 
 **Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
@@ -19,12 +24,10 @@ Kensington doesn't scream about its coffee. That's the whole point. Tucked betwe
 
 I walked every block, drank too many flat whites over two weeks, and ranked what I found. Here's the list.
 
----
 
 > **☕ THE MOVE**
 > Kensington's best cafes cluster along two streets — Bellair Street and Macaulay Road. If you're visiting for the first time, park near Kensington Station and walk north. You'll hit four of the six spots below within a 10-minute radius.
 
----
 
 ## 1. The Premises
 
@@ -39,7 +42,6 @@ The Premises draws the early-morning Kensington crowd — tradies heading to nea
 
 **What to order:** Eggs Benedict with house relish + flat white. Budget: $25.
 
----
 
 ## 2. Rumble Coffee Roasters
 
@@ -54,7 +56,6 @@ Rumble closes at 2pm, which means no lazy Saturday arvos here. And they're close
 
 **What to order:** Single-origin filter + pistachio-raspberry blondie. Budget: $13.
 
----
 
 ## 3. Cassette
 
@@ -71,7 +72,6 @@ If you're comparing inner-west sustainable cafes, Cassette holds its own against
 
 **What to order:** Loaded potato rosti + rotating filter coffee. Budget: $24.
 
----
 
 ## 4. 1565 Gelateria & Cafe
 
@@ -86,7 +86,6 @@ The cafe operates as a Mediterranean-style all-rounder: coffee, cakes, gelato, l
 
 **What to order:** Arancini + pistachio gelato. Budget: $19.
 
----
 
 > **📊 VOTE: What's your go-to Kensington cafe order?**
 > - Flat white + something sweet
@@ -96,7 +95,6 @@ The cafe operates as a Mediterranean-style all-rounder: coffee, cakes, gelato, l
 >
 > *Drop your pick in the comments.*
 
----
 
 ## 5. Luncheonette
 
@@ -113,7 +111,6 @@ For a deeper dive into what's happening across the inner-west cafe scene, our [F
 
 **What to order:** Chicken pie + Coffee Supreme flat white. Budget: $22.
 
----
 
 ## 6. Karelay Patisserie
 
@@ -128,12 +125,10 @@ Karelay sits on Bellair Street, two doors down from The Premises, which makes th
 
 **What to order:** Almond croissant + latte. Budget: $11.
 
----
 
 > **⚠️ THIS WEEK ONLY**
 > Rumble Coffee Roasters' new Rwandan single-origin is a limited batch. Once it's gone, it's gone. If you're a filter coffee drinker, get to 348 Macaulay Road before Friday.
 
----
 
 ## What We Skipped and Why
 
@@ -145,7 +140,6 @@ Not every cafe in Kensington made the cut. Here's what didn't, and why:
 
 **Wholesale Coffee (8 Thomson Street)** — A commercial roaster that does some retail sales, but not a proper cafe experience. No seating, limited hours, not a destination for a Saturday morning. If you need beans, it's worth knowing about. If you want brunch, keep walking.
 
----
 
 ## The Neighbourhood Context
 
@@ -157,7 +151,6 @@ If you're comparing suburbs in the inner west, the cafe density in [Flemington](
 
 Kensington is the quiet achiever. It always has been.
 
----
 
 ## Quick Reference
 
@@ -170,12 +163,10 @@ Kensington is the quiet achiever. It always has been.
 | Luncheonette | 173 Rankins Rd | Commuter coffee | ~$44 |
 | Karelay Patisserie | 190 Bellair St | Quick pastry stop | ~$22 |
 
----
 
 > **How do you feel about this list?**
 > 🔥 Love it | 😐 Meh | 🤯 Missed something? Tell us below.
 
----
 
 **Open Loop Close:** Next time you're in Kensington, hop one stop south to Flemington and check our [best cafes in Flemington guide](/flemington) — or go east to [North Melbourne](/north-melbourne) for the warehouse coffee scene. Both are a short walk from Kensington Station.
 

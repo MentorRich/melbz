@@ -1,6 +1,8 @@
 ---
 title: "Best Bars in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/best-bars.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "jess"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best bars in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["best"]
----
 ## The Best Bars in Windsor
 
 Windsor's bar scene is what happens when a suburb refuses to grow up and move to the suburbs. This is Chapel Street at its most alive — hidden bars behind fridge doors, rooftop drinks above the chaos, Polish vodka bars that have been running for 15 years, and cocktail spots that take their craft seriously without taking themselves too seriously.
@@ -136,7 +137,6 @@ Rooftop bars in Melbourne are always weather-dependent, and this is no exception
 
 **Insider tip:** Sunday arvo sessions on the rooftop are the move. Live DJs, relaxed crowd, and the kind of golden-hour light that makes everything look cinematic.
 
----
 
 ## Getting Home Safe
 
@@ -146,7 +146,6 @@ If you're heading home by rideshare, the best pickup point is on Williams Road o
 
 If you or someone you're with needs help: call 000. Windsor Police Station is at 396 Punt Road, Prahran.
 
----
 
 ## What We Skipped and Why
 
@@ -156,7 +155,6 @@ If you or someone you're with needs help: call 000. Windsor Police Station is at
 
 **Circus Bar** — Also nightclub territory. See Nightlife Guide.
 
----
 
 ## The Windsor Bar Scene at a Glance
 
@@ -167,14 +165,12 @@ If you or someone you're with needs help: call 000. Windsor Police Station is at
 - Best for date night: Her Bar
 - Best for groups: Hoo Haa or Wonderland
 
----
 
 **Cross-links:**
 - [Best Bars in Prahran](/prahran/best-bars) — Chapel Street's polished end
 - [Best Bars in South Yarra](/south-yarra/best-bars) — where cocktails get pricier
 - [Best Bars in St Kilda](/st-kilda/best-bars) — beachside drinking
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
 

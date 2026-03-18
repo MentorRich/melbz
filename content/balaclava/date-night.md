@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Balaclava — 2026 Local Guide"
 cover_image: "/images/balaclava/date-night.jpg"
+---
+
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the date night in Balaclava. Our verified 2026 guide covers the best spots for locals."
 tags: ["balaclava"]
 categories: ["date"]
----
 ## The Best Date Night in Balaclava
 
 Here's the thing about Balaclava for date night: it doesn't try to impress you. There's no $200 degustation with liquid nitrogen and a view of the Yarra. There's no Instagram wall outside the front door. What there IS, is a strip of genuinely good restaurants, low-key bars, and enough conversation-starting characters to make any date feel like an adventure rather than an interview.
@@ -18,7 +19,6 @@ Balaclava sits in that sweet spot between "we should try somewhere new" and "we 
 
 Here's how to do date night in Balaclava without stuffing it up.
 
----
 
 ## The Pre-Dinner Drink
 
@@ -30,7 +30,6 @@ For something more casual, the **Balaclava Hotel rooftop** is a surprisingly rom
 
 If you want somewhere with more energy, **Pause Bar** (268 Carlisle Street) has the neighbourhood bar thing down — DJs on some nights, a decent cocktail list, and a crowd that skews young professional. Check what's on before you go.
 
----
 
 ## Dinner: The Main Event
 
@@ -60,7 +59,6 @@ If you've done the candlelit Italian thing and want to shake it up, the Vietname
 
 The vibe is casual, the broth is good enough to silence a food critic, and there's something genuinely romantic about sharing a massive bowl of pho on a cold Melbourne night. Dim the lights in your imagination and you're in Saigon.
 
----
 
 ## The After-Dinner Move
 
@@ -78,7 +76,6 @@ If you'd rather not walk 20 minutes, the **Balaclava Hotel** is the local's late
 
 **Pause Bar** is the other late option — DJs some weekends, cocktails that won't break the bank, and a crowd that skews toward the "we're not ready to go home yet" demographic. It's the kind of bar where you end up staying two hours longer than planned and meeting the bartender's mate who has a story about the time he accidentally gatecrashed a wedding.
 
----
 
 ## Date Night on a Budget
 
@@ -91,7 +88,6 @@ Balaclava is one of Melbourne's most date-night-friendly suburbs if you're watch
 
 That's a full evening for under $80, no compromises on quality or experience. Try doing that in South Yarra or Fitzroy without ending up at a kebab shop at 1am.
 
----
 
 ## Practical Tips
 
@@ -103,7 +99,6 @@ That's a full evening for under $80, no compromises on quality or experience. Tr
 
 **Dress code:** Balaclava doesn't have one. You'll be fine in jeans and a clean shirt. Nobody's wearing heels on Carlisle Street and the restaurants don't care if you turn up in activewear (though maybe don't for a date).
 
----
 
 ## The Nearby Plays
 
@@ -113,7 +108,6 @@ If Balaclava doesn't quite scratch the itch, these neighbouring suburbs are a sh
 - **Elsternwick** — the Glen Huntly Road strip has been picking up with new restaurants and wine bars that are worth the 15-minute walk
 - **Caulfield** — if you want something more polished, the restaurants around the racecourse precinct on a Saturday night have a different energy
 
----
 
 ## Cross-Links
 

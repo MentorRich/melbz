@@ -5,19 +5,22 @@ date: 2026-03-16
 author: liam
 tags: ["melbourne", "pizza", "food"]
 categories: ["food"]
-description: "Best Pizza in Melbourne 2026: The Definitive Rankings
-
-Updated 16 March 2026 | 12 places tested | Liam Murphy reporting
-
+description: "Best Pizza in Melbourne 2026: The Definitive Rankings"
 ---
+
+**Updated 16 March 2026 | 12 places tested | Liam Murphy reporting**
+
+
+
+
+*Updated 16 March 2026 | 12 places tested | Liam Murphy reporting*
+
 
 Right. Let's get into it. Every..."
----
 # Best Pizza in Melbourne 2026: The Definitive Rankings
 
 **Updated 16 March 2026 | 12 places tested | Liam Murphy reporting**
 
----
 
 Right. Let's get into it. Every year someone publishes a "best pizza in Melbourne" list that reads like it was written by someone who's never actually eaten pizza in Melbourne. The same ten places, the same tired descriptions, the same "you can't go wrong" cop-out. You can absolutely go wrong. I've eaten at all twelve of these places in the last six weeks — some twice, because I'm thorough and also because I have no self-control — and I'm here to tell you exactly where your money is best spent.
 
@@ -27,7 +30,6 @@ I've ranked these by overall experience, not just the pizza. Because you don't e
 
 Let's go.
 
----
 
 ## 1. Capitano — Carlton
 
@@ -41,7 +43,6 @@ Drinks list leans heavily into Italian natural wine and a tight selection of coc
 
 **Insider tip:** Go on a Monday or Tuesday when there's no wait. Friday and Saturday you're looking at 45 minutes minimum. Park on Drummond Street, not Lygon — same distance, infinitely less stress.
 
----
 
 ## 2. 400 Gradi — Brunswick
 
@@ -57,7 +58,6 @@ The Brunswick location is the original and still the best. The Sydney Road strip
 
 **Price check:** A margherita is $18. You will not find better pizza for that price in this city.
 
----
 
 ## 3. Supermaxi — Windsor
 
@@ -71,7 +71,6 @@ They do round pies too, but honestly, the al taglio is where the magic is. Grab 
 
 **The move:** Go at 11:30am when the first trays come out. By 2pm the best slices are gone.
 
----
 
 ## 4. DOC Pizza & Mozzarella Bar — Carlton
 
@@ -85,7 +84,6 @@ What separates DOC from the pack is the cheese program. This is the mozzarella b
 
 **Budget reality check:** You can do a pizza and a glass of wine for under $45 per person. In 2026 Carlton, that's practically a steal.
 
----
 
 ## 5. Baby Pizza — Armadale
 
@@ -99,7 +97,6 @@ The drinks list is where Baby excels. Proper cocktails, a wine list that doesn't
 
 **Fair warning:** The prices reflect the suburb. A pizza here will run you $28–$36, and with drinks you're looking at $60–$80 per head. The food justifies it, but go in with eyes open.
 
----
 
 ## 6. Pizza Farro — South Melbourne
 
@@ -113,7 +110,6 @@ The South Melbourne location near the market means weekend brunch traffic is hug
 
 **Who it's for:** If you're gluten-sensitive (not celiac — the flour is still wheat-based but lower gluten) or you want pizza that doesn't make you feel like you need a nap afterwards, this is your spot.
 
----
 
 ## 7. Capitano — CBD (Hardware Lane)
 
@@ -127,7 +123,6 @@ The room itself has that hardware-lane-meets-New-York-industrial thing happening
 
 **Getting there:** Tram to Stop 8 on Bourke Street, then a two-minute walk down Hardware Lane. If you're driving, forget about it — the Wilson parking on Hardware Lane is $35 for two hours and you'll spend most of that time wondering if your car will still have its catalytic converter.
 
----
 
 ## 8. Tonda — Cremorne
 
@@ -141,7 +136,6 @@ The Cremorne location is industrial-chic in the way that part of Richmond does s
 
 **Pair it with:** Tonda is walking distance from [our guide to Richmond's best late-night eats](/melbourne/best-late-night-eats), so plan accordingly if you're making a night of it.
 
----
 
 ## 9. +39 — CBD
 
@@ -155,7 +149,6 @@ The wine list is predominantly Italian (obviously) and priced fairly for CBD sta
 
 **The honest take:** The room is small, the tables are close together, and the noise level on a Friday night makes conversation a contact sport. If you're after a quiet romantic dinner, look elsewhere. If you want genuinely good Roman pizza in the CBD with a wine list that makes sense, +39 delivers.
 
----
 
 ## 10. Ladro — Fitzroy
 
@@ -169,7 +162,6 @@ The Gertrude Street location has outdoor seating that's perfect for Melbourne's 
 
 **Value note:** Ladro does a lunch special on weekdays — a pizza and soft drink for $22. That's proper value in Fitzroy, where a sandwich can run you $18.
 
----
 
 ## 11. Iddhi — Collingwood
 
@@ -181,7 +173,6 @@ The dough is a long-fermented sourdough with a chewy, blistered base that holds 
 
 It's not cheap. A pizza here averages $28, and with a drink you're at $45. But for the quality of ingredients and the creativity on display, it's justified. Iddhi is the kind of place that makes you excited about where Melbourne pizza is heading, not where it's been.
 
----
 
 ## 12. 400 Gradi — South Melbourne
 
@@ -191,7 +182,6 @@ I'm giving 400 Gradi a second spot because the South Melbourne location deserves
 
 The South Melbourne Market is a block away, which makes this the perfect post-market lunch. Grab a margherita, a Peroni, sit outside, and pretend you're on Via dei Tribunali. Except the weather's probably better. Or worse. It's Melbourne — could go either way.
 
----
 
 ## What We Skipped and Why
 
@@ -205,7 +195,6 @@ Every "best pizza" list has omissions, and people get angry about them. Here's o
 
 **Anyone doing takeaway/delivery only** — We excluded delivery-focused operations from this ranking because you can't judge atmosphere, service, or the pizza-as-experience on a doorstep. That's a separate list, and we're writing it.
 
----
 
 ## The MELBZ Verdict
 
@@ -213,7 +202,6 @@ Melbourne's pizza scene in 2026 is stronger than it's ever been. The gap between
 
 The flip side? Prices have crept up. A $40 pizza-and-drinks night that was a splurge in 2023 is now standard. If you're watching the budget, 400 Gradi's $18 margherita and Pizza Farro's lunch deal are your best bets for eating well without wincing at the card statement.
 
----
 
 ## 🗳️ YOUR TURN: Vote for Melbourne's Most Overrated Pizza
 
@@ -224,7 +212,6 @@ We know you have opinions. We know they're strong. Tell us:
 Cast your vote below and we'll publish the full results next week.
 
 
----
 
 ## 🔥 FIGHT US: Is New York Pizza Better Than Neapolitan?
 
@@ -232,7 +219,6 @@ The MELBZ team is split. Liam says Neapolitan, always. Priya says New York style
 
 **Where do you stand?** Drop your take and the reasoning. No "both are good" cop-outs. Pick a side. [Fight us in the comments.](/community/fight-us)
 
----
 
 ## 📍 THE MOVE: Pair Your Pizza Night
 
@@ -240,7 +226,6 @@ Your pizza ranking is only half the plan. The other half is what happens after. 
 
 If you're in Carlton for Capitano or DOC, you're two blocks from [the best bars on Lygon Street](/melbourne/bars-lygon-street). If you're in Fitzroy for Ladro, Gertrude Street is your oyster (or, more accurately, your natural wine bar).
 
----
 
 ## React to This Article
 
@@ -251,7 +236,6 @@ Did we get it right? Did we miss your favourite? Let us know:
 🤔 **Interesting but...** — Good list, wrong order
 🏆 **New list needed** — You want a specific style ranked (NYC, Detroit, Roman, etc.)
 
----
 
 *Updated 16 March 2026 | 12 places tested | Liam Murphy reporting*
 

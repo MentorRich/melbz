@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["south-melbourne", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "South Melbourne Honest Guide 2026: The Unfiltered Truth
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "South Melbourne Honest Guide 2026: The Unfiltered Truth"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 South Melbourne is the suburb that everyone cl..."
----
 # South Melbourne Honest Guide 2026: The Unfiltered Truth
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 South Melbourne is the suburb that everyone claims to live in when they actually live in Southbank. It's the inner-city postcode that promises village vibes with CBD access, heritage terrace houses next to soulless apartment towers, and a dim sim legacy that punches so far above its weight it should have its own boxing licence.
 
@@ -134,13 +137,11 @@ It's a great suburb for people who want inner-city living without inner-city the
 
 South Melbourne isn't trying to be cool. And that's exactly why it still is.
 
----
 
 **About the author:** *Jack Morrison is MELBZ's Suburb Profile Editor. He's lived in Melbourne long enough to have opinions about tram routes and short enough to still get excited about the market. Follow MELBZ for more honest suburb guides across the city.*
 
 **Related reading:** *Check out our [South Yarra Honest Guide](/south-yarra/honest-guide), [St Kilda Honest Guide](/st-kilda/honest-guide), and [Albert Park Honest Guide](/albert-park/honest-guide) for the full inner-south picture.*
 
----
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. Honest guides, real data, zero tourism brochure energy. [Read more suburb guides →](/guides)*
 

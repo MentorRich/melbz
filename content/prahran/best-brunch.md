@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Prahran — 2026 Local Guide"
 cover_image: "/images/prahran/best-brunch.jpg"
+---
+
 suburb: "prahran"
 vertical: "lifestyle"
 author: "dani"
@@ -9,12 +11,10 @@ updated: 2026-03-16
 description: "Discover the best brunch in Prahran. Our verified 2026 guide covers the best spots for locals."
 tags: ["prahran"]
 categories: ["best"]
----
 ## The Best Brunch in Prahran
 
 Prahran doesn't do brunch quietly. This is a suburb where cafes compete fiercely on weekend mornings — where the avocado toast arms race is real, where corn fritters are a personality trait, and where ordering just a coffee at 10:30am on Saturday feels like showing up to a footy final in the wrong colours. Here's where to get the best brunch in Prahran in 2026, ranked by people who actually eat there.
 
----
 
 ### 1. Entrecote — The One Worth the Wait
 
@@ -26,7 +26,6 @@ The space itself is gorgeous — green-tiled walls, brass fixtures, and a courty
 
 **The insider move:** Book ahead for weekends. Walk-ins are possible before 9:30am, but after that you're looking at a 30–45 minute wait. Tuesday and Wednesday mornings? Walk straight in and have the place nearly to yourself.
 
----
 
 ### 2. Grand Lafayette — The Crowd Pleaser
 
@@ -38,7 +37,6 @@ Coffee is solid (they roast in-house), and the space has that high-ceiling, natu
 
 **The insider move:** Their weekday lunch menu (from 11:30am) is criminally underappreciated. Same quality, smaller crowds, and you can get a full meal for under $25.
 
----
 
 ### 3. Two Birds One Stone — The Neighbourhood Reliable
 
@@ -50,7 +48,6 @@ What makes it a local favourite is consistency. The coffee is always good, the p
 
 **The insider move:** Their banana bread is baked fresh daily and sells out early. If you want some, get there before 9am or call ahead to reserve a slice. Yes, it's that good.
 
----
 
 ### 4. Fourth Chapter — The Adventurous Option
 
@@ -62,7 +59,6 @@ The space is compact and modern — lots of concrete and timber, minimal decor. 
 
 **The insider move:** They do a weekend set menu ($45 per person, includes a drink) that's excellent value if you want to try three or four dishes without committing to a single main.
 
----
 
 ### 5. Staple — The Minimalist
 
@@ -74,7 +70,6 @@ It's a small space, maybe 25 seats inside and a handful out front. No reservatio
 
 **The insider move:** Go at 8am on a Sunday. Everyone else is sleeping in, you'll get a seat immediately, and the morning light through the front windows is perfect.
 
----
 
 ### 6. When Joni Met Mary — The Character Pick
 
@@ -86,7 +81,6 @@ It's got that slightly chaotic weekend energy that some people love and others f
 
 **The insider move:** The egg and bacon roll ($12) is the unsung hero of the menu. Quick, cheap, filling, and perfect if you're grabbing something before hitting the Prahran Market.
 
----
 
 ### 7. Cafè de la Ville — The All-Day Option
 
@@ -98,13 +92,11 @@ It's not the most exciting brunch in Prahran, but it's reliable, well-priced ($1
 
 **The insider move:** Their Wednesday $15 big breakfast deal is a neighbourhood secret. Check their socials to confirm it's still running — when it is, the locals pack the place out.
 
----
 
 ## Brunch Across the Border
 
 If you're exploring the wider inner south, the brunch scene doesn't stop at Prahran's boundaries. [South Yarra's brunch game](/south-yarra/best-brunch) leans more upscale — think Higher Ground, Auction Rooms, and places where the interior design costs more than your rent. [Windsor's brunch strip](/windsor/best-brunch) along the northern end of Chapel Street has a more relaxed vibe, with spots like 100 Mile Sofa and Pillar of Salt doing consistent business. And if you're heading into the [Melbourne CBD](/melbourne-cbd/best-brunch) for a special occasion brunch, the city has some genuinely world-class options around Hardware Lane and the laneways.
 
----
 
 ## What We Skipped and Why
 
@@ -114,11 +106,9 @@ If you're exploring the wider inner south, the brunch scene doesn't stop at Prah
 
 We only list venues we've personally visited multiple times and can vouch for in 2026. No sponsored content, no paid placements — just honest recommendations.
 
----
 
 **Living in Prahran?** [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=prahran)
 
----
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran coverage, see our [best coffee guide](/prahran/best-coffee), [neighbourhood guide](/prahran/neighbourhood-guide), or [nightlife picks](/prahran/nightlife-guide).*
 

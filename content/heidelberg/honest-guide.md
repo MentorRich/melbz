@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["heidelberg", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Heidelberg Honest Guide 2026: Burgundy Street & Real Opinions
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Heidelberg Honest Guide 2026: Burgundy Street & Real Opinions"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Right. Let's talk about Heidelberg hones..."
----
 # Heidelberg Honest Guide 2026: Burgundy Street & Real Opinions
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Right. Let's talk about Heidelberg honestly, without the brochures.
 
@@ -97,7 +100,6 @@ Heidelberg in 2026 is what it's always been: a proper, liveable, unpretentious M
 
 **The vibe score:** Heidelberg isn't going to light up a room at a party. But it's the person you actually want to talk to — solid, interesting when you scratch the surface, and absolutely worth your time.
 
----
 
 ### Quick Bites 🍽️
 
@@ -109,7 +111,6 @@ Heidelberg in 2026 is what it's always been: a proper, liveable, unpretentious M
 >
 > **Biggest trap:** Circling Burgundy Street for parking. Use the side streets. Save your sanity.
 
----
 
 ### 📊 Heidelberg at a Glance
 
@@ -122,7 +123,6 @@ Heidelberg in 2026 is what it's always been: a proper, liveable, unpretentious M
 | **Brunch** | $19–$24 |
 | **Vibe** | Leafy, liveable, unpretentious |
 
----
 
 ### 🗳️ Rate Heidelberg
 
@@ -132,7 +132,6 @@ Heidelberg in 2026 is what it's always been: a proper, liveable, unpretentious M
   <span style="font-size:2em;">👍 🤷 👎</span>
 </p>
 
----
 
 *What did we get wrong? What did we miss? Drop us a line — we update these guides based on what locals actually tell us, not what some algorithm thinks you want to read.*
 

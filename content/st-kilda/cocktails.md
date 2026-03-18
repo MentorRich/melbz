@@ -5,10 +5,10 @@ date: 2026-03-16
 author: jess
 tags: ["st-kilda", "cocktails", "bars"]
 categories: ["nightlife"]
-description: "Best Cocktails in St Kilda 2026: Where to Drink
+description: "Best Cocktails in St Kilda 2026: Where to Drink"
+---
 
 St Kilda has always done things differently. While the CBD huddles under laneways and roof-top pretension, o..."
----
 # Best Cocktails in St Kilda 2026: Where to Drink
 
 St Kilda has always done things differently. While the CBD huddles under laneways and roof-top pretension, our suburb throws it wide open — bay views, salt air, and drinks that taste better because of what's outside the window. The cocktail scene here isn't trying to compete with those tiny, candlelit joints in the city. It's doing its own thing: beachside spritzes, speakeasy-style mixing rooms, and pubs that pour harder than they let on.
@@ -17,7 +17,6 @@ I spent three weeks bouncing between every cocktail spot on the peninsula. Eight
 
 **Updated 16 March 2026 | 8 places tested | Jess Harper reporting**
 
----
 
 ## 1. The Ghost of Alfred Felton
 **The vibe:** Dark wood, velvet booths, and the feeling that a 19th-century art collector is watching you from around a corner. This is the Espy's crown jewel — a top-floor cocktail den that pays homage to Alfred Felton, a chemist and philanthropist who once lived upstairs at the Hotel Esplanade. The room feels like a private library you've snuck into.
@@ -31,7 +30,6 @@ The bartenders here don't just pour — they perform. Ask for the off-menu "Felt
 **Hours:** Fri–Sat 5pm–late
 **Insider tip:** The entrance is through the main Espy lobby — take the stairs past Mya Tiger and follow the dim lighting. It's deliberately hard to find. That's the point.
 
----
 
 ## 2. Captain Baxter
 **The vibe:** Beachfront confidence. Captain Baxter has been running rooftop cocktails above the St Kilda Sea Baths for years, and it still pulls it off better than most newer spots in the city. The 1920s beach-bungalow aesthetic means retractable roof, cushioned seating, and a panorama that takes in the pier, the bay, and — on a clear evening — the entire sweep from Brighton to Williamstown.
@@ -45,7 +43,6 @@ Sunday Sessions are their signature play: DJs, flowing cocktails, and a crowd th
 **Hours:** Wed–Thu 4pm–late, Fri–Sat 12pm–late, Sun 12pm–late
 **Insider tip:** Arrive before 3pm on weekends or you'll queue. The bungalows (private rooftop cabanas) book out weeks ahead — skip them unless you're hosting 8+.
 
----
 
 ## 3. Ellora
 **The vibe:** Two-storey beachside theatre. Ellora sits at 1 Fitzroy Street, right where the street hits The Esplanade, and it uses every square metre of its position to maximum effect. Downstairs is a buzzing cocktail lounge. Upstairs is a rooftop bar with what might be the widest uninterrupted bay view in St Kilda. On sunset, this place fills up fast — and for good reason.
@@ -59,7 +56,6 @@ Happy hour runs Wednesday to Sunday, 4–6pm, and it's genuine: $15 Cosmopolitan
 **Hours:** Wed–Sun 4pm–late
 **Insider tip:** The rooftop gets windy after 8pm, even in summer. Grab a seat near the glass balustrade on the leeward side — still has the view, minus the hair-in-mouth situation.
 
----
 
 ## 4. Bang Bang St Kilda
 **The vibe:** Pan-Asian energy with a cocktail edge. Bang Bang opened on Fitzroy Street in March 2025 and quickly became the pre-drink destination for anyone heading out in St Kilda. The room is loud, colourful, and designed for groups — big booths, share plates, and a cocktail list that goes heavy on the Asian flavours.
@@ -73,7 +69,6 @@ The food is the real draw for a lot of people — prawn toasties, chicken bao, S
 **Hours:** Mon–Thu 5pm–late, Fri–Sun 12pm–late
 **Insider tip:** Book online or expect a 20-minute wait after 7pm on weekends. The corner booth by the window is the best seat in the house for people-watching.
 
----
 
 ## 5. Freddie Wimpole's
 **The vibe:** The local you wish you had. Freddie Wimpole's occupies the corner of Fitzroy and Grey Streets — the old George Hotel, reimagined as a dive-bar-meets-craft-beer-destination with a cocktail list that punches well above its weight. Named after Frederick Wimpole, St Kilda's mayor in the late 1880s, the history runs deeper than the fit-out suggests.
@@ -87,7 +82,6 @@ Late-night licensing until 3am (and a takeaway licence until midnight) makes thi
 **Hours:** Daily from 4pm (until 3am Thu–Sat, midnight Sun–Wed)
 **Insider tip:** The outdoor corner table is prime Fitzroy Street real estate. Get there before 6pm on a sunny arvo to claim it.
 
----
 
 ## 6. St LuJa
 **The vibe:** Irish pub meets 1920s speakeasy meets whatever St Kilda wants to be today. St LuJa at 9 Fitzroy Street calls itself "St Kilda's cocktail bar with an Irish accent," and that's actually a fair description. The Guinness is excellent (they claim the second-best in Melbourne — I'm not arguing), and the cocktail list runs alongside it like a parallel universe.
@@ -101,7 +95,6 @@ The crowd skews slightly older than the Fitzroy Street average — late 20s to 4
 **Hours:** Thu–Fri 5pm–1am, Sat 12pm–3am, Sun 12pm–11pm
 **Insider tip:** Sunday arvo here is criminally underrated. Quiet room, good jazz playlist, nobody's trying too hard. Bring a book, order a pint, pretend it's Dublin.
 
----
 
 ## 7. Prince Public Bar & Little Prince Wine
 **The vibe:** St Kilda institution, no apologies. The Prince of Wales Hotel has stood at 2–4 Fitzroy Street since 1936, and it still operates as a genuine multi-purpose venue: pub downstairs, live music upstairs, boutique hotel in between. Prince Public Bar is the ground-floor watering hole — an island bar surrounded by footpath seating where the people-watching rivals the drinks.
@@ -115,7 +108,6 @@ The band room upstairs is one of the last remaining mid-sized live music venues 
 **Hours:** Public Bar daily 7am–late; Little Prince Wed–Sat 5pm–late
 **Insider tip:** If there's a gig upstairs, the public bar gets packed after 10pm. Arrive early or post up on the footpath where you can still hear the bass.
 
----
 
 ## 8. The Espy — Main Bar & Sunroom
 **The vibe:** Five levels of everything. You can't write about St Kilda drinking without The Espy. It's 144 years old and somehow keeps reinventing itself. The Main Bar on the ground floor does coastal-inspired cocktails with views of St Kilda Pier — the kind of drinks that taste like summer even in March. The Sunroom, which opened in early 2025 in the former Ichi Ni Izakaya space, is a brighter, breezier take: 160-person capacity, open deck, and a cocktail list that leans lighter and more aperitivo.
@@ -129,7 +121,6 @@ Mya Tiger, the Cantonese restaurant on level two, does its own cocktail menu ($1
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun 11am–11pm (Sunroom hours may vary)
 **Insider tip:** The retractable roof on the upper levels makes weather irrelevant. But the Main Bar terrace at sunset is unbeatable — arrive by 5pm to grab a table by the glass.
 
----
 
 ## What We Skipped and Why
 
@@ -141,7 +132,6 @@ Mya Tiger, the Cantonese restaurant on level two, does its own cocktail menu ($1
 
 **The Carpenter's Ruin** — A strong pub with excellent food and a good beer list, but cocktails aren't its focus and it doesn't pretend otherwise. Check our [Best Pubs in St Kilda](/st-kilda/best-pubs) for the full review.
 
----
 
 ## The Bottom Line
 
@@ -149,7 +139,6 @@ St Kilda's cocktail scene in 2026 is split into two camps: the view-driven spots
 
 If you're only doing one night: start with happy hour at **Bang Bang** ($15 cocktails and $2 oysters is absurd), walk to **Ellora** for sunset on the rooftop, then finish at **The Ghost of Alfred Felton** for something dark and serious. That's the cocktail crawl this suburb was built for.
 
----
 
 **🗳️ POLL: What's your go-to St Kilda cocktail order?**
 - A) Espresso Martini (classic for a reason)
@@ -158,25 +147,21 @@ If you're only doing one night: start with happy hour at **Bang Bang** ($15 cock
 - D) Aperol Spritz (I'm on holidays, spiritually)
 - E) Whatever the bartender recommends (trust the process)
 
----
 
 ### Getting Home Safe
 
 St Kilda's last trams run around midnight (check PTV for your specific route — the 96 is your best bet). After that, Uber and Didi surge hard on Friday and Saturday nights, especially along Fitzroy Street and The Esplanade. Pick-up from the Esplanade car park side avoids the worst of the crowds. If you or someone you're with needs help: call 000. St Kilda Police Station is at 67 Lakeside Drive, open 24 hours. Don't walk home alone along the dark sections of the foreshore — stick to well-lit main streets.
 
----
 
 *Planning your next St Kilda night out? Check our [Best Bars in St Kilda](/st-kilda/best-bars) for the full picture, or see how St Kilda stacks up against Prahran in our [suburb rivalry showdown](/melbourne/st-kilda-vs-prahran).*
 
 *This article is part of the [MELBZ St Kilda Nightlife Guide](/st-kilda/nightlife) series.*
 
----
 
 *Was this article helpful? 👍 👎 — Tell us below.*
 
 *Know a cocktail bar we missed? [Submit a tip](/submit) and we'll check it out.*
 
----
 
 **MELBZ — We Know Your Suburb Better Than You Do.**
 

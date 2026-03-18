@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Kensington — 2026 Local Guide"
 cover_image: "/images/kensington/nightlife-guide.jpg"
+---
+
 suburb: "kensington"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The complete Kensington nightlife guide for 2026 — from historic pubs to craft breweries, hidden cocktail bars, and the suburb's emerging evening scene."
 tags: ["kensington"]
 categories: ["nightlife"]
----
 # Kensington Nightlife Guide 2026 — Melbourne's Best Kept Western Secret
 
 Kensington doesn't have the name recognition of Fitzroy or Collingwood when it comes to nightlife, and honestly, the locals like it that way. This inner-western suburb has spent the last five years quietly building a bar and pub scene that punches well above its weight. What was once just a strip of old pubs serving the local footy crowd has transformed into something far more interesting — a mix of heritage hotels, craft beer venues, and the kind of neighbourhood bars that reward those willing to venture beyond the well-trodden nightlife postcodes.
@@ -18,7 +19,6 @@ The suburb sits wedged between North Melbourne, Flemington, and the Moonee Ponds
 
 **Last updated: 17 March 2026** | **Kensington Vibe Score: 71/100** ⚡️
 
----
 
 ## The Pub Foundations: Where Kensington Nightlife Began
 
@@ -42,7 +42,6 @@ The venue has become something of a hub for the local community — trivia night
 **Where:** 108 Bell Street, Kensington
 **Insider tip:** Check their socials for weekly events. The trivia night draws a competitive crowd, and the prizes are actually worth showing up for.
 
----
 
 ## The Emerging Bar Scene: Kensington's New Generation
 
@@ -66,7 +65,6 @@ The record collection is genuinely impressive, and the staff are happy to take r
 **Where:** Kensington industrial estate (check socials for exact location)
 **Insider tip:** The entrance is deliberately hard to find. Walk down the side alley, look for the small sign, and don't be discouraged. That's the point.
 
----
 
 ## The Irish Pub Option: The Quiet Man
 
@@ -78,7 +76,6 @@ What sets The Quiet Man apart is the programming — traditional Irish music ses
 **Where:** Kensington Road, Kensington
 **Insider tip:** Live music nights are the highlight, but call ahead as they can get crowded. The Sunday session is more laidback and family-friendly.
 
----
 
 ## The Late-Night Situation
 
@@ -86,7 +83,6 @@ Kensington doesn't have the late-night density of suburbs like Fitzroy or Collin
 
 For eats after last drinks, your options are limited to the usual suspects — kebab shops and late-night takeaways in the surrounding area. The Vietnamese restaurants in Footscray are a solid 15-minute drive and worth the trip if you're hungry and not ready for the night to end.
 
----
 
 ## What We Skipped and Why
 
@@ -98,7 +94,6 @@ For eats after last drinks, your options are limited to the usual suspects — k
 
 **Late-night clubs:** Kensington simply doesn't have them. For clubbing, you're looking at the city or St Kilda. We'll cover those separately.
 
----
 
 ## Cross-Suburb Nightlife
 
@@ -107,7 +102,6 @@ For eats after last drinks, your options are limited to the usual suspects — k
 - [Nightlife in Flemington](/flemington/nightlife-guide) — Racecourse area and local pubs
 - [Nightlife in Ascot Vale](/ascot-vale/nightlife-guide) — Moonee Ponds corridor venues
 
----
 
 **Your Kensington Vibe Score this week: 71/100** — A suburb quietly building a quality nightlife scene without the crowds of more famous postcodes.
 
@@ -115,7 +109,6 @@ For eats after last drinks, your options are limited to the usual suspects — k
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 *Also see: [Best Pubs in Kensington](/kensington/best-pubs) · [Best Bars in Kensington](/kensington/best-bars) · [Late Night Food in Kensington](/kensington/late-night-food) · [Footscray Night Out](/footscray/nightlife-guide) · [North Melbourne Evening](/north-melbourne/nightlife-guide)*
 ### Featured Venues

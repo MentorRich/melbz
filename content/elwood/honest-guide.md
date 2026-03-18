@@ -5,25 +5,27 @@ date: 2026-03-16
 author: jack
 tags: ["elwood", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Elwood Honest Guide 2026: The Village by the Bay
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Elwood Honest Guide 2026: The Village by the Bay"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Elwood is the suburb Melbourne forgot to gentrify pro..."
----
 # Elwood Honest Guide 2026: The Village by the Bay
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Elwood is the suburb Melbourne forgot to gentrify properly — and that's exactly why people who live there love it. While St Kilda across the road went full festival-carnival-permanent-Hendrix-solo, and Brighton started pricing out everyone except retired solicitors and their labradoodles, Elwood quietly became one of Melbourne's most liveable pockets. It did this by being aggressively unbothered.
 
 If you're considering Elwood — whether to visit, to eat, or to move — here's the honest picture. No tourism board gloss, no "leafy streets meet coastal charm" nonsense. Just the real stuff from someone who's walked every block of it.
 
----
 
 ## The Lay of the Land
 
@@ -33,7 +35,6 @@ The suburb has two distinct personalities. The beachfront — Elwood Beach, the 
 
 Between those two anchors is a grid of residential streets that range from "charming weatherboard cottage" to "someone clearly spent $1.8 million on a renovation that somehow looks like a shipping container." The architecture is mixed, the trees are mature, and the parking is, at times, genuinely hostile.
 
----
 
 ## The Ormond Road Strip — Elwood's Beating Heart
 
@@ -49,7 +50,6 @@ Ormond Road is what happens when a main street doesn't try to be anything other 
 
 The strip also has a butcher, a bakery, a pharmacy, a bookstore, and a newsagent — the old-school essentials that mean you could theoretically do a full shop without a car. Practically, you'd need about 8 bags and strong forearms, but the point stands.
 
----
 
 ## The Beach — Why People Actually Move Here
 
@@ -68,7 +68,6 @@ One honest word: Elwood Beach gets *crowded* in summer. The grassy areas fill up
 - St Kilda — chaos but at least there's a Luna Park
 - I'm an indoor person, thanks
 
----
 
 ## What Elwood Actually Costs (No Fairy Tales)
 
@@ -86,7 +85,6 @@ Elwood isn't cheap. It never was, and in 2026 it's firmly in the "if you have to
 
 The honest math: to live comfortably in Elwood on your own, you'd want a household income north of $120K. A couple on combined $160K+ would be comfortable. Below that, you'll make it work, but you'll be making choices about which luxuries to keep.
 
----
 
 ## Getting Around — Transport That Works (Mostly)
 
@@ -102,7 +100,6 @@ Elwood's transport situation is better than its reputation suggests.
 
 **Driving:** This is where Elwood earns its reputation. The residential streets are narrow, parking near the beach in summer is genuinely adversarial, and getting in and out via the Nepean Highway during peak hour requires the patience of a Buddhist monk. If you drive to work, budget an extra 15 minutes for the "Elwood tax" of finding parking when you get home.
 
----
 
 ## The Neighbours — St Kilda, Balaclava, Brighton
 
@@ -122,7 +119,6 @@ One of Elwood's genuine advantages is where it sits relative to its neighbours.
 🔥🔥 — Overrated for the price
 🔥 — Give me Balaclava any day
 
----
 
 ## Schools, Families, and the Baby-ccino Economy
 
@@ -132,7 +128,6 @@ The suburb skews young-family and empty-nester. There's a noticeable absence of 
 
 The family infrastructure is good: playgrounds, the library, the aquatic centre nearby in [Brighton](/suburbs/brighton/), and a Saturday morning culture that revolves around farmers' markets and "shall we walk to the beach?" conversations.
 
----
 
 ## The Stuff Nobody Tells You
 
@@ -148,7 +143,6 @@ Every suburb has things that residents only discover after moving in. Here's Elw
 
 - **The 923 bus is occasionally unreliable.** Not经常. But enough that regulars have a backup plan.
 
----
 
 ## What We Skipped and Why
 
@@ -160,7 +154,6 @@ We didn't go deep on property investment analysis because this is a lifestyle gu
 
 We also skipped fitness and gym options because every Melbourne suburb has the same three things: a F45, a yoga studio, and a running group that meets at an inconveniently early hour. Elwood is no exception.
 
----
 
 ## The Verdict
 
@@ -184,7 +177,6 @@ But for the right person — and Elwood is very good at attracting the right per
 **What's your Elwood hot take?**
 Tell us something about Elwood that only a local would know. The weirder the better. 👇
 
----
 
 *Jack Morrison is MELBZ's Suburb Profile Editor. He's walked every street in Elwood twice — once sober, once after a Tiamo dinner with two bottles of Montepulciano. Both times were informative.*
 

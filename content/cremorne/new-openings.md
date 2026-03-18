@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/new-openings.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Cremorne's dining scene keeps evolving. Here are the newest restaurants, cafes, and bars to hit 3121 in 2025-2026."
 tags: ["cremorne"]
 categories: ["new"]
----
 # New Openings in Cremorne — What's New in 3121 in 2026
 
 Cremorne's dining scene moves fast. While Richmond takes years to gentrify a single block, Cremorne seems to reinvent itself every six months. The tech money influx means capital is available, venues are converting, and operators are testing concepts that would be too risky elsewhere.
@@ -20,7 +21,6 @@ These are the newest venues in Cremorne that are worth your time — not just th
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## 1. OnAir — Opened September 2025
 **The vibe:** Coffee culture meets club culture — great brews, crisp beats, and a steady stream of DJs dropping in for impromptu sets.
@@ -36,7 +36,6 @@ It's built for the creatives who miss late nights but still love an early latte.
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–2pm
 **Insider tip:** The music programming is on their Instagram. 2pm Thursday/Friday is when the vibe shifts from "work café" to "pre-party."
 
----
 
 ## 2. SOGUMM — Opened June 2025
 **The vibe:** Korean temple food philosophy meets fine-dining technique in a quiet Church Street space that rewards attention.
@@ -54,7 +53,6 @@ Vegan options aren't an afterthought — they're integral, drawn from Korean tem
 **Hours:** Lunch and dinner, Tue–Sun
 **Insider tip:** The shrub (drinking vinegar) changes daily and is offered as a palate cleanser between courses. Say yes every time.
 
----
 
 ## 3. Baker Bleu (Cremorne flagship) — Opened March 2024
 **The vibe:** Sourdough temple with all-day dining — the bread is legendary, the brunch is legit, and the space is big enough to feel like an event.
@@ -70,7 +68,6 @@ The 48-hour sourdough is still the star, but the café side with challah French 
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** Ask about the "coffee and loaf" weekday deal — flat white and half loaf for $15.
 
----
 
 ## 4. Suupaa — Opened December 2024
 **The vibe:** Tokyo konbini meets Melbourne brunch — playful, colourful, and completely unlike anything else in Cremorne.
@@ -86,7 +83,6 @@ It's fun, it's different, and it proves that Cremorne's café scene still has ro
 **Hours:** Mon–Fri 8am–4pm
 **Insider tip:** The bento boxes (when available) are $15–$18 and sell out fast — arrive before noon.
 
----
 
 ## 5. Café Decjuba x St. Ali — Opened July 2024
 **The vibe:** Corner café reliability with St. Ali coffee pedigree — the neighbourhood's workhorse, and all the better for it.
@@ -102,7 +98,6 @@ It's not trying to be the coolest café in Cremorne. It's trying to be the most 
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–2pm
 **Insider tip:** The outdoor tables catch the morning sun from about 9am — perfect for people-watching.
 
----
 
 ## What We Skipped and Why
 
@@ -110,7 +105,6 @@ It's not trying to be the coolest café in Cremorne. It's trying to be the most 
 
 **New restaurants that opened and closed within 6 months** — We've seen several come and go. The Cremorne restaurant mortality rate is higher than you'd think. These listings are for venues that have survived the initial hype cycle and proven they're here to stay.
 
----
 
 ## The Opening Pipeline (What's Coming in 2026)
 
@@ -122,7 +116,6 @@ Based on commercial leasing activity and building permits, we're tracking a few 
 
 When these open and prove themselves, we'll add them here.
 
----
 
 ## The Bottom Line
 
@@ -132,7 +125,6 @@ The common thread? None of them are trying to be anything they're not. They unde
 
 **Your Cremorne Vibe Score this week: 79/100** — New doesn't mean better, but these ones earned their keep.
 
----
 
 *Know a spot we missed? Let us know.*
 

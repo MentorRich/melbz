@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jack
 tags: ["carlton", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Carlton Honest Guide 2026: Lygon Street & Beyond
+description: "Carlton Honest Guide 2026: Lygon Street & Beyond"
+---
 
-Updated 16 March 2026 | Jack Morrison reporting
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
 
 Carlton is the suburb Melbourne shows its interstate frien..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # Carlton Honest Guide 2026: Lygon Street & Beyond
 
 **Updated 16 March 2026 | Jack Morrison reporting**
@@ -45,7 +50,6 @@ Here's what I'd actually recommend, not what gets the most Google clicks:
 
 **For a Saturday arvo with wine:** Carlton Wine Room on Drummond. Small plates, natural wine list that's well-curated without being pretentious, and a room that feels like someone's very stylish living room. Expect to spend $80–120 per person with drinks.
 
----
 
 > 🗳️ **POLL: What's your honest Carlton hot take?**
 >
@@ -56,7 +60,6 @@ Here's what I'd actually recommend, not what gets the most Google clicks:
 >
 > *Vote in the comments or hit us up on Instagram @melbz*
 
----
 
 ## What It Actually Costs to Live Here
 
@@ -112,7 +115,6 @@ Princes Park still feels like it's underused. The oval is gorgeous but the surro
 
 **Heritage walks:** Carlton has some of Melbourne's best Victorian architecture but heritage walk content works better as its own thing with photos and maps. Stay tuned.
 
----
 
 > 📊 **RATE CARLTON: How would you score your suburb this week?**
 >
@@ -120,7 +122,6 @@ Princes Park still feels like it's underused. The oval is gorgeous but the surro
 >
 > [Rate Carlton →](/rate-my-suburb/carlton)
 
----
 
 ## The Verdict
 
@@ -130,14 +131,12 @@ If you're moving to Carlton, do it for the food, the walkability, and the neighb
 
 **The real Carlton isn't Lygon Street.** It's the terraces on Faraday, the Sunday morning joggers in Princes Park, the Italian bakery that's been there since before you were born, and the wine bar on Drummond where nobody's looking at their phone. Find that Carlton and you'll love it.
 
----
 
 > 💬 **What's your Carlton hot take? Drop a confession or a rating — we read every single one.**
 >
 > [Submit a Carlton Confession →](/confessions)
 > [See What Fitzroy People Think of Carlton →](/fitzroy/honest-guide)
 
----
 
 ## Cross-Suburb Links
 
@@ -145,7 +144,6 @@ If you're moving to Carlton, do it for the food, the walkability, and the neighb
 - [Fitzroy Honest Guide →](/fitzroy/honest-guide) — Carlton's cooler cousin (they'll hate that comparison)
 - [Melbourne CBD Honest Guide →](/melbourne-cbd/honest-guide) — If you want the city without the suburb feel
 
----
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 *Have a tip, a correction, or a hot take? Email hello@melbz.com.au*

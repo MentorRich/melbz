@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jess
 tags: ["melbourne-cbd", "cocktails", "bars"]
 categories: ["nightlife"]
-description: "Best Cocktails in Melbourne CBD 2026: The Complete Guide
+description: "Best Cocktails in Melbourne CBD 2026: The Complete Guide"
+---
 
-Updated 16 March 2026 | 8 places tested | Jess Harper reporting
+**Updated 16 March 2026 | 8 places tested | Jess Harper reporting**
+
+
 
 You can throw a rock in the CBD an..."
----
+
+*Updated 16 March 2026 | 8 places tested | Jess Harper reporting*
+
 # Best Cocktails in Melbourne CBD 2026: The Complete Guide
 
 *Updated 16 March 2026 | 8 places tested | Jess Harper reporting*
@@ -21,7 +26,6 @@ I spent three weeks working my way through CBD cocktail bars — some old reliab
 
 > **🔥 THE MOVE: Bookmark this page.** Melbourne CBD cocktail bars rotate menus faster than the 19 changes on the Flinders Street clock. We update this guide every quarter. Last update picked up two new entries and one closure.
 
----
 
 ## The Winners
 
@@ -41,7 +45,6 @@ Eau de Vie has been around long enough that newer bars are now being built in it
 
 **What to know:** This is not a cheap night. Budget $80–$120 per person for three cocktails and a snack. The bar snacks (truffle fries, charcuterie board) are legitimately good, not just an afterthought.
 
----
 
 ### 2. The Everleigh — Where It All Began (Again)
 
@@ -59,7 +62,6 @@ The Everleigh is the bar that taught Melbourne how to cocktail properly. Michael
 
 **What to know:** They take reservations via their website and I'd strongly recommend booking for Friday/Saturday. Walk-ins are possible but you might wait 20–30 minutes for a seat. Worth it, but plan accordingly.
 
----
 
 ### 3. Bar Americano — The Espresso Martini You Actually Want
 
@@ -79,7 +81,6 @@ The concept is simple: Italian aperitivo culture meets Melbourne coffee obsessio
 
 **What to know:** Cash and card accepted. No food menu beyond a few olives and nuts. Plan dinner elsewhere. This is pre-drinks territory, and it's the best pre-drinks in the CBD.
 
----
 
 ### 4. Black Pearl — The Fitzroy Royalty That Conquered the CBD
 
@@ -97,7 +98,6 @@ Black Pearl's Fitzroy original has been the training ground for half of Melbourn
 
 **What to know:** The laneway entrance is easy to miss — look for the black door with the small pearl logo. If you're coming from Bourke Street, cut through through Howey Place and turn right. GPS will get confused in the laneways.
 
----
 
 ### 5. Romeo Lane — The Understated Performer
 
@@ -115,7 +115,6 @@ Romeo Lane is the bar equivalent of someone who doesn't need to shout to command
 
 **What to know:** They're closed Sundays and Mondays. The door is easy to walk past — it's literally a lane off Bourke Street, near the QV end. Look for the small Romeo Lane sign and the warm glow of pendant lights.
 
----
 
 ### 6.odu (formerly Old Du) — The New Kid Earning Its Stripes
 
@@ -135,7 +134,6 @@ The menu is built around Japanese spirits — shochu, Japanese whisky, yuzu, uma
 
 **What to know:** No reservations, small space, gets busy after 8pm. The entrance is unmarked — it's the second laneway on the left as you walk down from the QV end of Elizabeth Street. You'll know it by the single light above the door.
 
----
 
 ### 7. The Gresham — The One Your Dad Would Love
 
@@ -153,7 +151,6 @@ The Gresham doesn't try to be trendy and that's exactly why it works. In a CBD f
 
 **What to know:** Open until 1am on Fridays and Saturdays, which makes it a strong option for late-night drinks when other CBD bars are closing. Closest tram stop is the 19/59 on Queen Street.
 
----
 
 ### 8. Maybe Mary — The Late-Night Wildcard
 
@@ -171,7 +168,6 @@ Maybe Mary isn't for everyone and it knows it. The music is louder than your ave
 
 **What to know:** Gets very loud after 10pm on weekends. Not ideal for a quiet date or catching up with your mum. Perfect for starting a big night or recovering from a terrible one.
 
----
 
 ## Getting Home Safe
 
@@ -182,7 +178,6 @@ Melbourne CBD nightlife winds down between midnight and 1am for most bars, with 
 - **If you or someone you're with needs help:** Call 000. The Melbourne General Hospital is at 300 Grattan Street, Carlton — a short ride from the CBD. For non-emergency health concerns, the 24-hour pharmacy at the corner of Swanston and Bourke Streets has been reliable.
 - **Drink spiking awareness:** If something tastes off, tell venue staff immediately. Most CBD bars now have drink-cover policies and will call transport for you. The Everleigh and Eau de Vie both have trained staff for this.
 
----
 
 ## What We Skipped and Why
 
@@ -196,7 +191,6 @@ Not every bar made the list. Here's the honest rundown:
 
 - **Bars that opened and closed within 12 months.** Three CBD cocktail bars launched in late 2025. Two are already gone. We don't include places we can't be confident will still exist when you read this.
 
----
 
 ## The Quick Comparison
 
@@ -211,13 +205,11 @@ Not every bar made the list. Here's the honest rundown:
 | The Gresham | Classic, wood-panelled | $20–$26 | Whisky lovers, late night | Yes, upstairs private |
 | Maybe Mary | Loud, bold, tequila-heavy | $22–$28 | Big nights out | Walk-in |
 
----
 
 ## 📊 THE MOVE: Where Are You Going This Weekend?
 
 > **CBD Cocktail Run:** Eau de Vie → Bar Americano → Romeo Lane. Three bars, three completely different vibes, all within a 10-minute walk of each other. Start with a Smoking Gun at Eau de Vie, aperitivo at Americano, then wind down with a Garden Party at Romeo Lane. Total damage: approximately $75–$90 for three cocktails across three hours.
 
----
 
 > **🗳️ POLL: What's your CBD cocktail non-negotiable?**
 >
@@ -227,7 +219,6 @@ Not every bar made the list. Here's the honest rundown:
 > 🫖 Negroni — bitter is better
 > 🤷 Surprise me — I trust the bartender
 
----
 
 ## The Bottom Line
 
@@ -243,7 +234,6 @@ Now get out there and drink well.
 >
 > Curious how your suburb stacks up? Check the [Suburb Vibe Scores](/suburb-vibe-scores) updated every Monday.
 
----
 
 *Jess Harper is the Cocktails Editor at MELBZ. She's been reviewing Melbourne bars since 2019 and has strong opinions about ice cubes. Follow her picks on the MELBZ app.*
 

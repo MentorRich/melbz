@@ -5,19 +5,22 @@ date: 2026-03-16
 author: kai
 tags: ["st-kilda", "pubs", "beer"]
 categories: ["nightlife"]
-description: "Best Pubs in St Kilda 2026: The Complete Guide
-
-Updated 16 March 2026 | 8 places tested | Kai Thompson reporting
-
+description: "Best Pubs in St Kilda 2026: The Complete Guide"
 ---
+
+**Updated 16 March 2026 | 8 places tested | Kai Thompson reporting**
+
+
+
+
+*Updated 16 March 2026 | 8 places tested | Kai Thompson reporting*
+
 
 St Kilda has always been Melbourne's l..."
----
 # Best Pubs in St Kilda 2026: The Complete Guide
 
 **Updated 16 March 2026 | 8 places tested | Kai Thompson reporting**
 
----
 
 St Kilda has always been Melbourne's loosest postcode. The beach, the tram, the backpackers, the old rockers who still swear they saw Nick Cave at the Continental once. And threading through all of it — the pubs. Not wine bars playing soft jazz. Not craft-beer temples where a 4.2% pale ale costs $14. Proper pubs. The kind where the carpet tells a story and the bartender has seen things.
 
@@ -29,7 +32,6 @@ We spent three weeks hitting every pub in St Kilda that matters. Some are instit
 >
 > Start at The Espy for a lazy arvo pint. Walk down Fitzroy Street to Prince Public Bar for the footy crowd. Cap it at Dog's Bar with a bottle of red and a plate of olives. Total spend: under $80 if you pace yourself. Distance: 1.2km. Hangover: guaranteed.
 
----
 
 ## 1. The Esplanade Hotel ("The Espy")
 **11 The Esplanade, St Kilda VIC 3182**
@@ -46,7 +48,6 @@ Upstairs, The Gershwin Room and the Main Stage still pull some of the best live 
 
 **Don't skip:** The rooftop when the weather's on. Bay views, cold beer, zero pretension.
 
----
 
 ## 2. Prince Public Bar
 **29 Fitzroy Street, St Kilda VIC 3182**
@@ -63,7 +64,6 @@ It gets busy on footy days and Friday nights, but that's part of it. There's a s
 
 **Don't skip:** The outdoor area on a sunny afternoon. It's small but it punches above its weight.
 
----
 
 ## 3. The Dog's Bar
 **53 Acland Street, St Kilda VIC 3182**
@@ -80,7 +80,6 @@ Food is straightforward and done well: cheese boards, a couple of pasta dishes, 
 
 **Don't skip:** Sitting at the bar and letting the bartender pick your drink. They're good at it.
 
----
 
 ## 4. The George Hotel
 **191 Fitzroy Street, St Kilda VIC 3182**
@@ -97,7 +96,6 @@ The outdoor beer garden gets proper afternoon sun and is one of the larger beer 
 
 **Don't skip:** The Sunday roast deal — check their socials for current pricing but it's always been competitive.
 
----
 
 ## 5. Vineyard
 **303 St Kilda Road, St Kilda VIC 3182**
@@ -114,7 +112,6 @@ Food is the real win here. The kitchen takes pub classics and does them properly
 
 **Don't skip:** The steak. Seriously. It's a pub steak that eats like a restaurant steak.
 
----
 
 ## 6. The Railway Hotel
 **377 Railway Parade, St Kilda South VIC 3182**
@@ -131,7 +128,6 @@ Food is limited but honest — pies, sandwiches, the occasional special. This is
 
 **Don't skip:** Just sitting at the bar and ordering a pot of Carlton. It's a Melbourne experience.
 
----
 
 ## 7. The Vine (Acland Street)
 **19 Acland Street, St Kilda VIC 3182**
@@ -148,7 +144,6 @@ The kitchen is the main attraction. Think lamb shoulder with roast vegetables, a
 
 **Don't skip:** The specials board. Whatever's on it is usually the best thing on the menu.
 
----
 
 ## 8. The Albion Hotel
 **378 South Road, St Kilda South VIC 3182**
@@ -165,7 +160,6 @@ The front bar is good for a quick pint. The back area opens up and gets busy on 
 
 **Don't skip:** The weekend brunch deal. It's genuinely one of the best value breakfasts in St Kilda.
 
----
 
 ## What We Skipped and Why
 
@@ -177,7 +171,6 @@ The front bar is good for a quick pint. The back area opens up and gets busy on 
 
 **Beachcomber (now closed):** Was a contender but has ceased trading as of late 2025. We only include venues you can actually walk into today.
 
----
 
 > **🗳️ POLL: Your go-to St Kilda pub?**
 >
@@ -189,7 +182,6 @@ The front bar is good for a quick pint. The back area opens up and gets busy on 
 > - The George (beer garden season)
 > - Something else — tell us in the comments
 
----
 
 ## How St Kilda Pubs Are Tracking in 2026
 
@@ -207,7 +199,6 @@ For more on Melbourne's food scene, check out our [St Kilda Food Guide](/st-kild
 > - Getting worse — more expensive, less soul
 > - About the same — depends on the pub
 
----
 
 ## Quick Comparison Table
 
@@ -222,13 +213,11 @@ For more on Melbourne's food scene, check out our [St Kilda Food Guide](/st-kild
 | The Acland | Pub meals | $$ | Full menu | Small |
 | The Albion | Brunch | $ | Full menu | Back area |
 
----
 
 > **🍺 THE MOVE: The St Kilda Rainy Day Crawl**
 >
 > When it's bucketing down (and in Melbourne, that's any day between May and September), start inside The Espy's main bar. When you need a change of scene, walk the 8 minutes to Dog's Bar. Finish at The Vine with a red wine and the lamb shoulder. Zero time outdoors. Maximum warmth.
 
----
 
 ## The Final Word
 
@@ -238,7 +227,6 @@ If you're visiting Melbourne and only have time for one pub crawl, make it St Ki
 
 And if you want to see how St Kilda stacks up against Melbourne's other pub suburbs, check out our [Best Pubs in Fitzroy](/fitroy/best-pubs) and [Best Pubs in Collingwood](/collingwood/best-pubs) guides. Or if you're making a night of it, our [St Kilda Nightlife Guide](/st-kilda/nightlife) covers everything beyond the pub doors.
 
----
 
 > **💬 CONFESSION BOX: What's your St Kilda pub secret?**
 >
@@ -246,7 +234,6 @@ And if you want to see how St Kilda stacks up against Melbourne's other pub subu
 >
 > Drop it below. Anonymously. We won't tell.
 
----
 
 > **📣 REACTION BAR: How did this guide make you feel?**
 >
@@ -256,11 +243,9 @@ And if you want to see how St Kilda stacks up against Melbourne's other pub subu
 > - 🤔 I need to try some of these
 > - 😂 The Railway is my secret (and now it's not)
 
----
 
 **Open Loop:** Thirsty for more? Our [Best Rooftop Bars in Melbourne](/melbourne/best-rooftop-bars) covers the best spots to drink with a view across the city. Because sometimes you need to make better the session.
 
----
 
 *Kai Thompson is the Pubs Editor at MELBZ. He has been drinking in St Kilda pubs since before the Espy had a rooftop. He will never stop. Follow him on [Instagram](https://instagram.com/kai.melbz) or yell at him on [Twitter](https://twitter.com/kai_melbz).*
 

@@ -5,12 +5,17 @@ date: 2026-03-16
 author: lina
 tags: ["melbourne-cbd", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Best Bars in Melbourne CBD 2026: Rooftops, Laneways & Hidden Spots
+description: "Best Bars in Melbourne CBD 2026: Rooftops, Laneways & Hidden Spots"
+---
 
-Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
+**Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
+
+
 
 Melbourne's CBD drinks s..."
----
+
+*Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
+
 # Best Bars in Melbourne CBD 2026: Rooftops, Laneways & Hidden Spots
 
 **Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
@@ -19,7 +24,6 @@ Melbourne's CBD drinks scene has shifted again. New rooftops have opened, old re
 
 Whether you're after high-altitude spritzes, 1920s speakeasy theatre, or a rum-soaked tiki hour with old-school hip hop, this is the definitive CBD bar guide for 2026.
 
----
 
 <!-- 🗳️ POLL WIDGET -->
 **🗳️ What's your go-to CBD bar vibe?**
@@ -30,7 +34,6 @@ Whether you're after high-altitude spritzes, 1920s speakeasy theatre, or a rum-s
 
 *Drop your vote and see what Melbourne's drinking right now.*
 
----
 
 ## 1. Cleo — The New Rooftop Queen
 
@@ -45,12 +48,10 @@ The signature Cleo Spritz (pomegranate, prosecco, rosemary) is dangerously easy 
 
 **The move:** Go Thursday evening, grab a corner table near the eastern railing, and order the mezze sharing plate ($59pp) with two Cleo Spritzes. Under $100 for two, with views that rival places charging twice as much.
 
----
 
 <!-- 📢 URGENCY BANNER -->
 **📢 THE MOVE:** *Friday and Saturday rooftop tables at Cleo are fully booked through April. Book now via their website or risk standing at the rail with a $26 cocktail and no seat.*
 
----
 
 ## 2. Union Electric — Chinatown's Tiki-Spirited King
 
@@ -67,7 +68,6 @@ If you're heading to Chinatown for dinner, start here. Walk up Heffernan Lane (t
 
 **Cross-link this with:** Planning a full Chinatown crawl? Check our [Melbourne CBD Food Guide](/melbourne-cbd/best-restaurants) to lock in dinner before or after.
 
----
 
 ## 3. Eau De Vie — The Speakeasy Behind the Bookcase
 
@@ -82,14 +82,12 @@ The Smoky Rob Roy is their signature — smoked whisky, vermouth, bitters, serve
 
 This is not a casual drop-in spot. Book ahead for Friday or Saturday, dress slightly above your usual standard, and plan to stay a while. The cocktail degustation experience (email melbourne@eaudevie.com.au to book) is the premium option — five courses of cocktails paired with food. Worth every cent for a date night.
 
----
 
 <!-- 🏆 THE MOVE CALLOUT -->
 **🏆 THE MOVE: Date Night Edition**
 
 > Tell the bartender it's a special occasion. They'll start you with a champagne cocktail at the bar, move you to a booth, and curate a 3-drink progression from light to bold. No menu needed. Just trust the process. Cost: about $90 for two including tapas.
 
----
 
 ## 4. Good Heavens — CBD's Biggest Rooftop
 
@@ -106,7 +104,6 @@ Thursday through Saturday fills up fast after 6pm. The earlier in the week you v
 
 **Planning your night?** Start with our guide to [Fitzroy's best bars](/fitzroy/best-bars) if you're bar-hopping across suburbs — Good Heavens is a strong CBD starting point before heading north.
 
----
 
 ## 5. Rooftop Bar at Curtin House — The Melbourne Classic
 
@@ -121,7 +118,6 @@ In summer, they run an outdoor cinema program on the rooftop — watching films 
 
 The best time to visit is Sunday afternoon. The crowd is mellow, the sun sits right, and you'll understand why Melbourne locals keep coming back here season after season.
 
----
 
 <!-- 🎯 REACTION BAR -->
 **How does this bar make you feel?**
@@ -130,7 +126,6 @@ The best time to visit is Sunday afternoon. The crowd is mellow, the sun sits ri
 - 😐 Been there, done that
 - 🚫 Not for me
 
----
 
 ## 6. Her — All-Day Cocktails Until 3am
 
@@ -145,7 +140,6 @@ The upstairs Music Room is the standout — the walls are covered in acoustic pa
 
 **Cross-link this with:** If you're planning a late-night route, our guide to [South Yarra's after-dark scene](/south-yarra/best-bars) picks up where CBD hours run out — and vice versa.
 
----
 
 
 ## Venue Addresses & Details
@@ -170,7 +164,6 @@ Not every bar makes the cut. Here's what we left off and the honest reason why:
 
 We only list places we'd genuinely recommend to a friend. That means the bar needs to deliver on atmosphere, drinks quality, and value — every time, not just on a good night.
 
----
 
 
 ## Venue Addresses & Details
@@ -194,12 +187,10 @@ Here's the quick decision tree:
 | Classic, reliable rooftop | **Rooftop Bar at Curtin House** |
 | Late night + live music | **Her** |
 
----
 
 <!-- 📢 URGENCY BANNER -->
 **📢 SEASONAL ALERT:** *Autumn is peak rooftop season in Melbourne. These venues fill fast on Thursday–Saturday evenings through April. Book Cleo and Eau De Vie at least 3 days ahead. Walk-ins work at Good Heavens, Rooftop Bar, and Her on weeknights.*
 
----
 
 
 ## Venue Addresses & Details
@@ -216,7 +207,6 @@ If you're planning a full CBD bar crawl, don't try to hit all six in one night �
 
 And once you've exhausted the CBD's rooftop and laneway scene, the suburbs are where Melbourne's real drinking depth lives. Our guide to [the best bars in Fitzroy and Collingwood](/fitzroy/best-bars) is where the city's most creative bartenders are opening spots right now — think natural wine bars, Japanese whisky joints, and warehouse bars with no sign on the door.
 
----
 
 **Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
 

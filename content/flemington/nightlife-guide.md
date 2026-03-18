@@ -1,15 +1,17 @@
 ---
-title: "Untitled"
+title: "Flemington Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/flemington/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
-description: "cover_image: "/images/flemington/nightlife-guide.jpg"
- Flemington Nightlife Guide
+tags: ["flemington", "nightlife", "bars"]
+categories: ["nightlife"]
+description: "Flemington Nightlife Guide 2026: Pubs, Bars & Local Spots"
+---
 
-Flemin..."
+*Updated 17 March 2025 | Lina Nguyen reporting*
+
 tags: ["flemington"]
 categories: ["nightlife"]
----
 
 cover_image: "/images/flemington/nightlife-guide.jpg"
 # Flemington Nightlife Guide
@@ -98,7 +100,6 @@ For those looking for more intense nightlife experiences, Footscray to the west 
 
 Newmarket and Kensington, further north along the Flemington line, have their own small collections of venues that serve local communities without trying to be destinations.
 
----
 
 **Last updated:** March 2025
 

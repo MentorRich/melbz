@@ -1,6 +1,8 @@
 ---
 title: "Best Cafes in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-cafes.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best cafes in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually eat — from breakfast institutions to neighbourhood gems."
 tags: ["melbourne"]
 categories: ["best"]
----
 # Best Cafes in Melbourne — 2026 Guide
 
 Melbourne's cafe culture isn't a scene — it's an identity. This city doesn't just have good cafes; it has cafes that define neighbourhoods, create communities, and serve as the living rooms of their postcodes. In 2026, the standard is still absurdly high. You can walk into almost any cafe in the inner suburbs and get a better breakfast than most cities serve at their best restaurants. That's not hyperbole — it's the baseline.
@@ -18,7 +19,6 @@ This guide covers the cafes worth going out of your way for. We've been to every
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. Cumulus Inc. — CBD (Flinders Lane)
 
@@ -32,7 +32,6 @@ The menu is divided between classic breakfast items and "small plates" that blur
 **Budget:** $18–$35 per person
 **Wait time:** 30–60 minutes on weekends without a booking
 
----
 
 ## 2. Higher Ground — CBD (Little Bourke Street)
 
@@ -45,7 +44,6 @@ Higher Ground runs a seasonal menu that balances cafe staples with restaurant-qu
 **Hours:** Mon–Fri, 7am–4pm; Sat–Sun, 8am–3pm
 **Budget:** $18–$35 per person
 
----
 
 ## 3. The Terrace — Carlton (Lygon Street)
 
@@ -60,7 +58,6 @@ The menu leans Italian-influenced (this is Carlton, after all) with dishes like 
 
 **Cross-link:** Carlton's cafe scene goes deep — see our full [best cafes in Carlton](/carlton/best-cafes/) for more.
 
----
 
 ## 4. St. ALi — South Melbourne (Yarra Place)
 
@@ -75,7 +72,6 @@ St. ALi's menu is ambitious. This isn't a cafe that plays it safe. You'll find d
 
 **Cross-link:** Pair your St. ALi visit with a wander through South Melbourne Market — more cafe options in our [South Melbourne guide](/south-melbourne/best-cafes/).
 
----
 
 ## 5. Market Lane Coffee — CBD (Degraves Street)
 
@@ -88,7 +84,6 @@ While Market Lane is primarily known for coffee, they do a tight selection of pa
 **Hours:** Mon–Fri, 7am–4pm; Sat–Sun, 8am–5pm
 **Budget:** $4.50–$12 per visit
 
----
 
 ## 6. Auction Rooms — North Melbourne (Errol Street)
 
@@ -101,7 +96,6 @@ The seasonal menu is the drawcard. Auction Rooms works with local farms and chan
 **Hours:** Daily, 7:30am–4pm
 **Budget:** $18–$28 per person
 
----
 
 ## 7. Patricia Coffee Brewers — CBD (Little Bourke Street)
 
@@ -114,7 +108,6 @@ The baked goods come from an adjoining kitchen and they're worth the trip alone.
 **Hours:** Mon–Fri, 7:30am–4pm
 **Budget:** $4–$10 per visit
 
----
 
 ## 8. The Kettle Black — South Melbourne (Kings Way)
 
@@ -129,7 +122,6 @@ The menu walks the line between healthy and indulgent beautifully. Grain bowls w
 
 **Cross-link:** More options in the area — check our [South Melbourne brunch guide](/south-melbourne/best-cafes/).
 
----
 
 ## 9. Half Moon — CBD (Degraves Street)
 
@@ -142,7 +134,6 @@ The full breakfast ($18) is a study in nailing the basics: poached eggs with per
 **Hours:** Mon–Sat, 7am–3pm
 **Budget:** $15–$22 per person
 
----
 
 ## 10. Axil Coffee Roasters — CBD (Bourke Street)
 
@@ -155,7 +146,6 @@ The brew bar is the standout feature — a dedicated station where baristas prep
 **Hours:** Mon–Fri, 7am–4pm; Sat, 8am–4pm
 **Budget:** $16–$26 per person
 
----
 
 ## 11. Entrecôte — South Yarra (Greville Street)
 
@@ -170,7 +160,6 @@ Entrecôte is brunch as theatre. The service is polished, the presentation is be
 
 **Cross-link:** Greville Street is a food destination — explore [South Yarra's best cafes](/south-yarra/best-cafes/) for more.
 
----
 
 ## 12. Top Paddock — Richmond (Bridge Road)
 
@@ -183,7 +172,6 @@ The menu covers all the brunch bases with a seasonal rotation. The miso-glazed s
 **Hours:** Daily, 7am–4pm
 **Budget:** $17–$28 per person
 
----
 
 ## How to Brunch Like a Local
 
@@ -194,13 +182,11 @@ The menu covers all the brunch bases with a seasonal rotation. The miso-glazed s
 4. **Tip your barista** — not required in Australia, but appreciated. A $1 coin in the jar goes a long way.
 5. **Don't take forever** — weekends are busy. Eat, enjoy, and free the table when you're done.
 
----
 
 ## Getting Around
 
 Most CBD cafes are walkable from Flinders Street Station. For South Melbourne, take tram 96. For Carlton, tram 1 or 8 up Swanston Street. For South Yarra, train from Flinders Street to South Yarra station (8 minutes). For Richmond, tram 48 across Bridge Road.
 
----
 
 ## Related Guides
 

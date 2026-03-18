@@ -5,12 +5,17 @@ date: 2026-03-16
 author: adam
 tags: ["melbourne-cbd", "cheap-eats", "food"]
 categories: ["food"]
-description: "Cheap Eats Under $20 in Melbourne CBD 2026
+description: "Cheap Eats Under $20 in Melbourne CBD 2026"
+---
 
-Updated 16 March 2026 | 6 places tested | Adam Nowak reporting
+**Updated 16 March 2026 | 6 places tested | Adam Nowak reporting**
+
+
 
 Melbourne CBD is where wallet damage happens by d..."
----
+
+*Updated 16 March 2026 | 6 places tested | Adam Nowak reporting*
+
 # Cheap Eats Under $20 in Melbourne CBD 2026
 
 **Updated 16 March 2026 | 6 places tested | Adam Nowak reporting**
@@ -21,7 +26,6 @@ We spent two weeks eating exclusively at CBD spots where the main dish comes in 
 
 Here's what's actually worth your money.
 
----
 
 ## 1. N. Lee Bakery — The $8 Machine
 
@@ -39,7 +43,6 @@ The rice paper rolls ($10 for a serve of five) are a genuine alternative when br
 
 > **🔥 THE MOVE:** Order the banh mi and the iced coffee together. That's a full lunch for $13.50. In a CBD where most "cheap" lunches run $18–22, this is practically free money.
 
----
 
 ## 2. Supernormal Canteen — The $16 Bao King
 
@@ -55,7 +58,6 @@ The dumplings ($12 for a serve) are handmade and steamed to order, and at this p
 
 **Accessibility note:** Step-free entry via the Little Bourke Street entrance. Seated service available.
 
----
 
 ## 3. Dumplings Plus — The $12 Lunch Rush
 
@@ -69,7 +71,6 @@ Dumplings Plus occupies the competitive stretch of Little Bourke Street where Vi
 
 This is a cash-and-cards spot with minimal fuss. You order, you eat, you go back to work. The entire visit takes 25 minutes if you're efficient.
 
----
 
 ## 4. Lord of the Fries — The $11 Vegan Power Move
 
@@ -94,7 +95,6 @@ The loaded fries ($15) with cheese sauce, bacon bits (all plant-based), and jala
 >
 > *[Vote below — results published Friday]*
 
----
 
 ## 5. Rayaam Malaysian — The $14 Hidden Workhorse
 
@@ -108,7 +108,6 @@ Rayaam sits on Elizabeth Street near the Flinders Street end and gets overlooked
 
 This is the kind of place where the menu hasn't changed in years because it doesn't need to. The food does the talking.
 
----
 
 ## 6. Degraves Espresso — The $10 Breakfast That Actually Works
 
@@ -125,7 +124,6 @@ Degraves Street is the laneway that tourists photograph and locals use as a shor
 > **⚠️ URGENCY BANNER:**
 > **CBD rent just went up again.** Melbourne's median 1-bed in the CBD hit $520/week this quarter. If you're budgeting your meals to survive the lease, our [Melbourne CBD Rent Report 2026](/melbourne-cbd/rent-report) breaks down exactly what you're paying for — and whether your suburb is worth it.
 
----
 
 ## 7. Dodee Paidang — The $13 Thai That Doesn't Quit
 
@@ -139,7 +137,6 @@ Dodee Paidang is one of those places that CBD workers guard like a state secret.
 
 **The move here:** Bring a friend, order three different dishes between you, share everything, and walk out at $15 per person with full stomachs. That's cheaper than a single sandwich at the place next to your office.
 
----
 
 
 ## Venue Addresses & Details
@@ -164,7 +161,6 @@ Not every cheap CBD spot made the cut. Here's what didn't make it and why:
 
 **The "new wave" spots** — Several newer openings on Hardware Lane andHardware Lane adjacent streets had buzz but couldn't deliver consistent quality across multiple visits. We revisit them in three months.
 
----
 
 
 ## Venue Addresses & Details
@@ -195,7 +191,6 @@ That's a full week of CBD lunches averaging $17.30 per day. Your wallet will tha
 > 👎 I already knew all of these
 > 🤷 Meh — show me the outer suburb versions
 
----
 
 
 ## Venue Addresses & Details
@@ -215,7 +210,6 @@ The CBD is convenient, but Melbourne's best value food lives in the inner suburb
 - **[Cheap Eats in Brunswick](/brunswick/cheap-eats)** — Sydney Road and its surrounding streets run the full gamut from Turkish kebabs to Ethiopian injera to Japanese curry. Brunswick does variety better than anywhere north of the river.
 - **[Cheap Eats in Footscray](/footscray/cheap-eats)** — If you haven't eaten in Footscray yet, you're missing Melbourne's best cheap-eats suburb. Full stop. The Vietnamese and African food here is world-class at prices that feel like 2015.
 
----
 
 
 ## Venue Addresses & Details
@@ -230,7 +224,6 @@ The CBD is convenient, but Melbourne's best value food lives in the inner suburb
 
 But here's the thing — cheap CBD lunches are only half the equation. What about when the sun goes down and you need a feed after 10pm? The rules change entirely. Different spots, different prices, different risks. We covered every late-night eat in the CBD that's actually worth leaving the house for in our **[Melbourne CBD Late Night Food Guide](/melbourne-cbd/late-night-food)** — from post-pub dumplings to 3am kebabs that won't destroy your stomach.
 
----
 
 
 ## Venue Addresses & Details
@@ -247,7 +240,6 @@ You can eat well in Melbourne CBD for under $20. You just can't eat at the place
 
 Eat smart. Your wallet is watching.
 
----
 
 *Have a cheap eat we missed? [Submit a tip](/submit) and we'll test it. If it's under $20 and it delivers, it goes on next month's list.*
 

@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/things-to-do-this-weekend.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "maya"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["things"]
----
 ## The Best Things To Do This Weekend in Windsor
 
 Windsor weekends are for Chapel Street crawls, park picnics with pizza, long brunches that stretch into arvo coffees, and nights that start with cocktails and end somewhere you didn't plan. This is where the suburb comes alive — the footpaths fill, the bars hum, the parks are full of people who've brought takeaway coffee and a good book.
 
 Here's your weekend in Windsor, from Friday arvo to Sunday night.
 
----
 
 ### Friday: Kick-Off the Weekend
 
@@ -28,7 +28,6 @@ Here's your weekend in Windsor, from Friday arvo to Sunday night.
 
 **11pm:** If you're still standing, Hoo Haa for dancing or Jungle Boy for tiki cocktails in a hidden space. Or just stay at The Wolf if you've found a good spot on the bifold doors.
 
----
 
 ### Saturday: The Full Windsor Experience
 
@@ -50,7 +49,6 @@ Here's your weekend in Windsor, from Friday arvo to Sunday night.
 
 **1am:** Late-night munchies. Punt Road kebab shops or Lucky Coq if you're still hungry and they're still open.
 
----
 
 ### Sunday: Slow Day, Still Fun
 
@@ -66,7 +64,6 @@ Here's your weekend in Windsor, from Friday arvo to Sunday night.
 
 **7pm:** Early night? Or one more drink at The Wolf to round out the weekend. Your call.
 
----
 
 ## Weekend Events and Markets
 
@@ -78,7 +75,6 @@ Here's your weekend in Windsor, from Friday arvo to Sunday night.
 
 **Sunday Sessions** — The Osborne rooftop has DJs Sunday arvo. Wonderland has happy hour all day Sunday. The Railway Hotel deck is always a solid Sunday choice.
 
----
 
 ## What to Skip on Weekends
 
@@ -88,7 +84,6 @@ Here's your weekend in Windsor, from Friday arvo to Sunday night.
 
 **Cycling on Chapel Street any time after 10am Saturday** — Traffic is chaos, bike lanes are blocked. Take a side street.
 
----
 
 ## Weather Plan
 
@@ -98,7 +93,6 @@ Windsor's weekend plans live and die by the weather. Have a backup:
 - **Hot day:** Rooftop bars (Osborne), outdoor seating at The Wolf, High Society's terrace, Victoria Gardens park in the shade.
 - **Cold day:** Pubs with fireplaces — The Windsor Alehouse, The Railway Hotel's interior. Indoor bars with heating.
 
----
 
 ## Family-Friendly Weekend Options
 
@@ -111,7 +105,6 @@ Windsor isn't just for adults. If you've got kids:
 
 Avoid the bars after 7pm — most are 18+ only and the atmosphere isn't child-appropriate.
 
----
 
 ## Dog-Friendly Weekend
 
@@ -124,14 +117,12 @@ Dogs are welcome at most Windsor cafes with outdoor seating and many pubs with b
 
 Just keep them leashed and under control. Some venues restrict dogs inside — check ahead.
 
----
 
 **Cross-links:**
 - [Things To Do This Weekend in Prahran](/prahran/things-to-do-this-weekend)
 - [Things To Do This Weekend in South Yarra](/south-yarra/things-to-do-this-weekend)
 - [Things To Do This Weekend in St Kilda](/st-kilda/things-to-do-this-weekend)
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au. Weekend updates published every Thursday.*
 

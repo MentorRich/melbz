@@ -5,12 +5,17 @@ date: 2026-03-16
 author: freya
 tags: ["melbourne-cbd", "newcomer", "lifestyle"]
 categories: ["lifestyle"]
-description: "Moving to Melbourne CBD in 2026: The Newcomer's Survival Guide
+description: "Moving to Melbourne CBD in 2026: The Newcomer's Survival Guide"
+---
 
-Updated 16 March 2026 | Freya Anderson reporting
+**Updated 16 March 2026 | Freya Anderson reporting**
+
+
 
 So you're moving to Melbourne's CBD. Not th..."
----
+
+*Updated 16 March 2026 | Freya Anderson reporting*
+
 # Moving to Melbourne CBD in 2026: The Newcomer's Survival Guide
 
 *Updated 16 March 2026 | Freya Anderson reporting*
@@ -150,7 +155,6 @@ Then one morning you'll grab a flat white from your regular spot, the barista wi
 
 That's the CBD. It earns your love by making you work for it. And honestly? That's the Melbourne way.
 
----
 
 *Have a CBD newcomer horror story or survival tip? Drop it in our confessions — anonymous, judgment-free. We've all been the lost person standing on Swanston Street staring at Google Maps.*
 

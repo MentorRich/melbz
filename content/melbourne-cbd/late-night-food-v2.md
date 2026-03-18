@@ -5,10 +5,10 @@ date: 2026-03-16
 author: ethan
 tags: ["melbourne-cbd", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in Melbourne CBD 2026: After Midnight Guide
+description: "Late Night Food in Melbourne CBD 2026: After Midnight Guide"
+---
 
 It's 1:47am. You've just come out of a gig at the Forum or you've lost track of time at a lanewa..."
----
 # Late Night Food in Melbourne CBD 2026: After Midnight Guide
 
 It's 1:47am. You've just come out of a gig at the Forum or you've lost track of time at a laneway bar and suddenly your body reminds you it's been seven hours since you ate. The tram's already wound down, your Myki's probably dead, and the kebab shops on Swanston Street are doing that thing where they're either miraculously open or mysteriously closed with no pattern you can decode.
@@ -19,7 +19,6 @@ I've spent the last three weeks crawling through the CBD's after-dark food scene
 
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
 
----
 
 ## 1. Butchers Diner — The One That's Always There
 
@@ -35,7 +34,6 @@ The communal seating means you'll end up next to a nurse finishing a night shift
 
 **Insider tip:** Sit at the bench facing the kitchen. Watching the carvers work the rotisserie at 2am is genuinely meditative.
 
----
 
 ## 2. Dragon Hot Pot — The Russell Street Institution
 
@@ -51,7 +49,6 @@ The broth is the thing here. The mala has a slow-building heat that sneaks up on
 
 **Cross-link:** Richmond's Victoria Street strip does Vietnamese pho all night if you want to venture east — but for a CBD-based option, Dragon's your closest bet for that same steaming-bowl-of-comfort energy.
 
----
 
 ## 3. Stalactites Restaurant — The Greek Legend
 
@@ -69,7 +66,6 @@ The hours have tightened over the years — it used to be a true 24/7 operation 
 
 **Insider tip:** The takeaway window on the side is sometimes still going after the dining room closes. Worth checking if you've missed the sit-down cutoff.
 
----
 
 ## 4. Bar Margaux — When You Want Late-Night to Feel a Bit Classy
 
@@ -85,7 +81,6 @@ Saturday nights until 3am are the sweet spot. The place fills up with people who
 
 **Cross-link:** Southbank's Crown entertainment precinct has several late-night dining options if you're already heading that direction, but Bar Margaux is the better food for your dollar — save the Southbank options for when you're after the experience, not the meal.
 
----
 
 ## 5. Ampère — The Bar That Happens to Feed You Properly
 
@@ -101,7 +96,6 @@ The vibe is dimly lit and slightly theatrical — the kind of place where you ca
 
 **Insider tip:** The back booth near the kitchen is the best seat in the house. You get the warmth from the pass and a front-row view of the small team keeping everything ticking at 2:30am.
 
----
 
 ## 6. Sparrow's Philly Cheesesteaks — The Fast Fix
 
@@ -117,7 +111,6 @@ The Elizabeth Street location is well-placed for anyone stumbling out of the CBD
 
 **Insider tip:** Get the chips as a side ($5). They're better than they should be.
 
----
 
 ## Getting Home Safe
 
@@ -129,7 +122,6 @@ If you're walking, Bourke Street and Elizabeth Street are the main arteries that
 
 **Fitzroy and Carlton are walkable from the northern end of the CBD** if you've had a big night and want to keep the food mission going. Lygon Street in Carlton has several places running until 1–2am on weekends, and Smith Street in Fitzroy keeps a handful of kebab and pizza shops open for the post-pub crowd. But that's a different guide — stay tuned.
 
----
 
 ## What We Skipped and Why
 
@@ -143,7 +135,6 @@ Every late-night food guide has a long list and a shortlist. Here's what landed 
 
 **The 24-hour service stations with hot food.** No.
 
----
 
 ## The Bottom Line
 
@@ -153,7 +144,6 @@ Your best bets: Butchers Diner for the reliable always-open option. Dragon Hot P
 
 We'll be back to test more spots as the weather cools down and the late-night crowd gets hungrier. If we missed your favourite, we want to hear about it.
 
----
 
 *Was this helpful? Rate this article 👍 👎*
 

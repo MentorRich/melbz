@@ -1,6 +1,8 @@
 ---
-title: "Best Coffee in Coburg 2026: From Single-Origin to Zaatar-Stained Fingers"
+title: "Best Coffee in Coburg 2026: From Single-Origin to Local Gems"
 cover_image: "/images/coburg/best-coffee.jpg"
+---
+
 suburb: "coburg"
 vertical: "food"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "The best coffee in Coburg for 2026 — 6 verified cafes from Moreland Road to Pentridge. Specialty roasts, house blends, and the spots where your flat white actually matters."
 tags: ["coburg"]
 categories: ["general"]
----
 # Best Coffee in Coburg 2026: From Single-Origin to Zaatar-Stained Fingers
 
 Coburg doesn't have the coffee reputation of [Brunswick](/brunswick/best-coffee/) — and honestly, that's part of the charm. You won't find queues around the block for a $7 oat latte with a hand-drawn fern on top. What you will find is a string of genuinely excellent cafes roasting their own beans, a Timorese social enterprise pouring some of the most intentional coffee in Melbourne, and a series of Middle Eastern bakeries where the Turkish coffee comes in a copper cup and hits completely different.
@@ -18,7 +19,6 @@ I walked the full length of Sydney Road from Moreland Road to Bell Street, stopp
 
 **Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
 
----
 
 ## 1. Wild Timor Coffee
 
@@ -33,7 +33,6 @@ The pour-over is the move here. They rotate through single-origin beans from Tim
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–3pm
 **Insider tip:** Buy a bag of their Timor single-origin beans ($18/250g) — it's genuinely exceptional at home with a V60 or Aeropress. Half the price of comparable Melbourne roasters and the money goes somewhere that actually matters.
 
----
 
 ## 2. Two Monks Cafe
 
@@ -48,7 +47,6 @@ The cafe itself is compact — maybe 20 seats inside, a few more out front — w
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–2pm
 **Insider tip:** They do a loyalty card — 10 coffees and the 11th is free. In a market where a flat white is approaching $5.50 elsewhere, that maths works out.
 
----
 
 ## 3. True North
 
@@ -63,7 +61,6 @@ The espresso is bright and well-extracted, the filter coffee is clean and nuance
 **Hours:** Wed–Mon 7am–3pm, closed Tuesdays
 **Insider tip:** They sometimes have single-origin beans available for retail at very fair prices. Ask what's on the grinder — the barista genuinely loves talking about it.
 
----
 
 ## 4. The Glass Den
 
@@ -78,7 +75,6 @@ The menu leans into modern Australian brunch, so the coffee is part of a larger 
 **Hours:** Daily 8am–3pm
 **Insider tip:** The courtyard seats get the best morning light from about 9am–11am. If you're a remote worker with a laptop, this is the spot — just don't be the person who takes the four-person table for three hours with a single long black.
 
----
 
 ## 5. Zaatar
 
@@ -93,7 +89,6 @@ The espresso and milk-based coffees are also solid — they use a commercial-gra
 **Hours:** Daily 7am–6pm
 **Insider tip:** The freshly baked zaatar pies come out at about 7:30am and sell out by mid-morning on weekends. Get in early or miss out entirely.
 
----
 
 ## 6. The Boot Factory
 
@@ -108,7 +103,6 @@ The flat white is excellent — smooth, balanced, with a micro-foam that's almos
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** The Boot Factory's evening service is a different animal — it turns into a wine-and-dinner spot. But for coffee purposes, stick to mornings when the baristas aren't juggling dinner prep.
 
----
 
 ## The Bottom Line
 
@@ -120,7 +114,6 @@ For the pure coffee experience, Wild Timor is the standout. For convenience and 
 
 **Your Coburg Vibe Score this week: 72/100** — Coffee game is quietly excellent. No hype required.
 
----
 
 *Know a coffee spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

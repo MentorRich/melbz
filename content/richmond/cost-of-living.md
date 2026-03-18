@@ -5,10 +5,10 @@ date: 2026-03-16
 author: marcus
 tags: ["richmond", "cost-of-living", "property"]
 categories: ["property"]
-description: "Richmond Cost of Living 2026: Real Prices, Real Talk
+description: "Richmond Cost of Living 2026: Real Prices, Real Talk"
+---
 
 Richmond. The suburb where a $7 flat white sits three blocks from a $1.80 lamington at the Richmond Mil..."
----
 # Richmond Cost of Living 2026: Real Prices, Real Talk
 
 Richmond. The suburb where a $7 flat white sits three blocks from a $1.80 lamington at the Richmond Milk Bar. Where a $1.6 million terrace sits next to a housing commission tower. Where you can watch the footy for free from your balcony on game day — then cop a $45 Uber surge trying to leave.
@@ -19,7 +19,6 @@ If you're thinking about moving to Richmond, already living here and trying to f
 
 **Updated 16 March 2026 | Marcus Cole reporting**
 
----
 
 ## The Big Number: What Richmond Costs Per Week
 
@@ -37,7 +36,6 @@ Translation: if you're renting a two-bedroom place in Richmond, you're probably 
 
 To live "comfortably" in Richmond as a single person — meaning rent, food, transport, utilities, and the occasional social life — you need to be clearing at least **$85,000 a year** after tax. That's roughly $5,400 per month take-home, and it won't leave much room for savings. A couple could manage on a combined $130,000–$140,000 if they're smart about it.
 
----
 
 ## Housing: The Rent vs Buy Breakdown
 
@@ -74,7 +72,6 @@ Compare that to buying a unit:
 
 Still steep, but at least you're not selling a kidney. A one-bed unit in Richmond is actually achievable for dual-income households earning a combined $120K+.
 
----
 
 ## Groceries: Where You Shop Matters More Than What You Shop
 
@@ -102,7 +99,6 @@ Woolworths on Victoria Street (the main supermarket). Fine for convenience. You'
 
 The maths is simple: shop at the Asian grocers on Victoria Street and you'll save $50–$80 a week compared to doing everything at Woolworths. Over a year, that's $2,600–$4,160. That's a holiday. That's your bond back. That's real money.
 
----
 
 ## Transport: Richmond Actually Wins Here
 
@@ -133,7 +129,6 @@ A monthly Myki pass at $199 is the move if you commute daily. That's $45.90 per 
 
 Parking is a nightmare. Street parking is time-limited and heavily patrolled. Monthly parking in a garage near Bridge Road runs $300–$450/month. And game days at the MCG essentially shut down the southern half of the suburb. If you need a car for work or family, park further out and tram in.
 
----
 
 ## Eating Out: The Good News
 
@@ -159,7 +154,6 @@ This is where Richmond genuinely delivers. The food scene is outstanding and —
 
 For context, the average Melbourne mid-range meal for two (three courses, no drinks) runs about $120. Richmond beats this for Asian cuisine by a significant margin. You can eat extremely well for two people on $50–$70 on Victoria Street.
 
----
 
 ## Utilities and Bills
 
@@ -174,7 +168,6 @@ Melbourne utilities in 2026 remain annoying but manageable:
 
 That's $5,100 a year just for the basics. Richmond doesn't get a discount here — utility prices are set at the state level. But if you're in a newer apartment with decent insulation (there are plenty going up along the Cremorne–Richmond border), your heating and cooling costs should sit at the lower end of that range.
 
----
 
 ## Fitness and Lifestyle
 
@@ -191,7 +184,6 @@ Richmond residents are spoiled for gyms and parks:
 
 The Yarra Trail running path is one of Melbourne's best and it costs nothing. If you're spending $100+ a month on a gym when you have access to that trail and the parks, I don't know what to tell you.
 
----
 
 ## What Does It Actually Cost? The Weekly Breakdown
 
@@ -223,7 +215,6 @@ For a couple sharing a two-bed unit, you're looking at:
 
 **$628/week per person** means a combined household income of around **$110,000–$120,000** for two people to live comfortably. That's very achievable for Melbourne professionals — and it's notably cheaper than trying to live in South Yarra, Prahran, or the CBD itself.
 
----
 
 ## Richmond vs the Neighbours
 
@@ -238,7 +229,6 @@ Abbotsford sits directly west and offers slightly cheaper housing — median ren
 **Richmond vs Cremorne:**
 Cremorne is Richmond's corporate sibling — home to the ESPN headquarters, the NAB campus, and a growing cluster of tech offices. It's technically Richmond's north-west pocket but has its own distinct identity. Property is slightly pricier due to the commercial precinct driving demand, but you get a quieter, more modern apartment stock compared to Richmond's Victorian terrace-heavy south. The [Cremorne cost of living](/cremorne/cost-of-living) breakdown covers this in detail.
 
----
 
 ## What We Skipped and Why
 
@@ -254,7 +244,6 @@ Cremorne is Richmond's corporate sibling — home to the ESPN headquarters, the 
 
 **Child support or alimony:** Obviously personal and not generalisable.
 
----
 
 ## The Verdict
 
@@ -267,11 +256,9 @@ Richmond is expensive. That's not news. But here's what the headline number does
 
 Richmond's cost of living in 2026 is the price you pay for being in the middle of everything. The MCG, the city, the Yarra trail, the best Vietnamese food in Australia, and a tram that actually comes on time (mostly). Whether that's worth $906 a week is your call. But if you're going to live in inner Melbourne, Richmond is still one of the smarter financial choices — provided you shop at the right places and don't try to buy a house.
 
----
 
 **Richmond Vibe Score this week: 82/100** — Strong. The autumn weather is pulling people out, the footy season is building, and Victoria Street is doing what it always does: feeding people well for not enough money.
 
----
 
 *Know a cost we missed? Spotted a price change? Let us know.*
 

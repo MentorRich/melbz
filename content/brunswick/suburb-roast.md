@@ -5,19 +5,21 @@ date: 2026-03-16
 author: tyler
 tags: ["brunswick", "roast", "opinions"]
 categories: ["editorial"]
-description: "Brunswick: The Suburb Roast — Every Hot Take, No Apologies
-
-BRUNSWICK VIBE SCORE: 82/100 ⚡️ BUZZING (+1 this week)
-
-Updated 16 March 2026 | Tyler James repor..."
+description: "Brunswick: The Suburb Roast — Every Hot Take, No Apologies"
 ---
+
+**Updated 16 March 2026 | Tyler James repor..."**
+
+
+
+*Updated 16 March 2026 | Tyler James repor..."*
+
 # Brunswick: The Suburb Roast — Every Hot Take, No Apologies
 
 **BRUNSWICK VIBE SCORE: 82/100 ⚡️ BUZZING (+1 this week)**
 
 *Updated 16 March 2026 | Tyler James reporting*
 
----
 
 Brunswick. The suburb that thinks it invented Melbourne. The postcode that looks at Fitzroy, says "cute," and genuinely believes it's the cooler older sibling. Let's get one thing straight before we start: Brunswick is genuinely good. That's what makes roasting it so satisfying — because the people who live there are *insufferable* about how good it is.
 
@@ -105,7 +107,6 @@ Brunswick doesn't need your approval. It never has. That's the most Brunswick th
 > Drop your most controversial opinion about Brunswick in the comments. We'll feature the best ones in next week's Roast Roundup. No hot take too spicy. No opinion too unhinged.
 > **→ [FIGHT US](/fight-us)**
 
----
 
 ## Related Roasts
 
@@ -113,13 +114,11 @@ Brunswick doesn't need your approval. It never has. That's the most Brunswick th
 - **[Carlton: The Suburb Roast](/carlton/suburb-roast)** — Brunswick's more expensive cousin who went to private school.
 - **[Northcote: The Suburb Roast](/northcote/suburb-roast)** — What happens when Brunswick people get priced out and move one suburb north.
 
----
 
 **More from the MELBZ Suburb Roast Series → [All Roasts](/roasts)**
 
 *Got a suburb you want roasted? Tell us. We're not afraid. Well, maybe of Footscray.*
 
----
 
 *Tyler James is the Roast Editor at MELBZ. He has lived in four of the suburbs he's roasted and been kicked out of two. Follow MELBZ on [Instagram](https://instagram.com/melbzcomau) and [TikTok](https://tiktok.com/@melbzcomau) for daily suburb chaos.*
 
@@ -131,7 +130,6 @@ Brunswick doesn't need your approval. It never has. That's the most Brunswick th
 > *Hey Carlton — your rent is higher and your food is worse. Just wanted to remind you. 🫡*
 > **See Carlton's response → [Carlton Roast](/carlton/suburb-roast)**
 
----
 
 *© MELBZ — Melbourne's Hyperlocal Intelligence Platform. We know your suburb better than you do.*
 

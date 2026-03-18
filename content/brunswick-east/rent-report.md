@@ -5,12 +5,17 @@ date: 2026-03-16
 author: marcus
 tags: ["brunswick-east", "rent", "property"]
 categories: ["property"]
-description: "Rent Prices in Brunswick East 2026: What You'll Pay
+description: "Rent Prices in Brunswick East 2026: What You'll Pay"
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 Brunswick East is that sweet spot between "too cool for y..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Rent Prices in Brunswick East 2026: What You'll Pay
 
 *Updated 16 March 2026 | Marcus Cole reporting*
@@ -112,7 +117,6 @@ The unit market is the standout here. A 5.25% rental yield with median unit pric
 
 Whether it's worth it depends on what you value. If you want the Merri Creek trail out your back gate, Lygon Street restaurants within walking distance, and a suburb that's quietly improving without the Fitzroy price tag — Brunswick East is doing the maths in your favour.
 
----
 
 ## Quick Links — Other MELBZ Rent Reports
 
@@ -121,7 +125,6 @@ Whether it's worth it depends on what you value. If you want the Merri Creek tra
 - [Carlton Rent Prices 2026](/carlton/)
 - [Melbourne Inner North Rent Guide 2026](/inner-north-rent-guide/)
 
----
 
 **About this report:** Median rent data sourced from CoreLogic, YIP, and Domain as of March 2026. Figures represent rolling 12-month medians unless otherwise stated. Rental yields and property values sourced from YIP and Realestateinvestar. Individual property rents will vary.
 

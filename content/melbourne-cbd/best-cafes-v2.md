@@ -5,15 +5,15 @@ date: 2026-03-16
 author: eli
 tags: ["melbourne-cbd", "cafes", "food"]
 categories: ["food"]
-description: "Updated 16 March 2026 | 6 places tested | Eli Chen reporting
-
+description: "Best Cafes in Melbourne CBD 2026: CBD's Best Flat Whites"
 ---
+
+*description: "16 March 2026 | 6 places tested | Eli Chen reporting"*
+
 
 Melbourne's CBD doesn't sleep on good coffee. It can't. When you're sandwiched between the..."
----
 Updated 16 March 2026 | 6 places tested | Eli Chen reporting
 
----
 
 Melbourne's CBD doesn't sleep on good coffee. It can't. When you're sandwiched between the roasters of [Carlton](/suburbs/carlton/), the espresso evangelists of [Fitzroy](/suburbs/fitzroy/), and the waterfront glamour of [Southbank](/suburbs/southbank/), the pressure to pour a worthy flat white is relentless.
 
@@ -181,11 +181,9 @@ Our top pick? For pure coffee quality, **Brother Baba Budan** takes the crown �
 
 Now get out there and find your own favourite. That's the real Melbourne way.
 
----
 
 *Have a CBD cafe we missed? Tell us about it — we're always revisiting the list.*
 
----
 
 **Related Reading:**
 - [Best Cafes in Carlton](/suburbs/carlton/) — Where Melbourne's coffee scene started
@@ -193,7 +191,6 @@ Now get out there and find your own favourite. That's the real Melbourne way.
 - [Best Cafes in Southbank](/suburbs/southbank/) — Riverside coffee with a view
 - [Melbourne CBD Food Guide](/melbourne-cbd/food-guide/) — Our complete eating-out guide for the city centre
 
----
 
 *Prices current as of March 2026. Menu items and availability may change. We paid for all meals and coffees reviewed — no comps, no sponsorships, no freebies.*
 

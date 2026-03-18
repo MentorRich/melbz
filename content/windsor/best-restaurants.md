@@ -1,6 +1,8 @@
 ---
 title: "Best Restaurants in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/best-restaurants.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "jules"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best restaurants in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["best"]
----
 ## The Best Restaurants in Windsor
 
 Windsor's dining scene has no business being this good. For a suburb most people describe as "that bit of Chapel Street near Punt Road," Windsor packs in some of Melbourne's sharpest restaurants — Vietnamese-inspired poultry joints, a Middle Eastern wine bar that rivals the CBD, Japanese izakayas from the Lucas Group, and a Nepali restaurant that's quietly changing what people think South Asian food can be.
@@ -148,7 +149,6 @@ The space is bright and modern, making it a good family option as well as a date
 
 **Insider tip:** Their gluten-free base is one of the best in Melbourne. If you're coeliac or gluten-sensitive, this is your pizza place.
 
----
 
 ## What We Skipped and Why
 
@@ -158,7 +158,6 @@ The space is bright and modern, making it a good family option as well as a date
 
 **Any restaurant not on Chapel Street or its immediate surrounds** — Windsor's restaurant scene is concentrated along Chapel. We've covered the standouts, not every option.
 
----
 
 ## The Windsor Restaurant Scene by the Numbers
 
@@ -170,14 +169,12 @@ The space is bright and modern, making it a good family option as well as a date
 
 Windsor's restaurant strip is walkable from Prahran station (5-minute walk) or Windsor station (3-minute walk). Parking on Chapel Street is metered and tight after 6pm — consider the side streets off Williams Road or parking at Victoria Gardens.
 
----
 
 **Cross-links:**
 - [Best Restaurants in Prahran](/prahran/best-restaurants) — the polished neighbour
 - [Best Restaurants in South Yarra](/south-yarra/best-restaurants) — where prices climb
 - [Best Restaurants in St Kilda](/st-kilda/best-restaurants) — beachside dining
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
 

@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["hampton", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Hampton Honest Guide 2026: High Street South & Real Opinions
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Hampton Honest Guide 2026: High Street South & Real Opinions"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Hampton sits on the Sandringham line like..."
----
 # Hampton Honest Guide 2026: High Street South & Real Opinions
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Hampton sits on the Sandringham line like the middle child of the bayside suburbs — overshadowed by Brighton's old money and Sandringham's beachfront swagger, but quietly doing its own thing. And honestly? That might be its best feature.
 
@@ -25,7 +28,6 @@ If you've driven down Hampton Street on a Saturday morning, you already know the
 
 But let's get into it properly. The good, the meh, and the stuff locals won't tell you at the school pick-up.
 
----
 
 ## The Lay of the Land
 
@@ -35,7 +37,6 @@ The suburb is split almost into two personalities. The western end, closer to th
 
 Hampton Street is the spine. It runs north-south and it's where nearly everything you need lives. The further south you go towards the Sandringham border, the more interesting it gets.
 
----
 
 ## What's Actually Good About Hampton
 
@@ -65,7 +66,6 @@ The Frankston Freeway access via Nepean Highway is reasonable too. You're not go
 
 You don't live in Hampton without using the beach. Dendy Street Beach is technically Brighton's claim to fame with those bathing boxes, but Hampton's coastline is quieter and arguably more swimmable. Half Moon Bay is a short drive south and it's one of the best sheltered swimming spots on the bay. In summer, the beach culture seeps into everything — weekend plans, social circles, what people wear.
 
----
 
 ## The Honest Negatives
 
@@ -89,7 +89,6 @@ If you want a big night out, you're going elsewhere. Hampton's hospitality scene
 
 Hampton will always be compared to Brighton. Always. And that comparison usually goes one way. Brighton has the beachfront mansions, the prestigious schools, the name recognition. Hampton gets described as "near Brighton" more often than it gets described on its own terms. For some people, being the more affordable option next door is fine. For others, it stings a little.
 
----
 
 ## What We Skipped and Why
 
@@ -103,7 +102,6 @@ Every suburb guide mentions the same things. We're skipping them here because th
 
 **The "under the radars" section.** Nothing is hidden anymore. If a café or park is genuinely good, it shows up on Instagram and Google reviews within weeks. We skip the manufactured discovery angle because it's patronising.
 
----
 
 ## Who Is Hampton Actually For?
 
@@ -113,7 +111,6 @@ Every suburb guide mentions the same things. We're skipping them here because th
 
 **Empty nesters who want walkability.** If you're past the school-run stage but still want a café within walking distance and a train station nearby, Hampton delivers that without the density of inner-city suburbs.
 
----
 
 ## How Hampton Compares
 
@@ -128,7 +125,6 @@ Every suburb guide mentions the same things. We're skipping them here because th
 
 If you're choosing between Hampton and its neighbours, the decision usually comes down to budget and how much you value being directly on the beach versus being close to it. [Sandringham](/suburbs/sandringham) wins the beach argument. [Brighton](/suburbs/brighton) wins the prestige argument. [Bentleigh](/suburbs/bentleigh) wins the value argument. Hampton wins on balance — it's the sensible, middle-ground choice that doesn't sacrifice too much in any direction.
 
----
 
 ## The Verdict
 
@@ -138,7 +134,6 @@ Is it exciting? No. Is it boring? Also no. Hampton is what happens when a suburb
 
 And honestly, in a city where every suburb is trying to be the next hot thing, there's something refreshing about one that just sits on the Sandringham line, drinks its good coffee, and raises its kids without making a big deal about it.
 
----
 
 ### 📊 Hampton at a Glance
 
@@ -148,7 +143,6 @@ And honestly, in a city where every suburb is trying to be the next hot thing, t
 **Transport:** Hampton Station (Sandringham line), bus routes along High Street
 **Beach rating:** 7.5/10 — close and swimmable, but Sandringham edges it
 
----
 
 ### 🗳️ What matters most to you in Hampton?
 
@@ -159,7 +153,6 @@ And honestly, in a city where every suburb is trying to be the next hot thing, t
 
 *Tell us what brings you to Hampton — we write for readers, not algorithms.*
 
----
 
 ### 📍 If You Like Hampton, Also Check Out
 
@@ -167,7 +160,6 @@ And honestly, in a city where every suburb is trying to be the next hot thing, t
 - **[Sandringham](/suburbs/sandringham):** Beachfront living with a village feel.
 - **[Bentleigh](/suburbs/bentleigh):** More affordable, still family-friendly, great food scene emerging.
 
----
 
 ### 💬 Real Talk
 

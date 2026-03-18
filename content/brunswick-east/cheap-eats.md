@@ -5,10 +5,10 @@ date: 2026-03-16
 author: adam
 tags: ["brunswick-east", "cheap-eats", "food"]
 categories: ["food"]
-description: "Cheap Eats Under $20 in Brunswick East 2026
+description: "Cheap Eats Under $20 in Brunswick East 2026"
+---
 
 Brunswick East doesn't need a fancy introduction. If you've wandered up Lygon Street past the Carlton border and..."
----
 # Cheap Eats Under $20 in Brunswick East 2026
 
 Brunswick East doesn't need a fancy introduction. If you've wandered up Lygon Street past the Carlton border and felt the strip get a little less polished and a lot more interesting, you already get it. This is where Melbourne's northern food corridor stops pretending and starts feeding you properly — Lebanese wraps, Polish dumplings, Mexican tacos, Thai curries, and pasta that costs less than a flat white in South Yarra.
@@ -17,11 +17,9 @@ We walked the strip, sat in the booths, queued at the counters, and ate our way 
 
 **Updated 16 March 2026 | 6 places tested | Adam Nowak reporting**
 
----
 
 > **💡 Did you know?** Brunswick East sits just 6km from the Melbourne CBD but its cheap eats are often half the price of what you'll find on the city end of Lygon Street. The secret's been out for years — now it's just getting louder.
 
----
 
 ## 1. Tawooq
 **The vibe:** A fluorescent-lit Lebanese street food shop with zero pretence and enormous flavour
@@ -35,7 +33,6 @@ The menu covers wraps, baguettes, and burgers, with the most expensive single it
 **Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–2am, Sun 11am–11pm
 **Insider tip:** Ask for extra toum. They won't charge you and it's life-changing.
 
----
 
 ## 2. Times New Roman
 **The vibe:** A cocktail bar inside your nonna's house, but the pasta costs $6
@@ -49,7 +46,6 @@ The menu is tight and changes regularly. Expect snack-sized pasta bowls — napo
 **Hours:** Thu–Fri 5pm–11pm, weekends from noon
 **Insider tip:** The $6 burrata is mini but perfectly formed. Pair it with the bread and you've got a starter for two that costs less than $10.
 
----
 
 ## 3. Lygon Kebab House
 **The vibe:** A blink-and-you'll-miss-it kebab shop doing serious late-night business
@@ -63,7 +59,6 @@ The mixed kebab wrap with your choice of two sauces is the standard order, but t
 **Hours:** Daily from 5pm
 **Insider tip:** The chips are a secret weapon. Order a side and thank us later.
 
----
 
 ## 4. CDMX Brunswick East
 **The vibe:** Mexico City taqueria energy on the upper end of Lygon Street
@@ -77,7 +72,6 @@ At two tacos for $5 on their Tuesday special, CDMX becomes one of the cheapest m
 **Hours:** Daily from noon
 **Insider tip:** Tuesday is taco day — two tacos for $5. Set a recurring calendar event.
 
----
 
 ## 5. Bellboy Cafe
 **The vibe:** Neighbourhood brunch done properly, with on-site coffee roasting
@@ -91,7 +85,6 @@ If you're after something lighter, the bagels come in under $16 and the coffee i
 **Hours:** Mon–Fri 7am–3:30pm, Sat 7am–4pm, Sun 8am–4pm
 **Insider tip:** The on-site roaster means the coffee is always fresh. Ask for a bag of beans to take home — they sell them.
 
----
 
 ## 6. Eat Pierogi Make Love
 **The vibe:** A loud, unapologetic Polish restaurant with great vodka and better dumplings
@@ -105,7 +98,6 @@ Monday nights are "Pierogi Infiniti" — all-you-can-eat Polish dumplings for $3
 **Hours:** Wed–Mon, from 5pm
 **Insider tip:** Monday night Pierogi Infiniti ($39 all-you-can-eat) is the move if you're hungry and organised enough to book.
 
----
 
 ## What We Skipped and Why
 
@@ -121,7 +113,6 @@ Not everything in Brunswick East made the cut. Here's what we looked at and why 
 
 **377 On Lygon / Abruzzo Club** — This 377 Lygon Street venue is more of a club-bistro setup. It has its fans, but the menu leans towards pub classics at mid-range prices rather than the cheap eats category.
 
----
 
 ## The Verdict
 
@@ -131,9 +122,7 @@ The suburb's proximity to Brunswick, Fitzroy North, and Carlton means you can bu
 
 Brunswick East isn't trying to impress anyone. That's exactly why it's so good.
 
----
 
----
 
 ## 🗳️ Quick Poll
 
@@ -147,19 +136,16 @@ Brunswick East isn't trying to impress anyone. That's exactly why it's so good.
 
 *Cast your vote on our Instagram stories @melbz.com.au*
 
----
 
 ## 💬 We Want to Hear From You
 
 **What cheap eat in Brunswick East did we miss?** We tested six spots, but Lygon Street is long and we know there's more. Drop your recommendation in the comments or tag us on Instagram @melbz.com.au. If it's good, we'll add it to the next update.
 
----
 
 ## 📤 Share This With a Mate
 
 Know someone who lives in Brunswick East and complains about prices? Forward them this guide. Or share it to your mate who always says "let's just grab something cheap" and then suggests a $28 poke bowl. They need this.
 
----
 
 **Related reads:**
 - [Best Cheap Eats in Brunswick](/brunswick/cheap-eats)

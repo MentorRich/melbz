@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Cremorne — 2026 Local Guide"
 cover_image: "/images/cremorne/best-coffee.jpg"
+---
+
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Melbourne's most cafe-dense suburb means the coffee standard in Cremorne is brutally high. Here's where to get the best brew in 3121."
 tags: ["cremorne"]
 categories: ["general"]
----
 # Best Coffee in Cremorne — A suburb that takes its brew personally
 
 There's a stat that says everything about Cremorne: this suburb of roughly 2,500 people topped the Domain Liveable Melbourne study for cafe density, beating the entire CBD. That's not a typo. A neighbourhood you can walk across in fifteen minutes has more cafes per capita than the Melbourne CBD, Southbank, and South Melbourne.
@@ -20,7 +21,6 @@ This is your guide to where to get the best coffee in postcode 3121.
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
----
 
 ## 1. Niccolo Coffee
 **The vibe:** The roastery that treats coffee like engineering — every variable measured, every shot deliberate, every bean roasted in-house.
@@ -34,7 +34,6 @@ The single-origin pour-overs are where Niccolo really shines. They rotate season
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–2pm
 **Insider tip:** They sell their beans retail, and the team will recommend a specific roast based on how you make coffee at home (plunger, espresso, pour-over). It's the kind of personalised service that's becoming rare.
 
----
 
 ## 2. Baker Bleu
 **The vibe:** Sourdough temple with a Market Lane coffee program — the bread is the star, but the coffee doesn't play second fiddle.
@@ -48,7 +47,6 @@ But what makes Baker Bleu's coffee experience unique is the context. You're drin
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–4pm
 **Insider tip:** They do a "coffee and loaf" deal on weekday mornings — a flat white and a half-loaf of sourdough for $15. It's not advertised. Just ask.
 
----
 
 ## 3. OnAir
 **The vibe:** The café where the soundtrack matters as much as the espresso — coffee culture colliding with club culture in the best possible way.
@@ -62,7 +60,6 @@ It fills a gap that Cremorne didn't know it had: a café where you can do actual
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–2pm
 **Insider tip:** The music programming is on their Instagram. Thursday and Friday arvos sometimes have guest DJs — the vibe shifts from "focused work café" to "pre-party" around 2pm.
 
----
 
 ## 4. My Oh My Espresso
 **The vibe:** 6am start, no pretence, excellent extraction. The café for people who need coffee before cafés open.
@@ -76,7 +73,6 @@ The coffee is consistently excellent for a venue this size and this early. The e
 **Hours:** Mon–Fri 6am–6pm, Sat–Sun 7am–6pm
 **Insider tip:** The 6:45am slot is perfect — coffee's dialed in, the queue hasn't formed, and you can watch Cremorne's Swan Street come alive from the window.
 
----
 
 ## 5. Café Decjuba x St. Ali
 **The vibe:** Corner café energy with St. Ali's coffee pedigree — a reliable, excellent, $4.50 daily driver.
@@ -90,7 +86,6 @@ The $4.50 price point in a suburb where some cafés charge $6.50 for a flat whit
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–2pm
 **Insider tip:** They do takeaway coffee in proper cups if you bring your own keep cup, and the queue moves faster than you'd expect for how good the coffee is.
 
----
 
 ## 6. La Manna & Sons
 **The vibe:** Deli café where the Allpress espresso is excellent and the surroundings make you want to buy everything in the display case.
@@ -104,7 +99,6 @@ It's the café where the coffee is one part of a larger, better whole. You come 
 **Hours:** Mon–Fri 7am–3pm, Sat 8am–3pm
 **Insider tip:** The deli counter has a daily salad selection that rotates. If the roasted beetroot with goat cheese is on, get it. It pairs beautifully with a long black.
 
----
 
 ## 7. Hunted+Gathered
 **The vibe:** Chocolate factory that also does excellent coffee — the hot chocolate is the headline act, but the espresso is a strong supporting player.
@@ -118,7 +112,6 @@ It's the best alternative to a standard café experience in Cremorne. If you wan
 **Hours:** Mon–Fri 7:30am–3:30pm, Sat 8:30am–3:30pm
 **Insider tip:** They sell their chocolate bars retail, and the 72% single-origin is the kind of thing you'll eat in one sitting and not regret.
 
----
 
 ## 8. Suupaa
 **The vibe:** Tokyo convenience store meets Melbourne café — matcha, Milo, miso-Vegemite, and a coffee program that doesn't get lost in the novelty.
@@ -132,7 +125,6 @@ It's not your daily coffee spot (that's what My Oh My is for). It's the spot for
 **Hours:** Mon–Fri 8am–4pm
 **Insider tip:** The Japanese snack shelves are real convenience-store style — grab an onigiri or a Pocky stick to go with your coffee. It's the small details that make this place work.
 
----
 
 ## What We Skipped and Why
 
@@ -142,7 +134,6 @@ It's not your daily coffee spot (that's what My Oh My is for). It's the spot for
 
 **Square One Coffee Roasters** — Their Cremorne roastery isn't open to the public. Their café presence is at the Rialto in the CBD, which is excellent but not in 3121.
 
----
 
 ## The Bottom Line
 
@@ -154,7 +145,6 @@ No matter where you go, you won't get a bad coffee in Cremorne. That's not a boa
 
 **Your Cremorne Vibe Score this week: 79/100** — Where even the 6am crowd expects single-origin.
 
----
 
 *Know a spot we missed? Let us know.*
 

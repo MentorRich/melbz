@@ -1,6 +1,8 @@
 ---
 title: "Best Cafes in Preston — 2026 Local Guide"
 cover_image: "/images/preston/best-cafes.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best cafes in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["best"]
----
 ## The Best Cafes in Preston
 
 Preston's cafe scene has a personality problem — and that's a compliment. While Melbourne's inner south fights over who can serve the most photogenic flat white on a marble table, Preston's cafes are busy doing things their own way: Colombian arepas, gluten-free cannoli, school-canteen nostalgia, and community-focused spaces that treat coffee as part of the experience rather than the entire reason for existing.
@@ -112,7 +113,6 @@ We also skipped the newer openings that haven't been operating long enough to fo
 
 We didn't include any bakeries in this guide (though Preston has some excellent ones) because that's a separate category. Look for our Preston bakery guide coming soon.
 
----
 
 **More Preston cafe and food guides:**
 → [Best Brunch in Preston — the overlap with brunch spots](/preston/best-brunch/)
@@ -120,7 +120,6 @@ We didn't include any bakeries in this guide (though Preston has some excellent 
 → [Cafes in Northcote — 20 min walk south](/northcote/)
 → [Cafes in Thornbury — 10 min walk](/thornbury/)
 
----
 
 *This guide was researched and written by the MELBZ team. Prices and hours are accurate as of March 2026 but should be confirmed before visiting. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

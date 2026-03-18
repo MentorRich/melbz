@@ -1,21 +1,20 @@
 ---
-title: "Best Cafes in Hawthorn 2026: Glenferrie & Burwood Road"
+title: "Best Cafes in Hawthorn 2026: Glenferrie Burwood Road"
 cover_image: "/images/hawthorn/best-cafes.jpg"
 date: 2026-03-16
 author: eli
 tags: ["hawthorn", "cafes", "food"]
 categories: ["food"]
-description: "Best Cafes in Hawthorn 2026: Glenferrie & Burwood Road
+description: "Best Cafes in Hawthorn 2026: Glenferrie & Burwood Road"
+---
 
 Hawthorn doesn't mess around when it comes to coffee. Tucked between Swinburne University and the lea..."
----
 # Best Cafes in Hawthorn 2026: Glenferrie & Burwood Road
 
 Hawthorn doesn't mess around when it comes to coffee. Tucked between Swinburne University and the leafy avenues of the inner east, this suburb punches well above its weight with two world-class roasters, a Tokyo-inspired listening café, and enough brunch spots to keep your Sunday mornings occupied for months. We walked the length of Glenferrie and Burwood roads to find the places actually worth your time (and your $22 smashed avo).
 
 **Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
 
----
 
 ## 1. Axil Coffee Roasters — The Reigning King
 
@@ -30,7 +29,6 @@ The vibe is theatrical and buzzing, but the room is large enough that you can us
 
 > **MELBZ tip:** Their retail beans make an excellent gift. Grab a bag of the Boundless blend on your way out.
 
----
 
 ## 2. Sabi Sounds — The New Guard
 
@@ -47,7 +45,6 @@ This is the most exciting thing to happen to Glenferrie Road in years.
 
 > **MELBZ tip:** Book a private booth for Friday night. Bring friends who appreciate good sound.
 
----
 
 ## 3. Short Straw — The Instagram-Ready Brunch Spot
 
@@ -64,7 +61,6 @@ Dog-friendly outdoor seating out front. Full bar with cocktails available for th
 
 > **MELBZ tip:** Arrive before 9am on weekends or expect a 20-minute wait. No bookings for groups under 6.
 
----
 
 ## 4. Aokuma Café — The Japanese under the radar
 
@@ -81,7 +77,6 @@ If your only experience with "Japanese café" is another matcha latte spot, Aoku
 
 > **MELBZ tip:** The sake salmon onigiri ($6) is the best-value lunch item in Hawthorn. Full stop.
 
----
 
 ## 5. Bawa Café — The Greenhouse on Burwood Road
 
@@ -98,7 +93,6 @@ Open 365 days a year. On Christmas Day, Bawa is your friend.
 
 > **MELBZ tip:** Book ahead on weekends via OpenTable. The window seats are the best in the house.
 
----
 
 ## 6. Le Clec — The French-Asian Fusion Brunch Bar
 
@@ -115,7 +109,6 @@ A genuine neighbourhood spot that rewards repeat visits.
 
 > **MELBZ tip:** The courtyard is the move in warmer months. Grab a table out there and don't rush.
 
----
 
 ## Honourable Mentions
 
@@ -123,7 +116,6 @@ A genuine neighbourhood spot that rewards repeat visits.
 
 **Four Kilo Fish** (Glenferrie Road) — A tiny worth seeking out specialising in single-origin Yunnan coffee and vintage Pu'er tea, with a uniquely designed food menu. Worth seeking out if you're after something completely different.
 
----
 
 ## What We Skipped and Why
 
@@ -133,7 +125,6 @@ A genuine neighbourhood spot that rewards repeat visits.
 
 **Cafés we couldn't verify are still operating** — Oscar Mike on Glenferrie Road appears to be in a "coming soon" phase on their website. Several other spots from older "best of" lists have quietly closed. We only included places we can confirm are open and serving as of March 2026.
 
----
 
 ## How This List Works
 
@@ -141,7 +132,6 @@ We visited six cafés across Glenferrie Road and Burwood Road, ordered multiple 
 
 No venue paid to be on this list. No venue knew we were coming.
 
----
 
 ## Related Reads
 
@@ -149,7 +139,6 @@ No venue paid to be on this list. No venue knew we were coming.
 - [Best Cafes in Kew 2026](/food/best-cafes-kew) — Kew's café scene is quieter but punches above its weight
 - [Best Cafes in Camberwell 2026](/food/best-cafes-camberwell) — Camberwell's Burke Road corridor is the understated brunch capital of the inner east
 
----
 
 *Have we missed your favourite Hawthorn café? Tell us about it at hello@melbz.com.au. We revisit this list every quarter.*
 

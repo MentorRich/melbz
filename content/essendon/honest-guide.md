@@ -5,21 +5,19 @@ date: 2026-03-16
 author: jack
 tags: ["essendon", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Essendon Honest Guide 2026: Mt Alexander Road & Real Opinions
+description: "Essendon Honest Guide 2026: Mt Alexander Road & Real Opinions"
+---
 
 Essendon. The suburb that Moonee Ponds looks down on, Niddrie looks across at, and Ascot Vale ..."
----
 # Essendon Honest Guide 2026: Mt Alexander Road & Real Opinions
 
 Essendon. The suburb that Moonee Ponds looks down on, Niddrie looks across at, and Ascot Vale quietly wishes it could afford. Sitting pretty on the Craigieburn train line about 8 kilometres from the CBD, Essendon is one of those north-western suburbs that's been having a very long, very slow glow-up — and whether it's actually arrived depends entirely on which end of Buckley Street you're standing on.
 
 Updated 16 March 2026 | Jack Morrison reporting
 
----
 
 **[📊 POLL: Have you lived in or considered Essendon? What's your honest take? Vote in the MELBZ Community →]**
 
----
 
 ## The Honest Setup
 
@@ -39,11 +37,9 @@ If you've never driven down Mt Alexander Road, picture a wide, busy arterial lin
 
 **The community vibe is genuine.** Essendon has a community feel that's hard to fake. You see it in the local sports clubs — the Essendon Football Club connection (the Dons, not the Bombers, if you want to start a bar fight) looms large and shapes the identity of the area. You see it in the weekend foot traffic along Buckley Street. You see it in the locals who've been here for 30 years and will tell you about it whether you asked or not. It's the kind of suburb where people actually nod hello on the street, which in Melbourne is practically a declaration of love.
 
----
 
 **[💬 ENGAGE: "Essendon is the suburb that doesn't try too hard" — agree or disagree? Drop your take in the MELBZ comments →]**
 
----
 
 ## The Bits That Need Work
 
@@ -57,11 +53,9 @@ If you've never driven down Mt Alexander Road, picture a wide, busy arterial lin
 
 **The retail strip needs more love.** Parts of Buckley Street and the shops along Mt Alexander Road have that slightly tired feel — empty shopfronts, businesses that haven't updated their signage since 2008, and a general sense that the street is waiting for something to happen. It's not dead, but it's not thriving either. There are bright spots (the cafés, a good local bottle shop, some solid barber shops) but there are also stretches where you'd cross the road to avoid walking past another vacant lot.
 
----
 
 **[🗺️ COMPARE: How does Essendon stack up against Moonee Ponds, Ascot Vale, and Niddrie? Check the MELBZ Suburb Comparison Tool →]**
 
----
 
 ## What We Skipped and Why
 
@@ -77,11 +71,9 @@ We're not going to pretend we covered everything. Here's what we deliberately le
 
 **Moonee Valley Racecourse redevelopment.** This is technically Moonee Ponds, but its ripple effect will shape Essendon for decades. The massive residential and mixed-use development on the old racecourse site will bring thousands of new residents to the area, along with new parks, shops, and infrastructure. It'll put pressure on Essendon's amenities and roads. It'll also potentially lift the whole area's profile. Worth knowing about. Not our focus today.
 
----
 
 **[📧 SUBSCRIBE: Get the MELBZ Monday Briefing — what's happening in YOUR suburb this week. Free. No spam. Just Melbourne →]**
 
----
 
 ## The Surrounding Suburbs
 
@@ -107,7 +99,6 @@ The honest truth? Essendon is a good suburb that could be a great one — if the
 
 **Essendon Vibe Score: 71/100** — Solid, improving, still finding its feet.
 
----
 
 *Have thoughts on this guide? Lived in Essendon and reckon we missed something? Hit us up on the MELBZ socials or drop a comment below. We read everything — and we publish the best responses.*
 

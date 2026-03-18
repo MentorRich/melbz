@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Brunswick East — 2026 Local Guide"
 cover_image: "/images/brunswick-east/things-to-do-this-weekend.jpg"
+---
+
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "maya"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Brunswick East. Our verified 2026 guide covers the best spots for locals."
 tags: ["brunswick-east"]
 categories: ["things"]
----
 # Things To Do This Weekend in Brunswick East
 
 Brunswick East doesn't shout about itself. It doesn't need to. While Brunswick's Lygon Street proper gets the tourist traffic and Fitzroy cops the Instagram crowds, Brunswick East quietly ticks along as one of Melbourne's best weekends-without-agenda suburbs. It's the kind of place where you walk out the front door on a Saturday morning with no plan and somehow end up at a vinyl record shop by 10am, eating sourdough toasties in a converted warehouse by 11, and sitting on the Lomond Hotel's beer garden lawn by 2pm with a cold pint while some band you've never heard of plays a set that absolutely rips.
@@ -18,7 +19,6 @@ Brunswick East doesn't shout about itself. It doesn't need to. While Brunswick's
 
 Here's your weekend sorted — no group chat negotiations required.
 
----
 
 ## Saturday Morning: Feed Your Face
 
@@ -28,7 +28,6 @@ If Wild Life is heaving (it usually is by 9:30 on weekends), walk five minutes e
 
 Alternatively, **Sani** on Lygon Street has the best bones of any café in the area — soaring ceilings, arched windows, and a menu that bounces between Turkish eggs, Japanese omurice, and a pour-over station for the serious coffee heads. It's globe-trotting brunch done right, and it's one of those places where the vibe shifts depending on when you go: quiet weekday mornings versus buzzing weekend chaos.
 
----
 
 ## Saturday Arvo: Wander and Discover
 
@@ -40,7 +39,6 @@ If you're with kids, **Gilpin Park** on the south side has the playground sorted
 
 **Insider tip:** Park on Edwardes Street, not Lygon. The meters are cheaper, it's a two-minute walk to everything, and you won't spend half your morning circling for a spot.
 
----
 
 ## Saturday Arvo: Pubs and Breweries
 
@@ -50,7 +48,6 @@ For something lower-key, **The Lomond Hotel** at 225 Nicholson Street is a Bruns
 
 If you want to bar-hop toward [Brunswick](/brunswick/) proper, the walk down Nicholson Street to Sydney Road takes about 15 minutes and passes through some solid territory. You'll hit **The Cornish Arms** and **The Brunswick Green** on the way — both reliable for a cold pint and a parma.
 
----
 
 ## Saturday Night: Eat, Drink, Be Local
 
@@ -62,7 +59,6 @@ For drinks, **Bahama Gold** on Lygon Street is one of Melbourne's most fun wine 
 
 **Old Palm Liquor**, the sibling of Neighbourhood Wine, is perfect for a lower-key Saturday night — open fire, rotating share plates, easy-drinking wines. It's cool and comfortable in a way that very few bars pull off without looking like they're trying.
 
----
 
 ## Sunday: Slow Down, Do It Again
 
@@ -70,7 +66,6 @@ Sunday in Brunswick East is about doing the Saturday hits on repeat, just slower
 
 If you're up for it, the walk from Brunswick East through to [Carlton North](/carlton-north/) along the Merri Creek trail is a lovely way to spend a Sunday arvo. You'll end up near Lygon Street in Carlton North where you can grab a gelato and pretend you're in Italy for thirty seconds before the tram rumbles past and brings you back to reality.
 
----
 
 ## Getting There and Getting Home
 
@@ -78,7 +73,6 @@ Brunswick East is on the 1 tram route (Sydney Road) and well-served by buses alo
 
 Late-night transport: rideshare is your best bet after 11pm. The area is well-lit along Lygon Street and Nicholson Street, but the quieter residential streets east of Nicholson can feel a bit isolated solo — stick to the main roads if you're walking.
 
----
 
 ## The Bottom Line
 
@@ -86,7 +80,6 @@ Brunswick East is the suburb that reminds you why Melbourne's inner north is spe
 
 **Your Brunswick East Vibe Score this week: 78/100** — Autumn is prime time here. Get around it.
 
----
 
 ## Related Reading
 

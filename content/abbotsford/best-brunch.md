@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Abbotsford — 2026 Local Guide"
 cover_image: "/images/abbotsford/best-brunch.jpg"
+---
+
 suburb: "abbotsford"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best brunch in Abbotsford. Our verified 2026 guide covers the best spots for locals."
 tags: ["abbotsford"]
 categories: ["best"]
----
 # Best Brunch in Abbotsford — Where the Inner East Eats on Weekends
 
 Abbotsford brunch is one of Melbourne's best-kept open secrets. While the world flocks to [Fitzroy](/suburbs/fitzroy/) for the instagrammable avocado toast and [Richmond](/suburbs/richmond/) for Victoria Street's Vietnamese breakfast scene, Abbotsford quietly serves some of the most interesting weekend eating in the inner city — without the hour-long waits or the influencer tripods.
@@ -20,7 +21,6 @@ If you've been sleeping on Abbotsford's weekend food, it's time to wake up. Here
 
 **Last updated: 16 March 2026** | **Abbotsford Vibe Score: 81/100** 🟢
 
----
 
 ## 1. The Farm Cafe
 **The vibe:** Saturday morning at a country farm, except you're 4km from the CBD
@@ -34,7 +34,6 @@ The menu reads like someone raided a genuinely good farm gate and turned it into
 **Hours:** Daily, 8am–3pm
 **Insider tip:** Arrive before 9:30am on weekends and you'll beat the family crowd. After 10am, it fills up with parents using the Convent's playground as a babysitter — which is honestly a genius move. Grab a table in the garden if the weather's cooperating. The walk through the Convent grounds from Victoria Street is gorgeous in autumn.
 
----
 
 ## 2. Frankie Says
 **The vibe:** Italian brunch that makes you want to book a flight to Rome
@@ -48,7 +47,6 @@ What makes Frankie's brunch work so well is the balance between substance and in
 **Hours:** Daily, 8am–4pm
 **Insider tip:** The courtyard catches beautiful morning light until about 11am, then shifts to dappled shade — perfect for a long, lazy session. Weekdays are blissfully quiet. On weekends, the brunch crowd from [Fitzroy](/suburbs/fitzroy/) spills over here, so book ahead or arrive before 10. The house-made pasta at lunch is criminally underrated if you stay past noon.
 
----
 
 ## 3. Cam's Kiosk
 **The vibe:** The neighbourhood spot that does everything without trying too hard
@@ -62,7 +60,6 @@ The brunch menu leans into hearty, satisfying territory: think proper toasties w
 **Hours:** Daily, 7am–late
 **Insider tip:** Cam's courtyard has views over the Abbotsford Convent — it's one of the most underrated outdoor brunch spots in the inner east. Come on a weekday morning and you'll have the whole thing to yourself. The natural wine list kicks in around lunchtime if your brunch runs long (and it should).
 
----
 
 ## 4. CafeKaede
 **The vibe:** Tokyo morning market by way of Abbotsford
@@ -76,7 +73,6 @@ The tiny space has about eight seats and the kind of intimate energy that makes 
 **Hours:** Wed–Mon, 8am–3pm
 **Insider tip:** They sell out early on weekends — by noon, the menu is often reduced to whatever's left. Go before 10am for the full experience. There's no booking, and the queue starts around 9am on Saturdays. Worth the wait.
 
----
 
 ## 5. JC Patisserie Boulangerie
 **The vibe:** A Parisian morning you can have on Victoria Street
@@ -90,7 +86,6 @@ The croissants are the main event. Laminated with the kind of precision that sug
 **Hours:** Thu–Mon, 7:30am–3pm
 **Insider tip:** The croissants come out fresh in batches from 7:30am. The first batch is the best — buttery, golden, and still warm. By 11am, they're on their third rotation and still good, but that first-batch magic is something else. Buy extra. You'll regret not having more.
 
----
 
 ## 6. Studley Park Boathouse Cafe
 **The vibe:** Lakeside brunch that feels like a day trip without leaving the suburb
@@ -104,7 +99,6 @@ The food is cafe-standard but make betterd by the setting. Breakfasts are solid 
 **Hours:** Daily, 8:30am–4:30pm
 **Insider tip:** Book a kayak or canoe from the boachhire before brunch and work up an appetite on the river. The morning light on the water before 10am is stunning. On weekdays, it's practically empty — just you, the rowers, and the occasional heron. Also, the afternoon cheese and wine sessions are a secret worth keeping.
 
----
 
 ## The Bottom Line
 
@@ -116,12 +110,10 @@ Don't sleep on the surrounding suburbs either. Our guides to [best brunch in Col
 
 **Your Abbotsford Vibe Score this week: 81/100** — Solid. Weekend brunch culture is a major asset here, and the Convent precinct keeps delivering.
 
----
 
 *Know a spot we missed? [Drop us a tip.](/submit-tip)*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ## 📌 More From Abbotsford
 - [Best Coffee in Abbotsford](/suburbs/abbotsford/best-coffee/)

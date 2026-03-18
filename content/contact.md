@@ -3,15 +3,15 @@ title: "Contact MELBZ"
 description: "Get in touch with MELBZ for editorial enquiries, business listings, or advertising."
 date: 2026-03-18
 author: "Daniel Ebiau"
+---
+
 noAds: true
 tags: ["melbourne"]
 categories: ["general"]
----
 # Contact MELBZ
 
 Get in touch with Melbourne's suburb experts. We read every email and aim to respond within 24-48 hours.
 
----
 
 ## General Enquiries
 
@@ -19,7 +19,6 @@ Get in touch with Melbourne's suburb experts. We read every email and aim to res
 
 For all general enquiries, partnerships, or just to say g'day — this is the best place to start.
 
----
 
 ## Contact Form
 
@@ -60,7 +59,6 @@ For all general enquiries, partnerships, or just to say g'day — this is the be
 
 *Note: Replace "YOUR_WEB3FORMS_ACCESS_KEY" with your actual Web3Forms access key.*
 
----
 
 ## Enquiry Categories
 
@@ -87,7 +85,6 @@ For all general enquiries, partnerships, or just to say g'day — this is the be
 - Request update to outdated information
 - Dispute content you believe is inaccurate
 
----
 
 ## Response Times
 
@@ -99,7 +96,6 @@ For all general enquiries, partnerships, or just to say g'day — this is the be
 | Advertising enquiries | 2-3 business days |
 | Correction requests | 48-72 hours |
 
----
 
 ## Other Ways to Connect
 
@@ -110,7 +106,6 @@ For all general enquiries, partnerships, or just to say g'day — this is the be
 
 **Subscribe to our newsletter** for weekly suburb briefings delivered to your inbox every Monday at 6AM AEST.
 
----
 
 ## Mailing Address
 

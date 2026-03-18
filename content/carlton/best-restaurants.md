@@ -1,6 +1,8 @@
 ---
 title: "14 Best Restaurants in Carlton You Need to Try in 2026"
 cover_image: "/images/carlton/best-restaurants.jpg"
+---
+
 suburb: "carlton"
 vertical: "lifestyle"
 author: "jules"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best restaurants in Carlton for 2026 — from legendary Italian to fine dining, Mexican, and ramen. Real venues, real prices, honest opinions."
 tags: ["carlton"]
 categories: ["best"]
----
 # 14 Best Restaurants in Carlton You Need to Try in 2026
 
 Carlton is Melbourne's original food neighbourhood, and in 2026 it's still one of the city's best. The Italian heritage runs deep — this is where Melbourne's restaurant culture was born, thanks to the wave of post-war Italian immigration that turned Lygon Street into a culinary legend. But Carlton in 2026 is so much more than pasta and pizza. Japanese fine dining, Mexican cantinas, Indonesian street food, Lebanese feasts, and modern Australian bistros all sit alongside the old-school trattorias, creating a dining scene that's as diverse as it is consistently excellent.
@@ -18,7 +19,6 @@ This guide covers the 14 best restaurants in Carlton — the ones worth dressing
 
 **Last updated: 17 March 2026** | **Carlton Vibe Score: 87/100** 🟢
 
----
 
 ## 1. Kazuki's
 **The vibe:** Euro-Japanese fine dining that justifies every dollar — the most exciting tasting menu in Carlton
@@ -31,7 +31,6 @@ Kazuki's made the move from Daylesford to Lygon Street in 2018 and has since cem
 **Price range:** $150–$200pp for the full experience
 **Insider tip:** Book at least two weeks ahead for weekend sittings. The counter seats near the kitchen give you a front-row view of the action — request them when booking.
 
----
 
 ## 2. Scopri
 **The vibe:** Piedmont-inspired fine dining with white tablecloths and the warmest hospitality in Carlton
@@ -44,7 +43,6 @@ Don't let the white tablecloths fool you. Scopri is about as stuffy as a Sunday 
 **Price range:** $45–$80pp à la carte
 **Insider tip:** Tell the staff your budget and your preferences and let them build your meal. They're brilliant at reading the room and the recommendations are always spot-on.
 
----
 
 ## 3. Capitano
 **The vibe:** Italian-American mashup from the Bar Liberty crew — Detroit-style pizza squares and cocktails that have no right being this good
@@ -57,7 +55,6 @@ Capitano straddles the Carlton/Carlton North border on Rathdowne Street and has 
 **Price range:** $20–$45pp
 **Insider tip:** The walk-in bar area serves the full menu and is usually easier to get into than the dining room. Grab a stool, order two cocktails, and share a pizza. You won't regret it.
 
----
 
 ## 4. Al Dente Enoteca
 **The vibe:** Born from lockdown hustle, now a swish wine bar and restaurant serving some of Melbourne's best pasta
@@ -70,7 +67,6 @@ Al Dente Enoteca started as a pasta delivery service during COVID — a stood-do
 **Price range:** $30–$55pp
 **Insider tip:** The lunch service is the under the radar. Same food, half the crowd, and natural light streaming through the windows. Perfect for a slow weekday feed.
 
----
 
 ## 5. DOC Pizza & Mozzarella Bar
 **The vibe:** Pizza the way Italians actually eat it — simple, brilliant, and packed with locals every night of the week
@@ -83,7 +79,6 @@ DOC on Drummond Street is a Carlton institution, and the reason is simple: the p
 **Price range:** $18–$35pp
 **Insider tip:** If the wait is long, grab a drink at the bar and order from there. The front counter also does a quick espresso-and-pastry service if you need a pre-dinner caffeine hit.
 
----
 
 ## 6. Di Stasio Pizzeria
 **The vibe:** When a legendary restaurateur starts making pizza, people pay attention — and they should
@@ -96,7 +91,6 @@ Rinaldo Di Stasio is a name that carries serious weight in Melbourne dining. Whe
 **Price range:** $25–$55pp
 **Insider tip:** The courtyard in autumn, with a bottle of Italian red and the lobster pie, is as good as Carlton dining gets. Book ahead for outdoor tables.
 
----
 
 ## 7. Abla's
 **The vibe:** Generations of Lebanese-Australian comfort food — Melbourne's most beloved Lebanese restaurant
@@ -109,7 +103,6 @@ Abla's has been feeding Carlton for decades, and the food and atmosphere haven't
 **Price range:** $25–$45pp
 **Insider tip:** This is a "bring everyone" restaurant. Tables of six or more get the full family-style experience. Order everything, share it all, thank me later.
 
----
 
 ## 8. Taquito
 **The vibe:** Proper Mexican food with hand-made tortillas, house-grown chillies, and a mezcal bar attached
@@ -122,7 +115,6 @@ Taquito is the real deal. The team makes their own tortillas, grows their own ch
 **Price range:** $20–$40pp
 **Insider tip:** The outdoor tables on Lygon Street are prime real estate on warm evenings. Arrive by 6pm to grab one without a booking.
 
----
 
 ## 9. Hakata Gensuke Carlton
 **The vibe:** Gold-standard Hakata-style tonkotsu ramen without the original's eye-watering queue
@@ -135,7 +127,6 @@ Hakata Gensuke set the standard for ramen in Melbourne with their original locat
 **Price range:** $16–$28
 **Insider tip:** Go on a cold, rainy Melbourne evening. A bowl of tonkotsu ramen in those conditions is genuinely life-affirming.
 
----
 
 ## 10. Lagoon Dining
 **The vibe:** Modern Chinese with a focus on technique and flavour — the black granite bar seats are the best in the house
@@ -148,7 +139,6 @@ Lagoon Dining is one of Carlton's most exciting newer arrivals. The menu draws f
 **Price range:** $30–$50pp
 **Insider tip:** The set menu is the best way to experience Lagoon if it's your first time. Let the chef decide.
 
----
 
 ## 11. Panda Hot Pot
 **The vibe:** DIY hot pot under the watchful eye of a 1.5-tonne steel dragon — Australia's first outpost of the international chain
@@ -161,7 +151,6 @@ Panda Hot Pot brought China's fiery hot pot tradition to Carlton with an impress
 **Price range:** $30–$55pp
 **Insider tip:** Wear clothes you don't mind smelling like hot pot. The spicy broth is fragrant and clings. Worth it.
 
----
 
 ## 12. Tiamo Coffee
 **The vibe:** The original Lygon Street institution — parmigiana the size of a basketball and pasta that hasn't changed since the '70s (because it doesn't need to)
@@ -174,7 +163,6 @@ Tiamo is where Melbourne's Italian dining tradition is on full display. The chec
 **Price range:** $18–$35
 **Insider tip:** Queue moves fast despite looking daunting. If you're a party of two, you'll usually get seated within 10 minutes even on a Saturday.
 
----
 
 ## 13. Cinta
 **The vibe:** Indonesian street food done properly — nasi goreng, satay, and a halal-friendly menu that's a welcome change from the usual
@@ -187,7 +175,6 @@ Cinta fills a gap in Carlton's dining scene that you didn't know existed until y
 **Price range:** $12–$25
 **Insider tip:** The grocery section is worth browsing even if you're not cooking Indonesian food — the krupuk (prawn crackers) and sambal oelek are excellent.
 
----
 
 ## 14. Super Norma
 **The vibe:** Big nonna energy — rigatoni in ragu, Italo-disco on the speakers, and two owners who'd rather chat than serve
@@ -200,7 +187,6 @@ Super Norma is the kind of neighbourhood pasta joint that makes you feel like yo
 **Price range:** $22–$38pp
 **Insider tip:** The specials board is where the magic happens. Ask what's new and go with their recommendation — they won't steer you wrong.
 
----
 
 
 ## Venue Addresses & Details
@@ -219,13 +205,11 @@ If you only have one dinner in Carlton, make it **Scopri** for the classic exper
 
 **Your Carlton Vibe Score this week: 87/100** — Melbourne's original food neighbourhood, still the best.
 
----
 
 *Know a spot we missed? [Let us know.](/submit)*
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ## 🔗 Related Reading
 
@@ -236,7 +220,6 @@ If you only have one dinner in Carlton, make it **Scopri** for the classic exper
 - [Carlton Neighbourhood Guide](/carlton/neighbourhood-guide)
 - [What's On in Fitzroy](/fitzroy)
 
----
 
 ## 📊 Quick Stats
 

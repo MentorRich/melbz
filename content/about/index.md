@@ -3,14 +3,14 @@ title: "About MELBZ"
 description: "Melbourne's hyperlocal suburb intelligence platform. 321 suburbs. Real venues, real prices, real opinions."
 date: 2026-03-18
 author: "Daniel Ebiau"
-noAds: true
 ---
+
+noAds: true
 
 # About MELBZ
 
 Melbourne's hyperlocal suburb intelligence platform. We cover 321 suburbs with opinionated, data-backed guides written by people who actually live here.
 
----
 
 ## Leadership
 
@@ -24,7 +24,6 @@ Daniel's background is in digital operations and technology. He runs MELBZ as th
 
 **Contact:** [hq@melbz.com.au](mailto:hq@melbz.com.au
 
----
 
 ## Editorial Team
 
@@ -59,7 +58,6 @@ Our team of 20+ local experts covers specific suburbs and specialties including:
 
 Each MELBZ article is researched, written, and fact-checked by someone who knows Melbourne firsthand.
 
----
 
 ## About Axior Labs
 
@@ -69,7 +67,6 @@ Axior Labs owns and operates a portfolio of digital ventures focused on content,
 
 For business enquiries: [hq@melbz.com.au](mailto:hq@melbz.com.au
 
----
 
 ## Related Articles
 

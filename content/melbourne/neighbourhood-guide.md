@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/neighbourhood-guide.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "Discover the neighbourhood guide in Melbourne. Our verified 2026 guide covers the best spots for locals."
 tags: ["melbourne"]
 categories: ["neighbourhood"]
----
 # Neighbourhood Guide to Melbourne — 2026
 
 Melbourne's CBD isn't one neighbourhood. It's a patchwork of micro-precincts, each with its own personality, its own crowd, and its own unspoken rules. Get the postcode wrong and you'll end up in a $38 cocktail bar when you wanted a $7 pot at the pub. Walk one block too far east and you've crossed from "cosy laneway dining" into "corporate happy hour territory." The difference between Degraves Street and Hardware Lane isn't just geography — it's a statement about what kind of afternoon you're after.
@@ -18,7 +19,6 @@ This guide maps the CBD's real neighbourhoods — the laneways, the strips, the 
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. The Laneways — Degraves, Centre Place, and Hardware Lane
 
@@ -32,7 +32,6 @@ This guide maps the CBD's real neighbourhoods — the laneways, the strips, the 
 
 **Insider tip:** Degraves on a Monday morning is a completely different street than Degraves on a Saturday afternoon. If you want the laneway experience without the crowd, go early on a weekday. If you want the buzz, Saturday lunch is peak chaos — and that's the point.
 
----
 
 ## 2. Chinatown and Little Bourke Street
 
@@ -46,7 +45,6 @@ Further up toward Exhibition Street, **Chin Chin** (okay, it's technically on Fl
 
 **Insider tip:** The best cheap lunch in all of Chinatown isn't on Little Bourke — it's on the parallel Little Collins Street side. **Supernormal** does a $20 duck bao lunch set that's a genuinely absurd deal for the quality. Arrive by 12:15 or join the queue.
 
----
 
 ## 3. Flinders Lane and the Rag Trade Precinct
 
@@ -60,7 +58,6 @@ For food, **Tipo 00** on Little Bourke (just off Flinders Lane) does handmade pa
 
 **Getting there:** Flinders Street Station is the obvious access point. If you're coming from the north, walk down Bourke Street and cut across at any of the laneways — the walk itself is half the experience.
 
----
 
 ## 4. The East End — Bourke Street Mall to Spring Street
 
@@ -72,7 +69,6 @@ The **Parliament House steps** overlooking Spring Street are one of Melbourne's 
 
 **Insider tip:** The walk from Parliament Station to the theatres along Spring Street is one of the most underrated architecture walks in Melbourne. The Victorian-era buildings, the trees, the sense of space — it doesn't feel like you're in a CBD at all. Do this walk in autumn when the trees on Spring Street turn gold. You'll feel like you're in a film.
 
----
 
 ## 5. The West End — Flagstaff to Queen Victoria Market
 
@@ -86,7 +82,6 @@ The **Docklands** sits just west of the market, and... look, Docklands is Dockla
 
 **Getting home:** Flagstaff Station is right there. It's a quieter station than Flinders Street, which means less crowds on the way home — especially after events at the market.
 
----
 
 ## 6. South of the Yarra — Southbank and the Arts Precinct
 
@@ -96,7 +91,6 @@ The **Docklands** sits just west of the market, and... look, Docklands is Dockla
 
 **Crown Casino** sits at the southern end of Southbank, and whether you go is your business. But the **Riverwalk** behind Crown, stretching from Southbank to the Webb Bridge, is one of Melbourne's best evening walks — especially in winter when the city lights reflect off the Yarra and you can convince yourself the river isn't as brown as it actually is.
 
----
 
 ## Neighbourhood Quick Reference
 
@@ -109,7 +103,6 @@ The **Docklands** sits just west of the market, and... look, Docklands is Dockla
 | West End / Queen Vic Market | Fresh produce, market food, budget eats | $2.50–$20 | Saturday mornings, Wed nights (summer) |
 | Southbank | River walks, arts, live events | $10–$40 | Evenings |
 
----
 
 ## Getting Around the CBD
 
@@ -123,7 +116,6 @@ Melbourne's CBD is walkable — you can cross it end to end in about 25 minutes.
 - **Parliament Station:** Best for the east end and the theatres.
 - **Walking:** The best way to see the CBD. Every laneway you miss is a story you'll never hear.
 
----
 
 ## Related Guides
 
@@ -134,13 +126,11 @@ Melbourne's CBD is walkable — you can cross it end to end in about 25 minutes.
 - [Neighbourhood Guide to South Yarra](/south-yarra/neighbourhood-guide/) — Chapel Street's glamour and grit
 - [Transport Guide to Melbourne](/melbourne/transport-guide/) — Myki, trams, trains, and how to not get lost
 
----
 
 ## Living in Melbourne? Compare and Save
 
 Living in Melbourne? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=melbourne)
 
----
 
 > **Know your neighbourhood better than we do?** [Rate your suburb](/rate) or [submit a tip](/submit) — MELBZ is community-powered, and the locals always know more than the guide.
 

@@ -5,12 +5,17 @@ date: 2026-03-16
 author: yuki
 tags: ["richmond", "asian", "food"]
 categories: ["food"]
-description: "Best Asian Food in Richmond 2026: Victoria Street & Beyond
+description: "Best Asian Food in Richmond 2026: Victoria Street & Beyond"
+---
 
-Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
+**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
+
+
 
 Richmond doesn't whisper about i..."
----
+
+*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
+
 # Best Asian Food in Richmond 2026: Victoria Street & Beyond
 
 *Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
@@ -19,7 +24,6 @@ Richmond doesn't whisper about its Asian food scene. It shouts. Victoria Street 
 
 I walked the strip over three weekends, ate at seven places, and ranked them on taste, value, atmosphere, and that intangible thing — the reason you'd drag a mate from [Collingwood](/collingwood/best-brunch) across the river for it. Here's what made the cut.
 
----
 
 ## 1. Pho Hung Vuong 2 — The Broth That Started It All
 
@@ -33,7 +37,6 @@ The beef phở ($12–$16) is the main event — thin-sliced raw beef that cooks
 
 **Good to know:** Cash preferred, though they've recently added card payments. Open daily from 9am to 9:30pm. No bookings — just rock up and squeeze in.
 
----
 
 ## 2. Thy Thy Counter & Canteen — The Dynasty Returns
 
@@ -47,7 +50,6 @@ The menu leans into share plates alongside the classics. The bánh xèo (crispy 
 
 **Good to know:** Open Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 11am–9pm. They take reservations for groups, but walk-ins are usually fine on weeknights.
 
----
 
 ## 3. Van Mai — The End-of-the-Strip Legend
 
@@ -61,7 +63,6 @@ The menu is enormous. Phở, bún, cơm, rice paper rolls, spring rolls, stir-fr
 
 **Good to know:** Open six days, closed Tuesdays. Lunch 11am–3pm, dinner 5pm–10pm. No-frills decor — you're here for the food, not the lighting.
 
----
 
 ## 4. Pacific Seafood BBQ House — The Cantonese Counterpoint
 
@@ -75,7 +76,6 @@ The BBQ duck and pork combination over fried rice ($15–$18) is a Richmond clas
 
 **Good to know:** Always busy at lunchtime on weekends. Just point at the roast meats in the window and tell them how you want it. They're also on most delivery apps, but the food travels better in person.
 
----
 
 ## 5. Hanoi Hannah New Quarter — Modern Vietnamese Done Right
 
@@ -89,7 +89,6 @@ The menu is larger than you'd expect. Classics like phở and bánh mì sit alon
 
 **Good to know:** Bookings recommended on weekends. They have a smaller express bar next door for quick takeaway. Licensed venue.
 
----
 
 ## 6. Quan 88 — The Locals' Secret
 
@@ -103,7 +102,6 @@ The menu covers the expected territory — phở, bún, cơm, rice paper rolls �
 
 **Good to know:** Open until 10pm weeknights, 11pm Fri–Sat. BYO-friendly — check the policy, but they've historically allowed it. Cash is king, though cards are increasingly accepted.
 
----
 
 ## Honourable Mentions
 
@@ -111,7 +109,6 @@ The menu covers the expected territory — phở, bún, cơm, rice paper rolls �
 
 **Maedaya** (400 Bridge Road) — This Japanese izakaya has been a Bridge Road fixture since 2007. The sake list is extensive, the grilled skewers are solid, and the iPad ordering system (years ahead of its time) still works well. Worth checking current hours before visiting.
 
----
 
 ## What We Skipped and Why
 
@@ -123,7 +120,6 @@ The menu covers the expected territory — phở, bún, cơm, rice paper rolls �
 
 **Thai.** Same logic. Richmond's Thai restaurants are decent, but if you want the best Thai in Melbourne, the inner-northern suburbs and [Collingwood](/collingwood/asian-food) have stronger concentrations.
 
----
 
 ## How to Do a Victoria Street Food Crawl
 
@@ -137,7 +133,6 @@ Start at the western end (near Church Street) and walk east. Budget about three 
 
 Total cost for the crawl: roughly $60–$80 per person if you're sharing everything. Cheaper than most Melbourne degustations and significantly more memorable.
 
----
 
 ## The Bigger Picture
 
@@ -147,11 +142,9 @@ The strip is under pressure — rising rents, changing demographics, the slow cr
 
 Eat there. Pay full price. Don't ask for substitutions. And if you're comparing it to the Asian food in [South Yarra](/south-yarra/best-asian) — stop. Richmond does its own thing, and it does it better.
 
----
 
 **Still hungry?** Check our guides to [Cremorne's dining scene](/cremorne/best-dining), [Collingwood's Asian food](/collingwood/asian-food), and [South Yarra's best restaurants](/south-yarra/best-restaurants) for more Melbourne eating.
 
----
 
 *Yuki Tanaka is MELBZ's Asian Food Editor. She has eaten her way through every major Asian food strip in Melbourne and believes the best meal is always the one you didn't plan. Follow her picks on Instagram @melbzfood.*
 

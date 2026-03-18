@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in St Kilda — 2026 Local Guide"
 cover_image: "/images/st-kilda/nightlife-guide.jpg"
+---
+
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the nightlife guide in St Kilda. Our verified 2026 guide covers the best spots for locals."
 tags: ["st-kilda"]
 categories: ["nightlife"]
----
 ## The Best Nightlife Guide in St Kilda
 
 St Kilda at night is a different suburb. The daytime café crowd and pram-pushing families give way to something more charged — the Espy lights up, the Fitzroy Street pubs fill, and Acland Street takes on a neon-tinged energy that feels closer to a European quarter than an Australian beachside suburb. It's not Melbourne's loudest nightlife destination (that's still CBD and Collingwood), but it is one of its most atmospheric.
@@ -18,7 +19,6 @@ St Kilda's nightlife geography splits into distinct zones. The **Fitzroy Street 
 
 This is your verified 2026 guide to going out in St Kilda, from the early-evening wine bar to the 2am kebab.
 
----
 
 ### The Early Evening: Pre-Game and Wine
 
@@ -30,7 +30,6 @@ The best nights in St Kilda start early. Between 5pm and 8pm, the suburb has a g
 
 **Baked.** (67 Fitzroy Street) closes by 4pm so technically not nightlife, but worth mentioning as a pre-game stop if you want to grab a sourdough loaf and some cultured butter to take home for late-night snacking. This is a deeply underrated move — good bread, good butter, a glass of wine at home between the bar and the club. St Kilda locals know.
 
----
 
 ### The Main Event: Pubs and Bars
 
@@ -52,7 +51,6 @@ The **Main Bar** hosts live music most nights — local and touring acts, no cov
 
 **Luna Park** (12A Jacka Boulevard) — hear us out. The park itself closes around 5–6pm depending on the season, but the forecourt area and the surrounding Jacka Boulevard space is a stunning night-time walk. The illuminated face of Luna Park reflecting off the bay is one of Melbourne's most iconic night-time views. Zero cost. Not a bar, but a mandatory stop on any St Kilda night out. Walk the pier afterward and you might catch the penguins at the breakwater if the season's right.
 
----
 
 ### Late Night: After 11pm
 
@@ -66,7 +64,6 @@ St Kilda's late-night options are limited compared to the CBD, but what exists i
 
 **Late-night food on Fitzroy Street** is patchy. A few kebab shops and pizza joints operate near the top of the street, but quality is inconsistent. Your best bet is Hot Chicken Project or grabbing something on the tram through **South Melbourne** on the way home. There's a late-night dumpling spot on Carlisle Street that locals know about but we'll keep that between us.
 
----
 
 ### Live Music and Events
 
@@ -78,7 +75,6 @@ St Kilda has a live music history that most Melbourne suburbs can't match. The E
 
 **Loretta's** (397 Bay Street) — Not a music venue, but they occasionally host acoustic sets and spoken word events on weeknights. Check their Instagram. These tend to be low-key, free, and well-attended by the Bay Street regulars.
 
----
 
 ### Getting Home Safe
 
@@ -96,7 +92,6 @@ St Kilda is well-connected for getting home after a night out, but the options t
 
 **Safety note:** Fitzroy Street after midnight can get rowdy, particularly on the strip between the Espy and the Prince. Security presence increases on weekends. If you need help, the Espy has on-site security and St Kilda Police Station is at 330河畔 Street, a short walk away. If you or someone you're with needs help, call 000.
 
----
 
 ### What We Skipped and Why
 
@@ -108,7 +103,6 @@ St Kilda is well-connected for getting home after a night out, but the options t
 
 **Pokies rooms** — They exist. They're in some of the bigger pubs. They're not nightlife in any meaningful sense and they actively make the experience worse. Skip them.
 
----
 
 ### Nearby Guides Worth Reading
 
@@ -118,11 +112,9 @@ St Kilda is well-connected for getting home after a night out, but the options t
 
 > **📊 MELBZ POLL** — St Kilda's best night out starts at: Espy front bar | Limbo cocktails | Prince rooftop | Borsch vodka flight
 
----
 
 *Last verified March 2026. Opening hours and cover charges change — always check before you head out.*
 
----
 
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
 

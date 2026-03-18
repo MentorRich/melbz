@@ -5,12 +5,17 @@ date: 2026-03-16
 author: marcus
 tags: ["richmond", "rent", "property"]
 categories: ["property"]
-description: "Rent Prices in Richmond 2026: Swan Street & Beyond
+description: "Rent Prices in Richmond 2026: Swan Street & Beyond"
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 Richmond in 2026 is the suburb where footy fans, foodies, ..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Rent Prices in Richmond 2026: Swan Street & Beyond
 
 *Updated 16 March 2026 | Marcus Cole reporting*
@@ -155,7 +160,6 @@ If you're comparing it to South Yarra, you'll save money and arguably have more 
 
 *For more on what it costs to live in this suburb, check our [Richmond cost of living guide](/richmond/cost-of-living). For a wider look at inner Melbourne, browse our [suburb comparisons](/suburbs).*
 
----
 
 **Marcus Cole** covers property and rental markets for MELBZ. He has spent 12 years writing about Melbourne real estate and still can't believe what a parking space costs in Cremorne. Have a tip or a question? Marcus reads everything.
 

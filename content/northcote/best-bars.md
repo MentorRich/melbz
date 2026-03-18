@@ -1,6 +1,8 @@
 ---
 title: "Best Bars in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/best-bars.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "jess"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best bars in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["best"]
----
 # The Best Bars in Northcote — 2026 Edition
 
 **Updated 16 March 2026 | Jess reporting**
@@ -18,7 +19,6 @@ Northcote's bar scene is what happens when a suburb refuses to be one thing. You
 
 If you're looking for bottle service and velvet ropes, you're in the wrong suburb. If you want a $10 glass of something interesting, a seat at the bar where the bartender actually knows what they're pouring, and a night that doesn't require a spreadsheet to plan — welcome to Northcote.
 
----
 
 ## 1. Bar Democracy — The Natural Wine Bar for Normal People
 
@@ -40,7 +40,6 @@ The food is small plates that actually complement the wine: a cheese and charcut
 
 **Open Loop → Bar Democracy to [Thornbury's best bars](/thornbury/best-bars) is a 10-minute walk north and a perfect way to extend the evening.**
 
----
 
 ## 2. Northcote Social Club — The Room Where It Happens
 
@@ -58,7 +57,6 @@ On non-gig nights, the front bar has a particular magic: quiet enough to have a 
 
 **Insider tip:** The outdoor area behind the bar is small but gets the evening sun in summer. If you're there on a warm Friday evening, it's one of the best spots on High Street.
 
----
 
 ## 3. The Union Hotel — The Unrenovated Legend
 
@@ -76,7 +74,6 @@ The pool table in the back is free (just grab a cue from the rack), the TAB corn
 
 **Insider tip:** Friday arvo from 4pm is peak Union. The after-work crowd filters in, the schooners flow, and the whole thing feels like the pub scenes in Australian films — except it's real and nobody's acting.
 
----
 
 ## 4. Croxton Park Hotel — The Pub That Grew Up (Without Growing Boring)
 
@@ -94,7 +91,6 @@ The beer garden deserves its own paragraph. Covered and heated in winter, open t
 
 **Insider tip:** The front bar (inside, not the bistro) is the locals' zone. It's cheaper, less busy, and has the kind of low-key energy where you can nurse a pint and read a book without anyone giving you weird looks.
 
----
 
 ## 5. Bar Oussou — The Live Music under the radar
 
@@ -112,7 +108,6 @@ Live music runs Thursday through Saturday, with a focus on Afrobeat, highlife, a
 
 **Insider tip:** Thursday nights are the best kept secret in Northcote's music scene. The crowd is smaller, the band tends to be more experimental, and you can actually get a seat at the bar. Arrive at 7pm before the post-work crowd filters in.
 
----
 
 ## Bar Crawl: The Northcote Strip in One Night
 
@@ -125,7 +120,6 @@ If you want to hit the essentials in a single evening, here's the route:
 
 Total budget: approximately $70–$90 depending on your pace. That's a full night out in Melbourne's inner north for less than the cover charge at some CBD clubs.
 
----
 
 **POLL: What's your bar priority?**
 
@@ -137,7 +131,6 @@ Total budget: approximately $70–$90 depending on your pace. That's a full nigh
 
 *Vote and tell us your go-to @melbzcomau with #NorthcoteBars*
 
----
 
 **NEIGHBOURING SUBURBS: Extend the Bar Hop**
 
@@ -147,7 +140,6 @@ Total budget: approximately $70–$90 depending on your pace. That's a full nigh
 - 🍷 [Best Bars in Fitzroy North](/fitzroy-north/best-bars) — "Smith Street and the surrounds — a different energy"
 - 🍷 [Best Bars in Brunswick](/brunswick/best-bars) — "Sydney Road and beyond — the inner-north's most diverse bar scene"
 
----
 
 **CONFESSION BOX 🗣️**
 
@@ -155,7 +147,6 @@ Total budget: approximately $70–$90 depending on your pace. That's a full nigh
 
 The winner: "A woman ordered a flat white at 11pm on a Friday night. When I told her we didn't serve coffee, she looked genuinely confused and said, 'But this is a bar?' She could not process the concept of a venue that didn't serve coffee. She's a Northcote local. Of course she is."
 
----
 
 **Living in Northcote? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=northcote)**
 

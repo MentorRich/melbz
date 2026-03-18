@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide to Balaclava — 2026 Local Guide"
 cover_image: "/images/balaclava/neighbourhood-guide.jpg"
+---
+
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the neighbourhood guide to Balaclava. Our verified 2026 guide covers the best spots for locals."
 tags: ["balaclava"]
 categories: ["neighbourhood"]
----
 ## The Neighbourhood Guide to Balaclava
 
 Balaclava is Melbourne's best-kept-not-quite-secret suburb. It sits tucked between St Kilda East, Caulfield, and Elsternwick — too small to dominate a conversation, too good to ignore once you've found it. The whole suburb is roughly 600 metres of Carlisle Street, a Sandringham line train station, and a patchwork of residential streets that range from grand Victorian terraces to mid-century flats to the occasional brutalist apartment block that's aged better than it deserved.
 
 If you're considering Balaclava as a place to live, eat, or just hang out on a Saturday arvo, here's the full picture — including the stuff the tourism guides don't mention.
 
----
 
 ## The Suburb at a Glance
 
@@ -36,7 +36,6 @@ The rental market is tight. Vacancy rates across the City of Port Phillip sit we
 
 **The honest maths:** To rent comfortably in Balaclava on a single income, you're looking at needing roughly $85K–95K/year. On a dual income, a $1.2M house becomes viable at a combined household income of $200K+. That's steep, but it's the reality of buying 9km from the CBD in a suburb with a train station, good schools, and beach access.
 
----
 
 ## The History
 
@@ -46,7 +45,6 @@ The real story of Balaclava, though, is its Jewish community. From the mid-20th 
 
 Today, roughly 24% of Balaclava residents speak a language other than English at home, with Hebrew, Yiddish, Russian, and Greek among the most common. This linguistic diversity isn't a tourism pitch — it's the reality of a suburb where three generations of families live within walking distance of each other and the bakeries still sell challah by the armful on Friday mornings.
 
----
 
 ## Carlisle Street: The Spine
 
@@ -62,7 +60,6 @@ Here's the strip, roughly from east to west:
 
 Carlisle Street works because it hasn't been homogenised. There's no Westfield here, no Woolworths on the strip (the nearest is set back off the main road), and the retail mix is genuinely independent. Whether that charm survives the next decade of property development is anyone's guess, but for now, it's one of Melbourne's most characterful local strips.
 
----
 
 ## Living Here: The Practical Stuff
 
@@ -95,7 +92,6 @@ What you DO have:
 
 If parkland is a deal-breaker for you, Balaclava might not be the suburb. If you're the type who considers the beach a park, you'll be fine.
 
----
 
 ## The Neighbours
 
@@ -119,7 +115,6 @@ Caulfield also has a strong Jewish community presence, and the two suburbs share
 
 If you're choosing between Balaclava and Elsternwick to live: Balaclava has better train access and more character. Elsternwick has bigger blocks, quieter streets, and more room for families. Both are excellent choices for inner-south living.
 
----
 
 ## The Cost of Living
 
@@ -133,7 +128,6 @@ Beyond rent and mortgages, Balaclava is a reasonably affordable suburb for daily
 
 The cost of living crisis has hit Balaclava like everywhere else, but the suburb's mix of social enterprise (All Things Equal), long-standing family businesses (the bagel shops, the kosher bakeries), and genuinely independent operators means the price range is wider than you might expect. You can eat cheaply here if you want to, or you can spend $200 at Ilona Staller without trying. The choice is yours.
 
----
 
 ## The Vibe Check
 
@@ -149,7 +143,6 @@ Balaclava's vibe is hard to pin down because it's actually several vibes stacked
 
 The overall impression is of a suburb that knows exactly what it is and doesn't feel the need to perform for anyone. Balaclava doesn't do Instagram moments or influencer events. It does good bagels, solid coffee, and a train to the city in 25 minutes. That's the pitch, and it doesn't need to be anything more.
 
----
 
 ## Cross-Links
 

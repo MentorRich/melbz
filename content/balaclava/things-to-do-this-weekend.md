@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Balaclava — 2026 Local Guide"
 cover_image: "/images/balaclava/things-to-do-this-weekend.jpg"
+---
+
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "maya"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Balaclava. Our verified 2026 guide covers the best spots for locals."
 tags: ["balaclava"]
 categories: ["things"]
----
 ## The Best Things To Do This Weekend in Balaclava
 
 Balaclava doesn't scream for attention the way its louder neighbours do — St Kilda flogs itself on Instagram, Elsternwick clings to brunch culture, and Caulfield brags about its racecourse. Balaclava just quietly delivers, weekend after weekend, along a single strip that punches well above its weight.
 
 Carlisle Street is only about 600 metres long, but it packs in enough food, drink, and character to keep you busy from Saturday morning coffee to Sunday arvo wander. Here's how to spend a proper weekend in Balaclava without leaving the postcode — and where to detour into St Kilda East, Caulfield, and Elsternwick when you want a change of scenery.
 
----
 
 ## Saturday Morning: Brekkie and Coffee
 
@@ -26,7 +26,6 @@ If Monk Bodhi Dharma's wait is too long (it regularly hits 30–40 minutes on Sa
 
 Grab a seat outside if the weather cooperates. Melbourne in autumn means you might get 28 degrees and sunshine, or you might get sideways rain by lunch. Dress in layers and hope for the best.
 
----
 
 ## Late Morning: The Bagel Run
 
@@ -34,7 +33,6 @@ No weekend in Balaclava is complete without a bagel stop. **Lenz Bagels** (next 
 
 If you're more of a sweet tooth, the doughnuts at Lenz are worth the trip alone. Fresh, not too sweet, and about $3.50 each. You'll tell yourself you're buying one. You'll eat two.
 
----
 
 ## Midday: Saturday Market Stroll and Neighbourhood Wander
 
@@ -44,7 +42,6 @@ Walk east along Carlisle Street towards the Balaclava Hotel (built 1887, renovat
 
 If you want to extend the wander, head south on Hotham Street into **St Kilda East**. The residential streets here are gorgeous — wide, tree-lined, full of Victorian and Edwardian houses in various states of loving renovation. The **St Kilda Botanical Gardens** on Blessington Street are free, peaceful, and home to some impressive old glasshouses. It's a proper Melbourne hidden-in-plain-sight spot. Fifteen minutes there, fifteen minutes back, and you've earned your afternoon coffee.
 
----
 
 ## Afternoon: Coffee, Shopping, or Sport
 
@@ -54,7 +51,6 @@ If you want to extend the wander, head south on Hotham Street into **St Kilda Ea
 
 **For sport:** If it's AFL season, check whether the **Caulfield Bears** or local footy is on at the nearby grounds. Melbourne's obsession with weekend footy is real, and watching a local game at a suburban ground is a far more authentic experience than the MCG. Walk or tram up to **Caulfield** — the racecourse precinct also has a public park that's great for a kick-around if the kids are in tow.
 
----
 
 ## Late Afternoon: Drinks
 
@@ -64,7 +60,6 @@ Alternatively, the **Balaclava Hotel rooftop** is the local's spot for a beer in
 
 If you want something with more energy, **Pause Bar** (268 Carlisle Street) does DJs some nights and has a neighbourhood bar feel that doesn't try too hard. Check their socials for what's on — Saturday nights can range from low-key acoustic sets to proper dance floor vibes.
 
----
 
 ## Evening: Dinner
 
@@ -77,7 +72,6 @@ Balaclava's dinner scene is an underrated patchwork of cultures. You've got:
 
 For something a bit different, wander into **Elsternwick** (15-minute walk west, or one tram stop). The Glen Huntly Road strip has picked up significantly in the last year, with new openings adding to the existing Greek and Italian backbone. **Elsternwick is having a moment** — and it's close enough that Balaclava locals treat it like an extension of their own backyard.
 
----
 
 ## Sunday: Slow It Down
 
@@ -87,7 +81,6 @@ If you've got kids, the **St Kilda Botanical Gardens** are worth a return visit 
 
 For the solo wanderers or couples, walk south to **St Kilda Beach** via Alma Road. It's a 20-minute walk from Carlisle Street, and the route takes you through the grand residential streets of St Kilda East before dumping you onto the foreshore. A sunset walk along the pier, fish and chips from the pier shops, and a final drink at one of the Esplanade hotels is a classic Melbourne Sunday ritual.
 
----
 
 ## Getting There and Getting Home
 
@@ -97,7 +90,6 @@ Getting home late on Saturday? Night Network trains run on the Sandringham line,
 
 **Safety note:** Carlisle Street itself is well-lit and safe at night, but the quieter residential streets east of Hotham Street can feel isolated after 11pm. Stick to main roads if you're walking, and keep your wits about you near Balaclava Station late at night — the station is reasonably busy but the surrounding streets empty out quickly.
 
----
 
 ## Cross-Links
 

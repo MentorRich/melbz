@@ -1,15 +1,17 @@
 ---
-title: "Untitled"
+title: "Canterbury Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/canterbury/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
-description: "cover_image: "/images/canterbury/nightlife-guide.jpg"
- Canterbury Nightlife Guide
+tags: ["canterbury", "nightlife", "bars"]
+categories: ["nightlife"]
+description: "Canterbury Nightlife Guide 2026: Pubs, Bars & Local Spots"
+---
 
-Update..."
+*Updated 17 March 2025 | Lina Nguyen reporting*
+
 tags: ["canterbury"]
 categories: ["nightlife"]
----
 
 cover_image: "/images/canterbury/nightlife-guide.jpg"
 # Canterbury Nightlife Guide
@@ -62,7 +64,6 @@ Most of Canterbury's venues are located along Canterbury Road and can be walked 
 
 Canterbury locals often head to **[Camberwell](/camberwell/nightlife-guide)** or **[Balwyn](/balwyn/nightlife-guide)** for more options, while **[Hawthorn](/hawthorn/nightlife-guide)** offers a more diverse scene with you'll find what you want.
 
----
 
 *This guide is part of MELBZ's comprehensive Melbourne nightlife coverage.*
 ## Related Articles

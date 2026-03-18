@@ -5,10 +5,10 @@ date: 2026-03-16
 author: yuki
 tags: ["melbourne-cbd", "asian", "food"]
 categories: ["food"]
-description: "Best Asian Food in Melbourne CBD 2026: Chinatown & Beyond
+description: "Best Asian Food in Melbourne CBD 2026: Chinatown & Beyond"
+---
 
 Melbourne's CBD is home to one of the oldest Chinatowns in the Western world, and in 2026 it's sti..."
----
 # Best Asian Food in Melbourne CBD 2026: Chinatown & Beyond
 
 Melbourne's CBD is home to one of the oldest Chinatowns in the Western world, and in 2026 it's still the beating heart of the city's Asian dining scene. But the real magic happens when you push past the neon-lit Little Bourke Street strip and discover what's tucked into arcades, laneways, and side streets that most tourists walk right past.
@@ -17,7 +17,6 @@ I spent March 2026 eating my way through the CBD — every dumpling house, noodl
 
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
 
----
 
 
 ## Venue Addresses & Details
@@ -32,7 +31,6 @@ I spent March 2026 eating my way through the CBD — every dumpling house, noodl
 
 Every restaurant on this list was visited in March 2026. I ordered the dishes that locals recommend, checked the prices against what you'd pay for equivalent quality in the inner suburbs, and timed how long it actually takes to get a table on a weeknight. No reservations were made under a pseudonym — I ate as a regular punter would.
 
----
 
 ## 1. ShanDong MaMa
 **The vibe:** No-frills Chinatown dumpling institution where the queue IS the experience
@@ -47,7 +45,6 @@ The boiled pork and Chinese cabbage dumplings (11 pieces, ~$16) are the benchmar
 **Price range:** $15–$25 per person
 **Insider tip:** Go before 11:30am or after 2pm. The lunch rush between 12–1:30pm can mean a 20-minute wait. If you're a solo diner, the bar seats along the window are almost always available — skip the queue entirely.
 
----
 
 ## 2. Supper Inn
 **The vibe:** Melbourne's ultimate late-night Cantonese — BYO bottle, grab a table, order everything
@@ -62,7 +59,6 @@ The roast duck (~$28 half) is consistently one of the best in the CBD — lacque
 **Price range:** $25–$45 per person (BYO saves you a fortune)
 **Insider tip:** BYO is the move here. Grab a bottle from the bottleshop on Swanston Street on your way. Corkage is minimal or non-existent depending on the night. If you're coming after 11pm, expect it to be full of hospo workers — which tells you everything you need to know about the food quality.
 
----
 
 ## 3. Lee Ho Fook
 **The vibe:** Modern Chinese fine dining that earned its cult status the hard way
@@ -77,7 +73,6 @@ The char siu pork belly with smoked eel and pickled daikon remains one of the st
 **Price range:** $150–$200+ per person with drinks
 **Insider tip:** Book at least a week ahead for Friday or Saturday dinner. Weekday lunch is the sweet spot — same food, easier to get a table, and the natural light through the entrance makes the space feel completely different. If you're celebrating something, mention it in the booking — they'll sort you out.
 
----
 
 ## 4. Tina's Noodle Kitchen
 **The vibe:** Sichuan spice therapy in a no-pretension Swanston Street shopfront
@@ -92,7 +87,6 @@ The signature rice noodle soups ($16–$22) come bubbling in clay pots with your
 **Price range:** $16–$28 per person
 **Insider tip:** If you're coming from Carlton on the 86 tram down Lygon Street, Tina's is a direct shot down Swanston and only about 12 minutes from the heart of Lygon. Perfect for a post-browsing lunch without the Carlton price markup. Ask for "ma la" (numbing spice) level to your tolerance — they'll adjust.
 
----
 
 ## 5. Bamboo House
 **The vibe:** Chinatown's elder statesman — 40 years of northern Chinese fine dining on Little Bourke Street
@@ -107,7 +101,6 @@ The Peking duck ($68 whole, serves 2–3) is carved tableside and comes with thi
 **Price range:** $30–$60 per person (significantly less for lunch banquets)
 **Insider tip:** The lunch banquet menus are genuine value — from around $30 per person for a multi-course feed that would cost $60+ at dinner. If you're bringing a group of 4+, call ahead and ask for a window table — the Little Bourke Street atmosphere during dinner service is genuinely special, especially during festivals. This is peak Chinatown energy.
 
----
 
 ## 6. Nora Thai
 **The vibe:** Southern Thai cooking that the CBD didn't know it needed — until 2025
@@ -122,7 +115,6 @@ The massaman curry (~$22) is rich and properly slow-cooked — not the sweetened
 **Price range:** $18–$35 per person
 **Insider tip:** If you're visiting from Southbank after a show at the Arts Centre or Regent Theatre, Nora Thai is a 10-minute walk across town — closer and better than most of the CBD's Thai options. The spice levels are authentic, so if "mild" at your usual Thai place is your max, tell them upfront. No shame in it.
 
----
 
 
 ## Venue Addresses & Details
@@ -143,7 +135,6 @@ The massaman curry (~$22) is rich and properly slow-cooked — not the sweetened
 
 **Korean BBQ on Little Lonsdale.** The Korean BBQ strip south of Russell Street has solid options, but they're best experienced as group outings where the vibes matter more than the individual dishes. We're doing a dedicated Korean BBQ guide later in 2026.
 
----
 
 
 ## Venue Addresses & Details
@@ -161,7 +152,6 @@ The massaman curry (~$22) is rich and properly slow-cooked — not the sweetened
 | ShanDong MaMa ($15–25) | Lee Ho Fook ($150+) | Supper Inn (open til 2:30am) | Bamboo House (Peking Duck) |
 | Tina's Noodle Kitchen ($16–28) | Bamboo House ($30–60) | Ling Nan (open til midnight) | Lee Ho Fook |
 
----
 
 
 ## Venue Addresses & Details
@@ -178,7 +168,6 @@ The CBD's Asian food epicentre clusters around Little Bourke Street and the Chin
 
 If you're coming from **Carlton**, the walk down Lygon Street to Chinatown takes about 15 minutes and passes through some of the city's best Italian territory — a good reminder that Melbourne's food scene is about the mix, not picking sides. From **Southbank**, cross the Flinders Street pedestrian bridge and you're in the CBD in under 10 minutes. And if you're coming from **Richmond** for the Minamishima experience and want something more casual afterwards, the train from Richmond Station to Parliament takes 8 minutes flat.
 
----
 
 ## 🗳️ VOTE: Which CBD Asian spot is your go-to?
 
@@ -193,7 +182,6 @@ Help us update the MELBZ rankings — which restaurant here would YOU take a vis
 
 *Vote in the MELBZ app or comment on this article.*
 
----
 
 ## 📬 Get the Weekly CBD Food Briefing
 
@@ -201,7 +189,6 @@ Every Thursday, our food editors send the best new openings, hidden specials, an
 
 [Subscribe to the MELBZ Food Briefing →]
 
----
 
 ## 🗺️ Explore More Melbourne Food
 
@@ -210,7 +197,6 @@ Every Thursday, our food editors send the best new openings, hidden specials, an
 - [Richmond's Best Cheap Eats (Under $20)](/richmond/cheap-eats-2026)
 - [Melbourne CBD Suburb Vibe Score — This Week](/melbourne-cbd/vibe-score)
 
----
 
 *Found an error? A restaurant that should be on this list? Drop us a line at hello@melbz.com.au — we taste-test every recommendation.*
 

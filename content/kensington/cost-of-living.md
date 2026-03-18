@@ -5,12 +5,17 @@ date: 2026-03-16
 author: marcus
 tags: ["kensington", "cost-of-living", "property"]
 categories: ["property"]
-description: "Cost of Living in Kensington 2026: The Real Numbers
+description: "Cost of Living in Kensington 2026: The Real Numbers"
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 Kensington is one of those suburbs where everyone has an ..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Cost of Living in Kensington 2026: The Real Numbers
 
 **Updated 16 March 2026 | Marcus Cole reporting**
@@ -21,7 +26,6 @@ So let's do what nobody does and put actual numbers on it. Not vibes. Not "it de
 
 I've pulled data from Numbeo, Domain, REIV, Myki fare schedules, and priced out groceries at the shops I know locals actually use — not the organic co-op with $14 eggs, but the places where Kensington residents do their weekly haul. Let's get into it.
 
----
 
 ## Rent: The Big One
 
@@ -44,7 +48,6 @@ The unit rental yield for investors in the area sits at 5.17%, which tells you l
 
 **{{WIDGET: "Can you afford Kensington? Drop your weekly rent below and tell us — are you scoring a deal or getting rinsed? Rate your suburb →"}}**
 
----
 
 ## Groceries: Where Kensington Saves You Money
 
@@ -66,7 +69,6 @@ A household of two should expect $180–$220/week, which tracks with the Victori
 
 **Local tip:** The Asian grocer on Racecourse Road does rice, noodles, sauces, and frozen goods at prices that'll save you 30–40% compared to the supermarket. If you're cooking with any Asian pantry staples, this is not optional — it's essential.
 
----
 
 ## Transport: The Myki Reality
 
@@ -85,7 +87,6 @@ If you're relying solely on public transport, budget $200–$220/month. If you d
 
 **The cycling option:** Kensington to the CBD is flat, about 5km, and separated bike lanes exist on most of the route along Epsom Road and Moonee Ponds Trail. A decent commuter bike costs $500–$800 upfront and saves you $200+/month in Myki fares. It's the best financial decision most Kensington residents could make, and yet almost nobody does it.
 
----
 
 ## Dining Out: What a Meal Actually Costs
 
@@ -108,7 +109,6 @@ The smart money in Kensington is walking the 10 minutes to Flemington for Friday
 - Moderate: $500–$700
 - "I have no self-control": $800+
 
----
 
 ## Utilities: The Boring-but-Necessary Section
 
@@ -131,7 +131,6 @@ Numbeo puts basic utilities for an 85m2 apartment at $309/month on average, whic
 
 **{{WIDGET: "What's your biggest bill surprise since moving to Kensington? Tell us below — we'll feature the worst ones. Submit your confession →"}}**
 
----
 
 ## Gym, Coffee & Entertainment: The Lifestyle Costs
 
@@ -163,7 +162,6 @@ That's $22.50–$32.50 a week if you're a one-coffee-a-day person. Over a year, 
 
 The entertainment advantage of Kensington is proximity. You're 15 minutes from the CBD's live music scene, a short tram to the MCG, and a bike ride from the best of the inner west. You pay for that location in rent, but you save on Ubers.
 
----
 
 ## The Monthly Totals: What Kensington Actually Costs
 
@@ -187,7 +185,6 @@ For comparison, Footscray comes in roughly 10–15% cheaper across the board, pa
 
 **{{WIDGET: "Is Kensington worth the premium over Footscray or Flemington? Vote now — we're building the definitive ranking →"}}**
 
----
 
 ## What We Skipped and Why
 
@@ -203,7 +200,6 @@ Every cost-of-living article has gaps. Here's what we consciously left out and w
 
 **Alcohol beyond "dining out."** If you're buying grog for home, a mid-range bottle of wine is $20, a six-pack of craft beer is $25–$30, and a bottle of spirits runs $45–$65. Your consumption patterns are your business.
 
----
 
 ## The Verdict
 
@@ -215,7 +211,6 @@ The maths works if you're earning $90K+ as a single person, or if you're sharing
 
 Just don't call it "up-and-coming" to a local. It's been "coming" for 15 years and it's not getting any cheaper.
 
----
 
 *Updated 16 March 2026 | Marcus Cole reporting*
 
@@ -223,7 +218,6 @@ Just don't call it "up-and-coming" to a local. It's been "coming" for 15 years a
 
 **{{WIDGET: "Living in Kensington? Help us keep these numbers honest — submit your rent, your coffee order, your favourite cheap eat. Community data makes this guide better for everyone. Share your numbers →"}}**
 
----
 
 **Also in this series:**
 - [Cost of Living in Flemington 2026](/flemington/cost-of-living)

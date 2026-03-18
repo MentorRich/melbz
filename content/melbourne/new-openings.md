@@ -1,6 +1,8 @@
 ---
 title: "New Openings in Melbourne — March 2026 Guide"
 cover_image: "/images/melbourne/new-openings.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "New restaurant, bar, and café openings in Melbourne for March 2026. Real venues, real details, and whether they're worth your time."
 tags: ["melbourne"]
 categories: ["new"]
----
 # New Openings in Melbourne — March 2026
 
 Melbourne opens restaurants the way other cities open envelopes — constantly, obsessively, and with no sign of slowing down. In early 2026 alone, we've seen an Andrew McConnell European grill announced, Con Christopoulos take over half of Collins Street, a Lune mega-venue in the works, and a Carnation Canteen alum convert a legendary Rathdowne Street bar into something entirely new.
@@ -18,7 +19,6 @@ This isn't a comprehensive list of every restaurant that's opened in the last th
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. Roma and Sergio's — CBD
 **The vibe:** Con Christopoulos (Siglo, Kafeneion, Angel Music Bar) goes full Italian with two venues at 120 Collins Street — a trattoria and a bar-record store hybrid. This is the opening Melbourne's been waiting for.
@@ -30,7 +30,6 @@ Con Christopoulos is responsible for some of Melbourne's most iconic venues, and
 **Budget estimate:** $40–$70 per person (based on Christopoulos's other venues)
 **Insider tip:** Collins Street between Bourke and Spring is undergoing a hospitality renaissance right now. Between this, Gimlet, and the other high-end openings, it's becoming the strip to watch.
 
----
 
 ## 2. Cote Basque — CBD
 **The vibe:** Andrew McConnell's first new Melbourne restaurant since Gimlet. A European grill inspired by the Basque coast, designed by the team behind Apollo Inn. This is the big one.
@@ -42,7 +41,6 @@ Andrew McConnell doesn't open restaurants often, and when he does, they tend to 
 **Budget estimate:** $80–$150 per person (McConnell venues don't come cheap, but they deliver)
 **Insider tip:** Crossley Street is a tiny laneway behind Bourke Street that's quietly becoming Melbourne's most exciting dining address. McConnell clearly knows something the rest of the city is about to find out.
 
----
 
 ## 3. Bar Carnation — Carlton North
 **The vibe:** Audrey Shaw (Carnation Canteen) takes over the original Geralds Bar space on Rathdowne Street. Aperitivo snacks, pasta, steak frites, and a bottle shop in the back room.
@@ -54,7 +52,6 @@ This one's personal for Carlton North locals. Geralds Bar at 386 Rathdowne Stree
 **Budget estimate:** $30–$60 per person for food and a couple of drinks
 **Insider tip:** The daily specials blackboard will mirror Carnation Canteen's commitment to seasonality. Check it every time — Shaw's seasonal specials are often the best thing on the menu.
 
----
 
 ## 4. Daybaker — Abbotsford
 **The vibe:** A Tivoli Road Bakery alum and former Small Batch pastry chef opens a dedicated bakery-café in Abbotsford. Sourdough, laminated pastries, and the kind of morning light that makes everything taste better.
@@ -66,7 +63,6 @@ Charlie Duffy has quietly built one of Melbourne's most respected pastry CVs —
 **Budget estimate:** $5–$18 (pastries and coffee)
 **Insider tip:** Arrive before 9am on weekends. Melbourne bakeries with this level of pedigree sell out of croissants by mid-morning, and you don't want to be the person asking "do you have any plain ones left?" at 10:30. You already know the answer.
 
----
 
 ## 5. Florentino Dining Room (Relaunch) — CBD
 **The vibe:** Grossi's Florentino enters a new era at 80 Bourke Street with a restructured three-part precinct: the Dining Room, the Cellar Bar, and a new Café Florentino.
@@ -78,7 +74,6 @@ Grossi's Florentino has been one of Melbourne's most revered Italian restaurants
 **Budget estimate:** $60–$120 per person (Dining Room), $35–$55 (Café Florentino)
 **Insider tip:** Café Florentino is the play for a long lunch that doesn't require a second mortgage. The wood-fired grill menu at lunch prices is one of the CBD's best-kept secrets. Go on a weekday and you'll likely get a table without a booking.
 
----
 
 ## 6. The Gilson Team's New Venue — CBD/Prahran
 **The vibe:** James McBride and Marc Gurman (the Gilson) are opening another venue in 2026. Details are still emerging, but if it's anything like the Gilson, expect excellent cocktails and a room designed for lingering.
@@ -90,7 +85,6 @@ The Gilson on Greville Street in Prahran has become one of Melbourne's most cons
 **Budget estimate:** $20–$40 per person for drinks and snacks
 **Insider tip:** Follow the Gilson's Instagram for hints. The team tends to drop venue details on social media weeks before the official press release.
 
----
 
 ## 7. Con Christopoulos's Collins Street Courtyard — CBD
 **The vibe:** The man behind Siglo, Kafeneion, and now Roma and Sergio's is transforming a Collins Street courtyard into a little slice of Italy. Because apparently one new Italian venue per year isn't enough for Con.
@@ -102,7 +96,6 @@ Details are still emerging, but Con Christopoulos — the hospitality force behi
 **Budget estimate:** Based on Christopoulos's other venues, expect $30–$60 per person
 **Insider tip:** Christopoulos's venues always have one thing in common — the service makes the experience. His staff are trained to read a room, not just take orders. That alone puts his venues a cut above.
 
----
 
 ## What We Skipped and Why
 
@@ -114,7 +107,6 @@ Details are still emerging, but Con Christopoulos — the hospitality force behi
 
 **South Yarra boutiques:** [South Yarra](/south-yarra/) has seen a wave of new retail and café openings along Chapel Street and Commercial Road. We'll cover those in our [South Yarra](/south-yarra/) suburb guide rather than cluttering this list.
 
----
 
 ## The Bottom Line
 
@@ -122,7 +114,6 @@ Melbourne's 2026 opening season is shaping up to be dominated by Italian food (R
 
 **Your Melbourne Vibe Score this week: 81/100** — New openings are a sign of a city that's still investing in food culture, even when rent is through the roof and the hospitality workforce is stretched thin. Melbourne's not slowing down.
 
----
 
 *Opening dates change constantly in hospitality. If a venue says "opening March 2026," assume April. If they say "opening soon," assume nobody knows. We'll update this guide as venues confirm their doors are actually open.*
 
@@ -130,7 +121,6 @@ Melbourne's 2026 opening season is shaping up to be dominated by Italian food (R
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 ### 📊 Quick Widgets
 

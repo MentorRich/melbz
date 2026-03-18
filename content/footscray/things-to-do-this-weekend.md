@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Footscray — 2026 Local Guide"
 cover_image: "/images/footscray/things-to-do-this-weekend.jpg"
+---
+
 suburb: "footscray"
 vertical: "lifestyle"
 author: "maya"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best things to do this weekend in Footscray. Our verified 2026 guide covers markets, walks, food, and experiences for locals."
 tags: ["footscray"]
 categories: ["things"]
----
 ## Things To Do This Weekend in Footscray
 
 A Saturday in Footscray doesn't need a plan. You wake up, you walk to the market, you eat something cheap and extraordinary, you wander along the river, you sit in a courtyard with a cold drink, and suddenly it's 6pm and you haven't spent more than $40. That's the magic of this suburb — the weekend sort of happens to you, and it's always better than whatever you would have planned.
@@ -18,7 +19,6 @@ But if you want structure, we've got that too. Here's how to spend a weekend in 
 
 **Last updated: March 2026** | **Footscray Vibe Score: 74/100 🟢 THRIVING**
 
----
 
 ## Saturday Morning: Footscray Market
 
@@ -34,7 +34,6 @@ Start at the big one. Footscray Market on Hopkins Street is a sprawling indoor m
 **Hours:** Tue–Sat, from 6am; Sun, from 6am–3pm
 **Insider tip:** Arrive before 9am on Saturday to beat the crowds. The best produce goes early. If you're coming from [Seddon](/suburbs/seddon), it's a pleasant 10-minute walk along Hopkins Street.
 
----
 
 ## Saturday Mid-Morning: Walk the Maribyrnong River Trail
 
@@ -49,7 +48,6 @@ After the market, walk east to the Maribyrnong River and pick up the river trail
 **Distance:** The Footscray stretch of trail is approximately 3km each way
 **Insider tip:** Walk north from the Footscray bridge toward the Pipemakers Park area — it's quieter, greener, and the view back toward the city skyline is one of Melbourne's under the radars. Great for [West Melbourne](/suburbs/west-melbourne) residents who want a riverside walk without driving.
 
----
 
 ## Saturday Afternoon: Barkly Street and Hopkins Street Crawl
 
@@ -68,7 +66,6 @@ This is where Footscray's neighbourhood character really shows. Both streets run
 
 **Insider tip:** If you're with someone who's never been to Footscray, do the Barkly Street walk first. It gives the best quick-hit overview of the suburb's personality. Then duck down to Hopkins Street for the food.
 
----
 
 ## Saturday Evening: Choose Your Adventure
 
@@ -85,7 +82,6 @@ Sunset walk along the **Maribyrnong River**. Casual dinner at **Don Don** (Japan
 
 **Insider tip:** Whatever option you choose, end up on Barkly Street at some point. That's where the energy is on a Saturday night.
 
----
 
 ## Sunday Morning: Brunch and a Slow Start
 
@@ -102,7 +98,6 @@ If you want something different, Ebi Fine Foods does a Japanese-inspired brunch 
 **Address:** 89 Hopkins St, Footscray VIC 3011
 **Hours:** Tue–Sun, 11:30am–8:30pm
 
----
 
 ## Sunday Afternoon: Yarraville and Seddon Side-Trip
 
@@ -116,7 +111,6 @@ Seddon Village on Gamon Street is the bougie sibling — wine bars, boutique sho
 
 **Insider tip:** Walk from Footscray through Seddon to Yarraville for a full three-suburb afternoon. The total walk is about 2.5km and takes you through the heart of each village. Finish at the Sun Theatre in Yarraville for a Sunday arvo film.
 
----
 
 ## Sunday Evening: Wind Down
 
@@ -127,7 +121,6 @@ After a full weekend in Footscray, wind down with one of these:
 - **West Footscray Wines** — freshly shucked oysters and a glass of something good in the courtyard
 - **Maribyrnong River sunset** — walk the trail as the sun goes down behind Footscray's rooftops
 
----
 
 ## Free Things To Do
 
@@ -140,7 +133,6 @@ Footscray is one of Melbourne's most affordable suburbs for weekend entertainmen
 5. **Nicholson Street Mall window shopping**
 6. **Seddon and Yarraville village walks**
 
----
 
 ## With Kids
 
@@ -150,7 +142,6 @@ Footscray is one of Melbourne's most affordable suburbs for weekend entertainmen
 - **Barkly Street playgrounds** — several small parks along the main strip
 - **Sun Theatre in Yarraville** — kid-friendly screenings on Sunday mornings
 
----
 
 ## The Bottom Line
 

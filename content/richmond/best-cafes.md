@@ -5,12 +5,17 @@ date: 2026-03-16
 author: eli
 tags: ["richmond", "cafes", "food"]
 categories: ["food"]
-description: "Best Cafes in Richmond 2026: Swan Street & Bridge Road
+description: "Best Cafes in Richmond 2026: Swan Street & Bridge Road"
+---
 
-Updated 16 March 2026 | 6 places tested | Eli Chen reporting
+**Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
+
+
 
 Richmond doesn't do half-arsed coffee. ..."
----
+
+*Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
+
 # Best Cafes in Richmond 2026: Swan Street & Bridge Road
 
 **Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
@@ -34,7 +39,6 @@ The eggs benedict here ($22) is a masterclass in not overthinking things — goo
 
 *If you're coming from Cremorne, Top Paddock is a ten-minute walk down Church Street past the apartments and the old brick warehouses — well worth the stroll.*
 
----
 
 ## 2. Penny for Pound — The Bakery That Made Bridge Road Worth Walking
 
@@ -49,7 +53,6 @@ Croissants are baked four times daily. That's not a marketing line — you can l
 
 **Insider tip:** Get there by 8am on weekends or you'll be staring at empty racks. Weekday mornings are calmer — grab a pastry and a coffee and eat it at the bench out front watching Bridge Road wake up.
 
----
 
 ## 3. Warkop — The Indonesian Sandwich Shop That Has No Business Being This Good
 
@@ -66,7 +69,6 @@ The gado-gado sandwich is the vegetarian hero — crispy tempeh, peanut sauce, p
 
 *Warkop is technically closer to Cremorne than central Richmond — it sits in that in-between zone where the two suburbs blur into each other around the rail lines.*
 
----
 
 ## 4. Reunion & Co — The Corner Store That Became a Neighbourhood Institution
 
@@ -83,7 +85,6 @@ The takeaway window on Neptune Street at the back is the real hack for commuters
 
 **Insider tip:** Trams rattle past the front window constantly, which is either charming ambiance or mildly annoying depending on your mood. The courtyard out back is sheltered and quieter — that's where the regulars sit.
 
----
 
 ## 5. Pillar of Salt — Richmond's Most Photogenic Breakfast (And It Actually Tastes Good Too)
 
@@ -100,7 +101,6 @@ Service is efficient without being rushed. Weekends get busy (expect a 10–15 m
 
 **Insider tip:** Parking on Church Street is a known nightmare. If you're driving, turn off onto the side streets between lennox and Swan — you'll find free 2-hour parks if you're patient. Or just catch the 75 tram and get off at the Church Street/Bridge Road stop.
 
----
 
 ## 6. Riché — The Thai-Chinese Brunch Spot That Bridge Road Needed
 
@@ -119,7 +119,6 @@ The smoothie bowls are genuinely worth ordering (the mango and turmeric one is a
 
 *Riché sits right in the heart of Bridge Road, easy walking distance from Reunion & Co and Penny for Pound if you want to do a cafe crawl.*
 
----
 
 ## What We Skipped and Why
 
@@ -135,7 +134,6 @@ Not every cafe made the cut. Here's what we left out and why:
 
 - **Vacation Richmond** — Tiny, light-filled, great coffee including cold brew on tap. The tiramisu croissant is a genuine delight. But with maybe 12 seats, it's more of a "grab and go" than a "sit and brunch" — we're flagging it for our "best quick coffee stops" list instead.
 
----
 
 ## Getting There
 
@@ -149,7 +147,6 @@ Richmond is well-served by public transport, which is good because parking here 
 
 **From neighbouring suburbs:** If you're coming from Collingwood, it's a 10-minute walk across the Victoria Street bridge — grab a banh mi on Victoria Street on your way through. From South Yarra, the 78 tram drops you right onto Bridge Road. From Cremorne, it's a walkable neighbourhood — most of these cafes are within 15 minutes on foot from the Cremorne border.
 
----
 
 ## The Verdict
 
@@ -161,13 +158,11 @@ Richmond doesn't do half-arsed coffee. But more importantly, it doesn't do half-
 
 *Eli Chen is the Cafes Editor at MELBZ. They have eaten at all six of these places in the past fortnight and are not sorry about it.*
 
----
 
 ## 📊 Quick Picks
 
 **Best for:** ☕ Coffee snobs → Top Paddock | 🥐 Pastry lovers → Penny for Pound | 🥪 Sandwich addicts → Warkop | 🍳 Brunch with a twist → Riché | 💛 Neighbourhood vibes → Reunion & Co | 📸 Photogenic brunch → Pillar of Salt
 
----
 
 ## 🗺️ Neighbourhood Links
 
@@ -175,7 +170,6 @@ Richmond doesn't do half-arsed coffee. But more importantly, it doesn't do half-
 - [Best Cafes in Collingwood](/collingwood/best-cafes) — The next suburb over on the 86 tram
 - [Best Cafes in South Yarra](/south-yarra/best-cafes) — Chapel Street and surrounds
 
----
 
 ## 🗳️ Rate These Cafes
 
@@ -191,7 +185,6 @@ Tried any of these spots? Tell us what you think.
 
 [Vote in our poll →](/polls/richmond-cafes-2026)
 
----
 
 ## 📬 Your Richmond Briefing
 

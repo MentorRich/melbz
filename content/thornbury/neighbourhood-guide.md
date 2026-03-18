@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide: Thornbury — Your 2026 Local's Handbook"
 cover_image: "/images/thornbury/neighbourhood-guide.jpg"
+---
+
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Your complete Thornbury neighbourhood guide for 2026 — streets to know, transport, parking, safety, and how to live like a local. Not a tourist tack."
 tags: ["thornbury"]
 categories: ["neighbourhood"]
----
 # Neighbourhood Guide: Thornbury — Your 2026 Local's Handbook
 
 Let's get this out of the way immediately: Thornbury is not the "next" anything. It's not the next Fitzroy, not the next Brunswick, not the next Collingwood. Thornbury is Thornbury, and if you show up expecting somewhere else, you'll miss the point entirely. This is a suburb built by Greek and Italian immigrants after WWII, now home to a mix of established families, young professionals, and artists who've been here long enough to know better than to brag about it. Here's how to navigate it like you belong.
 
 **Last updated: 17 March 2026** | **Thornbury Vibe Score: 78/100 🟢**
 
----
 
 ## The Lay of the Land
 
@@ -29,7 +29,6 @@ Thornbury sits in Melbourne's inner north, south of [Preston](/preston), north o
 
 The action is concentrated along High Street between Darebin Road and Dundas Street — a 400-metre strip with more quality restaurants, bars, and cafes than most suburbs twice its size. Beyond that, Thornbury is residential: single-front weatherboards, modest brick units, and pockets of industrial backstreets where the breweries hide.
 
----
 
 ## Streets That Matter
 
@@ -45,7 +44,6 @@ The action is concentrated along High Street between Darebin Road and Dundas Str
 
 **Darebin Road** — Northern boundary of the main action. North of here you're into [Preston](/preston) territory.
 
----
 
 ## Transport
 
@@ -59,7 +57,6 @@ The action is concentrated along High Street between Darebin Road and Dundas Str
 
 **Drive:** Parking is mostly 2-hour zones on High St and surrounding streets. Bowen St underground carpark ($6 flat after 6pm) is your best bet for evenings/weekends. Valet parking is not a thing. Don't park in resident zones unless you have a permit — council is strict.
 
----
 
 ## Parking Cheat Sheet
 
@@ -70,7 +67,6 @@ The action is concentrated along High Street between Darebin Road and Dundas Str
 | Residential streets | Street | Free | 2-hour zones, permit holders exempt |
 | Franklin's private lot | Offstreet | Free for patrons | Small, first in best dressed |
 
----
 
 ## Safety & Behaviour
 
@@ -83,7 +79,6 @@ Thornbury is generally safe — quieter than Fitzroy, less chaotic than Brunswic
 
 **If you need help:** Emergency 000. For non-urgent police assistance: 131 444. Thornbury Police Station: 9460 1111.
 
----
 
 ## Cost of Living Reality
 
@@ -101,7 +96,6 @@ If you're considering moving to Thornbury, here's the 2026 numbers:
 
 **Realistic salary to live comfortably in Thornbury:** $70K+ single, $100K+ couple. On $55K you'll be stretching — shared housing is almost essential.
 
----
 
 ## Groceries & Essentials
 
@@ -117,7 +111,6 @@ If you're considering moving to Thornbury, here's the 2026 numbers:
 
 **Pharmacies:** Multiple on High St and Plenty Rd.
 
----
 
 ## Schools & Families
 
@@ -130,7 +123,6 @@ Thornbury is popular with young families — good schools, parks, and relative a
 
 Parks: John Cain Memorial Park (north), Strettle Wetlands (west), plus smaller pocket parks.
 
----
 
 ## Demographics & Vibe
 
@@ -140,7 +132,6 @@ Thornbury's personality comes from its history: post-war Greek and Italian immig
 
 **You'll feel out of place if:** You want Michelin-starred service, you need bottle service to feel special, you think "authentic" means "untouched by development" (Thornbury is developing, gently), or you expect to be recognised for being there.
 
----
 
 ## Community & Resources
 
@@ -152,7 +143,6 @@ Thornbury's personality comes from its history: post-war Greek and Italian immig
 
 **News:** Local news coverage is minimal — follow individual venues and community Facebook groups for what's happening.
 
----
 
 ## What's Within Walking Distance
 
@@ -163,7 +153,6 @@ Most of the best stuff on this guide is within a 15-minute walk of the High St/D
 - **East:** 15 min walk to Thornbury Station or the industrial backstreets where 3 Ravens brewery hides.
 - **West:** 15 min walk to Merri Creek bike path and Coburg border.
 
----
 
 ## The Thornbury vs Northcote vs Brunswick vs Preston Comparison
 
@@ -173,7 +162,6 @@ Most of the best stuff on this guide is within a 15-minute walk of the High St/D
 
 **Thornbury vs Preston:** Preston is still finding its identity. The Plenty Rd strip is improving but hasn't hit Thornbury's density or quality yet. Thornbury is the established neighbour that Preston wants to be when it grows up.
 
----
 
 ## The Bottom Line
 
@@ -181,12 +169,10 @@ Thornbury isn't trying to impress you. It's a suburb that knows itself — Greek
 
 **Your Thornbury Vibe Score this week: 78/100** — The neighbourhood is stable, growing gently, and keeping its soul. That's a rare thing in 2026 Melbourne.
 
----
 
 *Know something about Thornbury we got wrong? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Also in the area:**
 → [Best Restaurants in Thornbury](/thornbury/best-restaurants)

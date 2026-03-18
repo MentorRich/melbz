@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Prahran — 2026 Local Guide"
 cover_image: "/images/prahran/best-coffee.jpg"
+---
+
 suburb: "prahran"
 vertical: "lifestyle"
 author: "dani"
@@ -9,12 +11,10 @@ updated: 2026-03-16
 description: "Discover the best coffee in Prahran. Our verified 2026 guide covers the best spots for locals."
 tags: ["prahran"]
 categories: ["general"]
----
 ## The Best Coffee in Prahran
 
 Prahran doesn't mess around when it comes to coffee. Tucked between the glossy strip of Chapel Street and the indie heartbeat of Greville Street, this suburb has more quality roasteries per square metre than most Melbourne postcodes can dream of. Whether you're after a no-nonsense flat white on the way to work or a single-origin pour-over that'll make you late for everything, here's where to get the best coffee in Prahran in 2026.
 
----
 
 ### 1. ST. ALi — The OG Coffee Institution
 
@@ -26,7 +26,6 @@ What makes ST. ALi special in 2026 is their ongoing collaboration with Victorian
 
 **The insider move:** Skip the front room. Walk through to the courtyard out back — it's quieter, the light's better, and you won't have someone's elbow in your latte.
 
----
 
 ### 2. Tone Coffee — The Purist's Pick
 
@@ -38,7 +37,6 @@ The space is minimal and calm — concrete floors, white walls, good natural lig
 
 **The insider move:** Ask what they're cupping that week. They usually have something experimental on rotation, and the baristas genuinely love talking about it.
 
----
 
 ### 3. Grand Lafayette — Where Brunch Meets Caffeine
 
@@ -50,7 +48,6 @@ The food here is the drawcard for most people — think brioche French toast ($2
 
 **The insider move:** Weekday mornings before 9am, it's locals grabbing takeaway. Saturday from 10am is when the brunch crowd hits. If you want the coffee without the wait, aim for that early weekday window.
 
----
 
 ### 4. Pardon Coffee — The Greville Street Secret
 
@@ -62,7 +59,6 @@ What sets Pardon apart is the atmosphere. It's got that Greville Street energy �
 
 **The insider move:** Grab your coffee and walk two minutes to the Prahran Market entrance. The bench seats along Commercial Road get morning sun and are perfect for a quiet five minutes before the market crowd arrives.
 
----
 
 ### 5. Yellow Bird Cafe — The Neighbourhood Favourite
 
@@ -74,7 +70,6 @@ The menu is tight and well-executed: egg sandwiches, banana bread that's actuall
 
 **The insider move:** They do a mean iced mocha in summer. Don't overthink it — just order one and sit in the window.
 
----
 
 ### 6. The Apprentice at Melbourne Polytechnic
 
@@ -86,7 +81,6 @@ The catch? Hours are tied to the academic term, so check before you go. When it'
 
 **The insider move:** Go near the end of semester when students are at peak confidence. The food gets better, the coffee gets tighter, and you're supporting the next generation of Melbourne hospitality.
 
----
 
 ### 7. Cafe Republic — The Reliable All-Rounder
 
@@ -98,7 +92,6 @@ It's the kind of place that serves the neighbourhood — not the food bloggers. 
 
 **The insider move:** The back courtyard gets dappled light in the afternoon. It's a solid spot for a quiet coffee and a scroll through your phone when Chapel Street is elbow-to-elbow.
 
----
 
 ## Getting Around Prahran's Coffee Scene
 
@@ -106,7 +99,6 @@ Prahran's coffee strip runs primarily along Commercial Road and Greville Street,
 
 If you're comparing with the neighbouring strips, [South Yarra's coffee scene](/south-yarra/best-coffee) has a different energy — more polished, more fashion-conscious, with venues like Patricia Coffee Brewers and Higher Ground just over the border. [Windsor's cafe culture](/windsor/best-coffee) runs along Chapel Street's northern end and has its own loyal following, particularly around Windsor's end of the strip near Williams Road. And if you're heading into the [Melbourne CBD](/melbourne-cbd/best-coffee) for a long morning, the laneway coffee scene there is world-class for a reason.
 
----
 
 ## What We Skipped and Why
 
@@ -118,11 +110,9 @@ A few names regulars might ask about:
 
 We only include venues where the coffee is the main event, not an afterthought. Every spot on this list has been visited multiple times by the MELBZ team in 2025–2026.
 
----
 
 **Living in Prahran?** [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=prahran)
 
----
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. No sponsored rankings. No paid placements. Just the truth about your suburb. For more Prahran guides, check our [neighbourhood guide](/prahran/neighbourhood-guide), [best brunch roundup](/prahran/best-brunch), or [date night picks](/prahran/date-night).*
 

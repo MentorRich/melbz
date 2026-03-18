@@ -3,17 +3,17 @@ title: "Privacy Policy"
 description: "MELBZ privacy policy - how we collect, use, and protect your data."
 date: 2026-03-18
 author: "Daniel Ebiau"
+---
+
 noAds: true
 tags: ["melbourne"]
 categories: ["general"]
----
 # Privacy Policy
 
 *Last updated: 18 March 2026*
 
 MELBZ is committed to protecting your privacy. This policy explains how we collect, use, and safeguard your information when you visit melbz.com.au.
 
----
 
 ## Information We Collect
 
@@ -27,7 +27,6 @@ MELBZ is committed to protecting your privacy. This policy explains how we colle
 - **Cookies** — essential cookies for site functionality, optional cookies for analytics
 - **Device information** — browser type, operating system, IP address
 
----
 
 ## How We Use Your Information
 
@@ -45,7 +44,6 @@ You can unsubscribe at any time via the link in every email.
 ### Advertising
 We use Google AdSense to display advertisements on our site. Google may use cookies to serve ads based on your interests. See Google's Privacy Policy for more information.
 
----
 
 ## Third-Party Services
 
@@ -59,7 +57,6 @@ We use the following third-party services:
 | Cloudflare | CDN and security | [cloudflare.com/privacypolicy](https://www.cloudflare.com/privacypolicy) |
 | Pexels | Stock photography | [pexels.com/privacy-policy](https://pexels.com/privacy-policy) |
 
----
 
 ## Affiliate Disclosure
 
@@ -69,7 +66,6 @@ We only recommend products and services we genuinely use and believe in. Our edi
 
 See our [Affiliate Disclosure](/about#affiliate-disclosure) for more details.
 
----
 
 ## Cookies
 
@@ -86,7 +82,6 @@ Help us understand site traffic:
 
 You can disable cookies in your browser settings. Note that some features of MELBZ may not work properly without cookies.
 
----
 
 ## Australian Privacy Act 1988
 
@@ -98,19 +93,16 @@ Under Australian law, you have the right to:
 - Correct any inaccurate information
 - Request deletion of your information (where possible)
 
----
 
 ## Children's Privacy
 
 MELBZ does not knowingly collect personal information from children under 13. Our content is general audience and not targeted at children.
 
----
 
 ## Changes to This Policy
 
 We may update this privacy policy from time to time. We will notify users of any material changes by posting the new policy on this page and updating the "Last updated" date.
 
----
 
 ## Contact Us
 

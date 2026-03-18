@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Coburg 2026: Where Sydney Road Does Mornings Right"
 cover_image: "/images/coburg/best-brunch.jpg"
+---
+
 suburb: "coburg"
 vertical: "food"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "The best brunch in Coburg for 2026 — 6 verified spots from Pentridge to Bell Street. Real prices, real opinions, no filler."
 tags: ["coburg"]
 categories: ["best"]
----
 # Best Brunch in Coburg 2026: Where Sydney Road Does Mornings Right
 
 Coburg's brunch scene is the quiet achiever of Melbourne's inner north. While Brunswick gets the Instagram tags and [Preston's brunch spots](/preston/best-brunch/) rack up the food blog write-ups, Coburg sits between them doing something genuinely interesting — turning a former prison into a brunch precinct, keeping old-school bakeries alive, and attracting a wave of culturally rich newcomers that make the whole "avocado toast" conversation feel quaint by comparison.
@@ -18,7 +19,6 @@ I spent three weekends eating my way from Moreland Road up to Pentridge Boulevar
 
 **Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
 
----
 
 ## 1. The Boot Factory
 
@@ -34,7 +34,6 @@ The menu runs classic Australian brunch with a few Mediterranean flourishes. The
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** The courtyard out the back gets beautiful morning sun in autumn and winter. Grab a table out there before 9:30am on weekends — after that, you're queuing.
 
----
 
 ## 2. Beit Siti
 
@@ -49,7 +48,6 @@ The spread arrives as a communal platter: hummus, labneh, zaatar flatbread, fala
 **Hours:** Wed–Mon 8am–3pm, closed Tuesdays
 **Insider tip:** Get there before 9am on weekends or prepare to wait. There are no bookings. The queue is part of the experience — everyone in it knows they're about to eat something special.
 
----
 
 ## 3. O'Hey
 
@@ -64,7 +62,6 @@ The menu leans modern Australian with some Middle Eastern and Asian inflections 
 **Hours:** Tue–Sun 7:30am–3pm, closed Mondays
 **Insider tip:** The back room has a communal table that's perfect for solo diners who don't want to feel like a sad person eating alone. The staff will chat with you about coffee origins if you're into that sort of thing.
 
----
 
 ## 4. The Glass Den
 
@@ -79,7 +76,6 @@ The menu changes seasonally but the constants are reliably good: the corn fritte
 **Hours:** Daily 8am–3pm
 **Insider tip:** Weekday mornings are blissfully quiet. If you can swing a Tuesday or Wednesday off, this is where you want to be — same food, no queue, and the baristas aren't rushed so the coffee comes out even better.
 
----
 
 ## 5. Wild Timor Coffee
 
@@ -94,7 +90,6 @@ The space is small and unpretentious — mismatched furniture, local art on the 
 **Hours:** Mon–Fri 7am–4pm, Sat–Sun 8am–3pm
 **Insider tip:** They sell their roasted beans by the bag — grab a 250g bag of the house blend for $16. It's genuinely better than most Melbourne roasters charging $25+.
 
----
 
 ## 6. Two Franks
 
@@ -109,7 +104,6 @@ The coffee is sourced from local roasters and the attention to detail is obvious
 **Hours:** Tue–Sun 7am–3pm, closed Mondays
 **Insider tip:** They do take-home goods — jars of their house-made dips, preserves, and olive oils. Perfect for a quick grab on the way to a weekend lunch.
 
----
 
 ## The Bottom Line
 
@@ -119,7 +113,6 @@ The inner-north brunch rivalry is real: [Brunswick's brunch scene](/brunswick/be
 
 **Your Coburg Vibe Score this week: 72/100** — Brunch game strong, queue patience required on weekends.
 
----
 
 *Know a brunch spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*

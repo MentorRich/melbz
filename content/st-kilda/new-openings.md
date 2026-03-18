@@ -1,6 +1,8 @@
 ---
 title: "New Openings in St Kilda — 2026 Local Guide"
 cover_image: "/images/st-kilda/new-openings.jpg"
+---
+
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "oscar"
@@ -9,14 +11,12 @@ updated: 2026-03-16
 description: "Discover the new openings in St Kilda. Our verified 2026 guide covers the best spots for locals."
 tags: ["st-kilda"]
 categories: ["new"]
----
 ## The Best New Openings in St Kilda
 
 St Kilda's hospitality scene has always had a revolving-door quality — places open, places close, and the ones that survive tend to be genuinely good. 2025 and early 2026 have brought a solid wave of new spots to the suburb, and we've done the legwork to tell you which ones are actually worth your time (and money).
 
 Here's what's new, what's worth visiting, and what we're watching.
 
----
 
 ### The Cat's Kaka — Japanese-Fusion Brunch (Late 2025)
 
@@ -31,7 +31,6 @@ Here's what's new, what's worth visiting, and what we're watching.
 
 > **📊 MELBZ POLL** — Have you tried The Cat's Kaka yet? Yes, obsessed | On my list | Japanese brunch sounds weird
 
----
 
 ### Limbo Cocktail Bar (Early 2025)
 
@@ -46,7 +45,6 @@ Here's what's new, what's worth visiting, and what we're watching.
 
 **Price point:** Two cocktails and a shared snack plate will run about $70–$80 for two. Not cheap, but the quality is bar-grade, not pub-grade.
 
----
 
 ### Code Black Coffee — Elwood Extension (Mid-2025)
 
@@ -59,7 +57,6 @@ Here's what's new, what's worth visiting, and what we're watching.
 
 **Price point:** Coffee and banana bread for two: about $20. Breakfast for two with eggs: $35–$40.
 
----
 
 ### Hot Chicken Project — St Kilda outpost (Late 2025)
 
@@ -80,7 +77,6 @@ Here's what's new, what's worth visiting, and what we're watching.
 
 **Price point:** Quarter bird meal deal with sides: $25–$30 per person. Whole bird to share (feeds 3–4): $32 plus sides.
 
----
 
 ### Baked. — Artisan Bakery (Early 2026)
 
@@ -95,7 +91,6 @@ Here's what's new, what's worth visiting, and what we're watching.
 
 **Price point:** Coffee and a pastry: $12–$15. Toastie and coffee: $20. Bread and butter to take home: $12.
 
----
 
 ### Things We're Watching
 
@@ -109,7 +104,6 @@ Here's what's new, what's worth visiting, and what we're watching.
 
 **Fitzroy Street activation** — St Kilda Council is running a trial of weekend footpath dining activations on Fitzroy Street between Carlisle and the Esplanade. If successful, this could bring new pop-up food vendors and extended trading hours to the strip. The trial runs through April 2026.
 
----
 
 ### What We Skipped and Why
 
@@ -119,7 +113,6 @@ Here's what's new, what's worth visiting, and what we're watching.
 
 **Short-term Airbnb-style experiences** — Cooking classes and foraging walks that appear on platforms like Airbnb Experiences aren't permanent openings. We'll cover them if they stick around for 6+ months.
 
----
 
 ### Nearby Guides Worth Reading
 
@@ -127,11 +120,9 @@ Here's what's new, what's worth visiting, and what we're watching.
 - [New Openings in South Melbourne](/south-melbourne/new-openings) — market-adjacent innovation
 - [New Openings in Prahran](/prahran/new-openings) — Chapel Street's latest wave
 
----
 
 *Last verified March 2026. New openings change fast — follow us on Instagram @melbz.com.au for weekly updates.*
 
----
 
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
 

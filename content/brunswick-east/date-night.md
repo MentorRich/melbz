@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Brunswick East — 2026 Local Guide"
 cover_image: "/images/brunswick-east/date-night.jpg"
+---
+
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the date night in Brunswick East. Our verified 2026 guide covers the best spots for locals."
 tags: ["brunswick-east"]
 categories: ["date"]
----
 # Date Night in Brunswick East: Where to Take Someone You Actually Like
 
 Here's the thing about Brunswick East and date night: this isn't the suburb you go to when you want to impress someone with a $300 degustation and a view of the Yarra. This is the suburb you go to when you want a date that feels real — good food, better wine, an atmosphere that doesn't force you to shout over a DJ, and the kind of neighbourhood charm that says "I know this city" without saying a word.
@@ -18,7 +19,6 @@ Brunswick East's Lygon Street strip is one of Melbourne's best date-night corrid
 
 **Last updated: 16 March 2026** | **Brunswick East Vibe Score: 78/100 🟡 SOLID**
 
----
 
 ## The Romantic Dinner: Etta
 
@@ -32,7 +32,6 @@ If you're going on a first date, a third date, or an anniversary date in Brunswi
 
 **Insider tip:** Book the bar seats, not the tables. You get the same food but with a front-row seat to the kitchen, which makes for natural conversation when something amazing comes off the fire. Tell them it's a date — they'll sort you out.
 
----
 
 ## The Confident Second Date: Daphne
 
@@ -46,7 +45,6 @@ If you're going on a first date, a third date, or an anniversary date in Brunswi
 
 **Insider tip:** Go on a Thursday or Friday when the energy is up but it's not yet Saturday-night-packed. Walk in without a booking before 7:30pm and you'll usually snag a spot. After that, book ahead.
 
----
 
 ## The Wine Bar Date: Bahama Gold
 
@@ -60,7 +58,6 @@ If your idea of a date is "good wine, cool atmosphere, no pressure," then **Baha
 
 **Insider tip:** Grab a seat on the footpath if the weather's decent. The people-watching on this stretch of Lygon is world-class, and it gives you something to talk about if conversation lulls. If it's cold, the indoor space is small and cozy — perfect for leaning in.
 
----
 
 ## The Chill Night: Old Palm Liquor
 
@@ -74,7 +71,6 @@ For dates where neither of you wants to dress up but you still want something be
 
 **Insider tip:** Winter dates at Old Palm are elite. That fireplace, a bottle of pinot noir, and two people who are actually paying attention to each other — it's the antidote to Melbourne's dating-app fatigue.
 
----
 
 ## The "I'm Trying to Impress" Date: Bouvier
 
@@ -88,7 +84,6 @@ If you need to pull out all the stops — new job celebration, anniversary, or y
 
 **Insider tip:** This one needs a booking. Don't wing it on a Friday night unless you enjoy watching other people eat while you wait at the bar.
 
----
 
 ## The Post-Dinner Move: Walk the Creek
 
@@ -96,7 +91,6 @@ Here's a Brunswick East date night hack that costs nothing: after dinner, walk e
 
 If walking isn't the vibe, the walk back down Lygon Street toward [Carlton North](/carlton-north/) is just as good — you'll pass **Atticus Finch** (another excellent wine bar if you need a nightcap) and **Mr Wilkinson** (cosy, sophisticated, extra good in winter).
 
----
 
 ## The "We Just Want a Pint" Date
 
@@ -108,13 +102,11 @@ Not every date needs a three-course meal. Sometimes you just want to sit in a be
 
 **Insider tip:** Sit in the back garden, not the front bar. It feels more private, and the afternoon light in autumn is gorgeous.
 
----
 
 ## Getting There and Home
 
 The 96 tram from the CBD drops you right in the thick of Brunswick East's Lygon Street strip. If you're driving, park on Edwardes Street or the side streets east of Nicholson — Lygon Street meters are expensive after 6pm and the side streets are free after 7:30. Rideshare is the move for getting home after a few bottles at Bahama Gold — don't even think about driving if you've been at Old Palm Liquor.
 
----
 
 ## The Bottom Line
 
@@ -122,7 +114,6 @@ Brunswick East does date night the way Melbourne does best: good food, good wine
 
 **Your Brunswick East Vibe Score this week: 78/100** — Date night here isn't about impressing — it's about enjoying.
 
----
 
 ## Related Reading
 

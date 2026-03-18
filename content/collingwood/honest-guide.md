@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["collingwood", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Collingwood Honest Guide 2026: Smith Street & Real Talk
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Collingwood Honest Guide 2026: Smith Street & Real Talk"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Collingwood is the suburb that Melbourne's rea..."
----
 # Collingwood Honest Guide 2026: Smith Street & Real Talk
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 Collingwood is the suburb that Melbourne's real estate agents love to describe as "gritty" in their listings, then price like it's inner-city Toorak. It's the place where a $6 flat white sits next to a $350,000 warehouse conversion, where a tattooed sommelier pours natural wine in a room that still smells faintly of its industrial past, and where nobody — absolutely nobody — uses the phrase "bohemian charm" without being politely asked to leave.
 
@@ -25,7 +28,6 @@ If [Fitzroy](/suburbs/fitzroy) is Melbourne's cool older sibling who went to art
 
 Let's get into it.
 
----
 
 ## The Smith Street Situation
 
@@ -37,7 +39,6 @@ Head further south toward Hoddle Street and the vibe shifts. The shops thin out,
 
 The 86 tram barrels down Smith Street with the reliability of a weather forecast — which is to say, check the PTV app before you leave home. But the walk from Collingwood Station (on the Hurstbridge line, two stops from Flinders Street, roughly 15 minutes) to Smith Street is dead easy and gives you a proper feel for the neighbourhood.
 
----
 
 ## What It Actually Costs to Live Here
 
@@ -54,7 +55,6 @@ The thing about Collingwood housing stock is that it ranges wildly. You've got t
 - 🏠 Priced out, looking at Abbotsford
 - 🏠 Just visiting, this place is wild
 
----
 
 ## The Food Scene: No Bullshit Version
 
@@ -69,7 +69,6 @@ Collingwood's food offering is genuinely strong, but it's not trying to be anyth
 **The coffee situation:**
 Collingwood takes coffee as seriously as [Brunswick](/suburbs/brunswick), and the competition means standards stay high. You'll struggle to find a bad flat white here. You will absolutely find a barista who judges you for ordering a large.
 
----
 
 ## The Pub and Bar Landscape
 
@@ -80,7 +79,6 @@ For something a bit more curated, Collingwood has increasingly become natural wi
 **Getting home safe from Collingwood nightlife:**
 Smith Street is well-lit and busy until late, but the quieter streets heading toward Hoddle Street and the Collingwood Estate get pretty dark and deserted after midnight. Stick to the main drags if you're walking. The 86 tram runs late, and there's usually a queue of rideshares on Johnston Street. Collingwood Police Station is at 255 Smith Street — good to know, even if you hopefully never need it.
 
----
 
 ## What Collingwood Gets Right
 
@@ -92,7 +90,6 @@ Smith Street is well-lit and busy until late, but the quieter streets heading to
 
 **The community feel.** Despite the gentrification pressure, Collingwood still has a genuine neighbourhood energy. The local primary school does sausage sizzles. The Saturday markets at the Collingwood Children's Farm (technically Abbotsford, but Collingwood claims it) are a proper community event. There's a "we're in this together" vibe that you don't always get in the inner north.
 
----
 
 ## What Collingwood Gets Wrong
 
@@ -104,7 +101,6 @@ Smith Street is well-lit and busy until late, but the quieter streets heading to
 
 **Late-night transport is patchy.** The 86 tram is great until about 1am, then you're in rideshare territory. If you're coming home from the Tote at 2am, budget $25–$35 for a cab.
 
----
 
 ## What We Skipped and Why
 
@@ -116,7 +112,6 @@ Smith Street is well-lit and busy until late, but the quieter streets heading to
 
 **The "art scene" overview.** Collingwood has galleries and creative spaces, but they come and go faster than we can write about them. The art scene here is more about studio spaces and behind-closed-doors openings than public gallery culture. Check what's current before planning a cultural outing.
 
----
 
 ## The Honest Verdict
 
@@ -135,7 +130,6 @@ Spoiler: for about 60% of Melbourne's inner-north aspirants, it will.
 - 🤷 Give me Richmond any day
 - 🚫 Too intense for me
 
----
 
 ## Collingwood by the Numbers
 
@@ -150,7 +144,6 @@ Spoiler: for about 60% of Melbourne's inner-north aspirants, it will.
 | **Coffee** | $4.50–$5.50 flat white |
 | **Vibe Score** | Check this week's score on the [Collingwood hub page](/suburbs/collingwood) |
 
----
 
 ## Cross-Suburb Guides
 
@@ -158,7 +151,6 @@ Spoiler: for about 60% of Melbourne's inner-north aspirants, it will.
 - [Richmond Honest Guide](/suburbs/richmond/honest-guide) — AFL, Bridge Road, and the Yarra
 - [Abbotsford Honest Guide](/suburbs/abbotsford/honest-guide) — Quieter, greener, and surprisingly affordable
 
----
 
 <!-- ENGAGEMENT WIDGET 3 -->
 **Rate Collingwood:**
@@ -168,7 +160,6 @@ How does Collingwood stack up? Drop your score.
 - ⭐⭐⭐ "Good, not great — Fitzroy edges it"
 - ⭐⭐ "Overrated and overpriced"
 
----
 
 <!-- ENGAGEMENT WIDGET 4 -->
 **What should we cover next?**
@@ -178,7 +169,6 @@ We write these honest guides suburb by suburb. Tell us where to go next:
 - 🔥 [Prahran](/suburbs/prahran) — "Chapel Street drama and vintage finds"
 - 🔥 [Northcote](/suburbs/northcote) — "The 86 tram's crown jewel"
 
----
 
 *This guide was written by Jack Morrison, MELBZ Suburb Profile Editor. Prices and data sourced from REIV, Domain, and on-the-ground reporting. Information is current as of March 2026 — always check directly with venues for latest hours and menus.*
 

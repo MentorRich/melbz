@@ -5,27 +5,28 @@ date: 2026-03-16
 author: jack
 tags: ["collingwood", "suburb-profile", "hub"]
 categories: ["editorial"]
-description: "Collingwood: The Complete Suburb Profile 2026
+description: "Collingwood: The Complete Suburb Profile 2026"
+---
 
-COLLINGWOOD VIBE SCORE: 83/100 ⚡️ ELECTRIC (+1 this week)
+**Updated 16 March 2026 | Jack Morrison reporting**
 
-Updated 16 March 2026 | Jack Morrison reporting
+
 
 --..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # Collingwood: The Complete Suburb Profile 2026
 
 **COLLINGWOOD VIBE SCORE: 83/100 ⚡️ ELECTRIC (+1 this week)**
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
----
 
 There's a version of Melbourne where every suburb looks the same — the same chain cafés, the same grey apartment towers, the same sense that someone designed a neighbourhood in a spreadsheet. Collingwood is not that suburb. Collingwood is the antidote to that spreadsheet.
 
 If you've just moved here, are thinking about moving here, or have lived here for twenty years and want to see how the locals describe it, this is your page. Everything you need to know about Collingwood in 2026 — the rent, the food, the nightlife, the transport, the parks, and the particular energy that makes this suburb impossible to fake.
 
----
 
 ## The Vibe
 
@@ -37,7 +38,6 @@ The people: young creatives, tradies who've been here forever, families who boug
 
 The energy is direct. Collingwood doesn't perform. If you've ever been to a Pies game at the AIA Centre and felt the particular brand of passionate, unpretentious, slightly intimidating support — that's the whole suburb distilled.
 
----
 
 ## Rent & Cost of Living
 
@@ -58,7 +58,6 @@ Groceries: the Aldi on Smith Street is a lifeline. Queen Victoria Market is a te
 
 For a full breakdown of living costs across Melbourne's inner north, check our [Brunswick cost of living guide](/suburbs/brunswick/cost-of-living) — it's a useful comparison point for anyone weighing up Collingwood vs. the suburbs further up the line.
 
----
 
 ## Food
 
@@ -86,7 +85,6 @@ Johnston Street is rougher-edged than Smith and that's part of its charm. It's w
 
 The annual Johnston Street Fiesta is one of Melbourne's most underrated street parties. If you haven't been, plan for it.
 
----
 
 ## Bars & Nightlife
 
@@ -112,7 +110,6 @@ Late-night Collingwood is generally safe, but the usual Melbourne rules apply:
 
 Want to compare the nightlife across the inner north? Our [Fitzroy nightlife guide](/suburbs/fitroy/nightlife) breaks it out suburb by suburb so you can plan your evening route.
 
----
 
 ## Transport
 
@@ -133,7 +130,6 @@ Collingwood is one of Melbourne's best-connected suburbs for public transport, a
 **Driving:**
 Parking in Collingwood is what you'd expect — tight, competitive, and the subject of many neighbourhood Facebook arguments. Most side streets between Johnston and Alexandra Parade have free 2-hour parking during the day. After 6pm, restrictions ease. The Collingwood Leisure Centre car park is an option if you're visiting Smith Street and don't want to circle blocks.
 
----
 
 ## Parks & Green Space
 
@@ -145,7 +141,6 @@ Collingwood doesn't have the sprawling parklands of Carlton or the Royal Park of
 
 For families, **Wurundjeri Wetlands** (just across the border in Clifton Hill) is worth the five-minute walk. It's a genuine wetland ecosystem right in the inner suburbs and a reminder that Melbourne's urban fringe was once marshland.
 
----
 
 ## The Smith Street vs. Johnston Street Debate
 
@@ -157,7 +152,6 @@ This is the central tension of Collingwood and it matters more than you'd think 
 
 The best version of Collingwood uses both. Grab a natural wine on Smith, walk to Johnston for a gig at The Tote, walk back to Smith for a late-night kebab. That three-stop circuit is a Collingwood rite of passage.
 
----
 
 ## Collingwood Confessions
 
@@ -173,7 +167,6 @@ The best version of Collingwood uses both. Grab a natural wine on Smith, walk to
 
 **Got a confession?** [Drop it in the box →](/confessions/submit)
 
----
 
 ## 🗳️ VOTE: Is Collingwood Still the Best Suburb in Melbourne's Inner North?
 
@@ -187,7 +180,6 @@ We asked 1,247 MELBZ readers this week:
 
 [Cast your vote on this week's poll →](/vote/collingwood-best-inner-north)
 
----
 
 ## 🥊 FIGHT US: The Hot Takes
 
@@ -199,7 +191,6 @@ Collingwood opinions are never lukewarm. Tell us we're wrong:
 
 [Drop your take in the comments ↓]
 
----
 
 ## Who Collingwood Is For
 
@@ -209,7 +200,6 @@ Collingwood opinions are never lukewarm. Tell us we're wrong:
 
 **The honest version:** Collingwood in 2026 is a suburb that works. Not perfectly — the rent is climbing, the gentrification pressure is real, and the tension between old and new creates genuine friction sometimes. But it works. People eat well, go to gigs, ride bikes along the creek, and feel like they live somewhere with an identity. In a city where more and more suburbs feel interchangeable, that counts for something.
 
----
 
 ## What's Next
 
@@ -219,7 +209,6 @@ The Vibe Score ticked up +1 this week, partly driven by a strong weekend of live
 
 For more on what's happening right now, check our [What's On This Weekend](/this-weekend) page — the picks for Collingwood are always stacked.
 
----
 
 *Have a tip, a correction, or a confession from Collingwood? [Submit it here →](/submit)*
 
@@ -227,7 +216,6 @@ For more on what's happening right now, check our [What's On This Weekend](/this
 
 *Compare Collingwood to its neighbours: [Fitzroy](/suburbs/fitroy/hub) · [Brunswick](/suburbs/brunswick/hub) · [Abbotsford](/suburbs/abbotsford/hub)*
 
----
 
 **COLLINGWOOD VIBE SCORE: 83/100 ⚡️ ELECTRIC (+1 this week)**
 *Updated 16 March 2026 | Jack Morrison reporting*

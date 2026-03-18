@@ -5,19 +5,22 @@ date: 2026-03-16
 author: isabella
 tags: ["footscray", "weekend", "lifestyle"]
 categories: ["lifestyle"]
-description: "Weekend Guide: Footscray 2026 — Markets, Dumplings & Sunsets
-
-Updated 16 March 2026 | Isabella Greco reporting
-
+description: "Weekend Guide: Footscray 2026 — Markets, Dumplings & Sunsets"
 ---
+
+**Updated 16 March 2026 | Isabella Greco reporting**
+
+
+
+
+*Updated 16 March 2026 | Isabella Greco reporting*
+
 
 Footscray has been Melbourne's most unfa..."
----
 # Weekend Guide: Footscray 2026 — Markets, Dumplings & Sunsets
 
 *Updated 16 March 2026 | Isabella Greco reporting*
 
----
 
 Footscray has been Melbourne's most unfairly underrated suburb for long enough. While Fitzroy and Brunswick fight over brunch supremacy and Richmond hoards all the Vietnamese street cred, Footscray just keeps getting better — quietly, stubbornly, and on its own terms. This is the suburb where a Saturday morning means dodging prawn heads at the market, eating a $7 bowl of pho that would cost $22 in South Yarra, and watching the sun drop behind the Maribyrnong River with a $9 pint in your hand.
 
@@ -123,7 +126,6 @@ Footscray doesn't try to be Melbourne's coolest suburb. It doesn't need to be. W
 
 Come for the pho. Stay for the sunset. And for the love of god, don't call it "up and coming" — it's been here the whole time.
 
----
 
 *Was this weekend guide helpful? Rate Footscray's weekend scene: 🔥🔥🔥🔥🔥*
 

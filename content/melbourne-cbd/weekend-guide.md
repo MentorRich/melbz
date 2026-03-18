@@ -5,25 +5,27 @@ date: 2026-03-16
 author: isabella
 tags: ["melbourne-cbd", "weekend", "lifestyle"]
 categories: ["lifestyle"]
-description: "Weekend Guide: Melbourne CBD 2026 — What to Do Saturday & Sunday
-
-Updated 16 March 2026 | Isabella Greco reporting
-
+description: "Weekend Guide: Melbourne CBD 2026 — What to Do Saturday & Sunday"
 ---
+
+**Updated 16 March 2026 | Isabella Greco reporting**
+
+
+
+
+*Updated 16 March 2026 | Isabella Greco reporting*
+
 
 The CBD gets a bad rap from locals w..."
----
 # Weekend Guide: Melbourne CBD 2026 — What to Do Saturday & Sunday
 
 *Updated 16 March 2026 | Isabella Greco reporting*
 
----
 
 The CBD gets a bad rap from locals who write it off as tourist territory. Fair enough if your only frame of reference is Bourke Street Mall on a Saturday arvo. But Melbourne's actual city centre — the laneways, the side streets, the floors above the floors — runs deeper than most Melburnians bother to explore. This guide is your excuse to stop scrolling and start walking.
 
 Here's how to spend a proper Saturday and Sunday in the CBD, built around real places you can actually get into, with addresses and times so you're not guessing.
 
----
 
 ## SATURDAY
 
@@ -69,7 +71,6 @@ The whole loop is about 1.5 km and takes 30 minutes at a dawdle. Add time for ga
 
 **Cost:** Budget $60–100 for drinks and dinner per person.
 
----
 
 > ### 🏆 THE MOVE — Saturday Night Edition
 >
@@ -79,7 +80,6 @@ The whole loop is about 1.5 km and takes 30 minutes at a dawdle. Add time for ga
 >
 > **The Splurge:** Book **Vue de Monde** (Level 55, Rialto Building, 447 Collins St) — $250+ per person for degustation. Not an every-Saturday thing, but the view alone justifies the cost once.
 
----
 
 ## SUNDAY
 
@@ -129,7 +129,6 @@ Sunday evening in the CBD is quieter than Saturday, and that's the point.
 
 **Cost:** $30–50 for drinks and a light bite.
 
----
 
 > ### 🗳️ VOTE: What's Your CBD Sunday Non-Negotiable?
 >
@@ -140,7 +139,6 @@ Sunday evening in the CBD is quieter than Saturday, and that's the point.
 >
 > *Drop your answer in the comments. We track this stuff.*
 
----
 
 ## What We Skipped and Why
 
@@ -156,13 +154,11 @@ Every CBD guide has its blind spots. Here's what we left out and why:
 
 **Eureka Skydeck:** It's fine. $42 for the observation deck, $39 for the Edge experience (the glass box that slides out from the building). If heights are your thing, it's a genuine thrill. We skipped it because most weekend CBD visitors are looking for food, drink, and culture — not a 30-second adrenaline hit.
 
----
 
 > ### ⚡ URGENCY BANNER
 >
 > **March weekends are running out.** Autumn hits late March in Melbourne, and the CBD's outdoor dining, rooftop bars, and riverside walks shift tone fast. By April, the layers come out and the rooftop bars start closing for the season. This is your window.
 
----
 
 ## Cross-Suburb Weekend Combos
 
@@ -175,7 +171,6 @@ The CBD doesn't exist in a vacuum. Here's how to chain it with neighbouring subu
 | CBD Sunday afternoon | [Fitzroy](/suburbs/fitzroy) | Vintage shopping on Brunswick St, rooftop drinks | Tram 86 from Bourke St, 12 mins |
 | CBD Saturday morning | [Richmond](/suburbs/richmond) | Victoria Street pho for lunch, then Bridge Road outlets | Tram 75 from Flinders St, 15 mins |
 
----
 
 > ### 🗳️ POLL: How Do You Weekend?
 >
@@ -186,13 +181,11 @@ The CBD doesn't exist in a vacuum. Here's how to chain it with neighbouring subu
 >
 > *We're genuinely curious. The MELBZ team is split 50/50 between Option 2 and Option 4, and it causes arguments.*
 
----
 
 ## The Open Loop
 
 This guide covers the CBD. But Melbourne's best-kept weekend secret might be just outside it — the inner-north suburbs that run from [Fitzroy](/suburbs/fitzroy) up through [Collingwood](/suburbs/collingwood) and into [Richmond](/suburbs/richmond). If you want the version of Melbourne that locals actually live in, our [Fitzroy Weekend Walk](/suburbs/fitzroy) covers it street by street — vintage stores, street art that isn't in Hosier Lane, and the bars that don't make "top 10" lists but should.
 
----
 
 > ### 👍 REACTION BAR
 >
@@ -202,7 +195,6 @@ This guide covers the CBD. But Melbourne's best-kept weekend secret might be jus
 >
 > *If we missed your spot, tell us in the comments. We update these guides every season.*
 
----
 
 ## The Bottom Line
 
@@ -212,7 +204,6 @@ Saturday is for markets, galleries, and a long evening that starts with cocktail
 
 The CBD rewards people who look up. Most of the good stuff is on the second floor, down the laneway, or behind the unmarked door.
 
----
 
 *Updated 16 March 2026 | Isabella Greco reporting*
 

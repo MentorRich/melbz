@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jules
 tags: ["richmond", "restaurants", "food"]
 categories: ["food"]
-description: "Best Restaurants in Richmond 2026: Swan Street & Victoria Street
+description: "Best Restaurants in Richmond 2026: Swan Street & Victoria Street"
+---
 
-Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting
+**Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting**
+
+
 
 Richmond has always be..."
----
+
+*Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
+
 # Best Restaurants in Richmond 2026: Swan Street & Victoria Street
 
 *Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
@@ -19,7 +24,6 @@ Richmond has always been Melbourne's most interesting eating suburb — and I'll
 
 I spent three weeks eating my way through Richmond for this guide. Six restaurants made the cut. Here's what earned a spot.
 
----
 
 ## 1. Minamishima
 
@@ -37,7 +41,6 @@ There's no menu. You sit at the hinoki counter — twelve seats, book them early
 
 **How it compares:** If you're exploring the broader inner east, Minamishima sits in a different league to anything in nearby Cremorne or South Yarra. It competes with the best in the CBD — and often wins.
 
----
 
 ## 2. Anchovy
 
@@ -55,7 +58,6 @@ The dining room on Bridge Road is understated and warm, with a kind of considere
 
 **Cross-suburb note:** If you love Anchovy, the Collingwood dining scene — particularly along Smith Street — has some of that same energy. Places like Etta and Bar Exuberante share a similar respect for Asian heritage dishes executed with modern technique.
 
----
 
 ## 3. Hanoi Hannah New Quarter
 
@@ -71,7 +73,6 @@ The corner location at Lennox and Swan is prime Richmond real estate, close to t
 
 **Worth knowing:** The drinks list is well curated, with Vietnamese lagers, Australian wines, and cocktails that use lemongrass, star anise, and other Southeast Asian aromatics. The share-plate format means a table of four can easily try eight or nine dishes without breaking the bank.
 
----
 
 ## 4. Noir
 
@@ -87,7 +88,6 @@ Step inside and you get black walls, candlelight, fresh white lilies at the bar,
 
 **Worth knowing:** Noir's set menu nights (usually midweek) offer outstanding value for the quality of the cooking and the cellar. It's also one of the few Richmond restaurants where you can have a genuinely quiet, grown-up meal without competing with a thumping soundtrack.
 
----
 
 ## 5. Thy Thy Counter & Canteen
 
@@ -103,7 +103,6 @@ Thy Thy Counter & Canteen sits on Victoria Street and looks nothing like its pre
 
 **Worth knowing:** Victoria Street between Church Street and Burnley Street remains Melbourne's spiritual home for Vietnamese food. Thy Thy sits in excellent company, with spots like Borsch Vodka Tears, Miss Ping's, and Pho Tam all within walking distance. If you're exploring the strip, make an afternoon of it.
 
----
 
 ## 6. Cochin Wine Bar & Restaurant
 
@@ -119,7 +118,6 @@ Named after the port city in southern Vietnam (now Ho Chi Minh City) where Frenc
 
 **Worth knowing:** Lunch service Thursday through Sunday is the under the radar — less crowded, same food, and you can snag a table by the window. Dinner Tuesday to Sunday from 4pm. The pet-friendly outdoor area is a bonus on Melbourne's shoulder-season evenings.
 
----
 
 ## 🍽️ Quick Poll: What's your go-to Richmond food street?
 
@@ -130,7 +128,6 @@ Named after the port city in southern Vietnam (now Ho Chi Minh City) where Frenc
 
 *Let us know in the comments or hit us up on Instagram @melbzfood.*
 
----
 
 ## What We Skipped and Why
 
@@ -146,13 +143,11 @@ Every guide like this involves hard calls. Here's what didn't make the cut and w
 
 **Pure bar/snack venues** — Wine bars and cocktail spots that only serve small bites aren't restaurants in our book. We love them, but they belong in our drinks guide.
 
----
 
 ## 🗺️ Plan Your Richmond Food Crawl
 
 > **Pro tip:** Start with drinks and banh mi fingers at Hanoi Hannah New Quarter on Swan Street, walk east to Cochin for a glass of wine and two shared plates, then head north to Bridge Road for the main event at Anchovy. If you've got room (and bookings), finish at Noir for cheese and a nightcap.
 
----
 
 ## The Bigger Picture: Richmond's Food Identity
 
@@ -164,7 +159,6 @@ If you're coming from **Cremorne** (just across the river), you'll find the dini
 
 Richmond, for now, holds the balance. It's got the depth, the diversity, and the prices to prove it.
 
----
 
 ## 📊 Price Guide at a Glance
 
@@ -177,7 +171,6 @@ Richmond, for now, holds the balance. It's got the depth, the diversity, and the
 | Thy Thy Counter & Canteen | $20–40 | Contemporary Vietnamese | Weeknight meals |
 | Cochin Wine Bar & Restaurant | $50–80 | Vietnamese-French | Wine bar vibes, sharing |
 
----
 
 ## 📝 Before You Go: Good to Know
 
@@ -186,7 +179,6 @@ Richmond, for now, holds the balance. It's got the depth, the diversity, and the
 - **Accessibility:** All six restaurants have ground-floor access. Thy Thy Counter & Canteen is the most accessible format (counter service, no stairs).
 - **Parking:** Richmond is a nightmare for parking, especially on Swan Street near the MCG. Take the train to Richmond Station or East Richmond, or ride-share.
 
----
 
 *That's the list. Richmond is doing the thing it's always done — feeding people well, at every level, without pretence. See you on Swan Street.*
 

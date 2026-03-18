@@ -5,12 +5,11 @@ date: 2026-03-18
 author: liam
 tags: ["southbank", "late-night-eats"]
 categories: ["late"]
-description: "Updated 18 March 2026 | Pizza & Italian Writer
-
- Late Night Eats in Southbank: Where to Eat After 10pm
-=====================================================
-..."
+description: "Late Night Eats in Southbank: Where to Eat After 10pm"
 ---
+
+*description: "18 March 2026 | Pizza & Italian Writer"*
+
 *Updated 18 March 2026 | Pizza & Italian Writer*
 
 # Late Night Eats in Southbank: Where to Eat After 10pm

@@ -5,17 +5,16 @@ date: 2026-03-16
 author: grace
 tags: ["melbourne-cbd", "restaurants", "food"]
 categories: ["food"]
-description: "Best Restaurants in Melbourne CBD 2026: The Definitive List
+description: "Best Restaurants in Melbourne CBD 2026: The Definitive List"
+---
 
 Melbourne's CBD dining scene in 2026 is doing what it always does best — refusing to sit still. ..."
----
 # Best Restaurants in Melbourne CBD 2026: The Definitive List
 
 Melbourne's CBD dining scene in 2026 is doing what it always does best — refusing to sit still. Between a wave of ambitious new openings, established institutions holding their ground, and one of the tightest labour markets in hospo history, the square mile between the Yarra and Victoria Street has never demanded more from your dining choices. We've done the legwork so you don't have to book somewhere mediocre on a Friday night and regret it for a week.
 
 **Updated 16 March 2026 | 6 places tested | Grace Williams reporting**
 
----
 
 ## 📊 POLL: What's Your CBD Go-To?
 
@@ -29,7 +28,6 @@ Melbourne's CBD dining scene in 2026 is doing what it always does best — refus
 
 *Vote in the comments — we track the results and they actually shift our recommendations.*
 
----
 
 ## 1. Gimlet at Cavendish House
 
@@ -44,7 +42,6 @@ Andrew McConnell's flagship at the corner of Russell Street and Flinders Lane re
 **Hours:** Lunch and dinner 7 days, supper Friday and Saturday
 **Insider tip:** Book the booth seats near the bar for people-watching, and if you're going solo, sit at the cocktail bar — the bartenders are among the best in the city and will make you something off-menu if you ask nicely. Also, the weekend brunch is criminally underrated compared to the dinner service.
 
----
 
 ## 2. Ishizuka
 
@@ -59,7 +56,6 @@ This is not a casual Tuesday dinner. Ishizuka is Melbourne's most committed expr
 **Hours:** Wednesday–Sunday dinner, two seatings (5:30pm and 8pm); Sunday 6pm
 **Insider tip:** Book at least two weeks ahead. The deposit is $100 per person and is non-refundable within 48 hours. If you have dietary restrictions, tell them at booking — they accommodate but need notice. The Wednesday first seating is the easiest to get into.
 
----
 
 ## 3. Flower Drum
 
@@ -74,7 +70,6 @@ Forty-nine years in the same Market Lane spot, and Flower Drum still commands a 
 **Hours:** Lunch Mon–Sat 12–2:30pm; Dinner daily 6–11pm
 **Insider tip:** Ask for the unpublished chefs' menu — it's not on the regular menu but the kitchen will prepare off-menu dishes if you request them. Best done with a group of four or more. Also, the second-floor room is quieter than the ground floor if you want a more intimate experience.
 
----
 
 ## 4. Saadi
 
@@ -89,13 +84,11 @@ Chef couple Saavni Krishnan and Sriram Aditya Suresh have packed over a decade o
 **Hours:** Dinner Tuesday–Saturday, lunch Friday–Saturday
 **Insider tip:** Sit near the open kitchen if you can. The charcoal grilling is as much theatre as technique, and watching Sriram work the fire adds a dimension the à la carte takeaway misses. Pre-theatre timing (5:30pm seating) works well if you're catching a show at Her Majesty's nearby.
 
----
 
 ## 🔥 THE MOVE — This Week Only
 
 **Ginza Kagari just landed in Melbourne.** Tokyo's legendary chicken ramen chain opened its first Australian outpost in the CBD in March 2026. Expect queues. Their tori paitan (creamy chicken broth) ramen is the one to order. If you're reading this the week it publishes, you're early — get in before the TikTok crowd discovers it and the wait stretches past an hour.
 
----
 
 ## 5. Silk Spoon
 
@@ -110,7 +103,6 @@ Silk Spoon draws from the Silk Road — expect dishes inspired by Chinese, Centr
 **Hours:** Weekday lunch and early dinner
 **Insider tip:** Go at 11:45am or after 1:30pm to dodge the peak office lunch rush (12–1pm is chaos). They also do take-home sauces and spice blends — the chilli crisp is genuinely excellent and makes everything in your fridge better.
 
----
 
 ## 6. Bomba
 
@@ -125,13 +117,11 @@ Bomba has been a consistent performer since it opened, and the 2026 iteration un
 **Hours:** Dinner daily from 5pm; rooftop open weekends from noon
 **Insider tip:** The rooftop fills up fast on Fridays after 6pm — arrive by 5:30 or book ahead. If you're eating downstairs, the chef's selection plate ($55pp) takes the decision-making out of it and covers the best of the menu. Perfect for groups where one person always takes 20 minutes to choose.
 
----
 
 ## 🚨 URGENCY: Book Now or Wait Until May
 
 Easter and ANZAC Day long weekends are slamming Melbourne CBD restaurants in 2026. If you're planning anything for the last two weeks of April, book this week. Ishizuka is already showing limited availability for Good Friday. Gimlet's Easter Saturday dinner service is at 80% capacity. Don't be the person refreshing OpenTable at 4pm on a Thursday wondering why nothing is available.
 
----
 
 
 ## Venue Addresses & Details
@@ -156,7 +146,6 @@ Every "best restaurants" list is also a list of places that didn't make the cut.
 
 **Supper Inn** — A Melbourne institution and BYO legend, but it's a late-night Cantonese canteen, not a fine dining destination. Different list, different purpose. We'll cover it in our [late-night eating guide for the CBD](/melbourne-cbd/late-night-eating) — that's its lane.
 
----
 
 ## 🗳️ VOTE: Rate This List
 
@@ -169,7 +158,6 @@ Every "best restaurants" list is also a list of places that didn't make the cut.
 
 *[Vote and we'll adjust future lists based on what readers actually want.]*
 
----
 
 
 ## Venue Addresses & Details
@@ -188,7 +176,6 @@ The CBD is also getting cheaper to eat well in. Silk Spoon proving that chef-qua
 
 **Your Melbourne CBD Vibe Score this week: 87/100** — Strong dining scene, rooftop season approaching, watch for Easter booking pressure.
 
----
 
 *Know a CBD restaurant we missed? Drop it in the comments or [submit a tip](/submit). We test everything before it makes the list.*
 
@@ -196,7 +183,6 @@ The CBD is also getting cheaper to eat well in. Silk Spoon proving that chef-qua
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **👍 Was this helpful?** [Yes] [No] — *Your feedback shapes future guides.*
 

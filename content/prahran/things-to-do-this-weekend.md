@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Prahran — 2026 Local Guide"
 cover_image: "/images/prahran/things-to-do-this-weekend.jpg"
+---
+
 suburb: "prahran"
 vertical: "lifestyle"
 author: "maya"
@@ -9,12 +11,10 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Prahran. Our verified 2026 guide covers the best spots for locals."
 tags: ["prahran"]
 categories: ["things"]
----
 ## Things To Do This Weekend in Prahran
 
 Prahran on a weekend is a different animal to Prahran on a Tuesday. The market's pumping, the brunch crowds are out in force, Greville Street has that slightly buzzing energy that comes from people actually having time to browse, and by Saturday night, Chapel Street transforms from a shopping strip into a full-blown nightlife corridor. Whether you're a Prahran local looking for fresh ideas or you're heading in from elsewhere, here's how to spend a weekend in Prahran in 2026.
 
----
 
 ### Saturday Morning: Prahran Market and Coffee
 
@@ -27,7 +27,6 @@ Start where every good Prahran weekend starts — at **Prahran Market** (163 Com
 
 After the market, walk five minutes to **Greville Street** for a browse through the boutiques, vintage shops, and galleries. **Chapel Street Bazaar** (217 Chapel Street) is the indoor vintage market that rewards patience — hundreds of stalls with retro clothing, vinyl, books, and homewares. You'll either find something amazing or leave empty-handed, there's no in-between.
 
----
 
 ### Saturday Afternoon: Choose Your Own Adventure
 
@@ -45,7 +44,6 @@ Grab a coffee at **Tone Coffee** (180 Commercial Road) or **ST. ALi** (12–13 Y
 **Option D: The Active Option**
 If you want to burn off some of the brunch calories, **Victoria Gardens** on Williams Road has walking paths and enough open space for a jog, a kick-to-kick, or just lying on the grass contemplating whether you really needed that third coffee (yes, you did).
 
----
 
 ### Saturday Night: Chapel Street After Dark
 
@@ -59,7 +57,6 @@ Saturday night on Chapel Street is where Prahran shows its other face. The shopp
 
 **Getting home:** The 78 tram runs along Chapel Street until around 1am. Night Network buses cover the route after that. Uber pick-up zones are near Prahran Station — don't try to get picked up in the middle of the strip. See our [nightlife guide](/prahran/nightlife-guide) for the full rundown on getting home safe.
 
----
 
 ### Sunday Morning: The Slow Start
 
@@ -72,7 +69,6 @@ Sunday mornings in Prahran have a different energy. The market is still open (un
 
 If you skipped the market on Saturday, Sunday is your second chance. The crowd is thinner, the produce is still fresh, and you can actually have a conversation with the stallholders without shouting.
 
----
 
 ### Sunday Afternoon: Winding Down
 
@@ -85,7 +81,6 @@ Hit **Alp's Wine House** near the market for a bottle of something interesting a
 **Option C: Cultural Wander**
 The Jam Factory (Chapel Street) has a cinema complex if you want to catch a film, and the wider Prahran–South Yarra area has several gallery spaces that rotate exhibitions regularly. Greville Street's boutique galleries are free to enter and worth a browse.
 
----
 
 ### If It's Raining
 
@@ -97,7 +92,6 @@ Melbourne weather does what it wants, and Prahran weekends in the rain are still
 - **ST. ALi** or **Tone Coffee** for a coffee-and-read session that stretches into the arvo.
 - **Chapel Street Bazaar** — the indoor vintage market is a rainy-day goldmine. You'll lose two hours without noticing.
 
----
 
 ### Weekend on a Budget
 
@@ -108,7 +102,6 @@ Prahran can be done cheaply if you're strategic:
 - **Under $30:** A pub lunch at the Prahran Hotel or College Lawn (burger + schooner = $25–$28), coffee and a pastry at Pardon, a cheap brunch at The Apprentice.
 - **Under $50:** A proper brunch for two with coffee, or a dinner at Colonel Tan's with a drink.
 
----
 
 ## Beyond Prahran This Weekend
 
@@ -118,7 +111,6 @@ If you want to extend your weekend, Prahran's location makes it easy to explore 
 - **[Windsor](/windsor/things-to-do-this-weekend):** Continue south along Chapel Street for a younger, more alternative vibe — different restaurants, different crowd, same street.
 - **[Melbourne CBD](/melbourne-cbd/things-to-do-this-weekend):** 12 minutes by train from Prahran Station. If your weekend needs a CBD component, it's right there.
 
----
 
 ## What We Skipped and Why
 
@@ -128,11 +120,9 @@ If you want to extend your weekend, Prahran's location makes it easy to explore 
 
 Every venue and price listed was verified in February–March 2026. Hours and specials may change — always check before heading out.
 
----
 
 **Living in Prahran?** [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=prahran)
 
----
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran guides, see our [neighbourhood guide](/prahran/neighbourhood-guide), [best coffee guide](/prahran/best-coffee), or [date night picks](/prahran/date-night). If you're exploring beyond Prahran, check our [South Yarra weekend guide](/south-yarra/things-to-do-this-weekend) or [Windsor weekend guide](/windsor/things-to-do-this-weekend).*
 

@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/nightlife-guide.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the nightlife guide in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["nightlife"]
----
 # The Nightlife Guide to Northcote — 2026 Edition
 
 **Updated 16 March 2026 | Ethan reporting**
@@ -18,7 +19,6 @@ Northcote nightlife doesn't try to be Chapel Street. It doesn't want to be. What
 
 This isn't a guide to clubs with bottle service and a dress code. This is a guide to the places where the bartender remembers your drink, the music doesn't suck, and you can get a schooner for under $10. If that's your version of a good night out — and if you're reading a Northcote guide, it probably is — welcome home.
 
----
 
 ## 1. Northcote Social Club — The Institution
 
@@ -36,7 +36,6 @@ The bar does solid pub food (the parma is respectable), a rotating tap list of V
 
 > **Insider tip:** The front bar area (separate from the performance room) is open on non-gig nights and is one of the best quiet drinks spots in Northcote. Good natural wine list, low lighting, nobody yelling. Perfect for a Wednesday when you want to feel like a person again.
 
----
 
 ## 2. Croxton Park Hotel — The Local That Got a Facelift
 
@@ -54,7 +53,6 @@ The live music in the back room is sporadic but well-curated. They tend towards 
 
 **Insider tip:** Sunday arvos at the Croxton are peak Northcote. The beer garden fills up, someone brings a dog, the footy's on the TV inside, and the whole thing feels like a neighbourhood barbecue that somehow has a liquor licence.
 
----
 
 ## 3. Bar Democracy — Natural Wine and No Nonsense
 
@@ -72,7 +70,6 @@ The space is tiny and doesn't take bookings for groups under 6, which means week
 
 **Insider tip:** Wednesday nights are the secret weapon. They run a "wine flight" deal — three glasses matched to three small plates for $45. It's the best value tasting experience in Northcote, and it finishes early enough that you can still make the Northcote Social Club if a gig catches your eye.
 
----
 
 ## 4. The Union Hotel — Old School, No Apologies
 
@@ -90,7 +87,6 @@ This is not a destination bar — it's a neighbourhood pub in the truest sense. 
 
 **Insider tip:** Tuesday nights they do a meat raffle that's been running since approximately forever. It's free to enter with a drink purchase and the prize is a proper butcher's box of meat. This is not a joke. People take it very seriously.
 
----
 
 ## 5.- The Thornbury Social — The Border Blurrer
 
@@ -106,7 +102,6 @@ The main difference is the crowd. Where the Northcote Social Club skews slightly
 
 **Open Loop → If you're planning a pub crawl, the Thornbury Social is a natural extension of a Northcote night. Start at [the Northcote Social Club](/northcote/northcote-social-club-guide), walk north to the Thornbury Social, and end at the Union for a late-night schooner.**
 
----
 
 ## Getting Home Safe
 
@@ -121,7 +116,6 @@ Northcote nightlife wraps up between midnight and 2am for most venues, with the 
 
 **Drink spiking awareness:** Watch your drink at all times. If you feel suddenly unwell or disoriented, tell venue staff immediately. The Northcote Social Club and Croxton Park Hotel both have "Ask for Angela" protocols — say those words to any staff member and they'll help you get home safely, no questions asked.
 
----
 
 **POLL: What's your ideal Northcote night out?**
 
@@ -132,7 +126,6 @@ Northcote nightlife wraps up between midnight and 2am for most venues, with the 
 
 *Vote and tag your Friday crew @melbzcomau with #NorthcoteNights*
 
----
 
 **NEIGHBOURING SUBURBS: Extend Your Night**
 
@@ -142,7 +135,6 @@ Northcote nightlife wraps up between midnight and 2am for most venues, with the 
 - 🎸 [Nightlife Guide — Fitzroy North](/fitzroy-north/nightlife-guide) — "Where Northcote's south end bleeds into Smith Street energy"
 - 🎸 [Nightlife Guide — Brunswick](/brunswick/nightlife-guide) — "The Sydney Road scene that rivals anything in the CBD"
 
----
 
 **CONFESSION BOX 🗣️**
 
@@ -150,7 +142,6 @@ Northcote nightlife wraps up between midnight and 2am for most venues, with the 
 
 The winner: "A bloke tried to order a cocktail at the Union. The bartender stared at him for about five seconds, then poured him a VB and said, 'There's your cocktail.' The bloke drank it and came back every Friday for a year. Legends, both of them."
 
----
 
 **Living in Northcote? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=northcote)**
 

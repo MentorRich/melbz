@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide in Northcote — 2026 Local Guide"
 cover_image: "/images/northcote/neighbourhood-guide.jpg"
+---
+
 suburb: "northcote"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the neighbourhood guide in Northcote. Our verified 2026 guide covers the best spots for locals."
 tags: ["northcote"]
 categories: ["neighbourhood"]
----
 # The Ultimate Neighbourhood Guide to Northcote — 2026 Edition
 
 **Updated 16 March 2026 | Marcus Lane reporting**
@@ -18,7 +19,6 @@ Northcote sits in that sweet spot of Melbourne's inner north where a suburb stop
 
 If you're moving here, visiting, or just trying to work out why your Northcote mates are so protective of their suburb, this is the guide that tells you what's actually going on — not the tourism brochure version.
 
----
 
 ## Where Is Northcote, Really?
 
@@ -28,7 +28,6 @@ The 86 tram rumbles down High Street from the CBD all the way to Bundoora. The M
 
 **Getting home safe at night:** High Street is well-lit and busy until about 11pm on weekends. The stretch between Arthurton Road and Station Street has the most foot traffic late. The quieter residential streets off St Georges Road can feel isolated after dark — stick to the main roads if you're walking from the tram after midnight. For late-night rideshare, the High Street strip near the Northcote Social Club is the most reliable Uber pickup zone.
 
----
 
 ## The High Street Strip — What Actually Matters
 
@@ -40,7 +39,6 @@ High Street, Northcote is 1.5km of the most concentrated local business energy i
 
 **The north end (towards Thornbury):** Things get more affordable and more multicultural. You'll find Palestinian falafel joints, Vietnamese pho spots, and hardware stores that also sell plants. [Thornbury's section of High Street](/thornbury/neighbourhood-guide) picks up where Northcote leaves off, and the locals will tell you Thornbury is the better-kept secret. They might be right.
 
----
 
 ## Food and Drink — The Essentials
 
@@ -52,7 +50,6 @@ Northcote's food scene isn't trying to be anything it's not. You won't find degu
 
 **Pubs:** The Croxton Park Hotel got a facelift a few years back but hasn't lost its local feel. The Union Hotel on the corner of Arthurton and High is the kind of pub where you can still get a $7 schooner on a Wednesday arvo and nobody's taking a photo of their beer for Instagram.
 
----
 
 ## Shopping and Daily Life
 
@@ -66,7 +63,6 @@ Northcote doesn't have a Westfield, and that's entirely the point. What it does 
 
 - **Bike shops** — Northcote is one of Melbourne's most bike-friendly suburbs, and there are at least three dedicated bike shops along or near High Street. The bike path along the Merri Creek trail connects you straight to the CBD if you're keen enough to brave the commute.
 
----
 
 ## Parks, Green Spaces and the Outdoors
 
@@ -76,7 +72,6 @@ Northcote doesn't have a Westfield, and that's entirely the point. What it does 
 
 **Merri Creek Trail** — If you're new to Northcote and haven't walked the Merri Creek trail, sort your life out. It's a 60km trail that runs from the Bay to the northern suburbs, but the stretch through Northcote (from the Mernda train line down to Clifton Hill) is the prettiest. In autumn, the plane trees along the banks are genuinely stunning. In winter, bring gumboots — parts of the path flood.
 
----
 
 ## What It Actually Costs to Live Here
 
@@ -94,7 +89,6 @@ Let's be honest, because everyone else won't be.
 
 You'll need a household income of roughly $180K+ to buy comfortably here, or about $120K+ to rent a decent 3-bedroom house without eating instant noodles every night. Northcote isn't cheap, but it's still more accessible than its southern neighbours — [Fitzroy North's median house price](/fitzroy-north/neighbourhood-guide) sits around $1.4M, and Brunswick is tracking similar.
 
----
 
 ## Schools and Family Life
 
@@ -102,7 +96,6 @@ Northcote has solid public schooling options. Northcote Primary School is well-r
 
 For childcare, there are several centres along the St Georges Road corridor and a couple of Montessori options nearby. Waitlists can be 6–12 months, so get in early if you've got a little one.
 
----
 
 ## The Neighbourhood Rivalry Map
 
@@ -114,7 +107,6 @@ Every inner-north suburb has opinions about its neighbours. Here's the unfiltere
 
 - **Northcote vs Brunswick:** Brunswick has Lygon Street and the Italian legacy. Northcote has High Street and the multicultural edge. They don't really compete — they're playing different games. But if you put a Northcote person and a Brunswick person in the same room, the coffee debate will go for hours.
 
----
 
 ## Verdict: Who Is Northcote For?
 
@@ -124,7 +116,6 @@ It's not for everyone. The rent isn't cheap. The 86 tram will test your patience
 
 But if you're the kind of person who values a $12 Indonesian plate that tastes like someone's nan made it, a walk along the creek at sunset, and a suburb that still feels like it belongs to its residents rather than its investors — Northcote is home.
 
----
 
 **RATE YOUR SUBURB 🏠**
 
@@ -136,7 +127,6 @@ But if you're the kind of person who values a $12 Indonesian plate that tastes l
 
 *Drop your rating and tell us why. The best responses get featured in next week's Monday Briefing.*
 
----
 
 **NEIGHBOURING SUBURBS: Compare Your Options**
 
@@ -146,7 +136,6 @@ But if you're the kind of person who values a $12 Indonesian plate that tastes l
 - 🏘️ [Fitzroy North Neighbourhood Guide](/fitzroy-north/neighbourhood-guide) — "Where the cool kids moved when Fitzroy got too expensive"
 - 🏘️ [Brunswick Neighbourhood Guide](/brunswick/neighbourhood-guide) — "The Italian quarter that also does everything else"
 
----
 
 **CONFESSION BOX 🗣️**
 
@@ -156,7 +145,6 @@ The #1 answer? "Parking is a war crime on High Street weekends. Budget an extra 
 
 Runner-up: "Your neighbours will become your friends whether you planned it or not. Northcote has this weird gravitational pull where everyone ends up at the same pub."
 
----
 
 **NEED SERVICES IN NORTHCOTE? 🏠**
 

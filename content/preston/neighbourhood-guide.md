@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide in Preston — 2026 Local Guide"
 cover_image: "/images/preston/neighbourhood-guide.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the neighbourhood guide in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["neighbourhood"]
----
 ## The Neighbourhood Guide to Preston
 
 Preston doesn't try to impress you. That's exactly why it does.
@@ -100,14 +101,12 @@ Preston is the kind of suburb that rewards loyalty. The more you go, the more yo
 
 It's not trying to be Fitzroy. It's not competing with Brunswick. It's doing its own thing — and doing it exceptionally well.
 
----
 
 **Getting from Preston to nearby suburbs:**
 → [Thornbury — 10 min walk south along High Street](/thornbury/)
 → [Northcote — 20 min walk or one tram stop](/northcote/)
 → [Reservoir — 5 min bike ride north](/reservoir/)
 
----
 
 *This guide was researched and written by the MELBZ team. Prices and hours are accurate as of March 2026 but should be confirmed before visiting. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

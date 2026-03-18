@@ -6,8 +6,9 @@ author: ""
 description: "Join MELBZ and become part of your suburb's community. Share confessions, debate flat white prices, and discover what's happening near you."
 tags: ["community", "join", "signup"]
 categories: ["Community"]
-layout: "custom"
 ---
+
+layout: "custom"
 
 <div class="join-hero">
   <h1>Welcome to the neighbourhood</h1>

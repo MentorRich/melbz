@@ -5,10 +5,10 @@ date: 2026-03-16
 author: priya
 tags: ["st-kilda", "cheap-eats", "food"]
 categories: ["food"]
-description: "Cheap Eats Under $20 in St Kilda 2026: Beyond the Cake Shops
+description: "Cheap Eats Under $20 in St Kilda 2026: Beyond the Cake Shops"
+---
 
 Look, everyone knows St Kilda for Acland Street's cake shops and the boardwalk tourist traps ch..."
----
 # Cheap Eats Under $20 in St Kilda 2026: Beyond the Cake Shops
 
 Look, everyone knows St Kilda for Acland Street's cake shops and the boardwalk tourist traps charging $28 for a parma you could get better in [South Melbourne](https://melbz.com.au/south-melbourne) for $16. But the real story of eating cheaply in St Kilda — the one the tourism brochures won't tell you — is happening on the side streets, in the holes-in-the-wall, and at the places where the actual residents eat when they're not pretending to be at Luna Park for someone's birthday.
@@ -19,7 +19,6 @@ I spent two weeks eating my way through the suburb with exactly $20 per meal as 
 
 **Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
 
----
 
 ## 1. Bread Time — The Best Banh Mi South of the River
 
@@ -35,7 +34,6 @@ The chicken version ($12) is also excellent, and there's a solid vegan option ($
 **Hours:** Daily, approximately 9:30am–11pm (check Instagram @breadtimeacland for variations)
 **Insider tip:** Go before 12pm on weekdays for the shortest queue. By 1pm, the line stretches to the street. Also — they're cash-friendly but card-first.
 
----
 
 ## 2. Trippy Taco — The Vegetarian Institution That Refuses to Be Pretentious
 
@@ -49,7 +47,6 @@ The tortillas are made fresh in-house every day. That sentence sounds like marke
 **Hours:** Daily, 11am–9pm (check trippytaco.com.au for updates)
 **Insider tip:** The jug of sangria is $20 and feeds two to four people, depending on your definition of "generous pour." That's your Friday sorted for under $40 if you split it.
 
----
 
 ## 3. Cafe Banff — St Kilda's Last True Dive Bar for Your Wallet
 
@@ -63,7 +60,6 @@ I'll be honest — Banff is not going to win any food awards. The pizza is a spe
 **Hours:** Daily, from midday until late
 **Insider tip:** Happy hour runs most days with $6 pots and cheap wine. Monday nights sometimes have $20 burger specials — check the eatdrinkcheap.com.au St Kilda page before you go, because the specials rotate.
 
----
 
 ## 4. Derby Thai — The Fitzroy Street Workhorse
 
@@ -77,7 +73,6 @@ This is the kind of place where you can tell the chef knows what they're doing b
 **Hours:** Mon–Fri 11am–10pm, Sat–Sun noon–10pm
 **Insider tip:** The portion sizes are closer to what you'd expect in [Elwood](https://melbz.com.au/elwood) — generous, not precious. Ask for extra chilli if you want actual Thai-level heat; the default is Melbourne-friendly.
 
----
 
 ## 5. Bullseye Banh Mi — Barkly Street's Answer to Carlisle Street
 
@@ -91,7 +86,6 @@ The bread here leans a touch softer than Bread Time's — more French-Vietnamese
 **Hours:** Weekdays 10:30am–8pm
 **Insider tip:** Walk five minutes further down Barkly Street and you hit the Balaclava end of Carlisle Street, which is basically Melbourne's unofficial Middle Eastern food strip. If you're on a cheap eats crawl, Bullseye → Kaduri in Ripponlea is a killer $30 combo.
 
----
 
 ## 6. Jode's Mediterranean Eatery — Carlisle Street's Quiet Achiever
 
@@ -105,7 +99,6 @@ Jode's doesn't have the Instagram presence of its flashier neighbours. It doesn'
 **Hours:** Mon–Sat 11am–9pm, Sun noon–8pm
 **Insider tip:** Carlisle Street between Hotham and St Kilda Road is the quiet stretch that most tourists walk past. That's their loss. This block has some of the best value food in the entire suburb and you can eat your way along it for under $50 in a single afternoon.
 
----
 
 ## What We Skipped and Why
 
@@ -119,7 +112,6 @@ Every cheap eats list has its blind spots. Here's what we deliberately left out 
 
 **Anything on The Esplanade.** The strip between Luna Park and the Palace Theatre is beautiful but it's a tourist pricing zone. You're paying for the view, not the food. Walk two blocks inland and save $8 on every meal.
 
----
 
 ## The $20 Challenge: Tips for Eating Cheap in St Kilda
 
@@ -131,7 +123,6 @@ Every cheap eats list has its blind spots. Here's what we deliberately left out 
 
 **Happy hours are your cheat code.** Cafe Banff, the Prince of Wales public bar, and a handful of spots along Fitzroy Street run specials that'll get you fed and watered for under $15 between 4pm and 7pm. Check eatdrinkcheap.com.au/melbourne/st+kilda-specials for the current rotation.
 
----
 
 ## The Bottom Line
 
@@ -141,7 +132,6 @@ If you only try one spot, make it Bread Time. An $11.50 banh mi that rivals anyt
 
 **St Kilda Vibe Score this week: 71/100** — Solid food value keeps the score from dipping further despite rent pressure on small venues.
 
----
 
 *Did we miss your favourite cheap eat? Let us know — we taste-test every recommendation.*
 

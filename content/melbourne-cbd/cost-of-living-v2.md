@@ -5,12 +5,17 @@ date: 2026-03-16
 author: marcus
 tags: ["melbourne-cbd", "cost-of-living", "property"]
 categories: ["property"]
-description: "Cost of Living in Melbourne CBD 2026: The Real Numbers
+description: "Cost of Living in Melbourne CBD 2026: The Real Numbers"
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 Living in the CBD isn't cheap. Nobody moved here think..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Cost of Living in Melbourne CBD 2026: The Real Numbers
 
 **Updated 16 March 2026 | Marcus Cole reporting**
@@ -25,7 +30,6 @@ We're also covering **Southbank**, **Carlton**, and **Docklands** where relevant
 
 Let's get into it.
 
----
 
 ## Rent: The Big One
 
@@ -47,7 +51,6 @@ Southbank and Docklands consistently undercut the CBD by $30–70/week for compa
 
 *Related reading: [Southbank Living Guide 2026](/southbank/hub) | [Is Docklands Actually Worth It?](/docklands/cost-of-living) | [Carlton: What $500 Gets You](/carlton/rent-prices)*
 
----
 
 ## Groceries: What a Weekly Shop Actually Costs
 
@@ -65,7 +68,6 @@ Realistic monthly grocery spend for a single CBD resident: **$400–$600**.
 
 If you're willing to bus or tram to Queen Victoria Market on Saturday mornings, you can knock 15–20% off that. The fruit and veg at Vic Market is genuinely cheaper than Coles or Woolworths, and the meat section is worth the trip. Carlton residents have a similar advantage with the Queen Vic and Lygon Street independents.
 
----
 
 ## Transport: The Myki Math
 
@@ -85,7 +87,6 @@ The **free tram zone** is the real perk of CBD living — trams within the free 
 
 If you drive: CBD parking is $25–$45/day for casual parking, or $350–$550/month for a secured spot. Don't drive. Seriously.
 
----
 
 ## Dining Out: The $15 to $150 Spectrum
 
@@ -112,7 +113,6 @@ Monthly dining budget for someone who eats out **3–4 times a week** (mix of ch
 
 Carlton is the neighbourhood where you eat well without going broke. The stretch of Lygon Street between Faraday and Argyle still delivers strong $15–$25 meals, and the espresso bars are cheaper than the CBD equivalent. If you're a food-focused person choosing between CBD and Carlton on budget alone, Carlton wins.
 
----
 
 ## Utilities: The Quarterly Shock
 
@@ -137,7 +137,6 @@ A few things to know about CBD utilities specifically:
 
 Water in Victorian rentals is almost always the landlord's responsibility, but you'll pay usage charges — roughly $30–$40/month for a single person who showers normally and doesn't water a (non-existent) garden.
 
----
 
 ## Coffee: The Non-Negotiable
 
@@ -153,7 +152,6 @@ The move is to make coffee at home during the week and save the cafe splurge for
 
 Southbank has fewer specialty coffee options than the CBD — you'll mostly find cafe chains near Crown and Southbank Promenade. If coffee quality matters to your daily sanity, the CBD and Carlton are where you want to be.
 
----
 
 ## Gym: From $10 to $400/Month
 
@@ -172,7 +170,6 @@ The best value play for a CBD resident: a budget gym membership ($15–$25/month
 
 If you're in Carlton, **North Melbourne Fitness** and several 24/7 budget gyms along the Barkly Street corridor come in under $25/month — consistently cheaper than CBD equivalents.
 
----
 
 ## Entertainment & Social Life
 
@@ -192,7 +189,6 @@ Monthly entertainment budget for a moderately social person: **$200–$500**.
 
 The free options in and around the CBD are genuinely excellent — NGV, ACMI, State Library, Federation Square events, and the laneways themselves are entertainment if you're the people-watching type. Southbank Promenade on a Sunday afternoon costs nothing and delivers street performers, river views, and the existential calm of watching other people pay $14 for a gelato.
 
----
 
 ## The Full Monthly Picture
 
@@ -216,7 +212,6 @@ That means you need a gross salary of roughly **$55,000–$85,000/year** to cove
 
 For comparison, the same lifestyle in Carlton would run approximately **$2,800–$4,200/month**, saving you $500–$900 monthly primarily through cheaper rent and slightly lower dining costs. Southbank sits between the two.
 
----
 
 ## What We Skipped and Why
 
@@ -230,7 +225,6 @@ For comparison, the same lifestyle in Carlton would run approximately **$2,800�
 
 **Clothing, personal care, subscriptions (streaming, etc.):** These are too individual to generalise. What we will say is that if you're budgeting $100/month for Netflix, Spotify, and a gym towel, you're probably fine.
 
----
 
 ## The Verdict
 
@@ -242,7 +236,6 @@ The maths only works if your income supports it. Don't move to the CBD because i
 
 If the numbers above make you wince, that's not a failure — it's information. Use it.
 
----
 
 ## Quick Reference: CBD Monthly Budget Calculator
 
@@ -255,7 +248,6 @@ If the numbers above make you wince, that's not a failure — it's information. 
 
 *These figures are estimates based on 2025–26 Australian tax rates including Medicare levy. Use the ATO's tax calculator for your exact take-home.*
 
----
 
 ## 📊 Tell Us Your CBD Spend
 
@@ -267,7 +259,6 @@ We want to know: what's your actual monthly cost of living in (or near) the CBD?
 <p style="color:#888;font-size:14px;">Drop your answer on <a href="https://www.reddit.com/r/melbourne/">r/melbourne</a> or hit us on <a href="https://instagram.com/melbz">Instagram</a></p>
 </div>
 
----
 
 ## 🏠 More Cost of Living Guides
 
@@ -276,7 +267,6 @@ We want to know: what's your actual monthly cost of living in (or near) the CBD?
 - [Carlton Living: What Your Rent Actually Buys You](/carlton/cost-of-living)
 - [Cheapest Inner-City Suburbs to Rent in 2026](/melbourne-wide/cheapest-suburbs)
 
----
 
 ## ❓ Quick Poll
 
@@ -288,7 +278,6 @@ We want to know: what's your actual monthly cost of living in (or near) the CBD?
 <p style="color:#888;font-size:14px;margin-top:10px;">Cast your vote in the comments or tag us <a href="https://instagram.com/melbz">@melbz</a></p>
 </div>
 
----
 
 ## 💡 Got a Tip?
 
@@ -296,7 +285,6 @@ Know a budget hack for CBD living we missed? Spotted an error in our numbers? We
 
 <a href="/submit-tip">Submit a tip →</a>
 
----
 
 *Marcus Cole is MELBZ's Property Editor. He's lived in the CBD, Southbank, and Carlton, and has strong opinions about which one was the best decision (it was Carlton). Follow him for honest property breakdowns across inner Melbourne.*
 

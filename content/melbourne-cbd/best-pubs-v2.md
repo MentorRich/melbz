@@ -5,12 +5,17 @@ date: 2026-03-16
 author: kai
 tags: ["melbourne-cbd", "pubs", "nightlife"]
 categories: ["nightlife"]
-description: "Best Pubs in Melbourne CBD 2026: Heritage Hotels & Laneway Locals
+description: "Best Pubs in Melbourne CBD 2026: Heritage Hotels & Laneway Locals"
+---
 
-Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
+**Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
+
+
 
 There's a moment every M..."
----
+
+*Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
+
 # Best Pubs in Melbourne CBD 2026: Heritage Hotels & Laneway Locals
 
 *Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
@@ -21,7 +26,6 @@ Melbourne CBD's pub scene in 2026 sits at a fascinating crossroads. The old guar
 
 > **🍺 Quick take:** Melbourne CBD pubs in 2026 are better than ever. Heritage institutions aren't resting on their laurels, and the new kids are bringing serious beer game without losing the local feel.
 
----
 
 ## 1. The Mitre Tavern — The Oldest Pub in Melbourne (And Still Standing)
 
@@ -36,7 +40,6 @@ Melbourne CBD's pub scene in 2026 sits at a fascinating crossroads. The old guar
 
 > **[Planning a pub crawl? Start in [Carlton](/carlton/) where some of Melbourne's best pint-sized locals still hide on Lygon Street's quieter blocks.](/carlton/)**
 
----
 
 ## 2. Young & Jackson — The Grande Dame of Swanston Street
 
@@ -51,7 +54,6 @@ Melbourne CBD's pub scene in 2026 sits at a fascinating crossroads. The old guar
 
 > **For more heritage pub vibes, head east to [Fitzroy](/fitzroy/) where working-class drinking holes on Brunswick and Gertrude Streets have been reborn without losing their soul.](/fitzroy/)**
 
----
 
 ## 3. The Crafty Squire — The Russell Street All-Rounder
 
@@ -64,7 +66,6 @@ Melbourne CBD's pub scene in 2026 sits at a fascinating crossroads. The old guar
 
 **The verdict:** The Crafty Squire is the pub for people who care about what's in their glass but don't want to sit in a minimalist taproom with concrete floors. It's a proper pub that happens to have an exceptional beer list. The CBD's best beer destination, full stop.
 
----
 
 ## 4. The European — Spring Street's Cosmopolitan Local
 
@@ -79,7 +80,6 @@ Melbourne CBD's pub scene in 2026 sits at a fascinating crossroads. The old guar
 
 > **The European's bistro-pub style is echoed beautifully in [South Yarra](/south-yarra/) where several spots on Toorak Road and Chapel Street blend pub heart with restaurant ambition.](/south-yarra/)**
 
----
 
 ## 5. The Last Chance Rock & Roll Bar — Queen Street's Loud, Proud Outlier
 
@@ -92,7 +92,6 @@ Melbourne CBD's pub scene in 2026 sits at a fascinating crossroads. The old guar
 
 **The verdict:** The Last Chance fills a gap that most CBD pubs have vacated. It's not trying to be a restaurant, it's not trying to be a cocktail bar, and it's certainly not trying to be Instagram-friendly. It's a rock pub in the truest sense, and Melbourne is better for having it. If you've ever ended up here at midnight wondering how, you know exactly why this list exists.
 
----
 
 ## 6. The Sherlock Holmes — Lonsdale Street's Literary Dive
 
@@ -105,7 +104,6 @@ Melbourne CBD's pub scene in 2026 sits at a fascinating crossroads. The old guar
 
 **The verdict:** The Sherlock Holmes works because it doesn't take itself too seriously while still taking its beer and food seriously. It's a genuine Melbourne institution that has somehow resisted the pressure to reinvent itself every three years. The cask ale alone is worth the trip, and the pies seal the deal.
 
----
 
 ## What We Skipped and Why
 
@@ -123,7 +121,6 @@ No list of CBD pubs can include everything without becoming unreadable. Here's w
 
 We also kept an eye on what's happening in the inner suburbs. [Carlton](/carlton/)'s pub scene on Lygon Street is thriving, [Fitzroy](/fitzroy/) continues to be the undisputed king of inner-north locals, and [South Yarra](/south-yarra/) has quietly built a strip of quality pubs on Toorak Road that rival anything in the CBD. If you're pub-crawling, these suburbs are essential extensions of any CBD crawl.
 
----
 
 ## The CBD Pub Scene in 2026: What's Actually Happening
 
@@ -137,7 +134,6 @@ A few trends we noticed during testing:
 
 **Late-night is consolidating.** With several CBD venues adjusting closing times post-pandemic, the options for a proper late-night pub session are narrower than they were in 2019. The Last Chance fills this gap brilliantly, and long may it continue.
 
----
 
 ## The Final Pour
 
@@ -147,11 +143,9 @@ The best advice? Don't just stick to one. Start at the Mitre for a history lesso
 
 Melbourne was built on pubs. These six prove it still is.
 
----
 
 *Kai Thompson is the Pubs Editor at MELBZ. He has been professionally drinking in Melbourne pubs since 2018 and considers it a public service. Have a pub we should review? [Get in touch.](/contact/)*
 
----
 
 **Related reading:**  
 - [Best Bars in South Yarra: Chapel Street After Dark](/south-yarra/)  

@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Preston — 2026 Local Guide"
 cover_image: "/images/preston/date-night.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the date night in Preston. Our verified 2026 guide covers the best spots forlocals."
 tags: ["preston"]
 categories: ["date"]
----
 ## The Best Date Night in Preston
 
 Preston isn't trying to be the next Fitzroy for date nights. It's not competing with South Yarra's cocktail bars or the CBD's fine dining scene. What Preston does offer is something better for many couples: genuine, affordable, interesting date night options where you won't need a second mortgage and you won't feel like you're in a theme park designed for tourists.
@@ -108,7 +109,6 @@ We also skipped the high-end fine dining options because Preston genuinely doesn
 
 We didn't include every single restaurant in Preston — that's what our [best restaurants guide](/preston/best-restaurants/) is for. This guide is specifically about date-night-worthy venues, whether that means romance, conversation, or activity-based options.
 
----
 
 **Explore more date ideas in Melbourne's north:**
 → [Best Restaurants in Preston — more dining options](/preston/best-restaurants/)
@@ -116,7 +116,6 @@ We didn't include every single restaurant in Preston — that's what our [best r
 → [Thornbury date spots — 10 min walk south](/thornbury/)
 → [Northcote date nights — 20 min walk](/northcote/)
 
----
 
 *This guide was researched and written by the MELBZ team. Prices and hours are accurate as of March 2026 but should be confirmed before visiting. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

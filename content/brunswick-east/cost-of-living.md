@@ -5,10 +5,10 @@ date: 2026-03-16
 author: marcus
 tags: ["brunswick-east", "cost-of-living", "property"]
 categories: ["property"]
-description: "Cost of Living in Brunswick East 2026: The Real Numbers
+description: "Cost of Living in Brunswick East 2026: The Real Numbers"
+---
 
 Brunswick East sits in that sweet spot between "I can afford this" and "I can still walk to the city..."
----
 # Cost of Living in Brunswick East 2026: The Real Numbers
 
 Brunswick East sits in that sweet spot between "I can afford this" and "I can still walk to the city without hating my life." Lygon Street runs straight through it like a spine, and if you've ever grabbed a $6.50 flat white at one end and a $15 pasta at the other, you already know this suburb trades on convenience and character rather than postcodes prestige.
@@ -21,7 +21,6 @@ I pulled apart the real costs of living in Brunswick East — not the aspiration
 
 Here's what it actually costs to live in Brunswick East.
 
----
 
 ## Rent: The Big One
 
@@ -44,7 +43,6 @@ For comparison, neighbouring [Brunswick](/brunswick) is tracking about $20–$30
 > 💬 **MELBZ Poll:** What % of your income goes to rent in Brunswick East?
 > Under 25% · 25–35% · 35–45% · I'd rather not know 😅
 
----
 
 ## Groceries and Everyday Essentials
 
@@ -64,7 +62,6 @@ The budget approach assumes Aldi for staples and the fruit shops for produce. Th
 
 **Insider tip:** The fruit and veg shop near the corner of Lygon and Glenlyon has a produce clearance basket out front every afternoon. You can pick up a bag of imperfect produce for $5–$8. It's not pretty, but it roasts up just fine.
 
----
 
 ## Transport: Getting Around Without Losing Your Mind
 
@@ -89,7 +86,6 @@ Brunswick East is well-served by public transport, but "well-served" and "reliab
 
 The honest answer? Myki plus a bike covers 90% of what you need. Save the rideshare money for weekends.
 
----
 
 ## Dining Out: What It Actually Costs
 
@@ -119,7 +115,6 @@ The coffee scene here is quietly excellent. You won't find the same concentratio
 | Mix of cooking and eating out (3–4 meals/week out) | $450–$550 |
 | "I live on Lygon Street" mode | $800+ |
 
----
 
 ## Utilities: The Boring but Important Stuff
 
@@ -141,7 +136,6 @@ The older flats along Stewart and Dawson Streets tend to be drafty. Budget close
 
 > 📊 **Compare Your Suburb:** How does Brunswick East stack up against [Fitzroy North](/fitzroy-north) and [Brunswick](/brunswick)? Check the full MELBZ comparison →
 
----
 
 ## Gym and Fitness
 
@@ -159,7 +153,6 @@ Brunswick East isn't short on fitness options, though the range has shifted. The
 
 The Brunswick Leisure Centre on East Brunswick Street is the quiet workhorse — indoor pool, decent gym floor, no judgement. At $85/month for membership, it's the best value in the area. The boutique studios along Lygon are excellent but you're paying $190+/month for the privilege of someone yelling at you in a converted warehouse.
 
----
 
 ## Entertainment and Going Out
 
@@ -179,7 +172,6 @@ Brunswick East's nightlife is more "Tuesday night wine bar" than "Saturday night
 
 Monthly entertainment budget depends entirely on your habits. A Netflix subscription, a couple of pints a week, and an occasional live show lands you around $180–$250/month. If you're the type who hits live music three nights a week, expect $400+.
 
----
 
 ## What We Skipped and Why
 
@@ -197,7 +189,6 @@ Every "cost of living" article tries to cover everything and ends up meaningless
 
 The point of this article is to isolate what Brunswick East specifically costs you — the things that would be different if you moved to another suburb. A gym membership is a gym membership. Rent is not.
 
----
 
 ## The Monthly Totals: What Does It Actually Cost?
 
@@ -219,7 +210,6 @@ Here's where the numbers land for a single person in Brunswick East in 2026:
 
 These are single-person numbers. Couples sharing a 2-bedroom split rent and save roughly $800–$1,000/month per person compared to the figures above. If you're a couple in a 2-bed paying $620/week and splitting everything, the per-person cost lands around $2,600–$2,900/month.
 
----
 
 ## The Honest Verdict
 
@@ -229,11 +219,9 @@ Is it worth it? That depends on your salary and your priorities. If you want the
 
 The gap between what Brunswick East costs and what it costs three stops further up the Lygon line is narrowing. But for now, the East end still earns its reputation as the sweet spot.
 
----
 
 *Your MELBZ Suburb Vibe Score for Brunswick East this week: [Check live score →](/brunswick-east/vibe-score)*
 
----
 
 *Found a number that's off? Noticed something we missed? Drop us a line — we update these numbers every quarter.*
 *Updated 16 March 2026 | Marcus Cole reporting*

@@ -1,6 +1,8 @@
 ---
 title: "Nightlife Guide in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/nightlife-guide.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "ethan"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the nightlife guide in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["nightlife"]
----
 ## The Nightlife Guide to Fitzroy North
 
 This is your verified guide to Fitzroy North nightlife in 2026.
@@ -20,7 +21,6 @@ The nightlife scene here sits mostly on Brunswick Street's northern stretch, wit
 
 If you're looking for 1am dance floors with $15 cocktails, you're better off in the CBD or South Yarra. If you're looking for a night where you can start at a quiet bar, move to a pub with a pool table, and end up at a place with a DJ without changing suburbs, Fitzroy North has you covered.
 
----
 
 ## Nightlife Map
 
@@ -32,7 +32,6 @@ If you're looking for 1am dance floors with $15 cocktails, you're better off in 
 
 **Deco Wine Bar** (611 Brunswick Street): Narrow, candlelit, natural wine focused. The "wine flight" ($36 for three glasses) is your best way to explore the list. Small plates available if you skipped dinner.
 
----
 
 ### The Middle Ground (9pm-12am)
 
@@ -42,7 +41,6 @@ If you're looking for 1am dance floors with $15 cocktails, you're better off in 
 
 **Monty's** (566 Brunswick Street): Transitions from quiet bar to late-night venue by 11pm. DJs in the back room on weekends spin house, funk, disco. The crowd is genuinely mixed — twenty-somethings dancing next to fifty-somethings who've been coming for years. No velvet rope energy.
 
----
 
 ### The Late Night (12am-2am+)
 
@@ -50,7 +48,6 @@ If you're looking for 1am dance floors with $15 cocktails, you're better off in 
 
 **Wong's Late Night Kitchen** (pop-up, various Brunswick St pubs): Chinese-Malaysian comfort food until 2am weekends. Rotates between venues like the Terminus back bar and the Fitzroy Pinnacle. The laksa ($16) is a Melbourne late-night classic. Follow their social to find where they're set up.
 
----
 
 ## Venue-by-Venue Nightlife Deep Dive
 
@@ -64,7 +61,6 @@ If you're looking for 1am dance floors with $15 cocktails, you're better off in 
 **Best night:** Thursday (less crowded, good bartender specials)
 **Why it works:** You can have a proper conversation here at midnight. That's rare and precious.
 
----
 
 ### The Terminus Hotel
 
@@ -76,7 +72,6 @@ If you're looking for 1am dance floors with $15 cocktails, you're better off in 
 **Best night:** Friday (crowd but not packed), Sunday (arvo session that turns into evening)
 **Why it works:** You can go alone and still have a good time. The staff are friendly to everyone.
 
----
 
 ### Monty's
 
@@ -88,7 +83,6 @@ If you're looking for 1am dance floors with $15 cocktails, you're better off in 
 **Best night:** Saturday (DJs go hardest)
 **Why it works:** It transitions smoothly from "let's have a drink" to "let's dance" without requiring you to relocate. The back room dance floor is small but energetic.
 
----
 
 ### Rob Roy (Fitzroy)
 
@@ -100,7 +94,6 @@ If you're looking for 1am dance floors with $15 cocktails, you're better off in 
 **Best night:** Any night you're up past 1am and don't want to go home yet
 **Why it works:** It's always there. Always. That reliability is worth something.
 
----
 
 ### Bar Nancy
 
@@ -112,7 +105,6 @@ If you're looking for 1am dance floors with $15 cocktails, you're better off in 
 **Best night:** Wednesday (half-price wine glasses, still quiet)
 **Why it works:** If your date goes well, you'll want to linger. Nancy lets you.
 
----
 
 ## Nightlife Price Guide 2026
 
@@ -128,7 +120,6 @@ Food: $12-28 for bar snacks, $18-25 for proper bar meals.
 
 You can have a big night in Fitzroy North for $80-120 if you're drinking decently. The CBD will cost you 30-50% more for a similar experience with more pretension and worse service.
 
----
 
 ## Safety & Getting Home
 
@@ -144,7 +135,6 @@ Fitzroy North nightlife is generally safe, but the usual rules apply:
 
 **If you need help:** The Terminus and Fitzroy Pinnacle staff are sensible and will call for help if needed.
 
----
 
 ## Nightlife Etiquette for Fitzroy North
 
@@ -162,7 +152,6 @@ Fitzroy North nightlife is generally safe, but the usual rules apply:
 - Be loud on the sidewalk after 1am — residents live here
 - Assume every venue takes card — some smaller bars are cash only
 
----
 
 ## The Fitzroy North Nightlife Philosophy
 
@@ -176,7 +165,6 @@ This suburb's nightlife works because it understands what people actually want:
 
 If you want a night out where the focus is on having fun with your friends rather than on being seen, Fitzroy North is your suburb.
 
----
 
 ## Nightlife Alternatives Nearby
 
@@ -186,7 +174,6 @@ If Fitzroy North's scene doesn't hit the spot:
 - **Carlton North:** Quieter, more wine-bar focused, earlier closing. [Carlton North nightlife](/carlton-north/nightlife-guide)
 - **Brunswick East:** More punk, more alternative, more late-night Asian food. [Brunswick East nightlife](/brunswick-east/nightlife-guide)
 
----
 
 ## Cross-Links
 

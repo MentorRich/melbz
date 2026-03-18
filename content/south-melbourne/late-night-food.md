@@ -5,10 +5,10 @@ date: 2026-03-16
 author: ethan
 tags: ["south-melbourne", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in South Melbourne 2026: Where to Eat After 10pm
+description: "Late Night Food in South Melbourne 2026: Where to Eat After 10pm"
+---
 
 It's 10:30pm on a Wednesday. You've finished a gig at the Espy, wrapped a late shift at Cro..."
----
 # Late Night Food in South Melbourne 2026: Where to Eat After 10pm
 
 It's 10:30pm on a Wednesday. You've finished a gig at the Espy, wrapped a late shift at Crown, or just crawled out of a mate's place in Albert Park after three hours of board games. Your stomach is staging a revolt. And you're standing in South Melbourne — a suburb that rolls up its sidewalks at a hour that would embarrass a country pub.
@@ -17,12 +17,10 @@ South Melbourne eats well between 7am and 3pm. The dim sim at the market, the co
 
 So here's the real question for 2026: where can you actually eat a proper meal south of the river after 10pm? We tested every option within walking distance and a short tram ride, and the results are honest — some brilliant, some borderline, and a few we deliberately left off.
 
----
 
 > **🔥 THE MOVE — Right Now**
 > Don't wait until you're starving to figure this out. Screenshot your pick from the list below and save it to your phone. Future you at 11pm will be grateful past you had a plan.
 
----
 
 ## 1. Stalactites Restaurant — The 24/7 Greek Institution
 
@@ -38,7 +36,6 @@ Friday and Saturday nights are the peak hours here, with a queue that snakes out
 
 **The honest take:** It's not fine dining. The décor hasn't changed since Howard was PM (either one of them). But the food is consistent, the portions are proper, and the fact that you can get a full meal here at 4am on a Tuesday is genuinely remarkable.
 
----
 
 ## 2. Butcher's Diner — Burgers, Rolls, and No Pretence
 
@@ -54,7 +51,6 @@ The vibe after 10pm is exactly what you want — low-lit, unhurried, full of shi
 
 **The honest take:** If you're after a late-night feed without any of the theatre of going out, this is your spot. The prices are reasonable, the food is real, and the 24-hour operation means you never have to check your watch.
 
----
 
 ## 3. Chapelli's — 24-Hour Pasta and Pizza on Chapel Street
 
@@ -70,7 +66,6 @@ Seating is booth-heavy and there's an open bar in the centre, which gives the pl
 
 **The honest take:** The prices have crept up in recent years — $29 for an 11.5-inch pizza isn't cheap for late-night fare, but the portions are generous and the quality is better than you'd expect from a 24-hour joint. If you're coming straight from a South Melbourne gig, factor in a short tram ride.
 
----
 
 ## 4. Gimlet at Cavendish House — The Upscale Late-Night Option
 
@@ -86,7 +81,6 @@ Gimlet is a 15-minute walk or a short Uber from South Melbourne, positioned righ
 
 **The honest take:** You'll spend $50–$100 per person here for a late-night feed with a drink, which is a different bracket entirely. But for date-night energy or a post-show wind-down, there's nothing else in the late-night inner-city game that looks or tastes like this.
 
----
 
 > **📊 YOUR TURN — Vote**
 > What matters most to you in late-night food after 10pm?
@@ -96,7 +90,6 @@ Gimlet is a 15-minute walk or a short Uber from South Melbourne, positioned righ
 > 4. **Hours** — Open at 2am or don't bother
 > *(Drop your pick in the comments or hit us on Instagram @melbzcomau)*
 
----
 
 ## 5. Biggie Smalls — Late-Night Kebabs with Attitude
 
@@ -112,7 +105,6 @@ The music is loud, the staff are sharp, and the food comes out fast. This is lat
 
 **The honest take:** The hours are the limitation here. If you're out past 11pm on a weeknight, you've missed the window. But on a Thursday through Saturday, when the kitchen stays open to midnight, this is one of the best late-night options in Melbourne's inner north — and worth the trip from South Melbourne if you're already mobile.
 
----
 
 ## 6. HER Melbourne — Multi-Level Late-Night Dining
 
@@ -128,7 +120,6 @@ The rooftop (Her Rooftop) is open for drinks on warm nights but doesn't serve fo
 
 **The honest take:** The multi-level setup is a double-edged sword. You might arrive for food and end up spending two hours on the rooftop because the vibes are right. Budget for more than just dinner, because this place is designed to keep you.
 
----
 
 ## 7. Turkish Kebabs — Clarendon Street's Reliable Fallback
 
@@ -142,12 +133,10 @@ If you're in South Melbourne before 9:30pm and want a reliable, affordable kebab
 
 **The honest take:** We wish it stayed open later. If you're in 3205 and it's 8pm on a Friday, this is your best quick feed. After that, you'll need to head into the CBD or South Yarra for options.
 
----
 
 > **⚠️ URGENT — Before Friday Night**
 > Every spot on this list has been visited and verified in March 2026. But Melbourne's late-night food scene moves fast — hours change, menus rotate, and venues occasionally close for private events. Before you head out, double-check Google or the venue's Instagram for any last-minute changes. The MELBZ team updates this guide monthly, but a quick check never hurts.
 
----
 
 ## What We Skipped and Why
 
@@ -161,7 +150,6 @@ We intentionally left several popular late-night options off this list. Here's w
 
 **McDonald's / KFC / Hungry Jacks** — They exist. You know where they are. We're not going to pretend they deserve 1,200 words of coverage.
 
----
 
 ## The Verdict
 
@@ -171,7 +159,6 @@ If you're after the best cheap late-night feed, walk north to Stalactites and ge
 
 The key to late-night eating south of the river is knowing that South Melbourne is the starting point, not the destination. Head north, east, or across the river, and Melbourne feeds you well — even at midnight.
 
----
 
 ## Quick Reference
 
@@ -185,13 +172,11 @@ The key to late-night eating south of the river is knowing that South Melbourne 
 | HER Melbourne | 270 Lonsdale St, CBD | Fri–Sat til 1am | $14–$32 |
 | Turkish Kebabs | 286 Clarendon St, Sth Melb | Until 9:30pm latest | $12–$24 |
 
----
 
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
 
 *Planning a proper food crawl instead of just a late-night snack? Our [best brunch spots in South Melbourne](/south-melbourne/best-brunch) guide has your morning-after sorted. If you're new to the area, the [South Melbourne living guide](/south-melbourne/living-guide) covers everything from tram routes to where the good Woolworths is. And for daytime eating, don't miss the [best cafes in South Melbourne](/south-melbourne/best-cafes) — the coffee alone is worth the move to 3205.*
 
----
 
 > **👏 REACT — How did this land?**
 > 🔥 Useful — saved for next weekend

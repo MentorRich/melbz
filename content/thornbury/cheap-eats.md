@@ -1,6 +1,8 @@
 ---
 title: "11 Cheap Eats in Thornbury Under $20 — Your 2026 Budget Guide"
 cover_image: "/images/thornbury/cheap-eats.jpg"
+---
+
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "omar"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "Thornbury's best cheap eats under $20 in 2026. Real prices, generous portions, and no compromises on quality. Your wallet will thank you."
 tags: ["thornbury"]
 categories: ["cheap"]
----
 # 11 Cheap Eats in Thornbury Under $20 — Your 2026 Budget Guide
 
 Thornbury has always been the inner north's best-kept secret for affordable eating, and in 2026 — when a $22 avocado toast makes you question your life choices — that matters more than ever. The High Street strip between Darebin Road and Dundas Street packs in Greek souvlaki, Italian lasagne, Lebanese grills, American burgers, and proper café food, most of it well under $20. You don't need a fancy budget to eat well here. You just need to know where to go.
 
 **Last updated: 17 March 2026** | **Thornbury Vibe Score: 78/100 🟢**
 
----
 
 ## 1. Brother Alec — Nachos ($13)
 **The vibe:** A small, laid-back High Street café where $13 buys you a plate of nachos that could feed two.
@@ -28,7 +28,6 @@ Brother Alec at 719 High Street is ground zero for Thornbury cheap eats. The sma
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** The $15 weekday lunch pie special at Northern Git (if you want to mix cuisines) is the only thing in Thornbury that competes on value.
 
----
 
 ## 2. Greek Street Food — Souvlaki Plate ($17)
 **The vibe:** A permanent souva mobile serving stacked Greek plates on enamel plates. No frills, just flavour.
@@ -40,7 +39,6 @@ Greek Street Food started as a beloved food truck and now operates from a perman
 **Hours:** Tue–Sun 11:30am–9pm; Mon closed
 **Insider tip:** The lamb skewers are slightly more expensive ($19) but significantly more flavourful. Worth the two-dollar stretch if your budget allows.
 
----
 
 ## 3. Karlay's Lebanese Kitchen — Falafel Wrap ($12)
 **The vibe:** Generous Lebanese home cooking at prices that feel like they haven't changed since 2015.
@@ -52,7 +50,6 @@ Karlay's has been feeding Thornbury families for years and the portions reflect 
 **Hours:** Daily 11am–10pm
 **Insider tip:** Order the garlic sauce on the side — they make it fresh and you'll want to put it on everything.
 
----
 
 ## 4. Kustom Burgers — Burger and Fries ($22)
 **The vibe:** Hot-rod-themed American diner where the burgers are legitimately great and the slot cars are free.
@@ -64,7 +61,6 @@ Kustom Burgers just squeezes under the $22 mark for a basic burger and fries, an
 **Hours:** Thu–Sun 11am–10pm, Fri–Sat 11am–11pm; Mon–Wed closed
 **Insider tip:** Skip the milkshake if you're strictly budgeting, but if you've got $31 to spend, the burger + milkshake combo is peak Thornbury cheap(ish) eats.
 
----
 
 ## 5. 1800 Lasagne — Lasagne and a Glass of Wine ($28)
 **The vibe:** One dish done obsessively, with cocktails. A lockdown delivery legend turned physical restaurant.
@@ -76,7 +72,6 @@ Kustom Burgers just squeezes under the $22 mark for a basic burger and fries, an
 **Hours:** Check Instagram for current hours
 **Insider tip:** If they're open, Wednesday night specials are the best value deal on the strip.
 
----
 
 ## 6. Farro Pizzeria — Woodfired Margherita ($19)
 **The vibe:** Homely Italian pizzeria with woodfired spelt bases and inclusive options for every dietary need.
@@ -88,7 +83,6 @@ Farro's woodfired margherita at $19 is a proper pizza — blistered base, fresh 
 **Hours:** Tue–Sun 5:30–10pm; Mon closed
 **Insider tip:** Two margheritas and a focaccia ($46) is a genuine dinner for two under $50 including drinks. In 2026 Melbourne, that's remarkable.
 
----
 
 ## 7. Sandro Pasta & Wine — Take-Home Pasta ($14)
 **The vibe:** A convival Italian wine bar where the best deal is the fresh pasta you take home and cook yourself.
@@ -100,7 +94,6 @@ Sandro's eat-in menu is solid but the real budget move is buying their fresh han
 **Hours:** Wed–Sun 12–10pm; Mon–Tue closed
 **Insider tip:** Ask the staff which sauce pairs with which pasta — they'll talk you through it like a proper Italian nonna.
 
----
 
 ## 8. Casa Sicilia Caffe — Arancini Trio ($15)
 **The vibe:** Sicilian café culture on High Street — arancini the size of your fist and espresso strong enough to reset your nervous system.
@@ -112,7 +105,6 @@ Casa Sicilia is one of the newer spots on the strip and already a favourite for 
 **Hours:** Wed–Mon 7:30am–3:30pm; Tue closed
 **Insider tip:** Go early Saturday. By 10am the arancini are gone and you'll be waiting on the footpath.
 
----
 
 ## 9. Ballard's — Vegan Small Bites ($8–14)
 **The vibe:** All-vegan pub food that's affordable, filling, and doesn't preach.
@@ -124,7 +116,6 @@ Ballard's happy hour (weekdays 4–6pm) is one of Thornbury's best-kept deals: $
 **Hours:** Tue–Sat 12–10pm, Sun 12–9pm; Mon closed
 **Insider tip:** Happy hour weekdays 4–6pm is the move. Even if you're not vegan, the gnocchi will convert you.
 
----
 
 ## 10. Thornbury Bowls Club — $5 Schooners and Snacks
 **The vibe:** Barefoot bowls, live music, and the cheapest drinks in the inner north. No gimmicks.
@@ -136,7 +127,6 @@ The Thornbury Bowls Club is a genuine community institution. The schooners are $
 **Hours:** Check website for event nights; bar generally Wed–Sun
 **Insider tip:** Book barefoot bowls for groups. At $15–20pp including drinks, it's cheaper than most restaurants and infinitely more fun.
 
----
 
 ## 11. Nasty's — $9 Pints and Good Music
 **The vibe:** A dive bar with the cheapest drinks on the strip and zero pretension. No cocktails, no problems.
@@ -148,7 +138,6 @@ Nasty's is the bar equivalent of "I don't care where we go" that somehow picks t
 **Hours:** Thu–Sat 5pm–late
 **Insider tip:** Cash moves faster at the bar on busy nights. They take cards, but the EFTPOS is slow.
 
----
 
 ## The Bottom Line
 
@@ -156,12 +145,10 @@ Thornbury's cheap eat scene is genuinely good, not just cheap. Greek Street Food
 
 **Your Thornbury Vibe Score this week: 78/100** — Affordable eating is one of Thornbury's genuine advantages over [Northcote](/northcote) and [Brunswick](/brunswick). Long may it last.
 
----
 
 *Know a spot we missed? Let us know.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Also in the area:**
 → [Best Restaurants in Thornbury](/thornbury/best-restaurants)

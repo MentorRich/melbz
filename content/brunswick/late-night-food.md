@@ -5,12 +5,17 @@ date: 2026-03-16
 author: ethan
 tags: ["brunswick", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in Brunswick 2026: Where to Eat After 10pm
+description: "Late Night Food in Brunswick 2026: Where to Eat After 10pm"
+---
 
-Updated 16 March 2026 | 6 places tested | Ethan Cross reporting
+**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
+
+
 
 Brunswick doesn't roll up its si..."
----
+
+*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
+
 # Late Night Food in Brunswick 2026: Where to Eat After 10pm
 
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
@@ -19,7 +24,6 @@ Brunswick doesn't roll up its sidewalks at 9pm like the suburbs. This is a subur
 
 We walked the strip — Sydney Road, Lygon Street, and a couple of side-street detours — to find the spots still serving real meals after 10pm in 2026. Here's what held up.
 
----
 
 ## 1. Alasya Turkish Restaurant
 
@@ -33,12 +37,10 @@ The menu runs deep with classic Turkish fare — adana kebabs, pide, lahmacun, m
 
 The late-night crowd knows to order the chicken kebab with extra garlic sauce and a side of ezme. It's a formula that's worked since the Fraser government, and nobody's in a hurry to change it.
 
----
 
 > **🔥 THE MOVE**
 > If it's after 10:30pm and you're on Sydney Road, Alasya is the safest bet for a proper sit-down meal with table service. Most other restaurants have closed the kitchen. Alasya keeps the charcoal lit until 11. Go early enough to get a full menu, or accept the streamlined late-night selection — either way, it's the real deal.
 
----
 
 ## 2. Munchies at Bar Oussou
 
@@ -52,7 +54,6 @@ Chef John Chinsami draws on his Indian and Fijian heritage to push the menu beyo
 
 Munchies is only running the kitchen Thursday through Saturday as of early 2026, so plan accordingly. On those nights, the kitchen pushes well past 11pm with live music as the soundtrack. It's not a restaurant with a bar attached. It's a bar that happens to serve food worth crossing town for.
 
----
 
 > **📊 VOTE: What's your go-to late night fuel in Brunswick?**
 >
@@ -63,7 +64,6 @@ Munchies is only running the kitchen Thursday through Saturday as of early 2026,
 >
 > Drop your pick in the comments.
 
----
 
 ## 3. Brunswick Kebab House
 
@@ -77,7 +77,6 @@ The hours alone make it the most committed late-night operator in the suburb. Op
 
 The chicken shish plate is worth considering if you want something beyond the roll. It comes with rice, salad, and enough protein to reset the entire evening's drinking decisions.
 
----
 
 ## 4. 400 Gradi
 
@@ -91,12 +90,10 @@ Gradi runs its kitchen until 11pm every night of the week, which gives it a reli
 
 If you're coming from the Brunswick end of town, it's a ten-minute walk from Sydney Road up Lygon Street. Worth the stroll, especially if you've exhausted the kebab options and want something with a bit more ceremony to it.
 
----
 
 > **⏰ URGENCY BANNER**
 > **Munchies at Bar Oussou only runs the kitchen Thursday–Saturday.** Alasya closes at 11pm sharp. Brunswick Kebab House is open until 4am but only Wed–Mon. If you're planning a late-night food run this week, check which nights align before you leave the house. Nothing worse than arriving at 11:15pm to find the kitchen wiped.
 
----
 
 ## 5. The B.East
 
@@ -110,7 +107,6 @@ The B.East pushes to midnight on weekends, which fills a gap that most of the Br
 
 It's on the East Brunswick end of Lygon, so you're in slightly quieter territory compared to the Sydney Road strip. The trade-off is that the bar stays loud and the kitchen stays open. The vibe is exactly right for post-gig hunger.
 
----
 
 ## 6. Mankoushe
 
@@ -124,7 +120,6 @@ The kitchen closes at 10pm, which makes this the earliest shutdown on this list.
 
 Mankoushe fills up on weekends, and there's often a wait. If you're eating late, you'll catch the tail end of dinner service with a quieter room and more attentive service. The outdoor tables along Lygon Street are particularly good on warm evenings.
 
----
 
 > **💬 REACTION BAR**
 > How useful was this guide?
@@ -134,7 +129,6 @@ Mankoushe fills up on weekends, and there's often a wait. If you're eating late,
 > 😐 Average — I knew all of these
 > 👎 Not helpful — my spot's not here
 
----
 
 ## What We Skipped and Why
 
@@ -146,7 +140,6 @@ Mankoushe fills up on weekends, and there's often a wait. If you're eating late,
 
 **Deliveries (Uber Eats, DoorDash, etc).** Every major delivery platform lists dozens of Brunswick restaurants serving "late night," but the experience of ordering delivery at 11pm is a lottery of cold food, missing items, and 40-minute waits. We wanted places you could walk into and eat at — not a tracking screen.
 
----
 
 ## The Practical Bit
 
@@ -158,7 +151,6 @@ For the full picture of where to eat in Brunswick beyond the late-night hours, c
 
 Brunswick is one of those suburbs where food is a genuine point of local pride — not a marketing slogan, but a lived reality that plays out on Sydney Road every night of the week. The late-night options aren't as deep as they were a decade ago, but what's left is battle-tested and worth the trip.
 
----
 
 *Late Night Food in Brunswick 2026: Where to Eat After 10pm — an Ethan Cross investigation for [MELBZ](/). Have a late-night spot we missed? Tell us about it.*
 

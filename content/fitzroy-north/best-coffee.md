@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/best-coffee.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best coffee in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["general"]
----
 ## The Best Coffee in Fitzroy North
 
 This is your verified guide to the best coffee in Fitzroy North for 2026.
@@ -20,7 +21,6 @@ But here's the thing about coffee in this suburb — it's not just about the bea
 
 Whether you're after a precise, competition-worthy pour or just a solid $4.50 flat white that doesn't taste like regret, here's where to get it in Fitzroy North.
 
----
 
 ### 1. Code Black Coffee
 
@@ -35,7 +35,6 @@ The space is dark and moody — all black walls, timber surfaces, and industrial
 
 **Insider tip:** Code Black does bagged beans for home brewing. If you find a single origin you love, ask to buy a bag — usually $18-22 for 250g, and they'll grind it to your specifications.
 
----
 
 ### 2. Twenty & Six Espresso
 
@@ -50,7 +49,6 @@ Prices are reasonable by inner north standards: flat whites at $4.50, long black
 
 **Insider tip:** If the inside is full, walk two minutes to the Edinburgh Gardens perimeter. It's BYO coffee and a bench, and honestly, it's one of the best morning rituals in the suburb.
 
----
 
 ### 3. Loretta's
 
@@ -65,7 +63,6 @@ But Loretta's isn't just about coffee. The space is beautiful — high ceilings,
 
 **Insider tip:** Loretta's does a "coffee and pastry" combo for $8 on weekday mornings. It's not on the menu — just ask at the counter. The croissants are baked fresh daily and they're worth the visit alone.
 
----
 
 ### 4. Long Play Café
 
@@ -80,7 +77,6 @@ The café space during the day is calm and inviting, with window seats that face
 
 **Insider tip:** If you're a regular, the staff will remember your order by your third visit. By your fifth, they'll start making it before you reach the counter. This is how good neighbourhood coffee works.
 
----
 
 ### 5. Delphi Café
 
@@ -95,7 +91,6 @@ The space is classic neighbourhood café — nothing flashy, comfortable seating
 
 **Insider tip:** The Delphi's Greek iced coffee ($7) in summer is a legitimate alternative to the usual suspects. It's strong, sweet, and comes with a side of knowing you're doing coffee differently than everyone else on the street.
 
----
 
 ### 6. Dead Man Espresso (Border Spot)
 
@@ -110,7 +105,6 @@ The space is tiny — a counter, a handful of seats, and standing room. This isn
 
 **Insider tip:** Dead Man does a "flight" of three espresso-based drinks for $12 on Saturdays. It's an opportunity to taste three different beans side by side, which is educational, delicious, and makes you feel slightly pretentious in the best possible way.
 
----
 
 ### 7. Alimentari
 
@@ -125,7 +119,6 @@ The grab-and-go operation is slick: order at the counter, grab your coffee and a
 
 **Insider tip:** Alimentari's house-made biscotti, available near the register, are the perfect coffee companion. Buy a bag ($8) for home — they're the kind of thing that makes your morning coffee feel like a treat even when you're drinking it in your pyjamas.
 
----
 
 ## The Flat White Price Index
 
@@ -133,7 +126,6 @@ Fitzroy North in 2026: a flat white runs between $4.50 and $5.20, depending on t
 
 For context: a flat white in the CBD will cost you $5.50-$6.50, and it probably won't be as good. The inner north remains one of the best value-for-quality coffee zones in Australia, if not the world.
 
----
 
 ## Coffee & Getting Around
 
@@ -143,7 +135,6 @@ The beauty of Fitzroy North's coffee scene is that it's all walkable. You could 
 
 **Cycling:** Brunswick Street has bike lanes, and most of these cafes have bike parking out front. If you're riding, this is one of the best suburbs in Melbourne for combining a morning cycle with a coffee stop.
 
----
 
 ## Cross-Links
 

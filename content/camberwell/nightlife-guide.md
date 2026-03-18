@@ -1,15 +1,17 @@
 ---
-title: "Untitled"
+title: "Camberwell Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/camberwell/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
-description: "cover_image: "/images/camberwell/nightlife-guide.jpg"
- Camberwell Nightlife Guide
+tags: ["camberwell", "nightlife", "bars"]
+categories: ["nightlife"]
+description: "Camberwell Nightlife Guide 2026: Pubs, Bars & Local Spots"
+---
 
-Update..."
+*Updated 17 March 2025 | Lina Nguyen reporting*
+
 tags: ["camberwell"]
 categories: ["nightlife"]
----
 
 cover_image: "/images/camberwell/nightlife-guide.jpg"
 # Camberwell Nightlife Guide
@@ -86,7 +88,6 @@ Much of Camberwell's bar scene is concentrated around Camberwell Road and Burwoo
 
 After exploring Camberwell, consider visiting **[Hawthorn](/hawthorn/nightlife-guide)** for a more diverse nightlife scene with bars and pubs to suit various tastes. **[Surrey Hills](/surrey-hills/nightlife-guide)** offers a quieter alternative with some excellent local venues, while **[Richmond](/richmond/nightlife-guide)** provides dramatically different energy with its mix of pubs, bars, and live music venues.
 
----
 
 *This guide is part of MELBZ's comprehensive Melbourne nightlife coverage. For more suburb guides, explore our complete collection at melbz.com.au.*
 ### Featured Venues

@@ -5,21 +5,20 @@ date: 2026-03-16
 author: omar
 tags: ["footscray", "cheap-eats", "street-food"]
 categories: ["food"]
-description: "Updated 16 March 2026 | 12 places tested | Omar El-Sayed reporting
-
+description: "Best Cheap Eats in Footscray 2026: Under $15, No Nonsense"
 ---
+
+*description: "16 March 2026 | 12 places tested | Omar El-Sayed reporting"*
+
 
 I spent two weeks eating my way through Hopkins Street, Nicholson Street, and every ..."
----
 Updated 16 March 2026 | 12 places tested | Omar El-Sayed reporting
 
----
 
 I spent two weeks eating my way through Hopkins Street, Nicholson Street, and every side alley in between. Twelve venues. Zero meals over $15. Here's what survived the cut.
 
 Footscray doesn't do pretentious. It does big flavours from small kitchens, family recipes that haven't changed in decades, and portions that make you wonder how they turn a profit. If you've been sleeping on Melbourne's most underrated food strip, wake up.
 
----
 
 ## 1. Pho Hung Vuong Saigon
 **128 Hopkins Street, Footscray**
@@ -29,7 +28,6 @@ The one locals call "Laughing Cow, Laughing Chicken" (look at the sign — you c
 
 **Order this:** Special beef pho ($14) and a Vietnamese iced coffee ($5).
 
----
 
 ## 2. Nhu Lan Bakery
 **116 Hopkins Street, Footscray**
@@ -39,7 +37,6 @@ Nhu Lan is a Footscray institution, full stop. The banh mi here is the benchmark
 
 **Order this:** Cold cuts bánh mì ($9) and a coconut bun ($3).
 
----
 
 ## 3. Awash African Restaurant & Bar
 **Hopkins Street, Footscray**
@@ -49,7 +46,6 @@ Awash sits on the quieter stretch of Hopkins Street and does Ethiopian and Eritr
 
 **Order this:** Veggie combination ($13) with an Ethiopian coffee ceremony if you've got time.
 
----
 
 ## 4. Sapa Hills Restaurant
 **112 Hopkins Street, Footscray**
@@ -62,7 +58,6 @@ Sapa Hills is the restaurant that converts non-Vietnamese people into pho conver
 > **THE MOVE** 🔥
 > Go to Sapa Hills on a Wednesday night. It's their quietest evening, which means faster service and the kitchen isn't rushing. Best time to try something new off the menu.
 
----
 
 ## 5. Littlefoot Bar & Kitchen
 **102 Hopkins Street, Footscray**
@@ -72,7 +67,6 @@ Littlefoot is technically a bar, but the kitchen punches above its weight. The m
 
 **Order this:** The daily sandwich special ($13) and a tap beer.
 
----
 
 ## 6. Slice Shop Pizza
 **101A Nicholson Street, Footscray**
@@ -82,7 +76,6 @@ Run by the same crew behind Burn City Smokers, Slice Shop does New York-style pi
 
 **Order this:** Pepperoni with hot honey ($5) and a second slice of whatever looks good ($5).
 
----
 
 ## 7. Lutong Pinoy (Footscray Market Food Court)
 **Footscray Market, 87 Hopkins Street**
@@ -92,7 +85,6 @@ The Filipino stall inside the Footscray Market food court is criminally under-vi
 
 **Order this:** Palabok with rice ($11) and a halo-halo if they've got it ($7).
 
----
 
 ## 8. Dukem Ethiopian Restaurant
 **Hopkins Street, Footscray**
@@ -102,7 +94,6 @@ Dukem sits near Awash and offers a slightly different take on Ethiopian food. Th
 
 **Order this:** Beef tibs ($14) with a side of injera and ayeb (cottage cheese, $3).
 
----
 
 ## 9. Don Don Footscray
 **Barkly Street, Footscray**
@@ -112,7 +103,6 @@ Don Don is a mini-chain that does Japanese comfort food without any of the fuss.
 
 **Order this:** Katsu pork donburi ($13) and gyoza ($8).
 
----
 
 ## 10. Phuoc Thanh Bakery
 **Hopkins Street, Footscray**
@@ -122,7 +112,6 @@ Phuoc Thanh is the banh mi shop you go to when Nhu Lan has a line out the door (
 
 **Order this:** Grilled pork bánh mì ($9.50) and Vietnamese iced coffee ($4.50).
 
----
 
 ## 11. Casita Coffee
 **Footscray Market Food Court, 87 Hopkins Street**
@@ -132,7 +121,6 @@ Tucked inside the Footscray Market food court, Casita is the Latin American stal
 
 **Order this:** Beef empanada ($7) and dulce de leche hot chocolate ($6).
 
----
 
 ## 12. Nhu Ngoc Bakery
 **Footscray Market Food Court, 87 Hopkins Street**
@@ -142,7 +130,6 @@ Another Footscray Market food court gem, Nhu Ngoc does Vietnamese bakery staples
 
 **Order this:** Roast duck rice plate ($11) and a pandan custard bun ($3.50).
 
----
 
 ## What We Skipped and Why
 
@@ -154,7 +141,6 @@ Another Footscray Market food court gem, Nhu Ngoc does Vietnamese bakery staples
 
 **Any venue where we couldn't confirm current prices:** If it's not here, we either couldn't verify the menu or the quality wasn't consistent enough to recommend. We'd rather leave it out than send you somewhere average.
 
----
 
 > **VOTE: Which Footscray cheap eat reigns supreme?**
 > 
@@ -165,7 +151,6 @@ Another Footscray Market food court gem, Nhu Ngoc does Vietnamese bakery staples
 > 
 > Vote below 👇
 
----
 
 > **REACTION BAR**
 > 
@@ -175,13 +160,11 @@ Another Footscray Market food court gem, Nhu Ngoc does Vietnamese bakery staples
 > 😤 No, that's unhinged
 > 😂 I've already done it
 
----
 
 > **THE MOVE** 🔥
 > 
 > **The $100 Footscray crawl.** Grab three mates. Each person gets $25. Start at Nhu Lan for banh mi, walk to Awash for a shared veggie platter, hit Slice Shop for a couple of slices each, then finish at Casita Coffee for empanadas and hot chocolate. You'll spend about $95 total and eat like royalty. Full crawl route in our [Footscray Neighbourhood Guide](/footscray/neighbourhood-guide/).
 
----
 
 > **CONFESSION BOX** 🤫
 > 
@@ -189,7 +172,6 @@ Another Footscray Market food court gem, Nhu Ngoc does Vietnamese bakery staples
 > 
 > [Submit your confession →](/confessions/)
 
----
 
 ## The Bottom Line
 
@@ -199,7 +181,6 @@ The best part? Most of these places don't care about food photography, Instagram
 
 Planning a full day out? Pair your cheap eats crawl with our picks for the [best bars in Footscray](/footscray/best-bars/) for after-dinner drinks, or check [what's on this weekend](/footscray/things-to-do-this-weekend/) to time your visit right.
 
----
 
 **Omar El-Sayed is the Street Food Editor at MELBZ. He has eaten approximately 400 bánh mì in his lifetime and has no plans to stop.**
 

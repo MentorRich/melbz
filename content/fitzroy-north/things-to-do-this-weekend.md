@@ -1,6 +1,8 @@
 ---
 title: "Things To Do This Weekend in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/things-to-do-this-weekend.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "maya"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the things to do this weekend in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["things"]
----
 ## Things To Do This Weekend in Fitzroy North
 
 This is your verified guide to what to do in Fitzroy North on weekends in 2026.
@@ -20,7 +21,6 @@ The beauty of Fitzroy North is that the "weekend" here isn't one thing — it's 
 
 Here's what's actually worth your weekend time in Fitzroy North in 2026.
 
----
 
 ## Saturday Morning: The Rituals
 
@@ -33,7 +33,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 **Why go:** It's a community event that actually feels like a community. You'll see neighbours, bump into friends, and probably buy a $6 sourdough loaf you didn't need but definitely wanted.
 **Insider tip:** The baked goods stall near the south entrance sells out by 1pm. Get there early if you want the sourdough croissant.
 
----
 
 ### Parkrun Fitzroy North
 
@@ -44,7 +43,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 **Why go:** It's a legitimate parkrun on a beautiful course, and finishing with 200 other people who just ran 5km creates a weird sense of camaraderie. Plus, you've earned your brunch.
 **Insider tip:** If you're not running, come support as a volunteer — they always need marshals, and you get the same post-run caffeine buzz without the lung burn.
 
----
 
 ### Brunswick Street Brunch Crawl
 
@@ -55,7 +53,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 **Why go:** Because you live in the brunch capital of Australia and you might as well participate.
 **Insider tip:** The earlier you start, the less queue time. 8am Saturday at Code Black is practically empty.
 
----
 
 ## Saturday Afternoon: Markets, Art, and Something Else
 
@@ -68,7 +65,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 **Why go:** If you're cooking a weekend feast, this is where to source ingredients. The fresh pasta stall is legendary.
 **Insider tip:** Arrive by 9am for the best selection, especially the baked goods and fresh pasta.
 
----
 
 ### Fitzroy Studios Open
 
@@ -79,7 +75,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 **Why go:** Fitzroy North has a surprisingly robust artist community. This is your chance to see what they're making and maybe take something home that isn't from a shop.
 **Insider tip:** The studios behind the Tinning Street shops are usually the most interesting — industrial spaces repurposed for creative work.
 
----
 
 ### The Malthouse Theatre (Innovation Quarter)
 
@@ -90,7 +85,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 **Why go:** Culture that isn't Opera Australia or MTC. Sometimes you need to see something that makes you think.
 **Insider tip:** Their subscription season is cheaper per show. If you go to three+ shows in a year, it's worth it.
 
----
 
 ## Saturday Night: Dinner and Something More
 
@@ -113,7 +107,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 - **Monty's** — dancing from 11pm
 - **Rob Roy** (Fitzroy) — always open, always
 
----
 
 ## Sunday: Recovery and Community
 
@@ -125,7 +118,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 **Evening (5pm-dusk):** Couples walking, musicians practicing, golden hour photography
 **Why go:** It's the heart of the suburb. If you haven't spent time in Edinburgh Gardens, you haven't really lived here.
 
----
 
 ### The Workers Club Sunday Session
 
@@ -136,7 +128,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 **Why go:** Sunday sessions are a Fitzroy tradition. The Workers Club does them well.
 **Insider tip:** Arrive by 2:30pm for a good seat. It's standing room only after that.
 
----
 
 ### Brunswick Street Brewery Tour (Self-Guided)
 
@@ -146,7 +137,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 **Why go:** You like beer and want to support local venues.
 **Insider tip:** Designate a driver or stick to one beer per venue and walk between them.
 
----
 
 ## Monthly Calendar Highlights
 
@@ -156,7 +146,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 **Fourth weekend:** Prepare for next month's market, Brunswick Street street party (seasonal)
 **Every weekend:** Parkrun Saturday, Sunday session at The Workers Club, Edinburgh Gardens crowds
 
----
 
 ## What to Avoid on Weekends
 
@@ -166,7 +155,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 - **Any venue without a booking on Saturday night at 7pm** — if it's good, it's booked. Call ahead.
 - **The supermarket on Sunday arvo** — everyone shops then. Go Saturday morning or Monday night.
 
----
 
 ## A Perfect Fitzroy North Weekend
 
@@ -188,7 +176,6 @@ Here's what's actually worth your weekend time in Fitzroy North in 2026.
 
 That's a weekend that makes living here worth it.
 
----
 
 ## If You're Visiting Fitzroy North for the Weekend
 
@@ -202,7 +189,6 @@ That's a weekend that makes living here worth it.
 
 **Getting around:** Walk or tram. The 86 covers the main strip. The 11 covers the east side. Taxis/Ubers are plentiful but traffic is bad. Just walk.
 
----
 
 ## Cross-Links
 

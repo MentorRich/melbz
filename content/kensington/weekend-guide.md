@@ -5,19 +5,22 @@ date: 2026-03-16
 author: isabella
 tags: ["kensington", "weekend", "lifestyle"]
 categories: ["lifestyle"]
-description: "Weekend Guide: Kensington 2026 — Saturday & Sunday Done Right
-
-Updated 16 March 2026 | Isabella Greco reporting
-
+description: "Weekend Guide: Kensington 2026 — Saturday & Sunday Done Right"
 ---
+
+**Updated 16 March 2026 | Isabella Greco reporting**
+
+
+
+
+*Updated 16 March 2026 | Isabella Greco reporting*
+
 
 Kensington doesn't shout for attention ..."
----
 # Weekend Guide: Kensington 2026 — Saturday & Sunday Done Right
 
 *Updated 16 March 2026 | Isabella Greco reporting*
 
----
 
 Kensington doesn't shout for attention the way its flashier neighbours do. It doesn't need to. While Flemington gets the crowds on race day and Footscray gets the food press, Kensington sits quietly between them — leafy, lived-in, and loaded with spots that reward the weekend wanderer who actually knows where to look.
 
@@ -69,7 +72,6 @@ Saturday night in Kensington is low-key by design. If you want a pint and a conv
 
 **Budget for Saturday:** $40–$70 per person, depending on whether you eat at the pub.
 
----
 
 <!-- WIDGET 1 -->
 <p style="margin: 0 0 8px; font-weight: 700; font-size: 15px; color: #c45d3e;">🗳️ MELBZ POLL</p>
@@ -80,7 +82,6 @@ Saturday night in Kensington is low-key by design. If you want a pint and a conv
 <p style="margin: 4px 0; font-size: 14px;">🚶 Racecourse Road wandering</p>
 </div>
 
----
 
 ## Sunday: Slow Start, Parks, and the River Again
 
@@ -122,14 +123,12 @@ If you've still got energy, the walk over the **Macaulay Road bridge** gives you
 
 **Budget for Sunday:** $30–$55 per person.
 
----
 
 <!-- WIDGET 2 -->
 <p style="margin: 0 0 8px; font-weight: 700; font-size: 15px; color: #8b6914;">📊 DID YOU KNOW?</p>
 <p style="margin: 0; font-size: 14px; color: #333;">Kensington sits just 5 km from the CBD but has a median house price roughly $400K less than comparable inner-north suburbs like Carlton and Fitzroy. That affordability gap is a big reason young families keep choosing it — and why weekend guides like this one exist.</p>
 </div>
 
----
 
 ## What We Skipped and Why
 
@@ -143,7 +142,6 @@ Every weekend guide needs honesty, and here's ours.
 
 **We skipped any race-day coverage.** Flemington Racecourse borders Kensington, and on race days the entire area transforms — parking chaos, road closures, crowds. We deliberately did not cover race-day Kensington because it doesn't represent what the suburb is actually like for 350+ days of the year. Visit on a normal weekend. That's the real Kensington.
 
----
 
 <!-- WIDGET 3 -->
 <p style="margin: 0 0 8px; font-weight: 700; font-size: 15px; color: #2e7d5b;">🗺️ NEIGHBOURHOOD LINKS</p>
@@ -155,7 +153,6 @@ Every weekend guide needs honesty, and here's ours.
 </ul>
 </div>
 
----
 
 ## The Two-Day Budget Summary
 
@@ -177,7 +174,6 @@ Kensington is not a suburb that tries to be everything. It doesn't have the food
 
 Come for the river. Stay for the pie. Leave before the sun goes down — unless you're heading to the pub.
 
----
 
 <!-- WIDGET 4 -->
 <p style="margin: 0 0 8px; font-weight: 700; font-size: 15px; color: #c45d3e;">💌 GET THE MELBZ WEEKEND BRIEFING</p>
@@ -185,7 +181,6 @@ Come for the river. Stay for the pie. Leave before the sun goes down — unless 
 <p style="margin: 0; font-size: 14px;"><a href="https://melbz.com.au/newsletter" style="color: #c45d3e; font-weight: 6000; text-decoration: underline;">Subscribe free → melbz.com.au/newsletter</a></p>
 </div>
 
----
 
 *Isabella Greco is the Seasonal Editor at MELBZ, covering Melbourne's inner suburbs one weekend at a time. She has walked the Maribyrnong River trail more times than she can count and still finds new spots along the way. Follow her beat at [@melbzcomau](https://instagram.com/melbzcomau).*
 

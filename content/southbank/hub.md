@@ -5,11 +5,11 @@ date: 2026-03-18
 author: marcus
 tags: ["southbank", "hub"]
 categories: ["general"]
-description: "Updated 18 March 2026 | Property Editor
-
- Southbank, Melbourne: The Ultimate Urban Hub
-Southbank is a packed, cosmopolitan suburb located directly across the..."
+description: "Southbank Hub Page"
 ---
+
+*description: "18 March 2026 | Property Editor"*
+
 
 ### Living in Southbank
 

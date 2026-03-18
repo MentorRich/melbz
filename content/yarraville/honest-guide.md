@@ -5,14 +5,19 @@ date: 2026-03-16
 author: jack
 tags: ["yarraville", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Yarraville Honest Guide 2026: The Village Vibe Reality Check
+description: "Yarraville Honest Guide 2026: The Village Vibe Reality Check"
+---
 
-Updated 16 March 2026 | Jack Morrison reporting
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
 
 Right. Let's talk about Yarraville.
 
 Every man..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # Yarraville Honest Guide 2026: The Village Vibe Reality Check
 
 **Updated 16 March 2026 | Jack Morrison reporting**
@@ -125,7 +130,6 @@ Yarraville in 2026 is a suburb that knows what it is: a small, walkable, communi
 
 Just don't call it a "under the radar." Everyone knows about it. They've known for years. The secret is well and truly out.
 
----
 
 *Have an opinion on Yarraville? [Rate Your Suburb](/rate) and let the community know. Got a tip, a correction, or a hot take? [Submit it here](/submit).*
 

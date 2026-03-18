@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Southbank — Where to Get Your Caffeine Fix"
 date: 2026-03-17
+---
+
 updated: 2026-03-17
 author: "Olivia Chen"
 suburb: "southbank"
@@ -9,7 +11,6 @@ tags: ["coffee", "cafes", "southbank", "melbourne"]
 categories: ["Food & Drink"]
 description: "Where to find the best coffee in Southbank Melbourne. From hotel coffee shops to hidden gems, your complete caffeine guide."
 cover_image: "/images/southbank/best-coffee.jpg"
----
 
 Southbank isn't Melbourne's most exciting coffee destination. This postcode exists to serve tourists, office workers, and casino visitors — not to nurture an authentic third-wave coffee culture. But if you know where to look, you can find espresso that doesn't taste like it was designed for mass consumption.
 
@@ -74,7 +75,6 @@ The key is knowing what you want. If you need quick caffeine before a meeting, T
 
 What you shouldn't do is wander into a random cafe on Southbank Promenade and expect to be impressed. The good spots exist, but they reward knowledge, not luck.
 
----
 
 *Olivia Chen is Melbourne's coffee scene observer. She can tell from one sip whether a cafe cares about their extraction, and Southbank's coffee scene tells a complicated story.*
 

@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-brunch.jpg"
+---
+
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The best brunch in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually eat on weekends — from classic eggs to things you won't find anywhere else."
 tags: ["melbourne"]
 categories: ["best"]
----
 # Best Brunch in Melbourne — 2026 Guide
 
 Melbourne takes brunch more seriously than most cities take anything. It's not just a meal here — it's a weekend ritual, a social event, and for many Melburnians, the reason Saturday mornings exist. The city's brunch scene has evolved far beyond eggs benedict and orange juice, and in 2026, the range is genuinely staggering: you can get a $15 plate of shakshuka from a Middle Eastern kitchen, a $35 degustation-style brunch from a fine dining offshoot, or something in between that'll keep you going through a long Saturday without requiring a second mortgage.
@@ -18,7 +19,6 @@ This guide covers the spots worth waking up for. Every venue has been visited, t
 
 **Last updated: 17 March 2026** | **Melbourne Vibe Score: 81/100** 🟢
 
----
 
 ## 1. Higher Ground — CBD (Little Bourke Street)
 
@@ -32,7 +32,6 @@ The brunch menu here is a masterclass in doing familiar things exceptionally wel
 **Budget:** $18–$32 per person
 **Wait time:** Weekends, 20–40 minutes without a booking. Book online for guaranteed seating.
 
----
 
 ## 2. Cumulus Inc. — CBD (Flinders Lane)
 
@@ -46,7 +45,6 @@ The menu is split between the "breakfast" section (eggs, toast, porridge, the us
 **Budget:** $20–$35 per person
 **Wait time:** 30–60 minutes on weekends. This is Cumulus. Everyone knows about it. Go early or book.
 
----
 
 ## 3. The Terrace — Carlton (Lygon Street)
 
@@ -61,7 +59,6 @@ Carlton's brunch scene is dominated by Italian influence (unsurprisingly, given 
 
 **Cross-link:** Carlton's Lygon Street is a brunch destination in its own right — see our full [best brunch in Carlton](/carlton/best-brunch/) guide.
 
----
 
 ## 4. St. ALi — South Melbourne (Yarra Place)
 
@@ -76,7 +73,6 @@ The brunch menu changes seasonally and always features at least two dishes that 
 
 **Cross-link:** South Melbourne Market is two minutes away — combine brunch with a market trip. More options in our [South Melbourne brunch guide](/south-melbourne/best-brunch/).
 
----
 
 ## 5. Industry Beans — Fitzroy (Rose Street)
 
@@ -89,7 +85,6 @@ The standout here is the "Brunch Burger" — a soft poached egg, bacon, hash bro
 **Hours:** Daily, 7am–4pm
 **Budget:** $16–$28 per person
 
----
 
 ## 6. Entrecôte — South Yarra (Greville Street)
 
@@ -104,7 +99,6 @@ The space is beautiful — green and gold interiors, marble-topped tables, and a
 
 **Cross-link:** Greville Street is a destination in itself — explore our [South Yarra dining guide](/south-yarra/best-restaurants/) for more.
 
----
 
 ## 7. Auction Rooms — North Melbourne (Errol Street)
 
@@ -117,7 +111,6 @@ The seasonal menu is where Auction Rooms shines. The kitchen works with local pr
 **Hours:** Daily, 7:30am–4pm
 **Budget:** $18–$28 per person
 
----
 
 ## 8. Top Paddock — Richmond (Bridge Road)
 
@@ -130,7 +123,6 @@ The menu is broad, covering everything from a classic eggs and bacon to more adv
 **Hours:** Daily, 7am–4pm
 **Budget:** $17–$28 per person
 
----
 
 ## 9. Half Moon — Melbourne CBD (Degraves Street)
 
@@ -143,7 +135,6 @@ The full breakfast here ($18) is a study in getting the basics right: perfectly 
 **Hours:** Mon–Sat, 7am–3pm
 **Budget:** $15–$22 per person
 
----
 
 ## 10. The Kettle Black — South Melbourne (Kings Way)
 
@@ -158,7 +149,6 @@ The menu leans healthy without being boring. Think grain bowls with poached eggs
 
 **Cross-link:** You're a stone's throw from South Melbourne Market — check our [South Melbourne guide](/south-melbourne/best-brunch/) for more nearby spots.
 
----
 
 ## The Brunch Budget Reality
 
@@ -166,7 +156,6 @@ Melbourne brunch isn't cheap. A two-person brunch with coffee at any of these ve
 
 If budget is tight, hit the cafes early: many offer discounted coffee before 8am, and some have a reduced "early bird" menu. The CBD venues (Higher Ground, Cumulus Inc., Half Moon) also tend to be quieter and faster on weekdays if you can swing a day off.
 
----
 
 ## Getting There
 
@@ -176,7 +165,6 @@ If budget is tight, hit the cafes early: many offer discounted coffee before 8am
 - **Entrecôte (South Yarra):** Train from Flinders Street to South Yarra station (8 minutes), then a 10-minute walk to Greville Street.
 - **Top Paddock (Richmond):** Tram 48 from the CBD across Bridge Road.
 
----
 
 ## Related Guides
 

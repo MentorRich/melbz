@@ -5,25 +5,27 @@ date: 2026-03-16
 author: lina
 tags: ["south-melbourne", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Best Bars in South Melbourne 2026: Drinks Guide
-
-Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
-
+description: "Best Bars in South Melbourne 2026: Drinks Guide"
 ---
+
+**Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
+
+
+
+
+*Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
+
 
 South Melbourne doesn't scream about i..."
----
 # Best Bars in South Melbourne 2026: Drinks Guide
 
 **Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
 
----
 
 South Melbourne doesn't scream about itself the way Fitzroy or the CBD does. That's exactly the point. The suburb runs on a quieter frequency — locals who've been drinking at the same spots for decades sitting next to new-wave cocktail bars that'd hold their own against anything on Flinders Lane. The result is a drinks scene with serious depth, even if you have to know where to look.
 
 I spent two weeks working through South Melbourne's bar scene — Thursday night crowds, Sunday arvo sessions, a rain-soaked Tuesday that tested every venue's warmth. Here's where your money goes furthest and your glass stays fullest.
 
----
 
 > **🗳️ POLL: What's your priority when choosing a bar?**
 >
@@ -34,7 +36,6 @@ I spent two weeks working through South Melbourne's bar scene — Thursday night
 >
 > *Drop your vote in the comments below — we'll publish results next week.*
 
----
 
 ## 1. Brewmanity Beer Co
 
@@ -50,13 +51,11 @@ Food comes via a partnership with neighbouring Bells Hotel — think mushroom ar
 **Price range:** $8–$16 beers, $18–$25 mains, $14–$20 cocktails on the rooftop
 **Best for:** Groups, beer enthusiasts, sunny afternoons into late evenings
 
----
 
 > **🚨 THE MOVE**
 >
 > Skip the ground floor on Friday nights — it gets packed with after-work crowds from the Southbank offices. Head straight to the rooftop terrace, grab a limited-release brew, and order the beer-braised lamb to share. Thank me later.
 
----
 
 ## 2. The George Hotel
 
@@ -74,7 +73,6 @@ Scott Connolly's revival of this pub brought it back to life after it sat vacant
 **Price range:** $8–$12 beers, $16–$32 bistro meals, $10–$15 wines by the glass
 **Best for:** Post-market drinks, lazy Sunday sessions, weekday lunch deals
 
----
 
 ## 3. The Clarendon Hotel — Sky Bar
 
@@ -90,7 +88,6 @@ The building itself has been renovated with serious investment (there's a lift i
 **Price range:** $15–$22 cocktails, $16–$28 food, $9–$12 beers
 **Best for:** Date nights, sunset sessions, birthday drinks with a view
 
----
 
 > **📊 VOTE: Should more pubs have rooftop bars?**
 >
@@ -99,7 +96,6 @@ The building itself has been renovated with serious investment (there's a lift i
 >
 > *Cast your vote below — we're tracking the results for next month's nightlife roundup.*
 
----
 
 ## 4. Bells Hotel
 
@@ -115,7 +111,6 @@ But what surprised me was the midweek crowd. Wednesday and Thursday evenings dra
 **Price range:** $8–$14 beers, $16–$28 bistro meals, $15–$20 cocktails
 **Best for:** Sports fans, group gatherings, midweek dinners that turn into late nights
 
----
 
 ## 5. The Maori Chief Hotel
 
@@ -131,13 +126,11 @@ What you won't find here is craft cocktails, exposed brick, or a Spotify playlis
 **Price range:** $7–$10 beers, $15–$22 pub meals, basic spirits $8–$12
 **Best for:** No-nonsense pub sessions, history buffs, anyone sick of over-designed bars
 
----
 
 > **⏰ URGENCY BANNER**
 >
 > **Weekend weather looking warm ☀️** — Rooftop bars across South Melbourne will be packed this Saturday. The Clarendon Sky Bar and Brewmanity rooftop fill up by 6pm on sunny weekends. Book now or stand in line. Your call.
 
----
 
 ## 6. Mr Brownie Rooftop Hotel
 
@@ -153,7 +146,6 @@ The crowd skews young — late twenties to mid-thirties — and the energy picks
 **Price range:** $15–$20 cocktails, $14–$22 Indian plates, $9–$12 beers
 **Best for:** Night-out start point, curry-and-cocktail combos, groups wanting variety across floors
 
----
 
 ## The Honourable Mentions
 
@@ -163,7 +155,6 @@ A few places that came close to making the main list:
 - **The Emerald Hotel** (415 Clarendon St) — Country pub vibes in the city, same owners for 30 years. Strong TAB crowd and a courtyard that's a summer secret weapon.
 - **Limerick Arms Hotel** (364 Clarendon St) — 160 years old, 16 craft taps, and a steak menu that's earned its reputation. The best sports-watching venue south of the river if you don't want Bells' scale.
 
----
 
 ## What We Skipped and Why
 
@@ -175,7 +166,6 @@ Not every bar in South Melbourne made the cut. Here's what got left out and the 
 
 **Any CBD-adjacent venue** that technically sits on the border but belongs more to Southbank or the CBD proper. This guide is about bars where the postcode says South Melbourne and the crowd says the same.
 
----
 
 ## The Bottom Line
 
@@ -183,7 +173,6 @@ South Melbourne's bar scene in 2026 runs deeper than its reputation suggests. Yo
 
 The best strategy? Start with Brewmanity or The George for a late afternoon warm-up, move to the Clarendon Sky Bar or Mr Brownie Rooftop as the sun drops, and finish at The Maori Chief if you want the night to end with a cold, uncomplicated beer in a place that's seen a century of Melbourne nights do the same.
 
----
 
 > **👍 REACTION BAR**
 >
@@ -195,7 +184,6 @@ The best strategy? Start with Brewmanity or The George for a late afternoon warm
 >
 > *Let us know in the comments.*
 
----
 
 **Related reads on MELBZ:**
 - [Best Bars in South Yarra 2026](/south-yarra/best-bars/) — if you're crossing the river for rooftop cocktails
@@ -204,7 +192,6 @@ The best strategy? Start with Brewmanity or The George for a late afternoon warm
 - [Best Brunch in South Melbourne](/south-melbourne/best-brunch/) — because you'll need recovery food
 - [Best Cafes in South Melbourne](/south-melbourne/best-cafes/) — the morning-after essentials
 
----
 
 *What did we miss? Tell us about your South Melbourne bar secrets at [hello@melbz.com.au](mailto:hello@melbz.com.au) and we'll check them before the next update.*
 

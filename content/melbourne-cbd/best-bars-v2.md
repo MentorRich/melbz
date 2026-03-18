@@ -5,11 +5,15 @@ date: 2026-03-16
 author: lina
 tags: ["melbourne-cbd", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
-
-Melbourne's CBD bar scene has never been short on options — the problem has always been cutt..."
+description: "Best Bars in Melbourne CBD 2026: Laneway Gems & Rooftop Views"
 ---
-*Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
+
+*description: "16 March 2026 | 6 places tested | Lina Nguyen reporting"*
+
+
+***Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting***
+
+
 
 Melbourne's CBD bar scene has never been short on options — the problem has always been cutting through the noise. Between the flash cocktail dens that prioritise Instagram over flavour and the sticky-carpet pubs where the carpet has more personality than the taps, finding the spots that actually deliver a good night out takes effort.
 
@@ -17,7 +21,6 @@ We spent the last month doing that effort. Six visits across the CBD's laneways,
 
 Here's where you should be drinking in 2026.
 
----
 
 ## 1. Moonrabbit — The Experiential Cocktail Lab
 
@@ -35,7 +38,6 @@ If you're the type who gets decision fatigue at bars, this is your spot. Just ha
 
 **Vibe:** Date night. Curious friends. "Trust me, I know a place" energy.
 
----
 
 ## 2. Hashi Bar — Where Whisky Meets Izakaya
 
@@ -53,7 +55,6 @@ The room is narrow and deep, all black steel and warm wood, with a long bar that
 
 **Vibe:** After-work drinks that turn into dinner. Solo whisky sessions. impressing out-of-town mates.
 
----
 
 ## 3. Rooftop Bar at Adelphi — Melbourne's Best-Kept Open Secret
 
@@ -71,7 +72,6 @@ Capacity is limited and they do take reservations, which is smart. A Friday even
 
 **Vibe:** Long summer afternoons. Out-of-towners. "Let's grab one more."
 
----
 
 ## 4. The Croft Institute — The Underground Speakeasy
 
@@ -89,7 +89,6 @@ Prices sit at $20–$30 per drink. No food beyond some nuts and olives. Come fed
 
 **Vibe:** Cocktail nerds. Date night round two. "Remember when we used to come here?"
 
----
 
 ## 5. Tram Stop Bar — The Most Melbourne Bar in Melbourne
 
@@ -107,7 +106,6 @@ There's a small food menu — pies, toasties, chips — that does the job. It's 
 
 **Vibe:** After-work knock-offs. Solo reading spot. "Just the one" that turns into four.
 
----
 
 ## 6. Eau De Vie — The Grand Dame of CBD Cocktail Bars
 
@@ -125,7 +123,6 @@ The cigar terrace is the differentiator. Melbourne's indoor smoking bans make ou
 
 **Vibe:** Celebrations. Client entertaining. "Let me take you somewhere proper."
 
----
 
 
 ## Venue Addresses & Details
@@ -148,7 +145,6 @@ Every "best bars" list has a comment section full of "how did you not include X?
 
 **Rooftop Bar at Curtin House** — We wanted to include this, but the rooftop's condition has deteriorated. The furniture is tired, the drinks are average, and the view is partially blocked by new developments. Time for a refresh.
 
----
 
 
 ## Venue Addresses & Details
@@ -165,7 +161,6 @@ Melbourne CBD's bar scene in 2026 is in strong shape. The city has moved past th
 
 If you want cocktails, Moonrabbit and Croft Institute are your best bets. For whisky, Hashi is unmatched. For views, the Adelphi rooftop. For no-fuss good times, Tram Stop Bar. And for something that feels like an occasion, Eau De Vie.
 
----
 
 
 ## Venue Addresses & Details
@@ -183,13 +178,11 @@ If you want cocktails, Moonrabbit and Croft Institute are your best bets. For wh
 - [Richmond's Hidden Bars: Cigarette Break Spots That Became Local Institutions](/richmond/best-bars)
 - [Melbourne CBD Bar Crawl Map: A Self-Guided Laneway Crawl](/melbourne-cbd/bar-crawl-map)
 
----
 
 *Last tested March 2026. Prices and hours are subject to change. Always check the venue's website or call ahead for current availability.*
 
 *Have a bar we should review? Drop us a line at hello@melbz.com.au.*
 
----
 
 <!-- Engagement Widget 1 -->
 **🗳️ POLL: What's your CBD bar vibe?**
@@ -199,18 +192,15 @@ If you want cocktails, Moonrabbit and Croft Institute are your best bets. For wh
 4. 🥃 Dark corner with a whisky
 Tell us in the comments 👇
 
----
 
 <!-- Engagement Widget 2 -->
 **📖 READ MORE: [Best Bars in South Yarra →](/south-yarra/best-bars)**
 
----
 
 <!-- Engagement Widget 3 -->
 **💬 What did we miss?**
 We know there are gems we haven't found yet. Drop your go-to CBD bar in the comments and we'll check it out for the next update.
 
----
 
 <!-- Engagement Widget 4 -->
 **📱 Get the Weekly Melbourne Nightlife Briefing**

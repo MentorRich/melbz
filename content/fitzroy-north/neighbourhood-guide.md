@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/neighbourhood-guide.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the neighbourhood guide in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["neighbourhood"]
----
 ## The Fitzroy North Neighbourhood Guide 2026
 
 This is your verified guide to living in Fitzroy North in 2026.
@@ -20,7 +21,6 @@ Sitting north of the [Fitzroy](/fitzroy/honest-guide) border, east of [Brunswick
 
 This guide covers what it's actually like to live here in 2026 — the good, the frustrating, and the "why is there always a crane on Brunswick Street?"
 
----
 
 ## The Lay of the Land
 
@@ -36,7 +36,6 @@ Fitzroy North runs roughly from the Merri Creek in the east to Nicholson Street 
 
 The side streets —Tinning Street, Central Place, the streets around the gardens — are where you'll find the residential heart. Mostly weatherboard cottages, some lovingly renovated, others held together by sheer stubbornness and ivy. You'll find genuine Italian families still living alongside twenty-something creatives who moved here for the "vibe" and stayed for the rent that's only slightly eye-watering.
 
----
 
 ## Who Lives Here in 2026?
 
@@ -50,7 +49,6 @@ Fitzroy North demographics in 2026 tell a story of transition:
 
 The suburb still has its old Italian and Greek communities — you'll hear nonna yelling at her grandkids in Italian outside the deli on Sunday mornings. But they're sharing space with the digital marketing manager who works from home, the nurse from the Royal Melbourne, the architect who cycles everywhere, and the musician who's been in the same sharehouse on St Georges Road for eight years (how? nobody knows).
 
----
 
 ## What's Actually Good About Living Here
 
@@ -78,7 +76,6 @@ The food scene here isn't trying to be "world-class" — it's trying to be good,
 
 Fitzroy North still has neighbourhood moments. The summer Friday night street parties on Brunswick Street. The Edinburgh Gardens community market on the first Sunday of the month. The cricket finals at the Gardens. The Greek festival at the Delphi. The random guy who plays piano in the park on Sunday afternoons. It's not the "everyone knows everyone" small-town vibe, but it's closer than most inner-city suburbs get.
 
----
 
 ## What's Frustrating About Living Here
 
@@ -106,7 +103,6 @@ Yes, we get it. Fitzroy got too expensive, everyone moved north. Now Fitzroy Nor
 
 **Reality check:** This is just cities. Either participate or move further out.
 
----
 
 ## Transport & Getting Around
 
@@ -123,7 +119,6 @@ Yes, we get it. Fitzroy got too expensive, everyone moved north. Now Fitzroy Nor
 
 **Driving:** Don't. The Traffic is bad. Parking is worse. Take the tram.
 
----
 
 ## Services & Amenities
 
@@ -139,7 +134,6 @@ Yes, we get it. Fitzroy got too expensive, everyone moved north. Now Fitzroy Nor
 
 **Parks:** Edinburgh Gardens (the big one), smaller reserves on Tinning Street, along Merri Creek.
 
----
 
 ## Safety
 
@@ -147,7 +141,6 @@ Fitzroy North is generally safe — night-time walks along Brunswick Street or S
 
 The Fitzroy Police Station (292 Smith Street) is open 24/7 and responsive.
 
----
 
 ## Things That Make Fitzroy North Feel Like Home
 
@@ -158,7 +151,6 @@ The Fitzroy Police Station (292 Smith Street) is open 24/7 and responsive.
 - Summer evenings in the Gardens with a bag of wine and cheese from Alimentari
 - The fact that nobody here cares what you wear or what you do for a living (as long as you're nice)
 
----
 
 ## The Future: What's Coming Next
 
@@ -171,7 +163,6 @@ Fitzroy North in 2026 is already seeing the early signs of the next wave:
 
 Will it still feel like Fitzroy North in 2030? Yes, but with higher prices, fewer Greek delis, and probably a bar that serves cocktails in vintage teacups. That's the cycle. Enjoy it while it lasts.
 
----
 
 ## Is Fitzroy North Right For You?
 
@@ -189,7 +180,6 @@ Will it still feel like Fitzroy North in 2030? Yes, but with higher prices, fewe
 - You hate walking or cycling
 - You get cranky about "hipsters" and gentrification (you'll find them here)
 
----
 
 ## Cross-Links
 

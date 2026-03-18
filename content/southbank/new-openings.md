@@ -5,12 +5,11 @@ date: 2026-03-18
 author: priya
 tags: ["southbank", "new-openings"]
 categories: ["new"]
-description: "Updated 18 March 2026 | Food Editor
-
- New Openings in Southbank: Your 2026 Culinary Compass
-
-The Southbank promenade has always hummed with a certain energy—..."
+description: "New Openings in Southbank 2026"
 ---
+
+*description: "18 March 2026 | Food Editor"*
+
 *Updated 18 March 2026 | Food Editor*
 
 # New Openings in Southbank: Your 2026 Culinary Compass

@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Prahran — 2026 Local Guide"
 cover_image: "/images/prahran/date-night.jpg"
+---
+
 suburb: "prahran"
 vertical: "lifestyle"
 author: "grace"
@@ -9,12 +11,10 @@ updated: 2026-03-16
 description: "Discover the date night in Prahran. Our verified 2026 guide covers the best spots for locals."
 tags: ["prahran"]
 categories: ["date"]
----
 ## The Best Date Night in Prahran
 
 A good date night in Prahran doesn't require a taxi to the CBD or a second mortgage. This suburb has quietly built one of the inner south's strongest dining-and-drinking scenes, with venues that range from candlelit French bistros to late-night jazz bars — all within walking distance of each other. Whether it's a first date where you need an easy exit strategy or a long-term partner dinner where you actually want to talk, here's how to do date night in Prahran in 2026.
 
----
 
 ### 1. Entrecote — The Sure Thing
 
@@ -26,7 +26,6 @@ The menu is steak-focused (hence the name), with an emphasis on proper French co
 
 **The insider move:** Book the courtyard table if the weather's cooperating. It's the most romantic spot in the restaurant and feels miles away from Chapel Street, even though it's right there. If the courtyard's taken, the window seats along Greville Street are a solid backup — good people-watching without being on display.
 
----
 
 ### 2. Colonel Tan's — The Unconventional Pick
 
@@ -38,7 +37,6 @@ The space is dimly lit, slightly grungy, and completely unpretentious. It's the 
 
 **The insider move:** Go on a weeknight when the club downstairs isn't running. You'll have the restaurant nearly to yourselves, and the kitchen is more relaxed and willing to make off-menu recommendations. Book via their website — walk-ins are possible but risky on Fridays.
 
----
 
 ### 3. Chez Olivier — The Parisian Escape
 
@@ -50,7 +48,6 @@ The restaurant is small and intimate, maybe 30 seats, with white tablecloths and
 
 **The insider move:** Their Friday and Saturday set menu ($55 per person for three courses with a glass of wine) is genuinely one of the best dining deals in Prahran. You won't find it advertised prominently — ask when you book.
 
----
 
 ### 4. Osteria Renata — The Italian Option
 
@@ -62,7 +59,6 @@ The room is warm and inviting — terracotta tones, candlelight, and a layout th
 
 **The insider move:** Sit at the bar area if you're on a first date. It's less formal than the dining room, the conversation flows more naturally, and you can bail after one course without it feeling weird. If the date's going well, you can always move to a table for the main.
 
----
 
 ### 5. Alp's Wine House — The Wine-Lover's Date
 
@@ -74,7 +70,6 @@ It's the perfect first or second date venue because you can control the duration
 
 **The insider move:** The outdoor seating (if available) is perfect for a sunny Saturday arvo date. Grab a bottle of something interesting, order a spread, and let the afternoon unfold. No bookings needed for outdoor — just rock up early.
 
----
 
 ### 6. Pardon Coffee — The Low-Pressure First Date
 
@@ -86,13 +81,11 @@ The space is small but welcoming, with enough ambient noise that silence doesn't
 
 **The insider move:** If the coffee goes well, suggest walking to the Prahran Market. It gives you something to do together, there's no pressure to keep talking if there's a lull, and you can grab a gozleme ($14) from Anatolia Gozleme Kitchen as a casual follow-up.
 
----
 
 ## Beyond Prahran's Borders
 
 Prahran sits perfectly between two other excellent date-night suburbs. [South Yarra's dining scene](/south-yarra/date-night) has some heavy hitters — think higher-end restaurants, cocktail bars with views, and venues that cater to the "impress them" crowd. [Windsor's date night options](/windsor/date-night) lean more indie and relaxed, with wine bars and small-plate restaurants that feel less formal. And if you want to go big, the [Melbourne CBD](/melbourne-cbd/date-night) has some of the city's most iconic fine-dining venues within tram distance.
 
----
 
 ## The Date-Night Logistics
 
@@ -100,7 +93,6 @@ Prahran sits perfectly between two other excellent date-night suburbs. [South Ya
 - **Budget guide:** Casual date (coffee/wine bar): $30–$50 per person. Mid-range (bistro/cafe): $50–$80 per person. Splurge (restaurant with wine): $80–$120 per person.
 - **Timing:** Most Prahran restaurants seat from 6pm. Weeknights are easier for bookings. Friday and Saturday require advance booking for popular spots like Entrecote and Chez Olivier.
 
----
 
 ## What We Skipped and Why
 
@@ -110,11 +102,9 @@ Prahran sits perfectly between two other excellent date-night suburbs. [South Ya
 
 Every venue on this list has been personally visited by the MELBZ team. Prices are verified for early 2026.
 
----
 
 **Living in Prahran?** [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=prahran)
 
----
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran guides, see our [best coffee guide](/prahran/best-coffee), [neighbourhood guide](/prahran/neighbourhood-guide), or [weekend plans](/prahran/things-to-do-this-weekend).*
 

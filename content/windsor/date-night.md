@@ -1,6 +1,8 @@
 ---
 title: "Date Night in Windsor — 2026 Local Guide"
 cover_image: "/images/windsor/date-night.jpg"
+---
+
 suburb: "windsor"
 vertical: "lifestyle"
 author: "grace"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the date night in Windsor. Our verified 2026 guide covers the best spots for locals."
 tags: ["windsor"]
 categories: ["date"]
----
 ## The Best Date Night in Windsor
 
 Windsor doesn't do romance like other suburbs. There are no fancy hotel restaurants with doormen who call you "sir" and "madam." There are no rooftop bars with velvet ropes and bottle service. What Windsor does instead is intimacy without pretension — places where you can actually talk, where the food is the focus, where you don't need to wear trousers you wouldn't wear to the supermarket.
@@ -102,7 +103,6 @@ The sushi and nigiri are excellent, the sake-based cocktails are inventive, and 
 
 **Insider tip:** Skip the restaurant queue and head straight upstairs if you're just doing drinks and small plates.
 
----
 
 ## What We Skipped and Why
 
@@ -112,7 +112,6 @@ The sushi and nigiri are excellent, the sake-based cocktails are inventive, and 
 
 **Any venue without table service or that feels like a takeaway** — Date night needs a bit of service, a bit of atmosphere.
 
----
 
 ## Date Night Timing and Logistics
 
@@ -120,14 +119,12 @@ Most of these venues take reservations, and for good reason — they're popular.
 
 Parking on Chapel Street after 6pm is metered and limited. Side streets off Williams Road or Punt Road offer better options. The 78 tram runs until around 1am, and Prahran station is a short walk from most of these spots.
 
----
 
 **Cross-links:**
 - [Date Night in Prahran](/prahran/date-night) — similar vibe, slightly fancier
 - [Date Night in South Yarra](/south-yarra/date-night) — where romance gets expensive
 - [Date Night in St Kilda](/st-kilda/date-night) — beachside dating
 
----
 
 *MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
 

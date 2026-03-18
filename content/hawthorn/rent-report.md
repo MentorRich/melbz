@@ -1,16 +1,21 @@
 ---
-title: "Rent Prices in Hawthorn 2026: Glenferrie Road & Beyond"
+title: "Rent Prices in Hawthorn 2026: Glenferrie Road Beyond"
 cover_image: "/images/hawthorn/rent-report.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["hawthorn", "rent", "property"]
 categories: ["property"]
-description: "Rent Prices in Hawthorn 2026: Glenferrie Road & Beyond
+description: "Rent Prices in Hawthorn 2026: Glenferrie Road & Beyond"
+---
 
-Updated 16 March 2026 | Marcus Cole reporting
+**Updated 16 March 2026 | Marcus Cole reporting**
+
+
 
 If you've been apartment hunting along Glenferrie Road..."
----
+
+*Updated 16 March 2026 | Marcus Cole reporting*
+
 # Rent Prices in Hawthorn 2026: Glenferrie Road & Beyond
 
 *Updated 16 March 2026 | Marcus Cole reporting*
@@ -19,7 +24,6 @@ If you've been apartment hunting along Glenferrie Road lately, you already know 
 
 This is the definitive breakdown of what it actually costs to rent in Hawthorn right now, how it stacks up against the neighbours, and whether your salary can handle it without a side hustle.
 
----
 
 ## The Numbers: What You'll Actually Pay in Hawthorn Right Now
 
@@ -50,7 +54,6 @@ The unit market is where things get interesting. New-build apartments along Burw
 
 Hawthorn has a growing pipeline of townhouse developments, particularly along Riversdale Road and the streets behind Swinburne. Expect to pay $650–$780 per week for a 2–3 bedroom townhouse, depending on whether it's a new build with an actual dishwasher or a 1990s retrofit pretending to be modern.
 
----
 
 ## Hawthorn vs the Inner-East Rivals
 
@@ -90,7 +93,6 @@ Check our [Camberwell cost of living guide](/suburbs/camberwell) for a full brea
 
 Hawthorn sits in a sweet spot that's increasingly hard to find — cheaper than Kew and Camberwell but significantly above the Melbourne median. It's premium without being the peak premium, and that's precisely why demand keeps pushing rents upward.
 
----
 
 ## The Salary Reality Check
 
@@ -118,7 +120,6 @@ Most renters in Hawthorn's house market are dual-income households. Single rente
 
 The uncomfortable truth: if you're a single earner earning under $100,000 and you want a whole house to yourself in Hawthorn, you're either spending too much on rent or you've got a long commute from somewhere more affordable.
 
----
 
 ## What's Driving the 2026 Pressures
 
@@ -142,7 +143,6 @@ Hawthorn's vacancy rate sits at **1.3%** as of March 2026, well below the 3% lev
 
 The inner east is one of the tightest rental submarkets in Melbourne. Richmond is slightly looser thanks to the sheer volume of apartment stock.
 
----
 
 ## Where the Value Lives in Hawthorn
 
@@ -158,7 +158,6 @@ Not all of Hawthorn is priced identically. Here's the micro-geography of value:
 
 For more on what daily life costs beyond rent in this area, our [Hawthorn cost of living guide](/suburbs/hawthorn/cost-of-living) covers groceries, transport, dining, and everything else that eats into your paycheque.
 
----
 
 ## What We Skipped and Why
 
@@ -174,7 +173,6 @@ Every data source has blind spots. Here's what this article doesn't cover and wh
 
 **Land tax pass-through.** Some Victorian landlords are passing increased land tax costs onto tenants through rent increases. While this is a real factor, it's nearly impossible to quantify at the suburb level because it's blended into overall pricing. The effects are captured in the median figures we've reported.
 
----
 
 ## The Bottom Line
 
@@ -184,7 +182,6 @@ For dual-income households earning above $120,000 combined, it's still workable.
 
 The rental market isn't going to get easier any time soon. With vacancy rates below 1.5% and annual growth running at 4–5%, the question isn't whether rents will rise in 2026 — it's by how much.
 
----
 
 **About the author:** Marcus Cole is the Property Editor at MELBZ, covering Melbourne's inner-east rental and property markets. Got a suburb you want covered? [Let us know.](/contact)
 

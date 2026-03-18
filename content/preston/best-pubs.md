@@ -1,6 +1,8 @@
 ---
 title: "Best Pubs in Preston — 2026 Local Guide"
 cover_image: "/images/preston/best-pubs.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "kai"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best pubs in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["general"]
----
 ## The Best Pubs in Preston
 
 Preston's pub scene is a living contradiction. It's got old-school neighbourhood pubs that have been serving schooners since before the word "craft beer" entered the Australian vocabulary, sitting alongside new-wave venues that serve pét-nats and vegan cocktails in spaces decorated with taxidermy and political statements. The result is a pub landscape that covers more ground than you'd expect from a suburb this size.
@@ -110,14 +111,12 @@ We also skipped the more bar-focused venues like Rebel Rebel and Hard Rubbish be
 
 For [Thornbury's](/thornbury/) pub and bar scene, it's a 10-minute walk south along High Street. [Northcote](/northcote/) has the Social Club and several other venues worth the 20-minute walk. [Reservoir](/reservoir/) has a growing pub scene of its own, five minutes north.
 
----
 
 **More Preston drinking guides:**
 → [Best Bars in Preston — the cocktail and wine bar scene](/preston/best-bars/)
 → [Pubs in Thornbury — 10 min walk south](/thornbury/)
 → [Pubs in Northcote — 20 min walk](/northcote/)
 
----
 
 *This guide was researched and written by the MELBZ team. Prices and hours are accurate as of March 2026 but should be confirmed before visiting. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

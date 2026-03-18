@@ -5,12 +5,17 @@ date: 2026-03-16
 author: jack
 tags: ["windsor", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Windsor Honest Guide 2026: Chapel Street's Cool Sibling
+description: "Windsor Honest Guide 2026: Chapel Street's Cool Sibling"
+---
 
-Updated 16 March 2026 | Jack Morrison reporting
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
 
 Here's the thing about Windsor: it's the suburb tha..."
----
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 # Windsor Honest Guide 2026: Chapel Street's Cool Sibling
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -140,7 +145,6 @@ Windsor isn't the best suburb in Melbourne. That's a meaningless claim. But it m
 
 **Bottom line:** If you're considering Windsor, visit on a Saturday. Walk Chapel Street from Williams Road to Dandenong Road. Get a coffee. Get a bowl of pho. Have a beer in the Prince Alfred's beer garden. If you leave thinking "yeah, this is it" — trust that instinct. It's usually right.
 
----
 
 *Was this guide helpful? Rate Windsor below or tell us what we got wrong — we fix it fast.*
 

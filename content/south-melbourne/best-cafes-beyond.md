@@ -5,25 +5,27 @@ date: 2026-03-16
 author: eli
 tags: ["south-melbourne", "cafes", "food"]
 categories: ["food"]
-description: "Best Cafes in South Melbourne 2026: Beyond the Market
-
-Updated 16 March 2026 | 6 places tested | Eli Chen reporting
-
+description: "Best Cafes in South Melbourne 2026: Beyond the Market"
 ---
+
+**Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
+
+
+
+
+*Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
+
 
 Every weekend, the same thing happe..."
----
 # Best Cafes in South Melbourne 2026: Beyond the Market
 
 *Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
 
----
 
 Every weekend, the same thing happens. Someone visiting Melbourne gets told to "check out South Melbourne Market," they wander through, eat a dumpling, buy a candle, and then wonder where the locals actually eat breakfast. The market's great — we're not here to argue with a crab roll from the dim sim stand — but the streets surrounding it hold some of the city's most accomplished, interesting, and criminally underrated cafes. This is a guide to those places.
 
 We walked the grids between Clarendon, Dorcas, Park, and City Road. We sat at benches, ordered the things regulars order, watched how long the flat whites took, and noted whether the avocado toast was another lazy half-avocado-on-sourdough or something a kitchen actually thought about. Here's what made the cut.
 
----
 
 ## 1. ST. ALi — The OG Coffee Warehouse
 
@@ -39,7 +41,6 @@ You don't get a guide about South Melbourne cafes without starting at ST. ALi. F
 
 > 💬 **MELBZ Poll:** ST. ALi has been running since 2005 — which Melbourne cafe has YOUR longest loyalty? Drop your answer in the comments.
 
----
 
 ## 2. The Kettle Black — Where Architecture Meets Eggs
 
@@ -55,7 +56,6 @@ Run by the Darling Group (the same team behind Higher Ground and Top Paddock), T
 
 > 📍 **Nearby reads:** Heading east after brekky? Our [South Yarra cafe guide](/south-yarra/best-cafes/) covers Chapel Street's best. Or wander south toward [St Kilda's waterfront cafes](/st-kilda/best-cafes/) for afternoon coffee with a bay view.
 
----
 
 ## 3. Juniper — The Laneway Discovery
 
@@ -69,7 +69,6 @@ Juniper is tucked down a tiny laneway off Coventry Street, in the former Giddiup
 
 **The vibe:** Intimate, 20-odd seats, a long wooden bar along one wall, mirrors on the other making the space feel bigger than it is. The service is unhurried and genuinely warm. This is the kind of place where the barista remembers your order by the third visit.
 
----
 
 ## 4. Clementine — The Palmerston Crescent Newcomer
 
@@ -85,7 +84,6 @@ Sitting in the ground floor of a CBD-facing office building on the lakeside pock
 
 > 📝 **What's your go-to South Melbourne brunch order?** Tell us below and we might feature your pick in next month's neighbourhood roundup.
 
----
 
 ## 5. Hector's Deli — Sandwich Perfection on Coventry Street
 
@@ -99,7 +97,6 @@ Hector's Deli started in Richmond and became Melbourne's most talked-about sandw
 
 **The vibe:** No-nonsense sandwich counter with a handful of inside seats and a few tables out front. This is not a linger-for-hours cafe — you order, you eat, you leave happy. The queue moves fast, and the staff are efficient. Think of it as a pit stop rather than a destination, though the sandwiches are good enough to be the destination.
 
----
 
 ## 6. Kuu Café + Japanese Kitchen — The Quiet Achiever
 
@@ -115,7 +112,6 @@ Kuu is run by a Japanese couple who fell in love with Melbourne and decided to b
 
 > 🥐 **Newsletter:** Get our weekly Melbourne cafe picks delivered to your inbox every Friday. [Subscribe here](/newsletter/).
 
----
 
 ## 7. Chez Dre — The French-Patissier Holdout
 
@@ -129,7 +125,6 @@ Tucked behind the market on Coventry Street, Chez Dre has been a South Melbourne
 
 **The vibe:** Relaxed warehouse cafe with a European sensibility. The kind of place where you end up staying for a second coffee because the pastry was good and the light through the windows is perfect.
 
----
 
 ## What We Skipped and Why
 
@@ -141,7 +136,6 @@ Tucked behind the market on Coventry Street, Chez Dre has been a South Melbourne
 
 **Code Black Coffee (South Melbourne location).** Solid coffee, but the space leans more toward a quick espresso bar than the kind of cafe experience worth a dedicated entry. If you need a fast, good-quality flat white near the market, it does the job.
 
----
 
 ## Getting There and Around
 
@@ -149,7 +143,6 @@ South Melbourne sits just south of the CBD, bounded roughly by the Yarra, Albert
 
 Driving? On-street parking exists but fills fast on weekends. The South Melbourne Market car park (Cecil Street) is your best bet for all-day parking, and you can walk to every cafe on this list in under 10 minutes from there.
 
----
 
 ## The Bottom Line
 
@@ -157,7 +150,6 @@ South Melbourne's cafe scene is deeper than the market. The best spots are on th
 
 Go early. Bring someone you like. Order the thing you haven't tried before.
 
----
 
 *Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
 

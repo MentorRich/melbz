@@ -5,25 +5,27 @@ date: 2026-03-16
 author: ethan
 tags: ["kensington", "late-night", "food"]
 categories: ["food"]
-description: "Late Night Food in Kensington 2026: Where to Eat After Dark
-
-Updated 16 March 2026 | 6 places tested | Ethan Cross reporting
-
+description: "Late Night Food in Kensington 2026: Where to Eat After Dark"
 ---
+
+**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
+
+
+
+
+*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
+
 
 Kensington doesn't shout a..."
----
 # Late Night Food in Kensington 2026: Where to Eat After Dark
 
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
 
----
 
 Kensington doesn't shout about its food scene. That's partly the point — this is a suburb that does things at its own pace, anchored by Racecourse Road, Macaulay Road, and a handful of side streets where you'll find Ethiopian stews, hand-pressed corn tortillas, and Turkish grills all within a 10-minute walk. But when the sun drops and the trains thin out, the options get narrower fast.
 
 We walked every strip, ate at every spot that stays open past 9pm, and ranked what's worth your time after dark. Here's what actually delivered.
 
----
 
 ## 🗳️ POLL
 
@@ -37,7 +39,6 @@ We walked every strip, ate at every spot that stays open past 9pm, and ranked wh
 
 *Vote in our Telegram channel — results published weekly.*
 
----
 
 ## 1. Flemington Kebab House
 
@@ -54,7 +55,6 @@ It's takeaway only, the queue moves fast, and the staff have the process down to
 
 **Verdict:** The dependable backbone of Kensington's late-night food. No pretensions, no frills, open when you need it.
 
----
 
 ## 2. Sahara Restaurant
 
@@ -71,7 +71,6 @@ The restaurant is fully halal. Portions are generous, and you won't leave hungry
 
 **Verdict:** Kensington's most underrated late-night dining room. The goat alone is worth the trip.
 
----
 
 ## 3. La Tortilleria
 
@@ -88,7 +87,6 @@ Everything on the menu is gluten-free, which is unusual for a Mexican restaurant
 
 **Verdict:** The best Mexican in Kensington, hands down. Go on a Friday and arrive before 7pm unless you enjoy queues.
 
----
 
 ## 🍽️ QUICK GUIDE: KENSINGTON LATE-NIGHT FOOD BY HOUR
 
@@ -99,7 +97,6 @@ Everything on the menu is gluten-free, which is unusual for a Mexican restaurant
 | **10pm–11pm** | Sahara Restaurant, Flemington Kebab House |
 | **After 11pm** | Flemington Kebab House (midnight), Hardimans Hotel (1am Fri–Sat) |
 
----
 
 ## 4. Arnold's Wine Bar
 
@@ -116,7 +113,6 @@ On Friday and Saturday nights, the kitchen runs until 11pm. The disco ball comes
 
 **Verdict:** The best option if you want a proper sit-down meal with good wine on a Friday or Saturday night. Book ahead — the room only holds about 30 people.
 
----
 
 ## 5. Hardimans Hotel
 
@@ -133,7 +129,6 @@ The beer list leans local, with rotating craft taps alongside the usual suspects
 
 **Verdict:** The late-night pub option. If Hardimans is open and you want a sit-down meal with a beer, this is your spot.
 
----
 
 ## 6. Auntie Annie's Hotel
 
@@ -150,7 +145,6 @@ Live music runs Thursday through weekends, and the kitchen stays open to match. 
 
 **Verdict:** The spiritual successor to The Quiet Man. Still settling in, but the bones are right and the food is solid.
 
----
 
 ## What We Skipped and Why
 
@@ -164,7 +158,6 @@ Live music runs Thursday through weekends, and the kitchen stays open to match. 
 
 **Footscray food scene.** Footscray has exploded as a food destination in recent years, and its late-night options — particularly around Hopkins Street — are strong. We've got a full [Footscray food guide](/footscray/late-night-food) covering the best of it.
 
----
 
 ## 📊 BY THE NUMBERS
 
@@ -177,7 +170,6 @@ Live music runs Thursday through weekends, and the kitchen stays open to match. 
 | Only fully gluten-free menu | La Tortilleria |
 | Only halal-certified options | Flemington Kebab House, Sahara |
 
----
 
 ## Getting There and Getting Home
 
@@ -185,7 +177,6 @@ Kensington station sits on the Craigieburn line, roughly 12 minutes from Flinder
 
 Taxis and rideshare from the CBD run about $15–$20 and take 10–15 minutes depending on traffic. The ride home on a Saturday night from Racecourse Road is usually smooth — Kensington isn't the kind of suburb that generates surge pricing.
 
----
 
 ## The Honest Take
 
@@ -195,11 +186,9 @@ The kebab house for quick takeaway. Sahara for a proper sit-down. La Tortilleria
 
 Six spots. No filler. That's the lot.
 
----
 
 *Have we missed your favourite Kensington late-night spot? Tell us on [Telegram](https://t.me/melbaborne) or email ethan@melbz.com.au. We retest every six months.*
 
----
 
 **About the author:** *Ethan Cross is the Late Night Editor at MELBZ, covering after-dark dining across Melbourne's inner suburbs. He has been writing about Melbourne food since 2019 and has tested late-night menus in more than 40 suburbs.*
 

@@ -1,6 +1,8 @@
 ---
 title: "Neighbourhood Guide to Brunswick East — 2026 Local Guide"
 cover_image: "/images/brunswick-east/neighbourhood-guide.jpg"
+---
+
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "marcusl"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the neighbourhood guide to Brunswick East. Our verified 2026 guide covers the best spots for locals."
 tags: ["brunswick-east"]
 categories: ["neighbourhood"]
----
 # Brunswick East Neighbourhood Guide 2026: Everything You Need to Know
 
 Brunswick East is what happens when a suburb stops trying to be anything and becomes exactly what it is: one of Melbourne's most liveable inner-north pockets. It doesn't have the media profile of [Fitzroy](/froyo/), the student energy of [Brunswick](/brunswick/) proper, or the gentrification buzz of [Carlton North](/carlton-north/). What it has is better — a neighbourhood that works. Great cafés, serious restaurants, a pub that's been running since 1888, the Merri Creek trail on one side, and Lygon Street on the other. That's it. That's the pitch. And honestly, it's enough.
@@ -18,7 +19,6 @@ If you're thinking about moving here, already live here and want to know your su
 
 **Vibe Score: 78/100 🟡 SOLID** | **Rank: #18 in Melbourne**
 
----
 
 ## The Geography
 
@@ -32,7 +32,6 @@ The suburb essentially splits into two characters:
 
 The Merri Creek trail runs along the eastern edge, connecting Brunswick East to [Fitzroy North](/froyo-north/) and [Carlton North](/carlton-north/) via a sealed path that's one of Melbourne's best cycling and walking corridors. On a clear autumn morning, riding the creek trail from Brunswick East to the CBD takes about 25 minutes. It's genuinely life-changing if you've been commuting by tram.
 
----
 
 ## Food and Drink
 
@@ -78,7 +77,6 @@ Brunswick East's food scene is the thing that makes people fall in love with the
 
 **The Lomond Hotel** (225 Nicholson Street) — Opened in 1888, across from 3RRR FM, massive beer garden, genuine live music program. This is Brunswick East's spiritual home pub and it's been doing its thing for over a century.
 
----
 
 ## Getting Around
 
@@ -99,7 +97,6 @@ Parking on Lygon Street is metered and competitive on weekends. **Park on Edward
 
 If you're coming from the CBD, the 96 tram or a rideshare is infinitely easier than finding parking on a Saturday night.
 
----
 
 ## Living Here: Rent and Cost of Living
 
@@ -114,7 +111,6 @@ Brunswick East sits in a sweet spot for Melbourne inner-north pricing — more e
 
 **Is it affordable?** On a household income of $150K+, yes — comfortably. Below that, you'll be making trade-offs, but the trade-offs in Brunswick East are better than most suburbs. Your dollar stretches further here than it does across Nicholson Street in [Fitzroy North](/froyo-north/), and you're not sacrificing anything except proximity to Smith Street bars.
 
----
 
 ## The Schools, Parks, and Practical Stuff
 
@@ -126,7 +122,6 @@ Brunswick East sits in a sweet spot for Melbourne inner-north pricing — more e
 
 **Healthcare:** Multiple GPs along Lygon Street and Nicholson Street. The Royal Melbourne Hospital is a short tram ride south.
 
----
 
 ## What Locals Say
 
@@ -136,7 +131,6 @@ Brunswick East sits in a sweet spot for Melbourne inner-north pricing — more e
 
 >"We moved here from [Brunswick](/brunswick/) two years ago and I don't miss Sydney Road at all. Lygon Street in Brunswick East feels like it's for us, not for everyone passing through."
 
----
 
 ## The Neighbourhood Connections
 
@@ -148,7 +142,6 @@ One of Brunswick East's best features is that it sits at the intersection of thr
 
 Living in Brunswick East means you can walk to all three in under 20 minutes. That's three distinct food scenes, three pub cultures, three vibes — all accessible on foot. It's one of the best-connected suburbs in the inner north.
 
----
 
 ## The Bottom Line
 
@@ -156,7 +149,6 @@ Brunswick East isn't trying to be anything other than a great place to live, eat
 
 **Your Brunswick East Vibe Score this week: 78/100** — Autumn is prime time. Get to know your suburb.
 
----
 
 ## Related Reading
 

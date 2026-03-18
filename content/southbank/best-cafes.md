@@ -5,12 +5,11 @@ date: 2026-03-18
 author: priya
 tags: ["southbank", "best-cafes"]
 categories: ["best"]
-description: "Updated 18 March 2026 | Food Editor
-
- Best Cafes & Brunch in Southbank 2026
-
-Southbank's brunch scene has evolved into a sophisticated affair where riverside..."
+description: "Best Cafes & Brunch in Southbank 2026"
 ---
+
+*description: "18 March 2026 | Food Editor"*
+
 *Updated 18 March 2026 | Food Editor*
 
 # Best Cafes & Brunch in Southbank 2026

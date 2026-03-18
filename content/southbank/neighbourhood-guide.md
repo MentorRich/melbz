@@ -1,15 +1,16 @@
 ---
-title: "Southbank Neighbourhood Guide — Living, Working and Playing by the Yarra"
+title: "Southbank Neighbourhood Guide — Living, Working and Playing"
 date: 2026-03-17
+---
+
 updated: 2026-03-17
 author: "Lina Nguyen"
-suburb: "southbank"
-vertical: "lifestyle"
+suburb: "southbank
+vertical: "lifestyle
 tags: ["southbank", "neighbourhood", "guide", "melbourne", "living"]
 categories: ["Neighbourhood Guides"]
-description: "Your complete guide to Southbank Melbourne. Where to eat, drink, shop and explore in Melbourne's riverside entertainment district."
-cover_image: "https://images.pexels.com/photos/28560368/pexels-photo-28560368.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
----
+description: "Your complete guide to Southbank Melbourne." Where to eat, drink, shop and explore in Melbourne's riverside entertainment district.
+cover_image: "https://images.pexels.com/photos/28560368/pexels-photo-28560368.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 
 Southbank is Melbourne's most polarising postcode. Some people see it as the city's premier entertainment district — a glittering stretch of riverfront bars, world-class restaurants, and cultural venues that rival anything in Australia. Others see it as an overpriced tourist trap with no authentic soul, all flash and no substance.
 
@@ -65,7 +66,6 @@ But if you're looking for authentic Melbourne neighbourhood culture, affordable 
 
 Live here if you can afford it and appreciate what it offers. Visit here if you want premium experiences without the commitment. Just don't expect to find Melbourne's soul in Southbank — that's what the surrounding suburbs are for.
 
----
 
 *Lina Nguyen has been exploring Melbourne's suburbs for a decade and admits that Southbank's convenience sometimes outweighs its limitations. She lives nearby and visits regularly, but wouldn't call it home.*
 

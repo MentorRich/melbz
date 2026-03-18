@@ -5,12 +5,17 @@ date: 2026-03-16
 author: lina
 tags: ["st-kilda", "bars", "nightlife"]
 categories: ["nightlife"]
-description: "Best Bars in St Kilda 2026: Esplanade & Beyond
+description: "Best Bars in St Kilda 2026: Esplanade & Beyond"
+---
 
-Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
+**Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
+
+
 
 St Kilda doesn't do subtle. This is the subu..."
----
+
+*Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
+
 # Best Bars in St Kilda 2026: Esplanade & Beyond
 
 *Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting*
@@ -19,7 +24,6 @@ St Kilda doesn't do subtle. This is the suburb where Melbourne meets the bay, wh
 
 After spending weeks working our way from the Esplanade down to Fitzroy Street and across to Acland, we've pulled together this list of the bars actually worth your time in 2026. Some are old warhorses. A couple are newer additions. All of them earned their spot.
 
----
 
 ## 1. The Espy (Hotel Esplanade)
 
@@ -35,7 +39,6 @@ The Gershwin Room continues to host some of the best live music in Melbourne —
 
 **Vibe:** Grand dame energy with a punk heart. Equal parts tourist destination and local institution.
 
----
 
 ## 2. Dogs Bar
 
@@ -51,7 +54,6 @@ Free live music happens almost every night, ranging from jazz to spoken word to 
 
 **Vibe:** Old-school European wine bar charm. Intimate, artsy, dog-friendly (obviously). The St Kilda that existed before the apartments.
 
----
 
 ## 3. Captain Baxter
 
@@ -67,7 +69,6 @@ The rooftop bungalows are bookable for groups and make for an excellent birthday
 
 **Vibe:** Beach club meets cocktail lounge. Dress code leans smart-casual. Best at sunset, obviously.
 
----
 
 ## 4. Lona Pintxos Bar
 
@@ -83,7 +84,6 @@ It's not trying to be the loudest bar on the strip, and that's its strength. Thi
 
 **Vibe:** Basque-inspired, relaxed, sun-drenched terrace energy. Food-forward. Excellent for dates or groups.
 
----
 
 ## 5. The Prince of Wales (Bandroom)
 
@@ -99,7 +99,6 @@ Fitzroy Street itself is going through one of its periodic reinventions, and The
 
 **Vibe:** Inner-city pub with a serious music pedigree. Unpretentious. Gets properly busy on show nights.
 
----
 
 ## 6. LuJa
 
@@ -117,7 +116,6 @@ Carlisle Street itself is becoming St Kilda's quiet food and drink corridor, and
 
 **Vibe:** Art deco sophistication. Intimate. Serious about spirits. The "locals' secret" that's no longer a secret.
 
----
 
 ## Honourable Mentions
 
@@ -127,7 +125,6 @@ Carlisle Street itself is becoming St Kilda's quiet food and drink corridor, and
 
 **The Post Hotel** (87 Fitzroy Street) is a proper locals' pub that keeps things simple — cold beer, a decent parma, and no pretensions. The backyard beer garden is a worth seeking out on a sunny afternoon.
 
----
 
 ## What We Skipped and Why
 
@@ -139,7 +136,6 @@ Carlisle Street itself is becoming St Kilda's quiet food and drink corridor, and
 
 **Mya Tiger / Louey's** — These Espy tenants are restaurant-first venues. The bar experience is secondary to the food, and you're better off heading to the Ghost of Alfred Felton or the main Espy bar if your primary goal is drinking.
 
----
 
 ## How to Bar-Hop St Kilda: A Suggested Route
 
@@ -147,7 +143,6 @@ Start at **Dogs Bar** for a glass of wine and live music on Acland Street. Walk 
 
 Total walking distance: about 2 kilometres. Total time: an entire evening well spent.
 
----
 
 ## What This Means for Your Weekend
 
@@ -157,7 +152,6 @@ The suburb's proximity to **South Melbourne** (a 15-minute tram ride for those w
 
 Whether you're after a world-class cocktail with bay views, a $4 pint and live music on a Monday, or a quiet corner with a glass of Rioja and pintxos, St Kilda's got it. It always has. The trick is knowing where to look.
 
----
 
 *Have a St Kilda bar we missed? Tell us on Instagram @melbz.au or drop a comment below. We update this guide quarterly.*
 

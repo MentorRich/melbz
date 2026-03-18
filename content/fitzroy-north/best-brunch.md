@@ -1,6 +1,8 @@
 ---
 title: "Best Brunch in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/best-brunch.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best brunch in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["best"]
----
 ## The Best Brunch in Fitzroy North
 
 This is your verified guide to the best brunch in Fitzroy North for 2026.
@@ -20,7 +21,6 @@ Brunch in this suburb has evolved. The era of towering, structurally unsound foo
 
 Fitzroy North brunch sits on the intersection of Brunswick Street's café culture, the Italian and Greek heritage that still lingers in the side streets, and a newer wave of multicultural influences that reflect just how diverse this suburb has become. Here's where to spend your Saturday mornings.
 
----
 
 ### 1. Industry Beans
 
@@ -37,7 +37,6 @@ The Rose Street space is large and designed for crowds — high ceilings, indust
 
 **Insider tip:** Industry Beans does takeaway from a separate area. Order the same menu items, skip the queue, and walk five minutes to Edinburgh Gardens. A blanket and a truffle scrambled egg toastie eaten on the grass is one of Melbourne's hidden pleasures.
 
----
 
 ### 2. Loretta's
 
@@ -56,7 +55,6 @@ The space is worth lingering in. High ceilings, natural light, warm timber, and 
 
 **Insider tip:** Loretta's afternoon special — any main + coffee for $22 — is perfect for late brunchers who roll in at 1pm when the morning rush has cleared. Same food, no queue, lower price.
 
----
 
 ### 3. Bababababababa
 
@@ -75,7 +73,6 @@ Bababababababa is tiny, and that's part of its charm. You sit close to other din
 
 **Insider tip:** Go on a Wednesday or Thursday morning for zero wait. Friday and Saturday involve queues that, while manageable, eat into your brunch time. Weekdays are also when the chef experiments with specials that might not make the regular menu.
 
----
 
 ### 4. Delphi Café
 
@@ -92,7 +89,6 @@ Coffee is affordable ($4.50) and the Greek-style frappé ($6) in summer is a ref
 
 **Insider tip:** The Delphi's Sunday breakfast rush peaks between 10am and 11:30am. Arrive before 9:30am for easy seating, or after noon when the Edinburgh Gardens crowd thins out.
 
----
 
 ### 5. Archie's All Day
 
@@ -109,7 +105,6 @@ The Gertrude Street location means Archie's is perfectly positioned for a post-b
 
 **Insider tip:** Archie's does a weekday "early bird" special before 9am — any breakfast + coffee for $18. It's ideal for people who work from home and want a proper breakfast without the weekend crowds.
 
----
 
 ### 6. The Black Cat Café
 
@@ -126,7 +121,6 @@ Coffee is well-priced ($4.50), and oat milk is included standard rather than cha
 
 **Insider tip:** The Black Cat's lunch special (any main + drink for $20) is available Mon-Fri and includes their full brunch menu. If you work nearby, this is the best-value weekday lunch in the area.
 
----
 
 ## The Brunch Price Guide
 
@@ -139,7 +133,6 @@ The best value plays:
 
 Tipping isn't expected in Melbourne brunch culture, but rounding up the bill or leaving a couple of dollars in the tip jar is always appreciated by the staff.
 
----
 
 ## Brunch Transport
 
@@ -151,7 +144,6 @@ The beauty of Fitzroy North's brunch scene is its walkability. You could do a pr
 
 **Cycling:** Brunswick Street has dedicated bike lanes. Most cafes have bike parking.
 
----
 
 ## Cross-Links
 

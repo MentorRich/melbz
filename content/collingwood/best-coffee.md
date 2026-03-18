@@ -1,6 +1,8 @@
 ---
 title: "Best Coffee in Collingwood — 2026 Local Guide"
 cover_image: "/images/collingwood/best-coffee.jpg"
+---
+
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "dani"
@@ -9,14 +11,12 @@ updated: 2026-03-17
 description: "The 8 best coffee spots in Collingwood for 2026 — from world-ranked roasters to hole-in-the-wall legends on Smith Street."
 tags: ["collingwood"]
 categories: ["general"]
----
 # Best Coffee in Collingwood — 8 Spots Worth Walking For (2026)
 
 Collingwood doesn't just drink coffee — it evangelises it. This is the suburb where Proud Mary ranked 27th in the world's top 100 coffee shops for 2026, where roasters set up shop in former warehouses because the rent's cheaper than Fitzroy and the industrial ceilings look better on Instagram. If you're hunting Melbourne's best flat white, you'll find more of them per square kilometre here than almost anywhere else in the city. The catch? You'll queue on weekends. Worth it.
 
 **Last updated: 17 March 2026** | **Collingwood Vibe Score: 83/100 ⚡️**
 
----
 
 ## 1. Proud Mary — The One That Made the World List
 
@@ -29,7 +29,6 @@ Proud Mary has been Collingwood's flagship cafe since 2009, and it's only gotten
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Skip the weekend queue by arriving before 8:30am on Saturday. Weekdays are fine anytime — the room doesn't peak until 9:15am.
 
----
 
 ## 2. Aunty Peg's — The Purist's Temple
 
@@ -42,7 +41,6 @@ It's tiny — maybe 15 seats — and the baristas will walk you through whatever
 **Hours:** Mon–Fri 7:30am–2:30pm, Sat 8am–2:30pm
 **Insider tip:** They sometimes run cupping sessions on weekday mornings. Ask at the counter — it's free if you're buying a coffee.
 
----
 
 ## 3. Acoffee — The Minimalists
 
@@ -55,7 +53,6 @@ They rotate through a single coffee at any given time — you don't choose the b
 **Hours:** Mon–Fri 7:30am–3pm, Sat 8am–3pm
 **Insider tip:** There's no food menu to speak of. Eat before you come. This is a coffee-only visit and it's better that way.
 
----
 
 ## 4. Terror Twilight — The Corner Plot That Does Everything Right
 
@@ -68,7 +65,6 @@ The zucchini fritters are famous for good reason. So are the poached eggs, which
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
 **Insider tip:** The corner table by the window is prime real estate on Saturday mornings. Get there by 9am or accept a wait. Also — if you're walking from Fitzroy, it's a 5-minute stroll down Johnston Street.
 
----
 
 ## 5. Secondipity Roasters — The Under-the-Radar Pick
 
@@ -81,7 +77,6 @@ The space has that proper Collingwood industrial feel — exposed brick, steel b
 **Hours:** Mon–Fri 7am–2:30pm, Sat 8am–2pm
 **Insider tip:** They sell retail bags of their house blends and single origins at the counter. The Ethiopian natural is exceptional — buy a bag and thank me later.
 
----
 
 ## 6. Admiral Cheng-Ho — The Six-Grinder Monster
 
@@ -94,7 +89,6 @@ The food menu leans into indulgent brunch territory — think thick-cut toast, h
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** If you're coming from the city, it's the last stop before the Abbotsford border. Park on the Abbotsford side of Hoddle Street and walk 2 minutes — parking's way easier.
 
----
 
 ## 7. Alimentari Delicatessen & Cafe — The Italian Job
 
@@ -107,7 +101,6 @@ The coffee is classic Italian-style — short, strong, no-nonsense. It's not thi
 **Hours:** Mon–Sat 7:30am–4pm, Sun 8am–3pm
 **Insider tip:** The take-home pasta and sauces are genuinely excellent for weeknight dinners. The 'nduja ($12) is dangerously addictive. Not a coffee tip, but sometimes you need to hear it.
 
----
 
 ## 8. Addict Food & Coffee — The Quiet Achiever
 
@@ -120,7 +113,6 @@ What sets Addict apart is consistency. Visit once and it's good. Visit five time
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Faraday Street is one block off Lygon Street — but the Collingwood Lygon Street, not the Carlton one. Less touristy, more local. If you're combining visits, Terror Twilight is a 10-minute walk east.
 
----
 
 ## The Bottom Line
 
@@ -128,7 +120,6 @@ Collingwood's coffee scene in 2026 is world-class, and we're not just saying tha
 
 **Your Collingwood Vibe Score this week: 83/100 ⚡️** — The coffee alone justifies three points.
 
----
 
 *Related reads: [Best Brunch in Collingwood](/suburbs/collingwood/best-brunch) · [Best Cafes in Collingwood](/suburbs/collingwood/best-cafes) · [Fitzroy Coffee Guide](/suburbs/fitzroy/best-coffee) · [Richmond Coffee Scene](/suburbs/richmond/best-coffee)*
 

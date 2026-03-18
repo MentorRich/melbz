@@ -5,19 +5,22 @@ date: 2026-03-16
 author: jack
 tags: ["fitzroy-north", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
-description: "Fitzroy North Honest Guide 2026: Queens Parade & Side Streets
-
-Updated 16 March 2026 | Jack Morrison reporting
-
+description: "Fitzroy North Honest Guide 2026: Queens Parade & Side Streets"
 ---
+
+**Updated 16 March 2026 | Jack Morrison reporting**
+
+
+
+
+*Updated 16 March 2026 | Jack Morrison reporting*
+
 
 Fitzroy North is the suburb that tries t..."
----
 # Fitzroy North Honest Guide 2026: Queens Parade & Side Streets
 
 **Updated 16 March 2026 | Jack Morrison reporting**
 
----
 
 Fitzroy North is the suburb that tries to be everything to everyone — and honestly? It mostly pulls it off. But not without leaving you slightly confused about whether you're in a working-class Italian neighbourhood, a gentrified café strip, or someone's very expensive sharehouse.
 
@@ -115,14 +118,12 @@ The tension between its heritage character and its gentrified present is what ma
 
 If you can afford it and you want inner-city living that still feels like a neighbourhood, Fitzroy North deserves a serious look. Just don't expect easy parking.
 
----
 
 *Compare with our other inner-north honest guides: [Fitzroy](/fitzroy/honest-guide) | [Carlton North](/carlton-north/honest-guide) | [Brunswick East](/brunswick-east/honest-guide)*
 
 <!-- WIDGET: SHARE -->
 **Found this useful?** Share the Fitzroy North Honest Guide with someone who's house-hunting in the inner north.
 
----
 
 **💬 What's your Fitzroy North experience?** Drop a comment below — we publish the honest ones, the good ones, and the brutally honest ones.
 

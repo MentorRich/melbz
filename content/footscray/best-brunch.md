@@ -1,6 +1,8 @@
 ---
 title: "10 Best Brunch Spots in Footscray You Need to Try in 2026"
 cover_image: "/images/footscray/best-brunch.jpg"
+---
+
 suburb: "footscray"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-17
 description: "The definitive guide to Footscray's best brunch in 2026. From Vietnamese-inflected breakfasts to Ethiopian coffee ceremonies — the west side does mornings differently."
 tags: ["footscray"]
 categories: ["best"]
----
 # 10 Best Brunch Spots in Footscray You Need to Try in 2026
 
 Footscray doesn't do brunch the way Fitzroy or South Yarra does. There are no $28 avocado toasts with dehydrated something on top, no queues around the block for a table (well, almost none), and absolutely zero brunch menus that read like a Michelin-starrejection letter. What the west side does instead is breakfast that reflects who actually lives here — Vietnamese bakeries doing $6 banh mi at 7am, Ethiopian spots serving ful before most of Melbourne's even found their keys, and cafes where the chef trained under the best but priced it like the neighbourhood matters.
@@ -18,7 +19,6 @@ That's the brunch scene in Footscray in 2026. It's better than you think, cheape
 
 **Last updated: 17 March 2026** | **Footscray Vibe Score: 82/100 🔥 RISING**
 
----
 
 ## 1. West 48
 **The vibe:** Rustic-industrial, dog-friendly, and consistently the brunch locals actually go back to.
@@ -32,7 +32,6 @@ It's the kind of place where you plan to try something new and end up ordering t
 **Hours:** Mon & Sat 8am–2pm, Sun & public holidays 9am–2pm
 **Insider tip:** Dog-friendly with water bowls out front. If you've got a pup, this is your weekend HQ. Arrive before 9:30am on weekends or expect a short wait.
 
----
 
 ## 2. Rudimentary
 **The vibe:** Three shipping containers, a kitchen garden, and the most creative toastie in Melbourne.
@@ -46,7 +45,6 @@ The space is sun-dappled and community-minded. They take sustainability seriousl
 **Hours:** Tue–Sun 8am–3pm
 **Insider tip:** The outdoor area in the garden is one of the best spots in Footscray for a slow morning. Bring a book, order everything, and don't rush.
 
----
 
 ## 3. Nhu Lan
 **The vibe:** A bakery institution so beloved it practically has its own postcode. Lines are constant, prices are stuck in another decade, and the banh mi are perfect.
@@ -60,7 +58,6 @@ At $6–8 for a roll that'll wreck you for lunch, it's the best breakfast deal i
 **Hours:** Daily from 7am (until sold out)
 **Insider tip:** Go early. By 11am on weekends, the roast pork is gone. The pork roll is the one — don't overthink it.
 
----
 
 ## 4. Cafe Larome
 **The vibe:** Japanese-French fusion that shouldn't work but absolutely, deliciously does.
@@ -74,7 +71,6 @@ The matcha latte here might be one of Melbourne's finest. The ube latte is for p
 **Hours:** Tue–Sun 8am–3pm
 **Insider tip:** The pastries sell out. If you see something you want, grab it. Waiting "until later" is a rookie mistake.
 
----
 
 ## 5. Konjo Cafe
 **The vibe:** Ethiopian warmth, ful stew at 8am, and organic rainforest coffee brewed the traditional way.
@@ -88,7 +84,6 @@ The coffee ceremony is the real event. Ethiopian rainforest beans, brewed tradit
 **Hours:** Wed–Mon 8am–3pm
 **Insider tip:** If it's your first time, ask for the full coffee ceremony. It takes a bit longer but it's worth every minute. Come hungry.
 
----
 
 ## 6. The 2 Men Cafe
 **The vibe:** Viet-flair brunch that nails the details — pandan sweets, salted cream lattes, and a Croque Monsieur that shouldn't be this good.
@@ -102,12 +97,10 @@ The outdoor seats catch the morning sun perfectly. It's quietly stylish without 
 **Hours:** Tue–Sun 8am–3pm
 **Insider tip:** The tiramisu brew is seasonal — ask if it's on. If it is, order two.
 
----
 
 ## 7. Rudimentary
 *(Included for category — see #2 for full review)*
 
----
 
 ## 8. First Love Coffee Roasters
 **The vibe:** A sun-drenched warehouse in the old cotton mills where you watch your coffee being roasted.
@@ -121,7 +114,6 @@ The space itself is worth the trip: high ceilings, natural light, and the kind o
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
 **Insider tip:** Buy a bag of beans. They'll grind them to your specs on the spot. The house blend makes an excellent everyday espresso at home.
 
----
 
 ## 9. Papelon
 **The vibe:** Venezuelan flavour bomb in Footscray Market. Arepas, patacones, and the kind of breakfast that makes you forget about eggs entirely.
@@ -135,7 +127,6 @@ The tequeños are addictive. The sugarcane lemonade is the perfect brunch drink.
 **Hours:** Wed–Sun from 10am
 **Insider tip:** Hit Footscray Market early and grab produce from the surrounding stalls after brunch. The Vietnamese and African grocers are world-class.
 
----
 
 ## 10. Migrant Coffee
 **The vibe:** QPOC-owned, Filipino-Thai-Island bagel fusion, and the friendliest westside coffee shop in Melbourne.
@@ -149,7 +140,6 @@ It's a small, warm space that feels like a hug. The coffee is excellent, the bag
 **Hours:** Tue–Sun 7:30am–2:30pm
 **Insider tip:** They do seasonal specials that aren't on the regular menu. Ask what's new — the limited-run bagels are always the move.
 
----
 
 ## Getting There & Back
 
@@ -157,7 +147,6 @@ Most of these spots are walkable from Footscray Station (10 minutes or less). We
 
 If you're driving, metered parking is available on Leeds Street and Irving Street. Free on Sundays.
 
----
 
 ## The Bottom Line
 
@@ -167,13 +156,11 @@ If you only try one spot, make it Nhu Lan at 7am on a Saturday. Get the roast po
 
 **Your Footscray Vibe Score this week: 82/100** — The brunch scene alone is worth a 5-point bump.
 
----
 
 *Know a spot we missed? Let us know.*
 *Also worth exploring: [Best Brunch in Seddon](/seddon/best-brunch) · [Best Brunch in Yarraville](/yarraville/best-brunch) · [Best Brunch in West Melbourne](/west-melbourne/best-brunch)*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
----
 
 **Planning your Footscray weekend:**
 - ☕ [Best Coffee in Footscray](/footscray/best-coffee)

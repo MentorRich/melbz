@@ -5,21 +5,20 @@ date: 2026-03-16
 author: nadia
 tags: ["melbourne", "vegan", "vegetarian", "food"]
 categories: ["food"]
-description: "Updated 16 March 2026 | 12 places tested | Nadia Keane reporting
-
+description: "Best Vegan and Vegetarian in Melbourne 2026: The Ultimate Guide"
 ---
+
+*description: "16 March 2026 | 12 places tested | Nadia Keane reporting"*
+
 
 Melbourne doesn't do plant-based dining as an afterthought. It does it as the main eve..."
----
 Updated 16 March 2026 | 12 places tested | Nadia Keane reporting
 
----
 
 Melbourne doesn't do plant-based dining as an afterthought. It does it as the main event. From hatted fine dining that happens to be fully vegan to hole-in-the-wall dumpling joints you'd walk past if you weren't looking, this city has spent decades building a vegan and vegetarian scene that the rest of the country envies.
 
 I spent the last three weeks eating my way through 12 vegan and vegetarian restaurants across the inner suburbs — some I'd been going to for years, others brand new on the scene. Here's what made the cut, what surprised me, and what honestly wasn't worth the trip.
 
----
 
 ## 1. Smith & Daughters — The One That Started a Movement
 
@@ -35,7 +34,6 @@ The reason Smith & Daughters still matters in 2026 is that Martinez never plays 
 
 > **THE MOVE:** Book the weekend banquet and share everything. Go with three or four people. Order the paella, the tacos, and the churros. Don't overthink it.
 
----
 
 ## 2. SHU — Sichuan Fire, Zero Meat
 
@@ -49,7 +47,6 @@ The 10-course degustation is the move here. It progresses from delicate raw and 
 
 This is fine dining that doesn't feel stuffy. The room is sleek and modern, and the staff know the menu inside out. If you've been sceptical about vegan Chinese food, SHU will convert you.
 
----
 
 ## 3. Vegie Bar — The OG That's Still Standing
 
@@ -63,7 +60,6 @@ The food isn't trying to reinvent the wheel — it's wholesome, generous, and we
 
 It's not the flashiest venue on this list, but Vegie Bar earns its spot through consistency and heart. After nearly four decades, it's part of Melbourne's DNA.
 
----
 
 ## 4. Funghi e Tartufo — Vegan Italian That Actually Works
 
@@ -77,7 +73,6 @@ The carbonara is the headline act — creamy, peppery, and made with a cashew-ba
 
 The converted 19th-century warehouse space has real atmosphere — exposed brick, warm lighting, and an intimate feel. This is date-night territory.
 
----
 
 ## 5. Matcha Mylkbar — The Instagram Icon That Delivers
 
@@ -91,7 +86,6 @@ The matcha green burger — with a house-made protein patty, avocado, chickpea a
 
 It's a breakfast-and-lunch spot, so don't roll in at 7pm expecting dinner. But for a weekend brunch that won't weigh you down, Matcha Mylkbar is hard to beat.
 
----
 
 ## 6. Yong Green Food — Where Korean Meets Wholefoods
 
@@ -105,7 +99,6 @@ The raw food section deserves special mention. The raw lasagne and the raw pad t
 
 Most of the menu is vegan or easily adaptable, and they do a strong line in fresh juices and smoothies. If you're in Fitzroy and want something nourishing that won't leave you feeling sluggish, Yong Green Food is the play.
 
----
 
 ## 7. Gong De Lin — The CBD's Best-Kept Secret
 
@@ -119,7 +112,6 @@ The menu covers traditional Chinese dishes reimagined without meat: sour "pork" 
 
 It's not fancy. The fit-out is basic. But the food is honest, portions are large, and for a quick CBD lunch, it punches well above its weight.
 
----
 
 ## 8. Horn Please — Indian That Doesn't Hold Back
 
@@ -133,7 +125,6 @@ The atmosphere is loud and fun — craft beer on the tables, Bollywood playing, 
 
 Most of the menu is vegetarian with strong vegan options. They don't advertise it loudly, but ask and the kitchen will happily adapt dishes.
 
----
 
 ## 9. Transformer — Seasonal Vegetarian Fine Dining
 
@@ -147,7 +138,6 @@ The sharing-plate format is ideal for groups. The roasted cauliflower with tahin
 
 Transformer sits in that sweet spot between casual and fine dining. It's polished enough for a date but relaxed enough that you can rock up in jeans and still feel comfortable. The courtyard in warmer months is one of Melbourne's best outdoor dining settings.
 
----
 
 ## What We Skipped and Why
 
@@ -161,7 +151,6 @@ Not every vegan or vegetarian restaurant in Melbourne deserves a spot in this gu
 
 **Restaurants with vegan options (but not the focus)** — Plenty of Melbourne restaurants now have a vegan section on the menu. That's great, but it doesn't make them a vegan restaurant. We focused on places where the kitchen thinks plant-first.
 
----
 
 > **🗳️ VOTE: What's your Melbourne vegan non-negotiable?**
 > A) Fine dining degustation
@@ -171,7 +160,6 @@ Not every vegan or vegetarian restaurant in Melbourne deserves a spot in this gu
 >
 > Drop your answer in the comments — we're tallying the results for next month's roundup.
 
----
 
 ## The MELBZ Take
 
@@ -179,12 +167,10 @@ Melbourne's vegan scene in 2026 isn't about proving that plant-based food can co
 
 The common thread across every venue we tested? Pride. These kitchens aren't serving vegan food because they have to — they're serving it because they're genuinely excited about what plants can do. That energy translates to the plate, and Melbourne is better for it.
 
----
 
 > **🔥 CONFESSION BOX**
 > *We tried to keep this list to eight. We failed. Twelve venues made the cut because we genuinely couldn't cut more without doing the scene a disservice. The honourable mention that hurt the most? The weekend yum cha at SHU. If you haven't been, fix that immediately.*
 
----
 
 **Related reading on MELBZ:**
 
@@ -192,14 +178,12 @@ Planning a Melbourne food crawl? Check our [Best Brunch Spots in Melbourne 2026]
 
 New to Melbourne? Our [Moving to Melbourne: What Nobody Tells You](/melbourne-cbd/moving-to-melbourne) guide covers suburbs, transport, and where the good coffee actually is.
 
----
 
 > **❤️ REACT**
 > 🌱 If you tried at least one place from this guide — 🔥
 > 🌱 If you've already eaten at three or more — 💚
 > 🌱 If you're adding all twelve to your list — 🤯
 
----
 
 *Prices and menus accurate as of March 2026. Always check the venue's website before booking, as hours and menus change seasonally. This guide was independently researched and written — no venues paid for inclusion.*
 

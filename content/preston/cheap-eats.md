@@ -1,6 +1,8 @@
 ---
 title: "Cheap Eats in Preston — 2026 Local Guide"
 cover_image: "/images/preston/cheap-eats.jpg"
+---
+
 suburb: "preston"
 vertical: "lifestyle"
 author: "omar"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the cheap eats in Preston. Our verified 2026 guide covers the best spots for locals."
 tags: ["preston"]
 categories: ["cheap"]
----
 ## The Best Cheap Eats in Preston
 
 Here's the thing about cheap eats in Preston: they're not just cheap — they're genuinely good. This isn't a suburb where "affordable" means compromising on quality or settling for reheated microwave meals served on paper plates. Preston's cheap eat scene is built on decades of multicultural cooking, family-run businesses, and a market culture that keeps competition fierce and prices honest.
@@ -128,14 +129,12 @@ We also skipped the newer cheap-eat openings that haven't established themselves
 
 We didn't include a dessert section because that's a separate guide. But for the record: the market's Turkish ice cream stalls and the fresh pastry shops are both excellent and cheap.
 
----
 
 **More Preston budget guides:**
 → [Best Cheap Eats in Reservoir — 5 min north](/reservoir/)
 → [Best Cheap Eats in Thornbury — 10 min south](/thornbury/)
 → [Cheap Eats in Northcote — the inner-north option](/northcote/)
 
----
 
 *This guide was researched and written by the MELBZ team. Prices and hours are accurate as of March 2026 but should be confirmed before visiting. MELBZ is an independent Melbourne guide — we don't accept payment for listings.*
 

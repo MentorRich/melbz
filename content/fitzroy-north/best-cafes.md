@@ -1,6 +1,8 @@
 ---
 title: "Best Cafes in Fitzroy North — 2026 Local Guide"
 cover_image: "/images/fitzroy-north/best-cafes.jpg"
+---
+
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "dani"
@@ -9,7 +11,6 @@ updated: 2026-03-16
 description: "Discover the best cafes in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
 tags: ["fitzroy-north"]
 categories: ["best"]
----
 ## The Best Cafes in Fitzroy North
 
 This is your verified guide to the best cafes in Fitzroy North for 2026.
@@ -20,7 +21,6 @@ The cafe scene here has matured past the era of "how many ingredients can we fit
 
 From the Brunswick Street spine to the pockets near Edinburgh Gardens and up towards Queens Parade, here's where you should be eating your mornings.
 
----
 
 ### 1. Loretta's
 
@@ -37,7 +37,6 @@ Drinks are excellent across the board. Coffee is well-made, the chai latte ($5.5
 
 **Insider tip:** Loretta's does a "cafe and catch-up" special on weekday afternoons — any main + a coffee for $22. It's perfect for that mid-afternoon catch-up with a friend where you need more than just a drink.
 
----
 
 ### 2. Lune Croissanterie (Brunswick Street)
 
@@ -52,7 +51,6 @@ Beyond croissants, Lune does a solid coffee ($4.80) and a small selection of sav
 
 **Insider tip:** The croissants sell out, especially on weekends. Arrive before 9am or pre-order online. The ham and cheese croissant ($9) at 8:45am on a Saturday is one of Melbourne's greatest food experiences.
 
----
 
 ### 3. Code Black Coffee
 
@@ -69,7 +67,6 @@ The space itself deserves mention: all dark walls, exposed concrete, and industr
 
 **Insider tip:** Code Black offers bean subscriptions — freshly roasted beans delivered to your door weekly or fortnightly. If you find yourself buying bags every visit, the subscription ($22/bag) saves money and ensures you never run out.
 
----
 
 ### 4. Industry Beans
 
@@ -86,7 +83,6 @@ Industry Beans does get busy. Very busy. Weekend waits of 20-30 minutes are comm
 
 **Insider tip:** If you don't want to wait, Industry Beans does takeaway from a separate window. Same food, same coffee, no queue. Grab your order and walk five minutes to Edinburgh Gardens for a picnic brunch that's better than most restaurant meals.
 
----
 
 ### 5. The Black Cat Café
 
@@ -103,7 +99,6 @@ The space is eclectic: mismatched furniture, local art on the walls, bookshelves
 
 **Insider tip:** The Black Cat does a "Lunch Special" Mon-Fri — any main + a drink for $20. It's one of the cheapest sit-down meals in the inner north and the quality doesn't dip.
 
----
 
 ### 6. Delphi Café
 
@@ -120,7 +115,6 @@ The atmosphere is pure neighbourhood café: friendly, unhurried, and populated b
 
 **Insider tip:** Sunday mornings at the Delphi have a particular energy — post-Edinburgh Gardens joggers mixing with families and hangover survivors. Arrive by 9:30am to beat the rush or wait until after 11:30 when it thins out.
 
----
 
 ### 7. Bababababababa
 
@@ -135,7 +129,6 @@ The space is tiny — maybe 15 seats inside plus a small window bar. This is not
 
 **Insider tip:** Bababababababa doesn't take reservations for groups under four. Weekday mornings are your best bet for snagging a seat without a wait. Friday and Saturday involve queuing — worth it, but plan accordingly.
 
----
 
 ## The Brunch Economics of Fitzroy North
 
@@ -148,7 +141,6 @@ Breakfast and brunch in Fitzroy North in 2026 will run you between $15 and $25 f
 
 Coffee adds $4.50-$5.50 to any of these. Tip is not expected in Melbourne but rounding up is always appreciated.
 
----
 
 ## Getting Around the Cafes
 
@@ -158,7 +150,6 @@ All of these cafes are within walking distance of each other — Fitzroy North i
 
 **Cycling:** Brunswick Street has bike lanes and most cafes have racks out front. The café crawl by bike is a Melbourne weekend ritual for a reason.
 
----
 
 ## Cross-Links
 

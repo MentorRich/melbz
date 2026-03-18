@@ -1,6 +1,8 @@
 ---
 title: "Southbank Nightlife Guide — What's Happening After Dark"
 date: 2026-03-17
+---
+
 updated: 2026-03-17
 author: "Dylan Hayes"
 suburb: "southbank"
@@ -9,7 +11,6 @@ tags: ["nightlife", "southbank", "bars", "restaurants", "entertainment"]
 categories: ["Nightlife"]
 description: "Your complete guide to Southbank nightlife. Bars, restaurants, entertainment and what's happening after dark in Melbourne's riverside district."
 cover_image: "https://images.pexels.com/photos/30743521/pexels-photo-30743521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
----
 
 Southbank transforms at night. During the day it's office workers, tourists, and the steady stream of people moving between the Arts Centre and Crown. After dark, it becomes something else entirely — Melbourne's premium entertainment district, where the drinks are expensive, the crowds are dressed up, and the vibe is unmistakably glitzy.
 
@@ -67,7 +68,6 @@ Southbank nightlife exists to entertain, not to discover. This is a premium post
 
 The best approach is to plan ahead. Book your dinner, know your bar, understand what you're paying for, and accept that this postcode doesn't do budget-friendly. When you approach Southbank on those terms, it can actually deliver memorable nights out. When you expect Fitzroy energy at Southbank prices, you're going to be disappointed.
 
----
 
 *Dylan Hayes has been exploring Melbourne's nightlife for six years. He prefers dive bars but admits Cherry has the best cocktails in the south-side precinct.*
 

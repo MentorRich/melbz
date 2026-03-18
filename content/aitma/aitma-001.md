@@ -1,6 +1,6 @@
 ---
 title: "AITMA: 5 Melbourne Dilemmas That Will Divide Your Group Chat"
-cover_image: "https://loremflickr.com/800/600/Aitma,melbourne,city,australia?lock=2860"
+cover_image: "/images/aitma/aitma-001.jpg"
 suburb: melbourne
 vertical: culture
 author: "jules"

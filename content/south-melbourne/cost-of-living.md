@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in South Melbourne 2026: The Real Numbers"
-cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,city,urban?lock=9566"
+cover_image: "/images/south-melbourne/cost-of-living.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["south-melbourne", "cost-of-living", "property"]

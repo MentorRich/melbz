@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Preston — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Preston,melbourne,cheap,street-food?lock=1329"
+cover_image: "/images/preston/cheap-eats.jpg"
 suburb: "preston"
 vertical: "lifestyle"
 author: "omar"

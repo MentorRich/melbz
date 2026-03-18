@@ -1,6 +1,6 @@
 ---
 title: "Port Melbourne Honest Guide 2026: Bay Street & The Beach"
-cover_image: "https://loremflickr.com/800/600/Port Melbourne,melbourne,street,city?lock=140"
+cover_image: "/images/port-melbourne/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["port-melbourne", "honest-guide", "lifestyle"]

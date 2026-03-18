@@ -1,6 +1,6 @@
 ---
 title: "Fitzroy North Honest Guide 2026: Queens Parade & Side Streets"
-cover_image: "https://loremflickr.com/800/600/Fitzroy North,melbourne,street,city?lock=4959"
+cover_image: "/images/fitzroy-north/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["fitzroy-north", "honest-guide", "lifestyle"]

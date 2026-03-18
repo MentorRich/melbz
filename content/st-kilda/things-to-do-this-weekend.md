@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in St Kilda — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,tourism,attractions?lock=3769"
+cover_image: "/images/st-kilda/things-to-do-this-weekend.jpg"
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "maya"

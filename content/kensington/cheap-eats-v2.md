@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats Under $20 in Kensington 2026: Macaulay Road & Beyond"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,cheap,street-food?lock=6089"
+cover_image: "/images/kensington/cheap-eats-v2.jpg"
 date: 2026-03-16
 author: priya
 tags: ["kensington", "cheap-eats", "food"]

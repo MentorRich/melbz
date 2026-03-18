@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Fitzroy — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy,melbourne,bar,nightlife?lock=1878"
+cover_image: "/images/fitzroy/best-bars.jpg"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "jess"

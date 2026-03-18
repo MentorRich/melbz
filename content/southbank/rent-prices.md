@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Southbank 2026"
-cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,apartment,housing?lock=2491"
+cover_image: "/images/southbank/rent-prices.jpg"
 date: 2026-03-18
 author: marcus
 tags: ["southbank", "rent-prices"]

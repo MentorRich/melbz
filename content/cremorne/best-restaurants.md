@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Cremorne — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,restaurant,dining?lock=5532"
+cover_image: "/images/cremorne/best-restaurants.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "jules"

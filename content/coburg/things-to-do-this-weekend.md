@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Coburg 2026: Sydney Road & Beyond"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,tourism,attractions?lock=7702"
+cover_image: "/images/coburg/things-to-do-this-weekend.jpg"
 suburb: "coburg"
 vertical: "lifestyle"
 author: "maya"

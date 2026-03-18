@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Balaclava — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,brunch,breakfast?lock=9250"
+cover_image: "/images/balaclava/best-brunch.jpg"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "dani"

@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: Melbourne CBD 2026 — What to Do Saturday & Sunday"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,weekend,activities?lock=2430"
+cover_image: "/images/melbourne-cbd/weekend-guide.jpg"
 date: 2026-03-16
 author: isabella
 tags: ["melbourne-cbd", "weekend", "lifestyle"]

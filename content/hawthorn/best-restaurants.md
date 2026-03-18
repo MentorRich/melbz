@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Hawthorn 2026: Glenferrie Road & Beyond"
-cover_image: "https://loremflickr.com/800/600/Hawthorn,melbourne,restaurant,dining?lock=9640"
+cover_image: "/images/hawthorn/best-restaurants.jpg"
 date: 2026-03-16
 author: jules
 tags: ["hawthorn", "restaurants", "food"]

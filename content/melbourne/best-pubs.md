@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Melbourne — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,pub,beer?lock=3332"
+cover_image: "/images/melbourne/best-pubs.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "kai"

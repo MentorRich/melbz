@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Fitzroy North — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy North,melbourne,romantic,dinner?lock=9392"
+cover_image: "/images/fitzroy-north/date-night.jpg"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "grace"

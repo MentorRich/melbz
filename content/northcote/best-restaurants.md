@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Northcote 2026: The Complete Guide"
-cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,restaurant,dining?lock=5112"
+cover_image: "/images/northcote/best-restaurants.jpg"
 date: 2026-03-16
 author: priya
 tags: ["northcote", "restaurants", "food"]

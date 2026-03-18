@@ -1,6 +1,6 @@
 ---
 title: "South Melbourne Honest Guide 2026: The Unfiltered Truth"
-cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,street,city?lock=5558"
+cover_image: "/images/south-melbourne/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["south-melbourne", "honest-guide", "lifestyle"]

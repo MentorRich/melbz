@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Brunswick East 2026: Where to Eat"
-cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,restaurant,dining?lock=8893"
+cover_image: "/images/brunswick-east/best-restaurants.jpg"
 date: 2026-03-16
 author: jules
 tags: ["brunswick-east", "restaurants", "food"]

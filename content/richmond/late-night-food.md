@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in Richmond 2026: Victoria Street After Dark"
-cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,late-night,food?lock=9213"
+cover_image: "/images/richmond/late-night-food.jpg"
 date: 2026-03-16
 author: ethan
 tags: ["richmond", "late-night", "food"]

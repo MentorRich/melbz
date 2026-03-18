@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Cremorne Under $20 — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,cheap,street-food?lock=4240"
+cover_image: "/images/cremorne/cheap-eats.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "omar"

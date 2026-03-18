@@ -1,6 +1,6 @@
 ---
 title: "12 Best Cafes in Carlton for Brunch, Brekkie & Lazy Weekends in 2026"
-cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,cafe,cappuccino?lock=4153"
+cover_image: "/images/carlton/best-cafes.jpg"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "dani"

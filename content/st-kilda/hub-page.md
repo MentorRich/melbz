@@ -1,6 +1,6 @@
 ---
 title: "St Kilda: The Complete Suburb Profile 2026"
-cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,city,suburb?lock=6189"
+cover_image: "/images/st-kilda/hub-page.jpg"
 date: 2026-03-16
 author: josh
 tags: ["st-kilda", "suburb-profile", "hub"]

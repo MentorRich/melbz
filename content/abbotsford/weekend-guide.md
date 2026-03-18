@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: Abbotsford 2026 — Saturday & Sunday Done Right"
-cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,weekend,activities?lock=4732"
+cover_image: "/images/abbotsford/weekend-guide.jpg"
 date: 2026-03-16
 author: maya
 tags: ["abbotsford", "weekend", "lifestyle"]

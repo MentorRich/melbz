@@ -1,6 +1,6 @@
 ---
 title: "Transport Guide for Prahran"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,tram,station?lock=3073"
+cover_image: "/images/prahran/transport-guide.jpg"
 date: 2026-03-18
 author: marcus
 description: "Getting around Prahran. Train, tram, and bus options, plus driving, parking, and cycling guide."

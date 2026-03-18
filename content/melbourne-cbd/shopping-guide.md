@@ -1,6 +1,6 @@
 ---
 title: "Shopping in Melbourne CBD 2026: The Ultimate Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,shopping,boutiques?lock=6071"
+cover_image: "/images/melbourne-cbd/shopping-guide.jpg"
 date: 2026-03-16
 author: zara
 tags: ["melbourne-cbd", "shopping", "fashion"]

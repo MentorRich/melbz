@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Balaclava 2026: What You'll Pay"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,city,australia?lock=8369"
+cover_image: "/images/balaclava/rent-report.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["balaclava", "rent", "property"]

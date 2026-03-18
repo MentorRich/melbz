@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Balaclava 2026"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,apartment,housing?lock=9952"
+cover_image: "/images/balaclava/rent-prices.jpg"
 date: 2026-03-18
 author: marcus
 description: "Current rent prices in Balaclava. What it costs to live in Balaclava in 2026, from studio apartments to family homes."

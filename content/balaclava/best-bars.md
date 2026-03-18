@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Balaclava 2026"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,bar,nightlife?lock=276"
+cover_image: "/images/balaclava/best-bars.jpg"
 date: 2026-03-18
 author: lina
 description: "From rooftop cocktails to neighbourhood pubs, the best bars in Balaclava for drinks, atmosphere, and good times."

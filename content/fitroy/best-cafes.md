@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Fitzroy 2026"
-cover_image: "https://loremflickr.com/800/600/Fitroy,melbourne,cafe,cappuccino?lock=5362"
+cover_image: "/images/fitroy/best-cafes.jpg"
 date: 2026-03-16
 author: priya
 tags: ["fitzroy", "cafes", "coffee"]

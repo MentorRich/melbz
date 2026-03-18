@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: Kensington 2026 — Saturday & Sunday Done Right"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,weekend,activities?lock=2680"
+cover_image: "/images/kensington/weekend-guide.jpg"
 date: 2026-03-16
 author: isabella
 tags: ["kensington", "weekend", "lifestyle"]

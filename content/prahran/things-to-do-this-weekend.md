@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Prahran — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,tourism,attractions?lock=6448"
+cover_image: "/images/prahran/things-to-do-this-weekend.jpg"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "maya"

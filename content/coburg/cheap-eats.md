@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Coburg 2026: Sydney Road Under $15"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,cheap,street-food?lock=5636"
+cover_image: "/images/coburg/cheap-eats.jpg"
 suburb: "coburg"
 vertical: "food"
 author: "omar"

@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Brunswick 2026: Where to Drink on Sydney Road"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,bar,nightlife?lock=8735"
+cover_image: "/images/brunswick/best-bars.jpg"
 date: 2026-03-16
 author: lina
 tags: ["brunswick", "bars", "nightlife"]

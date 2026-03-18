@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Carlton 2026: Where to Eat After You've Earned It"
-cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,brunch,breakfast?lock=9290"
+cover_image: "/images/carlton/best-brunch.jpg"
 date: 2026-03-16
 author: dani
 tags: ["carlton", "brunch", "cafes"]

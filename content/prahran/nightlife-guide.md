@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Prahran — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,nightlife,bar?lock=5173"
+cover_image: "/images/prahran/nightlife-guide.jpg"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "ethan"

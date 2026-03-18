@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Preston — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Preston,melbourne,new,restaurant?lock=2184"
+cover_image: "/images/preston/new-openings.jpg"
 suburb: "preston"
 vertical: "lifestyle"
 author: "oscar"

@@ -1,6 +1,6 @@
 ---
 title: "Windsor Honest Guide 2026: Chapel Street's Cool Sibling"
-cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,street,city?lock=3462"
+cover_image: "/images/windsor/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["windsor", "honest-guide", "lifestyle"]

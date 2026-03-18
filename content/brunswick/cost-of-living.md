@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Brunswick 2026: The Real Numbers"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,city,urban?lock=5074"
+cover_image: "/images/brunswick/cost-of-living.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["brunswick", "cost-of-living", "property"]

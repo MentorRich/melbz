@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in South Yarra 2026"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,bar,nightlife?lock=9564"
+cover_image: "/images/south-yarra/best-bars.jpg"
 date: 2026-03-18
 author: lina
 description: "From rooftop cocktails to neighbourhood pubs, the best bars in South Yarra for drinks, atmosphere, and good times."

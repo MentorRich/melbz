@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats Under $20 in Balaclava 2026"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,cheap,street-food?lock=3021"
+cover_image: "/images/balaclava/cheap-eats.jpg"
 date: 2026-03-16
 author: priya
 tags: ["balaclava", "cheap-eats", "food"]

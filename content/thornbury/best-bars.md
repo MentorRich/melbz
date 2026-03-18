@@ -1,6 +1,6 @@
 ---
 title: "10 Best Bars in Thornbury You Need to Hit in 2026"
-cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,bar,nightlife?lock=9982"
+cover_image: "/images/thornbury/best-bars.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "jess"

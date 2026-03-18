@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Abbotsford — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,romantic,dinner?lock=1795"
+cover_image: "/images/abbotsford/date-night.jpg"
 suburb: "abbotsford"
 vertical: "lifestyle"
 author: "grace"

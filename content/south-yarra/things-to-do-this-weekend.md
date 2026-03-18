@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in South Yarra — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,tourism,attractions?lock=266"
+cover_image: "/images/south-yarra/things-to-do-this-weekend.jpg"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "maya"

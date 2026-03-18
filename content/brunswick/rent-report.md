@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Brunswick 2026: Sydney Road Premium"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,city,australia?lock=3955"
+cover_image: "/images/brunswick/rent-report.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["brunswick", "rent", "property"]

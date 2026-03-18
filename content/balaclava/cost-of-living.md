@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Balaclava 2026"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,city,urban?lock=2980"
+cover_image: "/images/balaclava/cost-of-living.jpg"
 date: 2026-03-18
 author: marcus
 description: "The real cost of living in Balaclava. Rent, food, transport, and everyday expenses — what you need to budget for."

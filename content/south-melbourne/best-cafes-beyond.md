@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in South Melbourne 2026: Beyond the Market"
-cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,cafe,cappuccino?lock=6912"
+cover_image: "/images/south-melbourne/best-cafes-beyond.jpg"
 date: 2026-03-16
 author: eli
 tags: ["south-melbourne", "cafes", "food"]

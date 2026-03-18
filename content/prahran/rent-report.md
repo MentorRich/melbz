@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Prahran 2026: Chapel Street Premium"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,city,australia?lock=2909"
+cover_image: "/images/prahran/rent-report.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["prahran", "rent", "property"]

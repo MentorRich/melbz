@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Brunswick East 2026: What You'll Pay"
-cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,city,australia?lock=7654"
+cover_image: "/images/brunswick-east/rent-report.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["brunswick-east", "rent", "property"]

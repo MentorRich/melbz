@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Abbotsford 2026: Pubs, Craft Beer & River Views"
-cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,bar,nightlife?lock=8657"
+cover_image: "/images/abbotsford/best-bars.jpg"
 date: 2026-03-16
 author: lina
 tags: ["abbotsford", "bars", "nightlife"]

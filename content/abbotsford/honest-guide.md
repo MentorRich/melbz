@@ -1,6 +1,6 @@
 ---
 title: "Abbotsford Honest Guide 2026: Victoria Street & Real Talk"
-cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,street,city?lock=7635"
+cover_image: "/images/abbotsford/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["abbotsford", "honest-guide", "lifestyle"]

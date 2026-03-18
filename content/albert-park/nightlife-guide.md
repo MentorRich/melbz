@@ -1,9 +1,9 @@
 ---
 title: "Untitled"
-cover_image: "https://loremflickr.com/800/600/Albert Park,melbourne,nightlife,bar?lock=5531"
+cover_image: "/images/albert-park/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
-description: "cover_image: "https://images.pexels.com/photos/17582212/pexels-photo-17582212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+description: "cover_image: "/images/albert-park/nightlife-guide.jpg"
  Albert Park Nightlife Guide
 
 Updat..."
@@ -11,7 +11,7 @@ tags: ["albert-park"]
 categories: ["nightlife"]
 ---
 
-cover_image: "https://images.pexels.com/photos/17582212/pexels-photo-17582212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "/images/albert-park/nightlife-guide.jpg"
 # Albert Park Nightlife Guide
 
 Updated 17 March 2025 | MELBZ reporting

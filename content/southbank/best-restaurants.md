@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Southbank 2026"
-cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,restaurant,dining?lock=9221"
+cover_image: "/images/southbank/best-restaurants.jpg"
 date: 2026-03-18
 author: priya
 tags: ["southbank", "best-restaurants"]

@@ -1,6 +1,6 @@
 ---
 title: "Moonee Ponds Honest Guide 2026: Puckle Street & The Real Deal"
-cover_image: "https://loremflickr.com/800/600/Moonee Ponds,melbourne,street,city?lock=2124"
+cover_image: "/images/moonee-ponds/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["moonee-ponds", "honest-guide", "lifestyle"]

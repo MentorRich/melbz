@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in South Yarra 2026: Chapel Street Eats"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,asian,vietnamese?lock=7146"
+cover_image: "/images/south-yarra/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
 tags: ["south-yarra", "asian", "food"]

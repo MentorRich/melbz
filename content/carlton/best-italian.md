@@ -1,6 +1,6 @@
 ---
 title: "Best Italian in Carlton 2026: The Lygon Street Truth"
-cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,city,australia?lock=8177"
+cover_image: "/images/carlton/best-italian.jpg"
 date: 2026-03-16
 author: liam
 tags: ["carlton", "italian", "food"]

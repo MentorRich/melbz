@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in St Kilda — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,nightlife,bar?lock=3427"
+cover_image: "/images/st-kilda/nightlife-guide.jpg"
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "ethan"

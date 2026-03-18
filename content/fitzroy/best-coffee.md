@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Fitzroy — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy,melbourne,coffee,espresso?lock=9975"
+cover_image: "/images/fitzroy/best-coffee.jpg"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "dani"

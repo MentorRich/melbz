@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Cremorne — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,brunch,breakfast?lock=6186"
+cover_image: "/images/cremorne/best-brunch.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "dani"

@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: Richmond 2026 — Swan Street to the MCG"
-cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,weekend,activities?lock=7793"
+cover_image: "/images/richmond/weekend-guide.jpg"
 date: 2026-03-16
 author: isabella
 tags: ["richmond", "weekend", "lifestyle"]

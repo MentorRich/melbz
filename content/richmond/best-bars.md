@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Richmond 2026: Swan Street & Church Street"
-cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,bar,nightlife?lock=3283"
+cover_image: "/images/richmond/best-bars.jpg"
 date: 2026-03-16
 author: lina
 tags: ["richmond", "bars", "nightlife"]

@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Coburg 2026: What Just Landed on Sydney Road"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,new,restaurant?lock=5254"
+cover_image: "/images/coburg/new-openings.jpg"
 suburb: "coburg"
 vertical: "food"
 author: "oscar"

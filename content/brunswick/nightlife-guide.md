@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide to Brunswick — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,nightlife,bar?lock=157"
+cover_image: "/images/brunswick/nightlife-guide.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "ethan"

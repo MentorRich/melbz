@@ -1,6 +1,6 @@
 ---
 title: "Glen Iris Honest Guide 2026: Burke Road & Real Opinions"
-cover_image: "https://loremflickr.com/800/600/Glen Iris,melbourne,street,city?lock=9782"
+cover_image: "/images/glen-iris/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["glen-iris", "honest-guide", "lifestyle"]

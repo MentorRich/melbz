@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Fitzroy North — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy North,melbourne,new,restaurant?lock=360"
+cover_image: "/images/fitzroy-north/new-openings.jpg"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "oscar"

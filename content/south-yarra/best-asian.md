@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in South Yarra: From Pho to Ramen"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,asian,vietnamese?lock=5627"
+cover_image: "/images/south-yarra/best-asian.jpg"
 date: 2026-03-18
 author: nina
 description: "From Vietnamese pho to Japanese ramen, Chinese dumplings to Thai curries — the best Asian restaurants in South Yarra."

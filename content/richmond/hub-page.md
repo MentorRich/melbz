@@ -1,6 +1,6 @@
 ---
 title: "Richmond: The Complete Suburb Profile 2026"
-cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,city,suburb?lock=2743"
+cover_image: "/images/richmond/hub-page.jpg"
 date: 2026-03-16
 author: josh
 tags: ["richmond", "suburb-profile", "hub"]

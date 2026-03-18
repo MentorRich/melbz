@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in St Kilda 2026: Acland Street & Beyond"
-cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,restaurant,dining?lock=4392"
+cover_image: "/images/st-kilda/best-restaurants.jpg"
 date: 2026-03-16
 author: jules
 tags: ["st-kilda", "restaurants", "food"]

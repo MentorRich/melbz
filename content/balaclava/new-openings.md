@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Balaclava 2026"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,new,restaurant?lock=3046"
+cover_image: "/images/balaclava/new-openings.jpg"
 date: 2026-03-18
 author: priya
 description: "The newest restaurants, cafes, and bars that just opened in Balaclava. Fresh concepts and exciting new venues to try this year."

@@ -1,6 +1,6 @@
 ---
 title: "South Yarra Hub Page"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,city,suburb?lock=3923"
+cover_image: "/images/south-yarra/hub.jpg"
 date: 2026-03-18
 author: marcus
 description: "Your complete guide to South Yarra. Food, nightlife, property, transport, and things to do — everything you need to know."

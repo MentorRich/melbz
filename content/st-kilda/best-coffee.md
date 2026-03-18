@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in St Kilda — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,coffee,espresso?lock=1829"
+cover_image: "/images/st-kilda/best-coffee.jpg"
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "dani"

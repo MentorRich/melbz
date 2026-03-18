@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Melbourne CBD 2026: CBD's Best Flat Whites"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,cafe,cappuccino?lock=2247"
+cover_image: "/images/melbourne-cbd/best-cafes-v2.jpg"
 date: 2026-03-16
 author: eli
 tags: ["melbourne-cbd", "cafes", "food"]

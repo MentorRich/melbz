@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Melbourne — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,nightlife,bar?lock=3418"
+cover_image: "/images/melbourne/nightlife-guide.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "ethan"

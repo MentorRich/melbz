@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Brunswick — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,coffee,espresso?lock=4888"
+cover_image: "/images/brunswick/best-coffee.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "dani"

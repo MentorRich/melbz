@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Coburg 2026: Pubs, Bars & After Dark"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,nightlife,bar?lock=4145"
+cover_image: "/images/coburg/nightlife-guide.jpg"
 suburb: "coburg"
 vertical: "nightlife"
 author: "ethan"

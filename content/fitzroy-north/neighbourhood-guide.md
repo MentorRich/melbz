@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide in Fitzroy North — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy North,melbourne,neighbourhood,street?lock=623"
+cover_image: "/images/fitzroy-north/neighbourhood-guide.jpg"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "marcusl"

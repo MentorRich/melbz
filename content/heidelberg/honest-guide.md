@@ -1,6 +1,6 @@
 ---
 title: "Heidelberg Honest Guide 2026: Burgundy Street & Real Opinions"
-cover_image: "https://loremflickr.com/800/600/Heidelberg,melbourne,street,city?lock=6784"
+cover_image: "/images/heidelberg/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["heidelberg", "honest-guide", "lifestyle"]

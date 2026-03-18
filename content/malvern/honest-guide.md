@@ -1,6 +1,6 @@
 ---
 title: "Malvern Honest Guide 2026: High Street & Glenferrie Road"
-cover_image: "https://loremflickr.com/800/600/Malvern,melbourne,street,city?lock=9968"
+cover_image: "/images/malvern/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["malvern", "honest-guide", "lifestyle"]

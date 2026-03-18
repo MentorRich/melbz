@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Fitzroy North — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy North,melbourne,cafe,cappuccino?lock=5999"
+cover_image: "/images/fitzroy-north/best-cafes.jpg"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "dani"

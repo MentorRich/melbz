@@ -1,6 +1,6 @@
 ---
 title: "Cremorne Honest Guide 2026: Church Street & Corporate Cool"
-cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,street,city?lock=7991"
+cover_image: "/images/cremorne/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["cremorne", "honest-guide", "lifestyle"]

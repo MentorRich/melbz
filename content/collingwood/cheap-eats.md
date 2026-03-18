@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Collingwood — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=3945"
+cover_image: "/images/collingwood/cheap-eats.jpg"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "omar"

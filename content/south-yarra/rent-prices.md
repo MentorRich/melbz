@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in South Yarra 2026"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,apartment,housing?lock=9218"
+cover_image: "/images/south-yarra/rent-prices.jpg"
 date: 2026-03-18
 author: marcus
 description: "Current rent prices in South Yarra. What it costs to live in South Yarra in 2026, from studio apartments to family homes."

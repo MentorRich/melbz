@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Richmond — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,romantic,dinner?lock=2427"
+cover_image: "/images/richmond/date-night.jpg"
 suburb: "richmond"
 vertical: "lifestyle"
 author: "grace"

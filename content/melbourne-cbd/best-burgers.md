@@ -1,6 +1,6 @@
 ---
 title: "Best Burgers in Melbourne CBD 2026: The Definitive Rankings"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,burgers,food?lock=5518"
+cover_image: "/images/melbourne-cbd/best-burgers.jpg"
 date: 2026-03-16
 author: adam
 tags: ["melbourne-cbd", "burgers", "food"]

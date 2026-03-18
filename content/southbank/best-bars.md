@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Southbank 2026"
-cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,bar,nightlife?lock=180"
+cover_image: "/images/southbank/best-bars.jpg"
 date: 2026-03-18
 author: lina
 tags: ["southbank", "best-bars"]

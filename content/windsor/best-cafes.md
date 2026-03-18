@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Windsor — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,cafe,cappuccino?lock=5179"
+cover_image: "/images/windsor/best-cafes.jpg"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "dani"

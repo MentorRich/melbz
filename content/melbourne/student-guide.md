@@ -1,6 +1,6 @@
 ---
 title: "Student Guide to Melbourne 2026: Everything You Need to Know"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,university,students?lock=7916"
+cover_image: "/images/melbourne/student-guide.jpg"
 date: 2026-03-16
 author: ravi
 tags: ["melbourne", "students", "budget"]

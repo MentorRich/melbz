@@ -1,6 +1,6 @@
 ---
 title: "Best Vegan and Vegetarian in Melbourne 2026: The Ultimate Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,vegan,plant-based?lock=2529"
+cover_image: "/images/melbourne-cbd/best-vegan.jpg"
 date: 2026-03-16
 author: nadia
 tags: ["melbourne", "vegan", "vegetarian", "food"]

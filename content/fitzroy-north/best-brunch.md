@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Fitzroy North — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy North,melbourne,brunch,breakfast?lock=3009"
+cover_image: "/images/fitzroy-north/best-brunch.jpg"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "dani"

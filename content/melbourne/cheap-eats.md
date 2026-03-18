@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Melbourne Under $20 — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,cheap,street-food?lock=7425"
+cover_image: "/images/melbourne/cheap-eats.jpg"
 suburb: "melbourne"
 vertical: "food"
 author: "omar"

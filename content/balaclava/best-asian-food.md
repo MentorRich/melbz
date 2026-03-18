@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Balaclava 2026: Japanese, Thai & More"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,asian,vietnamese?lock=7259"
+cover_image: "/images/balaclava/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
 tags: ["balaclava", "asian", "food"]

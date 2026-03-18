@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Northcote — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,new,restaurant?lock=6051"
+cover_image: "/images/northcote/new-openings.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "oscar"

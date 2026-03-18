@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Thornbury — Your 2026 What's Fresh Guide"
-cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,new,restaurant?lock=5837"
+cover_image: "/images/thornbury/new-openings.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "oscar"

@@ -1,6 +1,6 @@
 ---
 title: "Transport Guide for South Yarra"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,tram,station?lock=6278"
+cover_image: "/images/south-yarra/transport-guide.jpg"
 date: 2026-03-18
 author: marcus
 description: "Getting around South Yarra. Train, tram, and bus options, plus driving, parking, and cycling guide."

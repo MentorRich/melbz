@@ -1,6 +1,6 @@
 ---
 title: "Living in Brunswick 2026: The Definitive Guide"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,city,australia?lock=1313"
+cover_image: "/images/brunswick/living-guide.jpg"
 date: 2026-03-16
 author: sam
 tags: ["brunswick", "living-guide", "rent"]

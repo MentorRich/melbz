@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: Brunswick East 2026 — Saturday & Sunday Done Right"
-cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,weekend,activities?lock=3995"
+cover_image: "/images/brunswick-east/weekend-guide.jpg"
 date: 2026-03-16
 author: isabella
 tags: ["brunswick-east", "weekend", "lifestyle"]

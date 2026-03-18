@@ -1,6 +1,6 @@
 ---
 title: "Live Music Guide in South Yarra 2026"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,music,venue?lock=7214"
+cover_image: "/images/south-yarra/live-music.jpg"
 date: 2026-03-18
 author: lina
 description: "Where to find live music in South Yarra. Venues, gigs, and the best spots for everything from jazz to rock to DJ sets."

@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Balaclava: From Pho to Ramen"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,asian,vietnamese?lock=7494"
+cover_image: "/images/balaclava/best-asian.jpg"
 date: 2026-03-18
 author: nina
 description: "From Vietnamese pho to Japanese ramen, Chinese dumplings to Thai curries — the best Asian restaurants in Balaclava."

@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Brunswick Under $20 — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,cheap,street-food?lock=5437"
+cover_image: "/images/brunswick/cheap-eats.jpg"
 suburb: "brunswick"
 vertical: "food"
 author: "omar"

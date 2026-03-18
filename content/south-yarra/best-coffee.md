@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in South Yarra — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,coffee,espresso?lock=3429"
+cover_image: "/images/south-yarra/best-coffee.jpg"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "dani"

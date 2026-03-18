@@ -1,6 +1,6 @@
 ---
 title: "Hidden Gems & Suburb Secrets in Southbank"
-cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,hidden,secret?lock=8749"
+cover_image: "/images/southbank/hidden-gems.jpg"
 date: 2026-03-18
 author: lina
 tags: ["southbank", "hidden-gems"]

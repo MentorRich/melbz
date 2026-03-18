@@ -1,6 +1,6 @@
 ---
 title: "8 Best Pubs in Thornbury for a Proper Pour in 2026"
-cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,pub,beer?lock=644"
+cover_image: "/images/thornbury/best-pubs.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "kai"

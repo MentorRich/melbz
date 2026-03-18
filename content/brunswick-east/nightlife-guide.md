@@ -1,6 +1,6 @@
 ---
 title: "Brunswick East After Dark — The Complete Nightlife Guide 2026"
-cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,nightlife,bar?lock=6210"
+cover_image: "/images/brunswick-east/nightlife-guide.jpg"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "ethan"

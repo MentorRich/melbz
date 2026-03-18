@@ -1,6 +1,6 @@
 ---
 title: "Carlton North Honest Guide 2026: Lygon North & Real Talk"
-cover_image: "https://loremflickr.com/800/600/Carlton North,melbourne,street,city?lock=6475"
+cover_image: "/images/carlton-north/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["carlton-north", "honest-guide", "lifestyle"]

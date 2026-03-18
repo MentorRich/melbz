@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Balaclava — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,pub,beer?lock=174"
+cover_image: "/images/balaclava/best-pubs.jpg"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "kai"

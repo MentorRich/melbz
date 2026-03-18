@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in St Kilda 2026: The Complete Guide"
-cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,pub,beer?lock=8184"
+cover_image: "/images/st-kilda/best-pubs.jpg"
 date: 2026-03-16
 author: kai
 tags: ["st-kilda", "pubs", "beer"]

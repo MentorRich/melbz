@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide in Melbourne — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,neighbourhood,street?lock=4701"
+cover_image: "/images/melbourne/neighbourhood-guide.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "marcusl"

@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Melbourne — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,coffee,espresso?lock=701"
+cover_image: "/images/melbourne/best-coffee.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "dani"

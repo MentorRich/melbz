@@ -1,6 +1,6 @@
 ---
 title: "Kensington Food Crawl 2026: The Best Day Out"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,food,tour?lock=4634"
+cover_image: "/images/kensington/food-crawl.jpg"
 date: 2026-03-16
 author: adam
 tags: ["kensington", "food-crawl", "food"]

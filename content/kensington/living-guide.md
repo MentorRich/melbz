@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide to Kensington 2026: Melbourne's Quiet Overachiever"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,city,australia?lock=253"
+cover_image: "/images/kensington/living-guide.jpg"
 date: 2026-03-16
 author: amara
 tags: ["kensington", "neighbourhood", "living-guide"]

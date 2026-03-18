@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Footscray — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,restaurant,dining?lock=5334"
+cover_image: "/images/footscray/best-restaurants.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "jules"

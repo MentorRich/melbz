@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Windsor — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,nightlife,bar?lock=9650"
+cover_image: "/images/windsor/nightlife-guide.jpg"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "ethan"

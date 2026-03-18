@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Cremorne — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,coffee,espresso?lock=8992"
+cover_image: "/images/cremorne/best-coffee.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "dani"

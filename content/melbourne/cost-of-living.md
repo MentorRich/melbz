@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Melbourne 2026: The Real Numbers"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,city,urban?lock=45"
+cover_image: "/images/melbourne/cost-of-living.jpg"
 date: 2026-03-16
 author: alex
 tags: ["melbourne", "cost-of-living", "money"]

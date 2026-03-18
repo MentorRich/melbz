@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Carlton — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,tourism,attractions?lock=4816"
+cover_image: "/images/carlton/things-to-do-this-weekend.jpg"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "maya"

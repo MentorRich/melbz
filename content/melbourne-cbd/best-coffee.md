@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Melbourne CBD 2026: The Complete Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,coffee,espresso?lock=9383"
+cover_image: "/images/melbourne-cbd/best-coffee.jpg"
 date: 2026-03-16
 author: dani
 tags: ["melbourne-cbd", "coffee", "cafes"]

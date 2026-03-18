@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in St Kilda 2026: Fitzroy Street & Beyond"
-cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,asian,vietnamese?lock=816"
+cover_image: "/images/st-kilda/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
 tags: ["st-kilda", "asian", "food"]

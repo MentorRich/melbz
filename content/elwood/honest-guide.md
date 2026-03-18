@@ -1,6 +1,6 @@
 ---
 title: "Elwood Honest Guide 2026: The Village by the Bay"
-cover_image: "https://loremflickr.com/800/600/Elwood,melbourne,street,city?lock=6140"
+cover_image: "/images/elwood/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["elwood", "honest-guide", "lifestyle"]

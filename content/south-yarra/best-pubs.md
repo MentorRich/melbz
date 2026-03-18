@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in South Yarra 2026: Heritage Hotels & Craft Beer"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,pub,beer?lock=7874"
+cover_image: "/images/south-yarra/best-pubs.jpg"
 date: 2026-03-16
 author: kai
 tags: ["south-yarra", "pubs", "nightlife"]

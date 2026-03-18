@@ -1,6 +1,6 @@
 ---
 title: "8 Best Pubs in Footscray You Need to Try in 2026"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,pub,beer?lock=7253"
+cover_image: "/images/footscray/best-pubs.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "kai"

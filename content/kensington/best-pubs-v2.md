@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Kensington 2026: Racecourse Road & Beyond"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,pub,beer?lock=9839"
+cover_image: "/images/kensington/best-pubs-v2.jpg"
 date: 2026-03-16
 author: kai
 tags: ["kensington", "pubs", "nightlife"]

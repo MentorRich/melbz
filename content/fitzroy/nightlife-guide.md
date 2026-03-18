@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Fitzroy — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy,melbourne,nightlife,bar?lock=8742"
+cover_image: "/images/fitzroy/nightlife-guide.jpg"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "ethan"

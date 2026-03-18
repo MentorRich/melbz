@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Richmond — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,tourism,attractions?lock=6867"
+cover_image: "/images/richmond/things-to-do-this-weekend.jpg"
 suburb: "richmond"
 vertical: "lifestyle"
 author: "maya"

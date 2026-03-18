@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Collingwood 2026"
-cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=2843"
+cover_image: "/images/collingwood/best-bars.jpg"
 date: 2026-03-18
 author: lina
 description: "From rooftop cocktails to neighbourhood pubs, the best bars in Collingwood for drinks, atmosphere, and good times."

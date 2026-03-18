@@ -1,9 +1,9 @@
 ---
 title: "Untitled"
-cover_image: "https://loremflickr.com/800/600/Canterbury,melbourne,nightlife,bar?lock=9641"
+cover_image: "/images/canterbury/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
-description: "cover_image: "https://images.pexels.com/photos/17582212/pexels-photo-17582212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+description: "cover_image: "/images/canterbury/nightlife-guide.jpg"
  Canterbury Nightlife Guide
 
 Update..."
@@ -11,7 +11,7 @@ tags: ["canterbury"]
 categories: ["nightlife"]
 ---
 
-cover_image: "https://images.pexels.com/photos/17582212/pexels-photo-17582212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "/images/canterbury/nightlife-guide.jpg"
 # Canterbury Nightlife Guide
 
 Updated 17 March 2025 | MELBZ reporting

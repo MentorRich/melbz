@@ -1,6 +1,6 @@
 ---
 title: "Southbank Hub Page"
-cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,city,suburb?lock=6011"
+cover_image: "/images/southbank/hub.jpg"
 date: 2026-03-18
 author: marcus
 tags: ["southbank", "hub"]

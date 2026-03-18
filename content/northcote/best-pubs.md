@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Northcote — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,pub,beer?lock=1370"
+cover_image: "/images/northcote/best-pubs.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "kai"

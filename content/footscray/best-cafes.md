@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Footscray 2026: Barkly Street & Beyond"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,cafe,cappuccino?lock=984"
+cover_image: "/images/footscray/best-cafes.jpg"
 date: 2026-03-16
 author: eli
 tags: ["footscray", "cafes", "food"]

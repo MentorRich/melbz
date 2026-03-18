@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Southbank 2026"
-cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,city,urban?lock=5160"
+cover_image: "/images/southbank/cost-of-living.jpg"
 date: 2026-03-18
 author: marcus
 tags: ["southbank", "cost-of-living"]

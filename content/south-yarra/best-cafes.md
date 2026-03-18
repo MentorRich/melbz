@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes & Brunch in South Yarra 2026"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,cafe,cappuccino?lock=1263"
+cover_image: "/images/south-yarra/best-cafes.jpg"
 date: 2026-03-18
 author: priya
 description: "Where to find the best coffee and brunch in South Yarra. We tested the top cafes for quality, value, and that perfect weekend morning vibe."

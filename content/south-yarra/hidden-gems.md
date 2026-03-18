@@ -1,6 +1,6 @@
 ---
 title: "Hidden Gems & Suburb Secrets in South Yarra"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,hidden,secret?lock=6949"
+cover_image: "/images/south-yarra/hidden-gems.jpg"
 date: 2026-03-18
 author: lina
 description: "The best-kept secrets in South Yarra. Local favourites and hidden spots that tourists never find."

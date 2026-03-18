@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Melbourne CBD 2026: Rooftops, Laneways & Hidden Spots"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,bar,nightlife?lock=3291"
+cover_image: "/images/melbourne-cbd/best-bars.jpg"
 date: 2026-03-16
 author: lina
 tags: ["melbourne-cbd", "bars", "nightlife"]

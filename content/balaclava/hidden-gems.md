@@ -1,6 +1,6 @@
 ---
 title: "Hidden Gems & Suburb Secrets in Balaclava"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,hidden,secret?lock=9306"
+cover_image: "/images/balaclava/hidden-gems.jpg"
 date: 2026-03-18
 author: lina
 description: "The best-kept secrets in Balaclava. Local favourites and hidden spots that tourists never find."

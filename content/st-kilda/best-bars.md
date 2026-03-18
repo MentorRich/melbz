@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in St Kilda 2026: Esplanade & Beyond"
-cover_image: "https://loremflickr.com/800/600/St Kilda,melbourne,bar,nightlife?lock=2213"
+cover_image: "/images/st-kilda/best-bars.jpg"
 date: 2026-03-16
 author: lina
 tags: ["st-kilda", "bars", "nightlife"]

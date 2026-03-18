@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Footscray — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,romantic,dinner?lock=112"
+cover_image: "/images/footscray/date-night.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "grace"

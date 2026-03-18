@@ -1,6 +1,6 @@
 ---
 title: "Fitzroy: The Suburb Roast — Every Hot Take, No Apologies"
-cover_image: "https://loremflickr.com/800/600/Fitzroy,melbourne,city,australia?lock=9908"
+cover_image: "/images/fitzroy/suburb-roast.jpg"
 date: 2026-03-16
 author: tyler
 tags: ["fitzroy", "roast", "opinions"]

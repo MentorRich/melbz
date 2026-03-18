@@ -1,6 +1,6 @@
 ---
 title: "Late Night Eats in Southbank: Where to Eat After 10pm"
-cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,late-night,food?lock=1524"
+cover_image: "/images/southbank/late-night-eats.jpg"
 date: 2026-03-18
 author: liam
 tags: ["southbank", "late-night-eats"]

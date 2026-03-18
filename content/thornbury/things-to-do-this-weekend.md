@@ -1,6 +1,6 @@
 ---
 title: "11 Things To Do This Weekend in Thornbury — Your 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,tourism,attractions?lock=4661"
+cover_image: "/images/thornbury/things-to-do-this-weekend.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "maya"

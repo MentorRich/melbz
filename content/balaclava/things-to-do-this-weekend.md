@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Balaclava — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,tourism,attractions?lock=4422"
+cover_image: "/images/balaclava/things-to-do-this-weekend.jpg"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "maya"

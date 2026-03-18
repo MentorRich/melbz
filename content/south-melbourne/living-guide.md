@@ -1,6 +1,6 @@
 ---
 title: "Living in South Melbourne 2026: The Definitive Guide"
-cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,city,australia?lock=2159"
+cover_image: "/images/south-melbourne/living-guide.jpg"
 date: 2026-03-16
 author: soph
 tags: ["south-melbourne", "living-guide", "rent"]

@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Northcote — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,bar,nightlife?lock=4584"
+cover_image: "/images/northcote/best-bars.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "jess"

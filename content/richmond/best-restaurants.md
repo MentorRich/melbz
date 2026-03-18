@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Richmond 2026: Swan Street & Victoria Street"
-cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,restaurant,dining?lock=3604"
+cover_image: "/images/richmond/best-restaurants.jpg"
 date: 2026-03-16
 author: jules
 tags: ["richmond", "restaurants", "food"]

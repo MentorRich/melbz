@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide to Brunswick — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,neighbourhood,street?lock=4394"
+cover_image: "/images/brunswick/neighbourhood-guide.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "marcusl"

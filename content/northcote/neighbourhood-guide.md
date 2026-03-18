@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide in Northcote — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,neighbourhood,street?lock=70"
+cover_image: "/images/northcote/neighbourhood-guide.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "marcusl"

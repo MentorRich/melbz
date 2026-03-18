@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Fitzroy North — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy North,melbourne,cheap,street-food?lock=3690"
+cover_image: "/images/fitzroy-north/cheap-eats.jpg"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "omar"

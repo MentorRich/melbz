@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in Kensington 2026: Where to Eat After Dark"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,late-night,food?lock=9721"
+cover_image: "/images/kensington/late-night-food.jpg"
 date: 2026-03-16
 author: ethan
 tags: ["kensington", "late-night", "food"]

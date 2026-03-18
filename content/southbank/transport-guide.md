@@ -1,6 +1,6 @@
 ---
 title: "Transport Guide for Southbank"
-cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,tram,station?lock=4787"
+cover_image: "/images/southbank/transport-guide.jpg"
 date: 2026-03-18
 author: marcus
 tags: ["southbank", "transport-guide"]

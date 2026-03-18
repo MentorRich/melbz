@@ -1,6 +1,6 @@
 ---
 title: "10 Best Cafes in Thornbury for Your Daily Fix in 2026"
-cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,cafe,cappuccino?lock=5925"
+cover_image: "/images/thornbury/best-cafes.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "dani"

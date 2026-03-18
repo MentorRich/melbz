@@ -1,6 +1,6 @@
 ---
 title: "Brunswick East Honest Guide 2026: Lygon East & Real Opinions"
-cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,street,city?lock=318"
+cover_image: "/images/brunswick-east/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["brunswick-east", "honest-guide", "lifestyle"]

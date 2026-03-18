@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes & Brunch in Southbank 2026"
-cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,cafe,cappuccino?lock=5614"
+cover_image: "/images/southbank/best-cafes.jpg"
 date: 2026-03-18
 author: priya
 tags: ["southbank", "best-cafes"]

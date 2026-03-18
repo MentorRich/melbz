@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in Brunswick 2026: Where to Eat After 10pm"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,late-night,food?lock=3450"
+cover_image: "/images/brunswick/late-night-food.jpg"
 date: 2026-03-16
 author: ethan
 tags: ["brunswick", "late-night", "food"]

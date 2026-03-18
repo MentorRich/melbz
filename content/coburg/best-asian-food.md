@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Coburg 2026: Sydney Road's Global Flavours"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,asian,vietnamese?lock=5879"
+cover_image: "/images/coburg/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
 tags: ["coburg", "asian", "food"]

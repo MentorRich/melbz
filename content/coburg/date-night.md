@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Coburg 2026: Where Romance Meets Sydney Road"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,romantic,dinner?lock=5100"
+cover_image: "/images/coburg/date-night.jpg"
 suburb: "coburg"
 vertical: "food"
 author: "grace"

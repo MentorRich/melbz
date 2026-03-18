@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Fitzroy North — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy North,melbourne,bar,nightlife?lock=6207"
+cover_image: "/images/fitzroy-north/best-bars.jpg"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "jess"

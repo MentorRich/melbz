@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: Coburg 2026 — Saturday & Sunday Done Right"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,weekend,activities?lock=308"
+cover_image: "/images/coburg/weekend-guide.jpg"
 date: 2026-03-16
 author: maya
 tags: ["coburg", "weekend", "lifestyle"]

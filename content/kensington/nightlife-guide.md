@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Kensington — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,nightlife,bar?lock=8385"
+cover_image: "/images/kensington/nightlife-guide.jpg"
 suburb: "kensington"
 vertical: "lifestyle"
 author: "ethan"

@@ -1,6 +1,6 @@
 ---
 title: "Coburg Neighbourhood Guide 2026: The Suburb Between Everything"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,neighbourhood,street?lock=5418"
+cover_image: "/images/coburg/neighbourhood-guide.jpg"
 suburb: "coburg"
 vertical: "lifestyle"
 author: "marcusl"

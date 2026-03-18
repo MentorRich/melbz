@@ -1,6 +1,6 @@
 ---
 title: "Meet the MELBZ Editorial Team"
-cover_image: "https://loremflickr.com/800/600/About,melbourne,city,australia?lock=8192"
+cover_image: "/images/about/team.jpg"
 description: "Meet the experts, local legends, and specialists behind Melbourne's hyperlocal intelligence platform."
 layout: "team"
 date: 2026-03-18

@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Collingwood — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=9964"
+cover_image: "/images/collingwood/things-to-do-this-weekend.jpg"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "maya"

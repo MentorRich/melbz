@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Northcote — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,coffee,espresso?lock=6140"
+cover_image: "/images/northcote/best-coffee.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "dani"

@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Collingwood — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=6517"
+cover_image: "/images/collingwood/date-night.jpg"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "grace"

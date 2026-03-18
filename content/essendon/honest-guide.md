@@ -1,6 +1,6 @@
 ---
 title: "Essendon Honest Guide 2026: Mt Alexander Road & Real Opinions"
-cover_image: "https://loremflickr.com/800/600/Essendon,melbourne,street,city?lock=5781"
+cover_image: "/images/essendon/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["essendon", "honest-guide", "lifestyle"]

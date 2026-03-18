@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes & Brunch in Collingwood 2026"
-cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=3001"
+cover_image: "/images/collingwood/best-cafes.jpg"
 date: 2026-03-18
 author: priya
 description: "Where to find the best coffee and brunch in Collingwood. We tested the top cafes for quality, value, and that perfect weekend morning vibe."

@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Windsor — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,restaurant,dining?lock=7299"
+cover_image: "/images/windsor/best-restaurants.jpg"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "jules"

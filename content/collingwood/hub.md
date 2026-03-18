@@ -1,6 +1,6 @@
 ---
 title: "Collingwood Hub Page"
-cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=7116"
+cover_image: "/images/collingwood/hub.jpg"
 date: 2026-03-18
 author: marcus
 description: "Your complete guide to Collingwood. Food, nightlife, property, transport, and things to do — everything you need to know."

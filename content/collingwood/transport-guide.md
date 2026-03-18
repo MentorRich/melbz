@@ -1,6 +1,6 @@
 ---
 title: "Transport Guide for Collingwood"
-cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=1165"
+cover_image: "/images/collingwood/transport-guide.jpg"
 date: 2026-03-18
 author: marcus
 description: "Getting around Collingwood. Train, tram, and bus options, plus driving, parking, and cycling guide."

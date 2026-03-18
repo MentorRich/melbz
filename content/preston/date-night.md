@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Preston — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Preston,melbourne,romantic,dinner?lock=4701"
+cover_image: "/images/preston/date-night.jpg"
 suburb: "preston"
 vertical: "lifestyle"
 author: "grace"

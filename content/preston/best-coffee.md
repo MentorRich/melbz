@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Preston — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Preston,melbourne,coffee,espresso?lock=8335"
+cover_image: "/images/preston/best-coffee.jpg"
 suburb: "preston"
 vertical: "lifestyle"
 author: "dani"

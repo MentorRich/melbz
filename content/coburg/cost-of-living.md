@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Coburg 2026: The Real Numbers"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,city,urban?lock=9013"
+cover_image: "/images/coburg/cost-of-living.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["coburg", "cost-of-living", "property"]

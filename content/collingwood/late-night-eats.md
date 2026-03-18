@@ -1,6 +1,6 @@
 ---
 title: "Late Night Eats in Collingwood: Where to Eat After 10pm"
-cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=7317"
+cover_image: "/images/collingwood/late-night-eats.jpg"
 date: 2026-03-18
 author: liam
 description: "Hungry after the bars close? The best late night food options in Collingwood for midnight snacks and post-drinks feasts."

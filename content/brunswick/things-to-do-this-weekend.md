@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Brunswick — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,tourism,attractions?lock=6815"
+cover_image: "/images/brunswick/things-to-do-this-weekend.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "maya"

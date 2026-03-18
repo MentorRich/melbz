@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide to Footscray — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,neighbourhood,street?lock=6526"
+cover_image: "/images/footscray/neighbourhood-guide.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "marcusl"

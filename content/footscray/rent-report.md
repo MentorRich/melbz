@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Footscray 2026: The West Side Value Play"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,city,australia?lock=5857"
+cover_image: "/images/footscray/rent-report.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["footscray", "rent", "property"]

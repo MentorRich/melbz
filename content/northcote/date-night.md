@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Northcote — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,romantic,dinner?lock=9461"
+cover_image: "/images/northcote/date-night.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "grace"

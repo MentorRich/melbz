@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Essendon — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Essendon,melbourne,nightlife,bar?lock=4228"
+cover_image: "/images/essendon/nightlife-guide.jpg"
 suburb: "essendon"
 vertical: "lifestyle"
 author: "ethan"

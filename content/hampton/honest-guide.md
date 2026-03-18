@@ -1,6 +1,6 @@
 ---
 title: "Hampton Honest Guide 2026: High Street South & Real Opinions"
-cover_image: "https://loremflickr.com/800/600/Hampton,melbourne,street,city?lock=9377"
+cover_image: "/images/hampton/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["hampton", "honest-guide", "lifestyle"]

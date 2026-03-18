@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Thornbury — Your 2026 Local's Handbook"
-cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,nightlife,bar?lock=178"
+cover_image: "/images/thornbury/nightlife-guide.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "ethan"

@@ -1,6 +1,6 @@
 ---
 title: "Preston Honest Guide 2026: High Street & Real Opinions"
-cover_image: "https://loremflickr.com/800/600/Preston,melbourne,street,city?lock=7560"
+cover_image: "/images/preston/honest-guide.jpg"
 date: 2026-03-16
 author: jack
 tags: ["preston", "honest-guide", "lifestyle"]

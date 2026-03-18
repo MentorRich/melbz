@@ -1,6 +1,6 @@
 ---
 title: "Date Night in South Yarra — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,romantic,dinner?lock=6454"
+cover_image: "/images/south-yarra/date-night.jpg"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "grace"

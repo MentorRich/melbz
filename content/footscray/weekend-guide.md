@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: Footscray 2026 — Markets, Dumplings & Sunsets"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,weekend,activities?lock=8464"
+cover_image: "/images/footscray/weekend-guide.jpg"
 date: 2026-03-16
 author: isabella
 tags: ["footscray", "weekend", "lifestyle"]

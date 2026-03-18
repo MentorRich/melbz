@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Hawthorn — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Hawthorn,melbourne,nightlife,bar?lock=2781"
+cover_image: "/images/hawthorn/nightlife-guide.jpg"
 suburb: "hawthorn"
 vertical: "lifestyle"
 author: "ethan"

@@ -1,6 +1,6 @@
 ---
 title: "10 Best Coffee Spots in Footscray You Need to Try in 2026"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,coffee,espresso?lock=9244"
+cover_image: "/images/footscray/best-coffee.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "dani"

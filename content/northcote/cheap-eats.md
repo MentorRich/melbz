@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Northcote — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,cheap,street-food?lock=5240"
+cover_image: "/images/northcote/cheap-eats.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "omar"

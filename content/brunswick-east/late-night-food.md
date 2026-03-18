@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in Brunswick East 2026: Where to Eat After Dark"
-cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,late-night,food?lock=2448"
+cover_image: "/images/brunswick-east/late-night-food.jpg"
 date: 2026-03-16
 author: ethan
 tags: ["brunswick-east", "late-night", "food"]

@@ -1,6 +1,6 @@
 ---
 title: "Prahran Market Guide 2026: Worth the Early Wake-Up?"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,market,food?lock=6815"
+cover_image: "/images/prahran/market-guide.jpg"
 date: 2026-03-16
 author: tyler
 tags: ["prahran", "market", "lifestyle"]

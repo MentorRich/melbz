@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Footscray — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,new,restaurant?lock=1498"
+cover_image: "/images/footscray/new-openings.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "oscar"

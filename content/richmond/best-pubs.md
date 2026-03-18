@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Richmond 2026: Punt Road to Church Street"
-cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,pub,beer?lock=550"
+cover_image: "/images/richmond/best-pubs.jpg"
 date: 2026-03-16
 author: kai
 tags: ["richmond", "pubs", "nightlife"]

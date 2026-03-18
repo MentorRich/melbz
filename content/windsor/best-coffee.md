@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Windsor — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Windsor,melbourne,coffee,espresso?lock=5493"
+cover_image: "/images/windsor/best-coffee.jpg"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "dani"

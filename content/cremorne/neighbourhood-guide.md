@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide in Cremorne — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,neighbourhood,street?lock=386"
+cover_image: "/images/cremorne/neighbourhood-guide.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "marcusl"

@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Cremorne — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Cremorne,melbourne,pub,beer?lock=6686"
+cover_image: "/images/cremorne/best-pubs.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "kai"

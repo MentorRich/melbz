@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Preston — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Preston,melbourne,brunch,breakfast?lock=4166"
+cover_image: "/images/preston/best-brunch.jpg"
 suburb: "preston"
 vertical: "lifestyle"
 author: "dani"

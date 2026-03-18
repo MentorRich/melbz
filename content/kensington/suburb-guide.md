@@ -1,6 +1,6 @@
 ---
 title: "Kensington Melbourne Suburb Guide 2026: The Sleeper Suburb"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,city,australia?lock=516"
+cover_image: "/images/kensington/suburb-guide.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["kensington", "suburb-guide", "property"]

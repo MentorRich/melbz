@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Melbourne — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,brunch,breakfast?lock=4179"
+cover_image: "/images/melbourne/best-brunch.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "dani"

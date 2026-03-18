@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in South Melbourne 2026: What You'll Pay"
-cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,city,australia?lock=4260"
+cover_image: "/images/south-melbourne/rent-report.jpg"
 date: 2026-03-16
 author: marcus
 tags: ["south-melbourne", "rent", "property"]

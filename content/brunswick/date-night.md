@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Brunswick — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,romantic,dinner?lock=9048"
+cover_image: "/images/brunswick/date-night.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "grace"

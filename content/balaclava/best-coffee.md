@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Balaclava — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,coffee,espresso?lock=84"
+cover_image: "/images/balaclava/best-coffee.jpg"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "dani"

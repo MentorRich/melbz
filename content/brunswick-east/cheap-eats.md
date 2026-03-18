@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats Under $20 in Brunswick East 2026"
-cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,cheap,street-food?lock=3613"
+cover_image: "/images/brunswick-east/cheap-eats.jpg"
 date: 2026-03-16
 author: adam
 tags: ["brunswick-east", "cheap-eats", "food"]

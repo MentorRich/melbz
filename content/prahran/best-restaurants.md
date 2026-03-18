@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Prahran 2026"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,restaurant,dining?lock=819"
+cover_image: "/images/prahran/best-restaurants.jpg"
 date: 2026-03-18
 author: priya
 description: "The definitive guide to the best restaurants in Prahran. From fine dining to casual eats, we review the top venues with addresses, prices, and insider tips."

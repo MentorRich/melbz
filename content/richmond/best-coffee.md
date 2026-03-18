@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Richmond — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Richmond,melbourne,coffee,espresso?lock=7950"
+cover_image: "/images/richmond/best-coffee.jpg"
 suburb: "richmond"
 vertical: "lifestyle"
 author: "dani"

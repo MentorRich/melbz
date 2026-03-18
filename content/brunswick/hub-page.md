@@ -1,6 +1,6 @@
 ---
 title: "Brunswick: The Complete Suburb Profile 2026"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,city,suburb?lock=6093"
+cover_image: "/images/brunswick/hub-page.jpg"
 date: 2026-03-16
 author: marcusl
 tags: ["brunswick", "suburb-profile", "hub"]

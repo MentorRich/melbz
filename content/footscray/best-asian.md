@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Footscray 2026: Vietnamese, Ethiopian, and Everything In Between"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,asian,vietnamese?lock=975"
+cover_image: "/images/footscray/best-asian.jpg"
 date: 2026-03-16
 author: yuki
 tags: ["footscray", "asian", "vietnamese", "food"]

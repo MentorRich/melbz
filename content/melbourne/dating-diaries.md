@@ -1,6 +1,6 @@
 ---
 title: "Melbourne Dating Diaries 2026: The Unfiltered Truth About Dating in Every Suburb"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,city,australia?lock=1402"
+cover_image: "/images/melbourne/dating-diaries.jpg"
 date: 2026-03-16
 author: freya
 tags: ["melbourne", "dating", "confessions"]

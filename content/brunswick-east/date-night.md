@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Brunswick East — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,romantic,dinner?lock=2456"
+cover_image: "/images/brunswick-east/date-night.jpg"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "grace"

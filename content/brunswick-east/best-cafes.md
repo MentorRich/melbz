@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Brunswick East 2026: Lygon Street & Beyond"
-cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,cafe,cappuccino?lock=6068"
+cover_image: "/images/brunswick-east/best-cafes.jpg"
 date: 2026-03-16
 author: eli
 tags: ["brunswick-east", "cafes", "food"]

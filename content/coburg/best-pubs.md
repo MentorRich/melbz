@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Coburg 2026: Sydney Road's Drinking Institutions"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,pub,beer?lock=7008"
+cover_image: "/images/coburg/best-pubs.jpg"
 suburb: "coburg"
 vertical: "nightlife"
 author: "kai"

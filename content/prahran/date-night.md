@@ -1,6 +1,6 @@
 ---
 title: "Date Night in Prahran — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,romantic,dinner?lock=2943"
+cover_image: "/images/prahran/date-night.jpg"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "grace"

@@ -1,6 +1,6 @@
 ---
 title: "20 Melbourne Confessions That Will Make You Feel Personally Attacked"
-cover_image: "https://loremflickr.com/800/600/Confessions,melbourne,city,australia?lock=920"
+cover_image: "/images/confessions/confessions-001.jpg"
 suburb: melbourne
 vertical: culture
 author: "freya"

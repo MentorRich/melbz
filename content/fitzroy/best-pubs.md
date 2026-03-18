@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Fitzroy — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Fitzroy,melbourne,pub,beer?lock=7345"
+cover_image: "/images/fitzroy/best-pubs.jpg"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "kai"

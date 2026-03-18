@@ -8,7 +8,7 @@ vertical: "food"
 tags: ["brunch", "breakfast", "southbank", "melbourne", "weekend"]
 categories: ["Food & Drink"]
 description: "Where to get brunch in Southbank Melbourne. The best weekend breakfast spots along the river and near Crown."
-cover_image: "https://loremflickr.com/800/600/Southbank,melbourne,brunch,breakfast?lock=7657"
+cover_image: "/images/southbank/best-brunch.jpg"
 ---
 
 Southbank isn't famous for brunch. This postcode is more known for fine dining and cocktail bars than leisurely weekend breakfasts. But if you live here, work here, or find yourself here on a Saturday morning, there are actually some solid options for eggs, avo, and the kind of coffee that makes the weekend feel worthwhile.

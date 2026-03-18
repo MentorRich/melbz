@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Coburg 2026: Sydney Road & Beyond"
-cover_image: "https://loremflickr.com/800/600/Coburg,melbourne,cafe,cappuccino?lock=9512"
+cover_image: "/images/coburg/best-cafes.jpg"
 date: 2026-03-16
 author: eli
 tags: ["coburg", "cafes", "food"]

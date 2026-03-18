@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Collingwood 2026"
-cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=9145"
+cover_image: "/images/collingwood/new-openings.jpg"
 date: 2026-03-18
 author: priya
 description: "The newest restaurants, cafes, and bars that just opened in Collingwood. Fresh concepts and exciting new venues to try this year."

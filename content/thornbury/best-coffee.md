@@ -1,6 +1,6 @@
 ---
 title: "8 Best Coffee in Thornbury — Your 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Thornbury,melbourne,coffee,espresso?lock=2822"
+cover_image: "/images/thornbury/best-coffee.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "dani"

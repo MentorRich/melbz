@@ -1,6 +1,6 @@
 ---
 title: "Best Burgers in Northcote 2026: The Definitive Rankings"
-cover_image: "https://loremflickr.com/800/600/Northcote,melbourne,burgers,food?lock=1822"
+cover_image: "/images/northcote/best-burgers.jpg"
 date: 2026-03-16
 author: adam
 tags: ["northcote", "burgers", "food"]

@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Brighton — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Brighton,melbourne,nightlife,bar?lock=7058"
+cover_image: "/images/brighton/nightlife-guide.jpg"
 suburb: "brighton"
 vertical: "lifestyle"
 author: "ethan"

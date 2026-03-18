@@ -1,6 +1,6 @@
 ---
 title: "Melbourne CBD Hub Page: The Ultimate Suburb Guide 2026"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,city,suburb?lock=3811"
+cover_image: "/images/melbourne-cbd/hub-page.jpg"
 date: 2026-03-16
 author: jack
 tags: ["melbourne-cbd", "suburb-guide"]

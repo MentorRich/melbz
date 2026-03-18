@@ -1,6 +1,6 @@
 ---
 title: "Things to Do in Prahran 2026"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,tourism,attractions?lock=6614"
+cover_image: "/images/prahran/things-to-do.jpg"
 date: 2026-03-18
 author: nina
 description: "The complete guide to things to do in Prahran. Attractions, activities, and experiences that make this suburb worth visiting."

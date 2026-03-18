@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Abbotsford 2026: Where to Get Your Coffee Fix"
-cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,cafe,cappuccino?lock=4887"
+cover_image: "/images/abbotsford/best-cafes.jpg"
 date: 2026-03-16
 author: eli
 tags: ["abbotsford", "cafes", "food"]

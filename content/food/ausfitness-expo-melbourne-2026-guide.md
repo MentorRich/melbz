@@ -1,6 +1,6 @@
 ---
 title: "AusFitness Expo Melbourne 2026: Everything You Need to Know Before You Go"
-cover_image: "https://loremflickr.com/800/600/Food,melbourne,city,australia?lock=3603"
+cover_image: "/images/food/ausfitness-expo-melbourne-2026-guide.jpg"
 date: 2026-03-16
 draft: false
 slug: "ausfitness-expo-melbourne-2026"

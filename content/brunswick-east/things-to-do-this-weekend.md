@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Brunswick East — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Brunswick East,melbourne,tourism,attractions?lock=9919"
+cover_image: "/images/brunswick-east/things-to-do-this-weekend.jpg"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "maya"

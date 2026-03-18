@@ -1,6 +1,6 @@
 ---
 title: "Things to Do in Collingwood 2026"
-cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=6440"
+cover_image: "/images/collingwood/things-to-do.jpg"
 date: 2026-03-18
 author: nina
 description: "The complete guide to things to do in Collingwood. Attractions, activities, and experiences that make this suburb worth visiting."

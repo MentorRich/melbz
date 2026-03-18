@@ -1,6 +1,6 @@
 ---
 title: "14 Best Restaurants in Carlton You Need to Try in 2026"
-cover_image: "https://loremflickr.com/800/600/Carlton,melbourne,restaurant,dining?lock=559"
+cover_image: "/images/carlton/best-restaurants.jpg"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "jules"

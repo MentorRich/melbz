@@ -1,6 +1,6 @@
 ---
 title: "Best Pizza in Melbourne 2026: The Definitive Rankings"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,pizza,italian?lock=9583"
+cover_image: "/images/melbourne/best-pizza.jpg"
 date: 2026-03-16
 author: liam
 tags: ["melbourne", "pizza", "food"]

@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Abbotsford — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Abbotsford,melbourne,tourism,attractions?lock=5828"
+cover_image: "/images/abbotsford/things-to-do-this-weekend.jpg"
 suburb: "abbotsford"
 vertical: "lifestyle"
 author: "maya"

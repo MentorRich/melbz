@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Footscray — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,tourism,attractions?lock=423"
+cover_image: "/images/footscray/things-to-do-this-weekend.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "maya"

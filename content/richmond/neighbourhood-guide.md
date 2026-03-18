@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide to Richmond — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/e27f1f89/800/600"
 suburb: "richmond"
 vertical: "lifestyle"
 author: "marcusl"

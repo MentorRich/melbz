@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Windsor — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/27775676/pexels-photo-27775676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/300c2903/800/600"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "omar"

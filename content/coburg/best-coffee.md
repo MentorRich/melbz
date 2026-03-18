@@ -1,6 +1,6 @@
 ---
 title: "Best Coffee in Coburg 2026: From Single-Origin to Zaatar-Stained Fingers"
-cover_image: "https://images.pexels.com/photos/1058921/pexels-photo-1058921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/0a552862/800/600"
 suburb: "coburg"
 vertical: "food"
 author: "dani"

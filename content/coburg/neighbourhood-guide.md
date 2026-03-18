@@ -1,6 +1,6 @@
 ---
 title: "Coburg Neighbourhood Guide 2026: The Suburb Between Everything"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/8e6fe22c/800/600"
 suburb: "coburg"
 vertical: "lifestyle"
 author: "marcusl"

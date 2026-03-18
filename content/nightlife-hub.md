@@ -2,7 +2,7 @@
 title: "Melbourne Nightlife Guide — Best Bars, Pubs and Live Music by Suburb"
 date: 2026-03-17
 author: lina
-cover_image: "https://images.pexels.com/photos/17582212/pexels-photo-17582212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/b2623550/800/600"
 tags: ["nightlife", "bars", "pubs", "melbourne"]
 categories: ["lifestyle"]
 url: "/nightlife/"

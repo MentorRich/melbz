@@ -1,6 +1,6 @@
 ---
 title: "Alex Petrova"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/227535f2/800/600"
 role: "Cost of Living Analyst"
 bio: "Alex breaks down the numbers that matter to your wallet, from grocery and utility comparison to the true cost of living in Melbourne's suburbs."
 avatar: "/images/authors/alex.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Ella Brooks"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/202c0462/800/600"
 role: "Outdoor & Adventure Writer"
 bio: "Ella leads our outdoor and adventure coverage, mapping the best trails, swimming spots, and cycling routes around Melbourne."
 avatar: "/images/authors/ella.jpg"

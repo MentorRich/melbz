@@ -1,6 +1,6 @@
 ---
 title: "10 Best Coffee Spots in Footscray You Need to Try in 2026"
-cover_image: "https://images.pexels.com/photos/1058921/pexels-photo-1058921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/f5d19491/800/600"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "dani"

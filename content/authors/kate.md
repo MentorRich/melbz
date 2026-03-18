@@ -1,6 +1,6 @@
 ---
 title: "Kate Sullivan"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/acb62bb9/800/600"
 role: "Family Suburbs Writer"
 bio: "Kate explores Melbourne through the lens of young families, reviewing the best schools, childcare, and playgrounds across the city."
 avatar: "/images/authors/kate.jpg"

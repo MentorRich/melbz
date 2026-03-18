@@ -1,6 +1,6 @@
 ---
 title: "14 Best Restaurants in Carlton You Need to Try in 2026"
-cover_image: "https://images.pexels.com/photos/36197452/pexels-photo-36197452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/1ccb9945/800/600"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "jules"

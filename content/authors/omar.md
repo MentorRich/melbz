@@ -1,6 +1,6 @@
 ---
 title: "Omar El-Sayed"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/e528186b/800/600"
 role: "Street Food & Markets Writer"
 bio: "Omar explores the vibrant street-level food scene, highlighting markets, food trucks, and authentic takeaway gems."
 avatar: "/images/authors/omar.jpg"

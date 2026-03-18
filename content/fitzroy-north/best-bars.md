@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Fitzroy North — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/30743539/pexels-photo-30743539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/bc9a8383/800/600"
 suburb: "fitzroy-north"
 vertical: "lifestyle"
 author: "jess"

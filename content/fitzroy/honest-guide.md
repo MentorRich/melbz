@@ -1,6 +1,6 @@
 ---
 title: "Fitzroy Honest Guide 2026: Brunswick Street Reality Check"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/d50225c8/800/600"
 date: 2026-03-16
 author: jack
 tags: ["fitzroy", "honest-guide", "lifestyle"]

@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Fitzroy — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/1058920/pexels-photo-1058920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/b4495183/800/600"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "dani"

@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Brunswick East 2026: Lygon Street & Beyond"
-cover_image: "https://images.pexels.com/photos/1058920/pexels-photo-1058920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/bd6554e7/800/600"
 date: 2026-03-16
 author: eli
 tags: ["brunswick-east", "cafes", "food"]

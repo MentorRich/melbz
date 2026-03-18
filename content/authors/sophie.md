@@ -1,6 +1,6 @@
 ---
 title: "Sophie Chen"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/d0ed8268/800/600"
 role: "Shopping Editor"
 bio: "Sophie leads our retail coverage, with an expert eye for fashion and the unique boutiques of Melbourne."
 avatar: "/images/authors/sophie.jpg"

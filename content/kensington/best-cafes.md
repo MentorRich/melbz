@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Kensington 2026: Coffee in the Quiet Suburb"
-cover_image: "https://images.pexels.com/photos/1058920/pexels-photo-1058920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/bcc92662/800/600"
 date: 2026-03-16
 author: eli
 tags: ["kensington", "cafes", "food"]

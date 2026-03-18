@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats Under $20 in Prahran 2026"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/238ac21f/800/600"
 date: 2026-03-18
 author: priya
 description: "Eat well without breaking the bank. The best cheap eats in Prahran under $20, from Asian eateries to pub counter meals."

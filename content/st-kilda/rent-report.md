@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in St Kilda 2026: Seaside Premium"
-cover_image: "https://images.pexels.com/photos/3762497/pexels-photo-3762497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/fb040276/800/600"
 date: 2026-03-16
 author: marcus
 tags: ["st-kilda", "rent", "property"]

@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Kensington 2026: Where to Eat"
-cover_image: "https://images.pexels.com/photos/36197452/pexels-photo-36197452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/678ea00f/800/600"
 date: 2026-03-16
 author: grace
 tags: ["kensington", "restaurants", "food"]

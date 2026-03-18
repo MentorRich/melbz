@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Fitzroy — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/e3e67ff9/800/600"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "maya"

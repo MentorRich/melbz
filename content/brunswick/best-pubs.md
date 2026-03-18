@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Brunswick — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/8234585/pexels-photo-8234585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/f2c341c6/800/600"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "kai"

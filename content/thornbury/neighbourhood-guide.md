@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide: Thornbury — Your 2026 Local's Handbook"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/36ec432e/800/600"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "marcusl"

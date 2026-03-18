@@ -1,6 +1,6 @@
 ---
 title: "Grace Williams"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/d94d0b84/800/600"
 role: "Fine Dining Writer"
 bio: "Grace covers Melbourne's premium dining occasions, spotlighting world-class chefs and exceptional wine lists."
 avatar: "/images/authors/grace.jpg"

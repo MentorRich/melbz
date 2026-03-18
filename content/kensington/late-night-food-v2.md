@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in Kensington 2026: Where to Eat After 10pm"
-cover_image: "https://images.pexels.com/photos/12108138/pexels-photo-12108138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/61dbc4ae/800/600"
 date: 2026-03-16
 author: ethan
 tags: ["kensington", "late-night", "food"]

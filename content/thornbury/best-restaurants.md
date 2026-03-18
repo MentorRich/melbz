@@ -1,6 +1,6 @@
 ---
 title: "12 Best Restaurants in Thornbury You Need to Try in 2026"
-cover_image: "https://images.pexels.com/photos/36197452/pexels-photo-36197452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/20429576/800/600"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "jules"

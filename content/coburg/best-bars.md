@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Coburg 2026: Sydney Road Pubs & Hidden Watering Holes"
-cover_image: "https://images.pexels.com/photos/30743539/pexels-photo-30743539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/6b51f4e9/800/600"
 date: 2026-03-16
 author: lina
 tags: ["coburg", "bars", "nightlife"]

@@ -1,6 +1,6 @@
 ---
 title: "Tom Barker"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/f436b1e9/800/600"
 role: "Transport Editor"
 bio: "Tom keeps our readers moving with the latest transport guides and insights into the city's transit network."
 avatar: "/images/authors/tom.jpg"

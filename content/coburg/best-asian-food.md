@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Coburg 2026: Sydney Road's Global Flavours"
-cover_image: "https://images.pexels.com/photos/12108138/pexels-photo-12108138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/f7e89436/800/600"
 date: 2026-03-16
 author: yuki
 tags: ["coburg", "asian", "food"]

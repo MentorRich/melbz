@@ -1,6 +1,6 @@
 ---
 title: "Nadia Keane"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/672e7195/800/600"
 role: "Vegan & Dietary Writer"
 bio: "Nadia maps the best ethical and dietary-inclusive dining across the city, from plant-based fine dining to organic delis."
 avatar: "/images/authors/nadia.jpg"

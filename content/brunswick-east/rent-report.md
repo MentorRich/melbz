@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Brunswick East 2026: What You'll Pay"
-cover_image: "https://images.pexels.com/photos/3762497/pexels-photo-3762497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/a41cbedd/800/600"
 date: 2026-03-16
 author: marcus
 tags: ["brunswick-east", "rent", "property"]

@@ -1,6 +1,6 @@
 ---
 title: "Meet the MELBZ Editorial Team"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/19aba8c8/800/600"
 description: "Meet the experts, local legends, and specialists behind Melbourne's hyperlocal intelligence platform."
 layout: "team"
 date: 2026-03-18

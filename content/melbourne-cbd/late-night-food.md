@@ -1,6 +1,6 @@
 ---
 title: "Best Late Night Food in Melbourne 2026: The Definitive Guide"
-cover_image: "https://images.pexels.com/photos/12108138/pexels-photo-12108138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/e1510a8c/800/600"
 date: 2026-03-16
 author: tariq
 tags: ["melbourne", "late-night", "food"]

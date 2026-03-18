@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide to Balaclava — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/12c8dc40/800/600"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "marcusl"

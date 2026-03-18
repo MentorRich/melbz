@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in South Melbourne 2026: The Complete Guide"
-cover_image: "https://images.pexels.com/photos/28561875/pexels-photo-28561875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/09d53936/800/600"
 date: 2026-03-16
 author: priya
 tags: ["south-melbourne", "brunch", "cafes"]

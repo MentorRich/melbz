@@ -1,6 +1,6 @@
 ---
 title: "Jules Marchetti"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/ebd365c0/800/600"
 role: "Editor-in-Chief"
 bio: "Jules is the Editor-in-Chief at MELBZ, focusing on the deep culture and hidden stories that define the city's pulse."
 avatar: "/images/authors/jules.jpg"

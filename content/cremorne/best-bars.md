@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Cremorne — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/30743539/pexels-photo-30743539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/b46ad8cf/800/600"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "jess"

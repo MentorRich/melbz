@@ -1,6 +1,6 @@
 ---
 title: "10 Best Bars in Thornbury You Need to Hit in 2026"
-cover_image: "https://images.pexels.com/photos/30743539/pexels-photo-30743539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/6e5a9781/800/600"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "jess"

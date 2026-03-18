@@ -1,6 +1,6 @@
 ---
 title: "10 Best Bars in Footscray You Need to Try in 2026"
-cover_image: "https://images.pexels.com/photos/30743539/pexels-photo-30743539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/c802c075/800/600"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "jess"

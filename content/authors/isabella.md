@@ -1,6 +1,6 @@
 ---
 title: "Isabella Greco"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/9d70a582/800/600"
 role: "Seasonal & Festivals Writer"
 bio: "Isabella ensures life's major Melburnian events are covered, from Moomba to the Melbourne Cup and everything in between."
 avatar: "/images/authors/isabella.jpg"

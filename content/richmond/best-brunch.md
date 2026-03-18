@@ -1,6 +1,6 @@
 ---
 title: "Best Brunch in Richmond — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/28561875/pexels-photo-28561875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/9d0e7b9b/800/600"
 suburb: "richmond"
 vertical: "lifestyle"
 author: "dani"

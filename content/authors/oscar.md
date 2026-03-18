@@ -1,6 +1,6 @@
 ---
 title: "Oscar Wright"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/f2f4b066/800/600"
 role: "New Openings & Closures Writer"
 bio: "Oscar is the speed-to-market specialist, tracking every movement in Melbourne's hospitality and retail sectors."
 avatar: "/images/authors/oscar.jpg"

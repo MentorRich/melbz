@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Hawthorn 2026: Glenferrie Road & Beyond"
-cover_image: "https://images.pexels.com/photos/3762497/pexels-photo-3762497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/d49e1812/800/600"
 date: 2026-03-16
 author: marcus
 tags: ["hawthorn", "rent", "property"]

@@ -1,6 +1,6 @@
 ---
 title: "Ascot Vale Honest Guide 2026: Maribyrnong Road Reality"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/d03b6589/800/600"
 date: 2026-03-16
 author: jack
 tags: ["ascot-vale", "honest-guide", "lifestyle"]

@@ -1,6 +1,6 @@
 ---
 title: "8 Best Pubs in Thornbury for a Proper Pour in 2026"
-cover_image: "https://images.pexels.com/photos/8234585/pexels-photo-8234585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/a9da02f6/800/600"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "kai"

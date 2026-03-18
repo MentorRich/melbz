@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Hawthorn 2026: Glenferrie Road & Beyond"
-cover_image: "https://images.pexels.com/photos/36197452/pexels-photo-36197452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/bf8a9ef3/800/600"
 date: 2026-03-16
 author: jules
 tags: ["hawthorn", "restaurants", "food"]

@@ -1,6 +1,6 @@
 ---
 title: "Josh Brennan"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/5e5115da/800/600"
 role: "Sports & Recreation Writer"
 bio: "Josh covers the sporting soul of Melbourne, from weekend oval vibes to the best local sports clubs."
 avatar: "/images/authors/josh.jpg"

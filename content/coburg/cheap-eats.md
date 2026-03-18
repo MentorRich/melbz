@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Coburg 2026: Sydney Road Under $15"
-cover_image: "https://images.pexels.com/photos/27775676/pexels-photo-27775676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/3c05133b/800/600"
 suburb: "coburg"
 vertical: "food"
 author: "omar"

@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Melbourne CBD 2026: Heritage Hotels & Laneway Locals"
-cover_image: "https://images.pexels.com/photos/8234585/pexels-photo-8234585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/9c10a8c1/800/600"
 date: 2026-03-16
 author: kai
 tags: ["melbourne-cbd", "pubs", "nightlife"]

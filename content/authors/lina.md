@@ -1,6 +1,6 @@
 ---
 title: "Lina Nguyen"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/3d71b061/800/600"
 role: "Nightlife Editor"
 bio: "Lina is our eyes and ears on the ground after dark, covering the best bars, clubs, and late-night eats."
 avatar: "/images/authors/lina.jpg"

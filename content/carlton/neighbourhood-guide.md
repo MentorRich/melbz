@@ -1,6 +1,6 @@
 ---
 title: "Carlton Neighbourhood Guide 2026 — Melbourne's Little Italy, Still Standing"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/66c8584e/800/600"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "marcusl"

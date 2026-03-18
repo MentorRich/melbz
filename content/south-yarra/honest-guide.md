@@ -1,6 +1,6 @@
 ---
 title: "South Yarra Honest Guide 2026: Champagne Taste, Ramen Budget"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/49e6b519/800/600"
 date: 2026-03-16
 author: jack
 tags: ["south-yarra", "honest-guide", "lifestyle"]

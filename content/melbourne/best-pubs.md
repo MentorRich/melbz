@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Melbourne — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/8234585/pexels-photo-8234585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/4811a8fb/800/600"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "kai"

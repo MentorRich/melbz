@@ -1,6 +1,6 @@
 ---
 title: "Best Bars in Kensington 2026: Local Pubs & Hidden Watering Holes"
-cover_image: "https://images.pexels.com/photos/30743539/pexels-photo-30743539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/911b8295/800/600"
 date: 2026-03-16
 author: lina
 tags: ["kensington", "bars", "nightlife"]

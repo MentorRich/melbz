@@ -1,6 +1,6 @@
 ---
 title: "Riley Nguyen"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/84944731/800/600"
 role: "Romance & Date Ideas Writer"
 bio: "Riley specializes in the city's most romantic corners, from secret sunset spots to the perfect venues for a first date."
 avatar: "/images/authors/riley.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Priscilla Osei"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/836c6e3f/800/600"
 role: "Services & Practical Writer"
 bio: "Priscilla is the guide to working and thriving in Melbourne, from co-working hubs to essential tradie rankings."
 avatar: "/images/authors/priscilla.jpg"

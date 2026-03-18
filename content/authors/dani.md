@@ -1,6 +1,6 @@
 ---
 title: "Dani Rossi"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/e997c332/800/600"
 role: "Coffee & Brunch Writer"
 bio: "Dani is our caffeine expert, spending her days hunting for the perfect light-roast and Melbourne's fluffiest pancakes."
 avatar: "/images/authors/dani.jpg"

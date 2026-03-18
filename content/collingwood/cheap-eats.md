@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Collingwood — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/27775676/pexels-photo-27775676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/0d014050/800/600"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "omar"

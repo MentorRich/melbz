@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Elwood — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/17582212/pexels-photo-17582212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/d4d46e58/800/600"
 suburb: "elwood"
 vertical: "lifestyle"
 author: "ethan"

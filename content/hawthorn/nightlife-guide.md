@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Hawthorn — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/17582212/pexels-photo-17582212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/57b5fc0f/800/600"
 suburb: "hawthorn"
 vertical: "lifestyle"
 author: "ethan"

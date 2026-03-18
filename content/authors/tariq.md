@@ -1,6 +1,6 @@
 ---
 title: "Tariq Hussain"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/24bbfd53/800/600"
 role: "Night Economy & Music Writer"
 bio: "Tariq dives into the music scene, from the city's best DJs to the evolution of Melbourne's night-time economy."
 avatar: "/images/authors/tariq.jpg"

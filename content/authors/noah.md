@@ -1,6 +1,6 @@
 ---
 title: "Noah Park"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/dc2f00d5/800/600"
 role: "Quiz & Interactive Writer"
 bio: "Noah builds the tools and quizzes that help you discover your perfect suburb and test your Melbourne knowledge."
 avatar: "/images/authors/noah.jpg"

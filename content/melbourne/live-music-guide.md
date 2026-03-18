@@ -1,6 +1,6 @@
 ---
 title: "Live Music Guide to Melbourne 2026: Where to See Bands Right Now"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/c6576160/800/600"
 date: 2026-03-16
 author: dylan
 tags: ["melbourne", "live-music", "nightlife"]

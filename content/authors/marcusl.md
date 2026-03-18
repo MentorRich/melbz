@@ -1,6 +1,6 @@
 ---
 title: "Marcus Lee"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/40dc7edf/800/600"
 role: "Suburb Profile Writer"
 bio: "Marcus provides deep-dive walkthroughs of Melbourne's 321 suburbs, combining history with street-level reality."
 avatar: "/images/authors/marcusl.jpg"

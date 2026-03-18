@@ -1,6 +1,6 @@
 ---
 title: "Nina Okafor"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/6fec9bac/800/600"
 role: "Wellness Editor"
 bio: "Nina covers the intersection of physical and mental health, highlighting the city's top wellness spots."
 avatar: "/images/authors/nina.jpg"

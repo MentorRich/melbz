@@ -1,6 +1,6 @@
 ---
 title: "Sam Torres"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/d0921c1f/800/600"
 role: "Performing Arts Writer"
 bio: "Sam covers Melbourne's world-class theatre, comedy, and performance scenes, from major productions to underground improv."
 avatar: "/images/authors/sam.jpg"

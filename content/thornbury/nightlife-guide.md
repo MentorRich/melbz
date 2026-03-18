@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Thornbury — Your 2026 Local's Handbook"
-cover_image: "https://images.pexels.com/photos/17582212/pexels-photo-17582212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/3163a1d2/800/600"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "ethan"

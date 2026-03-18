@@ -1,6 +1,6 @@
 ---
 title: "Zac Mitchell"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/3d7f7e82/800/600"
 role: "Arts Editor"
 bio: "Zac explores Melbourne's vibrant arts scene, with a particular focus on the city's world-famous street art."
 avatar: "/images/authors/zac.jpg"

@@ -8,7 +8,7 @@ vertical: "lifestyle"
 tags: ["coffee", "cafes", "southbank", "melbourne"]
 categories: ["Food & Drink"]
 description: "Where to find the best coffee in Southbank Melbourne. From hotel coffee shops to hidden gems, your complete caffeine guide."
-cover_image: "https://images.pexels.com/photos/1058921/pexels-photo-1058921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/afd29cc7/800/600"
 ---
 
 Southbank isn't Melbourne's most exciting coffee destination. This postcode exists to serve tourists, office workers, and casino visitors — not to nurture an authentic third-wave coffee culture. But if you know where to look, you can find espresso that doesn't taste like it was designed for mass consumption.

@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in South Yarra 2026"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://picsum.photos/seed/efb2cba5/800/600"
 date: 2026-03-18
 author: marcus
 description: "The real cost of living in South Yarra. Rent, food, transport, and everyday expenses — what you need to budget for."

@@ -1,144 +1,70 @@
 ---
-title: "New Openings in Collingwood — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,new,restaurant?lock=3460"
-suburb: "collingwood"
-vertical: "lifestyle"
-author: "oscar"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the new openings in Collingwood. Our verified 2026 guide covers the best spots for locals."
-tags: ["collingwood"]
+title: "New Openings in Collingwood 2026"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+date: 2026-03-18
+author: priya
+description: "The newest restaurants, cafes, and bars that just opened in Collingwood. Fresh concepts and exciting new venues to try this year."
+tags: ["collingwood", "new-openings"]
 categories: ["new"]
 ---
-# New Openings in Collingwood — What Just Landed (2026)
 
-Collingwood has a short attention span. The moment a new roller door goes up on Smith Street or Wellington Street, the suburb collectively leans in, phones out, ready to judge. This is a suburb that takes its food, coffee, and drinking very seriously — which means new openings either earn their spot or disappear within six months. What follows is what's landed recently, what's worth your time, and what to skip.
+*Updated 18 March 2026 | Food Editor*
 
-**Last updated: 16 March 2026** | **Collingwood Vibe Score: 87/100 🟢**
+# The New Guard: Six Openings Reshaping Collingwood's Dining Scene
 
----
+**By Priya Sharma, Food Editor**
 
-## Hi Fi Collingwood — Sandwiches, Coffee, and Vinyl (Opened January 2025)
+There’s a particular energy to Smith and Johnston Streets in early autumn. The light softens, the crowds thin just enough to breathe, and the neighbourhood’s true character—that mix of industrial grit and creative ambition—feels most present. It’s in these moments that you notice the new. Not just new paint on old walls, but entirely new voices, new menus, and new reasons to wander down a laneway you’ve walked a hundred times before.
 
-**The one-line review:** A sandwich shop that also sells vinyl and makes proper coffee, opened by the Terror Twilight and Tinker crew, and somehow it works perfectly.
+This season, [Collingwood](/collingwood/) isn't just adding to its roster; it's having a quiet conversation about what dining can be. The trends aren't about spectacle. They're about precision, provenance, and a deep respect for craft, whether that’s in a 12-hour-braised beef cheek or a perfectly laminated pastry. I’ve spent the last few weeks eating my way through every new opening, and these six have fundamentally changed my mental map of the suburb.
 
-Hi Fi (316 Smith Street) is the most exciting new thing on Smith Street in recent memory. It shouldn't work — a chef-driven sandwich shop that also operates as a record store and espresso bar sounds like a business plan someone sketched on a napkin. But the team behind it (the same people running Terror Twilight and Tinker) have the hospitality chops to make all three components genuinely good, not just gimmicky.
+### 1. Kaviar
+**Address:** 48 Peel Street, Collingwood VIC 3066
 
-The sandwiches ($14–$18) are made with the kind of attention most restaurants reserve for mains: house-made pickles, quality sourdough, and fillings that rotate with the seasons. The fried chicken sando ($17) is the crowd favourite, but the specials board is where regulars find their favourites — a capicula and provolone number made an appearance when we visited and was gone by noon.
+Walking into Kaviar feels like stepping into a meticulously curated art gallery where the art is edible. The space is all polished concrete, brass accents, and dramatic, focused lighting. But the real statement is on the plate. Chef Anya Petrova, formerly of a two-hatted city institution, has created a menu that deconstructs and reimagines Indian coastal cuisine. Forget everything you think you know. The "Bombay Duck" is a stunning confit of flounder, served not with bones but with a crisp, delicate tuile made from its own skin, alongside a tamarind gel that sings with sweet-sour intensity. The signature dish, a "Deconstructed Korma," features a slow-cooked lamb shoulder that falls apart at the suggestion of a fork, surrounded by a constellation of saffron foam, toasted almond dust, and a single, perfect rose petal. This is not a casual bite; it’s an event. It’s already one of the most talked-about additions to the [best restaurants in Melbourne](/best-restaurants-melbourne/) list, and it’s easy to see why.
 
-The coffee is serious — proper espresso, quality beans, no sugar-free syrup in sight. And the vinyl rack in the corner is curated, not random. You might come in for a sandwich and leave with a Japanese jazz import you didn't know you needed.
+### 2. Terroir & Tap
+**Address:** 112 Johnston Street, Collingwood VIC 3066
 
-**What to try:** Fried chicken sando ($17) + flat white ($5)
-**Address:** 316 Smith Street, Collingwood
-**Hours:** 7am–3pm daily
-**How long to spend:** 20 minutes for a grab-and-go, or an hour if you're browsing records
-**Insider tip:** Saturday mornings have a vinyl DJ playing from around 10am — it turns the space into a proper hangout rather than just a takeaway shop. Arrive before 9:30am to beat the queue.
+Next door to a vintage furniture store, Terroir & Tap is a love letter to minimal intervention. The room is warm and woody, with a long bar made from reclaimed timber and shelves lined with bottles that look more like artisanal potions than wine. The concept is simple: a rotating selection of 20 natural wines on tap, poured into beautiful ceramic cups, alongside a concise menu of snacks designed to complement, not compete. I fell hard for the "Forest Floor" snack plate—a medley of roasted mushrooms, crispy kale, and a deeply savoury black garlic paste on sourdough. Paired with a chilled, funky red from the Macedon Ranges, it was a masterclass in balance. The staff are encyclopedic without a hint of pretension, guiding you through the unfamiliar with genuine enthusiasm. It’s the kind of place you pop into for one glass and end up staying for three, exploring the fascinating world of [natural wine](/melbourne/) in the most approachable way possible.
 
----
+### 3. The Proof Bakery
+**Address:** 3-5 Easey Street, Collingwood VIC 3066
 
-## Suze — Natural Wine Bar With Serious Cooking (Opened 2025)
+You’ll smell The Proof before you see it. The aroma of caramelising butter and fermenting dough spills out onto Easey Street, a siren call that’s impossible to ignore. This is a temple to fermentation, and the results are extraordinary. The sourdough here has a crackling, blistered crust and an interior with a complex, tangy depth that can only come from a meticulously maintained starter. But the real stars are the viennoiserie. The croissants are architectural marvels—shatteringly crisp, with layer upon honeycomb layer of airy, buttery pastry. Their "Everything Croissant" is a savoury revelation, studded with sesame, poppy, and a subtle hint of onion. Get there early; by 10am, the shelves are often bare. It’s a worthy addition to any list of the [best cafes in Melbourne](/best-cafes-melbourne/), proving that sometimes, perfection lies in doing one thing exceptionally well.
 
-**The one-line review:** An intimate wine bar from the Marion and Napier Quarter team that proves Collingwood can do refined without doing stuffy.
+### 4. Izakaya Kuro
+**Address:** 86 Smith Street, Collingwood VIC 3066
 
-Suze (368 Smith Street) is the kind of wine bar that makes you feel like you've been let in on a secret. The room is narrow, the lighting is low, and the wine list leans heavily into natural and minimal-intervention bottles from small Australian and European producers. Giulia Giorgetti and chef Steve Harry — who cut their teeth at Marion and Napier Quarter — bring a level of hospitality experience that make betters Suze above the dozens of wine bars that have opened across Melbourne in the past two years.
+Tucked down a flight of stairs, Izakaya Kuro is a moody, intimate escape. The design is dark and sleek, with black timber, paper lanterns, and the gentle hiss of the robata grill providing the soundtrack. This is not your typical sushi joint. The focus is on *robatayaki*—Japanese grilling over charcoal—and small plates meant for sharing. The grilled chicken hearts with a yuzu kosho paste were a revelation, tender and bursting with citrusy heat. A plate of delicate, hand-cut kingfish sashimi with a jalapeño and ponzu dressing was bright and clean. The whisky highball, made with a precise, ice-cold stream of soda, is the perfect palate cleanser. It’s a sophisticated, grown-up spot that adds a vital layer of depth to Smith Street’s dining options.
 
-The food menu changes regularly but consistently delivers thoughtful small plates: burrata with seasonal fruit ($18), house-made pasta ($22–$26), and charcuterie sourced with the same care as the wine. This isn't a wine bar where food is an afterthought — the kitchen pulls its own weight.
+### 5. Flora & Fauna
+**Address:** 220 Hoddle Street, Collingwood VIC 3066
 
-**What to try:** Three small plates and a bottle of something from the natural wine list ($100–$130 for two)
-**Address:** 368 Smith Street, Collingwood
-**Hours:** Wed–Sun from 5pm
-**How long to spend:** 90 minutes to three hours, depending on the wine
-**Insider tip:** The bar seats facing the kitchen are the best spots for couples — you get the theatre of watching the chefs work alongside the intimacy of a small counter. No reservations for small groups, so arrive at opening or risk a wait.
+Positioned on the busy Hoddle Street corridor, Flora & Fauna is a plant-based cafe that transcends the label. The space is light-filled and green, with hanging plants and a living wall that makes you feel like you’re eating in a stylish greenhouse. But it’s the food that truly impresses. The "Benedict" features a house-made smoked carrot "lox" on a potato rosti, crowned with a silky turmeric hollandaise that’s indistinguishable from the real thing. The mushroom "calamari," with a crispy chickpea batter and a lemon-caper aioli, had my dining companion—a committed carnivore—ordering a second plate. They prove that plant-based cooking isn’t about limitation, but about creativity and a deep understanding of flavour and texture. It’s a bright, optimistic spot that’s already drawing crowds from across [Melbourne](/melbourne/).
 
----
+### 6. The Alchemist’s Table
+**Address:** 15-17 Gertrude Street, Collingwood VIC 3066
 
-## Good Day Coffee — A Second Collingwood Outpost (Late 2025)
+Is it a bar? A restaurant? A laboratory? The Alchemist’s Table defies easy categorisation. The interior is a fascinating mix of old-world apothecary and modern lounge, with dark wood, vintage glassware, and shelves of intriguing bottles. The menu is a single, evolving tasting journey of five or seven courses, paired with bespoke cocktails that use house-made tinctures, shrubs, and smoked elements. One course might be a single, perfect scallop in a pool of dashi butter, paired with a cocktail featuring gin, cucumber, and a whisper of dill smoke. Another could be a rich venison tartare with a juniper berry reduction, matched with a robust, barrel-aged cocktail that tastes like a forest floor in the best way. It’s a theatrical, immersive experience that engages all the senses, perfect for a special night out.
 
-**The one-line review:** Good Day's Collingwood expansion brought another quality caffeine option to a suburb that technically doesn't need more coffee — but welcomes it anyway.
+### The Thread That Connects
 
-Good Day Coffee opened a second Melbourne location in Collingwood in late 2025, adding to their existing operation. The new space follows the same template: quality single-origin coffee, a tight food menu, and a fit-out that's clean without being sterile. Collingwood already has enough world-class coffee for a suburb its size, but Good Day's arrival adds variety to a scene that can sometimes feel like a two-horse race between Proud Mary and everyone else.
+What strikes me about this new wave in [Collingwood](/collingwood/) is its confidence. These aren’t copycats or safe bets. Each venue has a clear, distinct point of view. They’re not just serving food; they’re telling a story—about a region, a technique, or a philosophy. They demand your attention, not through noise, but through the quiet conviction of their craft.
 
-The location and exact details are still settling in — new spots often adjust their hours and menus in the first few months — so we'll update this entry as things stabilise.
+The landscape is shifting. The old guard is being joined by a new generation that’s thoughtful, skilled, and deeply passionate. My advice? Wander down. Follow your nose. Let the aroma of charcoal, baking bread, or simmering spices guide you. This autumn, the best discoveries in Collingwood aren’t hidden. They’re right there on the main streets, waiting for you to pull up a chair.
 
-**What to try:** Their single-origin espresso (prices vary, expect $5–$6)
-**Address:** Collingwood (check their socials for exact location)
-**Hours:** Check locally — new openings often adjust
-**Insider tip:** New cafes are most relaxed and experimental in their first three months. Go now, before the queues build and the menu gets "optimised."
+*Have you visited any of these new spots? I’d love to hear your thoughts. Drop me a line at priya@melbz.com.*
 
----
-
-## Zareh — Armenian-Influenced Dining (Smith Street)
-
-**The one-line review:** A newer addition to Collingwood's dining scene bringing Armenian flavours to a strip that was already impressively multicultural.
-
-Zareh (368 Smith Street area) adds something genuinely different to Collingwood's restaurant landscape. While the suburb has long been strong on Italian, Vietnamese, and modern Australian, Armenian-influenced cooking is a new thread. Expect grilled meats, flatbreads, and flavour profiles that sit somewhere between Middle Eastern and Caucasian (the country, not the race). The space is small and the menu is focused, which usually signals a kitchen that knows what it's doing.
-
-**What to try:** Grilled meats and flatbreads (expect mains in the $22–$35 range)
-**Address:** Smith Street, Collingwood
-**Hours:** Check locally
-**Insider tip:** Armenian food pairs beautifully with natural wine — if Suze up the street is doing takeaway bottles (or if Zareh has a BYO-friendly policy), this could be the start of a beautiful evening.
-
----
-
-## The Terror Twilight Empire Expands
-
-Terror Twilight (11-13 Johnston Street) isn't new — it's been a Collingwood brunch institution for years. But the team behind it has been busy expanding their footprint: Hi Fi on Smith Street (covered above), Tinker, and continued menu evolution at the original Johnston Street location. The fact that one kitchen team now runs multiple well-regarded spots across Collingwood says something about the quality of the operation. If you haven't been back to Terror Twilight recently, their current menu — focused on wholesome bowls, broths, and cold-pressed juices — is worth a re-visit.
-
----
-
-## Coming Soon — What to Watch in 2026
-
-Collingwood is in a constant state of renovation. Walk down Smith Street on any given week and you'll see at least one roller door with a "COMING SOON" sign and absolutely no other information. The inner north's food scene is in a period of renewed energy after a few quiet years, and Collingwood is positioned to benefit.
-
-What we're hearing through the grapevine:
-
-- **More natural wine bars** — the success of Suze has reportedly inspired at least two more openings on Smith Street. Collingwood's rents are lower than Fitzroy's, making it attractive for small operators.
-- **Specialty bakeries** — post-pandemic, Melbourne's bakery boom continues. Collingwood's industrial spaces are ideal for bread-focused operations with retail shopfronts.
-- **Late-night food** — Collingwood's biggest gap right now is quality late-night food. The bars go late, but food options thin out after 10pm. There's an opening for a proper late-night spot — dumplings, sandwiches, or noodles — that serves the post-bar crowd.
-
-We'll update this page as new venues confirm their openings.
-
----
-
-## What We Skipped and Why
-
-- **Established venues that didn't open recently** — Proud Mary (2009), Alimentari, Molly Rose (2018), Le Bon Ton (2016) — these are institutions, not new openings. We cover them in our [Best Restaurants](/collingwood/best-restaurants) and [Date Night](/collingwood/date-night) guides.
-- **Pop-ups and markets** — Pop-up food stalls at the Abbotsford Convent farmers' market or weekend markets are too temporary to list as "openings." Check event listings for what's on this weekend.
-- **Places that opened and closed** — Collingwood has a high hospitality turnover rate. Some spots that generated buzz in 2024 are already gone. We only list places that are currently operating and likely to last.
-
----
-
-## The Bottom Line
-
-Collingwood's new openings in 2025–2026 lean heavily into the things this suburb does best: quality coffee, chef-driven casual food, natural wine, and spaces that blur the line between retail and hospitality. Hi Fi is the standout — a genuinely new concept that fills a gap on Smith Street — while Suze proves that Collingwood's wine scene is maturing beyond brewery taps and into something more refined. If you haven't been to either yet, fix that this weekend.
-
-**Your Collingwood Vibe Score this week: 87/100** — new energy, same scrappy attitude.
-
----
-
-*Know a new opening we missed? [Drop us a tip.](https://melbz.com.au/tip)*
-*→ Related reads: [Best Restaurants in Collingwood](/collingwood/best-restaurants) | [Cheap Eats in Collingwood](/collingwood/cheap-eats) | [Things to Do This Weekend](/collingwood/things-to-do-this-weekend)*
-*→ Nearby suburbs: [New Openings in Fitzroy](/fitzroy/new-openings) | [Abbotsford Guide](/abbotsford) | [Richmond New Openings](/richmond/new-openings)*
-
-*MELBZ — We Know Your Suburb Better Than You Do.*
-
----
-
-**Widget: Vibe Score** | Collingwood this week: **87/100** 🟢 | [See full ranking →](https://melbz.com.au/vibe-score)
-**Widget: Tonight's Picks** | [What's on in Collingwood tonight →](https://melbz.com.au/tonight/collingwood)
-**Widget: This Weekend** | [Saturday & Sunday picks across Melbourne →](https://melbz.com.au/this-weekend)
-**Widget: Rate Your Suburb** | How's Collingwood feeling this week? [Rate it →](https://melbz.com.au/rate/collingwood)
-
----
-
-*Living in Collingwood? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=collingwood)*
 
 ## Related Articles
 
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/collingwood/hub](/collingwood/hub)
+- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
+- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
+- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
+- [Best Bars in Melbourne](/best-bars-melbourne)
+- [Cost of Living in Melbourne](/cost-of-living-melbourne)
+- [Transport Guide for Melbourne](/transport-guide-melbourne)
 
-*Find more Melbourne content at [melbz.com.au](/)*
+*Find more Melbourne suburb guides at [melbz.com.au](/)*
+

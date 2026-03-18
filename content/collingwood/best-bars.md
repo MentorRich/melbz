@@ -1,221 +1,72 @@
 ---
-title: "Best Bars in Collingwood 2026: Smith Street and Beyond"
-cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,bar,nightlife?lock=9342"
-date: 2026-03-16
+title: "Best Bars in Collingwood 2026"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+date: 2026-03-18
 author: lina
-tags: ["collingwood", "bars", "nightlife"]
-categories: ["nightlife"]
-description: "Best Bars in Collingwood 2026: Smith Street and Beyond
-
-Collingwood's bar scene runs on the same energy as the suburb itself — a little rough around the edge..."
----
-# Best Bars in Collingwood 2026: Smith Street and Beyond
-
-Collingwood's bar scene runs on the same energy as the suburb itself — a little rough around the edges, completely unpretentious, and absolutely refusing to be anything it's not. Smith Street has been Melbourne's bar corridor for well over a decade now, and in 2026 it's still delivering. But the real magic happens when you duck off the main strip into the side streets and laneways where the proper joints live.
-
-**Updated 16 March 2026 | 8 places tested | Lina Nguyen reporting**
-
-Collingwood's Vibe Score this week sits at **78/100** — solidly in "worth leaving the house for" territory.
-
+description: "From rooftop cocktails to neighbourhood pubs, the best bars in Collingwood for drinks, atmosphere, and good times."
+tags: ["collingwood", "best-bars"]
+categories: ["best"]
 ---
 
-## 1. Above Board
+*Updated 18 March 2026 | Nightlife Writer*
 
-**The vibe:** A cocktail bar that respects your intelligence. No glowing bottles, no mixology theatre — just a bloke behind a timber counter making some of the best drinks in Melbourne.
+# Best Bars in Collingwood 2026
 
-Hayden Lambert runs this place like a one-man operation, and the experience is closer to having a drink at a mate's house than standing at a commercial bar. The spirits are all decanted and kept out of sight — no brand logos competing for your attention. The cocktail list changes regularly and every drink earns its place.
+Collingwood's bar scene continues to evolve, offering everything from craft beer halls to sophisticated cocktail lounges. This inner-city suburb has cemented its reputation as a drinking destination where quality meets character, with venues that cater to every taste and occasion.
 
-**Order this:** Whatever Hayden recommends. Seriously. Tell him your vibe and let him work. Cocktails run $22–$26.
+## The Gem
 
-**Address:** Level 1, 306 Smith Street (access through Chopper Lane), Collingwood VIC 3066
+The Gem has been a Collingwood institution for years, and in 2026 it's still going strong at 225 Smith Street, Collingwood VIC 3066. This corner pub combines the best of traditional and contemporary drinking cultures. The front bar maintains its classic pub feel with pool tables and a buzzing atmosphere, while the back section offers a more refined experience with an extensive wine list and elevated bar snacks. Their beer garden out the back is one of the best in the area, perfect for those long Melbourne summer evenings.
 
-**Hours:** Wed–Sat from 5pm
+## Stomping Ground Brewing Co
 
-**Insider tip:** Enter through Chopper Lane behind Beermash — the unmarked door is the whole point. No bookings, walk-ins only. Arrive before 9pm on a Friday or you'll be waiting.
+At 100 Gipps Street, Collingwood VIC 3066, Stomping Ground Brewing Co remains a powerhouse in Melbourne's craft beer scene. Their massive warehouse space houses an impressive array of brewing equipment that you can see from the bar. The rotating tap list features their core range alongside experimental batches that push the boundaries of traditional brewing. The food menu has expanded to include wood-fired pizzas and share plates that pair perfectly with their beers. Their trivia nights and brewery tours continue to draw crowds, making it a hub for beer enthusiasts and casual drinkers alike.
 
----
+## Bar Liberty
 
-## 2. The Gasometer Hotel
+Bar Liberty at 234 Johnston Street, Fitzroy VIC 3065 (technically just over the Collingwood border) deserves a mention for its consistently excellent drinks program. This wine-focused bar has built a reputation for its natural wine selection and innovative cocktails. The team here has a knack for making even the most obscure wine varieties accessible and enjoyable. Their small but thoughtful food menu changes regularly, always designed to complement the drinks rather than overshadow them.
 
-**The vibe:** A bluestone pillar of Melbourne's live music scene that still draws real crowds on a Wednesday night. The Gaso is a pub in the old-fashioned sense — no cocktail menus, no degustation — just bands, beer, and a crowd that actually wants to be here.
+## The Bendigo
 
-The upstairs room hosts some of the best mid-week gigs in Melbourne. International acts play the small stage alongside local bands that haven't broken yet. The outdoor area up top catches the afternoon sun and has views straight down Smith Street toward the city.
+The Bendigo Hotel at 125 Johnston Street, Collingwood VIC 3066 has undergone a transformation in recent years, emerging as one of Collingwood's most exciting live music venues with a bar that matches its musical pedigree. The front bar offers a great selection of local beers and spirits, while the back hosts everything from punk shows to jazz nights. Their beer garden out the back is heated and covered, making it usable year-round.
 
-**Order this:** A pot of whatever's on special and a parma from the pub menu ($24). The Gaso's food is above-average pub fare — not fancy, just solid.
+## The Marquis of Lorne
 
-**Address:** 484 Smith Street, Collingwood VIC 3066
+The Marquis of Lorne at 75 Johnston Street, Collingwood VIC 3066 represents the perfect blend of old and new. This beautifully restored Victorian-era pub maintains its heritage features while offering a modern drinks list and menu. The front bar feels like stepping back in time, while the dining room out the back offers a more contemporary experience. Their whisky selection is particularly noteworthy, with rare bottles that attract enthusiasts from across Melbourne.
 
-**Hours:** Tue–Thu 4pm–midnight, Fri 4pm–3am, Sat 1pm–3am, Sun 1pm–midnight. Closed Mon.
+## Colliery
 
-**Insider tip:** Check their gig listings before you go. Thursday nights in the upstairs room with a $15 ticket and a cold beer is one of Melbourne's best-value nights out. The 86 tram runs right past the front door until 1am.
+Colliery at 67 Wellington Street, Collingwood VIC 3066 has quickly become a favourite since opening. This small bar focuses on Australian spirits and wines, with a cocktail list that showcases native ingredients. The intimate space features warm timber finishes and comfortable seating, making it perfect for long conversations over expertly crafted drinks. Their staff are knowledgeable without being pretentious, happy to guide you through their selection whether you're a spirits novice or a connoisseur.
 
----
+## The Gem Bar
 
-## 3. Fixation Brewing Co. — The Incubator
+Not to be confused with The Gem, The Gem Bar at 167 Hoddle Street, Collingwood VIC 3066 is a newer addition to the scene. This cocktail bar has gained a following for its creative drinks and late-night hours. The interior features a moody colour palette with plush seating and low lighting. Their signature cocktails often incorporate unexpected ingredients and techniques, while still remaining approachable and balanced.
 
-**The vibe:** An industrial warehouse where they take IPAs dead seriously. Fixation started small and won gold after gold at the Australian International Beer Awards before setting up their own brewpub on Smith Street. The Incubator is where you drink their beers straight from the tanks.
+## Collingwood Wine Room
 
-It's a proper brewery experience — stainless steel vats behind glass, concrete floors, long communal tables. No food truck vibes, just a focused taproom where the beer is the star. They rotate limited releases constantly, so there's always something you haven't tried.
+Collingwood Wine Room at 301 Smith Street, Collingwood VIC 3066 offers a more intimate wine bar experience. This small venue focuses on small-batch wines from around Australia and beyond. The owners have cultivated relationships with winemakers, often featuring limited releases you won't find elsewhere in Melbourne. The food menu is simple but well-executed, with a focus on cheese and charcuterie that pairs perfectly with their wines.
 
-**Order this:** The Fixation IPA is their flagship ($9/pint), but the limited-release single-hop series is where the real magic is. Tasting paddles available for $16–$18.
+## Planning Your Bar Crawl
 
-**Address:** 414 Smith Street, Collingwood VIC 3066
+When exploring Collingwood's bar scene, it's worth noting that many venues are within walking distance of each other. Starting at the Smith Street end and working your way toward Johnston Street allows you to experience a variety of atmospheres and drink styles. Most venues open around 3-4pm and stay open until late, though it's always wise to check individual opening hours.
 
-**Hours:** Mon–Fri 11am–10pm, Sat–Sun 11am–10pm
+The suburb's proximity to the CBD makes it an ideal destination for both locals and visitors. Public transport options are excellent, with trams and trains servicing the area. For those driving, be aware that parking can be challenging, especially on weekends.
 
-**Insider tip:** They do brewery tours on Saturdays ($25, includes a tasting paddle and a take-home glass). Book ahead — they sell out. Also worth grabbing cans from the fridge to take home — fresher than anything in the bottle shop down the road.
+## Beyond the Bars
 
----
+While Collingwood's bars are the main attraction, the area offers plenty of other dining and entertainment options. For those looking to extend their night out, check out the best restaurants in Melbourne or explore some of the best cafes in Melbourne for a morning-after recovery session. The suburb's creative community also means there's often art exhibitions, live music, or other cultural events happening alongside the bar scene.
 
-## 4. Beermash
+Whether you're after a casual beer, a sophisticated wine experience, or innovative cocktails, Collingwood's bar scene in 2026 offers something for everyone. The key is to explore beyond the obvious choices – some of the best experiences come from the venues that might not be on every "best of" list but have built loyal followings through consistent quality and unique character.
 
-**The vibe:** A brick-lined beer temple with 27 rotating taps and a bottle shop that'll make you late for whatever you were supposed to do next. Beermash has been on Smith Street since 2014 and it keeps getting better.
-
-The setup is genius — you grab a card, walk along the tap wall, and load up credits. Pour your own tasting paddle from any tap in the place. No waiting for a bartender to explain the difference between a saison and a gose. Just you, the taps, and your self-control.
-
-**Order this:** Start with a Victorian craft beer you haven't heard of, then work your way to the imported stuff. Pints from $9, schooners from $7.
-
-**Address:** 306 Smith Street, Collingwood VIC 3066
-
-**Hours:** Wed–Sun from 12pm. Closed Mon–Tue.
-
-**Insider tip:** Wednesday arvos are the sweet spot — quiet enough to chat with the staff about what's new, and they often crack open kegs that haven't made it to the tap wall yet. The bottle shop prices for takeaway are competitive with anywhere in Melbourne. Grab a four-pack of whatever you liked on tap.
-
----
-
-## 5. Nighthawks
-
-**The vibe:** An American-style dive bar that's exactly what it says on the tin. Pool table in the back, live music on weekends, a beer garden out back, and a "be nice or leave" sign that sets the tone perfectly.
-
-Nighthawks sits on Johnston Street just far enough from Smith Street to dodge the foot traffic crowds. The interior is dark timber and neon, the DJ booth is in the corner, and the crowd ranges from tradies knocking off their first post-work beer to the late-night crew who won't leave until last call. It's one of the few places in the inner north that still feels genuinely scrappy.
-
-**Order this:** A schooner of something cheap ($7–$9) or a bourbon and coke. This isn't a cocktail joint. The happy hour Wed–Fri, 4pm–6pm, is genuinely generous.
-
-**Address:** 136 Johnston Street, Collingwood VIC 3068
-
-**Hours:** Wed–Sun 4pm–1am. Closed Mon–Tue.
-
-**Insider tip:** Live music is Friday and Saturday nights, usually free entry. The beer garden out back is the place to be in summer — BYO sunscreen. The 86 tram stops right outside, which makes the 1am stumble home a lot easier than you'd expect. If you're heading to Nighthawks from Smith Street, take the lane between the shops — it's quicker and you'll pass some excellent street art along the way.
-
----
-
-## 6. The Grace Darling Hotel
-
-**The vibe:** A proper old-school pub that predates the craft beer revolution and somehow hasn't lost a step. The Grace Darling has been on Smith Street since before "gentrification" was a word anyone used in Collingwood, and it carries that history in its bones.
-
-The front bar is a classic Melbourne pub setup — long timber counter, no-nonsense bartenders, and a beer garden out back that fills up fast on summer arvos. Live music upstairs several nights a week, ranging from punk to folk to whatever genre-defying act they've booked this Thursday.
-
-**Order this:** A pot of Carlton Draught and a steak sandwich ($18). Or just the pot. No judgement.
-
-**Address:** 114 Smith Street, Collingwood VIC 3066
-
-**Hours:** Tue–Thu from 4pm, Fri–Sat from 12pm, Sun from 12pm. Closed Mon.
-
-**Insider tip:** The upstairs room has some of the best cheap live music in Melbourne — most gigs are $10–$20 entry and the sound system punches well above its weight. Check their Instagram before heading out; they don't always update their website. Happy hour runs 7pm–10pm with $6 pots.
-
----
-
-## 7. Caz Reitop's Dirty Secrets
-
-**The vibe:** A speakeasy that doesn't take itself too seriously. Down a side entrance on Smith Street, this basement bar has the low lighting and intimate seating you'd expect from the speakeasy playbook, but with an irreverent streak that keeps it from feeling contrived.
-
-The cocktail list changes with the seasons and leans toward the classics with a twist. The space is small — maybe 40 people — which is exactly the point. On a good night it feels like you're at a private party where everyone's having a better time than you.
-
-**Order this:** A classic negroni ($22) or ask for the off-menu special — they always have something interesting. The shared plates are decent if you're making a night of it.
-
-**Address:** 80 Smith Street, Collingwood VIC 3066
-
-**Hours:** Wed–Thu 5pm–11:30pm, Fri 5pm–midnight, Sat 12pm–midnight, Sun 12pm–10pm. Closed Mon–Tue.
-
-**Insider tip:** The downstairs room occasionally hosts stand-up comedy nights — check Eventbrite for listings. Arrive before 10pm on Friday or Saturday unless you want to queue. They also do a solid Sunday session with more relaxed vibes and cheaper prices.
-
----
-
-## 8. The Cordial Club (at Orlo)
-
-**The vibe:** A basement cocktail bar inside a converted 1880s cordial factory, and yes, they serve house-made cordials in vintage bottles. Orlo occupies the upper floors as a Mediterranean restaurant, but downstairs is where the party actually is.
-
-The Cordial Club is moody, subterranean, and exactly the kind of place where you lose track of time. The cocktails lean seasonal and botanical, with a wine list that actually respects what Victorian producers are doing. The courtyard out back opens up on warm nights and the whole place transforms into something that feels distinctly Collingwood — historic bones, modern energy.
-
-**Order this:** One of the seasonal cordials as a mixer or a standalone ($12–$16), or a proper cocktail ($22–$26). The natural wine list is worth exploring if you're into that.
-
-**Address:** 44 Oxford Street, Collingwood VIC 3066
-
-**Hours:** Tue 5pm–11pm, Wed–Sat 12pm–2:30pm and 5pm–11pm. Check their site for Sunday hours.
-
-**Insider tip:** The cordial bottles are the move — they look incredible on the table and taste even better. Ask for the one with the longest ingredient list. If you're dining at Orlo upstairs, you can carry your tab downstairs and keep drinking without re-ordering.
-
----
-
-## What We Skipped and Why
-
-**Hands Down (Greeves Street, Fitzroy):** Technically in Fitzroy, not Collingwood — though it's one block off Smith Street and shares the same drinking crowd. From the team behind Above Board and Bar Liberty, it opened in late 2025 with a Southern France/Northern Spain drinking vibe. Brilliant spot, but it's a Fitzroy address and we're keeping this list honest. If you're bar-hopping Smith Street, it's a five-minute walk — absolutely worth adding to your route.
-
-**The Birmingham Hotel (333 Smith Street):** The Brum is a solid pub with a good rooftop, but it sits just over the Fitzroy side of the border and reads more Fitzroy than Collingwood. We've covered it in our [Best Bars in Fitzroy guide](/melbourne/fitzroy/best-bars) instead.
-
-**Black Pearl (744a Elizabeth Street):** Just far enough from Smith Street that it doesn't really belong in a Collingwood list. More of a Fitzroy/Melbourne-wide cocktail conversation. Check our [Best Cocktail Bars in Melbourne](/melbourne/best-cocktail-bars) roundup for the full picture.
-
----
-
-## Getting Home Safe
-
-Collingwood's Smith Street corridor is well-served for late-night transport, but things thin out fast once you head east of Alexandra Parade.
-
-- **Trams:** The 86 tram runs down Smith Street until approximately 1am (later Fri–Sat). The 109 runs along Victoria Street, a 5-minute walk north.
-- **Night Network:** Melbourne's Night Network buses cover the inner suburbs from midnight to 5am on weekends.
-- **Rideshare:** Smith Street and Johnston Street are both reliable Uber/Ola pick-up points. Avoid hailing rides from narrow laneways — drivers can't find you.
-- **Walking:** The stretch of Smith Street between Johnston and Gertrude is well-lit and busy enough to feel safe most nights. After midnight, stick to main roads.
-
-**If you or someone you need help:** Call 000. Fitzroy Police Station is at 292 Smith Street, open 24 hours. VicRoads-assisted transport options are listed on our [Collingwood Transport Guide](/melbourne/collingwood/transport).
-
----
-
-## The Move
-
-> **🗺️ THE MOVE: The Smith Street Crawl**
->
-> Start at **Beermash** at 2pm for a tasting paddle. Walk north to **Fixation** for a fresh IPA. Duck into **Above Board** when it opens at 5pm (arrive early — the door's unmarked and the seats are few). Dinner break. Then **The Gaso** for live music upstairs. Cap the night at **Nighthawks** with a pool game and a bourbon. Total damage for six drinks: roughly $55–$70. That's Melbourne's best-value bar crawl and nobody's going to argue.
-
----
-
-## The Verdict
-
-Collingwood doesn't try to be fancy and that's exactly why its bar scene stays strong. While Fitzroy gets the Instagram hype and Richmond gets the footy crowds, Smith Street quietly delivers some of the best drinking in Melbourne — from a one-man cocktail bar hiding behind a laneway door to a warehouse where they're obsessed with IPAs.
-
-If you're planning a night out and want one recommendation: start at Above Board before 9pm, then let the night pull you where it wants. Smith Street rewards wandering.
-
-**Your Collingwood Vibe Score this week: 78/100** — Live music is thriving, new openings are keeping things fresh, and rent pressure hasn't pushed out the good spots yet.
-
----
-
-*Disagree with our picks? Think we missed your local? Tell us about it — we retest every six months.*
-
-*Was this article helpful? [👍 Yes] [👎 No] — your feedback shapes what we write next.*
-
-*🗳️ **POLL: What's the best time to hit Smith Street?**
-[A] Friday arvo, sun's out, beer garden season
-[B] Thursday night, live music, no weekend crowds
-[C] Saturday midnight, all bets are off
-[D] Sunday session, no plans, no regrets*
-
----
-
-*For more on Collingwood's food scene, check our [Best Restaurants in Collingwood 2026](/melbourne/collingwood/best-restaurants) guide. Planning your weekend? See [What's On This Weekend in Melbourne](/melbourne/whats-on-this-weekend). And if you're weighing whether Collingwood's actually worth the rent, our [Collingwood Cost of Living Breakdown](/melbourne/collingwood/cost-of-living) does the maths for you.*
-
----
-
-**Submit your Collingwood bar confession** 📩 *What's the worst date you've ever had at The Gaso? Did you lose a pool game at Nighthawks and never recover? Drop it in our [Confession Box](/confessions) — anonymity guaranteed, laughter not optional.*
-
----
-
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
 ## Related Articles
 
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/richmond/](/richmond/)
-- [/best-bars-melbourne/](/best-bars-melbourne/)
+- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
+- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
+- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
+- [Best Bars in Melbourne](/best-bars-melbourne)
+- [Cost of Living in Melbourne](/cost-of-living-melbourne)
+- [Transport Guide for Melbourne](/transport-guide-melbourne)
 
-*Find more Melbourne content at [melbz.com.au](/)*
+*Find more Melbourne suburb guides at [melbz.com.au](/)*
+

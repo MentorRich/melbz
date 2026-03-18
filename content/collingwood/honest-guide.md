@@ -1,6 +1,6 @@
 ---
 title: "Collingwood Honest Guide 2026: Smith Street & Real Talk"
-cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,street,city?lock=5393"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: jack
 tags: ["collingwood", "honest-guide", "lifestyle"]

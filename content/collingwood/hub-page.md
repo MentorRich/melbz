@@ -1,6 +1,6 @@
 ---
 title: "Collingwood: The Complete Suburb Profile 2026"
-cover_image: "https://loremflickr.com/800/600/Collingwood,melbourne,city,suburb?lock=489"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: jack
 tags: ["collingwood", "suburb-profile", "hub"]

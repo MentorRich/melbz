@@ -1,0 +1,27 @@
+# MELBZ Robot.txt
+# Generated: 2026-03-17
+
+User-agent: *
+Allow: /
+
+# Disallow admin/private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /search=
+
+# Sitemap location
+Sitemap: https://melbz.com.au/sitemap.xml
+
+# Googlebot special instructions
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 10
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 10
+
+# External links are not followed
+User-agent: *
+Disallow: /external/

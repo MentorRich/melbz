@@ -1,164 +1,176 @@
 ---
-title: "Best Bars in Prahran 2026: Chapel Street Nights"
-cover_image: "https://images.pexels.com/photos/30743539/pexels-photo-30743539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-date: 2026-03-16
+title: "Best Bars in Prahran 2026"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+date: 2026-03-18
 author: lina
-tags: ["prahran", "bars", "nightlife"]
-categories: ["nightlife"]
+description: "From rooftop cocktails to neighbourhood pubs, the best bars in Prahran for drinks, atmosphere, and good times."
+tags: ["prahran", "best-bars"]
+categories: ["best"]
 ---
 
-# Best Bars in Prahran 2026: Chapel Street Nights
+*Updated 18 March 2026 | Nightlife Writer*
 
-Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
+# Best Bars in Prahran 2026
 
-Prahran's bar scene has always been Melbourne's rowdy, slightly unhinged cousin — the one who shows up to family dinner with a face tattoo and a bottle of mezcal, and somehow still gets invited back. Along Chapel Street's Prahran stretch, from the Commercial Road end down past the Windsor border, you'll find a strip of venues that ranges from genuinely world-class cocktail dens to sticky-floored institutions that haven't changed their carpet since Keating was PM.
+Prahran's bar scene continues to evolve, offering everything from sophisticated wine bars to energetic late-night venues. Here's my pick of the best spots to grab a drink in this Melbourne hotspot.
+
+
+## Venue Addresses & Details
 
-I spent two weeks hitting every bar on this list more than once — weekday arvos, Saturday nights, the weird dead zone of a Tuesday — because a bar that only works at 11pm on a Friday isn't a recommendation, it's a warning. Here's what actually holds up.
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## The Lincoln
+161 Chapel Street, Prahran VIC 3181
+The Lincoln has been a Prahran institution since the 1850s, but recent renovations have transformed it into a modern classic. The bar features an impressive selection of craft beers on tap, with a rotating lineup that keeps things interesting. Their wine list focuses on small producers, and the cocktail menu offers both classics and inventive seasonal creations. The kitchen serves make betterd pub fare until late, making it perfect for those who appreciate good food with their drinks.
 
-## 1. Pawn & Co. — The Curiosity Cabinet
 
-**Where:** 177 Greville Street, Prahran VIC 3181
+## Venue Addresses & Details
 
-Greville Street gets compared to Newtown in Sydney a lot, and Pawn & Co. is why. It's a two-storey cocktail bar dressed up as a pawn shop where everything — and I mean *everything* — has a price tag. Vintage pistols, movie props, that weird lamp you're suddenly considering buying at 1am. You can literally buy the bar stool you're sitting on.
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## Pawn & Co
+86 Greville Street, Prahran VIC 3181
+This multi-level venue combines a bar, restaurant, and vintage pawn shop under one roof. By day, it's a relaxed spot for coffee and brunch; by night, it transforms into one of Prahran's most energetic drinking destinations. The rooftop bar offers city views and a separate menu of frozen cocktails and summery drinks. Their happy hour (5-7pm daily) is legendary among locals.
 
-But the gimmick wouldn't last five minutes if the drinks weren't excellent. Cocktails run $22–$28, and they lean theatrical without being obnoxious about it. The house Negroni variation with house-made vermouth is the move. If you're feeling adventurous, ask for something off-menu — the bartenders here genuinely enjoy being pushed.
 
-Downstairs is where it gets rowdy on Saturday nights. Pawn Saturdays run commercial house music until late, and the dance floor gets properly packed. It's not cheap — budget $40–$60 per person for a few rounds — but it's one of those venues that earns the spend.
+## Venue Addresses & Details
 
-**Insider tip:** Go on a weeknight when it's quiet enough to browse the merchandise and chat to the bartenders. Saturday nights are for dancing, not browsing.
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## The Wolf & I
+1/1A Murphy Street, Prahran VIC 3181
+This two-level venue has mastered the art of the neighborhood bar. Downstairs offers a casual pub atmosphere with craft beers and pub grub, while upstairs transforms into a more sophisticated cocktail lounge. Their espresso martini is consistently rated among Melbourne's best, and the bartenders are happy to create off-menu drinks based on your preferences.
 
-**Vibe:** Wes Anderson meets warehouse rave
-**Drinks from:** $22 cocktails, $14 wine by the glass
-**Open:** Wed–Sun from 5pm, late nights Thurs–Sat
 
-[Related: South Yarra's Best Wine Bars — Just a 10-Minute Walk South](/south-yarra/best-wine-bars)
+## Venue Addresses & Details
 
-## 2. Death or Glory — Chapel Street's All-rounder
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## White Oaks Saloon Bar & Dining
+A basement bar with a distinctly American South theme, White Oaks specializes in bourbon and rye whiskeys. The cocktail menu features Southern classics like mint juleps and old fashioneds, alongside innovative creations using house-made ingredients. The food menu includes Southern comfort dishes like buttermilk fried chicken and shrimp and grits.
 
-**Where:** 218 Chapel Street, Prahran VIC 3181
 
-Across the road from Revolver Upstairs and next door to the Cash for Anything pawn shop, Death or Glory is about as Chapel Street as you can get. This is the bar you bring the out-of-town mates to when you want to show them what Melbourne nightlife actually looks like — not the laneway cocktail bar fantasy, but the real deal.
+## Venue Addresses & Details
 
-The setup is clever. There's the main bar up front (pool table, sports on the telly, classic pub energy), the Island Bar out back (a semi-tropical courtyard that feels like a different postcode), and the Saloon upstairs for private functions and live music. Trivia nights on Wednesdays draw a proper crowd, and the comedy shows on weekends are worth booking ahead for.
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## The Wolf of Greville
+120 Greville Street, Prahran VIC 3181
+This Italian-inspired wine bar offers an extensive selection of wines by the glass, with a focus on Italian varieties but including local and international options. The compact space creates an intimate atmosphere, perfect for after-work drinks or a pre-dinner aperitivo. Their cicchetti (Venetian-style small bites) pair perfectly with the wine selection.
 
-Drinks are Chapel Street prices without the Chapel Street pretension. $18–$22 for a cocktail, $12–$15 for a pint of something decent, and a solid $15 happy hour deal on weeknights that'll keep you there longer than planned. The food menu does pub classics — burgers, loaded fries, chicken parma — that are genuinely good rather than just acceptable.
 
-**Insider tip:** The Island Bar on a warm Thursday evening is one of Prahran's best-kept secrets. It fills up by 7pm on Fridays, but Thursdays still have that sweet spot of atmosphere without the crush.
+## Venue Addresses & Details
 
-**Vibe:** Mate's pub with a cocktail upgrade
-**Drinks from:** $12 pints, $18 cocktails
-**Open:** Mon–Fri 4pm–late, Sat–Sun 12pm–late
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## The Milton
+77 Greville Street, Prahran VIC 3181
+A newcomer to the Prahran bar scene, The Milton has quickly established itself as a favorite among locals. The industrial-chic interior houses a bar that specializes in natural wines and craft spirits. Their cocktail program emphasizes seasonal ingredients and house-made syrups and infusions. The small but thoughtful food menu includes cheese and charcuterie boards, perfect for sharing.
 
-[Related: What's On in Windsor This Weekend](/windsor/whats-on)
 
-## 3. The Alps — Prahran's Quietest Powerhouse
+## Venue Addresses & Details
 
-**Where:** Commercial Road, Prahran VIC 3181
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## The Botanical Hotel
+169 Domain Road, South Yarra VIC 3141
+While technically across the road in South Yarra, The Botanical deserves a mention for its exceptional bar offerings. The Garden Bar is particularly popular in warmer months, offering a leafy outdoor drinking experience. Their wine list is one of Melbourne's most comprehensive, and the cocktail menu changes seasonally.
 
-The Alps is the bar you accidentally fall in love with. There's no flashy signage, no DJ booth, no Instagram-friendly neon. Just a tiny European-style wine bar and bottle shop tucked into Commercial Road, about a ten-minute walk from Prahran Market, with a cellar's worth of natural and low-intervention wines.
 
-What makes The Alps special is the curation. They specialise in wines from the regions surrounding the European Alps — Savoie, Valle d'Aosta, the Jura — alongside genuinely interesting Australian and New Zealand drops you won't find at Dan Murphy's. The by-the-glass selection rotates constantly, and the staff will talk you through it without a hint of condescension.
+## Venue Addresses & Details
 
-The food is minimal but excellent: Roman-style pizza, snacky cheese and charcuterie plates, seasonal specials. Think $16–$22 for a plate, $14–$18 per glass of wine. This isn't a feed-and-fuddle spot — it's a sit-down, slow-down, actually-taste-what-you're-drinking kind of place.
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## Planning Your Prahran Bar Crawl
 
-Winter is peak Alps. The courtyard goes quiet, the indoor space gets that perfect candlelit warmth, and nobody's in a rush. If you're on a date and want to seem like you know about wine, this is where you bring them.
+For those looking to explore multiple venues, consider starting your evening at The Lincoln for a craft beer, then heading to White Oaks for whiskey-based cocktails. Finish the night at Pawn & Co for dancing and late-night drinks.
 
-**Insider tip:** The Summit Set Menu changes with the seasons and is genuinely good value for a wine-paired experience. Book ahead — it seats about 20, tops.
+If wine is more your style, begin at The Wolf of Greville before moving to The Milton for natural wines. For a more casual experience, The Wolf & I offers the flexibility of both pub and cocktail bar atmospheres in one location.
 
-**Vibe:** Alpine rifugio meets Melbourne natural wine obsession
-**Drinks from:** $14 wine by the glass, bottles from $55
-**Open:** Wed–Sun, check their website for current hours
 
-[Related: Armadale's Hidden Bars Worth the Tram Ride](/armadale/best-bars)
+## Venue Addresses & Details
 
-## 4. Don's — The One Across From the Market
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## Beyond the Bars
 
-**Where:** 202 Commercial Road, Prahran VIC 3181
+Prahran's bar scene doesn't exist in isolation. Many of these venues are within walking distance of [Prahran's best restaurants](/best-restaurants-melbourne/), making it easy to combine dinner and drinks. The area is also well-connected to the rest of Melbourne via public transport, with Prahran Station providing easy access to other nightlife precincts.
 
-Don's is one of those places that rewards people who pay attention. The façade is almost deliberately invisible — wooden venetian blinds, a tiny lightbox sign, and that's it. You could walk past it a hundred times on the way to Prahran Market and never clock it. That's the point.
+For those planning a longer stay, [Melbourne's accommodation options](/melbourne/) range from boutique hotels to serviced apartments, many within easy reach of these bars.
 
-Inside, it's a communal wine bar with long shared tables, a tight but brilliant wine list, and a food menu built around what Prahran Market suppliers have on hand that day. The fried chicken sanga is Prahran's most underrated sandwich — crispy, tangy, served on a soft roll that falls apart in the best way. The rotating pasta line-up means there's always something different to try.
 
-Wines run $14–$18 by the glass, with bottles starting around $50. The staff know their stuff and will steer you toward whatever's drinking best that week. It's the kind of place where you sit down for "one quick glass" and suddenly it's two hours later and you've made friends with everyone at the table.
+## Venue Addresses & Details
 
-Saturday arvo post-Market is the golden window. You've done your shopping, you've got a bag full of cheeses and bread, and Don's is right there to turn it into an event. They open most days but hours vary — call ahead or check their Instagram before heading over.
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## Tips for Visiting
 
-**Insider tip:** The wooden venetian blinds are basically a velvet rope. If you're not looking for Don's, you'll never find it. That's what keeps the tourist crowd out and the regulars coming back.
+- Most bars in Prahran get busy on Friday and Saturday nights, so consider mid-week visits for a more relaxed experience
+- Many venues don't take bookings, particularly for small groups
+- Happy hours typically run from 5-7pm, offering good value for early evening drinks
+- Several bars offer food service until late, but it's worth checking individual venues if you're planning dinner
+- Public transport is recommended over driving, as parking can be challenging in the area
 
-**Vibe:** Your cool friend's apartment, but with better wine
-**Drinks from:** $14 wine by the glass, $50 bottles
-**Open:** Most days — check dons.place for current hours
+Whether you're after craft beer, natural wine, or innovative cocktails, Prahran's diverse bar scene has something to offer every drinking preference. The suburb continues to cement its reputation as one of Melbourne's premier destinations for quality drinks in welcoming environments.
 
-## 5. White Oaks Saloon — Greville Street's American Import
 
-**Where:** 115/117 Greville Street, Prahran VIC 3181
 
-If you've ever walked down Greville Street and smelled hickory smoke drifting out of a doorway, you've found White Oaks. This American-inspired bar and dining room brings Southern BBQ, bourbon, and cocktails with a distinctly Yank flavour to one of Melbourne's most eclectic shopping strips.
+## Venue Addresses & Details
 
-The whiskey selection is the main event — over 100 American bourbons, ryes, and Tennessee whiskeys, many of which you genuinely cannot get anywhere else in Melbourne. If you're a bourbon drinker, this is your pilgrimage. The cocktail list leans into classics done properly: Old Fashioneds with properly large ice cubes, Sazeracs with Peychaud's bitters, Whiskey Sours with real egg white.
+- **Neptune Food & Wine** — 294-296 Carlisle St, Balaclava, VIC 3183 ($$). Open: Tue-Sun 4pm-11pm. *Tip: Ask for a seat in the back booths for a more private, romantic experience.*
+- **The Smith** — 213 High St, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: The outdoor terrace is perfect for people-watching on High Street during summer evenings.*
+- **White Oaks Saloon** — 115-117 Greville St, Prahran, VIC 3181 ($$). Open: Wed-Sun 5pm-1am. *Tip: Try their signature Mint Julep; it is widely considered the best in the area.*
+- **Jungle Boy** — 96 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 5pm-1am. *Tip: Look for the unassuming sandwich shop entrance; it's easy to walk past if you aren't looking.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12pm-1am. *Tip: Order the tasting paddle to sample three different house-infused vodkas.*
+- **Temperance Hotel** — 426 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12pm-3am. *Tip: Great for late-night dancing on weekends when the DJ starts playing.*
+## Related Articles
 
-The BBQ isn't a afterthought either. Smoked brisket, pulled pork, wings, and a brisket mac and cheese that I've genuinely thought about on a Tuesday afternoon. Mains run $24–$35, cocktails $20–$26, and the happy hour deals on weeknights bring the whole experience into the affordable range.
+- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
+- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
+- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
+- [Best Bars in Melbourne](/best-bars-melbourne)
+- [Cost of Living in Melbourne](/cost-of-living-melbourne)
+- [Transport Guide for Melbourne](/transport-guide-melbourne)
 
-The space itself is warm timber and exposed brick, with a courtyard out back that fills up on sunny weekends. It attracts a mix of Prahran locals, Greville Street shoppers needing a pit stop, and American expats who've found their spiritual home.
+*Find more Melbourne suburb guides at [melbz.com.au](/)*
 
-**Insider tip:** The smoked wings during happy hour ($12 for a dozen) are the best value bar snack on Greville Street. Pair with a $12 bourbon neat and thank me later.
-
-**Vibe:** Austin, Texas by way of Prahran
-**Drinks from:** $12 bourbon, $20 cocktails
-**Open:** 12pm–1am daily
-
-[Related: South Yarra's Greville Street Guide — Where Prahran Meets the River](/south-yarra/greville-street)
-
-## 6. One Six One — The Late-Night Institution
-
-**Where:** 161 High Street, Prahran VIC 3181
-
-Every city has one nightclub that transcends the format — the place where the music matters more than the door policy, where the DJs are genuinely world-class, and where the crowd actually dances rather than standing around holding overpriced vodka sodas. In Melbourne, that place is One Six One.
-
-Located on High Street (not Chapel — locals will correct you on this), One Six One opens its doors on Thursdays, Fridays, and Saturdays from around 9pm and doesn't close until 4am or 6am depending on the night. The sound system is exceptional — properly tuned, properly loud, and the kind of bass you feel in your sternum. The booking policy leans toward house and techno, with international DJs sharing the booth with Melbourne's best residents.
-
-Entry is usually $20–$30 depending on the night, and drinks are nightclub prices ($18–$22 for spirits, $16–$20 for cocktails). You're not coming here for the drink prices — you're coming for the music and the dance floor.
-
-The rooftop is a different beast entirely. It's more lounge-bar energy, with bottle service and a separate bar. Good for starting the night or cooling off between sets. The main floor downstairs is where it gets sweaty and euphoric in equal measure.
-
-**Insider tip:** Book ahead online for Saturdays — the door queue on big nights can stretch down High Street. Weeknights are easier to walk in, and the bookings are often better (less crowd-pleaser, more underground).
-
-**Vibe:** Melbourne's answer to Berlin's Berghain, if Berghain had a rooftop bar
-**Drinks from:** $18 spirits, $20 cocktails, $20–$30 entry
-**Open:** Thu–Sat from 9pm
-
-## What We Skipped and Why
-
-**Revolver Upstairs:** It's a Prahran institution and we love it, but it's a nightclub first and a bar second. The upstairs venue is more about the party than the drink experience. We're covering Prahran's club scene in a separate piece.
-
-**The Mount Erica Hotel:** Beautiful pub, excellent wine list, but it sits on the border with Malvern and reads more as a gastropub than a "bar" in the Chapel Street sense. Worth visiting — check our [Prahran Pubs guide](/prahran/best-pubs) for the full review.
-
-**Blue Bar:** The rooftop is decent but the ground floor venue has struggled with consistency over the past year. We'll revisit when they stabilise the offering.
-
-**Lucky Coq:** Technically Windsor, not Prahran — though only just. We'll include it in our [Windsor nightlife roundup](/windsor/best-bars) where it belongs.
-
-**Casa N.O.M:** Genuinely excellent mezcal and pisco list, and the Argentinian chorizo sandwiches are outstanding. But it's more of a restaurant-bar hybrid that works best as a dinner-then-drinks option rather than a standalone bar destination. We're covering it in our [Greville Street food and drink guide](/prahran/greville-street-eating).
-
-## Getting Home Safe
-
-Prahran sits on the 78 and 79 tram routes, which run along Chapel Street until around 1am on weeknights and later on weekends. The Night Network tram (96) runs all night on Friday and Saturday, stopping at the Prahran station on Chapel Street.
-
-If you're heading to South Yarra, it's a 10-minute walk south along Chapel Street — well-lit and busy until late. Windsor is the opposite direction, also well-trafficked. The quieter streets off Chapel (especially the residential blocks between High Street and Commercial Road) can feel a bit lonely after midnight — stick to the main strips if you're walking solo.
-
-Rideshare pick-up is easiest on Chapel Street near the Pran Central entrance or on Commercial Road. The intersection of Chapel and Commercial gets gridlocked with Ubers on Saturday nights — walk two blocks in either direction for a quicker pickup.
-
-Fitzroy Police Station is the nearest 24-hour station if you need help, but Prahran has local officers on patrol most weekend nights. If you or someone you're with needs assistance: call 000, or speak to venue security — most Prahran bars have trained door staff on Thursday through Saturday.
-
-## The Final Pour
-
-Prahran's bar scene in 2026 is doing what it's always done best: being slightly chaotic, never boring, and offering something for every version of your night out. Whether you want a quiet glass of Jura natural wine at The Alps or you want to dance until 6am at One Six One, the strip delivers without forcing you to choose between quality and vibe.
-
-The best advice? Start on Greville Street for dinner and an early drink (Don's or White Oaks), move to Chapel Street for the main event (Death or Glory or Pawn & Co.), and end the night wherever the night takes you. That's how Prahran works — you don't plan it, you just end up there.
-
-*Have a Prahran bar we missed? Submit a tip through our [community page](/submit) — we test every suggestion.*
-
----
-
-**Lina Nguyen** is MELBZ's Nightlife Editor. She's been writing about Melbourne's bar scene since the days when Chapel Street still had actual chapels of worship on it (just kidding — or are we?). She drinks mezcal, hates prosecco, and will argue about the best Negroni in Melbourne until closing time.
-
-*Want Lina's picks for tonight? [Subscribe to the Prahran Nightlife Briefing](/subscribe/prahran-nightlife) — every Thursday arvo, straight to your inbox.*

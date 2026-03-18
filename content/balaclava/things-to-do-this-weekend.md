@@ -1,14 +1,15 @@
 ---
 title: "Things To Do This Weekend in Balaclava — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "maya"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the things to do this weekend in Balaclava. Our verified 2026 guide covers the best spots for locals."
+tags: ["balaclava"]
+categories: ["things"]
 ---
-
 ## The Best Things To Do This Weekend in Balaclava
 
 Balaclava doesn't scream for attention the way its louder neighbours do — St Kilda flogs itself on Instagram, Elsternwick clings to brunch culture, and Caulfield brags about its racecourse. Balaclava just quietly delivers, weekend after weekend, along a single strip that punches well above its weight.
@@ -108,3 +109,13 @@ Getting home late on Saturday? Night Network trains run on the Sandringham line,
 - [Elsternwick — 2026 Local Guide](/elsternwick/neighbourhood-guide)
 
 Living in Balaclava? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=balaclava)
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/st-kilda/](/st-kilda/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/carlton/](/carlton/)
+- [/balaclava/](/balaclava/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

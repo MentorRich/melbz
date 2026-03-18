@@ -5,8 +5,12 @@ date: 2026-03-16
 author: isabella
 tags: ["south-yarra", "weekend", "lifestyle"]
 categories: ["lifestyle"]
----
+description: "South Yarra Weekend Guide 2026: Chapel Street & Beyond
 
+Updated 16 March 2026 | Isabella Greco reporting
+
+South Yarra has always been Melbourne's most confid..."
+---
 # South Yarra Weekend Guide 2026: Chapel Street & Beyond
 
 *Updated 16 March 2026 | Isabella Greco reporting*
@@ -208,3 +212,13 @@ South Yarra doesn't beg for your attention. It knows you'll come back.
 - [The Complete Autumn Food Guide: What's Opening in Melbourne March 2026](/blog/autumn-food-guide-march-2026)
 - [Prahran vs South Yarra: Which Suburb Actually Has Better Brunch?](/blog/prahran-vs-south-yarra-brunch)
 - [10 Melbourne Walks Under 5km That Don't Feel Like Exercise](/blog/melbourne-walks-under-5km)
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

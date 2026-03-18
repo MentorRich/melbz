@@ -80,3 +80,20 @@ The key is managing expectations. You're not going to discover the next big brun
 *Priya Sandhu believes that $18 is the new normal for brunch and has accepted her fate. She still hasn't found the perfect avo in Southbank, but Brolly gets closest.*
 
 Updated 2026-03-17 | Priya Sandhu reporting
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/southbank/](/southbank/)
+- [/southbank/hub](/southbank/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*
+
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

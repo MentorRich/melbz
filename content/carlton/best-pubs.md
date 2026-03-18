@@ -5,8 +5,12 @@ date: 2026-03-16
 author: kai
 tags: ["carlton", "pubs", "beer"]
 categories: ["nightlife"]
----
+description: "Best Pubs in Carlton 2026: Where the Locals Drink
 
+Updated 16 March 2026 | 8 places tested | Kai Thompson reporting
+
+Carlton has always been Melbourne's univ..."
+---
 # Best Pubs in Carlton 2026: Where the Locals Drink
 
 Updated 16 March 2026 | 8 places tested | Kai Thompson reporting
@@ -181,3 +185,13 @@ If you're working your way through Melbourne's pub scene suburbs by suburb, chec
 - [Best Pubs in Fitzroy 2026](/best-pubs-fitzroy-2026)
 - [Best Pubs in Collingwood 2026](/best-pubs-collingwood-2026)
 - [Carlton Food Guide 2026](/carlton-food-guide-2026)
+
+## Related Articles
+
+- [/richmond/](/richmond/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/brunswick/](/brunswick/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

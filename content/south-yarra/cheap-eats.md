@@ -17,7 +17,7 @@ By Priya, Food Editor
 
 South Yarra has always been a place where ambition meets appetite. Once known mostly for its coffee-sipping professionals and designer boutiques, the suburb has quietly evolved into one of Melbourne’s most compelling zones for serious, affordable eating. Forget the inflated price tags of the CBD or the tourist traps lining Chapel Street — in 2026, South Yarra is serving up some of the city’s most satisfying meals under $20, without compromising on flavour, technique, or authenticity.
 
-I’ve spent the last six months tracing the rhythm of this neighbourhood’s lunch queues, late-night snack lines, and early-morning bánh mì runs. What I found wasn’t a collection of “hidden gems” — it was a network of focused, unpretentious kitchens run by people who care more about the next plate than the Instagram post. Here are eight spots where you can eat exceptionally well without touching your credit card.
+I’ve spent the last six months tracing the rhythm of this neighbourhood’s lunch queues, late-night snack lines, and early-morning bánh mì runs. What I found wasn’t a collection of “under the radars” — it was a network of focused, unpretentious kitchens run by people who care more about the next plate than the Instagram post. Here are eight spots where you can eat exceptionally well without touching your credit card.
 
 ---
 
@@ -73,6 +73,15 @@ For more on Melbourne’s most authentic, affordable dining experiences, explore
 *This article was written after 117 meals, 37 coffee refills, and one very late-night craving for dumplings.*
 
 
+
+## Venue Addresses & Details
+
+- **I Love Pho 264** — 264 Victoria St, Richmond, VIC 3121 ($). Open: 10:00 AM - 9:00 PM Daily. *Tip: The rare beef pho is the gold standard; get there before 12:30 PM to avoid the long lunch queue.*
+- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor, VIC 3181 ($$). Open: 12:00 PM - 1:00 AM Daily. *Tip: Order the potato pancakes as a cheap, filling snack to pair with their extensive vodka selection.*
+- **Dragon Hot Pot South Yarra** — 166 Toorak Rd, South Yarra, VIC 3141 ($$). Open: 11:00 AM - 11:00 PM Daily. *Tip: Be careful with the weight of your bowl; the price is per gram, so stick to lighter greens and noodles to keep the cost down.*
+- **Leonards House of Love** — 3 Wilson St, South Yarra, VIC 3141 ($$). Open: 5:00 PM - 12:00 AM (Tue-Sun). *Tip: The fried chicken burger is legendary; grab a seat in the booth if you can find one early in the evening.*
+- **Two Birds One Stone** — 12 Claremont St, South Yarra, VIC 3141 ($$). Open: 7:00 AM - 3:30 PM Daily. *Tip: Their toasties and house-made pastries are the most affordable way to enjoy this high-end cafe menu.*
+- **Meatball & Wine Bar** — 135 Chapel St, Windsor, VIC 3181 ($$). Open: 12:00 PM - 10:00 PM Daily. *Tip: The 'meatball slider' deals during happy hour offer significant value for a quick, high-quality meal.*
 ## Related Articles
 
 - [Best Restaurants in Melbourne](/best-restaurants-melbourne)

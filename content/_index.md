@@ -1,5 +1,6 @@
 ---
 title: "MELBZ — We Know Your Suburb Better Than You Do"
+cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
 description: "Melbourne moves fast. Venues open, close, and get replaced by another dumpling house before you've finished your flat white. MELBZ tracks all of it — 321 suburbs, thousands of venues, updated daily by 50 locals who argue about this city for a living."
 ---
 

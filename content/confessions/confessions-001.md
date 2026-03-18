@@ -1,5 +1,6 @@
 ---
 title: "20 Melbourne Confessions That Will Make You Feel Personally Attacked"
+cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 suburb: melbourne
 vertical: culture
 author: "freya"
@@ -8,10 +9,11 @@ author_image: "/images/authors/lina.jpg"
 updated: 2026-03-14
 description: "Anonymous confessions from Melburnians. The things we think but never say out loud. #melbzconfessions"
 keywords: ["melbourne confessions", "melbourne funny", "melbourne relatable", "melbz confessions", "melbourne life"]
-cover_image: "/images/melbourne-confessions-hero.jpg"
 cover_alt: "Melbourne laneway scene capturing the city's anonymous confessional energy"
+date: 2026-03-18
+tags: ["confessions"]
+categories: ["general"]
 ---
-
 We asked Melbourne to confess. Melbourne delivered. These are real, anonymous, and deeply unhinged.
 
 **#melbzconfessions** — Submit yours at the bottom.
@@ -83,3 +85,22 @@ We asked Melbourne to confess. Melbourne delivered. These are real, anonymous, a
 **Got a confession?** DM us on Instagram [@melbzhq](https://instagram.com/melbzhq) or email confessions@melbz.com.au. Anonymous. Always.
 
 *More confessions drop every Monday. [Subscribe to the Monday brief](/newsletter/) so you never miss them.*
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/footscray/](/footscray/)
+- [/brunswick/](/brunswick/)
+
+*Find more Melbourne content at [melbz.com.au](/)*
+
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

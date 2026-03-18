@@ -14,6 +14,14 @@ categories: ["best"]
 
 South Yarra's cafe scene continues to evolve in 2026, with innovative newcomers joining beloved institutions to create one of Melbourne's most dynamic breakfast destinations. From heritage-listed buildings housing third-wave coffee roasters to experimental brunch spots pushing culinary boundaries, this stylish suburb offers something for every palate and preference.
 
+
+## Venue Addresses & Details
+
+- **Two Birds One Stone** — 12 Claremont St, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: The corn fritters are a local staple; arrive before 10 AM on weekends to avoid the queue.*
+- **Abacus Bar & Kitchen** — 383 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 7:30 AM - 10:00 PM. *Tip: Perfect for a long brunch that transitions seamlessly into afternoon cocktails.*
+- **Darling Cafe** — 265 Punt Rd, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:30 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:30 PM. *Tip: Try the signature hot cakes; they are highly Instagrammable and generous in portion size.*
+- **Lawson Grove Shop** — 1 Lawson Grove, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: Sit outside on the sidewalk tables for the quintessential 'hidden South Yarra' experience.*
+- **Clement Coffee Roasters** — 161 Commercial Rd, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat-Sun 8:00 AM - 3:00 PM. *Tip: This is the place to go if you are a coffee purist; ask the baristas about their current single-origin rotation.*
 ## The Breakfast Club South Yarra
 **Shop 1/123 Commercial Road, South Yarra VIC 3141**
 
@@ -21,6 +29,14 @@ The Breakfast Club has cemented its status as a South Yarra institution since op
 
 What sets The Breakfast Club apart is their commitment to sustainability, with a zero-waste kitchen philosophy that extends to their coffee program. They roast their own beans on-site, and their baristas have earned a reputation for creating consistently excellent brews. The light-filled space, with its terrazzo countertops and hanging plants, provides the perfect backdrop for everything from solo coffee catch-ups to family gatherings.
 
+
+## Venue Addresses & Details
+
+- **Two Birds One Stone** — 12 Claremont St, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: The corn fritters are a local staple; arrive before 10 AM on weekends to avoid the queue.*
+- **Abacus Bar & Kitchen** — 383 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 7:30 AM - 10:00 PM. *Tip: Perfect for a long brunch that transitions seamlessly into afternoon cocktails.*
+- **Darling Cafe** — 265 Punt Rd, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:30 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:30 PM. *Tip: Try the signature hot cakes; they are highly Instagrammable and generous in portion size.*
+- **Lawson Grove Shop** — 1 Lawson Grove, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: Sit outside on the sidewalk tables for the quintessential 'hidden South Yarra' experience.*
+- **Clement Coffee Roasters** — 161 Commercial Rd, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat-Sun 8:00 AM - 3:00 PM. *Tip: This is the place to go if you are a coffee purist; ask the baristas about their current single-origin rotation.*
 ## Stables of South Yarra
 **Rear 150 Toorak Road, South Yarra VIC 3141**
 
@@ -28,20 +44,44 @@ Housed in a converted 1920s stable, Stables of South Yarra brings a touch of rus
 
 The coffee here deserves special mention. They source single-origin beans from small Australian roasters and rotate their offerings weekly, ensuring regulars always have something new to try. Their cold brew program has expanded significantly in 2026, with nitrogen-infused options now available on tap.
 
+
+## Venue Addresses & Details
+
+- **Two Birds One Stone** — 12 Claremont St, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: The corn fritters are a local staple; arrive before 10 AM on weekends to avoid the queue.*
+- **Abacus Bar & Kitchen** — 383 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 7:30 AM - 10:00 PM. *Tip: Perfect for a long brunch that transitions seamlessly into afternoon cocktails.*
+- **Darling Cafe** — 265 Punt Rd, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:30 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:30 PM. *Tip: Try the signature hot cakes; they are highly Instagrammable and generous in portion size.*
+- **Lawson Grove Shop** — 1 Lawson Grove, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: Sit outside on the sidewalk tables for the quintessential 'hidden South Yarra' experience.*
+- **Clement Coffee Roasters** — 161 Commercial Rd, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat-Sun 8:00 AM - 3:00 PM. *Tip: This is the place to go if you are a coffee purist; ask the baristas about their current single-origin rotation.*
 ## Little Green Spoon
 **456 Chapel Street, South Yarra VIC 3141**
 
-Little Green Spoon has quickly become the go-to spot for health-conscious brunchers who refuse to compromise on flavor. Their entirely plant-based menu proves that vegan dining can be both indulgent and innovative. The "Green Garden Bowl" - a vibrant assembly of seasonal vegetables, fermented elements, and house-made nut cheeses - has developed a cult following, while their "Scrambled Turmeric Tofu" with black sesame crust and avocado rose demonstrates serious culinary technique.
+Little Green Spoon has quickly become the go-to spot for health-conscious brunchers who refuse to compromise on flavor. Their entirely plant-based menu proves that vegan dining can be both indulgent and innovative. The "Green Garden Bowl" - a packed assembly of seasonal vegetables, fermented elements, and house-made nut cheeses - has developed a cult following, while their "Scrambled Turmeric Tofu" with black sesame crust and avocado rose demonstrates serious culinary technique.
 
 The space itself feels like a greenhouse, with floor-to-ceiling windows and an abundance of hanging plants creating a serene dining environment. Their smoothie program has expanded to include adaptogenic blends and house-pressed juices, making it a popular spot for post-workout refueling.
 
+
+## Venue Addresses & Details
+
+- **Two Birds One Stone** — 12 Claremont St, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: The corn fritters are a local staple; arrive before 10 AM on weekends to avoid the queue.*
+- **Abacus Bar & Kitchen** — 383 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 7:30 AM - 10:00 PM. *Tip: Perfect for a long brunch that transitions seamlessly into afternoon cocktails.*
+- **Darling Cafe** — 265 Punt Rd, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:30 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:30 PM. *Tip: Try the signature hot cakes; they are highly Instagrammable and generous in portion size.*
+- **Lawson Grove Shop** — 1 Lawson Grove, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: Sit outside on the sidewalk tables for the quintessential 'hidden South Yarra' experience.*
+- **Clement Coffee Roasters** — 161 Commercial Rd, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat-Sun 8:00 AM - 3:00 PM. *Tip: This is the place to go if you are a coffee purist; ask the baristas about their current single-origin rotation.*
 ## The Pantry South Yarra
 **789 Williams Road, South Yarra VIC 3141**
 
-The Pantry South Yarra has mastered the art of the neighborhood cafe, offering a warm, welcoming atmosphere that feels like an extension of the local community. Their all-day breakfast menu features elevated classics executed with precision - the smashed avocado comes with whipped feta, pickled radish, and a sprinkle of dukkah that adds textural interest. Their "Pantry Breakfast" remains a bestseller, combining free-range eggs, house-made sausages, and slow-roasted tomatoes on sourdough.
+The Pantry South Yarra has mastered the art of the neighborhood cafe, offering a warm, welcoming atmosphere that feels like an extension of the local community. Their all-day breakfast menu features raise the standardd classics executed with precision - the smashed avocado comes with whipped feta, pickled radish, and a sprinkle of dukkah that adds textural interest. Their "Pantry Breakfast" remains a bestseller, combining free-range eggs, house-made sausages, and slow-roasted tomatoes on sourdough.
 
 What makes The Pantry special is their attention to detail in every aspect of service. Their coffee is consistently excellent, with baristas who remember regulars' preferences. The team has also introduced a "breakfast happy hour" from 7-9am on weekdays, offering discounted coffee and pastries to early risers.
 
+
+## Venue Addresses & Details
+
+- **Two Birds One Stone** — 12 Claremont St, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: The corn fritters are a local staple; arrive before 10 AM on weekends to avoid the queue.*
+- **Abacus Bar & Kitchen** — 383 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 7:30 AM - 10:00 PM. *Tip: Perfect for a long brunch that transitions seamlessly into afternoon cocktails.*
+- **Darling Cafe** — 265 Punt Rd, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:30 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:30 PM. *Tip: Try the signature hot cakes; they are highly Instagrammable and generous in portion size.*
+- **Lawson Grove Shop** — 1 Lawson Grove, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: Sit outside on the sidewalk tables for the quintessential 'hidden South Yarra' experience.*
+- **Clement Coffee Roasters** — 161 Commercial Rd, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat-Sun 8:00 AM - 3:00 PM. *Tip: This is the place to go if you are a coffee purist; ask the baristas about their current single-origin rotation.*
 ## Corner Shop Cafe
 **321 Claremont Street, South Yarra VIC 3181**
 
@@ -49,6 +89,14 @@ Corner Shop Cafe has reinvented itself for 2026 with a complete menu overhaul th
 
 The cafe's corner location provides excellent people-watching opportunities, while the interior's warm timber tones and soft lighting create a cozy atmosphere. Their coffee program focuses on Melbourne roasters, with a rotating selection of single-origin options available alongside their house blend.
 
+
+## Venue Addresses & Details
+
+- **Two Birds One Stone** — 12 Claremont St, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: The corn fritters are a local staple; arrive before 10 AM on weekends to avoid the queue.*
+- **Abacus Bar & Kitchen** — 383 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 7:30 AM - 10:00 PM. *Tip: Perfect for a long brunch that transitions seamlessly into afternoon cocktails.*
+- **Darling Cafe** — 265 Punt Rd, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:30 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:30 PM. *Tip: Try the signature hot cakes; they are highly Instagrammable and generous in portion size.*
+- **Lawson Grove Shop** — 1 Lawson Grove, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: Sit outside on the sidewalk tables for the quintessential 'hidden South Yarra' experience.*
+- **Clement Coffee Roasters** — 161 Commercial Rd, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat-Sun 8:00 AM - 3:00 PM. *Tip: This is the place to go if you are a coffee purist; ask the baristas about their current single-origin rotation.*
 ## Market Lane Coffee South Yarra
 **567 Toorak Road, South Yarra VIC 3141**
 
@@ -56,6 +104,14 @@ While Market Lane Coffee has locations across Melbourne, their South Yarra outpo
 
 The team here are true coffee professionals, offering tasting flights and educational sessions for enthusiasts. Their commitment to transparency means you'll always know exactly where your beans come from and how they were processed. The minimalist interior, with its concrete countertops and timber details, puts the focus squarely on the coffee and food.
 
+
+## Venue Addresses & Details
+
+- **Two Birds One Stone** — 12 Claremont St, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: The corn fritters are a local staple; arrive before 10 AM on weekends to avoid the queue.*
+- **Abacus Bar & Kitchen** — 383 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 7:30 AM - 10:00 PM. *Tip: Perfect for a long brunch that transitions seamlessly into afternoon cocktails.*
+- **Darling Cafe** — 265 Punt Rd, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:30 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:30 PM. *Tip: Try the signature hot cakes; they are highly Instagrammable and generous in portion size.*
+- **Lawson Grove Shop** — 1 Lawson Grove, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: Sit outside on the sidewalk tables for the quintessential 'hidden South Yarra' experience.*
+- **Clement Coffee Roasters** — 161 Commercial Rd, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat-Sun 8:00 AM - 3:00 PM. *Tip: This is the place to go if you are a coffee purist; ask the baristas about their current single-origin rotation.*
 ## Tips for Visiting South Yarra Cafes
 
 South Yarra's cafe scene is busiest during weekend brunch hours, typically between 10am and 1pm. For a more relaxed experience, consider visiting on weekday mornings or later in the afternoon. Many cafes now offer online booking systems, which can be helpful for popular spots.
@@ -67,6 +123,14 @@ For those interested in exploring more of Melbourne's cafe culture, check out ou
 South Yarra's cafe scene in 2026 represents the best of Melbourne's breakfast culture - innovative yet accessible, quality-focused yet welcoming. Whether you're a local or just visiting, these venues offer experiences that go beyond mere sustenance to create memorable dining moments in one of Melbourne's most stylish suburbs.
 
 
+
+## Venue Addresses & Details
+
+- **Two Birds One Stone** — 12 Claremont St, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: The corn fritters are a local staple; arrive before 10 AM on weekends to avoid the queue.*
+- **Abacus Bar & Kitchen** — 383 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 7:30 AM - 10:00 PM. *Tip: Perfect for a long brunch that transitions seamlessly into afternoon cocktails.*
+- **Darling Cafe** — 265 Punt Rd, South Yarra VIC 3141 ($$). Open: Mon-Fri 7:30 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:30 PM. *Tip: Try the signature hot cakes; they are highly Instagrammable and generous in portion size.*
+- **Lawson Grove Shop** — 1 Lawson Grove, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: Sit outside on the sidewalk tables for the quintessential 'hidden South Yarra' experience.*
+- **Clement Coffee Roasters** — 161 Commercial Rd, South Yarra VIC 3141 ($). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat-Sun 8:00 AM - 3:00 PM. *Tip: This is the place to go if you are a coffee purist; ask the baristas about their current single-origin rotation.*
 ## Related Articles
 
 - [Best Restaurants in Melbourne](/best-restaurants-melbourne)

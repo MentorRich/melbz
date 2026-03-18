@@ -1,0 +1,16 @@
+{{/* layouts/partials/sidebar-ads.html */}}
+{{- if not (.Params.noAds) -}}
+{{- if gt .Site.Language.rtl -}}
+<div class="sidebar-ad-desktop" style="position: sticky; top: 80px; margin-bottom: 24px;">
+{{- else -}}
+<div class="sidebar-ad-desktop" style="position: sticky; top: 80px; margin-bottom: 24px;">
+{{- end -}}
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:300px;height:250px"
+       data-ad-client="ca-pub-XXXXXXXXXXXXXX"
+       data-ad-slot="1122334455"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{{- end -}}

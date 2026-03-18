@@ -1,5 +1,6 @@
 ---
 title: "Melbourne Food Guide — Best Restaurants, Cafes and Cheap Eats by Suburb"
+cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
 description: "The definitive Melbourne food guide. Discover the best restaurants, cafes, brunch spots and cheap eats across Fitzroy, Carlton, St Kilda and beyond."
 author: "Priya Sandhu"
 author_role: "Food & Dining Editor"

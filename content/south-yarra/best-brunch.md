@@ -7,8 +7,9 @@ author: "dani"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The real best brunch spots in South Yarra — verified addresses, honest prices, and no tourist traps. 8 places worth your Saturday morning."
+tags: ["south-yarra"]
+categories: ["best"]
 ---
-
 # Best Brunch in South Yarra — 2026 Local Guide
 
 South Yarra runs on two things: overpriced activewear and excellent brunch. If you live anywhere between the Yarra and Toorak Road, you've probably formed strong opinions about where to spend your Saturday morning — and you're probably right about most of them. But for everyone else (or if you've just moved into one of the endless new apartment blocks going up near Claremont Street), here's the honest breakdown of where to actually eat.
@@ -223,3 +224,13 @@ South Yarra has always been a suburb that takes brunch seriously. These are the 
 ---
 
 **About the author:** Dani writes about food and lifestyle across Melbourne's inner suburbs for MELBZ. Based in South Yarra since 2019, she's eaten at every venue on this list multiple times and paid for every meal out of her own pocket. No sponsored content, no free meals, no bullshit.
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/fitzroy/](/fitzroy/)
+- [/brunswick/](/brunswick/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

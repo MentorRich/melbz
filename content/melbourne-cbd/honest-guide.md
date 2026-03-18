@@ -5,8 +5,10 @@ date: 2026-03-16
 author: tyler
 tags: ["melbourne-cbd", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
----
+description: "Melbourne CBD Honest Guide 2026: What Nobody Tells You
 
+Here's the thing about Melbourne CBD. Everyone bangs on about it like it's the greatest chunk of real..."
+---
 # Melbourne CBD Honest Guide 2026: What Nobody Tells You
 
 Here's the thing about Melbourne CBD. Everyone bangs on about it like it's the greatest chunk of real estate on earth, and honestly? Parts of it are. But if you've ever walked out of Flinders Street Station, turned left into the tourist vortex, and thought "this... this is what everyone raves about?" — you're not wrong. You just ended up in the wrong bits.
@@ -196,3 +198,13 @@ Or if you want the full food picture — because CBD dining is only part of the 
 *Have a CBD tip, complaint, or horror story? [Submit it to MELBZ confessions](/confessions/) — anonymity guaranteed, laughs guaranteed.*
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
+
+## Related Articles
+
+- [/northcote/](/northcote/)
+- [/southbank/](/southbank/)
+- [/richmond/](/richmond/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

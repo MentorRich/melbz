@@ -5,8 +5,14 @@ date: 2026-03-16
 author: isabella
 tags: ["melbourne-cbd", "weekend", "lifestyle"]
 categories: ["lifestyle"]
+description: "Weekend Guide: Melbourne CBD 2026 — What to Do Saturday & Sunday
+
+Updated 16 March 2026 | Isabella Greco reporting
+
 ---
 
+The CBD gets a bad rap from locals w..."
+---
 # Weekend Guide: Melbourne CBD 2026 — What to Do Saturday & Sunday
 
 *Updated 16 March 2026 | Isabella Greco reporting*
@@ -211,3 +217,13 @@ The CBD rewards people who look up. Most of the good stuff is on the second floo
 *Updated 16 March 2026 | Isabella Greco reporting*
 
 *Have a correction or a spot we need to visit? Email hello@melbz.com.au*
+
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/collingwood/](/collingwood/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

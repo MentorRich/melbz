@@ -7,8 +7,9 @@ author: "dani"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Where South Yarra actually gets its coffee. Eight real cafes, real prices, and the honest take on what's worth your morning."
+tags: ["south-yarra"]
+categories: ["general"]
 ---
-
 # The Best Coffee in South Yarra — 2026
 
 South Yarra takes its coffee seriously. Not in a performative, latte-art-competing way (that's more Carlton) — but in a "this is simply what we do before anything else" way. Between the Toorak Road strip, the Chapel Street fringe, and the quiet pockets off Murphy and Claremont Streets, you'll find some of Melbourne's most consistently good coffee within a few flat white's walk of each other.
@@ -186,3 +187,13 @@ If you've sorted your coffee but need more, we've got you covered:
 *Prices listed are accurate as of March 2026 and may change. Hours can vary on public holidays — call ahead if you're planning a Australia Day or Easter Monday coffee run. We visited all eight cafés multiple times before publishing. No venue paid for inclusion.*
 
 **MELBZ — We know your suburb better than you do.**
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/collingwood/](/collingwood/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

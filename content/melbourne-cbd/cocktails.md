@@ -5,8 +5,12 @@ date: 2026-03-16
 author: jess
 tags: ["melbourne-cbd", "cocktails", "bars"]
 categories: ["nightlife"]
----
+description: "Best Cocktails in Melbourne CBD 2026: The Complete Guide
 
+Updated 16 March 2026 | 8 places tested | Jess Harper reporting
+
+You can throw a rock in the CBD an..."
+---
 # Best Cocktails in Melbourne CBD 2026: The Complete Guide
 
 *Updated 16 March 2026 | 8 places tested | Jess Harper reporting*
@@ -244,3 +248,13 @@ Now get out there and drink well.
 *Jess Harper is the Cocktails Editor at MELBZ. She's been reviewing Melbourne bars since 2019 and has strong opinions about ice cubes. Follow her picks on the MELBZ app.*
 
 *Prices and hours correct at time of publication. Venues change their menus seasonally — check their websites or call ahead for current offerings.*
+
+## Related Articles
+
+- [/brunswick/](/brunswick/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

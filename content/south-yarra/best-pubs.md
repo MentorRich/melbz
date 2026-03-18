@@ -5,8 +5,12 @@ date: 2026-03-16
 author: kai
 tags: ["south-yarra", "pubs", "nightlife"]
 categories: ["nightlife"]
----
+description: "Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
 
+ Best Pubs in South Yarra 2026: Heritage Hotels & Craft Beer
+
+South Yarra doesn't do boring..."
+---
 Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
 
 # Best Pubs in South Yarra 2026: Heritage Hotels & Craft Beer
@@ -87,13 +91,13 @@ Upstairs is where things open up. The rooftop bar is one of the best in Richmond
 **Open:** Daily from 12pm
 **Cost:** Mains $22–$38, pints $13–$16
 
-Formerly the Bush Inn — a Toorak institution that's been pouring since before federation — the rebranded Toorak Hotel has elevated itself into proper gastropub territory without losing the corner-pub charm.
+Formerly the Bush Inn — a Toorak institution that's been pouring since before federation — the rebranded Toorak Hotel has make betterd itself into proper gastropub territory without losing the corner-pub charm.
 
 This is where South Yarra's more moneyed crowd goes for a Tuesday night dinner that doesn't feel like a restaurant. The menu runs from beer-battered barramundi and classic roasts through to seared wagyu rump and a cracking duck leg confit. The wine list is deliberately Toorak — expect the good stuff, at prices that won't make you wince (well, mostly).
 
 The interior is polished timber and leather banquettes, with a covered outdoor area that works year-round. It's quieter than the Chapel Street joints, which is exactly the point. If you've had enough of the bustle and want a proper meal with a decent drink, drive the five minutes east.
 
-**The vibe:** Elevated pub dining without the stuffiness. Your parents would love it.
+**The vibe:** raise the standardd pub dining without the stuffiness. Your parents would love it.
 
 ---
 
@@ -146,3 +150,13 @@ The best thing about South Yarra pubs? They haven't tried to become something th
 ---
 
 *MELBZ Pubs — your guide to Melbourne's best bars, beer gardens, and local watering holes. Updated monthly. Got a pub we should review? [Tell us about it](/contact).*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

@@ -1,82 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abouts on MELBZ — We Know Your Suburb Better Than You Do</title><link>https://melbz.com.au/about/</link><description>Recent content in Abouts on MELBZ — We Know Your Suburb Better Than You Do</description><generator>Hugo</generator><language>en-au</language><atom:link href="https://melbz.com.au/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Meet the MELBZ Editorial Team</title><link>https://melbz.com.au/about/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://melbz.com.au/about/team/</guid><description>&lt;h1 id="the-melbz-newsroom"&gt;The MELBZ Newsroom&lt;/h1&gt;
-&lt;p&gt;Our 50-person team is on the ground every day, covering every suburb from the inner lanes to the outer rings.&lt;/p&gt;
-&lt;div class="team-grid"&gt;
- 
- 
- &lt;div class="team-card"&gt;
- &lt;a href="https://melbz.com.au/authors/adam/"&gt;
- &lt;img src="https://melbz.com.au/images/authors/adam.jpg" alt="Adam Nowak" class="team-avatar"&gt;
- &lt;h3 class="team-name"&gt;Adam Nowak&lt;/h3&gt;
- &lt;p class="team-role"&gt;Burger &amp;amp; Comfort Food Writer&lt;/p&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- 
- &lt;div class="team-card"&gt;
- &lt;a href="https://melbz.com.au/authors/aisha/"&gt;
- &lt;img src="https://melbz.com.au/images/authors/aisha.jpg" alt="Aisha Hassan" class="team-avatar"&gt;
- &lt;h3 class="team-name"&gt;Aisha Hassan&lt;/h3&gt;
- &lt;p class="team-role"&gt;Family Editor&lt;/p&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- 
- &lt;div class="team-card"&gt;
- &lt;a href="https://melbz.com.au/authors/alex/"&gt;
- &lt;img src="https://melbz.com.au/images/authors/alex.jpg" alt="Alex Petrova" class="team-avatar"&gt;
- &lt;h3 class="team-name"&gt;Alex Petrova&lt;/h3&gt;
- &lt;p class="team-role"&gt;Cost of Living Analyst&lt;/p&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- 
- &lt;div class="team-card"&gt;
- &lt;a href="https://melbz.com.au/authors/amara/"&gt;
- &lt;img src="https://melbz.com.au/images/authors/amara.jpg" alt="Amara Diallo" class="team-avatar"&gt;
- &lt;h3 class="team-name"&gt;Amara Diallo&lt;/h3&gt;
- &lt;p class="team-role"&gt;Community &amp;amp; Local Life Writer&lt;/p&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- 
- &lt;div class="team-card"&gt;
- &lt;a href="https://melbz.com.au/authors/ben/"&gt;
- &lt;img src="https://melbz.com.au/images/authors/ben.jpg" alt="Ben Kowalski" class="team-avatar"&gt;
- &lt;h3 class="team-name"&gt;Ben Kowalski&lt;/h3&gt;
- &lt;p class="team-role"&gt;Pets Editor&lt;/p&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- 
- &lt;div class="team-card"&gt;
- &lt;a href="https://melbz.com.au/authors/charlie/"&gt;
- &lt;img src="https://melbz.com.au/images/authors/charlie.jpg" alt="Charlie Dunn" class="team-avatar"&gt;
- &lt;h3 class="team-name"&gt;Charlie Dunn&lt;/h3&gt;
- &lt;p class="team-role"&gt;Sustainability Writer&lt;/p&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- 
- &lt;div class="team-card"&gt;
- &lt;a href="https://melbz.com.au/authors/chloe/"&gt;
- &lt;img src="https://melbz.com.au/images/authors/chloe.jpg" alt="Chloe Nguyen" class="team-avatar"&gt;
- &lt;h3 class="team-name"&gt;Chloe Nguyen&lt;/h3&gt;
- &lt;p class="team-role"&gt;Renter&amp;#39;s Advocate&lt;/p&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- 
- &lt;div class="team-card"&gt;
- &lt;a href="https://melbz.com.au/authors/dani/"&gt;
- &lt;img src="https://melbz.com.au/images/authors/dani.jpg" alt="Dani Rossi" class="team-avatar"&gt;
- &lt;h3 class="team-name"&gt;Dani Rossi&lt;/h3&gt;
- &lt;p class="team-role"&gt;Coffee &amp;amp; Brunch Writer&lt;/p&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- 
- &lt;div class="team-card"&gt;
- &lt;a href="https://melbz.com.au/authors/daniela/"&gt;
- &lt;img src="https://melbz.com.au/images/authors/daniela.jpg" alt="Daniel Abram" class="team-avatar"&gt;
- &lt;h3 class="team-name"&gt;Daniel Abram&lt;/h3&gt;
- &lt;p class="team-role"&gt;Safety &amp;amp; Data Specialist&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on MELBZ — We Know Your Suburb Better Than You Do</title>
+    <link>https://melbz.com.au/about/</link>
+    <description>Recent content in Abouts on MELBZ — We Know Your Suburb Better Than You Do</description>
+    <generator>Hugo</generator>
+    <language>en-au</language>
+    <atom:link href="https://melbz.com.au/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet the MELBZ Editorial Team</title>
+      <link>https://melbz.com.au/about/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://melbz.com.au/about/team/</guid>
+      <description>&lt;h1 id=&#34;the-melbz-newsroom&#34;&gt;The MELBZ Newsroom&lt;/h1&gt;&#xA;&lt;p&gt;Our 50-person team is on the ground every day, covering every suburb from the inner lanes to the outer rings.&lt;/p&gt;&#xA;&lt;div class=&#34;team-grid&#34;&gt;&#xA;    &#xA;        &#xA;        &lt;div class=&#34;team-card&#34;&gt;&#xA;            &lt;a href=&#34;https://melbz.com.au/authors/adam/&#34;&gt;&#xA;                &lt;img src=&#34;https://melbz.com.au/images/authors/adam.jpg&#34; alt=&#34;Adam Nowak&#34; class=&#34;team-avatar&#34;&gt;&#xA;                &lt;h3 class=&#34;team-name&#34;&gt;Adam Nowak&lt;/h3&gt;&#xA;                &lt;p class=&#34;team-role&#34;&gt;Burger &amp;amp; Comfort Food Writer&lt;/p&gt;&#xA;            &lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &#xA;        &#xA;        &lt;div class=&#34;team-card&#34;&gt;&#xA;            &lt;a href=&#34;https://melbz.com.au/authors/aisha/&#34;&gt;&#xA;                &lt;img src=&#34;https://melbz.com.au/images/authors/aisha.jpg&#34; alt=&#34;Aisha Hassan&#34; class=&#34;team-avatar&#34;&gt;&#xA;                &lt;h3 class=&#34;team-name&#34;&gt;Aisha Hassan&lt;/h3&gt;&#xA;                &lt;p class=&#34;team-role&#34;&gt;Family Editor&lt;/p&gt;&#xA;            &lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &#xA;        &#xA;        &lt;div class=&#34;team-card&#34;&gt;&#xA;            &lt;a href=&#34;https://melbz.com.au/authors/alex/&#34;&gt;&#xA;                &lt;img src=&#34;https://melbz.com.au/images/authors/alex.jpg&#34; alt=&#34;Alex Petrova&#34; class=&#34;team-avatar&#34;&gt;&#xA;                &lt;h3 class=&#34;team-name&#34;&gt;Alex Petrova&lt;/h3&gt;&#xA;                &lt;p class=&#34;team-role&#34;&gt;Cost of Living Analyst&lt;/p&gt;&#xA;            &lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &#xA;        &#xA;        &lt;div class=&#34;team-card&#34;&gt;&#xA;            &lt;a href=&#34;https://melbz.com.au/authors/amara/&#34;&gt;&#xA;                &lt;img src=&#34;https://melbz.com.au/images/authors/amara.jpg&#34; alt=&#34;Amara Diallo&#34; class=&#34;team-avatar&#34;&gt;&#xA;                &lt;h3 class=&#34;team-name&#34;&gt;Amara Diallo&lt;/h3&gt;&#xA;                &lt;p class=&#34;team-role&#34;&gt;Community &amp;amp; Local Life Writer&lt;/p&gt;&#xA;            &lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &#xA;        &#xA;        &lt;div class=&#34;team-card&#34;&gt;&#xA;            &lt;a href=&#34;https://melbz.com.au/authors/ben/&#34;&gt;&#xA;                &lt;img src=&#34;https://melbz.com.au/images/authors/ben.jpg&#34; alt=&#34;Ben Kowalski&#34; class=&#34;team-avatar&#34;&gt;&#xA;                &lt;h3 class=&#34;team-name&#34;&gt;Ben Kowalski&lt;/h3&gt;&#xA;                &lt;p class=&#34;team-role&#34;&gt;Pets Editor&lt;/p&gt;&#xA;            &lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &#xA;        &#xA;        &lt;div class=&#34;team-card&#34;&gt;&#xA;            &lt;a href=&#34;https://melbz.com.au/authors/charlie/&#34;&gt;&#xA;                &lt;img src=&#34;https://melbz.com.au/images/authors/charlie.jpg&#34; alt=&#34;Charlie Dunn&#34; class=&#34;team-avatar&#34;&gt;&#xA;                &lt;h3 class=&#34;team-name&#34;&gt;Charlie Dunn&lt;/h3&gt;&#xA;                &lt;p class=&#34;team-role&#34;&gt;Sustainability Writer&lt;/p&gt;&#xA;            &lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &#xA;        &#xA;        &lt;div class=&#34;team-card&#34;&gt;&#xA;            &lt;a href=&#34;https://melbz.com.au/authors/chloe/&#34;&gt;&#xA;                &lt;img src=&#34;https://melbz.com.au/images/authors/chloe.jpg&#34; alt=&#34;Chloe Nguyen&#34; class=&#34;team-avatar&#34;&gt;&#xA;                &lt;h3 class=&#34;team-name&#34;&gt;Chloe Nguyen&lt;/h3&gt;&#xA;                &lt;p class=&#34;team-role&#34;&gt;Renter&amp;#39;s Advocate&lt;/p&gt;&#xA;            &lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &#xA;        &#xA;        &lt;div class=&#34;team-card&#34;&gt;&#xA;            &lt;a href=&#34;https://melbz.com.au/authors/dani/&#34;&gt;&#xA;                &lt;img src=&#34;https://melbz.com.au/images/authors/dani.jpg&#34; alt=&#34;Dani Rossi&#34; class=&#34;team-avatar&#34;&gt;&#xA;                &lt;h3 class=&#34;team-name&#34;&gt;Dani Rossi&lt;/h3&gt;&#xA;                &lt;p class=&#34;team-role&#34;&gt;Coffee &amp;amp; Brunch Writer&lt;/p&gt;&#xA;            &lt;/a&gt;&#xA;        &lt;/div&gt;&#xA;    &#xA;        &#xA;        &lt;div class=&#34;team-card&#34;&gt;&#xA;            &lt;a href=&#34;https://melbz.com.au/authors/daniela/&#34;&gt;&#xA;                &lt;img src=&#34;https://melbz.com.au/images/authors/daniela.jpg&#34; alt=&#34;Daniel Abram&#34; class=&#34;team-avatar&#34;&gt;&#xA;                &lt;h3 class=&#34;team-name&#34;&gt;Daniel Abram&lt;/h3&gt;&#xA;                &lt;p class=&#34;team-role&#34;&gt;Safety &amp;amp; Data Specialist&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

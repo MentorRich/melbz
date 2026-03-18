@@ -5,8 +5,12 @@ date: 2026-03-16
 author: marcus
 tags: ["south-yarra", "rent", "property"]
 categories: ["property"]
----
+description: "Rent Prices in South Yarra 2026: Chapel Street Premium
 
+Updated 16 March 2026 | Marcus Cole reporting
+
+South Yarra has always been Melbourne's most aspiratio..."
+---
 # Rent Prices in South Yarra 2026: Chapel Street Premium
 
 *Updated 16 March 2026 | Marcus Cole reporting*
@@ -137,3 +141,13 @@ The Chapel Street premium is real. Whether it's worth it depends entirely on you
 ---
 
 *Marcus Cole is the Property Editor at MELBZ. He has covered Melbourne's rental and property markets for over a decade. Have data or a tip? [Contact the newsroom.](/about)*
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/south-yarra/](/south-yarra/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

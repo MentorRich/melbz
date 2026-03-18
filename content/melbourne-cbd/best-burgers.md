@@ -5,8 +5,12 @@ date: 2026-03-16
 author: adam
 tags: ["melbourne-cbd", "burgers", "food"]
 categories: ["food"]
----
+description: "Best Burgers in Melbourne CBD 2026: The Definitive Rankings
 
+Updated 16 March 2026 | 8 places tested | Adam Nowak reporting
+
+Look, Melbourne's CBD has no sho..."
+---
 # Best Burgers in Melbourne CBD 2026: The Definitive Rankings
 
 **Updated 16 March 2026 | 8 places tested | Adam Nowak reporting**
@@ -196,3 +200,13 @@ The real winner? You. Because within a 1km radius of Flinders Street Station, yo
 ---
 
 **About the author:** *Adam Nowak is the Burgers Editor at MELBZ, covering Melbourne's burger scene since 2019. He has eaten approximately 340 CBD burgers for "research" and regrets nothing except the time he ordered a salad at a burger restaurant. Follow MELBZ on [Instagram](https://instagram.com/maborosu) for daily food content across Melbourne.*
+
+## Related Articles
+
+- [/collingwood/](/collingwood/)
+- [/footscray/](/footscray/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/southbank/](/southbank/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

@@ -1,12 +1,16 @@
 ---
 title: "Rent Prices in Prahran 2026: Chapel Street Premium"
-cover_image: "https://images.pexels.com/photos/3762497/pexels-photo-3762497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: marcus
 tags: ["prahran", "rent", "property"]
 categories: ["property"]
----
+description: "Updated 16 March 2026 | Marcus Cole reporting
 
+ Rent Prices in Prahran 2026: Chapel Street Premium
+
+There's a stretch of Chapel Street between Commercial Roa..."
+---
 *Updated 16 March 2026 | Marcus Cole reporting*
 
 # Rent Prices in Prahran 2026: Chapel Street Premium
@@ -141,3 +145,13 @@ The best thing you can do is visit the suburb, walk the streets between the mark
 ---
 
 *Sources: Domain Rental Report Q1 2026, REA Market Insights, ABS Salary Data (Cat. 6302.0), CBRE Australian Apartment Market Report 2025, The Age/Sydney Morning Herald property analysis (Feb 2026), Victorian Rental Tenancy Data. All rent figures reflect median asking rents as at March 2026. Individual results vary.*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/st-kilda/](/st-kilda/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/balaclava/](/balaclava/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

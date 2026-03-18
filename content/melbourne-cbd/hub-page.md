@@ -5,8 +5,14 @@ date: 2026-03-16
 author: jack
 tags: ["melbourne-cbd", "suburb-guide"]
 categories: ["lifestyle"]
+description: "Melbourne CBD Hub Page: The Ultimate Suburb Guide 2026
+
+Updated 16 March 2026 | Jack Morrison reporting
+
 ---
 
+Melbourne's CBD is not a suburb you move to for..."
+---
 # Melbourne CBD Hub Page: The Ultimate Suburb Guide 2026
 
 Updated 16 March 2026 | Jack Morrison reporting
@@ -228,3 +234,13 @@ If you want space, quiet, and a backyard — look at the suburbs. If you want to
 - [Fitzroy Suburb Guide](/fitzroy/)
 - [South Yarra Suburb Guide](/south-yarra/)
 - [Melbourne CBD Vibe Score](/melbourne-cbd/)
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/collingwood/](/collingwood/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

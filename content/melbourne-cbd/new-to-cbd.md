@@ -5,8 +5,12 @@ date: 2026-03-16
 author: freya
 tags: ["melbourne-cbd", "newcomer", "lifestyle"]
 categories: ["lifestyle"]
----
+description: "Moving to Melbourne CBD in 2026: The Newcomer's Survival Guide
 
+Updated 16 March 2026 | Freya Anderson reporting
+
+So you're moving to Melbourne's CBD. Not th..."
+---
 # Moving to Melbourne CBD in 2026: The Newcomer's Survival Guide
 
 *Updated 16 March 2026 | Freya Anderson reporting*
@@ -153,3 +157,13 @@ That's the CBD. It earns your love by making you work for it. And honestly? That
 **This article was last updated on 16 March 2026. Melbourne's rental market and transport fares change regularly — check our [CBD rent](/melbourne-cbd/cbd-rent/) and [CBD cost of living](/melbourne-cbd/cbd-cost-of-living/) guides for the latest numbers.**
 
 *Freya Anderson is the Confessions Editor at MELBZ. She has lived in and around Melbourne's CBD since 2019 and still gets caught out by at least one surprise tram per week.*
+
+## Related Articles
+
+- [/northcote/](/northcote/)
+- [/south-yarra/](/south-yarra/)
+- [/southbank/](/southbank/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

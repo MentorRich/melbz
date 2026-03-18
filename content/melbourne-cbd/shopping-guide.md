@@ -5,8 +5,12 @@ date: 2026-03-16
 author: zara
 tags: ["melbourne-cbd", "shopping", "fashion"]
 categories: ["lifestyle"]
----
+description: "Shopping in Melbourne CBD 2026: The Ultimate Guide
 
+Updated 16 March 2026 | Zara Khan reporting
+
+Look, Melbourne CBD shopping isn't what it was five years ag..."
+---
 # Shopping in Melbourne CBD 2026: The Ultimate Guide
 
 **Updated 16 March 2026 | Zara Khan reporting**
@@ -168,3 +172,13 @@ That's the landscape. Plan accordingly.
 *Updated 16 March 2026 | Zara Khan reporting. Got a correction or a shopping tip? Drop it in the confession box or tag us on socials.*
 
 *This guide is part of our [Melbourne CBD guide series](/melbourne-cbd) — check the neighbourhood hub for every suburb, venue, and vibe score in the city.*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/brunswick/](/brunswick/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

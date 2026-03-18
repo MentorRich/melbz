@@ -7,8 +7,9 @@ author: "jules"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The best restaurants in Carlton for 2026 — from legendary Italian to fine dining, Mexican, and ramen. Real venues, real prices, honest opinions."
+tags: ["carlton"]
+categories: ["best"]
 ---
-
 # 14 Best Restaurants in Carlton You Need to Try in 2026
 
 Carlton is Melbourne's original food neighbourhood, and in 2026 it's still one of the city's best. The Italian heritage runs deep — this is where Melbourne's restaurant culture was born, thanks to the wave of post-war Italian immigration that turned Lygon Street into a culinary legend. But Carlton in 2026 is so much more than pasta and pizza. Japanese fine dining, Mexican cantinas, Indonesian street food, Lebanese feasts, and modern Australian bistros all sit alongside the old-school trattorias, creating a dining scene that's as diverse as it is consistently excellent.
@@ -67,7 +68,7 @@ Al Dente Enoteca started as a pasta delivery service during COVID — a stood-do
 **Address:** 155 Faraday Street, Carlton
 **Hours:** Wednesday–Saturday dinner, Thursday–Sunday lunch
 **Price range:** $30–$55pp
-**Insider tip:** The lunch service is the hidden gem. Same food, half the crowd, and natural light streaming through the windows. Perfect for a slow weekday feed.
+**Insider tip:** The lunch service is the under the radar. Same food, half the crowd, and natural light streaming through the windows. Perfect for a slow weekday feed.
 
 ---
 
@@ -87,7 +88,7 @@ DOC on Drummond Street is a Carlton institution, and the reason is simple: the p
 ## 6. Di Stasio Pizzeria
 **The vibe:** When a legendary restaurateur starts making pizza, people pay attention — and they should
 
-Rinaldo Di Stasio is a name that carries serious weight in Melbourne dining. When he opened a pizzeria, the city took notice. Di Stasio Pizzeria serves classic margheritas alongside luxurious lobster pies in a colourful, artwork-filled space that feels like eating inside a gallery. The quality of ingredients is exceptional — this is pizza elevated to fine-dining standards without any of the pretension. The courtyard is one of the best outdoor dining spots in Carlton.
+Rinaldo Di Stasio is a name that carries serious weight in Melbourne dining. When he opened a pizzeria, the city took notice. Di Stasio Pizzeria serves classic margheritas alongside luxurious lobster pies in a colourful, artwork-filled space that feels like eating inside a gallery. The quality of ingredients is exceptional — this is pizza improved to fine-dining standards without any of the pretension. The courtyard is one of the best outdoor dining spots in Carlton.
 
 **Order this:** Classic margherita ($22) and the lobster pie ($45) for a splurge
 **Address:** 357 Little Lygon Street, Carlton
@@ -165,7 +166,7 @@ Panda Hot Pot brought China's fiery hot pot tradition to Carlton with an impress
 ## 12. Tiamo Coffee
 **The vibe:** The original Lygon Street institution — parmigiana the size of a basketball and pasta that hasn't changed since the '70s (because it doesn't need to)
 
-Tiamo is where Melbourne's Italian dining tradition is on full display. The checkered floors, the bustling open kitchen, the queues out the door on weekends — it's all part of the experience. The menu is classic Italian-Australian: parmigiana, pasta, pizza, and ossobuco, all served in generous portions. It's not cutting-edge, it's not reinventing anything, and it absolutely doesn't need to be. This is comfort food at its most authentic, served in a place that's been doing it longer than most of us have been alive.
+Tiamo is where Melbourne's Italian dining tradition is on full display. The checkered floors, the always crowded open kitchen, the queues out the door on weekends — it's all part of the experience. The menu is classic Italian-Australian: parmigiana, pasta, pizza, and ossobuco, all served in generous portions. It's not cutting-edge, it's not reinventing anything, and it absolutely doesn't need to be. This is comfort food at its most authentic, served in a place that's been doing it longer than most of us have been alive.
 
 **Order this:** Chicken parmigiana ($24) — it's enormous, it's classic, and it's what Tiamo is famous for
 **Address:** 179 Lygon Street, Carlton
@@ -201,6 +202,15 @@ Super Norma is the kind of neighbourhood pasta joint that makes you feel like yo
 
 ---
 
+
+## Venue Addresses & Details
+
+- **DOC Espresso** — 326 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 9:00 AM - 11:00 PM. *Tip: Order the DOC pizza with buffalo mozzarella; it is widely considered the best in the precinct.*
+- **King and Godfree** — 293 Lygon St, Carlton VIC 3053 ($$-$$$). Open: Mon-Sun 7:00 AM - 10:00 PM. *Tip: Visit the rooftop bar at sunset for a spritz with views over the Carlton skyline.*
+- **Heartattack and Vine** — 329 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 7:00 AM - 11:00 PM. *Tip: The porchetta roll is a local legend; grab one for a quick, high-quality lunch.*
+- **Tiamo** — 303 Lygon St, Carlton VIC 3053 ($). Open: Mon-Sun 11:00 AM - 10:30 PM. *Tip: Stick to the classics like the homemade lasagna or spaghetti bolognese for the most authentic experience.*
+- **Universal Restaurant** — 134-138 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Their chicken parmigiana is massive and perfect for sharing if you aren't feeling overly hungry.*
+- **Pidapipó Laboratorio** — 299 Lygon St, Carlton VIC 3053 ($). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Always ask for the warm Nutella tap to be drizzled inside your cone.*
 ## The Bottom Line
 
 Carlton's restaurant scene in 2026 is absurd in its quality. Whether you're after a $15 bowl of ramen, a $24 parmigiana the size of your head, or a $180 tasting menu that redefines what you thought food could be, this suburb delivers at every level. The Italian backbone remains unshakeable — Tiamo, DOC, Scopri, and Capitano are all essential Melbourne dining — but the new wave of Taquito, Lagoon Dining, and Kazuki's proves Carlton isn't standing still.
@@ -239,3 +249,22 @@ If you only have one dinner in Carlton, make it **Scopri** for the classic exper
 | Best pizza | DOC / Di Stasio |
 | Best ramen | Hakata Gensuke |
 | Best for groups | Panda Hot Pot, Abla's |
+
+
+## Venue Addresses & Details
+
+- **DOC Espresso** — 326 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 9:00 AM - 11:00 PM. *Tip: Order the DOC pizza with buffalo mozzarella; it is widely considered the best in the precinct.*
+- **King and Godfree** — 293 Lygon St, Carlton VIC 3053 ($$-$$$). Open: Mon-Sun 7:00 AM - 10:00 PM. *Tip: Visit the rooftop bar at sunset for a spritz with views over the Carlton skyline.*
+- **Heartattack and Vine** — 329 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 7:00 AM - 11:00 PM. *Tip: The porchetta roll is a local legend; grab one for a quick, high-quality lunch.*
+- **Tiamo** — 303 Lygon St, Carlton VIC 3053 ($). Open: Mon-Sun 11:00 AM - 10:30 PM. *Tip: Stick to the classics like the homemade lasagna or spaghetti bolognese for the most authentic experience.*
+- **Universal Restaurant** — 134-138 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Their chicken parmigiana is massive and perfect for sharing if you aren't feeling overly hungry.*
+- **Pidapipó Laboratorio** — 299 Lygon St, Carlton VIC 3053 ($). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Always ask for the warm Nutella tap to be drizzled inside your cone.*
+## Related Articles
+
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/best-restaurants-melbourne/](/best-restaurants-melbourne/)
+- [/food/](/food/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

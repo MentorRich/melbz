@@ -1,12 +1,16 @@
 ---
 title: "Prahran Food Crawl 2026: Market to Chapel Street"
-cover_image: "https://images.pexels.com/photos/12108138/pexels-photo-12108138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: tyler
 tags: ["prahran", "food-crawl", "food"]
 categories: ["food"]
----
+description: "Prahran Food Crawl 2026: Market to Chapel Street
 
+Updated 16 March 2026 | Tyler James reporting
+
+There's a version of Prahran where people just wander around..."
+---
 # Prahran Food Crawl 2026: Market to Chapel Street
 
 *Updated 16 March 2026 | Tyler James reporting*
@@ -143,7 +147,7 @@ Prahran's sweet spot is the mix: market culture, independent restaurants, and th
 
 **Total crawl distance:** ~2.5km on foot. You could do it in less, but you'll stop forty times. That's the point.
 
-**Best day:** Saturday, when the market is fully operating and the Chapel Street foot traffic hits that sweet spot between "vibrant" and "too many humans."
+**Best day:** Saturday, when the market is fully operating and the Chapel Street foot traffic hits that sweet spot between "packed" and "too many humans."
 
 **Budget for the full day:** $120–$180 per person including drinks. Split dishes at dinner and you can bring it down to $100.
 
@@ -168,3 +172,12 @@ Their loss. More spanakopita for us.
 - [South Yarra Brunch: The Definitive 2026 Ranking](/suburb/south-yarra/brunch-guide)
 - [Armadale's High Street: Melbourne's Most Underrated Dining Strip](/suburb/armadale/dining)
 - [Prahran Market: A Local's Guide to Not Getting Ripped Off](/suburb/prahran/market-guide)
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/prahran/](/prahran/)
+- [/prahran/hub](/prahran/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

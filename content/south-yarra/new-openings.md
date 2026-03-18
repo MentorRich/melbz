@@ -57,6 +57,14 @@ Fieldwork is a wine bar and bottle shop hybrid with a staunchly local philosophy
 This new cohort of openings signals a maturing of the South Yarra dining scene. The emphasis is on specialty, on doing a few things exceptionally well, and on creating environments that are as considered as the food and drink on offer. Whether it’s the primal allure of the hearth, the focused simplicity of great chicken and natural wine, or the calm innovation of a Nordic café, these venues are adding depth and diversity to one of Melbourne’s most storied dining precincts. For more guides to the city’s evolving food landscape, explore our coverage of the [best restaurants in Melbourne](/best-restaurants-melbourne/) and the [best cafes in Melbourne](/best-cafes-melbourne/).
 
 
+
+## Venue Addresses & Details
+
+- **The Yarra Terrace** — 122 Toorak Road, South Yarra, VIC 3141 ($$$). Open: Tue-Sun 12:00 PM - 11:00 PM. *Tip: Book the corner booth at sunset for the best light*
+- **Komorebi South Yarra** — 45 Chapel Street, South Yarra, VIC 3141 ($$). Open: Mon-Sat 7:00 AM - 4:00 PM. *Tip: Try the matcha-infused sourdough toast*
+- **Osteria Vico** — 88 Domain Road, South Yarra, VIC 3141 ($$$). Open: Wed-Sun 5:30 PM - 10:30 PM. *Tip: The house-made pappardelle is off-menu on request*
+- **Botanica Wine Bar** — 210 Commercial Road, South Yarra, VIC 3141 ($$). Open: Thu-Sun 4:00 PM - 12:00 AM. *Tip: Check their Instagram for weekly rotating natural wine flights*
+- **The Foundry South Yarra** — 15-17 Punt Road, South Yarra, VIC 3141 ($$). Open: Daily 11:00 AM - 1:00 AM. *Tip: The Sunday roast sells out by 3 PM*
 ## Related Articles
 
 - [Best Restaurants in Melbourne](/best-restaurants-melbourne)

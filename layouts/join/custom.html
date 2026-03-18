@@ -1,0 +1,42 @@
+{{/*
+  layouts/join/custom.html
+  Custom layout for the /join/ signup page
+*/}}
+<!DOCTYPE html>
+<html lang="en-au">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} | MELBZ — We Know Your Suburb Better Than You Do</title>
+  <meta name="description" content="{{ .Description | default "Your guide to Melbourne's best bars, pubs, rooftop drinks and live music venues." }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  
+  {{/* Open Graph */}}
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ .Description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Permalink }}">
+  
+  {{/* Fonts & CSS */}}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+  
+  <style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #fafafa;
+    color: #1a1a2e;
+    line-height: 1.5;
+  }
+  </style>
+</head>
+<body>
+  {{ .Content }}
+  
+  <footer style="text-align: center; padding: 40px 20px; color: #6b7280; font-size: 14px;">
+    <p>By joining, you agree to MELBZ's <a href="/privacy/" style="color: #6b7280;">Privacy Policy</a> and <a href="/terms/" style="color: #6b7280;">Terms</a></p>
+  </footer>
+</body>
+</html>

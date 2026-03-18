@@ -1,5 +1,6 @@
 ---
 title: "AITMA: 5 Melbourne Dilemmas That Will Divide Your Group Chat"
+cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 suburb: melbourne
 vertical: culture
 author: "jules"
@@ -8,10 +9,11 @@ author_image: "/images/authors/lina.jpg"
 updated: 2026-03-14
 description: "Am I The Melbourne A-Hole? 5 real scenarios from Melbourne life. You vote. No mercy."
 keywords: ["AITMA", "am I the melbourne a-hole", "melbourne debate", "melbourne funny", "melbourne vote"]
-cover_image: "/images/melbourne-aitma-hero.jpg"
 cover_alt: "Group of friends laughing together in Melbourne — every scenario here will divide your group chat"
+date: 2026-03-18
+tags: ["aitma"]
+categories: ["general"]
 ---
-
 **Am I The Melbourne A-Hole?** Five real Melbourne scenarios. You vote. No mercy.
 
 ---
@@ -91,3 +93,22 @@ We're both liars. But am I the worse one?
 **Got an AITMA scenario?** Send it to aitma@melbz.com.au. We'll publish it (anonymously) and let Melbourne judge you.
 
 *New AITMA every Wednesday and Saturday. [Get the Monday brief](/newsletter/) to never miss a verdict.*
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/fitzroy/](/fitzroy/)
+- [/footscray/](/footscray/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*
+
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

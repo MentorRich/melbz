@@ -5,8 +5,12 @@ date: 2026-03-16
 author: lina
 tags: ["melbourne-cbd", "bars", "nightlife"]
 categories: ["nightlife"]
----
+description: "Best Bars in Melbourne CBD 2026: Rooftops, Laneways & Hidden Spots
 
+Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting
+
+Melbourne's CBD drinks s..."
+---
 # Best Bars in Melbourne CBD 2026: Rooftops, Laneways & Hidden Spots
 
 **Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
@@ -143,6 +147,15 @@ The upstairs Music Room is the standout — the walls are covered in acoustic pa
 
 ---
 
+
+## Venue Addresses & Details
+
+- **The Everleigh** — Level 1, 150-156 Gertrude St, Fitzroy VIC 3065 ($$$). Open: Mon-Sun 5:00 PM - 1:00 AM. *Tip: Ask the bartender for a 'Dealer's Choice' based on your preferred spirit profile.*
+- **Bar Margaux** — Basement, 111 Lonsdale St, Melbourne VIC 3000 ($$$). Open: Mon-Thu 4:00 PM - 1:00 AM, Fri-Sat 4:00 PM - 3:00 AM. *Tip: Order the cheeseburger; it is widely considered one of the best in the city.*
+- **Eau De Vie** — 1 Malthouse Ln, Melbourne VIC 3000 ($$$). Open: Mon-Thu 5:00 PM - 1:00 AM, Fri-Sat 4:00 PM - 3:00 AM. *Tip: Book a seat at the bar to watch the bartenders perform complex, smoke-infused cocktail techniques.*
+- **Caretaker's Cottage** — 139-141 Little Collins St, Melbourne VIC 3000 ($$). Open: Mon-Sun 4:00 PM - 1:00 AM. *Tip: The Guinness is poured to perfection; it's the best pint in the CBD.*
+- **Siglo** — Level 2, 161 Spring St, Melbourne VIC 3000 ($$$). Open: Mon-Sun 5:00 PM - 3:00 AM. *Tip: Arrive early to secure a table on the terrace for sunset views over the city skyline.*
+- **Arbory Afloat** — 2 Flinders Walk, Melbourne VIC 3000 ($$). Open: Mon-Sun 11:00 AM - 1:00 AM. *Tip: Go during the weekday afternoon to avoid the heavy weekend crowds.*
 ## What We Skipped and Why
 
 Not every bar makes the cut. Here's what we left off and the honest reason why:
@@ -159,6 +172,15 @@ We only list places we'd genuinely recommend to a friend. That means the bar nee
 
 ---
 
+
+## Venue Addresses & Details
+
+- **The Everleigh** — Level 1, 150-156 Gertrude St, Fitzroy VIC 3065 ($$$). Open: Mon-Sun 5:00 PM - 1:00 AM. *Tip: Ask the bartender for a 'Dealer's Choice' based on your preferred spirit profile.*
+- **Bar Margaux** — Basement, 111 Lonsdale St, Melbourne VIC 3000 ($$$). Open: Mon-Thu 4:00 PM - 1:00 AM, Fri-Sat 4:00 PM - 3:00 AM. *Tip: Order the cheeseburger; it is widely considered one of the best in the city.*
+- **Eau De Vie** — 1 Malthouse Ln, Melbourne VIC 3000 ($$$). Open: Mon-Thu 5:00 PM - 1:00 AM, Fri-Sat 4:00 PM - 3:00 AM. *Tip: Book a seat at the bar to watch the bartenders perform complex, smoke-infused cocktail techniques.*
+- **Caretaker's Cottage** — 139-141 Little Collins St, Melbourne VIC 3000 ($$). Open: Mon-Sun 4:00 PM - 1:00 AM. *Tip: The Guinness is poured to perfection; it's the best pint in the CBD.*
+- **Siglo** — Level 2, 161 Spring St, Melbourne VIC 3000 ($$$). Open: Mon-Sun 5:00 PM - 3:00 AM. *Tip: Arrive early to secure a table on the terrace for sunset views over the city skyline.*
+- **Arbory Afloat** — 2 Flinders Walk, Melbourne VIC 3000 ($$). Open: Mon-Sun 11:00 AM - 1:00 AM. *Tip: Go during the weekday afternoon to avoid the heavy weekend crowds.*
 ## The Verdict: Where Should You Actually Go?
 
 Here's the quick decision tree:
@@ -179,6 +201,15 @@ Here's the quick decision tree:
 
 ---
 
+
+## Venue Addresses & Details
+
+- **The Everleigh** — Level 1, 150-156 Gertrude St, Fitzroy VIC 3065 ($$$). Open: Mon-Sun 5:00 PM - 1:00 AM. *Tip: Ask the bartender for a 'Dealer's Choice' based on your preferred spirit profile.*
+- **Bar Margaux** — Basement, 111 Lonsdale St, Melbourne VIC 3000 ($$$). Open: Mon-Thu 4:00 PM - 1:00 AM, Fri-Sat 4:00 PM - 3:00 AM. *Tip: Order the cheeseburger; it is widely considered one of the best in the city.*
+- **Eau De Vie** — 1 Malthouse Ln, Melbourne VIC 3000 ($$$). Open: Mon-Thu 5:00 PM - 1:00 AM, Fri-Sat 4:00 PM - 3:00 AM. *Tip: Book a seat at the bar to watch the bartenders perform complex, smoke-infused cocktail techniques.*
+- **Caretaker's Cottage** — 139-141 Little Collins St, Melbourne VIC 3000 ($$). Open: Mon-Sun 4:00 PM - 1:00 AM. *Tip: The Guinness is poured to perfection; it's the best pint in the CBD.*
+- **Siglo** — Level 2, 161 Spring St, Melbourne VIC 3000 ($$$). Open: Mon-Sun 5:00 PM - 3:00 AM. *Tip: Arrive early to secure a table on the terrace for sunset views over the city skyline.*
+- **Arbory Afloat** — 2 Flinders Walk, Melbourne VIC 3000 ($$). Open: Mon-Sun 11:00 AM - 1:00 AM. *Tip: Go during the weekday afternoon to avoid the heavy weekend crowds.*
 ## Your Next Move
 
 If you're planning a full CBD bar crawl, don't try to hit all six in one night — it's a recipe for bad decisions and empty wallets. Pick three. Start early (Cleo or Good Heavens for sunset views), move to a middle bar (Union Electric or Her for the transition), and finish late (Eau De Vie if you've booked, Her if you haven't).
@@ -190,3 +221,22 @@ And once you've exhausted the CBD's rooftop and laneway scene, the suburbs are w
 **Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
 
 *Lina Nguyen is the Nightlife Editor at MELBZ. She's been covering Melbourne's bar scene since 2019 and has visited over 300 venues across the city. Follow MELBZ for weekly bar recommendations, event roundups, and the Suburb Vibe Score that tells you where to be on any given night.*
+
+
+## Venue Addresses & Details
+
+- **The Everleigh** — Level 1, 150-156 Gertrude St, Fitzroy VIC 3065 ($$$). Open: Mon-Sun 5:00 PM - 1:00 AM. *Tip: Ask the bartender for a 'Dealer's Choice' based on your preferred spirit profile.*
+- **Bar Margaux** — Basement, 111 Lonsdale St, Melbourne VIC 3000 ($$$). Open: Mon-Thu 4:00 PM - 1:00 AM, Fri-Sat 4:00 PM - 3:00 AM. *Tip: Order the cheeseburger; it is widely considered one of the best in the city.*
+- **Eau De Vie** — 1 Malthouse Ln, Melbourne VIC 3000 ($$$). Open: Mon-Thu 5:00 PM - 1:00 AM, Fri-Sat 4:00 PM - 3:00 AM. *Tip: Book a seat at the bar to watch the bartenders perform complex, smoke-infused cocktail techniques.*
+- **Caretaker's Cottage** — 139-141 Little Collins St, Melbourne VIC 3000 ($$). Open: Mon-Sun 4:00 PM - 1:00 AM. *Tip: The Guinness is poured to perfection; it's the best pint in the CBD.*
+- **Siglo** — Level 2, 161 Spring St, Melbourne VIC 3000 ($$$). Open: Mon-Sun 5:00 PM - 3:00 AM. *Tip: Arrive early to secure a table on the terrace for sunset views over the city skyline.*
+- **Arbory Afloat** — 2 Flinders Walk, Melbourne VIC 3000 ($$). Open: Mon-Sun 11:00 AM - 1:00 AM. *Tip: Go during the weekday afternoon to avoid the heavy weekend crowds.*
+## Related Articles
+
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/south-yarra/](/south-yarra/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/best-bars-melbourne/](/best-bars-melbourne/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

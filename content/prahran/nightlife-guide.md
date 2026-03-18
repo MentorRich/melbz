@@ -1,14 +1,15 @@
 ---
 title: "Nightlife Guide in Prahran — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/17582212/pexels-photo-17582212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "ethan"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the nightlife guide in Prahran. Our verified 2026 guide covers the best spots for locals."
+tags: ["prahran"]
+categories: ["nightlife"]
 ---
-
 ## The Nightlife Guide to Prahran
 
 Prahran's nightlife runs on a split personality. On one side, you've got Greville Street's indie bars and live music venues where the evening winds down around midnight. On the other, there's Chapel Street's never-say-die club culture where the night doesn't really start until 1am and doesn't end until someone turns the lights on. This guide covers both — because a proper Prahran night out usually involves at least one of each.
@@ -128,3 +129,13 @@ We only list venues we've personally visited and can vouch for. Prices and entry
 ---
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran after-dark coverage, see our [best pubs guide](/prahran/best-pubs) or [date night picks](/prahran/date-night). If you're exploring beyond Prahran, check our [South Yarra nightlife guide](/south-yarra/nightlife-guide) or [Windsor nightlife roundup](/windsor/nightlife-guide).*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/st-kilda/](/st-kilda/)
+- [/nightlife/](/nightlife/)
+- [/things-to-do/](/things-to-do/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

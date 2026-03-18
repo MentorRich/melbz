@@ -5,8 +5,14 @@ date: 2026-03-16
 author: maya
 tags: ["melbourne-cbd", "things-to-do", "lifestyle"]
 categories: ["lifestyle"]
+description: "Updated 16 March 2026 | 6 places tested | Maya Singh reporting
+
 ---
 
+ The CBD is NOT boring. You're just doing it wrong.
+
+Here's the thing about the Melbourn..."
+---
 *Updated 16 March 2026 | 6 places tested | Maya Singh reporting*
 
 ---
@@ -202,3 +208,13 @@ If you want to know what happens when you walk beyond the Hoddle Grid, the next 
 *Updated 16 March 2026 | 6 places tested | Maya Singh reporting*
 
 *Maya Singh is the Weekend Editor at MELBZ. She's lived in Melbourne for nine years and has never once called it "Melbs" without irony. Follow her CBD discoveries on [Instagram](/authors/maya).*
+
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/collingwood/](/collingwood/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

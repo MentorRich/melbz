@@ -1,14 +1,15 @@
 ---
 title: "Things To Do This Weekend in Prahran — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "maya"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the things to do this weekend in Prahran. Our verified 2026 guide covers the best spots for locals."
+tags: ["prahran"]
+categories: ["things"]
 ---
-
 ## Things To Do This Weekend in Prahran
 
 Prahran on a weekend is a different animal to Prahran on a Tuesday. The market's pumping, the brunch crowds are out in force, Greville Street has that slightly buzzing energy that comes from people actually having time to browse, and by Saturday night, Chapel Street transforms from a shopping strip into a full-blown nightlife corridor. Whether you're a Prahran local looking for fresh ideas or you're heading in from elsewhere, here's how to spend a weekend in Prahran in 2026.
@@ -134,3 +135,13 @@ Every venue and price listed was verified in February–March 2026. Hours and sp
 ---
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran guides, see our [neighbourhood guide](/prahran/neighbourhood-guide), [best coffee guide](/prahran/best-coffee), or [date night picks](/prahran/date-night). If you're exploring beyond Prahran, check our [South Yarra weekend guide](/south-yarra/things-to-do-this-weekend) or [Windsor weekend guide](/windsor/things-to-do-this-weekend).*
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/things-to-do-melbourne/](/things-to-do-melbourne/)
+- [/events/](/events/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

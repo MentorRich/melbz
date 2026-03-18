@@ -5,8 +5,14 @@ date: 2026-03-16
 author: jack
 tags: ["melbourne-cbd", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
+description: "Melbourne CBD Honest Guide 2026: Love Letters & Complaints
+
+Updated 16 March 2026 | Jack Morrison reporting
+
 ---
 
+Look, I'm not going to sugarcoat it. Melbou..."
+---
 # Melbourne CBD Honest Guide 2026: Love Letters & Complaints
 
 **Updated 16 March 2026 | Jack Morrison reporting**
@@ -130,3 +136,13 @@ That's the thing about the CBD. It frustrates you constantly, and you stay anywa
 <!-- Engagement Widget 4: Comment Prompt -->
 > **HOT TAKE?**
 > Think we got something wrong? Think the CBD is actually perfect and we're just grumpy? Tell us at [@melbzcomau](https://instagram.com/melbzcomau) — we'll feature the best responses in next week's newsletter.
+
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/brunswick/](/brunswick/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

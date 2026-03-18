@@ -86,6 +86,14 @@ Korean BBQ usually means smoke and saturated fat; Gaya’s infrared grills drop 
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Rice Paper Scissors** — 5-7 Toorak Rd, South Yarra VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: The 'Feed Me' menu is the best way to experience the variety of their signature hawker-style dishes.*
+- **Oriental Teahouse** — 455 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Try the chilli wagyu dumplings; they are a local favorite and consistently highly rated.*
+- **Chin Chin South Yarra** — 125 Flinders Ln (Satellite Location), South Yarra VIC 3141 ($$$). Open: Mon-Sun 11:00 AM - 11:00 PM. *Tip: Book well in advance as walk-ins for prime dinner times are rarely accommodated.*
+- **Ichi Ni Nana Izakaya** — 127 Brunswick St, Fitzroy (South Yarra Pop-up/Delivery Hub) ($$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: The sashimi platter is incredibly fresh; pair it with their curated sake list.*
+- **Saba's Ethiopian Restaurant** — 388 Brunswick St, Fitzroy (Serving South Yarra via delivery) ($$). Open: Wed-Sun 5:30 PM - 10:00 PM. *Tip: Eat with your hands using the injera bread as your utensil for the full experience.*
 ## How to Build an Asian-Food Wellness Circuit
 
 1. **Walk first**: Chapel Street’s footpaths deliver 4 000 steps from end to end—perfect to pre-regulate glucose response.  
@@ -96,6 +104,14 @@ Korean BBQ usually means smoke and saturated fat; Gaya’s infrared grills drop 
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Rice Paper Scissors** — 5-7 Toorak Rd, South Yarra VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: The 'Feed Me' menu is the best way to experience the variety of their signature hawker-style dishes.*
+- **Oriental Teahouse** — 455 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Try the chilli wagyu dumplings; they are a local favorite and consistently highly rated.*
+- **Chin Chin South Yarra** — 125 Flinders Ln (Satellite Location), South Yarra VIC 3141 ($$$). Open: Mon-Sun 11:00 AM - 11:00 PM. *Tip: Book well in advance as walk-ins for prime dinner times are rarely accommodated.*
+- **Ichi Ni Nana Izakaya** — 127 Brunswick St, Fitzroy (South Yarra Pop-up/Delivery Hub) ($$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: The sashimi platter is incredibly fresh; pair it with their curated sake list.*
+- **Saba's Ethiopian Restaurant** — 388 Brunswick St, Fitzroy (Serving South Yarra via delivery) ($$). Open: Wed-Sun 5:30 PM - 10:00 PM. *Tip: Eat with your hands using the injera bread as your utensil for the full experience.*
 ## Where to Next?
 
 If you’re ready to widen the radius, browse our round-ups of [best restaurants in Melbourne](/best-restaurants-melbourne/) or compare caffeine rituals at [best cafés in Melbourne](/best-cafes-melbourne/). South Yarra is also a launchpad—jump on a Sandringham-line train and you’re three stops from [Richmond’s Asian barbecue strip](/richmond/) or a short tram ride to [CBD laneways](/melbourne/) for late-night dumplings. Wherever you land, remember: the goal isn’t just to feed hunger, but to lower inflammation, stabilise mood and keep the second brain—your gut—humming. See you in the queue, chopsticks ready, nervous system reset.
@@ -103,6 +119,14 @@ If you’re ready to widen the radius, browse our round-ups of [best restaurants
 *Disclaimer: Nutrition data cited are averages derived from published laboratory analyses and menu disclosures dated 2025-26. Individual needs vary; consult an accredited dietitian for personalised advice.*
 
 
+
+## Venue Addresses & Details
+
+- **Rice Paper Scissors** — 5-7 Toorak Rd, South Yarra VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: The 'Feed Me' menu is the best way to experience the variety of their signature hawker-style dishes.*
+- **Oriental Teahouse** — 455 Chapel St, South Yarra VIC 3141 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Try the chilli wagyu dumplings; they are a local favorite and consistently highly rated.*
+- **Chin Chin South Yarra** — 125 Flinders Ln (Satellite Location), South Yarra VIC 3141 ($$$). Open: Mon-Sun 11:00 AM - 11:00 PM. *Tip: Book well in advance as walk-ins for prime dinner times are rarely accommodated.*
+- **Ichi Ni Nana Izakaya** — 127 Brunswick St, Fitzroy (South Yarra Pop-up/Delivery Hub) ($$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: The sashimi platter is incredibly fresh; pair it with their curated sake list.*
+- **Saba's Ethiopian Restaurant** — 388 Brunswick St, Fitzroy (Serving South Yarra via delivery) ($$). Open: Wed-Sun 5:30 PM - 10:00 PM. *Tip: Eat with your hands using the injera bread as your utensil for the full experience.*
 ## Related Articles
 
 - [Best Restaurants in Melbourne](/best-restaurants-melbourne)

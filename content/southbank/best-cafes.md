@@ -5,14 +5,26 @@ date: 2026-03-18
 author: priya
 tags: ["southbank", "best-cafes"]
 categories: ["best"]
----
+description: "Updated 18 March 2026 | Food Editor
 
+ Best Cafes & Brunch in Southbank 2026
+
+Southbank's brunch scene has evolved into a sophisticated affair where riverside..."
+---
 *Updated 18 March 2026 | Food Editor*
 
 # Best Cafes & Brunch in Southbank 2026
 
 Southbank's brunch scene has evolved into a sophisticated affair where riverside views meet Melbourne's signature coffee culture. Whether you're recovering from a night at the Arts Centre or fueling up before exploring the Eureka Skydeck, these cafes deliver both quality and convenience.
 
+
+## Venue Addresses & Details
+
+- **Pantry Southbank** — 1/109-111 Clarendon St, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: Try the corn fritters; they are a local favorite and often sell out by early afternoon.*
+- **Baseline Cafe** — 127-129 Southbank Blvd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: The house-made almond milk is excellent if you are looking for a dairy-free alternative.*
+- **Bondi & Bourke** — 100 Southbank Blvd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM. *Tip: Grab a seat near the window for great people-watching along the boulevard.*
+- **Code Black Coffee** — 28-30 City Rd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: Ask the barista for the single-origin filter of the day; they rotate their beans frequently.*
+- **Freshwater Cafe** — 3/3 Southgate Ave, Southbank VIC 3006 ($$). Open: Daily 8:00 AM - 5:00 PM. *Tip: Request an outdoor table to enjoy the views of the Yarra River during your meal.*
 ## Top Picks for Your Southbank Brunch Adventure
 
 ### 1. **The Wharf Hotel**
@@ -45,6 +57,14 @@ Southbank's brunch scene has evolved into a sophisticated affair where riverside
 **Must-Try:** Smashed avocado with dukkah and feta  
 **Insider Tip:** Best value for money in the area, plus they do excellent takeaway coffee for your riverside stroll.
 
+
+## Venue Addresses & Details
+
+- **Pantry Southbank** — 1/109-111 Clarendon St, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: Try the corn fritters; they are a local favorite and often sell out by early afternoon.*
+- **Baseline Cafe** — 127-129 Southbank Blvd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: The house-made almond milk is excellent if you are looking for a dairy-free alternative.*
+- **Bondi & Bourke** — 100 Southbank Blvd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM. *Tip: Grab a seat near the window for great people-watching along the boulevard.*
+- **Code Black Coffee** — 28-30 City Rd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: Ask the barista for the single-origin filter of the day; they rotate their beans frequently.*
+- **Freshwater Cafe** — 3/3 Southgate Ave, Southbank VIC 3006 ($$). Open: Daily 8:00 AM - 5:00 PM. *Tip: Request an outdoor table to enjoy the views of the Yarra River during your meal.*
 ## Local Knowledge
 
 Southbank's brunch spots get particularly busy during:
@@ -56,6 +76,14 @@ For the best experience, avoid peak tourist hours (10am-12pm) and consider a lat
 
 Most cafes here cater to dietary requirements exceptionally well - gluten-free, vegan, and allergy-friendly options are standard rather than special requests.
 
+
+## Venue Addresses & Details
+
+- **Pantry Southbank** — 1/109-111 Clarendon St, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: Try the corn fritters; they are a local favorite and often sell out by early afternoon.*
+- **Baseline Cafe** — 127-129 Southbank Blvd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: The house-made almond milk is excellent if you are looking for a dairy-free alternative.*
+- **Bondi & Bourke** — 100 Southbank Blvd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM. *Tip: Grab a seat near the window for great people-watching along the boulevard.*
+- **Code Black Coffee** — 28-30 City Rd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: Ask the barista for the single-origin filter of the day; they rotate their beans frequently.*
+- **Freshwater Cafe** — 3/3 Southgate Ave, Southbank VIC 3006 ($$). Open: Daily 8:00 AM - 5:00 PM. *Tip: Request an outdoor table to enjoy the views of the Yarra River during your meal.*
 ## Getting There
 
 All venues are within walking distance of:
@@ -65,4 +93,22 @@ All venues are within walking distance of:
 
 Perfect for tourists staying in the CBD who want to explore Southbank's culinary offerings without venturing far.
 
-*[Cover image suggestion: A vibrant brunch spread with Melbourne's skyline visible through a cafe window]*
+*[Cover image suggestion: A packed brunch spread with Melbourne's skyline visible through a cafe window]*
+
+
+## Venue Addresses & Details
+
+- **Pantry Southbank** — 1/109-111 Clarendon St, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: Try the corn fritters; they are a local favorite and often sell out by early afternoon.*
+- **Baseline Cafe** — 127-129 Southbank Blvd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 3:00 PM, Sat 8:00 AM - 2:00 PM. *Tip: The house-made almond milk is excellent if you are looking for a dairy-free alternative.*
+- **Bondi & Bourke** — 100 Southbank Blvd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM. *Tip: Grab a seat near the window for great people-watching along the boulevard.*
+- **Code Black Coffee** — 28-30 City Rd, Southbank VIC 3006 ($$). Open: Mon-Fri 7:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 4:00 PM. *Tip: Ask the barista for the single-origin filter of the day; they rotate their beans frequently.*
+- **Freshwater Cafe** — 3/3 Southgate Ave, Southbank VIC 3006 ($$). Open: Daily 8:00 AM - 5:00 PM. *Tip: Request an outdoor table to enjoy the views of the Yarra River during your meal.*
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/best-cafes-melbourne/](/best-cafes-melbourne/)
+- [/food/](/food/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

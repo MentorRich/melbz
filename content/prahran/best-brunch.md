@@ -1,14 +1,15 @@
 ---
 title: "Best Brunch in Prahran — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/28561875/pexels-photo-28561875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "dani"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best brunch in Prahran. Our verified 2026 guide covers the best spots for locals."
+tags: ["prahran"]
+categories: ["best"]
 ---
-
 ## The Best Brunch in Prahran
 
 Prahran doesn't do brunch quietly. This is a suburb where cafes compete fiercely on weekend mornings — where the avocado toast arms race is real, where corn fritters are a personality trait, and where ordering just a coffee at 10:30am on Saturday feels like showing up to a footy final in the wrong colours. Here's where to get the best brunch in Prahran in 2026, ranked by people who actually eat there.
@@ -120,3 +121,13 @@ We only list venues we've personally visited multiple times and can vouch for in
 ---
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran coverage, see our [best coffee guide](/prahran/best-coffee), [neighbourhood guide](/prahran/neighbourhood-guide), or [nightlife picks](/prahran/nightlife-guide).*
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/prahran/](/prahran/)
+- [/prahran/hub](/prahran/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

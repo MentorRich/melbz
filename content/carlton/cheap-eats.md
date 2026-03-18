@@ -7,8 +7,9 @@ author: "omar"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Discover the cheap eats in Carlton. Our verified 2026 guide covers the best spots for locals on a budget."
+tags: ["carlton"]
+categories: ["cheap"]
 ---
-
 # Cheap Eats in Carlton Under $20 — Your 2026 Guide
 
 Carlton's got a secret weapon that most people overlook when they think about Melbourne dining: because of the University of Melbourne and RMIT campuses nearby, this suburb has always had a student population that demands good food at prices that won't destroy you. The result is one of the best cheap eats scenes in the inner north — and it's not all cheap pizza, either.
@@ -138,6 +139,15 @@ The D.O.C group is best known for their pizza and mozzarella bar, but the deli n
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Lygon Street Kebab** — 188 Lygon St, Carlton VIC 3053 ($). Open: Sun-Thu 10:00 AM - 2:00 AM, Fri-Sat 10:00 AM - 4:00 AM. *Tip: Ask for extra garlic sauce; it's the local secret for the best flavour.*
+- **DOC Espresso** — 326 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 8:00 AM - 10:00 PM. *Tip: Grab a seat at the window to people-watch along Lygon Street.*
+- **Universal Restaurant** — 134-138 Lygon St, Carlton VIC 3053 ($). Open: Mon-Sun 11:00 AM - 11:00 PM. *Tip: The chicken parma is legendary and large enough to share.*
+- **Niku Shiki** — 226 Faraday St, Carlton VIC 3053 ($$). Open: Tue-Sun 12:00 PM - 9:00 PM. *Tip: The lunch sets offer the best value for high-quality sashimi.*
+- **Pidapipó** — 299 Lygon St, Carlton VIC 3053 ($). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Always get the Nutella tap added to your cone.*
+- **Tiamo** — 303 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 11:00 AM - 10:30 PM. *Tip: The house-made pasta specials are consistently cheaper and better than the mains.*
 ## The Bottom Line
 
 Carlton's cheap eats scene is anchored by the University of Melbourne corridor — Grattan Street, Swanston Street, and the northern end of Lygon Street are where you'll find the best value. The Heart of Carlton is the headline act at $5 a plate, but the supporting cast (Rice Bar, La Cabra, Animal Orchestra) is just as strong. If you're a student, a freelancer, or just someone who doesn't think good food should cost $30 a plate, Carlton is your suburb.
@@ -155,6 +165,15 @@ Another pro move: lunch specials. Almost every Carlton restaurant does some kind
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Lygon Street Kebab** — 188 Lygon St, Carlton VIC 3053 ($). Open: Sun-Thu 10:00 AM - 2:00 AM, Fri-Sat 10:00 AM - 4:00 AM. *Tip: Ask for extra garlic sauce; it's the local secret for the best flavour.*
+- **DOC Espresso** — 326 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 8:00 AM - 10:00 PM. *Tip: Grab a seat at the window to people-watch along Lygon Street.*
+- **Universal Restaurant** — 134-138 Lygon St, Carlton VIC 3053 ($). Open: Mon-Sun 11:00 AM - 11:00 PM. *Tip: The chicken parma is legendary and large enough to share.*
+- **Niku Shiki** — 226 Faraday St, Carlton VIC 3053 ($$). Open: Tue-Sun 12:00 PM - 9:00 PM. *Tip: The lunch sets offer the best value for high-quality sashimi.*
+- **Pidapipó** — 299 Lygon St, Carlton VIC 3053 ($). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Always get the Nutella tap added to your cone.*
+- **Tiamo** — 303 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 11:00 AM - 10:30 PM. *Tip: The house-made pasta specials are consistently cheaper and better than the mains.*
 ## Continue Reading
 
 → [Things To Do This Weekend in Carlton](/carlton/things-to-do-this-weekend)
@@ -167,3 +186,22 @@ Another pro move: lunch specials. Almost every Carlton restaurant does some kind
 ---
 
 *Living in Carlton? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=carlton)*
+
+
+## Venue Addresses & Details
+
+- **Lygon Street Kebab** — 188 Lygon St, Carlton VIC 3053 ($). Open: Sun-Thu 10:00 AM - 2:00 AM, Fri-Sat 10:00 AM - 4:00 AM. *Tip: Ask for extra garlic sauce; it's the local secret for the best flavour.*
+- **DOC Espresso** — 326 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 8:00 AM - 10:00 PM. *Tip: Grab a seat at the window to people-watch along Lygon Street.*
+- **Universal Restaurant** — 134-138 Lygon St, Carlton VIC 3053 ($). Open: Mon-Sun 11:00 AM - 11:00 PM. *Tip: The chicken parma is legendary and large enough to share.*
+- **Niku Shiki** — 226 Faraday St, Carlton VIC 3053 ($$). Open: Tue-Sun 12:00 PM - 9:00 PM. *Tip: The lunch sets offer the best value for high-quality sashimi.*
+- **Pidapipó** — 299 Lygon St, Carlton VIC 3053 ($). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Always get the Nutella tap added to your cone.*
+- **Tiamo** — 303 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 11:00 AM - 10:30 PM. *Tip: The house-made pasta specials are consistently cheaper and better than the mains.*
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
+- [/food/](/food/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

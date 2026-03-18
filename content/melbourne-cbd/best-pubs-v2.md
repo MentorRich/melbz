@@ -5,8 +5,12 @@ date: 2026-03-16
 author: kai
 tags: ["melbourne-cbd", "pubs", "nightlife"]
 categories: ["nightlife"]
----
+description: "Best Pubs in Melbourne CBD 2026: Heritage Hotels & Laneway Locals
 
+Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
+
+There's a moment every M..."
+---
 # Best Pubs in Melbourne CBD 2026: Heritage Hotels & Laneway Locals
 
 *Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
@@ -154,3 +158,13 @@ Melbourne was built on pubs. These six prove it still is.
 - [Carlton's Lygon Street: A Pub Guide](/carlton/)  
 - [Fitzroy Locals: Where Fitzroy Actually Drinks](/fitzroy/)  
 - [Melbourne CBD Nightlife: The Definitive 2026 Guide](/melbourne-cbd/)
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/southbank/](/southbank/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/brunswick/](/brunswick/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

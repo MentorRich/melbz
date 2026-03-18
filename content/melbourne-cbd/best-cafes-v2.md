@@ -5,8 +5,12 @@ date: 2026-03-16
 author: eli
 tags: ["melbourne-cbd", "cafes", "food"]
 categories: ["food"]
+description: "Updated 16 March 2026 | 6 places tested | Eli Chen reporting
+
 ---
 
+Melbourne's CBD doesn't sleep on good coffee. It can't. When you're sandwiched between the..."
+---
 Updated 16 March 2026 | 6 places tested | Eli Chen reporting
 
 ---
@@ -103,6 +107,14 @@ If you catch them during a pop-up, grab a bag of whatever they're featuring. At 
 
 **Perfect for:** Coffee nerds and anyone who wants to taste what championship-level espresso actually sounds like.
 
+
+## Venue Addresses & Details
+
+- **Higher Ground** — 650 Little Bourke St, Melbourne VIC 3000 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: The Ricotta Hotcake is a classic, but arrive before 9am on weekends to avoid a 45-minute wait.*
+- **Patricia Coffee Brewers** — 493-495 Little Bourke St, Melbourne VIC 3000 ($). Open: Mon-Fri 7am-4pm. *Tip: It is a standing-only venue; perfect for a quick, high-quality caffeine fix before a meeting.*
+- **Brother Baba Budan** — 359 Little Bourke St, Melbourne VIC 3000 ($). Open: Mon-Sat 7am-5pm, Sun 8am-5pm. *Tip: Grab a bag of their house-roasted beans to take home; they are some of the best in the city.*
+- **Hardware Société** — 123 Hardware St, Melbourne VIC 3000 ($$). Open: Mon-Fri 7:30am-3pm, Sat-Sun 8am-3pm. *Tip: Try the Lobster Benedict; it is their signature dish and sells out quickly.*
+- **Manchester Press** — 8 Rankins Ln, Melbourne VIC 3000 ($$). Open: Mon-Fri 7am-5pm, Sat-Sun 8am-5pm. *Tip: Tucked away in a graffiti-covered laneway, it is easy to miss—look for the small sign near the entrance.*
 ## The CBD Coffee Price Check (March 2026)
 
 | Cafe | Flat White | Coffee + Food |
@@ -116,6 +128,14 @@ If you catch them during a pop-up, grab a bag of whatever they're featuring. At 
 
 The CBD flat white average is sitting around $4.90 this year, which is roughly in line with 2025. The real cost is when you add food — a full brunch will run you $22-27 at the sit-down spots.
 
+
+## Venue Addresses & Details
+
+- **Higher Ground** — 650 Little Bourke St, Melbourne VIC 3000 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: The Ricotta Hotcake is a classic, but arrive before 9am on weekends to avoid a 45-minute wait.*
+- **Patricia Coffee Brewers** — 493-495 Little Bourke St, Melbourne VIC 3000 ($). Open: Mon-Fri 7am-4pm. *Tip: It is a standing-only venue; perfect for a quick, high-quality caffeine fix before a meeting.*
+- **Brother Baba Budan** — 359 Little Bourke St, Melbourne VIC 3000 ($). Open: Mon-Sat 7am-5pm, Sun 8am-5pm. *Tip: Grab a bag of their house-roasted beans to take home; they are some of the best in the city.*
+- **Hardware Société** — 123 Hardware St, Melbourne VIC 3000 ($$). Open: Mon-Fri 7:30am-3pm, Sat-Sun 8am-3pm. *Tip: Try the Lobster Benedict; it is their signature dish and sells out quickly.*
+- **Manchester Press** — 8 Rankins Ln, Melbourne VIC 3000 ($$). Open: Mon-Fri 7am-5pm, Sat-Sun 8am-5pm. *Tip: Tucked away in a graffiti-covered laneway, it is easy to miss—look for the small sign near the entrance.*
 ## What We Skipped and Why
 
 Every "best cafes" list has omissions, and we want to be upfront about ours.
@@ -128,6 +148,14 @@ Every "best cafes" list has omissions, and we want to be upfront about ours.
 
 **St Ali** — Similar story. South Melbourne institution, world-class coffee, but technically South Melbourne not CBD. We'll cover them in a dedicated South Melbourne piece soon.
 
+
+## Venue Addresses & Details
+
+- **Higher Ground** — 650 Little Bourke St, Melbourne VIC 3000 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: The Ricotta Hotcake is a classic, but arrive before 9am on weekends to avoid a 45-minute wait.*
+- **Patricia Coffee Brewers** — 493-495 Little Bourke St, Melbourne VIC 3000 ($). Open: Mon-Fri 7am-4pm. *Tip: It is a standing-only venue; perfect for a quick, high-quality caffeine fix before a meeting.*
+- **Brother Baba Budan** — 359 Little Bourke St, Melbourne VIC 3000 ($). Open: Mon-Sat 7am-5pm, Sun 8am-5pm. *Tip: Grab a bag of their house-roasted beans to take home; they are some of the best in the city.*
+- **Hardware Société** — 123 Hardware St, Melbourne VIC 3000 ($$). Open: Mon-Fri 7:30am-3pm, Sat-Sun 8am-3pm. *Tip: Try the Lobster Benedict; it is their signature dish and sells out quickly.*
+- **Manchester Press** — 8 Rankins Ln, Melbourne VIC 3000 ($$). Open: Mon-Fri 7am-5pm, Sat-Sun 8am-5pm. *Tip: Tucked away in a graffiti-covered laneway, it is easy to miss—look for the small sign near the entrance.*
 ## CBD Cafe Etiquette (A Quick Note)
 
 A few things we noticed during testing that are worth mentioning:
@@ -137,6 +165,14 @@ A few things we noticed during testing that are worth mentioning:
 - **Peak hours are 7:30-9am and 11am-1pm.** If you want a leisurely experience, aim for 9:30-10:30am. You'll get better service and better seats.
 - **Tipping isn't expected** but appreciated. Round up or leave a couple of dollars in the jar. These people get up at 4am for you.
 
+
+## Venue Addresses & Details
+
+- **Higher Ground** — 650 Little Bourke St, Melbourne VIC 3000 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: The Ricotta Hotcake is a classic, but arrive before 9am on weekends to avoid a 45-minute wait.*
+- **Patricia Coffee Brewers** — 493-495 Little Bourke St, Melbourne VIC 3000 ($). Open: Mon-Fri 7am-4pm. *Tip: It is a standing-only venue; perfect for a quick, high-quality caffeine fix before a meeting.*
+- **Brother Baba Budan** — 359 Little Bourke St, Melbourne VIC 3000 ($). Open: Mon-Sat 7am-5pm, Sun 8am-5pm. *Tip: Grab a bag of their house-roasted beans to take home; they are some of the best in the city.*
+- **Hardware Société** — 123 Hardware St, Melbourne VIC 3000 ($$). Open: Mon-Fri 7:30am-3pm, Sat-Sun 8am-3pm. *Tip: Try the Lobster Benedict; it is their signature dish and sells out quickly.*
+- **Manchester Press** — 8 Rankins Ln, Melbourne VIC 3000 ($$). Open: Mon-Fri 7am-5pm, Sat-Sun 8am-5pm. *Tip: Tucked away in a graffiti-covered laneway, it is easy to miss—look for the small sign near the entrance.*
 ## The Verdict
 
 Melbourne CBD remains one of the best coffee cities on the planet, and these six cafes are the reason why. Whether you want a lightning-fast flat white at Patricia, a three-hour brunch at Higher Ground, or a proper pour at Brother Baba Budan, the CBD has you covered.
@@ -160,3 +196,21 @@ Now get out there and find your own favourite. That's the real Melbourne way.
 ---
 
 *Prices current as of March 2026. Menu items and availability may change. We paid for all meals and coffees reviewed — no comps, no sponsorships, no freebies.*
+
+
+## Venue Addresses & Details
+
+- **Higher Ground** — 650 Little Bourke St, Melbourne VIC 3000 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: The Ricotta Hotcake is a classic, but arrive before 9am on weekends to avoid a 45-minute wait.*
+- **Patricia Coffee Brewers** — 493-495 Little Bourke St, Melbourne VIC 3000 ($). Open: Mon-Fri 7am-4pm. *Tip: It is a standing-only venue; perfect for a quick, high-quality caffeine fix before a meeting.*
+- **Brother Baba Budan** — 359 Little Bourke St, Melbourne VIC 3000 ($). Open: Mon-Sat 7am-5pm, Sun 8am-5pm. *Tip: Grab a bag of their house-roasted beans to take home; they are some of the best in the city.*
+- **Hardware Société** — 123 Hardware St, Melbourne VIC 3000 ($$). Open: Mon-Fri 7:30am-3pm, Sat-Sun 8am-3pm. *Tip: Try the Lobster Benedict; it is their signature dish and sells out quickly.*
+- **Manchester Press** — 8 Rankins Ln, Melbourne VIC 3000 ($$). Open: Mon-Fri 7am-5pm, Sat-Sun 8am-5pm. *Tip: Tucked away in a graffiti-covered laneway, it is easy to miss—look for the small sign near the entrance.*
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

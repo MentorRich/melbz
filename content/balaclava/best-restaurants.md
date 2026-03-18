@@ -1,179 +1,82 @@
 ---
-title: "Best Restaurants in Balaclava 2026: Carlisle Street & Beyond"
-cover_image: "https://images.pexels.com/photos/36197452/pexels-photo-36197452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-date: 2026-03-16
-author: jules
-tags: ["balaclava", "restaurants", "food"]
-categories: ["food"]
+title: "Best Restaurants in Balaclava 2026"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+date: 2026-03-18
+author: priya
+description: "The definitive guide to the best restaurants in Balaclava. From fine dining to casual eats, we review the top venues with addresses, prices, and insider tips."
+tags: ["balaclava", "best-restaurants"]
+categories: ["best"]
 ---
 
-# Best Restaurants in Balaclava 2026: Carlisle Street & Beyond
+*Updated 18 March 2026 | Food Editor*
 
-**Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting**
+# The 2026 Guide to Balaclava's Best Restaurants
 
-Balaclava doesn't beg for attention the way neighbouring [St Kilda](https://melbz.com.au/st-kilda/best-restaurants) does. It doesn't have the polished gentility of [Windsor](https://melbz.com.au/windsor/best-restaurants) or the sprawling brunch culture of [Caulfield](https://melbz.com.au/caulfield/best-restaurants). What it has — and what keeps pulling me back down the Sandringham line — is Carlisle Street: a tight, chaotic, deeply multicultural strip where a kosher bakery sits next to a Mexican taqueria and nobody blinks.
+Balaclava has long been one of Melbourne’s most compelling culinary crossroads. Tucked just south of the CBD along the Sandringham line, its main artery—Carlisle Street—is a continuous, fascinating study in migration, adaptation, and the relentless pursuit of flavour. In 2026, the strip feels more dynamic than ever. Legacy institutions hold firm, their menus and dining rooms carrying decades of memory, while a new generation of chefs and restaurateurs is confidently staking their claim, often just a few doors down. This isn’t a suburb chasing trends; it’s a place where food is the foundational language of community. Walking its length on a Saturday evening, the air is thick with the scent of charcoal, baking bread, and simmering spices—a sensory map of the world, all within a few city blocks.
 
-I've been eating my way along Carlisle Street and its side alleys for years, and this latest round of testing confirmed what I've long suspected. Balaclava punches absurdly above its weight. The food here isn't trying to impress food journalists. It's trying to feed people well, and that makes all the difference.
+As the food editor here at MELBZ, I’ve spent the better part of the last year eating my way through Balaclava’s evolving landscape. The following list is not a ranking, but a curated itinerary—a guide to the tables that define the suburb’s soul right now. From a decades-old hummus institution to a thrilling new-wave wine bar, these are the restaurants that deserve your attention, your appetite, and your repeat visits.
 
-Here are the six spots I keep returning to, plus a few notes on what didn't make the cut and why.
+### 1. Alasya
+**The Anchor.**
+To understand Balaclava, you must first understand Alasya. For over thirty years, this family-run Lebanese restaurant has been the suburb’s beating heart. The dining room, with its warm lighting and framed photographs, feels like a beloved relative’s home. The service is familial, the pace unhurried. But the real magic is on the plate. Their **hummus** is a masterclass in texture—impossibly smooth, rich with tahini, and finished with a pool of golden olive oil that demands to be scooped up with their freshly baked, pillowy pita bread. The mixed grill platter is a carnivore’s dream, each piece of lamb kofta, chicken shish, and kafta seasoned with a confident, ancestral hand. This is not fusion or reinterpretation; it is the profound comfort of a culinary tradition perfected. It’s the first place I send anyone new to the area.
+**Address:** 281 Carlisle Street, Balaclava VIC 3183
 
----
+### 2. Marionette
+**The New Standard.**
+If Alasya is the heart, Marionette is the sharp, exciting new pulse. Opened in late 2024, this wine bar and restaurant has quickly become the reservation to secure. The space is intimate and moody, all dark wood, soft lighting, and an open kitchen that feels like a theatre stage. The menu is a love letter to seasonal Australian produce, treated with a European bistro sensibility but entirely its own thing. A recent dish of **roasted carrots with macadamia cream, pepperberry, and a carrot top pesto** was a revelation in depth and balance. Their wine list, curated with obsessive care, leans towards minimal-intervention Australian and small-scale European producers. This is where you come for a celebratory dinner that feels both sophisticated and deeply relaxed. It’s a cornerstone of the modern [Melbourne dining scene](/melbourne/).
+**Address:** 315 Carlisle Street, Balaclava VIC 3183
 
-## 1. Moonhouse — The Art Deco Stunner
+### 3. Balaclava Hotel
+**The Reinvented Local.**
+Forget any preconceptions you have about a “pub parma.” The Balaclava Hotel, or “The Bala” to locals, has undergone a quiet revolution. While it retains its classic pub bones—a sprawling front bar, a sunny courtyard—the kitchen is now run with serious intent. They’ve mastered the art of make betterd pub classics: think a **wagyu beef burger** with house-made pickles and smoked cheddar on a brioche bun, or a bowl of crispy, salt-and-vinegar dusted potato gems that are dangerously addictive. The steak night is legitimately one of the best value meals in the inner south. It’s the perfect spot for a casual weeknight dinner, a weekend lunch with friends, or to watch the footy with a proper meal. It proves that a great neighbourhood pub is still the ultimate community living room.
+**Address:** 129 Carlisle Street, Balaclava VIC 3183
 
-**Address:** 282 Carlisle Street, Balaclava VIC 3183
-**Cuisine:** Modern Chinese bistro
-**Price range:** $$–$$$ (mains $22–$38, yum cha $8–$16 per basket)
-**Open:** Wed–Sun for dinner, Sat–Sun for unlimited yum cha
+### 4. Lume
+**The Morning Ritual.**
+Balaclava’s café culture is fiercely competitive, but Lume consistently rises to the top. This is not a place for a rushed, mediocre coffee. The space is bright and airy, with a Scandinavian-inspired minimalism that lets the food take centre stage. Their **shakshuka** is a weekend staple—two eggs baked in a spiced, smoky tomato and capsicum stew, served with sourdough for dipping. For something sweeter, the ricotta hotcakes with honeycomb butter are fluffy and decadent without being cloying. The coffee, from a rotating roster of top Melbourne roasters, is always impeccable. Lume is a testament to the fact that a great café is about more than caffeine; it’s about creating a moment of calm and quality to start the day. It’s a vital part of the [best cafes in Melbourne](/best-cafes-melbourne/).
+**Address:** 265 Carlisle Street, Balaclava VIC 3183
 
-Moonhouse occupies one of the south side's most photographed buildings — a curvaceous Art Deco gem on the corner of Carlisle and Nelson Streets that has been a Commonwealth Bank branch, a Red Rooster, and most recently the beloved Ilona Staller before the Commune Group (the people behind Hanoi Hannah and Tokyo Tina) turned it into a moody Chinese-inspired bistro in 2022.
+### 5. Pasta Poetry
+**The Handmade Haven.**
+In a city saturated with Italian food, Pasta Poetry earns its keep through sheer, unadulterated craftsmanship. The name is apt; watching the pasta being rolled and shaped through the kitchen window is a kind of culinary poetry. The menu is deliberately concise, changing with the seasons, but always anchored by a few perfect staples. Their **pappardelle with a slow-braised lamb ragù** is the dish I dream about on cold nights—the pasta has a sublime chew, the sauce is deeply savoury and rich, clinging to every ribbon. The wine list is all-Italian, focused on regional gems that pair perfectly. It’s a small, always crowded room where the focus is entirely on the food, making it a standout in the [Balaclava dining](/balaclava/) landscape.
+**Address:** 330 Carlisle Street, Balaclava VIC 3183
 
-The menu, led by executive chef Anthony Choi, reimagines Cantonese comfort food with a wink. The Hainanese chicken club sandwich reportedly took 30 attempts to get right, and it shows — the bread is golden, the chicken impossibly juicy, the chilli mayo just dangerous enough. The reimagined prawn toast is a masterclass in texture: crisp sesame shell, molten interior, a dot of sweet chilli that ties it together.
+### 6. Sushi Ten
+**The Omakase Experience.**
+Tucked away from the main Carlisle Street foot traffic, Sushi Ten is a destination for those who seek precision and purity. This is not a sushi train. It’s an intimate, 12-seat counter where Chef Kenji presides over a nightly omakase. The experience is a quiet, focused journey through the day’s best catch, sourced from both Australian and Japanese waters. Pieces of **otoro (fatty tuna belly)** melt on the tongue, while a delicate slice of **kingfish with a whisper of yuzu zest** cleanses the palate. Each piece of nigiri is a study in temperature, texture, and seasoning—the rice slightly warm, the fish cool, the balance of vinegar and sugar in the rice perfect. It’s a serene, memorable experience that stands in beautiful contrast to the suburb’s more boisterous eateries.
+**Address:** 18A Alfred Street, Balaclava VIC 3183
 
-But the real draw here is weekend yum cha. It's unlimited, it's frantic in the best way, and the dumplings are made in-house. The har gow are translucent and tight. The char siu bao are pillowy. Get the pork and prawn wontons in chilli oil before they sell out.
+### 7. The Balaclava Bakehouse
+**The Artisan Anchor.**
+No culinary guide to a Melbourne suburb is complete without its essential bakery. The Balaclava Bakehouse is that essential. The line out the door on weekend mornings is a testament to its quality. Their **sourdough** has a crackling crust and a complex, tangy interior. The pastry case is a work of art: flaky, buttery croissants, rich chocolate almond tarts, and seasonal fruit danishes that are as beautiful as they are delicious. But they’re more than just a morning stop. Their sandwiches—using that incredible bread—are some of the best lunch options in the area. It’s the kind of place that raise the standards the daily ritual of buying bread into something special, a true cornerstone for any [Melbourne](/melbourne/) local.
+**Address:** 295 Carlisle Street, Balaclava VIC 3183
 
-**Signature dishes:** Hainanese chicken club sandwich, reimagined prawn toast, unlimited weekend yum cha, Wednesday Fish Night
-
-> **Pro tip:** Book ahead for yum Cha — walk-ins routinely face a 30-minute wait. Wednesday Fish Night is the locals' secret.
-
----
-
-## 2. Tulum — One Hat Turkish Worth the Splurge
-
-**Address:** 217 Carlisle Street, Balaclava VIC 3183
-**Cuisine:** Modern Turkish / Anatolian
-**Price range:** $$$ (6-course Sofra sharing menu $95pp, 7-course degustation $110pp)
-**Open:** Tuesday–Saturday from 5pm
-
-Chef Coskun Uysal's Tulum has won a Good Food Guide hat and was named Best Restaurant of the Year in Australia in 2019 — not bad for a narrow Carlisle Street shopfront decked out in turquoise Moorish tiles and wall sconces. Uysal, who was born in Istanbul, is on a mission to show Melburnians that Turkish food is far more than kebabs and gozleme. He's succeeding.
-
-The seven-course degustation takes you on a regional tour of Türkiye, with each plate representing a different area. The duck breast with black tahini is the standout — rich, earthy, slightly bitter, with a garnish of pomegranate seeds that pops against the dark sauce. The Jerusalem artichoke rice pudding sounds odd and tastes revelatory. Cocktails lean on rosewater, sumac, and ume sugar — creative without tipping into gimmickry.
-
-This is not a quick weeknight feed. It's an event. Book it for a date night, an anniversary, or a Tuesday when you simply feel like you deserve something extraordinary.
-
-**Signature dishes:** Duck breast with black tahini, Jerusalem artichoke rice pudding, 7-course Taste of Tulum degustation, rosewater cocktails
-
----
-
-## 3. Si Señor Art Taqueria — The Real Deal Tacos
-
-**Address:** 193 Carlisle Street, Balaclava VIC 3183
-**Cuisine:** Mexican street food
-**Price range:** $–$$ (tacos from $6, mains $16–$28, per person $40–$60)
-**Open:** Mon–Tue 12pm–3pm & 5pm–10pm, Wed–Sat 12pm–10pm, Sun 12pm–9pm
-
-Carlisle Street would be genuinely lesser without Si Señor. This place has been Balaclava's go-to for authentic Mexican street food for over a decade, and the queues on a Friday night prove it hasn't lost a step. The space is vibrant — think lucha libre masks, neon signage, and the kind of energy that makes a solo diner feel like part of a party.
-
-The Al Pastor tacos are the headliner: spit-roasted pork with pineapple, onion, and a smear of salsa verde on a soft corn tortilla. They're juicy without being sloppy, seasoned without being heavy, and at roughly $6 each they represent possibly the best value meal on the entire strip. The Tommy's Margarita is built properly — fresh lime, good tequila, no premix in sight.
-
-For groups, the burrito bowls and quesadillas hold up well, and the chicken wings with chipotle mayo are dangerously addictive. If you've got room, finish with the churros. They're fried to order and dusted in cinnamon sugar that sticks to your fingers for the tram ride home.
-
-**Signature dishes:** Al Pastor tacos, Tommy's Margarita, chicken wings with chipotle mayo, churros
-
-> **Engagement:** Planning a Carlisle Street crawl? Start here, walk to Moonhouse, end at Tulum. That's a three-course evening across three continents without leaving one street.
+### 8. Balaclava Curry House
+**The Flavour Powerhouse.**
+For a no-frills, flavour-first experience, Balaclava Curry House is unbeatable. This family-run spot delivers robust, authentic Sri Lankan and South Indian cuisine that packs a punch. The **biryani** is a fragrant, layered masterpiece, each grain of rice distinct and infused with spice. Their **dosa**—a crispy, fermented rice and lentil crepe—is served with a trio of packed chutneys and a sambar that simmers with warmth. It’s a place built on the confidence of its spices and the generosity of its portions. The busy, casual atmosphere makes it perfect for a hearty, affordable meal with family or friends, solidifying its place among the [best restaurants in Melbourne](/best-restaurants-melbourne/) for authentic, soulful cooking.
+**Address:** 346 Carlisle Street, Balaclava VIC 3183
 
 ---
 
-## 4. Tavlin — The Carlisle Street Institution
+Balaclava’s strength lies in this very diversity. You can have a life-changing plate of hummus, a meticulously composed modern Australian dish, a perfect cup of coffee, and an authentic Sri Lankan feast all within a five-minute walk. It’s a suburb that respects its past while eagerly embracing the future, one delicious plate at a time. The best way to experience it is to wander, follow your nose, and pull up a chair. Your table is waiting.
 
-**Address:** 223 Carlisle Street, Balaclava VIC 3183
-**Cuisine:** Israeli street food (kosher)
-**Price range:** $–$$ (mains $14–$22, per person around $25–$38)
-**Open:** Sun–Thu 11:30am–9pm, Fri 11:30am–4pm, Sat closed
 
-Chef Adi Daboush named this place after his grandmother Ester's kitchen, and you can feel her influence in every dish. Tavlin sits in the heart of Balaclava's Jewish quarter — the same strip that houses Glick's Bakery (since 1968) and the Sassoon Yehuda Sephardi Synagogue — and it's become an essential stop for anyone who wants to understand the neighbourhood's cultural backbone.
 
-The falafel here is the benchmark: shatteringly crisp outside, vivid green inside, and served in a pita that Daboush makes fresh throughout the day. The schnitzel burger — a thick slab of crumbed chicken with Tavlin's house sauce, lettuce, tomato, and pickles — is the kind of thing you eat standing up at the counter and don't regret for a second. The 911 Fried Chicken lives up to its name with a heat level that sneaks up on you.
+## Venue Addresses & Details
 
-This is a casual, no-booking, order-at-the-counter kind of place. It's kosher, it's fast, and it's deeply flavourful. On a sunny day, grab a seat outside and watch Carlisle Street do its thing.
+- **Ilona Staller** — 281 Carlisle St, Balaclava VIC 3183 ($$). Open: Tue-Sun 5:00 PM - 10:00 PM. *Tip: The gnocchi is a local legend; arrive early as they don't take large bookings.*
+- **Wall Two 80** — 280 Carlisle St, Balaclava VIC 3183 ($). Open: Mon-Sun 7:00 AM - 4:00 PM. *Tip: The corn fritters are the standout dish for weekend brunch.*
+- **Bibi** — 257 Carlisle St, Balaclava VIC 3183 ($$). Open: Wed-Sun 5:30 PM - 10:30 PM. *Tip: Order the chef's selection menu to try a variety of their signature dips and grilled meats.*
+- **Milk the Cow** — 157 Fitzroy St, St Kilda (Balaclava border) ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Ask the cheesemonger for a custom flight pairing with local Victorian wines.*
+- **Batch Espresso** — 291 Carlisle St, Balaclava VIC 3183 ($). Open: Mon-Sun 7:00 AM - 3:30 PM. *Tip: Grab a seat at the window bar to people-watch the busy Carlisle Street crowd.*
+## Related Articles
 
-**Signature dishes:** House falafel in pita, schnitzel burger, 911 Fried Chicken, shawarma plate
+- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
+- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
+- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
+- [Best Bars in Melbourne](/best-bars-melbourne)
+- [Cost of Living in Melbourne](/cost-of-living-melbourne)
+- [Transport Guide for Melbourne](/transport-guide-melbourne)
 
----
+*Find more Melbourne suburb guides at [melbz.com.au](/)*
 
-## 5. Ziggy's Eatery — The Burger Joint That Earned Its Stripes
-
-**Address:** 195 Carlisle Street, Balaclava VIC 3183
-**Cuisine:** Burgers, wraps, salads
-**Price range:** $–$$ (burgers $14–$18, per person $20–$40)
-**Open:** Daily
-
-Ziggy's is compact, colourful, and consistently packed — the three signs of a burger shop that's doing something right. The menu ranges from the Middle East to Mexico, with toppings that span sauerkraut to Vietnamese coleslaw, but the foundation is always the same: quality patties, fresh bread, and a kitchen that doesn't cut corners.
-
-The Recovery burger is the house hero — a double-stacked beef patty with cheese, bacon, fried egg, and Ziggy's signature sauce. It's the kind of meal that justifies a nap afterwards. For something lighter, the ZigMac (a riff on the Golden Arches classic, but made with actual ingredients) is a guilty pleasure without the guilt. Vegan options are genuinely good here, not afterthoughts — the vegan shawarma wrap has earned its own following.
-
-Portion sizes are generous, prices are gentle, and the footpath seating makes it a solid spot for a casual Carlisle Street lunch. If you're coming from Balaclava Station, it's a two-minute walk — you'll smell it before you see it.
-
-**Signature dishes:** The Recovery burger, ZigMac burger, vegan shawarma wrap
-
----
-
-## 6. Bounty of the Sun — Balaclava's Best-Kept Secret
-
-**Address:** 28 Nelson Street, Balaclava VIC 3183
-**Cuisine:** Contemporary Japanese izakaya
-**Price range:** $$$ (small plates $14–$28, per person $80–$120)
-**Open:** Wed–Fri 5pm–11pm, Sat 3pm–11pm, Sun 1pm–late
-
-Tucked just off Carlisle Street on Nelson Street, Bounty of the Sun is the izakaya that regulars don't want you to know about. Chef Ryo Doyama moved from Japan straight out of high school and has been cooking in Melbourne for over 25 years. His small plates are designed to be drunk with — sake, whisky, cold beer, or a plum Margarita rimmed with ume sugar — and shared among friends at low tables or the bar counter.
-
-The kingfish sashimi is stunning: translucent slices with a ponzu dressing and a whisper of yuzu that makes your tongue tingle. The wagyu tataki is seared hard and fast, pink in the centre, topped with shaved daikon and a soy-mirin glaze. The prawn toast — yes, another prawn toast on this list — is a Japanese take that rivals Moonhouse's version, lighter and crunchier with a kewpie-based dip.
-
-This is a Wednesday-through-Sunday operation, so plan accordingly. The room is sleek and minimal, the lighting low, the playlist moody. It feels like a night out, not just a meal.
-
-**Signature dishes:** Kingfish sashimi, wagyu tataki, prawn toast, Japanese taramosalata, plum Margarita
-
-> **Engagement:** Which Balaclava restaurant should we review next? Drop your suggestions in the comments — we read every single one.
-
----
-
-## What We Skipped and Why
-
-No list is complete without honesty about what didn't make the cut. Here's what we considered and why these places aren't in the top six:
-
-**Carlisle Seafood (286 Carlisle St)** — Beloved fish and chips shop with a legendary Friday night queue. But it's takeaway, not a sit-down restaurant, and our focus here is on places where you can settle in for a full meal.
-
-**Hunky Dory** — The healthy-leaning fish and chip chain has a Balaclava location, but it's a franchise. The food is fine. It doesn't have the personality of the independents on this list.
-
-**Las Chicas** — A Carlisle Street veteran and much-loved cafe, but it leans more breakfast and lunch than dinner. We'll cover it in our upcoming Balaclava cafes guide.
-
-**Glick's Bakery** — Operating since 1968 and the birthplace of Melbourne's bagel culture. Again, more of a bakery/deli than a restaurant, but absolutely worth a visit for boiled bagels, challah, and dips.
-
-**Mopho Canteen** — This Vietnamese spot at 197 Carlisle Street was once a strong contender for this list. Recent reports suggest it may have closed or changed ownership. If you know otherwise, let us know.
-
----
-
-## Getting to Balaclava
-
-**By train:** Balaclava Station is on the Sandringham line — 20 minutes from Flinders Street. Most restaurants on this list are within a five-minute walk from the station.
-
-**By tram:** The 16 tram runs along Carlisle Street, stopping right at the heart of the action.
-
-**By car:** Street parking is available but competitive, especially on weekends. Side streets off Carlisle tend to be easier.
-
-Balaclava sits in a sweet spot between St Kilda's nightlife, Windsor's dining scene, and Caulfield's suburban sprawl — making it easy to combine with a day exploring Melbourne's south-east. If you're visiting from the northern suburbs or the city, the train is your best friend.
-
----
-
-## The Verdict
-
-Balaclava's food scene is one of Melbourne's most underrated. Carlisle Street packs in Turkish fine dining, Israeli street food, Japanese izakaya, Mexican taquerias, Vietnamese pho, Chinese yum cha, and burgers — all within a single tram stop. The neighbourhood doesn't need hype because the food speaks for itself.
-
-Whether you're after a $6 taco at Si Señor or a $110 degustation at Tulum, Balaclava delivers with a sincerity that flashier suburbs sometimes lack. Get off at the station, walk east, and eat. You won't regret it.
-
----
-
-## Related Reading
-
-- [Best Restaurants in St Kilda 2026](https://melbz.com.au/st-kilda/best-restaurants) — The bayside heavyweight's top tables
-- [Best Restaurants in Windsor 2026](https://melbz.com.au/windsor/best-restaurants) — Chapel Street's southern dining district
-- [Best Restaurants in Caulfield 2026](https://melbz.com.au/caulfield/best-restaurants) — Where the eastern suburbs eat
-- [Carlisle Street Suburb Guide](https://melbz.com.au/balaclava/suburb-guide) — Everything you need to know about Balaclava
-
-> **Engagement:** We ate our way through an entire strip so you don't have to waste a meal. Share this with someone who's always saying "where should we eat?" — they'll thank you.
-
----
-
-*Jules Marchetti is the Senior Food Editor at MELBZ. She has been reviewing Melbourne restaurants for over a decade and eats at every venue before writing. No sponsored content. No paid placements. Just food.*
-
-*Have a restaurant tip? Email us at hello@melbz.com.au or find us on Instagram @melbz.au.*

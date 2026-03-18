@@ -1,5 +1,6 @@
 ---
 title: "AusFitness Expo Melbourne 2026: Everything You Need to Know Before You Go"
+cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 draft: false
 slug: "ausfitness-expo-melbourne-2026"
@@ -9,9 +10,8 @@ tags: ["events", "fitness", "melbourne", "things-to-do"]
 author: "jules"
 event_date: "2026-03-21"
 event_end: "2026-03-22"
-cover_image: "/images/food_ausfitness-expo-melbourne-2026-guide.jpg"
+categories: ["general"]
 ---
-
 # AusFitness Expo Melbourne 2026: Everything You Need to Know Before You Go
 
 Australia's biggest fitness expo is back at MCEC this Saturday and Sunday (March 21–22), and whether you're a gym regular, a fitness professional, or just someone who enjoys watching very strong people do extraordinary things — it's worth knowing what you're walking into before you get there.
@@ -167,3 +167,10 @@ South Wharf is accessible via the Yarra Trail bike path. Bike parking is availab
 ---
 
 *AusFitness Expo Melbourne runs Saturday 21 and Sunday 22 March 2026 at MCEC, South Wharf. Tickets from $30 online. Last updated March 2026.*
+
+## Related Articles
+
+- [/food/](/food/)
+- [/food/hub](/food/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

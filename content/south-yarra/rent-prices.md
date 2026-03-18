@@ -76,3 +76,12 @@ Cover image by [Pexels](https://www.pexels.com)
 
 *Find more Melbourne suburb guides at [melbz.com.au](/)*
 
+
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

@@ -1,5 +1,6 @@
 ---
 title: "Fitzroy"
+cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
 description: "Inner north's creative heart with legendary food scene. From Brunswick Street's iconic restaurants to Gertrude Street's wine bars, discover what makes Fitzroy one of Melbourne's most dynamic suburbs."
 author: "Jules Marchetti"
 author_role: "Editor-in-Chief"

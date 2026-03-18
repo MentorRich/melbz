@@ -5,8 +5,14 @@ date: 2026-03-16
 author: jack
 tags: ["southbank", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
+description: "Southbank Honest Guide 2026: Arts Precinct & Apartment Living
+
+Updated 16 March 2026 | Jack Morrison reporting
+
 ---
 
+Let's get something straight about South..."
+---
 # Southbank Honest Guide 2026: Arts Precinct & Apartment Living
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -151,3 +157,13 @@ Southbank consistently scores in the high 60s to mid-70s on our Suburb Vibe Scor
 
 **Get Southbank's weekly briefing** — new openings, vibe score changes, and the stuff worth knowing about, delivered every Monday.
 
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/brunswick/](/brunswick/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

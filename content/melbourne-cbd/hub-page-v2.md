@@ -5,8 +5,14 @@ date: 2026-03-16
 author: jack
 tags: ["melbourne-cbd", "suburb-guide"]
 categories: ["lifestyle"]
+description: "Melbourne CBD Suburb Guide 2026
+
+Updated 16 March 2026 | Jack Morrison reporting
+
 ---
 
+Melbourne's CBD is 2.6 square kilometres of controlled chaos. It's whe..."
+---
 # Melbourne CBD Suburb Guide 2026
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -205,3 +211,13 @@ The trick to the CBD is treating it like a friend with a complicated personality
 *This article covers Melbourne CBD (postcode 3000) in the City of Melbourne local government area. For the MELBZ Vibe Score, weekly suburb briefings, or to rate the CBD based on your experience, visit the [Melbourne CBD suburb page](/melbourne-cbd/).*
 
 *Updated 16 March 2026 | Jack Morrison reporting*
+
+## Related Articles
+
+- [/northcote/](/northcote/)
+- [/south-yarra/](/south-yarra/)
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

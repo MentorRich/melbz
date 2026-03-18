@@ -7,8 +7,9 @@ author: "jess"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The best bars in Carlton for 2026 — rooftop drinks, wine bars, cocktail lounges, and neighbourhood pubs. Real venues, real prices, honest reviews."
+tags: ["carlton"]
+categories: ["best"]
 ---
-
 # 10 Best Bars in Carlton You Need to Try in 2026
 
 Carlton isn't Fitzroy. It doesn't do warehouse parties, hidden speakeasies behind fake bookshelves, or cocktails served in miniature bathtubs. What it does is something more considered: grown-up drinking done properly. Long Italian dinners that roll into amaro nightcaps, rooftop bars with city views and Italo disco on the speakers, neighbourhood pubs where the owner knows your name, and wine bars where the list is deeper than your Spotify library.
@@ -139,7 +140,7 @@ The Lincoln on Cardigan Street is a proper gastropub in the best sense of the te
 ## 10. Prince Alfred Hotel
 **The vibe:** Right opposite the university, Prince Alfred is the pub that launched a thousand missed lectures — and a lush rooftop bar
 
-Prince Alfred is a classic student pub elevated by one of Carlton's best rooftop bars. The ground floor is traditional pub territory: parma, porterhouse steaks, pot after pot of VB (or craft, if that's your thing). But head upstairs and you'll find a green, leafy rooftop that feels a world away from the university campus below. In summer, it's one of the best spots in Carlton for a casual afternoon drink. The food is honest pub fare, the prices are student-friendly, and the vibe is reliably good.
+Prince Alfred is a classic student pub make betterd by one of Carlton's best rooftop bars. The ground floor is traditional pub territory: parma, porterhouse steaks, pot after pot of VB (or craft, if that's your thing). But head upstairs and you'll find a green, leafy rooftop that feels a world away from the university campus below. In summer, it's one of the best spots in Carlton for a casual afternoon drink. The food is honest pub fare, the prices are student-friendly, and the vibe is reliably good.
 
 **Order this:** Chicken parma ($22) and a pot of local lager ($7)
 **Address:** 266 Lygon Street, Carlton
@@ -149,6 +150,14 @@ Prince Alfred is a classic student pub elevated by one of Carlton's best rooftop
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Gerald's Bar** — 386 Rathdowne St, Carlton North VIC 3054 ($$). Open: Mon-Sun 4:00 PM - 1:00 AM. *Tip: Don't bother with a menu; ask the staff for their daily wine recommendation.*
+- **King & Godfree** — 297 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 7:00 AM - 11:00 PM. *Tip: Head to the rooftop bar, Johnny's Green Room, for the best sunset views over the city.*
+- **Heartattack and Vine** — 329 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 7:00 AM - 11:00 PM. *Tip: Try their house-made vermouth on ice with a twist of orange.*
+- **The Carlton Wine Room** — 173 Faraday St, Carlton VIC 3053 ($$$). Open: Tue-Sun 12:00 PM - 11:00 PM. *Tip: Book a table on the second floor for a quieter, more intimate dining experience.*
+- **Doc Espresso** — 330 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 8:00 AM - 10:00 PM. *Tip: The wine list is heavily focused on regional Italian varietals; ask for a glass of Nebbiolo.*
 ## Getting Home Safe
 
 Carlton's bar scene is concentrated along Lygon Street and the surrounding streets, which are well-lit and busy until late. For late-night transport:
@@ -161,6 +170,14 @@ Carlton's bar scene is concentrated along Lygon Street and the surrounding stree
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Gerald's Bar** — 386 Rathdowne St, Carlton North VIC 3054 ($$). Open: Mon-Sun 4:00 PM - 1:00 AM. *Tip: Don't bother with a menu; ask the staff for their daily wine recommendation.*
+- **King & Godfree** — 297 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 7:00 AM - 11:00 PM. *Tip: Head to the rooftop bar, Johnny's Green Room, for the best sunset views over the city.*
+- **Heartattack and Vine** — 329 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 7:00 AM - 11:00 PM. *Tip: Try their house-made vermouth on ice with a twist of orange.*
+- **The Carlton Wine Room** — 173 Faraday St, Carlton VIC 3053 ($$$). Open: Tue-Sun 12:00 PM - 11:00 PM. *Tip: Book a table on the second floor for a quieter, more intimate dining experience.*
+- **Doc Espresso** — 330 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 8:00 AM - 10:00 PM. *Tip: The wine list is heavily focused on regional Italian varietals; ask for a glass of Nebbiolo.*
 ## The Bottom Line
 
 Carlton's bar scene is about quality over quantity. You won't find 50 bars on one street — you'll find 10 excellent ones spread across the neighbourhood, each with a distinct personality. If you want the rooftop experience, **Johnny's Green Room** is unmatched. For wine, **Gerald's Bar** and **Carlton Wine Room** are world-class. For cocktails, **Bar Bellamy** is the pick. And for a proper pub session with good food, **The Lincoln** or **The Curtin** will deliver every time.
@@ -196,3 +213,21 @@ Carlton's bar scene is about quality over quantity. You won't find 50 bars on on
 | Best cocktails | Bar Bellamy |
 | Best pub food | The Lincoln |
 | Best for live music | The John Curtin Hotel |
+
+
+## Venue Addresses & Details
+
+- **Gerald's Bar** — 386 Rathdowne St, Carlton North VIC 3054 ($$). Open: Mon-Sun 4:00 PM - 1:00 AM. *Tip: Don't bother with a menu; ask the staff for their daily wine recommendation.*
+- **King & Godfree** — 297 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 7:00 AM - 11:00 PM. *Tip: Head to the rooftop bar, Johnny's Green Room, for the best sunset views over the city.*
+- **Heartattack and Vine** — 329 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 7:00 AM - 11:00 PM. *Tip: Try their house-made vermouth on ice with a twist of orange.*
+- **The Carlton Wine Room** — 173 Faraday St, Carlton VIC 3053 ($$$). Open: Tue-Sun 12:00 PM - 11:00 PM. *Tip: Book a table on the second floor for a quieter, more intimate dining experience.*
+- **Doc Espresso** — 330 Lygon St, Carlton VIC 3053 ($$). Open: Mon-Sun 8:00 AM - 10:00 PM. *Tip: The wine list is heavily focused on regional Italian varietals; ask for a glass of Nebbiolo.*
+## Related Articles
+
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/best-bars-melbourne/](/best-bars-melbourne/)
+- [/nightlife/](/nightlife/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

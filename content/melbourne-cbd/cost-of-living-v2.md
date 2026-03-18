@@ -5,8 +5,12 @@ date: 2026-03-16
 author: marcus
 tags: ["melbourne-cbd", "cost-of-living", "property"]
 categories: ["property"]
----
+description: "Cost of Living in Melbourne CBD 2026: The Real Numbers
 
+Updated 16 March 2026 | Marcus Cole reporting
+
+Living in the CBD isn't cheap. Nobody moved here think..."
+---
 # Cost of Living in Melbourne CBD 2026: The Real Numbers
 
 **Updated 16 March 2026 | Marcus Cole reporting**
@@ -297,3 +301,13 @@ Know a budget hack for CBD living we missed? Spotted an error in our numbers? We
 *Marcus Cole is MELBZ's Property Editor. He's lived in the CBD, Southbank, and Carlton, and has strong opinions about which one was the best decision (it was Carlton). Follow him for honest property breakdowns across inner Melbourne.*
 
 *This article was last updated on 16 March 2026. Prices reflect current market conditions and may change. Always verify rental prices on Domain.com.au or realestate.com.au before making decisions.*
+
+## Related Articles
+
+- [/carlton/](/carlton/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/southbank/](/southbank/)
+- [/richmond/](/richmond/)
+- [/property/](/property/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

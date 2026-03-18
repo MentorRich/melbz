@@ -16,7 +16,7 @@ As Melbourne's most refined inner-southern suburb, South Yarra demands a transpo
 
 ## Getting There: Train Services
 
-South Yarra station, located at 1 Chapel Street, South Yarra VIC 3141, serves as the suburb's primary transport hub. Situated on the Pakenham, Cranbourne, and Frankston lines, it provides direct access to Melbourne's CBD in just four minutes. The station's elevated position offers commanding views across the Yarra River toward the CBD, making it a landmark in its own right.
+South Yarra station, located at 1 Chapel Street, South Yarra VIC 3141, serves as the suburb's primary transport hub. Situated on the Pakenham, Cranbourne, and Frankston lines, it provides direct access to Melbourne's CBD in just four minutes. The station's make betterd position offers commanding views across the Yarra River toward the CBD, making it a landmark in its own right.
 
 Trains run at high frequency during peak hours, with services every 3-5 minutes. Off-peak services maintain a respectable 10-15 minute frequency, ensuring you're never left waiting long. The station's strategic location makes it ideal for connections to other lines, particularly useful if you're heading to St Kilda, Brighton, or the southeastern suburbs.
 

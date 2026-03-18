@@ -7,8 +7,9 @@ author: "ethan"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the nightlife guide in South Yarra. Our verified 2026 guide covers the best spots for locals."
+tags: ["south-yarra"]
+categories: ["nightlife"]
 ---
-
 # Nightlife Guide in South Yarra: Where to Go After Dark in 2026
 
 *Updated 17 March 2026 | Ethan Cole reporting*
@@ -267,3 +268,13 @@ The strip has matured. The venues that survived the post-COVID cull are the ones
 ---
 
 *Ethan Cole is a nightlife and lifestyle writer at MELBZ. He has been covering Melbourne's after-dark scene for six years and firmly believes the best nights out start with "let's just have one drink." Follow MELBZ [on Instagram](https://instagram.com/melbz) for real-time venue updates.*
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/nightlife/](/nightlife/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

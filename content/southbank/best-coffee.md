@@ -79,3 +79,20 @@ What you shouldn't do is wander into a random cafe on Southbank Promenade and ex
 *Olivia Chen is Melbourne's coffee scene observer. She can tell from one sip whether a cafe cares about their extraction, and Southbank's coffee scene tells a complicated story.*
 
 Updated 2026-03-17 | Olivia Chen reporting
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/southbank/](/southbank/)
+- [/southbank/hub](/southbank/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*
+
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

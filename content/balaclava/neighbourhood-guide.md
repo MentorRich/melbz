@@ -7,8 +7,9 @@ author: "marcusl"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the neighbourhood guide to Balaclava. Our verified 2026 guide covers the best spots for locals."
+tags: ["balaclava"]
+categories: ["neighbourhood"]
 ---
-
 ## The Neighbourhood Guide to Balaclava
 
 Balaclava is Melbourne's best-kept-not-quite-secret suburb. It sits tucked between St Kilda East, Caulfield, and Elsternwick — too small to dominate a conversation, too good to ignore once you've found it. The whole suburb is roughly 600 metres of Carlisle Street, a Sandringham line train station, and a patchwork of residential streets that range from grand Victorian terraces to mid-century flats to the occasional brutalist apartment block that's aged better than it deserved.
@@ -160,3 +161,13 @@ The overall impression is of a suburb that knows exactly what it is and doesn't 
 - [Elsternwick — 2026 Local Guide](/elsternwick/neighbourhood-guide)
 
 Living in Balaclava? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=balaclava)
+
+## Related Articles
+
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/balaclava/](/balaclava/)
+- [/st-kilda/](/st-kilda/)
+- [/balaclava/](/balaclava/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

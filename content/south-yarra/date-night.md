@@ -7,8 +7,9 @@ author: "grace"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Your honest guide to date night in South Yarra — real venues, real prices, no tourist traps. From Chapel Street diners to hidden cocktail bars."
+tags: ["south-yarra"]
+categories: ["date"]
 ---
-
 ## Date Night in South Yarra — The Honest Version
 
 South Yarra is one of Melbourne's most date-friendly suburbs, and that's not a compliment — it's a warning. The density of restaurants, bars, and "experiences" crammed between Chapel Street and Toorak Road means you'll never run out of options. You'll also never run out of bad ones. The suburb attracts both genuine hospitality and pure hype in equal measure, and the price tag doesn't always tell you which is which.
@@ -103,7 +104,7 @@ The gardens close at sunset in winter and 7:30pm in summer, so check hours befor
 
 **Address:** 289 Chapel Street, South Yarra
 
-The Jam Factory cinema is old-school in the best way. Reclining seats, proper legroom, and a chandelier in the main foyer that makes the whole experience feel more elevated than your average Hoyts session. After the film, you're on Chapel Street with dozens of options for drinks or food without having planned a second activity.
+The Jam Factory cinema is old-school in the best way. Reclining seats, proper legroom, and a chandelier in the main foyer that makes the whole experience feel more make betterd than your average Hoyts session. After the film, you're on Chapel Street with dozens of options for drinks or food without having planned a second activity.
 
 **Cost:** Standard tickets around $21–$25. Gold Class if you want to push the boat out (around $40–$45 including reserved seating and in-cinema service).
 
@@ -172,3 +173,13 @@ Living in South Yarra? [Compare energy plans, internet, and insurance for your a
 ---
 
 *This guide was researched and written by the MELBZ team. Venue details, prices, and hours are accurate as of March 2026. Always check with the venue before booking — things change in Melbourne faster than the weather.*
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/south-yarra/](/south-yarra/)
+- [/south-yarra/hub](/south-yarra/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

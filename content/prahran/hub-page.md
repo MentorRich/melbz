@@ -1,12 +1,20 @@
 ---
 title: "Prahran: The Complete Suburb Profile 2026"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: jack
 tags: ["prahran", "suburb-profile", "hub"]
 categories: ["editorial"]
+description: "Prahran: The Complete Suburb Profile 2026
+
+PRAHRAN VIBE SCORE: 78/100 ⚡️ TRENDING (+1 this week)
+
+Updated 16 March 2026 | Jack Morrison reporting
+
 ---
 
+Prahr..."
+---
 # Prahran: The Complete Suburb Profile 2026
 
 **PRAHRAN VIBE SCORE: 78/100 ⚡️ TRENDING (+1 this week)**
@@ -143,7 +151,7 @@ The family vibe in Prahran is real but different from the leafy eastern suburbs.
 
 Prahran's nightlife is Chapel Street, and Chapel Street is both the suburb's greatest asset and its most divisive feature.
 
-On a Friday or Saturday night, the strip between Commercial Road and Greville Street is busy. Not "packed like Flinders Street at 5pm" busy, but genuinely bustling. You've got the restaurants doing strong trade, bars filling up, and the late-night venues doing what they do.
+On a Friday or Saturday night, the strip between Commercial Road and Greville Street is busy. Not "packed like Flinders Street at 5pm" busy, but genuinely packed on weekends. You've got the restaurants doing strong trade, bars filling up, and the late-night venues doing what they do.
 
 The comedy scene has a foothold here too. A handful of venues on Chapel Street run regular comedy nights, and the Prahran fringe scene picks up in March during the Melbourne International Comedy Festival.
 
@@ -186,3 +194,13 @@ Think you know the inner-south? **[Read our complete Windsor Suburb Profile](/su
 *This article is part of the MELBZ Suburb Profiles series. We cover every Melbourne suburb that matters. If you live in Prahran and think we missed something, hit us up — we update these profiles every quarter.*
 
 *Also read: [South Yarra Suburb Profile](/suburbs/south-yarra) | [Toorak Suburb Profile](/suburbs/toorak) | [St Kilda Suburb Profile](/suburbs/st-kilda)*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

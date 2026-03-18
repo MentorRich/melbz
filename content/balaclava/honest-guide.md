@@ -1,12 +1,16 @@
 ---
 title: "Balaclava Honest Guide 2026: Carlisle Street & Real Opinions"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: jack
 tags: ["balaclava", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
----
+description: "Balaclava Honest Guide 2026: Carlisle Street & Real Opinions
 
+Updated 16 March 2026 | Jack Morrison reporting
+
+Let's get this out of the way: if you've never..."
+---
 # Balaclava Honest Guide 2026: Carlisle Street & Real Opinions
 
 **Updated 16 March 2026 | Jack Morrison reporting**
@@ -136,3 +140,13 @@ Which neighbouring suburb deserves an honest guide?
 ---
 
 *Jack Morrison is MELBZ's Suburb Profile Editor. He has strong opinions about bread and weak tolerance for pretension. Follow MELBZ for honest takes on every Melbourne suburb — because someone has to say what everyone's thinking.*
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/brunswick/](/brunswick/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

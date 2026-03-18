@@ -5,8 +5,12 @@ date: 2026-03-18
 author: nina
 tags: ["southbank", "things-to-do"]
 categories: ["things"]
----
+description: "Updated 18 March 2026 | Wellness Editor
 
+ Things to Do in Southbank 2026: A Wellness Editor’s Curated Guide  
+
+!Southbank dawn yoga on the Yarra – Pexels(ima..."
+---
 *Updated 18 March 2026 | Wellness Editor*
 
 # Things to Do in Southbank 2026: A Wellness Editor’s Curated Guide  
@@ -101,3 +105,22 @@ Weekend *“Early Bird”* MYKI touch-on before 7:15 am = free travel; perfect i
 
 ## Final Prescription  
 Southbank rewards *slow intermission* between big-ticket sights. Slot 10 min *“no-phone buffers”* after each venue; the river acoustics drop ambient sound to 45 dB—your vagus nerve will thank you.
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/things-to-do-melbourne/](/things-to-do-melbourne/)
+- [/events/](/events/)
+
+*Find more Melbourne content at [melbz.com.au](/)*
+
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

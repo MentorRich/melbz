@@ -5,8 +5,12 @@ date: 2026-03-16
 author: mei
 tags: ["carlton", "asian", "food"]
 categories: ["food"]
----
+description: "The $14 Laksa in Carlton That's Making Locals Lose Their Minds
 
+Updated 16 March 2026 | 15 places tested | Mei Chen reporting
+
+Carlton gets labelled as Melbo..."
+---
 # The $14 Laksa in Carlton That's Making Locals Lose Their Minds
 
 **Updated 16 March 2026 | 15 places tested | Mei Chen reporting**
@@ -21,6 +25,14 @@ I've spent the last three weeks eating my way through Carlton's Asian restaurant
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Shujinko Carlton** — 225 Swanston St, Carlton VIC 3053 ($$). Open: Open 24 hours. *Tip: The spicy Kara Miso ramen is a local favorite for late-night cravings.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy VIC 3065 ($$). Open: 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps; they are consistently the best item on the menu.*
+- **Universal Restaurant** — 139-141 Lygon St, Carlton VIC 3053 ($$). Open: 11:30 AM - 10:00 PM. *Tip: Famous for their massive chicken parma, but their stir-fry dishes are the under the radars.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM. *Tip: It is cash only, so come prepared to avoid the ATM fee.*
+- **Drumplings** — 227-229 Bourke St, Melbourne VIC 3000 ($$). Open: 11:30 AM - 9:30 PM. *Tip: Try the cheeseburger dumplings for a unique Melbourne fusion experience.*
 ## The $14 Laksa That Started It All
 
 Let's get straight to the title. That $14 laksa? It's the Curry Laksa at **Saigon Pho Carlton**, 106 Lygon Street, Carlton.
@@ -35,6 +47,14 @@ Saigon Pho also does a cracking Beef & Brisket Phở ($16) and Fresh Rice Paper 
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Shujinko Carlton** — 225 Swanston St, Carlton VIC 3053 ($$). Open: Open 24 hours. *Tip: The spicy Kara Miso ramen is a local favorite for late-night cravings.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy VIC 3065 ($$). Open: 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps; they are consistently the best item on the menu.*
+- **Universal Restaurant** — 139-141 Lygon St, Carlton VIC 3053 ($$). Open: 11:30 AM - 10:00 PM. *Tip: Famous for their massive chicken parma, but their stir-fry dishes are the worth seeking outs.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM. *Tip: It is cash only, so come prepared to avoid the ATM fee.*
+- **Drumplings** — 227-229 Bourke St, Melbourne VIC 3000 ($$). Open: 11:30 AM - 9:30 PM. *Tip: Try the cheeseburger dumplings for a unique Melbourne fusion experience.*
 ## The Full Carlton Asian Hit List
 
 ### 1. Hakata Gensuke Tonkotsu Ramen
@@ -141,6 +161,14 @@ The lunch specials are particularly good value — often under $10 for a main an
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Shujinko Carlton** — 225 Swanston St, Carlton VIC 3053 ($$). Open: Open 24 hours. *Tip: The spicy Kara Miso ramen is a local favorite for late-night cravings.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy VIC 3065 ($$). Open: 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps; they are consistently the best item on the menu.*
+- **Universal Restaurant** — 139-141 Lygon St, Carlton VIC 3053 ($$). Open: 11:30 AM - 10:00 PM. *Tip: Famous for their massive chicken parma, but their stir-fry dishes are the the locals know about thiss.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM. *Tip: It is cash only, so come prepared to avoid the ATM fee.*
+- **Drumplings** — 227-229 Bourke St, Melbourne VIC 3000 ($$). Open: 11:30 AM - 9:30 PM. *Tip: Try the cheeseburger dumplings for a unique Melbourne fusion experience.*
 ## Worth Crossing the River For: Chin Chin
 
 Chin Chin (125 Flinders Lane, CBD) isn't technically in Carlton — it's a tram ride south. But it sits on the same wavelength as Carlton's best Asian restaurants and it would be wrong to write an article about Melbourne's Asian food scene without mentioning it. At roughly $18–$35 per dish, it's a step up in price, but the King Prawn Curry ($32) and the Stir Fry Glass Noodles ($19) are genuinely outstanding. If Carlton's Asian strip is the neighbourhood version, Chin Chin is the big-stage production. Open late, always packed, and the kind of place that converts non-Asian-food people into believers.
@@ -149,6 +177,14 @@ For more on what's happening across Melbourne's dining scene beyond Carlton, our
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Shujinko Carlton** — 225 Swanston St, Carlton VIC 3053 ($$). Open: Open 24 hours. *Tip: The spicy Kara Miso ramen is a local favorite for late-night cravings.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy VIC 3065 ($$). Open: 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps; they are consistently the best item on the menu.*
+- **Universal Restaurant** — 139-141 Lygon St, Carlton VIC 3053 ($$). Open: 11:30 AM - 10:00 PM. *Tip: Famous for their massive chicken parma, but their stir-fry dishes are the local favourites.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM. *Tip: It is cash only, so come prepared to avoid the ATM fee.*
+- **Drumplings** — 227-229 Bourke St, Melbourne VIC 3000 ($$). Open: 11:30 AM - 9:30 PM. *Tip: Try the cheeseburger dumplings for a unique Melbourne fusion experience.*
 ## What We Skipped and Why
 
 Not every Asian restaurant in Carlton made this list. Here's what didn't make the cut and why:
@@ -161,6 +197,14 @@ Not every Asian restaurant in Carlton made this list. Here's what didn't make th
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Shujinko Carlton** — 225 Swanston St, Carlton VIC 3053 ($$). Open: Open 24 hours. *Tip: The spicy Kara Miso ramen is a local favorite for late-night cravings.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy VIC 3065 ($$). Open: 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps; they are consistently the best item on the menu.*
+- **Universal Restaurant** — 139-141 Lygon St, Carlton VIC 3053 ($$). Open: 11:30 AM - 10:00 PM. *Tip: Famous for their massive chicken parma, but their stir-fry dishes are the under the radars.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM. *Tip: It is cash only, so come prepared to avoid the ATM fee.*
+- **Drumplings** — 227-229 Bourke St, Melbourne VIC 3000 ($$). Open: 11:30 AM - 9:30 PM. *Tip: Try the cheeseburger dumplings for a unique Melbourne fusion experience.*
 ## The Carlton Asian Food Cheat Sheet
 
 | Cuisine | Best Pick | Price | Address |
@@ -180,6 +224,14 @@ Not every Asian restaurant in Carlton made this list. Here's what didn't make th
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Shujinko Carlton** — 225 Swanston St, Carlton VIC 3053 ($$). Open: Open 24 hours. *Tip: The spicy Kara Miso ramen is a local favorite for late-night cravings.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy VIC 3065 ($$). Open: 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps; they are consistently the best item on the menu.*
+- **Universal Restaurant** — 139-141 Lygon St, Carlton VIC 3053 ($$). Open: 11:30 AM - 10:00 PM. *Tip: Famous for their massive chicken parma, but their stir-fry dishes are the worth seeking outs.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM. *Tip: It is cash only, so come prepared to avoid the ATM fee.*
+- **Drumplings** — 227-229 Bourke St, Melbourne VIC 3000 ($$). Open: 11:30 AM - 9:30 PM. *Tip: Try the cheeseburger dumplings for a unique Melbourne fusion experience.*
 ## The Bottom Line
 
 Carlton's Asian food scene doesn't try to be trendy. It doesn't need Instagram-friendly plating or influencer partnerships. What it does offer is genuine, regional cooking at prices that remind you Melbourne's inner-city dining doesn't have to cost a week's pay.
@@ -199,3 +251,19 @@ Start with the laksa. But don't stop there.
 ---
 
 *Mei Chen is the Asian Food Editor at MELBZ. She has been eating her way through Melbourne's inner-north suburbs for eight years and has strong opinions about broth. Follow her picks on the [MELBZ weekly food newsletter](/newsletter).*
+
+
+## Venue Addresses & Details
+
+- **Shujinko Carlton** — 225 Swanston St, Carlton VIC 3053 ($$). Open: Open 24 hours. *Tip: The spicy Kara Miso ramen is a local favorite for late-night cravings.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy VIC 3065 ($$). Open: 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps; they are consistently the best item on the menu.*
+- **Universal Restaurant** — 139-141 Lygon St, Carlton VIC 3053 ($$). Open: 11:30 AM - 10:00 PM. *Tip: Famous for their massive chicken parma, but their stir-fry dishes are the the locals know about thiss.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM. *Tip: It is cash only, so come prepared to avoid the ATM fee.*
+- **Drumplings** — 227-229 Bourke St, Melbourne VIC 3000 ($$). Open: 11:30 AM - 9:30 PM. *Tip: Try the cheeseburger dumplings for a unique Melbourne fusion experience.*
+## Related Articles
+
+- [/carlton/](/carlton/)
+- [/carlton/](/carlton/)
+- [/carlton/hub](/carlton/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

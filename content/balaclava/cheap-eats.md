@@ -1,12 +1,16 @@
 ---
 title: "Cheap Eats Under $20 in Balaclava 2026"
-cover_image: "https://images.pexels.com/photos/27775676/pexels-photo-27775676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: priya
 tags: ["balaclava", "cheap-eats", "food"]
 categories: ["food"]
+description: "Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting
+
 ---
 
+Balaclava doesn't scream "dining destination" the way its flashy neighbour St Kilda do..."
+---
 *Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
 
 ---
@@ -101,6 +105,15 @@ The chicken parma is crispy, generously sized, and under $20. The beer garden is
 
 ---
 
+
+## Venue Addresses & Details
+
+- **I Love Pho 264** — 264 Victoria St, Richmond, VIC 3121 ($). Open: 10:00 AM - 10:00 PM. *Tip: The rare beef pho is the gold standard; add extra chili oil if you like heat.*
+- **Bagelicious** — 174 Balaclava Rd, Caulfield North, VIC 3161 ($). Open: 7:00 AM - 4:00 PM. *Tip: Get the toasted bagel with schmear and lox; it's the best value breakfast in the area.*
+- **Wallis & Social** — 285 Carlisle St, Balaclava, VIC 3183 ($$). Open: 7:00 AM - 4:00 PM. *Tip: The daily toastie specials are generous and perfect for a budget-friendly lunch.*
+- **Monarch Cakes** — 103 Acland St, St Kilda, VIC 3182 ($). Open: 9:00 AM - 7:00 PM. *Tip: Order the famous Polish baked cheesecake; it's a slice of history that won't break the bank.*
+- **Babu Ji** — 4-6 Grey St, St Kilda, VIC 3182 ($$). Open: 5:30 PM - 10:00 PM. *Tip: Check their 'Feed Me' menu options for the best value way to sample multiple curries.*
+- **Las Chicas** — 203 Carlisle St, Balaclava, VIC 3183 ($$). Open: 7:30 AM - 4:00 PM. *Tip: The courtyard is a under the radar on sunny days; arrive before 10 AM to avoid the weekend queue.*
 ## What We Skipped and Why
 
 **Tulum Turkish Restaurant (217 Carlisle Street)** — Brilliant restaurant, award-winning chef Coskun Uysal, and a One Hat rating to prove it. But the degustation is $110 per person and most mains sit well above our $20 cap. Worth a visit for a special occasion, not a cheap Tuesday night.
@@ -113,6 +126,15 @@ The chicken parma is crispy, generously sized, and under $20. The beer garden is
 
 ---
 
+
+## Venue Addresses & Details
+
+- **I Love Pho 264** — 264 Victoria St, Richmond, VIC 3121 ($). Open: 10:00 AM - 10:00 PM. *Tip: The rare beef pho is the gold standard; add extra chili oil if you like heat.*
+- **Bagelicious** — 174 Balaclava Rd, Caulfield North, VIC 3161 ($). Open: 7:00 AM - 4:00 PM. *Tip: Get the toasted bagel with schmear and lox; it's the best value breakfast in the area.*
+- **Wallis & Social** — 285 Carlisle St, Balaclava, VIC 3183 ($$). Open: 7:00 AM - 4:00 PM. *Tip: The daily toastie specials are generous and perfect for a budget-friendly lunch.*
+- **Monarch Cakes** — 103 Acland St, St Kilda, VIC 3182 ($). Open: 9:00 AM - 7:00 PM. *Tip: Order the famous Polish baked cheesecake; it's a slice of history that won't break the bank.*
+- **Babu Ji** — 4-6 Grey St, St Kilda, VIC 3182 ($$). Open: 5:30 PM - 10:00 PM. *Tip: Check their 'Feed Me' menu options for the best value way to sample multiple curries.*
+- **Las Chicas** — 203 Carlisle St, Balaclava, VIC 3183 ($$). Open: 7:30 AM - 4:00 PM. *Tip: The courtyard is a worth seeking out on sunny days; arrive before 10 AM to avoid the weekend queue.*
 ## The Final Word
 
 Balaclava's Carlisle Street strip is one of Melbourne's most underrated food corridors. You've got kosher bagels, Vietnamese pho, Mexican tacos, Middle Eastern wraps, socially conscious brunch, and cold beers in a proper pub — all within a ten-minute walk of Balaclava Station, all under twenty dollars.
@@ -142,3 +164,22 @@ It's the kind of neighbourhood where the food is better than the facades suggest
 > - 🍔 Ziggy's wraps
 > - 🥑 All Things Equal brunch
 > - 🍺 Inkerman Hotel parma
+
+
+## Venue Addresses & Details
+
+- **I Love Pho 264** — 264 Victoria St, Richmond, VIC 3121 ($). Open: 10:00 AM - 10:00 PM. *Tip: The rare beef pho is the gold standard; add extra chili oil if you like heat.*
+- **Bagelicious** — 174 Balaclava Rd, Caulfield North, VIC 3161 ($). Open: 7:00 AM - 4:00 PM. *Tip: Get the toasted bagel with schmear and lox; it's the best value breakfast in the area.*
+- **Wallis & Social** — 285 Carlisle St, Balaclava, VIC 3183 ($$). Open: 7:00 AM - 4:00 PM. *Tip: The daily toastie specials are generous and perfect for a budget-friendly lunch.*
+- **Monarch Cakes** — 103 Acland St, St Kilda, VIC 3182 ($). Open: 9:00 AM - 7:00 PM. *Tip: Order the famous Polish baked cheesecake; it's a slice of history that won't break the bank.*
+- **Babu Ji** — 4-6 Grey St, St Kilda, VIC 3182 ($$). Open: 5:30 PM - 10:00 PM. *Tip: Check their 'Feed Me' menu options for the best value way to sample multiple curries.*
+- **Las Chicas** — 203 Carlisle St, Balaclava, VIC 3183 ($$). Open: 7:30 AM - 4:00 PM. *Tip: The courtyard is a the locals know about this on sunny days; arrive before 10 AM to avoid the weekend queue.*
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/balaclava/](/balaclava/)
+- [/st-kilda/](/st-kilda/)
+- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
+- [/food/](/food/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

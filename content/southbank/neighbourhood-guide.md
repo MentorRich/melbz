@@ -70,3 +70,12 @@ Live here if you can afford it and appreciate what it offers. Visit here if you 
 *Lina Nguyen has been exploring Melbourne's suburbs for a decade and admits that Southbank's convenience sometimes outweighs its limitations. She lives nearby and visits regularly, but wouldn't call it home.*
 
 Updated 2026-03-17 | Lina Nguyen reporting
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/southbank/](/southbank/)
+- [/southbank/hub](/southbank/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

@@ -5,8 +5,12 @@ date: 2026-03-16
 author: tyler
 tags: ["south-yarra", "roast", "opinions"]
 categories: ["editorial"]
----
+description: "South Yarra: The Suburb Roast — Every Hot Take, No Apologies
 
+SOUTH YARRA VIBE SCORE: 76/100 ⚡️ SLIDING (-1 this week)
+
+Updated 16 March 2026 | Tyler James r..."
+---
 # South Yarra: The Suburb Roast — Every Hot Take, No Apologies
 
 **SOUTH YARRA VIBE SCORE: 76/100 ⚡️ SLIDING (-1 this week)**
@@ -166,3 +170,13 @@ The question isn't whether South Yarra is worth it. The question is whether you'
 ---
 
 *Cross-linked suburbs: [Fitzroy](/fitzroy) • [Richmond](/richmond) • [Collingwood](/collingwood) • [South Melbourne](/south-melbourne) • [Brunswick](/brunswick) • [Toorak](/toorak) • [Prahran](/prahran)*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

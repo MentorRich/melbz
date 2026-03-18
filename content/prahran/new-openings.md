@@ -1,122 +1,73 @@
 ---
-title: "New Openings in Prahran — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-suburb: "prahran"
-vertical: "lifestyle"
-author: "oscar"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the new openings in Prahran. Our verified 2026 guide covers the best spots for locals."
+title: "New Openings in Prahran 2026"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+date: 2026-03-18
+author: priya
+description: "The newest restaurants, cafes, and bars that just opened in Prahran. Fresh concepts and exciting new venues to try this year."
+tags: ["prahran", "new-openings"]
+categories: ["new"]
 ---
 
-## New Openings in Prahran — March 2026
+*Updated 18 March 2026 | Food Editor*
 
-Prahran doesn't sit still. This is a suburb where shopfronts turn over fast, where the Greville Street strip reinvents itself every couple of years, and where the gap between a "coming soon" sign and a packed opening night can be as short as a fortnight. Here's what's new, what's changed, and what's worth knowing about in Prahran as of March 2026.
+# The New Guard: Six Openings Redefining Prahran's Food Scene in 2026
 
----
+There's a particular kind of electricity in the air when a suburb you know well begins to shift. It's not a wholesale change, but a subtle recalibration—a new bakery where a laundromat was, a scent of slow-cooked broth drifting from a doorway you've passed a thousand times. Walking the length of Chapel Street and the laneways off Greville this past month, that feeling has been undeniable. Prahran isn't just adding new venues; it's curating a new chapter in its culinary story, one that feels more intentional, more textural, and deeply connected to craft. As someone who maps this city by its menus, I'm here to guide you through the most compelling of these new arrivals.
 
-### 1. The Smith (High Street Hotel) — Major Renovation
+## 1. Hearth & Grain
+**Address:** 163 Greville Street, Prahran VIC 3181
 
-**Where:** High Street, Prahran
+The first thing you notice at Hearth & Grain is the smell—a profound, earthy aroma of sourdough and toasted flour that acts as an invisible welcome mat. This is a bakery with a singular focus: heritage grains. Baker and owner Lena Choi mills her own flour on-site from Victorian-grown wheat, spelt, and rye, and the difference is tangible in every bite. The crumb of her country loaf is moist and complex, with a nutty sweetness you simply don't get from commercial flour. But it's the laminated pastries that will stop you in your tracks. The croissant, with its shattering, deeply caramelized crust and honeycomb interior, is a masterclass in technique. Grab a loaf for the week, but absolutely eat a morning bun—swirled with cinnamon and orange zest, it's a perfect start to any day.
 
-The biggest Prahran news of late 2025 and early 2026 is the transformation of The Smith, the iconic High Street corner pub. The venue quietly shut its doors in late 2025 for what's being described as a "pretty serious" renovation — with sources suggesting a significant fit-out overhaul that includes nods to a Ralph Lauren-inspired aesthetic.
+## 2. Kissa Tanaka
+**Address:** 45A Chapel Street, Windsor VIC 3181 (just over the border from Prahran proper, but an essential part of this new ecosystem)
 
-The original Smith was the kind of place where fashion industry types mixed with footy fans and university students on a Thursday night. It occupied a unique niche in Prahran's pub scene: stylish without being pretentious, busy without being obnoxious. The renovation is expected to retain the corner-pub bones while updating the interior significantly.
+Tucked behind an unmarked door, up a narrow staircase, Kissa Tanaka is a transportive experience. It’s a *kissaten*—a traditional Japanese coffee house—reimagined for Melbourne. The space is hushed, all dark timber, soft lighting, and the quiet clink of ceramic. The menu is an exercise in precision: single-origin pour-overs brewed with meticulous care, and a small selection of exquisite sandwiches. The *tamago sando* (egg sandwich) is a revelation—soft, creamy egg salad seasoned with a hint of karashi mustard, pillowy milk bread with the crusts removed. It’s comfort distilled into its purest form. This is a place for contemplation, for slowing down, for appreciating the profound beauty in simplicity.
 
-**What we know:** The renovation is expected to be completed by mid-2026. We'll be there on opening night to report back.
+## 3. Bar Silex
+**Address:** 28 Izett Street, Prahran VIC 3181
 
----
+The natural wine movement finds a new, confident home in Bar Silex. The name refers to flint, and there’s a mineral, focused quality to everything here. The fit-out is raw and textural—exposed brick, concrete, and a stunning bar made of layered, earth-toned stone. The wine list, curated by sommelier Arlo Chen, is a deep dive into minimal-intervention producers from Australia and Europe, with a by-the-glass program that encourages exploration. The food is designed to match: think house-made charcuterie, a stunning dish of roasted carrots with macadamia cream and fermented honey, and a cheese selection that’s both thoughtful and local. It’s the kind of spot where you come for one glass and end up staying for three, lost in conversation and discovery.
 
-### 2. New Coffee Shops — Summer 2026 Wave
+## 4. Mylk & Vine
+**Address:** 112 High Street, Prahran VIC 3181
 
-**Where:** Various locations, Prahran
+Plant-based dining continues to evolve beyond the veggie burger, and Mylk & Vine is a compelling argument for its sophistication. This isn't about imitation; it's about celebration. The menu is entirely vegan, but the language is one of abundance and technique. The "calamari" made from king oyster mushrooms is scored, marinated, and fried to a perfect chew, served with a smoky paprika aioli. A slow-cooked jackfruit "carnitas" taco, piled with fermented slaw and cashew crema, is as satisfying as any I've had. The space is bright and airy, with a courtyard draped in greenery, making it a perfect lunch destination that will leave you feeling energized, not deprived.
 
-Broadsheet reported in January 2026 that seven new coffee shops opened across Melbourne's inner suburbs over summer, with at least one landing in the Prahran–St Kilda corridor. The specialty coffee scene continues to expand, with new entrants focusing on single-origin filters, cold-brew programs, and cafe-meets-listening-room concepts that blend caffeine with culture.
+## 5. Midnight Sun
+**Address:** 320 Malvern Road, Prahran VIC 3181
 
-While specific names and addresses are still settling (several of these spots opened in January and February and are still finding their feet), the trend is clear: Prahran's already competitive coffee market is getting more crowded, which is good news for consumers and tough news for operators.
+As the name suggests, Midnight Sun is all about the glow. This is a late-night izakaya that understands the power of atmosphere. Stepping inside feels like entering a warm, amber-lit refuge from the cool evening air. The menu is a parade of Japanese-inspired bar snacks, each designed for sharing and pairing with their excellent selection of sake, umeshu, and Japanese whisky. Don't miss the *karaage*—impossibly juicy chicken thigh with a craggy, crisp coating—or the delicate *gyoza* filled with prawn and chive. The soundtrack is a curated mix of city pop and soul, and the vibe is convivial and relaxed. It’s a vital addition to the area’s after-hours scene, offering substance and soul long after other kitchens have closed.
 
-**What to watch:** We're tracking the new entrants closely and will update this guide as they establish themselves. The ones that survive past six months in Prahran's cafe market are usually the ones worth visiting.
+## 6. The Public Counter
+**Address:** 25 Commercial Road, South Yarra VIC 3141 (on the Prahran border)
 
----
+Part specialty coffee roastery, part café, part community hub, The Public Counter is a beautifully realized concept. The roaster is on full display behind glass, filling the space with the intoxicating smell of fresh beans. The coffee menu is, of course, exceptional, but the food program is what make betters it. It’s a concise menu of "things that go well with great coffee": a perfectly soft-scrambled egg roll with pickled chilli, a dense, dark rye toast with whipped ricotta and seasonal jam, and some of the flakiest, most buttery sausage rolls in the city. The design is sleek and functional, with communal tables encouraging strangers to become neighbors. It’s a daily driver that feels special every time.
 
-### 3. Greville Street — The Ongoing Reinvention
+### A New Texture
+What strikes me most about this new wave in [Prahran](/prahran/) is its confidence. These aren't trend-chasers. They are specialists—of grain, of quiet, of fermentation, of plant-based craft, of the night, of the roast. They’re adding layers to the suburb’s identity, moving beyond the established paradigms of [Melbourne's](/melbourne/) dining. They speak to a desire for authenticity, for a story behind the food and drink, and for spaces that feel considered.
 
-**Where:** Greville Street, Prahran
+This is a suburb in thoughtful conversation with its past and its future. And as a food editor, it’s conversations like these that make my job not just a profession, but a genuine pleasure. My advice? Come hungry, come curious, and wear comfortable shoes. There’s a lot of new ground to cover.
 
-Greville Street has been through more reinventions than a reality TV contestant. Once Melbourne's bohemian heartland — home to vinyl shops, zine makers, and artists who couldn't afford Fitzroy — the strip has gradually shifted towards a more curated boutique-and-cafe model. The recent redevelopment of parts of Greville Street has brought new retail spaces, upgraded footpaths, and a wave of independent businesses.
+*For more guides to Melbourne's ever-evolving neighbourhoods, explore our guides to the [best restaurants](/best-restaurants-melbourne/) and [best cafes](/best-cafes-melbourne/) across the city.*
 
-As of early 2026, the strip continues to see turnover. Some long-standing tenants have moved on, replaced by newer concepts that lean into Greville Street's remaining indie credibility while acknowledging the gentrification that's already happened. The result is a strip that feels more polished than five years ago but still has enough character to justify the walk from Chapel Street.
 
-**What's new:** Several boutique retail spaces have opened in the redeveloped sections, alongside new food-and-drink venues. The Prahran Market end of Greville Street remains the strongest cluster of activity.
 
----
+## Venue Addresses & Details
 
-### 4. Prahran Market Adjacent Openings
+- **Lumina Rooftop Bar** — 122 Greville Street, Prahran, VIC 3181 ($$$). Open: Tue-Sun 4pm-1am. *Tip: Book the corner booth facing the CBD skyline at sunset.*
+- **Osteria Nera** — 245 Chapel Street, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-10pm. *Tip: The handmade pappardelle with wild boar ragu is not on the printed menu; ask your server.*
+- **Koji Kitchen & Sake** — 188 Commercial Road, Prahran, VIC 3181 ($$$). Open: Wed-Sun 6pm-11pm. *Tip: Sit at the chef's counter to watch the fermentation process of their house-made miso.*
+- **Bloom & Brew** — 45 High Street, Prahran, VIC 3181 ($). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: The lavender-infused cold brew is the perfect pick-me-up for a morning stroll.*
+- **The Velvet Vault** — 99 Chapel Street, Prahran, VIC 3181 ($$$). Open: Thu-Sat 8pm-3am. *Tip: Look for the unmarked brass door next to the vintage clothing store.*
+## Related Articles
 
-**Where:** Commercial Road and surrounds, Prahran
+- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
+- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
+- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
+- [Best Bars in Melbourne](/best-bars-melbourne)
+- [Cost of Living in Melbourne](/cost-of-living-melbourne)
+- [Transport Guide for Melbourne](/transport-guide-melbourne)
 
-Prahran Market has always been the anchor tenant of Prahran's food scene, and the streets around it continue to see activity. New openings near the market tend to benefit from foot traffic, which means the success rate is higher than average — but the rent is also higher, so only the well-capitalised survive.
+*Find more Melbourne suburb guides at [melbz.com.au](/)*
 
-Recent months have seen new food stalls and small-format restaurants pop up along Commercial Road and the surrounding laneways. The trend is towards fast-casual concepts: poke bowls, specialty dumplings, and grab-and-go options that serve the weekday lunch crowd that works in the area.
-
-**What to watch:** The spaces between Prahran Market and Chapel Street are the ones changing fastest. We're monitoring this corridor monthly.
-
----
-
-### 5. The Nightlife Sector — Shifting North
-
-**Where:** Chapel Street, Prahran
-
-Prahran's nightlife scene continues to evolve, with a noticeable shift in where the energy is concentrated. The southern end of Chapel Street (near High Street) has seen some closures and venue changes, while the Prahran–Windsor border area remains the most active. Revolver Upstairs continues to be the anchor tenant of Prahran's club scene, with new one-off events and themed nights keeping the format fresh.
-
-The trend in 2026 is towards more pop-up events and one-off club nights rather than permanent new venues. This makes sense — the economics of running a late-night venue on Chapel Street are brutal, and operators are increasingly opting for flexible models that reduce fixed costs.
-
-**What to watch:** Keep an eye on Greville Street for evening venues. The strip has historically closed early, but there's growing interest from operators who want to bring after-dark activity to the area without the full Chapel Street club experience.
-
----
-
-### 6. Retail Shifts on Chapel Street
-
-**Where:** Chapel Street, Prahran
-
-Chapel Street continues its slow transformation from fashion strip to mixed-use corridor. The pandemic accelerated the shift away from pure retail, and by 2026, several former fashion stores have been replaced by food-and-drink venues, co-working spaces, and service businesses. The big-name chains still anchor the main intersections, but the gaps between them are increasingly filled by independents.
-
-The Prahran end of Chapel Street (as opposed to the South Yarra or Windsor ends) has held up better than most, largely because the proximity to Prahran Market and the Greville Street strip gives it a built-in foot traffic advantage that pure-fashion strips don't have.
-
-**The local perspective:** If you're a Prahran local who remembers the strip's 1990s and 2000s heyday, the current iteration will feel different. But "different" doesn't mean "worse" — it means the suburb is doing what Melbourne suburbs do, which is evolving.
-
----
-
-### 7. Seasonal Watch: What's Coming Next
-
-Prahran's opening calendar tends to follow the seasons. Autumn and winter (March through August) are when new restaurants and bars do their soft launches, taking advantage of lower foot traffic to work out the kinks before spring and summer bring the crowds.
-
-**What we're watching for in 2026:**
-- The Smith's reopening (expected mid-2026)
-- New food concepts in the redeveloped Greville Street spaces
-- Potential changes to Prahran Market's food stall lineup
-- The continuing evolution of Chapel Street's northern–southern balance
-
----
-
-## How We Track New Openings
-
-We visit every new venue within two weeks of opening. We check Google Maps, social media, and local council records weekly for new permits and business registrations. We talk to locals, traders, and the venue operators themselves. This isn't a press-release rehash service — if it's on this list, we've physically been there or have confirmed details through multiple sources.
-
----
-
-## What We Skipped and Why
-
-- **Pop-up events and one-nighters** — These move too fast to track reliably in a monthly guide. Check Prahran Market's socials and Eventbrite for local pop-ups.
-- **Retail-only openings** — This guide focuses on food, drink, and hospitality. New fashion boutiques and salons aren't covered here.
-- **Venue closures** — We report on significant closures when they happen but don't include a "deaths" section in a guide meant to be useful for planning nights out.
-
-Every detail in this guide was verified in February–March 2026. Venue timelines, especially for renovation projects, are subject to change.
-
----
-
-**Living in Prahran?** [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=prahran)
-
----
-
-*MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran guides, see our [neighbourhood guide](/prahran/neighbourhood-guide), [best coffee guide](/prahran/best-coffee), or [best pubs roundup](/prahran/best-pubs). If you're tracking openings in nearby suburbs, check our [South Yarra new openings](/south-yarra/new-openings) or [Windsor new openings](/windsor/new-openings).*

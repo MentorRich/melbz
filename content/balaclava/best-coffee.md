@@ -1,14 +1,15 @@
 ---
 title: "Best Coffee in Balaclava — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/1058921/pexels-photo-1058921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "dani"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best coffee in Balaclava. Our verified 2026 guide covers the best spots for locals."
+tags: ["balaclava"]
+categories: ["general"]
 ---
-
 # Best Coffee in Balaclava — 7 Spots That Actually Deliver in 2026
 
 Carlisle Street doesn't mess around when it comes to coffee. Balaclava has been pulling shots since before "specialty" was a marketing buzzword, and the strip between Hotham Street and Chapel Street still punches well above its weight for a suburb most Melburnians drive through on the way to somewhere else. That's their loss.
@@ -59,7 +60,7 @@ The coffee itself is punchy and consistent — a proper Melbourne flat white tha
 **Order this:** Flat white ($4.90) with the avo smash ($19)
 **Address:** 320 Carlisle Street, Balaclava
 **Hours:** Mon–Wed 7am–5pm, Thu–Fri 7am–10pm, Sat–Sun 7am–4pm
-**Insider tip:** Thursday evenings are the hidden gem — the bistro lighting comes on, they pour wines alongside the coffee, and it feels like a different place entirely.
+**Insider tip:** Thursday evenings are the under the radar — the bistro lighting comes on, they pour wines alongside the coffee, and it feels like a different place entirely.
 
 ---
 
@@ -137,3 +138,13 @@ Balaclava's coffee scene isn't flashy. It doesn't need to be. This is a suburb w
 Living in Balaclava? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=balaclava)
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/balaclava/](/balaclava/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

@@ -5,8 +5,14 @@ date: 2026-03-16
 author: dani
 tags: ["melbourne-cbd", "coffee", "cafes"]
 categories: ["food"]
+description: "Best Coffee in Melbourne CBD 2026: The Complete Guide
+
+Updated 16 March 2026 | 15 places tested | Dani Rossi reporting
+
 ---
 
+You already know Melbourne takes..."
+---
 # Best Coffee in Melbourne CBD 2026: The Complete Guide
 
 **Updated 16 March 2026 | 15 places tested | Dani Rossi reporting**
@@ -247,3 +253,13 @@ We tested 15 cafés for this guide. Eight made the cut. But the CBD is only one 
 **Dani Rossi** is MELBZ's Coffee Editor. She's been covering Melbourne's café scene since 2018 and has tested over 400 cafés across metro Melbourne. She takes her coffee black, her opinions strong, and her flat whites at 65°C (fight her). Follow her [MELBZ author page](/authors/dani-rossi) for weekly coffee drops.
 
 *Last reviewed by the MELBZ editorial team, March 2026. Prices and hours may change — check with each café before visiting. If we got something wrong, tell us. We fix things.*
+
+## Related Articles
+
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/southbank/](/southbank/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

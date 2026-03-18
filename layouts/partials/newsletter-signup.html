@@ -1,0 +1,21 @@
+{{/* layouts/partials/newsletter-signup.html */}}
+<div class="newsletter-signup" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #fff; padding: 24px; border-radius: 12px; margin: 32px 0; text-align: center;">
+  <h3 style="margin: 0 0 12px 0; font-size: 20px;">Get Your Suburb's Monday Briefing</h3>
+  <p style="margin: 0 0 16px 0; opacity: 0.9; font-size: 14px;">New openings, hidden gems, and suburb secrets delivered to your inbox every Monday at 6AM AEST.</p>
+  
+  {{- /* Buttondown form - free tier */ -}}
+  <form action="https://buttondown.com/api/emails/embed/subscribe/melbz" method="post" target="_popup" onsubmit="window.open('https://buttondown.com/api/emails/embed/subscribe/melbz', 'popup', 'width=600,height=400'); return true;" style="display: flex; gap: 8px; max-width: 400px; margin: 0 auto;">
+    <input type="email" name="email" placeholder="your@email.com" required style="flex: 1; padding: 12px 16px; border: none; border-radius: 6px; font-size: 14px;" />
+    <button type="submit" style="background: #e94560; color: #fff; border: none; padding: 12px 24px; border-radius: 6px; font-size: 14px; font-weight: 600; cursor: pointer; white-space: nowrap;">Subscribe</button>
+  </form>
+  
+  <p style="margin: 12px 0 0 0; font-size: 11px; opacity: 0.7;">No spam, unsubscribe anytime. Privacy policy applies.</p>
+</div>
+
+{{- /* Alternative Mailchimp form (if using Mailchimp instead) */ -}}
+{{- /*
+<form action="https://YOUR_MAILCHIMP_DOMAIN.com/subscribe/post?u=YOUR_U_VALUE&id=YOUR_ID_VALUE" method="post" target="_blank" style="display: flex; gap: 8px; max-width: 400px; margin: 0 auto;">
+  <input type="email" name="EMAIL" placeholder="your@email.com" required style="flex: 1; padding: 12px 16px; border: none; border-radius: 6px; font-size: 14px;" />
+  <button type="submit" style="background: #e94560; color: #fff; border: none; padding: 12px 24px; border-radius: 6px; font-size: 14px; font-weight: 600; cursor: pointer;">Subscribe</button>
+</form>
+*/ -}}

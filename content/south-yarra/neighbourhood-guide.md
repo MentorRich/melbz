@@ -7,8 +7,9 @@ author: "marcusl"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The real South Yarra — where Chapel Street meets the Yarra, designer boutiques sit next to public housing, and the coffee is still worth crossing town for."
+tags: ["south-yarra"]
+categories: ["neighbourhood"]
 ---
-
 # South Yarra Neighbourhood Guide — 2026
 
 South Yarra is Melbourne's suburb of contradictions. One end has million-dollar apartments overlooking the Royal Botanic Gardens. The other end has students sharing three-bedroom units and ducking into Toorak Road for a $5 dumpling. Both are real South Yarra. Both are worth knowing.
@@ -144,3 +145,13 @@ It's expensive, yes. Parking is a pain, yes. And if you tell a Sydneysider you l
 **About this guide:** Written by Marcus L for MELBZ. Prices and details verified March 2026. If something's changed, [tell us](/submit-a-tip) — we'll fix it.
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/brunswick/](/brunswick/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

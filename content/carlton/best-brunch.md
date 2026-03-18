@@ -5,8 +5,10 @@ date: 2026-03-16
 author: dani
 tags: ["carlton", "brunch", "cafes"]
 categories: ["food"]
----
+description: "Best Brunch in Carlton 2026: Where to Eat After You've Earned It
 
+Carlton's brunch scene has always been different from the rest of Melbourne. It's less abou..."
+---
 # Best Brunch in Carlton 2026: Where to Eat After You've Earned It
 
 Carlton's brunch scene has always been different from the rest of Melbourne. It's less about proving you found it first and more about the fact that some of these kitchens have been running since before brunch was even a word people used unironically. Lygon Street still anchors the suburb, but the real action has scattered — into warehouse conversions on Berkeley Street, florist-cafes on Queensberry, and a Sri Lankan spot hiding inside an apartment block that nobody's figured out yet.
@@ -199,3 +201,13 @@ If you only try one spot: **Humble Rays**. The Crab Meat Scramble is worth the w
 *Updated 16 March 2026. Prices and hours may change — check before you go. Did we miss your favourite? [Tell us →](/submit)*
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
+
+## Related Articles
+
+- [/brunswick/](/brunswick/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/collingwood/](/collingwood/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

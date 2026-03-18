@@ -1,12 +1,16 @@
 ---
 title: "Late Night Food in Balaclava 2026: After Dark on Carlisle Street"
-cover_image: "https://images.pexels.com/photos/12108138/pexels-photo-12108138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: ethan
 tags: ["balaclava", "late-night", "food"]
 categories: ["food"]
----
+description: "Late Night Food in Balaclava 2026: After Dark on Carlisle Street
 
+Updated 16 March 2026 | 6 places tested | Ethan Cross reporting
+
+Carlisle Street doesn't ge..."
+---
 # Late Night Food in Balaclava 2026: After Dark on Carlisle Street
 
 *Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
@@ -157,3 +161,13 @@ The lack of a truly late-night dedicated takeaway spot (after midnight) is the o
 - [Late Night Eats in Windsor](/windsor/late-night-eats)  
 - [Caulfield's Best Restaurants](/caulfield/food)  
 - [Carlisle Street — A Street Guide](/balaclava/street-guide)
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

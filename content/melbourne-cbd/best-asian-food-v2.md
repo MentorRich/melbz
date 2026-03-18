@@ -5,8 +5,10 @@ date: 2026-03-16
 author: yuki
 tags: ["melbourne-cbd", "asian", "food"]
 categories: ["food"]
----
+description: "Best Asian Food in Melbourne CBD 2026: Chinatown & Beyond
 
+Melbourne's CBD is home to one of the oldest Chinatowns in the Western world, and in 2026 it's sti..."
+---
 # Best Asian Food in Melbourne CBD 2026: Chinatown & Beyond
 
 Melbourne's CBD is home to one of the oldest Chinatowns in the Western world, and in 2026 it's still the beating heart of the city's Asian dining scene. But the real magic happens when you push past the neon-lit Little Bourke Street strip and discover what's tucked into arcades, laneways, and side streets that most tourists walk right past.
@@ -17,6 +19,15 @@ I spent March 2026 eating my way through the CBD — every dumpling house, noodl
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: If the queue is long, head to the GoGo Bar downstairs for drinks while you wait for a table.*
+- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$-$$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: The New England lobster roll is a cult classic; don't leave without trying it.*
+- **Rice Paper Scissors** — 19 Liverpool St, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the best variety of their small plates.*
+- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Mon-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Book well in advance and ask for the Peking Duck, which is carved tableside.*
+- **Longrain** — 44 Little Bourke St, Melbourne VIC 3000 ($$-$$$). Open: Tue-Sat 5:00 PM - 10:00 PM. *Tip: The eggnet salad is a signature dish that balances texture and spice perfectly.*
+- **Shujinko** — 225 Russell St, Melbourne VIC 3000 ($$). Open: Open 24 hours. *Tip: Visit late at night to avoid the massive dinner queues; it's the best post-event meal in the city.*
 ## How We Tested
 
 Every restaurant on this list was visited in March 2026. I ordered the dishes that locals recommend, checked the prices against what you'd pay for equivalent quality in the inner suburbs, and timed how long it actually takes to get a table on a weeknight. No reservations were made under a pseudonym — I ate as a regular punter would.
@@ -113,6 +124,15 @@ The massaman curry (~$22) is rich and properly slow-cooked — not the sweetened
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: If the queue is long, head to the GoGo Bar downstairs for drinks while you wait for a table.*
+- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$-$$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: The New England lobster roll is a cult classic; don't leave without trying it.*
+- **Rice Paper Scissors** — 19 Liverpool St, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the best variety of their small plates.*
+- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Mon-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Book well in advance and ask for the Peking Duck, which is carved tableside.*
+- **Longrain** — 44 Little Bourke St, Melbourne VIC 3000 ($$-$$$). Open: Tue-Sat 5:00 PM - 10:00 PM. *Tip: The eggnet salad is a signature dish that balances texture and spice perfectly.*
+- **Shujinko** — 225 Russell St, Melbourne VIC 3000 ($$). Open: Open 24 hours. *Tip: Visit late at night to avoid the massive dinner queues; it's the best post-event meal in the city.*
 ## What We Skipped and Why
 
 **Dumpling-only spots in Centre Place and Degraves Street.** There are dozens of them, and most are perfectly fine. But "perfectly fine" doesn't make a best-of list. ShanDong MaMa earned its spot by doing one thing exceptionally well. The rest are interchangeable.
@@ -125,6 +145,15 @@ The massaman curry (~$22) is rich and properly slow-cooked — not the sweetened
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: If the queue is long, head to the GoGo Bar downstairs for drinks while you wait for a table.*
+- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$-$$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: The New England lobster roll is a cult classic; don't leave without trying it.*
+- **Rice Paper Scissors** — 19 Liverpool St, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the best variety of their small plates.*
+- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Mon-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Book well in advance and ask for the Peking Duck, which is carved tableside.*
+- **Longrain** — 44 Little Bourke St, Melbourne VIC 3000 ($$-$$$). Open: Tue-Sat 5:00 PM - 10:00 PM. *Tip: The eggnet salad is a signature dish that balances texture and spice perfectly.*
+- **Shujinko** — 225 Russell St, Melbourne VIC 3000 ($$). Open: Open 24 hours. *Tip: Visit late at night to avoid the massive dinner queues; it's the best post-event meal in the city.*
 ## The Verdict: Your CBD Asian Food Cheat Sheet
 
 | Budget Meal | Date Night | Late Night | Impressing Visitors |
@@ -134,6 +163,15 @@ The massaman curry (~$22) is rich and properly slow-cooked — not the sweetened
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: If the queue is long, head to the GoGo Bar downstairs for drinks while you wait for a table.*
+- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$-$$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: The New England lobster roll is a cult classic; don't leave without trying it.*
+- **Rice Paper Scissors** — 19 Liverpool St, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the best variety of their small plates.*
+- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Mon-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Book well in advance and ask for the Peking Duck, which is carved tableside.*
+- **Longrain** — 44 Little Bourke St, Melbourne VIC 3000 ($$-$$$). Open: Tue-Sat 5:00 PM - 10:00 PM. *Tip: The eggnet salad is a signature dish that balances texture and spice perfectly.*
+- **Shujinko** — 225 Russell St, Melbourne VIC 3000 ($$). Open: Open 24 hours. *Tip: Visit late at night to avoid the massive dinner queues; it's the best post-event meal in the city.*
 ## Getting Here and Nearby
 
 The CBD's Asian food epicentre clusters around Little Bourke Street and the Chinatown precinct, accessible from Melbourne Central or Parliament train stations, plus the 86 and 96 trams along Bourke and Swanston Streets.
@@ -177,3 +215,22 @@ Every Thursday, our food editors send the best new openings, hidden specials, an
 *Found an error? A restaurant that should be on this list? Drop us a line at hello@melbz.com.au — we taste-test every recommendation.*
 
 *Last updated: 16 March 2026. Prices and hours may change. Always check before visiting.*
+
+
+## Venue Addresses & Details
+
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: If the queue is long, head to the GoGo Bar downstairs for drinks while you wait for a table.*
+- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$-$$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: The New England lobster roll is a cult classic; don't leave without trying it.*
+- **Rice Paper Scissors** — 19 Liverpool St, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the best variety of their small plates.*
+- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Mon-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Book well in advance and ask for the Peking Duck, which is carved tableside.*
+- **Longrain** — 44 Little Bourke St, Melbourne VIC 3000 ($$-$$$). Open: Tue-Sat 5:00 PM - 10:00 PM. *Tip: The eggnet salad is a signature dish that balances texture and spice perfectly.*
+- **Shujinko** — 225 Russell St, Melbourne VIC 3000 ($$). Open: Open 24 hours. *Tip: Visit late at night to avoid the massive dinner queues; it's the best post-event meal in the city.*
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/southbank/](/southbank/)
+- [/richmond/](/richmond/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

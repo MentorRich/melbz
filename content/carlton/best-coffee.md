@@ -7,8 +7,9 @@ author: "dani"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The definitive guide to the best coffee in Carlton for 2026. From Seven Seeds to hidden laneway spots — real venues, real prices, real opinions."
+tags: ["carlton"]
+categories: ["general"]
 ---
-
 # 11 Best Coffee in Carlton You Need to Try in 2026
 
 Carlton is where Melbourne's coffee obsession was born. Before Flat White became a global term, before every laneway in the CBD had a $7 single-origin pourover, there was Lygon Street. Italian immigrants brought espresso culture to Melbourne in the 1950s and 60s, and Carlton was ground zero. That legacy isn't dusty or museum-piece — it's alive, it's competitive, and the standard is absurdly high. You genuinely cannot throw a rock in Carlton without hitting a café that makes better coffee than 90% of what's served in other cities.
@@ -184,3 +185,13 @@ Carlton's coffee scene is so deep that you could visit a different café every m
 | Best early opening | 5:30am (Woodside Green) |
 | Best for pour-over | Assembly |
 | Best overall experience | Seven Seeds |
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/carlton/](/carlton/)
+- [/carlton/hub](/carlton/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

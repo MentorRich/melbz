@@ -5,8 +5,13 @@ date: 2026-03-18
 author: nina
 tags: ["southbank", "best-asian"]
 categories: ["best"]
----
+description: "Updated 18 March 2026 | Wellness Editor
 
+ Best Asian Food in Southbank: From Pho to Ramen  
+18 March 2026 – Wellness Editor, Nina
+
+Southbank’s riverfront may..."
+---
 *Updated 18 March 2026 | Wellness Editor*
 
 # Best Asian Food in Southbank: From Pho to Ramen  
@@ -77,14 +82,49 @@ Southbank’s riverfront may be famous for its theatres and that 297-metre glass
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border) ($$-$$$). Open: 11:00 AM - 11:00 PM Daily. *Tip: The 'Feed Me' menu is the best way to experience the kitchen's highlights without the stress of choosing.*
+- **Panda Hot Pot** — 106-108 Bourke St, Melbourne VIC 3000 (Southbank/CBD proximity) ($$-$$$). Open: 11:30 AM - 11:00 PM Daily. *Tip: Book well in advance for weekend nights as the queue can be over an hour long.*
+- **Rockpool Bar & Grill** — 8 Whiteman St, Southbank VIC 3006 ($$$$). Open: 12:00 PM - 3:00 PM, 6:00 PM - 10:00 PM. *Tip: While famous for steak, their Asian-inspired side dishes and seafood starters are world-class.*
+- **Gingerboy** — 27-29 Crossley St, Melbourne VIC 3000 ($$-$$$). Open: 5:00 PM - 10:00 PM Daily. *Tip: Try the son-in-law eggs; they are a cult favorite for a reason.*
+- **Rice Paper Scissors** — 19 Hardware Ln, Melbourne VIC 3000 ($$). Open: 11:30 AM - 10:00 PM Daily. *Tip: Order the betel leaf wraps to start; they are perfectly balanced in flavor.*
+- **Red Spice Road** — 27 McKillop St, Melbourne VIC 3000 ($$-$$$). Open: 12:00 PM - 3:00 PM, 5:00 PM - 10:00 PM. *Tip: Their pork belly is legendary—don't leave without trying it.*
 ## Wellness-Fuelled Walking Route  
 Start with a steaming bowl at Hanoi Mee (Freshwater Sq) → stroll 5 min along the river to Arts Centre forecourt for ten deep-breathing lunges → duck into Shujinko if you need a midnight top-up. Total distance: 600 m; negligible cortisol cost.
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border) ($$-$$$). Open: 11:00 AM - 11:00 PM Daily. *Tip: The 'Feed Me' menu is the best way to experience the kitchen's highlights without the stress of choosing.*
+- **Panda Hot Pot** — 106-108 Bourke St, Melbourne VIC 3000 (Southbank/CBD proximity) ($$-$$$). Open: 11:30 AM - 11:00 PM Daily. *Tip: Book well in advance for weekend nights as the queue can be over an hour long.*
+- **Rockpool Bar & Grill** — 8 Whiteman St, Southbank VIC 3006 ($$$$). Open: 12:00 PM - 3:00 PM, 6:00 PM - 10:00 PM. *Tip: While famous for steak, their Asian-inspired side dishes and seafood starters are world-class.*
+- **Gingerboy** — 27-29 Crossley St, Melbourne VIC 3000 ($$-$$$). Open: 5:00 PM - 10:00 PM Daily. *Tip: Try the son-in-law eggs; they are a cult favorite for a reason.*
+- **Rice Paper Scissors** — 19 Hardware Ln, Melbourne VIC 3000 ($$). Open: 11:30 AM - 10:00 PM Daily. *Tip: Order the betel leaf wraps to start; they are perfectly balanced in flavor.*
+- **Red Spice Road** — 27 McKillop St, Melbourne VIC 3000 ($$-$$$). Open: 12:00 PM - 3:00 PM, 5:00 PM - 10:00 PM. *Tip: Their pork belly is legendary—don't leave without trying it.*
 ## Need-to-Know Quick Guide  
 - **Cash-free zone:** Every venue accepts tap-and-go; split bills at the table.  
 - **Parking hack:** Arts Centre car park validates until 8 pm—$12 flat if you dine and upload your licence plate at any of the above restaurants.  
 - **Dietary codes:** Vegan (Dodee, Fat Buddha), gluten-free (Fat Buddha, ChiliPadi), low-carb noodles (Hanoi Mee, Shujinko on request).  
 
 Eat smart, walk the river, and let Southbank feed both your taste buds and your well-being—no post-meal regret required.
+
+
+## Venue Addresses & Details
+
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border) ($$-$$$). Open: 11:00 AM - 11:00 PM Daily. *Tip: The 'Feed Me' menu is the best way to experience the kitchen's highlights without the stress of choosing.*
+- **Panda Hot Pot** — 106-108 Bourke St, Melbourne VIC 3000 (Southbank/CBD proximity) ($$-$$$). Open: 11:30 AM - 11:00 PM Daily. *Tip: Book well in advance for weekend nights as the queue can be over an hour long.*
+- **Rockpool Bar & Grill** — 8 Whiteman St, Southbank VIC 3006 ($$$$). Open: 12:00 PM - 3:00 PM, 6:00 PM - 10:00 PM. *Tip: While famous for steak, their Asian-inspired side dishes and seafood starters are world-class.*
+- **Gingerboy** — 27-29 Crossley St, Melbourne VIC 3000 ($$-$$$). Open: 5:00 PM - 10:00 PM Daily. *Tip: Try the son-in-law eggs; they are a cult favorite for a reason.*
+- **Rice Paper Scissors** — 19 Hardware Ln, Melbourne VIC 3000 ($$). Open: 11:30 AM - 10:00 PM Daily. *Tip: Order the betel leaf wraps to start; they are perfectly balanced in flavor.*
+- **Red Spice Road** — 27 McKillop St, Melbourne VIC 3000 ($$-$$$). Open: 12:00 PM - 3:00 PM, 5:00 PM - 10:00 PM. *Tip: Their pork belly is legendary—don't leave without trying it.*
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/southbank/](/southbank/)
+- [/southbank/hub](/southbank/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

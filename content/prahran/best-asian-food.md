@@ -1,12 +1,16 @@
 ---
 title: "Best Asian Food in Prahran 2026: Greville & Chapel"
-cover_image: "https://images.pexels.com/photos/12108138/pexels-photo-12108138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: yuki
 tags: ["prahran", "asian", "food"]
 categories: ["food"]
----
+description: "Best Asian Food in Prahran 2026: Greville & Chapel
 
+Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
+
+Prahran doesn't get the same love as Ric..."
+---
 # Best Asian Food in Prahran 2026: Greville & Chapel
 
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
@@ -131,6 +135,14 @@ Their noodle soups ($16–$19) are the winter option — the beef brisket noodle
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Rice Paper Scissors** — 577 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
+- **David's** — 4 Cecil Pl, Prahran, VIC 3181 ($$$). Open: Tue-Sun 12:00 PM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: The 'all you can eat' yum cha on weekends is a local institution.*
+- **Hawker Hall** — 98 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Grab a seat at the bar if you're dining solo; the service is faster.*
+- **Mr. Miyagi** — 99 Chapel St, Windsor, VIC 3181 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: You cannot leave without trying the nori taco.*
+- **Shujinko** — 156 Chapel St, Windsor, VIC 3181 ($). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: The spicy Kara Ramen is the best cure for a night out on Chapel Street.*
 ## What We Skipped and Why
 
 Every suburb listicle has places people expect to see. Here's why certain Prahran restaurants didn't make our six:
@@ -143,6 +155,14 @@ Every suburb listicle has places people expect to see. Here's why certain Prahra
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Rice Paper Scissors** — 577 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
+- **David's** — 4 Cecil Pl, Prahran, VIC 3181 ($$$). Open: Tue-Sun 12:00 PM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: The 'all you can eat' yum cha on weekends is a local institution.*
+- **Hawker Hall** — 98 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Grab a seat at the bar if you're dining solo; the service is faster.*
+- **Mr. Miyagi** — 99 Chapel St, Windsor, VIC 3181 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: You cannot leave without trying the nori taco.*
+- **Shujinko** — 156 Chapel St, Windsor, VIC 3181 ($). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: The spicy Kara Ramen is the best cure for a night out on Chapel Street.*
 ## Getting There and Getting Home
 
 Prahran's Asian food strip along Greville Street is a 5-minute walk from **Prahran Station** (Sandringham line). Chapel Street venues are reachable from either Prahran or **Windsor Station** — they're roughly equidistant.
@@ -155,6 +175,14 @@ If you're coming from the city, the **Tram 78** runs down Chapel Street and stop
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Rice Paper Scissors** — 577 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
+- **David's** — 4 Cecil Pl, Prahran, VIC 3181 ($$$). Open: Tue-Sun 12:00 PM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: The 'all you can eat' yum cha on weekends is a local institution.*
+- **Hawker Hall** — 98 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Grab a seat at the bar if you're dining solo; the service is faster.*
+- **Mr. Miyagi** — 99 Chapel St, Windsor, VIC 3181 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: You cannot leave without trying the nori taco.*
+- **Shujinko** — 156 Chapel St, Windsor, VIC 3181 ($). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: The spicy Kara Ramen is the best cure for a night out on Chapel Street.*
 ## The Neighbourhood Play
 
 Prahran's Asian food scene sits in a sweet spot between the high-end dining of [South Yarra](/south-yarra) and the eclectic strip of [Windsor](/windsor) on Chapel's other side. If you're planning a bigger food crawl, the smart move is to start with dumplings and pho in Prahran for lunch, then walk south along Chapel Street into Windsor for afternoon drinks, then loop back for Thai or Korean for dinner.
@@ -165,6 +193,14 @@ Prahran's vibe score has been climbing steadily this year, and the food scene is
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Rice Paper Scissors** — 577 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
+- **David's** — 4 Cecil Pl, Prahran, VIC 3181 ($$$). Open: Tue-Sun 12:00 PM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: The 'all you can eat' yum cha on weekends is a local institution.*
+- **Hawker Hall** — 98 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Grab a seat at the bar if you're dining solo; the service is faster.*
+- **Mr. Miyagi** — 99 Chapel St, Windsor, VIC 3181 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: You cannot leave without trying the nori taco.*
+- **Shujinko** — 156 Chapel St, Windsor, VIC 3181 ($). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: The spicy Kara Ramen is the best cure for a night out on Chapel Street.*
 ## The Bottom Line
 
 Prahran won't replace Richmond for Vietnamese or Box Hill for dumplings, and it doesn't try to. What it offers is a walkable, genuinely good collection of Asian restaurants that cover the major bases — Vietnamese, Japanese, Korean, Thai, Malaysian, and Chinese — without ever feeling like you're in a tourist corridor.
@@ -178,3 +214,21 @@ The sweet spot? Dumplings Plus for a $12 lunch that fills you up, Song Kitchen f
 **Was this article helpful?** 👍 👎
 
 [Rate your suburb's food scene](/rate) | [Subscribe to the Prahran weekly briefing](/subscribe)
+
+
+## Venue Addresses & Details
+
+- **Rice Paper Scissors** — 577 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
+- **David's** — 4 Cecil Pl, Prahran, VIC 3181 ($$$). Open: Tue-Sun 12:00 PM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: The 'all you can eat' yum cha on weekends is a local institution.*
+- **Hawker Hall** — 98 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Grab a seat at the bar if you're dining solo; the service is faster.*
+- **Mr. Miyagi** — 99 Chapel St, Windsor, VIC 3181 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: You cannot leave without trying the nori taco.*
+- **Shujinko** — 156 Chapel St, Windsor, VIC 3181 ($). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: The spicy Kara Ramen is the best cure for a night out on Chapel Street.*
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/prahran/](/prahran/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

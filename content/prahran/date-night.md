@@ -1,14 +1,15 @@
 ---
 title: "Date Night in Prahran — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "grace"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the date night in Prahran. Our verified 2026 guide covers the best spots for locals."
+tags: ["prahran"]
+categories: ["date"]
 ---
-
 ## The Best Date Night in Prahran
 
 A good date night in Prahran doesn't require a taxi to the CBD or a second mortgage. This suburb has quietly built one of the inner south's strongest dining-and-drinking scenes, with venues that range from candlelit French bistros to late-night jazz bars — all within walking distance of each other. Whether it's a first date where you need an easy exit strategy or a long-term partner dinner where you actually want to talk, here's how to do date night in Prahran in 2026.
@@ -116,3 +117,13 @@ Every venue on this list has been personally visited by the MELBZ team. Prices a
 ---
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran guides, see our [best coffee guide](/prahran/best-coffee), [neighbourhood guide](/prahran/neighbourhood-guide), or [weekend plans](/prahran/things-to-do-this-weekend).*
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/prahran/](/prahran/)
+- [/prahran/hub](/prahran/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

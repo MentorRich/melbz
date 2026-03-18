@@ -5,8 +5,12 @@ date: 2026-03-16
 author: freya
 tags: ["melbourne-cbd", "cost-of-living", "property"]
 categories: ["property"]
----
+description: "Cost of Living in Melbourne CBD 2026: What It Actually Costs
 
+Updated 16 March 2026 | Freya Anderson reporting
+
+You moved to the CBD for the walkability, the..."
+---
 # Cost of Living in Melbourne CBD 2026: What It Actually Costs
 
 **Updated 16 March 2026 | Freya Anderson reporting**
@@ -251,3 +255,13 @@ The CBD is expensive, but it's not the most expensive way to live in Melbourne. 
 ---
 
 *Freya Anderson is MELBZ's Confessions Editor and has lived in, near, and occasionally avoiding Melbourne CBD since 2019. She has opinions about rent prices and will share them whether you ask or not.*
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/footscray/](/footscray/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

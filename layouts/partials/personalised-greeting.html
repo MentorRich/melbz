@@ -1,0 +1,44 @@
+{{/* layouts/partials/personalised-greeting.html */}}
+{{/* Shows user greeting if logged in via localStorage */}}
+<div id="personalised-greeting" style="display: none; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #fff; padding: 24px; border-radius: 12px; margin-bottom: 32px;">
+  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px;">
+    <div>
+      <h2 id="greeting-text" style="font-size: 24px; margin-bottom: 8px;">Hey there!</h2>
+      <p id="greeting-subtext" style="opacity: 0.8; font-size: 14px;">Here's what's happening in your world.</p>
+    </div>
+    <div style="display: flex; gap: 12px;">
+      <a href="/confessions/" style="background: rgba(233, 69, 96, 0.2); color: #e94560; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600;">Drop a Confession</a>
+      <button onclick="logoutMELBZ()" style="background: rgba(255,255,255,0.1); color: #fff; border: none; padding: 10px 16px; border-radius: 8px; cursor: pointer;">Not {{ .Params.nickname | default "me" }}?</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const userStr = localStorage.getItem('melbz_user');
+  const greeting = document.getElementById('personalised-greeting');
+  const greetingText = document.getElementById('greeting-text');
+  const greetingSubtext = document.getElementById('greeting-subtext');
+  
+  if (userStr && greeting) {
+    try {
+      const user = JSON.parse(userStr);
+      const suburb = user.suburb || '';
+      const suburbName = suburb.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+      
+      greeting.style.display = 'block';
+      greetingText.textContent = `Hey ${user.nickname} — here's what's happening in ${suburbName} this week`;
+      greetingSubtext.textContent = 'Based on your suburb, you might also like:';
+    } catch (e) {
+      console.error('Error parsing user data:', e);
+    }
+  }
+})();
+
+function logoutMELBZ() {
+  localStorage.removeItem('melbz_user');
+  localStorage.removeItem('melbz_nickname');
+  localStorage.removeItem('melbz_suburb');
+  location.reload();
+}
+</script>

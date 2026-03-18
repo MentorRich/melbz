@@ -7,8 +7,9 @@ author: "maya"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the things to do this weekend in South Yarra. Our verified 2026 guide covers the best spots for locals."
+tags: ["south-yarra"]
+categories: ["things"]
 ---
-
 # Things To Do This Weekend in South Yarra
 
 *Updated 16 March 2026 | Maya Petrovic reporting | 8 places reviewed*
@@ -243,3 +244,13 @@ Not everything in South Yarra deserves your weekend. Here's what we left out and
 > *Quick tap — it helps us write better guides*
 
 *Data sourced from venue websites, on-the-ground visits, and PTV timetables. Last verified 16 March 2026. MELBZ knows your suburb.*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/brunswick/](/brunswick/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

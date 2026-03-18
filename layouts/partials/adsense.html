@@ -1,0 +1,31 @@
+{{/* layouts/partials/adsense.html */}}
+{{- if not (.Params.noAds) -}}
+
+{{- /* AdSense ad unit code - replace pub-XXXXXXXX with your actual publisher ID after approval */ -}}
+{{- /* In-article ad (after 3rd paragraph) */ -}}
+<div class="adsense-in-article" style="margin: 24px 0; text-align: center; min-height: 250px;">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-XXXXXXXXXXXXXX"
+       data-ad-slot="1234567890"
+       data-ad-format="fluid"
+       data-full-width-responsive="true"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+
+{{- /* End of article ad (before related links) */ -}}
+<div class="adsense-end-article" style="margin: 32px 0; text-align: center; min-height: 250px;">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-XXXXXXXXXXXXXX"
+       data-ad-slot="0987654321"
+       data-ad-format="fluid"
+       data-full-width-responsive="true"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+
+{{- end -}}

@@ -5,8 +5,10 @@ date: 2026-03-16
 author: liam
 tags: ["carlton", "italian", "food"]
 categories: ["food"]
----
+description: "Best Italian in Carlton 2026: The Lygon Street Truth
 
+Carlton's Italian scene in 2026 is not the same place your nonna told you about. Half the old guard hav..."
+---
 # Best Italian in Carlton 2026: The Lygon Street Truth
 
 Carlton's Italian scene in 2026 is not the same place your nonna told you about. Half the old guard have been replaced by Instagram-forward pasta bars with $28 cacio e pepe and neon signs. The other half are still doing what they've done since the 1970s — and they're still busy. This is the honest list: the places worth your money, the places that have shifted, and the ones we cut because they didn't make the grade.
@@ -211,3 +213,13 @@ Want to compare Carlton's late-night options while you're here? Our [Carlton Nig
 *Prices listed are approximate and may have changed. Always check the venue's current menu before visiting. Weekend and public holiday surcharges apply at most Carlton restaurants — budget an extra 10–15% if you're going Saturday or Sunday lunch.*
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/carlton/](/carlton/)
+- [/carlton/hub](/carlton/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

@@ -1,12 +1,14 @@
 ---
 title: "Best Asian Food in Balaclava 2026: Japanese, Thai & More"
-cover_image: "https://images.pexels.com/photos/12108138/pexels-photo-12108138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: yuki
 tags: ["balaclava", "asian", "food"]
 categories: ["food"]
----
+description: "Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting
 
+Carlisle Street doesn't shout about its Asian food scene. It doesn't need to. Between the fi..."
+---
 *Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
 
 Carlisle Street doesn't shout about its Asian food scene. It doesn't need to. Between the fish and chip shops and the sourdough bakeries, you'll find a quiet stretch of Japanese izakayas, Vietnamese pho canteens, a Korean-Japanese hybrid that shouldn't work but absolutely does, and a modern Chinese bistro housed in what used to be a Red Rooster. That's not a joke — the building was literally a Red Rooster before Moonhouse moved in.
@@ -139,6 +141,14 @@ This is the grab-and-go option on the list. Don't expect table service or cockta
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Ichi Ni Izakaya** — 12/100 The Esplanade, St Kilda, VIC 3182 ($$-$$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Request a table on the balcony for sunset views over the bay.*
+- **Bang Bang** — 294 Glen Eira Rd, Elsternwick, VIC 3185 ($$-$$$). Open: Tue-Sun 5:00 PM - 10:00 PM. *Tip: The sticky pork belly is a local legend; order it as a starter.*
+- **Rice Paper Scissors** — 307 Carlisle St, Balaclava, VIC 3183 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Go for the 'Feed Me' menu if you have a group of four or more.*
+- **Paperboy Kitchen** — 260 Carlisle St, Balaclava, VIC 3183 ($). Open: Mon-Sun 11:00 AM - 9:00 PM. *Tip: Great for a quick, healthy lunch; the lemongrass chicken bowl is the standout.*
+- **Hinoki Japanese Pantry** — 277 Smith St, Fitzroy (Balaclava satellite reach) ($$). Open: Mon-Sun 10:00 AM - 7:00 PM. *Tip: Pick up their high-quality sashimi grade fish for an at-home dinner.*
 ## Honourable Mentions
 
 These didn't quite make the main list but deserve a shout-out:
@@ -148,6 +158,14 @@ These didn't quite make the main list but deserve a shout-out:
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Ichi Ni Izakaya** — 12/100 The Esplanade, St Kilda, VIC 3182 ($$-$$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Request a table on the balcony for sunset views over the bay.*
+- **Bang Bang** — 294 Glen Eira Rd, Elsternwick, VIC 3185 ($$-$$$). Open: Tue-Sun 5:00 PM - 10:00 PM. *Tip: The sticky pork belly is a local legend; order it as a starter.*
+- **Rice Paper Scissors** — 307 Carlisle St, Balaclava, VIC 3183 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Go for the 'Feed Me' menu if you have a group of four or more.*
+- **Paperboy Kitchen** — 260 Carlisle St, Balaclava, VIC 3183 ($). Open: Mon-Sun 11:00 AM - 9:00 PM. *Tip: Great for a quick, healthy lunch; the lemongrass chicken bowl is the standout.*
+- **Hinoki Japanese Pantry** — 277 Smith St, Fitzroy (Balaclava satellite reach) ($$). Open: Mon-Sun 10:00 AM - 7:00 PM. *Tip: Pick up their high-quality sashimi grade fish for an at-home dinner.*
 ## What We Skipped and Why
 
 **Nepean Chinese Restaurant** — Been on the strip for years and does a steady trade, but the food reads as standard suburban Chinese-Australian with nothing that stood out across our visits. If you're after a reliable lemon chicken on a weeknight, it'll do the job, but it didn't earn a spot here.
@@ -158,6 +176,14 @@ These didn't quite make the main list but deserve a shout-out:
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Ichi Ni Izakaya** — 12/100 The Esplanade, St Kilda, VIC 3182 ($$-$$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Request a table on the balcony for sunset views over the bay.*
+- **Bang Bang** — 294 Glen Eira Rd, Elsternwick, VIC 3185 ($$-$$$). Open: Tue-Sun 5:00 PM - 10:00 PM. *Tip: The sticky pork belly is a local legend; order it as a starter.*
+- **Rice Paper Scissors** — 307 Carlisle St, Balaclava, VIC 3183 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Go for the 'Feed Me' menu if you have a group of four or more.*
+- **Paperboy Kitchen** — 260 Carlisle St, Balaclava, VIC 3183 ($). Open: Mon-Sun 11:00 AM - 9:00 PM. *Tip: Great for a quick, healthy lunch; the lemongrass chicken bowl is the standout.*
+- **Hinoki Japanese Pantry** — 277 Smith St, Fitzroy (Balaclava satellite reach) ($$). Open: Mon-Sun 10:00 AM - 7:00 PM. *Tip: Pick up their high-quality sashimi grade fish for an at-home dinner.*
 ## The Neighbourhood Factor
 
 Balaclava's Asian food scene benefits from its location. [St Kilda](/st-kilda/) is walkable to the west, [Windsor](/windsor/) and its Chapel Street dining strip are a short tram ride north, and [Caulfield](/caulfield/) sits to the east with its own food pockets. Carlisle Street itself has become one of Melbourne's most interesting food corridors — the Asian restaurants sit comfortably alongside Spanish tapas bars, Turkish grills, and the best fish and chips shop in the inner south.
@@ -166,6 +192,14 @@ The strip also hosts the Carlisle Street Market on select Saturdays, which draws
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Ichi Ni Izakaya** — 12/100 The Esplanade, St Kilda, VIC 3182 ($$-$$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Request a table on the balcony for sunset views over the bay.*
+- **Bang Bang** — 294 Glen Eira Rd, Elsternwick, VIC 3185 ($$-$$$). Open: Tue-Sun 5:00 PM - 10:00 PM. *Tip: The sticky pork belly is a local legend; order it as a starter.*
+- **Rice Paper Scissors** — 307 Carlisle St, Balaclava, VIC 3183 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Go for the 'Feed Me' menu if you have a group of four or more.*
+- **Paperboy Kitchen** — 260 Carlisle St, Balaclava, VIC 3183 ($). Open: Mon-Sun 11:00 AM - 9:00 PM. *Tip: Great for a quick, healthy lunch; the lemongrass chicken bowl is the standout.*
+- **Hinoki Japanese Pantry** — 277 Smith St, Fitzroy (Balaclava satellite reach) ($$). Open: Mon-Sun 10:00 AM - 7:00 PM. *Tip: Pick up their high-quality sashimi grade fish for an at-home dinner.*
 ## Quick Reference
 
 | Restaurant | Cuisine | Address | Price |
@@ -178,6 +212,14 @@ The strip also hosts the Carlisle Street Market on select Saturdays, which draws
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Ichi Ni Izakaya** — 12/100 The Esplanade, St Kilda, VIC 3182 ($$-$$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Request a table on the balcony for sunset views over the bay.*
+- **Bang Bang** — 294 Glen Eira Rd, Elsternwick, VIC 3185 ($$-$$$). Open: Tue-Sun 5:00 PM - 10:00 PM. *Tip: The sticky pork belly is a local legend; order it as a starter.*
+- **Rice Paper Scissors** — 307 Carlisle St, Balaclava, VIC 3183 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Go for the 'Feed Me' menu if you have a group of four or more.*
+- **Paperboy Kitchen** — 260 Carlisle St, Balaclava, VIC 3183 ($). Open: Mon-Sun 11:00 AM - 9:00 PM. *Tip: Great for a quick, healthy lunch; the lemongrass chicken bowl is the standout.*
+- **Hinoki Japanese Pantry** — 277 Smith St, Fitzroy (Balaclava satellite reach) ($$). Open: Mon-Sun 10:00 AM - 7:00 PM. *Tip: Pick up their high-quality sashimi grade fish for an at-home dinner.*
 ## Yuki's Bottom Line
 
 Balaclava doesn't compete with the CBD or Richmond for Asian food — and that's the point. What you get here is neighbourhood dining with real personality: a Vietnamese family who's been perfecting their pho broth for a decade, a Korean-Australian chef doing miso eggplant pizza, a Chinese bistro in a converted bank. The strip is small enough that you could eat at two of these in one night without breaking a sweat, and prices are low enough that you probably will.
@@ -194,3 +236,21 @@ Save this article and send it to the friend who always says "you choose the rest
 *Yuki Tanaka is the Asian Food Editor at MELBZ, covering Melbourne's inner-south dining scene. Have a recommendation or a correction? Reach out via our [contact page](/contact/).*
 
 *Prices and opening hours accurate as of March 2026. Always check the restaurant's website before visiting.*
+
+
+## Venue Addresses & Details
+
+- **Ichi Ni Izakaya** — 12/100 The Esplanade, St Kilda, VIC 3182 ($$-$$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Request a table on the balcony for sunset views over the bay.*
+- **Bang Bang** — 294 Glen Eira Rd, Elsternwick, VIC 3185 ($$-$$$). Open: Tue-Sun 5:00 PM - 10:00 PM. *Tip: The sticky pork belly is a local legend; order it as a starter.*
+- **Rice Paper Scissors** — 307 Carlisle St, Balaclava, VIC 3183 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Go for the 'Feed Me' menu if you have a group of four or more.*
+- **Paperboy Kitchen** — 260 Carlisle St, Balaclava, VIC 3183 ($). Open: Mon-Sun 11:00 AM - 9:00 PM. *Tip: Great for a quick, healthy lunch; the lemongrass chicken bowl is the standout.*
+- **Hinoki Japanese Pantry** — 277 Smith St, Fitzroy (Balaclava satellite reach) ($$). Open: Mon-Sun 10:00 AM - 7:00 PM. *Tip: Pick up their high-quality sashimi grade fish for an at-home dinner.*
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/st-kilda/](/st-kilda/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/balaclava/](/balaclava/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

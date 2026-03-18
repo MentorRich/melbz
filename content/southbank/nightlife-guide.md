@@ -72,3 +72,21 @@ The best approach is to plan ahead. Book your dinner, know your bar, understand 
 *Dylan Hayes has been exploring Melbourne's nightlife for six years. He prefers dive bars but admits Cherry has the best cocktails in the south-side precinct.*
 
 Updated 2026-03-17 | Dylan Hayes reporting
+## Related Articles
+
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/southbank/](/southbank/)
+- [/nightlife/](/nightlife/)
+- [/things-to-do/](/things-to-do/)
+
+*Find more Melbourne content at [melbz.com.au](/)*
+
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

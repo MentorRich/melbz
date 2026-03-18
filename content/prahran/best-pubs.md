@@ -1,14 +1,15 @@
 ---
 title: "Best Pubs in Prahran — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/8234585/pexels-photo-8234585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "kai"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best pubs in Prahran. Our verified 2026 guide covers the best spots for locals."
+tags: ["prahran"]
+categories: ["general"]
 ---
-
 ## The Best Pubs in Prahran
 
 Prahran's pub scene sits in that sweet spot between the polished gastropubs of South Yarra and the rowdier Chapel Street strip. These are the places where locals go for a proper pint, a decent parma, and a seat that doesn't come with a minimum spend. Whether you want the art-deco charm of a heritage hotel or the bare-bones honesty of a back-street local, here's where to find the best pubs in Prahran in 2026.
@@ -47,7 +48,7 @@ The food is pub-standard — decent burgers, solid parma ($22), and a Sunday roa
 
 Tucked away in a narrow lane off Greville Street, The Flying Duck is the pub equivalent of a secret handshake. You won't stumble across it by accident — you have to know it's there. And once you find it, you'll understand why regulars keep it to themselves.
 
-The venue offers full-service dining in a proper restaurant space alongside a more casual bar area where you order at the counter. The beer garden is one of the best in Prahran — covered, heated in winter, and just large enough to feel social without being overwhelming. Tap prices sit around $9–$12 for a schooner, and the food menu leans towards elevated pub fare: think duck burgers (obviously), fish and chips ($19), and seasonal specials.
+The venue offers full-service dining in a proper restaurant space alongside a more casual bar area where you order at the counter. The beer garden is one of the best in Prahran — covered, heated in winter, and just large enough to feel social without being overwhelming. Tap prices sit around $9–$12 for a schooner, and the food menu leans towards make betterd pub fare: think duck burgers (obviously), fish and chips ($19), and seasonal specials.
 
 **The insider move:** Wednesday nights are quieter, and the kitchen does specials that don't appear on the weekend menu. If you want the full Flying Duck experience without the weekend crush, go mid-week.
 
@@ -122,3 +123,13 @@ Every pub on this list has been visited by the MELBZ team multiple times across 
 ---
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. No sponsored rankings. No paid placements. For more Prahran guides, see our [nightlife guide](/prahran/nightlife-guide), [neighbourhood guide](/prahran/neighbourhood-guide), or [date night picks](/prahran/date-night).*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/st-kilda/](/st-kilda/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

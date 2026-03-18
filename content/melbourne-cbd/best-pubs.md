@@ -5,8 +5,12 @@ date: 2026-03-16
 author: kai
 tags: ["melbourne-cbd", "pubs", "nightlife"]
 categories: ["nightlife"]
----
+description: "Best Pubs in Melbourne CBD 2026: Heritage, Rooftops & Craft
 
+Updated 16 March 2026 | 6 places tested | Kai Thompson reporting
+
+Melbourne's CBD pub scene does..."
+---
 # Best Pubs in Melbourne CBD 2026: Heritage, Rooftops & Craft
 
 *Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
@@ -188,3 +192,13 @@ Planning a pub crawl across Melbourne's inner suburbs? Check out our suburb-by-s
 ---
 
 *All venues were visited in February–March 2026. Menus and hours may change. Check each pub's website or call ahead for current trading hours and special events. Prices are per main dish, drinks extra.*
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/richmond/](/richmond/)
+- [/best-pubs-melbourne/](/best-pubs-melbourne/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

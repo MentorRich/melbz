@@ -7,8 +7,9 @@ author: "maya"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Discover the things to do this weekend in Carlton. Our verified 2026 guide covers the best spots for locals."
+tags: ["carlton"]
+categories: ["things"]
 ---
-
 # Things To Do This Weekend in Carlton — Your 2026 Guide
 
 Carlton isn't just Melbourne's Little Italy — it's one of the most walkable, culture-packed suburbs in the inner north. Whether you're a long-time local or just jumping off the tram at Elgin Street, this is the weekend guide that actually tells you where to go and what to skip.
@@ -152,3 +153,13 @@ Carlton packs more into a few square kilometres than most suburbs manage in ten.
 ---
 
 *Living in Carlton? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=carlton)*
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/southbank/](/southbank/)
+- [/things-to-do-melbourne/](/things-to-do-melbourne/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

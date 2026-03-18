@@ -1,5 +1,6 @@
 ---
 title: "19 New Melbourne Restaurants, Bars and Bakeries to Try in March 2026"
+cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 suburb: melbourne-wide
 vertical: food
 author: "oscar"
@@ -8,10 +9,11 @@ author_image: "/images/authors/jules.jpg"
 updated: 2026-03-14
 description: "Every exciting new restaurant, bar and bakery that opened in Melbourne in February and March 2026 — from Tokyo's Ginza Kagari ramen to Carlton's Aunty's Dumplings, a new Lune flagship and Korean burger joints. Your guide to what's new right now."
 keywords: ["new Melbourne restaurants 2026", "new restaurants Melbourne March 2026", "Melbourne new openings 2026", "new bars Melbourne", "Melbourne restaurant openings", "new food Melbourne", "Melbourne dining 2026", "where to eat Melbourne this month", "Ginza Kagari Melbourne", "Lune CBD Melbourne"]
-cover_image: "/images/new-openings-march-2026-hero.jpg"
 cover_alt: "A bright, bustling new Melbourne restaurant interior with diners and chefs at work"
+date: 2026-03-18
+tags: ["food"]
+categories: ["new"]
 ---
-
 Melbourne's hospitality machine never stops. Here are 19 new restaurants, bars and bakeries that opened in February and March 2026 — from a Tokyo ramen institution making its Australian debut to a mother-daughter dumpling shop in Carlton, a CBD Lune flagship and a Korean burger joint that's already generating serious hype.
 
 **What's inside:**
@@ -185,7 +187,7 @@ Gamja Hotteok brings one of Korea's most beloved street snacks to Melbourne. The
 
 ### 13. The Pinnacle — Fitzroy North
 
-**What:** This beloved Fitzroy North pub has reopened after a refresh, keeping the same community energy with an elevated food offering.
+**What:** This beloved Fitzroy North pub has reopened after a refresh, keeping the same community energy with an make betterd food offering.
 
 The Pinnacle's return is a win for Fitzroy North's pub scene. The bones are the same — a proper neighbourhood local where you can have a quiet pint on a Tuesday or a rowdy dinner on a Saturday — but the kitchen has been sharpened. Good beer, solid pub food, and the kind of atmosphere you can't manufacture. Welcome back.
 
@@ -271,3 +273,13 @@ The trend: international arrivals choosing Melbourne (Ginza Kagari, Cafe Ogawa),
 For more suburb-specific food guides, check our [Carlton cheap eats](/carlton/cheap-eats/), [Fitzroy restaurants](/fitzroy/best-restaurants/), or [St Kilda bars](/st-kilda/best-bars/).
 
 *Last updated: March 14, 2026. Spotted a new opening we've missed? Email hello@melbz.com.au.*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/st-kilda/](/st-kilda/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

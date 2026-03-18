@@ -7,8 +7,9 @@ author: "marcusl"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Your definitive Carlton neighbourhood guide for 2026. Everything you need to know about living in, eating in, and loving Melbourne's Italian heart."
+tags: ["carlton"]
+categories: ["neighbourhood"]
 ---
-
 # Carlton Neighbourhood Guide 2026 — Melbourne's Little Italy, Still Standing
 
 Carlton is where Melbourne learned to eat. That's not hyperbole — it's history. When Italian immigrants poured into this neighbourhood after World War II, they planted the seeds of a café and restaurant culture that now defines the entire city. By 1960, a quarter of Carlton's population was Italian, and Lygon Street was already legendary. That DNA is still here, woven into the espresso machines, the late-night trattorias, and the nonnas who still walk to the deli every morning.
@@ -159,3 +160,13 @@ If you're visiting Melbourne for the first time, Carlton is a must. If you live 
 - [Nightlife Guide — Carlton](/carlton/nightlife-guide)
 - [What's On in Fitzroy](/fitzroy)
 - [Carlton North Vibe Score](/carlton-north)
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

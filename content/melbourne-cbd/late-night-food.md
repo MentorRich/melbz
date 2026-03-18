@@ -5,8 +5,10 @@ date: 2026-03-16
 author: tariq
 tags: ["melbourne", "late-night", "food"]
 categories: ["food"]
----
+description: "Best Late Night Food in Melbourne 2026: The Definitive Guide
 
+It's 11:47pm on a Saturday. You've just left a packed gig at the Forum, your Myki's expired, an..."
+---
 # Best Late Night Food in Melbourne 2026: The Definitive Guide
 
 It's 11:47pm on a Saturday. You've just left a packed gig at the Forum, your Myki's expired, and your stomach is staging a full revolt. Where do you go?
@@ -229,3 +231,13 @@ Planning your late-night route? Check our [CBD Transport Guide](/melbourne-cbd/t
 
 > **🔄 OPEN LOOP CLOSE**
 > This guide covers the CBD and inner suburbs, but Melbourne's outer-north late-night scene is a different animal entirely. Brunswick, Footscray, and Richmond each have their own late-night food ecosystems worth exploring. Start with [Best Late Night Food in Brunswick](/brunswick/late-night-food/) for the full picture.
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/footscray/](/footscray/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

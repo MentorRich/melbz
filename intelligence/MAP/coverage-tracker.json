@@ -1,0 +1,13 @@
+{
+  "last_updated": null,
+  "total_pages_live": 23,
+  "target_pages": 1932,
+  "coverage_pct": 1.2,
+  "suburbs": {
+    "fitzroy": {"tier":1,"target":15,"complete":15,"status":"complete"},
+    "collingwood": {"tier":1,"target":15,"complete":3,"status":"partial"},
+    "carlton": {"tier":1,"target":15,"complete":3,"status":"partial"},
+    "st-kilda": {"tier":1,"target":15,"complete":1,"status":"partial"},
+    "south-yarra": {"tier":1,"target":15,"complete":1,"status":"partial"}
+  }
+}

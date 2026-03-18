@@ -5,8 +5,12 @@ date: 2026-03-16
 author: nadia
 tags: ["melbourne", "vegan", "vegetarian", "food"]
 categories: ["food"]
+description: "Updated 16 March 2026 | 12 places tested | Nadia Keane reporting
+
 ---
 
+Melbourne doesn't do plant-based dining as an afterthought. It does it as the main eve..."
+---
 Updated 16 March 2026 | 12 places tested | Nadia Keane reporting
 
 ---
@@ -198,3 +202,13 @@ New to Melbourne? Our [Moving to Melbourne: What Nobody Tells You](/melbourne-cb
 ---
 
 *Prices and menus accurate as of March 2026. Always check the venue's website before booking, as hours and menus change seasonally. This guide was independently researched and written — no venues paid for inclusion.*
+
+## Related Articles
+
+- [/st-kilda/](/st-kilda/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/brunswick/](/brunswick/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

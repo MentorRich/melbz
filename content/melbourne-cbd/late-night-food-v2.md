@@ -5,8 +5,10 @@ date: 2026-03-16
 author: ethan
 tags: ["melbourne-cbd", "late-night", "food"]
 categories: ["food"]
----
+description: "Late Night Food in Melbourne CBD 2026: After Midnight Guide
 
+It's 1:47am. You've just come out of a gig at the Forum or you've lost track of time at a lanewa..."
+---
 # Late Night Food in Melbourne CBD 2026: After Midnight Guide
 
 It's 1:47am. You've just come out of a gig at the Forum or you've lost track of time at a laneway bar and suddenly your body reminds you it's been seven hours since you ate. The tram's already wound down, your Myki's probably dead, and the kebab shops on Swanston Street are doing that thing where they're either miraculously open or mysteriously closed with no pattern you can decode.
@@ -160,3 +162,13 @@ We'll be back to test more spots as the weather cools down and the late-night cr
 *Get the CBD food briefing every Friday — [subscribe to the Melbourne CBD newsletter](/subscribe)*
 
 *Read next: [Best Ramen in Carlton — Our Definitive Ranking](/carlton/ramen-guide)*
+
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/richmond/](/richmond/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

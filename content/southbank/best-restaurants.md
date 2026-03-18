@@ -5,13 +5,17 @@ date: 2026-03-18
 author: priya
 tags: ["southbank", "best-restaurants"]
 categories: ["best"]
----
+description: "Updated 18 March 2026 | Food Editor
 
+ Southbank's Best Restaurants 2026: Where Culture Meets the Plate
+
+The Southbank dining scene in 2026 is a fascinating p..."
+---
 *Updated 18 March 2026 | Food Editor*
 
 # Southbank's Best Restaurants 2026: Where Culture Meets the Plate
 
-The Southbank dining scene in 2026 is a fascinating paradox. It’s a precinct defined by its grand, sweeping gestures—the soaring spire of the Arts Centre, the dizzying height of the Eureka Skydeck, the wide, bustling promenade. Yet its best restaurants have mastered the art of the intimate moment. They’re the hidden courtyards, the chef’s counters, the menus that tell a story far beyond the postcard view. As someone who has watched this precinct evolve from a tourist strip into a genuine culinary destination, I’m thrilled to guide you through its current highlights.
+The Southbank dining scene in 2026 is a fascinating paradox. It’s a precinct defined by its grand, sweeping gestures—the soaring spire of the Arts Centre, the dizzying height of the Eureka Skydeck, the wide, packed on weekends promenade. Yet its best restaurants have mastered the art of the intimate moment. They’re the hidden courtyards, the chef’s counters, the menus that tell a story far beyond the postcard view. As someone who has watched this precinct evolve from a tourist strip into a genuine culinary destination, I’m thrilled to guide you through its current highlights.
 
 Here are the tables you should be fighting to book this year.
 
@@ -65,7 +69,7 @@ This is where the chefs from other Southbank restaurants go to eat. Tucked away 
 **Address:** Vault 1-9, Federation Wharf, Southbank
 **Price:** Mains $24-$38
 
-Sometimes, you just need a great burger, a cold craft beer, and a spot in the sun by the water. Riverland delivers this with aplomb. Set in the old bluestone vaults under the Federation Square footbridge, it has a sprawling, lively beer garden that’s perfect for groups. The food is elevated pub fare—think crispy fish burgers with green mango slaw, or wood-fired pizzas with proper blistered crusts.
+Sometimes, you just need a great burger, a cold craft beer, and a spot in the sun by the water. Riverland delivers this with aplomb. Set in the old bluestone vaults under the Federation Square footbridge, it has a sprawling, lively beer garden that’s perfect for groups. The food is raise the standardd pub fare—think crispy fish burgers with green mango slaw, or wood-fired pizzas with proper blistered crusts.
 
 **Insider Tip:** It’s incredibly popular on sunny afternoons. Get there by 3pm on a weekend to claim a prime riverside table. They’re also one of the few places in the area with a dedicated, and excellent, gluten-free menu.
 
@@ -79,3 +83,22 @@ Sometimes, you just need a great burger, a cold craft beer, and a spot in the su
 Southbank in 2026 is no longer just a place you visit for a view. It’s a place you visit for a meal you’ll remember. The culinary landscape has matured, offering depth, personality, and a confidence that matches its spectacular setting. Now, go book that table.
 
 *Priya is our Food and Dining Editor. She believes a great meal can tell you everything you need to know about a city. Follow her column for more Melbourne culinary dispatches.*
+
+
+## Venue Addresses & Details
+
+- **Rockpool Bar & Grill** — Crown Riverwalk, 8 Whiteman St, Southbank VIC 3006 ($$$$). Open: 12:00 PM - 11:00 PM. *Tip: Ask for a table by the window for views of the Yarra River.*
+- **Pony Dining** — 25-27 Southgate Ave, Southbank VIC 3006 ($$$). Open: 11:30 AM - 10:00 PM. *Tip: The wood-fired rotisserie meats are the standout; pair with a local Victorian Pinot Noir.*
+- **Nobu Melbourne** — Crown Melbourne, 8 Whiteman St, Southbank VIC 3006 ($$$$). Open: 12:00 PM - 11:30 PM. *Tip: Order the Black Cod Miso; it is a signature dish for a reason.*
+- **Pure South Dining** — 3 Southgate Ave, Southbank VIC 3006 ($$$). Open: 12:00 PM - 10:00 PM. *Tip: The tasting menu offers the best representation of Tasmanian seasonal produce.*
+- **The Meat & Wine Co Southbank** — Freshwater Place, 3 Queensbridge St, Southbank VIC 3006 ($$$). Open: 12:00 PM - 10:30 PM. *Tip: Request a seat on the terrace during warmer months for a lively atmosphere.*
+- **Arbory Afloat** — 2 Flinders Walk, Melbourne VIC 3000 (Southbank side) ($$). Open: 11:00 AM - 1:00 AM. *Tip: Book well in advance for sunset sessions as it is one of the most popular spots in the city.*
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/best-restaurants-melbourne/](/best-restaurants-melbourne/)
+- [/food/](/food/)
+- [/southbank/](/southbank/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

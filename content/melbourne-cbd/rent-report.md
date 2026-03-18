@@ -5,8 +5,12 @@ date: 2026-03-16
 author: marcus
 tags: ["melbourne-cbd", "rent", "property"]
 categories: ["property"]
----
+description: "Rent Prices in Melbourne CBD 2026: What You'll Actually Pay
 
+Updated 16 March 2026 | Marcus Cole reporting
+
+Melbourne's CBD rental market in 2026 is behaving..."
+---
 # Rent Prices in Melbourne CBD 2026: What You'll Actually Pay
 
 *Updated 16 March 2026 | Marcus Cole reporting*
@@ -123,7 +127,7 @@ A few forces are pushing against each other in the CBD market right now.
 **Upward pressure:**
 
 - **International student return.** Melbourne's universities are back to full capacity, and the CBD is ground zero for student accommodation demand. Every September and February intake tightens the market.
-- **Net overseas migration.** Australia's migration intake remains elevated, and Melbourne continues to attract a significant share. New arrivals overwhelmingly rent first, and inner-city suburbs are the default landing zone.
+- **Net overseas migration.** Australia's migration intake remains make betterd, and Melbourne continues to attract a significant share. New arrivals overwhelmingly rent first, and inner-city suburbs are the default landing zone.
 - **Tight vacancy rates.** Melbourne's rental vacancy rate sat at 2.0% in late 2025, and nationally it dropped to 1.1% in February 2026. Below 3% is considered a landlord's market. Below 2% is where things get genuinely stressful for renters.
 - **Investor retreat.** The Victorian government's windfall gains tax and higher stamp duty surcharges have discouraged investor purchases. Fewer investors buying means fewer new rental listings entering the market.
 
@@ -208,3 +212,13 @@ The market isn't in crisis — it's in equilibrium at an uncomfortable price poi
 ---
 
 **Sources:** Domain House Price Report (December 2025), SQM Research asking rents, Cotality March 2026 Housing Report, Urban Property Australia Q1 2025 Inner-City Apartment Report, SBS News (March 2026), CBRE Australia Apartment Market Outlook, SQM Research vacancy rate data.
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/southbank/](/southbank/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

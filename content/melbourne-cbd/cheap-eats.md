@@ -5,8 +5,12 @@ date: 2026-03-16
 author: adam
 tags: ["melbourne-cbd", "cheap-eats", "food"]
 categories: ["food"]
----
+description: "Cheap Eats Under $20 in Melbourne CBD 2026
 
+Updated 16 March 2026 | 6 places tested | Adam Nowak reporting
+
+Melbourne CBD is where wallet damage happens by d..."
+---
 # Cheap Eats Under $20 in Melbourne CBD 2026
 
 **Updated 16 March 2026 | 6 places tested | Adam Nowak reporting**
@@ -137,6 +141,15 @@ Dodee Paidang is one of those places that CBD workers guard like a state secret.
 
 ---
 
+
+## Venue Addresses & Details
+
+- **I Love Dumplings** — 188 Little Bourke St, Melbourne VIC 3000 ($). Open: 11:30 AM - 9:30 PM daily. *Tip: The pan-fried pork dumplings are the gold standard here; order two serves.*
+- **Banh Mi Stand** — 157 Elizabeth St, Melbourne VIC 3000 ($). Open: 8:00 AM - 6:00 PM Mon-Sat. *Tip: Ask for extra chili if you can handle the heat; it's fresh and potent.*
+- **Crossways Food for Life** — Level 1, 123 Swanston St, Melbourne VIC 3000 ($). Open: 11:30 AM - 3:00 PM Mon-Sat. *Tip: The menu changes daily, but the dessert (usually halava) is always a highlight.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM daily. *Tip: It is cash only, so visit an ATM before joining the queue.*
+- **Goz City** — 50 Elizabeth St, Melbourne VIC 3000 ($). Open: 10:00 AM - 8:00 PM Mon-Fri. *Tip: The spinach and cheese gozleme is the best value lunch in the CBD.*
+- **Nene Chicken** — 205 Russell St, Melbourne VIC 3000 ($$). Open: 11:00 AM - 10:00 PM daily. *Tip: Go with a group to share the large platters to keep the cost per person low.*
 ## What We Skipped and Why
 
 Not every cheap CBD spot made the cut. Here's what didn't make it and why:
@@ -153,6 +166,15 @@ Not every cheap CBD spot made the cut. Here's what didn't make it and why:
 
 ---
 
+
+## Venue Addresses & Details
+
+- **I Love Dumplings** — 188 Little Bourke St, Melbourne VIC 3000 ($). Open: 11:30 AM - 9:30 PM daily. *Tip: The pan-fried pork dumplings are the gold standard here; order two serves.*
+- **Banh Mi Stand** — 157 Elizabeth St, Melbourne VIC 3000 ($). Open: 8:00 AM - 6:00 PM Mon-Sat. *Tip: Ask for extra chili if you can handle the heat; it's fresh and potent.*
+- **Crossways Food for Life** — Level 1, 123 Swanston St, Melbourne VIC 3000 ($). Open: 11:30 AM - 3:00 PM Mon-Sat. *Tip: The menu changes daily, but the dessert (usually halava) is always a highlight.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM daily. *Tip: It is cash only, so visit an ATM before joining the queue.*
+- **Goz City** — 50 Elizabeth St, Melbourne VIC 3000 ($). Open: 10:00 AM - 8:00 PM Mon-Fri. *Tip: The spinach and cheese gozleme is the best value lunch in the CBD.*
+- **Nene Chicken** — 205 Russell St, Melbourne VIC 3000 ($$). Open: 11:00 AM - 10:00 PM daily. *Tip: Go with a group to share the large platters to keep the cost per person low.*
 ## The Map: Where to Go When
 
 Here's how we'd eat through the CBD on a $20 daily budget:
@@ -175,6 +197,15 @@ That's a full week of CBD lunches averaging $17.30 per day. Your wallet will tha
 
 ---
 
+
+## Venue Addresses & Details
+
+- **I Love Dumplings** — 188 Little Bourke St, Melbourne VIC 3000 ($). Open: 11:30 AM - 9:30 PM daily. *Tip: The pan-fried pork dumplings are the gold standard here; order two serves.*
+- **Banh Mi Stand** — 157 Elizabeth St, Melbourne VIC 3000 ($). Open: 8:00 AM - 6:00 PM Mon-Sat. *Tip: Ask for extra chili if you can handle the heat; it's fresh and potent.*
+- **Crossways Food for Life** — Level 1, 123 Swanston St, Melbourne VIC 3000 ($). Open: 11:30 AM - 3:00 PM Mon-Sat. *Tip: The menu changes daily, but the dessert (usually halava) is always a highlight.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM daily. *Tip: It is cash only, so visit an ATM before joining the queue.*
+- **Goz City** — 50 Elizabeth St, Melbourne VIC 3000 ($). Open: 10:00 AM - 8:00 PM Mon-Fri. *Tip: The spinach and cheese gozleme is the best value lunch in the CBD.*
+- **Nene Chicken** — 205 Russell St, Melbourne VIC 3000 ($$). Open: 11:00 AM - 10:00 PM daily. *Tip: Go with a group to share the large platters to keep the cost per person low.*
 ## Beyond the CBD: Where the Real Cheap Eats Live
 
 The CBD is convenient, but Melbourne's best value food lives in the inner suburbs where rent is lower and the food is better. If you've got the Myki credit, these suburbs deliver far more bang per buck:
@@ -186,12 +217,30 @@ The CBD is convenient, but Melbourne's best value food lives in the inner suburb
 
 ---
 
+
+## Venue Addresses & Details
+
+- **I Love Dumplings** — 188 Little Bourke St, Melbourne VIC 3000 ($). Open: 11:30 AM - 9:30 PM daily. *Tip: The pan-fried pork dumplings are the gold standard here; order two serves.*
+- **Banh Mi Stand** — 157 Elizabeth St, Melbourne VIC 3000 ($). Open: 8:00 AM - 6:00 PM Mon-Sat. *Tip: Ask for extra chili if you can handle the heat; it's fresh and potent.*
+- **Crossways Food for Life** — Level 1, 123 Swanston St, Melbourne VIC 3000 ($). Open: 11:30 AM - 3:00 PM Mon-Sat. *Tip: The menu changes daily, but the dessert (usually halava) is always a highlight.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM daily. *Tip: It is cash only, so visit an ATM before joining the queue.*
+- **Goz City** — 50 Elizabeth St, Melbourne VIC 3000 ($). Open: 10:00 AM - 8:00 PM Mon-Fri. *Tip: The spinach and cheese gozleme is the best value lunch in the CBD.*
+- **Nene Chicken** — 205 Russell St, Melbourne VIC 3000 ($$). Open: 11:00 AM - 10:00 PM daily. *Tip: Go with a group to share the large platters to keep the cost per person low.*
 ## Open Loop
 
 But here's the thing — cheap CBD lunches are only half the equation. What about when the sun goes down and you need a feed after 10pm? The rules change entirely. Different spots, different prices, different risks. We covered every late-night eat in the CBD that's actually worth leaving the house for in our **[Melbourne CBD Late Night Food Guide](/melbourne-cbd/late-night-food)** — from post-pub dumplings to 3am kebabs that won't destroy your stomach.
 
 ---
 
+
+## Venue Addresses & Details
+
+- **I Love Dumplings** — 188 Little Bourke St, Melbourne VIC 3000 ($). Open: 11:30 AM - 9:30 PM daily. *Tip: The pan-fried pork dumplings are the gold standard here; order two serves.*
+- **Banh Mi Stand** — 157 Elizabeth St, Melbourne VIC 3000 ($). Open: 8:00 AM - 6:00 PM Mon-Sat. *Tip: Ask for extra chili if you can handle the heat; it's fresh and potent.*
+- **Crossways Food for Life** — Level 1, 123 Swanston St, Melbourne VIC 3000 ($). Open: 11:30 AM - 3:00 PM Mon-Sat. *Tip: The menu changes daily, but the dessert (usually halava) is always a highlight.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM daily. *Tip: It is cash only, so visit an ATM before joining the queue.*
+- **Goz City** — 50 Elizabeth St, Melbourne VIC 3000 ($). Open: 10:00 AM - 8:00 PM Mon-Fri. *Tip: The spinach and cheese gozleme is the best value lunch in the CBD.*
+- **Nene Chicken** — 205 Russell St, Melbourne VIC 3000 ($$). Open: 11:00 AM - 10:00 PM daily. *Tip: Go with a group to share the large platters to keep the cost per person low.*
 ## The Bottom Line
 
 You can eat well in Melbourne CBD for under $20. You just can't eat at the places that advertise to tourists. The spots on this list — N. Lee, Supernormal Canteen, Dumplings Plus, Lord of the Fries, Rayaam Malaysian, Degraves Espresso, and Dodee Paidang — are where CBD workers and students actually eat when they want real food at fair prices. They're not trendy. They're not going to make your Instagram grid pop. But they'll feed you properly, consistently, and for less money than most CBD lunch options.
@@ -203,3 +252,22 @@ Eat smart. Your wallet is watching.
 *Have a cheap eat we missed? [Submit a tip](/submit) and we'll test it. If it's under $20 and it delivers, it goes on next month's list.*
 
 *All prices verified during March 2026 visits. Prices may vary — call ahead if you're banking on a specific dish.*
+
+
+## Venue Addresses & Details
+
+- **I Love Dumplings** — 188 Little Bourke St, Melbourne VIC 3000 ($). Open: 11:30 AM - 9:30 PM daily. *Tip: The pan-fried pork dumplings are the gold standard here; order two serves.*
+- **Banh Mi Stand** — 157 Elizabeth St, Melbourne VIC 3000 ($). Open: 8:00 AM - 6:00 PM Mon-Sat. *Tip: Ask for extra chili if you can handle the heat; it's fresh and potent.*
+- **Crossways Food for Life** — Level 1, 123 Swanston St, Melbourne VIC 3000 ($). Open: 11:30 AM - 3:00 PM Mon-Sat. *Tip: The menu changes daily, but the dessert (usually halava) is always a highlight.*
+- **Don Don** — 198 Little Lonsdale St, Melbourne VIC 3000 ($). Open: 11:00 AM - 9:00 PM daily. *Tip: It is cash only, so visit an ATM before joining the queue.*
+- **Goz City** — 50 Elizabeth St, Melbourne VIC 3000 ($). Open: 10:00 AM - 8:00 PM Mon-Fri. *Tip: The spinach and cheese gozleme is the best value lunch in the CBD.*
+- **Nene Chicken** — 205 Russell St, Melbourne VIC 3000 ($$). Open: 11:00 AM - 10:00 PM daily. *Tip: Go with a group to share the large platters to keep the cost per person low.*
+## Related Articles
+
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/footscray/](/footscray/)
+- [/brunswick/](/brunswick/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

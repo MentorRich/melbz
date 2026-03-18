@@ -5,8 +5,10 @@ date: 2026-03-16
 author: grace
 tags: ["melbourne-cbd", "restaurants", "food"]
 categories: ["food"]
----
+description: "Best Restaurants in Melbourne CBD 2026: The Definitive List
 
+Melbourne's CBD dining scene in 2026 is doing what it always does best — refusing to sit still. ..."
+---
 # Best Restaurants in Melbourne CBD 2026: The Definitive List
 
 Melbourne's CBD dining scene in 2026 is doing what it always does best — refusing to sit still. Between a wave of ambitious new openings, established institutions holding their ground, and one of the tightest labour markets in hospo history, the square mile between the Yarra and Victoria Street has never demanded more from your dining choices. We've done the legwork so you don't have to book somewhere mediocre on a Friday night and regret it for a week.
@@ -131,6 +133,15 @@ Easter and ANZAC Day long weekends are slamming Melbourne CBD restaurants in 202
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Gimlet at Cavendish House** — 33 Russell St, Melbourne VIC 3000 ($$$$). Open: Mon-Sun 12:00 PM - 12:00 AM. *Tip: Book at least 3 months in advance for a prime dinner slot, or try the bar menu for walk-ins.*
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$$). Open: Mon-Sun 11:00 AM - 11:00 PM. *Tip: If the queue is too long, head to the 'GoGo Bar' downstairs for cocktails and a smaller menu.*
+- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Tue-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Order the Peking Duck; it is widely considered the best in the country.*
+- **Tipo 00** — 361 Little Bourke St, Melbourne VIC 3000 ($$). Open: Mon-Sat 11:30 AM - 10:00 PM. *Tip: The squid ink tagliolini is their signature dish; arrive early for lunch to avoid the long wait.*
+- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Don't leave without ordering the New England lobster roll or the peanut butter parfait.*
+- **Coda** — 141 Flinders Ln, Melbourne VIC 3000 ($$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: The 'Feed Me' menu is the best way to experience the chef's selection of seasonal highlights.*
 ## What We Skipped and Why
 
 Every "best restaurants" list is also a list of places that didn't make the cut. Here's ours:
@@ -160,6 +171,15 @@ Every "best restaurants" list is also a list of places that didn't make the cut.
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Gimlet at Cavendish House** — 33 Russell St, Melbourne VIC 3000 ($$$$). Open: Mon-Sun 12:00 PM - 12:00 AM. *Tip: Book at least 3 months in advance for a prime dinner slot, or try the bar menu for walk-ins.*
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$$). Open: Mon-Sun 11:00 AM - 11:00 PM. *Tip: If the queue is too long, head to the 'GoGo Bar' downstairs for cocktails and a smaller menu.*
+- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Tue-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Order the Peking Duck; it is widely considered the best in the country.*
+- **Tipo 00** — 361 Little Bourke St, Melbourne VIC 3000 ($$). Open: Mon-Sat 11:30 AM - 10:00 PM. *Tip: The squid ink tagliolini is their signature dish; arrive early for lunch to avoid the long wait.*
+- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Don't leave without ordering the New England lobster roll or the peanut butter parfait.*
+- **Coda** — 141 Flinders Ln, Melbourne VIC 3000 ($$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: The 'Feed Me' menu is the best way to experience the chef's selection of seasonal highlights.*
 ## The Bottom Line
 
 Melbourne CBD dining in 2026 is defined by two things: the arrival of genuinely ambitious new players (Saadi, Ginza Kagari) and the continued dominance of places that have earned their reputation over years, not Instagram cycles. If you only try one spot from this list, make it Saadi — it's the one you'll be telling people about in six months when everyone else has caught on.
@@ -179,3 +199,22 @@ The CBD is also getting cheaper to eat well in. Silk Spoon proving that chef-qua
 ---
 
 **👍 Was this helpful?** [Yes] [No] — *Your feedback shapes future guides.*
+
+
+## Venue Addresses & Details
+
+- **Gimlet at Cavendish House** — 33 Russell St, Melbourne VIC 3000 ($$$$). Open: Mon-Sun 12:00 PM - 12:00 AM. *Tip: Book at least 3 months in advance for a prime dinner slot, or try the bar menu for walk-ins.*
+- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$$). Open: Mon-Sun 11:00 AM - 11:00 PM. *Tip: If the queue is too long, head to the 'GoGo Bar' downstairs for cocktails and a smaller menu.*
+- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Tue-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Order the Peking Duck; it is widely considered the best in the country.*
+- **Tipo 00** — 361 Little Bourke St, Melbourne VIC 3000 ($$). Open: Mon-Sat 11:30 AM - 10:00 PM. *Tip: The squid ink tagliolini is their signature dish; arrive early for lunch to avoid the long wait.*
+- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Don't leave without ordering the New England lobster roll or the peanut butter parfait.*
+- **Coda** — 141 Flinders Ln, Melbourne VIC 3000 ($$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: The 'Feed Me' menu is the best way to experience the chef's selection of seasonal highlights.*
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/best-restaurants-melbourne/](/best-restaurants-melbourne/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

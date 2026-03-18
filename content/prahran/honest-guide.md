@@ -1,12 +1,18 @@
 ---
 title: "Prahran Honest Guide 2026: Market Vibes & Real Talk"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: jack
 tags: ["prahran", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
+description: "Prahran Honest Guide 2026: Market Vibes & Real Talk
+
+Updated 16 March 2026 | Jack Morrison reporting
+
 ---
 
+Look, Prahran has a reputation problem. Depending ..."
+---
 # Prahran Honest Guide 2026: Market Vibes & Real Talk
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -133,3 +139,13 @@ It's not perfect. But it's honest about what it is — and that's more than most
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

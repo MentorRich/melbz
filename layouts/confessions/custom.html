@@ -1,0 +1,24 @@
+{{/*
+  layouts/confessions/custom.html
+  Custom layout for the /confessions/ page
+*/}}
+<!DOCTYPE html>
+<html lang="en-au">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} | MELBZ</title>
+  <meta name="description" content="{{ .Description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+  <style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'DM Sans', sans-serif; background: #fafafa; color: #1a1a2e; }
+  </style>
+</head>
+<body>
+  {{ .Content }}
+</body>
+</html>

@@ -5,8 +5,12 @@ date: 2026-03-18
 author: marcus
 tags: ["southbank", "transport-guide"]
 categories: ["transport"]
----
+description: "Updated 18 March 2026 | Property Editor
 
+ Transport Guide for Southbank
+
+Southbank's transport network is a model of urban connectivity, perfectly complement..."
+---
 *Updated 18 March 2026 | Property Editor*
 
 # Transport Guide for Southbank
@@ -47,3 +51,22 @@ If you're driving, be aware that parking in Southbank can be expensive and limit
 The Metro Tunnel project, set to complete in 2025, will add a new underground station at Anzac Station near St Kilda Road, improving access to Southbank's southern areas. This development will significantly enhance the suburb's already impressive transport connectivity.
 
 Whether you're a resident or visitor, Southbank's transport options make it one of Melbourne's most accessible suburbs. The combination of trams, trains, cycling paths, and pedestrian connections means you're never far from your next destination.
+
+## Related Articles
+
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/transport/](/transport/)
+
+*Find more Melbourne content at [melbz.com.au](/)*
+
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

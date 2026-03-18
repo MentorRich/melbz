@@ -5,8 +5,12 @@ date: 2026-03-16
 author: tyler
 tags: ["melbourne-cbd", "markets", "lifestyle"]
 categories: ["lifestyle"]
----
+description: "Melbourne CBD Market Guide 2026: Queen Vic & Beyond
 
+Updated 16 March 2026 | Tyler James reporting
+
+There's a moment every Saturday morning where Melbourne f..."
+---
 # Melbourne CBD Market Guide 2026: Queen Vic & Beyond
 
 *Updated 16 March 2026 | Tyler James reporting*
@@ -187,3 +191,13 @@ That's Melbourne. The market city. And it's never been better.
 ---
 
 *Tyler James is the Roast Editor at MELBZ, covering Melbourne's food, markets, and city life. He has eaten an unreasonable number of South Melbourne dim sims in the name of research. Contact: [tyler@melbz.com.au](mailto:tyler@melbz.com.au)*
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

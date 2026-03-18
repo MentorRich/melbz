@@ -5,8 +5,10 @@ date: 2026-03-16
 author: ethan
 tags: ["south-yarra", "late-night", "food"]
 categories: ["food"]
----
+description: "Late Night Food in South Yarra 2026: Where to Eat After 10pm
 
+It's 10:30pm on a Friday. You've just left a packed bar on Chapel Street, the Ubers are surging..."
+---
 # Late Night Food in South Yarra 2026: Where to Eat After 10pm
 
 It's 10:30pm on a Friday. You've just left a packed bar on Chapel Street, the Ubers are surging, and your stomach is staging a full revolt against the two drinks and zero dinner you've had. South Yarra after dark is a different suburb — the brunch crowd disappears, the bouncers take over, and a much smaller set of kitchens keep their lights on for people like you.
@@ -216,3 +218,13 @@ If you're heading out tonight, our recommendation is simple: **book France-Soir 
 ---
 
 *Ethan Cross is the Late Night Editor at MELBZ. He has eaten dinner after 10pm more times than he'd care to admit and believes the best restaurants are the ones still taking orders when everyone else has gone home.*
+
+## Related Articles
+
+- [/fitzroy/](/fitzroy/)
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/south-yarra/](/south-yarra/)
+- [/south-yarra/hub](/south-yarra/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

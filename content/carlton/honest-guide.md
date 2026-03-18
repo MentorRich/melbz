@@ -5,8 +5,12 @@ date: 2026-03-16
 author: jack
 tags: ["carlton", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
----
+description: "Carlton Honest Guide 2026: Lygon Street & Beyond
 
+Updated 16 March 2026 | Jack Morrison reporting
+
+Carlton is the suburb Melbourne shows its interstate frien..."
+---
 # Carlton Honest Guide 2026: Lygon Street & Beyond
 
 **Updated 16 March 2026 | Jack Morrison reporting**
@@ -145,3 +149,13 @@ If you're moving to Carlton, do it for the food, the walkability, and the neighb
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 *Have a tip, a correction, or a hot take? Email hello@melbz.com.au*
+
+## Related Articles
+
+- [/richmond/](/richmond/)
+- [/fitzroy/](/fitzroy/)
+- [/brunswick/](/brunswick/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

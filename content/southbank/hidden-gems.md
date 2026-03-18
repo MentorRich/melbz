@@ -5,8 +5,14 @@ date: 2026-03-18
 author: lina
 tags: ["southbank", "hidden-gems"]
 categories: ["hidden"]
----
+description: "Updated 18 March 2026 | Nightlife Writer
 
+ Southbank After Dark: The Local’s Guide to What Tourists Never Find  
+
+Lina, 18 March 2026  
+
+Southbank is the pos..."
+---
 *Updated 18 March 2026 | Nightlife Writer*
 
 # Southbank After Dark: The Local’s Guide to What Tourists Never Find  
@@ -77,3 +83,21 @@ Below are the spots I hit when I’m not paid to be anywhere else. No big-ticket
 ---
 
 Southbank isn’t just skyline and ticket stubs. Stick around after the curtain call, follow the red lights and unmarked doors, and you’ll find the neighbourhood the river keeps for itself. Just don’t tell them Lina sent you—unless you want that second drink on the house.
+
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/southbank/](/southbank/)
+- [/southbank/hub](/southbank/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*
+
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

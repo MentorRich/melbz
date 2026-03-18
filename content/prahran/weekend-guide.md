@@ -1,12 +1,16 @@
 ---
 title: "Weekend Guide: Prahran 2026 — Market Day & Chapel Street"
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: isabella
 tags: ["prahran", "weekend", "lifestyle"]
 categories: ["lifestyle"]
+description: "Updated 16 March 2026 | Isabella Greco reporting
+
 ---
 
+Prahran on a weekend is a different animal to Prahran on a Tuesday. The commuters disappear, the jogge..."
+---
 *Updated 16 March 2026 | Isabella Greco reporting*
 
 ---
@@ -196,3 +200,13 @@ Updated 16 March 2026 | Isabella Greco reporting
 - [Windsor's Best Vietnamese — Chapel Street South](/windsor/vietnamese-guide)
 - [Armadale's Quiet Bar Scene on High Street](/armadale/bar-guide)
 - [Suburb Vibe Score: Prahran this week](/prahran/vibe-score)
+
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/south-yarra/](/south-yarra/)
+- [/st-kilda/](/st-kilda/)
+- [/collingwood/](/collingwood/)
+- [/fitzroy/](/fitzroy/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

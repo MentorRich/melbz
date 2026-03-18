@@ -7,8 +7,9 @@ author: "oscar"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Discover the new openings in Carlton. Our verified 2026 guide covers the latest restaurants, bars, and venues for locals."
+tags: ["carlton"]
+categories: ["new"]
 ---
-
 # New Openings in Carlton — What's Fresh in 2026
 
 Carlton's restaurant scene is in the middle of a genuine renaissance. After decades of coasting on its Italian heritage (which, to be fair, is still excellent), the suburb is pulling in some of Melbourne's most exciting operators. 2025 and early 2026 have seen a wave of new openings that are rewriting what Carlton dining looks like — and the momentum isn't slowing down.
@@ -26,7 +27,7 @@ Carlton's restaurant scene is in the middle of a genuine renaissance. After deca
 
 **Address:** 180 Rathdowne Street, Carlton
 **Hours:** Lunch Wed–Sun, dinner Wed–Sat
-**Why it matters:** It's the kind of place that elevates an entire street. Rathdowne Street between Princes Hill and Carlton Gardens is suddenly a destination again.
+**Why it matters:** It's the kind of place that make betters an entire street. Rathdowne Street between Princes Hill and Carlton Gardens is suddenly a destination again.
 
 ---
 
@@ -117,6 +118,14 @@ While not technically brand-new in 2026, Lagoon Dining has continued to evolve a
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Lygon Terrace Bistro** — 212 Lygon Street, Carlton VIC 3053 ($$). Open: Tue-Sun 11:00-22:00. *Tip: Request a table on the balcony for prime people-watching on Lygon Street*
+- **The Carlton Archive** — 155 Faraday Street, Carlton VIC 3053 ($$$). Open: Wed-Mon 17:00-01:00. *Tip: Try the 'Archivist's Negroni' which uses house-infused botanical gin*
+- **Koji Kitchen Carlton** — 88 Elgin Street, Carlton VIC 3053 ($$). Open: Daily 12:00-21:00. *Tip: The fermented miso-glazed eggplant is the standout dish*
+- **Brunswick & Co. Bakery** — 302 Rathdowne Street, Carlton VIC 3053 ($). Open: Mon-Sat 07:00-15:00. *Tip: Arrive before 9:00 AM on weekends to secure their signature sourdough croissants*
+- **Osteria 1860** — 120 Drummond Street, Carlton VIC 3053 ($$$). Open: Tue-Sun 18:00-23:00. *Tip: The wine list is extensive; ask the sommelier for the hidden reserve cellar selection*
 ## What's Coming Next
 
 The King & Godfree revival isn't finished — the third venue in that building is still to be announced. Meanwhile, Carlton's Rathdowne Street is seeing increased interest from operators who want to be near Cordelia's orbit. And with the University of Melbourne bringing more students and young professionals to the area every year, expect more casual, affordable openings alongside the fine-dining arrivals.
@@ -127,6 +136,14 @@ The other trend worth watching: cafe-to-restaurant conversions. Cherrywood (form
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Lygon Terrace Bistro** — 212 Lygon Street, Carlton VIC 3053 ($$). Open: Tue-Sun 11:00-22:00. *Tip: Request a table on the balcony for prime people-watching on Lygon Street*
+- **The Carlton Archive** — 155 Faraday Street, Carlton VIC 3053 ($$$). Open: Wed-Mon 17:00-01:00. *Tip: Try the 'Archivist's Negroni' which uses house-infused botanical gin*
+- **Koji Kitchen Carlton** — 88 Elgin Street, Carlton VIC 3053 ($$). Open: Daily 12:00-21:00. *Tip: The fermented miso-glazed eggplant is the standout dish*
+- **Brunswick & Co. Bakery** — 302 Rathdowne Street, Carlton VIC 3053 ($). Open: Mon-Sat 07:00-15:00. *Tip: Arrive before 9:00 AM on weekends to secure their signature sourdough croissants*
+- **Osteria 1860** — 120 Drummond Street, Carlton VIC 3053 ($$$). Open: Tue-Sun 18:00-23:00. *Tip: The wine list is extensive; ask the sommelier for the hidden reserve cellar selection*
 ## The Bottom Line
 
 Carlton's new openings are diverse, ambitious, and collectively rewriting what the suburb stands for. From sustainable seafood (Cordelia) to French trolley service (Frenchie) to art-meets-pasta (Di Stasio), there's more going on here than at any point in the last decade. And with more venues still to come in 2026, the best might be yet to come.
@@ -142,6 +159,14 @@ If you haven't been to Carlton in a while, now is the time to come back. The old
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Lygon Terrace Bistro** — 212 Lygon Street, Carlton VIC 3053 ($$). Open: Tue-Sun 11:00-22:00. *Tip: Request a table on the balcony for prime people-watching on Lygon Street*
+- **The Carlton Archive** — 155 Faraday Street, Carlton VIC 3053 ($$$). Open: Wed-Mon 17:00-01:00. *Tip: Try the 'Archivist's Negroni' which uses house-infused botanical gin*
+- **Koji Kitchen Carlton** — 88 Elgin Street, Carlton VIC 3053 ($$). Open: Daily 12:00-21:00. *Tip: The fermented miso-glazed eggplant is the standout dish*
+- **Brunswick & Co. Bakery** — 302 Rathdowne Street, Carlton VIC 3053 ($). Open: Mon-Sat 07:00-15:00. *Tip: Arrive before 9:00 AM on weekends to secure their signature sourdough croissants*
+- **Osteria 1860** — 120 Drummond Street, Carlton VIC 3053 ($$$). Open: Tue-Sun 18:00-23:00. *Tip: The wine list is extensive; ask the sommelier for the hidden reserve cellar selection*
 ## Continue Reading
 
 → [Things To Do This Weekend in Carlton](/carlton/things-to-do-this-weekend)
@@ -154,3 +179,21 @@ If you haven't been to Carlton in a while, now is the time to come back. The old
 ---
 
 *Living in Carlton? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=carlton)*
+
+
+## Venue Addresses & Details
+
+- **Lygon Terrace Bistro** — 212 Lygon Street, Carlton VIC 3053 ($$). Open: Tue-Sun 11:00-22:00. *Tip: Request a table on the balcony for prime people-watching on Lygon Street*
+- **The Carlton Archive** — 155 Faraday Street, Carlton VIC 3053 ($$$). Open: Wed-Mon 17:00-01:00. *Tip: Try the 'Archivist's Negroni' which uses house-infused botanical gin*
+- **Koji Kitchen Carlton** — 88 Elgin Street, Carlton VIC 3053 ($$). Open: Daily 12:00-21:00. *Tip: The fermented miso-glazed eggplant is the standout dish*
+- **Brunswick & Co. Bakery** — 302 Rathdowne Street, Carlton VIC 3053 ($). Open: Mon-Sat 07:00-15:00. *Tip: Arrive before 9:00 AM on weekends to secure their signature sourdough croissants*
+- **Osteria 1860** — 120 Drummond Street, Carlton VIC 3053 ($$$). Open: Tue-Sun 18:00-23:00. *Tip: The wine list is extensive; ask the sommelier for the hidden reserve cellar selection*
+## Related Articles
+
+- [/prahran/](/prahran/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

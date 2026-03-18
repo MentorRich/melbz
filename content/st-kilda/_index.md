@@ -1,5 +1,6 @@
 ---
 title: "St Kilda"
+cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
 description: "Bayside bohemia with iconic nightlife. From Luna Park to Fitzroy Street's bars and Acland Street's cafes, discover Melbourne's seaside playground and cultural melting pot."
 author: "Jules Marchetti"
 author_role: "Editor-in-Chief"

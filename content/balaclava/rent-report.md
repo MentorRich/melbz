@@ -1,12 +1,18 @@
 ---
 title: "Rent Prices in Balaclava 2026: What You'll Pay"
-cover_image: "https://images.pexels.com/photos/3762497/pexels-photo-3762497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: marcus
 tags: ["balaclava", "rent", "property"]
 categories: ["property"]
+description: "Rent Prices in Balaclava 2026: What You'll Pay
+
+Updated 16 March 2026 | Marcus Cole reporting
+
 ---
 
+Balaclava sits in that awkward sweet spot of Melbourne's ..."
+---
 # Rent Prices in Balaclava 2026: What You'll Pay
 
 *Updated 16 March 2026 | Marcus Cole reporting*
@@ -218,3 +224,13 @@ Rate the following out of 5:
 **Every Monday morning, the Balaclava briefing lands in your inbox.** Rent changes, new openings on Carlisle Street, council decisions that affect your street, and whatever else is happening in 3183.
 
 [Subscribe to the Balaclava Briefing →](/subscribe/balaclava)
+
+## Related Articles
+
+- [/south-yarra/](/south-yarra/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/balaclava/](/balaclava/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

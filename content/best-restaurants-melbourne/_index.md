@@ -1,5 +1,6 @@
 ---
 title: "Best Restaurants in Melbourne 2026 — The Ultimate Suburb-by-Suburb Guide"
+cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
 description: "The best restaurants in Melbourne for 2026, organised by suburb. From Fitzroy fine dining to Carlton trattorias and St Kilda seafood — every neighbourhood covered."
 author: "Jules Marchetti"
 author_role: "Editor-in-Chief"

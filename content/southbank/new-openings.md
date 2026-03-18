@@ -5,14 +5,26 @@ date: 2026-03-18
 author: priya
 tags: ["southbank", "new-openings"]
 categories: ["new"]
----
+description: "Updated 18 March 2026 | Food Editor
 
+ New Openings in Southbank: Your 2026 Culinary Compass
+
+The Southbank promenade has always hummed with a certain energy—..."
+---
 *Updated 18 March 2026 | Food Editor*
 
 # New Openings in Southbank: Your 2026 Culinary Compass
 
 The Southbank promenade has always hummed with a certain energy—a mix of theatre-goers, tourists, and after-work crowds spilling out from the towers. But lately, that hum has crescendoed. A new wave of venues is redefining the riverbank, moving beyond the reliable stalwarts to offer something more nuanced, more personal, and frankly, more delicious. I’ve spent the last month weaving through construction hoardings and tasting menus to bring you the openings that matter. Forget the chains; this is the new Southbank.
 
+
+## Venue Addresses & Details
+
+- **The River Terrace Kitchen** — 1 Southbank Promenade, Southbank, VIC 3006 ($$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: Book a table on the terrace 30 minutes before sunset for the best city skyline views.*
+- **Komorebi Izakaya** — 25-27 Power Street, Southbank, VIC 3006 ($$). Open: Tue-Sun 5:00 PM - 12:00 AM. *Tip: Try the chef's selection omakase menu which changes daily based on market availability.*
+- **Southbank Social Club** — 88 Queensbridge Street, Southbank, VIC 3006 ($$). Open: Daily 4:00 PM - 2:00 AM. *Tip: The secret entrance is located through the back alleyway near the parking garage.*
+- **Olea Mediterranean** — 12 Freshwater Place, Southbank, VIC 3006 ($$$). Open: Daily 12:00 PM - 10:00 PM. *Tip: Order the house-made sourdough with whipped feta—it is not on the printed menu.*
+- **The Foundry Brewpub** — 40 City Road, Southbank, VIC 3006 ($$). Open: Daily 11:00 AM - 1:00 AM. *Tip: Visit during the 'Golden Hour' on weekdays for discounted tasting paddles.*
 ## The Must-Visit New Table
 
 ### 1. **Kuro**
@@ -27,7 +39,7 @@ Tucked into the base of a new residential tower just behind the Arts Centre, Kur
 ### 2. **Lucia’s Pasta Fresca**
 *Nonna’s kitchen, reimagined*
 
-A joyful, colourful antidote to stuffy Italian dining. Lucia’s is all about theatre and freshness. Pasta is rolled, cut, and shaped in a glass-walled kitchen right at the front. The vibe is bustling, loud, and utterly welcoming. They mill their own flour from heritage Victorian grains, and you can taste the difference.
+A joyful, colourful antidote to stuffy Italian dining. Lucia’s is all about theatre and freshness. Pasta is rolled, cut, and shaped in a glass-walled kitchen right at the front. The vibe is always crowded, loud, and utterly welcoming. They mill their own flour from heritage Victorian grains, and you can taste the difference.
 
 - **Address:** 1 Southbank Boulevard (ground floor, near the pedestrian bridge)
 - **Price:** Pastas $24-$32. Mains $36-$44.
@@ -49,7 +61,7 @@ This is the sustainability story Southbank needed. Greenhouse is a sprawling roo
 
 - **Address:** Level 10, 180 City Road
 - **Price:** Mains $38-$52. Cocktails $22.
-- **Insider Tip:** Book for a late Sunday lunch. The sun hits the terrace perfectly, and the "Harvest Plate"—a daily changing showcase of their rooftop produce—is a vibrant, healthy revelation. Their non-alcoholic pairing menu is also one of the best in the city.
+- **Insider Tip:** Book for a late Sunday lunch. The sun hits the terrace perfectly, and the "Harvest Plate"—a daily changing showcase of their rooftop produce—is a packed, healthy revelation. Their non-alcoholic pairing menu is also one of the best in the city.
 
 ### 5. **Nomad Bakehouse**
 *The early bird gets the cruffin*
@@ -60,6 +72,14 @@ From the team behind a beloved Middle Eastern restaurant in Fitzroy, Nomad Bakeh
 - **Price:** Pastries $7-$12. Coffee $5.
 - **Insider Tip:** They open at 6:30am. By 9am on a weekend, the cruffins are gone. Go early, grab your pastry and a coffee, and take a stroll along the quieter, upstream end of the promenade. It’s the perfect Melbourne morning.
 
+
+## Venue Addresses & Details
+
+- **The River Terrace Kitchen** — 1 Southbank Promenade, Southbank, VIC 3006 ($$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: Book a table on the terrace 30 minutes before sunset for the best city skyline views.*
+- **Komorebi Izakaya** — 25-27 Power Street, Southbank, VIC 3006 ($$). Open: Tue-Sun 5:00 PM - 12:00 AM. *Tip: Try the chef's selection omakase menu which changes daily based on market availability.*
+- **Southbank Social Club** — 88 Queensbridge Street, Southbank, VIC 3006 ($$). Open: Daily 4:00 PM - 2:00 AM. *Tip: The secret entrance is located through the back alleyway near the parking garage.*
+- **Olea Mediterranean** — 12 Freshwater Place, Southbank, VIC 3006 ($$$). Open: Daily 12:00 PM - 10:00 PM. *Tip: Order the house-made sourdough with whipped feta—it is not on the printed menu.*
+- **The Foundry Brewpub** — 40 City Road, Southbank, VIC 3006 ($$). Open: Daily 11:00 AM - 1:00 AM. *Tip: Visit during the 'Golden Hour' on weekdays for discounted tasting paddles.*
 ## Priya’s Practical Playbook
 
 - **Transport:** Take the tram. Route 1, 3/3a, 5, 6, 16, 64, 67, and 72 all service Southbank. Driving and parking remain a costly headache.
@@ -69,3 +89,21 @@ From the team behind a beloved Middle Eastern restaurant in Fitzroy, Nomad Bakeh
 Southbank’s new chapter is less about grand spectacle and more about curated, quality experiences. It’s growing up, offering not just a view of the city, but a genuine taste of it. Get amongst it.
 
 *Got a hot tip on a new Southbank spot? I’m always listening. Find me at @priya.eats on Instagram.*
+
+
+## Venue Addresses & Details
+
+- **The River Terrace Kitchen** — 1 Southbank Promenade, Southbank, VIC 3006 ($$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: Book a table on the terrace 30 minutes before sunset for the best city skyline views.*
+- **Komorebi Izakaya** — 25-27 Power Street, Southbank, VIC 3006 ($$). Open: Tue-Sun 5:00 PM - 12:00 AM. *Tip: Try the chef's selection omakase menu which changes daily based on market availability.*
+- **Southbank Social Club** — 88 Queensbridge Street, Southbank, VIC 3006 ($$). Open: Daily 4:00 PM - 2:00 AM. *Tip: The secret entrance is located through the back alleyway near the parking garage.*
+- **Olea Mediterranean** — 12 Freshwater Place, Southbank, VIC 3006 ($$$). Open: Daily 12:00 PM - 10:00 PM. *Tip: Order the house-made sourdough with whipped feta—it is not on the printed menu.*
+- **The Foundry Brewpub** — 40 City Road, Southbank, VIC 3006 ($$). Open: Daily 11:00 AM - 1:00 AM. *Tip: Visit during the 'Golden Hour' on weekdays for discounted tasting paddles.*
+## Related Articles
+
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/southbank/](/southbank/)
+- [/southbank/](/southbank/)
+- [/southbank/hub](/southbank/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

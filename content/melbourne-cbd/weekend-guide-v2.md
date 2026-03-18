@@ -5,8 +5,12 @@ date: 2026-03-16
 author: isabella
 tags: ["melbourne-cbd", "weekend", "lifestyle"]
 categories: ["lifestyle"]
----
+description: "Weekend Guide: Melbourne CBD 2026 — Saturday & Sunday Done Right
 
+Updated 16 March 2026 | Isabella Greco reporting
+
+The CBD on a weekend is a different anima..."
+---
 # Weekend Guide: Melbourne CBD 2026 — Saturday & Sunday Done Right
 
 *Updated 16 March 2026 | Isabella Greco reporting*
@@ -211,3 +215,13 @@ Not everything in the CBD deserves your weekend. Here's what we left out, and th
 *Isabella Greco is MELBZ's Seasonal Editor, covering CBD and inner-city lifestyle. She has lived, brunched, and gotten lost in Melbourne's laneways for the past eleven years. If you spot someone taking notes at a bar, it's probably her.*
 
 *Updated 16 March 2026 | Isabella Greco reporting*
+
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/st-kilda/](/st-kilda/)
+- [/fitzroy/](/fitzroy/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/carlton/](/carlton/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

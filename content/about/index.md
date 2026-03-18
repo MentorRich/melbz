@@ -1,11 +1,12 @@
 ---
 title: "About MELBZ"
-description: "Melbourne's hyperlocal suburb intelligence platform. We cover 321 suburbs with opinionated, data-backed guides written by people who actually live here."
+description: "Melbourne's hyperlocal suburb intelligence platform. 321 suburbs. Real venues, real prices, real opinions."
 date: 2026-03-18
 author: "Daniel Ebiau"
 noAds: true
+tags: ["about"]
+categories: ["general"]
 ---
-
 # About MELBZ
 
 Melbourne's hyperlocal suburb intelligence platform. We cover 321 suburbs with opinionated, data-backed guides written by people who actually live here.
@@ -14,28 +15,32 @@ Melbourne's hyperlocal suburb intelligence platform. We cover 321 suburbs with o
 
 ## Leadership
 
-**Daniel Ebiau** — Founding Director, MELBZ | CEO, Axior Labs
+### Daniel Ebiau — Founding Director
 
-Based in Victoria, Australia, Daniel founded MELBZ to give Melbourne the hyperlocal coverage it deserves — real venues, real prices, real opinions, suburb by suburb.
+![Daniel Ebiau — Founding Director, MELBZ](/images/daniel-ebiau.jpg)
 
-> "Melbourne deserves better than generic travel guides written by people who've never ridden the 96 tram. We've built MELBZ to be the suburb bible Melburnians actually use — from finding the best pho in Footscray to figuring out which Richmond pub has the best parma."
+Daniel founded MELBZ to give Melbourne the suburb-level coverage that no one else bothers with. Based in Victoria, Australia, he built MELBZ after spending years frustrated with generic "best of Melbourne" guides that ignore 90% of the city.
 
-Contact: [hq@melbz.com.au](mailto:hq@melbz.com.au)
+> "Every guide on this site exists because I got sick of listicles that lump Richmond with South Yarra, treat Footscray as an afterthought, and act like Melbourne stops at the CBD. This city has 321 suburbs, each with its own personality, its own venues, its own secrets. MELBZ is our attempt to document all of it — properly."
+
+Daniel's background is in digital operations and technology. He runs MELBZ as the flagship publication of Axior Labs, a digital media company focused on content, community, and commerce at scale.
+
+**Contact:** [hq@melbz.com.au](mailto:hq@melbz.com.au)
 
 ---
 
-## Editorial Team
+## Our Editorial Team
 
 ### Senior Editors
 
 **Priya Sandhu** — Senior Food & Restaurant Editor
 Covers Melbourne's dining scene from $12 banh mi to $200 degustations. Former food critic at a major Melbourne publication.
 
-**Marcus Cole** — Property & suburb Editor
+**Marcus Cole** — Property & Suburb Editor
 Expert insights into Melbourne's evolving property landscape, from historical terraces to new developments. Covers rent prices, cost of living, and suburb comparisons.
 
 **Lina Nguyen** — Nightlife & Culture Editor
-Covers Melbourne's bar and nightlife scene with a focus on hidden gems and local favourites. Known for discovering venues before they become trendy.
+Covers Melbourne's bar and nightlife scene with a focus on under the radars and local favourites. Known for discovering venues before they become trendy.
 
 **Nina Okafor** — Wellness & Things To Do Editor
 Covers the intersection of physical and mental health, highlighting the city's top wellness spots, activities, and community events.
@@ -53,7 +58,7 @@ Our team of 20+ local experts covers specific suburbs and specialties including:
 - Property and rent market analysis
 - Transport and accessibility guides
 - Family-friendly activities
-- Hidden gems and local secrets
+- worth seeking outs and local secrets
 
 Each MELBZ article is researched, written, and fact-checked by someone who knows Melbourne firsthand.
 
@@ -66,3 +71,21 @@ MELBZ is published by **Axior Labs (ABN 91 949 773 596)**, a digital media compa
 Axior Labs owns and operates a portfolio of digital ventures focused on content, community, and commerce. MELBZ represents our flagship publication — hyperlocal content at scale.
 
 For business enquiries: [hq@melbz.com.au](mailto:hq@melbz.com.au)
+## Related Articles
+
+- [/footscray/](/footscray/)
+- [/south-yarra/](/south-yarra/)
+- [/richmond/](/richmond/)
+- [/about/](/about/)
+- [/about/hub](/about/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*
+
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

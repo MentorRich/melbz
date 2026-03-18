@@ -4,8 +4,9 @@ description: "MELBZ privacy policy - how we collect, use, and protect your data.
 date: 2026-03-18
 author: "Daniel Ebiau"
 noAds: true
+tags: ["melbourne"]
+categories: ["general"]
 ---
-
 # Privacy Policy
 
 *Last updated: 18 March 2026*
@@ -122,3 +123,11 @@ MELBZ / Axior Labs
 Victoria, Australia
 
 We will respond to enquiries within 5 business days.
+### More to Explore
+
+Melbourne has so much to offer. Consider adding these to your list:
+
+- **[Venue Name]** — [What they do], [Address].
+- **[Another Spot]** — [What they're known for], [Address].
+
+The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

@@ -1,0 +1,19 @@
+{
+  "year": 2026,
+  "events": [
+    {"name":"Melbourne Food & Wine Festival","dates":"2026-03-20 to 2026-03-29","content_deadline":"2026-03-13","status":"published"},
+    {"name":"AusFitness Expo","dates":"2026-03-21 to 2026-03-22","content_deadline":"2026-03-14","status":"published"},
+    {"name":"Melbourne International Comedy Festival","dates":"2026-03-25 to 2026-04-19","content_deadline":"2026-03-18","status":"pending","articles_planned":["/events/comedy-festival-2026/","/events/comedy-festival-free-shows/","/food/best-restaurants-near-comedy-venues/"]},
+    {"name":"AFL Season Round 1","dates":"2026-03-19","content_deadline":"2026-03-12","status":"pending","articles_planned":["/events/afl-2026/","/food/best-pubs-watch-afl/"]},
+    {"name":"Easter Long Weekend","dates":"2026-04-03 to 2026-04-06","content_deadline":"2026-03-27","status":"not_started","articles_planned":["/events/easter-melbourne-2026/","/lifestyle/day-trips-easter/","/food/best-hot-cross-buns-melbourne/"]},
+    {"name":"ANZAC Day","dates":"2026-04-25","content_deadline":"2026-04-18","status":"not_started"},
+    {"name":"Melbourne International Film Festival","dates":"2026-08-06 to 2026-08-23","content_deadline":"2026-07-30","status":"not_started"},
+    {"name":"Rising Festival","dates":"2026-05-27 to 2026-06-08","content_deadline":"2026-05-20","status":"not_started"},
+    {"name":"Melbourne Winter Start","dates":"2026-06-01","content_deadline":"2026-05-25","status":"not_started","articles_planned":["/lifestyle/melbourne-winter-guide/","/food/best-soup-melbourne/","/nightlife/fireplace-bars/"]},
+    {"name":"Melbourne Cup Carnival","dates":"2026-10-31 to 2026-11-07","content_deadline":"2026-10-24","status":"not_started"},
+    {"name":"White Night Melbourne","dates":"2026-02-21","content_deadline":"2026-02-14","status":"past"},
+    {"name":"Melbourne Fashion Festival","dates":"2026-02-14 to 2026-02-28","content_deadline":"2026-02-07","status":"past"},
+    {"name":"Christmas/NYE","dates":"2026-12-25 to 2027-01-01","content_deadline":"2026-12-01","status":"not_started"},
+    {"name":"Year in Melbourne Wrapped Cards","dates":"2026-12-15","content_deadline":"2026-12-01","status":"not_started"}
+  ]
+}

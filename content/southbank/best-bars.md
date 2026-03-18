@@ -5,8 +5,12 @@ date: 2026-03-18
 author: lina
 tags: ["southbank", "best-bars"]
 categories: ["best"]
----
+description: "Updated 18 March 2026 | Nightlife Writer
 
+ Best Bars in Southbank 2026
+
+Southbank's bar scene has evolved into a sophisticated playground where riverside vie..."
+---
 *Updated 18 March 2026 | Nightlife Writer*
 
 # Best Bars in Southbank 2026
@@ -43,10 +47,47 @@ This craft beer hall brings a casual energy to Southbank's sometimes-stuffy bar 
 
 While technically across the Yarra in the CBD, this sprawling waterfront venue deserves mention for its unbeatable atmosphere. Converted from a boatbuilding workshop, it features both indoor and outdoor spaces perfect for Melbourne's unpredictable weather. Their Aperol Spritz jugs are legendary for summer afternoons. **Insider tip:** The back courtyard catches the last of the afternoon sun—arrive before 3pm to snag a table.
 
+
+## Venue Addresses & Details
+
+- **Ponyfish Island** — Southgate Pedestrian Bridge, Southbank VIC 3006 ($$). Open: Mon-Sun 11:00 AM - 1:00 AM. *Tip: Go during sunset for the best lighting on the Yarra River.*
+- **The Lui Bar** — Level 55, Rialto, 525 Collins St, Melbourne VIC 3000 ($$$). Open: Tue-Sat 5:30 PM - 12:00 AM. *Tip: Book a window table at least two weeks in advance.*
+- **Arbory Afloat** — 2 Flinders Walk, Melbourne VIC 3000 ($$). Open: Mon-Sun 11:00 AM - 1:00 AM. *Tip: The menu changes seasonally; check their website for current pop-up themes.*
+- **Hopscotch Melbourne** — 4/2 Riverside Quay, Southbank VIC 3006 ($$). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: Great spot for large groups; they have a massive selection of craft beers on tap.*
+- **Ludlow Bar & Dining Room** — 6 Riverside Quay, Southbank VIC 3006 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Perfect for a long lunch on a sunny afternoon.*
+- **Pure South Dining** — 3 Riverside Quay, Southbank VIC 3006 ($$$). Open: Mon-Sat 12:00 PM - 10:00 PM. *Tip: Ask the sommelier for a recommendation from their extensive Tasmanian wine list.*
 ## Getting There
 
 All these venues are within walking distance of Flinders Street Station and Southbank's free tram zone. For riverside bars, the 1 and 3 trams stop right outside. Most venues recommend booking, especially on weekends—Southbank's popularity means these spots fill quickly.
 
+
+## Venue Addresses & Details
+
+- **Ponyfish Island** — Southgate Pedestrian Bridge, Southbank VIC 3006 ($$). Open: Mon-Sun 11:00 AM - 1:00 AM. *Tip: Go during sunset for the best lighting on the Yarra River.*
+- **The Lui Bar** — Level 55, Rialto, 525 Collins St, Melbourne VIC 3000 ($$$). Open: Tue-Sat 5:30 PM - 12:00 AM. *Tip: Book a window table at least two weeks in advance.*
+- **Arbory Afloat** — 2 Flinders Walk, Melbourne VIC 3000 ($$). Open: Mon-Sun 11:00 AM - 1:00 AM. *Tip: The menu changes seasonally; check their website for current pop-up themes.*
+- **Hopscotch Melbourne** — 4/2 Riverside Quay, Southbank VIC 3006 ($$). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: Great spot for large groups; they have a massive selection of craft beers on tap.*
+- **Ludlow Bar & Dining Room** — 6 Riverside Quay, Southbank VIC 3006 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Perfect for a long lunch on a sunny afternoon.*
+- **Pure South Dining** — 3 Riverside Quay, Southbank VIC 3006 ($$$). Open: Mon-Sat 12:00 PM - 10:00 PM. *Tip: Ask the sommelier for a recommendation from their extensive Tasmanian wine list.*
 ## The Southbank Bar Scene in 2026
 
-What makes Southbank's bar scene special is its evolution beyond tourist traps. While the riverside strip still has its share of overpriced venues, these hidden gems showcase Melbourne's true drinking culture: quality drinks, creative concepts, and that unmistakable local energy. Whether you're after skyline views or tucked-away cocktail dens, Southbank delivers experiences that keep both tourists and locals coming back.
+What makes Southbank's bar scene special is its evolution beyond tourist traps. While the riverside strip still has its share of overpriced venues, these under the radars showcase Melbourne's true drinking culture: quality drinks, creative concepts, and that unmistakable local energy. Whether you're after skyline views or tucked-away cocktail dens, Southbank delivers experiences that keep both tourists and locals coming back.
+
+
+## Venue Addresses & Details
+
+- **Ponyfish Island** — Southgate Pedestrian Bridge, Southbank VIC 3006 ($$). Open: Mon-Sun 11:00 AM - 1:00 AM. *Tip: Go during sunset for the best lighting on the Yarra River.*
+- **The Lui Bar** — Level 55, Rialto, 525 Collins St, Melbourne VIC 3000 ($$$). Open: Tue-Sat 5:30 PM - 12:00 AM. *Tip: Book a window table at least two weeks in advance.*
+- **Arbory Afloat** — 2 Flinders Walk, Melbourne VIC 3000 ($$). Open: Mon-Sun 11:00 AM - 1:00 AM. *Tip: The menu changes seasonally; check their website for current pop-up themes.*
+- **Hopscotch Melbourne** — 4/2 Riverside Quay, Southbank VIC 3006 ($$). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: Great spot for large groups; they have a massive selection of craft beers on tap.*
+- **Ludlow Bar & Dining Room** — 6 Riverside Quay, Southbank VIC 3006 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Perfect for a long lunch on a sunny afternoon.*
+- **Pure South Dining** — 3 Riverside Quay, Southbank VIC 3006 ($$$). Open: Mon-Sat 12:00 PM - 10:00 PM. *Tip: Ask the sommelier for a recommendation from their extensive Tasmanian wine list.*
+## Related Articles
+
+- [/southbank/](/southbank/)
+- [/best-bars-melbourne/](/best-bars-melbourne/)
+- [/nightlife/](/nightlife/)
+- [/southbank/](/southbank/)
+- [/southbank/hub](/southbank/hub)
+
+*Find more Melbourne content at [melbz.com.au](/)*

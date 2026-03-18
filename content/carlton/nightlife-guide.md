@@ -7,8 +7,9 @@ author: "ethan"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Your complete Carlton nightlife guide for 2026 — the best bars, live music, rooftop drinks, and late-night eats. Getting home safe included."
+tags: ["carlton"]
+categories: ["nightlife"]
 ---
-
 # Carlton Nightlife Guide 2026 — Rooftop Drinks, Live Music & Late-Night Feeds
 
 Carlton's nightlife doesn't hit you over the head. It's not Fitzroy with its warehouse DJ sets till dawn, and it's not the CBD with its gleaming cocktail temples. What Carlton does is something more refined — and honestly, more fun once you know the rhythm. A long Italian dinner that rolls into cocktails at 10pm. A rooftop spritz with city views and Italo disco. A live band in a pub that hosted Bob Hawke. A late-night pizza slice on the footpath outside a Lygon Street institution. It's grown-up nightlife that still knows how to have a proper time.
@@ -203,3 +204,13 @@ It's not the loudest nightlife in Melbourne. But it might be the most enjoyable.
 | Best late-night food | Hakata Gensuke / Sonny's at The Curtin |
 | Walk to CBD | 15 minutes |
 | Nearest hospital | Royal Melbourne (10 min walk) |
+
+## Related Articles
+
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
+- [/st-kilda/](/st-kilda/)
+- [/nightlife/](/nightlife/)
+
+*Find more Melbourne content at [melbz.com.au](/)*

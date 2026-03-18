@@ -37,7 +37,7 @@ Some restaurants are institutions because they refuse to change, and thank goodn
 ## 5. Entrecôte
 **Address:** 131-133 Domain Road, South Yarra VIC 3141
 
-Inspired by the legendary Le Relais de Venise in Paris, Entrecôte has perfected a singular, focused offering. You don’t come here to choose; you come to surrender to the ritual. The set menu begins with a crisp green salad with a sharp mustard vinaigrette, followed by their famous steak frites—a tender cut of sirloin bathed in a secret herb and butter sauce, served with a mountain of golden, crispy fries. It’s simple, unapologetic, and executed with absolute consistency. The bustling, no-reservations atmosphere adds to the charm. It’s a brilliant, democratic take on French bistro dining.
+Inspired by the legendary Le Relais de Venise in Paris, Entrecôte has perfected a singular, focused offering. You don’t come here to choose; you come to surrender to the ritual. The set menu begins with a crisp green salad with a sharp mustard vinaigrette, followed by their famous steak frites—a tender cut of sirloin bathed in a secret herb and butter sauce, served with a mountain of golden, crispy fries. It’s simple, unapologetic, and executed with absolute consistency. The always crowded, no-reservations atmosphere adds to the charm. It’s a brilliant, democratic take on French bistro dining.
 
 ## 6. Cibi
 **Address:** 33/39 Keele Street, Collingwood VIC 3066
@@ -48,7 +48,7 @@ Okay, I’m stretching the geography slightly, but Cibi’s influence on Melbour
 ## 7. Hawkers Market
 **Address:** 640 Chapel Street, South Yarra VIC 3141
 
-For a more casual, share-plate experience, Hawkers Market delivers vibrant energy and bold flavors. The space is industrial-chic, and the menu is a greatest hits tour of modern Asian street food. The lamb ribs, glazed with a sticky, spicy sauce and showered in crispy shallots, are utterly addictive. Their bao buns are pillowy and packed with fillings like soft-shell crab or Peking duck. It’s a fantastic spot for groups, with a cocktail list that’s just as playful as the food. It captures the lively, social spirit that Chapel Street is known for.
+For a more casual, share-plate experience, Hawkers Market delivers packed energy and bold flavors. The space is industrial-chic, and the menu is a greatest hits tour of modern Asian street food. The lamb ribs, glazed with a sticky, spicy sauce and showered in crispy shallots, are utterly addictive. Their bao buns are pillowy and packed with fillings like soft-shell crab or Peking duck. It’s a fantastic spot for groups, with a cocktail list that’s just as playful as the food. It captures the lively, social spirit that Chapel Street is known for.
 
 ## 8. The Smith
 **Address:** 213 High Street, Prahran VIC 3181
@@ -62,6 +62,14 @@ What makes dining in South Yarra so compelling in 2026 is its range. You can hav
 *This guide is part of our ongoing coverage of Melbourne’s dining scene. For more, explore our guides to the [best restaurants across Melbourne](/best-restaurants-melbourne/) and the unique character of [South Yarra](/south-yarra/).*
 
 
+
+## Venue Addresses & Details
+
+- **France-Soir** — 11 Toorak Rd, South Yarra VIC 3141 ($$$). Open: 12:00 PM - 12:00 AM daily. *Tip: Always book well in advance; the steak frites is the gold standard here.*
+- **Bar Carolina** — 44 Toorak Rd, South Yarra VIC 3141 ($$$). Open: 12:00 PM - 10:00 PM daily. *Tip: Grab a seat at the marble bar for a pre-dinner negroni.*
+- **L'Hotel Gitan** — 32 Commercial Rd, Prahran/South Yarra VIC 3181 ($$$). Open: 12:00 PM - 10:00 PM Tue-Sun. *Tip: The onion soup is legendary; perfect for a cooler Melbourne evening.*
+- **Cosi Bar Ristorante** — 62 Toorak Rd, South Yarra VIC 3141 ($$). Open: 12:00 PM - 10:00 PM daily. *Tip: Ask for the daily specials board; they often feature fresh seasonal seafood.*
+- **Abacus Bar & Kitchen** — 383 Chapel St, South Yarra VIC 3141 ($$). Open: 7:00 AM - 10:00 PM daily. *Tip: Great for a long brunch, but the dinner menu offers excellent wood-fired dishes.*
 ## Related Articles
 
 - [Best Restaurants in Melbourne](/best-restaurants-melbourne)

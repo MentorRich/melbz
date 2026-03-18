@@ -4,21 +4,8 @@ description: "Melbourne's hyperlocal suburb intelligence platform. 321 suburbs. 
 date: 2026-03-18
 author: "Daniel Ebiau"
 noAds: true
-tags: ["about"]
-categories: ["general"]
 ---
 
-### More to Explore in About
-
-Melbourne's inner suburbs offer endless opportunities for discovery. Beyond the well-known venues and attractions, About harbours hidden corners and local favourites that reward exploration.
-
-**Early morning** in About sees the suburb come alive with coffee culture. Local cafes open early, serving Melbourne's famous flat whites to early risers and shift workers alike.
-
-**Midday** brings a different energy, with business people, shoppers, and locals filling the commercial strips. The lunch trade is competitive, with venues offering everything from quick sandwiches to extended dining experiences.
-
-**Evening** transforms About into a destination for dinner, drinks, and entertainment. The suburb's bars and restaurants attract both locals and visitors seeking quality options away from the usual tourist traps.
-
-**Weekends** see About at its best, with markets, festivals, and community events bringing the suburb to life. The weekend brunch culture is strong, with popular venues filling up quickly during peak hours.
 # About MELBZ
 
 Melbourne's hyperlocal suburb intelligence platform. We cover 321 suburbs with opinionated, data-backed guides written by people who actually live here.
@@ -28,8 +15,6 @@ Melbourne's hyperlocal suburb intelligence platform. We cover 321 suburbs with o
 ## Leadership
 
 ### Daniel Ebiau — Founding Director
-
-![Daniel Ebiau — Founding Director, MELBZ](/images/daniel-ebiau.jpg)
 
 Daniel founded MELBZ to give Melbourne the suburb-level coverage that no one else bothers with. Based in Victoria, Australia, he built MELBZ after spending years frustrated with generic "best of Melbourne" guides that ignore 90% of the city.
 
@@ -41,7 +26,7 @@ Daniel's background is in digital operations and technology. He runs MELBZ as th
 
 ---
 
-## Our Editorial Team
+## Editorial Team
 
 ### Senior Editors
 
@@ -52,7 +37,7 @@ Covers Melbourne's dining scene from $12 banh mi to $200 degustations. Former fo
 Expert insights into Melbourne's evolving property landscape, from historical terraces to new developments. Covers rent prices, cost of living, and suburb comparisons.
 
 **Lina Nguyen** — Nightlife & Culture Editor
-Covers Melbourne's bar and nightlife scene with a focus on under the radars and local favourites. Known for discovering venues before they become trendy.
+Covers Melbourne's bar and nightlife scene with a focus on local favourites and local favourites. Known for discovering venues before they become trendy.
 
 **Nina Okafor** — Wellness & Things To Do Editor
 Covers the intersection of physical and mental health, highlighting the city's top wellness spots, activities, and community events.
@@ -70,7 +55,7 @@ Our team of 20+ local experts covers specific suburbs and specialties including:
 - Property and rent market analysis
 - Transport and accessibility guides
 - Family-friendly activities
-- worth seeking outs and local secrets
+- Hidden gems and local secrets
 
 Each MELBZ article is researched, written, and fact-checked by someone who knows Melbourne firsthand.
 
@@ -83,21 +68,15 @@ MELBZ is published by **Axior Labs (ABN 91 949 773 596)**, a digital media compa
 Axior Labs owns and operates a portfolio of digital ventures focused on content, community, and commerce. MELBZ represents our flagship publication — hyperlocal content at scale.
 
 For business enquiries: [hq@melbz.com.au](mailto:hq@melbz.com.au)
+
+---
+
 ## Related Articles
 
-- [/footscray/](/footscray/)
+- [/melbourne-cbd/](/melbourne-cbd/)
+- [/fitzroy/](/fitzroy/)
+- [/carlton/](/carlton/)
 - [/south-yarra/](/south-yarra/)
 - [/richmond/](/richmond/)
-- [/about/](/about/)
-- [/about/hub](/about/hub)
 
 *Find more Melbourne content at [melbz.com.au](/)*
-
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

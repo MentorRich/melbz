@@ -1,0 +1,49 @@
+---
+title: "Transport Guide for Southbank"
+cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+date: 2026-03-18
+author: marcus
+tags: ["southbank", "transport-guide"]
+categories: ["transport"]
+---
+
+*Updated 18 March 2026 | Property Editor*
+
+# Transport Guide for Southbank
+
+Southbank's transport network is a model of urban connectivity, perfectly complementing its riverside lifestyle and cultural precinct status. As a Property Editor who's watched Melbourne's south side evolve, I can tell you that getting around Southbank and beyond is remarkably straightforward.
+
+## Tram Network: Your Best Friend
+
+The tram system is your primary transport option in Southbank. Route 1 runs along Southbank Boulevard, connecting you to St Kilda and beyond, while Route 12 takes you through the CBD to St Kilda via Fitzroy Street. Both routes offer frequent service throughout the day. The City Circle Tram (Route 35) provides free travel around the CBD and Southbank, making it perfect for visitors exploring the area's attractions.
+
+**Pro tip:** The tram stop at Southbank Boulevard near the Crown Entertainment Complex is one of the busiest in Melbourne. During major events, consider walking one stop north to Clarendon Street for a better chance of getting on.
+
+## Train Access
+
+Southern Cross Station is your gateway to regional Victoria and beyond. It's just a 10-minute walk from Southbank's northern edge or a quick tram ride away. Flinders Street Station, Melbourne's busiest rail hub, sits directly opposite Southbank across the Yarra River, connected by convenient pedestrian bridges.
+
+## Cycling Infrastructure
+
+Southbank's flat terrain and dedicated bike lanes make cycling a viable option. The Capital City Trail runs along the Yarra River, connecting Southbank to the CBD, Docklands, and inner suburbs. Melbourne Bike Share stations are scattered throughout the area, though many locals prefer using their own bikes.
+
+## Walking Connections
+
+The Southbank Promenade offers excellent pedestrian access along the Yarra River. The Evan Walker and Seafarers' bridges connect Southbank to Docklands, while the Princes Bridge provides a direct route to Flinders Street Station and Federation Square.
+
+## Parking Considerations
+
+If you're driving, be aware that parking in Southbank can be expensive and limited. The Crown Casino complex offers paid parking, but rates can be steep. Many apartment buildings have secure parking, though spaces often come at a premium.
+
+## Transport Tips from a Local
+
+- **Peak hours:** Trams can get extremely crowded during morning (8-9:30am) and evening (5-6:30pm) peak periods. Consider walking to the next stop to find space.
+- **Events:** During major events at the Melbourne Convention Centre or Arts Centre, allow extra time for transport as services can be busier than usual.
+- **Myki cards:** You'll need a Myki card for all public transport except the City Circle Tram. Purchase these at 7-Eleven stores or train stations.
+- **River taxis:** While not a primary transport option, river taxis operate along the Yarra, offering a scenic but pricey alternative to trams and trains.
+
+## Future Developments
+
+The Metro Tunnel project, set to complete in 2025, will add a new underground station at Anzac Station near St Kilda Road, improving access to Southbank's southern areas. This development will significantly enhance the suburb's already impressive transport connectivity.
+
+Whether you're a resident or visitor, Southbank's transport options make it one of Melbourne's most accessible suburbs. The combination of trams, trains, cycling paths, and pedestrian connections means you're never far from your next destination.

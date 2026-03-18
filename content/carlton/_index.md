@@ -1,5 +1,6 @@
 ---
 title: "Carlton"
+cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
 description: "Italian heritage meets university culture. From Lygon Street's espresso institutions to the Carlton Gardens, explore Melbourne's little Italy and university precinct."
 author: "Jules Marchetti"
 author_role: "Editor-in-Chief"

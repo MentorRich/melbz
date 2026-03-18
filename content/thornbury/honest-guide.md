@@ -124,6 +124,32 @@ If you're considering Thornbury, go visit on a Saturday. Walk High Street from t
 
 *Next up: [The Complete Guide to Northcote's High Street](/northcote/honest-guide) | [Preston Market: Everything You Need to Know](/preston/preston-market)*
 
+### Featured Venues
+
+- **Umbra** at 769 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
+- **Jerry Joy** at 847 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Umami** at 778 High St, Thornbury VIC 3071
+- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
+- **Umami** at 774 High St, Thornbury VIC 3071
+
+### Key Highlights
+
+- High Street's independent cafes and vintage stores
+- The iconic Thornbury Theatre
+- Penders Park and Merri Creek trail access
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

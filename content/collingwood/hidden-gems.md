@@ -1,6 +1,6 @@
 ---
 title: "Hidden Gems & Suburb Secrets in Collingwood"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=7880"
 date: 2026-03-18
 author: lina
 description: "The best-kept secrets in Collingwood. Local favourites and hidden spots that tourists never find."

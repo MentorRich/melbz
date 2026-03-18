@@ -173,6 +173,32 @@ That's the landscape. Plan accordingly.
 
 *This guide is part of our [Melbourne CBD guide series](/melbourne-cbd) — check the neighbourhood hub for every suburb, venue, and vibe score in the city.*
 
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+
+### Key Highlights
+
+- Federation Square
+- Hosier Lane street art
+- Queen Victoria Market
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 8/10
+- Affordability: 5/10
+- Transport: 10/10
+- Culture: 9/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

@@ -1,6 +1,6 @@
 ---
 title: "Best Pubs in Melbourne CBD 2026: Heritage, Rooftops & Craft"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,pub,beer?lock=6858"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,pub,beer?lock=3742"
 date: 2026-03-16
 author: kai
 tags: ["melbourne-cbd", "pubs", "nightlife"]

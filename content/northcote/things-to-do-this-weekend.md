@@ -149,6 +149,32 @@ Northcote is the kind of suburb that rewards you for showing up without a plan. 
 *Know something we missed? Drop us a line — we're always updating.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
+### Featured Venues
+
+- **The Estelle** at 243-245 High St, Northcote VIC 3070
+- **Red Sparrow Pizza** at 406 Smith St, Collingwood (Northcote adjacent/original roots)
+- **Welcome to Thornbury** at 520 High St, Northcote VIC 3070
+- **Welcome to Thornbury (Cafe Section)** at 520 High St, Northcote VIC 3070
+- **Penny Farthing Espresso** at 206 High St, Northcote VIC 3070
+- **All Are Welcome** at 190 High St, Northcote VIC 3070
+- **Welcome to Thornbury (Food Trucks)** at 520 High St, Northcote VIC 3070
+- **Northcote Fish & Chips** at 285 High St, Northcote VIC 3070
+- **Tahina** at 223 High St, Northcote VIC 3070
+- **Red Door Yum Cha** at 168 High St, Northcote VIC 3070
+
+### Key Highlights
+
+- High Street shopping and dining
+- Northcote Social Club
+- All Nations Park
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/brunswick/](/brunswick/)

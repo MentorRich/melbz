@@ -161,6 +161,32 @@ The beauty of Fitzroy North's brunch scene is its walkability. You could do a pr
 
 Living in Fitzroy North? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=fitzroy-north)
 
+### Featured Venues
+
+- **Neighbourhood Wine** at 1 Reid St, Fitzroy North VIC 3068
+- **Piedimonte's (The Deli/Cafe)** at 123 Scotchmer St, Fitzroy North VIC 3068
+- **Just Italy** at 158 Scotchmer St, Fitzroy North VIC 3068
+- **Cavallero** at 158 Scotchmer St, Fitzroy North VIC 3068
+- **Morning Market** at 559 Barkly St, Fitzroy North VIC 3068
+- **Park Street** at 815 Nicholson St, Fitzroy North VIC 3068
+- **Piedimonte's Supermarket Deli** at 42-50 Wreckyn St, North Fitzroy VIC 3068
+- **North Fitzroy Arms Hotel** at 296 Rae St, North Fitzroy VIC 3068
+- **Pizza Meine Liebe** at 231 St Georges Rd, North Fitzroy VIC 3068
+- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
+
+### Key Highlights
+
+- Edinburgh Gardens
+- St Georges Road village shops
+- Capital City Trail
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/brunswick/](/brunswick/)

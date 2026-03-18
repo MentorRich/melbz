@@ -1,6 +1,6 @@
 ---
 title: "Prahran: The Complete Suburb Profile 2026"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,city,suburb?lock=637"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,city,suburb?lock=8605"
 date: 2026-03-16
 author: jack
 tags: ["prahran", "suburb-profile", "hub"]
@@ -195,6 +195,32 @@ Think you know the inner-south? **[Read our complete Windsor Suburb Profile](/su
 
 *Also read: [South Yarra Suburb Profile](/suburbs/south-yarra) | [Toorak Suburb Profile](/suburbs/toorak) | [St Kilda Suburb Profile](/suburbs/st-kilda)*
 
+### Featured Venues
+
+- **Hawker Hall** at 98 Chapel St, Windsor, VIC 3181
+- **Entrecôte** at 142-144 Greville St, Prahran, VIC 3181
+- **Tokyo Tina** at 66A Chapel St, Windsor, VIC 3181
+- **Tall Timber** at 60 Commercial Rd, Prahran VIC 3181
+- **Journeyman** at 169 Chapel St, Prahran VIC 3181
+- **Oscar Cooper** at 160 Greville St, Prahran VIC 3181
+- **Dragon Hot Pot Prahran** at 180 Commercial Rd, Prahran VIC 3181
+- **Prahran Convenience Store (The Toastie Spot)** at 208 Commercial Rd, Prahran VIC 3181
+- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor VIC 3181
+- **Rice Paper Scissors** at 577 Chapel St, South Yarra, VIC 3141
+
+### Key Highlights
+
+- Prahran Market
+- Chapel Street shopping precinct
+- Grattan Gardens
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

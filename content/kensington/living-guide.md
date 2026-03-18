@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Guide to Kensington 2026: Melbourne's Quiet Overachiever"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,city,australia?lock=7148"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,city,australia?lock=253"
 date: 2026-03-16
 author: amara
 tags: ["kensington", "neighbourhood", "living-guide"]
@@ -179,6 +179,32 @@ And if you've already moved to Kensington and you're settling in, subscribe to t
 
 *Amara Diallo is the Community Editor at MELBZ, covering Melbourne's inner west and northern suburbs. She has lived in Melbourne for 11 years and has strong opinions about which side of the river has better coffee. [More from Amara →](/authors/amara)*
 
+### Featured Venues
+
+- **The Premises** at 202 Bellair St, Kensington VIC 3031
+- **Locanda Kensington** at 506 Macaulay Rd, Kensington VIC 3031
+- **Hardimans Hotel** at 521 Macaulay Rd, Kensington VIC 3031
+- **The Premises** at 202 Bellair St, Kensington VIC 3031
+- **La Tortilleria** at 72 Stubbs St, Kensington VIC 3031
+- **Loco Coffee** at 555 Macaulay Rd, Kensington VIC 3031
+- **IGA Kensington (Hot Food Counter)** at 48-50 Bellair St, Kensington VIC 3031
+- **Laksa King** at 6-12 Pin Oak Crescent, Flemington VIC 3031
+- **Kensington Stockyard Food & Coffee** at 500 Macaulay Rd, Kensington VIC 3031
+- **Laksa King** at 6-12 Pin Oak Crescent, Flemington, VIC 3031
+
+### Key Highlights
+
+- Macaulay Road shopping village
+- J.J. Holland Park
+- Proximity to the Maribyrnong River trail
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/fitzroy/](/fitzroy/)

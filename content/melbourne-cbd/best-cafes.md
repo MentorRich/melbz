@@ -1,6 +1,6 @@
 ---
 title: "Best Cafes in Melbourne CBD 2026: Where to Get Coffee"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,cafe,cappuccino?lock=9937"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,cafe,cappuccino?lock=1051"
 date: 2026-03-16
 author: eli
 tags: ["melbourne-cbd", "cafes", "food"]

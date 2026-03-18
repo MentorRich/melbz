@@ -72,6 +72,32 @@ The best approach is to plan ahead. Book your dinner, know your bar, understand 
 *Dylan Hayes has been exploring Melbourne's nightlife for six years. He prefers dive bars but admits Cherry has the best cocktails in the south-side precinct.*
 
 Updated 2026-03-17 | Dylan Hayes reporting
+### Featured Venues
+
+- **Rockpool Bar & Grill** at Crown Riverwalk, 8 Whiteman St, Southbank VIC 3006
+- **Pony Dining** at 25-27 Southgate Ave, Southbank VIC 3006
+- **Nobu Melbourne** at Crown Melbourne, 8 Whiteman St, Southbank VIC 3006
+- **Pantry Southbank** at 1/109-111 Clarendon St, Southbank VIC 3006
+- **Baseline Cafe** at 127-129 Southbank Blvd, Southbank VIC 3006
+- **Bondi & Bourke** at 100 Southbank Blvd, Southbank VIC 3006
+- **Ponyfish Island** at Southgate Pedestrian Bridge, Southbank VIC 3006
+- **Nando's Southbank** at 2/28-30 Southgate Ave, Southbank VIC 3006
+- **Grill'd Southbank** at Shop 1, 28-30 Southgate Ave, Southbank VIC 3006
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border)
+
+### Key Highlights
+
+- Arts Centre Melbourne
+- Eureka Skydeck
+- Southbank Promenade
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/collingwood/](/collingwood/)

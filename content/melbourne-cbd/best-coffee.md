@@ -254,6 +254,32 @@ We tested 15 cafés for this guide. Eight made the cut. But the CBD is only one 
 
 *Last reviewed by the MELBZ editorial team, March 2026. Prices and hours may change — check with each café before visiting. If we got something wrong, tell us. We fix things.*
 
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+
+### Key Highlights
+
+- Federation Square
+- Hosier Lane street art
+- Queen Victoria Market
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 8/10
+- Affordability: 5/10
+- Transport: 10/10
+- Culture: 9/10
 ## Related Articles
 
 - [/collingwood/](/collingwood/)

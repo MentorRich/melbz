@@ -1,6 +1,6 @@
 ---
 title: "Kensington Melbourne Suburb Guide 2026: The Sleeper Suburb"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,city,australia?lock=7148"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,city,australia?lock=516"
 date: 2026-03-16
 author: marcus
 tags: ["kensington", "suburb-guide", "property"]
@@ -213,6 +213,32 @@ If you're looking for a suburb where you can walk to dinner, ride to work, and n
 
 *Suburb data sourced from Domain, Your Investment Property Magazine, City of Melbourne, ABS Census, and Victoria's Big Build. Rent figures reflect Q1 2026 market conditions.*
 
+### Featured Venues
+
+- **The Premises** at 202 Bellair St, Kensington VIC 3031
+- **Locanda Kensington** at 506 Macaulay Rd, Kensington VIC 3031
+- **Hardimans Hotel** at 521 Macaulay Rd, Kensington VIC 3031
+- **The Premises** at 202 Bellair St, Kensington VIC 3031
+- **La Tortilleria** at 72 Stubbs St, Kensington VIC 3031
+- **Loco Coffee** at 555 Macaulay Rd, Kensington VIC 3031
+- **IGA Kensington (Hot Food Counter)** at 48-50 Bellair St, Kensington VIC 3031
+- **Laksa King** at 6-12 Pin Oak Crescent, Flemington VIC 3031
+- **Kensington Stockyard Food & Coffee** at 500 Macaulay Rd, Kensington VIC 3031
+- **Laksa King** at 6-12 Pin Oak Crescent, Flemington, VIC 3031
+
+### Key Highlights
+
+- Macaulay Road shopping village
+- J.J. Holland Park
+- Proximity to the Maribyrnong River trail
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/melbourne-cbd/](/melbourne-cbd/)

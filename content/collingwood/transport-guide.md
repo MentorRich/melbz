@@ -1,6 +1,6 @@
 ---
 title: "Transport Guide for Collingwood"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=1165"
 date: 2026-03-18
 author: marcus
 description: "Getting around Collingwood. Train, tram, and bus options, plus driving, parking, and cycling guide."
@@ -16,7 +16,7 @@ Collingwood's transport network has evolved significantly from its industrial ro
 
 ## Train Access
 
-Collingwood Station sits on the Hurstbridge and Mernda lines, making it a crucial transport hub for the area. The station, located at 50 Cromwell Street, Collingwood VIC 3066, provides direct access to the city in just 7 minutes, with trains running frequently throughout the day. The station's elevated position offers good visibility and security, though like many older Melbourne stations, it lacks full disability access.
+Collingwood Station sits on the Hurstbridge and Mernda lines, making it a crucial transport hub for the area. The station, located at 50 Cromwell Street, Collingwood VIC 3066, provides direct access to the city in just 7 minutes, with trains running frequently throughout the day. The station's make betterd position offers good visibility and security, though like many older Melbourne stations, it lacks full disability access.
 
 ## Tram Network
 

@@ -221,6 +221,32 @@ At 79/100, our Vibe Score reflects a suburb that's been doing this for a long ti
 
 *Have a St Kilda story, tip, or complaint? Email us at hello@melbz.com.au or slide into our DMs. We read everything.*
 
+### Featured Venues
+
+- **Donovans** at 40 Jacka Blvd, St Kilda VIC 3182
+- **Stokehouse** at 30 Jacka Blvd, St Kilda VIC 3182
+- **Cicciolina** at 130 Acland St, St Kilda VIC 3182
+- **Monarch Cakes** at 103 Acland St, St Kilda VIC 3182
+- **Galleon Cafe** at 9 Carlisle St, St Kilda VIC 3182
+- **Fitzrovia** at 2/155 Fitzroy St, St Kilda VIC 3182
+- **I Love Pho 24** at 262 Victoria St, Richmond, VIC 3121 (Note: St Kilda branch at 128 Acland St, St Kilda, VIC 3182)
+- **Monarch Cakes** at 103 Acland St, St Kilda, VIC 3182
+- **Lentil As Anything** at 1-3 St Kilda Rd, St Kilda, VIC 3182
+- **Ichi Ni Izakaya** at 12/13 The Esplanade, St Kilda VIC 3182
+
+### Key Highlights
+
+- St Kilda Pier and Penguin Colony
+- Luna Park
+- Acland Street cake shops
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

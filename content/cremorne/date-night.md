@@ -130,6 +130,32 @@ In Cremorne, date night isn't about having fifteen options. It's about having th
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
+### Featured Venues
+
+- **Kong BBQ** at 599 Church St, Cremorne VIC 3121
+- **Noir** at 175 Swan St, Richmond/Cremorne VIC 3121
+- **Baby Pizza** at 631-633 Church St, Cremorne VIC 3121
+- **Top Paddock** at 658 Church St, Cremorne VIC 3121
+- **Feast of Merit** at 117 Swan St, Cremorne VIC 3121
+- **Denis the Menace** at 1/200 Punt Rd, Cremorne VIC 3121
+- **Kong BBQ** at 599 Church St, Cremorne VIC 3121
+- **Feast of Merit** at 117 Swan St, Cremorne VIC 3121
+- **Pizza Pizza Pizza** at 468 Swan St, Cremorne VIC 3121
+- **Kong BBQ** at 599 Church St, Cremorne VIC 3121
+
+### Key Highlights
+
+- Innovative tech and creative agency scene
+- Proximity to the Melbourne Cricket Ground (MCG)
+- Trendy warehouse-style cafes and hidden bars
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/melbourne-cbd/](/melbourne-cbd/)

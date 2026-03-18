@@ -55,7 +55,7 @@ Our team of 20+ local experts covers specific suburbs and specialties including:
 - Property and rent market analysis
 - Transport and accessibility guides
 - Family-friendly activities
-- Hidden gems and local secrets
+- under the radars and local secrets
 
 Each MELBZ article is researched, written, and fact-checked by someone who knows Melbourne firsthand.
 

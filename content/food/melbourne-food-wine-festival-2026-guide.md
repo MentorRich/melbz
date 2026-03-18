@@ -1,6 +1,6 @@
 ---
 title: "Melbourne Food & Wine Festival 2026: The Only Guide You Actually Need"
-cover_image: "https://loremflickr.com/800/600/Food,melbourne,city,australia?lock=1140"
+cover_image: "https://loremflickr.com/800/600/Food,melbourne,city,australia?lock=7604"
 date: 2026-03-15
 lastmod: 2026-03-15
 draft: false

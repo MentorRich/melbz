@@ -96,6 +96,32 @@ Never — it's too crowded 😤
 
 *Have a South Melbourne Market hot take we missed? A secret stall the tourists haven't found? [Submit your tip](/submit) and you might see it in next month's update.*
 
+### Featured Venues
+
+- **Lume** at 226 Coventry St, South Melbourne VIC 3205
+- **Chez Dre** at 285-287 Coventry St, South Melbourne VIC 3205
+- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
+- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
+- **Dead Man Espresso** at 35的市场 St, South Melbourne VIC 3205
+- **Code Black Coffee** at 119 Howard St, North Melbourne (South Melbourne Satellite Location)
+- **South Melbourne Market Dim Sims** at 322-326 Coventry St, South Melbourne VIC 3205
+- **Proper & Son** at Shop 11, South Melbourne Market, Coventry St, South Melbourne VIC 3205
+- **Bambu Asian Eating House** at 283 Clarendon St, South Melbourne VIC 3205
+- **Lulu's Char Koay Teow** at 1/105-107 Market St, South Melbourne VIC 3205
+
+### Key Highlights
+
+- South Melbourne Market
+- Clarendon Street shopping precinct
+- The Australian Centre for Contemporary Art
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/footscray/](/footscray/)

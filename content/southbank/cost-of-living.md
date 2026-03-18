@@ -63,6 +63,32 @@ Southbank in 2026 is a lifestyle choice, not a financial hack. You’re trading 
 
 **My practical advice:** If you’re considering Southbank, **rent first**. Live through a full cycle of seasons—the summer crowds, the winter winds whipping off the river. Experience the "Southbank shuffle" of weekend tourists. If, after a year, the convenience and energy still outweigh the costs and the compact living, then you’ve found your place. It’s not for everyone, but for those who thrive in its orbit, there’s simply no substitute.
 
+### Featured Venues
+
+- **Rockpool Bar & Grill** at Crown Riverwalk, 8 Whiteman St, Southbank VIC 3006
+- **Pony Dining** at 25-27 Southgate Ave, Southbank VIC 3006
+- **Nobu Melbourne** at Crown Melbourne, 8 Whiteman St, Southbank VIC 3006
+- **Pantry Southbank** at 1/109-111 Clarendon St, Southbank VIC 3006
+- **Baseline Cafe** at 127-129 Southbank Blvd, Southbank VIC 3006
+- **Bondi & Bourke** at 100 Southbank Blvd, Southbank VIC 3006
+- **Ponyfish Island** at Southgate Pedestrian Bridge, Southbank VIC 3006
+- **Nando's Southbank** at 2/28-30 Southgate Ave, Southbank VIC 3006
+- **Grill'd Southbank** at Shop 1, 28-30 Southgate Ave, Southbank VIC 3006
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border)
+
+### Key Highlights
+
+- Arts Centre Melbourne
+- Eureka Skydeck
+- Southbank Promenade
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/melbourne-cbd/](/melbourne-cbd/)

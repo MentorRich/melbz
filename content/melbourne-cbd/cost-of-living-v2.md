@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Melbourne CBD 2026: The Real Numbers"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,city,urban?lock=1084"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,city,urban?lock=3254"
 date: 2026-03-16
 author: marcus
 tags: ["melbourne-cbd", "cost-of-living", "property"]
@@ -302,6 +302,32 @@ Know a budget hack for CBD living we missed? Spotted an error in our numbers? We
 
 *This article was last updated on 16 March 2026. Prices reflect current market conditions and may change. Always verify rental prices on Domain.com.au or realestate.com.au before making decisions.*
 
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+
+### Key Highlights
+
+- Federation Square
+- Hosier Lane street art
+- Queen Victoria Market
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 8/10
+- Affordability: 5/10
+- Transport: 10/10
+- Culture: 9/10
 ## Related Articles
 
 - [/carlton/](/carlton/)

@@ -1,6 +1,6 @@
 ---
 title: "Cheap Eats in Collingwood — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=3945"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "omar"
@@ -104,6 +104,15 @@ The Farm Cafe at the Collingwood Children's Farm (70 St Heliers Street) is techn
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Nshry** — 124 Beach St, Port Melbourne VIC 3207 ($$). Open: Mon-Sun 7:00 AM - 4:00 PM. *Tip: Grab a table on the deck for the best views of the bay.*
+- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Mon-Sun 12:00 PM - 9:00 PM. *Tip: The peanut ramen is a cult classic; arrive early to avoid the queue.*
+- **Easey's** — 3/48 Easey St, Collingwood VIC 3066 ($$). Open: Tue-Sun 11:30 AM - 10:00 PM. *Tip: Book a seat in the train carriage on the roof for the full experience.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy VIC 3065 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the 'Feed Me' menu to try a selection of their best small plates.*
+- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Wed-Sun 5:00 PM - 11:00 PM. *Tip: The vegan pizza options are surprisingly some of the best on the menu.*
+- **All Day Donuts** — 12 Edward St, Brunswick East VIC 3057 ($). Open: Mon-Sun 8:00 AM - 3:00 PM. *Tip: The classic glazed is simple but perfect; check their socials for daily specials.*
 ## What We Skipped and Why
 
 - **Proud Mary** — It's an institution, but most mains sit around $20–$25, which pushes it out of "cheap eats" territory. Absolutely worth a visit, but not for this list.
@@ -113,6 +122,15 @@ The Farm Cafe at the Collingwood Children's Farm (70 St Heliers Street) is techn
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Nshry** — 124 Beach St, Port Melbourne VIC 3207 ($$). Open: Mon-Sun 7:00 AM - 4:00 PM. *Tip: Grab a table on the deck for the best views of the bay.*
+- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Mon-Sun 12:00 PM - 9:00 PM. *Tip: The peanut ramen is a cult classic; arrive early to avoid the queue.*
+- **Easey's** — 3/48 Easey St, Collingwood VIC 3066 ($$). Open: Tue-Sun 11:30 AM - 10:00 PM. *Tip: Book a seat in the train carriage on the roof for the full experience.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy VIC 3065 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the 'Feed Me' menu to try a selection of their best small plates.*
+- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Wed-Sun 5:00 PM - 11:00 PM. *Tip: The vegan pizza options are surprisingly some of the best on the menu.*
+- **All Day Donuts** — 12 Edward St, Brunswick East VIC 3057 ($). Open: Mon-Sun 8:00 AM - 3:00 PM. *Tip: The classic glazed is simple but perfect; check their socials for daily specials.*
 ## The Bottom Line
 
 Collingwood's cheap eats scene isn't what it was ten years ago — nothing is — but the suburb still has enough $7 banh mi, $16 pizza, and $14 chef sandwiches to keep you fed without blowing your budget. The trick is knowing where to go and when. Early mornings at N. Lee. Weeknights at Red Sparrow. Any time at Hi Fi. And when all else fails, a salad box from Smith & Deli will see you right.
@@ -138,6 +156,41 @@ Collingwood's cheap eats scene isn't what it was ten years ago — nothing is �
 
 *Living in Collingwood? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=collingwood)*
 
+
+## Venue Addresses & Details
+
+- **Nshry** — 124 Beach St, Port Melbourne VIC 3207 ($$). Open: Mon-Sun 7:00 AM - 4:00 PM. *Tip: Grab a table on the deck for the best views of the bay.*
+- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Mon-Sun 12:00 PM - 9:00 PM. *Tip: The peanut ramen is a cult classic; arrive early to avoid the queue.*
+- **Easey's** — 3/48 Easey St, Collingwood VIC 3066 ($$). Open: Tue-Sun 11:30 AM - 10:00 PM. *Tip: Book a seat in the train carriage on the roof for the full experience.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy VIC 3065 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the 'Feed Me' menu to try a selection of their best small plates.*
+- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Wed-Sun 5:00 PM - 11:00 PM. *Tip: The vegan pizza options are surprisingly some of the best on the menu.*
+- **All Day Donuts** — 12 Edward St, Brunswick East VIC 3057 ($). Open: Mon-Sun 8:00 AM - 3:00 PM. *Tip: The classic glazed is simple but perfect; check their socials for daily specials.*
+### Featured Venues
+
+- **Lazerpig** at 9-11 Peel St, Collingwood VIC 3066
+- **Smith St Bistrot** at 306 Smith St, Collingwood VIC 3066
+- **Hope St Radio** at 35 Johnston St, Collingwood VIC 3066
+- **Proud Mary Coffee** at 172 Oxford St, Collingwood VIC 3066
+- **Terror Twilight** at 11-13 Johnston St, Collingwood VIC 3066
+- **Allpress Espresso** at 89 Rupert St, Collingwood VIC 3066
+- **Nshry** at 124 Beach St, Port Melbourne VIC 3207
+- **Shop Ramen** at 329 Smith St, Collingwood VIC 3066
+- **Easey's** at 3/48 Easey St, Collingwood VIC 3066
+- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
+
+### Key Highlights
+
+- Smith Street's eclectic shopping and dining
+- Collingwood Yards arts precinct
+- Historic pub culture and live music venues
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 9/10
+- Affordability: 5/10
+- Transport: 9/10
+- Culture: 10/10
 ## Related Articles
 
 - [/south-yarra/](/south-yarra/)

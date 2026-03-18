@@ -144,6 +144,32 @@ Kensington's dining scene punches way above its weight for a suburb most people 
 *Know a Kensington spot we missed? Let us know at tips@melbz.com.au*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
+### Featured Venues
+
+- **The Premises** at 202 Bellair St, Kensington VIC 3031
+- **Locanda Kensington** at 506 Macaulay Rd, Kensington VIC 3031
+- **Hardimans Hotel** at 521 Macaulay Rd, Kensington VIC 3031
+- **The Premises** at 202 Bellair St, Kensington VIC 3031
+- **La Tortilleria** at 72 Stubbs St, Kensington VIC 3031
+- **Loco Coffee** at 555 Macaulay Rd, Kensington VIC 3031
+- **IGA Kensington (Hot Food Counter)** at 48-50 Bellair St, Kensington VIC 3031
+- **Laksa King** at 6-12 Pin Oak Crescent, Flemington VIC 3031
+- **Kensington Stockyard Food & Coffee** at 500 Macaulay Rd, Kensington VIC 3031
+- **Laksa King** at 6-12 Pin Oak Crescent, Flemington, VIC 3031
+
+### Key Highlights
+
+- Macaulay Road shopping village
+- J.J. Holland Park
+- Proximity to the Maribyrnong River trail
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/footscray/](/footscray/)

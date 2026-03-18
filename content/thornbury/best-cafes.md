@@ -161,6 +161,32 @@ Thornbury's café scene is a genuine strength. Short Round and Rat the Cafe are 
 
 **What We Skipped and Why:** We left out a couple of cafés that focus primarily on takeaway and don't have a proper dine-in experience — this list is about sitting down, not grabbing and going. We also excluded venues that straddle the [Northcote](/northcote) border so firmly they might as well have a Northcote postcode. If your café is equidistant between the Thornbury and Northcote shopping strips, you're in Northcote. Sorry, we don't make the rules.
 
+### Featured Venues
+
+- **Umbra** at 769 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
+- **Jerry Joy** at 847 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Umami** at 778 High St, Thornbury VIC 3071
+- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
+- **Umami** at 774 High St, Thornbury VIC 3071
+
+### Key Highlights
+
+- High Street's independent cafes and vintage stores
+- The iconic Thornbury Theatre
+- Penders Park and Merri Creek trail access
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/brunswick/](/brunswick/)

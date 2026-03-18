@@ -141,6 +141,31 @@ Melbourne's 2026 opening season is shaping up to be dominated by Italian food (R
 
 *Explore more suburbs: [South Melbourne](/south-melbourne/) · [South Yarra](/south-yarra/) · [Carlton](/carlton/)*
 
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Supernormal** at 180 Flinders Ln, Melbourne VIC 3000
+- **Pellegrini's Espresso Bar** at 66 Bourke St, Melbourne VIC 3000
+- **Butcher's Diner** at 10 Bourke St, Melbourne VIC 3000
+- **The Grand Collins** at 120 Collins Street, Melbourne VIC 3000
+- **Neon Noodle Bar** at 250 Flinders Lane, Melbourne VIC 3000
+- **The Everleigh** at Level 1, 150-156 Gertrude St, Fitzroy VIC 3065
+- **Bar Margaux** at Basement, 111 Lonsdale St, Melbourne VIC 3000
+- **Bird's Basement** at 11 Singers Ln, Melbourne VIC 3000
+- **Cherry Bar** at 68 Little Collins St, Melbourne VIC 3000
+- **NGV International** at 180 St Kilda Rd, Melbourne VIC 3006
+- **Queen Victoria Market** at Queen St, Melbourne VIC 3000
+- **National Gallery of Victoria (NGV International)** at 180 St Kilda Rd, Melbourne VIC 3006
+- **ACCA (Australian Centre for Contemporary Art)** at 111 Sturt St, Southbank VIC 3006
+- **Bar Americano** at 20 Presgrave Pl, Melbourne VIC 3000
+- **The Lui Bar** at Level 55, 525 Collins St, Melbourne VIC 3000
+
 ## Related Articles
 
 - [/prahran/](/prahran/)

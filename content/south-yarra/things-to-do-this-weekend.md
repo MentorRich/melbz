@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in South Yarra — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,tourism,attractions?lock=6454"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,tourism,attractions?lock=266"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "maya"
@@ -245,6 +245,32 @@ Not everything in South Yarra deserves your weekend. Here's what we left out and
 
 *Data sourced from venue websites, on-the-ground visits, and PTV timetables. Last verified 16 March 2026. MELBZ knows your suburb.*
 
+### Featured Venues
+
+- **France-Soir** at 11 Toorak Rd, South Yarra VIC 3141
+- **Bar Carolina** at 44 Toorak Rd, South Yarra VIC 3141
+- **L'Hotel Gitan** at 32 Commercial Rd, Prahran/South Yarra VIC 3181
+- **Two Birds One Stone** at 12 Claremont St, South Yarra VIC 3141
+- **Abacus Bar & Kitchen** at 383 Chapel St, South Yarra VIC 3141
+- **Darling Cafe** at 265 Punt Rd, South Yarra VIC 3141
+- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
+- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor, VIC 3181
+- **Dragon Hot Pot South Yarra** at 166 Toorak Rd, South Yarra, VIC 3141
+- **Rice Paper Scissors** at 5-7 Toorak Rd, South Yarra VIC 3141
+
+### Key Highlights
+
+- Chapel Street shopping precinct
+- Royal Botanic Gardens
+- Como House and Gardens
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

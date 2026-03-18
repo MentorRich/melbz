@@ -1,6 +1,6 @@
 ---
 title: "South Yarra: The Suburb Roast — Every Hot Take, No Apologies"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,city,australia?lock=7485"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,city,australia?lock=316"
 date: 2026-03-16
 author: tyler
 tags: ["south-yarra", "roast", "opinions"]
@@ -171,6 +171,32 @@ The question isn't whether South Yarra is worth it. The question is whether you'
 
 *Cross-linked suburbs: [Fitzroy](/fitzroy) • [Richmond](/richmond) • [Collingwood](/collingwood) • [South Melbourne](/south-melbourne) • [Brunswick](/brunswick) • [Toorak](/toorak) • [Prahran](/prahran)*
 
+### Featured Venues
+
+- **France-Soir** at 11 Toorak Rd, South Yarra VIC 3141
+- **Bar Carolina** at 44 Toorak Rd, South Yarra VIC 3141
+- **L'Hotel Gitan** at 32 Commercial Rd, Prahran/South Yarra VIC 3181
+- **Two Birds One Stone** at 12 Claremont St, South Yarra VIC 3141
+- **Abacus Bar & Kitchen** at 383 Chapel St, South Yarra VIC 3141
+- **Darling Cafe** at 265 Punt Rd, South Yarra VIC 3141
+- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
+- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor, VIC 3181
+- **Dragon Hot Pot South Yarra** at 166 Toorak Rd, South Yarra, VIC 3141
+- **Rice Paper Scissors** at 5-7 Toorak Rd, South Yarra VIC 3141
+
+### Key Highlights
+
+- Chapel Street shopping precinct
+- Royal Botanic Gardens
+- Como House and Gardens
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

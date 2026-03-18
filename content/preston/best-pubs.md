@@ -126,6 +126,32 @@ For [Thornbury's](/thornbury/) pub and bar scene, it's a 10-minute walk south al
 <!-- Widget: Order pub-style food delivery from Preston restaurants via DoorDash -->
 <!-- Widget: Plan your trip home via PTV journey planner -->
 
+### Featured Venues
+
+- **Dexter** at 283 High St, Preston VIC 3072
+- **Cedar Bakery** at 206 Plenty Rd, Preston VIC 3072
+- **Ragtime Tavern** at 206 Tyler St, Preston VIC 3072
+- **Dexter** at 587 High St, Preston VIC 3072
+- **Tall Timber** at 60 Commercial Rd, Prahran VIC 3181
+- **Cedar Bakery** at 206 Plenty Rd, Preston VIC 3072
+- **Preston Market (Various Stalls)** at 30A The Centreway, Preston VIC 3072
+- **Umberto Espresso Bar** at 872 High St, Preston VIC 3072
+- **Dexter** at 285 High St, Preston VIC 3072
+- **Umami** at 450 High St, Preston VIC 3072
+
+### Key Highlights
+
+- Preston Market
+- High Street cafe and bar strip
+- N.A.C.C. (Northern Arts Hotel)
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

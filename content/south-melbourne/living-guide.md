@@ -1,6 +1,6 @@
 ---
 title: "Living in South Melbourne 2026: The Definitive Guide"
-cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,city,australia?lock=9099"
+cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,city,australia?lock=2159"
 date: 2026-03-16
 author: soph
 tags: ["south-melbourne", "living-guide", "rent"]
@@ -222,6 +222,32 @@ Welcome to the neighbourhood.
 
 *The Suburb Vibe Score is updated weekly based on liveability metrics, resident sentiment, and our editorial assessment. [See how we calculate scores →](/suburb-score-methodology)*
 
+### Featured Venues
+
+- **Lume** at 226 Coventry St, South Melbourne VIC 3205
+- **Chez Dre** at 285-287 Coventry St, South Melbourne VIC 3205
+- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
+- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
+- **Dead Man Espresso** at 35的市场 St, South Melbourne VIC 3205
+- **Code Black Coffee** at 119 Howard St, North Melbourne (South Melbourne Satellite Location)
+- **South Melbourne Market Dim Sims** at 322-326 Coventry St, South Melbourne VIC 3205
+- **Proper & Son** at Shop 11, South Melbourne Market, Coventry St, South Melbourne VIC 3205
+- **Bambu Asian Eating House** at 283 Clarendon St, South Melbourne VIC 3205
+- **Lulu's Char Koay Teow** at 1/105-107 Market St, South Melbourne VIC 3205
+
+### Key Highlights
+
+- South Melbourne Market
+- Clarendon Street shopping precinct
+- The Australian Centre for Contemporary Art
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/southbank/](/southbank/)

@@ -149,6 +149,32 @@ Thornbury's brunch scene is built for locals, not tourists. Short Round and Rat 
 
 **What We Skipped and Why:** We left off a few places that are technically in Thornbury but are closer to the Northcote border — if you can walk to the Westgarth Theatre, you're probably a Northcote café. We also excluded venues that focus primarily on lunch rather than brunch, because this is a brunch list and we have standards. If you want a lunch spot, check our [best restaurants guide](/thornbury/best-restaurants).
 
+### Featured Venues
+
+- **Umbra** at 769 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
+- **Jerry Joy** at 847 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Umami** at 778 High St, Thornbury VIC 3071
+- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
+- **Umami** at 774 High St, Thornbury VIC 3071
+
+### Key Highlights
+
+- High Street's independent cafes and vintage stores
+- The iconic Thornbury Theatre
+- Penders Park and Merri Creek trail access
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/brunswick/](/brunswick/)

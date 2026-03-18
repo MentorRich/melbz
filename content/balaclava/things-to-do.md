@@ -1,6 +1,6 @@
 ---
 title: "Things to Do in Balaclava 2026"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,tourism,attractions?lock=5003"
+cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,tourism,attractions?lock=6023"
 date: 2026-03-18
 author: nina
 description: "The complete guide to things to do in Balaclava. Attractions, activities, and experiences that make this suburb worth visiting."

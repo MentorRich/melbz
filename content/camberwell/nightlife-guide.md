@@ -89,6 +89,32 @@ After exploring Camberwell, consider visiting **[Hawthorn](/hawthorn/nightlife-g
 ---
 
 *This guide is part of MELBZ's comprehensive Melbourne nightlife coverage. For more suburb guides, explore our complete collection at melbz.com.au.*
+### Featured Venues
+
+- **Elyros** at 871 Burke Rd, Camberwell VIC 3124
+- **Kenzan Camberwell** at 550 Burke Rd, Camberwell VIC 3124
+- **Georges Restaurant & Bar** at 562 Burke Rd, Camberwell VIC 3124
+- **Prospect Espresso** at 2A Prospect Hill Rd, Camberwell VIC 3124
+- **Legacy Camberwell** at 570 Burke Rd, Camberwell VIC 3124
+- **Coffeehead** at 745 Burke Rd, Camberwell VIC 3124
+- **Chengdu Taste** at 766 Burke Rd, Camberwell VIC 3124
+- **Banh Mi Boys** at 550 Burke Rd, Camberwell VIC 3124
+- **KFC (Kebab & Fried Chicken) Camberwell** at 575 Burke Rd, Camberwell VIC 3124
+- **Tao Dumplings** at 550 Burke Rd, Camberwell VIC 3124
+
+### Key Highlights
+
+- Camberwell Sunday Market
+- The historic Rivoli Cinemas
+- Burke Road shopping precinct
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/melbourne-cbd/](/melbourne-cbd/)

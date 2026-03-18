@@ -1,6 +1,6 @@
 ---
 title: "Melbourne CBD Honest Guide 2026: What Nobody Tells You"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,street,city?lock=5336"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,street,city?lock=1388"
 date: 2026-03-16
 author: tyler
 tags: ["melbourne-cbd", "honest-guide", "lifestyle"]
@@ -199,6 +199,32 @@ Or if you want the full food picture — because CBD dining is only part of the 
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+
+### Key Highlights
+
+- Federation Square
+- Hosier Lane street art
+- Queen Victoria Market
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 8/10
+- Affordability: 5/10
+- Transport: 10/10
+- Culture: 9/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

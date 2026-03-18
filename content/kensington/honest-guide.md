@@ -1,6 +1,6 @@
 ---
 title: "Kensington Honest Guide 2026: The Unfiltered Truth"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,street,city?lock=1081"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,street,city?lock=887"
 date: 2026-03-16
 author: jack
 tags: ["kensington", "honest-guide", "lifestyle"]
@@ -158,6 +158,32 @@ Got a love-it-or-hate-it opinion about Kensington? Lived here for years and thin
 - [Footscray Honest Guide 2026](/suburbs/footscray/honest-guide) — The suburb that gentrification forgot to ruin
 - [North Melbourne Honest Guide 2026](/suburbs/north-melbourne/honest-guide) — When inner-city cool actually works
 
+### Featured Venues
+
+- **The Premises** at 202 Bellair St, Kensington VIC 3031
+- **Locanda Kensington** at 506 Macaulay Rd, Kensington VIC 3031
+- **Hardimans Hotel** at 521 Macaulay Rd, Kensington VIC 3031
+- **The Premises** at 202 Bellair St, Kensington VIC 3031
+- **La Tortilleria** at 72 Stubbs St, Kensington VIC 3031
+- **Loco Coffee** at 555 Macaulay Rd, Kensington VIC 3031
+- **IGA Kensington (Hot Food Counter)** at 48-50 Bellair St, Kensington VIC 3031
+- **Laksa King** at 6-12 Pin Oak Crescent, Flemington VIC 3031
+- **Kensington Stockyard Food & Coffee** at 500 Macaulay Rd, Kensington VIC 3031
+- **Laksa King** at 6-12 Pin Oak Crescent, Flemington, VIC 3031
+
+### Key Highlights
+
+- Macaulay Road shopping village
+- J.J. Holland Park
+- Proximity to the Maribyrnong River trail
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/richmond/](/richmond/)

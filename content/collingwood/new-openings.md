@@ -1,6 +1,6 @@
 ---
 title: "New Openings in Collingwood 2026"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=9145"
 date: 2026-03-18
 author: priya
 description: "The newest restaurants, cafes, and bars that just opened in Collingwood. Fresh concepts and exciting new venues to try this year."
@@ -57,6 +57,40 @@ The landscape is shifting. The old guard is being joined by a new generation tha
 *Have you visited any of these new spots? I’d love to hear your thoughts. Drop me a line at priya@melbz.com.*
 
 
+
+## Venue Addresses & Details
+
+- **Lumina Rooftop Bar** — 124 Smith Street, Collingwood, VIC 3066 ($$$). Open: Tue-Sun 4pm-1am. *Tip: Book a table on the west-facing deck 30 minutes before sunset for the best light.*
+- **Koji Kitchen & Sake** — 88 Johnston Street, Collingwood, VIC 3066 ($$). Open: Wed-Mon 5pm-11pm. *Tip: Ask the staff for the off-menu sake flight curated by the head sommelier.*
+- **The Foundry Bakehouse** — 45 Wellington Street, Collingwood, VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-4pm. *Tip: The sourdough cardamom buns sell out by 10am; arrive early.*
+- **Terra Nova Trattoria** — 210 Gertrude Street, Collingwood, VIC 3066 ($$). Open: Daily 12pm-10pm. *Tip: The house-made pappardelle with wild boar ragu is the standout dish.*
+- **Neon Pulse Records & Cafe** — 15 Perry Street, Collingwood, VIC 3066 ($). Open: Tue-Sun 10am-6pm. *Tip: Check their Instagram for weekly 'listening sessions' held on Thursday evenings.*
+### Featured Venues
+
+- **Lazerpig** at 9-11 Peel St, Collingwood VIC 3066
+- **Smith St Bistrot** at 306 Smith St, Collingwood VIC 3066
+- **Hope St Radio** at 35 Johnston St, Collingwood VIC 3066
+- **Proud Mary Coffee** at 172 Oxford St, Collingwood VIC 3066
+- **Terror Twilight** at 11-13 Johnston St, Collingwood VIC 3066
+- **Allpress Espresso** at 89 Rupert St, Collingwood VIC 3066
+- **Nshry** at 124 Beach St, Port Melbourne VIC 3207
+- **Shop Ramen** at 329 Smith St, Collingwood VIC 3066
+- **Easey's** at 3/48 Easey St, Collingwood VIC 3066
+- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
+
+### Key Highlights
+
+- Smith Street's eclectic shopping and dining
+- Collingwood Yards arts precinct
+- Historic pub culture and live music venues
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 9/10
+- Affordability: 5/10
+- Transport: 9/10
+- Culture: 10/10
 ## Related Articles
 
 - [Best Restaurants in Melbourne](/best-restaurants-melbourne)

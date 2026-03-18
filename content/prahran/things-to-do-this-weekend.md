@@ -1,6 +1,6 @@
 ---
 title: "Things To Do This Weekend in Prahran — 2026 Local Guide"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,tourism,attractions?lock=311"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,tourism,attractions?lock=6448"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "maya"
@@ -136,6 +136,32 @@ Every venue and price listed was verified in February–March 2026. Hours and sp
 
 *MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran guides, see our [neighbourhood guide](/prahran/neighbourhood-guide), [best coffee guide](/prahran/best-coffee), or [date night picks](/prahran/date-night). If you're exploring beyond Prahran, check our [South Yarra weekend guide](/south-yarra/things-to-do-this-weekend) or [Windsor weekend guide](/windsor/things-to-do-this-weekend).*
 
+### Featured Venues
+
+- **Hawker Hall** at 98 Chapel St, Windsor, VIC 3181
+- **Entrecôte** at 142-144 Greville St, Prahran, VIC 3181
+- **Tokyo Tina** at 66A Chapel St, Windsor, VIC 3181
+- **Tall Timber** at 60 Commercial Rd, Prahran VIC 3181
+- **Journeyman** at 169 Chapel St, Prahran VIC 3181
+- **Oscar Cooper** at 160 Greville St, Prahran VIC 3181
+- **Dragon Hot Pot Prahran** at 180 Commercial Rd, Prahran VIC 3181
+- **Prahran Convenience Store (The Toastie Spot)** at 208 Commercial Rd, Prahran VIC 3181
+- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor VIC 3181
+- **Rice Paper Scissors** at 577 Chapel St, South Yarra, VIC 3141
+
+### Key Highlights
+
+- Prahran Market
+- Chapel Street shopping precinct
+- Grattan Gardens
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/melbourne-cbd/](/melbourne-cbd/)

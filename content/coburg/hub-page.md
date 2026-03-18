@@ -155,6 +155,32 @@ If you're a renter priced out of [Brunswick](/brunswick) or [Brunswick East](/br
 
 *Melbourne's suburbs aren't just postcodes — they're personalities. The MELBZ suburb guide gives you the complete picture, not the tourism brochure. Got a correction or something we should add? Hit us up at the usual address.*
 
+### Featured Venues
+
+- **Post Office Hotel** at 229-231 Sydney Rd, Coburg VIC 3058
+- **Half Moon Cafe** at 134 Sydney Rd, Coburg VIC 3058
+- **Zeytin** at 128 Sydney Rd, Coburg VIC 3058
+- **Code Black Coffee** at 15-17 Weston St, Brunswick VIC 3056
+- **Post Office Hotel** at 229-231 Sydney Rd, Coburg VIC 3058
+- **True North** at 2A Munro St, Coburg VIC 3058
+- **Half Moon Cafe** at 134 Sydney Rd, Coburg VIC 3058
+- **New Somali Kitchen** at 322 Sydney Rd, Coburg VIC 3058
+- **Coburg Kebab House** at 400 Sydney Rd, Coburg VIC 3058
+- **Half Moon Cafe** at 154 Sydney Rd, Coburg VIC 3058
+
+### Key Highlights
+
+- Coburg Lake Reserve
+- Pentridge Prison heritage site
+- Sydney Road shopping and dining strip
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

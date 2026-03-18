@@ -154,6 +154,32 @@ Living in Balaclava? [Compare energy plans, internet, and insurance for your are
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
+### Featured Venues
+
+- **Ilona Staller** at 281 Carlisle St, Balaclava VIC 3183
+- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
+- **Bibi** at 257 Carlisle St, Balaclava VIC 3183
+- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
+- **Batch Espresso** at 333 Carlisle St, Balaclava VIC 3183
+- **Monarch Cakes** at 103 Acland St, St Kilda VIC 3182
+- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
+- **Bagelicious** at 174 Balaclava Rd, Caulfield North, VIC 3161
+- **Wallis & Social** at 285 Carlisle St, Balaclava, VIC 3183
+- **Ichi Ni Izakaya** at 12/100 The Esplanade, St Kilda, VIC 3182
+
+### Key Highlights
+
+- Carlisle Street cafe and dining scene
+- Proximity to St Kilda and the beach
+- Historic architecture and local markets
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/fitzroy/](/fitzroy/)

@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in Melbourne CBD 2026: After Midnight Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,late-night,food?lock=9561"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,late-night,food?lock=3006"
 date: 2026-03-16
 author: ethan
 tags: ["melbourne-cbd", "late-night", "food"]
@@ -163,6 +163,32 @@ We'll be back to test more spots as the weather cools down and the late-night cr
 
 *Read next: [Best Ramen in Carlton — Our Definitive Ranking](/carlton/ramen-guide)*
 
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+
+### Key Highlights
+
+- Federation Square
+- Hosier Lane street art
+- Queen Victoria Market
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 8/10
+- Affordability: 5/10
+- Transport: 10/10
+- Culture: 9/10
 ## Related Articles
 
 - [/southbank/](/southbank/)

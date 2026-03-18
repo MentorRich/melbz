@@ -176,6 +176,32 @@ Get the best of MELBZ's food coverage delivered to your inbox every week. Suburb
 
 *All prices quoted are approximate and reflect March 2026 menus. Always check with the restaurant before visiting, as hours and menus can change.*
 
+### Featured Venues
+
+- **Bar Idda** at 132 Lygon St, Brunswick East VIC 3057
+- **Rumi** at 116 Lygon St, Brunswick East VIC 3057
+- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+- **Code Black Coffee** at 15-17 Weston St, Brunswick VIC 3056
+- **Wide Open Road** at 274 Barkly St, Brunswick VIC 3056
+- **Padre Coffee Brunswick East** at 438 Lygon St, Brunswick East VIC 3057
+- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+- **Tsubaki Cafe** at 218 Sydney Rd, Brunswick VIC 3056
+- **A1 Bakery** at 643-645 Sydney Rd, Brunswick VIC 3056
+- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+
+### Key Highlights
+
+- Sydney Road shopping strip
+- Brunswick Baths
+- Ceremony and live music venues
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/brunswick/](/brunswick/)

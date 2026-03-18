@@ -1,6 +1,6 @@
 ---
 title: "Late Night Eats in Balaclava: Where to Eat After 10pm"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,late-night,food?lock=1298"
+cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,late-night,food?lock=5350"
 date: 2026-03-18
 author: liam
 description: "Hungry after the bars close? The best late night food options in Balaclava for midnight snacks and post-drinks feasts."

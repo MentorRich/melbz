@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in South Melbourne 2026: Where to Eat After 10pm"
-cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,late-night,food?lock=1780"
+cover_image: "https://loremflickr.com/800/600/South Melbourne,melbourne,late-night,food?lock=6604"
 date: 2026-03-16
 author: ethan
 tags: ["south-melbourne", "late-night", "food"]

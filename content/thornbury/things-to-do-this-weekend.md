@@ -179,6 +179,32 @@ Thornbury weekends are about the High Street strip and the community institution
 
 **What We Skipped and Why:** We excluded chain activities (escape rooms, chain cinemas) and tourist-oriented attractions that don't feel Thornbury-specific. If it's something you'd do in any Melbourne suburb, it doesn't belong here. We also left off large-scale festivals (Melbourne Fringe, Midsumma) — those are city-wide, not Thornbury-specific. This guide is about what makes a weekend in Thornbury unique.
 
+### Featured Venues
+
+- **Umbra** at 769 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
+- **Jerry Joy** at 847 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Umami** at 778 High St, Thornbury VIC 3071
+- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
+- **Umami** at 774 High St, Thornbury VIC 3071
+
+### Key Highlights
+
+- High Street's independent cafes and vintage stores
+- The iconic Thornbury Theatre
+- Penders Park and Merri Creek trail access
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/brunswick/](/brunswick/)

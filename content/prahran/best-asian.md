@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Prahran: From Pho to Ramen"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,asian,vietnamese?lock=606"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,asian,vietnamese?lock=613"
 date: 2026-03-18
 author: nina
 description: "From Vietnamese pho to Japanese ramen, Chinese dumplings to Thai curries — the best Asian restaurants in Prahran."

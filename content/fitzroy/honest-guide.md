@@ -169,6 +169,32 @@ Should you visit? Every Melbourne local should spend a proper Saturday in Fitzro
 
 *Have a correction or a tip? Drop it on our [confessions and tips page](/submit) — we read everything.*
 
+### Featured Venues
+
+- **Marion** at 53 Gertrude St, Fitzroy VIC 3065
+- **Cutler & Co.** at 55-57 Gertrude St, Fitzroy VIC 3065
+- **Poodle Bar & Bistro** at 81-83 Gertrude St, Fitzroy VIC 3065
+- **Proud Mary Coffee** at 172 Oxford St, Collingwood, VIC 3066
+- **Archie's All Day** at 189 Gertrude St, Fitzroy, VIC 3065
+- **Industry Beans Fitzroy** at 3/62 Rose St, Fitzroy, VIC 3065
+- **Vegie Bar** at 380 Brunswick St, Fitzroy VIC 3065
+- **Naked for Satan** at 285 Brunswick St, Fitzroy VIC 3065
+- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy VIC 3065
+- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy VIC 3065
+
+### Key Highlights
+
+- Brunswick Street shopping and dining
+- The Royal Exhibition Building and Carlton Gardens
+- Independent art galleries and street art tours
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 9/10
+- Affordability: 5/10
+- Transport: 9/10
+- Culture: 10/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

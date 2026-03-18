@@ -1,6 +1,6 @@
 ---
 title: "Late Night Food in Balaclava 2026: After Dark on Carlisle Street"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,late-night,food?lock=1298"
+cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,late-night,food?lock=453"
 date: 2026-03-16
 author: ethan
 tags: ["balaclava", "late-night", "food"]

@@ -1,6 +1,6 @@
 ---
 title: "Weekend Guide: Melbourne CBD 2026 — Saturday & Sunday Done Right"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,weekend,activities?lock=4419"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,weekend,activities?lock=9888"
 date: 2026-03-16
 author: isabella
 tags: ["melbourne-cbd", "weekend", "lifestyle"]
@@ -216,6 +216,32 @@ Not everything in the CBD deserves your weekend. Here's what we left out, and th
 
 *Updated 16 March 2026 | Isabella Greco reporting*
 
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+
+### Key Highlights
+
+- Federation Square
+- Hosier Lane street art
+- Queen Victoria Market
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 8/10
+- Affordability: 5/10
+- Transport: 10/10
+- Culture: 9/10
 ## Related Articles
 
 - [/southbank/](/southbank/)

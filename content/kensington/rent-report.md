@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Kensington 2026: What You'll Pay"
-cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,city,australia?lock=7148"
+cover_image: "https://loremflickr.com/800/600/Kensington,melbourne,city,australia?lock=8311"
 date: 2026-03-16
 author: marcus
 tags: ["kensington", "rent", "property"]
@@ -215,6 +215,32 @@ And if you do end up in Kensington, the 57 tram to the city is your best friend.
 
 **Related reading:** [Flemington Suburb Guide](/suburbs/flemington) | [Footscray Rental Market 2026](/suburbs/footscray) | [North Melbourne: What You'll Pay](/suburbs/north-melbourne) | [Melbourne Rental Crisis: 2026 Outlook](/property/rental-crisis-2026) | [Inner West Suburb Rankings](/property/inner-west-rankings)
 
+### Featured Venues
+
+- **The Premises** at 202 Bellair St, Kensington VIC 3031
+- **Locanda Kensington** at 506 Macaulay Rd, Kensington VIC 3031
+- **Hardimans Hotel** at 521 Macaulay Rd, Kensington VIC 3031
+- **The Premises** at 202 Bellair St, Kensington VIC 3031
+- **La Tortilleria** at 72 Stubbs St, Kensington VIC 3031
+- **Loco Coffee** at 555 Macaulay Rd, Kensington VIC 3031
+- **IGA Kensington (Hot Food Counter)** at 48-50 Bellair St, Kensington VIC 3031
+- **Laksa King** at 6-12 Pin Oak Crescent, Flemington VIC 3031
+- **Kensington Stockyard Food & Coffee** at 500 Macaulay Rd, Kensington VIC 3031
+- **Laksa King** at 6-12 Pin Oak Crescent, Flemington, VIC 3031
+
+### Key Highlights
+
+- Macaulay Road shopping village
+- J.J. Holland Park
+- Proximity to the Maribyrnong River trail
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/melbourne-cbd/](/melbourne-cbd/)

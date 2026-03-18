@@ -149,6 +149,32 @@ If you want to plan more around the area, our [complete Footscray weekend guide]
 
 **Yuki Tanaka** is the Asian Food Editor at MELBZ. She has been eating through Melbourne's suburbs since 2019 and has never once regretted the calories. Follow her Field Notes on Instagram [@yukieatsmelb](https://instagram.com/yukieatsmelb).
 
+### Featured Venues
+
+- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+- **Roti Road** at 189 Barkly St, Footscray VIC 3011
+- **Footscray Milking Station** at 35 Bunbury St, Footscray VIC 3011
+- **Ca Com Banh Mi Bar** at 114 Hopkins St, Footscray VIC 3011
+- **Small Graces** at 557 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+- **To's Bakery** at 104 Hopkins St, Footscray VIC 3011
+- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+
+### Key Highlights
+
+- Footscray Market
+- Little Saigon dining precinct
+- Footscray Community Arts Centre
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/footscray/](/footscray/)

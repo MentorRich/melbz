@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Melbourne CBD 2026: The Definitive List"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,restaurant,dining?lock=5858"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,restaurant,dining?lock=9389"
 date: 2026-03-16
 author: grace
 tags: ["melbourne-cbd", "restaurants", "food"]

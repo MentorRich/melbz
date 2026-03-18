@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Collingwood 2026"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=4702"
 date: 2026-03-18
 author: priya
 description: "The definitive guide to the best restaurants in Collingwood. From fine dining to casual eats, we review the top venues with addresses, prices, and insider tips."
@@ -22,7 +22,7 @@ While technically just over the border from Collingwood on Gertrude Street, Aña
 ### 2. **Lagoon Dining**
 **360 Smith Street, Collingwood VIC 3066**
 
-Tucked away on Smith Street, Lagoon Dining is a study in focused, produce-driven cooking with a distinct Asian accent. The space is minimalist and calm, allowing the vibrant dishes to take centre stage. Chef Ross Magnaye’s menu is a confident exploration of texture and bold, clean flavours. A plate of kingfish with fermented pineapple and a hint of finger lime is electric, while the crispy pork hock with a fiery vinegar dipping sauce demands to be ordered. Their take on fried rice, studded with smoked eel and prawns, is a comforting yet sophisticated staple. The cocktail list is inventive without being fussy, making it an ideal spot for a dinner that feels both exciting and effortlessly cool.
+Tucked away on Smith Street, Lagoon Dining is a study in focused, produce-driven cooking with a distinct Asian accent. The space is minimalist and calm, allowing the packed dishes to take centre stage. Chef Ross Magnaye’s menu is a confident exploration of texture and bold, clean flavours. A plate of kingfish with fermented pineapple and a hint of finger lime is electric, while the crispy pork hock with a fiery vinegar dipping sauce demands to be ordered. Their take on fried rice, studded with smoked eel and prawns, is a comforting yet sophisticated staple. The cocktail list is inventive without being fussy, making it an ideal spot for a dinner that feels both exciting and effortlessly cool.
 
 ### 3. **Café Rosamond**
 **191 Johnston Street, Collingwood VIC 3066**
@@ -54,9 +54,18 @@ Yes, it’s in Brunswick. But to talk about the best food experiences accessible
 
 Rounding out our list is Bistra, a relative newcomer that has quickly cemented its place in the Collingwood rotation. It captures the essence of a modern European bistro—think classic techniques with a light, contemporary touch. The room is cozy and intimate, ideal for a date night or a quiet dinner. The menu changes with the seasons but might feature a beautiful duck confit with lentils, a perfectly cooked market fish with beurre blanc, or a rich, comforting beef bourguignon. Their commitment to using quality Victorian produce is evident in every dish. The service is warm and knowledgeable, making Bistra feel like a discovery that’s already a local favourite.
 
-Collingwood’s dining scene in 2026 is a testament to substance over spectacle. It’s a neighbourhood where chefs are cooking with conviction, whether that’s honouring a culinary tradition, pioneering a new fusion, or simply perfecting a single, iconic dish. The common thread is a respect for ingredients and a desire to feed people well. So pull up a chair—whether it’s at a bustling counter on Smith Street or a quiet table on Gertrude—and explore the depth of flavour that this iconic Melbourne suburb has to offer. For more guides to the city’s best eats, explore our complete coverage of [Melbourne’s best restaurants](/best-restaurants-melbourne/) and [top cafes](/best-cafes-melbourne/).
+Collingwood’s dining scene in 2026 is a testament to substance over spectacle. It’s a neighbourhood where chefs are cooking with conviction, whether that’s honouring a culinary tradition, pioneering a new fusion, or simply perfecting a single, iconic dish. The common thread is a respect for ingredients and a desire to feed people well. So pull up a chair—whether it’s at a always crowded counter on Smith Street or a quiet table on Gertrude—and explore the depth of flavour that this iconic Melbourne suburb has to offer. For more guides to the city’s best eats, explore our complete coverage of [Melbourne’s best restaurants](/best-restaurants-melbourne/) and [top cafes](/best-cafes-melbourne/).
 
 
+
+## Venue Addresses & Details
+
+- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: The 'Pig's Breakfast' pizza is a local cult favorite; arrive early on weekends to avoid the queue.*
+- **Smith St Bistrot** — 306 Smith St, Collingwood VIC 3066 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: Book the velvet booths in advance for a special occasion; don't skip the soufflé.*
+- **Hope St Radio** — 35 Johnston St, Collingwood VIC 3066 ($$). Open: Wed-Sun 12:00 PM - 10:00 PM. *Tip: Check their website for the live radio broadcast schedule to catch local DJs while you eat.*
+- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Mon-Sun 11:30 AM - 9:30 PM. *Tip: The vegan ramen options are arguably the best in the city; get the peanut butter ramen if you're feeling adventurous.*
+- **Congress Wine Shop** — 2A/202 Johnston St, Collingwood VIC 3066 ($$$). Open: Tue-Sat 12:00 PM - 11:00 PM. *Tip: Ask the staff for a recommendation from their rotating list of small-batch Victorian wines.*
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the kitchen's best seasonal dishes without the stress of choosing.*
 ## Related Articles
 
 - [Best Restaurants in Melbourne](/best-restaurants-melbourne)

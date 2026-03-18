@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living in Melbourne CBD 2026: What It Actually Costs"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,city,urban?lock=1084"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,city,urban?lock=962"
 date: 2026-03-16
 author: freya
 tags: ["melbourne-cbd", "cost-of-living", "property"]
@@ -256,6 +256,32 @@ The CBD is expensive, but it's not the most expensive way to live in Melbourne. 
 
 *Freya Anderson is MELBZ's Confessions Editor and has lived in, near, and occasionally avoiding Melbourne CBD since 2019. She has opinions about rent prices and will share them whether you ask or not.*
 
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+
+### Key Highlights
+
+- Federation Square
+- Hosier Lane street art
+- Queen Victoria Market
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 8/10
+- Affordability: 5/10
+- Transport: 10/10
+- Culture: 9/10
 ## Related Articles
 
 - [/south-yarra/](/south-yarra/)

@@ -1,6 +1,6 @@
 ---
 title: "Balaclava Hub Page"
-cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,city,suburb?lock=1169"
+cover_image: "https://loremflickr.com/800/600/Balaclava,melbourne,city,suburb?lock=7219"
 date: 2026-03-18
 author: marcus
 description: "Your complete guide to Balaclava. Food, nightlife, property, transport, and things to do — everything you need to know."

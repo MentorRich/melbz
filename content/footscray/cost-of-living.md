@@ -239,6 +239,32 @@ If you're considering the move, the question isn't whether Footscray is worth it
 
 > **Widget: Got a price we missed or a correction? The Melbourne cost-of-living landscape shifts fast. Drop a comment or email us at hello@melbz.com.au and we'll verify and update.**
 
+### Featured Venues
+
+- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+- **Roti Road** at 189 Barkly St, Footscray VIC 3011
+- **Footscray Milking Station** at 35 Bunbury St, Footscray VIC 3011
+- **Ca Com Banh Mi Bar** at 114 Hopkins St, Footscray VIC 3011
+- **Small Graces** at 557 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+- **To's Bakery** at 104 Hopkins St, Footscray VIC 3011
+- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+
+### Key Highlights
+
+- Footscray Market
+- Little Saigon dining precinct
+- Footscray Community Arts Centre
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/south-yarra/](/south-yarra/)

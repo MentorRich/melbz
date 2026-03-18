@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Footscray 2026: The West Side Value Play"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,city,australia?lock=2885"
+cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,city,australia?lock=5857"
 date: 2026-03-16
 author: marcus
 tags: ["footscray", "rent", "property"]
@@ -119,6 +119,32 @@ For most renters doing the maths in 2026, Footscray still makes the numbers work
 
 *Sources: Domain Rental Report (December 2025), ABS Employee Earnings (August 2025), Homes Victoria Rental Report (September 2025), Your Investment Property Magazine, PropertyValue.com.au, Realestateinvestar.com.au, HTAG.com.au. Data reflects rolling-year medians as of Q4 2025/Q1 2026.*
 
+### Featured Venues
+
+- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+- **Roti Road** at 189 Barkly St, Footscray VIC 3011
+- **Footscray Milking Station** at 35 Bunbury St, Footscray VIC 3011
+- **Ca Com Banh Mi Bar** at 114 Hopkins St, Footscray VIC 3011
+- **Small Graces** at 557 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+- **To's Bakery** at 104 Hopkins St, Footscray VIC 3011
+- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+
+### Key Highlights
+
+- Footscray Market
+- Little Saigon dining precinct
+- Footscray Community Arts Centre
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/melbourne-cbd/](/melbourne-cbd/)

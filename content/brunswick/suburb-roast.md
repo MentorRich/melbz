@@ -1,6 +1,6 @@
 ---
 title: "Brunswick: The Suburb Roast — Every Hot Take, No Apologies"
-cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,city,australia?lock=7084"
+cover_image: "https://loremflickr.com/800/600/Brunswick,melbourne,city,australia?lock=6400"
 date: 2026-03-16
 author: tyler
 tags: ["brunswick", "roast", "opinions"]
@@ -135,6 +135,32 @@ Brunswick doesn't need your approval. It never has. That's the most Brunswick th
 
 *© MELBZ — Melbourne's Hyperlocal Intelligence Platform. We know your suburb better than you do.*
 
+### Featured Venues
+
+- **Bar Idda** at 132 Lygon St, Brunswick East VIC 3057
+- **Rumi** at 116 Lygon St, Brunswick East VIC 3057
+- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+- **Code Black Coffee** at 15-17 Weston St, Brunswick VIC 3056
+- **Wide Open Road** at 274 Barkly St, Brunswick VIC 3056
+- **Padre Coffee Brunswick East** at 438 Lygon St, Brunswick East VIC 3057
+- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+- **Tsubaki Cafe** at 218 Sydney Rd, Brunswick VIC 3056
+- **A1 Bakery** at 643-645 Sydney Rd, Brunswick VIC 3056
+- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+
+### Key Highlights
+
+- Sydney Road shopping strip
+- Brunswick Baths
+- Ceremony and live music venues
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

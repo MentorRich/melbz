@@ -155,6 +155,32 @@ The downsides are real: Sydney Road is noisy, parking is a nightmare, and the re
 
 *Also see: [Brunswick East Guide](/brunswick-east/neighbourhood-guide) · [Coburg Guide](/coburg/neighbourhood-guide) · [Fitzroy North Guide](/fitzroy-north/neighbourhood-guide) · [Brunswick Cost of Living](/brunswick/cost-of-living) · [Living in Brunswick](/brunswick/living-guide)*
 
+### Featured Venues
+
+- **Bar Idda** at 132 Lygon St, Brunswick East VIC 3057
+- **Rumi** at 116 Lygon St, Brunswick East VIC 3057
+- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+- **Code Black Coffee** at 15-17 Weston St, Brunswick VIC 3056
+- **Wide Open Road** at 274 Barkly St, Brunswick VIC 3056
+- **Padre Coffee Brunswick East** at 438 Lygon St, Brunswick East VIC 3057
+- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+- **Tsubaki Cafe** at 218 Sydney Rd, Brunswick VIC 3056
+- **A1 Bakery** at 643-645 Sydney Rd, Brunswick VIC 3056
+- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+
+### Key Highlights
+
+- Sydney Road shopping strip
+- Brunswick Baths
+- Ceremony and live music venues
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/collingwood/](/collingwood/)

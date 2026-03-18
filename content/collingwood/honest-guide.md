@@ -1,6 +1,6 @@
 ---
 title: "Collingwood Honest Guide 2026: Smith Street & Real Talk"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=5395"
 date: 2026-03-16
 author: jack
 tags: ["collingwood", "honest-guide", "lifestyle"]
@@ -182,6 +182,32 @@ We write these honest guides suburb by suburb. Tell us where to go next:
 
 *This guide was written by Jack Morrison, MELBZ Suburb Profile Editor. Prices and data sourced from REIV, Domain, and on-the-ground reporting. Information is current as of March 2026 — always check directly with venues for latest hours and menus.*
 
+### Featured Venues
+
+- **Lazerpig** at 9-11 Peel St, Collingwood VIC 3066
+- **Smith St Bistrot** at 306 Smith St, Collingwood VIC 3066
+- **Hope St Radio** at 35 Johnston St, Collingwood VIC 3066
+- **Proud Mary Coffee** at 172 Oxford St, Collingwood VIC 3066
+- **Terror Twilight** at 11-13 Johnston St, Collingwood VIC 3066
+- **Allpress Espresso** at 89 Rupert St, Collingwood VIC 3066
+- **Nshry** at 124 Beach St, Port Melbourne VIC 3207
+- **Shop Ramen** at 329 Smith St, Collingwood VIC 3066
+- **Easey's** at 3/48 Easey St, Collingwood VIC 3066
+- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
+
+### Key Highlights
+
+- Smith Street's eclectic shopping and dining
+- Collingwood Yards arts precinct
+- Historic pub culture and live music venues
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 9/10
+- Affordability: 5/10
+- Transport: 9/10
+- Culture: 10/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

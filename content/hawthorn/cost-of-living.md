@@ -208,6 +208,32 @@ Hawthorn doesn't try to impress you. That's what makes it worth the money.
 
 *Marcus Cole is MELBZ's Property Editor. He's lived in Melbourne's inner east for over a decade and has strong opinions about sandwich shops near train stations. Got a question about living costs in your suburb? [Drop us a line](/contact).*
 
+### Featured Venues
+
+- **Porgie + Mr Jones** at 291 Auburn Rd, Hawthorn VIC 3122
+- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
+- **San Lorenzo** at 468 Glenferrie Rd, Hawthorn VIC 3122
+- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
+- **Porgie + Mr Jones** at 291 Auburn Rd, Hawthorn VIC 3122
+- **Short Straw** at 743 Glenferrie Rd, Hawthorn VIC 3122
+- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
+- **Lanzhou Beef Noodle Bar** at 765 Glenferrie Rd, Hawthorn VIC 3122
+- **Crust Pizza Hawthorn** at 694 Glenferrie Rd, Hawthorn VIC 3122
+- **Porgie + Mr Jones** at 29 Chapel St, Hawthorn VIC 3122
+
+### Key Highlights
+
+- Glenferrie Road shopping and dining precinct
+- The historic Hawthorn Arts Centre
+- Stunning riverside parklands along the Yarra River
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

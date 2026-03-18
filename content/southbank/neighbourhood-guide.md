@@ -70,6 +70,32 @@ Live here if you can afford it and appreciate what it offers. Visit here if you 
 *Lina Nguyen has been exploring Melbourne's suburbs for a decade and admits that Southbank's convenience sometimes outweighs its limitations. She lives nearby and visits regularly, but wouldn't call it home.*
 
 Updated 2026-03-17 | Lina Nguyen reporting
+### Featured Venues
+
+- **Rockpool Bar & Grill** at Crown Riverwalk, 8 Whiteman St, Southbank VIC 3006
+- **Pony Dining** at 25-27 Southgate Ave, Southbank VIC 3006
+- **Nobu Melbourne** at Crown Melbourne, 8 Whiteman St, Southbank VIC 3006
+- **Pantry Southbank** at 1/109-111 Clarendon St, Southbank VIC 3006
+- **Baseline Cafe** at 127-129 Southbank Blvd, Southbank VIC 3006
+- **Bondi & Bourke** at 100 Southbank Blvd, Southbank VIC 3006
+- **Ponyfish Island** at Southgate Pedestrian Bridge, Southbank VIC 3006
+- **Nando's Southbank** at 2/28-30 Southgate Ave, Southbank VIC 3006
+- **Grill'd Southbank** at Shop 1, 28-30 Southgate Ave, Southbank VIC 3006
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border)
+
+### Key Highlights
+
+- Arts Centre Melbourne
+- Eureka Skydeck
+- Southbank Promenade
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/melbourne-cbd/](/melbourne-cbd/)

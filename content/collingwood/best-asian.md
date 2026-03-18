@@ -1,6 +1,6 @@
 ---
 title: "Best Asian Food in Collingwood: From Pho to Ramen"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=8221"
 date: 2026-03-18
 author: nina
 description: "From Vietnamese pho to Japanese ramen, Chinese dumplings to Thai curries — the best Asian restaurants in Collingwood."
@@ -73,6 +73,14 @@ Modelled on the *obanzai* tradition of Kyoto home cooking, Shoku keeps its menu 
 
 ---
 
+
+## Venue Addresses & Details
+
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy, VIC 3065 ($$). Open: 12:00 PM - 10:00 PM daily. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
+- **Shop Ramen** — 329 Smith St, Collingwood, VIC 3066 ($$). Open: 11:30 AM - 9:30 PM daily. *Tip: The peanut ramen is a cult favorite; save room for their house-made soft serve.*
+- **Le Bon Ton** — 51 Gipps St, Collingwood, VIC 3066 ($$). Open: 4:00 PM - 1:00 AM (varies by day). *Tip: While known for BBQ, their Asian-fusion small plates are excellent for late-night snacking.*
+- **Sonido** — 69 Gertrude St, Fitzroy, VIC 3065 ($). Open: 8:00 AM - 4:00 PM daily. *Tip: Try the arepas; the fusion flavors are unique to the Collingwood/Fitzroy border.*
+- **Transformer** — 99 Rose St, Fitzroy, VIC 3065 ($$$). Open: 5:00 PM - 10:00 PM (Tue-Sun). *Tip: Opt for the chef's tasting menu to experience the best seasonal Asian-inspired vegetable dishes.*
 ## How to Walk the Collingwood Amino Trail  
 
 Start at the top of Smith Street and finish at Keele: the whole circuit is 1.8 km, or 2,300 steps—exactly the post-prandial stroll recommended by the American Diabetes Association to blunt glucose surges. Each venue is within a five-minute walk of the next, so you can treat dinner like interval training: starter at Uncle Collins, mains at Tokyo Ramen, gut shots at Shoku.  
@@ -84,6 +92,14 @@ Need more suburb intel? Head to our [Collingwood directory](/collingwood/) for P
 Your gut, your brain and your next-day HRV will notice the difference—no hidden gimmicks required.
 
 
+
+## Venue Addresses & Details
+
+- **Rice Paper Scissors** — 307 Brunswick St, Fitzroy, VIC 3065 ($$). Open: 12:00 PM - 10:00 PM daily. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
+- **Shop Ramen** — 329 Smith St, Collingwood, VIC 3066 ($$). Open: 11:30 AM - 9:30 PM daily. *Tip: The peanut ramen is a cult favorite; save room for their house-made soft serve.*
+- **Le Bon Ton** — 51 Gipps St, Collingwood, VIC 3066 ($$). Open: 4:00 PM - 1:00 AM (varies by day). *Tip: While known for BBQ, their Asian-fusion small plates are excellent for late-night snacking.*
+- **Sonido** — 69 Gertrude St, Fitzroy, VIC 3065 ($). Open: 8:00 AM - 4:00 PM daily. *Tip: Try the arepas; the fusion flavors are unique to the Collingwood/Fitzroy border.*
+- **Transformer** — 99 Rose St, Fitzroy, VIC 3065 ($$$). Open: 5:00 PM - 10:00 PM (Tue-Sun). *Tip: Opt for the chef's tasting menu to experience the best seasonal Asian-inspired vegetable dishes.*
 ## Related Articles
 
 - [Best Restaurants in Melbourne](/best-restaurants-melbourne)

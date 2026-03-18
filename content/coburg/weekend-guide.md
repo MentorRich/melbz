@@ -160,6 +160,32 @@ A few ways to round out the weekend:
 
 *Need more inner north content? Read our guides to [Brunswick's best brunch spots](/suburbs/brunswick), [Preston's weekend markets](/suburbs/preston), and [Brunswick East's café trail](/suburbs/brunswick-east).*
 
+### Featured Venues
+
+- **Post Office Hotel** at 229-231 Sydney Rd, Coburg VIC 3058
+- **Half Moon Cafe** at 134 Sydney Rd, Coburg VIC 3058
+- **Zeytin** at 128 Sydney Rd, Coburg VIC 3058
+- **Code Black Coffee** at 15-17 Weston St, Brunswick VIC 3056
+- **Post Office Hotel** at 229-231 Sydney Rd, Coburg VIC 3058
+- **True North** at 2A Munro St, Coburg VIC 3058
+- **Half Moon Cafe** at 134 Sydney Rd, Coburg VIC 3058
+- **New Somali Kitchen** at 322 Sydney Rd, Coburg VIC 3058
+- **Coburg Kebab House** at 400 Sydney Rd, Coburg VIC 3058
+- **Half Moon Cafe** at 154 Sydney Rd, Coburg VIC 3058
+
+### Key Highlights
+
+- Coburg Lake Reserve
+- Pentridge Prison heritage site
+- Sydney Road shopping and dining strip
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/brunswick/](/brunswick/)

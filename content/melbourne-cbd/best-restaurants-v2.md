@@ -1,6 +1,6 @@
 ---
 title: "Best Restaurants in Melbourne CBD 2026: Laneways & Fine Dining"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,restaurant,dining?lock=5858"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,restaurant,dining?lock=6884"
 date: 2026-03-16
 author: jules
 tags: ["melbourne-cbd", "restaurants", "food"]

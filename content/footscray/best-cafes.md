@@ -182,6 +182,32 @@ Price-wise, you're looking at $14–$24 for most mains, which is noticeably chea
 
 *Eli Chen is the Cafes Editor at MELBZ, covering Melbourne's inner west one flat white at a time. Follow Eli's cafe runs at [@melbzcomau](https://instagram.com/melbzcomau).*
 
+### Featured Venues
+
+- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+- **Roti Road** at 189 Barkly St, Footscray VIC 3011
+- **Footscray Milking Station** at 35 Bunbury St, Footscray VIC 3011
+- **Ca Com Banh Mi Bar** at 114 Hopkins St, Footscray VIC 3011
+- **Small Graces** at 557 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+- **To's Bakery** at 104 Hopkins St, Footscray VIC 3011
+- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+
+### Key Highlights
+
+- Footscray Market
+- Little Saigon dining precinct
+- Footscray Community Arts Centre
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/brunswick/](/brunswick/)

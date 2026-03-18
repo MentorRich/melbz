@@ -1,6 +1,6 @@
 ---
 title: "Melbourne Dating Diaries 2026: The Unfiltered Truth About Dating in Every Suburb"
-cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,city,australia?lock=9955"
+cover_image: "https://loremflickr.com/800/600/Melbourne,melbourne,city,australia?lock=1402"
 date: 2026-03-16
 author: freya
 tags: ["melbourne", "dating", "confessions"]
@@ -168,6 +168,31 @@ We said it. We meant it. And we know half of you are furiously typing your rebut
 ---
 
 *Freya Anderson is the Confessions Editor at MELBZ. She has been on 47 first dates this year (research purposes) and can confirm that the worst ones make the best stories. Follow her on [Instagram](https://instagram.com/melbz) or submit to Confessions — she reads every single one.*
+
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Supernormal** at 180 Flinders Ln, Melbourne VIC 3000
+- **Pellegrini's Espresso Bar** at 66 Bourke St, Melbourne VIC 3000
+- **Butcher's Diner** at 10 Bourke St, Melbourne VIC 3000
+- **The Grand Collins** at 120 Collins Street, Melbourne VIC 3000
+- **Neon Noodle Bar** at 250 Flinders Lane, Melbourne VIC 3000
+- **The Everleigh** at Level 1, 150-156 Gertrude St, Fitzroy VIC 3065
+- **Bar Margaux** at Basement, 111 Lonsdale St, Melbourne VIC 3000
+- **Bird's Basement** at 11 Singers Ln, Melbourne VIC 3000
+- **Cherry Bar** at 68 Little Collins St, Melbourne VIC 3000
+- **NGV International** at 180 St Kilda Rd, Melbourne VIC 3006
+- **Queen Victoria Market** at Queen St, Melbourne VIC 3000
+- **National Gallery of Victoria (NGV International)** at 180 St Kilda Rd, Melbourne VIC 3006
+- **ACCA (Australian Centre for Contemporary Art)** at 111 Sturt St, Southbank VIC 3006
+- **Bar Americano** at 20 Presgrave Pl, Melbourne VIC 3000
+- **The Lui Bar** at Level 55, 525 Collins St, Melbourne VIC 3000
 
 ## Related Articles
 

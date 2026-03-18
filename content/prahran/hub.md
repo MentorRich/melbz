@@ -1,6 +1,6 @@
 ---
 title: "Prahran Hub Page"
-cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,city,suburb?lock=637"
+cover_image: "https://loremflickr.com/800/600/Prahran,melbourne,city,suburb?lock=5606"
 date: 2026-03-18
 author: marcus
 description: "Your complete guide to Prahran. Food, nightlife, property, transport, and things to do — everything you need to know."

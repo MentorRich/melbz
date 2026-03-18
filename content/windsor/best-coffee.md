@@ -109,6 +109,32 @@ If you're coming from Prahran, the coffee scene is comparable in quality but dif
 
 *Living in Windsor? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=windsor)*
 
+### Featured Venues
+
+- **Hawker Hall** at 98 Chapel St, Windsor VIC 3181
+- **Tokyo Tina** at 66A Chapel St, Windsor VIC 3181
+- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor VIC 3181
+- **Journeyman** at 169 Chapel St, Windsor VIC 3181
+- **Yellow Bird Cafe** at 127 Chapel St, Windsor VIC 3181
+- **Neon Tiger** at 140 Chapel St, Windsor VIC 3181
+- **Hawker Chan** at 157 Chapel St, Windsor, VIC 3181
+- **Grill'd Windsor** at 172 Chapel St, Windsor, VIC 3181
+- **Banh Mi Boys** at 128 Chapel St, Windsor, VIC 3181
+- **Hawker Hall** at 98 Chapel St, Windsor VIC 3181
+
+### Key Highlights
+
+- Chapel Street dining and bars
+- Windsor Railway Station connectivity
+- Vintage shopping and thrift stores
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 8/10
+- Affordability: 5/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

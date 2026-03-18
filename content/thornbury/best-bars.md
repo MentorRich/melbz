@@ -168,6 +168,32 @@ Thornbury doesn't need a "best bar scene" award to prove itself — the proof is
 
 **What We Skipped and Why:** We left off a couple of spots that are technically wine bars but function more as restaurant附庸 — the drinking experience isn't the main event. We also didn't include any hotel bars on the strip because Thornbury's charm is that it doesn't have chain hotel bars. That's a feature, not a bug. If you want rooftop cocktails with a view of the city skyline, head south to [Northcote](/northcote) — Thornbury's rooftops are more "neighbourhood panorama" than "skyline spectacle," and honestly, we prefer it that way.
 
+### Featured Venues
+
+- **Umbra** at 769 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
+- **Jerry Joy** at 847 High St, Thornbury VIC 3071
+- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
+- **Umami** at 778 High St, Thornbury VIC 3071
+- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
+- **Umami** at 774 High St, Thornbury VIC 3071
+
+### Key Highlights
+
+- High Street's independent cafes and vintage stores
+- The iconic Thornbury Theatre
+- Penders Park and Merri Creek trail access
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/brunswick/](/brunswick/)

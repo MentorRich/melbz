@@ -1,6 +1,6 @@
 ---
 title: "Things to Do in South Yarra 2026"
-cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,tourism,attractions?lock=6454"
+cover_image: "https://loremflickr.com/800/600/South Yarra,melbourne,tourism,attractions?lock=8527"
 date: 2026-03-18
 author: nina
 description: "The complete guide to things to do in South Yarra. Attractions, activities, and experiences that make this suburb worth visiting."

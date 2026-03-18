@@ -1,6 +1,6 @@
 ---
 title: "Living in Footscray 2026: The Definitive Guide"
-cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,city,australia?lock=2885"
+cover_image: "https://loremflickr.com/800/600/Footscray,melbourne,city,australia?lock=5332"
 date: 2026-03-16
 author: charlie
 tags: ["footscray", "living-guide", "rent"]
@@ -196,6 +196,32 @@ The question isn't whether Footscray will keep rising. It will. The question is 
 
 *Charlie Dunn is MELBZ's Sustainability and Western Suburbs Editor. He lives in Yarraville and reckons the western suburbs are Melbourne's best-kept open secret. Contact: charlie@melbz.com.au*
 
+### Featured Venues
+
+- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+- **Roti Road** at 189 Barkly St, Footscray VIC 3011
+- **Footscray Milking Station** at 35 Bunbury St, Footscray VIC 3011
+- **Ca Com Banh Mi Bar** at 114 Hopkins St, Footscray VIC 3011
+- **Small Graces** at 557 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+- **To's Bakery** at 104 Hopkins St, Footscray VIC 3011
+- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
+- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+
+### Key Highlights
+
+- Footscray Market
+- Little Saigon dining precinct
+- Footscray Community Arts Centre
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

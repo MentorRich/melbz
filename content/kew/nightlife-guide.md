@@ -116,6 +116,32 @@ Kew is well-connected by tram and train, making it easy to navigate after a nigh
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
 
 Living in Kew? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=kew)
+### Featured Venues
+
+- **Centonove** at 109 High St, Kew VIC 3101
+- **Skinny Dog Hotel** at 155 High St, Kew VIC 3101
+- **Hanoi Hannah Kew** at 186 High St, Kew VIC 3101
+- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
+- **Ora** at 143 Pakington St, Kew VIC 3101
+- **Short Straw** at 743 Glenferrie Rd, Hawthorn VIC 3122
+- **Hanoi Rose** at 178 High St, Kew VIC 3101
+- **Kew Kebab House** at 156 High St, Kew VIC 3101
+- **Crust Pizza Kew** at 184 High St, Kew VIC 3101
+- **Rice Paper Scissors Kew** at 196 High St, Kew VIC 3101
+
+### Key Highlights
+
+- Studley Park and Yarra Bend Park trails
+- Historic Raheen Mansion
+- High Street boutique shopping and cafes
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

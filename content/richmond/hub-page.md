@@ -239,6 +239,32 @@ We said what we said. Richmond scores 81/100 on the Vibe Score, sits 3km from th
 
 **OPEN LOOP** → *If you're deciding between Richmond and its neighbours, our [Brunswick Hub Page](/brunswick/hub-page) breaks down what the inner north offers that the east can't match. The answer might surprise you.*
 
+### Featured Venues
+
+- **Minamishima** at 4 Lord St, Richmond VIC 3121
+- **Kong BBQ** at 599 Church St, Richmond VIC 3121
+- **Etta** at 60 Lygon St, Brunswick East (Richmond satellite location: 305 Lygon St, Richmond VIC 3121)
+- **Top Paddock** at 658 Church St, Richmond VIC 3121
+- **Feast of Merit** at 117 Swan St, Richmond VIC 3121
+- **Mountain View Hotel (Cafe Section)** at 70 Bridge Rd, Richmond VIC 3121
+- **I Love Pho 264** at 264 Victoria St, Richmond VIC 3121
+- **Kong BBQ** at 599 Church St, Richmond VIC 3121
+- **Feast of Merit** at 314 Swan St, Richmond VIC 3121
+- **Ichi Ni** at 12/131-133 The Esplanade, St Kilda (Richmond border/nearby hub), VIC 3182
+
+### Key Highlights
+
+- Swan Street dining and live music
+- Bridge Road shopping precinct
+- Melbourne Cricket Ground (MCG)
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/south-yarra/](/south-yarra/)

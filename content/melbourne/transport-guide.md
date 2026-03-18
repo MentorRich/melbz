@@ -198,6 +198,31 @@ The network isn't perfect. The 19 tram will test your patience. Signal faults wi
 
 *Sam Torres is the Transport Editor at MELBZ. She's caught every tram line, been on every train line, and only cried on public transport once (the 86 on a 40-degree day, no air conditioning, 2019 — she's fine now). Follow her transport updates in the [Monday Morning Briefing](/newsletter).*
 
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Supernormal** at 180 Flinders Ln, Melbourne VIC 3000
+- **Pellegrini's Espresso Bar** at 66 Bourke St, Melbourne VIC 3000
+- **Butcher's Diner** at 10 Bourke St, Melbourne VIC 3000
+- **The Grand Collins** at 120 Collins Street, Melbourne VIC 3000
+- **Neon Noodle Bar** at 250 Flinders Lane, Melbourne VIC 3000
+- **The Everleigh** at Level 1, 150-156 Gertrude St, Fitzroy VIC 3065
+- **Bar Margaux** at Basement, 111 Lonsdale St, Melbourne VIC 3000
+- **Bird's Basement** at 11 Singers Ln, Melbourne VIC 3000
+- **Cherry Bar** at 68 Little Collins St, Melbourne VIC 3000
+- **NGV International** at 180 St Kilda Rd, Melbourne VIC 3006
+- **Queen Victoria Market** at Queen St, Melbourne VIC 3000
+- **National Gallery of Victoria (NGV International)** at 180 St Kilda Rd, Melbourne VIC 3006
+- **ACCA (Australian Centre for Contemporary Art)** at 111 Sturt St, Southbank VIC 3006
+- **Bar Americano** at 20 Presgrave Pl, Melbourne VIC 3000
+- **The Lui Bar** at Level 55, 525 Collins St, Melbourne VIC 3000
+
 ## Related Articles
 
 - [/richmond/](/richmond/)

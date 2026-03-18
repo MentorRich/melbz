@@ -161,6 +161,32 @@ If you're visiting Melbourne for the first time, Carlton is a must. If you live 
 - [What's On in Fitzroy](/fitzroy)
 - [Carlton North Vibe Score](/carlton-north)
 
+### Featured Venues
+
+- **DOC Espresso** at 326 Lygon St, Carlton VIC 3053
+- **King and Godfree** at 293 Lygon St, Carlton VIC 3053
+- **Heartattack and Vine** at 329 Lygon St, Carlton VIC 3053
+- **DOC Espresso** at 330 Lygon St, Carlton VIC 3053
+- **King and Godfree** at 297 Lygon St, Carlton VIC 3053
+- **Seven Seeds Coffee Roasters** at 114 Berkeley St, Carlton VIC 3053
+- **Lygon Street Kebab** at 188 Lygon St, Carlton VIC 3053
+- **DOC Espresso** at 326 Lygon St, Carlton VIC 3053
+- **Universal Restaurant** at 134-138 Lygon St, Carlton VIC 3053
+- **Shujinko Carlton** at 225 Swanston St, Carlton VIC 3053
+
+### Key Highlights
+
+- Lygon Street dining precinct
+- Carlton Gardens and Royal Exhibition Building
+- Cinema Nova
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

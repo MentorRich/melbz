@@ -162,6 +162,32 @@ Did you find the Northcote Honest Guide useful?
 
 **Related Reading:** [Fitzroy Honest Guide](/fitzroy/honest-guide) · [Brunswick Honest Guide](/brunswick/honest-guide) · [Thornbury Honest Guide](/thornbury/honest-guide)
 
+### Featured Venues
+
+- **The Estelle** at 243-245 High St, Northcote VIC 3070
+- **Red Sparrow Pizza** at 406 Smith St, Collingwood (Northcote adjacent/original roots)
+- **Welcome to Thornbury** at 520 High St, Northcote VIC 3070
+- **Welcome to Thornbury (Cafe Section)** at 520 High St, Northcote VIC 3070
+- **Penny Farthing Espresso** at 206 High St, Northcote VIC 3070
+- **All Are Welcome** at 190 High St, Northcote VIC 3070
+- **Welcome to Thornbury (Food Trucks)** at 520 High St, Northcote VIC 3070
+- **Northcote Fish & Chips** at 285 High St, Northcote VIC 3070
+- **Tahina** at 223 High St, Northcote VIC 3070
+- **Red Door Yum Cha** at 168 High St, Northcote VIC 3070
+
+### Key Highlights
+
+- High Street shopping and dining
+- Northcote Social Club
+- All Nations Park
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

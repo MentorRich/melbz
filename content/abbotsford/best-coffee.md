@@ -134,6 +134,32 @@ The surrounding suburbs are stacked too — check out our guides to [best coffee
 - [Best Coffee in Richmond](/suburbs/richmond/best-coffee/)
 - [Best Coffee in Fitzroy](/suburbs/fitzroy/best-coffee/)
 
+### Featured Venues
+
+- **Lygon Street Nursery & Cafe (Farm Vigano)** at 100-110 Farm Rd, Abbotsford VIC 3067
+- **Dr Morse Bar & Eatery** at 274 Johnston St, Abbotsford VIC 3067
+- **Retreat Hotel Abbotsford** at 226 Nicholson St, Abbotsford VIC 3067
+- **Lune Croissanterie** at 119 Rose St, Fitzroy/Abbotsford border, VIC 3065
+- **Dr. Morse Bar & Eatery** at 274 Johnston St, Abbotsford, VIC 3067
+- **Three Bags Full** at 60 Nicholson St, Abbotsford, VIC 3067
+- **Dr. Morse Bar & Eatery** at 274 Johnston St, Abbotsford VIC 3067
+- **Lentil As Anything (Abbotsford Convent)** at 1 St Heliers St, Abbotsford VIC 3067
+- **Bodriggy Brewing Company** at 245 Johnston St, Abbotsford VIC 3067
+- **Ichi Ni Nana Izakaya** at 127 Brunswick St, Fitzroy, VIC 3065
+
+### Key Highlights
+
+- Abbotsford Convent arts precinct
+- Collingwood Children's Farm
+- Victoria Street's authentic Vietnamese eateries
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/collingwood/](/collingwood/)

@@ -1,6 +1,6 @@
 ---
 title: "Best Late Night Food in Melbourne 2026: The Definitive Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,late-night,food?lock=9561"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,late-night,food?lock=2612"
 date: 2026-03-16
 author: tariq
 tags: ["melbourne", "late-night", "food"]

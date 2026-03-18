@@ -142,6 +142,32 @@ The Shoulder seasons (March–May, September–November) are Preston's best for 
 <!-- Widget: Check current rental listings near Preston's nightlife hubs -->
 <!-- Widget: Plan your night via PTV journey planner for last transport -->
 
+### Featured Venues
+
+- **Dexter** at 283 High St, Preston VIC 3072
+- **Cedar Bakery** at 206 Plenty Rd, Preston VIC 3072
+- **Ragtime Tavern** at 206 Tyler St, Preston VIC 3072
+- **Dexter** at 587 High St, Preston VIC 3072
+- **Tall Timber** at 60 Commercial Rd, Prahran VIC 3181
+- **Cedar Bakery** at 206 Plenty Rd, Preston VIC 3072
+- **Preston Market (Various Stalls)** at 30A The Centreway, Preston VIC 3072
+- **Umberto Espresso Bar** at 872 High St, Preston VIC 3072
+- **Dexter** at 285 High St, Preston VIC 3072
+- **Umami** at 450 High St, Preston VIC 3072
+
+### Key Highlights
+
+- Preston Market
+- High Street cafe and bar strip
+- N.A.C.C. (Northern Arts Hotel)
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/fitzroy/](/fitzroy/)

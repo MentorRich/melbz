@@ -1,6 +1,6 @@
 ---
 title: "Moving to Melbourne CBD in 2026: The Newcomer's Survival Guide"
-cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,city,australia?lock=8166"
+cover_image: "https://loremflickr.com/800/600/Melbourne Cbd,melbourne,city,australia?lock=6559"
 date: 2026-03-16
 author: freya
 tags: ["melbourne-cbd", "newcomer", "lifestyle"]
@@ -158,6 +158,32 @@ That's the CBD. It earns your love by making you work for it. And honestly? That
 
 *Freya Anderson is the Confessions Editor at MELBZ. She has lived in and around Melbourne's CBD since 2019 and still gets caught out by at least one surprise tram per week.*
 
+### Featured Venues
+
+- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
+- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
+- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
+- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
+- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
+- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
+- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
+- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+
+### Key Highlights
+
+- Federation Square
+- Hosier Lane street art
+- Queen Victoria Market
+
+### Suburb Vibe
+
+- Food: 9/10
+- Nightlife: 8/10
+- Affordability: 5/10
+- Transport: 10/10
+- Culture: 9/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

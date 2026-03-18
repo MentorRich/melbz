@@ -1,6 +1,6 @@
 ---
 title: "Rent Prices in Collingwood 2026"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=365"
 date: 2026-03-18
 author: marcus
 description: "Current rent prices in Collingwood. What it costs to live in Collingwood in 2026, from studio apartments to family homes."

@@ -189,6 +189,32 @@ If you want edge, go to [Richmond](/suburbs/richmond/). If you want quiet presti
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
+### Featured Venues
+
+- **Porgie + Mr Jones** at 291 Auburn Rd, Hawthorn VIC 3122
+- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
+- **San Lorenzo** at 468 Glenferrie Rd, Hawthorn VIC 3122
+- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
+- **Porgie + Mr Jones** at 291 Auburn Rd, Hawthorn VIC 3122
+- **Short Straw** at 743 Glenferrie Rd, Hawthorn VIC 3122
+- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
+- **Lanzhou Beef Noodle Bar** at 765 Glenferrie Rd, Hawthorn VIC 3122
+- **Crust Pizza Hawthorn** at 694 Glenferrie Rd, Hawthorn VIC 3122
+- **Porgie + Mr Jones** at 29 Chapel St, Hawthorn VIC 3122
+
+### Key Highlights
+
+- Glenferrie Road shopping and dining precinct
+- The historic Hawthorn Arts Centre
+- Stunning riverside parklands along the Yarra River
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

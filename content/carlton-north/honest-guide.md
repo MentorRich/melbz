@@ -156,6 +156,32 @@ Carlton North isn't for everyone. But for the people it's for — and there are 
 
 *Have a Carlton North tip, correction, or hot take? Drop it in the comments or hit us up on social. We update these guides regularly based on what locals tell us — your intel matters.*
 
+### Featured Venues
+
+- **The Green Olive** at 524 Rathdowne St, Carlton North VIC 3054
+- **Piazza Carlton** at 600 Rathdowne St, Carlton North VIC 3054
+- **Carlton North Wine Room** at 172-174 Faraday St, Carlton VIC 3053
+- **Baker D. Chirico** at 178 Faraday St, Carlton VIC 3053
+- **Heartattack and Vine** at 329 Lygon St, Carlton VIC 3053
+- **Capitano** at 421 Rathdowne St, Carlton VIC 3053
+- **Niku Niku** at 153 Lygon St, Carlton VIC 3053
+- **Tiamo** at 303 Lygon St, Carlton VIC 3053
+- **Pidapipó** at 299 Lygon St, Carlton VIC 3053
+- **Shizuku Ramen** at 309 Victoria St, Abbotsford VIC 3067
+
+### Key Highlights
+
+- Princes Park
+- The iconic Rathdowne Village shopping strip
+- Historic Victorian architecture
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/northcote/](/northcote/)

@@ -1,6 +1,6 @@
 ---
 title: "Nightlife Guide in Collingwood — 2026 Local Guide"
-cover_image: "https://images.pexels.com/photos/28603666/pexels-photo-28603666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "https://loremflickr.com/800/600/melbourne,city,australia?lock=5404"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "ethan"

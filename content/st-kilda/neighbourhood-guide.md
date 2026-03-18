@@ -127,6 +127,32 @@ What keeps people here is the walkability, the community feel on the side street
 
 Living in St Kilda? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=st-kilda)
 
+### Featured Venues
+
+- **Donovans** at 40 Jacka Blvd, St Kilda VIC 3182
+- **Stokehouse** at 30 Jacka Blvd, St Kilda VIC 3182
+- **Cicciolina** at 130 Acland St, St Kilda VIC 3182
+- **Monarch Cakes** at 103 Acland St, St Kilda VIC 3182
+- **Galleon Cafe** at 9 Carlisle St, St Kilda VIC 3182
+- **Fitzrovia** at 2/155 Fitzroy St, St Kilda VIC 3182
+- **I Love Pho 24** at 262 Victoria St, Richmond, VIC 3121 (Note: St Kilda branch at 128 Acland St, St Kilda, VIC 3182)
+- **Monarch Cakes** at 103 Acland St, St Kilda, VIC 3182
+- **Lentil As Anything** at 1-3 St Kilda Rd, St Kilda, VIC 3182
+- **Ichi Ni Izakaya** at 12/13 The Esplanade, St Kilda VIC 3182
+
+### Key Highlights
+
+- St Kilda Pier and Penguin Colony
+- Luna Park
+- Acland Street cake shops
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

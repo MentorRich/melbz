@@ -213,6 +213,32 @@ South Yarra doesn't beg for your attention. It knows you'll come back.
 - [Prahran vs South Yarra: Which Suburb Actually Has Better Brunch?](/blog/prahran-vs-south-yarra-brunch)
 - [10 Melbourne Walks Under 5km That Don't Feel Like Exercise](/blog/melbourne-walks-under-5km)
 
+### Featured Venues
+
+- **France-Soir** at 11 Toorak Rd, South Yarra VIC 3141
+- **Bar Carolina** at 44 Toorak Rd, South Yarra VIC 3141
+- **L'Hotel Gitan** at 32 Commercial Rd, Prahran/South Yarra VIC 3181
+- **Two Birds One Stone** at 12 Claremont St, South Yarra VIC 3141
+- **Abacus Bar & Kitchen** at 383 Chapel St, South Yarra VIC 3141
+- **Darling Cafe** at 265 Punt Rd, South Yarra VIC 3141
+- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
+- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor, VIC 3181
+- **Dragon Hot Pot South Yarra** at 166 Toorak Rd, South Yarra, VIC 3141
+- **Rice Paper Scissors** at 5-7 Toorak Rd, South Yarra VIC 3141
+
+### Key Highlights
+
+- Chapel Street shopping precinct
+- Royal Botanic Gardens
+- Como House and Gardens
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/prahran/](/prahran/)

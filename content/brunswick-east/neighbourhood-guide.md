@@ -169,6 +169,32 @@ Brunswick East isn't trying to be anything other than a great place to live, eat
 *Live here? Rate your suburb and help us keep the Vibe Score accurate.*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
+### Featured Venues
+
+- **Bar Idda** at 132 Lygon St, Brunswick East VIC 3057
+- **Rumi** at 116 Lygon St, Brunswick East VIC 3057
+- **Etta** at 305 Lygon St, Brunswick East VIC 3057
+- **Code Black Coffee** at 15-17 Weston St, Brunswick East VIC 3057
+- **Padre Coffee Brunswick East** at 438 Lygon St, Brunswick East VIC 3057
+- **Reynard** at 387 Lygon St, Brunswick East VIC 3057
+- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+- **Tsubaki Bowls** at 150 Lygon St, Brunswick East VIC 3057
+- **Rumi** at 116 Lygon St, Brunswick East VIC 3057
+- **Mama's Buoi** at 129 Lygon St, Brunswick East VIC 3057
+
+### Key Highlights
+
+- Lygon Street dining and cafe strip
+- CERES Community Environment Park
+- Inner North craft brewery trail
+
+### Suburb Vibe
+
+- Food: 8/10
+- Nightlife: 7/10
+- Affordability: 6/10
+- Transport: 9/10
+- Culture: 8/10
 ## Related Articles
 
 - [/richmond/](/richmond/)

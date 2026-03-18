@@ -1,6 +1,6 @@
 # ads.txt - Authorized Digital Sellers for melbz.com.au
 # Created: 2026-03-18
-# Waiting for AdSense approval
+# Updated: 2026-03-18
 
-# Once approved by Google AdSense, uncomment and update:
-# google.com, pub-XXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# Google AdSense
+google.com, pub-5641171662737425, DIRECT, f08c47fec0942fa0

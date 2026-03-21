@@ -122,3 +122,8 @@ enableRobotsTXT = true
   name = "Fuel Watch"
   url = "/fuel-prices-melbourne/"
   weight = 4
+
+[[menu.footer]]
+  name = "Terms"
+  url = "/terms/"
+  weight = 40

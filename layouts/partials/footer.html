@@ -1,11 +1,19 @@
 <footer class="site-footer">
     <div class="container">
+        <div class="footer-acknowledgment">
+            <p class="acknowledgment-text">MELBZ acknowledges the Traditional Owners of the land on which we operate — the <strong>Wurundjeri Woi-wurrung</strong> and <strong>Bunurong Boon Wurrung</strong> peoples of the Eastern Kulin Nation. We pay our respects to Elders past, present, and emerging. Sovereignty has never been ceded.</p>
+        </div>
+
         <div class="footer-content">
             <div class="footer-section">
                 <h4>About MELBZ</h4>
-                <p>Melbourne moves fast. Venues open, close, and get replaced by another dumpling house before you've finished your flat white. MELBZ tracks all of it — 321 suburbs, thousands of venues, updated daily by 50 locals who argue about this city for a living.</p>
+                <p>Melbourne's hyperlocal intelligence platform. 321 suburbs, thousands of venues, powered by local knowledge and AI-driven research.</p>
+                <ul>
+                    <li><a href="/about/">About Us</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+                </ul>
             </div>
-            
+
             <div class="footer-section">
                 <h4>Explore Suburbs</h4>
                 <ul>
@@ -15,35 +23,38 @@
                     <li><a href="/richmond/">Richmond</a></li>
                     <li><a href="/south-yarra/">South Yarra</a></li>
                     <li><a href="/brunswick/">Brunswick</a></li>
+                    <li><a href="/suburbs/">All Suburbs →</a></li>
                 </ul>
             </div>
-            
+
             <div class="footer-section">
                 <h4>Categories</h4>
                 <ul>
-                    <li><a href="/food/">Food & Drink</a></li>
-                    <li><a href="/nightlife/">Nightlife</a></li>
-                    <li><a href="/property/">Property</a></li>
-                    <li><a href="/events/">Events</a></li>
-                    <li><a href="/culture/">Culture</a></li>
-                    <li><a href="/lifestyle/">Lifestyle</a></li>
+                    <li><a href="/tags/food/">Food & Drink</a></li>
+                    <li><a href="/tags/nightlife/">Nightlife</a></li>
+                    <li><a href="/tags/property/">Property</a></li>
+                    <li><a href="/confessions/">Confessions</a></li>
+                    <li><a href="/join/">Join MELBZ</a></li>
                 </ul>
             </div>
-            
+
             <div class="footer-section">
+                <h4>Legal</h4>
+                <ul>
+                    <li><a href="/privacy/">Privacy Policy</a></li>
+                    <li><a href="/terms/">Terms of Service</a></li>
+                    <li><a href="mailto:hq@melbz.com.au">hq@melbz.com.au</a></li>
+                </ul>
                 <h4>Connect</h4>
                 <ul>
-                    {{ range .Site.Menus.footer }}
-                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-                    {{ end }}
-                    <li><a href="{{ .Site.Params.instagram }}" target="_blank" rel="noopener">Instagram</a></li>
-                    <li><a href="{{ .Site.Params.twitter }}" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://melbz.com.au" rel="noopener">Instagram</a></li>
+                    <li><a href="https://melbz.com.au" rel="noopener">Twitter</a></li>
                 </ul>
             </div>
         </div>
-        
+
         <div class="footer-bottom">
-            <p>© {{ now.Year }} MELBZ | Published by Axior Labs (ABN 91 949 773 596) | Daniel Ebiau, Director | <a href="mailto:hq@melbz.com.au">hq@melbz.com.au</a></p>
+            <p>&copy; {{ now.Year }} MELBZ | Published by <a href="https://axiorlabs.com.au">Axior Labs</a> (ABN 91 949 773 596) | Ebiau Daniel, Founder &amp; CEO | <a href="mailto:hq@melbz.com.au">hq@melbz.com.au</a></p>
         </div>
     </div>
 </footer>

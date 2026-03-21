@@ -1,12 +1,73 @@
 <div class="search-container" style="position: relative; margin-left: auto; max-width: 300px;">
-    <input type="text" id="search-input" placeholder="Search Melbourne..." 
-           style="width: 100%; padding: 8px 16px; border-radius: 20px; border: 1px solid rgba(255,255,255,0.1); background: rgba(255,255,255,0.05); color: white; font-size: 0.9rem; outline: none;">
-    <div id="search-results" 
-         style="position: absolute; top: 100%; right: 0; width: 350px; background: #0A1628; border: 1px solid #E85D3A; border-radius: 8px; margin-top: 10px; display: none; z-index: 1000; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+    <input type="text" id="search-input" placeholder="Search suburbs, food, bars..."
+           autocomplete="off"
+           style="width: 100%; padding: 8px 16px; border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); background: rgba(255,255,255,0.08); color: white; font-size: 0.9rem; outline: none;">
+    <div id="search-results"
+         style="position: absolute; top: 100%; right: 0; width: 350px; max-width: 90vw; background: #0A1628; border: 1px solid #E85D3A; border-radius: 8px; margin-top: 10px; display: none; z-index: 1000; box-shadow: 0 10px 30px rgba(0,0,0,0.5); max-height: 400px; overflow-y: auto;">
     </div>
 </div>
 
-<script src="/js/flexsearch.bundle.js"></script>
 <script>
-// Search engine logic to be bundled in the next build
+(function() {
+    let searchData = null;
+    const input = document.getElementById('search-input');
+    const results = document.getElementById('search-results');
+
+    if (!input || !results) return;
+
+    // Load search index on first focus
+    input.addEventListener('focus', function() {
+        if (!searchData) {
+            fetch('/index.json')
+                .then(r => r.json())
+                .then(data => { searchData = data; })
+                .catch(() => { searchData = []; });
+        }
+    });
+
+    input.addEventListener('input', function() {
+        const query = this.value.toLowerCase().trim();
+        if (query.length < 2 || !searchData) {
+            results.style.display = 'none';
+            return;
+        }
+
+        const matches = searchData.filter(item =>
+            (item.title && item.title.toLowerCase().includes(query)) ||
+            (item.section && item.section.toLowerCase().includes(query)) ||
+            (item.tags && item.tags.toLowerCase().includes(query)) ||
+            (item.suburb && item.suburb.toLowerCase().includes(query))
+        ).slice(0, 12);
+
+        if (matches.length === 0) {
+            results.innerHTML = '<div style="padding: 12px 16px; color: #888;">No results found</div>';
+            results.style.display = 'block';
+            return;
+        }
+
+        results.innerHTML = matches.map(item =>
+            '<a href="' + item.url + '" style="display: block; padding: 10px 16px; color: #E0E0E0; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.05); transition: background 0.2s;"' +
+            ' onmouseover="this.style.background=\'rgba(232,93,58,0.15)\'" onmouseout="this.style.background=\'transparent\'">' +
+            '<div style="font-weight: 600; font-size: 0.9rem;">' + item.title + '</div>' +
+            '<div style="font-size: 0.75rem; color: #888; margin-top: 2px;">' + (item.section || '') + (item.tags ? ' · ' + item.tags : '') + '</div>' +
+            '</a>'
+        ).join('');
+        results.style.display = 'block';
+    });
+
+    // Close on click outside
+    document.addEventListener('click', function(e) {
+        if (!input.contains(e.target) && !results.contains(e.target)) {
+            results.style.display = 'none';
+        }
+    });
+
+    // ESC to close
+    input.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            results.style.display = 'none';
+            this.blur();
+        }
+    });
+})();
 </script>

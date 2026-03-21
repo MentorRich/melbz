@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "williamstown-north"
 article_type: "cost-of-living"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "cost of living Williamstown North Melbourne"
   - "how expensive is Williamstown North"

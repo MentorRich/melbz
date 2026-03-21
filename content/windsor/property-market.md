@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "windsor"
 article_type: "property"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "buying in Windsor"
   - "Windsor property market"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "narre-warren-north"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Narre Warren North Melbourne"
   - "commute from Narre Warren North to city"

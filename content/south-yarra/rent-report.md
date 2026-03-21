@@ -3,6 +3,7 @@ title: "Rent Prices in South Yarra 2026: Chapel Street Premium"
 cover_image: "/images/south-yarra/rent-report.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["south-yarra", "rent", "property"]
 categories: ["property"]
 description: "Rent Prices in South Yarra 2026: Chapel Street Premium."

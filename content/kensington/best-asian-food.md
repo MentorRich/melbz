@@ -3,6 +3,7 @@ title: "Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern & More"
 cover_image: "/images/kensington/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
+author_image: "/images/authors/yuki.jpg"
 tags: ["kensington", "asian", "food"]
 categories: ["food"]
 description: "Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern & More"

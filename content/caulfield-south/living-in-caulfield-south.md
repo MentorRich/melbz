@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "living-in"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "living in Caulfield South Melbourne"
   - "pros and cons of living in Caulfield South"

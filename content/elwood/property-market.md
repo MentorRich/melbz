@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "elwood"
 article_type: "property"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "buying in Elwood"
   - "Elwood property market"

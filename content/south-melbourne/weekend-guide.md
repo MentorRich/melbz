@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-melbourne"
 article_type: "weekend"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "what to do South Melbourne this weekend"
   - "South Melbourne weekend"

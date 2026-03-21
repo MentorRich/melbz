@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "northcote"
 article_type: "nightlife"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "best bars Northcote"
   - "bars in Northcote Melbourne"

@@ -4,7 +4,8 @@ description: "The insider's guide to Altona's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "altona"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Altona neighbourhood guide"
   - "best streets in Altona"

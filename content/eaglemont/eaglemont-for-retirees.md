@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "eaglemont"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Eaglemont retirees Melbourne"
   - "retiring in Eaglemont"

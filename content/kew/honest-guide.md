@@ -3,6 +3,7 @@ title: "Kew Honest Guide 2026: Leafy Streets Real Talk"
 cover_image: "/images/kew/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["kew", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Kew Honest Guide 2026: Leafy Streets & Real Talk"

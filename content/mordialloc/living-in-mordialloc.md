@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mordialloc"
 article_type: "living-in"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "living in Mordialloc Melbourne"
   - "pros and cons of living in Mordialloc"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "macleod"
 article_type: "families"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "is Macleod good for families"
   - "Macleod family friendly"

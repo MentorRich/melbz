@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hughesdale"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Hughesdale good for families"
   - "Hughesdale family friendly"

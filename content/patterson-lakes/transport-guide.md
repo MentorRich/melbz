@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Patterson Lakes Melbourne"
   - "commute from Patterson Lakes to city"

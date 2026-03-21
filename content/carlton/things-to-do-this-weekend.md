@@ -6,6 +6,7 @@ cover_image: "/images/carlton/things-to-do-this-weekend.jpg"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Discover the things to do this weekend in Carlton. Our verified 2026 guide covers the best spots for locals."

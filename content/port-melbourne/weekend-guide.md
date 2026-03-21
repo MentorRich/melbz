@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "weekend"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "what to do Port Melbourne this weekend"
   - "Port Melbourne weekend"

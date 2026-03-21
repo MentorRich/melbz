@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kew-east"
 article_type: "cost-of-living"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "cost of living Kew East Melbourne"
   - "how expensive is Kew East"

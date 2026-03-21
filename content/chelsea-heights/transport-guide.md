@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Chelsea Heights Melbourne"
   - "commute from Chelsea Heights to city"

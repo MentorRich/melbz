@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "melbourne-cbd"
 article_type: "activities"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "things to do Melbourne CBD"
   - "Melbourne CBD activities"

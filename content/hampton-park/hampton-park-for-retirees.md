@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hampton-park"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Hampton Park retirees Melbourne"
   - "retiring in Hampton Park"

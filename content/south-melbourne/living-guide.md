@@ -3,6 +3,7 @@ title: "Living in South Melbourne 2026: The Definitive Guide"
 cover_image: "/images/south-melbourne/living-guide.jpg"
 date: 2026-03-16
 author: soph
+author_image: "/images/authors/sophie.jpg"
 tags: ["south-melbourne", "living-guide", "rent"]
 categories: ["lifestyle"]
 description: "Living in South Melbourne 2026: The Definitive Guide"

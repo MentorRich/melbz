@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "maidstone"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Maidstone Melbourne history"
   - "how has Maidstone changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "travancore"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Travancore Melbourne history"
   - "how has Travancore changed"

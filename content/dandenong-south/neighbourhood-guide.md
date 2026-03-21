@@ -4,7 +4,8 @@ description: "The insider's guide to Dandenong South's different pockets, street
 date: 2026-03-21
 suburb: "dandenong-south"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "Dandenong South neighbourhood guide"
   - "best streets in Dandenong South"

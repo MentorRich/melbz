@@ -6,6 +6,7 @@ cover_image: "/images/st-kilda/best-brunch.jpg"
 suburb: "st-kilda"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best brunch in St Kilda. Our verified 2026 guide covers the best spots for locals."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon-south"
 article_type: "living-in"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "living in Croydon South Melbourne"
   - "pros and cons of living in Croydon South"

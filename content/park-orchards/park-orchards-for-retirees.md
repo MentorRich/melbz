@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "park-orchards"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Park Orchards retirees Melbourne"
   - "retiring in Park Orchards"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "malvern-east"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Malvern East Melbourne"
   - "commute from Malvern East to city"

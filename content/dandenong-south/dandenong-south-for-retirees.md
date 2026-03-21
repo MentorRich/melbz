@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dandenong-south"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Dandenong South retirees Melbourne"
   - "retiring in Dandenong South"

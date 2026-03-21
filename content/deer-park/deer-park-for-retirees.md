@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "deer-park"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Deer Park retirees Melbourne"
   - "retiring in Deer Park"

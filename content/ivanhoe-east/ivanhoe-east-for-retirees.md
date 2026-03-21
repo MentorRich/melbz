@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Ivanhoe East retirees Melbourne"
   - "retiring in Ivanhoe East"

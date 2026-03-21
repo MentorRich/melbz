@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "airport-west"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Airport West good for families"
   - "Airport West family friendly"

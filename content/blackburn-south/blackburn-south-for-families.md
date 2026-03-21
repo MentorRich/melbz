@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "blackburn-south"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Blackburn South good for families"
   - "Blackburn South family friendly"

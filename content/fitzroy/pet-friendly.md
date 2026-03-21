@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fitzroy"
 article_type: "lifestyle"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "dog friendly Fitzroy"
   - "off leash park Fitzroy"

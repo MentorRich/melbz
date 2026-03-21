@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wyndham-vale"
 article_type: "living-in"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "living in Wyndham Vale Melbourne"
   - "pros and cons of living in Wyndham Vale"

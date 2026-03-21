@@ -4,6 +4,7 @@ description: "Winter in Melbourne doesn't mean staying home. The best indoor act
 date: 2026-03-21
 article_type: "trending"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "melbourne winter things to do"
   - "winter activities melbourne"

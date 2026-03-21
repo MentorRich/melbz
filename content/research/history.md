@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "research"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Research Melbourne history"
   - "how has Research changed"

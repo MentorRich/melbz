@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hampton-park"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Hampton Park good for families"
   - "Hampton Park family friendly"

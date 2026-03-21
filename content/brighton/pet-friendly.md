@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brighton"
 article_type: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "dog friendly Brighton"
   - "off leash park Brighton"

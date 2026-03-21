@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "aspendale"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Aspendale good for families"
   - "Aspendale family friendly"

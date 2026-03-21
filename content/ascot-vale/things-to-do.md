@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ascot-vale"
 article_type: "activities"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "things to do Ascot Vale"
   - "Ascot Vale activities"

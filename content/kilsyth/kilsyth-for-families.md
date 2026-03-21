@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kilsyth"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Kilsyth good for families"
   - "Kilsyth family friendly"

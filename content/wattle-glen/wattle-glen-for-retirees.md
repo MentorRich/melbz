@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Wattle Glen retirees Melbourne"
   - "retiring in Wattle Glen"

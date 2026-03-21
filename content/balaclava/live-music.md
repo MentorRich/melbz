@@ -3,6 +3,7 @@ title: "Live Music Guide in Balaclava 2026"
 cover_image: "/images/balaclava/live-music.jpg"
 date: 2026-03-18
 author: lina
+author_image: "/images/authors/lina.jpg"
 description: "Where to find live music in Balaclava. Venues, gigs, and the best spots for everything from jazz to rock to DJ sets."
 tags: ["balaclava", "live-music"]
 categories: ["live"]

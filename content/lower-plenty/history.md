@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Lower Plenty Melbourne history"
   - "how has Lower Plenty changed"

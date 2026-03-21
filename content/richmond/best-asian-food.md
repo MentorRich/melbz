@@ -3,6 +3,7 @@ title: "Best Asian Food in Richmond 2026: Victoria Street & Beyond"
 cover_image: "/images/richmond/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
+author_image: "/images/authors/yuki.jpg"
 tags: ["richmond", "asian", "food"]
 categories: ["food"]
 description: "Best Asian Food in Richmond 2026: Victoria Street & Beyond"

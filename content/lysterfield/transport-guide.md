@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lysterfield"
 article_type: "transport"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "public transport Lysterfield Melbourne"
   - "commute from Lysterfield to city"

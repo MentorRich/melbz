@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "toorak"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Toorak good for families"
   - "Toorak family friendly"

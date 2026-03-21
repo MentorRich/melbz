@@ -3,6 +3,7 @@ title: "Rent Prices in St Kilda 2026: Seaside Premium"
 cover_image: "/images/st-kilda/rent-report.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["st-kilda", "rent", "property"]
 categories: ["property"]
 description: "Rent Prices in St Kilda 2026: Seaside Premium"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "melbourne-cbd"
 article_type: "lifestyle"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "dog friendly Melbourne CBD"
   - "off leash park Melbourne CBD"

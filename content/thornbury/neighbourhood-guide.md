@@ -6,6 +6,7 @@ cover_image: "/images/thornbury/neighbourhood-guide.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Your complete Thornbury neighbourhood guide for 2026 — streets to know, transport, parking, safety, and how to live like a local. Not a tourist tack."

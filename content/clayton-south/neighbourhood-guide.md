@@ -4,7 +4,8 @@ description: "The insider's guide to Clayton South's different pockets, streets,
 date: 2026-03-21
 suburb: "clayton-south"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Clayton South neighbourhood guide"
   - "best streets in Clayton South"

@@ -3,6 +3,7 @@ title: "Best Pubs in Kensington 2026: Local Watering Holes"
 cover_image: "/images/kensington/best-pubs.jpg"
 date: 2026-03-16
 author: lina
+author_image: "/images/authors/lina.jpg"
 tags: ["kensington", "pubs", "nightlife"]
 categories: ["nightlife"]
 description: "Best Pubs in Kensington 2026: Local Watering Holes"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kew-east"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Kew East good for families"
   - "Kew East family friendly"

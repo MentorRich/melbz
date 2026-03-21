@@ -4,7 +4,8 @@ description: "The insider's guide to Clifton Hill's different pockets, streets, 
 date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Clifton Hill neighbourhood guide"
   - "best streets in Clifton Hill"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "altona-meadows"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Altona Meadows retirees Melbourne"
   - "retiring in Altona Meadows"

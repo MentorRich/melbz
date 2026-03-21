@@ -6,6 +6,7 @@ cover_image: "/images/melbourne/best-bars.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "jess"
+author_image: "/images/authors/jess.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best bars in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually drink — from rooftop gin joints to underground whisky dens."

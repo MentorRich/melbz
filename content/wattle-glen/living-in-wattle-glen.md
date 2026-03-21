@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "living-in"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "living in Wattle Glen Melbourne"
   - "pros and cons of living in Wattle Glen"

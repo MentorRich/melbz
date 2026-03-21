@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill"
 article_type: "living-in"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "living in Box Hill Melbourne"
   - "pros and cons of living in Box Hill"

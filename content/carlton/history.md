@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Carlton Melbourne history"
   - "how has Carlton changed"

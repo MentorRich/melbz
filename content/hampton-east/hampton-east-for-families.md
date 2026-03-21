@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hampton-east"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Hampton East good for families"
   - "Hampton East family friendly"

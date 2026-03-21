@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick-east"
 article_type: "safety"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Brunswick East safe"
   - "Brunswick East safety"

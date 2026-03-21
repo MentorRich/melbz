@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "beaconsfield"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Beaconsfield Melbourne history"
   - "how has Beaconsfield changed"

@@ -6,6 +6,7 @@ cover_image: "/images/northcote/new-openings.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the new openings in Northcote. Our verified 2026 guide covers the best spots for locals."

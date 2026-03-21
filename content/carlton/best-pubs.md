@@ -3,6 +3,7 @@ title: "Best Pubs in Carlton 2026: Where the Locals Drink"
 cover_image: "/images/carlton/best-pubs.jpg"
 date: 2026-03-16
 author: kai
+author_image: "/images/authors/kai.jpg"
 tags: ["carlton", "pubs", "beer"]
 categories: ["nightlife"]
 description: "Best Pubs in Carlton 2026: Where the Locals Drink"

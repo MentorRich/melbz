@@ -4,7 +4,8 @@ description: "The insider's guide to Boronia's different pockets, streets, and a
 date: 2026-03-21
 suburb: "boronia"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Boronia neighbourhood guide"
   - "best streets in Boronia"

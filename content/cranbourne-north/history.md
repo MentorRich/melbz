@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cranbourne-north"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Cranbourne North Melbourne history"
   - "how has Cranbourne North changed"

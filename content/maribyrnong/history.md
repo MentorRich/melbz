@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "maribyrnong"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Maribyrnong Melbourne history"
   - "how has Maribyrnong changed"

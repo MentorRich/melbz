@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "cost-of-living"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "cost of living Lower Templestowe Melbourne"
   - "how expensive is Lower Templestowe"

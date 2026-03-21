@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "albert-park"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Albert Park retirees Melbourne"
   - "retiring in Albert Park"

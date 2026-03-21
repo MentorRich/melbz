@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton"
 article_type: "safety"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Carlton safe"
   - "Carlton safety"

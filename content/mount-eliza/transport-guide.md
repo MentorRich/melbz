@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "transport"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "public transport Mount Eliza Melbourne"
   - "commute from Mount Eliza to city"

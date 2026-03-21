@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "pascoe-vale"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Pascoe Vale good for families"
   - "Pascoe Vale family friendly"

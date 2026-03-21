@@ -3,6 +3,7 @@ title: "Abbotsford Melbourne Suburb Guide 2026: The Complete Picture"
 cover_image: "/images/abbotsford/hub-page.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["abbotsford", "suburb-guide"]
 description: "Abbotsford Melbourne Suburb Guide 2026: The Complete Picture of Melbourne's underrated inner-east gem."
 ---

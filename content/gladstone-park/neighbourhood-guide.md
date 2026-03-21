@@ -4,7 +4,8 @@ description: "The insider's guide to Gladstone Park's different pockets, streets
 date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Gladstone Park neighbourhood guide"
   - "best streets in Gladstone Park"

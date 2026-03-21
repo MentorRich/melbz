@@ -7,6 +7,7 @@ description: "Meet the experts, local legends, and specialists behind Melbourne'
 layout: "team"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["about"]
 categories: ["general"]
 

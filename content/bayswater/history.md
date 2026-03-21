@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bayswater"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Bayswater Melbourne history"
   - "how has Bayswater changed"

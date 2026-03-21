@@ -6,6 +6,7 @@ cover_image: "/images/coburg/best-pubs.jpg"
 suburb: "coburg"
 vertical: "nightlife"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The best pubs in Coburg for 2026 — 6 verified neighbourhood pubs from the Post Office Hotel to the Cornish Arms. Cold beer, honest food, no pretension."

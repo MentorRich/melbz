@@ -3,6 +3,7 @@ title: "Transport Guide for Balaclava"
 cover_image: "/images/balaclava/transport-guide.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 description: "Getting around Balaclava. Train, tram, and bus options, plus driving, parking, and cycling guide."
 tags: ["balaclava", "transport-guide"]
 categories: ["transport"]

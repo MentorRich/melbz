@@ -4,7 +4,8 @@ description: "The insider's guide to Burwood's different pockets, streets, and a
 date: 2026-03-21
 suburb: "burwood"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Burwood neighbourhood guide"
   - "best streets in Burwood"

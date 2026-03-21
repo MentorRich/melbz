@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seaford"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Seaford Melbourne history"
   - "how has Seaford changed"

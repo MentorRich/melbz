@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cheltenham"
 article_type: "best-of"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "best restaurants Cheltenham"
   - "where to eat Cheltenham"

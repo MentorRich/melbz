@@ -3,6 +3,7 @@ title: "Late Night Food in Brunswick 2026: Where to Eat After 10pm"
 cover_image: "/images/brunswick/late-night-food.jpg"
 date: 2026-03-16
 author: ethan
+author_image: "/images/authors/ethan.jpg"
 tags: ["brunswick", "late-night", "food"]
 categories: ["food"]
 description: "Late Night Food in Brunswick 2026: Where to Eat After 10pm"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lalor"
 article_type: "profile"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Lalor Melbourne"
   - "what is Lalor like"
@@ -52,7 +53,7 @@ Quick version: you can get to the city reasonably easy. The tram and train netwo
 
 ## Eating and Drinking in Lalor
 
-The food scene in Lalor reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and enough variety to keep things interesting without needing to leave the suburb every time you want a decent meal.
+The food scene in Lalor reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and a genuine neighbourhood feel with urban convenience without needing to leave the suburb every time you want a decent meal.
 
 Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
 

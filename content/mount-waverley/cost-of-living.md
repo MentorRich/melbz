@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "cost-of-living"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "cost of living Mount Waverley Melbourne"
   - "how expensive is Mount Waverley"

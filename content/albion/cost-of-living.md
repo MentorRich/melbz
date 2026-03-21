@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "albion"
 article_type: "cost-of-living"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "cost of living Albion Melbourne"
   - "how expensive is Albion"

@@ -4,7 +4,8 @@ description: "The insider's guide to Williamstown's different pockets, streets, 
 date: 2026-03-21
 suburb: "williamstown"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Williamstown neighbourhood guide"
   - "best streets in Williamstown"

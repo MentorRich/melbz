@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hawthorn-east"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Hawthorn East good for families"
   - "Hawthorn East family friendly"

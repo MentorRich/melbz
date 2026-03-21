@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mernda"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Mernda Melbourne history"
   - "how has Mernda changed"

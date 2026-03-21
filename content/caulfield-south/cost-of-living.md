@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "cost-of-living"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "cost of living Caulfield South Melbourne"
   - "how expensive is Caulfield South"

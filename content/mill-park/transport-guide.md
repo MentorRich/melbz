@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mill-park"
 article_type: "transport"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "public transport Mill Park Melbourne"
   - "commute from Mill Park to city"

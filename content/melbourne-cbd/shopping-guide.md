@@ -3,6 +3,7 @@ title: "Shopping in Melbourne CBD 2026: The Ultimate Guide"
 cover_image: "/images/melbourne-cbd/shopping-guide.jpg"
 date: 2026-03-16
 author: zara
+author_image: "/images/authors/tara.jpg"
 tags: ["melbourne-cbd", "shopping", "fashion"]
 categories: ["lifestyle"]
 description: "Shopping in Melbourne CBD 2026: The Ultimate Guide"

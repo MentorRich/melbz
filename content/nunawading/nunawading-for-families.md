@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "nunawading"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Nunawading good for families"
   - "Nunawading family friendly"

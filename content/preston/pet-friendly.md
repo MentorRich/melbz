@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "preston"
 article_type: "lifestyle"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "dog friendly Preston"
   - "off leash park Preston"

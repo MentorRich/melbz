@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "tecoma"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Tecoma good for families"
   - "Tecoma family friendly"

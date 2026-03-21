@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dandenong-south"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Dandenong South good for families"
   - "Dandenong South family friendly"

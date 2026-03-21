@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "nightlife"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "best bars Balwyn North"
   - "bars in Balwyn North Melbourne"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "transport"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "public transport Narre Warren South Melbourne"
   - "commute from Narre Warren South to city"

@@ -3,6 +3,7 @@ title: "Neighbourhood Guide to Kensington 2026: Melbourne's Quiet Overachiever"
 cover_image: "/images/kensington/living-guide.jpg"
 date: 2026-03-16
 author: amara
+author_image: "/images/authors/amara.jpg"
 tags: ["kensington", "neighbourhood", "living-guide"]
 categories: ["lifestyle"]
 description: "Neighbourhood Guide to Kensington 2026: Melbourne's Quiet Overachiever"

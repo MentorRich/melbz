@@ -3,6 +3,7 @@ title: "Prahran Market Guide 2026: Worth the Early Wake-Up?"
 cover_image: "/images/prahran/market-guide.jpg"
 date: 2026-03-16
 author: tyler
+author_image: "/images/authors/tyler.jpg"
 tags: ["prahran", "market", "lifestyle"]
 categories: ["lifestyle"]
 description: "Prahran Market Guide 2026: Worth the Early Wake-Up?"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "windsor"
 article_type: "safety"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Windsor safe"
   - "Windsor safety"

@@ -3,6 +3,7 @@ title: "Best Cocktails in St Kilda 2026: Where to Drink"
 cover_image: "/images/st-kilda/cocktails.jpg"
 date: 2026-03-16
 author: jess
+author_image: "/images/authors/jess.jpg"
 tags: ["st-kilda", "cocktails", "bars"]
 categories: ["nightlife"]
 description: "Best Cocktails in St Kilda 2026: Where to Drink"

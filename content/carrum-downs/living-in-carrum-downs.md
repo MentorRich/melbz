@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carrum-downs"
 article_type: "living-in"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "living in Carrum Downs Melbourne"
   - "pros and cons of living in Carrum Downs"

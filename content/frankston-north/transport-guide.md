@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "frankston-north"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Frankston North Melbourne"
   - "commute from Frankston North to city"

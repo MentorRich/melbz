@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "laverton"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Laverton good for families"
   - "Laverton family friendly"

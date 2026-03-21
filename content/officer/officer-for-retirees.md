@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "officer"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Officer retirees Melbourne"
   - "retiring in Officer"

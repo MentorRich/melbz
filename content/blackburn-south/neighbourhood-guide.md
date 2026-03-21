@@ -4,7 +4,8 @@ description: "The insider's guide to Blackburn South's different pockets, street
 date: 2026-03-21
 suburb: "blackburn-south"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Blackburn South neighbourhood guide"
   - "best streets in Blackburn South"

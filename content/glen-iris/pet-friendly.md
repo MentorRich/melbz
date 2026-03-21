@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-iris"
 article_type: "lifestyle"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "dog friendly Glen Iris"
   - "off leash park Glen Iris"

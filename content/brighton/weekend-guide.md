@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brighton"
 article_type: "weekend"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "what to do Brighton this weekend"
   - "Brighton weekend"

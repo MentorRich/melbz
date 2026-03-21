@@ -3,6 +3,7 @@ title: "St Kilda Beach Guide 2026: Sand, Piers & Prat Falls"
 cover_image: "/images/st-kilda/beach-guide.jpg"
 date: 2026-03-16
 author: tyler
+author_image: "/images/authors/tyler.jpg"
 tags: ["st-kilda", "beach", "lifestyle"]
 categories: ["lifestyle"]
 description: "St Kilda Beach Guide 2026: Sand, Piers & Prat Falls"

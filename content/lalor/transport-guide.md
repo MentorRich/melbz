@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lalor"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Lalor Melbourne"
   - "commute from Lalor to city"

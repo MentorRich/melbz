@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-iris"
 article_type: "property"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "buying in Glen Iris"
   - "Glen Iris property market"

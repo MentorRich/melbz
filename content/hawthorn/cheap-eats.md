@@ -3,6 +3,7 @@ title: "Cheap Eats Under $20 in Hawthorn 2026"
 cover_image: "/images/hawthorn/cheap-eats.jpg"
 date: 2026-03-19
 author: priya
+author_image: "/images/authors/priya.jpg"
 description: "Hawthorn on a budget? Here's where to eat well for under $20 — from Malaysian hawker food to vegetarian Vietnamese and Japanese izakaya plates."
 tags: ["hawthorn", "cheap-eats", "food"]
 categories: ["cheap"]

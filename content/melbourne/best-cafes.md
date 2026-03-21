@@ -6,6 +6,7 @@ cover_image: "/images/melbourne/best-cafes.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best cafes in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually eat — from breakfast institutions to neighbourhood gems."

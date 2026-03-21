@@ -4,7 +4,8 @@ description: "The insider's guide to Huntingdale's different pockets, streets, a
 date: 2026-03-21
 suburb: "huntingdale"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Huntingdale neighbourhood guide"
   - "best streets in Huntingdale"

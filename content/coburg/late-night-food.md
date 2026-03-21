@@ -3,6 +3,7 @@ title: "Late Night Food in Coburg 2026: Where to Eat After Dark"
 cover_image: "/images/coburg/late-night-food.jpg"
 date: 2026-03-16
 author: ethan
+author_image: "/images/authors/ethan.jpg"
 tags: ["coburg", "late-night", "food"]
 categories: ["food"]
 description: "Late Night Food in Coburg 2026: Where to Eat After Dark"

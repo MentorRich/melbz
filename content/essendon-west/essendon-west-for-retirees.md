@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "essendon-west"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Essendon West retirees Melbourne"
   - "retiring in Essendon West"

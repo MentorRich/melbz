@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "richmond"
 article_type: "property"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "buying in Richmond"
   - "Richmond property market"

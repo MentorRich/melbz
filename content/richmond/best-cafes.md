@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "richmond"
 article_type: "best-of"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "best cafes Richmond"
   - "coffee Richmond Melbourne"

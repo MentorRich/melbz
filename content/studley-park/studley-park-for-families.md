@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "studley-park"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Studley Park good for families"
   - "Studley Park family friendly"

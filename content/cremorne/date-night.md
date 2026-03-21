@@ -6,6 +6,7 @@ cover_image: "/images/cremorne/date-night.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Cremorne's date night scene is small but perfectly formed. Here's where to go when you want romance without the Chapel Street crowds."

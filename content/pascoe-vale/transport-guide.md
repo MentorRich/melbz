@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "pascoe-vale"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Pascoe Vale Melbourne"
   - "commute from Pascoe Vale to city"

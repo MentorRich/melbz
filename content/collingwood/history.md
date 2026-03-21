@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "collingwood"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Collingwood Melbourne history"
   - "how has Collingwood changed"

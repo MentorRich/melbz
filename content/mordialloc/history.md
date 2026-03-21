@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mordialloc"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Mordialloc Melbourne history"
   - "how has Mordialloc changed"

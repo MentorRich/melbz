@@ -6,6 +6,7 @@ cover_image: "/images/cremorne/new-openings.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Cremorne's dining scene keeps evolving. Here are the newest restaurants, cafes, and bars to hit 3121 in 2025-2026."

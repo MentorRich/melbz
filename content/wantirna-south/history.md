@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Wantirna South Melbourne history"
   - "how has Wantirna South changed"

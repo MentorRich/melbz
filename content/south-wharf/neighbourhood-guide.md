@@ -4,7 +4,8 @@ description: "The insider's guide to South Wharf's different pockets, streets, a
 date: 2026-03-21
 suburb: "south-wharf"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "South Wharf neighbourhood guide"
   - "best streets in South Wharf"

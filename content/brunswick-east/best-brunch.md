@@ -6,6 +6,7 @@ cover_image: "/images/brunswick-east/best-brunch.jpg"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Brunswick East has quietly become one of Melbourne's most reliable brunch neighbourhoods. Here are the 9 spots worth waking up for."

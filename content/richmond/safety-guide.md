@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "richmond"
 article_type: "safety"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Richmond safe"
   - "Richmond safety"

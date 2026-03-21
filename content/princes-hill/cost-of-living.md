@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "princes-hill"
 article_type: "cost-of-living"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "cost of living Princes Hill Melbourne"
   - "how expensive is Princes Hill"

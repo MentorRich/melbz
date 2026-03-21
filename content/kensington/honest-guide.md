@@ -3,6 +3,7 @@ title: "Kensington Honest Guide 2026: The Unfiltered Truth"
 cover_image: "/images/kensington/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["kensington", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Kensington Honest Guide 2026: The Unfiltered Truth"

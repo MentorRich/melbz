@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "forest-hill"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Forest Hill Melbourne history"
   - "how has Forest Hill changed"

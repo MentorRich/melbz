@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sunshine"
 article_type: "cost-of-living"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "cost of living Sunshine Melbourne"
   - "how expensive is Sunshine"

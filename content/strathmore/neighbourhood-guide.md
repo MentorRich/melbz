@@ -4,7 +4,8 @@ description: "The insider's guide to Strathmore's different pockets, streets, an
 date: 2026-03-21
 suburb: "strathmore"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "Strathmore neighbourhood guide"
   - "best streets in Strathmore"

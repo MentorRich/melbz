@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "heathmont"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Heathmont good for families"
   - "Heathmont family friendly"

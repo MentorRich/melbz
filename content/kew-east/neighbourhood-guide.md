@@ -4,7 +4,8 @@ description: "The insider's guide to Kew East's different pockets, streets, and 
 date: 2026-03-21
 suburb: "kew-east"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "Kew East neighbourhood guide"
   - "best streets in Kew East"

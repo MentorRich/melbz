@@ -4,7 +4,8 @@ description: "The insider's guide to Springvale's different pockets, streets, an
 date: 2026-03-21
 suburb: "springvale"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Springvale neighbourhood guide"
   - "best streets in Springvale"

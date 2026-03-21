@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "clayton-south"
 article_type: "history"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Clayton South Melbourne history"
   - "how has Clayton South changed"

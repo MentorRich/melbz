@@ -6,6 +6,7 @@ cover_image: "/images/carlton/date-night.jpg"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Discover the best date night spots in Carlton. Our verified 2026 guide covers romantic restaurants, bars, and experiences for couples."

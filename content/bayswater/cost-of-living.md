@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bayswater"
 article_type: "cost-of-living"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "cost of living Bayswater Melbourne"
   - "how expensive is Bayswater"

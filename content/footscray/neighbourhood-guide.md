@@ -6,6 +6,7 @@ cover_image: "/images/footscray/neighbourhood-guide.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Your complete neighbourhood guide to living in Footscray. Our verified 2026 guide covers everything you need to know."

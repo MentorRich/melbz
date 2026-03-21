@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glenroy"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Glenroy Melbourne history"
   - "how has Glenroy changed"

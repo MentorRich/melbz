@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Narre Warren South retirees Melbourne"
   - "retiring in Narre Warren South"

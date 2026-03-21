@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill"
 article_type: "history"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Box Hill Melbourne history"
   - "how has Box Hill changed"

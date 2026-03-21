@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "newport"
 article_type: "history"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Newport Melbourne history"
   - "how has Newport changed"

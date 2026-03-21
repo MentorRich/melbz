@@ -3,6 +3,7 @@ title: "Rent Prices in Balaclava 2026"
 cover_image: "/images/balaclava/rent-prices.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 description: "Current rent prices in Balaclava. What it costs to live in Balaclava in 2026, from studio apartments to family homes."
 tags: ["balaclava", "rent-prices"]
 categories: ["rent"]

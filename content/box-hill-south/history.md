@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Box Hill South Melbourne history"
   - "how has Box Hill South changed"

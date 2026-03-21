@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "footscray"
 article_type: "nightlife"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "best bars Footscray"
   - "bars in Footscray Melbourne"

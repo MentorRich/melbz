@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "transport"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "public transport Cranbourne East Melbourne"
   - "commute from Cranbourne East to city"

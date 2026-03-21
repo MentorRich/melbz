@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "chadstone"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Chadstone Melbourne history"
   - "how has Chadstone changed"

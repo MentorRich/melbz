@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hampton"
 article_type: "property"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "buying in Hampton"
   - "Hampton property market"

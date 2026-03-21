@@ -3,6 +3,7 @@ title: "Moving to Melbourne CBD in 2026: The Newcomer's Survival Guide"
 cover_image: "/images/melbourne-cbd/new-to-cbd.jpg"
 date: 2026-03-16
 author: freya
+author_image: "/images/authors/freya.jpg"
 tags: ["melbourne-cbd", "newcomer", "lifestyle"]
 categories: ["lifestyle"]
 description: "Moving to Melbourne CBD in 2026: The Newcomer's Survival Guide"

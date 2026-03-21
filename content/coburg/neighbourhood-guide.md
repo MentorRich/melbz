@@ -6,6 +6,7 @@ cover_image: "/images/coburg/neighbourhood-guide.jpg"
 suburb: "coburg"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The complete neighbourhood guide to Coburg for 2026 — who lives here, what it costs, where to eat, and why people keep moving north."

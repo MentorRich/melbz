@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Gladstone Park good for families"
   - "Gladstone Park family friendly"

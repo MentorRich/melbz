@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "parkdale"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Parkdale retirees Melbourne"
   - "retiring in Parkdale"

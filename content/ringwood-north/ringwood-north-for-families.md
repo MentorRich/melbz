@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ringwood-north"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Ringwood North good for families"
   - "Ringwood North family friendly"

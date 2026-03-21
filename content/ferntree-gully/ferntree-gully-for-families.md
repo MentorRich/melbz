@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ferntree-gully"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Ferntree Gully good for families"
   - "Ferntree Gully family friendly"

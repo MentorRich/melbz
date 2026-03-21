@@ -4,7 +4,8 @@ description: "The insider's guide to North Melbourne's different pockets, street
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "North Melbourne neighbourhood guide"
   - "best streets in North Melbourne"

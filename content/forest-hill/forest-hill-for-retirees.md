@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "forest-hill"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Forest Hill retirees Melbourne"
   - "retiring in Forest Hill"

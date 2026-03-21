@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kew-east"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Kew East retirees Melbourne"
   - "retiring in Kew East"

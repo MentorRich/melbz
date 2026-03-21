@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "tarneit"
 article_type: "transport"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "public transport Tarneit Melbourne"
   - "commute from Tarneit to city"

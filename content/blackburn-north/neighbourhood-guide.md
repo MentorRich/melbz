@@ -4,7 +4,8 @@ description: "The insider's guide to Blackburn North's different pockets, street
 date: 2026-03-21
 suburb: "blackburn-north"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Blackburn North neighbourhood guide"
   - "best streets in Blackburn North"

@@ -6,6 +6,7 @@ cover_image: "/images/kensington/nightlife-guide.jpg"
 suburb: "kensington"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The complete Kensington nightlife guide for 2026 — from historic pubs to craft breweries, hidden cocktail bars, and the suburb's emerging evening scene."

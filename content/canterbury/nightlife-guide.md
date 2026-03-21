@@ -3,6 +3,7 @@ title: "Canterbury Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/canterbury/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
+author_image: "/images/authors/lina.jpg"
 tags: ["canterbury", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Canterbury Nightlife Guide 2026: Pubs, Bars & Local Spots"

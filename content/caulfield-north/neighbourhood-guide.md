@@ -4,7 +4,8 @@ description: "The insider's guide to Caulfield North's different pockets, street
 date: 2026-03-21
 suburb: "caulfield-north"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Caulfield North neighbourhood guide"
   - "best streets in Caulfield North"

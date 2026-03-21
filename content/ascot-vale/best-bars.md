@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ascot-vale"
 article_type: "nightlife"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "best bars Ascot Vale"
   - "bars in Ascot Vale Melbourne"

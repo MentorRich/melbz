@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ascot-vale"
 article_type: "local-guide"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "hidden gems Ascot Vale"
   - "secret spots Ascot Vale"

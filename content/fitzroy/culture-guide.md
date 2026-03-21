@@ -3,6 +3,7 @@ title: "Fitzroy Culture Guide 2026: Galleries, Street Art, and the Creative Hear
 cover_image: "/images/fitzroy/culture-guide.jpg"
 date: 2026-03-16
 author: aisha
+author_image: "/images/authors/aisha.jpg"
 tags: ["fitzroy", "culture", "art"]
 categories: ["culture"]
 description: "Fitzroy doesn't just have culture – it is culture. In 2026, this inner-northeast Melbourne suburb continues to pulse with raw creative energy, where century-old warehouses rub shoulders with cutting-edge galleries."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "heidelberg-heights"
 article_type: "retirees"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Heidelberg Heights retirees Melbourne"
   - "retiring in Heidelberg Heights"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "abbotsford"
 article_type: "retirees"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Abbotsford retirees Melbourne"
   - "retiring in Abbotsford"

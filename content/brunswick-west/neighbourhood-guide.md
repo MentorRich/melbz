@@ -4,7 +4,8 @@ description: "The insider's guide to Brunswick West's different pockets, streets
 date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Brunswick West neighbourhood guide"
   - "best streets in Brunswick West"

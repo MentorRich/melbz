@@ -3,6 +3,7 @@ title: "Late Night Food in Abbotsford 2026: Where to Eat After 10pm"
 cover_image: "/images/abbotsford/late-night-food.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["abbotsford", "late-night-food", "lifestyle"]
 categories: ["lifestyle"]
 description: "Late Night Food in Abbotsford 2026: Where to Eat After 10pm"

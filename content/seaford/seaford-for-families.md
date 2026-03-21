@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seaford"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Seaford good for families"
   - "Seaford family friendly"

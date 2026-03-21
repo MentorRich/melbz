@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "footscray"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Footscray Melbourne history"
   - "how has Footscray changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "williams-landing"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Williams Landing Melbourne history"
   - "how has Williams Landing changed"

@@ -62,7 +62,7 @@
  
  &amp;lt;div class=&amp;quot;form-group&amp;quot;&amp;gt;
  &amp;lt;label for=&amp;quot;email&amp;quot;&amp;gt;Your email (for magic links)&amp;lt;/label&amp;gt;
- &amp;lt;input type=&amp;quot;email&amp;quot; id=&amp;quot;email&amp;quot; name=&amp;quot;email&amp;quot; placeholder=&amp;quot;you@example.com&amp;quot; required&amp;gt;
+ &amp;lt;input type=&amp;quot;email&amp;quot; id=&amp;quot;email&amp;quot; name=&amp;quot;email&amp;quot; placeholder=&amp;quot;hq@melbz101&amp;quot; required&amp;gt;
  &amp;lt;span class=&amp;quot;hint&amp;quot;&amp;gt;We'll send you a magic link to sign in — no passwords yet&amp;lt;/span&amp;gt;
  &amp;lt;/div&amp;gt;
  

@@ -3,6 +3,7 @@ title: "Footscray Honest Guide 2026: The Real West Side"
 cover_image: "/images/footscray/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["footscray", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Footscray Honest Guide 2026: The Real West Side"

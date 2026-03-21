@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick"
 article_type: "property"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "buying in Brunswick"
   - "Brunswick property market"

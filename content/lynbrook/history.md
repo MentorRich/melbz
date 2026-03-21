@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lynbrook"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Lynbrook Melbourne history"
   - "how has Lynbrook changed"

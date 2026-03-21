@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Mount Waverley Melbourne"
   - "commute from Mount Waverley to city"

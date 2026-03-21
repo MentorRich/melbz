@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "the-basin"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport The Basin Melbourne"
   - "commute from The Basin to city"

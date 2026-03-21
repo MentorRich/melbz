@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "northcote"
 article_type: "retirees"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Northcote retirees Melbourne"
   - "retiring in Northcote"

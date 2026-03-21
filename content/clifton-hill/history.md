@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Clifton Hill Melbourne history"
   - "how has Clifton Hill changed"

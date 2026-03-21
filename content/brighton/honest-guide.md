@@ -3,6 +3,7 @@ title: "Brighton Honest Guide 2026: Church Street & The Beach Boxes"
 cover_image: "/images/brighton/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["brighton", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Brighton Honest Guide 2026: Church Street & The Beach Boxes"

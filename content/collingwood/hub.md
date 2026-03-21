@@ -3,6 +3,7 @@ title: "Collingwood Hub Page"
 cover_image: "/images/collingwood/hub.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 description: "Your complete guide to Collingwood. Food, nightlife, property, transport, and things to do — everything you need to know."
 tags: ["collingwood", "hub"]
 categories: ["general"]

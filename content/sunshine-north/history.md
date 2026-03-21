@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sunshine-north"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Sunshine North Melbourne history"
   - "how has Sunshine North changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Upper Ferntree Gully good for families"
   - "Upper Ferntree Gully family friendly"

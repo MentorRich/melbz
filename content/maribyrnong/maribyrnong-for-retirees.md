@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "maribyrnong"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Maribyrnong retirees Melbourne"
   - "retiring in Maribyrnong"

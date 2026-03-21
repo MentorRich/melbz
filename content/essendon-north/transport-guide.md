@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "essendon-north"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Essendon North Melbourne"
   - "commute from Essendon North to city"

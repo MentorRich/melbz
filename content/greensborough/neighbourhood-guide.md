@@ -4,7 +4,8 @@ description: "The insider's guide to Greensborough's different pockets, streets,
 date: 2026-03-21
 suburb: "greensborough"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Greensborough neighbourhood guide"
   - "best streets in Greensborough"

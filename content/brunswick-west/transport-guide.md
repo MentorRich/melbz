@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Brunswick West Melbourne"
   - "commute from Brunswick West to city"

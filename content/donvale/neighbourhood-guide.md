@@ -4,7 +4,8 @@ description: "The insider's guide to Donvale's different pockets, streets, and a
 date: 2026-03-21
 suburb: "donvale"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Donvale neighbourhood guide"
   - "best streets in Donvale"

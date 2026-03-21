@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "thornbury"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Thornbury Melbourne history"
   - "how has Thornbury changed"

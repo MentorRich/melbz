@@ -4,7 +4,8 @@ description: "The insider's guide to Edithvale's different pockets, streets, and
 date: 2026-03-21
 suburb: "edithvale"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Edithvale neighbourhood guide"
   - "best streets in Edithvale"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "forest-hill"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Forest Hill good for families"
   - "Forest Hill family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "thornbury"
 article_type: "activities"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "things to do Thornbury"
   - "Thornbury activities"

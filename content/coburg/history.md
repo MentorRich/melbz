@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "coburg"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Coburg Melbourne history"
   - "how has Coburg changed"

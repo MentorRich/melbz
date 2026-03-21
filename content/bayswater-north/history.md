@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bayswater-north"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Bayswater North Melbourne history"
   - "how has Bayswater North changed"

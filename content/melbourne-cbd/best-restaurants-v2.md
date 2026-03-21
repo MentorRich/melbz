@@ -3,6 +3,7 @@ title: "Best Restaurants in Melbourne CBD 2026: Laneways & Fine Dining"
 cover_image: "/images/melbourne-cbd/best-restaurants-v2.jpg"
 date: 2026-03-16
 author: jules
+author_image: "/images/authors/jules.jpg"
 tags: ["melbourne-cbd", "restaurants", "food"]
 categories: ["food"]
 description: "Best Restaurants in Melbourne CBD 2026: Laneways & Fine Dining"

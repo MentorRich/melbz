@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "elsternwick"
 article_type: "nightlife"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "best bars Elsternwick"
   - "bars in Elsternwick Melbourne"

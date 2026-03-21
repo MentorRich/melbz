@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "docklands"
 article_type: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "dog friendly Docklands"
   - "off leash park Docklands"

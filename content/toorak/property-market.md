@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "toorak"
 article_type: "property"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "buying in Toorak"
   - "Toorak property market"

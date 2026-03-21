@@ -3,6 +3,7 @@ title: "Prahran Food Crawl 2026: Market to Chapel Street"
 cover_image: "/images/prahran/food-crawl.jpg"
 date: 2026-03-16
 author: tyler
+author_image: "/images/authors/tyler.jpg"
 tags: ["prahran", "food-crawl", "food"]
 categories: ["food"]
 description: "Prahran Food Crawl 2026: Market to Chapel Street"

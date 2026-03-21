@@ -4,6 +4,7 @@ description: "Melbourne Grand Prix guide: which suburbs are closest to Albert Pa
 date: 2026-03-21
 article_type: "trending"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "melbourne grand prix 2026"
   - "f1 melbourne where to stay"

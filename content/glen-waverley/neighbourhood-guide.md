@@ -4,7 +4,8 @@ description: "The insider's guide to Glen Waverley's different pockets, streets,
 date: 2026-03-21
 suburb: "glen-waverley"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "Glen Waverley neighbourhood guide"
   - "best streets in Glen Waverley"

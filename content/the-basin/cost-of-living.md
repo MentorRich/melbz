@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "the-basin"
 article_type: "cost-of-living"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "cost of living The Basin Melbourne"
   - "how expensive is The Basin"

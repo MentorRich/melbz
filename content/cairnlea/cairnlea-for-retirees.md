@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cairnlea"
 article_type: "retirees"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Cairnlea retirees Melbourne"
   - "retiring in Cairnlea"

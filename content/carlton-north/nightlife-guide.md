@@ -3,6 +3,7 @@ title: "Carlton North Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/carlton-north/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
+author_image: "/images/authors/lina.jpg"
 tags: ["carlton-north", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Carlton North Nightlife Guide 2026: Pubs, Bars & Local Spots"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "strathmore-heights"
 article_type: "transport"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "public transport Strathmore Heights Melbourne"
   - "commute from Strathmore Heights to city"

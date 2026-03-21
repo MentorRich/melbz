@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton-north"
 article_type: "weekend"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "what to do Carlton North this weekend"
   - "Carlton North weekend"

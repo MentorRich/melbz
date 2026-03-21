@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "thornbury"
 article_type: "property"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "buying in Thornbury"
   - "Thornbury property market"

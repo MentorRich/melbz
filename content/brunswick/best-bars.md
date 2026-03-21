@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick"
 article_type: "nightlife"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "best bars Brunswick"
   - "bars in Brunswick Melbourne"

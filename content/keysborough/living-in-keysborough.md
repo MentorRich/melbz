@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keysborough"
 article_type: "living-in"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "living in Keysborough Melbourne"
   - "pros and cons of living in Keysborough"

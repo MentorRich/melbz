@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bellfield"
 article_type: "cost-of-living"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "cost of living Bellfield Melbourne"
   - "how expensive is Bellfield"

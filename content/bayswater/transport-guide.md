@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bayswater"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Bayswater Melbourne"
   - "commute from Bayswater to city"

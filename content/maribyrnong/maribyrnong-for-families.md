@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "maribyrnong"
 article_type: "families"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "is Maribyrnong good for families"
   - "Maribyrnong family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "berwick"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Berwick Melbourne history"
   - "how has Berwick changed"

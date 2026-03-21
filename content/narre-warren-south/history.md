@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Narre Warren South Melbourne history"
   - "how has Narre Warren South changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "princes-hill"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Princes Hill retirees Melbourne"
   - "retiring in Princes Hill"

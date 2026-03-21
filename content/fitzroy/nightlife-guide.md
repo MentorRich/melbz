@@ -6,6 +6,7 @@ cover_image: "/images/fitzroy/nightlife-guide.jpg"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the nightlife in Fitzroy. Our verified 2026 guide covers the best spots for locals."

@@ -4,7 +4,8 @@ description: "The insider's guide to Mernda's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "mernda"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Mernda neighbourhood guide"
   - "best streets in Mernda"

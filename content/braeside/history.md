@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "braeside"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Braeside Melbourne history"
   - "how has Braeside changed"

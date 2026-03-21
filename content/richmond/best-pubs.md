@@ -3,6 +3,7 @@ title: "Best Pubs in Richmond 2026: Punt Road to Church Street"
 cover_image: "/images/richmond/best-pubs.jpg"
 date: 2026-03-16
 author: kai
+author_image: "/images/authors/kai.jpg"
 tags: ["richmond", "pubs", "nightlife"]
 categories: ["nightlife"]
 description: "Best Pubs in Richmond 2026: Punt Road to Church Street"

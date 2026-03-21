@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Oakleigh South good for families"
   - "Oakleigh South family friendly"

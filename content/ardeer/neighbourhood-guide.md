@@ -4,7 +4,8 @@ description: "The insider's guide to Ardeer's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "ardeer"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Ardeer neighbourhood guide"
   - "best streets in Ardeer"

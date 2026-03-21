@@ -4,7 +4,8 @@ description: "The insider's guide to Pakenham's different pockets, streets, and 
 date: 2026-03-21
 suburb: "pakenham"
 article_type: "neighbourhood"
-author: "dani" 
+author: "dani"
+author_image: "/images/authors/dani.jpg" 
 keywords:
   - "Pakenham neighbourhood guide"
   - "best streets in Pakenham"

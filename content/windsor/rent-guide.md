@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "windsor"
 article_type: "housing"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "renting in Windsor"
   - "Windsor rental market"

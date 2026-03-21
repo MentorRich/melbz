@@ -4,7 +4,8 @@ description: "The insider's guide to Noble Park North's different pockets, stree
 date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Noble Park North neighbourhood guide"
   - "best streets in Noble Park North"

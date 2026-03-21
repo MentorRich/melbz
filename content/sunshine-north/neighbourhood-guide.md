@@ -4,7 +4,8 @@ description: "The insider's guide to Sunshine North's different pockets, streets
 date: 2026-03-21
 suburb: "sunshine-north"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Sunshine North neighbourhood guide"
   - "best streets in Sunshine North"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Upper Ferntree Gully retirees Melbourne"
   - "retiring in Upper Ferntree Gully"

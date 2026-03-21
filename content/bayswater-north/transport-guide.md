@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bayswater-north"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Bayswater North Melbourne"
   - "commute from Bayswater North to city"

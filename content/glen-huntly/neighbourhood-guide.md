@@ -4,7 +4,8 @@ description: "The insider's guide to Glen Huntly's different pockets, streets, a
 date: 2026-03-21
 suburb: "glen-huntly"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Glen Huntly neighbourhood guide"
   - "best streets in Glen Huntly"

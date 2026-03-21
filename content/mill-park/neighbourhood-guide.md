@@ -4,7 +4,8 @@ description: "The insider's guide to Mill Park's different pockets, streets, and
 date: 2026-03-21
 suburb: "mill-park"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Mill Park neighbourhood guide"
   - "best streets in Mill Park"

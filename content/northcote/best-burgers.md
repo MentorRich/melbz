@@ -3,6 +3,7 @@ title: "Best Burgers in Northcote 2026: The Definitive Rankings"
 cover_image: "/images/northcote/best-burgers.jpg"
 date: 2026-03-16
 author: adam
+author_image: "/images/authors/adam.jpg"
 tags: ["northcote", "burgers", "food"]
 categories: ["food"]
 description: "Best Burgers in Northcote 2026: The Definitive Rankings"

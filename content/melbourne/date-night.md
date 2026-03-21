@@ -6,6 +6,7 @@ cover_image: "/images/melbourne/date-night.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Date night in Melbourne that doesn't suck. Real restaurants, real bars, real walking routes. From $30 meals to splurges worth the money."

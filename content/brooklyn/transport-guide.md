@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brooklyn"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Brooklyn Melbourne"
   - "commute from Brooklyn to city"

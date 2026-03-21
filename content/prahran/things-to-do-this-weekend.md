@@ -6,6 +6,7 @@ cover_image: "/images/prahran/things-to-do-this-weekend.jpg"
 suburb: "prahran"
 vertical: "lifestyle"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the things to do this weekend in Prahran. Our verified 2026 guide covers the best spots for locals."

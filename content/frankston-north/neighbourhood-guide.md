@@ -4,7 +4,8 @@ description: "The insider's guide to Frankston North's different pockets, street
 date: 2026-03-21
 suburb: "frankston-north"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Frankston North neighbourhood guide"
   - "best streets in Frankston North"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "forest-hill"
 article_type: "living-in"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "living in Forest Hill Melbourne"
   - "pros and cons of living in Forest Hill"

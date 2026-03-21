@@ -6,6 +6,7 @@ cover_image: "/images/brunswick-east/nightlife-guide.jpg"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Brunswick East isn't Fitzroy, and it doesn't try to be. Here's your honest guide to drinking, dancing, and getting home safe in Melbourne's most underrated nightlife suburb."

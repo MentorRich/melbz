@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "footscray"
 article_type: "activities"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "things to do Footscray"
   - "Footscray activities"

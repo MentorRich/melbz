@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carrum-downs"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Carrum Downs retirees Melbourne"
   - "retiring in Carrum Downs"

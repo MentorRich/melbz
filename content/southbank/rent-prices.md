@@ -3,6 +3,7 @@ title: "Rent Prices in Southbank 2026"
 cover_image: "/images/southbank/rent-prices.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["southbank", "rent-prices"]
 categories: ["rent"]
 description: "Rent Prices in Southbank 2026"

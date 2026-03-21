@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wyndham-vale"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Wyndham Vale Melbourne history"
   - "how has Wyndham Vale changed"

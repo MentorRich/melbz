@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "collingwood"
 article_type: "best-of"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "best restaurants Collingwood"
   - "where to eat Collingwood"

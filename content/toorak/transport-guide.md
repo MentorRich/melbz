@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "toorak"
 article_type: "transport"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "public transport Toorak Melbourne"
   - "commute from Toorak to city"

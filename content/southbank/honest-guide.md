@@ -3,6 +3,7 @@ title: "Southbank Honest Guide 2026: Arts Precinct & Apartment Living"
 cover_image: "https://images.pexels.com/photos/34785891/pexels-photo-34785891.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["southbank", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Southbank Honest Guide 2026: Arts Precinct & Apartment Living"

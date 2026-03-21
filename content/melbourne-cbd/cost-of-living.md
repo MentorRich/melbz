@@ -3,6 +3,7 @@ title: "Cost of Living in Melbourne CBD 2026: What It Actually Costs"
 cover_image: "/images/melbourne-cbd/cost-of-living.jpg"
 date: 2026-03-16
 author: freya
+author_image: "/images/authors/freya.jpg"
 tags: ["melbourne-cbd", "cost-of-living", "property"]
 categories: ["property"]
 description: "Cost of Living in Melbourne CBD 2026: What It Actually Costs"

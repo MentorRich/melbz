@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bulleen"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Bulleen Melbourne"
   - "commute from Bulleen to city"

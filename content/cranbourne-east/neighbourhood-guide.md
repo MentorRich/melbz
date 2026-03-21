@@ -4,7 +4,8 @@ description: "The insider's guide to Cranbourne East's different pockets, street
 date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Cranbourne East neighbourhood guide"
   - "best streets in Cranbourne East"

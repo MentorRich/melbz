@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "huntingdale"
 article_type: "families"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Huntingdale good for families"
   - "Huntingdale family friendly"

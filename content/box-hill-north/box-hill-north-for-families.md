@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill-north"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Box Hill North good for families"
   - "Box Hill North family friendly"

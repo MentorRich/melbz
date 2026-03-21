@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kew"
 article_type: "activities"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "things to do Kew"
   - "Kew activities"

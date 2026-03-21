@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wantirna"
 article_type: "living-in"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "living in Wantirna Melbourne"
   - "pros and cons of living in Wantirna"

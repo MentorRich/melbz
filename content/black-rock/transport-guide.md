@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "black-rock"
 article_type: "transport"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "public transport Black Rock Melbourne"
   - "commute from Black Rock to city"

@@ -4,7 +4,8 @@ description: "The insider's guide to Tullamarine's different pockets, streets, a
 date: 2026-03-21
 suburb: "tullamarine"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Tullamarine neighbourhood guide"
   - "best streets in Tullamarine"

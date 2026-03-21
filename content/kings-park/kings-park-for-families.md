@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kings-park"
 article_type: "families"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "is Kings Park good for families"
   - "Kings Park family friendly"

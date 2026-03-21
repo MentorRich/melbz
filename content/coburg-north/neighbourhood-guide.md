@@ -4,7 +4,8 @@ description: "The insider's guide to Coburg North's different pockets, streets, 
 date: 2026-03-21
 suburb: "coburg-north"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Coburg North neighbourhood guide"
   - "best streets in Coburg North"

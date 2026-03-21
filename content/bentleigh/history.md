@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bentleigh"
 article_type: "history"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Bentleigh Melbourne history"
   - "how has Bentleigh changed"

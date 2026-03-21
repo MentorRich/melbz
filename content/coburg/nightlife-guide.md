@@ -6,6 +6,7 @@ cover_image: "/images/coburg/nightlife-guide.jpg"
 suburb: "coburg"
 vertical: "nightlife"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The complete nightlife guide to Coburg for 2026 — best pubs, bars, late-night spots, and what happens when Sydney Road goes dark."

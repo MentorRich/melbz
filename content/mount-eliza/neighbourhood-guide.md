@@ -4,7 +4,8 @@ description: "The insider's guide to Mount Eliza's different pockets, streets, a
 date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Mount Eliza neighbourhood guide"
   - "best streets in Mount Eliza"

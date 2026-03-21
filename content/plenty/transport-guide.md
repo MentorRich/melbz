@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "plenty"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Plenty Melbourne"
   - "commute from Plenty to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mckinnon"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "McKinnon Melbourne history"
   - "how has McKinnon changed"

@@ -3,6 +3,7 @@ title: "Late Night Food in St Kilda 2026: After the Pier Closes"
 cover_image: "/images/st-kilda/late-night-food.jpg"
 date: 2026-03-16
 author: ethan
+author_image: "/images/authors/ethan.jpg"
 tags: ["st-kilda", "late-night", "food"]
 categories: ["food"]
 description: "Late Night Food in St Kilda 2026: After the Pier Closes"

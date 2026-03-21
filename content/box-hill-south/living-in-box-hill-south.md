@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "living-in"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "living in Box Hill South Melbourne"
   - "pros and cons of living in Box Hill South"

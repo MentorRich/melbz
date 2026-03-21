@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kew-east"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Kew East Melbourne history"
   - "how has Kew East changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon"
 article_type: "cost-of-living"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "cost of living Croydon Melbourne"
   - "how expensive is Croydon"

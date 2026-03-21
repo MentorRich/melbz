@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mont-albert"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Mont Albert retirees Melbourne"
   - "retiring in Mont Albert"

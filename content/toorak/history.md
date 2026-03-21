@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "toorak"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Toorak Melbourne history"
   - "how has Toorak changed"

@@ -4,7 +4,8 @@ description: "The insider's guide to Kingsville's different pockets, streets, an
 date: 2026-03-21
 suburb: "kingsville"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Kingsville neighbourhood guide"
   - "best streets in Kingsville"

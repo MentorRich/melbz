@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "beaconsfield"
 article_type: "transport"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "public transport Beaconsfield Melbourne"
   - "commute from Beaconsfield to city"

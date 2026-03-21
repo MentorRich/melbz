@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "living-in"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "living in Oakleigh South Melbourne"
   - "pros and cons of living in Oakleigh South"

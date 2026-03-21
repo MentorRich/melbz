@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hoppers-crossing"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Hoppers Crossing Melbourne history"
   - "how has Hoppers Crossing changed"

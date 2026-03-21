@@ -4,7 +4,8 @@ description: "The insider's guide to Bentleigh's different pockets, streets, and
 date: 2026-03-21
 suburb: "bentleigh"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Bentleigh neighbourhood guide"
   - "best streets in Bentleigh"

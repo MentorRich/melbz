@@ -4,7 +4,8 @@ description: "The insider's guide to Caroline Springs's different pockets, stree
 date: 2026-03-21
 suburb: "caroline-springs"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Caroline Springs neighbourhood guide"
   - "best streets in Caroline Springs"

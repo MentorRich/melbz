@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "narre-warren-north"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Narre Warren North retirees Melbourne"
   - "retiring in Narre Warren North"

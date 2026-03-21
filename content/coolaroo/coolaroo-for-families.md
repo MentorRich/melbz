@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "coolaroo"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Coolaroo good for families"
   - "Coolaroo family friendly"

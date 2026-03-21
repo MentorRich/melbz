@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "frankston-south"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Frankston South Melbourne history"
   - "how has Frankston South changed"

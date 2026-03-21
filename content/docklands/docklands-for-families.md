@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "docklands"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Docklands good for families"
   - "Docklands family friendly"

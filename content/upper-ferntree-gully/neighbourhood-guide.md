@@ -4,7 +4,8 @@ description: "The insider's guide to Upper Ferntree Gully's different pockets, s
 date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Upper Ferntree Gully neighbourhood guide"
   - "best streets in Upper Ferntree Gully"

@@ -4,7 +4,8 @@ description: "The insider's guide to Bentleigh East's different pockets, streets
 date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Bentleigh East neighbourhood guide"
   - "best streets in Bentleigh East"

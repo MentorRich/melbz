@@ -3,6 +3,7 @@ title: "Balaclava Honest Guide 2026: Carlisle Street & Real Opinions"
 cover_image: "/images/balaclava/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["balaclava", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Balaclava Honest Guide 2026: Carlisle Street & Real Opinions"

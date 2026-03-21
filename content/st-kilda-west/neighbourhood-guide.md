@@ -4,7 +4,8 @@ description: "The insider's guide to St Kilda West's different pockets, streets,
 date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "St Kilda West neighbourhood guide"
   - "best streets in St Kilda West"

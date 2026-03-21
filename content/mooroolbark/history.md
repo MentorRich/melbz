@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mooroolbark"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Mooroolbark Melbourne history"
   - "how has Mooroolbark changed"

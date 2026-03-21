@@ -4,7 +4,8 @@ description: "The insider's guide to South Morang's different pockets, streets, 
 date: 2026-03-21
 suburb: "south-morang"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "South Morang neighbourhood guide"
   - "best streets in South Morang"

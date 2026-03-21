@@ -3,6 +3,7 @@ title: "Melbourne Transport Guide 2026: Trains, Trams, and Getting Around"
 cover_image: "https://images.pexels.com/photos/5579769/pexels-photo-5579769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-03-16
 author: sam
+author_image: "/images/authors/sam.jpg"
 tags: ["melbourne", "transport", "trams", "trains"]
 categories: ["lifestyle"]
 description: "Melbourne Transport Guide 2026: Trains, Trams, and Getting Around"

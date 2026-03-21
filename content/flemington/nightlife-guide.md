@@ -3,6 +3,7 @@ title: "Flemington Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/flemington/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
+author_image: "/images/authors/lina.jpg"
 tags: ["flemington", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Flemington Nightlife Guide 2026: Pubs, Bars & Local Spots"

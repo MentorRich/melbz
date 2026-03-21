@@ -4,7 +4,8 @@ description: "The insider's guide to Box Hill's different pockets, streets, and 
 date: 2026-03-21
 suburb: "box-hill"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Box Hill neighbourhood guide"
   - "best streets in Box Hill"

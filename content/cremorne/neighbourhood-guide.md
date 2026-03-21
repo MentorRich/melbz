@@ -6,6 +6,7 @@ cover_image: "/images/cremorne/neighbourhood-guide.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Cremorne is Melbourne's most confusing suburb with the best coffee. This is your guide to the real identity of 3121."

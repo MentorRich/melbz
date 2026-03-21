@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Cranbourne West Melbourne history"
   - "how has Cranbourne West changed"

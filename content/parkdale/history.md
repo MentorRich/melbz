@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "parkdale"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Parkdale Melbourne history"
   - "how has Parkdale changed"

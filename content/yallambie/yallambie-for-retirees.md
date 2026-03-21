@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "yallambie"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Yallambie retirees Melbourne"
   - "retiring in Yallambie"

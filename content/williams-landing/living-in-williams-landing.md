@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "williams-landing"
 article_type: "living-in"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "living in Williams Landing Melbourne"
   - "pros and cons of living in Williams Landing"

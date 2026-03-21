@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "camberwell"
 article_type: "activities"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "things to do Camberwell"
   - "Camberwell activities"

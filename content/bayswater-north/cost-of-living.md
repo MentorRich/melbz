@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bayswater-north"
 article_type: "cost-of-living"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "cost of living Bayswater North Melbourne"
   - "how expensive is Bayswater North"

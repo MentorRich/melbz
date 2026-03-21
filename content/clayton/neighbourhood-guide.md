@@ -4,7 +4,8 @@ description: "The insider's guide to Clayton's different pockets, streets, and a
 date: 2026-03-21
 suburb: "clayton"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Clayton neighbourhood guide"
   - "best streets in Clayton"

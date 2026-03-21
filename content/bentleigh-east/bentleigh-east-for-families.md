@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Bentleigh East good for families"
   - "Bentleigh East family friendly"

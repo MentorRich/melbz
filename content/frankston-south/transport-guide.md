@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "frankston-south"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Frankston South Melbourne"
   - "commute from Frankston South to city"

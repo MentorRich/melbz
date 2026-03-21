@@ -3,6 +3,7 @@ title: "Cost of Living in Collingwood 2026"
 cover_image: "/images/collingwood/cost-of-living.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 description: "The real cost of living in Collingwood. Rent, food, transport, and everyday expenses — what you need to budget for."
 tags: ["collingwood", "cost-of-living"]
 categories: ["cost"]

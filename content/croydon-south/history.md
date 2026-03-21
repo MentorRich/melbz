@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon-south"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Croydon South Melbourne history"
   - "how has Croydon South changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carrum-downs"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Carrum Downs good for families"
   - "Carrum Downs family friendly"

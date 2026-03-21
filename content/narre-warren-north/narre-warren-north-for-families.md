@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "narre-warren-north"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Narre Warren North good for families"
   - "Narre Warren North family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ascot-vale"
 article_type: "property"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "buying in Ascot Vale"
   - "Ascot Vale property market"

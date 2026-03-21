@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "cost-of-living"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "cost of living Heidelberg West Melbourne"
   - "how expensive is Heidelberg West"

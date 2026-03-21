@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield-north"
 article_type: "cost-of-living"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "cost of living Caulfield North Melbourne"
   - "how expensive is Caulfield North"

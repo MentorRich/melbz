@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "coburg-north"
 article_type: "retirees"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Coburg North retirees Melbourne"
   - "retiring in Coburg North"

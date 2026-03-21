@@ -4,7 +4,8 @@ description: "The insider's guide to McKinnon's different pockets, streets, and 
 date: 2026-03-21
 suburb: "mckinnon"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "McKinnon neighbourhood guide"
   - "best streets in McKinnon"

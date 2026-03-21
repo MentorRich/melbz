@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Noble Park North Melbourne"
   - "commute from Noble Park North to city"

@@ -4,6 +4,7 @@ description: "Melbourne's cafe culture is world-famous. Which suburbs do it best
 date: 2026-03-21
 article_type: "trending"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "best coffee suburbs melbourne"
   - "cafe culture melbourne"

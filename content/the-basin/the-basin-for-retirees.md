@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "the-basin"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "The Basin retirees Melbourne"
   - "retiring in The Basin"

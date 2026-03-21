@@ -4,7 +4,8 @@ description: "The insider's guide to Cranbourne North's different pockets, stree
 date: 2026-03-21
 suburb: "cranbourne-north"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Cranbourne North neighbourhood guide"
   - "best streets in Cranbourne North"

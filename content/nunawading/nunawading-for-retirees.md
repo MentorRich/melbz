@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "nunawading"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Nunawading retirees Melbourne"
   - "retiring in Nunawading"

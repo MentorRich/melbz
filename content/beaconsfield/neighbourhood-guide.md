@@ -4,7 +4,8 @@ description: "The insider's guide to Beaconsfield's different pockets, streets, 
 date: 2026-03-21
 suburb: "beaconsfield"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Beaconsfield neighbourhood guide"
   - "best streets in Beaconsfield"

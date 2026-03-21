@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "families"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Wantirna South good for families"
   - "Wantirna South family friendly"

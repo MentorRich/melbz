@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caroline-springs"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Caroline Springs Melbourne history"
   - "how has Caroline Springs changed"

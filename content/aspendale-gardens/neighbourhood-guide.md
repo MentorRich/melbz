@@ -4,7 +4,8 @@ description: "The insider's guide to Aspendale Gardens's different pockets, stre
 date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "Aspendale Gardens neighbourhood guide"
   - "best streets in Aspendale Gardens"

@@ -4,7 +4,8 @@ description: "The insider's guide to Hallam's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "hallam"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Hallam neighbourhood guide"
   - "best streets in Hallam"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seddon"
 article_type: "safety"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Seddon safe"
   - "Seddon safety"

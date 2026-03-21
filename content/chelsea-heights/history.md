@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Chelsea Heights Melbourne history"
   - "how has Chelsea Heights changed"

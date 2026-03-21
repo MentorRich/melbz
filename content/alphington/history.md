@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "alphington"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Alphington Melbourne history"
   - "how has Alphington changed"

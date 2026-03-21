@@ -4,7 +4,8 @@ description: "The insider's guide to Spotswood's different pockets, streets, and
 date: 2026-03-21
 suburb: "spotswood"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Spotswood neighbourhood guide"
   - "best streets in Spotswood"

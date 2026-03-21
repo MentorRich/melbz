@@ -4,6 +4,7 @@ description: "Your summer in Melbourne sorted. Beach suburbs, rooftop bars, outd
 date: 2026-03-21
 article_type: "trending"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "melbourne summer 2026"
   - "beach suburbs melbourne"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "St Kilda Melbourne history"
   - "how has St Kilda changed"

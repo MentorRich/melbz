@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cheltenham"
 article_type: "safety"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Cheltenham safe"
   - "Cheltenham safety"

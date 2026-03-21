@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "maidstone"
 article_type: "living-in"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "living in Maidstone Melbourne"
   - "pros and cons of living in Maidstone"

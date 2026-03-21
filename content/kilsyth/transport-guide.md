@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kilsyth"
 article_type: "transport"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "public transport Kilsyth Melbourne"
   - "commute from Kilsyth to city"

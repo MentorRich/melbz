@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "pascoe-vale-south"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Pascoe Vale South retirees Melbourne"
   - "retiring in Pascoe Vale South"

@@ -6,6 +6,7 @@ cover_image: "/images/cremorne/cheap-eats.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "omar"
+author_image: "/images/authors/omar.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Cremorne has a reputation for tech-bro spending. Here's the truth: you can eat very well in 3121 for under $20."

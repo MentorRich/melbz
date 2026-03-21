@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kingsville"
 article_type: "families"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Kingsville good for families"
   - "Kingsville family friendly"

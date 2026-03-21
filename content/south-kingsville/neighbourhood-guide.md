@@ -4,7 +4,8 @@ description: "The insider's guide to South Kingsville's different pockets, stree
 date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "South Kingsville neighbourhood guide"
   - "best streets in South Kingsville"

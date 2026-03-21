@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "retirees"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Mount Eliza retirees Melbourne"
   - "retiring in Mount Eliza"

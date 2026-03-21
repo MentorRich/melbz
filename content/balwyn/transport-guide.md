@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "balwyn"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Balwyn Melbourne"
   - "commute from Balwyn to city"

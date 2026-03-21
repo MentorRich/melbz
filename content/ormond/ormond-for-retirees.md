@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ormond"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Ormond retirees Melbourne"
   - "retiring in Ormond"

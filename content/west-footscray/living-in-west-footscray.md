@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "west-footscray"
 article_type: "living-in"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "living in West Footscray Melbourne"
   - "pros and cons of living in West Footscray"

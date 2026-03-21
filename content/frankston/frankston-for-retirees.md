@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "frankston"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Frankston retirees Melbourne"
   - "retiring in Frankston"

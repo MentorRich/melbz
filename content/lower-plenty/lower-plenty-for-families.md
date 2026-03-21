@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "families"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Lower Plenty good for families"
   - "Lower Plenty family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "balaclava"
 article_type: "best-of"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "best restaurants Balaclava"
   - "where to eat Balaclava"

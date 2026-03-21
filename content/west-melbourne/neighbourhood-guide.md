@@ -4,7 +4,8 @@ description: "The insider's guide to West Melbourne's different pockets, streets
 date: 2026-03-21
 suburb: "west-melbourne"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "West Melbourne neighbourhood guide"
   - "best streets in West Melbourne"

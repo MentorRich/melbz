@@ -4,7 +4,8 @@ description: "The insider's guide to Hoppers Crossing's different pockets, stree
 date: 2026-03-21
 suburb: "hoppers-crossing"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Hoppers Crossing neighbourhood guide"
   - "best streets in Hoppers Crossing"

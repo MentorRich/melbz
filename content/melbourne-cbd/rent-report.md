@@ -3,6 +3,7 @@ title: "Rent Prices in Melbourne CBD 2026: What You'll Actually Pay"
 cover_image: "/images/melbourne-cbd/rent-report.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["melbourne-cbd", "rent", "property"]
 categories: ["property"]
 description: "Rent Prices in Melbourne CBD 2026: What You'll Actually Pay"

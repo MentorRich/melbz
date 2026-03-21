@@ -3,6 +3,7 @@ title: "Collingwood: The Complete Suburb Profile 2026"
 cover_image: "/images/collingwood/hub-page.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["collingwood", "suburb-profile", "hub"]
 categories: ["editorial"]
 description: "Collingwood: The Complete Suburb Profile 2026"

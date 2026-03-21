@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "burwood"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Burwood good for families"
   - "Burwood family friendly"

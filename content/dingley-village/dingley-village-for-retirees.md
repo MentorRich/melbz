@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dingley-village"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Dingley Village retirees Melbourne"
   - "retiring in Dingley Village"

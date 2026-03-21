@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dandenong-north"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Dandenong North Melbourne"
   - "commute from Dandenong North to city"

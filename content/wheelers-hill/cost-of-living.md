@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wheelers-hill"
 article_type: "cost-of-living"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "cost of living Wheelers Hill Melbourne"
   - "how expensive is Wheelers Hill"

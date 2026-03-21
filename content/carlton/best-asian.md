@@ -3,6 +3,7 @@ title: "The $14 Laksa in Carlton That's Making Locals Lose Their Minds"
 cover_image: "/images/carlton/best-asian.jpg"
 date: 2026-03-16
 author: mei
+author_image: "/images/authors/tyler.jpg"
 tags: ["carlton", "asian", "food"]
 categories: ["food"]
 description: "The $14 Laksa in Carlton That's Making Locals Lose Their Minds"

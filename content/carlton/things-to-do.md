@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton"
 article_type: "activities"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "things to do Carlton"
   - "Carlton activities"

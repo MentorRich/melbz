@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carrum"
 article_type: "history"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Carrum Melbourne history"
   - "how has Carrum changed"

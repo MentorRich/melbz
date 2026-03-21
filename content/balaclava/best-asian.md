@@ -3,6 +3,7 @@ title: "Best Asian Food in Balaclava: From Pho to Ramen"
 cover_image: "/images/balaclava/best-asian.jpg"
 date: 2026-03-18
 author: nina
+author_image: "/images/authors/nina.jpg"
 description: "From Vietnamese pho to Japanese ramen, Chinese dumplings to Thai curries — the best Asian restaurants in Balaclava."
 tags: ["balaclava", "best-asian"]
 categories: ["best"]

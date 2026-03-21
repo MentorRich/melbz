@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "thomastown"
 article_type: "families"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "is Thomastown good for families"
   - "Thomastown family friendly"

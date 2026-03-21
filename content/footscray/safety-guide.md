@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "footscray"
 article_type: "safety"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Footscray safe"
   - "Footscray safety"

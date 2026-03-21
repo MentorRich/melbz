@@ -3,6 +3,7 @@ title: "Melbourne CBD Honest Guide 2026: What Nobody Tells You"
 cover_image: "/images/melbourne-cbd/honest-guide.jpg"
 date: 2026-03-16
 author: tyler
+author_image: "/images/authors/tyler.jpg"
 tags: ["melbourne-cbd", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Melbourne CBD Honest Guide 2026: What Nobody Tells You"

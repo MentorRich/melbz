@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fitzroy-north"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Fitzroy North retirees Melbourne"
   - "retiring in Fitzroy North"

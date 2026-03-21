@@ -3,6 +3,7 @@ title: "Best Cafes in South Melbourne 2026: Where to Get Your Fix"
 cover_image: "/images/south-melbourne/best-cafes-2026.jpg"
 date: 2026-03-16
 author: eli
+author_image: "/images/authors/ines.jpg"
 tags: ["south-melbourne", "cafes", "food"]
 categories: ["food"]
 description: "Best Cafes in South Melbourne 2026: Where to Get Your Fix"

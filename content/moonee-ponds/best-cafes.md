@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "best-of"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "best cafes Moonee Ponds"
   - "coffee Moonee Ponds Melbourne"

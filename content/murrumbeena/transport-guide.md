@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "murrumbeena"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Murrumbeena Melbourne"
   - "commute from Murrumbeena to city"

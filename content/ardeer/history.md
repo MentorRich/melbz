@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ardeer"
 article_type: "history"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Ardeer Melbourne history"
   - "how has Ardeer changed"

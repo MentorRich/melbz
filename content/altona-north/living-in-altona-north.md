@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "altona-north"
 article_type: "living-in"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "living in Altona North Melbourne"
   - "pros and cons of living in Altona North"

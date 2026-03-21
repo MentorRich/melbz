@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Heidelberg West retirees Melbourne"
   - "retiring in Heidelberg West"

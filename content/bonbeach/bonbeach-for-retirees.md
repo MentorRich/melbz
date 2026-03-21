@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bonbeach"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Bonbeach retirees Melbourne"
   - "retiring in Bonbeach"

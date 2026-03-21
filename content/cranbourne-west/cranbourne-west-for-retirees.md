@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Cranbourne West retirees Melbourne"
   - "retiring in Cranbourne West"

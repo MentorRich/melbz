@@ -3,6 +3,7 @@ title: "Best Asian Food in Brunswick 2026: Sydney Road & Beyond"
 cover_image: "/images/brunswick/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
+author_image: "/images/authors/yuki.jpg"
 tags: ["brunswick", "asian", "food"]
 categories: ["food"]
 description: "Best Asian Food in Brunswick 2026: Sydney Road & Beyond"

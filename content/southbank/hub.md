@@ -3,6 +3,7 @@ title: "Southbank Hub Page"
 cover_image: "/images/southbank/hub.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["southbank", "hub"]
 categories: ["general"]
 description: "Southbank Hub Page"

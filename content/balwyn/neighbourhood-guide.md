@@ -4,7 +4,8 @@ description: "The insider's guide to Balwyn's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Balwyn neighbourhood guide"
   - "best streets in Balwyn"

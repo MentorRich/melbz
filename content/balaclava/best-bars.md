@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "balaclava"
 article_type: "nightlife"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "best bars Balaclava"
   - "bars in Balaclava Melbourne"

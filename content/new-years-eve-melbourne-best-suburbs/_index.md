@@ -4,6 +4,7 @@ description: "Where to ring in the new year in Melbourne. Fireworks views, bar r
 date: 2026-03-21
 article_type: "trending"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "nye melbourne 2026"
   - "new years eve melbourne"

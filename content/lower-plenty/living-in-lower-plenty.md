@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "living-in"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "living in Lower Plenty Melbourne"
   - "pros and cons of living in Lower Plenty"

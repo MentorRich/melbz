@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "tarneit"
 article_type: "cost-of-living"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "cost of living Tarneit Melbourne"
   - "how expensive is Tarneit"

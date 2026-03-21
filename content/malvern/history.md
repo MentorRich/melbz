@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "malvern"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Malvern Melbourne history"
   - "how has Malvern changed"

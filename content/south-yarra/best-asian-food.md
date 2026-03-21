@@ -3,6 +3,7 @@ title: "Best Asian Food in South Yarra 2026: Chapel Street Eats"
 cover_image: "/images/south-yarra/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
+author_image: "/images/authors/yuki.jpg"
 tags: ["south-yarra", "asian", "food"]
 categories: ["food"]
 description: "Best Asian Food in South Yarra 2026: Chapel Street Eats."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "taylors-lakes"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Taylors Lakes good for families"
   - "Taylors Lakes family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "narre-warren"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Narre Warren good for families"
   - "Narre Warren family friendly"

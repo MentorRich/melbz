@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Mont Albert North retirees Melbourne"
   - "retiring in Mont Albert North"

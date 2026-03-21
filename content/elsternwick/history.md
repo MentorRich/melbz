@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "elsternwick"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Elsternwick Melbourne history"
   - "how has Elsternwick changed"

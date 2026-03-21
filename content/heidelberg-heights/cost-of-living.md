@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "heidelberg-heights"
 article_type: "cost-of-living"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "cost of living Heidelberg Heights Melbourne"
   - "how expensive is Heidelberg Heights"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "balwyn"
 article_type: "lifestyle"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "dog friendly Balwyn"
   - "off leash park Balwyn"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "moorabbin"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Moorabbin Melbourne"
   - "commute from Moorabbin to city"

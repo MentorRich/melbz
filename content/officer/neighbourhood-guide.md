@@ -4,7 +4,8 @@ description: "The insider's guide to Officer's different pockets, streets, and a
 date: 2026-03-21
 suburb: "officer"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "Officer neighbourhood guide"
   - "best streets in Officer"

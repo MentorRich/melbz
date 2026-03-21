@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "prahran"
 article_type: "weekend"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "what to do Prahran this weekend"
   - "Prahran weekend"

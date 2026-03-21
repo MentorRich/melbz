@@ -6,6 +6,7 @@ cover_image: "/images/coburg/cheap-eats.jpg"
 suburb: "coburg"
 vertical: "food"
 author: "omar"
+author_image: "/images/authors/omar.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The best cheap eats in Coburg for 2026 — 8 verified spots under $15 on Sydney Road and beyond. Kebabs, dumplings, falafel, and bakery steals."

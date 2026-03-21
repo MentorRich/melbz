@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "chadstone"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Chadstone retirees Melbourne"
   - "retiring in Chadstone"

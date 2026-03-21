@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dingley-village"
 article_type: "transport"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "public transport Dingley Village Melbourne"
   - "commute from Dingley Village to city"

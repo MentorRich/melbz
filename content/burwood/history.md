@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "burwood"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Burwood Melbourne history"
   - "how has Burwood changed"

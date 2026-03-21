@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caroline-springs"
 article_type: "families"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "is Caroline Springs good for families"
   - "Caroline Springs family friendly"

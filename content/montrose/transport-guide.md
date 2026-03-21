@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "montrose"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Montrose Melbourne"
   - "commute from Montrose to city"

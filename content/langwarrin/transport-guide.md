@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "langwarrin"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Langwarrin Melbourne"
   - "commute from Langwarrin to city"

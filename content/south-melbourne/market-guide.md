@@ -3,6 +3,7 @@ title: "South Melbourne Market Honest Guide 2026: Worth the Hype?"
 cover_image: "/images/south-melbourne/market-guide.jpg"
 date: 2026-03-16
 author: tyler
+author_image: "/images/authors/tyler.jpg"
 tags: ["south-melbourne", "market", "lifestyle"]
 categories: ["lifestyle"]
 description: "South Melbourne Market Honest Guide 2026: Worth the Hype?"

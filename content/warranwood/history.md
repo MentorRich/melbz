@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "warranwood"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Warranwood Melbourne history"
   - "how has Warranwood changed"

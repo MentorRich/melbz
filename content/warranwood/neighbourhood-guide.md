@@ -4,7 +4,8 @@ description: "The insider's guide to Warranwood's different pockets, streets, an
 date: 2026-03-21
 suburb: "warranwood"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Warranwood neighbourhood guide"
   - "best streets in Warranwood"

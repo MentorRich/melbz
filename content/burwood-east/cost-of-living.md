@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "burwood-east"
 article_type: "cost-of-living"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "cost of living Burwood East Melbourne"
   - "how expensive is Burwood East"

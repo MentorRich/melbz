@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keilor"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Keilor retirees Melbourne"
   - "retiring in Keilor"

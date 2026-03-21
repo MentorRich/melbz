@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "gardenvale"
 article_type: "living-in"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "living in Gardenvale Melbourne"
   - "pros and cons of living in Gardenvale"

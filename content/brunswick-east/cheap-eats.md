@@ -3,6 +3,7 @@ title: "Cheap Eats Under $20 in Brunswick East 2026"
 cover_image: "/images/brunswick-east/cheap-eats.jpg"
 date: 2026-03-16
 author: adam
+author_image: "/images/authors/adam.jpg"
 tags: ["brunswick-east", "cheap-eats", "food"]
 categories: ["food"]
 description: "Cheap Eats Under $20 in Brunswick East 2026"

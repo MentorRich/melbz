@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "berwick"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Berwick retirees Melbourne"
   - "retiring in Berwick"

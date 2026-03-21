@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "albion"
 article_type: "profile"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Albion Melbourne"
   - "what is Albion like"
@@ -52,7 +53,7 @@ Quick version: you can get to the city reasonably easy. The tram and train netwo
 
 ## Eating and Drinking in Albion
 
-The food scene in Albion reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and enough variety to keep things interesting without needing to leave the suburb every time you want a decent meal.
+The food scene in Albion reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and more going on than most outsiders realise without needing to leave the suburb every time you want a decent meal.
 
 Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
 

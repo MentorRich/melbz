@@ -4,7 +4,8 @@ description: "The insider's guide to Diamond Creek's different pockets, streets,
 date: 2026-03-21
 suburb: "diamond-creek"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Diamond Creek neighbourhood guide"
   - "best streets in Diamond Creek"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "retirees"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Roxburgh Park retirees Melbourne"
   - "retiring in Roxburgh Park"

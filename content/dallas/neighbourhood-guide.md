@@ -4,7 +4,8 @@ description: "The insider's guide to Dallas's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "dallas"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Dallas neighbourhood guide"
   - "best streets in Dallas"

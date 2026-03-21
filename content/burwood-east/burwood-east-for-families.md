@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "burwood-east"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Burwood East good for families"
   - "Burwood East family friendly"

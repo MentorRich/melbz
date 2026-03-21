@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Cranbourne West Melbourne"
   - "commute from Cranbourne West to city"

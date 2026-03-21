@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "park-orchards"
 article_type: "living-in"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "living in Park Orchards Melbourne"
   - "pros and cons of living in Park Orchards"

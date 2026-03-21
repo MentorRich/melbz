@@ -6,6 +6,7 @@ cover_image: "/images/thornbury/date-night.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Thornbury's best date night spots in 2026 — from rooftop Negronis to pizza and cocktails. Real romance without the city price tag."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Moonee Ponds Melbourne history"
   - "how has Moonee Ponds changed"

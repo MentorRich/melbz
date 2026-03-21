@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-yarra"
 article_type: "best-of"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "best restaurants South Yarra"
   - "where to eat South Yarra"

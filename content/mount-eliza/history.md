@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "history"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Mount Eliza Melbourne history"
   - "how has Mount Eliza changed"

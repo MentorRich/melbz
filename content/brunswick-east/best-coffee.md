@@ -6,6 +6,7 @@ cover_image: "/images/brunswick-east/best-coffee.jpg"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Brunswick East's coffee scene is quietly elite. Here are the 8 spots worth your Myki detour — from on-site roasters to warehouse sourdough temples."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lilydale"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Lilydale Melbourne history"
   - "how has Lilydale changed"

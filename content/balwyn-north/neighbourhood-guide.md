@@ -4,7 +4,8 @@ description: "The insider's guide to Balwyn North's different pockets, streets, 
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Balwyn North neighbourhood guide"
   - "best streets in Balwyn North"

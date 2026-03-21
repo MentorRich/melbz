@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "parkville"
 article_type: "retirees"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Parkville retirees Melbourne"
   - "retiring in Parkville"

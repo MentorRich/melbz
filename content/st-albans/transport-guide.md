@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-albans"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport St Albans Melbourne"
   - "commute from St Albans to city"

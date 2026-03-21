@@ -4,7 +4,8 @@ description: "The insider's guide to The Basin's different pockets, streets, and
 date: 2026-03-21
 suburb: "the-basin"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "The Basin neighbourhood guide"
   - "best streets in The Basin"

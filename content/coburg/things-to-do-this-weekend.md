@@ -6,6 +6,7 @@ cover_image: "/images/coburg/things-to-do-this-weekend.jpg"
 suburb: "coburg"
 vertical: "lifestyle"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The best things to do this weekend in Coburg for 2026 — events, markets, parks, and local picks. Saturday and Sunday sorted."

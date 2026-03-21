@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Croydon good for families"
   - "Croydon family friendly"

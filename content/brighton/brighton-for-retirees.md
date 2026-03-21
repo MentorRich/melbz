@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brighton"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Brighton retirees Melbourne"
   - "retiring in Brighton"

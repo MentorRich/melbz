@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield-east"
 article_type: "retirees"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Caulfield East retirees Melbourne"
   - "retiring in Caulfield East"

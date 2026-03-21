@@ -4,7 +4,8 @@ description: "The insider's guide to Macleod's different pockets, streets, and a
 date: 2026-03-21
 suburb: "macleod"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Macleod neighbourhood guide"
   - "best streets in Macleod"

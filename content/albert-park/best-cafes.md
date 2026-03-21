@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "albert-park"
 article_type: "best-of"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "best cafes Albert Park"
   - "coffee Albert Park Melbourne"

@@ -6,6 +6,7 @@ cover_image: "/images/brunswick/things-to-do-this-weekend.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Your honest weekend guide to Brunswick. Live music at The Retreat, Saturday morning markets, Sydney Road strolling and everything in between."

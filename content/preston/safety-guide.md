@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "preston"
 article_type: "safety"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "is Preston safe"
   - "Preston safety"

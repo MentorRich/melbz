@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "preston"
 article_type: "weekend"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "what to do Preston this weekend"
   - "Preston weekend"

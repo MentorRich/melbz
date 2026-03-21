@@ -4,7 +4,8 @@ description: "The insider's guide to Lower Templestowe's different pockets, stre
 date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Lower Templestowe neighbourhood guide"
   - "best streets in Lower Templestowe"

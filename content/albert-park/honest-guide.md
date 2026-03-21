@@ -3,6 +3,7 @@ title: "Albert Park Honest Guide 2026: The Lake & The Village"
 cover_image: "/images/albert-park/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["albert-park", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Albert Park Honest Guide 2026: The Lake & The Village"

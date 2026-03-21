@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield-north"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Caulfield North good for families"
   - "Caulfield North family friendly"

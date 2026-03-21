@@ -6,6 +6,7 @@ cover_image: "/images/footscray/best-pubs.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The definitive guide to Footscray's best pubs in 2026. Corner locals, live music dens, and the steak pub that's worth the drive from anywhere in Melbourne."

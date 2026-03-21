@@ -3,6 +3,7 @@ title: "New Openings in Southbank 2026"
 cover_image: "/images/southbank/new-openings.jpg"
 date: 2026-03-18
 author: priya
+author_image: "/images/authors/priya.jpg"
 tags: ["southbank", "new-openings"]
 categories: ["new"]
 description: "New Openings in Southbank 2026"

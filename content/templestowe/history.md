@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "templestowe"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Templestowe Melbourne history"
   - "how has Templestowe changed"

@@ -4,7 +4,8 @@ description: "The insider's guide to Thomastown's different pockets, streets, an
 date: 2026-03-21
 suburb: "thomastown"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Thomastown neighbourhood guide"
   - "best streets in Thomastown"

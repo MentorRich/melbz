@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Chelsea Heights retirees Melbourne"
   - "retiring in Chelsea Heights"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Wattle Glen Melbourne"
   - "commute from Wattle Glen to city"

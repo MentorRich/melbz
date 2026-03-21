@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill-north"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Box Hill North Melbourne history"
   - "how has Box Hill North changed"

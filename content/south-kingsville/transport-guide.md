@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport South Kingsville Melbourne"
   - "commute from South Kingsville to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "elwood"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Elwood retirees Melbourne"
   - "retiring in Elwood"

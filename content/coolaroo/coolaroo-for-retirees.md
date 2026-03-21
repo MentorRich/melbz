@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "coolaroo"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Coolaroo retirees Melbourne"
   - "retiring in Coolaroo"

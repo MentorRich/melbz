@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton-north"
 article_type: "property"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "buying in Carlton North"
   - "Carlton North property market"

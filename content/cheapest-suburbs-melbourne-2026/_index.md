@@ -4,6 +4,7 @@ description: "Where can you still find affordable rent in Melbourne? The suburbs
 date: 2026-03-21
 article_type: "trending"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "cheapest suburbs melbourne rent"
   - "affordable suburbs melbourne 2026"

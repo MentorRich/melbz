@@ -6,6 +6,7 @@ cover_image: "/images/collingwood/best-pubs.jpg"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The 8 best pubs in Collingwood for 2026 — from historic corner locals to brewery taprooms and the rooms where Melbourne's live music still breathes."

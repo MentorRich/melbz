@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kingsville"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Kingsville Melbourne history"
   - "how has Kingsville changed"

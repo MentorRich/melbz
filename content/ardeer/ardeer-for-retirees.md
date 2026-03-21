@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ardeer"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Ardeer retirees Melbourne"
   - "retiring in Ardeer"

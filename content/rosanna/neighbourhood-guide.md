@@ -4,7 +4,8 @@ description: "The insider's guide to Rosanna's different pockets, streets, and a
 date: 2026-03-21
 suburb: "rosanna"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Rosanna neighbourhood guide"
   - "best streets in Rosanna"

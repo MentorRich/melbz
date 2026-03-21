@@ -4,7 +4,8 @@ description: "The insider's guide to Eltham's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "eltham"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "Eltham neighbourhood guide"
   - "best streets in Eltham"

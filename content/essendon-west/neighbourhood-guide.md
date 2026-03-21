@@ -4,7 +4,8 @@ description: "The insider's guide to Essendon West's different pockets, streets,
 date: 2026-03-21
 suburb: "essendon-west"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Essendon West neighbourhood guide"
   - "best streets in Essendon West"

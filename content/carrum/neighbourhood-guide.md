@@ -4,7 +4,8 @@ description: "The insider's guide to Carrum's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "carrum"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Carrum neighbourhood guide"
   - "best streets in Carrum"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "best-of"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "best restaurants Port Melbourne"
   - "where to eat Port Melbourne"

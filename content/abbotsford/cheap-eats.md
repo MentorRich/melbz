@@ -3,6 +3,7 @@ title: "Cheap Eats in Abbotsford 2026: Budget-Friendly Spots Under 0"
 cover_image: "/images/abbotsford/cheap-eats.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["abbotsford", "cheap-eats", "lifestyle"]
 categories: ["lifestyle"]
 description: "Cheap Eats in Abbotsford 2026: Budget-Friendly Spots Under 0"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carrum-downs"
 article_type: "cost-of-living"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "cost of living Carrum Downs Melbourne"
   - "how expensive is Carrum Downs"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "skye"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Skye good for families"
   - "Skye family friendly"

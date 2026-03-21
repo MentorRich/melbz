@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "heathmont"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Heathmont Melbourne history"
   - "how has Heathmont changed"

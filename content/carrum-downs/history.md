@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carrum-downs"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Carrum Downs Melbourne history"
   - "how has Carrum Downs changed"

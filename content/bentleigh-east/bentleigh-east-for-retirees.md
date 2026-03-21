@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Bentleigh East retirees Melbourne"
   - "retiring in Bentleigh East"

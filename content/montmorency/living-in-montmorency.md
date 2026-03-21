@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "montmorency"
 article_type: "living-in"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "living in Montmorency Melbourne"
   - "pros and cons of living in Montmorency"

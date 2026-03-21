@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "noble-park"
 article_type: "cost-of-living"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "cost of living Noble Park Melbourne"
   - "how expensive is Noble Park"

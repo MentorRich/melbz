@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-albans"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "St Albans retirees Melbourne"
   - "retiring in St Albans"

@@ -3,6 +3,7 @@ title: "Heidelberg Honest Guide 2026: Burgundy Street & Real Opinions"
 cover_image: "/images/heidelberg/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["heidelberg", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Heidelberg Honest Guide 2026: Burgundy Street & Real Opinions"

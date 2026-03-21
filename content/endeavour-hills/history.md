@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "endeavour-hills"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Endeavour Hills Melbourne history"
   - "how has Endeavour Hills changed"

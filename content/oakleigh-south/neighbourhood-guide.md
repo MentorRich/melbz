@@ -4,7 +4,8 @@ description: "The insider's guide to Oakleigh South's different pockets, streets
 date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "Oakleigh South neighbourhood guide"
   - "best streets in Oakleigh South"

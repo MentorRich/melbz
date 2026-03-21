@@ -5,6 +5,7 @@ date: 2026-03-17
 
 updated: 2026-03-17
 author: "Priya Sandhu"
+author_image: "/images/authors/priya.jpg"
 suburb: "southbank"
 vertical: "food"
 tags: ["brunch", "breakfast", "southbank", "melbourne", "weekend"]

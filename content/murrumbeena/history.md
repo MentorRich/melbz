@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "murrumbeena"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Murrumbeena Melbourne history"
   - "how has Murrumbeena changed"

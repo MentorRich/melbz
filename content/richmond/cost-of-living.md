@@ -3,6 +3,7 @@ title: "Richmond Cost of Living 2026: Real Prices, Real Talk"
 cover_image: "/images/richmond/cost-of-living.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["richmond", "cost-of-living", "property"]
 categories: ["property"]
 description: "Richmond Cost of Living 2026: Real Prices, Real Talk"

@@ -3,6 +3,7 @@ title: "Cheap Eats Under $20 in Melbourne CBD 2026"
 cover_image: "/images/melbourne-cbd/cheap-eats.jpg"
 date: 2026-03-16
 author: adam
+author_image: "/images/authors/adam.jpg"
 tags: ["melbourne-cbd", "cheap-eats", "food"]
 categories: ["food"]
 description: "Cheap Eats Under $20 in Melbourne CBD 2026"

@@ -3,6 +3,7 @@ title: "Moonee Ponds Honest Guide 2026: Puckle Street & The Real Deal"
 cover_image: "/images/moonee-ponds/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["moonee-ponds", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Moonee Ponds Honest Guide 2026: Puckle Street & The Real Deal"

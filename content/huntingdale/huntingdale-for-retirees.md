@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "huntingdale"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Huntingdale retirees Melbourne"
   - "retiring in Huntingdale"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is South Kingsville good for families"
   - "South Kingsville family friendly"

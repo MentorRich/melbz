@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "braybrook"
 article_type: "transport"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "public transport Braybrook Melbourne"
   - "commute from Braybrook to city"

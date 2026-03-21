@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "vermont"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Vermont good for families"
   - "Vermont family friendly"

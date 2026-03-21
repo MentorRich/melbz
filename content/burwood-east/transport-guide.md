@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "burwood-east"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Burwood East Melbourne"
   - "commute from Burwood East to city"

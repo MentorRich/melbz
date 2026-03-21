@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "cost-of-living"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "cost of living Narre Warren South Melbourne"
   - "how expensive is Narre Warren South"

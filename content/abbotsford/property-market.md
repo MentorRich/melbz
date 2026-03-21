@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "abbotsford"
 article_type: "property"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "buying in Abbotsford"
   - "Abbotsford property market"

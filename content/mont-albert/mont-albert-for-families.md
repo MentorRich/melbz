@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mont-albert"
 article_type: "families"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "is Mont Albert good for families"
   - "Mont Albert family friendly"

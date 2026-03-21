@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fitzroy-north"
 article_type: "local-guide"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "hidden gems Fitzroy North"
   - "secret spots Fitzroy North"

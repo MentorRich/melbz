@@ -6,6 +6,7 @@ cover_image: "/images/balaclava/neighbourhood-guide.jpg"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the neighbourhood guide to Balaclava. Our verified 2026 guide covers the best spots for locals."

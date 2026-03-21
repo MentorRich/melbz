@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "west-footscray"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is West Footscray good for families"
   - "West Footscray family friendly"

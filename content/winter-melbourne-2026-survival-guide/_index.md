@@ -4,6 +4,7 @@ description: "Melbourne winters are cold and grey. Which suburbs make it bearabl
 date: 2026-03-21
 article_type: "trending"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "melbourne winter guide"
   - "surviving winter melbourne"

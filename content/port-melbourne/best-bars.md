@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "nightlife"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "best bars Port Melbourne"
   - "bars in Port Melbourne Melbourne"

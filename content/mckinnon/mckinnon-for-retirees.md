@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mckinnon"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "McKinnon retirees Melbourne"
   - "retiring in McKinnon"

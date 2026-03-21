@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Oakleigh South retirees Melbourne"
   - "retiring in Oakleigh South"

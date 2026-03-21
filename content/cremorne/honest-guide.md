@@ -3,6 +3,7 @@ title: "Cremorne Honest Guide 2026: Church Street Corporate Cool"
 cover_image: "/images/cremorne/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["cremorne", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Cremorne Honest Guide 2026: Church Street & Corporate Cool"

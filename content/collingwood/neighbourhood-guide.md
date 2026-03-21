@@ -6,6 +6,7 @@ cover_image: "/images/collingwood/neighbourhood-guide.jpg"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The complete Collingwood neighbourhood guide for 2026 — streets, housing, transport, parks, schools, food, and the real story of living in Melbourne's grittiest inner-north suburb."

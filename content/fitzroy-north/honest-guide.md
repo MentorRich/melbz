@@ -3,6 +3,7 @@ title: "Fitzroy North Honest Guide 2026: Queens Parade & Side Streets"
 cover_image: "/images/fitzroy-north/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["fitzroy-north", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Fitzroy North Honest Guide 2026: Queens Parade & Side Streets"
@@ -112,7 +113,7 @@ Fitzroy North suits a specific type of person, and it's worth being honest about
 
 ## The Verdict
 
-Fitzroy North in 2026 is a suburb that's earned its reputation. It's not trying to be the coolest place in Melbourne — that ship sailed to Collingwood years ago. It's not trying to be the most affordable — that ship sailed to Preston and beyond. What it is, honestly, is a well-located, genuinely liveable inner-north suburb with good bones, real community, and enough variety to keep things interesting year after year.
+Fitzroy North in 2026 is a suburb that's earned its reputation. It's not trying to be the coolest place in Melbourne — that ship sailed to Collingwood years ago. It's not trying to be the most affordable — that ship sailed to Preston and beyond. What it is, honestly, is a well-located, genuinely liveable inner-north suburb with good bones, real community, and a constantly evolving dining and bar scene year after year.
 
 The tension between its heritage character and its gentrified present is what makes it dynamic, not broken. The Italian families, the creatives, the young professionals, the long-term renters — they all coexist here in a way that feels more organic than curated.
 

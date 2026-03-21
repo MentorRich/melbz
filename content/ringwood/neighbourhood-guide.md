@@ -4,7 +4,8 @@ description: "The insider's guide to Ringwood's different pockets, streets, and 
 date: 2026-03-21
 suburb: "ringwood"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Ringwood neighbourhood guide"
   - "best streets in Ringwood"

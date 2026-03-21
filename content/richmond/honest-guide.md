@@ -3,6 +3,7 @@ title: "Richmond Honest Guide 2026: Vietnamese Food & Football Culture"
 cover_image: "/images/richmond/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["richmond", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Richmond Honest Guide 2026: Vietnamese Food & Football Culture"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lalor"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Lalor retirees Melbourne"
   - "retiring in Lalor"

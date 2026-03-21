@@ -4,7 +4,8 @@ description: "The insider's guide to Ormond's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "ormond"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Ormond neighbourhood guide"
   - "best streets in Ormond"

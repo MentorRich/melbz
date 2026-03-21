@@ -6,6 +6,7 @@ cover_image: "/images/collingwood/best-coffee.jpg"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The 8 best coffee spots in Collingwood for 2026 — from world-ranked roasters to hole-in-the-wall legends on Smith Street."

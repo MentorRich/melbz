@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "moorabbin"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Moorabbin Melbourne history"
   - "how has Moorabbin changed"

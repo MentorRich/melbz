@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "clarinda"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Clarinda Melbourne history"
   - "how has Clarinda changed"

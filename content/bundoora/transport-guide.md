@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bundoora"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Bundoora Melbourne"
   - "commute from Bundoora to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mill-park"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Mill Park Melbourne history"
   - "how has Mill Park changed"

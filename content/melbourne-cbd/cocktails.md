@@ -3,6 +3,7 @@ title: "Best Cocktails in Melbourne CBD 2026: The Complete Guide"
 cover_image: "/images/melbourne-cbd/cocktails.jpg"
 date: 2026-03-16
 author: jess
+author_image: "/images/authors/jess.jpg"
 tags: ["melbourne-cbd", "cocktails", "bars"]
 categories: ["nightlife"]
 description: "Best Cocktails in Melbourne CBD 2026: The Complete Guide"

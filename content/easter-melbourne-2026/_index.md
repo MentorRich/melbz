@@ -4,6 +4,7 @@ description: "How to make the most of Easter in Melbourne. Events, markets, road
 date: 2026-03-21
 article_type: "trending"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "easter melbourne 2026"
   - "easter long weekend melbourne"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "princes-hill"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Princes Hill Melbourne history"
   - "how has Princes Hill changed"

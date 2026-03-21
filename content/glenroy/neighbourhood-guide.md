@@ -4,7 +4,8 @@ description: "The insider's guide to Glenroy's different pockets, streets, and a
 date: 2026-03-21
 suburb: "glenroy"
 article_type: "neighbourhood"
-author: "dani" 
+author: "dani"
+author_image: "/images/authors/dani.jpg" 
 keywords:
   - "Glenroy neighbourhood guide"
   - "best streets in Glenroy"

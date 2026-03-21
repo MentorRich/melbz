@@ -4,7 +4,8 @@ description: "The insider's guide to Fawkner's different pockets, streets, and a
 date: 2026-03-21
 suburb: "fawkner"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Fawkner neighbourhood guide"
   - "best streets in Fawkner"

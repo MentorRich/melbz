@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sandringham"
 article_type: "living-in"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "living in Sandringham Melbourne"
   - "pros and cons of living in Sandringham"

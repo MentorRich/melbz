@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "greensborough"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Greensborough Melbourne history"
   - "how has Greensborough changed"

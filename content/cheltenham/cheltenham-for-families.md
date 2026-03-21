@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cheltenham"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Cheltenham good for families"
   - "Cheltenham family friendly"

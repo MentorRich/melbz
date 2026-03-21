@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "tottenham"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Tottenham Melbourne"
   - "commute from Tottenham to city"

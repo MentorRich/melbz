@@ -4,7 +4,8 @@ description: "The insider's guide to Gardenvale's different pockets, streets, an
 date: 2026-03-21
 suburb: "gardenvale"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Gardenvale neighbourhood guide"
   - "best streets in Gardenvale"

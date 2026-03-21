@@ -3,6 +3,7 @@ title: "Cheap Eats in Balaclava 2026: Budget-Friendly Spots"
 cover_image: "/images/balaclava/cheap-eats.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["balaclava", "cheap-eats", "lifestyle"]
 categories: ["lifestyle"]
 description: "Cheap Eats in Balaclava 2026: Budget-Friendly Spots"

@@ -4,7 +4,8 @@ description: "The insider's guide to Vermont South's different pockets, streets,
 date: 2026-03-21
 suburb: "vermont-south"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Vermont South neighbourhood guide"
   - "best streets in Vermont South"

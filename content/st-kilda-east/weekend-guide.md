@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-east"
 article_type: "weekend"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "what to do St Kilda East this weekend"
   - "St Kilda East weekend"

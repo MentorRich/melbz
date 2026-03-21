@@ -3,6 +3,7 @@ title: "Ivanhoe Honest Guide 2026: Upper Heidelberg Road & Real Opinions"
 cover_image: "/images/ivanhoe/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["ivanhoe", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Ivanhoe Honest Guide 2026: Upper Heidelberg Road & Real Opinions"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "strathmore"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Strathmore Melbourne"
   - "commute from Strathmore to city"

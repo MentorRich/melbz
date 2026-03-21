@@ -6,6 +6,7 @@ cover_image: "/images/cremorne/best-brunch.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Cremorne has more brunch spots per square kilometre than anywhere in Melbourne. Here's where the 3121 crowd actually eats on weekends."

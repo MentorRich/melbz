@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Meadow Heights good for families"
   - "Meadow Heights family friendly"

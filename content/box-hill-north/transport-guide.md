@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill-north"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Box Hill North Melbourne"
   - "commute from Box Hill North to city"

@@ -3,6 +3,7 @@ title: "Brunswick East Honest Guide 2026: Lygon East & Real Opinions"
 cover_image: "/images/brunswick-east/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["brunswick-east", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Brunswick East Honest Guide 2026: Lygon East & Real Opinions"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "pascoe-vale-south"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Pascoe Vale South good for families"
   - "Pascoe Vale South family friendly"

@@ -4,7 +4,8 @@ description: "The insider's guide to Garden City's different pockets, streets, a
 date: 2026-03-21
 suburb: "garden-city"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Garden City neighbourhood guide"
   - "best streets in Garden City"

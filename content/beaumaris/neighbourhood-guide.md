@@ -4,7 +4,8 @@ description: "The insider's guide to Beaumaris's different pockets, streets, and
 date: 2026-03-21
 suburb: "beaumaris"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Beaumaris neighbourhood guide"
   - "best streets in Beaumaris"

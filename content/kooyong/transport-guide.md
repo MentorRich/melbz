@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kooyong"
 article_type: "transport"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "public transport Kooyong Melbourne"
   - "commute from Kooyong to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "nunawading"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Nunawading Melbourne history"
   - "how has Nunawading changed"

@@ -4,7 +4,8 @@ description: "The insider's guide to Cranbourne's different pockets, streets, an
 date: 2026-03-21
 suburb: "cranbourne"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "Cranbourne neighbourhood guide"
   - "best streets in Cranbourne"

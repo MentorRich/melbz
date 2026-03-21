@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "North Melbourne retirees Melbourne"
   - "retiring in North Melbourne"

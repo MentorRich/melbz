@@ -6,6 +6,7 @@ cover_image: "/images/carlton/new-openings.jpg"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Discover the new openings in Carlton. Our verified 2026 guide covers the latest restaurants, bars, and venues for locals."

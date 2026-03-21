@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kew"
 article_type: "local-guide"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "hidden gems Kew"
   - "secret spots Kew"

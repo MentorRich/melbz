@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-melbourne"
 article_type: "housing"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "renting in South Melbourne"
   - "South Melbourne rental market"

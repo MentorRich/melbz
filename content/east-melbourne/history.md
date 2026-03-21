@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "East Melbourne Melbourne history"
   - "how has East Melbourne changed"

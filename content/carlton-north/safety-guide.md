@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton-north"
 article_type: "safety"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Carlton North safe"
   - "Carlton North safety"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "reservoir"
 article_type: "local-guide"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "hidden gems Reservoir"
   - "secret spots Reservoir"

@@ -6,6 +6,7 @@ cover_image: "/images/melbourne/new-openings.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "New restaurant, bar, and café openings in Melbourne for March 2026. Real venues, real details, and whether they're worth your time."

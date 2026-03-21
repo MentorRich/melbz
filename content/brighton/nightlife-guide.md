@@ -6,6 +6,7 @@ cover_image: "/images/brighton/nightlife-guide.jpg"
 suburb: "brighton"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The complete Brighton nightlife guide for 2026 — from the famous Brighton Beach Boxes to local pubs, rooftop bars, and the Bay Street scene."

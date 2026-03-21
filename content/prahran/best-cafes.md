@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "prahran"
 article_type: "best-of"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "best cafes Prahran"
   - "coffee Prahran Melbourne"

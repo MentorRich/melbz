@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill"
 article_type: "nightlife"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "best bars Box Hill"
   - "bars in Box Hill Melbourne"

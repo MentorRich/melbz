@@ -3,6 +3,7 @@ title: "Hawthorn Honest Guide 2026: Leafy Streets & Private Schools"
 cover_image: "/images/hawthorn/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["hawthorn", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Hawthorn Honest Guide 2026: Leafy Streets & Private Schools"

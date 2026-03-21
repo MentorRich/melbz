@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "highett"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Highett Melbourne"
   - "commute from Highett to city"

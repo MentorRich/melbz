@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mulgrave"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Mulgrave retirees Melbourne"
   - "retiring in Mulgrave"

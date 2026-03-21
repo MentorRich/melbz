@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Box Hill retirees Melbourne"
   - "retiring in Box Hill"

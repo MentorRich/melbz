@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carrum"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Carrum good for families"
   - "Carrum family friendly"

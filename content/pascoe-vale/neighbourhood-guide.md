@@ -4,7 +4,8 @@ description: "The insider's guide to Pascoe Vale's different pockets, streets, a
 date: 2026-03-21
 suburb: "pascoe-vale"
 article_type: "neighbourhood"
-author: "dani" 
+author: "dani"
+author_image: "/images/authors/dani.jpg" 
 keywords:
   - "Pascoe Vale neighbourhood guide"
   - "best streets in Pascoe Vale"

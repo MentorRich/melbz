@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Caulfield South retirees Melbourne"
   - "retiring in Caulfield South"

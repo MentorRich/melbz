@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "taylors-lakes"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Taylors Lakes Melbourne history"
   - "how has Taylors Lakes changed"

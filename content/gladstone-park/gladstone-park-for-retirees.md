@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Gladstone Park retirees Melbourne"
   - "retiring in Gladstone Park"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "noble-park"
 article_type: "transport"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "public transport Noble Park Melbourne"
   - "commute from Noble Park to city"

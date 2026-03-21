@@ -4,7 +4,8 @@ description: "The insider's guide to Keilor Downs's different pockets, streets, 
 date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Keilor Downs neighbourhood guide"
   - "best streets in Keilor Downs"

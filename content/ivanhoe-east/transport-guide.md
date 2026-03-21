@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "transport"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "public transport Ivanhoe East Melbourne"
   - "commute from Ivanhoe East to city"

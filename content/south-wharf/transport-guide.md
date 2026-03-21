@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-wharf"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport South Wharf Melbourne"
   - "commute from South Wharf to city"

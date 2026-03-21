@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "surrey-hills"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Surrey Hills Melbourne"
   - "commute from Surrey Hills to city"

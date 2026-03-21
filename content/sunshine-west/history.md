@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sunshine-west"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Sunshine West Melbourne history"
   - "how has Sunshine West changed"

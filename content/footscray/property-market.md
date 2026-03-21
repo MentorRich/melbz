@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "footscray"
 article_type: "property"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "buying in Footscray"
   - "Footscray property market"

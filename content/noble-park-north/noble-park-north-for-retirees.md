@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Noble Park North retirees Melbourne"
   - "retiring in Noble Park North"

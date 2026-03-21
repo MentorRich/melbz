@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda"
 article_type: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "dog friendly St Kilda"
   - "off leash park St Kilda"

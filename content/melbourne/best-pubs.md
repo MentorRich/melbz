@@ -6,6 +6,7 @@ cover_image: "/images/melbourne/best-pubs.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best pubs in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually drink — from heritage hotels to craft beer dens."

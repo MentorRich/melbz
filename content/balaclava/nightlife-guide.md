@@ -6,6 +6,7 @@ cover_image: "/images/balaclava/nightlife-guide.jpg"
 suburb: "balaclava"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the nightlife guide in Balaclava. Our verified 2026 guide covers the best spots for locals."

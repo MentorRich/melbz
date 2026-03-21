@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "elsternwick"
 article_type: "housing"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "renting in Elsternwick"
   - "Elsternwick rental market"

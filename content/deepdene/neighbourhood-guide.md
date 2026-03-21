@@ -4,7 +4,8 @@ description: "The insider's guide to Deepdene's different pockets, streets, and 
 date: 2026-03-21
 suburb: "deepdene"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Deepdene neighbourhood guide"
   - "best streets in Deepdene"

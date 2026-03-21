@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Upper Ferntree Gully Melbourne history"
   - "how has Upper Ferntree Gully changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bentleigh"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Bentleigh retirees Melbourne"
   - "retiring in Bentleigh"

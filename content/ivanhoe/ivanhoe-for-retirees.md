@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ivanhoe"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Ivanhoe retirees Melbourne"
   - "retiring in Ivanhoe"

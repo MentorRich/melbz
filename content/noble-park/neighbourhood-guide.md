@@ -4,7 +4,8 @@ description: "The insider's guide to Noble Park's different pockets, streets, an
 date: 2026-03-21
 suburb: "noble-park"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Noble Park neighbourhood guide"
   - "best streets in Noble Park"

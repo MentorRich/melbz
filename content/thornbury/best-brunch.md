@@ -6,6 +6,7 @@ cover_image: "/images/thornbury/best-brunch.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Thornbury's best brunch spots in 2026 — from seasonal menus on High Street to organic sourdough on quiet backstreets. Real prices, real food."

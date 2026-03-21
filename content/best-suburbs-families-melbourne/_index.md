@@ -4,6 +4,7 @@ description: "Raising kids in Melbourne? The suburbs that actually deliver on sc
 date: 2026-03-21
 article_type: "trending"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "best suburbs families melbourne"
   - "family friendly suburbs melbourne"

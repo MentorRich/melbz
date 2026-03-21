@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "living-in"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "living in St Kilda West Melbourne"
   - "pros and cons of living in St Kilda West"

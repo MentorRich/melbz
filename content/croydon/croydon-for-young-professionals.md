@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon"
 article_type: "young-professionals"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Croydon young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
@@ -67,7 +68,7 @@ The age demographic skews towards your crowd in certain pockets. You won't feel 
 
 ## Verdict
 
-Croydon is a genuinely good option for young professionals who want a balanced Melbourne lifestyle — work access, social scene, and a neighbourhood with personality. It's not the cheapest option and it's not the flashiest. But it's real, it's got substance, and it won't bore you.
+Croydon is a attractive to first-time renters and buyers who want a balanced Melbourne lifestyle — work access, social scene, and a neighbourhood with personality. It's not the cheapest option and it's not the flashiest. But it's real, it's got substance, and it won't bore you.
 
 ---
 

@@ -3,6 +3,7 @@ title: "Carlton Nightlife Guide 2026 — Rooftop Drinks, Live Music & Late Night
 cover_image: "/images/carlton/nightlife-guide.jpg"
 date: 2026-03-17
 author: "Ethan"
+author_image: "/images/authors/ethan.jpg"
 suburb: "carlton"
 vertical: "lifestyle"
 ---

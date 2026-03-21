@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "deepdene"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Deepdene good for families"
   - "Deepdene family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "aberfeldie"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Aberfeldie retirees Melbourne"
   - "retiring in Aberfeldie"

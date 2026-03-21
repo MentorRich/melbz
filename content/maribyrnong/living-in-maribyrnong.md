@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "maribyrnong"
 article_type: "living-in"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "living in Maribyrnong Melbourne"
   - "pros and cons of living in Maribyrnong"

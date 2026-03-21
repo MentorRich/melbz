@@ -4,7 +4,8 @@ description: "The insider's guide to Hurstbridge's different pockets, streets, a
 date: 2026-03-21
 suburb: "hurstbridge"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Hurstbridge neighbourhood guide"
   - "best streets in Hurstbridge"

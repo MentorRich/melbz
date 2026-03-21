@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "williams-landing"
 article_type: "cost-of-living"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "cost of living Williams Landing Melbourne"
   - "how expensive is Williams Landing"

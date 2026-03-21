@@ -6,6 +6,7 @@ cover_image: "/images/carlton/best-coffee.jpg"
 suburb: "carlton"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The definitive guide to the best coffee in Carlton for 2026. From Seven Seeds to hidden laneway spots — real venues, real prices, real opinions."

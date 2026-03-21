@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "housing"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "renting in Moonee Ponds"
   - "Moonee Ponds rental market"

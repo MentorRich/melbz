@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "living-in"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "living in Upper Ferntree Gully Melbourne"
   - "pros and cons of living in Upper Ferntree Gully"

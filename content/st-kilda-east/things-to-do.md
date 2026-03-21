@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-east"
 article_type: "activities"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "things to do St Kilda East"
   - "St Kilda East activities"

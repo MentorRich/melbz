@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "garden-city"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Garden City retirees Melbourne"
   - "retiring in Garden City"

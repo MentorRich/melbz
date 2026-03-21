@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "North Melbourne Melbourne history"
   - "how has North Melbourne changed"

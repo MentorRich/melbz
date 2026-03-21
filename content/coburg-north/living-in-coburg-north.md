@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "coburg-north"
 article_type: "living-in"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "living in Coburg North Melbourne"
   - "pros and cons of living in Coburg North"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "west-footscray"
 article_type: "transport"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "public transport West Footscray Melbourne"
   - "commute from West Footscray to city"

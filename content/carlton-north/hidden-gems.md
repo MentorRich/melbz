@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton-north"
 article_type: "local-guide"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "hidden gems Carlton North"
   - "secret spots Carlton North"

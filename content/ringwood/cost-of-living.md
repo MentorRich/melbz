@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ringwood"
 article_type: "cost-of-living"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "cost of living Ringwood Melbourne"
   - "how expensive is Ringwood"

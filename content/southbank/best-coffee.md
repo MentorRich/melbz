@@ -5,6 +5,7 @@ date: 2026-03-17
 
 updated: 2026-03-17
 author: "Olivia Chen"
+author_image: "/images/authors/hannah.jpg"
 suburb: "southbank"
 vertical: "lifestyle"
 tags: ["coffee", "cafes", "southbank", "melbourne"]

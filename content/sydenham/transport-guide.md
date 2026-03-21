@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sydenham"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Sydenham Melbourne"
   - "commute from Sydenham to city"

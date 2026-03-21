@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cheltenham"
 article_type: "lifestyle"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "dog friendly Cheltenham"
   - "off leash park Cheltenham"

@@ -4,7 +4,8 @@ description: "The insider's guide to Seaford's different pockets, streets, and a
 date: 2026-03-21
 suburb: "seaford"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "Seaford neighbourhood guide"
   - "best streets in Seaford"

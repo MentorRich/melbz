@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "local-guide"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "hidden gems Port Melbourne"
   - "secret spots Port Melbourne"

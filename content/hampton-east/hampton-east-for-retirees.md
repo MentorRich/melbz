@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hampton-east"
 article_type: "retirees"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Hampton East retirees Melbourne"
   - "retiring in Hampton East"

@@ -3,6 +3,7 @@ title: "Collingwood Rent Prices 2026: The Data"
 cover_image: "/images/collingwood/rent-report.jpg"
 date: 2026-03-16
 author: marcusl
+author_image: "/images/authors/marcus.jpg"
 tags: ["collingwood", "rent", "property"]
 categories: ["property"]
 description: "Collingwood Rent Prices 2026: The Data"

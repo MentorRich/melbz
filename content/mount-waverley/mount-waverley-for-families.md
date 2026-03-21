@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Mount Waverley good for families"
   - "Mount Waverley family friendly"

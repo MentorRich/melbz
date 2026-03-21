@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "essendon"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Essendon Melbourne history"
   - "how has Essendon changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "southbank"
 article_type: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "dog friendly Southbank"
   - "off leash park Southbank"

@@ -3,6 +3,7 @@ title: "Rent Prices in Abbotsford 2026: Victoria Street & Beyond"
 cover_image: "/images/abbotsford/rent-report.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["abbotsford", "rent-report", "lifestyle"]
 categories: ["lifestyle"]
 description: "Rent Prices in Abbotsford 2026: Victoria Street & Beyond"

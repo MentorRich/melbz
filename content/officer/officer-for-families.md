@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "officer"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Officer good for families"
   - "Officer family friendly"

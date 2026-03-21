@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keilor"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Keilor good for families"
   - "Keilor family friendly"

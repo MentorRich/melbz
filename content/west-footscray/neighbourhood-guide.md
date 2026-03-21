@@ -4,7 +4,8 @@ description: "The insider's guide to West Footscray's different pockets, streets
 date: 2026-03-21
 suburb: "west-footscray"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "West Footscray neighbourhood guide"
   - "best streets in West Footscray"

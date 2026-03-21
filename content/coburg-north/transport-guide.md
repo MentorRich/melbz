@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "coburg-north"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Coburg North Melbourne"
   - "commute from Coburg North to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keilor-park"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Keilor Park Melbourne history"
   - "how has Keilor Park changed"

@@ -4,6 +4,7 @@ description: "From creek trails to coastal paths to urban walks — the best wal
 date: 2026-03-21
 article_type: "trending"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "best walks melbourne"
   - "walking trails melbourne suburbs"

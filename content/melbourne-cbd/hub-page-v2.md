@@ -3,6 +3,7 @@ title: "Melbourne CBD Suburb Guide 2026: Hub Page"
 cover_image: "/images/melbourne-cbd/hub-page-v2.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["melbourne-cbd", "suburb-guide"]
 categories: ["lifestyle"]
 description: "Melbourne CBD Suburb Guide 2026"

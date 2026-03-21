@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fitzroy-north"
 article_type: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "dog friendly Fitzroy North"
   - "off leash park Fitzroy North"

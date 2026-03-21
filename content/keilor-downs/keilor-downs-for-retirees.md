@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Keilor Downs retirees Melbourne"
   - "retiring in Keilor Downs"

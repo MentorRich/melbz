@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "alphington"
 article_type: "families"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "is Alphington good for families"
   - "Alphington family friendly"

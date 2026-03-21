@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield"
 article_type: "living-in"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "living in Caulfield Melbourne"
   - "pros and cons of living in Caulfield"

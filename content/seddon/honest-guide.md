@@ -3,6 +3,7 @@ title: "Seddon Honest Guide 2026: The Quiet West Sider"
 cover_image: "/images/seddon/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["seddon", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Seddon Honest Guide 2026: The Quiet West Sider"

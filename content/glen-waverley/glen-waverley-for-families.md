@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-waverley"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Glen Waverley good for families"
   - "Glen Waverley family friendly"

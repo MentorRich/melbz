@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "melbourne-cbd"
 article_type: "best-of"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "best restaurants Melbourne CBD"
   - "where to eat Melbourne CBD"

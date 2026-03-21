@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-east"
 article_type: "safety"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is St Kilda East safe"
   - "St Kilda East safety"

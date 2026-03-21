@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "taylors-lakes"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Taylors Lakes retirees Melbourne"
   - "retiring in Taylors Lakes"

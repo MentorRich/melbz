@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sunshine-west"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Sunshine West retirees Melbourne"
   - "retiring in Sunshine West"

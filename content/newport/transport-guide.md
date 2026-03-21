@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "newport"
 article_type: "transport"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "public transport Newport Melbourne"
   - "commute from Newport to city"

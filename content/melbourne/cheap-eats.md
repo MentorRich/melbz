@@ -6,6 +6,7 @@ cover_image: "/images/melbourne/cheap-eats.jpg"
 suburb: "melbourne"
 vertical: "food"
 author: "omar"
+author_image: "/images/authors/omar.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Cheap eats in Melbourne that are actually good. Our verified 2026 guide covers the best meals under $20 across the CBD and inner suburbs."

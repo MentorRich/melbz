@@ -3,6 +3,7 @@ title: "Best Asian Food in South Melbourne 2026: Market Eats & Beyond"
 cover_image: "/images/south-melbourne/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
+author_image: "/images/authors/yuki.jpg"
 tags: ["south-melbourne", "asian", "food"]
 categories: ["food"]
 description: "Best Asian Food in South Melbourne 2026: Market Eats & Beyond"

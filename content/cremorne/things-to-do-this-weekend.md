@@ -6,6 +6,7 @@ cover_image: "/images/cremorne/things-to-do-this-weekend.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Cremorne might be small, but weekends here are packed with great food, markets, and Yarra walks. Here's what to do in 3121 this weekend."

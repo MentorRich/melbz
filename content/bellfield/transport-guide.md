@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bellfield"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Bellfield Melbourne"
   - "commute from Bellfield to city"

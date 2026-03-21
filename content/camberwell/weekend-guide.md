@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "camberwell"
 article_type: "weekend"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "what to do Camberwell this weekend"
   - "Camberwell weekend"

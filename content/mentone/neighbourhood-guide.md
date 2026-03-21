@@ -4,7 +4,8 @@ description: "The insider's guide to Mentone's different pockets, streets, and a
 date: 2026-03-21
 suburb: "mentone"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Mentone neighbourhood guide"
   - "best streets in Mentone"

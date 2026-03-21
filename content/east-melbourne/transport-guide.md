@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport East Melbourne Melbourne"
   - "commute from East Melbourne to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "reservoir"
 article_type: "best-of"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "best cafes Reservoir"
   - "coffee Reservoir Melbourne"

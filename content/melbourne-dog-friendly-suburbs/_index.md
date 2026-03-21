@@ -4,6 +4,7 @@ description: "The best Melbourne suburbs for dog owners — off-leash parks, dog
 date: 2026-03-21
 article_type: "trending"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "dog friendly suburbs melbourne"
   - "best suburbs dogs melbourne"

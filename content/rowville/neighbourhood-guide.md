@@ -4,7 +4,8 @@ description: "The insider's guide to Rowville's different pockets, streets, and 
 date: 2026-03-21
 suburb: "rowville"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Rowville neighbourhood guide"
   - "best streets in Rowville"

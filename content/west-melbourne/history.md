@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "west-melbourne"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "West Melbourne Melbourne history"
   - "how has West Melbourne changed"

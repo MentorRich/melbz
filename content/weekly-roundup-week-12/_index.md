@@ -4,6 +4,7 @@ description: "This week's spotlight suburbs in Melbourne. Five suburbs worth exp
 date: 2026-03-21
 article_type: "weekly-roundup"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "melbourne suburbs this week"
   - "melbourne weekly guide"

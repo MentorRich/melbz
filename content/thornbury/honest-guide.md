@@ -3,6 +3,7 @@ title: "Thornbury Honest Guide 2026: High Street North Thornbury Real Opinions"
 cover_image: "/images/thornbury/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["thornbury", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Thornbury Honest Guide 2026: High Street North & Real Opinions"

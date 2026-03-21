@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "scoresby"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Scoresby Melbourne"
   - "commute from Scoresby to city"

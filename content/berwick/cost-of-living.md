@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "berwick"
 article_type: "cost-of-living"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "cost of living Berwick Melbourne"
   - "how expensive is Berwick"

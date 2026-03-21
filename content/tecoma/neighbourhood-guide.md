@@ -4,7 +4,8 @@ description: "The insider's guide to Tecoma's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "tecoma"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Tecoma neighbourhood guide"
   - "best streets in Tecoma"

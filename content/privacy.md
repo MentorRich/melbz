@@ -3,6 +3,7 @@ title: "Privacy Policy"
 description: "MELBZ privacy policy - how we collect, use, and protect your data."
 date: 2026-03-18
 author: "Daniel Ebiau"
+author_image: "/images/authors/dani.jpg"
 ---
 
 noAds: true

@@ -3,6 +3,7 @@ title: "Cost of Living in Southbank 2026"
 cover_image: "/images/southbank/cost-of-living.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["southbank", "cost-of-living"]
 categories: ["cost"]
 description: "Cost of Living in Southbank 2026"

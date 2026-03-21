@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "point-cook"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Point Cook retirees Melbourne"
   - "retiring in Point Cook"

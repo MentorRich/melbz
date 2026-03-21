@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "highett"
 article_type: "living-in"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "living in Highett Melbourne"
   - "pros and cons of living in Highett"

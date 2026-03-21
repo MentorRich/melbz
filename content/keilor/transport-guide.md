@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keilor"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Keilor Melbourne"
   - "commute from Keilor to city"

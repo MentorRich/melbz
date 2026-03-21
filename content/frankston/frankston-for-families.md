@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "frankston"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Frankston good for families"
   - "Frankston family friendly"

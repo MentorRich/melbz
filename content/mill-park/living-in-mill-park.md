@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mill-park"
 article_type: "living-in"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "living in Mill Park Melbourne"
   - "pros and cons of living in Mill Park"

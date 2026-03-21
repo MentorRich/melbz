@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "point-cook"
 article_type: "cost-of-living"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "cost of living Point Cook Melbourne"
   - "how expensive is Point Cook"

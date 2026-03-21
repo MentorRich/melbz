@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "balwyn"
 article_type: "living-in"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "living in Balwyn Melbourne"
   - "pros and cons of living in Balwyn"

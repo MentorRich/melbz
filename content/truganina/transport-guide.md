@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "truganina"
 article_type: "transport"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "public transport Truganina Melbourne"
   - "commute from Truganina to city"

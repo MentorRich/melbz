@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "endeavour-hills"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Endeavour Hills Melbourne"
   - "commute from Endeavour Hills to city"

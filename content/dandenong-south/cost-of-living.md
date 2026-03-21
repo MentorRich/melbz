@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dandenong-south"
 article_type: "cost-of-living"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "cost of living Dandenong South Melbourne"
   - "how expensive is Dandenong South"

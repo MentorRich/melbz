@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cheltenham"
 article_type: "local-guide"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "hidden gems Cheltenham"
   - "secret spots Cheltenham"

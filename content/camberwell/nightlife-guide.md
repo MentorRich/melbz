@@ -3,6 +3,7 @@ title: "Camberwell Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/camberwell/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
+author_image: "/images/authors/lina.jpg"
 tags: ["camberwell", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Camberwell Nightlife Guide 2026: Pubs, Bars & Local Spots"

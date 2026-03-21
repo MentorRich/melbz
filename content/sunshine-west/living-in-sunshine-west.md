@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sunshine-west"
 article_type: "living-in"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "living in Sunshine West Melbourne"
   - "pros and cons of living in Sunshine West"

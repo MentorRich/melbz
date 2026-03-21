@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "canterbury"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Canterbury Melbourne history"
   - "how has Canterbury changed"

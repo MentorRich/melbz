@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "transport"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "public transport St Kilda West Melbourne"
   - "commute from St Kilda West to city"

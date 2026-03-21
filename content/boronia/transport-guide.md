@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "boronia"
 article_type: "transport"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "public transport Boronia Melbourne"
   - "commute from Boronia to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "studley-park"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Studley Park Melbourne history"
   - "how has Studley Park changed"

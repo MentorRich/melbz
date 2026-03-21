@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "best-of"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "best restaurants North Melbourne"
   - "where to eat North Melbourne"

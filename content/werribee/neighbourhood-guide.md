@@ -4,7 +4,8 @@ description: "The insider's guide to Werribee's different pockets, streets, and 
 date: 2026-03-21
 suburb: "werribee"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Werribee neighbourhood guide"
   - "best streets in Werribee"

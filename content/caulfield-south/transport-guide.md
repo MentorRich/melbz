@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "transport"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "public transport Caulfield South Melbourne"
   - "commute from Caulfield South to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Caulfield South good for families"
   - "Caulfield South family friendly"

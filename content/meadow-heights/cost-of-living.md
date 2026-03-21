@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "cost-of-living"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "cost of living Meadow Heights Melbourne"
   - "how expensive is Meadow Heights"

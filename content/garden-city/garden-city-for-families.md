@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "garden-city"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Garden City good for families"
   - "Garden City family friendly"

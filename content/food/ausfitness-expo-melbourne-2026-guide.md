@@ -3,6 +3,7 @@ title: "AusFitness Expo Melbourne 2026: Everything You Need to Know"
 cover_image: "/images/food/ausfitness-expo-melbourne-2026-guide.jpg"
 date: 2026-03-16
 author: "Jules Marchetti"
+author_image: "/images/authors/jules.jpg"
 description: "Your complete guide to AusFitness Expo Melbourne 2026 at MCEC — tickets, prices, live sport competitions, special guests, parking, and insider tips for making the most of March 21-22."
 keywords: ["AusFitness Expo Melbourne 2026", "Melbourne fitness expo March 2026", "AusFitness Expo tickets", "fitness events Melbourne 2026", "MCEC events March 2026"]
 ---

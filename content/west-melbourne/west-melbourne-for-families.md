@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "west-melbourne"
 article_type: "families"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "is West Melbourne good for families"
   - "West Melbourne family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cheltenham"
 article_type: "housing"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "renting in Cheltenham"
   - "Cheltenham rental market"

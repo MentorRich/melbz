@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brooklyn"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Brooklyn good for families"
   - "Brooklyn family friendly"

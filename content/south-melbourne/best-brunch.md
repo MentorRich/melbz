@@ -3,6 +3,7 @@ title: "Best Brunch in South Melbourne 2026: The Complete Guide"
 cover_image: "/images/south-melbourne/best-brunch.jpg"
 date: 2026-03-16
 author: priya
+author_image: "/images/authors/priya.jpg"
 tags: ["south-melbourne", "brunch", "cafes"]
 categories: ["food"]
 description: "Best Brunch in South Melbourne 2026: The Complete Guide"

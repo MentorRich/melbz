@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wheelers-hill"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Wheelers Hill good for families"
   - "Wheelers Hill family friendly"

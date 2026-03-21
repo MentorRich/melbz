@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wantirna"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Wantirna retirees Melbourne"
   - "retiring in Wantirna"

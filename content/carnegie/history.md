@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carnegie"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Carnegie Melbourne history"
   - "how has Carnegie changed"

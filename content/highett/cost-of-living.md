@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "highett"
 article_type: "cost-of-living"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "cost of living Highett Melbourne"
   - "how expensive is Highett"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "footscray"
 article_type: "best-of"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "best restaurants Footscray"
   - "where to eat Footscray"

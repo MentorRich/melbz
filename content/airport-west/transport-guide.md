@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "airport-west"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Airport West Melbourne"
   - "commute from Airport West to city"

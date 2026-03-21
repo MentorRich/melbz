@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "studley-park"
 article_type: "young-professionals"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Studley Park young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
@@ -67,7 +68,7 @@ The age demographic skews towards your crowd in certain pockets. You won't feel 
 
 ## Verdict
 
-Studley Park is a genuinely good option for young professionals who want a balanced Melbourne lifestyle — work access, social scene, and a neighbourhood with personality. It's not the cheapest option and it's not the flashiest. But it's real, it's got substance, and it won't bore you.
+Studley Park is a becoming a go-to for creative professionals who want a balanced Melbourne lifestyle — work access, social scene, and a neighbourhood with personality. It's not the cheapest option and it's not the flashiest. But it's real, it's got substance, and it won't bore you.
 
 ---
 

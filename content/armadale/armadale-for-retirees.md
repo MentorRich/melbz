@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "armadale"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Armadale retirees Melbourne"
   - "retiring in Armadale"

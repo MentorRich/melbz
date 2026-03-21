@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "activities"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "things to do Port Melbourne"
   - "Port Melbourne activities"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "noble-park"
 article_type: "history"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Noble Park Melbourne history"
   - "how has Noble Park changed"

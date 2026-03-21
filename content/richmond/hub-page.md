@@ -3,6 +3,7 @@ title: "Richmond: The Complete Suburb Profile 2026"
 cover_image: "/images/richmond/hub-page.jpg"
 date: 2026-03-16
 author: josh
+author_image: "/images/authors/josh.jpg"
 tags: ["richmond", "suburb-profile", "hub"]
 categories: ["editorial"]
 description: "Richmond: The Complete Suburb Profile 2026"

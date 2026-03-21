@@ -4,6 +4,7 @@ description: "Which Melbourne suburbs are actually the safest? We looked at the 
 date: 2026-03-21
 article_type: "trending"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "safest suburbs melbourne"
   - "lowest crime suburbs melbourne"

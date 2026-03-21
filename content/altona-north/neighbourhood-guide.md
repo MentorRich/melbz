@@ -4,7 +4,8 @@ description: "The insider's guide to Altona North's different pockets, streets, 
 date: 2026-03-21
 suburb: "altona-north"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Altona North neighbourhood guide"
   - "best streets in Altona North"

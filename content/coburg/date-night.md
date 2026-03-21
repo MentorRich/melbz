@@ -6,6 +6,7 @@ cover_image: "/images/coburg/date-night.jpg"
 suburb: "coburg"
 vertical: "food"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The best date night spots in Coburg for 2026 — 6 verified restaurants and bars for romantic dinners, first dates, and everything in between."

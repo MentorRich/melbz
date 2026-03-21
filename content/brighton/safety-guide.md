@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brighton"
 article_type: "safety"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Brighton safe"
   - "Brighton safety"

@@ -4,7 +4,8 @@ description: "The insider's guide to Doncaster East's different pockets, streets
 date: 2026-03-21
 suburb: "doncaster-east"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "Doncaster East neighbourhood guide"
   - "best streets in Doncaster East"

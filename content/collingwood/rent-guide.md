@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "collingwood"
 article_type: "housing"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "renting in Collingwood"
   - "Collingwood rental market"

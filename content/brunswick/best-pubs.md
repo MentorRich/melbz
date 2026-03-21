@@ -6,6 +6,7 @@ cover_image: "/images/brunswick/best-pubs.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The best pubs in Brunswick for 2026. The Retreat, Cornish Arms, The Bergy Seltzer, Brunswick Green, and the spots where the beer is cold and the parma is still under $20."

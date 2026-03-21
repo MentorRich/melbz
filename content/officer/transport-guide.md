@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "officer"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Officer Melbourne"
   - "commute from Officer to city"

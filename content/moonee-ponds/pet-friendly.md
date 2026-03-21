@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "lifestyle"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "dog friendly Moonee Ponds"
   - "off leash park Moonee Ponds"

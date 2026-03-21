@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hawthorn-east"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Hawthorn East Melbourne"
   - "commute from Hawthorn East to city"

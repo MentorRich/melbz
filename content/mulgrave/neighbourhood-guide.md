@@ -4,7 +4,8 @@ description: "The insider's guide to Mulgrave's different pockets, streets, and 
 date: 2026-03-21
 suburb: "mulgrave"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Mulgrave neighbourhood guide"
   - "best streets in Mulgrave"

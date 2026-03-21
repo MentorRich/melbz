@@ -3,6 +3,7 @@ title: "Best Pubs in South Melbourne 2026: Heritage Hotels & Modern Taprooms"
 cover_image: "/images/south-melbourne/best-pubs.jpg"
 date: 2026-03-16
 author: kai
+author_image: "/images/authors/kai.jpg"
 tags: ["south-melbourne", "pubs", "nightlife"]
 categories: ["nightlife"]
 description: "Best Pubs in South Melbourne 2026: Heritage Hotels & Modern Taprooms"

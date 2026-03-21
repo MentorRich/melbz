@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "travancore"
 article_type: "transport"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "public transport Travancore Melbourne"
   - "commute from Travancore to city"

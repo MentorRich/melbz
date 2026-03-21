@@ -6,6 +6,7 @@ cover_image: "/images/cremorne/nightlife-guide.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Cremorne's nightlife is small but perfectly formed for after-work drinks and early evenings. Here's where to go when the sun goes down in 3121."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mernda"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Mernda retirees Melbourne"
   - "retiring in Mernda"

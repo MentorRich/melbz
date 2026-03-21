@@ -6,6 +6,7 @@ cover_image: "/images/northcote/nightlife-guide.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the nightlife guide in Northcote. Our verified 2026 guide covers the best spots for locals."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mordialloc"
 article_type: "transport"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "public transport Mordialloc Melbourne"
   - "commute from Mordialloc to city"

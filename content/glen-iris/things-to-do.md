@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-iris"
 article_type: "activities"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "things to do Glen Iris"
   - "Glen Iris activities"

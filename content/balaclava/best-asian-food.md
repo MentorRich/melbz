@@ -3,6 +3,7 @@ title: "Best Asian Food in Balaclava 2026: Japanese, Thai & More"
 cover_image: "/images/balaclava/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
+author_image: "/images/authors/yuki.jpg"
 tags: ["balaclava", "asian", "food"]
 categories: ["food"]
 description: "Best Asian Food in Balaclava 2026: Japanese, Thai & More"

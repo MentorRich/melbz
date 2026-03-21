@@ -4,7 +4,8 @@ description: "The insider's guide to Ivanhoe East's different pockets, streets, 
 date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Ivanhoe East neighbourhood guide"
   - "best streets in Ivanhoe East"

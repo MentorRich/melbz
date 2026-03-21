@@ -6,6 +6,7 @@ cover_image: "/images/hawthorn/nightlife-guide.jpg"
 suburb: "hawthorn"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Discover the nightlife guide in Hawthorn. Our verified 2026 guide covers the best spots for locals."

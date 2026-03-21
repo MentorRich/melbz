@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ashburton"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Ashburton Melbourne history"
   - "how has Ashburton changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "essendon"
 article_type: "safety"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Essendon safe"
   - "Essendon safety"

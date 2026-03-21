@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cranbourne-north"
 article_type: "living-in"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "living in Cranbourne North Melbourne"
   - "pros and cons of living in Cranbourne North"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mont-albert"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Mont Albert Melbourne history"
   - "how has Mont Albert changed"

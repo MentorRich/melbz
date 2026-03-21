@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "reservoir"
 article_type: "property"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "buying in Reservoir"
   - "Reservoir property market"

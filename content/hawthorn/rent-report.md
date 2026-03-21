@@ -3,6 +3,7 @@ title: "Rent Prices in Hawthorn 2026: Glenferrie Road Beyond"
 cover_image: "/images/hawthorn/rent-report.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["hawthorn", "rent", "property"]
 categories: ["property"]
 description: "Rent Prices in Hawthorn 2026: Glenferrie Road & Beyond"

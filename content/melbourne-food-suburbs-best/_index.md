@@ -4,6 +4,7 @@ description: "Which suburbs have the best food scene? From fine dining to late-n
 date: 2026-03-21
 article_type: "trending"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "best food suburbs melbourne"
   - "foodie suburbs melbourne"

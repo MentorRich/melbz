@@ -6,6 +6,7 @@ cover_image: "/images/south-yarra/nightlife-guide.jpg"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the nightlife guide in South Yarra. Our verified 2026 guide covers the best spots for locals."

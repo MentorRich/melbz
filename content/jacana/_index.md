@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "jacana"
 article_type: "profile"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Jacana Melbourne"
   - "what is Jacana like"
@@ -52,7 +53,7 @@ Quick version: you can get to the city reasonably easy. The tram and train netwo
 
 ## Eating and Drinking in Jacana
 
-The food scene in Jacana reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and enough variety to keep things interesting without needing to leave the suburb every time you want a decent meal.
+The food scene in Jacana reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and local haunts that justify the rent without needing to leave the suburb every time you want a decent meal.
 
 Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
 

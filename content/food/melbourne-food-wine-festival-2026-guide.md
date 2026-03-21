@@ -17,6 +17,7 @@ keywords:
 tags: ["food", "events", "festivals", "melbourne"]
 categories: ["Food & Drink"]
 author: "jules"
+author_image: "/images/authors/jules.jpg"
 vibe_score: 9.2
 schema_type: "Event"
 

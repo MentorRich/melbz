@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "malvern-east"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Malvern East retirees Melbourne"
   - "retiring in Malvern East"

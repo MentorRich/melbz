@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "frankston-north"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Frankston North Melbourne history"
   - "how has Frankston North changed"

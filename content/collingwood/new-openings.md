@@ -3,6 +3,7 @@ title: "New Openings in Collingwood 2026"
 cover_image: "/images/collingwood/new-openings.jpg"
 date: 2026-03-18
 author: priya
+author_image: "/images/authors/priya.jpg"
 description: "The newest restaurants, cafes, and bars that just opened in Collingwood. Fresh concepts and exciting new venues to try this year."
 tags: ["collingwood", "new-openings"]
 categories: ["new"]

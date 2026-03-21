@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mitcham"
 article_type: "retirees"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Mitcham retirees Melbourne"
   - "retiring in Mitcham"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "garden-city"
 article_type: "cost-of-living"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "cost of living Garden City Melbourne"
   - "how expensive is Garden City"

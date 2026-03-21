@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cranbourne-north"
 article_type: "transport"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "public transport Cranbourne North Melbourne"
   - "commute from Cranbourne North to city"

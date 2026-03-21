@@ -4,7 +4,8 @@ description: "The insider's guide to Moorabbin's different pockets, streets, and
 date: 2026-03-21
 suburb: "moorabbin"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Moorabbin neighbourhood guide"
   - "best streets in Moorabbin"

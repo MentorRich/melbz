@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "best-of"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "best cafes Port Melbourne"
   - "coffee Port Melbourne Melbourne"

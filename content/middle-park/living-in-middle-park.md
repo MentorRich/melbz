@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "middle-park"
 article_type: "living-in"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "living in Middle Park Melbourne"
   - "pros and cons of living in Middle Park"

@@ -4,7 +4,8 @@ description: "The insider's guide to Toorak's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "toorak"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Toorak neighbourhood guide"
   - "best streets in Toorak"

@@ -3,6 +3,7 @@ title: "Contact MELBZ"
 description: "Get in touch with MELBZ for editorial enquiries, business listings, or advertising."
 date: 2026-03-18
 author: "Daniel Ebiau"
+author_image: "/images/authors/dani.jpg"
 ---
 
 noAds: true

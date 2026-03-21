@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seddon"
 article_type: "housing"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "renting in Seddon"
   - "Seddon rental market"

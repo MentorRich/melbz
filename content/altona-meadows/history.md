@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "altona-meadows"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Altona Meadows Melbourne history"
   - "how has Altona Meadows changed"

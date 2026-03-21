@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "retirees"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Patterson Lakes retirees Melbourne"
   - "retiring in Patterson Lakes"

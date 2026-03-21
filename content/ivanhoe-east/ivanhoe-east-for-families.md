@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Ivanhoe East good for families"
   - "Ivanhoe East family friendly"

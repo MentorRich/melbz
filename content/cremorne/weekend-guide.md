@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cremorne"
 article_type: "weekend"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "what to do Cremorne this weekend"
   - "Cremorne weekend"

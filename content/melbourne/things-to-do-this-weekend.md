@@ -6,6 +6,7 @@ cover_image: "/images/melbourne/things-to-do-this-weekend.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Your actual guide to things to do this weekend in Melbourne. Real venues, real prices, no tourism brochure nonsense. March 2026."

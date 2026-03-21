@@ -3,6 +3,7 @@ title: "Student Guide to Melbourne 2026: Everything You Need to Know"
 cover_image: "/images/melbourne/student-guide.jpg"
 date: 2026-03-16
 author: ravi
+author_image: "/images/authors/ravi.jpg"
 tags: ["melbourne", "students", "budget"]
 categories: ["lifestyle"]
 description: "Student Guide to Melbourne 2026: Everything You Need to Know"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "yarraville"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Yarraville retirees Melbourne"
   - "retiring in Yarraville"

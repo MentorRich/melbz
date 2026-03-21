@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill"
 article_type: "property"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "buying in Box Hill"
   - "Box Hill property market"

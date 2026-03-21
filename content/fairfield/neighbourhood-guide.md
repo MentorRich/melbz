@@ -4,7 +4,8 @@ description: "The insider's guide to Fairfield's different pockets, streets, and
 date: 2026-03-21
 suburb: "fairfield"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Fairfield neighbourhood guide"
   - "best streets in Fairfield"

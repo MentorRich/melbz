@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton-north"
 article_type: "activities"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "things to do Carlton North"
   - "Carlton North activities"

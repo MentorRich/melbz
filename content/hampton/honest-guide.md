@@ -3,6 +3,7 @@ title: "Hampton Honest Guide 2026: High Street South & Real Opinions"
 cover_image: "/images/hampton/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["hampton", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Hampton Honest Guide 2026: High Street South & Real Opinions"

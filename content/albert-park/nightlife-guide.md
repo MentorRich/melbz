@@ -3,6 +3,7 @@ title: "Albert Park Nightlife Guide 2026: Pubs, Bars & Lake Views"
 cover_image: "/images/albert-park/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
+author_image: "/images/authors/lina.jpg"
 tags: ["albert-park", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Albert Park Nightlife Guide 2026: Pubs, Bars & Lake Views"

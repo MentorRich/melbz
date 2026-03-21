@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "middle-park"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Middle Park Melbourne"
   - "commute from Middle Park to city"

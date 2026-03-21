@@ -6,6 +6,7 @@ cover_image: "/images/elwood/nightlife-guide.jpg"
 suburb: "elwood"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The complete Elwood nightlife guide for 2026 — from local pubs and neighbourhood bars to the local picks along Ormond Road and the bayside scene."

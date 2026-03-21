@@ -4,7 +4,8 @@ description: "The insider's guide to Pascoe Vale South's different pockets, stre
 date: 2026-03-21
 suburb: "pascoe-vale-south"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Pascoe Vale South neighbourhood guide"
   - "best streets in Pascoe Vale South"

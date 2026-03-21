@@ -3,6 +3,7 @@ title: "Cost of Living in Abbotsford 2026: The Real Numbers"
 cover_image: "/images/abbotsford/cost-of-living.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["abbotsford", "cost-of-living", "lifestyle"]
 categories: ["lifestyle"]
 description: "Cost of Living in Abbotsford 2026: The Real Numbers"

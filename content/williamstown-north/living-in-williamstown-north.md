@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "williamstown-north"
 article_type: "living-in"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "living in Williamstown North Melbourne"
   - "pros and cons of living in Williamstown North"

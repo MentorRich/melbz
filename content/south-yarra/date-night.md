@@ -6,6 +6,7 @@ cover_image: "/images/south-yarra/date-night.jpg"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Your honest guide to date night in South Yarra — real venues, real prices, no tourist traps. From Chapel Street diners to hidden cocktail bars."

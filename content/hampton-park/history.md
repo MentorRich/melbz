@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hampton-park"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Hampton Park Melbourne history"
   - "how has Hampton Park changed"

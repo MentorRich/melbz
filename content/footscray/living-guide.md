@@ -3,6 +3,7 @@ title: "Living in Footscray 2026: The Definitive Guide"
 cover_image: "/images/footscray/living-guide.jpg"
 date: 2026-03-16
 author: charlie
+author_image: "/images/authors/charlie.jpg"
 tags: ["footscray", "living-guide", "rent"]
 categories: ["lifestyle"]
 description: "Living in Footscray 2026: The Definitive Guide"

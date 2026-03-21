@@ -4,7 +4,8 @@ description: "The insider's guide to Meadow Heights's different pockets, streets
 date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Meadow Heights neighbourhood guide"
   - "best streets in Meadow Heights"

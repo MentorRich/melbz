@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "garden-city"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Garden City Melbourne"
   - "commute from Garden City to city"

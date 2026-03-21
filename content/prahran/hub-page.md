@@ -3,6 +3,7 @@ title: "Prahran: The Complete Suburb Profile 2026"
 cover_image: "/images/prahran/hub-page.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["prahran", "suburb-profile", "hub"]
 categories: ["editorial"]
 description: "Prahran: The Complete Suburb Profile 2026"

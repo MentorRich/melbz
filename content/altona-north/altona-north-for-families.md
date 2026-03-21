@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "altona-north"
 article_type: "families"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "is Altona North good for families"
   - "Altona North family friendly"

@@ -3,6 +3,7 @@ title: "Best Asian Food in Prahran 2026: Greville & Chapel"
 cover_image: "/images/prahran/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
+author_image: "/images/authors/yuki.jpg"
 tags: ["prahran", "asian", "food"]
 categories: ["food"]
 description: "Best Asian Food in Prahran 2026: Greville & Chapel"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "doncaster-east"
 article_type: "families"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "is Doncaster East good for families"
   - "Doncaster East family friendly"

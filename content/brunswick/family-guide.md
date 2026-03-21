@@ -3,6 +3,7 @@ title: "Family Guide to Brunswick 2026: Schools, Parks & More"
 cover_image: "/images/brunswick/family-guide.jpg"
 date: 2026-03-16
 author: chloe
+author_image: "/images/authors/chloe.jpg"
 tags: ["brunswick", "families", "schools"]
 categories: ["property"]
 description: "Family Guide to Brunswick 2026: Schools, Parks, and Everything Parents Need"

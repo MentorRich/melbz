@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is East Melbourne good for families"
   - "East Melbourne family friendly"

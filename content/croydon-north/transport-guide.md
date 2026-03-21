@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon-north"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Croydon North Melbourne"
   - "commute from Croydon North to city"

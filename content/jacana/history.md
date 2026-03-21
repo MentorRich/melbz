@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "jacana"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Jacana Melbourne history"
   - "how has Jacana changed"

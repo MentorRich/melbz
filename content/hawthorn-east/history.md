@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hawthorn-east"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Hawthorn East Melbourne history"
   - "how has Hawthorn East changed"

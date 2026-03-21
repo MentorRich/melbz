@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Oakleigh South Melbourne"
   - "commute from Oakleigh South to city"

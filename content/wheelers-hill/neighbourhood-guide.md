@@ -4,7 +4,8 @@ description: "The insider's guide to Wheelers Hill's different pockets, streets,
 date: 2026-03-21
 suburb: "wheelers-hill"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Wheelers Hill neighbourhood guide"
   - "best streets in Wheelers Hill"

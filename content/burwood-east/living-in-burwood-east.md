@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "burwood-east"
 article_type: "living-in"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "living in Burwood East Melbourne"
   - "pros and cons of living in Burwood East"

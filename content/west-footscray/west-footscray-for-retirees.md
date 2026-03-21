@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "west-footscray"
 article_type: "retirees"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "West Footscray retirees Melbourne"
   - "retiring in West Footscray"

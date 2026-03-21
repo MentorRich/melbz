@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dandenong"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Dandenong good for families"
   - "Dandenong family friendly"

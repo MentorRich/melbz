@@ -3,6 +3,7 @@ title: "New Openings in Balaclava 2026"
 cover_image: "/images/balaclava/new-openings.jpg"
 date: 2026-03-18
 author: priya
+author_image: "/images/authors/priya.jpg"
 description: "The newest restaurants, cafes, and bars that just opened in Balaclava. Fresh concepts and exciting new venues to try this year."
 tags: ["balaclava", "new-openings"]
 categories: ["new"]

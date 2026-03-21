@@ -4,7 +4,8 @@ description: "The insider's guide to Parkville's different pockets, streets, and
 date: 2026-03-21
 suburb: "parkville"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "Parkville neighbourhood guide"
   - "best streets in Parkville"

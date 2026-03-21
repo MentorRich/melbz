@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "scoresby"
 article_type: "families"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Scoresby good for families"
   - "Scoresby family friendly"

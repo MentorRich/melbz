@@ -6,6 +6,7 @@ cover_image: "/images/collingwood/nightlife-guide.jpg"
 suburb: "collingwood"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The complete Collingwood nightlife guide for 2026 — from Smith Street cocktail bars to warehouse DJs, live music venues, and getting home safe."

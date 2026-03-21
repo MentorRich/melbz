@@ -3,6 +3,7 @@ title: "Prahran Hub Page"
 cover_image: "/images/prahran/hub.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 description: "Your complete guide to Prahran. Food, nightlife, property, transport, and things to do — everything you need to know."
 tags: ["prahran", "hub"]
 categories: ["general"]

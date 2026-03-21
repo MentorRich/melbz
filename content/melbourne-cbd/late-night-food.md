@@ -3,6 +3,7 @@ title: "Best Late Night Food in Melbourne 2026: The Definitive Guide"
 cover_image: "/images/melbourne-cbd/late-night-food.jpg"
 date: 2026-03-16
 author: tariq
+author_image: "/images/authors/tariq.jpg"
 tags: ["melbourne", "late-night", "food"]
 categories: ["food"]
 description: "Best Late Night Food in Melbourne 2026: The Definitive Guide"

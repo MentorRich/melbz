@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hughesdale"
 article_type: "retirees"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Hughesdale retirees Melbourne"
   - "retiring in Hughesdale"

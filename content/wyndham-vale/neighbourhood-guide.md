@@ -4,7 +4,8 @@ description: "The insider's guide to Wyndham Vale's different pockets, streets, 
 date: 2026-03-21
 suburb: "wyndham-vale"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Wyndham Vale neighbourhood guide"
   - "best streets in Wyndham Vale"

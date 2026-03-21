@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Wantirna South retirees Melbourne"
   - "retiring in Wantirna South"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "langwarrin"
 article_type: "living-in"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "living in Langwarrin Melbourne"
   - "pros and cons of living in Langwarrin"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "the-basin"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "The Basin Melbourne history"
   - "how has The Basin changed"

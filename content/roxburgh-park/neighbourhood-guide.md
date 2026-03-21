@@ -4,7 +4,8 @@ description: "The insider's guide to Roxburgh Park's different pockets, streets,
 date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Roxburgh Park neighbourhood guide"
   - "best streets in Roxburgh Park"

@@ -4,7 +4,8 @@ description: "The insider's guide to Lower Plenty's different pockets, streets, 
 date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Lower Plenty neighbourhood guide"
   - "best streets in Lower Plenty"

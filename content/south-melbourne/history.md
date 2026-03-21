@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-melbourne"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "South Melbourne Melbourne history"
   - "how has South Melbourne changed"

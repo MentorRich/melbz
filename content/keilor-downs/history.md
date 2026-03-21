@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Keilor Downs Melbourne history"
   - "how has Keilor Downs changed"

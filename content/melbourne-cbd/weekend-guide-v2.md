@@ -3,6 +3,7 @@ title: "Weekend Guide: Melbourne CBD 2026 — Saturday & Sunday Done Right"
 cover_image: "/images/melbourne-cbd/weekend-guide-v2.jpg"
 date: 2026-03-16
 author: isabella
+author_image: "/images/authors/isabella.jpg"
 tags: ["melbourne-cbd", "weekend", "lifestyle"]
 categories: ["lifestyle"]
 description: "Weekend Guide: Melbourne CBD 2026 — Saturday & Sunday Done Right"

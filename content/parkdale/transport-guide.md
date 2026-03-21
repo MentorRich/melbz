@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "parkdale"
 article_type: "transport"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "public transport Parkdale Melbourne"
   - "commute from Parkdale to city"

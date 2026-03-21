@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Gladstone Park Melbourne history"
   - "how has Gladstone Park changed"

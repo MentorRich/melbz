@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "murrumbeena"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Murrumbeena retirees Melbourne"
   - "retiring in Murrumbeena"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "frankston-north"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Frankston North good for families"
   - "Frankston North family friendly"

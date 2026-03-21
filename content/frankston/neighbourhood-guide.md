@@ -4,7 +4,8 @@ description: "The insider's guide to Frankston's different pockets, streets, and
 date: 2026-03-21
 suburb: "frankston"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Frankston neighbourhood guide"
   - "best streets in Frankston"

@@ -3,6 +3,7 @@ title: "Abbotsford Honest Guide 2026: Victoria Street & Real Talk"
 cover_image: "/images/abbotsford/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["abbotsford", "honest-guide", "lifestyle"]
 description: "Abbotsford Honest Guide 2026: Victoria Street & Real Talk about Melbourne's most underrated suburb. No fluff, just real info for 2026."
 ---

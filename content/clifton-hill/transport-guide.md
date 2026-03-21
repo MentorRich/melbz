@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Clifton Hill Melbourne"
   - "commute from Clifton Hill to city"

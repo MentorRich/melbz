@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "noble-park"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Noble Park good for families"
   - "Noble Park family friendly"

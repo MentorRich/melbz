@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mordialloc"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Mordialloc retirees Melbourne"
   - "retiring in Mordialloc"

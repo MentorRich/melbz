@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-east"
 article_type: "housing"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "renting in St Kilda East"
   - "St Kilda East rental market"

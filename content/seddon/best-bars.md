@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seddon"
 article_type: "nightlife"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "best bars Seddon"
   - "bars in Seddon Melbourne"

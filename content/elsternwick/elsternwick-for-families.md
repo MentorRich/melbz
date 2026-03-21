@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "elsternwick"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Elsternwick good for families"
   - "Elsternwick family friendly"

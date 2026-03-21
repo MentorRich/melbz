@@ -4,7 +4,8 @@ description: "The insider's guide to Alphington's different pockets, streets, an
 date: 2026-03-21
 suburb: "alphington"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Alphington neighbourhood guide"
   - "best streets in Alphington"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "transport"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "public transport Box Hill South Melbourne"
   - "commute from Box Hill South to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "viewbank"
 article_type: "retirees"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Viewbank retirees Melbourne"
   - "retiring in Viewbank"

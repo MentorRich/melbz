@@ -4,7 +4,8 @@ description: "The insider's guide to Braeside's different pockets, streets, and 
 date: 2026-03-21
 suburb: "braeside"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Braeside neighbourhood guide"
   - "best streets in Braeside"

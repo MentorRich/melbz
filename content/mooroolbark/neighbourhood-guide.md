@@ -4,7 +4,8 @@ description: "The insider's guide to Mooroolbark's different pockets, streets, a
 date: 2026-03-21
 suburb: "mooroolbark"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Mooroolbark neighbourhood guide"
   - "best streets in Mooroolbark"

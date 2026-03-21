@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is North Melbourne good for families"
   - "North Melbourne family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "northcote"
 article_type: "local-guide"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "hidden gems Northcote"
   - "secret spots Northcote"

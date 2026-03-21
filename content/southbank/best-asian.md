@@ -3,6 +3,7 @@ title: "Best Asian Food in Southbank: From Pho to Ramen"
 cover_image: "/images/southbank/best-asian.jpg"
 date: 2026-03-18
 author: nina
+author_image: "/images/authors/nina.jpg"
 tags: ["southbank", "best-asian"]
 categories: ["best"]
 description: "Best Asian Food in Southbank: From Pho to Ramen"

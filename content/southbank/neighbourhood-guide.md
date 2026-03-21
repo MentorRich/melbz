@@ -5,6 +5,7 @@ date: 2026-03-17
 
 updated: 2026-03-17
 author: "Lina Nguyen"
+author_image: "/images/authors/lina.jpg"
 suburb: "southbank
 vertical: "lifestyle
 tags: ["southbank", "neighbourhood", "guide", "melbourne", "living"]

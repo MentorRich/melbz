@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "scoresby"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Scoresby Melbourne history"
   - "how has Scoresby changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caroline-springs"
 article_type: "transport"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "public transport Caroline Springs Melbourne"
   - "commute from Caroline Springs to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "pascoe-vale"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Pascoe Vale Melbourne history"
   - "how has Pascoe Vale changed"

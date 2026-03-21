@@ -4,7 +4,8 @@ description: "The insider's guide to Wantirna South's different pockets, streets
 date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Wantirna South neighbourhood guide"
   - "best streets in Wantirna South"

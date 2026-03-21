@@ -6,6 +6,7 @@ cover_image: "/images/footscray/things-to-do-this-weekend.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best things to do this weekend in Footscray. Our verified 2026 guide covers markets, walks, food, and experiences for locals."

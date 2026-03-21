@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dandenong-north"
 article_type: "cost-of-living"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "cost of living Dandenong North Melbourne"
   - "how expensive is Dandenong North"

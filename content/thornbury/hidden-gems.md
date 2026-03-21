@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "thornbury"
 article_type: "local-guide"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "hidden gems Thornbury"
   - "secret spots Thornbury"

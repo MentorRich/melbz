@@ -4,7 +4,8 @@ description: "The insider's guide to Malvern East's different pockets, streets, 
 date: 2026-03-21
 suburb: "malvern-east"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Malvern East neighbourhood guide"
   - "best streets in Malvern East"

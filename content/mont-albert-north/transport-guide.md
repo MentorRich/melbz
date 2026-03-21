@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Mont Albert North Melbourne"
   - "commute from Mont Albert North to city"

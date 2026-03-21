@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "blackburn"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Blackburn retirees Melbourne"
   - "retiring in Blackburn"

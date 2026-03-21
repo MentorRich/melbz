@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "altona"
 article_type: "families"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "is Altona good for families"
   - "Altona family friendly"

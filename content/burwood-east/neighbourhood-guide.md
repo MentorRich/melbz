@@ -4,7 +4,8 @@ description: "The insider's guide to Burwood East's different pockets, streets, 
 date: 2026-03-21
 suburb: "burwood-east"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Burwood East neighbourhood guide"
   - "best streets in Burwood East"

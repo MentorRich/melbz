@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "southbank"
 article_type: "housing"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "renting in Southbank"
   - "Southbank rental market"

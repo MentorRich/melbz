@@ -3,6 +3,7 @@ title: "Best Coffee in Melbourne CBD 2026: The Complete Guide"
 cover_image: "/images/melbourne-cbd/best-coffee.jpg"
 date: 2026-03-16
 author: dani
+author_image: "/images/authors/dani.jpg"
 tags: ["melbourne-cbd", "coffee", "cafes"]
 categories: ["food"]
 description: "Best Coffee in Melbourne CBD 2026: The Complete Guide"

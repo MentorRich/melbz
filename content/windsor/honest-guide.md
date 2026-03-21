@@ -3,6 +3,7 @@ title: "Windsor Honest Guide 2026: Chapel Street's Cool Sibling"
 cover_image: "/images/windsor/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["windsor", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Windsor Honest Guide 2026: Chapel Street's Cool Sibling"

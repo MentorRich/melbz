@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "transport"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "public transport Aspendale Gardens Melbourne"
   - "commute from Aspendale Gardens to city"

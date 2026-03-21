@@ -4,7 +4,8 @@ description: "The insider's guide to Essendon North's different pockets, streets
 date: 2026-03-21
 suburb: "essendon-north"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "Essendon North neighbourhood guide"
   - "best streets in Essendon North"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "forest-hill"
 article_type: "transport"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "public transport Forest Hill Melbourne"
   - "commute from Forest Hill to city"

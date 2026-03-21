@@ -4,7 +4,8 @@ description: "The insider's guide to Surrey Hills's different pockets, streets, 
 date: 2026-03-21
 suburb: "surrey-hills"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Surrey Hills neighbourhood guide"
   - "best streets in Surrey Hills"

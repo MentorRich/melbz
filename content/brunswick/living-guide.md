@@ -3,6 +3,7 @@ title: "Living in Brunswick 2026: The Definitive Guide"
 cover_image: "/images/brunswick/living-guide.jpg"
 date: 2026-03-16
 author: sam
+author_image: "/images/authors/sam.jpg"
 tags: ["brunswick", "living-guide", "rent"]
 categories: ["lifestyle"]
 description: "Living in Brunswick 2026: The Definitive Guide"

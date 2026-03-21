@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "truganina"
 article_type: "living-in"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "living in Truganina Melbourne"
   - "pros and cons of living in Truganina"

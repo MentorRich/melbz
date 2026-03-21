@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "princes-hill"
 article_type: "living-in"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "living in Princes Hill Melbourne"
   - "pros and cons of living in Princes Hill"

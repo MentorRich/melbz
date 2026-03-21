@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "tullamarine"
 article_type: "history"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Tullamarine Melbourne history"
   - "how has Tullamarine changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "cost-of-living"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "cost of living St Kilda West Melbourne"
   - "how expensive is St Kilda West"

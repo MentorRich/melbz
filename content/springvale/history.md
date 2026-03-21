@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "springvale"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Springvale Melbourne history"
   - "how has Springvale changed"

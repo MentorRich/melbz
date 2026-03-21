@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "docklands"
 article_type: "nightlife"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "best bars Docklands"
   - "bars in Docklands Melbourne"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "macleod"
 article_type: "transport"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "public transport Macleod Melbourne"
   - "commute from Macleod to city"

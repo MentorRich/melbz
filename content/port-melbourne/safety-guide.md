@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "safety"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Port Melbourne safe"
   - "Port Melbourne safety"

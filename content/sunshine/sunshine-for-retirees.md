@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sunshine"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Sunshine retirees Melbourne"
   - "retiring in Sunshine"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "weekend"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "what to do North Melbourne this weekend"
   - "North Melbourne weekend"

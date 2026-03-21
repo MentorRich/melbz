@@ -3,6 +3,7 @@ title: "Collingwood Honest Guide 2026: Smith Street & Real Talk"
 cover_image: "/images/collingwood/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["collingwood", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Collingwood Honest Guide 2026: Smith Street & Real Talk"

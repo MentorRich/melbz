@@ -6,6 +6,7 @@ cover_image: "/images/south-yarra/neighbourhood-guide.jpg"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The real South Yarra — where Chapel Street meets the Yarra, designer boutiques sit next to public housing, and the coffee is still worth crossing town for."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "history"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "South Kingsville Melbourne history"
   - "how has South Kingsville changed"

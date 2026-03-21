@@ -4,7 +4,8 @@ description: "The insider's guide to Croydon North's different pockets, streets,
 date: 2026-03-21
 suburb: "croydon-north"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Croydon North neighbourhood guide"
   - "best streets in Croydon North"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dandenong-north"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Dandenong North retirees Melbourne"
   - "retiring in Dandenong North"

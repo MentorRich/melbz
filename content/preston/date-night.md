@@ -6,6 +6,7 @@ cover_image: "/images/preston/date-night.jpg"
 suburb: "preston"
 vertical: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the date night in Preston. Our verified 2026 guide covers the best spots forlocals."

@@ -3,6 +3,7 @@ title: "Best Cheap Eats in Footscray 2026: Under $15, No Nonsense"
 cover_image: "/images/footscray/cheap-eats.jpg"
 date: 2026-03-16
 author: omar
+author_image: "/images/authors/omar.jpg"
 tags: ["footscray", "cheap-eats", "street-food"]
 categories: ["food"]
 description: "Best Cheap Eats in Footscray 2026: Under $15, No Nonsense"

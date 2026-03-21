@@ -4,7 +4,8 @@ description: "The insider's guide to Westmeadows's different pockets, streets, a
 date: 2026-03-21
 suburb: "westmeadows"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Westmeadows neighbourhood guide"
   - "best streets in Westmeadows"

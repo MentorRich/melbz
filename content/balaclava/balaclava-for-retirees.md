@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "balaclava"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Balaclava retirees Melbourne"
   - "retiring in Balaclava"

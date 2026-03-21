@@ -3,6 +3,7 @@ title: "Melbourne CBD Market Guide 2026: Queen Vic & Beyond"
 cover_image: "/images/melbourne-cbd/market-guide-v2.jpg"
 date: 2026-03-16
 author: tyler
+author_image: "/images/authors/tyler.jpg"
 tags: ["melbourne-cbd", "markets", "lifestyle"]
 categories: ["lifestyle"]
 description: "Melbourne CBD Market Guide 2026: Queen Vic & Beyond"

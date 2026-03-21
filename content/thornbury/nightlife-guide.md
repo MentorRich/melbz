@@ -6,6 +6,7 @@ cover_image: "/images/thornbury/nightlife-guide.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Thornbury nightlife for 2026 — from beer temples to cocktail bars. Getting there, staying safe, and the crawl you actually want. No tourist traps."

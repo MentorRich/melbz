@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "blackburn-north"
 article_type: "cost-of-living"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "cost of living Blackburn North Melbourne"
   - "how expensive is Blackburn North"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-wharf"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "South Wharf Melbourne history"
   - "how has South Wharf changed"

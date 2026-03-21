@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-yarra"
 article_type: "housing"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "renting in South Yarra"
   - "South Yarra rental market"

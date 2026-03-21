@@ -4,7 +4,8 @@ description: "The insider's guide to Niddrie's different pockets, streets, and a
 date: 2026-03-21
 suburb: "niddrie"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Niddrie neighbourhood guide"
   - "best streets in Niddrie"

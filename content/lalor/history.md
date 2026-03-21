@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lalor"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Lalor Melbourne history"
   - "how has Lalor changed"

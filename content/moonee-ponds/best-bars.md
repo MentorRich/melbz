@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "nightlife"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "best bars Moonee Ponds"
   - "bars in Moonee Ponds Melbourne"

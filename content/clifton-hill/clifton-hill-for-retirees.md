@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Clifton Hill retirees Melbourne"
   - "retiring in Clifton Hill"

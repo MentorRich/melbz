@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Wattle Glen good for families"
   - "Wattle Glen family friendly"

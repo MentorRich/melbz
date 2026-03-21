@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brighton-east"
 article_type: "history"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Brighton East Melbourne history"
   - "how has Brighton East changed"

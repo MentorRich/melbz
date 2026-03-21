@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "templestowe"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Templestowe good for families"
   - "Templestowe family friendly"

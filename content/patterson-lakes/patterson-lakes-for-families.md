@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Patterson Lakes good for families"
   - "Patterson Lakes family friendly"

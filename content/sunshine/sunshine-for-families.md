@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sunshine"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Sunshine good for families"
   - "Sunshine family friendly"

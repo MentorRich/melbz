@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "spotswood"
 article_type: "retirees"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Spotswood retirees Melbourne"
   - "retiring in Spotswood"

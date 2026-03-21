@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "pascoe-vale-south"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Pascoe Vale South Melbourne"
   - "commute from Pascoe Vale South to city"

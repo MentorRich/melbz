@@ -4,7 +4,8 @@ description: "The insider's guide to Keilor East's different pockets, streets, a
 date: 2026-03-21
 suburb: "keilor-east"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Keilor East neighbourhood guide"
   - "best streets in Keilor East"

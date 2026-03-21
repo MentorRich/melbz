@@ -4,6 +4,7 @@ description: "Spring racing season transforms Melbourne. Where to stay, where to
 date: 2026-03-21
 article_type: "trending"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "melbourne cup suburban guide"
   - "spring racing carnival melbourne"

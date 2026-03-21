@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bayswater"
 article_type: "retirees"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Bayswater retirees Melbourne"
   - "retiring in Bayswater"

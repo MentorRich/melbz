@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wyndham-vale"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Wyndham Vale good for families"
   - "Wyndham Vale family friendly"

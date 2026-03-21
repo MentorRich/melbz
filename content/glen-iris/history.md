@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-iris"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Glen Iris Melbourne history"
   - "how has Glen Iris changed"

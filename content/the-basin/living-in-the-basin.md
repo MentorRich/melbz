@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "the-basin"
 article_type: "living-in"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "living in The Basin Melbourne"
   - "pros and cons of living in The Basin"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "springvale-south"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Springvale South retirees Melbourne"
   - "retiring in Springvale South"

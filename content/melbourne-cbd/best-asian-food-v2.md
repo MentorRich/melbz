@@ -3,6 +3,7 @@ title: "Best Asian Food in Melbourne CBD 2026: Chinatown & Beyond"
 cover_image: "/images/melbourne-cbd/best-asian-food-v2.jpg"
 date: 2026-03-16
 author: yuki
+author_image: "/images/authors/yuki.jpg"
 tags: ["melbourne-cbd", "asian", "food"]
 categories: ["food"]
 description: "Best Asian Food in Melbourne CBD 2026: Chinatown & Beyond"

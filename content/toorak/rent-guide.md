@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "toorak"
 article_type: "housing"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "renting in Toorak"
   - "Toorak rental market"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Oakleigh South Melbourne history"
   - "how has Oakleigh South changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sunshine-north"
 article_type: "transport"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "public transport Sunshine North Melbourne"
   - "commute from Sunshine North to city"

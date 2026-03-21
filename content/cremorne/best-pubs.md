@@ -6,6 +6,7 @@ cover_image: "/images/cremorne/best-pubs.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Cremorne's pub scene is small but real — from heritage Swan Street locals to beer halls that have no business being this good."

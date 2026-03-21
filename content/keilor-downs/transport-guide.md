@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "transport"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "public transport Keilor Downs Melbourne"
   - "commute from Keilor Downs to city"

@@ -4,6 +4,7 @@ description: "From rent to coffee to groceries — the real cost of living in Me
 date: 2026-03-21
 article_type: "trending"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "melbourne cost of living 2026"
   - "how expensive is melbourne"

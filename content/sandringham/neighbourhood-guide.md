@@ -4,7 +4,8 @@ description: "The insider's guide to Sandringham's different pockets, streets, a
 date: 2026-03-21
 suburb: "sandringham"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Sandringham neighbourhood guide"
   - "best streets in Sandringham"

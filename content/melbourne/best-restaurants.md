@@ -6,6 +6,7 @@ cover_image: "/images/melbourne/best-restaurants.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "jules"
+author_image: "/images/authors/jules.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best restaurants in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually eat dinner — from $20 plates to splurge-worthy degustations."

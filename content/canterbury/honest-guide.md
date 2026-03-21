@@ -3,6 +3,7 @@ title: "Canterbury Honest Guide 2026: The Leafy East Sider"
 cover_image: "/images/canterbury/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["canterbury", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Canterbury Honest Guide 2026: The Leafy East Sider"

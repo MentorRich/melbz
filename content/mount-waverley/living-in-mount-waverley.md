@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "living-in"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "living in Mount Waverley Melbourne"
   - "pros and cons of living in Mount Waverley"

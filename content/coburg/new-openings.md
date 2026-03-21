@@ -6,6 +6,7 @@ cover_image: "/images/coburg/new-openings.jpg"
 suburb: "coburg"
 vertical: "food"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The latest new openings in Coburg for 2026 — new restaurants, cafes, bars, and shops that just arrived on Sydney Road and the Pentridge precinct."

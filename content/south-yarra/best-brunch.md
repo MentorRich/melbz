@@ -6,6 +6,7 @@ cover_image: "/images/south-yarra/best-brunch.jpg"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The real best brunch spots in South Yarra — verified addresses, honest prices, and no tourist traps. 8 places worth your Saturday morning."

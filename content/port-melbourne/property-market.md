@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "property"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "buying in Port Melbourne"
   - "Port Melbourne property market"

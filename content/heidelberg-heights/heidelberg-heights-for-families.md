@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "heidelberg-heights"
 article_type: "families"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "is Heidelberg Heights good for families"
   - "Heidelberg Heights family friendly"

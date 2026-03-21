@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "abbotsford"
 article_type: "weekend"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "what to do Abbotsford this weekend"
   - "Abbotsford weekend"

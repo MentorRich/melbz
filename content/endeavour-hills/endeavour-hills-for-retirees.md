@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "endeavour-hills"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Endeavour Hills retirees Melbourne"
   - "retiring in Endeavour Hills"

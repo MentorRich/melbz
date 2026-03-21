@@ -6,6 +6,7 @@ cover_image: "/images/footscray/best-brunch.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The definitive guide to Footscray's best brunch in 2026. From Vietnamese-inflected breakfasts to Ethiopian coffee ceremonies — the west side does mornings differently."

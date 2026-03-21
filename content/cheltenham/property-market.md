@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cheltenham"
 article_type: "property"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "buying in Cheltenham"
   - "Cheltenham property market"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "St Kilda West Melbourne history"
   - "how has St Kilda West changed"

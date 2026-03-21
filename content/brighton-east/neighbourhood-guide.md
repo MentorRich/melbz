@@ -4,7 +4,8 @@ description: "The insider's guide to Brighton East's different pockets, streets,
 date: 2026-03-21
 suburb: "brighton-east"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "Brighton East neighbourhood guide"
   - "best streets in Brighton East"

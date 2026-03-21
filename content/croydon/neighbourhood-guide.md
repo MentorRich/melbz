@@ -4,7 +4,8 @@ description: "The insider's guide to Croydon's different pockets, streets, and a
 date: 2026-03-21
 suburb: "croydon"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Croydon neighbourhood guide"
   - "best streets in Croydon"

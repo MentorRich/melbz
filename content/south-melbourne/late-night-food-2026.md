@@ -3,6 +3,7 @@ title: "Late Night Food in South Melbourne 2026: After the Market Closes"
 cover_image: "/images/south-melbourne/late-night-food-2026.jpg"
 date: 2026-03-16
 author: ethan
+author_image: "/images/authors/ethan.jpg"
 tags: ["south-melbourne", "late-night", "food"]
 categories: ["food"]
 description: "Late Night Food in South Melbourne 2026: After the Market Closes"

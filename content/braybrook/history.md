@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "braybrook"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Braybrook Melbourne history"
   - "how has Braybrook changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "harkaway"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Harkaway Melbourne history"
   - "how has Harkaway changed"

@@ -3,6 +3,7 @@ title: "South Yarra: The Suburb Roast — Every Hot Take, No Apologies"
 cover_image: "/images/south-yarra/suburb-roast.jpg"
 date: 2026-03-16
 author: tyler
+author_image: "/images/authors/tyler.jpg"
 tags: ["south-yarra", "roast", "opinions"]
 categories: ["editorial"]
 description: "South Yarra: The Suburb Roast — Every Hot Take, No Apologies."

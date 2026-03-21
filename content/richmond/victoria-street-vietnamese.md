@@ -3,6 +3,7 @@ title: "Victoria Street Richmond: The Complete Guide to Melbourne's Premier Viet
 cover_image: "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=800"
 description: "Victoria Street in Richmond is Melbourne's premier Vietnamese food destination. Our complete guide covers the best pho, banh mi, and local picks along Victoria Street."
 author: "Linh Nguyen"
+author_image: "/images/authors/kai.jpg"
 author_role: "Asian Food Specialist"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "west-melbourne"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "West Melbourne retirees Melbourne"
   - "retiring in West Melbourne"

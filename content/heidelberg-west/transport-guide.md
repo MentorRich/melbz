@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Heidelberg West Melbourne"
   - "commute from Heidelberg West to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "narre-warren-north"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Narre Warren North Melbourne history"
   - "how has Narre Warren North changed"

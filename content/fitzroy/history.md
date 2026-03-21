@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fitzroy"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Fitzroy Melbourne history"
   - "how has Fitzroy changed"

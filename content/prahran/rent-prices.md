@@ -3,6 +3,7 @@ title: "Rent Prices in Prahran 2026"
 cover_image: "/images/prahran/rent-prices.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 description: "Current rent prices in Prahran. What it costs to live in Prahran in 2026, from studio apartments to family homes."
 tags: ["prahran", "rent-prices"]
 categories: ["rent"]

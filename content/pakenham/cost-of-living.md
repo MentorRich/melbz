@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "pakenham"
 article_type: "cost-of-living"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "cost of living Pakenham Melbourne"
   - "how expensive is Pakenham"

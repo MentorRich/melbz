@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wyndham-vale"
 article_type: "transport"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "public transport Wyndham Vale Melbourne"
   - "commute from Wyndham Vale to city"

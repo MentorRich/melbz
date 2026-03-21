@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "point-cook"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Point Cook Melbourne history"
   - "how has Point Cook changed"

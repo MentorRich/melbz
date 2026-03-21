@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton-north"
 article_type: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "dog friendly Carlton North"
   - "off leash park Carlton North"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "retirees"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Box Hill South retirees Melbourne"
   - "retiring in Box Hill South"

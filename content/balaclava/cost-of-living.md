@@ -3,6 +3,7 @@ title: "Cost of Living in Balaclava 2026"
 cover_image: "/images/balaclava/cost-of-living.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 description: "The real cost of living in Balaclava. Rent, food, transport, and everyday expenses — what you need to budget for."
 tags: ["balaclava", "cost-of-living"]
 categories: ["cost"]

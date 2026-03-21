@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hampton"
 article_type: "best-of"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "best restaurants Hampton"
   - "where to eat Hampton"

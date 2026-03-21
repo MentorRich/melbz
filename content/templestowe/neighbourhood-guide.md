@@ -4,7 +4,8 @@ description: "The insider's guide to Templestowe's different pockets, streets, a
 date: 2026-03-21
 suburb: "templestowe"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Templestowe neighbourhood guide"
   - "best streets in Templestowe"

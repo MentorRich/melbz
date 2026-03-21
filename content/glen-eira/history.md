@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-eira"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Glen Eira Melbourne history"
   - "how has Glen Eira changed"

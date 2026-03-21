@@ -3,6 +3,7 @@ title: "Best Pubs in South Yarra 2026: Heritage Hotels & Craft Beer"
 cover_image: "/images/south-yarra/best-pubs.jpg"
 date: 2026-03-16
 author: kai
+author_image: "/images/authors/kai.jpg"
 tags: ["south-yarra", "pubs", "nightlife"]
 categories: ["nightlife"]
 description: "South Yarra's Best Pubs 2026: From Dive Bars to Gastropubs."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hallam"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Hallam Melbourne"
   - "commute from Hallam to city"

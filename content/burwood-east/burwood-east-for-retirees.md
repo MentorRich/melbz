@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "burwood-east"
 article_type: "retirees"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Burwood East retirees Melbourne"
   - "retiring in Burwood East"

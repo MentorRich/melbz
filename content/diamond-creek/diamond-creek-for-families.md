@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "diamond-creek"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Diamond Creek good for families"
   - "Diamond Creek family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ferntree-gully"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Ferntree Gully Melbourne"
   - "commute from Ferntree Gully to city"

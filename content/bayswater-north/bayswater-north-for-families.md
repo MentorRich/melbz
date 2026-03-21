@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bayswater-north"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Bayswater North good for families"
   - "Bayswater North family friendly"

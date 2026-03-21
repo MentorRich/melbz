@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "abbotsford"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Abbotsford Melbourne history"
   - "how has Abbotsford changed"

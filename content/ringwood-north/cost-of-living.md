@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ringwood-north"
 article_type: "cost-of-living"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "cost of living Ringwood North Melbourne"
   - "how expensive is Ringwood North"

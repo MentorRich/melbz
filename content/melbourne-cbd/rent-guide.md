@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "melbourne-cbd"
 article_type: "housing"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "renting in Melbourne CBD"
   - "Melbourne CBD rental market"

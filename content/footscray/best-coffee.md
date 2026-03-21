@@ -6,6 +6,7 @@ cover_image: "/images/footscray/best-coffee.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The definitive guide to Footscray's best coffee in 2026. From warehouse roasteries to Vietnamese iced coffee — the west side's caffeine game is seriously underrated."

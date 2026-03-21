@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Narre Warren South good for families"
   - "Narre Warren South family friendly"

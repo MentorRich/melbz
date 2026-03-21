@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Lower Templestowe Melbourne history"
   - "how has Lower Templestowe changed"

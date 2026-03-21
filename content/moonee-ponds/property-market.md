@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "property"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "buying in Moonee Ponds"
   - "Moonee Ponds property market"

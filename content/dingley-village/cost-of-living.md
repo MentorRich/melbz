@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dingley-village"
 article_type: "cost-of-living"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "cost of living Dingley Village Melbourne"
   - "how expensive is Dingley Village"

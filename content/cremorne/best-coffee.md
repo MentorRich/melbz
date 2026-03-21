@@ -6,6 +6,7 @@ cover_image: "/images/cremorne/best-coffee.jpg"
 suburb: "cremorne"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Melbourne's most cafe-dense suburb means the coffee standard in Cremorne is brutally high. Here's where to get the best brew in 3121."

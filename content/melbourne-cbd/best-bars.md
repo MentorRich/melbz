@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "melbourne-cbd"
 article_type: "nightlife"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "best bars Melbourne CBD"
   - "bars in Melbourne CBD Melbourne"

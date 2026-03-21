@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "preston"
 article_type: "housing"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "renting in Preston"
   - "Preston rental market"

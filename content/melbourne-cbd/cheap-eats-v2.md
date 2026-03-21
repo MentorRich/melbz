@@ -3,6 +3,7 @@ title: "Cheap Eats Under $20 in Melbourne CBD 2026: Food Courts & Laneways"
 cover_image: "/images/melbourne-cbd/cheap-eats-v2.jpg"
 date: 2026-03-16
 author: priya
+author_image: "/images/authors/priya.jpg"
 tags: ["melbourne-cbd", "cheap-eats", "food"]
 categories: ["food"]
 description: "Cheap Eats Under $20 in Melbourne CBD 2026: Food Courts & Laneways"

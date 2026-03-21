@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ringwood-east"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Ringwood East Melbourne"
   - "commute from Ringwood East to city"

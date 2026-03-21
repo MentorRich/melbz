@@ -4,7 +4,8 @@ description: "The insider's guide to Maribyrnong's different pockets, streets, a
 date: 2026-03-21
 suburb: "maribyrnong"
 article_type: "neighbourhood"
-author: "dani" 
+author: "dani"
+author_image: "/images/authors/dani.jpg" 
 keywords:
   - "Maribyrnong neighbourhood guide"
   - "best streets in Maribyrnong"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fairfield"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Fairfield Melbourne history"
   - "how has Fairfield changed"

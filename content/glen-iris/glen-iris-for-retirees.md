@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-iris"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Glen Iris retirees Melbourne"
   - "retiring in Glen Iris"

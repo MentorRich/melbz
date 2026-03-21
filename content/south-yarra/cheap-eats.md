@@ -3,6 +3,7 @@ title: "Cheap Eats Under $20 in South Yarra 2026"
 cover_image: "/images/south-yarra/cheap-eats.jpg"
 date: 2026-03-18
 author: priya
+author_image: "/images/authors/priya.jpg"
 description: "Eat well without breaking the bank. The best cheap eats in South Yarra under $20, from Asian eateries to pub counter meals."
 tags: ["south-yarra", "cheap-eats"]
 categories: ["cheap"]

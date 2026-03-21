@@ -4,7 +4,8 @@ description: "The insider's guide to Kings Park's different pockets, streets, an
 date: 2026-03-21
 suburb: "kings-park"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Kings Park neighbourhood guide"
   - "best streets in Kings Park"

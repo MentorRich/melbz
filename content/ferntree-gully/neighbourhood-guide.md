@@ -4,7 +4,8 @@ description: "The insider's guide to Ferntree Gully's different pockets, streets
 date: 2026-03-21
 suburb: "ferntree-gully"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Ferntree Gully neighbourhood guide"
   - "best streets in Ferntree Gully"

@@ -6,6 +6,7 @@ cover_image: "/images/fitzroy/cheap-eats.jpg"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "omar"
+author_image: "/images/authors/omar.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the cheap eats in Fitzroy. Our verified 2026 guide covers the best spots for locals."

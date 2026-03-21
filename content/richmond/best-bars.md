@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "richmond"
 article_type: "nightlife"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "best bars Richmond"
   - "bars in Richmond Melbourne"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Roxburgh Park good for families"
   - "Roxburgh Park family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-eira"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Glen Eira good for families"
   - "Glen Eira family friendly"

@@ -6,6 +6,7 @@ cover_image: "/images/thornbury/best-coffee.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best coffee in Thornbury for 2026. Specialty roasters, single-origin pours, and baristas who actually care. No chain coffee here."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "surrey-hills"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Surrey Hills Melbourne history"
   - "how has Surrey Hills changed"

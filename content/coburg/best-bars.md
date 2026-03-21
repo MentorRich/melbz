@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "coburg"
 article_type: "nightlife"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "best bars Coburg"
   - "bars in Coburg Melbourne"

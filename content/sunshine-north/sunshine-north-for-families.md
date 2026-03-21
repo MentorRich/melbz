@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sunshine-north"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Sunshine North good for families"
   - "Sunshine North family friendly"

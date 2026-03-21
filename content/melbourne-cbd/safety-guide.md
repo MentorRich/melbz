@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "melbourne-cbd"
 article_type: "safety"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Melbourne CBD safe"
   - "Melbourne CBD safety"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "montrose"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Montrose good for families"
   - "Montrose family friendly"

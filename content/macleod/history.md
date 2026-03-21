@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "macleod"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Macleod Melbourne history"
   - "how has Macleod changed"

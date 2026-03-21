@@ -4,7 +4,8 @@ description: "The insider's guide to Campbellfield's different pockets, streets,
 date: 2026-03-21
 suburb: "campbellfield"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Campbellfield neighbourhood guide"
   - "best streets in Campbellfield"

@@ -4,6 +4,7 @@ description: "The rental market is tough. Here are practical strategies that act
 date: 2026-03-21
 article_type: "trending"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "melbourne rental crisis"
   - "how to find rental melbourne"

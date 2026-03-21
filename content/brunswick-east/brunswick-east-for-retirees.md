@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick-east"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Brunswick East retirees Melbourne"
   - "retiring in Brunswick East"

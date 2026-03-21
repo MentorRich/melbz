@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "yarraville"
 article_type: "property"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "buying in Yarraville"
   - "Yarraville property market"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "upwey"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Upwey Melbourne history"
   - "how has Upwey changed"

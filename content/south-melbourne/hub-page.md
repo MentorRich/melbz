@@ -3,6 +3,7 @@ title: "South Melbourne Suburb Guide 2026: Everything You Need to Know"
 cover_image: "/images/south-melbourne/hub-page.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["south-melbourne", "suburb-guide"]
 categories: ["lifestyle"]
 description: "South Melbourne Suburb Guide 2026: Everything You Need to Know"

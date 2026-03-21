@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "altona-north"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Altona North Melbourne history"
   - "how has Altona North changed"

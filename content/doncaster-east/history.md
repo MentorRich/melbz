@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "doncaster-east"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Doncaster East Melbourne history"
   - "how has Doncaster East changed"

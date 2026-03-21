@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "reservoir"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Reservoir good for families"
   - "Reservoir family friendly"

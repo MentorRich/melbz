@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hadfield"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Hadfield retirees Melbourne"
   - "retiring in Hadfield"

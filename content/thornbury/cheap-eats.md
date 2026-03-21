@@ -6,6 +6,7 @@ cover_image: "/images/thornbury/cheap-eats.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "omar"
+author_image: "/images/authors/omar.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Thornbury's best cheap eats under $20 in 2026. Real prices, generous portions, and no compromises on quality. Your wallet will thank you."

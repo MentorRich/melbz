@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "braeside"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Braeside good for families"
   - "Braeside family friendly"

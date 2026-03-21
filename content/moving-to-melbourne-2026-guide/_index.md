@@ -4,6 +4,7 @@ description: "Everything you need to know about moving to Melbourne. Suburbs, co
 date: 2026-03-21
 article_type: "trending"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "moving to melbourne 2026"
   - "relocating to melbourne guide"

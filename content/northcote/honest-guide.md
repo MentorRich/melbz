@@ -3,6 +3,7 @@ title: "Northcote Honest Guide 2026: High Street & Honest Opinions"
 cover_image: "/images/northcote/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["northcote", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Northcote Honest Guide 2026: High Street & Honest Opinions"

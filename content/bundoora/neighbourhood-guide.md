@@ -4,7 +4,8 @@ description: "The insider's guide to Bundoora's different pockets, streets, and 
 date: 2026-03-21
 suburb: "bundoora"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Bundoora neighbourhood guide"
   - "best streets in Bundoora"

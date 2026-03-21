@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "oak-park"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Oak Park good for families"
   - "Oak Park family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hawthorn"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Hawthorn retirees Melbourne"
   - "retiring in Hawthorn"

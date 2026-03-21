@@ -3,6 +3,7 @@ title: "Ascot Vale Nightlife Guide 2026: Pubs, Bars & Local Gems"
 cover_image: "/images/ascot-vale/nightlife-guide.jpg"
 date: 2026-03-18
 author: lina
+author_image: "/images/authors/lina.jpg"
 tags: ["ascot-vale", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Ascot Vale Nightlife Guide 2026: Pubs, Bars & Local Gems"

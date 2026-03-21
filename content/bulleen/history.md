@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bulleen"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Bulleen Melbourne history"
   - "how has Bulleen changed"

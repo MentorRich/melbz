@@ -4,7 +4,8 @@ description: "The insider's guide to Dandenong North's different pockets, street
 date: 2026-03-21
 suburb: "dandenong-north"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Dandenong North neighbourhood guide"
   - "best streets in Dandenong North"

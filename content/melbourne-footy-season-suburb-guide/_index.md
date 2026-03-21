@@ -4,6 +4,7 @@ description: "Footy season is a different Melbourne. Which suburbs have the best
 date: 2026-03-21
 article_type: "trending"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "afl suburbs melbourne"
   - "footy pubs melbourne"

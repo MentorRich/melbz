@@ -4,7 +4,8 @@ description: "The insider's guide to Mount Waverley's different pockets, streets
 date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "neighbourhood"
-author: "dani" 
+author: "dani"
+author_image: "/images/authors/dani.jpg" 
 keywords:
   - "Mount Waverley neighbourhood guide"
   - "best streets in Mount Waverley"

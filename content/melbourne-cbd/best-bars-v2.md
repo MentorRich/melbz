@@ -3,6 +3,7 @@ title: "Best Bars in Melbourne CBD 2026: Laneway Gems & Rooftop Views"
 cover_image: "/images/melbourne-cbd/best-bars-v2.jpg"
 date: 2026-03-16
 author: lina
+author_image: "/images/authors/lina.jpg"
 tags: ["melbourne-cbd", "bars", "nightlife"]
 categories: ["nightlife"]
 description: "Best Bars in Melbourne CBD 2026: Laneway Gems & Rooftop Views"

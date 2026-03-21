@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "elwood"
 article_type: "housing"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "renting in Elwood"
   - "Elwood rental market"

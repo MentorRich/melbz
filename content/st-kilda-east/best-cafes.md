@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-east"
 article_type: "best-of"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "best cafes St Kilda East"
   - "coffee St Kilda East Melbourne"

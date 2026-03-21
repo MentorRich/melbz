@@ -6,6 +6,7 @@ cover_image: "/images/windsor/date-night.jpg"
 suburb: "windsor"
 vertical: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the date night in Windsor. Our verified 2026 guide covers the best spots for locals."

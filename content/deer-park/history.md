@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "deer-park"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Deer Park Melbourne history"
   - "how has Deer Park changed"

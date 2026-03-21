@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "housing"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "renting in North Melbourne"
   - "North Melbourne rental market"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill"
 article_type: "local-guide"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "hidden gems Box Hill"
   - "secret spots Box Hill"

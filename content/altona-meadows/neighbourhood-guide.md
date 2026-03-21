@@ -4,7 +4,8 @@ description: "The insider's guide to Altona Meadows's different pockets, streets
 date: 2026-03-21
 suburb: "altona-meadows"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "Altona Meadows neighbourhood guide"
   - "best streets in Altona Meadows"

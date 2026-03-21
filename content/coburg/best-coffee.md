@@ -6,6 +6,7 @@ cover_image: "/images/coburg/best-coffee.jpg"
 suburb: "coburg"
 vertical: "food"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The best coffee in Coburg for 2026 — 6 verified cafes from Moreland Road to Pentridge. Specialty roasts, house blends, and the spots where your flat white actually matters."

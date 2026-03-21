@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-eira"
 article_type: "retirees"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Glen Eira retirees Melbourne"
   - "retiring in Glen Eira"

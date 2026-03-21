@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sandringham"
 article_type: "families"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Sandringham good for families"
   - "Sandringham family friendly"

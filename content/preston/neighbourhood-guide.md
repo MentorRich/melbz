@@ -6,6 +6,7 @@ cover_image: "/images/preston/neighbourhood-guide.jpg"
 suburb: "preston"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the neighbourhood guide in Preston. Our verified 2026 guide covers the best spots for locals."

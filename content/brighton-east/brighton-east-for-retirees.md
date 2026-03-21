@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brighton-east"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Brighton East retirees Melbourne"
   - "retiring in Brighton East"

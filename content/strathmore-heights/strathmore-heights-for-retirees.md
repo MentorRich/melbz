@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "strathmore-heights"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Strathmore Heights retirees Melbourne"
   - "retiring in Strathmore Heights"

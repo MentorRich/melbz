@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "southbank"
 article_type: "nightlife"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "best bars Southbank"
   - "bars in Southbank Melbourne"

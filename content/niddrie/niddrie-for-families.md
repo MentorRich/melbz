@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "niddrie"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Niddrie good for families"
   - "Niddrie family friendly"

@@ -6,6 +6,7 @@ cover_image: "/images/brunswick/neighbourhood-guide.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Your 2026 neighbourhood guide to Brunswick. Sydney Road, Lygon Street, the bike path, CERES, Nightingale Village, and everything you need to know about Melbourne's most culturally dense inner-north suburb."

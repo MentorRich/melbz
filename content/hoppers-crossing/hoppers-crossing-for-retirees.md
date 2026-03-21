@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hoppers-crossing"
 article_type: "retirees"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Hoppers Crossing retirees Melbourne"
   - "retiring in Hoppers Crossing"

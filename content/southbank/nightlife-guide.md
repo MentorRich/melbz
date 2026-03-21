@@ -5,6 +5,7 @@ date: 2026-03-17
 
 updated: 2026-03-17
 author: "Dylan Hayes"
+author_image: "/images/authors/dylan.jpg"
 suburb: "southbank"
 vertical: "nightlife"
 tags: ["nightlife", "southbank", "bars", "restaurants", "entertainment"]

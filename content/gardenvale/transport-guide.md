@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "gardenvale"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Gardenvale Melbourne"
   - "commute from Gardenvale to city"

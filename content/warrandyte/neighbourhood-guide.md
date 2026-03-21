@@ -4,7 +4,8 @@ description: "The insider's guide to Warrandyte's different pockets, streets, an
 date: 2026-03-21
 suburb: "warrandyte"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Warrandyte neighbourhood guide"
   - "best streets in Warrandyte"

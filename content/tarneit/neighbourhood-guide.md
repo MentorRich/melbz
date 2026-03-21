@@ -4,7 +4,8 @@ description: "The insider's guide to Tarneit's different pockets, streets, and a
 date: 2026-03-21
 suburb: "tarneit"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Tarneit neighbourhood guide"
   - "best streets in Tarneit"

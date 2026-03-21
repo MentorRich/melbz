@@ -4,7 +4,8 @@ description: "The insider's guide to Princes Hill's different pockets, streets, 
 date: 2026-03-21
 suburb: "princes-hill"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Princes Hill neighbourhood guide"
   - "best streets in Princes Hill"

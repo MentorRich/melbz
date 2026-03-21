@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "thornbury"
 article_type: "weekend"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "what to do Thornbury this weekend"
   - "Thornbury weekend"

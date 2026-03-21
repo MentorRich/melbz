@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "gardenvale"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Gardenvale Melbourne history"
   - "how has Gardenvale changed"

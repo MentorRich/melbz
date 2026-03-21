@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "craigieburn"
 article_type: "living-in"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "living in Craigieburn Melbourne"
   - "pros and cons of living in Craigieburn"

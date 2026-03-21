@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "retirees"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Aspendale Gardens retirees Melbourne"
   - "retiring in Aspendale Gardens"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fitzroy"
 article_type: "weekend"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "what to do Fitzroy this weekend"
   - "Fitzroy weekend"

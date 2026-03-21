@@ -3,6 +3,7 @@ title: "Late Night Food in South Yarra 2026: Where to Eat After 10pm"
 cover_image: "/images/south-yarra/late-night-food.jpg"
 date: 2026-03-16
 author: ethan
+author_image: "/images/authors/ethan.jpg"
 tags: ["south-yarra", "late-night", "food"]
 categories: ["food"]
 description: "Late Night Food in South Yarra 2026: Where to Eat After 10pm."

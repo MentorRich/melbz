@@ -6,6 +6,7 @@ cover_image: "/images/thornbury/best-pubs.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Thornbury's best pubs for 2026 — from converted warehouses to local bowls clubs. Real ales, proper parma, and no pretension."

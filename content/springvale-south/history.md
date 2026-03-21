@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "springvale-south"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Springvale South Melbourne history"
   - "how has Springvale South changed"

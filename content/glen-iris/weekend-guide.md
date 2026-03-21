@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-iris"
 article_type: "weekend"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "what to do Glen Iris this weekend"
   - "Glen Iris weekend"

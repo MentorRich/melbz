@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kings-park"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Kings Park Melbourne"
   - "commute from Kings Park to city"

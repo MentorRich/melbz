@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "tottenham"
 article_type: "history"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Tottenham Melbourne history"
   - "how has Tottenham changed"

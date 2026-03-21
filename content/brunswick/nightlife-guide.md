@@ -6,6 +6,7 @@ cover_image: "/images/brunswick/nightlife-guide.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Brunswick nightlife guide for 2026. Live music at The Retreat and Brunswick Ballroom, comedy at The Bergy, jazz at Jazzlab, late-night eats, and the venues that make Sydney Road Melbourne's best going-out strip."

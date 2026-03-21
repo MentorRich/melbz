@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Mount Waverley Melbourne history"
   - "how has Mount Waverley changed"

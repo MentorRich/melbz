@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fairfield"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Fairfield good for families"
   - "Fairfield family friendly"

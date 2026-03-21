@@ -4,7 +4,8 @@ description: "The insider's guide to Reservoir's different pockets, streets, and
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Reservoir neighbourhood guide"
   - "best streets in Reservoir"

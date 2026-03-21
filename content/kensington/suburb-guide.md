@@ -3,6 +3,7 @@ title: "Kensington Melbourne Suburb Guide 2026: The Sleeper Suburb"
 cover_image: "/images/kensington/suburb-guide.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["kensington", "suburb-guide", "property"]
 categories: ["property"]
 description: "Kensington Melbourne Suburb Guide 2026: The Sleeper Suburb"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "eltham"
 article_type: "transport"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "public transport Eltham Melbourne"
   - "commute from Eltham to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick-east"
 article_type: "property"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "buying in Brunswick East"
   - "Brunswick East property market"

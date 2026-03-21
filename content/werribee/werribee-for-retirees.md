@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "werribee"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Werribee retirees Melbourne"
   - "retiring in Werribee"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "altona-meadows"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Altona Meadows good for families"
   - "Altona Meadows family friendly"

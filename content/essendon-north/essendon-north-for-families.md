@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "essendon-north"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Essendon North good for families"
   - "Essendon North family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "albion"
 article_type: "retirees"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Albion retirees Melbourne"
   - "retiring in Albion"

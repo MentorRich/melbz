@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "nunawading"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Nunawading Melbourne"
   - "commute from Nunawading to city"

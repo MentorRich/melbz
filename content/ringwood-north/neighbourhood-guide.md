@@ -4,7 +4,8 @@ description: "The insider's guide to Ringwood North's different pockets, streets
 date: 2026-03-21
 suburb: "ringwood-north"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "Ringwood North neighbourhood guide"
   - "best streets in Ringwood North"

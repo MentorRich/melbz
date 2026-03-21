@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "blackburn-north"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Blackburn North Melbourne"
   - "commute from Blackburn North to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hampton-east"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Hampton East Melbourne"
   - "commute from Hampton East to city"

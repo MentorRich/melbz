@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "skye"
 article_type: "transport"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "public transport Skye Melbourne"
   - "commute from Skye to city"

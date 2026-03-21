@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carnegie"
 article_type: "retirees"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Carnegie retirees Melbourne"
   - "retiring in Carnegie"

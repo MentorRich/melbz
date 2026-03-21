@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "spotswood"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Spotswood Melbourne history"
   - "how has Spotswood changed"

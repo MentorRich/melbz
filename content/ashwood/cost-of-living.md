@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ashwood"
 article_type: "cost-of-living"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "cost of living Ashwood Melbourne"
   - "how expensive is Ashwood"

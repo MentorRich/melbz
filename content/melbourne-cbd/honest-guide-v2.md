@@ -3,6 +3,7 @@ title: "Melbourne CBD Honest Guide 2026: Love Letters & Complaints"
 cover_image: "/images/melbourne-cbd/honest-guide-v2.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["melbourne-cbd", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Melbourne CBD Honest Guide 2026: Love Letters & Complaints"

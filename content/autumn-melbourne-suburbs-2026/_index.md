@@ -4,6 +4,7 @@ description: "Autumn in Melbourne is peak liveability. The suburbs that shine wh
 date: 2026-03-21
 article_type: "trending"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "autumn melbourne"
   - "melbourne autumn things to do"

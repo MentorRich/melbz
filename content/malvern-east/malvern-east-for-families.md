@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "malvern-east"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Malvern East good for families"
   - "Malvern East family friendly"

@@ -6,6 +6,7 @@ cover_image: "/images/brunswick/new-openings.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "New restaurant, bar, and venue openings in Brunswick for 2026. Alpha Ouzeri's comeback, Daphne in Brunswick East, and the spots worth queueing for."

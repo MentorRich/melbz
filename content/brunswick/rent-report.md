@@ -3,6 +3,7 @@ title: "Rent Prices in Brunswick 2026: Sydney Road Premium"
 cover_image: "/images/brunswick/rent-report.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["brunswick", "rent", "property"]
 categories: ["property"]
 description: "Rent Prices in Brunswick 2026: Sydney Road Premium"

@@ -4,6 +4,7 @@ description: "Interest rates, auction results, suburbs to watch — the real sta
 date: 2026-03-21
 article_type: "trending"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "melbourne property market 2026"
   - "melbourne house prices 2026"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "burnley"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Burnley Melbourne history"
   - "how has Burnley changed"

@@ -6,6 +6,7 @@ cover_image: "/images/fitzroy/neighbourhood-guide.jpg"
 suburb: "fitzroy"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the neighbourhood guide to Fitzroy. Our verified 2026 guide covers everything locals need to know."

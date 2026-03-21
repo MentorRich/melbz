@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "frankston-south"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Frankston South retirees Melbourne"
   - "retiring in Frankston South"

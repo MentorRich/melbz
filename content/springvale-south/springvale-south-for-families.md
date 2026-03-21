@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "springvale-south"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Springvale South good for families"
   - "Springvale South family friendly"

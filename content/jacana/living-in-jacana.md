@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "jacana"
 article_type: "living-in"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "living in Jacana Melbourne"
   - "pros and cons of living in Jacana"

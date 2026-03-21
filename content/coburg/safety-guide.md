@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "coburg"
 article_type: "safety"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Coburg safe"
   - "Coburg safety"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "montmorency"
 article_type: "families"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "is Montmorency good for families"
   - "Montmorency family friendly"

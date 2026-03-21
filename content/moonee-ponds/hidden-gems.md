@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "local-guide"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "hidden gems Moonee Ponds"
   - "secret spots Moonee Ponds"

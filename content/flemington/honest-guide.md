@@ -3,6 +3,7 @@ title: "Flemington Honest Guide 2026: Racecourse Road & Newmarket"
 cover_image: "/images/flemington/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["flemington", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Flemington Honest Guide 2026: Racecourse Road & Newmarket"

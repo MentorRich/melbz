@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "spotswood"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Spotswood Melbourne"
   - "commute from Spotswood to city"

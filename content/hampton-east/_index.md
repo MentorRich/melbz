@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hampton-east"
 article_type: "profile"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Hampton East Melbourne"
   - "what is Hampton East like"
@@ -52,7 +53,7 @@ Quick version: you can get to the city reasonably easy. The tram and train netwo
 
 ## Eating and Drinking in Hampton East
 
-The food scene in Hampton East reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and enough variety to keep things interesting without needing to leave the suburb every time you want a decent meal.
+The food scene in Hampton East reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and options for every mood and budget without needing to leave the suburb every time you want a decent meal.
 
 Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
 

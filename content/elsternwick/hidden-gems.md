@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "elsternwick"
 article_type: "local-guide"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "hidden gems Elsternwick"
   - "secret spots Elsternwick"

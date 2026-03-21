@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "yarraville"
 article_type: "best-of"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "best cafes Yarraville"
   - "coffee Yarraville Melbourne"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "essendon-west"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Essendon West Melbourne history"
   - "how has Essendon West changed"

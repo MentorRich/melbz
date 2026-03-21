@@ -3,6 +3,7 @@ title: "Best Brunch in Carlton 2026: Where to Eat After You've Earned It"
 cover_image: "/images/carlton/best-brunch.jpg"
 date: 2026-03-16
 author: dani
+author_image: "/images/authors/dani.jpg"
 tags: ["carlton", "brunch", "cafes"]
 categories: ["food"]
 description: "Best Brunch in Carlton 2026: Where to Eat After You've Earned It"

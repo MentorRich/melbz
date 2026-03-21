@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "flemington"
 article_type: "weekend"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "what to do Flemington this weekend"
   - "Flemington weekend"

@@ -4,7 +4,8 @@ description: "The insider's guide to Williams Landing's different pockets, stree
 date: 2026-03-21
 suburb: "williams-landing"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "Williams Landing neighbourhood guide"
   - "best streets in Williams Landing"

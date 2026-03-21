@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seddon"
 article_type: "best-of"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "best restaurants Seddon"
   - "where to eat Seddon"

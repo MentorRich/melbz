@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "williamstown"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Williamstown Melbourne history"
   - "how has Williamstown changed"

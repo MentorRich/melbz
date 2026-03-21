@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bundoora"
 article_type: "families"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "is Bundoora good for families"
   - "Bundoora family friendly"

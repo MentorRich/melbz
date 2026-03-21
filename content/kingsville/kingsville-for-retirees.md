@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kingsville"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Kingsville retirees Melbourne"
   - "retiring in Kingsville"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Aspendale Gardens Melbourne history"
   - "how has Aspendale Gardens changed"

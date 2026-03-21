@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hurstbridge"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Hurstbridge Melbourne history"
   - "how has Hurstbridge changed"

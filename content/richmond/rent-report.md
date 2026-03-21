@@ -3,6 +3,7 @@ title: "Rent Prices in Richmond 2026: Swan Street & Beyond"
 cover_image: "/images/richmond/rent-report.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["richmond", "rent", "property"]
 categories: ["property"]
 description: "Rent Prices in Richmond 2026: Swan Street & Beyond"

@@ -3,6 +3,7 @@ title: "Best Pubs in Kensington 2026: Racecourse Road & Beyond"
 cover_image: "/images/kensington/best-pubs-v2.jpg"
 date: 2026-03-16
 author: kai
+author_image: "/images/authors/kai.jpg"
 tags: ["kensington", "pubs", "nightlife"]
 categories: ["nightlife"]
 description: "Best Pubs in Kensington 2026: Racecourse Road & Beyond"

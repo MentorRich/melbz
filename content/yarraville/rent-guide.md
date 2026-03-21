@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "yarraville"
 article_type: "housing"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "renting in Yarraville"
   - "Yarraville rental market"

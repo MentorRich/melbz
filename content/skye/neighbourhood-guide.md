@@ -4,7 +4,8 @@ description: "The insider's guide to Skye's different pockets, streets, and area
 date: 2026-03-21
 suburb: "skye"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "Skye neighbourhood guide"
   - "best streets in Skye"

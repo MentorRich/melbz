@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "greensborough"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Greensborough good for families"
   - "Greensborough family friendly"

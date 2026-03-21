@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dallas"
 article_type: "transport"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "public transport Dallas Melbourne"
   - "commute from Dallas to city"

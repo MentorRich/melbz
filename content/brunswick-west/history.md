@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Brunswick West Melbourne history"
   - "how has Brunswick West changed"

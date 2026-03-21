@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "southbank"
 article_type: "activities"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "things to do Southbank"
   - "Southbank activities"

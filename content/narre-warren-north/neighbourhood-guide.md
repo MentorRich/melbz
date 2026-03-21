@@ -4,7 +4,8 @@ description: "The insider's guide to Narre Warren North's different pockets, str
 date: 2026-03-21
 suburb: "narre-warren-north"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Narre Warren North neighbourhood guide"
   - "best streets in Narre Warren North"

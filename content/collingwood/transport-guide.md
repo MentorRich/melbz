@@ -3,6 +3,7 @@ title: "Transport Guide for Collingwood"
 cover_image: "/images/collingwood/transport-guide.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 description: "Getting around Collingwood. Train, tram, and bus options, plus driving, parking, and cycling guide."
 tags: ["collingwood", "transport-guide"]
 categories: ["transport"]

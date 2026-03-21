@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "toorak"
 article_type: "young-professionals"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Toorak young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
@@ -67,7 +68,7 @@ The age demographic skews towards your crowd in certain pockets. You won't feel 
 
 ## Verdict
 
-Toorak is a genuinely good option for young professionals who want a balanced Melbourne lifestyle — work access, social scene, and a neighbourhood with personality. It's not the cheapest option and it's not the flashiest. But it's real, it's got substance, and it won't bore you.
+Toorak is a competitive option if you want nightlife and transport who want a balanced Melbourne lifestyle — work access, social scene, and a neighbourhood with personality. It's not the cheapest option and it's not the flashiest. But it's real, it's got substance, and it won't bore you.
 
 ---
 

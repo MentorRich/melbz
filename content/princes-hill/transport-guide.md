@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "princes-hill"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Princes Hill Melbourne"
   - "commute from Princes Hill to city"

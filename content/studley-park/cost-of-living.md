@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "studley-park"
 article_type: "cost-of-living"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "cost of living Studley Park Melbourne"
   - "how expensive is Studley Park"

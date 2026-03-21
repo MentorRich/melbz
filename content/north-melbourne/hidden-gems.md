@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "local-guide"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "hidden gems North Melbourne"
   - "secret spots North Melbourne"

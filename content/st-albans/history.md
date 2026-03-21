@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-albans"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "St Albans Melbourne history"
   - "how has St Albans changed"

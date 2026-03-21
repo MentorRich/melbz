@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keilor-east"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Keilor East retirees Melbourne"
   - "retiring in Keilor East"

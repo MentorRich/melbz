@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "nightlife"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "best bars North Melbourne"
   - "bars in North Melbourne Melbourne"

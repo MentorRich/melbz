@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Clifton Hill good for families"
   - "Clifton Hill family friendly"

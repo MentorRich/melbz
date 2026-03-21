@@ -4,7 +4,8 @@ description: "The insider's guide to Kooyong's different pockets, streets, and a
 date: 2026-03-21
 suburb: "kooyong"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Kooyong neighbourhood guide"
   - "best streets in Kooyong"

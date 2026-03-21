@@ -3,6 +3,7 @@ title: "Rent Prices in Prahran 2026: Chapel Street Premium"
 cover_image: "/images/prahran/rent-report.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["prahran", "rent", "property"]
 categories: ["property"]
 description: "Rent Prices in Prahran 2026: Chapel Street Premium"

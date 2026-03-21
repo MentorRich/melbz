@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "reservoir"
 article_type: "nightlife"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "best bars Reservoir"
   - "bars in Reservoir Melbourne"

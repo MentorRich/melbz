@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "flemington"
 article_type: "best-of"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "best restaurants Flemington"
   - "where to eat Flemington"

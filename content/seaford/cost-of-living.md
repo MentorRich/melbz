@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seaford"
 article_type: "cost-of-living"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "cost of living Seaford Melbourne"
   - "how expensive is Seaford"

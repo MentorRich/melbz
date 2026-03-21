@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "transport"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "public transport Gladstone Park Melbourne"
   - "commute from Gladstone Park to city"

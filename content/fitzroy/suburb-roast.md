@@ -3,6 +3,7 @@ title: "Fitzroy: The Suburb Roast — Every Hot Take, No Apologies"
 cover_image: "/images/fitzroy/suburb-roast.jpg"
 date: 2026-03-16
 author: tyler
+author_image: "/images/authors/tyler.jpg"
 tags: ["fitzroy", "roast", "opinions"]
 categories: ["editorial"]
 description: "Fitzroy: The Suburb Roast — Every Hot Take, No Apologies"

@@ -3,6 +3,7 @@ title: "Late Night Food in Richmond 2026: Victoria Street After Dark"
 cover_image: "/images/richmond/late-night-food.jpg"
 date: 2026-03-16
 author: ethan
+author_image: "/images/authors/ethan.jpg"
 tags: ["richmond", "late-night", "food"]
 categories: ["food"]
 description: "Late Night Food in Richmond 2026: Victoria Street After Dark"

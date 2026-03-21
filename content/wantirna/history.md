@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wantirna"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Wantirna Melbourne history"
   - "how has Wantirna changed"

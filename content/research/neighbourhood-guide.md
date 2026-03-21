@@ -4,7 +4,8 @@ description: "The insider's guide to Research's different pockets, streets, and 
 date: 2026-03-21
 suburb: "research"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Research neighbourhood guide"
   - "best streets in Research"

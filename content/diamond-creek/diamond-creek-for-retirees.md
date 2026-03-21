@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "diamond-creek"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Diamond Creek retirees Melbourne"
   - "retiring in Diamond Creek"

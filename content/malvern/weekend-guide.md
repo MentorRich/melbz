@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "malvern"
 article_type: "weekend"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "what to do Malvern this weekend"
   - "Malvern weekend"

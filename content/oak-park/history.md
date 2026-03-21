@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "oak-park"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Oak Park Melbourne history"
   - "how has Oak Park changed"

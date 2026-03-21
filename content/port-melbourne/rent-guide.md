@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "housing"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "renting in Port Melbourne"
   - "Port Melbourne rental market"

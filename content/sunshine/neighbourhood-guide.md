@@ -4,7 +4,8 @@ description: "The insider's guide to Sunshine's different pockets, streets, and 
 date: 2026-03-21
 suburb: "sunshine"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Sunshine neighbourhood guide"
   - "best streets in Sunshine"

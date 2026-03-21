@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "essendon-west"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Essendon West good for families"
   - "Essendon West family friendly"

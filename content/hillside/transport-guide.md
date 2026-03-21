@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hillside"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Hillside Melbourne"
   - "commute from Hillside to city"

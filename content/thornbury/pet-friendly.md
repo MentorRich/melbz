@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "thornbury"
 article_type: "lifestyle"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "dog friendly Thornbury"
   - "off leash park Thornbury"

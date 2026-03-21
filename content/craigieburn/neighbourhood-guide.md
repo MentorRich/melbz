@@ -4,7 +4,8 @@ description: "The insider's guide to Craigieburn's different pockets, streets, a
 date: 2026-03-21
 suburb: "craigieburn"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Craigieburn neighbourhood guide"
   - "best streets in Craigieburn"

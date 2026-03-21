@@ -4,7 +4,8 @@ description: "The insider's guide to Hampton Park's different pockets, streets, 
 date: 2026-03-21
 suburb: "hampton-park"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Hampton Park neighbourhood guide"
   - "best streets in Hampton Park"

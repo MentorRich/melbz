@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Cranbourne East Melbourne history"
   - "how has Cranbourne East changed"

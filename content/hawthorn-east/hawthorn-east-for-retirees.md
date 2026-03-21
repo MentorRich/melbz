@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hawthorn-east"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Hawthorn East retirees Melbourne"
   - "retiring in Hawthorn East"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "epping"
 article_type: "history"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Epping Melbourne history"
   - "how has Epping changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "vermont-south"
 article_type: "retirees"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Vermont South retirees Melbourne"
   - "retiring in Vermont South"

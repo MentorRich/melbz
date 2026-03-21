@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "rosanna"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Rosanna Melbourne history"
   - "how has Rosanna changed"

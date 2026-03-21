@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "richmond"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Richmond Melbourne history"
   - "how has Richmond changed"

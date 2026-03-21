@@ -4,7 +4,8 @@ description: "The insider's guide to Narre Warren South's different pockets, str
 date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Narre Warren South neighbourhood guide"
   - "best streets in Narre Warren South"

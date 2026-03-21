@@ -4,7 +4,8 @@ description: "The insider's guide to Mont Albert's different pockets, streets, a
 date: 2026-03-21
 suburb: "mont-albert"
 article_type: "neighbourhood"
-author: "dani" 
+author: "dani"
+author_image: "/images/authors/dani.jpg" 
 keywords:
   - "Mont Albert neighbourhood guide"
   - "best streets in Mont Albert"

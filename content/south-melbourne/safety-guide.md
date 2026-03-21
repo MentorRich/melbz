@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-melbourne"
 article_type: "safety"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "is South Melbourne safe"
   - "South Melbourne safety"

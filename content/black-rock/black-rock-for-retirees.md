@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "black-rock"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Black Rock retirees Melbourne"
   - "retiring in Black Rock"

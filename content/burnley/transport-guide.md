@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "burnley"
 article_type: "transport"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "public transport Burnley Melbourne"
   - "commute from Burnley to city"

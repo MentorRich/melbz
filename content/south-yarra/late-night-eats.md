@@ -3,6 +3,7 @@ title: "Late Night Eats in South Yarra: Where to Eat After 10pm"
 cover_image: "/images/south-yarra/late-night-eats.jpg"
 date: 2026-03-18
 author: liam
+author_image: "/images/authors/liam.jpg"
 description: "Hungry after the bars close? The best late night food options in South Yarra for midnight snacks and post-drinks feasts."
 tags: ["south-yarra", "late-night-eats"]
 categories: ["late"]

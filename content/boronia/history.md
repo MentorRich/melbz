@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "boronia"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Boronia Melbourne history"
   - "how has Boronia changed"

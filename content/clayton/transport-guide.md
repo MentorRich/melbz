@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "clayton"
 article_type: "transport"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "public transport Clayton Melbourne"
   - "commute from Clayton to city"

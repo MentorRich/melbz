@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sandringham"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Sandringham Melbourne history"
   - "how has Sandringham changed"

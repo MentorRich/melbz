@@ -4,6 +4,7 @@ description: "Where should young professionals live in Melbourne? Balancing rent
 date: 2026-03-21
 article_type: "trending"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "best suburbs young professionals melbourne"
   - "where to live melbourne 20s 30s"

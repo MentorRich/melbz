@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hampton"
 article_type: "local-guide"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "hidden gems Hampton"
   - "secret spots Hampton"

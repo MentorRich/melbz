@@ -4,7 +4,8 @@ description: "The insider's guide to Cheltenham's different pockets, streets, an
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Cheltenham neighbourhood guide"
   - "best streets in Cheltenham"

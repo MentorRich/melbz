@@ -4,7 +4,8 @@ description: "The insider's guide to Keilor Park's different pockets, streets, a
 date: 2026-03-21
 suburb: "keilor-park"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Keilor Park neighbourhood guide"
   - "best streets in Keilor Park"

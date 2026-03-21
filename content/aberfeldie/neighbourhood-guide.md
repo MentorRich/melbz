@@ -4,7 +4,8 @@ description: "The insider's guide to Aberfeldie's different pockets, streets, an
 date: 2026-03-21
 suburb: "aberfeldie"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Aberfeldie neighbourhood guide"
   - "best streets in Aberfeldie"

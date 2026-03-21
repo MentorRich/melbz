@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon-north"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Croydon North good for families"
   - "Croydon North family friendly"

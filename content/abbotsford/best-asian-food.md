@@ -3,6 +3,7 @@ title: "Best Asian Food in Abbotsford 2026: Vietnamese, Thai & More"
 cover_image: "/images/abbotsford/best-asian-food.jpg"
 date: 2026-03-16
 author: yuki
+author_image: "/images/authors/yuki.jpg"
 tags: ["abbotsford", "asian", "food"]
 categories: ["food"]
 description: "Best Asian Food in Abbotsford 2026: Vietnamese, Thai & More"

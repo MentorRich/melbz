@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "essendon"
 article_type: "best-of"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "best cafes Essendon"
   - "coffee Essendon Melbourne"

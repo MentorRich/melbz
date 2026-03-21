@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ringwood-east"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Ringwood East Melbourne history"
   - "how has Ringwood East changed"

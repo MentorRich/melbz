@@ -4,7 +4,8 @@ description: "The insider's guide to Elsternwick's different pockets, streets, a
 date: 2026-03-21
 suburb: "elsternwick"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Elsternwick neighbourhood guide"
   - "best streets in Elsternwick"

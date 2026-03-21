@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seddon"
 article_type: "weekend"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "what to do Seddon this weekend"
   - "Seddon weekend"

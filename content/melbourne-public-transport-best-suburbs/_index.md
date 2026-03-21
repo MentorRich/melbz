@@ -4,6 +4,7 @@ description: "Which Melbourne suburbs have the best public transport connections
 date: 2026-03-21
 article_type: "trending"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "best public transport suburbs melbourne"
   - "well connected suburbs melbourne"

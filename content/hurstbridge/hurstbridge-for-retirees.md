@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hurstbridge"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Hurstbridge retirees Melbourne"
   - "retiring in Hurstbridge"

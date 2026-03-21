@@ -4,7 +4,8 @@ description: "The insider's guide to Clarinda's different pockets, streets, and 
 date: 2026-03-21
 suburb: "clarinda"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Clarinda neighbourhood guide"
   - "best streets in Clarinda"

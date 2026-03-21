@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "montmorency"
 article_type: "transport"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "public transport Montmorency Melbourne"
   - "commute from Montmorency to city"

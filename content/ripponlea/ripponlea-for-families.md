@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ripponlea"
 article_type: "families"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "is Ripponlea good for families"
   - "Ripponlea family friendly"

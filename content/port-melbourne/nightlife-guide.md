@@ -6,6 +6,7 @@ cover_image: "/images/port-melbourne/nightlife-guide.jpg"
 suburb: "port-melbourne"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The complete Port Melbourne nightlife guide for 2026 — from waterfront bars and rooftop venues to local pubs and the growing Bay Street scene."

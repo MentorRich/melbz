@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ferntree-gully"
 article_type: "cost-of-living"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "cost of living Ferntree Gully Melbourne"
   - "how expensive is Ferntree Gully"

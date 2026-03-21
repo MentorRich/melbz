@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Roxburgh Park Melbourne"
   - "commute from Roxburgh Park to city"

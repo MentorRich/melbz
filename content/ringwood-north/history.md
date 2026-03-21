@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ringwood-north"
 article_type: "history"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Ringwood North Melbourne history"
   - "how has Ringwood North changed"

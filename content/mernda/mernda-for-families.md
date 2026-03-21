@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mernda"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Mernda good for families"
   - "Mernda family friendly"

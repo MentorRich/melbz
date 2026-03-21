@@ -3,6 +3,7 @@ title: "Late Night Food in Melbourne CBD 2026: After Midnight Guide"
 cover_image: "/images/melbourne-cbd/late-night-food-v2.jpg"
 date: 2026-03-16
 author: ethan
+author_image: "/images/authors/ethan.jpg"
 tags: ["melbourne-cbd", "late-night", "food"]
 categories: ["food"]
 description: "Late Night Food in Melbourne CBD 2026: After Midnight Guide"

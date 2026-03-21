@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "cost-of-living"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "cost of living Upper Ferntree Gully Melbourne"
   - "how expensive is Upper Ferntree Gully"

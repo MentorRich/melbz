@@ -6,6 +6,7 @@ cover_image: "/images/melbourne/neighbourhood-guide.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "marcusl"
+author_image: "/images/authors/marcus.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Discover the neighbourhood guide in Melbourne. Our verified 2026 guide covers the best spots for locals."

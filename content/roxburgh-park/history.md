@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "history"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Roxburgh Park Melbourne history"
   - "how has Roxburgh Park changed"

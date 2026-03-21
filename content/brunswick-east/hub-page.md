@@ -3,6 +3,7 @@ title: "Brunswick East Melbourne Suburb Guide 2026: The Complete Picture"
 cover_image: "/images/brunswick-east/hub-page.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["brunswick-east", "suburb-guide"]
 categories: ["lifestyle"]
 description: "Brunswick East Melbourne Suburb Guide 2026: The Complete Picture"

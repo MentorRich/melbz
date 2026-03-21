@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bulleen"
 article_type: "living-in"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "living in Bulleen Melbourne"
   - "pros and cons of living in Bulleen"

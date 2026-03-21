@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "greensborough"
 article_type: "transport"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "public transport Greensborough Melbourne"
   - "commute from Greensborough to city"

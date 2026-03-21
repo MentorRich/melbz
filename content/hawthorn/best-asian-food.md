@@ -3,6 +3,7 @@ title: "Best Asian Food in Hawthorn 2026"
 cover_image: "/images/hawthorn/best-asian-food.jpg"
 date: 2026-03-19
 author: priya
+author_image: "/images/authors/priya.jpg"
 description: "Vietnamese, Japanese, Malaysian, and more — the best Asian restaurants in Hawthorn right now, from Glenferrie Road favourites to hidden spots locals keep to themselves."
 tags: ["hawthorn", "asian-food", "food"]
 categories: ["food"]

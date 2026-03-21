@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-eira"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Glen Eira Melbourne"
   - "commute from Glen Eira to city"

@@ -4,7 +4,8 @@ description: "The insider's guide to Wattle Glen's different pockets, streets, a
 date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Wattle Glen neighbourhood guide"
   - "best streets in Wattle Glen"

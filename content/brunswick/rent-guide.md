@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick"
 article_type: "housing"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "renting in Brunswick"
   - "Brunswick rental market"

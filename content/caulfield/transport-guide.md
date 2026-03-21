@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield"
 article_type: "transport"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "public transport Caulfield Melbourne"
   - "commute from Caulfield to city"

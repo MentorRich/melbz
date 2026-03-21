@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-iris"
 article_type: "nightlife"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "best bars Glen Iris"
   - "bars in Glen Iris Melbourne"

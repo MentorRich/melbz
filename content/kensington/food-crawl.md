@@ -3,6 +3,7 @@ title: "Kensington Food Crawl 2026: The Best Day Out"
 cover_image: "/images/kensington/food-crawl.jpg"
 date: 2026-03-16
 author: adam
+author_image: "/images/authors/adam.jpg"
 tags: ["kensington", "food-crawl", "food"]
 categories: ["food"]
 description: "Kensington Food Crawl 2026: The Best Day Out"

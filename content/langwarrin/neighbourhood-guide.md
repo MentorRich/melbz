@@ -4,7 +4,8 @@ description: "The insider's guide to Langwarrin's different pockets, streets, an
 date: 2026-03-21
 suburb: "langwarrin"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Langwarrin neighbourhood guide"
   - "best streets in Langwarrin"

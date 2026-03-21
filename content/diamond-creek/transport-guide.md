@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "diamond-creek"
 article_type: "transport"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "public transport Diamond Creek Melbourne"
   - "commute from Diamond Creek to city"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "South Kingsville retirees Melbourne"
   - "retiring in South Kingsville"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-east"
 article_type: "property"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "buying in St Kilda East"
   - "St Kilda East property market"

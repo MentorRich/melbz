@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "St Kilda retirees Melbourne"
   - "retiring in St Kilda"

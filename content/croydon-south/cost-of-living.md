@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon-south"
 article_type: "cost-of-living"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "cost of living Croydon South Melbourne"
   - "how expensive is Croydon South"

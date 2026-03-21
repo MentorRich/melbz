@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick"
 article_type: "local-guide"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "hidden gems Brunswick"
   - "secret spots Brunswick"

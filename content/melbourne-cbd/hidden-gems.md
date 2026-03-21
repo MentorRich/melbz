@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "melbourne-cbd"
 article_type: "local-guide"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "hidden gems Melbourne CBD"
   - "secret spots Melbourne CBD"

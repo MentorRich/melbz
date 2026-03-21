@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fairfield"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Fairfield Melbourne"
   - "commute from Fairfield to city"

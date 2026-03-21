@@ -4,7 +4,8 @@ description: "The insider's guide to Taylors Lakes's different pockets, streets,
 date: 2026-03-21
 suburb: "taylors-lakes"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Taylors Lakes neighbourhood guide"
   - "best streets in Taylors Lakes"

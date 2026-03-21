@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cranbourne-north"
 article_type: "families"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "is Cranbourne North good for families"
   - "Cranbourne North family friendly"

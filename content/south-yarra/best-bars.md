@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-yarra"
 article_type: "nightlife"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "best bars South Yarra"
   - "bars in South Yarra Melbourne"

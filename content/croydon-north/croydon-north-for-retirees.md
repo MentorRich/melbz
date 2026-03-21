@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon-north"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Croydon North retirees Melbourne"
   - "retiring in Croydon North"

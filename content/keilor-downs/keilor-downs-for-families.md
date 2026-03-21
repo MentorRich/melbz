@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Keilor Downs good for families"
   - "Keilor Downs family friendly"

@@ -3,6 +3,7 @@ title: "New Openings in Prahran 2026"
 cover_image: "/images/prahran/new-openings.jpg"
 date: 2026-03-18
 author: priya
+author_image: "/images/authors/priya.jpg"
 description: "The newest restaurants, cafes, and bars that just opened in Prahran. Fresh concepts and exciting new venues to try this year."
 tags: ["prahran", "new-openings"]
 categories: ["new"]

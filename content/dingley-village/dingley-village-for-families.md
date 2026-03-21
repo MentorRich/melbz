@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "dingley-village"
 article_type: "families"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Dingley Village good for families"
   - "Dingley Village family friendly"

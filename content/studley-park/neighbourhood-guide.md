@@ -4,7 +4,8 @@ description: "The insider's guide to Studley Park's different pockets, streets, 
 date: 2026-03-21
 suburb: "studley-park"
 article_type: "neighbourhood"
-author: "dani" 
+author: "dani"
+author_image: "/images/authors/dani.jpg" 
 keywords:
   - "Studley Park neighbourhood guide"
   - "best streets in Studley Park"

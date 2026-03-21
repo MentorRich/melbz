@@ -4,7 +4,8 @@ description: "The insider's guide to Heidelberg West's different pockets, street
 date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Heidelberg West neighbourhood guide"
   - "best streets in Heidelberg West"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Lower Templestowe Melbourne"
   - "commute from Lower Templestowe to city"

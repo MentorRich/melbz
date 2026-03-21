@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "williamstown-north"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Williamstown North good for families"
   - "Williamstown North family friendly"

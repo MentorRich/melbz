@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kingsville"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Kingsville Melbourne"
   - "commute from Kingsville to city"

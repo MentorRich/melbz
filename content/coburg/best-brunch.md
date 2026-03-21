@@ -6,6 +6,7 @@ cover_image: "/images/coburg/best-brunch.jpg"
 suburb: "coburg"
 vertical: "food"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "The best brunch in Coburg for 2026 — 6 verified spots from Pentridge to Bell Street. Real prices, real opinions, no filler."

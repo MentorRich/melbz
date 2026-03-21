@@ -6,6 +6,7 @@ cover_image: "/images/footscray/nightlife-guide.jpg"
 suburb: "footscray"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the nightlife in Footscray. Our verified 2026 guide covers the best bars, pubs, and late-night spots for locals."

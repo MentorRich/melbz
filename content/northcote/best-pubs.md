@@ -6,6 +6,7 @@ cover_image: "/images/northcote/best-pubs.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best pubs in Northcote. Our verified 2026 guide covers the best spots for locals."

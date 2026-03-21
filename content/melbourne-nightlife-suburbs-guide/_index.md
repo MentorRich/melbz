@@ -4,6 +4,7 @@ description: "Where to go out in Melbourne — the suburb-by-suburb guide to bar
 date: 2026-03-21
 article_type: "trending"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "best nightlife suburbs melbourne"
   - "bars suburbs melbourne"

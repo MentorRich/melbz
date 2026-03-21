@@ -2,7 +2,8 @@
 cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 title: "Join MELBZ — Your Suburb, Your Voice"
 date: 2026-03-17T08:30:00+10:00
-author: ""
+author: "MELBZ Team"
+author_image: "/images/authors/adam.jpg"
 description: "Join MELBZ and become part of your suburb's community. Share confessions, debate flat white prices, and discover what's happening near you."
 tags: ["community", "join", "signup"]
 categories: ["Community"]

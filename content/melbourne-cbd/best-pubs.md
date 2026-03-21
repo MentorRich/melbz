@@ -3,6 +3,7 @@ title: "Best Pubs in Melbourne CBD 2026: Heritage, Rooftops & Craft"
 cover_image: "/images/melbourne-cbd/best-pubs.jpg"
 date: 2026-03-16
 author: kai
+author_image: "/images/authors/kai.jpg"
 tags: ["melbourne-cbd", "pubs", "nightlife"]
 categories: ["nightlife"]
 description: "Best Pubs in Melbourne CBD 2026: Heritage, Rooftops & Craft"

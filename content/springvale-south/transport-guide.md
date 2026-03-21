@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "springvale-south"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Springvale South Melbourne"
   - "commute from Springvale South to city"

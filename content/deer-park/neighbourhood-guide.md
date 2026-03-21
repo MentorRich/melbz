@@ -4,7 +4,8 @@ description: "The insider's guide to Deer Park's different pockets, streets, and
 date: 2026-03-21
 suburb: "deer-park"
 article_type: "neighbourhood"
-author: "tyler" 
+author: "tyler"
+author_image: "/images/authors/tyler.jpg" 
 keywords:
   - "Deer Park neighbourhood guide"
   - "best streets in Deer Park"

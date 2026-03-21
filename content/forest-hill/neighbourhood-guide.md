@@ -4,7 +4,8 @@ description: "The insider's guide to Forest Hill's different pockets, streets, a
 date: 2026-03-21
 suburb: "forest-hill"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "Forest Hill neighbourhood guide"
   - "best streets in Forest Hill"

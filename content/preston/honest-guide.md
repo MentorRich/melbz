@@ -3,6 +3,7 @@ title: "Preston Honest Guide 2026: High Street & Real Opinions"
 cover_image: "/images/preston/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["preston", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Preston Honest Guide 2026: High Street & Real Opinions"

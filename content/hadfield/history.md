@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hadfield"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Hadfield Melbourne history"
   - "how has Hadfield changed"

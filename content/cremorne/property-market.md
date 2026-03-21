@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cremorne"
 article_type: "property"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "buying in Cremorne"
   - "Cremorne property market"

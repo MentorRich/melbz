@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "westmeadows"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Westmeadows Melbourne"
   - "commute from Westmeadows to city"

@@ -3,6 +3,7 @@ title: "Rent Prices in Kensington 2026: What You'll Pay"
 cover_image: "/images/kensington/rent-report.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["kensington", "rent", "property"]
 categories: ["property"]
 description: "Rent Prices in Kensington 2026: What You'll Pay"

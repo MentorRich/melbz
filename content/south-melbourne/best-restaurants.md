@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-melbourne"
 article_type: "best-of"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "best restaurants South Melbourne"
   - "where to eat South Melbourne"

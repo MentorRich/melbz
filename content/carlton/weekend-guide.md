@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton"
 article_type: "weekend"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "what to do Carlton this weekend"
   - "Carlton weekend"

@@ -6,6 +6,7 @@ cover_image: "/images/northcote/best-coffee.jpg"
 suburb: "northcote"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "Discover the best coffee in Northcote. Our verified 2026 guide covers the best spots for locals."

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "doncaster"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Doncaster good for families"
   - "Doncaster family friendly"

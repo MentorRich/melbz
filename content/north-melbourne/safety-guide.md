@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "safety"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is North Melbourne safe"
   - "North Melbourne safety"

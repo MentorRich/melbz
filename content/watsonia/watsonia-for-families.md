@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "watsonia"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Watsonia good for families"
   - "Watsonia family friendly"

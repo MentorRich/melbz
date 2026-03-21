@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "cost-of-living"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "cost of living Lower Plenty Melbourne"
   - "how expensive is Lower Plenty"

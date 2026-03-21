@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brighton"
 article_type: "history"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Brighton Melbourne history"
   - "how has Brighton changed"

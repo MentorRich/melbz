@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carrum"
 article_type: "cost-of-living"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "cost of living Carrum Melbourne"
   - "how expensive is Carrum"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hillside"
 article_type: "retirees"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Hillside retirees Melbourne"
   - "retiring in Hillside"

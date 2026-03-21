@@ -3,6 +3,7 @@ title: "St Kilda Honest Guide 2026: Tourist Trap or Still Worth It?"
 cover_image: "/images/st-kilda/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["st-kilda", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "St Kilda Honest Guide 2026: Tourist Trap or Still Worth It?"

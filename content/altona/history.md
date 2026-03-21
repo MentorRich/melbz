@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "altona"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Altona Melbourne history"
   - "how has Altona changed"

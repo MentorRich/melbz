@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "campbellfield"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Campbellfield Melbourne history"
   - "how has Campbellfield changed"

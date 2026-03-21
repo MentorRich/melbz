@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bentleigh"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Bentleigh good for families"
   - "Bentleigh family friendly"

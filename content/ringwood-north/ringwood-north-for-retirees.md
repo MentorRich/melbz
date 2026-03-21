@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ringwood-north"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Ringwood North retirees Melbourne"
   - "retiring in Ringwood North"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "plenty"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Plenty Melbourne history"
   - "how has Plenty changed"

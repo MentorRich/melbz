@@ -3,6 +3,7 @@ title: "Best Italian in Carlton 2026: The Lygon Street Truth"
 cover_image: "/images/carlton/best-italian.jpg"
 date: 2026-03-16
 author: liam
+author_image: "/images/authors/liam.jpg"
 tags: ["carlton", "italian", "food"]
 categories: ["food"]
 description: "Best Italian in Carlton 2026: The Lygon Street Truth"

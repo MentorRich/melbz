@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "profile"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "St Kilda West Melbourne"
   - "what is St Kilda West like"
@@ -52,7 +53,7 @@ Quick version: you can get to the city reasonably easy. The tram and train netwo
 
 ## Eating and Drinking in St Kilda West
 
-The food scene in St Kilda West reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and enough variety to keep things interesting without needing to leave the suburb every time you want a decent meal.
+The food scene in St Kilda West reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and a constantly evolving dining and bar scene without needing to leave the suburb every time you want a decent meal.
 
 Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
 

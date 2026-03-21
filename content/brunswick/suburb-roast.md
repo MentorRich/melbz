@@ -3,6 +3,7 @@ title: "Brunswick: The Suburb Roast — Every Hot Take, No Apologies"
 cover_image: "/images/brunswick/suburb-roast.jpg"
 date: 2026-03-16
 author: tyler
+author_image: "/images/authors/tyler.jpg"
 tags: ["brunswick", "roast", "opinions"]
 categories: ["editorial"]
 description: "Brunswick: The Suburb Roast — Every Hot Take, No Apologies"

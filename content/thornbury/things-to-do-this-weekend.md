@@ -6,6 +6,7 @@ cover_image: "/images/thornbury/things-to-do-this-weekend.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "What's on in Thornbury this weekend in 2026 — markets, music, bowls, pizza, and the High Street strip. Real local activities, not tourist traps."

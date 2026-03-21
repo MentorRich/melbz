@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick-east"
 article_type: "housing"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "renting in Brunswick East"
   - "Brunswick East rental market"

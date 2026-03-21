@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "templestowe"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Templestowe retirees Melbourne"
   - "retiring in Templestowe"

@@ -3,6 +3,7 @@ title: "Best Pizza in Melbourne 2026: The Definitive Rankings"
 cover_image: "/images/melbourne/best-pizza.jpg"
 date: 2026-03-16
 author: liam
+author_image: "/images/authors/liam.jpg"
 tags: ["melbourne", "pizza", "food"]
 categories: ["food"]
 description: "Best Pizza in Melbourne 2026: The Definitive Rankings"

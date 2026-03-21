@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "deer-park"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Deer Park good for families"
   - "Deer Park family friendly"

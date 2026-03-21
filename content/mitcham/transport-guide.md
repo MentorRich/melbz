@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mitcham"
 article_type: "transport"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "public transport Mitcham Melbourne"
   - "commute from Mitcham to city"

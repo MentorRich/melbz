@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "montrose"
 article_type: "history"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Montrose Melbourne history"
   - "how has Montrose changed"

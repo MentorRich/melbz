@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "malvern"
 article_type: "activities"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "things to do Malvern"
   - "Malvern activities"

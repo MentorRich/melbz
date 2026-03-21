@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lysterfield"
 article_type: "history"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "Lysterfield Melbourne history"
   - "how has Lysterfield changed"

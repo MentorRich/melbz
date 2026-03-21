@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-huntly"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Glen Huntly Melbourne history"
   - "how has Glen Huntly changed"

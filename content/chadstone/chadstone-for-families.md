@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "chadstone"
 article_type: "families"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "is Chadstone good for families"
   - "Chadstone family friendly"

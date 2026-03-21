@@ -4,6 +4,7 @@ description: "Heading to the Australian Open? Here's where to stay, eat, and dri
 date: 2026-03-21
 article_type: "trending"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "australian open suburbs guide"
   - "where to stay australian open"

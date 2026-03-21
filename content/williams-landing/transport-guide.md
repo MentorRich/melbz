@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "williams-landing"
 article_type: "transport"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "public transport Williams Landing Melbourne"
   - "commute from Williams Landing to city"

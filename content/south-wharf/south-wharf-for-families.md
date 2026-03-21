@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-wharf"
 article_type: "families"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "is South Wharf good for families"
   - "South Wharf family friendly"

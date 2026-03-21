@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Mont Albert North good for families"
   - "Mont Albert North family friendly"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brunswick-east"
 article_type: "local-guide"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "hidden gems Brunswick East"
   - "secret spots Brunswick East"

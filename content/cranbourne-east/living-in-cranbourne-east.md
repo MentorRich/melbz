@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "living-in"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "living in Cranbourne East Melbourne"
   - "pros and cons of living in Cranbourne East"

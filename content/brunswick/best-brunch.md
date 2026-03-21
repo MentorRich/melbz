@@ -6,6 +6,7 @@ cover_image: "/images/brunswick/best-brunch.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The best brunch spots in Brunswick for 2026. Lux Foundry, Code Black, iMa Asa Yora, Wide Open Road and the places worth setting an alarm for."

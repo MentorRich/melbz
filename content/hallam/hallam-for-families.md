@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hallam"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Hallam good for families"
   - "Hallam family friendly"

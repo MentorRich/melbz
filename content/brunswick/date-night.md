@@ -6,6 +6,7 @@ cover_image: "/images/brunswick/date-night.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Date night spots in Brunswick for 2026. Wine bars, share plates, live music dates, and the places where you won't blow a week's rent trying to impress someone."

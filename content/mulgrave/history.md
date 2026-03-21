@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mulgrave"
 article_type: "history"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Mulgrave Melbourne history"
   - "how has Mulgrave changed"

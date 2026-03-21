@@ -3,6 +3,7 @@ title: "Carlton Neighbourhood Guide 2026 — Melbourne's Little Italy"
 cover_image: "/images/carlton/neighbourhood-guide.jpg"
 date: 2026-03-16
 author: "Marcus Cole"
+author_image: "/images/authors/marcus.jpg"
 suburb: "carlton"
 vertical: "lifestyle"
 ---

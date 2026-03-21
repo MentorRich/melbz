@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "history"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Noble Park North Melbourne history"
   - "how has Noble Park North changed"

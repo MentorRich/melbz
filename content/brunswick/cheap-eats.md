@@ -6,6 +6,7 @@ cover_image: "/images/brunswick/cheap-eats.jpg"
 suburb: "brunswick"
 vertical: "food"
 author: "omar"
+author_image: "/images/authors/omar.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The real cheap eats in Brunswick for 2026. A1 Bakery, Ollie's Pizza, the Cornish Arms $15 souvlaki, and the spots where $10 gets you a proper meal."

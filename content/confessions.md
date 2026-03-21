@@ -2,7 +2,8 @@
 cover_image: "/images/melbourne/confessions.jpg"
 title: "MELBZ Confessions — Anonymous & Named"
 date: 2026-03-17T08:30:00+10:00
-author: ""
+author: "MELBZ Team"
+author_image: "/images/authors/adam.jpg"
 description: "Share your confession anonymously or with your name. Melbourne's juiciest secrets, told straight."
 tags: ["confessions", "community", "anonymous"]
 categories: ["Community"]

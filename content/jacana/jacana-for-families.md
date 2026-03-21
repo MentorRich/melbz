@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "jacana"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Jacana good for families"
   - "Jacana family friendly"

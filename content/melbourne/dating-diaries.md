@@ -3,6 +3,7 @@ title: "Melbourne Dating Diaries 2026: The Unfiltered Truth About"
 cover_image: "/images/melbourne/dating-diaries.jpg"
 date: 2026-03-16
 author: freya
+author_image: "/images/authors/freya.jpg"
 tags: ["melbourne", "dating", "confessions"]
 categories: ["editorial"]
 description: "Melbourne Dating Diaries 2026: The Unfiltered Truth About Dating in Every Suburb."

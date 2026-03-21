@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "st-kilda"
 article_type: "weekend"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "what to do St Kilda this weekend"
   - "St Kilda weekend"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill-north"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Box Hill North retirees Melbourne"
   - "retiring in Box Hill North"

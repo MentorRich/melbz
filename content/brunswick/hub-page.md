@@ -3,6 +3,7 @@ title: "Brunswick: The Complete Suburb Profile 2026"
 cover_image: "/images/brunswick/hub-page.jpg"
 date: 2026-03-16
 author: marcusl
+author_image: "/images/authors/marcus.jpg"
 tags: ["brunswick", "suburb-profile", "hub"]
 categories: ["editorial"]
 description: "Brunswick: The Complete Suburb Profile 2026"

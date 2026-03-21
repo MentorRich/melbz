@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ringwood"
 article_type: "retirees"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Ringwood retirees Melbourne"
   - "retiring in Ringwood"

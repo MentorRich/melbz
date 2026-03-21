@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "essendon-north"
 article_type: "living-in"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "living in Essendon North Melbourne"
   - "pros and cons of living in Essendon North"

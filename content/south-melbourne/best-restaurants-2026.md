@@ -3,6 +3,7 @@ title: "Best Restaurants in South Melbourne 2026: Market & Beyond"
 cover_image: "/images/south-melbourne/best-restaurants-2026.jpg"
 date: 2026-03-16
 author: jules
+author_image: "/images/authors/jules.jpg"
 tags: ["south-melbourne", "restaurants", "food"]
 categories: ["food"]
 description: "Best Restaurants in South Melbourne 2026: Market & Beyond"

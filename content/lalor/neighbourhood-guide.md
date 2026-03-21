@@ -4,7 +4,8 @@ description: "The insider's guide to Lalor's different pockets, streets, and are
 date: 2026-03-21
 suburb: "lalor"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Lalor neighbourhood guide"
   - "best streets in Lalor"

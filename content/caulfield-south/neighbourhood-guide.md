@@ -4,7 +4,8 @@ description: "The insider's guide to Caulfield South's different pockets, street
 date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Caulfield South neighbourhood guide"
   - "best streets in Caulfield South"

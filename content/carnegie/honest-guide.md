@@ -3,6 +3,7 @@ title: "Carnegie Honest Guide 2026: Koornang Road & Real Opinions"
 cover_image: "/images/carnegie/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["carnegie", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Carnegie Honest Guide 2026: Koornang Road & Real Opinions"

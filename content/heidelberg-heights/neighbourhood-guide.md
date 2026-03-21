@@ -4,7 +4,8 @@ description: "The insider's guide to Heidelberg Heights's different pockets, str
 date: 2026-03-21
 suburb: "heidelberg-heights"
 article_type: "neighbourhood"
-author: "ethan" 
+author: "ethan"
+author_image: "/images/authors/ethan.jpg" 
 keywords:
   - "Heidelberg Heights neighbourhood guide"
   - "best streets in Heidelberg Heights"

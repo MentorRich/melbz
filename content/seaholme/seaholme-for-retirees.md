@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seaholme"
 article_type: "retirees"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Seaholme retirees Melbourne"
   - "retiring in Seaholme"

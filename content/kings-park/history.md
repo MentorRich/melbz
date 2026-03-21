@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kings-park"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Kings Park Melbourne history"
   - "how has Kings Park changed"

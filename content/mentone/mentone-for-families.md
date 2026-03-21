@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mentone"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Mentone good for families"
   - "Mentone family friendly"

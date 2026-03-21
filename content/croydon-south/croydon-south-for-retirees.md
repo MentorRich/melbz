@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon-south"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Croydon South retirees Melbourne"
   - "retiring in Croydon South"

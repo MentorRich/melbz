@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield-east"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Caulfield East Melbourne history"
   - "how has Caulfield East changed"

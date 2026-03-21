@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "maidstone"
 article_type: "families"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "is Maidstone good for families"
   - "Maidstone family friendly"

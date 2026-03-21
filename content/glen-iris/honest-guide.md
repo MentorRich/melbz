@@ -3,6 +3,7 @@ title: "Glen Iris Honest Guide 2026: Burke Road Real Opinions"
 cover_image: "/images/glen-iris/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["glen-iris", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Glen Iris Honest Guide 2026: Burke Road & Real Opinions"

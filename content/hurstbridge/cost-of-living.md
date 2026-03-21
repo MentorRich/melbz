@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hurstbridge"
 article_type: "cost-of-living"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "cost of living Hurstbridge Melbourne"
   - "how expensive is Hurstbridge"

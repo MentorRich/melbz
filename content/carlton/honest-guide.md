@@ -3,6 +3,7 @@ title: "Carlton Honest Guide 2026: Lygon Street & Beyond"
 cover_image: "/images/carlton/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["carlton", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Carlton Honest Guide 2026: Lygon Street & Beyond"

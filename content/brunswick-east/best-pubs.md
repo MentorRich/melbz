@@ -6,6 +6,7 @@ cover_image: "/images/brunswick-east/best-pubs.jpg"
 suburb: "brunswick-east"
 vertical: "lifestyle"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 date: 2026-03-16
 updated: 2026-03-16
 description: "From a restored 1880s rock-and-roll hotel to a heritage bank turned all-day pub — here are the 7 Brunswick East pubs worth your time and your $10 pint."

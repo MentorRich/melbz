@@ -3,6 +3,7 @@ title: "Best Asian Food in Prahran: From Pho to Ramen"
 cover_image: "/images/prahran/best-asian.jpg"
 date: 2026-03-18
 author: nina
+author_image: "/images/authors/nina.jpg"
 description: "From Vietnamese pho to Japanese ramen, Chinese dumplings to Thai curries — the best Asian restaurants in Prahran."
 tags: ["prahran", "best-asian"]
 categories: ["best"]

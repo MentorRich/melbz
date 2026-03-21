@@ -6,6 +6,7 @@ cover_image: "/images/thornbury/new-openings.jpg"
 suburb: "thornbury"
 vertical: "lifestyle"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Thornbury's newest restaurants, cafes, and bars in 2026. We verify what's actually open and worth your time — no vapourware, no hype, just real spots."

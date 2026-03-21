@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill"
 article_type: "housing"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "renting in Box Hill"
   - "Box Hill rental market"

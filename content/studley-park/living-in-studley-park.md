@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "studley-park"
 article_type: "living-in"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "living in Studley Park Melbourne"
   - "pros and cons of living in Studley Park"

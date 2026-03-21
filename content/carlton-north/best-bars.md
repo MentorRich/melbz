@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "carlton-north"
 article_type: "nightlife"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "best bars Carlton North"
   - "bars in Carlton North Melbourne"

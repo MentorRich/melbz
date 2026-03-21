@@ -6,6 +6,7 @@ cover_image: "/images/carnegie/nightlife-guide.jpg"
 suburb: "carnegie"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Discover the nightlife in Carnegie. Our verified 2026 guide covers the best spots for locals."

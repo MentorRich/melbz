@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Lower Plenty Melbourne"
   - "commute from Lower Plenty to city"

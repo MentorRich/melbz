@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "prahran"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "Prahran Melbourne history"
   - "how has Prahran changed"

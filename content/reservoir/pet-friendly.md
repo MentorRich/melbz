@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "reservoir"
 article_type: "lifestyle"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "dog friendly Reservoir"
   - "off leash park Reservoir"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "keilor-east"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Keilor East good for families"
   - "Keilor East family friendly"

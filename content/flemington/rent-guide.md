@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "flemington"
 article_type: "housing"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "renting in Flemington"
   - "Flemington rental market"

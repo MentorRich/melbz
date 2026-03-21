@@ -4,7 +4,8 @@ description: "The insider's guide to Chelsea Heights's different pockets, street
 date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "neighbourhood"
-author: "dani" 
+author: "dani"
+author_image: "/images/authors/dani.jpg" 
 keywords:
   - "Chelsea Heights neighbourhood guide"
   - "best streets in Chelsea Heights"

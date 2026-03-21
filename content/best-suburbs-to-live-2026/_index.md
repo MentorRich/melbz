@@ -4,6 +4,7 @@ description: "Which Melbourne suburbs are actually worth living in right now? Ou
 date: 2026-03-21
 article_type: "trending"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "best suburbs melbourne 2026"
   - "most liveable suburbs melbourne"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill-north"
 article_type: "living-in"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "living in Box Hill North Melbourne"
   - "pros and cons of living in Box Hill North"

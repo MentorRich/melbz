@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "edithvale"
 article_type: "cost-of-living"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "cost of living Edithvale Melbourne"
   - "how expensive is Edithvale"

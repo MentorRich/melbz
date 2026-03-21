@@ -3,6 +3,7 @@ title: "Cheap Eats Under $20 in Kensington 2026: Macaulay Road & Beyond"
 cover_image: "/images/kensington/cheap-eats-v2.jpg"
 date: 2026-03-16
 author: priya
+author_image: "/images/authors/priya.jpg"
 tags: ["kensington", "cheap-eats", "food"]
 categories: ["food"]
 description: "Cheap Eats Under $20 in Kensington 2026: Macaulay Road & Beyond"

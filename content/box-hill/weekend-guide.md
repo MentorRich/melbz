@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill"
 article_type: "weekend"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "what to do Box Hill this weekend"
   - "Box Hill weekend"

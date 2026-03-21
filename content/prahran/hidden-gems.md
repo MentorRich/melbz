@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "prahran"
 article_type: "local-guide"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "hidden gems Prahran"
   - "secret spots Prahran"

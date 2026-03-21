@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "box-hill"
 article_type: "safety"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Box Hill safe"
   - "Box Hill safety"

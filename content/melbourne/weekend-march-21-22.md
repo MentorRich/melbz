@@ -3,6 +3,7 @@ title: "Melbourne This Weekend March 21-22 2026: Everything Happening"
 cover_image: "/images/melbourne/weekend-march-21-22.jpg"
 date: 2026-03-16
 author: isabella
+author_image: "/images/authors/isabella.jpg"
 tags: ["melbourne", "weekend", "events"]
 categories: ["events"]
 description: "Melbourne This Weekend March 21-22 2026: Everything Happening"

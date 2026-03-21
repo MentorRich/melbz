@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seddon"
 article_type: "retirees"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Seddon retirees Melbourne"
   - "retiring in Seddon"

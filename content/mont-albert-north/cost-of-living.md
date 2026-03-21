@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "cost-of-living"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "cost of living Mont Albert North Melbourne"
   - "how expensive is Mont Albert North"

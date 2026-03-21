@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "williams-landing"
 article_type: "families"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "is Williams Landing good for families"
   - "Williams Landing family friendly"

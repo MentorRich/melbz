@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "deepdene"
 article_type: "retirees"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Deepdene retirees Melbourne"
   - "retiring in Deepdene"

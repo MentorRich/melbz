@@ -3,6 +3,7 @@ title: "Transport Guide for Southbank"
 cover_image: "/images/southbank/transport-guide.jpg"
 date: 2026-03-18
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["southbank", "transport-guide"]
 categories: ["transport"]
 description: "Transport Guide for Southbank"

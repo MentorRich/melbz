@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "clayton"
 article_type: "history"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Clayton Melbourne history"
   - "how has Clayton changed"

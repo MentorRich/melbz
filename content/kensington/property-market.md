@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "kensington"
 article_type: "property"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "buying in Kensington"
   - "Kensington property market"

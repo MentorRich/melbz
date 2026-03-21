@@ -4,7 +4,8 @@ description: "The insider's guide to Springvale South's different pockets, stree
 date: 2026-03-21
 suburb: "springvale-south"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Springvale South neighbourhood guide"
   - "best streets in Springvale South"

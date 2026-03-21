@@ -4,6 +4,7 @@ description: "Should you rent a house or apartment? It depends on the suburb. He
 date: 2026-03-21
 article_type: "trending"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "apartment vs house melbourne"
   - "renting apartment melbourne"

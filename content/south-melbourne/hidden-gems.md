@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-melbourne"
 article_type: "local-guide"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "hidden gems South Melbourne"
   - "secret spots South Melbourne"

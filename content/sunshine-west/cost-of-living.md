@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "sunshine-west"
 article_type: "cost-of-living"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "cost of living Sunshine West Melbourne"
   - "how expensive is Sunshine West"

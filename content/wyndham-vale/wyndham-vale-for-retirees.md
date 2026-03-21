@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wyndham-vale"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Wyndham Vale retirees Melbourne"
   - "retiring in Wyndham Vale"

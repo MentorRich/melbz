@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "croydon-south"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Croydon South Melbourne"
   - "commute from Croydon South to city"

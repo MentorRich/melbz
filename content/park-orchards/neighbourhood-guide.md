@@ -4,7 +4,8 @@ description: "The insider's guide to Park Orchards's different pockets, streets,
 date: 2026-03-21
 suburb: "park-orchards"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Park Orchards neighbourhood guide"
   - "best streets in Park Orchards"

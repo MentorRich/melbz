@@ -3,6 +3,7 @@ title: "St Kilda East Honest Guide 2026: Between the Beach & the Highway"
 cover_image: "/images/st-kilda-east/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["st-kilda-east", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "St Kilda East Honest Guide 2026: Between the Beach & the Highway"

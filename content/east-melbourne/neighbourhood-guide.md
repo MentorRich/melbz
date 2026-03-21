@@ -4,7 +4,8 @@ description: "The insider's guide to East Melbourne's different pockets, streets
 date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "neighbourhood"
-author: "grace" 
+author: "grace"
+author_image: "/images/authors/grace.jpg" 
 keywords:
   - "East Melbourne neighbourhood guide"
   - "best streets in East Melbourne"

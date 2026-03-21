@@ -4,7 +4,8 @@ description: "The insider's guide to Newport's different pockets, streets, and a
 date: 2026-03-21
 suburb: "newport"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Newport neighbourhood guide"
   - "best streets in Newport"

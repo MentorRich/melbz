@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "braybrook"
 article_type: "families"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Braybrook good for families"
   - "Braybrook family friendly"

@@ -4,7 +4,8 @@ description: "The insider's guide to Williamstown North's different pockets, str
 date: 2026-03-21
 suburb: "williamstown-north"
 article_type: "neighbourhood"
-author: "marcus" 
+author: "marcus"
+author_image: "/images/authors/marcus.jpg" 
 keywords:
   - "Williamstown North neighbourhood guide"
   - "best streets in Williamstown North"

@@ -3,6 +3,7 @@ title: "Late Night Eats in Southbank: Where to Eat After 10pm"
 cover_image: "/images/southbank/late-night-eats.jpg"
 date: 2026-03-18
 author: liam
+author_image: "/images/authors/liam.jpg"
 tags: ["southbank", "late-night-eats"]
 categories: ["late"]
 description: "Late Night Eats in Southbank: Where to Eat After 10pm"

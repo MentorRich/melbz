@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "south-yarra"
 article_type: "history"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "South Yarra Melbourne history"
   - "how has South Yarra changed"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "cost-of-living"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "cost of living Aspendale Gardens Melbourne"
   - "how expensive is Aspendale Gardens"

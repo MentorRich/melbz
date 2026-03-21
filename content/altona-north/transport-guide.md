@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "altona-north"
 article_type: "transport"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "public transport Altona North Melbourne"
   - "commute from Altona North to city"

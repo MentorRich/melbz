@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "transport"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "public transport Bentleigh East Melbourne"
   - "commute from Bentleigh East to city"

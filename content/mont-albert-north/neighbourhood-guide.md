@@ -4,7 +4,8 @@ description: "The insider's guide to Mont Albert North's different pockets, stre
 date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "neighbourhood"
-author: "oscar" 
+author: "oscar"
+author_image: "/images/authors/oscar.jpg" 
 keywords:
   - "Mont Albert North neighbourhood guide"
   - "best streets in Mont Albert North"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wheelers-hill"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Wheelers Hill retirees Melbourne"
   - "retiring in Wheelers Hill"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "reservoir"
 article_type: "best-of"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "best restaurants Reservoir"
   - "where to eat Reservoir"

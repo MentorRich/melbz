@@ -3,6 +3,7 @@ title: "Coburg Melbourne Suburb Guide 2026: The Complete Picture"
 cover_image: "/images/coburg/hub-page.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["coburg", "suburb-guide"]
 categories: ["lifestyle"]
 description: "Coburg Melbourne Suburb Guide 2026: The Complete Picture"

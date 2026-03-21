@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hallam"
 article_type: "history"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "Hallam Melbourne history"
   - "how has Hallam changed"

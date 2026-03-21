@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "frankston-south"
 article_type: "families"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "is Frankston South good for families"
   - "Frankston South family friendly"

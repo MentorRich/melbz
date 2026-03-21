@@ -3,6 +3,7 @@ title: "Rent Prices in Coburg 2026: What You'll Pay"
 cover_image: "/images/coburg/rent-report.jpg"
 date: 2026-03-16
 author: marcus
+author_image: "/images/authors/marcus.jpg"
 tags: ["coburg", "rent", "property"]
 categories: ["property"]
 description: "Rent Prices in Coburg 2026: What You'll Pay"

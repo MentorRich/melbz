@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Meadow Heights Melbourne history"
   - "how has Meadow Heights changed"

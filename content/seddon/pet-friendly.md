@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "seddon"
 article_type: "lifestyle"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "dog friendly Seddon"
   - "off leash park Seddon"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "balaclava"
 article_type: "housing"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "renting in Balaclava"
   - "Balaclava rental market"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ormond"
 article_type: "families"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "is Ormond good for families"
   - "Ormond family friendly"

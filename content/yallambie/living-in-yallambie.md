@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "yallambie"
 article_type: "living-in"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "living in Yallambie Melbourne"
   - "pros and cons of living in Yallambie"

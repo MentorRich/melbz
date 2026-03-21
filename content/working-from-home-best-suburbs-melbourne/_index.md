@@ -4,6 +4,7 @@ description: "If you work remotely, your suburb IS your office. Which ones have 
 date: 2026-03-21
 article_type: "trending"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "work from home suburbs melbourne"
   - "best suburbs remote work melbourne"

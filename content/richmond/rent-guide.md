@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "richmond"
 article_type: "housing"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "renting in Richmond"
   - "Richmond rental market"

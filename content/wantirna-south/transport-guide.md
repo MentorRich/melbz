@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Wantirna South Melbourne"
   - "commute from Wantirna South to city"

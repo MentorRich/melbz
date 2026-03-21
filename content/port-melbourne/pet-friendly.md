@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "lifestyle"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "dog friendly Port Melbourne"
   - "off leash park Port Melbourne"

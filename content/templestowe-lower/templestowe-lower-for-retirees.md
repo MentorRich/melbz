@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "retirees"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Lower Templestowe retirees Melbourne"
   - "retiring in Lower Templestowe"

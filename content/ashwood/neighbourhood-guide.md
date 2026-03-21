@@ -4,7 +4,8 @@ description: "The insider's guide to Ashwood's different pockets, streets, and a
 date: 2026-03-21
 suburb: "ashwood"
 article_type: "neighbourhood"
-author: "kai" 
+author: "kai"
+author_image: "/images/authors/kai.jpg" 
 keywords:
   - "Ashwood neighbourhood guide"
   - "best streets in Ashwood"

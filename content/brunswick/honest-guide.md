@@ -3,6 +3,7 @@ title: "Brunswick Honest Guide 2026: Sydney Road & Beyond"
 cover_image: "/images/brunswick/honest-guide.jpg"
 date: 2026-03-16
 author: jack
+author_image: "/images/authors/jack.jpg"
 tags: ["brunswick", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Brunswick Honest Guide 2026: Sydney Road & Beyond"

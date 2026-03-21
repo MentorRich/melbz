@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hawthorn"
 article_type: "lifestyle"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "dog friendly Hawthorn"
   - "off leash park Hawthorn"

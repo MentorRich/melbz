@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "springvale-south"
 article_type: "living-in"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "living in Springvale South Melbourne"
   - "pros and cons of living in Springvale South"

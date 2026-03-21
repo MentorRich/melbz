@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Bentleigh East Melbourne history"
   - "how has Bentleigh East changed"

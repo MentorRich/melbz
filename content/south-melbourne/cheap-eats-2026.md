@@ -3,6 +3,7 @@ title: "Cheap Eats Under $20 in South Melbourne 2026"
 cover_image: "/images/south-melbourne/cheap-eats-2026.jpg"
 date: 2026-03-16
 author: priya
+author_image: "/images/authors/priya.jpg"
 tags: ["south-melbourne", "cheap-eats", "food"]
 categories: ["food"]
 description: "Cheap Eats Under $20 in South Melbourne 2026"

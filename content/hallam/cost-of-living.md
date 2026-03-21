@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "hallam"
 article_type: "cost-of-living"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "cost of living Hallam Melbourne"
   - "how expensive is Hallam"

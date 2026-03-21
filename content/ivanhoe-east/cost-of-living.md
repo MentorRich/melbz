@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "cost-of-living"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "cost of living Ivanhoe East Melbourne"
   - "how expensive is Ivanhoe East"

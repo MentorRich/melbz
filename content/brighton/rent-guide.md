@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "brighton"
 article_type: "housing"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "renting in Brighton"
   - "Brighton rental market"

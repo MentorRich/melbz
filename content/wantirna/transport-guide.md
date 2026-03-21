@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "wantirna"
 article_type: "transport"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "public transport Wantirna Melbourne"
   - "commute from Wantirna to city"

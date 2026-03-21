@@ -3,6 +3,7 @@ title: "About MELBZ"
 description: "Melbourne's hyperlocal suburb intelligence platform. 321 suburbs. Real venues, real prices, real opinions."
 date: 2026-03-18
 author: "Daniel Ebiau"
+author_image: "/images/authors/dani.jpg"
 ---
 
 noAds: true

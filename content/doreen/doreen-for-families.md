@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "doreen"
 article_type: "families"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "is Doreen good for families"
   - "Doreen family friendly"

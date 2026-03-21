@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "flemington"
 article_type: "activities"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "things to do Flemington"
   - "Flemington activities"

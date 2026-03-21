@@ -4,7 +4,8 @@ description: "The insider's guide to Albion's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "albion"
 article_type: "neighbourhood"
-author: "priya" 
+author: "priya"
+author_image: "/images/authors/priya.jpg" 
 keywords:
   - "Albion neighbourhood guide"
   - "best streets in Albion"

@@ -4,7 +4,8 @@ description: "The insider's guide to Caulfield East's different pockets, streets
 date: 2026-03-21
 suburb: "caulfield-east"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Caulfield East neighbourhood guide"
   - "best streets in Caulfield East"

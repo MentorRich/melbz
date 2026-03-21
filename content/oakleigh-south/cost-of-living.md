@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "cost-of-living"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "cost of living Oakleigh South Melbourne"
   - "how expensive is Oakleigh South"

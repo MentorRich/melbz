@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "windsor"
 article_type: "lifestyle"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "dog friendly Windsor"
   - "off leash park Windsor"

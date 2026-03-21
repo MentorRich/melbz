@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fitzroy-north"
 article_type: "best-of"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "best restaurants Fitzroy North"
   - "where to eat Fitzroy North"

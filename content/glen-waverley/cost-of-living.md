@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-waverley"
 article_type: "cost-of-living"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 keywords:
   - "cost of living Glen Waverley Melbourne"
   - "how expensive is Glen Waverley"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "caulfield-north"
 article_type: "history"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Caulfield North Melbourne history"
   - "how has Caulfield North changed"

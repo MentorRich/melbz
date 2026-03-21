@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "airport-west"
 article_type: "history"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "Airport West Melbourne history"
   - "how has Airport West changed"

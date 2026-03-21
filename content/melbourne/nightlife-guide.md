@@ -6,6 +6,7 @@ cover_image: "/images/melbourne/nightlife-guide.jpg"
 suburb: "melbourne"
 vertical: "lifestyle"
 author: "ethan"
+author_image: "/images/authors/ethan.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Discover the nightlife guide in Melbourne. Our verified 2026 guide covers the best spots for locals."

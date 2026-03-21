@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ferntree-gully"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Ferntree Gully retirees Melbourne"
   - "retiring in Ferntree Gully"

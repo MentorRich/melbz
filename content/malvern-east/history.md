@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "malvern-east"
 article_type: "history"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "Malvern East Melbourne history"
   - "how has Malvern East changed"

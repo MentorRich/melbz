@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "belgrave"
 article_type: "retirees"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "Belgrave retirees Melbourne"
   - "retiring in Belgrave"

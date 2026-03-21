@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "bulleen"
 article_type: "retirees"
 author: "grace"
+author_image: "/images/authors/grace.jpg"
 keywords:
   - "Bulleen retirees Melbourne"
   - "retiring in Bulleen"

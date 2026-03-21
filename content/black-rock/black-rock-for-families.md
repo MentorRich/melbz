@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "black-rock"
 article_type: "families"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Black Rock good for families"
   - "Black Rock family friendly"

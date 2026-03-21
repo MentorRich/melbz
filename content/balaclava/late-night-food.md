@@ -3,6 +3,7 @@ title: "Late Night Food in Balaclava 2026: After Dark on Carlisle Street"
 cover_image: "/images/balaclava/late-night-food.jpg"
 date: 2026-03-16
 author: ethan
+author_image: "/images/authors/ethan.jpg"
 tags: ["balaclava", "late-night", "food"]
 categories: ["food"]
 description: "Late Night Food in Balaclava 2026: After Dark on Carlisle Street"

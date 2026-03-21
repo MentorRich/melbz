@@ -6,6 +6,7 @@ cover_image: "/images/brunswick/best-coffee.jpg"
 suburb: "brunswick"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The best coffee in Brunswick for 2026. Disciple Roasters, ONA Coffee, Padre, Core Roasters, and the spots where the espresso is world-class and the flat whites are faultless."

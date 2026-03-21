@@ -4,7 +4,8 @@ description: "The insider's guide to Endeavour Hills's different pockets, street
 date: 2026-03-21
 suburb: "endeavour-hills"
 article_type: "neighbourhood"
-author: "jack" 
+author: "jack"
+author_image: "/images/authors/jack.jpg" 
 keywords:
   - "Endeavour Hills neighbourhood guide"
   - "best streets in Endeavour Hills"

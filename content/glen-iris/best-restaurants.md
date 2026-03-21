@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "glen-iris"
 article_type: "best-of"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "best restaurants Glen Iris"
   - "where to eat Glen Iris"

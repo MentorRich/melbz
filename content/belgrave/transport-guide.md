@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "belgrave"
 article_type: "transport"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "public transport Belgrave Melbourne"
   - "commute from Belgrave to city"

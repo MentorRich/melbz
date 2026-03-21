@@ -4,7 +4,8 @@ description: "The insider's guide to Dandenong's different pockets, streets, and
 date: 2026-03-21
 suburb: "dandenong"
 article_type: "neighbourhood"
-author: "lina" 
+author: "lina"
+author_image: "/images/authors/lina.jpg" 
 keywords:
   - "Dandenong neighbourhood guide"
   - "best streets in Dandenong"

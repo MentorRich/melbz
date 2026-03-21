@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "rowville"
 article_type: "transport"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "public transport Rowville Melbourne"
   - "commute from Rowville to city"

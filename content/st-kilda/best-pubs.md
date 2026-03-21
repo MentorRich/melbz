@@ -3,6 +3,7 @@ title: "Best Pubs in St Kilda 2026: The Complete Guide"
 cover_image: "/images/st-kilda/best-pubs.jpg"
 date: 2026-03-16
 author: kai
+author_image: "/images/authors/kai.jpg"
 tags: ["st-kilda", "pubs", "beer"]
 categories: ["nightlife"]
 description: "Best Pubs in St Kilda 2026: The Complete Guide"

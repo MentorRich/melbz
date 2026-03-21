@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "fitzroy-north"
 article_type: "safety"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "is Fitzroy North safe"
   - "Fitzroy North safety"

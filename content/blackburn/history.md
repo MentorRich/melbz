@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "blackburn"
 article_type: "history"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "Blackburn Melbourne history"
   - "how has Blackburn changed"

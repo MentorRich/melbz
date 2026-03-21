@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "cremorne"
 article_type: "housing"
 author: "priya"
+author_image: "/images/authors/priya.jpg"
 keywords:
   - "renting in Cremorne"
   - "Cremorne rental market"

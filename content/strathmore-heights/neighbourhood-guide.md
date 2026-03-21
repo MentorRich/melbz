@@ -4,7 +4,8 @@ description: "The insider's guide to Strathmore Heights's different pockets, str
 date: 2026-03-21
 suburb: "strathmore-heights"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Strathmore Heights neighbourhood guide"
   - "best streets in Strathmore Heights"

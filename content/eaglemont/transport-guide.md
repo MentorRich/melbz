@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "eaglemont"
 article_type: "transport"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "public transport Eaglemont Melbourne"
   - "commute from Eaglemont to city"

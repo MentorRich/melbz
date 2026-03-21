@@ -6,6 +6,7 @@ cover_image: "/images/south-yarra/best-coffee.jpg"
 suburb: "south-yarra"
 vertical: "lifestyle"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Where South Yarra actually gets its coffee. Eight real cafes, real prices, and the honest take on what's worth your morning."

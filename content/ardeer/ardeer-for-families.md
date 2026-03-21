@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "ardeer"
 article_type: "families"
 author: "maya"
+author_image: "/images/authors/maya.jpg"
 keywords:
   - "is Ardeer good for families"
   - "Ardeer family friendly"

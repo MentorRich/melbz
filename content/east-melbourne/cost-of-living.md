@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "cost-of-living"
 author: "kai"
+author_image: "/images/authors/kai.jpg"
 keywords:
   - "cost of living East Melbourne Melbourne"
   - "how expensive is East Melbourne"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "braeside"
 article_type: "living-in"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "living in Braeside Melbourne"
   - "pros and cons of living in Braeside"

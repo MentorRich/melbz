@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "malvern"
 article_type: "nightlife"
 author: "marcus"
+author_image: "/images/authors/marcus.jpg"
 keywords:
   - "best bars Malvern"
   - "bars in Malvern Melbourne"

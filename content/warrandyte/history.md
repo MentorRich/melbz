@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "warrandyte"
 article_type: "history"
 author: "jack"
+author_image: "/images/authors/jack.jpg"
 keywords:
   - "Warrandyte Melbourne history"
   - "how has Warrandyte changed"

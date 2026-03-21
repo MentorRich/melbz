@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "albert-park"
 article_type: "weekend"
 author: "tyler"
+author_image: "/images/authors/tyler.jpg"
 keywords:
   - "what to do Albert Park this weekend"
   - "Albert Park weekend"

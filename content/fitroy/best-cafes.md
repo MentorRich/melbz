@@ -3,6 +3,7 @@ title: "Best Cafes in Fitzroy 2026"
 cover_image: "/images/fitroy/best-cafes.jpg"
 date: 2026-03-16
 author: priya
+author_image: "/images/authors/priya.jpg"
 tags: ["fitzroy", "cafes", "coffee"]
 categories: ["food"]
 description: "Best Cafes in Fitzroy 2026"

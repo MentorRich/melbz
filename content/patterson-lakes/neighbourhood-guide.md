@@ -4,7 +4,8 @@ description: "The insider's guide to Patterson Lakes's different pockets, street
 date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "neighbourhood"
-author: "maya" 
+author: "maya"
+author_image: "/images/authors/maya.jpg" 
 keywords:
   - "Patterson Lakes neighbourhood guide"
   - "best streets in Patterson Lakes"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "chelsea"
 article_type: "retirees"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "Chelsea retirees Melbourne"
   - "retiring in Chelsea"

@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "retirees"
 author: "lina"
+author_image: "/images/authors/lina.jpg"
 keywords:
   - "Meadow Heights retirees Melbourne"
   - "retiring in Meadow Heights"

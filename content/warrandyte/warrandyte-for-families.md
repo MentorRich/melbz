@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "warrandyte"
 article_type: "families"
 author: "oscar"
+author_image: "/images/authors/oscar.jpg"
 keywords:
   - "is Warrandyte good for families"
   - "Warrandyte family friendly"

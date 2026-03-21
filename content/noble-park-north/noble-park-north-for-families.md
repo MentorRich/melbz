@@ -5,6 +5,7 @@ date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "families"
 author: "dani"
+author_image: "/images/authors/dani.jpg"
 keywords:
   - "is Noble Park North good for families"
   - "Noble Park North family friendly"

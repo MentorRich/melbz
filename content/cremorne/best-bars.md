@@ -1,137 +1,57 @@
 ---
-title: "Best Bars in Cremorne — 2026 Local Guide"
-cover_image: "/images/cremorne/best-bars.jpg"
+title: "Best Bars in Cremorne Melbourne"
+description: "The bar scene in Cremorne: where to drink, what the vibe is, and the local spots worth knowing about."
+date: 2026-03-21
+suburb: "cremorne"
+article_type: "nightlife"
+author: "maya"
+keywords:
+  - "best bars Cremorne"
+  - "bars in Cremorne Melbourne"
+  - "nightlife Cremorne"
+  - "where to drink Cremorne"
 ---
 
-suburb: "cremorne"
-vertical: "lifestyle"
-author: "jess"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Cremorne's bar scene packs more personality per square metre than most Melbourne suburbs twice its size. Here's where to drink in 3121."
-tags: ["cremorne"]
-categories: ["best"]
-# Best Bars in Cremorne — Where 3121 Drinks After Hours
 
-Cremorne is barely fifteen minutes end to end, but it punches absurdly above its weight when the sun goes down. This is the industrial pocket wedged between Richmond and South Yarra where warehouse conversions meet Church Street corners, and the bar scene has quietly become one of Melbourne's most interesting — largely because the tech-money crowd who work here demand good drinks without the CBD pretension.
+## The Drinking Scene in Cremorne
 
-You won't find sticky-floored sports bars (well, not many). What you will find is a wine bar that feels like a New York loft party, rooftop Italian, and enough craft beer to keep you on Swan Street until you forget about the 48 tram.
+Cremorne has a bar scene that reflects the suburb — not short on places to drink, with a mix of dive bars, wine spots, and proper cocktail joints. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
 
-**Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
+## Types of Bars in Cremorne
 
+**The Local Pub** — Every suburb needs one (or three). Cremorne's pubs range from proper old-school locals to renovated versions that keep the character while adding a better tap list.
 
-## 1. Lilac Wine Bar
-**The vibe:** Dinner party at a friend's warehouse — if your friend had impeccable taste in natural wine and a wood-fired oven.
+**Wine Bars** — Small, intimate, usually with a great by-the-glass selection. The kind of place where the bar staff know what they're pouring and can actually help you choose.
 
-Lilac is the bar that put Cremorne on Melbourne's after-dark map. Run by the Mulberry Group (the same crew behind Top Paddock and Higher Ground), it occupies a converted warehouse on Stephenson Street with red brick walls, a perpetually spinning disco ball, and vinyl spinning on the turntable. The wine list leans heavily natural and biodynamic, with enough orange wines and obscure Italian varietals to keep geeks happy without alienating anyone who just wants a good glass of red.
+**Cocktail Spots** — Not as many as Fitzroy or Collingwood, but Cremorne has options that hold their own. Smaller, more personal, and you're not paying CBD prices.
 
-The food is French-bistro-meets-whatever-feels-right: think housemade charcuterie, wood-fired dishes with offal that sneaks onto your plate in the best possible way, and a steak on Wednesdays that has become a genuine ritual for locals. The blood pudding isn't listed as a selling point — it should be.
+**Beer Gardens** — Weather-dependent but essential for Melbourne summers. Some of Cremorne's best drinking happens outdoors when the weather cooperates.
 
-**Order this:** The charcuterie board and a glass of whatever the bartender is drinking ($28–$38 for the board, wines from $14/glass)
-**Address:** 31 Stephenson Street, Cremorne
-**Hours:** Tue–Thu 4pm–late, Fri–Sat noon–late, Sun–Mon closed
-**Insider tip:** Arrive before 6pm on Friday for aperitivo hour — it fills up fast, and once the disco ball starts spinning, you're not leaving.
+**The All-Rounder** — The bar that works for everything: after-work drinks, catch-ups, first dates, Saturday nights. Reliable, never amazing, always good enough.
 
+## When to Go
 
-## 2. Amatrice
-**The vibe:** Rooftop Italian with views that make you forget you're above a tech office building.
+**After work (5-7pm)** — The sweet spot for most Cremorne bars. Happy hour-ish, relaxed, locals unwinding.
 
-Perched on the tenth floor of a Cremorne building, Amatrice is the rooftop bar that South Yarra wishes it had. The Brahman Perera-designed interior is moody and considered — think dark leather, brass accents, and floor-to-ceiling windows that catch the city skyline. But the real action starts at sundown when the lighting shifts and the Negronis start flowing.
+**Friday night** — The main strip fills up. Get in by 6pm or expect to wait. The energy is good though.
 
-The menu goes well beyond standard rooftop fare. Pastas are made in-house, the tiramisu is dangerously good, and the cocktail list has enough depth that you won't be stuck choosing between a Spritz and another Spritz. It's the kind of place where a casual after-work drink accidentally becomes a four-course dinner.
+**Saturday** — Peak social time. Bars are full, atmosphere is high, expect queues at popular spots.
 
-**Order this:** The handmade pappardelle and an Amatrice Spritz ($26 pasta, $22 cocktails)
-**Address:** Level 10, 33 Cremorne Street, Cremorne
-**Hours:** Wed–Fri 4pm–late, Sat–Sun noon–late
-**Insider tip:** Book the window seats facing west for sunset. If you can't get a table, the bar area has the same views and no booking required.
+**Sunday session** — Underrated. Some of Cremorne's bars do Sunday sessions that are genuinely great — more relaxed, often live music or DJs, and no Sunday scaries.
 
+## What Makes Cremorne Different
 
-## 3. Good Heavens Rooftop Bar
-**The vibe:** The rooftop bar that takes itself just seriously enough — good drinks, good music, and the CBD skyline doing the heavy lifting on atmosphere.
+Cremorne isn't trying to out-cool the inner-city bar hubs. The bars here work because they serve the locals first — they're places you'd go weekly, not Instagram destinations you visit once.
 
-Good Heavens sits atop the Somerset building on Bourke Street but pulls the Cremorne crowd because of its proximity and vibe alignment. It's the kind of rooftop that works for a Tuesday quiet drink or a Friday that spirals. The cocktail menu rotates seasonally, the beer garden section handles Melbourne's unpredictable weather with a retractable roof, and the food is designed to be shared while you argue about which direction the Yarra actually flows.
+That gives the suburb's bar scene an authenticity that more hyped areas often lack. The vibe is real because the people are regulars, not tourists.
 
-**Order this:** The frozen margarita and loaded fries ($19 marg, $16 fries)
-**Address:** Level 4/601 Bourke Street (short walk from Cremorne's southern border)
-**Hours:** Mon–Thu 4pm–11pm, Fri–Sat noon–1am, Sun noon–10pm
-**Insider tip:** If you're coming from Cremorne, walk down Balmain Street along the Yarra — it's prettier than cutting through Richmond and takes about eight minutes.
+## Tips
 
+1. **Support the neighbourhood bar** — they're the ones that make the suburb
+2. **Try the local brewery tap** — if Cremorne has one, it's usually worth a visit
+3. **Weeknights are underrated** — fewer people, better service, same drinks
+4. **Ask the bartender** — they know what's good and what's not worth ordering
 
-## 4. Bierkeller
-**The vibe:** Proper German beer hall energy in a suburb that usually takes itself a bit more seriously. Exactly the tension Cremorne needs.
+---
 
-Bierkeller on Church Street is the antidote to Cremorne's corporate cool. It's a no-pretence beer hall serving steins of imported German lagers, massive pretzels, and schnitzels the size of hubcaps. The long wooden tables force you to sit with strangers, which by your third stein is a feature, not a bug. Live music on weekends keeps things rowdy without getting out of hand.
-
-For a suburb dominated by tech offices and specialty coffee, Bierkeller is the local release valve — the place where Friday lunches turn into Friday evenings and nobody's checking Slack anymore.
-
-**Order this:** The pork schnitzel with chips and a Paulaner stein ($24 schnitzel, $16 stein)
-**Address:** 620 Church Street, Cremorne
-**Hours:** Mon–Thu 11am–11pm, Fri–Sat 11am–1am, Sun noon–10pm
-**Insider tip:** Tuesday is stein night — $12 steins all evening. It gets packed with after-work tradies and tech bros in an unlikely but harmonious alliance.
-
-
-## 5. The Grand Hotel
-**The vibe:** Old-school Melbourne pub that refuses to gentrify, right on the Swan Street edge of Cremorne.
-
-The Grand Hotel is the pub that reminds you Cremorne was blue-collar long before the startups moved in. It's got the cold schooners, the parma that hasn't changed in twenty years (because it doesn't need to), and the kind of front bar where the regulars have their own stools. No craft cocktail list, no degustation — just a proper pub doing what pubs are supposed to do.
-
-It's deliberately unpolished, and that's exactly why it matters. In a suburb of polished concrete and reclaimed timber, The Grand is the anchor to reality.
-
-**Order this:** A pot of VB and the chicken parma ($8 pot, $22 parma)
-**Address:** 570 Swan Street, Cremorne
-**Hours:** Mon–Sun 11am–11pm
-**Insider tip:** The beer garden out back catches the afternoon sun perfectly. Duck in from Swan Street when the footy's on — it's the closest thing to a proper Richmond footy pub on the Cremorne side.
-
-
-## 6. State of Grace
-**The vibe:** Cocktail bar with a split personality — the ground floor is a light-filled café by day, the basement is a moody cocktail den by night.
-
-State of Grace technically straddles the Cremorne/Richmond border, but it's firmly in the Cremorne drinks circuit. The basement bar is where the magic happens: low lighting, leather banquettes, and a cocktail list that takes its craft seriously without being insufferable about it. The espresso martini here is one of the best in the inner east, and they'll argue that point with you if you disagree.
-
-Upstairs is a different beast entirely — bright, airy, great for a weekday lunch that accidentally includes two glasses of rosé. This duality is what makes it work: one building, two completely different moods.
-
-**Order this:** Espresso martini and the truffle arancini ($22 martini, $18 arancini)
-**Address:** 475 Church Street, Cremorne
-**Hours:** Mon–Fri 7am–late, Sat–Sun 8am–late
-**Insider tip:** The basement has no visible signage from the street. Look for the door marked "GRACE" and head downstairs. If you can't find it, you're not alone — regulars use it as a filter.
-
-
-## 7. Naked for Satan
-**The vibe:** Basque-inspired pintxos bar with a name that guarantees your mum will ask questions when you mention it.
-
-While technically on Brunswick Street in Fitzroy, Naked for Satan frequently pulls the Cremorne crowd across the river for its legendary pintxos-and-vodka offerings. The rooftop alone — one of Melbourne's best — is worth the 10-minute trip. But the reason it features here is that Cremorne locals claim it as their "going out out" venue, and the Cremorne-to-Fitzroy pipeline on a Friday night is well established.
-
-The pintxos are Basque Country inspired, the house-infused vodkas have been a Melbourne institution for over a decade, and the energy is reliably chaotic without being grimy.
-
-**Order this:** Three pintxos of your choice and a house-infused vodka ($6 per pintxo, $14 vodka)
-**Address:** 285 Brunswick Street, Fitzroy (the Cremorne crossover venue)
-**Hours:** Mon–Thu 4pm–11pm, Fri–Sat noon–1am, Sun noon–11pm
-**Insider tip:** Skip the ground floor and head straight to the rooftop. Even in winter, the heaters are aggressive enough that you'll be fine.
-
-
-## The Bottom Line
-
-Cremorne's bar scene is small but deliberately curated — there's no filler here. For date night, Lilac Wine Bar is unbeatable. For a rowdy Friday, Bierkeller. For cocktails that make you feel like you've earned them, Amatrice. And for the rare occasion you just want a cold beer in a pub that hasn't been "reimagined," The Grand Hotel is always there.
-
-Honestly? This suburb is quietly becoming one of Melbourne's best after-dark destinations. Don't tell Richmond we said that.
-
-**Your Cremorne Vibe Score this week: 79/100** — The corporate crowd leaves by 7pm and the real Cremorne wakes up.
-
-
-*Know a spot we missed? Let us know.*
-
-*Also check: [Best Bars in Richmond](/richmond/best-bars) · [Best Bars in South Yarra](/south-yarra/best-bars) · [Best Bars in South Melbourne](/south-melbourne/best-bars)*
-
-*Getting home safe: Cremorne is well served by trams along Church Street (Route 78) and Swan Street buses. Night Network services run Friday and Saturday nights. If you need help, Richmond Police Station is at 357 Church Street, a short walk from most of these venues. For emergencies, call 000.*
-
-*MELBZ — We Know Your Suburb Better Than You Do.*
-
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More on Cremorne:** [Cremorne Suburb Guide](/cremorne/) · [Cremorne Best Restaurants](/cremorne/best-restaurants/) · [Cremorne for Young Professionals](/cremorne/cremorne-for-young-professionals/)

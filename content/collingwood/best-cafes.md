@@ -1,212 +1,60 @@
 ---
-title: "Best Cafes & Brunch in Collingwood 2026"
-cover_image: "/images/collingwood/best-cafes.jpg"
-date: 2026-03-18
-author: priya
-description: "Where to find the best coffee and brunch in Collingwood. We tested the top cafes for quality, value, and that perfect weekend morning vibe."
-tags: ["collingwood", "best-cafes"]
-categories: ["best"]
+title: "Best Cafes in Collingwood Melbourne"
+description: "Where to find the best coffee and cafes in Collingwood. Local picks, quiet corners, and the spots that actually deliver."
+date: 2026-03-21
+suburb: "collingwood"
+article_type: "best-of"
+author: "oscar"
+keywords:
+  - "best cafes Collingwood"
+  - "coffee Collingwood Melbourne"
+  - "cafes near Collingwood"
+  - "brunch Collingwood"
 ---
 
-*Updated 18 March 2026 | Food Editor*
 
-# Best Cafes & Brunch in Collingwood 2026
+## The Cafe Scene in Collingwood
 
-Collingwood's cafe scene continues to evolve, blending the suburb's industrial heritage with Melbourne's ever-innovative coffee culture. From heritage-listed warehouses to converted factories, these are the spots defining breakfast and brunch in this creative pocket of Melbourne's inner north.
+Collingwood takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
 
+The cafe culture here reflects the neighbourhood. Warehouses turned breweries, Smith Street's restaurant strip, and Melbourne's edgiest nightlife.
 
-## Venue Addresses & Details
+## What Makes a Good Cafe Here
 
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Admiral Cheng-Ho
-325 Johnston Street, Collingwood VIC 3066
+The best cafes in Collingwood aren't just about the coffee (though the coffee matters). They're the places where the staff recognise you after a few visits, where the food is genuinely good rather than just photogenic, and where you can sit for an hour without feeling rushed.
 
-Admiral Cheng-Ho has been a fixture on the Collingwood cafe scene for years, and they've only gotten better with time. Their plant-based menu has matured into something truly special, with dishes that satisfy both devoted vegans and curious omnivores. The breakfast carbonara with coconut bacon and cashew cream has become legendary among locals, while their coffee program remains uncompromising - they source directly from ethical growers and roast in-house. The high-ceilinged space with exposed brick walls provides the perfect backdrop for lazy weekend brunches or quick weekday coffee runs.
+Local picks tend to be the ones slightly off the main strip — the place your neighbour told you about, not the one with the queue out the door on Instagram.
 
+## Types of Cafes You'll Find
 
-## Venue Addresses & Details
+**The Morning Ritual Spot** — Opens early, nails the basics. Perfect flat white, decent toast, no fuss. In and out in 15 minutes or linger with the paper.
 
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Proud Mary
-172 Oxford Street, Collingwood VIC 3066
+**The Brunch Destination** — Proper menu, weekend crowds, the kind of place you plan around. Usually has one or two dishes that people specifically come here for. Worth the wait most of the time.
 
-Proud Mary set the benchmark for specialty coffee in Melbourne, and their Collingwood flagship still delivers. The team here approaches coffee with the same dedication as a sommelier approaches wine, with detailed tasting notes and origin stories for each brew. Their food menu matches this precision - think ricotta hotcakes with lemon curd and macadamia crumb, or a breakfast bowl with ancient grains, pickled vegetables, and a perfectly poached egg. The industrial fit-out with polished concrete floors and soaring ceilings creates an atmosphere that's both energetic and welcoming.
+**The Work-From-Cafe** — Good WiFi, comfortable seating, doesn't mind you sitting there all morning. Usually slightly quieter on weekdays and has proper bench space.
 
+**The Hidden Local** — The one only neighbourhood people know about. Might not look like much from outside. Often the best value and genuine character.
 
-## Venue Addresses & Details
+**The All-Day Spot** — Transitions from coffee to lunch to afternoon drinks. Versatile and reliable. Good for meetings and catch-ups at any hour.
 
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Terror Twilight
-16-22 Crossley Street, Collingwood VIC 3066
+## Coffee Quality in Collingwood
 
-This light-filled corner spot brings a fresh perspective to Collingwood's brunch scene. Terror Twilight's menu draws inspiration from Japanese and Korean breakfast traditions, offering dishes like okonomiyaki with bonito flakes, or congee with preserved egg and crispy shallots. Their coffee is excellent, but the real stars are their house-made sodas and cold-pressed juices. The space itself is a study in minimalism - clean lines, natural materials, and plenty of plants create a calming environment that's perfect for slow mornings.
+Melbourne sets the bar high for coffee, and Collingwood keeps up. Locally roasted beans, proper baristas who care about extraction, and enough competition that bad coffee doesn't survive here long.
 
+You'll find a mix of specialty roasters and reliable multi-roaster setups. Most cafes here give you a choice of milk alternatives without making a thing about it.
 
-## Venue Addresses & Details
+## Tips for Finding Your Spot
 
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Everyday Midtown
-334 Smith Street, Collingwood VIC 3066
+1. **Walk the back streets** — the best cafes aren't always on the main drag
+2. **Go on a weekday first** — easier to get a feel for the place without weekend chaos
+3. **Ask locals** — the barista at one cafe will usually tell you their favourite cafe (which is someone else's)
+4. **Check the food** — great coffee with bad food is a red flag for the overall standard
+5. **Look at who's there** — regulars and locals means the place has earned repeat business
 
-Everyday Midtown brings a slice of New York deli culture to Collingwood. Their bagels are the real deal - chewy, dense, and available with all the classic toppings. The pastrami hash with poached eggs and hollandaise has become a weekend ritual for many locals. They also do an exceptional line in breakfast sandwiches, piled high with scrambled eggs, cheese, and your choice of fillings. The space is compact but efficient, with a long counter perfect for solo diners and a few tables for groups.
+## Our Verdict
 
+Collingwood's cafe scene is strong and growing. You won't struggle to find good coffee within a short walk from anywhere in the suburb. The variety means there's something for every mood and occasion.
 
-## Venue Addresses & Details
+---
 
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Terror Twilight
-16-22 Crossley Street, Collingwood VIC 3066
-
-This light-filled corner spot brings a fresh perspective to Collingwood's brunch scene. Terror Twilight's menu draws inspiration from Japanese and Korean breakfast traditions, offering dishes like okonomiyaki with bonito flakes, or congee with preserved egg and crispy shallots. Their coffee is excellent, but the real stars are their house-made sodas and cold-pressed juices. The space itself is a study in minimalism - clean lines, natural materials, and plenty of plants create a calming environment that's perfect for slow mornings.
-
-
-## Venue Addresses & Details
-
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Everyday Midtown
-334 Smith Street, Collingwood VIC 3066
-
-Everyday Midtown brings a slice of New York deli culture to Collingwood. Their bagels are the real deal - chewy, dense, and available with all the classic toppings. The pastrami hash with poached eggs and hollandaise has become a weekend ritual for many locals. They also do an exceptional line in breakfast sandwiches, piled high with scrambled eggs, cheese, and your choice of fillings. The space is compact but efficient, with a long counter perfect for solo diners and a few tables for groups.
-
-
-## Venue Addresses & Details
-
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Terror Twilight
-16-22 Crossley Street, Collingwood VIC 3066
-
-This light-filled corner spot brings a fresh perspective to Collingwood's brunch scene. Terror Twilight's menu draws inspiration from Japanese and Korean breakfast traditions, offering dishes like okonomiyaki with bonito flakes, or congee with preserved egg and crispy shallots. Their coffee is excellent, but the real stars are their house-made sodas and cold-pressed juices. The space itself is a study in minimalism - clean lines, natural materials, and plenty of plants create a calming environment that's perfect for slow mornings.
-
-
-## Venue Addresses & Details
-
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Everyday Midtown
-334 Smith Street, Collingwood VIC 3066
-
-Everyday Midtown brings a slice of New York deli culture to Collingwood. Their bagels are the real deal - chewy, dense, and available with all the classic toppings. The pastrami hash with poached eggs and hollandaise has become a weekend ritual for many locals. They also do an exceptional line in breakfast sandwiches, piled high with scrambled eggs, cheese, and your choice of fillings. The space is compact but efficient, with a long counter perfect for solo diners and a few tables for groups.
-
-
-## Venue Addresses & Details
-
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Terror Twilight
-16-22 Crossley Street, Collingwood VIC 3066
-
-This light-filled corner spot brings a fresh perspective to Collingwood's brunch scene. Terror Twilight's menu draws inspiration from Japanese and Korean breakfast traditions, offering dishes like okonomiyaki with bonito flakes, or congee with preserved egg and crispy shallots. Their coffee is excellent, but the real stars are their house-made sodas and cold-pressed juices. The space itself is a study in minimalism - clean lines, natural materials, and plenty of plants create a calming environment that's perfect for slow mornings.
-
-
-## Venue Addresses & Details
-
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Everyday Midtown
-334 Smith Street, Collingwood VIC 3066
-
-Everyday Midtown brings a slice of New York deli culture to Collingwood. Their bagels are the real deal - chewy, dense, and available with all the classic toppings. The pastrami hash with poached eggs and hollandaise has become a weekend ritual for many locals. They also do an exceptional line in breakfast sandwiches, piled high with scrambled eggs, cheese, and your choice of fillings. The space is compact but efficient, with a long counter perfect for solo diners and a few tables for groups.
-
-
-## Venue Addresses & Details
-
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## The Latest and Greatest
-
-Collingwood's cafe scene continues to evolve, with several exciting newcomers making waves in 2026. The industry has seen a notable shift towards sustainability, with many venues now offering carbon-neutral coffee options and zero-waste breakfast items. Several cafes have also expanded their offerings to include natural wines and craft beers, blurring the lines between cafe and bar.
-
-The suburb's creative spirit is reflected in its food offerings, with many cafes collaborating with local artists for both their interiors and their menu designs. This community-focused approach has helped Collingwood maintain its edge in Melbourne's competitive cafe landscape.
-
-
-## Venue Addresses & Details
-
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## What Makes Collingwood Special
-
-What sets Collingwood apart is its refusal to conform to trends. While other suburbs might chase the latest Instagram-worthy dish, Collingwood's cafes focus on substance over style. Many venues occupy heritage buildings, with original features like pressed metal ceilings and timber floors adding character that can't be manufactured.
-
-The area's proximity to the CBD means these cafes attract a diverse crowd - from creative professionals grabbing a quick coffee to families enjoying lazy weekend brunches. This mix creates a packed atmosphere that feels distinctly Melbourne.
-
-
-## Venue Addresses & Details
-
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Planning Your Visit
-
-Most Collingwood cafes open early, typically around 7am on weekdays and 8am on weekends. Many don't take bookings, so arriving early is wise, especially on weekends when queues can form quickly. Most venues offer takeaway options if you can't snag a table.
-
-The area is well-served by public transport, with trams along Johnston Street and Smith Street, and Collingwood Station providing train access. Cycling is also popular, with many cafes offering bike parking.
-
-Whether you're after a perfect flat white, an innovative brunch dish, or just a great spot to watch the world go by, Collingwood's cafe scene delivers. Each venue has its own personality, but all share a commitment to quality that keeps locals coming back and visitors planning return trips.
-
-For more on Melbourne's cafe culture, check out our guides to [best cafes in Melbourne](/best-cafes-melbourne/) and explore other [inner north suburbs](/melbourne/). If you're planning a food-focused day out, our [best restaurants Melbourne](/best-restaurants-melbourne/) guide has plenty of dinner recommendations to complement your cafe hopping.
-
-
-
-## Venue Addresses & Details
-
-- **Proud Mary Coffee** — 172 Oxford St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Try the filter coffee flight to experience their rotating single origins.*
-- **Terror Twilight** — 11-13 Johnston St, Collingwood VIC 3066 ($$). Open: Mon-Sun 8am-4pm. *Tip: The breakfast ramen is a cult favorite that sells out early on weekends.*
-- **Allpress Espresso** — 89 Rupert St, Collingwood VIC 3066 ($$). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: Grab a seat at the communal table to watch the roastery in action.*
-- **Archie's All Day** — 189 Gertrude St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Mon-Sun 8am-4pm. *Tip: The ricotta hotcakes are legendary; perfect for sharing.*
-- **Plug Nickel** — 104-106 Smith St, Collingwood VIC 3066 ($). Open: Mon-Fri 7am-3pm, Sat-Sun 8am-3pm. *Tip: Perfect for a quick takeaway coffee before walking down Smith Street.*
-## Related Articles
-
-- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
-- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
-- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
-- [Best Bars in Melbourne](/best-bars-melbourne)
-- [Cost of Living in Melbourne](/cost-of-living-melbourne)
-- [Transport Guide for Melbourne](/transport-guide-melbourne)
-
-*Find more Melbourne suburb guides at [melbz.com.au](/)*
-
+**More on Collingwood:** [Collingwood Suburb Guide](/collingwood/) · [Collingwood Cost of Living](/collingwood/cost-of-living/) · [Collingwood Neighbourhood Guide](/collingwood/neighbourhood-guide/)

@@ -108,7 +108,7 @@ We may update this privacy policy from time to time. We will notify users of any
 
 If you have questions about this privacy policy or how we handle your data:
 
-**Email:** [hq@melbz.com.au](mailto:hq@melbz.com.au)
+**Email:** [hq@melbz101](mailto:hq@melbz101)
 
 **Mail:** 
 MELBZ / Axior Labs

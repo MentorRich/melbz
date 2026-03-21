@@ -120,7 +120,7 @@ Brunswick doesn't need your approval. It never has. That's the most Brunswick th
 *Got a suburb you want roasted? Tell us. We're not afraid. Well, maybe of Footscray.*
 
 
-*Tyler James is the Roast Editor at MELBZ. He has lived in four of the suburbs he's roasted and been kicked out of two. Follow MELBZ on [Instagram](https://instagram.com/melbzcomau) and [TikTok](https://tiktok.com/@melbzcomau) for daily suburb chaos.*
+*Tyler James is the Roast Editor at MELBZ. He has lived in four of the suburbs he's roasted and been kicked out of two. Follow MELBZ on [Instagram](https://instagram.com/melbzcomau) and [TikTok](https://tiktok.com/@melbz101) for daily suburb chaos.*
 
 > **📊 REACTION BAR: How did this roast land?**
 > 🔥 Spot on | 😤 Unfair | 😂 Accurate and hilarious | 🤡 You know nothing | ❤️ Love my suburb

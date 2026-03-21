@@ -95,7 +95,7 @@ Housed in a beautiful Victorian building on Lygon Street, Carlton Wine Room is o
 ## 7. The Green Man's Arms
 **The vibe:** A pub that looks like a pub, acts like a pub, but serves an entirely plant-based menu — and nobody notices
 
-The Green Man's Arms on Lygon Street is one of Melbourne's best-kept secrets for anyone who thinks vegan food can't be pub food. The green heritage-style façade and mid-century interior look like a classic pub, and the atmosphere absolutely delivers that pub energy. But the entire menu is plant-based, and it's genuinely excellent. The eggplant "schnitzel" is crispy and satisfying, the fried cauliflower is dangerously addictive, and the diverse beer selection ranges from Melbourne craft to European classics. It's the rare venue where vegans and meat-eaters eat together happily and nobody feels like they're compromising.
+The Green Man's Arms on Lygon Street is one of Melbourne's under-the-radar spots for anyone who thinks vegan food can't be pub food. The green heritage-style façade and mid-century interior look like a classic pub, and the atmosphere absolutely delivers that pub energy. But the entire menu is plant-based, and it's genuinely excellent. The eggplant "schnitzel" is crispy and satisfying, the fried cauliflower is dangerously addictive, and the diverse beer selection ranges from Melbourne craft to European classics. It's the rare venue where vegans and meat-eaters eat together happily and nobody feels like they're compromising.
 
 **Order this:** Eggplant schnitzel ($22) and a local craft pale ale ($12)
 **Address:** Lygon Street, Carlton

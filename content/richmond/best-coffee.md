@@ -141,7 +141,7 @@ Coffee culture is pulling its weight this week. The cafe scene has been stable w
 
 Richmond has more good cafes than we can fit in one list. Tell us where we should go next.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

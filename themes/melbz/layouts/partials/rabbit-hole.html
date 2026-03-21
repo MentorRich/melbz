@@ -1,0 +1,80 @@
+{{/* Rabbit Hole — never-ending engagement links */}}
+<aside class="rabbit-hole">
+    <div class="rabbit-header">
+        <span class="rabbit-emoji">🐇</span>
+        <h3>Keep Going</h3>
+        <p>You've read this far. Might as well keep exploring.</p>
+    </div>
+
+    <!-- Related in same suburb -->
+    {{ if .Params.suburb }}
+    {{ $suburb := .Params.suburb }}
+    {{ $related := where .Site.RegularPages ".Params.suburb" $suburb }}
+    {{ $related = $related | first 6 }}
+    {{ if gt (len $related) 1 }}
+    <div class="rabbit-section">
+        <h4>More from {{ $suburb | title }}</h4>
+        <div class="rabbit-links">
+            {{ range $related }}
+            {{ if ne .Permalink $.Permalink }}
+            <a href="{{ .RelPermalink }}" class="rabbit-link">
+                <span class="rabbit-link-title">{{ .Title | truncate 55 }}</span>
+                <span class="rabbit-link-arrow">→</span>
+            </a>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+    {{ end }}
+
+    <!-- Same vertical, different suburb -->
+    {{ if .Params.vertical }}
+    {{ $vertical := .Params.vertical }}
+    {{ $sameVertical := where .Site.RegularPages ".Params.vertical" $vertical }}
+    {{ $sameVertical = $sameVertical | first 8 }}
+    {{ if gt (len $sameVertical) 1 }}
+    <div class="rabbit-section">
+        <h4>{{ $vertical | title }} Across Melbourne</h4>
+        <div class="rabbit-links">
+            {{ range first 4 $sameVertical }}
+            {{ if ne .Permalink $.Permalink }}
+            <a href="{{ .RelPermalink }}" class="rabbit-link">
+                <span class="rabbit-link-title">{{ .Title | truncate 55 }}</span>
+                {{ if .Params.suburb }}<span class="rabbit-link-suburb">{{ .Params.suburb | title }}</span>{{ end }}
+                <span class="rabbit-link-arrow">→</span>
+            </a>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+    {{ end }}
+
+    <!-- Surprise me -->
+    <div class="rabbit-section rabbit-surprise">
+        <h4>🎲 Surprise Me</h4>
+        <div class="rabbit-links">
+            {{ $allPages := .Site.RegularPages }}
+            {{ $shuffled := $allPages | shuffle }}
+            {{ range first 3 $shuffled }}
+            <a href="{{ .RelPermalink }}" class="rabbit-link rabbit-link--surprise">
+                <span class="rabbit-link-title">{{ .Title | truncate 55 }}</span>
+                {{ if .Params.suburb }}<span class="rabbit-link-suburb">{{ .Params.suburb | title }}</span>{{ end }}
+                <span class="rabbit-link-arrow">→</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+
+    <!-- Rankings hook -->
+    <div class="rabbit-section">
+        <h4>📊 The Rankings</h4>
+        <div class="rabbit-links">
+            <a href="/rankings/best-suburbs-for-families/" class="rabbit-link"><span class="rabbit-link-title">Best Suburbs for Families</span><span class="rabbit-link-arrow">→</span></a>
+            <a href="/rankings/cheapest-suburbs-melbourne/" class="rabbit-link"><span class="rabbit-link-title">Cheapest Suburbs to Rent</span><span class="rabbit-link-arrow">→</span></a>
+            <a href="/rankings/best-food-suburbs/" class="rabbit-link"><span class="rabbit-link-title">Best Food & Drink Suburbs</span><span class="rabbit-link-arrow">→</span></a>
+            <a href="/vibe-score/" class="rabbit-link"><span class="rabbit-link-title">All Vibe Scores</span><span class="rabbit-link-arrow">→</span></a>
+        </div>
+    </div>
+</aside>

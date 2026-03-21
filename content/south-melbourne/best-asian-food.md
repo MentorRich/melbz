@@ -51,7 +51,7 @@ Budget-wise, you're looking at roughly $16–22 for a main, with small plates st
 **Pro tip:** Visit on a Wednesday or Friday when the full market is open. Grab lunch at BAMBU, then wander the fresh produce halls for your weekend groceries. That's a proper Melbourne morning sorted.
 
 
-## 3. Peko Peko — South Melbourne's Best-Kept Secret
+## 3. Peko Peko — South Melbourne's under-the-radar spot
 
 **Cuisine:** Taiwanese-Japanese Fusion | **Price:** $$ | **Address:** 190 Wells Street, South Melbourne VIC 3205
 

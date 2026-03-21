@@ -107,7 +107,7 @@ Heidelberg in 2026 is what it's always been: a proper, liveable, unpretentious M
 >
 > **Best value dinner:** The Vietnamese on the Burgundy Street strip. Under $20, you'll be full and happy.
 >
-> **Best kept secret:** The Yarra Trail walk from Heidelberg to Eltham. Ten minutes of bushland and you've forgotten you're in Melbourne.
+> **under-the-radar spot:** The Yarra Trail walk from Heidelberg to Eltham. Ten minutes of bushland and you've forgotten you're in Melbourne.
 >
 > **Biggest trap:** Circling Burgundy Street for parking. Use the side streets. Save your sanity.
 

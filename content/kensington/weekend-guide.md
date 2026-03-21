@@ -182,7 +182,7 @@ Come for the river. Stay for the pie. Leave before the sun goes down — unless 
 </div>
 
 
-*Isabella Greco is the Seasonal Editor at MELBZ, covering Melbourne's inner suburbs one weekend at a time. She has walked the Maribyrnong River trail more times than she can count and still finds new spots along the way. Follow her beat at [@melbzcomau](https://instagram.com/melbzcomau).*
+*Isabella Greco is the Seasonal Editor at MELBZ, covering Melbourne's inner suburbs one weekend at a time. She has walked the Maribyrnong River trail more times than she can count and still finds new spots along the way. Follow her beat at [@melbz101](https://instagram.com/melbzcomau).*
 
 ### Featured Venues
 

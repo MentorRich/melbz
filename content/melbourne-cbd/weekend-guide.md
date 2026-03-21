@@ -207,7 +207,7 @@ The CBD rewards people who look up. Most of the good stuff is on the second floo
 
 *Updated 16 March 2026 | Isabella Greco reporting*
 
-*Have a correction or a spot we need to visit? Email hello@melbz.com.au*
+*Have a correction or a spot we need to visit? Email hq@melbz101*
 
 ### Featured Venues
 

@@ -1442,3 +1442,131 @@ a:hover {
   .debrief-grid { grid-template-columns: 1fr; }
   .ticker { font-size: 0.75rem; }
 }
+/* ========================================
+   MELBZ DOMINATION CSS — v2.0
+   Debates, Trends, Rabbit Hole, Engagement
+   ======================================== */
+
+/* --- DEBATE SECTION --- */
+.debate-section { background: #0d1117; color: #fff; padding: 3rem 0; }
+.debate-header { display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem; flex-wrap: wrap; }
+.live-dot { width: 12px; height: 12px; background: #ff4444; border-radius: 50%; animation: pulse-dot 2s infinite; }
+@keyframes pulse-dot { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+.debate-header h2 { margin: 0; color: #fff; font-size: 1.5rem; }
+.debate-topic { background: rgba(232,93,58,0.2); color: #E85D3A; padding: 0.4rem 1rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+
+.debate-thread { display: flex; flex-direction: column; gap: 1.5rem; max-width: 700px; }
+.debate-msg { display: flex; gap: 0.75rem; align-items: flex-start; }
+.debate-avatar { border-radius: 50%; flex-shrink: 0; border: 2px solid rgba(255,255,255,0.1); }
+.debate-bubble { background: rgba(255,255,255,0.06); border-radius: 0 12px 12px 12px; padding: 1rem 1.25rem; flex: 1; border: 1px solid rgba(255,255,255,0.08); }
+.debate-name { font-weight: 700; font-size: 0.9rem; display: block; margin-bottom: 0.4rem; }
+.debate-role { font-weight: 400; color: rgba(255,255,255,0.5); font-size: 0.8rem; }
+.debate-bubble p { margin: 0; font-size: 0.95rem; line-height: 1.5; color: rgba(255,255,255,0.85); }
+.debate-time { font-size: 0.75rem; color: rgba(255,255,255,0.35); margin-top: 0.5rem; display: block; }
+
+.debate-cta { margin-top: 2rem; display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap; }
+.btn-debate { background: #E85D3A; color: #fff; padding: 0.75rem 2rem; border-radius: 6px; text-decoration: none; font-weight: 700; font-size: 0.95rem; transition: background 0.2s; }
+.btn-debate:hover { background: #d14e2e; }
+.debate-meta { font-size: 0.8rem; color: rgba(255,255,255,0.4); }
+
+/* --- TREND RIDER --- */
+.trend-rider { background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 12px; margin: 2.5rem 0; overflow: hidden; }
+.trend-header { display: flex; align-items: center; gap: 1rem; padding: 1.25rem 1.5rem; background: #0d1117; color: #fff; flex-wrap: wrap; }
+.trend-badge { background: #E85D3A; color: #fff; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; }
+.trend-header h3 { margin: 0; font-size: 1.1rem; }
+.trend-body { padding: 1.5rem; }
+.trend-intro { font-size: 0.95rem; line-height: 1.6; margin-bottom: 1.5rem; }
+
+.fuel-table { display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 1.5rem; }
+.fuel-row { display: flex; align-items: center; gap: 1rem; padding: 0.75rem 1rem; background: #fff; border-radius: 6px; border: 1px solid #e1e4e8; }
+.fuel-suburb { flex: 1; font-weight: 600; }
+.fuel-price { font-weight: 700; font-size: 1.1rem; font-family: monospace; }
+.fuel-tag { padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; background: #eee; }
+.fuel-tag--green { background: #d4edda; color: #155724; }
+.fuel-tag--red { background: #f8d7da; color: #721c24; }
+.fuel-row--cheap { border-left: 3px solid #28a745; }
+.fuel-row--expensive { border-left: 3px solid #dc3545; }
+
+.trend-tips { background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 1.25rem; margin-bottom: 1rem; }
+.trend-tips h4 { margin: 0 0 0.75rem; font-size: 1rem; }
+.trend-tips li { margin-bottom: 0.4rem; font-size: 0.9rem; }
+.trend-source { font-size: 0.8rem; color: #666; }
+
+/* --- RABBIT HOLE --- */
+.rabbit-hole { background: #f8f9fa; border-radius: 12px; padding: 2rem; margin: 2.5rem 0; border: 1px solid #e1e4e8; }
+.rabbit-header { margin-bottom: 1.5rem; }
+.rabbit-emoji { font-size: 2rem; display: block; margin-bottom: 0.5rem; }
+.rabbit-header h3 { margin: 0; font-size: 1.3rem; }
+.rabbit-header p { color: #666; margin: 0.25rem 0 0; font-size: 0.9rem; }
+
+.rabbit-section { margin-bottom: 1.5rem; }
+.rabbit-section h4 { font-size: 0.9rem; color: #666; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.75rem; }
+.rabbit-links { display: flex; flex-direction: column; gap: 0.4rem; }
+.rabbit-link { display: flex; align-items: center; gap: 0.75rem; padding: 0.6rem 0.75rem; background: #fff; border-radius: 6px; text-decoration: none; color: #1a1a2e; border: 1px solid #e1e4e8; transition: all 0.15s; }
+.rabbit-link:hover { border-color: #E85D3A; background: #fff5f2; transform: translateX(4px); }
+.rabbit-link-title { flex: 1; font-weight: 500; font-size: 0.9rem; }
+.rabbit-link-suburb { font-size: 0.75rem; color: #888; background: #f0f0f0; padding: 0.15rem 0.5rem; border-radius: 4px; }
+.rabbit-link-arrow { color: #E85D3A; font-weight: 700; }
+.rabbit-link--surprise { border-style: dashed; }
+
+/* --- SUBURBS HUB --- */
+.suburbs-hero { background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 100%); color: #fff; padding: 4rem 0 3rem; text-align: center; }
+.suburbs-hero h1 { font-size: 2.5rem; margin-bottom: 1rem; line-height: 1.2; }
+.suburbs-hero .hero-sub { color: rgba(255,255,255,0.7); font-size: 1.1rem; max-width: 600px; margin: 0 auto; }
+.suburbs-stats { display: flex; justify-content: center; gap: 3rem; margin-top: 2rem; }
+.stat { text-align: center; }
+.stat-num { display: block; font-size: 2.5rem; font-weight: 800; color: #E85D3A; }
+.stat-label { font-size: 0.85rem; color: rgba(255,255,255,0.6); }
+
+.region-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1.5rem; }
+.region-card { background: #fff; border-radius: 12px; padding: 1.5rem; border: 1px solid #e1e4e8; transition: all 0.2s; cursor: default; }
+.region-card:hover { border-color: #E85D3A; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+.region-icon { font-size: 2rem; margin-bottom: 0.5rem; }
+.region-card h3 { margin: 0 0 0.5rem; font-size: 1.1rem; }
+.region-suburbs { font-size: 0.85rem; color: #666; line-height: 1.5; }
+.region-count { font-size: 0.8rem; color: #888; font-weight: 600; }
+
+.suburbs-az-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 0.75rem; }
+.suburb-az-card { background: #fff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 1rem; text-decoration: none; color: #1a1a2e; transition: all 0.15s; display: block; }
+.suburb-az-card:hover { border-color: #E85D3A; background: #fff5f2; transform: translateY(-2px); }
+.suburb-az-name { font-weight: 600; font-size: 0.95rem; }
+.suburb-az-count { font-size: 0.8rem; color: #888; margin-top: 0.25rem; }
+
+/* --- ARTICLE ENHANCEMENTS --- */
+.article-suburb-tag { display: inline-block; background: #E85D3A; color: #fff; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.75rem; font-weight: 700; letter-spacing: 1px; text-decoration: none; margin-bottom: 1rem; }
+.article-suburb-tag:hover { background: #d14e2e; }
+
+.vibe-badge-inline { display: inline-flex; align-items: center; gap: 0.75rem; background: #f0f0f0; padding: 0.5rem 1rem; border-radius: 8px; margin: 1rem 0; }
+.vibe-num { font-size: 1.5rem; font-weight: 800; }
+.vibe-label-inline { font-size: 0.9rem; font-weight: 600; }
+
+.quick-take { background: #e8f5e9; border-left: 4px solid #4caf50; border-radius: 0 8px 8px 0; padding: 1.25rem 1.5rem; margin: 1.5rem 0; }
+.quick-take h3 { margin: 0 0 0.75rem; font-size: 1rem; }
+.quick-take ul { margin: 0; padding-left: 1.25rem; }
+.quick-take li { margin-bottom: 0.4rem; font-size: 0.95rem; }
+
+.article-description { font-size: 1.15rem; color: #555; line-height: 1.6; margin: 0.5rem 0 1rem; }
+
+/* --- SCROLL ENGAGEMENT --- */
+.article-body h2 { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #eee; }
+.article-body h2:first-child { border-top: none; padding-top: 0; }
+.article-body table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.9rem; }
+.article-body table th { background: #0d1117; color: #fff; padding: 0.75rem 1rem; text-align: left; font-weight: 600; }
+.article-body table td { padding: 0.75rem 1rem; border-bottom: 1px solid #eee; }
+.article-body table tr:hover td { background: #f8f9fa; }
+.article-body blockquote { border-left: 4px solid #E85D3A; padding: 1rem 1.5rem; margin: 1.5rem 0; background: #fff5f2; border-radius: 0 8px 8px 0; font-style: italic; }
+
+/* --- READING PROGRESS BAR --- */
+.reading-progress { position: fixed; top: 0; left: 0; height: 3px; background: #E85D3A; z-index: 9999; transition: width 0.1s; width: 0%; }
+
+/* --- MOBILE --- */
+@media (max-width: 768px) {
+    .suburbs-hero h1 { font-size: 1.8rem; }
+    .suburbs-stats { gap: 1.5rem; }
+    .stat-num { font-size: 2rem; }
+    .region-grid { grid-template-columns: 1fr; }
+    .suburbs-az-grid { grid-template-columns: repeat(2, 1fr); }
+    .debate-thread { max-width: 100%; }
+    .fuel-row { flex-wrap: wrap; }
+    .rabbit-hole { padding: 1.25rem; }
+}

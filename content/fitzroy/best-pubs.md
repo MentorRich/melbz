@@ -163,7 +163,7 @@ Fitzroy's pub culture is the backbone of the suburb's social life. The mix of he
 
 Every suburb person has one. Which pub do you defend when someone suggests going somewhere else?
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

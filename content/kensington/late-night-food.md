@@ -187,7 +187,7 @@ The kebab house for quick takeaway. Sahara for a proper sit-down. La Tortilleria
 Six spots. No filler. That's the lot.
 
 
-*Have we missed your favourite Kensington late-night spot? Tell us on [Telegram](https://t.me/melbaborne) or email ethan@melbz.com.au. We retest every six months.*
+*Have we missed your favourite Kensington late-night spot? Tell us on [Telegram](https://t.me/melbaborne) or email hq@melbz101. We retest every six months.*
 
 
 **About the author:** *Ethan Cross is the Late Night Editor at MELBZ, covering after-dark dining across Melbourne's inner suburbs. He has been writing about Melbourne food since 2019 and has tested late-night menus in more than 40 suburbs.*

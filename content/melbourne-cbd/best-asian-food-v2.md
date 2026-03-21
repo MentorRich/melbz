@@ -198,7 +198,7 @@ Every Thursday, our food editors send the best new openings, hidden specials, an
 - [Melbourne CBD Suburb Vibe Score — This Week](/melbourne-cbd/vibe-score)
 
 
-*Found an error? A restaurant that should be on this list? Drop us a line at hello@melbz.com.au — we taste-test every recommendation.*
+*Found an error? A restaurant that should be on this list? Drop us a line at hq@melbz101 — we taste-test every recommendation.*
 
 *Last updated: 16 March 2026. Prices and hours may change. Always check before visiting.*
 

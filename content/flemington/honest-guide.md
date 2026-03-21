@@ -157,7 +157,7 @@ Lived in Flemington for years? Just moved in? Passing through on Cup Day? We wan
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
-*Have a correction or tip? Email hello@melbz.com.au*
+*Have a correction or tip? Email hq@melbz101*
 
 ## Related Articles
 

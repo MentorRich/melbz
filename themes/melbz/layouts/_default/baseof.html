@@ -20,6 +20,19 @@
     {{- partial "schema.html" . -}}
 </head>
 <body>
+
+    <div class="reading-progress" id="readingProgress"></div>
+    <script>
+    window.addEventListener('scroll', function() {
+        var h = document.documentElement;
+        var b = document.body;
+        var st = h.scrollTop || b.scrollTop;
+        var sh = h.scrollHeight || b.scrollHeight;
+        var ch = h.clientHeight;
+        var pct = (st / (sh - ch)) * 100;
+        document.getElementById('readingProgress').style.width = pct + '%';
+    });
+    </script>
     <a href="#main" class="skip-link">Skip to main content</a>
     
     {{- partial "header.html" . -}}

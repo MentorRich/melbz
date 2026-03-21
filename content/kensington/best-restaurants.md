@@ -131,7 +131,7 @@ Kensington's dining scene punches way above its weight for a suburb most people 
 **East:** [Best Restaurants in North Melbourne](../north-melbourne/best-restaurants) — From workers' cafes to fine dining
 
 
-*Know a Kensington spot we missed? Let us know at tips@melbz.com.au*
+*Know a Kensington spot we missed? Let us know at hq@melbz101*
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
 ### Featured Venues

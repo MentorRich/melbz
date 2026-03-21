@@ -160,7 +160,7 @@ Essendon scores well on community and consistency. Nightlife isn't the suburb's 
 
 The pub you default to. The route you take. The feed you get on the way home. Share your local knowledge.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

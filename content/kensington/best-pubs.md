@@ -149,7 +149,7 @@ Kensington doesn't need to shout. It just needs you to show up.
 | Royal Mail on Spencer | 519 Spencer St, West Melbourne | Date night, quality parma | $$$ |
 
 
-*Love your local? Hate that we included one of these? [Drop us a confession](/confess) or tag us on Instagram @melbz.com.au. We read everything.*
+*Love your local? Hate that we included one of these? [Drop us a confession](/confess) or tag us on Instagram @melbz101. We read everything.*
 
 *Planning a pub crawl with mates? Our [Flemington guide](/suburbs/flemington), [North Melbourne nightlife](/suburbs/north-melbourne) and [Fitzroy after dark](/suburbs/fitroy) cover the neighbouring strips. For suburb-level pricing and liveability data, check our [Kensington suburb profile](/suburbs/kensington).*
 

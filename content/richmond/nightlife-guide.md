@@ -157,7 +157,7 @@ Nightlife energy peaks on event weekends. The Corner Hotel and Precinct Hotel ar
 
 Every local has their routine. Tell us yours — we might feature it next.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

@@ -65,7 +65,7 @@ The Edinburgh Castle at 681 Sydney Road doesn't get enough love. Their midweek s
 
 
 ## 5. Hotel Railway — Thursday Steak
-**The vibe:** A neighbourhood pub on Albert Street where the locals outnumber the tourists roughly 100 to 1, and the Thursday steak deal is the best-kept secret west of the 86 tram.
+**The vibe:** A neighbourhood pub on Albert Street where the locals outnumber the tourists roughly 100 to 1, and the Thursday steak deal is the under-the-radar spot west of the 86 tram.
 
 The Hotel Railway at 291–293 Albert Street runs a $25 beef or cauliflower steak deal on Thursdays. The venue sits right near the Brunswick train station, which makes it the default after-work option for anyone commuting home on the Upfield line. It's not fancy. The carpet has history. But the steak is good, the beer is cold, and the vibe is that of a pub that knows exactly what it is.
 

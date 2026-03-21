@@ -108,7 +108,7 @@ Yes, there's always a queue. Yes, it's worth it. Agathe has become one of Melbou
 3. Mama Tran's dumplings — can't beat a $8 serve
 4. Agathe patisserie — I choose pastry over protein
 
-Let us know in the comments or tag us @melbz.com.au on Instagram.
+Let us know in the comments or tag us @melbz101 on Instagram.
 
 
 ## What We Skipped and Why
@@ -158,7 +158,7 @@ The verdict? South Melbourne is the quiet achiever. No hype, no influencer tax, 
 
 > "Mama Tran's dumplings are my Saturday morning non-negotiable. I've tried to negotiate with my partner about skipping the market. I lost." — Anika, St Kilda
 
-Have a pick we missed? Drop it in the comments or hit us on Instagram @melbz.com.au.
+Have a pick we missed? Drop it in the comments or hit us on Instagram @melbz101.
 
 
 ## The Final Word

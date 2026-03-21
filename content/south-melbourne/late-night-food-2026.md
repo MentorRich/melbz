@@ -161,7 +161,7 @@ On-street parking is metered until 8:30pm, then free. The South Melbourne Market
 
 *Prices and hours are correct as of March 2026 but may change. We recommend calling ahead for kitchen closing times, especially on quieter weeknights. All venues were visited anonymously and paid for in full by MELBZ.*
 
-*Got a late-night South Melbourne spot we missed? Drop us a line at hello@melbz.com.au — we'll check it out.*
+*Got a late-night South Melbourne spot we missed? Drop us a line at hq@melbz101 — we'll check it out.*
 
 
 **Related Reading:**

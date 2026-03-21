@@ -161,7 +161,7 @@ We're building the ultimate late-night power rankings for Melbourne's inner west
 *Cast your vote on our Instagram @melbzdotcom — we update the rankings monthly.*
 
 
-*Have we missed your favourite Kensington late-night spot? Drop us a line at [hello@melbz.com.au](mailto:hello@melbz.com.au) and we'll check it out for the next update.*
+*Have we missed your favourite Kensington late-night spot? Drop us a line at [hq@melbz101](mailto:hq@melbz101) and we'll check it out for the next update.*
 
 
 **More from MELBZ's food team:**

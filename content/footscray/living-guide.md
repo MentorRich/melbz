@@ -184,7 +184,7 @@ The question isn't whether Footscray will keep rising. It will. The question is 
 **Or explore:** [Our complete Neighbourhood Guide to Footscray](https://melbz.com.au/footscray/neighbourhood-guide)
 
 
-*Charlie Dunn is MELBZ's Sustainability and Western Suburbs Editor. He lives in Yarraville and reckons the western suburbs are Melbourne's best-kept open secret. Contact: charlie@melbz.com.au*
+*Charlie Dunn is MELBZ's Sustainability and Western Suburbs Editor. He lives in Yarraville and reckons the western suburbs are Melbourne's best-kept open secret. Contact: hq@melbz101*
 
 ### Featured Venues
 

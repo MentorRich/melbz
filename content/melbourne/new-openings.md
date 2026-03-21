@@ -72,7 +72,7 @@ Grossi's Florentino has been one of Melbourne's most revered Italian restaurants
 **Where:** 80 Bourke Street, CBD
 **Status:** Now open
 **Budget estimate:** $60–$120 per person (Dining Room), $35–$55 (Café Florentino)
-**Insider tip:** Café Florentino is the play for a long lunch that doesn't require a second mortgage. The wood-fired grill menu at lunch prices is one of the CBD's best-kept secrets. Go on a weekday and you'll likely get a table without a booking.
+**Insider tip:** Café Florentino is the play for a long lunch that doesn't require a second mortgage. The wood-fired grill menu at lunch prices is one of the CBD's under-the-radar spots. Go on a weekday and you'll likely get a table without a booking.
 
 
 ## 6. The Gilson Team's New Venue — CBD/Prahran
@@ -127,7 +127,7 @@ Melbourne's 2026 opening season is shaping up to be dominated by Italian food (R
 → [Things To Do This Weekend in Melbourne](/melbourne/things-to-do-this-weekend/) — because new openings are better experienced in context
 → [Cheap Eats in Melbourne Under $20](/melbourne/cheap-eats/) — for when you've blown the budget on a degustation
 → [Date Night in Melbourne — Where to Actually Take Someone](/melbourne/date-night/) — some of these new openings are perfect date-night material
-→ [Carlton Guide 2026](/carlton/) — Bar Carnation's neighbourhood, Lygon Street's full scene, and Carlton's best-kept secrets
+→ [Carlton Guide 2026](/carlton/) — Bar Carnation's neighbourhood, Lygon Street's full scene, and Carlton's under-the-radar spots
 
 *Explore more suburbs: [South Melbourne](/south-melbourne/) · [South Yarra](/south-yarra/) · [Carlton](/carlton/)*
 

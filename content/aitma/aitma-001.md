@@ -97,7 +97,7 @@ We're both liars. But am I the worse one?
 🗳️ **YOU DECIDE**
 
 
-**Got an AITMA scenario?** Send it to aitma@melbz.com.au. We'll publish it (anonymously) and let Melbourne judge you.
+**Got an AITMA scenario?** Send it to hq@melbz101. We'll publish it (anonymously) and let Melbourne judge you.
 
 *New AITMA every Wednesday and Saturday. [Get the Monday brief](/newsletter/) to never miss a verdict.*
 

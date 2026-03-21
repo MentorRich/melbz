@@ -185,7 +185,7 @@ The best part? They're all within walking or short tram distance of each other. 
 That's Melbourne. The market city. And it's never been better.
 
 
-*Tyler James is the Roast Editor at MELBZ, covering Melbourne's food, markets, and city life. He has eaten an unreasonable number of South Melbourne dim sims in the name of research. Contact: [tyler@melbz.com.au](mailto:tyler@melbz.com.au)*
+*Tyler James is the Roast Editor at MELBZ, covering Melbourne's food, markets, and city life. He has eaten an unreasonable number of South Melbourne dim sims in the name of research. Contact: [hq@melbz101](mailto:hq@melbz101)*
 
 ### Featured Venues
 

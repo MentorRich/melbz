@@ -165,7 +165,7 @@ Most of the best stuff on this guide is within a 15-minute walk of the High St/D
 
 ## The Bottom Line
 
-Thornbury isn't trying to impress you. It's a suburb that knows itself — Greek and Italian heritage, good coffee, proper bars, reasonable prices, and a community that protects what's good. The High Street strip between Darebin Rd and Dundas St is one of Melbourne's best-kept secrets for food and drink density. The 86 tram connects it all. The bowls club is a genuine institution. And if you move here expecting the "next Fitzroy," you'll be disappointed — but if you move here expecting Thornbury, you'll love it.
+Thornbury isn't trying to impress you. It's a suburb that knows itself — Greek and Italian heritage, good coffee, proper bars, reasonable prices, and a community that protects what's good. The High Street strip between Darebin Rd and Dundas St is one of Melbourne's under-the-radar spots for food and drink density. The 86 tram connects it all. The bowls club is a genuine institution. And if you move here expecting the "next Fitzroy," you'll be disappointed — but if you move here expecting Thornbury, you'll love it.
 
 **Your Thornbury Vibe Score this week: 78/100** — The neighbourhood is stable, growing gently, and keeping its soul. That's a rare thing in 2026 Melbourne.
 

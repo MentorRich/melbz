@@ -150,7 +150,7 @@ The best advice? Start on Sydney Road, work your way north, and keep your phone 
 
 
 **🍜 Your Turn: Tell Us What We Missed**
-Brunswick's food scene moves fast. If there's an Asian spot we haven't covered — or if you disagree with our picks — drop a comment below or tag us on Instagram [@melbz.au](https://instagram.com/melbz.au) with your recommendation. We taste-test every suggestion.
+Brunswick's food scene moves fast. If there's an Asian spot we haven't covered — or if you disagree with our picks — drop a comment below or tag us on Instagram [@melbz101](https://instagram.com/melbz.au) with your recommendation. We taste-test every suggestion.
 
 
 **📱 Never Miss a Food Guide**

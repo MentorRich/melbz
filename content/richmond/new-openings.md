@@ -131,7 +131,7 @@ New openings are pushing the score up. Hotel Lincoln and Tipo 00 have been the b
 
 Richmond's scene moves fast. If you've spotted a new opening we haven't listed, tell us.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

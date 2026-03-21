@@ -155,7 +155,7 @@ The thing about Hawthorn is that it sits perfectly between its neighbours. If [R
 > *"Hawthorn doesn't shout about its food scene — and that's exactly why it's one of Melbourne's best-kept dining secrets. Six restaurants, six reasons to cross the Yarra."*
 
 
-*Have a favourite Hawthorn restaurant we missed? Tell us on Instagram [@melbzcomau](https://instagram.com/melbzcomau) or email editors@melbz.com.au.*
+*Have a favourite Hawthorn restaurant we missed? Tell us on Instagram [@melbz101](https://instagram.com/melbzcomau) or email hq@melbz101.*
 
 *Love Melbourne's suburbs as much as we do? Sign up for the [MELBZ weekly digest](/newsletter) — the suburbs, the food, the under the radars, delivered every Wednesday.*
 

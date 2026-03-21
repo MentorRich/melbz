@@ -193,7 +193,7 @@ The best strategy? Start with Brewmanity or The George for a late afternoon warm
 - [Best Cafes in South Melbourne](/south-melbourne/best-cafes/) — the morning-after essentials
 
 
-*What did we miss? Tell us about your South Melbourne bar secrets at [hello@melbz.com.au](mailto:hello@melbz.com.au) and we'll check them before the next update.*
+*What did we miss? Tell us about your South Melbourne bar secrets at [hq@melbz101](mailto:hq@melbz101) and we'll check them before the next update.*
 
 *Lina Nguyen is the Nightlife Editor at MELBZ. She has been covering Melbourne's bar and music scene since 2019.*
 

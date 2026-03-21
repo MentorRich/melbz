@@ -22,7 +22,7 @@ Daniel founded MELBZ to give Melbourne the suburb-level coverage that no one els
 
 Daniel's background is in digital operations and technology. He runs MELBZ as the flagship publication of Axior Labs, a digital media company focused on content, community, and commerce at scale.
 
-**Contact:** [hq@melbz.com.au](mailto:hq@melbz.com.au
+**Contact:** [hq@melbz101](mailto:hq@melbz101
 
 
 ## Editorial Team
@@ -65,7 +65,7 @@ MELBZ is published by **Axior Labs (ABN 91 949 773 596)**, a digital media compa
 
 Axior Labs owns and operates a portfolio of digital ventures focused on content, community, and commerce. MELBZ represents our flagship publication — hyperlocal content at scale.
 
-For business enquiries: [hq@melbz.com.au](mailto:hq@melbz.com.au
+For business enquiries: [hq@melbz101](mailto:hq@melbz101
 
 
 ## Related Articles

@@ -71,7 +71,7 @@ Creature Bar calls itself a "dive bar for nerds" and they're not wrong — in th
 ### 5. Rocket Society
 **The vibe:** Lebanon's space program, reimagined as a wine bar
 
-Rocket Society is hidden behind its sister venue Rumi (the beloved Middle Eastern restaurant) and it's one of Brunswick East's best-kept secrets. The concept is inspired by Lebanon's little-known student-led space programme — yes, really — and the result is a charming wine bar serving flatbread sandwiches, charcoal-grilled lamb skewers, and Lebanese wines you won't find anywhere else in Melbourne.
+Rocket Society is hidden behind its sister venue Rumi (the beloved Middle Eastern restaurant) and it's one of Brunswick East's under-the-radar spots. The concept is inspired by Lebanon's little-known student-led space programme — yes, really — and the result is a charming wine bar serving flatbread sandwiches, charcoal-grilled lamb skewers, and Lebanese wines you won't find anywhere else in Melbourne.
 
 **Order this:** Charcoal lamb skewers ($16) and a Lebanese red
 **Address:** Behind Rumi, Brunswick East

@@ -8,7 +8,7 @@ vertical: "lifestyle"
 author: "ethan"
 date: 2026-03-17
 updated: 2026-03-17
-description: "The complete Elwood nightlife guide for 2026 — from local pubs and neighbourhood bars to the hidden gems along Ormond Road and the bayside scene."
+description: "The complete Elwood nightlife guide for 2026 — from local pubs and neighbourhood bars to the local picks along Ormond Road and the bayside scene."
 tags: ["elwood"]
 categories: ["nightlife"]
 # Elwood Nightlife Guide 2026 — Bayside Living After Dark

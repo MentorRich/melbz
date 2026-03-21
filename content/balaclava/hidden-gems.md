@@ -1,9 +1,9 @@
 ---
-title: "Hidden Gems & Suburb Secrets in Balaclava"
+title: "local picks & Suburb Secrets in Balaclava"
 cover_image: "/images/balaclava/hidden-gems.jpg"
 date: 2026-03-18
 author: lina
-description: "The best-kept secrets in Balaclava. Local favourites and hidden spots that tourists never find."
+description: "The under-the-radar spots in Balaclava. Local favourites and hidden spots that tourists never find."
 tags: ["balaclava", "hidden-gems"]
 categories: ["hidden"]
 ---

@@ -172,7 +172,7 @@ What makes Brunswick East distinctive is the lack of pretension. This isn't a su
 > 📩 **Get the weekly Melbourne cafe drop.** New reviews, under the radars, and the odd controversial opinion delivered to your inbox every Friday. [Subscribe to the MELBZ newsletter.](/newsletter)
 
 
-*Prices are approximate and may have changed since publication. Always check the venue's website or call ahead, especially for weekend hours. Feature your Brunswick East cafe? Get in touch via [hello@melbz.com.au](mailto:hello@melbz.com.au).*
+*Prices are approximate and may have changed since publication. Always check the venue's website or call ahead, especially for weekend hours. Feature your Brunswick East cafe? Get in touch via [hq@melbz101](mailto:hq@melbz101).*
 
 **Eli Chen is the Cafes Editor at MELBZ. They've reviewed over 200 Melbourne cafes and once drove 45 minutes for a croissant. It was worth it.**
 

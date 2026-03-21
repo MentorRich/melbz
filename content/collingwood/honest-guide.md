@@ -165,7 +165,7 @@ How does Collingwood stack up? Drop your score.
 **What should we cover next?**
 We write these honest guides suburb by suburb. Tell us where to go next:
 - 🔥 [South Yarra](/suburbs/south-yarra) — "Everyone pretends they can afford it"
-- 🔥 [Footscray](/suburbs/footscray) — "The west's best-kept secret (for now)"
+- 🔥 [Footscray](/suburbs/footscray) — "The west's under-the-radar spot (for now)"
 - 🔥 [Prahran](/suburbs/prahran) — "Chapel Street drama and vintage finds"
 - 🔥 [Northcote](/suburbs/northcote) — "The 86 tram's crown jewel"
 

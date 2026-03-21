@@ -85,7 +85,7 @@ Tuleli is part cafe, part Italian deli, and both halves are excellent. The deli 
 
 The shakshuka ($22) is a cast-iron pan of perfectly spiced tomato with two baked eggs and house-made focaccia for scooping. The breakfast bruschetta ($19) — sourdough with smashed cannellini beans, prosciutto, and a poached egg — is simple, seasonal, and executed with the kind of restraint that Italian cooking does better than anyone.
 
-The coffee is good — they use a local Victorian roaster and the flat white is consistently well-made. But really, you come here for the food and the atmosphere. The back courtyard is one of Northcote's best-kept secrets: six tables, fairy lights, and the kind of warmth that makes a winter morning feel like a holiday.
+The coffee is good — they use a local Victorian roaster and the flat white is consistently well-made. But really, you come here for the food and the atmosphere. The back courtyard is one of Northcote's under-the-radar spots: six tables, fairy lights, and the kind of warmth that makes a winter morning feel like a holiday.
 
 **Insider tip:** The deli counter does a "panino of the day" that costs $12 and is always made with whatever's freshest. It's not on the menu — you have to ask. It's the best $12 lunch on High Street.
 
@@ -126,7 +126,7 @@ The pastries are the real draw. Spanakopita ($4), tiropita ($4), and the baklava
 - 💰 Price — if I'm going daily, the cost adds up
 - 📍 Location — closest to my house wins every time
 
-*Cast your vote @melbzcomau with #NorthcoteCafes*
+*Cast your vote @melbz101 with #NorthcoteCafes*
 
 
 **NEIGHBOURING SUBURBS: Expand Your Cafe Map**

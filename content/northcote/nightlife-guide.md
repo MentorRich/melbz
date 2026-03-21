@@ -124,7 +124,7 @@ Northcote nightlife wraps up between midnight and 2am for most venues, with the 
 - 🍺 Pub session at the Union
 - 🍕 Dinner → drinks → late night (full strip crawl)
 
-*Vote and tag your Friday crew @melbzcomau with #NorthcoteNights*
+*Vote and tag your Friday crew @melbz101 with #NorthcoteNights*
 
 
 **NEIGHBOURING SUBURBS: Extend Your Night**

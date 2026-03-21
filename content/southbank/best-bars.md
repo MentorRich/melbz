@@ -34,7 +34,7 @@ Melbourne's highest bar isn't just about the view (though it's spectacular). Thi
 ## 4. Understudy
 **Level 3, 28 Southgate Ave, Southbank VIC 3006** | **Price: $$**
 
-Behind an unmarked door in the Arts Centre Melbourne, Understudy feels like Melbourne's best-kept secret. Theatre industry folks gather here for pre-show drinks, creating a uniquely creative atmosphere. Their wine list focuses on small Victorian producers, with glasses starting at $10. **Insider tip:** Show your theatre ticket for a free drink upgrade.
+Behind an unmarked door in the Arts Centre Melbourne, Understudy feels like Melbourne's under-the-radar spot. Theatre industry folks gather here for pre-show drinks, creating a uniquely creative atmosphere. Their wine list focuses on small Victorian producers, with glasses starting at $10. **Insider tip:** Show your theatre ticket for a free drink upgrade.
 
 ## 5. Hopscotch Southbank
 **Shop 4, 10/11 Riverside Quay, Southbank VIC 3006** | **Price: $$**

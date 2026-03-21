@@ -170,7 +170,7 @@ Kensington is the quiet achiever. It always has been.
 
 **Open Loop Close:** Next time you're in Kensington, hop one stop south to Flemington and check our [best cafes in Flemington guide](/flemington) — or go east to [North Melbourne](/north-melbourne) for the warehouse coffee scene. Both are a short walk from Kensington Station.
 
-*Eli Chen is the Cafes Editor at MELBZ. She has reviewed over 200 Melbourne cafes across 40 suburbs since 2024. Have a tip? Email eli@melbz.com.au.*
+*Eli Chen is the Cafes Editor at MELBZ. She has reviewed over 200 Melbourne cafes across 40 suburbs since 2024. Have a tip? Email hq@melbz101.*
 
 ## Related Articles
 

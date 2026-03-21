@@ -120,7 +120,7 @@ Because "brunch" can mean anything from a $12 toastie to a $45 eggs Benedict at 
 - 🤷 Both — I'll have one of each, thanks
 - ☕ Coffee only — the food is just an accessory
 
-*Vote and tag your brunch crew @melbzcomau with #NorthcoteBrunch*
+*Vote and tag your brunch crew @melbz101 with #NorthcoteBrunch*
 
 
 **NEIGHBOURING SUBURBS: Extend the Brunch Crawl**

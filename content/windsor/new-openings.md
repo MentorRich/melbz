@@ -128,7 +128,7 @@ New openings that don't make the cut often close within six months. We'd rather 
 - [New Openings in St Kilda](/st-kilda/new-openings) — beachside newcomers
 
 
-*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au. New openings added monthly.*
+*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hq@melbz101. New openings added monthly.*
 
 *Living in Windsor? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=windsor)*
 

@@ -225,7 +225,7 @@ If you're considering the move, the question isn't whether Footscray is worth it
 
 > **Widget: Found this useful? Share it with someone considering the inner west. Our cost-of-living guides are built on real numbers, not guesswork.**
 
-> **Widget: Got a price we missed or a correction? The Melbourne cost-of-living landscape shifts fast. Drop a comment or email us at hello@melbz.com.au and we'll verify and update.**
+> **Widget: Got a price we missed or a correction? The Melbourne cost-of-living landscape shifts fast. Drop a comment or email us at hq@melbz101 and we'll verify and update.**
 
 ### Featured Venues
 

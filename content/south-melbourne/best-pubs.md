@@ -138,7 +138,7 @@ South Melbourne doesn't have the volume of, say, Collingwood or Fitzroy, but the
 South Melbourne's pub scene in 2026 isn't trying to be Melbourne's best. It just quietly is.
 
 
-*Have we missed your favourite South Melbourne local? Tell us on Instagram [@melbzcomau](https://instagram.com/melbzcomau) or email editors@melbz.com.au.*
+*Have we missed your favourite South Melbourne local? Tell us on Instagram [@melbz101](https://instagram.com/melbzcomau) or email hq@melbz101.*
 
 
 **POLL: What's your South Melbourne pub pick?**

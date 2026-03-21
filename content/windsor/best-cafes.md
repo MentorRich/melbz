@@ -113,7 +113,7 @@ The eggs Florentine on a toasted English muffin with hollandaise ($19) is done p
 
 ## The Windsor Cafe Scene: What You're Working With
 
-The cafe scene along Chapel Street in Windsor is the section that still feels like Melbourne's best-kept secret, even though it's been good for years. Prices sit around $16–$24 for brunch mains, which is competitive with neighbouring Prahran and significantly cheaper than South Yarra for comparable quality.
+The cafe scene along Chapel Street in Windsor is the section that still feels like Melbourne's under-the-radar spot, even though it's been good for years. Prices sit around $16–$24 for brunch mains, which is competitive with neighbouring Prahran and significantly cheaper than South Yarra for comparable quality.
 
 Most Windsor cafes open between 7:00–8:30am and close by 3–4pm. There's not much in the way of late-afternoon cafe culture here — you'll want to hit a bar or restaurant after 4pm. Weekend mornings are the peak time, with the stretch between 9:30–11:30 being when every cafe on Chapel Street is at full capacity.
 
@@ -126,7 +126,7 @@ If you're comparing suburbs, Windsor's cafe scene is comparable to Prahran in qu
 - [Best Cafes in St Kilda](/st-kilda/best-cafes) — beach-adjacent brunching
 
 
-*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
+*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hq@melbz101.*
 
 *Living in Windsor? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=windsor)*
 

@@ -153,7 +153,7 @@ It's the kind of neighbourhood where the food is better than the facades suggest
 
 ---
 
-*Have a cheap eat we missed on Carlisle Street? Drop us a line at hello@melbz.com.au — we'll eat it, test it, and add it.*
+*Have a cheap eat we missed on Carlisle Street? Drop us a line at hq@melbz101 — we'll eat it, test it, and add it.*
 
 ---
 

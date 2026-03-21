@@ -158,7 +158,7 @@ Richmond doesn't do pretension. It does good drinks, good food, and enough varie
 **Read next:** [Best Bars in Collingwood 2026](/collingwood/best-bars) · [Best Bars in Cremorne 2026](/cremorne/best-bars) · [Best Bars in South Yarra 2026](/south-yarra/best-bars)
 
 
-*What's your go-to Richmond bar? Did we miss your favourite? Drop us a line at [hello@melbz.com.au](mailto:hello@melbz.com.au) and we'll check it out for the next update.*
+*What's your go-to Richmond bar? Did we miss your favourite? Drop us a line at [hq@melbz101](mailto:hq@melbz101) and we'll check it out for the next update.*
 
 
 **Poll:** What's your Richmond drinking style?

@@ -134,12 +134,12 @@ Brunswick East isn't trying to impress anyone. That's exactly why it's so good.
 - 🥪 Lygon Kebab House's mixed kebab
 - ☕ Bellboy's bagels
 
-*Cast your vote on our Instagram stories @melbz.com.au*
+*Cast your vote on our Instagram stories @melbz101*
 
 
 ## 💬 We Want to Hear From You
 
-**What cheap eat in Brunswick East did we miss?** We tested six spots, but Lygon Street is long and we know there's more. Drop your recommendation in the comments or tag us on Instagram @melbz.com.au. If it's good, we'll add it to the next update.
+**What cheap eat in Brunswick East did we miss?** We tested six spots, but Lygon Street is long and we know there's more. Drop your recommendation in the comments or tag us on Instagram @melbz101. If it's good, we'll add it to the next update.
 
 
 ## 📤 Share This With a Mate

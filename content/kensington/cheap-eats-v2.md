@@ -165,7 +165,7 @@ Kensington doesn't need to be trendy. It just needs to keep doing what it's doin
 
 *Priya Sandhu is the food editor at MELBZ. She has eaten her way through every suburb in Melbourne's inner west and lived to tell the tale. Follow her on the MELBZ app for weekly cheap eats alerts and neighbourhood food drops.*
 
-*Have a cheap eats spot we missed? Drop a tip at hello@melbz.com.au or tag us on socials with #MELBZEats.*
+*Have a cheap eats spot we missed? Drop a tip at hq@melbz101 or tag us on socials with #MELBZEats.*
 
 ### Featured Venues
 

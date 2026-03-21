@@ -93,7 +93,7 @@ We asked Melbourne to confess. Melbourne delivered. These are real, anonymous, a
 "I pretend to understand the tram network. I have missed my stop at least 400 times. I will never admit this to anyone."
 
 
-**Got a confession?** DM us on Instagram [@melbzhq](https://instagram.com/melbzhq) or email confessions@melbz.com.au. Anonymous. Always.
+**Got a confession?** DM us on Instagram [@melbz101](https://instagram.com/melbzhq) or email hq@melbz101. Anonymous. Always.
 
 *More confessions drop every Monday. [Subscribe to the Monday brief](/newsletter/) so you never miss them.*
 

@@ -8,7 +8,7 @@ vertical: "lifestyle"
 author: "maya"
 date: 2026-03-16
 updated: 2026-03-16
-description: "The best things to do this weekend in Coburg for 2026 — events, markets, parks, and hidden gems. Saturday and Sunday sorted."
+description: "The best things to do this weekend in Coburg for 2026 — events, markets, parks, and local picks. Saturday and Sunday sorted."
 tags: ["coburg"]
 categories: ["things"]
 # Things To Do This Weekend in Coburg 2026: Sydney Road & Beyond

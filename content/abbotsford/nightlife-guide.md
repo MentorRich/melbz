@@ -11,7 +11,7 @@ updated: 2026-03-16
 description: "Discover the nightlife guide in Abbotsford. Our verified 2026 guide covers the best spots for locals."
 tags: ["abbotsford"]
 categories: ["nightlife"]
-# Abbotsford Nightlife Guide — The Inner City's Best-Kept Secret After Dark
+# Abbotsford Nightlife Guide — The Inner City's under-the-radar spot After Dark
 
 Here's something most Melburnians don't realise: Abbotsford has one of the most underrated nightlife scenes in the inner city. While everyone streams into [Fitzroy](/suburbs/fitzroy/) for Smith Street and [Collingwood](/suburbs/collingwood/) for the warehouse party circuit, Abbotsford quietly runs a lineup of pubs older than federation, brewery warehouses with rooftop bars, and wine spots so community-oriented they feel like someone's living room.
 

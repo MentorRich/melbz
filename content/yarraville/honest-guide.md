@@ -26,7 +26,7 @@ Right. Let's talk about Yarraville.
 
 Every man and his dog has an opinion about this tiny postage-stamp suburb wedged between Footscray's grit and the freeway's roar. The Instagram crowd reckon it's Melbourne's answer to a European village. The pragmatists reckon it's three streets of nice shops surrounded by industrial estates. Both are a bit right. Both are a bit wrong.
 
-I've spent enough time here to give you the actual truth — not the real estate brochure version, not the "Melbourne's best-kept secret" waffle (it's not a secret, it's 12 minutes from the CBD by train), but what it's really like to spend a Saturday arvo here with nowhere to be.
+I've spent enough time here to give you the actual truth — not the real estate brochure version, not the "Melbourne's under-the-radar spot" waffle (it's not a secret, it's 12 minutes from the CBD by train), but what it's really like to spend a Saturday arvo here with nowhere to be.
 
 ## The Setup: What Yarraville Actually Is
 

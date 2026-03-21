@@ -160,7 +160,7 @@ Weekend energy is the biggest driver of Richmond's score. Match days push it hig
 
 Everyone does it differently. Tell us your go-to and we might feature it in a future guide.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

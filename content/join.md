@@ -75,7 +75,7 @@ layout: "custom"
       
       <div class="form-group">
         <label for="email">Your email (for magic links)</label>
-        <input type="email" id="email" name="email" placeholder="you@example.com" required>
+        <input type="email" id="email" name="email" placeholder="hq@melbz101" required>
         <span class="hint">We'll send you a magic link to sign in — no passwords yet</span>
       </div>
       

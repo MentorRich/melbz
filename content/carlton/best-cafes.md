@@ -41,7 +41,7 @@ Fenton is a café with a genuine story: much of the produce comes directly from 
 **Address:** 108 Faraday Street, Carlton
 **Hours:** 7:30am–3pm weekdays, 8am–3:30pm weekends
 **Price range:** $16–$25 for breakfast
-**Insider tip:** The Friday night harvest dinner ($65pp, book ahead) is one of Carlton's best-kept secrets. Farm food, good wine, good tunes, zero pretension.
+**Insider tip:** The Friday night harvest dinner ($65pp, book ahead) is one of Carlton's under-the-radar spots. Farm food, good wine, good tunes, zero pretension.
 
 
 ## 3. Woodside Green

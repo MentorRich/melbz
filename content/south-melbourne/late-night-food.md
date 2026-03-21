@@ -88,7 +88,7 @@ Gimlet is a 15-minute walk or a short Uber from South Melbourne, positioned righ
 > 2. **Speed** — I'm hungry now, not in 40 minutes
 > 3. **Quality** — I'd rather eat one good thing than three average things
 > 4. **Hours** — Open at 2am or don't bother
-> *(Drop your pick in the comments or hit us on Instagram @melbzcomau)*
+> *(Drop your pick in the comments or hit us on Instagram @melbz101)*
 
 
 ## 5. Biggie Smalls — Late-Night Kebabs with Attitude

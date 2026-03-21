@@ -30,7 +30,7 @@ At 731 High Street, Short Round is the café that converts casual coffee drinker
 
 
 ## 2. Rat the Cafe
-**The vibe:** Wales Street's best-kept secret — organic produce, naturally leavened bread, and zero pretension.
+**The vibe:** Wales Street's under-the-radar spot — organic produce, naturally leavened bread, and zero pretension.
 
 Rat sits on a quiet residential corner of Wales Street, opposite a primary school and far enough from High Street that you'll feel like you've discovered a secret. The coffee is specialty-grade, the brunch is made with mostly organic produce, and the bread is naturally leavened in-house. It's been a neighbourhood institution for years, with long-running staff who make you feel like you're visiting someone's home rather than a business. The outdoor seating under a big tree is the best morning seat in Thornbury when the weather cooperates.
 

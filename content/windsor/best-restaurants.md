@@ -176,7 +176,7 @@ Windsor's restaurant strip is walkable from Prahran station (5-minute walk) or W
 - [Best Restaurants in St Kilda](/st-kilda/best-restaurants) — beachside dining
 
 
-*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
+*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hq@melbz101.*
 
 *Living in Windsor? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=windsor)*
 

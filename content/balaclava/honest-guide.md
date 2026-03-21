@@ -120,7 +120,7 @@ And for what it's worth: IGA Bakery. That's my pick. Come at me.
 
 **Widget: Rate Balaclava**
 How would you rate Balaclava out of 10?
-- 10 — Best kept secret in Melbourne
+- 10 — under-the-radar spot in Melbourne
 - 7 — Solid, but I'd live in Elsternwick
 - 5 — Fine, I guess
 - 3 — It's literally just a bakery street

@@ -159,7 +159,7 @@ The Saturday morning rhythm — market, coffee, park — defines the suburb's so
 - C) The lack of nightlife — where do you even go?
 - D) Nothing — I'm moving there tomorrow
 
-*Vote in the comments or tag us @melbzcomau*
+*Vote in the comments or tag us @melbz101*
 
 
 ## 🤫 Confession Box
@@ -203,7 +203,7 @@ Welcome to the neighbourhood.
 
 *Want more South Melbourne? Browse our [complete South Melbourne coverage](/south-melbourne) including restaurant guides, property reviews, and weekly market reports.*
 
-*Have a question about living here? Hit us up on Instagram [@melbzcomau](https://instagram.com/melbzcomau) or drop a comment below.*
+*Have a question about living here? Hit us up on Instagram [@melbz101](https://instagram.com/melbzcomau) or drop a comment below.*
 
 
 **SOUTH MELBOURNE VIBE SCORE: 80/100 ⚡️ REFINED (+1 this week)**

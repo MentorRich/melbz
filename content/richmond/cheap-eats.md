@@ -169,7 +169,7 @@ Prices were verified in March 2026 and may change. Some restaurants adjust seaso
 
 **Priya Sandhu is the Food Editor at MELBZ. She has been eating her way through Melbourne's inner suburbs since 2019 and has strong opinions about bread-to-filling ratios.**
 
-*Have a cheap eat we missed? Tell us on Instagram [@melbzcomau](https://instagram.com/melbzcomau) or email priya@melbz.com.au.*
+*Have a cheap eat we missed? Tell us on Instagram [@melbz101](https://instagram.com/melbzcomau) or email hq@melbz101.*
 
 ### Featured Venues
 

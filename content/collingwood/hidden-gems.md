@@ -1,9 +1,9 @@
 ---
-title: "Hidden Gems & Suburb Secrets in Collingwood"
+title: "local picks & Suburb Secrets in Collingwood"
 cover_image: "/images/collingwood/hidden-gems.jpg"
 date: 2026-03-18
 author: lina
-description: "The best-kept secrets in Collingwood. Local favourites and hidden spots that tourists never find."
+description: "The under-the-radar spots in Collingwood. Local favourites and hidden spots that tourists never find."
 tags: ["collingwood", "hidden-gems"]
 categories: ["hidden"]
 ---

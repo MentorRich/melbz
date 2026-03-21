@@ -156,7 +156,7 @@ The late-night hours (open until 2am most nights) make Danny's an institution fo
 > ### 💬 FIGHT US
 > **Do you think Danny's should have made the top five? Is a smash patty really better than a proper thick pub burger? Are fish burgers even burgers?**
 >
-> **Tell us we're wrong.** Drop a comment, send us a DM, or tag us on Instagram at [@melbzcomau](https://instagram.com/melbzcomau) with your hot takes. We read everything and we will absolutely argue back.
+> **Tell us we're wrong.** Drop a comment, send us a DM, or tag us on Instagram at [@melbz101](https://instagram.com/melbzcomau) with your hot takes. We read everything and we will absolutely argue back.
 
 
 ## 8. Northcote Social Club (The Parma Burger) — Honourable Mention

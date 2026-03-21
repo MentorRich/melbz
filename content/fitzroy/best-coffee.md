@@ -129,7 +129,7 @@ Coffee culture is the #1 driver of Fitzroy's score this week. Up 3 points from l
 
 Fitzroy locals have opinions. Strong ones. Tell us where we stuffed up or what worth seeking out we missed.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

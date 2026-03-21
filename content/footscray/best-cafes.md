@@ -141,7 +141,7 @@ Not every cafe in Footscray made this list. Here's what we looked at and why it 
 
 ## Engagement Widget: The Weekend Crawl
 
-> Planning a cafe crawl? Here's the MELBZ-recommended route: **Konjo** (Irving Street, 8am) → **Rudimentary** (Leeds Street, 10am) → **The 2 Men Cafe** (Leeds Street, 12pm) → **Migrant Coffee** (Barkly Street, WeFo, 2pm). That's four coffees and four different cultures in one morning. Tag us at @melbzcomau if you do it.
+> Planning a cafe crawl? Here's the MELBZ-recommended route: **Konjo** (Irving Street, 8am) → **Rudimentary** (Leeds Street, 10am) → **The 2 Men Cafe** (Leeds Street, 12pm) → **Migrant Coffee** (Barkly Street, WeFo, 2pm). That's four coffees and four different cultures in one morning. Tag us at @melbz101 if you do it.
 
 
 ## The Bigger Picture: Why Footscray Works
@@ -171,7 +171,7 @@ Price-wise, you're looking at $14–$24 for most mains, which is noticeably chea
 > Did we miss your favourite? There are plenty of spots on the Barkly Street corridor and beyond that didn't make this list — [Heal.Thy Self](https://melbz.com.au/suburbs/footscray), [The Reading Room](https://melbz.com.au/suburbs/footscray), [Alfa](https://melbz.com.au/suburbs/footscray), and others are all doing great work. Tell us what we should review next — drop a comment below.
 
 
-*Eli Chen is the Cafes Editor at MELBZ, covering Melbourne's inner west one flat white at a time. Follow Eli's cafe runs at [@melbzcomau](https://instagram.com/melbzcomau).*
+*Eli Chen is the Cafes Editor at MELBZ, covering Melbourne's inner west one flat white at a time. Follow Eli's cafe runs at [@melbz101](https://instagram.com/melbzcomau).*
 
 ### Featured Venues
 

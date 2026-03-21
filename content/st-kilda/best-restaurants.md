@@ -108,7 +108,7 @@ If Cafe Di Stasio is St Kilda's Italian grand dame, Cicciolina is its eccentric 
 
 The walls are hung with an eclectic mix of paintings, prints, and photographs that feel like they were collected over decades of dinner parties. It gives the room a warmth that newly designed restaurants can't fake. The red leather booths are booths in the classic sense — slightly worn, deeply comfortable, and perfect for lingering over a long lunch.
 
-The menu isn't trying to reinvent Italian food. It's trying to do the classics properly, and it mostly succeeds. The pappardelle with slow-braised ragu is the dish to order if you've never been: thick ribbons of pasta, rich meat sauce, a shower of parmesan. The wine list runs to 250+ bottles, mostly Italian and French, and the bar out the back is one of St Kilda's best-kept secrets for a quiet drink before dinner.
+The menu isn't trying to reinvent Italian food. It's trying to do the classics properly, and it mostly succeeds. The pappardelle with slow-braised ragu is the dish to order if you've never been: thick ribbons of pasta, rich meat sauce, a shower of parmesan. The wine list runs to 250+ bottles, mostly Italian and French, and the bar out the back is one of St Kilda's under-the-radar spots for a quiet drink before dinner.
 
 **Insider tip:** Don't skip the entree section. The antipasto here isn't the sad cheese-and-cured-meat platter you get at most places — it's properly generous and a great way to start while you deliberate over mains. Also, the private dining room seats 8–14 with no surcharge, which makes it one of the best value group bookings on this side of town.
 

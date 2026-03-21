@@ -108,7 +108,7 @@ The 'Chicken Lads' run the food here, and if that name doesn't tell you everythi
 
 **12 River Street, Richmond**
 
-Tucked away near the Yarra River, the Royston is Richmond's best-kept secret — or at least it was before we wrote this. This cosy local has a craft beer focus that rivals dedicated taprooms, a warm interior with couches and communal tables, and a kitchen that takes pub food seriously without losing sight of what pub food should be: satisfying, affordable, and quick enough that you're not waiting an hour between ordering and eating.
+Tucked away near the Yarra River, the Royston is Richmond's under-the-radar spot — or at least it was before we wrote this. This cosy local has a craft beer focus that rivals dedicated taprooms, a warm interior with couches and communal tables, and a kitchen that takes pub food seriously without losing sight of what pub food should be: satisfying, affordable, and quick enough that you're not waiting an hour between ordering and eating.
 
 The Royston is the kind of pub where you walk in alone and leave with three new friends. It's small, it's intimate, and it has that magic quality that the best Melbourne neighbourhood pubs share — the sense that everyone in the room belongs there.
 

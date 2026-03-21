@@ -126,7 +126,7 @@ The suburb is safe, well-lit, and walkable. The main safety consideration is Cha
 - [Neighbourhood Guide in St Kilda](/st-kilda/neighbourhood-guide)
 
 
-*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
+*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hq@melbz101.*
 
 *Living in Windsor? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=windsor)*
 

@@ -129,7 +129,7 @@ Footy season is kicking in and Swan Street is buzzing. The MCG effect is real.
 
 Richmond locals know every laneway and hidden spot. Tell us what we should add.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

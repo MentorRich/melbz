@@ -145,7 +145,7 @@ Brunch culture keeps Richmond's weekend scene humming. Swan Street is the epicen
 
 We know we haven't covered everything. Richmond has depth. Tell us where we should eat next.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

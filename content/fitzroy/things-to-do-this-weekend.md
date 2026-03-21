@@ -53,7 +53,7 @@ Start Sunday properly. Industry Beans opens at 7am and the weekend crowd peaks a
 
 ### Midday: Collingwood Children's Farm — 71 St Heliers Street, Abbottsford
 
-Ten minutes from Fitzroy and one of Melbourne's best-kept secrets for families. The farm has animals, a café, and a Saturday farmers' market (runs 8am–1pm Saturdays only). On Sunday, it's quieter and you can actually enjoy the space without fighting a pram army.
+Ten minutes from Fitzroy and one of Melbourne's under-the-radar spots for families. The farm has animals, a café, and a Saturday farmers' market (runs 8am–1pm Saturdays only). On Sunday, it's quieter and you can actually enjoy the space without fighting a pram army.
 
 **Cost:** Adults $16, kids $9, under 2 free. Open 9am–5pm daily.
 
@@ -125,7 +125,7 @@ Weekend activity density is a major driver. Fitzroy consistently ranks among Mel
 
 Fitzronians (is that a word?) — what's your weekend ritual? Tell us what we got right and what we're sleeping on.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

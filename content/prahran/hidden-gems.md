@@ -1,9 +1,9 @@
 ---
-title: "Hidden Gems & Suburb Secrets in Prahran"
+title: "local picks & Suburb Secrets in Prahran"
 cover_image: "/images/prahran/hidden-gems.jpg"
 date: 2026-03-18
 author: lina
-description: "The best-kept secrets in Prahran. Local favourites and hidden spots that tourists never find."
+description: "The under-the-radar spots in Prahran. Local favourites and hidden spots that tourists never find."
 tags: ["prahran", "hidden-gems"]
 categories: ["hidden"]
 ---

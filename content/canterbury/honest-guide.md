@@ -172,7 +172,7 @@ If you want excitement, Canterbury isn't it. If you want a beautiful, safe, well
 Just don't move here expecting it to change for you. Canterbury knows exactly what it is. Those trees have been making that point for over a hundred years.
 
 
-*Have a hot take on Canterbury? Think we missed something? Tell us on the [MELBZ Facebook page](https://facebook.com/melbz) or hit us up on Instagram [@melbz.com.au](https://instagram.com/melbz.com.au). We read everything — even the angry ones.*
+*Have a hot take on Canterbury? Think we missed something? Tell us on the [MELBZ Facebook page](https://facebook.com/melbz) or hit us up on Instagram [@melbz101](https://instagram.com/melbz.com.au). We read everything — even the angry ones.*
 
 <!-- WIDGET: Confess -->
 **🤫 CONFESS: What's the Canterbury opinion you'd never say out loud at a dinner party?**

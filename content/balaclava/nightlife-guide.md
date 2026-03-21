@@ -59,7 +59,7 @@ This isn't a single venue, it's a strategy. Balaclava's western edge bleeds dire
 
 
 ## 4. Batch Espresso (Thursday & Friday Evenings)
-**The vibe:** A daytime café that transforms into something entirely different after 5pm — low lighting, wine on the menu, and a bistro atmosphere that's the best-kept secret on Carlisle Street.
+**The vibe:** A daytime café that transforms into something entirely different after 5pm — low lighting, wine on the menu, and a bistro atmosphere that's the under-the-radar spot on Carlisle Street.
 
 Batch Espresso is primarily a café, but on Thursday and Friday evenings it stays open until 10pm and becomes one of the most underrated evening spots in Balaclava. The lighting shifts, the menu expands to include wine alongside coffee, and the space takes on a completely different character. It's not a bar — there's no DJ, no cocktail list — but it's a genuinely pleasant place to have a glass of wine and a plate of food without the intensity of a proper bar.
 

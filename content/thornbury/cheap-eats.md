@@ -13,7 +13,7 @@ tags: ["thornbury"]
 categories: ["cheap"]
 # 11 Cheap Eats in Thornbury Under $20 — Your 2026 Budget Guide
 
-Thornbury has always been the inner north's best-kept secret for affordable eating, and in 2026 — when a $22 avocado toast makes you question your life choices — that matters more than ever. The High Street strip between Darebin Road and Dundas Street packs in Greek souvlaki, Italian lasagne, Lebanese grills, American burgers, and proper café food, most of it well under $20. You don't need a fancy budget to eat well here. You just need to know where to go.
+Thornbury has always been the inner north's under-the-radar spot for affordable eating, and in 2026 — when a $22 avocado toast makes you question your life choices — that matters more than ever. The High Street strip between Darebin Road and Dundas Street packs in Greek souvlaki, Italian lasagne, Lebanese grills, American burgers, and proper café food, most of it well under $20. You don't need a fancy budget to eat well here. You just need to know where to go.
 
 **Last updated: 17 March 2026** | **Thornbury Vibe Score: 78/100 🟢**
 

@@ -153,7 +153,7 @@ What you won't find in Kensington is a single dominant food identity — and tha
 If you're nearby in **North Melbourne**, you're within walking distance and the food scene there skews more toward modern Australian and Italian — worth comparing in our [North Melbourne food guide](/food/north-melbourne). And if you've got a car, **Flemington's** Racecourse Road has more Asian options beyond what we've listed here — see our [Flemington eats roundup](/food/flemington) for the full picture.
 
 
-*Have we missed your favourite Kensington Asian spot? Tell us on Instagram at [@melbzfood](https://instagram.com/melbz) or email yuki@melbz.com.au — I eat everything you recommend, eventually.*
+*Have we missed your favourite Kensington Asian spot? Tell us on Instagram at [@melbzfood](https://instagram.com/melbz) or email hq@melbz101 — I eat everything you recommend, eventually.*
 
 *Prices listed are approximate and may vary. Always check with the restaurant for current hours and availability. This article was independently reviewed; no venue paid for inclusion.*
 

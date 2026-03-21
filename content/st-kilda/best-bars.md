@@ -153,7 +153,7 @@ The suburb's proximity to **South Melbourne** (a 15-minute tram ride for those w
 Whether you're after a world-class cocktail with bay views, a $4 pint and live music on a Monday, or a quiet corner with a glass of Rioja and pintxos, St Kilda's got it. It always has. The trick is knowing where to look.
 
 
-*Have a St Kilda bar we missed? Tell us on Instagram @melbz.au or drop a comment below. We update this guide quarterly.*
+*Have a St Kilda bar we missed? Tell us on Instagram @melbz101 or drop a comment below. We update this guide quarterly.*
 
 *Planning a bigger night out? Check our guides to [South Melbourne's best bars](/south-melbourne/best-bars), [Elsternwick's wine bar trail](/elsternwick/wine-bars), and the [Balaclava food and drink scene](/balaclava/eat-drink).*
 

@@ -181,7 +181,7 @@ If you want cocktails, Moonrabbit and Croft Institute are your best bets. For wh
 
 *Last tested March 2026. Prices and hours are subject to change. Always check the venue's website or call ahead for current availability.*
 
-*Have a bar we should review? Drop us a line at hello@melbz.com.au.*
+*Have a bar we should review? Drop us a line at hq@melbz101.*
 
 
 <!-- Engagement Widget 1 -->

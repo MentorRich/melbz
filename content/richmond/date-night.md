@@ -137,7 +137,7 @@ Evening energy is up this week as the footy season warms up and Swan Street come
 
 Richmond locals always have a secret spot. Tell us where we should go next.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

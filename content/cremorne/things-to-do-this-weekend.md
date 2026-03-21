@@ -43,7 +43,7 @@ Choose your lunch vibe:
 Book ahead if it's Saturday — Rice Paper Scissors and Ms Frankie both get busy.
 
 ### Afternoon (2pm–5pm) — Yarra Walk and Slow Drinks
-After lunch, head south towards the Yarra River. The walk along the Cremorne/Richmond border is one of Melbourne's best-kept secrets — quieter than the main riverside paths, with better views of the city skyline. Walk from Church Street down to the Yarra, then follow the trail east towards Richmond or west towards Southbank.
+After lunch, head south towards the Yarra River. The walk along the Cremorne/Richmond border is one of Melbourne's under-the-radar spots — quieter than the main riverside paths, with better views of the city skyline. Walk from Church Street down to the Yarra, then follow the trail east towards Richmond or west towards Southbank.
 
 When you emerge, you're near Good Heavens Rooftop Bar (Level 4/601 Bourke Street) or Amatrice (Level 10/33 Cremorne Street). Both are perfect for an afternoon drink. The rooftop at Amatrice catches the afternoon light beautifully; Good Heavens has retractable roofing for when Melbourne decides it's winter in March.
 

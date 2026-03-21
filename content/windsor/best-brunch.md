@@ -122,7 +122,7 @@ The scene is most active on Saturday and Sunday mornings, with the peak crush be
 - [Best Brunch in St Kilda](/st-kilda/best-brunch) — beach-adjacent mornings
 
 
-*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
+*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hq@melbz101.*
 
 *Living in Windsor? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=windsor)*
 

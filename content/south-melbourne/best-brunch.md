@@ -76,7 +76,7 @@ The courtyard out the back seats about 15. It's the spot on a mild morning. No r
 > - Vibes and atmosphere
 > - No wait time
 >
-> *Vote in the comments or tag us @melbzcomau*
+> *Vote in the comments or tag us @melbz101*
 
 
 ## 4. Proper & Son
@@ -126,7 +126,7 @@ This is a cafe built for takeaway too — the front counter has a rotating selec
 >
 > "I once told my friends I'd been to Kettle Black and loved it. I'd actually never been. I just didn't want to admit I'd spent Sunday at a chain cafe in Southland." — Anonymous, South Yarra
 >
-> *Send your confession to hello@melbz.com.au. We won't judge. (Much.)*
+> *Send your confession to hq@melbz101. We won't judge. (Much.)*
 
 
 ## 7. Market Lane Coffee — South Melbourne

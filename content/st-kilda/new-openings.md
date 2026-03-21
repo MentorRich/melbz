@@ -121,7 +121,7 @@ Here's what's new, what's worth visiting, and what we're watching.
 - [New Openings in Prahran](/prahran/new-openings) — Chapel Street's latest wave
 
 
-*Last verified March 2026. New openings change fast — follow us on Instagram @melbz.com.au for weekly updates.*
+*Last verified March 2026. New openings change fast — follow us on Instagram @melbz101 for weekly updates.*
 
 
 **About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.

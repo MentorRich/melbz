@@ -63,7 +63,7 @@ Green Refectory on Sydney Road is one of those rare Brunswick spots that has man
 
 **The vibe:** A tiny, lo-fi Japanese-inspired coffee bar tucked near the bike path that does more with twenty square metres than most cafés do with a warehouse.
 
-Osoi is one of Brunswick's best-kept secrets, which is saying something in a suburb where "under the radar" is the most overused phrase on the internet. The space seats maybe eight people, the menu is focused on Japanese-inspired drinks (multiple matcha varieties, hojicha lattes, pour-over coffee), and the vibe is calm in a way that Sydney Road rarely manages. This is where you go when you want five minutes of peace with a perfect cup.
+Osoi is one of Brunswick's under-the-radar spots, which is saying something in a suburb where "under the radar" is the most overused phrase on the internet. The space seats maybe eight people, the menu is focused on Japanese-inspired drinks (multiple matcha varieties, hojicha lattes, pour-over coffee), and the vibe is calm in a way that Sydney Road rarely manages. This is where you go when you want five minutes of peace with a perfect cup.
 
 **Order this:** The strawberry matcha latte ($6.50) — it's beautiful, it's seasonal, and it's the most photogenic drink in Brunswick without trying to be. The hojicha latte ($5.50) is the quiet achiever.
 

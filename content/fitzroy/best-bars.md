@@ -147,7 +147,7 @@ Fitzroy's bar scene is one of Melbourne's deepest. The mix of world-class cockta
 
 Every local has their crawl. Where do you start, where do you end, and what do you drink along the way?
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

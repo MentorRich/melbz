@@ -135,7 +135,7 @@ Brunch culture is a core pillar of Fitzroy's identity. The weekend scene remains
 
 Did we miss your favourite? Tell us where you take visitors when they say "let's do brunch."
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

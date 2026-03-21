@@ -122,7 +122,7 @@ Average flat white in Northcote: **$4.36**. Compare that to Fitzroy North's aver
 - 🧪 Filter — I'm that person and I'm not sorry
 - 🥛 Oat milk — don't judge me
 
-*Cast your vote and tag your coffee crew @melbzcomau with #NorthCoteCoffee*
+*Cast your vote and tag your coffee crew @melbz101 with #NorthCoteCoffee*
 
 
 **NEIGHBOURING SUBURBS: Expand Your Coffee Map**

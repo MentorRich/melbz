@@ -165,7 +165,7 @@ If you want leafy streets, strong schools, genuine safety, and proximity to the 
 Just don't move here expecting it to change for you. Kew was here before you and it'll be here after you. Those trees have seen it all.
 
 
-*Have a hot take on Kew? Think we got it wrong? Tell us on the [MELBZ Facebook page](https://facebook.com/melbz) or hit us up on Instagram [@melbz.com.au](https://instagram.com/melbz.com.au). We read everything — even the angry ones.*
+*Have a hot take on Kew? Think we got it wrong? Tell us on the [MELBZ Facebook page](https://facebook.com/melbz) or hit us up on Instagram [@melbz101](https://instagram.com/melbz.com.au). We read everything — even the angry ones.*
 
 **Previous Honest Guides:** [Hawthorn](/hawthorn/honest-guide) | [Richmond](/richmond/honest-guide) | [Kew East](/kew-east/honest-guide)
 

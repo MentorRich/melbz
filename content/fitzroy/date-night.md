@@ -151,7 +151,7 @@ Date-night friendliness is a major component of Fitzroy's vibe. Walkable streets
 
 Spill it. Where do you take someone you actually like? We're all friends here.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

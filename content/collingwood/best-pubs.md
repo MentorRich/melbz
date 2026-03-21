@@ -106,7 +106,7 @@ The Rochester doesn't try to be the best pub on Smith Street. It just tries to b
 
 **The vibe:** The Napier on Napier Street is a proper two-storey pub with a front bar downstairs and a more restaurant-focused space upstairs. The downstairs bar is the real draw — a classic Collingwood local where the beer is cold, the conversation is easy, and the room has the kind of patina that comes from decades of use. The upstairs does proper bistro food that's a step above typical pub fare, with a seasonal menu that shows the kitchen actually thinks about what it's doing.
 
-The location — a block off Smith Street — means it attracts both Smith Street overflow and genuine locals who consider it their regular. The rooftop area (when weather permits) is one of Collingwood's best-kept secrets.
+The location — a block off Smith Street — means it attracts both Smith Street overflow and genuine locals who consider it their regular. The rooftop area (when weather permits) is one of Collingwood's under-the-radar spots.
 
 **Order this:** A pot of Carlton ($6) downstairs, then head up for the lamb shoulder ($30) if you're staying for dinner
 **Address:** 2–4 Napier Street, Collingwood VIC 3066

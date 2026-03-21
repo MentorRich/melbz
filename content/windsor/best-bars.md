@@ -35,7 +35,7 @@ The atmosphere is bohemian and warm — mismatched furniture, candlelight, walls
 **Budget:** Cocktails $20–$26
 **Vibe:** Tropical hidden bar
 
-Jungle Boy is one of Chapel Street's best-kept secrets — hidden behind a fridge door inside Boston Sub sandwich shop. Push through, and you're in a plant-filled tiki bar with tropical cocktails served in ceramic mugs and a vibe that feels like a holiday you didn't book. The cocktails are serious — think rum-heavy concoctions with fresh fruit, house syrups, and garnishes that double as small snacks.
+Jungle Boy is one of Chapel Street's under-the-radar spots — hidden behind a fridge door inside Boston Sub sandwich shop. Push through, and you're in a plant-filled tiki bar with tropical cocktails served in ceramic mugs and a vibe that feels like a holiday you didn't book. The cocktails are serious — think rum-heavy concoctions with fresh fruit, house syrups, and garnishes that double as small snacks.
 
 The space is intimate — maybe 40 people max — which means you'll want to arrive early on weekends. There's no food menu (this is a drinks-only operation), so eat beforehand. The bartender's recommendations are always worth following.
 
@@ -172,7 +172,7 @@ If you or someone you're with needs help: call 000. Windsor Police Station is at
 - [Best Bars in St Kilda](/st-kilda/best-bars) — beachside drinking
 
 
-*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au.*
+*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hq@melbz101.*
 
 *Living in Windsor? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=windsor)*
 

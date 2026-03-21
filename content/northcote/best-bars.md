@@ -106,7 +106,7 @@ The drinks list features African-inspired cocktails: a bissap spritz (with hibis
 
 Live music runs Thursday through Saturday, with a focus on Afrobeat, highlife, and world music acts that are genuinely world-class. The room holds about 60 people standing and the sound is excellent. It's the kind of venue that makes you wonder how Melbourne has so many bars that all sound the same when something this different exists and barely gets mentioned.
 
-**Insider tip:** Thursday nights are the best kept secret in Northcote's music scene. The crowd is smaller, the band tends to be more experimental, and you can actually get a seat at the bar. Arrive at 7pm before the post-work crowd filters in.
+**Insider tip:** Thursday nights are the under-the-radar spot in Northcote's music scene. The crowd is smaller, the band tends to be more experimental, and you can actually get a seat at the bar. Arrive at 7pm before the post-work crowd filters in.
 
 
 ## Bar Crawl: The Northcote Strip in One Night
@@ -129,7 +129,7 @@ Total budget: approximately $70–$90 depending on your pace. That's a full nigh
 - 🎵 Live music — the drinks are secondary
 - 🍕 Pub grub — food first, drinks are the bonus
 
-*Vote and tell us your go-to @melbzcomau with #NorthcoteBars*
+*Vote and tell us your go-to @melbz101 with #NorthcoteBars*
 
 
 **NEIGHBOURING SUBURBS: Extend the Bar Hop**

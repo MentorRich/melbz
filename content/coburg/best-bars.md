@@ -171,7 +171,7 @@ It's about a 20-minute walk end to end, or you can hop on Tram 19 which runs the
 
 ## 📸 Share Your Coburg Night Out
 
-Tag **#MELBZNightOut** and **@melbzcomau** on Instagram for a chance to be featured. We repost the best Coburg bar moments every Friday.
+Tag **#MELBZNightOut** and **@melbz101** on Instagram for a chance to be featured. We repost the best Coburg bar moments every Friday.
 
 
 ## 🔗 Also in This Series

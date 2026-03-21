@@ -215,7 +215,7 @@ It's not the prettiest suburb in Melbourne. It's not the quietest. But it's one 
 ## 📊 Share Your Richmond Tips
 
 **We want to hear from the locals:**
-- What's the best-kept secret on Swan Street?
+- What's the under-the-radar spot on Swan Street?
 - Which Victoria Street spot is criminally underrated?
 - Where do Richmond locals actually eat on Saturday nights?
 

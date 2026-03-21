@@ -181,12 +181,12 @@ Footscray doesn't try to impress you. That's why it does.
 <!-- ENGAGEMENT WIDGET 4: Newsletter -->
 <h3>📬 Get Your Weekly Footscray Briefing</h3>
 <p>Every Monday morning: what's new, what's closing, what's trending, and the Vibe Score update. Delivered to your inbox.</p>
-<input type="email" placeholder="your@email.com" class="newsletter-input" />
+<input type="email" placeholder="hq@melbz101" class="newsletter-input" />
 <button class="newsletter-btn">Subscribe to Footscray Weekly</button>
 </div>
 
 
-*Jack Morrison writes suburb profiles for MELBZ. He has eaten approximately 340 bahn mi across Melbourne and has strong opinions about all of them. Got a tip? [hello@melbz.com.au](mailto:hello@melbz.com.au)*
+*Jack Morrison writes suburb profiles for MELBZ. He has eaten approximately 340 bahn mi across Melbourne and has strong opinions about all of them. Got a tip? [hq@melbz101](mailto:hq@melbz101)*
 
 ### Featured Venues
 

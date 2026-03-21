@@ -62,7 +62,7 @@ Abbotsford's Japanese scene is small but mighty. There's a sushi spot that's sur
 
 **The ramen:** There's a small ramen shop that does a decent tonkotsu. The broth is rich, the noodles are springy, and the portions are generous. It's not Tokyo level, but it's solid for Melbourne.
 
-## The Hidden Gems
+## The local picks
 
 Abbotsford has a few spots that don't fit neatly into any category but deserve a mention.
 

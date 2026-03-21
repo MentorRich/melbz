@@ -110,3 +110,15 @@ theme = 'melbz'
 
 # Output formats
 enableRobotsTXT = true
+
+[[menu.main]]
+  identifier = "rankings"
+  name = "Rankings"
+  url = "/rankings/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "fuel"
+  name = "Fuel Watch"
+  url = "/fuel-prices-melbourne/"
+  weight = 4

@@ -87,7 +87,7 @@ The vegetarian platter is a strong move for groups — eight or nine different v
 - 🎵 Mesob Ethiopian (conversation-starter energy)
 - 🍸 Danté (cocktails seal the deal)
 
-*Drop your vote in the comments below or tag us @melbzcomau with #NorthcoteDateNight*
+*Drop your vote in the comments below or tag us @melbz101 with #NorthcoteDateNight*
 
 
 ## 5. Ruckers Hill — French-Leaning Wine Bar, No Pretence
@@ -173,7 +173,7 @@ Northcote's dining scene has a specific character that distinguishes it from nea
 What High Street does better than almost any other Melbourne dining strip is range. You can spend $12 on the best falafel pita in the city, or $150 on a tasting menu with matched wines, and both will feel like they belong on the same street. That's not an accident — it's what happens when a suburb attracts operators who genuinely care about food rather than just the "concept" of a restaurant.
 
 
-**Have a Northcote restaurant we haven't covered? Drop it in the comments or hit us on Instagram [@melbzcomau](https://instagram.com/melbzcomau). We test everything.**
+**Have a Northcote restaurant we haven't covered? Drop it in the comments or hit us on Instagram [@melbz101](https://instagram.com/melbzcomau). We test everything.**
 
 *Priya Sandhu is the Food Editor at MELBZ. She has eaten at every venue in this guide at least twice, once anonymously and once making sure the kitchen knew she was coming. Follow her food adventures [@priyaeats](https://instagram.com/priyaeats).*
 

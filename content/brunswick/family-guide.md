@@ -163,7 +163,7 @@ Pick a side in our [Brunswick vs. Northcote showdown](/compare/brunswick-vs-nort
 Thinking about the northern suburbs but not sure Brunswick is the right fit? Our [Complete Northern Suburbs Family Relocation Guide](/relocation/northern-suburbs-2026) breaks down every suburb from Coburg to Reservoir with school zones, price points, and family scores so you can compare the lot in one place.
 
 
-*Chloe Nguyen is the Families Editor at MELBZ. She has lived in Melbourne's inner north for eight years and has personally tested every playground mentioned in this article with a reluctant three-year-old. Contact: [chloe@melbz.com.au](mailto:chloe@melbz.com.au)*
+*Chloe Nguyen is the Families Editor at MELBZ. She has lived in Melbourne's inner north for eight years and has personally tested every playground mentioned in this article with a reluctant three-year-old. Contact: [hq@melbz101](mailto:hq@melbz101)*
 
 ### Featured Venues
 

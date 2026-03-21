@@ -1,11 +1,11 @@
 ---
-title: "Hidden Gems & Suburb Secrets in Southbank"
+title: "local picks & Suburb Secrets in Southbank"
 cover_image: "/images/southbank/hidden-gems.jpg"
 date: 2026-03-18
 author: lina
 tags: ["southbank", "hidden-gems"]
 categories: ["hidden"]
-description: "Hidden Gems & Suburb Secrets in Southbank"
+description: "local picks & Suburb Secrets in Southbank"
 ---
 
 *description: "18 March 2026 | Nightlife Writer"*

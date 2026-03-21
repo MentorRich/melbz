@@ -37,7 +37,7 @@ The Retreat Hotel is the spiritual home of Brunswick nightlife. The front bar is
 
 **The vibe:** A small, loud, gloriously unpretentious pub where the Monday comedy night has a cult following and the weekend music sets turn the place into a sweatbox.
 
-The Bergy Seltzer is not a venue you visit for a quiet drink. It's a venue you visit when you want the night to take you somewhere unexpected. The Monday night comedy show is one of Brunswick's best-kept secrets — free entry, strong lineup, and a room that fills with locals who take their laughs as seriously as their pints. On weekends, the live music ranges from punk to Afrobeat to whatever the booker felt like that week. The kitchen runs late, the taps are excellent, and the crowd is one of the most genuine in Melbourne.
+The Bergy Seltzer is not a venue you visit for a quiet drink. It's a venue you visit when you want the night to take you somewhere unexpected. The Monday night comedy show is one of Brunswick's under-the-radar spots — free entry, strong lineup, and a room that fills with locals who take their laughs as seriously as their pints. On weekends, the live music ranges from punk to Afrobeat to whatever the booker felt like that week. The kitchen runs late, the taps are excellent, and the crowd is one of the most genuine in Melbourne.
 
 **Order this:** The $10 Wednesday wings — they're crispy, spicy, and the reason half of Brunswick shows up midweek. On weekends, whatever the bartender recommends from the rotating tap list.
 

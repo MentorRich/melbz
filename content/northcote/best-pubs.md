@@ -145,7 +145,7 @@ All five pubs are accessible by public transport:
 - 📺 Sport on TV — footy season is make-or-break
 - 👨‍👩‍👧‍👦 Community — I want to know the regulars
 
-*Vote and tag your pub crew @melbzcomau with #NorthcotePubs*
+*Vote and tag your pub crew @melbz101 with #NorthcotePubs*
 
 
 **NEIGHBOURING SUBURBS: Expand Your Pub Circuit**

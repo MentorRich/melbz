@@ -147,7 +147,7 @@ Fitzroy's restaurant scene is one of the strongest in Melbourne. The diversity o
 
 Every local has a go-to. What's yours — and what do you order?
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

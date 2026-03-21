@@ -30,7 +30,7 @@ Melbourne CBD's pub scene in 2026 sits at a fascinating crossroads. The old guar
 ## 1. The Mitre Tavern — The Oldest Pub in Melbourne (And Still Standing)
 
 **Address:** 65 Bank Place, Melbourne VIC 3000  
-**The vibe:** If walls could talk, the Mitre's would need a podcast series. Established in 1838, this is Melbourne's oldest surviving pub, tucked into a cobblestone laneway behind the Old Treasury Building. The interior is dark timber, low ceilings, and an atmosphere that makes you want to discuss the Eureka Stockade over a schooner. The beer garden — shaded by the surrounding bluestone buildings — is one of the CBD's best-kept secrets, especially on a warm March afternoon.
+**The vibe:** If walls could talk, the Mitre's would need a podcast series. Established in 1838, this is Melbourne's oldest surviving pub, tucked into a cobblestone laneway behind the Old Treasury Building. The interior is dark timber, low ceilings, and an atmosphere that makes you want to discuss the Eureka Stockade over a schooner. The beer garden — shaded by the surrounding bluestone buildings — is one of the CBD's under-the-radar spots, especially on a warm March afternoon.
 
 **Beer selection:** The tap lineup leans traditional: you'll find Victoria Bitter, Carlton Draught, and Cascade Premium on rotation, alongside a rotating guest tap from regional Victorian breweries. The bottle selection goes deeper, with a solid range of European lagers and English ales. This isn't a craft beer destination and it doesn't pretend to be. What it does is serve classic Australian beer perfectly — cold, clean, and without fuss.
 

@@ -1,146 +1,117 @@
-{{/* Single page layout */}}
 {{ define "main" }}
 
-<article class="section">
+<article class="article-single" itemscope itemtype="https://schema.org/Article">
+
+    <!-- Breadcrumbs -->
     <div class="container">
         {{- partial "breadcrumbs.html" . -}}
-        
-        {{ if .Params.cover_image }}
-        <!-- Cover Image -->
-        <div class="article-cover">
-            <img src="{{ .Params.cover_image }}" alt="{{ .Params.cover_alt | default .Title }}" width="1200" height="630" loading="eager">
-        </div>
-        {{ end }}
-        
-        <!-- Article Header -->
-        <header class="article-header">
-            <h1 class="article-title">{{ .Title }}</h1>
-            
-            <div class="article-meta">
-                {{- partial "author-byline.html" . -}}
-                
-                {{ if .Params.suburb }}
-                <div class="suburb-tag">{{ .Params.suburb | title }}</div>
-                {{ end }}
-            </div>
-        </header>
-        
-        <!-- Two-column layout for desktop -->
-        <div style="display: grid; grid-template-columns: 1fr 300px; gap: 2rem; align-items: start;">
-            <div>
-                <!-- Article Content -->
-                <div class="article-content">
-                    {{ .Content }}
-                </div>
+    </div>
 
-                <!-- Ad Slot: After article content -->
-                <div style="padding:24px 0;text-align:center;min-height:100px;border-top:1px solid #e5e5e0;border-bottom:1px solid #e5e5e0;margin:24px 0">
-                    <div style="font-size:10px;text-transform:uppercase;letter-spacing:1px;color:#999;margin-bottom:8px">Advertisement</div>
-                    <div id="ad-article-2" style="min-height:90px;background:#f8f8f8;border-radius:8px"></div>
-                </div>
-                
-                <!-- Social Sharing -->
-                <div class="social-share">
-                    <h4>Share this article</h4>
-                    <div class="share-buttons">
-                        <a href="https://twitter.com/intent/tweet?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" class="share-button share-twitter">Twitter</a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" class="share-button share-facebook">Facebook</a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | urlquery }}&title={{ .Title | urlquery }}" target="_blank" rel="noopener" class="share-button share-linkedin">LinkedIn</a>
-                    </div>
-                </div>
-                
-                <!-- Disclaimer -->
-                <div class="disclaimer">
-                    <strong>Disclaimer:</strong> Information current as of {{ if .Params.updated }}{{ dateFormat "January 2006" .Params.updated }}{{ else }}{{ .Date.Format "January 2006" }}{{ end }}. Contact venues directly to confirm details before visiting.
-                </div>
-                
-                <!-- Related Articles -->
-                {{ if .Params.suburb }}
-                <section style="margin-top: 3rem;">
-                    <h3>More in {{ .Params.suburb | title }}</h3>
-                    <div class="article-grid">
-                        {{ $related := where .Site.RegularPages ".Params.suburb" .Params.suburb }}
-                        {{ $related := where $related "RelPermalink" "ne" .RelPermalink }}
-                        {{ range first 3 $related }}
-                            {{- partial "article-card.html" . -}}
-                        {{ end }}
-                    </div>
-                    <div style="margin-top: 1rem;">
-                        <a href="/{{ $.Params.suburb }}/" class="cta-button">Explore {{ $.Params.suburb | title }} →</a>
-                    </div>
-                </section>
-                {{ end }}
-                
-                <!-- Explore Nearby -->
-                <section style="margin-top: 3rem;">
-                    <h3>Explore Nearby Suburbs</h3>
-                    <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1rem;">
-                        {{ $nearbySuburbs := slice }}
-                        {{ if eq .Params.suburb "fitzroy" }}{{ $nearbySuburbs = slice "collingwood" "brunswick" "carlton" "melbourne" }}{{ end }}
-                        {{ if eq .Params.suburb "carlton" }}{{ $nearbySuburbs = slice "fitzroy" "melbourne" "north-melbourne" "brunswick" }}{{ end }}
-                        {{ if eq .Params.suburb "st-kilda" }}{{ $nearbySuburbs = slice "south-yarra" "prahran" "st-kilda-east" "elwood" }}{{ end }}
-                        
-                        {{ range $nearbySuburbs }}
-                        <a href="/{{ . }}/" style="background: #f0f0f0; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; color: #333;">{{ . | title }}</a>
-                        {{ end }}
-                    </div>
-                </section>
+    <!-- Article Hero -->
+    <header class="article-hero">
+        <div class="container">
+            {{ if .Params.suburb }}
+            <a href="/{{ .Params.suburb }}/" class="article-suburb-tag">{{ .Params.suburb | upper }}</a>
+            {{ end }}
+
+            <h1 itemprop="headline">{{ .Title }}</h1>
+
+            {{ if .Description }}
+            <p class="article-description">{{ .Description }}</p>
+            {{ end }}
+
+            <!-- Vibe Score Badge (if applicable) -->
+            {{ with .Params.vibe_score }}
+            <div class="vibe-badge-inline">
+                <span class="vibe-num">{{ . }}</span>
+                <span class="vibe-label-inline">
+                    {{ if ge . 90 }}🟣 EPIC{{ else if ge . 80 }}🔵 SICK{{ else if ge . 70 }}🟢 SOLID{{ else if ge . 60 }}🟡 DECENT{{ else }}🟠 MIXED{{ end }}
+                </span>
             </div>
-            
-            <!-- Sidebar with TOC -->
-            <aside>
-                {{- partial "toc.html" . -}}
-            </aside>
+            {{ end }}
+
+            <!-- Author + Date -->
+            {{- partial "author-byline.html" . -}}
+        </div>
+    </header>
+
+    <!-- Cover Image -->
+    {{ if .Params.cover_image }}
+    <div class="article-cover">
+        <div class="container">
+            <img src="{{ .Params.cover_image }}" alt="{{ .Params.cover_alt | default .Title }}" width="1200" height="630" loading="eager" itemprop="image">
         </div>
     </div>
-</article>
+    {{ end }}
 
-<!-- Newsletter Signup (suburb-specific) -->
-<section class="section">
+    <!-- Quick Take Box -->
+    {{ if .Params.quick_take }}
     <div class="container">
-        <div style="background:#1a1a1a;color:#fff;padding:48px 24px;border-radius:12px;margin:0 auto;max-width:680px;text-align:center">
-            {{ if .Params.suburb }}
-            <h3 style="font-size:22px;margin-bottom:8px">Get {{ .Params.suburb | title }}'s weekly briefing</h3>
-            <p style="color:rgba(255,255,255,0.7);margin-bottom:20px">The best of {{ .Params.suburb | title }} — new openings, local intel, and things you'll actually care about. Every Monday.</p>
-            {{ else }}
-            <h3 style="font-size:22px;margin-bottom:8px">Your suburb. Your week. Free.</h3>
-            <p style="color:rgba(255,255,255,0.7);margin-bottom:20px">Get Melbourne's sharpest local intel delivered every Monday morning.</p>
-            {{ end }}
-            <form class="newsletter-form" style="display:flex;max-width:400px;margin:0 auto">
-                <input type="email" placeholder="Your email" required style="flex:1;padding:12px 16px;border:none;border-radius:8px 0 0 8px;font-size:15px">
-                <button type="submit" style="padding:12px 20px;background:#E63946;color:#fff;border:none;border-radius:0 8px 8px 0;font-weight:700;font-size:15px;cursor:pointer">Subscribe</button>
+        <div class="quick-take">
+            <h3>⚡ Quick Take</h3>
+            <ul>
+                {{ range .Params.quick_take }}
+                <li>{{ . }}</li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+    {{ end }}
+
+    <!-- Article Body -->
+    <div class="container">
+        <div class="article-body" itemprop="articleBody">
+            {{ .Content }}
+        </div>
+    </div>
+
+    <!-- Trend Rider (on lifestyle/property articles) -->
+    {{ if or (eq .Params.vertical "lifestyle") (eq .Params.vertical "property") }}
+    {{- partial "trend-rider.html" . -}}
+    {{ end }}
+
+    <!-- Ad Slot -->
+    <div class="container">
+        <div class="ad-slot">
+            <div class="ad-label">Advertisement</div>
+            <div class="ad-placeholder"></div>
+        </div>
+    </div>
+
+    <!-- Rabbit Hole -->
+    <div class="container">
+        {{- partial "rabbit-hole.html" . -}}
+    </div>
+
+    <!-- Newsletter CTA -->
+    <div class="container">
+        <div class="newsletter-block">
+            <h3 class="newsletter-title">Liked this? Get the Monday Brief.</h3>
+            <p class="newsletter-sub">One email. The openings, closures, and suburb intel you need to start the week.</p>
+            <form class="newsletter-form">
+                <input type="email" placeholder="Your email" required class="newsletter-input">
+                <button type="submit" class="newsletter-btn">Subscribe →</button>
             </form>
         </div>
     </div>
-</section>
 
-<!-- Mobile: Move TOC above content -->
-<style>
-@media (max-width: 768px) {
-    .article-content + .social-share {
-        margin-top: 2rem;
-    }
-    
-    article .container > div {
-        display: block !important;
-    }
-    
-    aside {
-        order: -1;
-        margin-bottom: 2rem;
-    }
-}
-</style>
+</article>
 
-<!-- Mid-article ad injection: insert after the 3rd H2 -->
+<!-- Auto-inject ads between headings (existing script preserved) -->
 <script>
-(function(){
-    var headings = document.querySelectorAll('.article-content h2');
-    if (headings.length >= 4) {
+(function() {
+    var headings = document.querySelectorAll('.article-body h2, .article-body h3');
+    if (headings.length > 3) {
         var ad = document.createElement('div');
-        ad.style.cssText = 'padding:24px 0;text-align:center;min-height:100px;border-top:1px solid #e5e5e0;border-bottom:1px solid #e5e5e0;margin:24px 0';
-        ad.innerHTML = '<div style="font-size:10px;text-transform:uppercase;letter-spacing:1px;color:#999;margin-bottom:8px">Advertisement</div><div id="ad-article-1" style="min-height:90px;background:#f8f8f8;border-radius:8px"></div>';
+        ad.className = 'ad-slot ad-slot--inline';
+        ad.innerHTML = '<div class="ad-label">Advertisement</div><div class="ad-placeholder"></div>';
         headings[3].parentNode.insertBefore(ad, headings[3]);
+    }
+    if (headings.length > 6) {
+        var ad2 = document.createElement('div');
+        ad2.className = 'ad-slot ad-slot--inline';
+        ad2.innerHTML = '<div class="ad-label">Advertisement</div><div class="ad-placeholder"></div>';
+        headings[6].parentNode.insertBefore(ad2, headings[6]);
     }
 })();
 </script>

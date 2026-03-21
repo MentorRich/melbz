@@ -100,7 +100,7 @@ The raw food section deserves special mention. The raw lasagne and the raw pad t
 Most of the menu is vegan or easily adaptable, and they do a strong line in fresh juices and smoothies. If you're in Fitzroy and want something nourishing that won't leave you feeling sluggish, Yong Green Food is the play.
 
 
-## 7. Gong De Lin — The CBD's Best-Kept Secret
+## 7. Gong De Lin — The CBD's under-the-radar spot
 
 **📍 Level 3, 264 Swanston St, Melbourne CBD VIC 3000**
 **💰 Mains $14–$22 | Dumplings $8–$12**

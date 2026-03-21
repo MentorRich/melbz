@@ -15,7 +15,7 @@ Get in touch with Melbourne's suburb experts. We read every email and aim to res
 
 ## General Enquiries
 
-**Email:** [hq@melbz.com.au](mailto:hq@melbz.com.au)
+**Email:** [hq@melbz101](mailto:hq@melbz101)
 
 For all general enquiries, partnerships, or just to say g'day — this is the best place to start.
 

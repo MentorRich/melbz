@@ -160,7 +160,7 @@ Fitzroy consistently scores in Melbourne's top 10 for walkability, food culture,
 
 Good or bad. We want the real stuff that doesn't make it into guides.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

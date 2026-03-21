@@ -54,7 +54,7 @@ What strikes me about this new wave in [Collingwood](/collingwood/) is its confi
 
 The landscape is shifting. The old guard is being joined by a new generation that’s thoughtful, skilled, and deeply passionate. My advice? Wander down. Follow your nose. Let the aroma of charcoal, baking bread, or simmering spices guide you. This autumn, the best discoveries in Collingwood aren’t hidden. They’re right there on the main streets, waiting for you to pull up a chair.
 
-*Have you visited any of these new spots? I’d love to hear your thoughts. Drop me a line at priya@melbz.com.*
+*Have you visited any of these new spots? I’d love to hear your thoughts. Drop me a line at hq@melbz101.*
 
 
 

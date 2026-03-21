@@ -168,7 +168,7 @@ The council's push to revitalise Fitzroy Street has brought new foot traffic and
 
 **Read next:** [Elwood's Best Late-Night Eats](/elwood/late-night-eats) · [Balaclava's Food Scene Under the Radar](/balaclava/food-guide) · [South Melbourne Dim Sims: The Definitive Guide](/south-melbourne/dim-sims)
 
-*Have a late-night spot we missed? Tell us at [hello@melbz.com.au](mailto:hello@melbz.com.au) — we'll test it and add it to the list.*
+*Have a late-night spot we missed? Tell us at [hq@melbz101](mailto:hq@melbz101) — we'll test it and add it to the list.*
 
 ## Related Articles
 

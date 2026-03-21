@@ -162,7 +162,7 @@ For the full Melbourne experience, pair your Coburg meal with a walk through the
 
 Sydney Road rewards the curious. Skip the chain, follow the aromas, and eat like a local.
 
-*Have a Coburg restaurant we need to try? Email us at hello@melbz.com.au or find us on Instagram @melbz.com.au.*
+*Have a Coburg restaurant we need to try? Email us at hq@melbz101 or find us on Instagram @melbz101.*
 
 
 **Related reading:**

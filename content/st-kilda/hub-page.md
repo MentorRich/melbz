@@ -204,7 +204,7 @@ At 79/100, our Vibe Score reflects a suburb that's been doing this for a long ti
 
 *St Kilda is one of Melbourne's most well-documented suburbs, which makes it both easy to research and hard to surprise. If you think we've missed something — a restaurant, a street, a deeply held local opinion — tell us. We update these profiles quarterly, and the best reader tips get incorporated into the next version.*
 
-*Have a St Kilda story, tip, or complaint? Email us at hello@melbz.com.au or slide into our DMs. We read everything.*
+*Have a St Kilda story, tip, or complaint? Email us at hq@melbz101 or slide into our DMs. We read everything.*
 
 ### Featured Venues
 

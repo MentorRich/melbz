@@ -184,7 +184,7 @@ For the full picture of what's opening and closing across the inner south, our [
 
 *Prices are per person for a main course and drink. Book ahead for Komeyui and Aegli on weekends. Park Street and Claypots are walk-in friendly. Lamaro's takes reservations via OpenTable. Half Acre is best mid-week for dinner without the wait.*
 
-*Got a correction or a recommendation? We update this guide quarterly. Drop a comment below or email us at hello@melbz.com.au.*
+*Got a correction or a recommendation? We update this guide quarterly. Drop a comment below or email us at hq@melbz101.*
 
 ### Featured Venues
 

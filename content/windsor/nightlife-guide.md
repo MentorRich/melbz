@@ -48,7 +48,7 @@ Thursday through Saturday nights, the dance floor kicks in around 10pm with DJs 
 **Budget:** $20–$26 cocktails
 **Vibe:** Tropical hidden bar, no food
 
-Jungle Boy is Chapel Street's best-kept secret — hidden behind a fridge door inside Boston Sub sandwich shop. Push through, and you're in a plant-filled tiki bar with tropical cocktails in ceramic mugs and a vibe that feels like a holiday. It's small — maybe 40 people max — and there's no food menu, so eat first.
+Jungle Boy is Chapel Street's under-the-radar spot — hidden behind a fridge door inside Boston Sub sandwich shop. Push through, and you're in a plant-filled tiki bar with tropical cocktails in ceramic mugs and a vibe that feels like a holiday. It's small — maybe 40 people max — and there's no food menu, so eat first.
 
 The cocktails are serious — rum-heavy with fresh fruit, house syrups, and garnishes that double as snacks. The crowd is trendy but not pretentious, the atmosphere is relaxed but gets lively later. No cover charge.
 
@@ -195,7 +195,7 @@ Windsor's nightlife isn't fancy, but it's not lawless either. A few unwritten ru
 - [Nightlife Guide in St Kilda](/st-kilda/nightlife-guide) — beachside nightlife
 
 
-*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hello@melbz.com.au. Cover charges and entertainment schedules updated weekly.*
+*MELBZ verified 2026. Last updated 16 March 2026. Prices and hours may change — check venues before visiting. If we've got something wrong, tell us at hq@melbz101. Cover charges and entertainment schedules updated weekly.*
 
 *Living in Windsor? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=windsor)*
 

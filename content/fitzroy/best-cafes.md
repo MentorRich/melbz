@@ -147,7 +147,7 @@ Cafe culture is the backbone of Fitzroy's identity. The brunch and coffee scene 
 
 Did we miss your favourite? Tell us where you get your morning coffee and what you order.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

@@ -146,7 +146,7 @@ If you're moving to Carlton, do it for the food, the walkability, and the neighb
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
-*Have a tip, a correction, or a hot take? Email hello@melbz.com.au*
+*Have a tip, a correction, or a hot take? Email hq@melbz101*
 
 ### Featured Venues
 

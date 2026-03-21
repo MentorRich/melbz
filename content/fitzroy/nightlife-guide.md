@@ -164,7 +164,7 @@ Nightlife density is a key contributor to Fitzroy's score. The live music scene 
 
 We want the route. The order. The usual. Share your plan so others can steal it.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

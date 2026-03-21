@@ -56,7 +56,7 @@ We include a clear price indicator for every restaurant: $ (cheap, under $30 per
 
 ### Can I suggest a restaurant?
 
-Absolutely. Email us at tips@melbz.com.au with the name, suburb and why you think it should be included. We check every suggestion, and if it meets our criteria, we’ll visit anonymously and consider it for the next update.
+Absolutely. Email us at hq@melbz101 with the name, suburb and why you think it should be included. We check every suggestion, and if it meets our criteria, we’ll visit anonymously and consider it for the next update.
 
 ## Keep exploring
 

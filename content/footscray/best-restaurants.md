@@ -144,7 +144,7 @@ The restaurants above are the headliners, but Footscray's food scene runs deep. 
 
 ## The Bottom Line
 
-Footscray's restaurant scene is one of Melbourne's best-kept secrets — except it's not really a secret anymore. The Vietnamese and Ethiopian institutions remain the backbone, but the newer wave of wine bars, gastropubs, and brunch spots means there's something here for every mood and budget. If you only try one spot, make it Bar Thyme for dinner and Hien Vuong for lunch. That's a day in Footscray that'll ruin you for anywhere else.
+Footscray's restaurant scene is one of Melbourne's under-the-radar spots — except it's not really a secret anymore. The Vietnamese and Ethiopian institutions remain the backbone, but the newer wave of wine bars, gastropubs, and brunch spots means there's something here for every mood and budget. If you only try one spot, make it Bar Thyme for dinner and Hien Vuong for lunch. That's a day in Footscray that'll ruin you for anywhere else.
 
 **Your Footscray Vibe Score this week: 74/100** — The food scene is genuinely world-class for a suburb this size. Value for money remains outstanding.
 

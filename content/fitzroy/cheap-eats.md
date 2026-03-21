@@ -143,7 +143,7 @@ Affordable dining options are a key component of Fitzroy's liveability score. Th
 
 We know there are more. Tell us your under-$15 worth seeking out.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

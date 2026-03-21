@@ -198,7 +198,7 @@ Carnegie scores high on diversity and late-night options. The multicultural food
 
 The pub, the taverna, the late-night feed. Share the route you take when you're out in Carnegie.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

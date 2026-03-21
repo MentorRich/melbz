@@ -140,7 +140,7 @@ No venue paid to be on this list. No venue knew we were coming.
 - [Best Cafes in Camberwell 2026](/food/best-cafes-camberwell) — Camberwell's Burke Road corridor is the understated brunch capital of the inner east
 
 
-*Have we missed your favourite Hawthorn café? Tell us about it at hello@melbz.com.au. We revisit this list every quarter.*
+*Have we missed your favourite Hawthorn café? Tell us about it at hq@melbz101. We revisit this list every quarter.*
 
 ## Related Articles
 

@@ -145,7 +145,7 @@ If you're making a day of it, combine Kensington with [Flemington](/suburb/flemi
 
 *Priya Sandhu is the food editor at MELBZ. She eats at every venue before writing about it. No sponsored placements, no advertorials. Just the best cheap eats, tested and priced.*
 
-*Have a cheap eat we missed? Tell us on [Instagram](https://instagram.com/melbzcomau) or [email the editorial team](mailto:hello@melbz.com.au).*
+*Have a cheap eat we missed? Tell us on [Instagram](https://instagram.com/melbzcomau) or [email the editorial team](mailto:hq@melbz101).*
 
 
 ### 📊 Poll: What's your go-to Kensington cheap eat?

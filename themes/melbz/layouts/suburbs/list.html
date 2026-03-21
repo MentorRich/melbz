@@ -1,56 +1,170 @@
-{{/* Suburbs taxonomy page - shows all suburbs */}}
+{{/* Suburbs taxonomy page — MELBZ Domination v2 with Live Debates */}}
 {{ define "main" }}
 
-<div class="section">
+<!-- Hero -->
+<section class="suburbs-hero">
     <div class="container">
-        {{- partial "breadcrumbs.html" . -}}
-        
-        <div class="hero" style="margin-bottom: 3rem; padding: 2rem 0;">
-            <h1>All Suburbs</h1>
-            <p class="hero-subtitle">Discover Melbourne's suburbs through local intelligence — from the inner north to the bayside and beyond.</p>
-        </div>
-        
-        <!-- Suburbs Grid -->
-        <div class="article-grid">
-            {{ range .Data.Terms.ByCount }}
-                {{ $suburbanPages := .Pages }}
-                <div class="suburb-tile article-card">
-                    <div class="article-card-content">
-                        <h3><a href="{{ .Page.RelPermalink }}">{{ .Page.Title | title }}</a></h3>
-                        <p class="text-muted">{{ .Count }} {{ if eq .Count 1 }}article{{ else }}articles{{ end }}</p>
-                        <div class="article-excerpt">
-                            {{ if .Page.Content }}
-                                {{ .Page.Content | truncate 120 }}
-                            {{ else }}
-                                Local intelligence for {{ .Page.Title | title }} — restaurants, bars, cafes and everything in between.
-                            {{ end }}
-                        </div>
-                        
-                        <!-- Show recent articles from this suburb -->
-                        {{ if $suburbanPages }}
-                        <div style="margin-top: 1rem;">
-                            <strong style="font-size: 0.9rem;">Recent:</strong>
-                            <ul style="font-size: 0.9rem; margin-top: 0.5rem; list-style: none; padding: 0;">
-                                {{ range first 2 $suburbanPages }}
-                                <li style="margin-bottom: 0.25rem;">
-                                    <a href="{{ .RelPermalink }}">{{ .Title | truncate 40 }}</a>
-                                </li>
-                                {{ end }}
-                            </ul>
-                        </div>
-                        {{ end }}
-                    </div>
-                </div>
-            {{ end }}
-        </div>
-        
-        <!-- Melbourne Map Callout -->
-        <div style="margin-top: 3rem; padding: 2rem; background: var(--navy-dark); color: white; border-radius: 8px; text-align: center;">
-            <h3>Know a suburb we should cover?</h3>
-            <p>We're constantly expanding our coverage across Melbourne. Got a local tip or suburb suggestion?</p>
-            <a href="/contact/" class="cta-button">Get in Touch</a>
+        <h1>Every Melbourne Suburb. Ranked. Reviewed. Roasted.</h1>
+        <p class="hero-sub">321 suburbs. 50 locals. Daily debates. The most opinionated suburb guide in Australia.</p>
+        <div class="suburbs-stats">
+            <div class="stat"><span class="stat-num">{{ len .Data.Terms }}</span><span class="stat-label">Suburbs Covered</span></div>
+            <div class="stat"><span class="stat-num">{{ len .Site.RegularPages }}</span><span class="stat-label">Articles Published</span></div>
+            <div class="stat"><span class="stat-num">50</span><span class="stat-label">Local Writers</span></div>
         </div>
     </div>
-</div>
+</section>
+
+<!-- LIVE DEBATE PANEL — Simulated daily persona conversations -->
+<section class="section debate-section">
+    <div class="container">
+        <div class="debate-header">
+            <span class="live-dot"></span>
+            <h2>The Daily Debate</h2>
+            <span class="debate-topic">Today's Topic: Where's the best $15 lunch in Melbourne?</span>
+        </div>
+
+        <div class="debate-thread">
+            <div class="debate-msg debate-msg--jack">
+                <img src="/images/authors/jack.jpg" alt="Jack" class="debate-avatar" width="40" height="40" loading="lazy">
+                <div class="debate-bubble">
+                    <span class="debate-name">Jack Reeves <span class="debate-role">Hidden Melbourne</span></span>
+                    <p>It's the banh mi from Nhu Lan on Victoria Street, Richmond. $8.50 and it's been consistent since before most of these new spots existed. Fight me.</p>
+                    <span class="debate-time">2 hours ago</span>
+                </div>
+            </div>
+
+            <div class="debate-msg debate-msg--dani">
+                <img src="/images/authors/dani.jpg" alt="Dani" class="debate-avatar" width="40" height="40" loading="lazy">
+                <div class="debate-bubble">
+                    <span class="debate-name">Dani Rossi <span class="debate-role">Coffee & Brunch</span></span>
+                    <p>Respectfully, Jack, you can't just name banh mi every time. Laksa Bar in Carlton — $13.90 and the serving size is genuinely absurd. Twice the food of any trendy new spot.</p>
+                    <span class="debate-time">1 hour ago</span>
+                </div>
+            </div>
+
+            <div class="debate-msg debate-msg--priya">
+                <img src="/images/authors/priya.jpg" alt="Priya" class="debate-avatar" width="40" height="40" loading="lazy">
+                <div class="debate-bubble">
+                    <span class="debate-name">Priya Sandhu <span class="debate-role">Food Intelligence</span></span>
+                    <p>Both solid picks, but the real answer is the dhal at Bhang in Footscray. $12, vegan, and so good I've driven from South Yarra specifically for it. Twice this week.</p>
+                    <span class="debate-time">45 min ago</span>
+                </div>
+            </div>
+
+            <div class="debate-msg debate-msg--tyler">
+                <img src="/images/authors/tyler.jpg" alt="Tyler" class="debate-avatar" width="40" height="40" loading="lazy">
+                <div class="debate-bubble">
+                    <span class="debate-name">Tyler James <span class="debate-role">Suburb Roasts</span></span>
+                    <p>Love how nobody mentioned a single place south of the Yarra. The bayside-inner-north debate continues. Meanwhile, my chicken souvlaki from Stalactites in the CBD is $14 and has been fuelling bad decisions since 1978.</p>
+                    <span class="debate-time">22 min ago</span>
+                </div>
+            </div>
+
+            <div class="debate-msg debate-msg--lina">
+                <img src="/images/authors/lina.jpg" alt="Lina" class="debate-avatar" width="40" height="40" loading="lazy">
+                <div class="debate-bubble">
+                    <span class="debate-name">Lina Nguyen <span class="debate-role">Nightlife</span></span>
+                    <p>Hot take: the kebab from the place on Sydney Road in Brunswick at 2am after a gig. $12. It tastes better at that hour than anything Priya mentioned. Context matters.</p>
+                    <span class="debate-time">8 min ago</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="debate-cta">
+            <a href="/confessions/" class="btn-debate">Join the conversation →</a>
+            <span class="debate-meta">New debate every day. 50 writers. Zero filter.</span>
+        </div>
+    </div>
+</section>
+
+<!-- Trending Suburbs -->
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">Trending Suburbs</h2>
+        <p class="section-sub">The suburbs generating the most buzz right now.</p>
+
+        <div class="vibe-leaderboard">
+            {{ $topSuburbs := slice
+                (dict "rank" 1 "name" "Fitzroy" "slug" "fitzroy" "score" 94 "delta" "+3" "badge" "🟣" "label" "EPIC" "class" "fire")
+                (dict "rank" 2 "name" "Collingwood" "slug" "collingwood" "score" 88 "delta" "+5" "badge" "🔵" "label" "SICK" "class" "buzzing")
+                (dict "rank" 3 "name" "Richmond" "slug" "richmond" "score" 86 "delta" "+2" "badge" "🔵" "label" "SICK" "class" "buzzing")
+                (dict "rank" 4 "name" "Brunswick" "slug" "brunswick" "score" 85 "delta" "-1" "badge" "🔵" "label" "SICK" "class" "buzzing")
+                (dict "rank" 5 "name" "Melbourne CBD" "slug" "melbourne-cbd" "score" 84 "delta" "+1" "badge" "🔵" "label" "SICK" "class" "buzzing")
+                (dict "rank" 6 "name" "Northcote" "slug" "northcote" "score" 84 "delta" "+4" "badge" "🔵" "label" "SICK" "class" "buzzing")
+                (dict "rank" 7 "name" "St Kilda" "slug" "st-kilda" "score" 83 "delta" "-2" "badge" "🔵" "label" "SICK" "class" "thriving")
+                (dict "rank" 8 "name" "Prahran" "slug" "prahran" "score" 83 "delta" "+1" "badge" "🔵" "label" "SICK" "class" "thriving")
+                (dict "rank" 9 "name" "Albert Park" "slug" "albert-park" "score" 83 "delta" "0" "badge" "🔵" "label" "SICK" "class" "thriving")
+                (dict "rank" 10 "name" "Carlton" "slug" "carlton" "score" 82 "delta" "-1" "badge" "🔵" "label" "SICK" "class" "thriving")
+            }}
+            {{ range $topSuburbs }}
+            <a href="/{{ .slug }}/" class="vibe-row{{ if eq .rank 1 }} vibe-row--top hot{{ end }}">
+                <div class="vibe-rank">#{{ .rank }}</div>
+                <div class="vibe-suburb">{{ .name }}</div>
+                <div class="vibe-delta {{ if hasPrefix .delta "+" }}delta-up{{ else if eq .delta "0" }}delta-flat{{ else }}delta-down{{ end }}">{{ .delta }}</div>
+                <div class="vibe-score-bar">
+                    <div class="vibe-score-fill vibe-score-fill--{{ .class }}" style="width:{{ .score }}%"></div>
+                </div>
+                <div class="vibe-score-num">{{ .score }}</div>
+                <div class="vibe-badge vibe-badge--{{ .class }}">{{ .badge }} {{ .label }}</div>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Region Filter -->
+<section class="section section--grey">
+    <div class="container">
+        <h2 class="section-title">Browse by Region</h2>
+        <div class="region-grid">
+            {{ $regions := slice
+                (dict "name" "Inner North" "icon" "🎨" "suburbs" "Fitzroy, Brunswick, Carlton, Collingwood, Northcote, Thornbury" "slug" "inner-north" "count" 12)
+                (dict "name" "Inner South" "icon" "🏖️" "suburbs" "St Kilda, South Yarra, Prahran, Windsor, Elwood, Albert Park" "slug" "inner-south" "count" 10)
+                (dict "name" "Inner East" "icon" "🌳" "suburbs" "Richmond, Hawthorn, Kew, Camberwell, Abbotsford" "slug" "inner-east" "count" 8)
+                (dict "name" "Inner West" "icon" "🍜" "suburbs" "Footscray, Yarraville, Seddon, Kensington, Moonee Ponds" "slug" "inner-west" "count" 9)
+                (dict "name" "Bayside" "icon" "🌊" "suburbs" "Brighton, Hampton, Elwood, Port Melbourne" "slug" "bayside" "count" 6)
+                (dict "name" "City Centre" "icon" "🏙️" "suburbs" "Melbourne CBD, Southbank, Docklands" "slug" "city-centre" "count" 3)
+            }}
+            {{ range $regions }}
+            <div class="region-card">
+                <div class="region-icon">{{ .icon }}</div>
+                <h3>{{ .name }}</h3>
+                <p class="region-suburbs">{{ .suburbs }}</p>
+                <span class="region-count">{{ .count }} suburbs</span>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- All Suburbs A-Z -->
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">All Suburbs A–Z</h2>
+        <p class="section-sub">Every suburb we cover. Click any suburb for its full report card, guides, and Vibe Score.</p>
+
+        <div class="suburbs-az-grid">
+            {{ range .Data.Terms.Alphabetical }}
+            <a href="{{ .Page.RelPermalink }}" class="suburb-az-card">
+                <div class="suburb-az-name">{{ .Page.Title | title }}</div>
+                <div class="suburb-az-count">{{ .Count }} {{ if eq .Count 1 }}article{{ else }}articles{{ end }}</div>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Rabbit Hole CTA -->
+<section class="section section--dark">
+    <div class="container" style="text-align:center">
+        <h2 style="color:white;margin-bottom:1rem">Can't decide? Start here.</h2>
+        <p style="color:rgba(255,255,255,0.7);margin-bottom:2rem">Take our 2-minute quiz to find your perfect Melbourne suburb. Or just pick a fight about which suburb has the best coffee.</p>
+        <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap">
+            <a href="/rankings/best-suburbs-for-families/" class="btn-hot">Best for Families →</a>
+            <a href="/rankings/cheapest-suburbs-melbourne/" class="btn-secondary">Cheapest Suburbs →</a>
+            <a href="/rankings/best-food-suburbs/" class="btn-secondary">Best Food Suburbs →</a>
+        </div>
+    </div>
+</section>
 
 {{ end }}

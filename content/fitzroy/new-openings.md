@@ -144,7 +144,7 @@ New venue openings boost Fitzroy's novelty and culture scores. The suburb's high
 
 Fitzroy moves fast. If you've seen a new venue open, a fit-out starting, or a sign going up, tell us about it.
 
-[Drop a comment below or email us at hello@melbz.com.au](#comments)
+[Drop a comment below or email us at hq@melbz101](#comments)
 
 
 <!-- WIDGET: Related Reading -->

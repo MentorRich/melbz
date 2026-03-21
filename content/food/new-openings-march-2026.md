@@ -253,7 +253,7 @@ The trend: international arrivals choosing Melbourne (Ginza Kagari, Cafe Ogawa),
 
 For more suburb-specific food guides, check our [Carlton cheap eats](/carlton/cheap-eats/), [Fitzroy restaurants](/fitzroy/best-restaurants/), or [St Kilda bars](/st-kilda/best-bars/).
 
-*Last updated: March 14, 2026. Spotted a new opening we've missed? Email hello@melbz.com.au.*
+*Last updated: March 14, 2026. Spotted a new opening we've missed? Email hq@melbz101.*
 
 ## Related Articles
 

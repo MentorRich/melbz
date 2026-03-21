@@ -105,7 +105,7 @@ If you're young, sociable, and can afford the rent — it's brilliant. If you ne
 That's the thing about the CBD. It frustrates you constantly, and you stay anyway. There's something in that.
 
 
-*What's your CBD experience? Drop us a line at [hello@melbz.com.au](mailto:hello@melbz.com.au) — we read every message and we're always looking for honest perspectives.*
+*What's your CBD experience? Drop us a line at [hq@melbz101](mailto:hq@melbz101) — we read every message and we're always looking for honest perspectives.*
 
 
 <!-- Engagement Widget 1: Poll -->
@@ -131,7 +131,7 @@ That's the thing about the CBD. It frustrates you constantly, and you stay anywa
 
 <!-- Engagement Widget 4: Comment Prompt -->
 > **HOT TAKE?**
-> Think we got something wrong? Think the CBD is actually perfect and we're just grumpy? Tell us at [@melbzcomau](https://instagram.com/melbzcomau) — we'll feature the best responses in next week's newsletter.
+> Think we got something wrong? Think the CBD is actually perfect and we're just grumpy? Tell us at [@melbz101](https://instagram.com/melbzcomau) — we'll feature the best responses in next week's newsletter.
 
 ### Featured Venues
 

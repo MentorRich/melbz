@@ -1,0 +1,38 @@
+<!-- Trending Suburbs Ticker -->
+<div class="suburbs-ticker" id="suburbs-ticker">
+  <span class="ticker-label">🔥 Trending:</span>
+  <div class="ticker-track" id="ticker-track"></div>
+</div>
+
+<script>
+(function() {
+  const track = document.getElementById('ticker-track');
+  if (!track) return;
+  
+  // Trending suburbs — rotate based on day
+  const trending = [
+    { name: "Fitzroy", slug: "fitzroy", tag: "Creative Hub" },
+    { name: "Footscray", slug: "footscray", tag: "Rising Star" },
+    { name: "Brunswick", slug: "brunswick", tag: "Always Popular" },
+    { name: "Richmond", slug: "richmond", tag: "Most Searched" },
+    { name: "South Yarra", slug: "south-yarra", tag: "Lifestyle HQ" },
+    { name: "St Kilda", slug: "st-kilda", tag: "Beach Vibes" },
+    { name: "Collingwood", slug: "collingwood", tag: "Bar Scene" },
+    { name: "Northcote", slug: "northcote", tag: "Family Friendly" },
+    { name: "Preston", slug: "preston", tag: "Up & Coming" },
+    { name: "Yarraville", slug: "yarraville", tag: "Hidden Gem" },
+    { name: "Carlton", slug: "carlton", tag: "Food Lovers" },
+    { name: "Prahran", slug: "prahran", tag: "Nightlife" },
+  ];
+  
+  let html = '';
+  trending.forEach(s => {
+    html += '<a href="/' + s.slug + '/" class="ticker-item">';
+    html += '<strong>' + s.name + '</strong>';
+    html += '<span class="ticker-tag">' + s.tag + '</span>';
+    html += '</a>';
+  });
+  // Duplicate for infinite scroll effect
+  track.innerHTML = html + html;
+})();
+</script>

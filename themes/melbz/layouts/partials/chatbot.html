@@ -1,0 +1,174 @@
+<!-- Melbz AI Chatbot — Suburb Assistant with Internet Access -->
+<div class="melbz-chatbot" id="melbz-chatbot">
+  <button class="chatbot-toggle" id="chatbot-toggle" aria-label="Open suburb assistant">
+    <span class="chatbot-icon">💬</span>
+    <span class="chatbot-label">Ask about any suburb</span>
+  </button>
+  
+  <div class="chatbot-window" id="chatbot-window" style="display:none;">
+    <div class="chatbot-header">
+      <div class="chatbot-avatar">🦘</div>
+      <div>
+        <strong>Melbz Assistant</strong>
+        <span class="chatbot-status">Ask me anything about Melbourne suburbs</span>
+      </div>
+      <button class="chatbot-close" id="chatbot-close">&times;</button>
+    </div>
+    
+    <div class="chatbot-messages" id="chatbot-messages">
+      <div class="chat-msg bot">
+        <p>G'day! I'm the Melbz suburb assistant. Ask me anything about Melbourne suburbs — where to live, eat, drink, or explore. I'll point you to the right guides.</p>
+      </div>
+    </div>
+    
+    <div class="chatbot-suggestions" id="chatbot-suggestions">
+      <button class="suggestion-btn" data-q="What's the best suburb for young professionals?">Best for young pros?</button>
+      <button class="suggestion-btn" data-q="Which suburbs are most family-friendly?">Family suburbs?</button>
+      <button class="suggestion-btn" data-q="Where can I find cheap rent in Melbourne?">Cheap rent?</button>
+      <button class="suggestion-btn" data-q="Best food suburbs in Melbourne?">Best food?</button>
+    </div>
+    
+    <div class="chatbot-input-wrap">
+      <input type="text" id="chatbot-input" placeholder="Ask about any Melbourne suburb..." autocomplete="off">
+      <button id="chatbot-send" aria-label="Send message">→</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const toggle = document.getElementById('chatbot-toggle');
+  const win = document.getElementById('chatbot-window');
+  const closeBtn = document.getElementById('chatbot-close');
+  const input = document.getElementById('chatbot-input');
+  const sendBtn = document.getElementById('chatbot-send');
+  const messages = document.getElementById('chatbot-messages');
+  const suggestions = document.getElementById('chatbot-suggestions');
+  
+  if (!toggle || !win) return;
+  
+  toggle.addEventListener('click', () => {
+    win.style.display = win.style.display === 'none' ? 'flex' : 'none';
+    toggle.style.display = win.style.display === 'none' ? '' : 'none';
+    if (win.style.display === 'flex') input.focus();
+  });
+  
+  closeBtn.addEventListener('click', () => {
+    win.style.display = 'none';
+    toggle.style.display = '';
+  });
+  
+  // Suburb knowledge base for instant answers
+  const SUBURB_DATA = {
+    keywords: {
+      'young professional': ['fitzroy', 'richmond', 'south-yarra', 'collingwood', 'brunswick', 'prahran', 'st-kilda', 'northcote', 'cremorne', 'windsor'],
+      'family': ['camberwell', 'canterbury', 'glen-iris', 'hawthorn', 'kew', 'ivanhoe', 'heidelberg', 'brighton', 'malvern', 'moonee-ponds'],
+      'cheap': ['footscray', 'sunshine', 'werribee', 'craigieburn', 'dandenong', 'frankston', 'noble-park', 'broadmeadows', 'thomastown', 'preston'],
+      'food': ['fitzroy', 'richmond', 'carlton', 'south-yarra', 'footscray', 'prahran', 'brunswick', 'collingwood', 'st-kilda', 'oakleigh'],
+      'nightlife': ['fitzroy', 'collingwood', 'south-yarra', 'st-kilda', 'brunswick', 'richmond', 'prahran', 'northcote', 'melbourne-cbd', 'windsor'],
+      'safe': ['camberwell', 'canterbury', 'brighton', 'malvern', 'kew', 'glen-iris', 'hawthorn', 'balwyn', 'ivanhoe', 'moonee-ponds'],
+      'beach': ['st-kilda', 'elwood', 'brighton', 'hampton', 'sandringham', 'port-melbourne', 'williamstown', 'frankston', 'mordialloc', 'chelsea'],
+      'cafe': ['fitzroy', 'brunswick', 'collingwood', 'south-yarra', 'carlton', 'richmond', 'prahran', 'st-kilda', 'northcote', 'seddon'],
+      'dog': ['northcote', 'fitzroy', 'brunswick', 'yarraville', 'williamstown', 'elwood', 'st-kilda', 'albert-park', 'richmond', 'seddon'],
+      'creative': ['fitzroy', 'collingwood', 'brunswick', 'northcote', 'footscray', 'yarraville', 'seddon', 'thornbury', 'preston', 'coburg'],
+      'quiet': ['camberwell', 'canterbury', 'glen-iris', 'balwyn', 'ivanhoe', 'kew', 'malvern', 'brighton', 'heidelberg', 'eltham'],
+      'transport': ['richmond', 'south-yarra', 'melbourne-cbd', 'footscray', 'flinders-street', 'north-melbourne', 'southbank', 'carlton', 'fitzroy', 'brunswick'],
+      'rent': ['footscray', 'sunshine', 'werribee', 'thomastown', 'broadmeadows', 'dandenong', 'frankston', 'noble-park', 'craigieburn', 'melton'],
+      'property': ['melbourne-cbd', 'south-yarra', 'richmond', 'fitzroy', 'collingwood', 'brunswick', 'northcote', 'footscray', 'yarraville', 'box-hill'],
+    }
+  };
+  
+  function slugToName(slug) {
+    return slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
+      .replace('St ', 'St ').replace('Cbd', 'CBD');
+  }
+  
+  function findAnswer(q) {
+    q = q.toLowerCase();
+    
+    // Check for specific suburb mention
+    const suburMatch = q.match(/(?:about|in|is)\s+([a-z\s-]+?)(?:\s+(?:good|safe|like|worth|expensive)|[?!.]|$)/);
+    if (suburMatch) {
+      const suburbGuess = suburMatch[1].trim().replace(/\s+/g, '-');
+      return {
+        text: "Here's what we've got on " + slugToName(suburbGuess) + ":",
+        links: [
+          { text: slugToName(suburbGuess) + ' Complete Guide', url: '/' + suburbGuess + '/' },
+          { text: 'Living in ' + slugToName(suburbGuess), url: '/' + suburbGuess + '/living-in-' + suburbGuess + '/' },
+          { text: 'Cost of Living', url: '/' + suburbGuess + '/cost-of-living/' },
+          { text: 'Transport Guide', url: '/' + suburbGuess + '/transport-guide/' },
+        ]
+      };
+    }
+    
+    // Match against keyword categories
+    for (const [keyword, suburbs] of Object.entries(SUBURB_DATA.keywords)) {
+      if (q.includes(keyword)) {
+        const top5 = suburbs.slice(0, 5);
+        return {
+          text: "For " + keyword + " vibes, check out these suburbs:",
+          links: top5.map(s => ({ text: slugToName(s), url: '/' + s + '/' }))
+        };
+      }
+    }
+    
+    // Default helpful response
+    return {
+      text: "I can help with that! Try asking about specific suburbs or topics like 'best for families', 'cheap rent', 'food suburbs', or 'nightlife'. You can also search any suburb on our site.",
+      links: [
+        { text: 'Best Suburbs 2026', url: '/best-suburbs-to-live-2026/' },
+        { text: 'Cheapest Suburbs', url: '/cheapest-suburbs-melbourne-2026/' },
+        { text: 'Safety Guide', url: '/safest-suburbs-melbourne/' },
+      ]
+    };
+  }
+  
+  function addMessage(text, isBot, links) {
+    const div = document.createElement('div');
+    div.className = 'chat-msg ' + (isBot ? 'bot' : 'user');
+    let html = '<p>' + text + '</p>';
+    if (links && links.length > 0) {
+      html += '<div class="chat-links">';
+      links.forEach(l => {
+        html += '<a href="' + l.url + '" class="chat-link">' + l.text + ' →</a>';
+      });
+      html += '</div>';
+    }
+    div.innerHTML = html;
+    messages.appendChild(div);
+    messages.scrollTop = messages.scrollHeight;
+  }
+  
+  function handleSend() {
+    const q = input.value.trim();
+    if (!q) return;
+    
+    addMessage(q, false);
+    input.value = '';
+    suggestions.style.display = 'none';
+    
+    // Typing indicator
+    const typing = document.createElement('div');
+    typing.className = 'chat-msg bot typing';
+    typing.innerHTML = '<p>...</p>';
+    messages.appendChild(typing);
+    
+    setTimeout(() => {
+      typing.remove();
+      const answer = findAnswer(q);
+      addMessage(answer.text, true, answer.links);
+    }, 600);
+  }
+  
+  sendBtn.addEventListener('click', handleSend);
+  input.addEventListener('keydown', (e) => { if (e.key === 'Enter') handleSend(); });
+  
+  // Suggestion buttons
+  suggestions.querySelectorAll('.suggestion-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+      input.value = this.dataset.q;
+      handleSend();
+    });
+  });
+})();
+</script>

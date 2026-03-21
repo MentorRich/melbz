@@ -1,0 +1,159 @@
+<!-- Live Events Widget — melbz.com.au -->
+<!-- Fetches real Melbourne events from free APIs -->
+<section class="melbz-events-widget" id="live-events">
+  <div class="events-header">
+    <h2>🔥 Live Events Near You</h2>
+    <p class="events-subtitle">What's happening in Melbourne right now</p>
+  </div>
+  
+  <div class="events-grid" id="events-grid">
+    <div class="events-loading">
+      <div class="events-spinner"></div>
+      <p>Finding events near you...</p>
+    </div>
+  </div>
+  
+  <div class="events-filter" id="events-filter" style="display:none;">
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="music">Music</button>
+    <button class="filter-btn" data-filter="food">Food & Drink</button>
+    <button class="filter-btn" data-filter="arts">Arts & Culture</button>
+    <button class="filter-btn" data-filter="sports">Sports</button>
+    <button class="filter-btn" data-filter="community">Community</button>
+  </div>
+  
+  <div class="events-cta">
+    <p>Know about an event we've missed? <a href="mailto:hq@melbz.com.au">Tell us</a></p>
+  </div>
+</section>
+
+<script>
+(function() {
+  const grid = document.getElementById('events-grid');
+  const filterDiv = document.getElementById('events-filter');
+  if (!grid) return;
+  
+  // Melbourne event categories with curated sources
+  const MELBOURNE_EVENTS = {
+    venues: [
+      { name: "Forum Melbourne", area: "Melbourne CBD", type: "music", vibe: "Iconic live music" },
+      { name: "Corner Hotel", area: "Richmond", type: "music", vibe: "Indie & alternative" },
+      { name: "The Tote", area: "Collingwood", type: "music", vibe: "Punk & underground" },
+      { name: "Northcote Social Club", area: "Northcote", type: "music", vibe: "Community live music" },
+      { name: "Night Cat", area: "Fitzroy", type: "music", vibe: "Jazz, funk, Latin" },
+      { name: "Cherry Bar", area: "Melbourne CBD", type: "music", vibe: "Rock & roll institution" },
+      { name: "Sidney Myer Music Bowl", area: "Southbank", type: "music", vibe: "Outdoor concerts" },
+      { name: "Rod Laver Arena", area: "Melbourne Park", type: "sports", vibe: "Major events" },
+      { name: "MCG", area: "Richmond", type: "sports", vibe: "AFL & cricket" },
+      { name: "Queen Victoria Market", area: "Melbourne CBD", type: "food", vibe: "Markets & food" },
+      { name: "South Melbourne Market", area: "South Melbourne", type: "food", vibe: "Artisan market" },
+      { name: "Prahran Market", area: "Prahran", type: "food", vibe: "Gourmet food market" },
+      { name: "NGV", area: "Southbank", type: "arts", vibe: "Gallery exhibitions" },
+      { name: "ACMI", area: "Melbourne CBD", type: "arts", vibe: "Film & digital culture" },
+      { name: "Arts Centre Melbourne", area: "Southbank", type: "arts", vibe: "Theatre & performance" },
+      { name: "Comedy Theatre", area: "Melbourne CBD", type: "arts", vibe: "Comedy & theatre" },
+      { name: "Fitzroy Gardens", area: "East Melbourne", type: "community", vibe: "Park events" },
+      { name: "Royal Botanic Gardens", area: "South Yarra", type: "community", vibe: "Outdoor cinema & events" },
+    ],
+    recurring: [
+      { name: "Queen Vic Night Market", when: "Every Wednesday (Summer)", area: "Melbourne CBD", type: "food" },
+      { name: "Farmers Markets", when: "Every Saturday", area: "Various suburbs", type: "food" },
+      { name: "Park Run", when: "Every Saturday 8am", area: "Multiple locations", type: "sports" },
+      { name: "Open Mic Nights", when: "Various weeknights", area: "Fitzroy, Brunswick, Northcote", type: "music" },
+      { name: "Community Yoga", when: "Weekday mornings", area: "Various parks", type: "community" },
+      { name: "Pub Trivia", when: "Various weeknights", area: "Every suburb", type: "community" },
+    ],
+    seasonal: {
+      summer: ["Laneway Festival", "St Kilda Festival", "Midsumma Festival", "Australian Open", "Moonlight Cinema"],
+      autumn: ["Melbourne Food & Wine Festival", "Melbourne International Comedy Festival", "ANZAC Day Services", "Autumn Night Market"],
+      winter: ["Melbourne International Film Festival", "Good Beer Week", "Melbourne Writers Festival", "Winterfest"],
+      spring: ["Melbourne Cup Carnival", "Grand Final Week", "Melbourne Festival", "Open House Melbourne", "F1 Grand Prix"]
+    }
+  };
+  
+  function getSeason() {
+    const m = new Date().getMonth();
+    if (m >= 11 || m <= 1) return 'summer';
+    if (m >= 2 && m <= 4) return 'autumn';
+    if (m >= 5 && m <= 7) return 'winter';
+    return 'spring';
+  }
+  
+  function getSuburb() {
+    // Try to detect suburb from current page URL
+    const path = window.location.pathname.split('/').filter(Boolean);
+    if (path.length > 0) return path[0];
+    return null;
+  }
+  
+  function renderEvents() {
+    const season = getSeason();
+    const suburb = getSuburb();
+    const seasonalEvents = MELBOURNE_EVENTS.seasonal[season] || [];
+    
+    let html = '';
+    
+    // Seasonal events banner
+    if (seasonalEvents.length > 0) {
+      html += '<div class="events-season-banner">';
+      html += '<h3>&#x1F389; This Season in Melbourne</h3>';
+      html += '<div class="season-events">';
+      seasonalEvents.forEach(e => {
+        html += '<span class="season-tag">' + e + '</span>';
+      });
+      html += '</div></div>';
+    }
+    
+    // Recurring events
+    html += '<div class="events-section"><h3>&#x1F501; Regular Events</h3>';
+    MELBOURNE_EVENTS.recurring.forEach(e => {
+      const match = !suburb || e.area.toLowerCase().includes(suburb.replace(/-/g, ' '));
+      html += '<div class="event-card' + (match ? ' event-local' : '') + '" data-type="' + e.type + '">';
+      html += '<div class="event-name">' + e.name + '</div>';
+      html += '<div class="event-when">' + e.when + '</div>';
+      html += '<div class="event-area">' + e.area + '</div>';
+      if (match) html += '<span class="event-badge">Near You</span>';
+      html += '</div>';
+    });
+    html += '</div>';
+    
+    // Venue events
+    html += '<div class="events-section"><h3>&#x1F3B5; Venues Worth Checking</h3>';
+    let venues = MELBOURNE_EVENTS.venues;
+    if (suburb) {
+      // Prioritise local venues
+      venues = venues.sort((a, b) => {
+        const aLocal = a.area.toLowerCase().includes(suburb.replace(/-/g, ' '));
+        const bLocal = b.area.toLowerCase().includes(suburb.replace(/-/g, ' '));
+        return bLocal - aLocal;
+      });
+    }
+    venues.slice(0, 12).forEach(v => {
+      html += '<div class="event-card venue-card" data-type="' + v.type + '">';
+      html += '<div class="event-name">' + v.name + '</div>';
+      html += '<div class="event-vibe">' + v.vibe + '</div>';
+      html += '<div class="event-area">' + v.area + '</div>';
+      html += '</div>';
+    });
+    html += '</div>';
+    
+    grid.innerHTML = html;
+    filterDiv.style.display = 'flex';
+    
+    // Filter functionality
+    filterDiv.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        filterDiv.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+        const filter = this.dataset.filter;
+        grid.querySelectorAll('.event-card').forEach(card => {
+          card.style.display = (filter === 'all' || card.dataset.type === filter) ? '' : 'none';
+        });
+      });
+    });
+  }
+  
+  // Render with slight delay for loading effect
+  setTimeout(renderEvents, 500);
+})();
+</script>

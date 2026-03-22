@@ -8,7 +8,7 @@
         {{ if .Params.cover_image }}
         <!-- Cover Image -->
         <div class="article-cover">
-            <img src="{{ .Params.cover_image }}" alt="{{ .Params.cover_alt | default .Title }}" width="1200" height="630" loading="eager">
+            <img src="{{ .Params.cover_image }}" alt="{{ with .Params.cover_image_alt }}{{ . }}{{ else }}{{ .Params.cover_alt | default .Title }}{{ end }}" width="1200" height="630" loading="eager">
         </div>
         {{ end }}
         

@@ -2,7 +2,7 @@
 <article class="article-card{{ if .Params.cover_image }} has-cover{{ end }}">
     {{ if .Params.cover_image }}
     <a href="{{ .RelPermalink }}" class="article-card-image">
-        <img src="{{ .Params.cover_image }}" alt="{{ .Params.cover_alt | default .Title }}" width="600" height="375" loading="lazy">
+        <img src="{{ .Params.cover_image }}" alt="{{ with .Params.cover_image_alt }}{{ . }}{{ else }}{{ $.Params.cover_alt | default $.Title }}{{ end }}" width="600" height="375" loading="lazy">
     </a>
     {{ end }}
     <div class="article-card-content">
@@ -24,12 +24,8 @@
         
         <div class="article-card-footer">
             <div class="article-card-author">
-                {{ if .Params.author_image }}
-                <img src="{{ .Params.author_image }}" alt="{{ .Params.author }}" class="article-card-author-avatar" width="24" height="24" loading="lazy">
-                {{ else }}
                 <span class="article-card-author-dot">{{ if .Params.author }}{{ substr .Params.author 0 1 | upper }}{{ else }}M{{ end }}</span>
-                {{ end }}
-                <span class="article-card-author-name">{{ .Params.author | default "MELBZ Editorial" }}</span>
+                <span class="article-card-author-name">{{ .Params.author | default "MELBZ" }}</span>
             </div>
             {{ if .Params.updated }}
             <span class="article-card-date">{{ dateFormat "2 Jan" .Params.updated }}</span>

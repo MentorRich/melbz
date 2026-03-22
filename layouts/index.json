@@ -1,0 +1,16 @@
+{{- $pages := where .Site.RegularPages "Type" "ne" "authors" -}}
+{{- $list := slice -}}
+{{- range first 500 $pages -}}
+  {{- $item := dict "title" .Title "url" .RelPermalink "date" (.Date.Format "2006-01-02") -}}
+  {{- with .Params.description -}}
+    {{- $item = merge $item (dict "description" .) -}}
+  {{- end -}}
+  {{- with .Params.suburb -}}
+    {{- $item = merge $item (dict "suburb" .) -}}
+  {{- end -}}
+  {{- with .Params.author -}}
+    {{- $item = merge $item (dict "author" .) -}}
+  {{- end -}}
+  {{- $list = $list | append $item -}}
+{{- end -}}
+{{- dict "articles" $list | jsonify -}}

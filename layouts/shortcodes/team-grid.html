@@ -3,7 +3,7 @@
         {{ $author := (index $.Site.Data.authors (replace .Name ".json" "")) }}
         <div class="team-card">
             <a href="/authors/{{ replace .Name ".json" "" }}/">
-                <img src="{{ $author.avatar }}" alt="{{ $author.name }}" class="team-avatar">
+                <img src="{{ $author.avatar }}" alt="{{ $author.name }}" class="team-avatar" loading="lazy">
                 <h3 class="team-name">{{ $author.name }}</h3>
                 <p class="team-role">{{ $author.role }}</p>
             </a>

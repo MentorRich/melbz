@@ -1,23 +1,17 @@
-{{ $authorSlug := .Params.author }}
-{{ $authorData := "" }}
-{{ if $authorSlug }}
-  {{ $authorData = (index .Site.Data.authors $authorSlug) }}
-{{ end }}
-
-{{ if $authorData }}
 <div class="author-byline">
+    {{ $author := .Params.author | default "MELBZ" }}
+    {{ $authorSlug := $author | urlize }}
+    {{ $authorPhoto := printf "/images/authors/%s.jpg" $authorSlug }}
     <div class="author-avatar">
         <a href="/authors/{{ $authorSlug }}/">
-            <img src="{{ $authorData.avatar }}" alt="{{ $authorData.name }}">
+            <span class="author-initial">{{ substr $author 0 1 }}</span>
         </a>
     </div>
-    <div class="author-meta">
-        <p class="author-name"><a href="/authors/{{ $authorSlug }}/">{{ $authorData.name }}</a></p>
-        <p class="author-role">{{ $authorData.role }} • {{ .Date.Format "Jan 2, 2006" }} • {{ .ReadingTime }} min read</p>
+    <div class="author-info">
+        <a href="/authors/{{ $authorSlug }}/" class="author-name">{{ $author }}</a>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+        {{ if .Params.updated }}
+        <span class="updated-badge">Updated {{ dateFormat "Jan 2006" .Params.updated }}</span>
+        {{ end }}
     </div>
 </div>
-{{ else }}
-<div class="author-byline">
-    <p>MELBZ Editorial Team • {{ .Date.Format "Jan 2, 2006" }}</p>
-</div>
-{{ end }}

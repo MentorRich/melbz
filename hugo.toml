@@ -6,11 +6,11 @@ theme = 'melbz'
 # Permalinks
 [permalinks]
   page = '/:section/:slug/'
-  
+
 # Taxonomies
 [taxonomies]
   suburb = 'suburbs'
-  vertical = 'verticals' 
+  vertical = 'verticals'
   author = 'authors'
   tag = 'tags'
 
@@ -26,24 +26,24 @@ theme = 'melbz'
 # Site-wide params
 [params]
   description = "Melbourne moves fast. Venues open, close, and get replaced by another dumpling house before you've finished your flat white. MELBZ tracks all of it — 321 suburbs, thousands of venues, updated daily by 50 locals who argue about this city for a living."
-  author = "MELBZ Editorial Team"
+  author = "MELBZ"
   tagline = "We Know Your Suburb Better Than You Do"
   social_image = "/images/melbz-og.jpg"
-  twitter = "@melbzau"
-  instagram = "@melbz101"
+  twitter = "https://x.com/melbzau"
+  instagram = "https://instagram.com/melbz101"
 
-# Main navigation menu
+# Main navigation menu — About removed (footer only)
 [menu]
-[[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "/about/"
-  weight = 1
-
 [[menu.main]]
   identifier = "vibe-score"
   name = "Vibe Scores"
   url = "/vibe-score/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "rankings"
+  name = "Rankings"
+  url = "/rankings/"
   weight = 5
 
 [[menu.main]]
@@ -98,6 +98,11 @@ theme = 'melbz'
   url = "/privacy/"
   weight = 30
 
+[[menu.footer]]
+  name = "Terms"
+  url = "/terms/"
+  weight = 40
+
 # Markup settings
 [markup]
   [markup.goldmark]
@@ -111,19 +116,17 @@ theme = 'melbz'
 # Output formats
 enableRobotsTXT = true
 
-[[menu.main]]
-  identifier = "rankings"
-  name = "Rankings"
-  url = "/rankings/"
-  weight = 3
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
-[[menu.main]]
-  identifier = "fuel"
-  name = "Fuel Watch"
-  url = "/fuel-prices-melbourne/"
-  weight = 4
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
 
-[[menu.footer]]
-  name = "Terms"
-  url = "/terms/"
-  weight = 40
+[outputFormats.JSON]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = true

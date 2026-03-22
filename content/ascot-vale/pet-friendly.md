@@ -22,54 +22,77 @@ cover_image: "/images/shared/parks-gardens.jpg"
 
 ## Being a Dog Owner in Ascot Vale
 
-Melbourne is a dog city, and Ascot Vale holds its own for four-legged residents. Whether you've got a cattle dog that needs actual exercise or a French Bulldog that considers a 10-minute waddle an expedition, this suburb has something for you.
+Melbourne is a dog city, and Ascot Vale — sitting 6km northwest of the CBD with the Maribyrnong River along its western edge — is one of the better suburbs in the inner northwest for dog owners. The river trails alone make it worth considering, and the combination of off-leash parks, wide residential streets, and a dog-welcoming cafe culture on Union Road rounds out the picture.
 
 ## Off-Leash Parks and Spaces
 
-Ascot Vale has dedicated off-leash areas where your dog can actually run. The local parks have designated off-leash zones (usually with time restrictions — check the signage).
+**Maribyrnong River parkland** — The riverside areas along the Maribyrnong have off-leash access during designated hours. The open grassed areas near the river give dogs genuine room to run, and the trail itself is popular for leashed walking. This is Ascot Vale's best dog asset.
+
+**Ascot Vale Reserve** has a designated off-leash area with reasonable space for dogs of all sizes. Morning and late afternoon are the busiest times. Check Moonee Valley Council signage for current time restrictions — typically before 9am and after 5pm.
+
+**Riverside Park** near the Maribyrnong River also has off-leash zones. The combination of open grass and proximity to the river trail makes it a popular spot for morning dog meet-ups.
+
+Smaller pocket parks throughout the residential streets off Union Road and Maribyrnong Road have off-leash access during restricted hours, though space is limited.
 
 **What to expect:**
-- Morning and afternoon are prime dog socialisation hours
-- You'll start recognising the regular dogs before you learn their owners' names
-- Some parks have better fencing than others — know your dog's recall before going fully off-leash
-- There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
+- Morning (before 9am) and late afternoon are peak dog socialisation times along the river
+- The Maribyrnong River trail has a dedicated dog-walking crowd that you will quickly become part of
+- Fencing varies between parks — the riverside areas are largely unfenced, so recall training matters
+- An informal morning dog community meets daily along the river trail
 
 ## Dog-Friendly [Cafes](/ascot-vale/best-cafes/)
 
-Multiple cafes in Ascot Vale welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
+Union Road cafes are welcoming to dogs in their outdoor seating areas. Water bowls are standard, and the general attitude is dog-positive. The cafes between Maribyrnong Road and Ascot Vale Road on Union Road have the best concentration of outdoor seating for dogs.
+
+Weekend brunch with your dog at a Union Road cafe is a standard Ascot Vale Saturday activity. You will see more dogs than you can count on a Sunday morning.
 
 **Tips:**
-- Outdoor seating areas are your best bet
-- Go during quieter periods if your dog is new to cafe culture
-- A well-behaved dog gets you faster service (staff love dogs)
-- Tie-up points exist at most main strip cafes
+- Outdoor seating on Union Road is the best option for larger dogs
+- Quieter weekday mornings are better if your dog is still learning cafe behaviour
+- Tie-up points exist at most Union Road cafes
+- Some of the cafes along the river end of the precinct are also dog-friendly
 
 ## Walking Routes
 
-The walking options around Ascot Vale suit dogs of all energy levels:
+Ascot Vale is arguably the best dog-walking suburb in the inner northwest, thanks to the river:
 
-- **Short neighbourhood loop** — 20-30 minutes through residential streets. Good for daily maintenance walks.
-- **Park circuit** — Follow the paths through the local park system. Flat, safe, and usually encounters other dogs for socialising.
-- **Extended walk** — Connect through to neighbouring suburbs via trails and footpaths. Good for weekend energy burns.
+- **Maribyrnong River trail** — The headline route. A flat, paved shared path running along the river. You can head south toward Footscray and the city, or north toward Essendon and the Moonee Ponds Creek junction. The trail runs for kilometres in either direction. Leashed walking on the trail, off-leash in designated riverside areas.
+- **Union Road to the river loop** — Walk from the Union Road cafes down to the Maribyrnong and loop back through the residential streets. About 30 to 40 minutes, flat, and includes a coffee stop option.
+- **Flemington Racecourse perimeter** — The roads around the racecourse (Epsom Road, Fisher Parade) provide a flat walking loop away from traffic. Useful for a change of scenery.
+- **Through to Moonee Ponds** — Head north along the creek trail to connect to the Moonee Ponds Creek Trail. A good weekend adventure walk of 3 to 5km each way.
 
 ## Vet Access
 
-Veterinary clinics are accessible from Ascot Vale, including emergency after-hours options within a reasonable drive. Having a vet you trust nearby is one of the underrated factors in choosing where to live with pets.
+Multiple veterinary clinics operate in Ascot Vale and neighbouring Moonee Ponds and Flemington. Emergency after-hours services are available within a 10 to 15 minute drive. The inner northwest is well-serviced for pet healthcare.
 
 ## What Dog Owners Love About Ascot Vale
 
-- Genuine dog community — daily park friends
-- Cafe culture that includes dogs
-- Good walking paths without needing to drive somewhere
-- Enough green space for daily exercise
-- Friendly neighbours who don't mind dogs
+- The Maribyrnong River trail is genuinely excellent for dog walking
+- Off-leash riverside areas give dogs space to run
+- Union Road cafe culture that includes dogs as standard
+- Flat, wide streets for daily neighbourhood walks
+- Active dog community along the river — you make friends quickly
 
 ## What Could Be Better
 
-- Off-leash areas could be bigger in some parks
-- Peak times get crowded with dogs — early morning is quieter
-- Some rental properties have strict pet policies
-- Not every cafe is equally dog-friendly — learn which ones are genuine about it
+- Off-leash areas at the pocket parks are small
+- The riverside gets crowded on Saturday mornings
+- Some rental properties have strict pet policies — check before signing
+- The Maribyrnong River trail is shared with cyclists, which requires awareness
+
+## FAQ
+
+**Is Ascot Vale a good suburb for dogs?**
+Yes, particularly because of the Maribyrnong River trail. The combination of riverside off-leash areas, walking trails, and dog-friendly cafes on Union Road makes it one of the better inner-northwest suburbs for dog owners.
+
+**Where are the off-leash dog parks in Ascot Vale?**
+The Maribyrnong River parkland, Ascot Vale Reserve, and Riverside Park all have off-leash zones. Time restrictions apply — check Moonee Valley Council signage for current rules.
+
+**Which cafes in Ascot Vale allow dogs?**
+Most cafes on Union Road allow dogs in their outdoor seating areas. Water bowls are standard. Weekend brunch is peak dog-cafe time.
+
+**What is the best walking route for dogs in Ascot Vale?**
+The Maribyrnong River trail is the best option — flat, scenic, and runs for kilometres in either direction. For daily exercise, the Union Road to river loop provides a 30 to 40 minute walk with a cafe stop.
 
 ---
 

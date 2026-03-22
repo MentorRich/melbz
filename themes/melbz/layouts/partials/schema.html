@@ -25,20 +25,28 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "{{ .Title }}",
-  "description": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}",
+  "description": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}",
+  {{ if .Params.cover_image }}
+  "image": "{{ .Params.cover_image | absURL }}",
+  {{ end }}
   "author": {
     "@type": "Person",
-    "name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}MELBZ Editorial Team{{ end }}"
+    "name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}MELBZ{{ end }}"
+    {{ if .Params.author }}
+    ,"url": "{{ .Site.BaseURL }}authors/{{ .Params.author | urlize }}/"
+    {{ end }}
   },
   "publisher": {
     "@type": "Organization",
     "name": "MELBZ",
-    "url": "{{ .Site.BaseURL }}"
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/melbz-og.jpg"
+    }
   },
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-  {{ if .Params.updated }}
-  "dateModified": "{{ .Params.updated }}",
-  {{ end }}
+  "dateModified": "{{ if .Lastmod }}{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}{{ else }}{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}{{ end }}",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "{{ .Permalink }}"

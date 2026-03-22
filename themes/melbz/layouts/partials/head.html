@@ -58,35 +58,6 @@
 <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
 {{ end }}
 
-<!-- Schema.org Structured Data -->
-{{ if .IsPage }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "{{ .Title }}",
-  "description": "{{ .Description }}",
-  "url": "{{ .Permalink }}",
-  "datePublished": "{{ if .Params.updated }}{{ dateFormat "2006-01-02" .Params.updated }}{{ else }}{{ .Date.Format "2006-01-02" }}{{ end }}",
-  "dateModified": "{{ if .Params.updated }}{{ dateFormat "2006-01-02" .Params.updated }}{{ else }}{{ .Date.Format "2006-01-02" }}{{ end }}",
-  {{ if .Params.cover_image }}"image": "{{ .Params.cover_image | absURL }}",{{ end }}
-  "author": {
-    "@type": "Person",
-    "name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}MELBZ Editorial{{ end }}"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "MELBZ",
-    "url": "https://melbz.com.au",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://melbz.com.au/images/melbz-logo.png"
-    }
-  }
-}
-</script>
-{{ end }}
-
 <!-- BreadcrumbList Schema -->
 {{ if not .IsHome }}
 <script type="application/ld+json">

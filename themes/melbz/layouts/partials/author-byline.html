@@ -1,19 +1,17 @@
-{{/* Author byline partial */}}
 <div class="author-byline">
+    {{ $author := .Params.author | default "MELBZ" }}
+    {{ $authorSlug := $author | urlize }}
+    {{ $authorPhoto := printf "/images/authors/%s.jpg" $authorSlug }}
     <div class="author-avatar">
-        {{ if .Params.author_image }}
-            <img src="{{ .Params.author_image }}" alt="{{ .Params.author }}" width="40" height="40" loading="lazy">
-        {{ else }}
-            <span class="author-avatar-letter">{{ if .Params.author }}{{ substr .Params.author 0 1 | upper }}{{ else }}M{{ end }}</span>
-        {{ end }}
+        <a href="/authors/{{ $authorSlug }}/">
+            <span class="author-initial">{{ substr $author 0 1 }}</span>
+        </a>
     </div>
     <div class="author-info">
-        <div class="author-name">
-            {{ if .Params.author }}{{ .Params.author }}{{ else }}MELBZ Editorial{{ end }}
-        </div>
-        <div class="author-meta text-muted">
-            {{ if .Params.updated }}{{ dateFormat "2 Jan 2006" .Params.updated }}{{ else if .Date }}{{ .Date.Format "2 Jan 2006" }}{{ end }}
-            {{ if .ReadingTime }} · {{ .ReadingTime }} min read{{ end }}
-        </div>
+        <a href="/authors/{{ $authorSlug }}/" class="author-name">{{ $author }}</a>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+        {{ if .Params.updated }}
+        <span class="updated-badge">Updated {{ dateFormat "Jan 2006" .Params.updated }}</span>
+        {{ end }}
     </div>
 </div>

@@ -29,7 +29,7 @@
                 {{ else }}
                 <span class="article-card-author-dot">{{ if .Params.author }}{{ substr .Params.author 0 1 | upper }}{{ else }}M{{ end }}</span>
                 {{ end }}
-                <span class="article-card-author-name">{{ .Params.author | default "MELBZ Editorial" }}</span>
+                <span class="article-card-author-name">{{ .Params.author | default "MELBZ" }}</span>
             </div>
             {{ if .Params.updated }}
             <span class="article-card-date">{{ dateFormat "2 Jan" .Params.updated }}</span>

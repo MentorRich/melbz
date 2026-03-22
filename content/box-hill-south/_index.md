@@ -10,7 +10,7 @@ keywords:
   - "what is Box Hill South like"
   - "box-hill-south suburb"
   - "living in Box Hill South"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/box-hill-south/hero.jpg"
 ---
 
 Quiet pocket south of Box Hill with access to Gardiners Creek trail.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Box Hill South? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Box Hill South Melbourne — what you need**
+
+- [Find suburbs like Box Hill South Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Box Hill South Melbourne — what you need →](/tools/coffee-price-tracker/#box-hill-south)
+- [What Melbourne thinks about Box Hill South Melbourne — what you need →](/tools/suburb-takedown/?suburb=box-hill-south)
+- [Compare Box Hill South Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=box-hill-south)

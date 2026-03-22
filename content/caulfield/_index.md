@@ -10,7 +10,7 @@ keywords:
   - "what is Caulfield like"
   - "caulfield suburb"
   - "living in Caulfield"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/caulfield/hero.jpg"
 ---
 
 Caulfield Racecourse, Monash Uni campus, and a diverse community hub on the Frankston line.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Caulfield? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Caulfield Melbourne — what you need**
+
+- [Find suburbs like Caulfield Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Caulfield Melbourne — what you need →](/tools/coffee-price-tracker/#caulfield)
+- [What Melbourne thinks about Caulfield Melbourne — what you need →](/tools/suburb-takedown/?suburb=caulfield)
+- [Compare Caulfield Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=caulfield)

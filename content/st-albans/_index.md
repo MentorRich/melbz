@@ -10,7 +10,7 @@ keywords:
   - "what is St Albans like"
   - "st-albans suburb"
   - "living in St Albans"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/st-albans/hero.jpg"
 ---
 
 Vietnamese food strip, Pacific Werribee access, and a multicultural hub with improving transport.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about St Albans? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for St Albans Melbourne — what you need**
+
+- [Find suburbs like St Albans Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in St Albans Melbourne — what you need →](/tools/coffee-price-tracker/#st-albans)
+- [What Melbourne thinks about St Albans Melbourne — what you need →](/tools/suburb-takedown/?suburb=st-albans)
+- [Compare St Albans Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=st-albans)

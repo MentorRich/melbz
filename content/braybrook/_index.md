@@ -10,7 +10,7 @@ keywords:
   - "what is Braybrook like"
   - "braybrook suburb"
   - "living in Braybrook"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/braybrook/hero.jpg"
 ---
 
 Diverse community with South Road shops, improving infrastructure, and affordable housing.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Braybrook? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Braybrook Melbourne — what you need**
+
+- [Find suburbs like Braybrook Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Braybrook Melbourne — what you need →](/tools/coffee-price-tracker/#braybrook)
+- [What Melbourne thinks about Braybrook Melbourne — what you need →](/tools/suburb-takedown/?suburb=braybrook)
+- [Compare Braybrook Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=braybrook)

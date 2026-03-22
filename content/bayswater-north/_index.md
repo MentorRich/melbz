@@ -10,7 +10,7 @@ keywords:
   - "what is Bayswater North like"
   - "bayswater-north suburb"
   - "living in Bayswater North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/bayswater-north/hero.jpg"
 ---
 
 Quiet family area between Bayswater and Croydon with creek trails and space.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Bayswater North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Bayswater North Melbourne — what you need**
+
+- [Find suburbs like Bayswater North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Bayswater North Melbourne — what you need →](/tools/coffee-price-tracker/#bayswater-north)
+- [What Melbourne thinks about Bayswater North Melbourne — what you need →](/tools/suburb-takedown/?suburb=bayswater-north)
+- [Compare Bayswater North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=bayswater-north)

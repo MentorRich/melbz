@@ -10,7 +10,7 @@ keywords:
   - "what is Forest Hill like"
   - "forest-hill suburb"
   - "living in Forest Hill"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/forest-hill/hero.jpg"
 ---
 
 Forest Hill Chase, family estates, and good schools in the outer east.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Forest Hill? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Forest Hill Melbourne — what you need**
+
+- [Find suburbs like Forest Hill Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Forest Hill Melbourne — what you need →](/tools/coffee-price-tracker/#forest-hill)
+- [What Melbourne thinks about Forest Hill Melbourne — what you need →](/tools/suburb-takedown/?suburb=forest-hill)
+- [Compare Forest Hill Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=forest-hill)

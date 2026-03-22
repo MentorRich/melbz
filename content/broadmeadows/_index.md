@@ -10,7 +10,7 @@ keywords:
   - "what is Broadmeadows like"
   - "broadmeadows suburb"
   - "living in Broadmeadows"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/broadmeadows/hero.jpg"
 ---
 
 Northern regional centre with major investment, train access, and one of Melbourne's most diverse communities.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Broadmeadows? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Broadmeadows Melbourne — what you need**
+
+- [Find suburbs like Broadmeadows Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Broadmeadows Melbourne — what you need →](/tools/coffee-price-tracker/#broadmeadows)
+- [What Melbourne thinks about Broadmeadows Melbourne — what you need →](/tools/suburb-takedown/?suburb=broadmeadows)
+- [Compare Broadmeadows Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=broadmeadows)

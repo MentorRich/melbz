@@ -10,7 +10,7 @@ keywords:
   - "what is Garden City like"
   - "garden-city suburb"
   - "living in Garden City"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/garden-city/hero.jpg"
 ---
 
 Tiny pocket between Port Melbourne and the Westgate, primarily industrial transitioning.
@@ -93,3 +93,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Garden City? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Garden City Melbourne — what you need**
+
+- [Find suburbs like Garden City Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Garden City Melbourne — what you need →](/tools/coffee-price-tracker/#garden-city)
+- [What Melbourne thinks about Garden City Melbourne — what you need →](/tools/suburb-takedown/?suburb=garden-city)
+- [Compare Garden City Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=garden-city)

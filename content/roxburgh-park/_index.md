@@ -10,7 +10,7 @@ keywords:
   - "what is Roxburgh Park like"
   - "roxburgh-park suburb"
   - "living in Roxburgh Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/roxburgh-park/hero.jpg"
 ---
 
 New estates, shopping centre, and affordable family homes in the northern corridor.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Roxburgh Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Roxburgh Park Melbourne — what you need**
+
+- [Find suburbs like Roxburgh Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Roxburgh Park Melbourne — what you need →](/tools/coffee-price-tracker/#roxburgh-park)
+- [What Melbourne thinks about Roxburgh Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=roxburgh-park)
+- [Compare Roxburgh Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=roxburgh-park)

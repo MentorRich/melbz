@@ -10,7 +10,7 @@ keywords:
   - "what is Fairfield like"
   - "fairfield suburb"
   - "living in Fairfield"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/fairfield/hero.jpg"
 ---
 
 Fairfield Village charm, Yarra River trails, and one of Melbourne's most underrated family pockets.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Fairfield? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Fairfield Melbourne — what you need**
+
+- [Find suburbs like Fairfield Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Fairfield Melbourne — what you need →](/tools/coffee-price-tracker/#fairfield)
+- [What Melbourne thinks about Fairfield Melbourne — what you need →](/tools/suburb-takedown/?suburb=fairfield)
+- [Compare Fairfield Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=fairfield)

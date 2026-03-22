@@ -10,7 +10,7 @@ keywords:
   - "what is Princes Hill like"
   - "princes-hill suburb"
   - "living in Princes Hill"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/princes-hill/hero.jpg"
 ---
 
 A tiny, leafy pocket between Carlton North and Brunswick East. Princes Park on the doorstep.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Princes Hill? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Princes Hill Melbourne — what you need**
+
+- [Find suburbs like Princes Hill Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Princes Hill Melbourne — what you need →](/tools/coffee-price-tracker/#princes-hill)
+- [What Melbourne thinks about Princes Hill Melbourne — what you need →](/tools/suburb-takedown/?suburb=princes-hill)
+- [Compare Princes Hill Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=princes-hill)

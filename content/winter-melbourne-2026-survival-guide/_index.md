@@ -9,7 +9,7 @@ keywords:
   - "surviving winter melbourne"
   - "warm bars melbourne"
   - "indoor activities melbourne winter"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/winter-melbourne-2026-survival-guide/hero.jpg"
 ---
 
 Melbourne winters are cold and grey. Which suburbs make it bearable? Warm bars, indoor activities, and suburbs with soul.
@@ -36,3 +36,12 @@ Melbourne winters are cold and grey. Which suburbs make it bearable? Warm bars, 
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Surviving Melbourne Winter — The Suburb Guide**
+
+- [Find suburbs like Surviving Melbourne Winter — The Suburb Guide →](/tools/suburb-match/)
+- [Coffee prices in Surviving Melbourne Winter — The Suburb Guide →](/tools/coffee-price-tracker/#winter-melbourne-2026-survival-guide)
+- [What Melbourne thinks about Surviving Melbourne Winter — The Suburb Guide →](/tools/suburb-takedown/?suburb=winter-melbourne-2026-survival-guide)
+- [Compare Surviving Melbourne Winter — The Suburb Guide with other suburbs →](/tools/compare-suburbs/?suburbs=winter-melbourne-2026-survival-guide)

@@ -10,7 +10,7 @@ keywords:
   - "what is Blackburn like"
   - "blackburn suburb"
   - "living in Blackburn"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/blackburn/hero.jpg"
 ---
 
 Blackburn Lake Sanctuary, village shops, and established family living on the Belgrave line.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Blackburn? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Blackburn Melbourne — what you need**
+
+- [Find suburbs like Blackburn Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Blackburn Melbourne — what you need →](/tools/coffee-price-tracker/#blackburn)
+- [What Melbourne thinks about Blackburn Melbourne — what you need →](/tools/suburb-takedown/?suburb=blackburn)
+- [Compare Blackburn Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=blackburn)

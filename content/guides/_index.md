@@ -4,7 +4,7 @@ description: "Comprehensive Melbourne suburb guides covering livability rankings
 date: 2026-03-22
 lastmod: 2026-03-22
 author: "Jack Moreno"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/guides/hero.jpg"
 cover_image_alt: "Aerial view of Melbourne's inner suburbs stretching toward the CBD skyline"
 tags: ["guides", "melbourne", "suburbs", "relocation"]
 ---

@@ -10,7 +10,7 @@ keywords:
   - "what is Seddon like"
   - "seddon suburb"
   - "living in Seddon"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/seddon/hero.jpg"
 ---
 
 Charles Street village, craft beer, and the inner west pocket where young families are buying.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Seddon? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Seddon Melbourne — what you need**
+
+- [Find suburbs like Seddon Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Seddon Melbourne — what you need →](/tools/coffee-price-tracker/#seddon)
+- [What Melbourne thinks about Seddon Melbourne — what you need →](/tools/suburb-takedown/?suburb=seddon)
+- [Compare Seddon Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=seddon)

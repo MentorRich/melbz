@@ -61,3 +61,20 @@ Brunswick East is as safe as most inner Melbourne suburbs. The community feel, a
 - [Carlton Suburb Guide](/carlton/)
 - [Collingwood Suburb Guide](/collingwood/)
 - [Northcote Suburb Guide](/northcote/)
+
+
+## Walking at Night
+
+The safety picture in Brunswick East changes depending on the specific streets you are on. Main roads with active shops and restaurants feel secure well into the evening. Residential side streets are quieter but generally well-lit. Parks and green spaces are best avoided after dark unless they are along a well-trafficked path.
+
+Street lighting coverage has improved in recent years, though some older residential streets still have gaps. If you are walking home from public transport, sticking to main roads adds a few minutes but keeps you in busier, better-lit areas.
+
+## Emergency Services
+
+Brunswick East has reasonable access to emergency services. Police response times in the inner and middle suburbs of Melbourne are generally within 15 minutes for non-urgent calls. The nearest police station and hospital locations are worth knowing before you need them. Triple zero (000) remains the fastest way to get help in an emergency.
+
+## What Residents Say
+
+Long-term Brunswick East residents describe the suburb as generally safe with the usual urban awareness required. The consensus: use common sense, stay alert in quieter areas at night, and you will be fine. The suburb's community feel contributes to a sense of security that statistics alone do not capture.
+
+For the full suburb overview, see our [Brunswick East guide](/brunswick-east/).

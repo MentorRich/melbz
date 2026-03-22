@@ -10,7 +10,7 @@ keywords:
   - "what is Eaglemont like"
   - "eaglemont suburb"
   - "living in Eaglemont"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/eaglemont/hero.jpg"
 ---
 
 Historic Boyd home, architect-designed houses on hillsides, and a tiny community with big heritage.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Eaglemont? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Eaglemont Melbourne — what you need**
+
+- [Find suburbs like Eaglemont Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Eaglemont Melbourne — what you need →](/tools/coffee-price-tracker/#eaglemont)
+- [What Melbourne thinks about Eaglemont Melbourne — what you need →](/tools/suburb-takedown/?suburb=eaglemont)
+- [Compare Eaglemont Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=eaglemont)

@@ -9,7 +9,7 @@ keywords:
   - "relocating to melbourne guide"
   - "new to melbourne"
   - "melbourne relocation tips"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/moving-to-melbourne-2026-guide/hero.jpg"
 ---
 
 what you need about moving to Melbourne. Suburbs, costs, transport, jobs, and the stuff nobody tells you.
@@ -33,3 +33,12 @@ New to Melbourne? These suburbs give you a proper Melbourne experience and a goo
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Moving to Melbourne in 2026 — The Complete Guide**
+
+- [Find suburbs like Moving to Melbourne in 2026 — The Complete Guide →](/tools/suburb-match/)
+- [Coffee prices in Moving to Melbourne in 2026 — The Complete Guide →](/tools/coffee-price-tracker/#moving-to-melbourne-2026-guide)
+- [What Melbourne thinks about Moving to Melbourne in 2026 — The Complete Guide →](/tools/suburb-takedown/?suburb=moving-to-melbourne-2026-guide)
+- [Compare Moving to Melbourne in 2026 — The Complete Guide with other suburbs →](/tools/compare-suburbs/?suburbs=moving-to-melbourne-2026-guide)

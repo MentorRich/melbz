@@ -70,3 +70,12 @@ Windsor station on the Sandringham line gets you to Flinders Street in about 12 
 ---
 
 *Got something to add about Windsor? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Windsor**
+
+- [Find suburbs like Windsor →](/tools/suburb-match/)
+- [Coffee prices in Windsor →](/tools/coffee-price-tracker/#windsor)
+- [What Melbourne thinks about Windsor →](/tools/suburb-takedown/?suburb=windsor)
+- [Compare Windsor with other suburbs →](/tools/compare-suburbs/?suburbs=windsor)

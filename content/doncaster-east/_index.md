@@ -10,7 +10,7 @@ keywords:
   - "what is Doncaster East like"
   - "doncaster-east suburb"
   - "living in Doncaster East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/doncaster-east/hero.jpg"
 ---
 
 The Pines Shopping Centre, family parks, and a more suburban extension of Doncaster.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Doncaster East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Doncaster East Melbourne — what you need**
+
+- [Find suburbs like Doncaster East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Doncaster East Melbourne — what you need →](/tools/coffee-price-tracker/#doncaster-east)
+- [What Melbourne thinks about Doncaster East Melbourne — what you need →](/tools/suburb-takedown/?suburb=doncaster-east)
+- [Compare Doncaster East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=doncaster-east)

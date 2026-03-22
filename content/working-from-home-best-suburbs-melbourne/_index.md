@@ -9,7 +9,7 @@ keywords:
   - "best suburbs remote work melbourne"
   - "coworking suburbs melbourne"
   - "nbn suburbs melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/working-from-home-best-suburbs-melbourne/hero.jpg"
 ---
 
 If you work remotely, your suburb IS your office. Which ones have the best cafes, coworking, and internet?
@@ -29,3 +29,12 @@ If you work remotely, your suburb IS your office. Which ones have the best cafes
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Best Melbourne Suburbs for Working From Home**
+
+- [Find suburbs like Best Melbourne Suburbs for Working From Home →](/tools/suburb-match/)
+- [Coffee prices in Best Melbourne Suburbs for Working From Home →](/tools/coffee-price-tracker/#working-from-home-best-suburbs-melbourne)
+- [What Melbourne thinks about Best Melbourne Suburbs for Working From Home →](/tools/suburb-takedown/?suburb=working-from-home-best-suburbs-melbourne)
+- [Compare Best Melbourne Suburbs for Working From Home with other suburbs →](/tools/compare-suburbs/?suburbs=working-from-home-best-suburbs-melbourne)

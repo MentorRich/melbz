@@ -10,7 +10,7 @@ keywords:
   - "what is Mill Park like"
   - "mill-park suburb"
   - "living in Mill Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mill-park/hero.jpg"
 ---
 
 Plenty Valley's family hub. Westfield Plenty Valley, newer estates, and good PT.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Mill Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Mill Park Melbourne — what you need**
+
+- [Find suburbs like Mill Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Mill Park Melbourne — what you need →](/tools/coffee-price-tracker/#mill-park)
+- [What Melbourne thinks about Mill Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=mill-park)
+- [Compare Mill Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mill-park)

@@ -10,7 +10,7 @@ keywords:
   - "what is Hurstbridge like"
   - "hurstbridge suburb"
   - "living in Hurstbridge"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/hurstbridge/hero.jpg"
 ---
 
 End of the Hurstbridge line. Rural village with winery access and complete tree change.
@@ -93,3 +93,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Hurstbridge? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Hurstbridge Melbourne — what you need**
+
+- [Find suburbs like Hurstbridge Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Hurstbridge Melbourne — what you need →](/tools/coffee-price-tracker/#hurstbridge)
+- [What Melbourne thinks about Hurstbridge Melbourne — what you need →](/tools/suburb-takedown/?suburb=hurstbridge)
+- [Compare Hurstbridge Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=hurstbridge)

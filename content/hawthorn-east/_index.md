@@ -10,7 +10,7 @@ keywords:
   - "what is Hawthorn East like"
   - "hawthorn-east suburb"
   - "living in Hawthorn East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/hawthorn-east/hero.jpg"
 ---
 
 Quieter extension of Hawthorn with Auburn Village shops and easy access to Camberwell Junction.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Hawthorn East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Hawthorn East Melbourne — what you need**
+
+- [Find suburbs like Hawthorn East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Hawthorn East Melbourne — what you need →](/tools/coffee-price-tracker/#hawthorn-east)
+- [What Melbourne thinks about Hawthorn East Melbourne — what you need →](/tools/suburb-takedown/?suburb=hawthorn-east)
+- [Compare Hawthorn East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=hawthorn-east)

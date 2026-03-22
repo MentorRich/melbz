@@ -10,7 +10,7 @@ keywords:
   - "what is Upper Ferntree Gully like"
   - "upper-ferntree-gully suburb"
   - "living in Upper Ferntree Gully"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/upper-ferntree-gully/hero.jpg"
 ---
 
 Gateway to the Dandenong Ranges. 1000 Steps, bushwalking, and hills living.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Upper Ferntree Gully? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Upper Ferntree Gully Melbourne — what you need**
+
+- [Find suburbs like Upper Ferntree Gully Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Upper Ferntree Gully Melbourne — what you need →](/tools/coffee-price-tracker/#upper-ferntree-gully)
+- [What Melbourne thinks about Upper Ferntree Gully Melbourne — what you need →](/tools/suburb-takedown/?suburb=upper-ferntree-gully)
+- [Compare Upper Ferntree Gully Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=upper-ferntree-gully)

@@ -10,7 +10,7 @@ keywords:
   - "what is Sunshine North like"
   - "sunshine-north suburb"
   - "living in Sunshine North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/sunshine-north/hero.jpg"
 ---
 
 Affordable northern extension of Sunshine with quiet family streets.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Sunshine North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Sunshine North Melbourne — what you need**
+
+- [Find suburbs like Sunshine North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Sunshine North Melbourne — what you need →](/tools/coffee-price-tracker/#sunshine-north)
+- [What Melbourne thinks about Sunshine North Melbourne — what you need →](/tools/suburb-takedown/?suburb=sunshine-north)
+- [Compare Sunshine North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=sunshine-north)

@@ -10,7 +10,7 @@ keywords:
   - "what is Officer like"
   - "officer suburb"
   - "living in Officer"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/officer/hero.jpg"
 ---
 
 Melbourne's fastest-growing suburb. New estates, new schools, and a brand new town centre.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Officer? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Officer Melbourne — what you need**
+
+- [Find suburbs like Officer Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Officer Melbourne — what you need →](/tools/coffee-price-tracker/#officer)
+- [What Melbourne thinks about Officer Melbourne — what you need →](/tools/suburb-takedown/?suburb=officer)
+- [Compare Officer Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=officer)

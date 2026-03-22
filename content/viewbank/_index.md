@@ -10,7 +10,7 @@ keywords:
   - "what is Viewbank like"
   - "viewbank suburb"
   - "living in Viewbank"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/viewbank/hero.jpg"
 ---
 
 River Red Gum bushland, quiet cul-de-sacs, and one of the north-east's best-kept family pockets.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Viewbank? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Viewbank Melbourne — what you need**
+
+- [Find suburbs like Viewbank Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Viewbank Melbourne — what you need →](/tools/coffee-price-tracker/#viewbank)
+- [What Melbourne thinks about Viewbank Melbourne — what you need →](/tools/suburb-takedown/?suburb=viewbank)
+- [Compare Viewbank Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=viewbank)

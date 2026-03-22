@@ -9,7 +9,7 @@ keywords:
   - "footy pubs melbourne"
   - "best suburbs footy melbourne"
   - "richmond tigers pub"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-footy-season-suburb-guide/hero.jpg"
 ---
 
 Footy season is a different Melbourne. Which suburbs have the best pub culture, proximity to grounds, and matchday atmosphere?
@@ -36,3 +36,12 @@ Footy season is a different Melbourne. Which suburbs have the best pub culture, 
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Melbourne Footy Season Suburb Guide**
+
+- [Find suburbs like Melbourne Footy Season Suburb Guide →](/tools/suburb-match/)
+- [Coffee prices in Melbourne Footy Season Suburb Guide →](/tools/coffee-price-tracker/#melbourne-footy-season-suburb-guide)
+- [What Melbourne thinks about Melbourne Footy Season Suburb Guide →](/tools/suburb-takedown/?suburb=melbourne-footy-season-suburb-guide)
+- [Compare Melbourne Footy Season Suburb Guide with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-footy-season-suburb-guide)

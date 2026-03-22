@@ -10,7 +10,7 @@ keywords:
   - "what is Albion like"
   - "albion suburb"
   - "living in Albion"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/albion/hero.jpg"
 ---
 
 Small suburb between Sunshine and St Albans with its own station and affordable housing.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Albion? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Albion Melbourne — what you need**
+
+- [Find suburbs like Albion Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Albion Melbourne — what you need →](/tools/coffee-price-tracker/#albion)
+- [What Melbourne thinks about Albion Melbourne — what you need →](/tools/suburb-takedown/?suburb=albion)
+- [Compare Albion Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=albion)

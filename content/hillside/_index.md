@@ -10,7 +10,7 @@ keywords:
   - "what is Hillside like"
   - "hillside suburb"
   - "living in Hillside"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/hillside/hero.jpg"
 ---
 
 Hilly terrain, family estates, and a growing community near Watergardens.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Hillside? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Hillside Melbourne — what you need**
+
+- [Find suburbs like Hillside Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Hillside Melbourne — what you need →](/tools/coffee-price-tracker/#hillside)
+- [What Melbourne thinks about Hillside Melbourne — what you need →](/tools/suburb-takedown/?suburb=hillside)
+- [Compare Hillside Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=hillside)

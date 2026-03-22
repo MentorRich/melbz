@@ -10,7 +10,7 @@ keywords:
   - "what is Heathmont like"
   - "heathmont suburb"
   - "living in Heathmont"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/heathmont/hero.jpg"
 ---
 
 Heathmont village, tree-lined streets, and a family suburb with semi-rural edges.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Heathmont? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Heathmont Melbourne — what you need**
+
+- [Find suburbs like Heathmont Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Heathmont Melbourne — what you need →](/tools/coffee-price-tracker/#heathmont)
+- [What Melbourne thinks about Heathmont Melbourne — what you need →](/tools/suburb-takedown/?suburb=heathmont)
+- [Compare Heathmont Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=heathmont)

@@ -68,3 +68,14 @@ Elwood works for young professionals who prioritise lifestyle balance over a buz
 ---
 
 *Living the young professional life in Elwood? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+
+## What Locals Know
+
+Living in Elwood means understanding the rhythms that listings and guides do not capture. The best spots are not always the most visible ones — locals develop their own routines, their own preferred cafes and walking routes, based on years of trial and error.
+
+## The Honest Take
+
+Elwood has genuine strengths and real limitations. No suburb is perfect. What matters is whether the strengths align with what you value — whether that is walkability, community feel, food options, or commute times. The best way to know is to spend time here before committing.
+
+For the full picture, see our [Elwood guide](/elwood/).

@@ -10,7 +10,7 @@ keywords:
   - "what is Sandringham like"
   - "sandringham suburb"
   - "living in Sandringham"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/sandringham/hero.jpg"
 ---
 
 End of the Sandringham line, beautiful beach, and a tight village community.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Sandringham? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Sandringham Melbourne — what you need**
+
+- [Find suburbs like Sandringham Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Sandringham Melbourne — what you need →](/tools/coffee-price-tracker/#sandringham)
+- [What Melbourne thinks about Sandringham Melbourne — what you need →](/tools/suburb-takedown/?suburb=sandringham)
+- [Compare Sandringham Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=sandringham)

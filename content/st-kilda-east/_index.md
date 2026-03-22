@@ -38,3 +38,12 @@ St Kilda East works well for families who want inner-city access without inner-c
 ## Keep exploring
 
 St Kilda East connects naturally to its neighbours. Walk west across Chapel Street into [Windsor](/windsor/) for its bar and dining strip. South along Hotham Street takes you into [St Kilda](/st-kilda/) and the Acland Street foreshore. East is [Caulfield North](/caulfield-north/) with its larger houses and Caulfield Park. North across Inkerman Road puts you in [Balaclava](/balaclava/) and the Carlisle Street food scene that many St Kilda East residents consider their local strip.
+
+---
+
+**MELBZ Tools for St Kilda East**
+
+- [Find suburbs like St Kilda East →](/tools/suburb-match/)
+- [Coffee prices in St Kilda East →](/tools/coffee-price-tracker/#st-kilda-east)
+- [What Melbourne thinks about St Kilda East →](/tools/suburb-takedown/?suburb=st-kilda-east)
+- [Compare St Kilda East with other suburbs →](/tools/compare-suburbs/?suburbs=st-kilda-east)

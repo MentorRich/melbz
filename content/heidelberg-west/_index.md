@@ -10,7 +10,7 @@ keywords:
   - "what is Heidelberg West like"
   - "heidelberg-west suburb"
   - "living in Heidelberg West"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/heidelberg-west/hero.jpg"
 ---
 
 Olympic Village history, changing demographics, and improving amenities on a budget.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Heidelberg West? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Heidelberg West Melbourne — what you need**
+
+- [Find suburbs like Heidelberg West Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Heidelberg West Melbourne — what you need →](/tools/coffee-price-tracker/#heidelberg-west)
+- [What Melbourne thinks about Heidelberg West Melbourne — what you need →](/tools/suburb-takedown/?suburb=heidelberg-west)
+- [Compare Heidelberg West Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=heidelberg-west)

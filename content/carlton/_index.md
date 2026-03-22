@@ -43,3 +43,12 @@ Yes, particularly around the Carlton Gardens area. The gardens themselves are a 
 ## Keep Exploring
 
 Carlton's creative neighbour, [Fitzroy](/fitzroy/), is just a 15-minute walk east. There you'll find Brunswick Street's bars, Gertrude Street's galleries and a grittier, more bohemian energy. Heading south-east, [St Kilda](/st-kilda/) offers a complete change of scene: bayside walks, historic Luna Park and a nightlife built around the beach. For the full picture of life in Carlton, read our [Carlton neighbourhood guide](/carlton/neighbourhood-guide/).
+
+---
+
+**MELBZ Tools for Carlton Melbourne — Melbourne**
+
+- [Find suburbs like Carlton Melbourne — Melbourne →](/tools/suburb-match/)
+- [Coffee prices in Carlton Melbourne — Melbourne →](/tools/coffee-price-tracker/#carlton)
+- [What Melbourne thinks about Carlton Melbourne — Melbourne →](/tools/suburb-takedown/?suburb=carlton)
+- [Compare Carlton Melbourne — Melbourne with other suburbs →](/tools/compare-suburbs/?suburbs=carlton)

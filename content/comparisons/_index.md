@@ -4,7 +4,7 @@ description: "Compare Melbourne's best suburbs side by side. Rent, commute times
 date: 2026-03-22
 lastmod: 2026-03-22
 author: "Jack Moreno"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/comparisons/hero.jpg"
 cover_image_alt: "Melbourne suburb comparison guides"
 tags: ["comparisons", "melbourne", "suburbs"]
 ---

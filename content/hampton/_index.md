@@ -10,7 +10,7 @@ keywords:
   - "what is Hampton like"
   - "hampton suburb"
   - "living in Hampton"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/hampton/hero.jpg"
 ---
 
 Hampton Street village, the beach, and a family-friendly vibe that rivals Brighton at lower cost.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Hampton? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Hampton Melbourne — what you need**
+
+- [Find suburbs like Hampton Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Hampton Melbourne — what you need →](/tools/coffee-price-tracker/#hampton)
+- [What Melbourne thinks about Hampton Melbourne — what you need →](/tools/suburb-takedown/?suburb=hampton)
+- [Compare Hampton Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=hampton)

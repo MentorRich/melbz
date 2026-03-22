@@ -10,7 +10,7 @@ keywords:
   - "what is Kings Park like"
   - "kings-park suburb"
   - "living in Kings Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/kings-park/hero.jpg"
 ---
 
 Affordable western suburb with community centre and basic amenities.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Kings Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Kings Park Melbourne — what you need**
+
+- [Find suburbs like Kings Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Kings Park Melbourne — what you need →](/tools/coffee-price-tracker/#kings-park)
+- [What Melbourne thinks about Kings Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=kings-park)
+- [Compare Kings Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=kings-park)

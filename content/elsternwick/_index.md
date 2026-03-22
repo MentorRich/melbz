@@ -36,3 +36,12 @@ It's one of the better inner south-east options. Elsternwick Primary on Stanilan
 ## Keep exploring
 
 Elsternwick connects naturally to its neighbours. Walk east along Glen Huntly Road into [Caulfield South](/caulfield-south/) for quieter streets and larger blocks. North across Hotham Street is [Balaclava](/balaclava/), where Carlisle Street's food scene picks up a different energy. South along Nepean Highway leads to [Brighton](/brighton/) and the bay. West across the tracks is [Gardenvale](/gardenvale/), which feels like Elsternwick with the volume turned down.
+
+---
+
+**MELBZ Tools for Elsternwick**
+
+- [Find suburbs like Elsternwick →](/tools/suburb-match/)
+- [Coffee prices in Elsternwick →](/tools/coffee-price-tracker/#elsternwick)
+- [What Melbourne thinks about Elsternwick →](/tools/suburb-takedown/?suburb=elsternwick)
+- [Compare Elsternwick with other suburbs →](/tools/compare-suburbs/?suburbs=elsternwick)

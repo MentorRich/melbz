@@ -10,7 +10,7 @@ keywords:
   - "what is Altona like"
   - "altona suburb"
   - "living in Altona"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/altona/hero.jpg"
 ---
 
 Altona Beach, Pier Street village, and affordable bayside living in Melbourne's west.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Altona? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Altona Melbourne — what you need**
+
+- [Find suburbs like Altona Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Altona Melbourne — what you need →](/tools/coffee-price-tracker/#altona)
+- [What Melbourne thinks about Altona Melbourne — what you need →](/tools/suburb-takedown/?suburb=altona)
+- [Compare Altona Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=altona)

@@ -10,7 +10,7 @@ keywords:
   - "what is Mount Waverley like"
   - "mount-waverley suburb"
   - "living in Mount Waverley"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mount-waverley/hero.jpg"
 ---
 
 Village shops, Pinewood Cinema, and families drawn by Mount Waverley Secondary College.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Mount Waverley? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Mount Waverley Melbourne — what you need**
+
+- [Find suburbs like Mount Waverley Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Mount Waverley Melbourne — what you need →](/tools/coffee-price-tracker/#mount-waverley)
+- [What Melbourne thinks about Mount Waverley Melbourne — what you need →](/tools/suburb-takedown/?suburb=mount-waverley)
+- [Compare Mount Waverley Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mount-waverley)

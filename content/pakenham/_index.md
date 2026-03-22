@@ -10,7 +10,7 @@ keywords:
   - "what is Pakenham like"
   - "pakenham suburb"
   - "living in Pakenham"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/pakenham/hero.jpg"
 ---
 
 End of the metro train line. Town centre, Main Street shops, and affordable houses at Melbourne's edge.
@@ -93,3 +93,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Pakenham? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Pakenham Melbourne — what you need**
+
+- [Find suburbs like Pakenham Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Pakenham Melbourne — what you need →](/tools/coffee-price-tracker/#pakenham)
+- [What Melbourne thinks about Pakenham Melbourne — what you need →](/tools/suburb-takedown/?suburb=pakenham)
+- [Compare Pakenham Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=pakenham)

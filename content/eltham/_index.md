@@ -10,7 +10,7 @@ keywords:
   - "what is Eltham like"
   - "eltham suburb"
   - "living in Eltham"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/eltham/hero.jpg"
 ---
 
 Artists' colony heritage, Montsalvat, Diamond Creek Trail, and Melbourne's most bush-suburb feel.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Eltham? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Eltham Melbourne — what you need**
+
+- [Find suburbs like Eltham Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Eltham Melbourne — what you need →](/tools/coffee-price-tracker/#eltham)
+- [What Melbourne thinks about Eltham Melbourne — what you need →](/tools/suburb-takedown/?suburb=eltham)
+- [Compare Eltham Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=eltham)

@@ -4,7 +4,7 @@ description: "The no-BS guide to Melbourne suburbs for students. Share houses, n
 date: 2026-03-22
 lastmod: 2026-03-22
 author: "Maya"
-cover_image: "/images/shared/students.jpg"
+cover_image: "/images/students/hero.jpg"
 cover_image_alt: "Students walking through a Melbourne laneway near university campus"
 suburb: "melbourne"
 tags: ["students", "melbourne", "guide"]

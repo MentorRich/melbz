@@ -10,7 +10,7 @@ keywords:
   - "what is Dandenong South like"
   - "dandenong-south suburb"
   - "living in Dandenong South"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/dandenong-south/hero.jpg"
 ---
 
 Melbourne's industrial engine. Factories, warehouses, and some newer residential edges.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Dandenong South? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Dandenong South Melbourne — what you need**
+
+- [Find suburbs like Dandenong South Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Dandenong South Melbourne — what you need →](/tools/coffee-price-tracker/#dandenong-south)
+- [What Melbourne thinks about Dandenong South Melbourne — what you need →](/tools/suburb-takedown/?suburb=dandenong-south)
+- [Compare Dandenong South Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=dandenong-south)

@@ -9,7 +9,7 @@ keywords:
   - "winter activities melbourne"
   - "indoor things melbourne"
   - "winter 2026 melbourne events"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-winter-2026-things-to-do/hero.jpg"
 ---
 
 Winter in Melbourne doesn't mean staying home. The best indoor activities, warm bars, and winter events.
@@ -36,3 +36,11 @@ Winter in Melbourne doesn't mean staying home. The best indoor activities, warm 
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+---
+
+**MELBZ Tools for Melbourne Winter 2026 — Things to Do When It**
+
+- [Find suburbs like Melbourne Winter 2026 — Things to Do When It →](/tools/suburb-match/)
+- [Coffee prices in Melbourne Winter 2026 — Things to Do When It →](/tools/coffee-price-tracker/#melbourne-winter-2026-things-to-do)
+- [What Melbourne thinks about Melbourne Winter 2026 — Things to Do When It →](/tools/suburb-takedown/?suburb=melbourne-winter-2026-things-to-do)
+- [Compare Melbourne Winter 2026 — Things to Do When It with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-winter-2026-things-to-do)

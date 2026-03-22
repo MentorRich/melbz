@@ -10,7 +10,7 @@ keywords:
   - "what is Hadfield like"
   - "hadfield suburb"
   - "living in Hadfield"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/hadfield/hero.jpg"
 ---
 
 Small suburb between Fawkner and Glenroy. Quiet, multicultural, and family-oriented.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Hadfield? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Hadfield Melbourne — what you need**
+
+- [Find suburbs like Hadfield Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Hadfield Melbourne — what you need →](/tools/coffee-price-tracker/#hadfield)
+- [What Melbourne thinks about Hadfield Melbourne — what you need →](/tools/suburb-takedown/?suburb=hadfield)
+- [Compare Hadfield Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=hadfield)

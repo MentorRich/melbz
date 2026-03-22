@@ -10,7 +10,7 @@ keywords:
   - "what is Ivanhoe East like"
   - "ivanhoe-east suburb"
   - "living in Ivanhoe East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/ivanhoe-east/hero.jpg"
 ---
 
 Exclusive hillside streets with river valley views and proximity to Kew and Heidelberg.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Ivanhoe East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Ivanhoe East Melbourne — what you need**
+
+- [Find suburbs like Ivanhoe East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Ivanhoe East Melbourne — what you need →](/tools/coffee-price-tracker/#ivanhoe-east)
+- [What Melbourne thinks about Ivanhoe East Melbourne — what you need →](/tools/suburb-takedown/?suburb=ivanhoe-east)
+- [Compare Ivanhoe East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=ivanhoe-east)

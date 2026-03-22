@@ -10,7 +10,7 @@ keywords:
   - "what is Black Rock like"
   - "black-rock suburb"
   - "living in Black Rock"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/black-rock/hero.jpg"
 ---
 
 Cliff walks, Half Moon Bay, and one of Melbourne's most scenic coastal suburbs.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Black Rock? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Black Rock Melbourne — what you need**
+
+- [Find suburbs like Black Rock Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Black Rock Melbourne — what you need →](/tools/coffee-price-tracker/#black-rock)
+- [What Melbourne thinks about Black Rock Melbourne — what you need →](/tools/suburb-takedown/?suburb=black-rock)
+- [Compare Black Rock Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=black-rock)

@@ -10,7 +10,7 @@ keywords:
   - "what is Briar Hill like"
   - "briar-hill suburb"
   - "living in Briar Hill"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/briar-hill/hero.jpg"
 ---
 
 Small, hilly pocket between Greensborough and Montmorency. Pure suburban quiet.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Briar Hill? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Briar Hill Melbourne — what you need**
+
+- [Find suburbs like Briar Hill Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Briar Hill Melbourne — what you need →](/tools/coffee-price-tracker/#briar-hill)
+- [What Melbourne thinks about Briar Hill Melbourne — what you need →](/tools/suburb-takedown/?suburb=briar-hill)
+- [Compare Briar Hill Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=briar-hill)

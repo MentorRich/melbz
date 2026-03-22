@@ -9,7 +9,7 @@ keywords:
   - "how expensive is melbourne"
   - "cost of living australia melbourne"
   - "melbourne expenses"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-cost-of-living-2026/hero.jpg"
 ---
 
 From rent to coffee to groceries — the real cost of living in Melbourne right now. No sugar-coating.

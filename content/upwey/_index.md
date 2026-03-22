@@ -10,7 +10,7 @@ keywords:
   - "what is Upwey like"
   - "upwey suburb"
   - "living in Upwey"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/upwey/hero.jpg"
 ---
 
 Upwey village shops, bush walking trails, and Belgrave line access.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Upwey? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Upwey Melbourne — what you need**
+
+- [Find suburbs like Upwey Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Upwey Melbourne — what you need →](/tools/coffee-price-tracker/#upwey)
+- [What Melbourne thinks about Upwey Melbourne — what you need →](/tools/suburb-takedown/?suburb=upwey)
+- [Compare Upwey Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=upwey)

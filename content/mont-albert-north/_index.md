@@ -10,7 +10,7 @@ keywords:
   - "what is Mont Albert North like"
   - "mont-albert-north suburb"
   - "living in Mont Albert North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mont-albert-north/hero.jpg"
 ---
 
 Suburban quiet between Mont Albert and Box Hill North. Big blocks, family streets.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Mont Albert North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Mont Albert North Melbourne — what you need**
+
+- [Find suburbs like Mont Albert North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Mont Albert North Melbourne — what you need →](/tools/coffee-price-tracker/#mont-albert-north)
+- [What Melbourne thinks about Mont Albert North Melbourne — what you need →](/tools/suburb-takedown/?suburb=mont-albert-north)
+- [Compare Mont Albert North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mont-albert-north)

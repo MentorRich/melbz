@@ -10,7 +10,7 @@ keywords:
   - "what is Bulleen like"
   - "bulleen suburb"
   - "living in Bulleen"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/bulleen/hero.jpg"
 ---
 
 Heide Museum of Modern Art, riverside parks, and family homes with eastern suburbs access.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Bulleen? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Bulleen Melbourne — what you need**
+
+- [Find suburbs like Bulleen Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Bulleen Melbourne — what you need →](/tools/coffee-price-tracker/#bulleen)
+- [What Melbourne thinks about Bulleen Melbourne — what you need →](/tools/suburb-takedown/?suburb=bulleen)
+- [Compare Bulleen Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=bulleen)

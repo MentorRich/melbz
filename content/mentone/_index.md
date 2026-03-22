@@ -10,7 +10,7 @@ keywords:
   - "what is Mentone like"
   - "mentone suburb"
   - "living in Mentone"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mentone/hero.jpg"
 ---
 
 Mentone Beach, the clock tower strip, and affordable bayside living compared to Brighton.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Mentone? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Mentone Melbourne — what you need**
+
+- [Find suburbs like Mentone Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Mentone Melbourne — what you need →](/tools/coffee-price-tracker/#mentone)
+- [What Melbourne thinks about Mentone Melbourne — what you need →](/tools/suburb-takedown/?suburb=mentone)
+- [Compare Mentone Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mentone)

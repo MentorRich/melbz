@@ -10,7 +10,7 @@ keywords:
   - "what is Dallas like"
   - "dallas suburb"
   - "living in Dallas"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/dallas/hero.jpg"
 ---
 
 Affordable homes in the northern growth corridor with community centre and park access.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Dallas? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Dallas Melbourne — what you need**
+
+- [Find suburbs like Dallas Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Dallas Melbourne — what you need →](/tools/coffee-price-tracker/#dallas)
+- [What Melbourne thinks about Dallas Melbourne — what you need →](/tools/suburb-takedown/?suburb=dallas)
+- [Compare Dallas Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=dallas)

@@ -10,7 +10,7 @@ keywords:
   - "what is Highett like"
   - "highett suburb"
   - "living in Highett"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/highett/hero.jpg"
 ---
 
 Shopping strip revamp, apartment growth, and one of bayside's best value suburbs.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Highett? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Highett Melbourne — what you need**
+
+- [Find suburbs like Highett Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Highett Melbourne — what you need →](/tools/coffee-price-tracker/#highett)
+- [What Melbourne thinks about Highett Melbourne — what you need →](/tools/suburb-takedown/?suburb=highett)
+- [Compare Highett Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=highett)

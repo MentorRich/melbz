@@ -10,7 +10,7 @@ keywords:
   - "what is Gardenvale like"
   - "gardenvale suburb"
   - "living in Gardenvale"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/gardenvale/hero.jpg"
 ---
 
 Small, quiet pocket between Brighton East and Elsternwick. Purely residential and family-focused.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Gardenvale? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Gardenvale Melbourne — what you need**
+
+- [Find suburbs like Gardenvale Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Gardenvale Melbourne — what you need →](/tools/coffee-price-tracker/#gardenvale)
+- [What Melbourne thinks about Gardenvale Melbourne — what you need →](/tools/suburb-takedown/?suburb=gardenvale)
+- [Compare Gardenvale Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=gardenvale)

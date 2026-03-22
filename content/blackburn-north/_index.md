@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Blackburn North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Blackburn North Melbourne — what you need**
+
+- [Find suburbs like Blackburn North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Blackburn North Melbourne — what you need →](/tools/coffee-price-tracker/#blackburn-north)
+- [What Melbourne thinks about Blackburn North Melbourne — what you need →](/tools/suburb-takedown/?suburb=blackburn-north)
+- [Compare Blackburn North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=blackburn-north)

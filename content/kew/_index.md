@@ -36,3 +36,12 @@ Kew connects naturally to its neighbours. Walk south across Barkers Road into [H
 ---
 
 *Got something to add about Kew? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Kew**
+
+- [Find suburbs like Kew →](/tools/suburb-match/)
+- [Coffee prices in Kew →](/tools/coffee-price-tracker/#kew)
+- [What Melbourne thinks about Kew →](/tools/suburb-takedown/?suburb=kew)
+- [Compare Kew with other suburbs →](/tools/compare-suburbs/?suburbs=kew)

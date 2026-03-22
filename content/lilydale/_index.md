@@ -10,7 +10,7 @@ keywords:
   - "what is Lilydale like"
   - "lilydale suburb"
   - "living in Lilydale"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/lilydale/hero.jpg"
 ---
 
 End of the Lilydale line. Town centre, lake, and Yarra Valley wine country on the doorstep.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Lilydale? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Lilydale Melbourne — what you need**
+
+- [Find suburbs like Lilydale Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Lilydale Melbourne — what you need →](/tools/coffee-price-tracker/#lilydale)
+- [What Melbourne thinks about Lilydale Melbourne — what you need →](/tools/suburb-takedown/?suburb=lilydale)
+- [Compare Lilydale Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=lilydale)

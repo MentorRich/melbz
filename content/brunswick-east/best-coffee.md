@@ -9,6 +9,9 @@ tags:
   - "coffee"
   - "cafes"
   - "melbourne"
+description: "The 8 best coffee spots in Brunswick East Melbourne for 2026. Specialty roasters, local cafes and the best flat whites on Lygon Street."
+author: "Liam Barrett"
+suburb: "brunswick-east"
 ---
 
 # 8 Best Coffee Spots in Brunswick East — Your 2026 Local Guide
@@ -155,4 +158,3 @@ Brunswick East's coffee scene is defined by one thing: places that care more abo
 - [Carlton](/carlton/)
 - [Brunswick East](/brunswick-east/)
 - [Hub](/brunswick-east/hub)
-

@@ -10,7 +10,7 @@ keywords:
   - "what is Tullamarine like"
   - "tullamarine suburb"
   - "living in Tullamarine"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/tullamarine/hero.jpg"
 ---
 
 Airport suburb. Mostly logistics and accommodation, some residential pockets.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Tullamarine? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Tullamarine Melbourne — what you need**
+
+- [Find suburbs like Tullamarine Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Tullamarine Melbourne — what you need →](/tools/coffee-price-tracker/#tullamarine)
+- [What Melbourne thinks about Tullamarine Melbourne — what you need →](/tools/suburb-takedown/?suburb=tullamarine)
+- [Compare Tullamarine Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=tullamarine)

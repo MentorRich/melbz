@@ -10,7 +10,7 @@ keywords:
   - "what is Bonbeach like"
   - "bonbeach suburb"
   - "living in Bonbeach"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/bonbeach/hero.jpg"
 ---
 
 Beach access, train station, and a tiny community south of Chelsea.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Bonbeach? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Bonbeach Melbourne — what you need**
+
+- [Find suburbs like Bonbeach Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Bonbeach Melbourne — what you need →](/tools/coffee-price-tracker/#bonbeach)
+- [What Melbourne thinks about Bonbeach Melbourne — what you need →](/tools/suburb-takedown/?suburb=bonbeach)
+- [Compare Bonbeach Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=bonbeach)

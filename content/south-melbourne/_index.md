@@ -82,3 +82,12 @@ Yes, relative to Melbourne overall. One-bedroom apartments start around $450 per
 South Melbourne delivers on the basics without overselling itself. The market is genuinely great. The coffee is among Melbourne's best. The tram access is frequent and reliable. The food scene has depth across every price point. The trade-off is rent — you pay inner-city prices for what is effectively a village lifestyle. If that equation works for your budget, South Melbourne is one of Melbourne's most satisfying suburbs to call home.
 
 Explore our [honest guide](/south-melbourne/honest-guide/), [living guide](/south-melbourne/living-guide/), and [best cafes](/south-melbourne/best-cafes-2026/) for the full picture.
+
+---
+
+**MELBZ Tools for South Melbourne Guide 2026: Market Life, Clarendon Street, and the Inner South Village**
+
+- [Find suburbs like South Melbourne Guide 2026: Market Life, Clarendon Street, and the Inner South Village →](/tools/suburb-match/)
+- [Coffee prices in South Melbourne Guide 2026: Market Life, Clarendon Street, and the Inner South Village →](/tools/coffee-price-tracker/#south-melbourne)
+- [What Melbourne thinks about South Melbourne Guide 2026: Market Life, Clarendon Street, and the Inner South Village →](/tools/suburb-takedown/?suburb=south-melbourne)
+- [Compare South Melbourne Guide 2026: Market Life, Clarendon Street, and the Inner South Village with other suburbs →](/tools/compare-suburbs/?suburbs=south-melbourne)

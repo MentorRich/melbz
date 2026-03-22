@@ -10,7 +10,7 @@ keywords:
   - "what is Taylors Lakes like"
   - "taylors-lakes suburb"
   - "living in Taylors Lakes"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/taylors-lakes/hero.jpg"
 ---
 
 Watergardens Shopping Centre, Taylors Creek trail, and established family living.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Taylors Lakes? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Taylors Lakes Melbourne — what you need**
+
+- [Find suburbs like Taylors Lakes Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Taylors Lakes Melbourne — what you need →](/tools/coffee-price-tracker/#taylors-lakes)
+- [What Melbourne thinks about Taylors Lakes Melbourne — what you need →](/tools/suburb-takedown/?suburb=taylors-lakes)
+- [Compare Taylors Lakes Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=taylors-lakes)

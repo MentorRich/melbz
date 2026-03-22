@@ -9,7 +9,7 @@ keywords:
   - "melbourne house prices 2026"
   - "melbourne real estate market"
   - "buying melbourne 2026"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-property-market-2026/hero.jpg"
 ---
 
 Interest rates, auction results, suburbs to watch — the real state of Melbourne property right now.
@@ -37,3 +37,12 @@ Interest rates, auction results, suburbs to watch — the real state of Melbourn
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Melbourne Property Market 2026**
+
+- [Find suburbs like Melbourne Property Market 2026 →](/tools/suburb-match/)
+- [Coffee prices in Melbourne Property Market 2026 →](/tools/coffee-price-tracker/#melbourne-property-market-2026)
+- [What Melbourne thinks about Melbourne Property Market 2026 →](/tools/suburb-takedown/?suburb=melbourne-property-market-2026)
+- [Compare Melbourne Property Market 2026 with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-property-market-2026)

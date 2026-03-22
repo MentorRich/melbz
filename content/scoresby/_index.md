@@ -10,7 +10,7 @@ keywords:
   - "what is Scoresby like"
   - "scoresby suburb"
   - "living in Scoresby"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/scoresby/hero.jpg"
 ---
 
 EastLink access, Caribbean Park business hub, and family homes near Knox.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Scoresby? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Scoresby Melbourne — what you need**
+
+- [Find suburbs like Scoresby Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Scoresby Melbourne — what you need →](/tools/coffee-price-tracker/#scoresby)
+- [What Melbourne thinks about Scoresby Melbourne — what you need →](/tools/suburb-takedown/?suburb=scoresby)
+- [Compare Scoresby Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=scoresby)

@@ -65,3 +65,14 @@ No. Nearest is Flinders Street Station, a 5-minute walk across the river.
 ## The Verdict
 
 Southbank is Melbourne's most deliberately built suburb — premium entertainment, world-class culture, and residential density without the organic neighbourhood character. Give it another decade and the community will catch up with the infrastructure. For now, it's the most convenient address in Melbourne for the right person.
+
+
+## What Locals Know
+
+Living in Southbank means understanding the rhythms that listings and guides do not capture. The best spots are not always the most visible ones — locals develop their own routines, their own preferred cafes and walking routes, based on years of trial and error.
+
+## The Honest Take
+
+Southbank has genuine strengths and real limitations. No suburb is perfect. What matters is whether the strengths align with what you value — whether that is walkability, community feel, food options, or commute times. The best way to know is to spend time here before committing.
+
+For the full picture, see our [Southbank guide](/southbank/).

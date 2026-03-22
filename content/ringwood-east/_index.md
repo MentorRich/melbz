@@ -10,7 +10,7 @@ keywords:
   - "what is Ringwood East like"
   - "ringwood-east suburb"
   - "living in Ringwood East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/ringwood-east/hero.jpg"
 ---
 
 Eastland-adjacent living at a lower price point. Train access and family homes.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Ringwood East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Ringwood East Melbourne — what you need**
+
+- [Find suburbs like Ringwood East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Ringwood East Melbourne — what you need →](/tools/coffee-price-tracker/#ringwood-east)
+- [What Melbourne thinks about Ringwood East Melbourne — what you need →](/tools/suburb-takedown/?suburb=ringwood-east)
+- [Compare Ringwood East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=ringwood-east)

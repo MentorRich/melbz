@@ -10,7 +10,7 @@ keywords:
   - "what is Middle Park like"
   - "middle-park suburb"
   - "living in Middle Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/middle-park/hero.jpg"
 ---
 
 Beach access and leafy streets without St Kilda's intensity. A quiet bayside gem.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Middle Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Middle Park Melbourne — what you need**
+
+- [Find suburbs like Middle Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Middle Park Melbourne — what you need →](/tools/coffee-price-tracker/#middle-park)
+- [What Melbourne thinks about Middle Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=middle-park)
+- [Compare Middle Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=middle-park)

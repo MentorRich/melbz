@@ -10,7 +10,7 @@ keywords:
   - "what is Glen Eira like"
   - "glen-eira suburb"
   - "living in Glen Eira"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/glen-eira/hero.jpg"
 ---
 
 Council area locality with parks and family-oriented residential streets.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Glen Eira? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Glen Eira Melbourne — what you need**
+
+- [Find suburbs like Glen Eira Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Glen Eira Melbourne — what you need →](/tools/coffee-price-tracker/#glen-eira)
+- [What Melbourne thinks about Glen Eira Melbourne — what you need →](/tools/suburb-takedown/?suburb=glen-eira)
+- [Compare Glen Eira Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=glen-eira)

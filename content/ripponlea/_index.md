@@ -10,7 +10,7 @@ keywords:
   - "what is Ripponlea like"
   - "ripponlea suburb"
   - "living in Ripponlea"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/ripponlea/hero.jpg"
 ---
 
 Heritage mansion (Rippon Lea Estate), quiet streets, and easy access to both the beach and the city.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Ripponlea? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Ripponlea Melbourne — what you need**
+
+- [Find suburbs like Ripponlea Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Ripponlea Melbourne — what you need →](/tools/coffee-price-tracker/#ripponlea)
+- [What Melbourne thinks about Ripponlea Melbourne — what you need →](/tools/suburb-takedown/?suburb=ripponlea)
+- [Compare Ripponlea Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=ripponlea)

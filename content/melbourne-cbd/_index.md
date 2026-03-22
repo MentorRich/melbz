@@ -4,7 +4,7 @@ description: "Melbourne CBD: laneway culture, rooftop bars, Chinatown, Free Tram
 date: 2026-03-22
 lastmod: 2026-03-22
 author: "Aisha Patel"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-cbd/hero.jpg"
 cover_image_alt: "Melbourne CBD skyline and laneways"
 suburb: "melbourne-cbd"
 tags: ["melbourne", "melbourne-cbd", "suburb-guide"]
@@ -111,3 +111,11 @@ Melbourne CBD is not for everyone and it does not pretend to be. It is loud, exp
 ---
 
 *Got something to add about Melbourne CBD? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Melbourne CBD — The Complete Suburb Guide 2026**
+
+- [Find suburbs like Melbourne CBD — The Complete Suburb Guide 2026 →](/tools/suburb-match/)
+- [Coffee prices in Melbourne CBD — The Complete Suburb Guide 2026 →](/tools/coffee-price-tracker/#melbourne-cbd)
+- [What Melbourne thinks about Melbourne CBD — The Complete Suburb Guide 2026 →](/tools/suburb-takedown/?suburb=melbourne-cbd)
+- [Compare Melbourne CBD — The Complete Suburb Guide 2026 with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-cbd)

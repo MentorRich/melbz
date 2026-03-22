@@ -10,7 +10,7 @@ keywords:
   - "what is Cranbourne West like"
   - "cranbourne-west suburb"
   - "living in Cranbourne West"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/cranbourne-west/hero.jpg"
 ---
 
 Newer estates in the western extension of Cranbourne with growing retail.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Cranbourne West? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Cranbourne West Melbourne — what you need**
+
+- [Find suburbs like Cranbourne West Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Cranbourne West Melbourne — what you need →](/tools/coffee-price-tracker/#cranbourne-west)
+- [What Melbourne thinks about Cranbourne West Melbourne — what you need →](/tools/suburb-takedown/?suburb=cranbourne-west)
+- [Compare Cranbourne West Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=cranbourne-west)

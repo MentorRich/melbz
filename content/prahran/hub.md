@@ -84,3 +84,14 @@ Prahran Market (operating since 1864), Chapel Street shopping and nightlife, Gre
 ## The Verdict
 
 Prahran is one of Melbourne's most complete inner-south suburbs. The food, the nightlife, the market, the transport, and the community all work. The cost is the trade-off, but for people who value lifestyle and location, Prahran delivers consistently.
+
+
+## What Locals Know
+
+Living in Prahran means understanding the rhythms that listings and guides do not capture. The best spots are not always the most visible ones — locals develop their own routines, their own preferred cafes and walking routes, based on years of trial and error.
+
+## The Honest Take
+
+Prahran has genuine strengths and real limitations. No suburb is perfect. What matters is whether the strengths align with what you value — whether that is walkability, community feel, food options, or commute times. The best way to know is to spend time here before committing.
+
+For the full picture, see our [Prahran guide](/prahran/).

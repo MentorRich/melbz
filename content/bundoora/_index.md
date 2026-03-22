@@ -10,7 +10,7 @@ keywords:
   - "what is Bundoora like"
   - "bundoora suburb"
   - "living in Bundoora"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/bundoora/hero.jpg"
 ---
 
 RMIT and La Trobe campuses, family estates, and a student-mixed community.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Bundoora? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Bundoora Melbourne — what you need**
+
+- [Find suburbs like Bundoora Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Bundoora Melbourne — what you need →](/tools/coffee-price-tracker/#bundoora)
+- [What Melbourne thinks about Bundoora Melbourne — what you need →](/tools/suburb-takedown/?suburb=bundoora)
+- [Compare Bundoora Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=bundoora)

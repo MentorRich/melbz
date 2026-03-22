@@ -10,7 +10,7 @@ keywords:
   - "what is Kilsyth like"
   - "kilsyth suburb"
   - "living in Kilsyth"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/kilsyth/hero.jpg"
 ---
 
 Pinks Reserve, family estates, and a practical outer-east suburb near the foothills.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Kilsyth? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Kilsyth Melbourne — what you need**
+
+- [Find suburbs like Kilsyth Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Kilsyth Melbourne — what you need →](/tools/coffee-price-tracker/#kilsyth)
+- [What Melbourne thinks about Kilsyth Melbourne — what you need →](/tools/suburb-takedown/?suburb=kilsyth)
+- [Compare Kilsyth Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=kilsyth)

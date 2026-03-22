@@ -10,7 +10,7 @@ keywords:
   - "what is Beaumaris like"
   - "beaumaris suburb"
   - "living in Beaumaris"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/beaumaris/hero.jpg"
 ---
 
 Mid-century modern homes, beach access, and a quiet coastal lifestyle south of Sandringham.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Beaumaris? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Beaumaris Melbourne — what you need**
+
+- [Find suburbs like Beaumaris Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Beaumaris Melbourne — what you need →](/tools/coffee-price-tracker/#beaumaris)
+- [What Melbourne thinks about Beaumaris Melbourne — what you need →](/tools/suburb-takedown/?suburb=beaumaris)
+- [Compare Beaumaris Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=beaumaris)

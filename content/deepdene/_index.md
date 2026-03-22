@@ -10,7 +10,7 @@ keywords:
   - "what is Deepdene like"
   - "deepdene suburb"
   - "living in Deepdene"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/deepdene/hero.jpg"
 ---
 
 A tiny enclave between Camberwell and Balwyn — residential quiet with heritage character.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Deepdene? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Deepdene Melbourne — what you need**
+
+- [Find suburbs like Deepdene Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Deepdene Melbourne — what you need →](/tools/coffee-price-tracker/#deepdene)
+- [What Melbourne thinks about Deepdene Melbourne — what you need →](/tools/suburb-takedown/?suburb=deepdene)
+- [Compare Deepdene Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=deepdene)

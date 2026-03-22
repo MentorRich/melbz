@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Ashwood? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Ashwood Melbourne — what you need**
+
+- [Find suburbs like Ashwood Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Ashwood Melbourne — what you need →](/tools/coffee-price-tracker/#ashwood)
+- [What Melbourne thinks about Ashwood Melbourne — what you need →](/tools/suburb-takedown/?suburb=ashwood)
+- [Compare Ashwood Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=ashwood)

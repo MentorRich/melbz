@@ -4,7 +4,7 @@ description: "what you need about Prahran in Melbourne's inner south-east. Chape
 date: 2026-03-22
 lastmod: 2026-03-22
 author: "Aisha Patel"
-cover_image: "/images/shared/melbourne-suburb.jpg"
+cover_image: "/images/prahran/hero.jpg"
 cover_image_alt: "Prahran Melbourne streetscape with heritage buildings"
 suburb: "prahran"
 tags: ["melbourne", "prahran", "suburb-guide"]
@@ -101,3 +101,12 @@ Prahran in 2026 is a suburb that delivers on its promises. The market, the food,
 - **[South Yarra](/south-yarra/)** — Chapel Street's northern end, Botanical Gardens, and Melbourne's brunch capital
 - **[St Kilda](/st-kilda/)** — Acland Street, Luna Park, and Melbourne's most famous beach strip
 - **[Carlton](/carlton/)** — Lygon Street, Melbourne University, and Italian dining heritage
+
+---
+
+**MELBZ Tools for Prahran Melbourne — The Complete 2026 Suburb Guide**
+
+- [Find suburbs like Prahran Melbourne — The Complete 2026 Suburb Guide →](/tools/suburb-match/)
+- [Coffee prices in Prahran Melbourne — The Complete 2026 Suburb Guide →](/tools/coffee-price-tracker/#prahran)
+- [What Melbourne thinks about Prahran Melbourne — The Complete 2026 Suburb Guide →](/tools/suburb-takedown/?suburb=prahran)
+- [Compare Prahran Melbourne — The Complete 2026 Suburb Guide with other suburbs →](/tools/compare-suburbs/?suburbs=prahran)

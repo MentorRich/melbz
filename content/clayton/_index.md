@@ -10,7 +10,7 @@ keywords:
   - "what is Clayton like"
   - "clayton suburb"
   - "living in Clayton"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/clayton/hero.jpg"
 ---
 
 Monash Uni campus, Clayton Road food strip, and a student-plus-family community on the rise.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Clayton? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Clayton Melbourne — what you need**
+
+- [Find suburbs like Clayton Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Clayton Melbourne — what you need →](/tools/coffee-price-tracker/#clayton)
+- [What Melbourne thinks about Clayton Melbourne — what you need →](/tools/suburb-takedown/?suburb=clayton)
+- [Compare Clayton Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=clayton)

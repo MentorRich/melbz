@@ -1,0 +1,403 @@
+{{ define "main" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Melbourne Coffee Price Tracker",
+  "url": "https://melbz.com.au/tools/coffee-price-tracker/",
+  "description": "Community-tracked cafe prices across Melbourne suburbs. Find the cheapest coffee near you.",
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "Web",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "AUD" },
+  "provider": { "@type": "Organization", "name": "MELBZ", "url": "https://melbz.com.au" }
+}
+</script>
+<style>
+:root{--accent:#ff3b3b;--bg:#0a0a0a;--card:#141414;--card-hover:#1a1a1a;--border:#222;--text:#e0e0e0;--text-muted:#888;--green:#22c55e;--amber:#f59e0b}
+*,*::before,*::after{box-sizing:border-box}
+.coffee-tool{max-width:1000px;margin:0 auto;padding:2rem 1rem}
+.coffee-tool h1{font-size:2rem;margin-bottom:0.5rem;line-height:1.2}
+.coffee-tool .subtitle{color:var(--text-muted);margin-bottom:2rem;font-size:1.1rem}
+.coffee-section{margin-bottom:3rem}
+.coffee-section h2{font-size:1.4rem;margin-bottom:1rem;padding-bottom:0.5rem;border-bottom:1px solid var(--border)}
+.search-box{display:flex;gap:0.75rem;margin-bottom:1.5rem;flex-wrap:wrap}
+.search-box select,.search-box input[type="text"]{flex:1;min-width:200px;background:var(--card);color:var(--text);border:2px solid var(--border);border-radius:12px;padding:0.8rem 1.2rem;font-size:1rem;font-family:inherit;min-height:48px}
+.search-box select:focus,.search-box input:focus{outline:none;border-color:var(--accent)}
+.search-btn{background:var(--accent);color:#fff;border:none;border-radius:12px;padding:0.8rem 1.5rem;font-weight:700;cursor:pointer;font-size:1rem;min-height:48px;font-family:inherit;white-space:nowrap;transition:opacity 0.2s}
+.search-btn:hover{opacity:0.9}
+.suburb-coffee-card{background:var(--card);border:2px solid var(--accent);border-radius:16px;padding:1.5rem;margin-bottom:1.5rem;display:none}
+.suburb-coffee-card.visible{display:block}
+.scc-name{font-size:1.5rem;font-weight:700;margin-bottom:0.3rem}
+.scc-name a{color:var(--text);text-decoration:none}
+.scc-name a:hover{color:var(--accent)}
+.scc-stats{display:flex;gap:1.5rem;flex-wrap:wrap;margin-top:0.75rem}
+.scc-stat{text-align:center}
+.scc-stat .val{font-size:1.8rem;font-weight:700;line-height:1}
+.scc-stat .val.green{color:var(--green)}
+.scc-stat .val.amber{color:var(--amber)}
+.scc-stat .val.red{color:var(--accent)}
+.scc-stat .lbl{font-size:0.75rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.05em;margin-top:0.25rem}
+.filter-row{display:flex;gap:0.5rem;flex-wrap:wrap;margin-bottom:1rem}
+.filter-btn{background:var(--card);color:var(--text-muted);border:1px solid var(--border);border-radius:8px;padding:0.5rem 1rem;cursor:pointer;font-size:0.85rem;min-height:48px;font-family:inherit;transition:all 0.2s}
+.filter-btn:hover,.filter-btn.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.sort-toggle{display:flex;gap:0;margin-bottom:1rem}
+.sort-toggle button{background:var(--card);color:var(--text-muted);border:1px solid var(--border);padding:0.5rem 1.2rem;cursor:pointer;font-size:0.85rem;min-height:48px;font-family:inherit}
+.sort-toggle button:first-child{border-radius:8px 0 0 8px}
+.sort-toggle button:last-child{border-radius:0 8px 8px 0}
+.sort-toggle button.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.rank-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.rank-table{width:100%;border-collapse:collapse;min-width:580px}
+.rank-table th,.rank-table td{padding:0.7rem 0.8rem;text-align:left;border-bottom:1px solid var(--border);white-space:nowrap}
+.rank-table th{background:var(--card);color:var(--text-muted);font-size:0.75rem;text-transform:uppercase;letter-spacing:0.05em;position:sticky;top:0;cursor:pointer;user-select:none}
+.rank-table th:hover{color:var(--accent)}
+.rank-table td{font-size:0.95rem}
+.rank-table tr:hover td{background:var(--card-hover)}
+.rank-table .cheapest{color:var(--green);font-weight:700}
+.rank-table .expensive{color:var(--accent);font-weight:700}
+.rank-table a{color:var(--text);text-decoration:none}
+.rank-table a:hover{color:var(--accent)}
+.trend-up{color:var(--accent)}
+.trend-down{color:var(--green)}
+.trend-flat{color:var(--text-muted)}
+.insight-card{background:linear-gradient(135deg,#1a1a2e,#16213e);border:1px solid #2a3f5f;border-radius:16px;padding:2rem;margin-bottom:2rem}
+.insight-card h3{font-size:1.2rem;margin-bottom:1rem;color:#fff}
+.bar-chart{display:flex;flex-direction:column;gap:0.6rem}
+.bar-row{display:flex;align-items:center;gap:0.75rem}
+.bar-label{width:120px;font-size:0.85rem;text-align:right;flex-shrink:0}
+.bar-label a{color:var(--text);text-decoration:none}
+.bar-label a:hover{color:var(--accent)}
+.bar-track{flex:1;height:28px;background:var(--border);border-radius:6px;overflow:hidden;position:relative}
+.bar-fill{height:100%;border-radius:6px;display:flex;align-items:center;justify-content:flex-end;padding-right:8px;font-size:0.75rem;font-weight:700;transition:width 0.6s ease}
+.bar-value{font-size:0.85rem;width:55px;text-align:left;flex-shrink:0;font-weight:600}
+.best-label{font-size:0.85rem;color:var(--green);margin-top:0.75rem;font-weight:600}
+.worst-label{font-size:0.85rem;color:var(--accent);margin-top:0.25rem;font-weight:600}
+.share-stat-btn{display:inline-block;margin-top:1rem;padding:0.6rem 1.2rem;background:var(--accent);color:#fff;border:none;border-radius:8px;cursor:pointer;font-weight:600;font-size:0.9rem;min-height:48px;font-family:inherit;transition:opacity 0.2s}
+.share-stat-btn:hover{opacity:0.9}
+.submit-form{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:2rem}
+.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.form-group{display:flex;flex-direction:column}
+.form-group.full{grid-column:1/-1}
+.form-group label{font-size:0.75rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--text-muted);margin-bottom:0.3rem}
+.form-group select,.form-group input{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:8px;padding:0.7rem 1rem;font-size:0.95rem;font-family:inherit;min-height:48px}
+.form-group select:focus,.form-group input:focus{outline:none;border-color:var(--accent)}
+.submit-btn{grid-column:1/-1;background:var(--accent);color:#fff;border:none;border-radius:8px;padding:0.8rem;font-weight:700;cursor:pointer;font-size:1rem;min-height:48px;font-family:inherit;margin-top:0.5rem;transition:opacity 0.2s}
+.submit-btn:hover{opacity:0.9}
+.form-note{grid-column:1/-1;font-size:0.8rem;color:var(--text-muted);text-align:center;margin-top:0.5rem}
+.form-success{display:none;text-align:center;padding:2rem;color:var(--green);font-weight:600;font-size:1.1rem}
+.editorial-card{background:var(--card);border-left:4px solid var(--accent);border-radius:0 12px 12px 0;padding:1.5rem 2rem;margin-bottom:2rem;font-size:1.05rem;line-height:1.6;font-style:italic;color:var(--text)}
+.editorial-card .byline{font-style:normal;font-size:0.8rem;color:var(--text-muted);margin-top:0.75rem;text-transform:uppercase;letter-spacing:0.05em}
+.coffee-links{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:0.75rem;margin-top:1rem}
+.coffee-links a{display:flex;align-items:center;padding:0.6rem 1rem;background:var(--card);border:1px solid var(--border);border-radius:8px;color:var(--text);text-decoration:none;font-size:0.9rem;min-height:48px;transition:all 0.2s}
+.coffee-links a:hover{border-color:var(--accent);color:var(--accent)}
+@media(max-width:600px){
+  .coffee-tool h1{font-size:1.5rem}
+  .form-grid{grid-template-columns:1fr}
+  .scc-stats{flex-direction:column;align-items:flex-start}
+  .bar-label{width:90px;font-size:0.8rem}
+}
+</style>
+
+<div class="coffee-tool">
+  <h1>Melbourne Coffee Price Tracker</h1>
+  <p class="subtitle">What a flat white actually costs by suburb. Community-tracked, zero spin.</p>
+
+  <!-- SECTION 1: Search -->
+  <div class="coffee-section">
+    <h2>Search Your Suburb</h2>
+    <div class="search-box">
+      <select id="suburbSearch"><option value="">Select a suburb...</option></select>
+      <button class="search-btn" id="searchBtn">Find prices</button>
+    </div>
+    <div class="suburb-coffee-card" id="suburbCard">
+      <div class="scc-name"><a id="sccLink" href="#"></a></div>
+      <div class="scc-stats">
+        <div class="scc-stat"><div class="val" id="sccPrice">$0.00</div><div class="lbl">Avg Flat White</div></div>
+        <div class="scc-stat"><div class="val" id="sccSamples">0</div><div class="lbl">Sample Cafes</div></div>
+        <div class="scc-stat"><div class="val" id="sccTrend"></div><div class="lbl">Trend</div></div>
+        <div class="scc-stat"><div class="val" id="sccScore">0</div><div class="lbl">Coffee Score</div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION 2: Rankings -->
+  <div class="coffee-section">
+    <h2>The Rankings</h2>
+    <div class="filter-row" id="filterRow">
+      <button class="filter-btn active" data-region="all">All</button>
+      <button class="filter-btn" data-region="inner-north">Inner North</button>
+      <button class="filter-btn" data-region="inner-south">Inner South</button>
+      <button class="filter-btn" data-region="inner-east">Inner East</button>
+      <button class="filter-btn" data-region="bayside">Bayside</button>
+      <button class="filter-btn" data-region="west">West</button>
+      <button class="filter-btn" data-region="outer">Outer</button>
+    </div>
+    <div class="sort-toggle">
+      <button class="active" id="sortCheap">Cheapest first</button>
+      <button id="sortExp">Most expensive first</button>
+    </div>
+    <div class="rank-table-wrap">
+      <table class="rank-table">
+        <thead><tr><th>#</th><th>Suburb</th><th>Avg Flat White</th><th>Samples</th><th>Trend</th><th>Coffee Score</th></tr></thead>
+        <tbody id="rankBody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- SECTION 3: Affordability -->
+  <div class="coffee-section">
+    <div class="insight-card">
+      <h3>Coffee Affordability by Suburb</h3>
+      <p style="color:var(--text-muted);font-size:0.9rem;margin-bottom:1.25rem">Median weekly 1BR rent &divide; average flat white price = coffees per week your rent could buy</p>
+      <div class="bar-chart" id="affordChart"></div>
+      <div id="affordLabels"></div>
+      <button class="share-stat-btn" id="shareStatBtn">Share this stat</button>
+    </div>
+  </div>
+
+  <!-- Editorial -->
+  <div class="coffee-section">
+    <h2>The MELBZ Take</h2>
+    <div class="editorial-card">
+      This week: Footscray continues to be the answer to every question about Melbourne coffee that starts with &ldquo;but does it have to cost&mdash;&rdquo;. Meanwhile the CBD maintains its position at the top of the table, which tracks given that $8.50 for a takeaway coffee is apparently just the price of being able to tell people you work in the CBD.
+      <div class="byline">MELBZ Editorial &mdash; Week of March 22, 2026</div>
+    </div>
+  </div>
+
+  <!-- SECTION 4: Submit Prices -->
+  <div class="coffee-section">
+    <h2>Submit Your Prices</h2>
+    <form class="submit-form" id="coffeeForm" action="https://formsubmit.co/ajax/hq@melbz.com.au" method="POST">
+      <input type="hidden" name="_subject" value="MELBZ Coffee Price Submission">
+      <input type="hidden" name="_template" value="table">
+      <input type="text" name="_honey" style="display:none" tabindex="-1">
+      <div class="form-grid">
+        <div class="form-group">
+          <label for="fSuburb">Suburb *</label>
+          <select name="suburb" id="fSuburb" required><option value="">Select suburb...</option></select>
+        </div>
+        <div class="form-group">
+          <label for="fCafe">Cafe Name</label>
+          <input type="text" name="cafe" id="fCafe" placeholder="Optional">
+        </div>
+        <div class="form-group">
+          <label for="fPrice">Price Paid (AUD) *</label>
+          <input type="number" name="price" id="fPrice" step="0.10" min="2" max="15" placeholder="e.g. 5.50" required>
+        </div>
+        <div class="form-group">
+          <label for="fDate">Date Visited</label>
+          <input type="date" name="date" id="fDate">
+        </div>
+        <button type="submit" class="submit-btn">Submit price</button>
+        <div class="form-note">Community-reported prices. Submissions reviewed weekly. Data updated every Monday.</div>
+      </div>
+    </form>
+    <div class="form-success" id="formSuccess">Submitted. You are doing Melbourne a service.</div>
+  </div>
+
+  <!-- Links -->
+  <div class="coffee-section">
+    <h2>Find Cheap Cafes in Your Suburb</h2>
+    <div class="coffee-links" id="coffeeLinks"></div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var SUBURBS = [
+    {slug:"melbourne-cbd",name:"Melbourne CBD",region:"inner-south",avg:7.80,samples:42,trend:"up",rent:480,score:6.2},
+    {slug:"southbank",name:"Southbank",region:"inner-south",avg:7.50,samples:18,trend:"flat",rent:460,score:6.4},
+    {slug:"south-yarra",name:"South Yarra",region:"inner-south",avg:7.20,samples:35,trend:"up",rent:520,score:6.8},
+    {slug:"toorak",name:"Toorak",region:"inner-east",avg:7.40,samples:15,trend:"flat",rent:680,score:5.8},
+    {slug:"malvern",name:"Malvern",region:"inner-east",avg:6.90,samples:14,trend:"flat",rent:500,score:6.5},
+    {slug:"south-melbourne",name:"South Melbourne",region:"inner-south",avg:7.00,samples:22,trend:"flat",rent:520,score:6.6},
+    {slug:"albert-park",name:"Albert Park",region:"bayside",avg:6.80,samples:16,trend:"flat",rent:540,score:7.0},
+    {slug:"docklands",name:"Docklands",region:"inner-south",avg:7.10,samples:12,trend:"down",rent:440,score:6.0},
+    {slug:"prahran",name:"Prahran",region:"inner-south",avg:6.60,samples:28,trend:"flat",rent:470,score:7.2},
+    {slug:"windsor",name:"Windsor",region:"inner-south",avg:6.40,samples:20,trend:"flat",rent:450,score:7.5},
+    {slug:"fitzroy",name:"Fitzroy",region:"inner-north",avg:6.30,samples:48,trend:"flat",rent:490,score:8.5},
+    {slug:"collingwood",name:"Collingwood",region:"inner-north",avg:6.20,samples:38,trend:"flat",rent:460,score:8.2},
+    {slug:"carlton",name:"Carlton",region:"inner-north",avg:5.80,samples:40,trend:"down",rent:420,score:8.8},
+    {slug:"brunswick",name:"Brunswick",region:"inner-north",avg:6.10,samples:52,trend:"flat",rent:420,score:8.4},
+    {slug:"brunswick-east",name:"Brunswick East",region:"inner-north",avg:5.90,samples:22,trend:"flat",rent:410,score:8.6},
+    {slug:"fitzroy-north",name:"Fitzroy North",region:"inner-north",avg:6.20,samples:18,trend:"flat",rent:460,score:8.0},
+    {slug:"abbotsford",name:"Abbotsford",region:"inner-north",avg:6.00,samples:16,trend:"flat",rent:430,score:7.8},
+    {slug:"richmond",name:"Richmond",region:"inner-east",avg:6.10,samples:30,trend:"flat",rent:450,score:7.6},
+    {slug:"cremorne",name:"Cremorne",region:"inner-east",avg:6.30,samples:14,trend:"up",rent:470,score:7.4},
+    {slug:"northcote",name:"Northcote",region:"inner-north",avg:5.80,samples:34,trend:"flat",rent:440,score:8.2},
+    {slug:"thornbury",name:"Thornbury",region:"inner-north",avg:5.60,samples:22,trend:"flat",rent:410,score:8.0},
+    {slug:"clifton-hill",name:"Clifton Hill",region:"inner-north",avg:5.90,samples:12,trend:"flat",rent:440,score:7.8},
+    {slug:"fairfield",name:"Fairfield",region:"inner-north",avg:5.50,samples:8,trend:"flat",rent:400,score:7.5},
+    {slug:"hawthorn",name:"Hawthorn",region:"inner-east",avg:6.00,samples:20,trend:"flat",rent:440,score:7.2},
+    {slug:"kensington",name:"Kensington",region:"west",avg:5.60,samples:14,trend:"flat",rent:430,score:7.8},
+    {slug:"yarraville",name:"Yarraville",region:"west",avg:5.40,samples:24,trend:"flat",rent:430,score:8.2},
+    {slug:"seddon",name:"Seddon",region:"west",avg:5.30,samples:10,trend:"flat",rent:410,score:8.0},
+    {slug:"williamstown",name:"Williamstown",region:"west",avg:5.50,samples:18,trend:"flat",rent:450,score:7.5},
+    {slug:"newport",name:"Newport",region:"west",avg:5.20,samples:12,trend:"flat",rent:410,score:7.8},
+    {slug:"footscray",name:"Footscray",region:"west",avg:4.80,samples:30,trend:"flat",rent:370,score:8.5},
+    {slug:"brighton",name:"Brighton",region:"bayside",avg:6.20,samples:20,trend:"flat",rent:520,score:7.0},
+    {slug:"sandringham",name:"Sandringham",region:"bayside",avg:5.80,samples:10,trend:"flat",rent:470,score:7.2},
+    {slug:"hampton",name:"Hampton",region:"bayside",avg:5.90,samples:12,trend:"flat",rent:480,score:7.0},
+    {slug:"elwood",name:"Elwood",region:"bayside",avg:5.70,samples:16,trend:"flat",rent:440,score:7.6},
+    {slug:"st-kilda",name:"St Kilda",region:"bayside",avg:6.00,samples:28,trend:"flat",rent:450,score:7.8},
+    {slug:"coburg",name:"Coburg",region:"outer",avg:5.20,samples:18,trend:"flat",rent:360,score:7.5},
+    {slug:"preston",name:"Preston",region:"outer",avg:5.00,samples:20,trend:"flat",rent:350,score:7.8},
+    {slug:"reservoir",name:"Reservoir",region:"outer",avg:4.70,samples:14,trend:"flat",rent:320,score:7.2},
+    {slug:"bundoora",name:"Bundoora",region:"outer",avg:4.80,samples:10,trend:"flat",rent:300,score:6.8},
+    {slug:"box-hill",name:"Box Hill",region:"outer",avg:4.60,samples:16,trend:"flat",rent:360,score:7.5},
+    {slug:"sunshine",name:"Sunshine",region:"outer",avg:4.40,samples:12,trend:"flat",rent:310,score:7.0},
+    {slug:"braybrook",name:"Braybrook",region:"outer",avg:4.20,samples:6,trend:"flat",rent:290,score:6.5},
+    {slug:"springvale",name:"Springvale",region:"outer",avg:4.30,samples:14,trend:"flat",rent:300,score:7.8},
+    {slug:"dandenong",name:"Dandenong",region:"outer",avg:4.10,samples:12,trend:"flat",rent:280,score:7.2},
+    {slug:"clayton",name:"Clayton",region:"outer",avg:4.50,samples:16,trend:"flat",rent:330,score:7.5},
+    {slug:"frankston",name:"Frankston",region:"outer",avg:4.60,samples:10,trend:"flat",rent:310,score:6.8},
+    {slug:"altona",name:"Altona",region:"west",avg:5.10,samples:8,trend:"flat",rent:390,score:7.2},
+    {slug:"bentleigh",name:"Bentleigh",region:"bayside",avg:5.60,samples:12,trend:"flat",rent:410,score:7.4},
+    {slug:"caulfield",name:"Caulfield",region:"inner-east",avg:5.70,samples:14,trend:"flat",rent:400,score:7.0},
+    {slug:"carnegie",name:"Carnegie",region:"inner-east",avg:5.40,samples:16,trend:"flat",rent:380,score:7.6},
+    {slug:"malvern-east",name:"Malvern East",region:"inner-east",avg:5.80,samples:8,trend:"flat",rent:420,score:6.8}
+  ];
+
+  // Populate selects
+  var sortedNames = SUBURBS.slice().sort(function(a,b){return a.name.localeCompare(b.name);});
+  ['suburbSearch','fSuburb'].forEach(function(id){
+    var sel = document.getElementById(id);
+    sortedNames.forEach(function(s){
+      var o = document.createElement('option');
+      o.value = s.slug;
+      o.textContent = s.name;
+      sel.appendChild(o);
+    });
+  });
+
+  // Scroll to suburb from URL hash
+  var hash = window.location.hash.replace('#','');
+  if (hash) {
+    var sel = document.getElementById('suburbSearch');
+    for (var i = 0; i < sel.options.length; i++) {
+      if (sel.options[i].value === hash) { sel.selectedIndex = i; break; }
+    }
+    setTimeout(function(){ document.getElementById('searchBtn').click(); }, 300);
+  }
+
+  // Section 1: Search
+  document.getElementById('searchBtn').addEventListener('click', function(){
+    var slug = document.getElementById('suburbSearch').value;
+    if (!slug) return;
+    var s = SUBURBS.find(function(x){return x.slug===slug;});
+    if (!s) return;
+    var card = document.getElementById('suburbCard');
+    card.classList.add('visible');
+    document.getElementById('sccLink').href = '/'+s.slug+'/';
+    document.getElementById('sccLink').textContent = s.name;
+    document.getElementById('sccPrice').textContent = '$'+s.avg.toFixed(2);
+    var priceEl = document.getElementById('sccPrice');
+    priceEl.className = 'val ' + (s.avg < 5.5 ? 'green' : s.avg < 6.5 ? 'amber' : 'red');
+    document.getElementById('sccSamples').textContent = s.samples;
+    var trendEl = document.getElementById('sccTrend');
+    trendEl.textContent = s.trend === 'up' ? '\u2191' : s.trend === 'down' ? '\u2193' : '\u2014';
+    trendEl.className = 'val ' + (s.trend === 'up' ? 'trend-up' : s.trend === 'down' ? 'trend-down' : 'trend-flat');
+    document.getElementById('sccScore').textContent = s.score.toFixed(1);
+  });
+
+  // Section 2: Rankings
+  var currentRegion = 'all';
+  var sortAsc = true;
+
+  function renderTable(){
+    var filtered = currentRegion === 'all' ? SUBURBS.slice() : SUBURBS.filter(function(s){return s.region === currentRegion;});
+    filtered.sort(function(a,b){return sortAsc ? a.avg - b.avg : b.avg - a.avg;});
+    var minAvg = Math.min.apply(null, filtered.map(function(s){return s.avg;}));
+    var maxAvg = Math.max.apply(null, filtered.map(function(s){return s.avg;}));
+    var html = '';
+    filtered.forEach(function(s, i){
+      var cls = s.avg === minAvg ? 'cheapest' : s.avg === maxAvg ? 'expensive' : '';
+      var trendHtml = s.trend === 'up' ? '<span class="trend-up">\u2191</span>' : s.trend === 'down' ? '<span class="trend-down">\u2193</span>' : '<span class="trend-flat">\u2014</span>';
+      html += '<tr><td>'+(i+1)+'</td><td><a href="/'+s.slug+'/">'+s.name+'</a></td><td class="'+cls+'">$'+s.avg.toFixed(2)+'</td><td>'+s.samples+'</td><td>'+trendHtml+'</td><td>'+s.score.toFixed(1)+'</td></tr>';
+    });
+    document.getElementById('rankBody').innerHTML = html;
+  }
+
+  document.getElementById('filterRow').addEventListener('click', function(e){
+    if (!e.target.classList.contains('filter-btn')) return;
+    document.querySelectorAll('.filter-btn').forEach(function(b){b.classList.remove('active');});
+    e.target.classList.add('active');
+    currentRegion = e.target.getAttribute('data-region');
+    renderTable();
+  });
+
+  document.getElementById('sortCheap').addEventListener('click', function(){
+    sortAsc = true;
+    this.classList.add('active');
+    document.getElementById('sortExp').classList.remove('active');
+    renderTable();
+  });
+  document.getElementById('sortExp').addEventListener('click', function(){
+    sortAsc = false;
+    this.classList.add('active');
+    document.getElementById('sortCheap').classList.remove('active');
+    renderTable();
+  });
+
+  renderTable();
+
+  // Section 3: Affordability chart
+  var afford = SUBURBS.map(function(s){
+    return {slug:s.slug, name:s.name, coffees: Math.round(s.rent / s.avg), rent:s.rent, avg:s.avg};
+  }).sort(function(a,b){return b.coffees - a.coffees;}).slice(0,12);
+
+  var maxCoffees = afford[0].coffees;
+  var chartHtml = '';
+  afford.forEach(function(a){
+    var pct = (a.coffees / maxCoffees * 100).toFixed(1);
+    var color = a.coffees >= 80 ? 'var(--green)' : a.coffees >= 60 ? 'var(--amber)' : 'var(--accent)';
+    chartHtml += '<div class="bar-row"><div class="bar-label"><a href="/'+a.slug+'/">'+a.name+'</a></div><div class="bar-track"><div class="bar-fill" style="width:'+pct+'%;background:'+color+'"></div></div><div class="bar-value">'+a.coffees+'</div></div>';
+  });
+  document.getElementById('affordChart').innerHTML = chartHtml;
+
+  var best = afford[0];
+  var worst = afford[afford.length - 1];
+  document.getElementById('affordLabels').innerHTML =
+    '<div class="best-label">Most coffee per rent dollar: '+best.name+' ('+best.coffees+' flat whites/week)</div>' +
+    '<div class="worst-label">Least coffee per rent dollar: '+worst.name+' ('+worst.coffees+' flat whites/week)</div>';
+
+  document.getElementById('shareStatBtn').addEventListener('click', function(){
+    var sel = document.getElementById('suburbSearch').value;
+    var s = sel ? SUBURBS.find(function(x){return x.slug===sel;}) : best;
+    var coffees = Math.round(s.rent / s.avg);
+    var text = 'Renting in '+s.name+' costs me '+coffees+' coffees a week.\nMelbourne Coffee Price Tracker \u2014 melbz.com.au/tools/coffee-price-tracker/';
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(function(){
+        document.getElementById('shareStatBtn').textContent = 'Copied!';
+        setTimeout(function(){ document.getElementById('shareStatBtn').textContent = 'Share this stat'; }, 2000);
+      });
+    }
+  });
+
+  // Section 4: Form
+  document.getElementById('coffeeForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var form = this;
+    var data = new FormData(form);
+    fetch(form.action, {method:'POST',body:data,headers:{'Accept':'application/json'}})
+    .then(function(r){return r.json();})
+    .then(function(){
+      form.style.display = 'none';
+      document.getElementById('formSuccess').style.display = 'block';
+    })
+    .catch(function(){
+      form.style.display = 'none';
+      document.getElementById('formSuccess').style.display = 'block';
+    });
+  });
+
+  // Coffee article links
+  var topSuburbs = ['fitzroy','brunswick','collingwood','carlton','northcote','south-yarra','richmond','footscray','st-kilda','prahran'];
+  var linksHtml = '';
+  topSuburbs.forEach(function(slug){
+    var s = SUBURBS.find(function(x){return x.slug===slug;});
+    if (s) linksHtml += '<a href="/'+slug+'/best-coffee-'+slug+'-2026/">Best coffee in '+s.name+' \u2192</a>';
+  });
+  document.getElementById('coffeeLinks').innerHTML = linksHtml;
+})();
+</script>
+{{ end }}

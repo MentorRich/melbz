@@ -10,6 +10,9 @@ tags:
   - "restaurants"
   - "bars"
   - "melbourne"
+description: "New restaurant, cafe and bar openings in Brunswick East Melbourne 2026. What just landed on Lygon Street and surrounds."
+author: "Dani Rossi"
+suburb: "brunswick-east"
 ---
 
 # New Openings in Brunswick East: What Just Landed on Lygon Street
@@ -145,4 +148,3 @@ The new openings only make it better. Daphne proves the Etta crew can do casual.
 - [Carlton](/carlton/)
 - [Brunswick East](/brunswick-east/)
 - [Hub](/brunswick-east/hub)
-

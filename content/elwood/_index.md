@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Elwood? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Elwood Melbourne — what you need**
+
+- [Find suburbs like Elwood Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Elwood Melbourne — what you need →](/tools/coffee-price-tracker/#elwood)
+- [What Melbourne thinks about Elwood Melbourne — what you need →](/tools/suburb-takedown/?suburb=elwood)
+- [Compare Elwood Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=elwood)

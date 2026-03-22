@@ -10,7 +10,7 @@ keywords:
   - "what is Diamond Creek like"
   - "diamond-creek suburb"
   - "living in Diamond Creek"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/diamond-creek/hero.jpg"
 ---
 
 End of the suburban feel — Diamond Creek Park, bushwalking access, and strong family community.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Diamond Creek? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Diamond Creek Melbourne — what you need**
+
+- [Find suburbs like Diamond Creek Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Diamond Creek Melbourne — what you need →](/tools/coffee-price-tracker/#diamond-creek)
+- [What Melbourne thinks about Diamond Creek Melbourne — what you need →](/tools/suburb-takedown/?suburb=diamond-creek)
+- [Compare Diamond Creek Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=diamond-creek)

@@ -51,3 +51,14 @@ Buy online before you go — it's cheaper than rocking up on the day.
 - [Food Mfwf 2026 Day By Day Guide](/food/mfwf-2026-day-by-day-guide/)
 - [Food New Openings March 2026](/food/new-openings-march-2026/)
 - [Food Melbourne Food Wine Festival 2026 Guide](/food/melbourne-food-wine-festival-2026-guide/)
+
+
+## What Locals Know
+
+Living in Food means understanding the rhythms that listings and guides do not capture. The best spots are not always the most visible ones — locals develop their own routines, their own preferred cafes and walking routes, based on years of trial and error.
+
+## The Honest Take
+
+Food has genuine strengths and real limitations. No suburb is perfect. What matters is whether the strengths align with what you value — whether that is walkability, community feel, food options, or commute times. The best way to know is to spend time here before committing.
+
+For the full picture, see our [Food guide](/food/).

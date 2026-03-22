@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Albert Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Albert Park Melbourne — what you need**
+
+- [Find suburbs like Albert Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Albert Park Melbourne — what you need →](/tools/coffee-price-tracker/#albert-park)
+- [What Melbourne thinks about Albert Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=albert-park)
+- [Compare Albert Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=albert-park)

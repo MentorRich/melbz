@@ -10,7 +10,7 @@ keywords:
   - "what is Dandenong North like"
   - "dandenong-north suburb"
   - "living in Dandenong North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/dandenong-north/hero.jpg"
 ---
 
 Stud Park Shopping Centre, diverse community, and affordable family living.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Dandenong North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Dandenong North Melbourne — what you need**
+
+- [Find suburbs like Dandenong North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Dandenong North Melbourne — what you need →](/tools/coffee-price-tracker/#dandenong-north)
+- [What Melbourne thinks about Dandenong North Melbourne — what you need →](/tools/suburb-takedown/?suburb=dandenong-north)
+- [Compare Dandenong North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=dandenong-north)

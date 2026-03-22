@@ -10,7 +10,7 @@ keywords:
   - "what is Mulgrave like"
   - "mulgrave suburb"
   - "living in Mulgrave"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mulgrave/hero.jpg"
 ---
 
 Waverley Gardens Shopping Centre, corporate parks, and established family living.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Mulgrave? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Mulgrave Melbourne — what you need**
+
+- [Find suburbs like Mulgrave Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Mulgrave Melbourne — what you need →](/tools/coffee-price-tracker/#mulgrave)
+- [What Melbourne thinks about Mulgrave Melbourne — what you need →](/tools/suburb-takedown/?suburb=mulgrave)
+- [Compare Mulgrave Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mulgrave)

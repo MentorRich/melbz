@@ -10,7 +10,7 @@ keywords:
   - "what is Balwyn North like"
   - "balwyn-north suburb"
   - "living in Balwyn North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/balwyn-north/hero.jpg"
 ---
 
 School-focused families, larger blocks, and Greythorn shopping strip.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Balwyn North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Balwyn North Melbourne — what you need**
+
+- [Find suburbs like Balwyn North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Balwyn North Melbourne — what you need →](/tools/coffee-price-tracker/#balwyn-north)
+- [What Melbourne thinks about Balwyn North Melbourne — what you need →](/tools/suburb-takedown/?suburb=balwyn-north)
+- [Compare Balwyn North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=balwyn-north)

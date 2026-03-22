@@ -10,7 +10,7 @@ keywords:
   - "what is Seaford like"
   - "seaford suburb"
   - "living in Seaford"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/seaford/hero.jpg"
 ---
 
 Kananook Creek, beach access, and affordable bayside living near Frankston.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Seaford? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Seaford Melbourne — what you need**
+
+- [Find suburbs like Seaford Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Seaford Melbourne — what you need →](/tools/coffee-price-tracker/#seaford)
+- [What Melbourne thinks about Seaford Melbourne — what you need →](/tools/suburb-takedown/?suburb=seaford)
+- [Compare Seaford Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=seaford)

@@ -81,3 +81,12 @@ Yes. The Astor Theatre is on Dandenong Road at the suburb's edge, screening doub
 Balaclava works for people who value food diversity, train access, and a suburb with genuine cultural character over polished inner-city glamour. Carlisle Street delivers one of Melbourne's best dining strips at prices that will not break you. The Sandringham line gets you to the CBD faster than most tram routes. The trade-off is limited nightlife (this is not [Fitzroy](/fitzroy/) or [St Kilda](/st-kilda/)) and a compact suburb that some find too small. For the right person, that compactness is the point.
 
 Explore our [honest guide](/balaclava/honest-guide/), [neighbourhood guide](/balaclava/neighbourhood-guide/), and [best restaurants](/balaclava/best-restaurants/) for the full picture.
+
+---
+
+**MELBZ Tools for Balaclava Guide 2026: Carlisle Street Food, Train Access, and Inner South-East Living**
+
+- [Find suburbs like Balaclava Guide 2026: Carlisle Street Food, Train Access, and Inner South-East Living →](/tools/suburb-match/)
+- [Coffee prices in Balaclava Guide 2026: Carlisle Street Food, Train Access, and Inner South-East Living →](/tools/coffee-price-tracker/#balaclava)
+- [What Melbourne thinks about Balaclava Guide 2026: Carlisle Street Food, Train Access, and Inner South-East Living →](/tools/suburb-takedown/?suburb=balaclava)
+- [Compare Balaclava Guide 2026: Carlisle Street Food, Train Access, and Inner South-East Living with other suburbs →](/tools/compare-suburbs/?suburbs=balaclava)

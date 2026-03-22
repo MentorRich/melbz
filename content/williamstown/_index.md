@@ -10,7 +10,7 @@ keywords:
   - "what is Williamstown like"
   - "williamstown suburb"
   - "living in Williamstown"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/williamstown/hero.jpg"
 ---
 
 Historic maritime village — Nelson Place restaurants, Williamstown Beach, and ferry views of the city.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Williamstown? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Williamstown Melbourne — what you need**
+
+- [Find suburbs like Williamstown Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Williamstown Melbourne — what you need →](/tools/coffee-price-tracker/#williamstown)
+- [What Melbourne thinks about Williamstown Melbourne — what you need →](/tools/suburb-takedown/?suburb=williamstown)
+- [Compare Williamstown Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=williamstown)

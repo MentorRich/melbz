@@ -10,7 +10,7 @@ keywords:
   - "what is Mernda like"
   - "mernda suburb"
   - "living in Mernda"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mernda/hero.jpg"
 ---
 
 New train station, master-planned estates, and Melbourne's northern growth frontier.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Mernda? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Mernda Melbourne — what you need**
+
+- [Find suburbs like Mernda Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Mernda Melbourne — what you need →](/tools/coffee-price-tracker/#mernda)
+- [What Melbourne thinks about Mernda Melbourne — what you need →](/tools/suburb-takedown/?suburb=mernda)
+- [Compare Mernda Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mernda)

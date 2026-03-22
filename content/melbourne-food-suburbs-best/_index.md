@@ -9,7 +9,7 @@ keywords:
   - "foodie suburbs melbourne"
   - "best restaurants suburbs melbourne"
   - "food scene melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-food-suburbs-best/hero.jpg"
 ---
 
 Which suburbs have the best food scene? From fine dining to late-night kebabs — Melbourne's tastiest postcodes.
@@ -29,3 +29,12 @@ Which suburbs have the best food scene? From fine dining to late-night kebabs �
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Best Melbourne Suburbs for Food Lovers**
+
+- [Find suburbs like Best Melbourne Suburbs for Food Lovers →](/tools/suburb-match/)
+- [Coffee prices in Best Melbourne Suburbs for Food Lovers →](/tools/coffee-price-tracker/#melbourne-food-suburbs-best)
+- [What Melbourne thinks about Best Melbourne Suburbs for Food Lovers →](/tools/suburb-takedown/?suburb=melbourne-food-suburbs-best)
+- [Compare Best Melbourne Suburbs for Food Lovers with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-food-suburbs-best)

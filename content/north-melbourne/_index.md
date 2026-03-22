@@ -10,7 +10,7 @@ keywords:
   - "what is North Melbourne like"
   - "north-melbourne suburb"
   - "living in North Melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/north-melbourne/hero.jpg"
 ---
 
 Working-class roots with a growing cafe scene. Close to everything, still relatively affordable.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about North Melbourne? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for North Melbourne Melbourne — what you need**
+
+- [Find suburbs like North Melbourne Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in North Melbourne Melbourne — what you need →](/tools/coffee-price-tracker/#north-melbourne)
+- [What Melbourne thinks about North Melbourne Melbourne — what you need →](/tools/suburb-takedown/?suburb=north-melbourne)
+- [Compare North Melbourne Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=north-melbourne)

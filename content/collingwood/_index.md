@@ -86,3 +86,12 @@ Collingwood works because it hasn't been smoothed out. The warehouse conversions
 ---
 
 *Got something to add about Collingwood? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Collingwood Melbourne — Suburb Guide 2026**
+
+- [Find suburbs like Collingwood Melbourne — Suburb Guide 2026 →](/tools/suburb-match/)
+- [Coffee prices in Collingwood Melbourne — Suburb Guide 2026 →](/tools/coffee-price-tracker/#collingwood)
+- [What Melbourne thinks about Collingwood Melbourne — Suburb Guide 2026 →](/tools/suburb-takedown/?suburb=collingwood)
+- [Compare Collingwood Melbourne — Suburb Guide 2026 with other suburbs →](/tools/compare-suburbs/?suburbs=collingwood)

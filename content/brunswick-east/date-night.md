@@ -10,6 +10,9 @@ tags:
   - "restaurants"
   - "nightlife"
   - "melbourne"
+description: "Best date night spots in Brunswick East Melbourne. Restaurants, wine bars and evening venues on Lygon Street for 2026."
+author: "Oscar Tan"
+suburb: "brunswick-east"
 ---
 
 # Date Night in Brunswick East: Where to Take Someone You Actually Like
@@ -156,4 +159,3 @@ Brunswick East does date night the way Melbourne does best: good food, good wine
 - [Carlton](/carlton/)
 - [Melbourne Cbd](/melbourne-cbd/)
 - [Brunswick East](/brunswick-east/)
-

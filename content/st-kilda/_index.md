@@ -59,3 +59,12 @@ St Kilda is not Melbourne's prettiest suburb and it is not its quietest. But it 
 ## Keep Exploring
 
 St Kilda's bayside energy is unique, but Melbourne has other rhythms worth discovering. Head to [Fitzroy](/fitzroy/) for Brunswick Street's creative buzz, [Collingwood](/collingwood/) for Smith Street's evolving dining scene, or [Footscray](/footscray/) for Melbourne's most exciting multicultural food strip. Each suburb has its own character, and that is what makes this city worth exploring.
+
+---
+
+**MELBZ Tools for St Kilda Melbourne — Suburb Guide 2026**
+
+- [Find suburbs like St Kilda Melbourne — Suburb Guide 2026 →](/tools/suburb-match/)
+- [Coffee prices in St Kilda Melbourne — Suburb Guide 2026 →](/tools/coffee-price-tracker/#st-kilda)
+- [What Melbourne thinks about St Kilda Melbourne — Suburb Guide 2026 →](/tools/suburb-takedown/?suburb=st-kilda)
+- [Compare St Kilda Melbourne — Suburb Guide 2026 with other suburbs →](/tools/compare-suburbs/?suburbs=st-kilda)

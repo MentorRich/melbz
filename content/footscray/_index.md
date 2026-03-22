@@ -95,3 +95,12 @@ Footscray is Melbourne's inner west at its most genuine — affordable (relative
 ---
 
 *Got something to add about Footscray? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Footscray Melbourne — The Complete Suburb Guide for 2026**
+
+- [Find suburbs like Footscray Melbourne — The Complete Suburb Guide for 2026 →](/tools/suburb-match/)
+- [Coffee prices in Footscray Melbourne — The Complete Suburb Guide for 2026 →](/tools/coffee-price-tracker/#footscray)
+- [What Melbourne thinks about Footscray Melbourne — The Complete Suburb Guide for 2026 →](/tools/suburb-takedown/?suburb=footscray)
+- [Compare Footscray Melbourne — The Complete Suburb Guide for 2026 with other suburbs →](/tools/compare-suburbs/?suburbs=footscray)

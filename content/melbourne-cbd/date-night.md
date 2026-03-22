@@ -50,3 +50,18 @@ Date night in Melbourne CBD has more options than any other city in Australia. T
 - **Casual date**: $80-120 for two
 - **Mid-range**: $150-250 for two
 - **Blow-out**: $350+ for two
+
+
+## Budget Date Night Options
+
+Not every great date costs a fortune. Melbourne Cbd has options for dates under $50 per person — think BYO restaurants, park picnics at sunset, and bar snacks with cocktails. The key is choosing a venue that prioritises atmosphere over price tags. Some of the most memorable dates happen at places with $15 mains and genuine warmth.
+
+## When to Go
+
+Weeknight dates in Melbourne Cbd are underrated. Tuesday and Wednesday evenings mean easier bookings, more attentive service, and no competing with the weekend crowds. For weekend dates, booking ahead is essential — especially for popular spots that fill up by 7pm on Friday and Saturday.
+
+## Getting There and Home
+
+Most date-worthy venues in Melbourne Cbd are accessible by public transport. If you are driving, street parking is available but can be competitive on weekend evenings. Factor in rideshare or taxi options for the return trip — a $20 Uber home is always better than worrying about parking or drink limits.
+
+For more ideas, explore our [full Melbourne Cbd guide](/melbourne-cbd/).

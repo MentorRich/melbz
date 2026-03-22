@@ -10,7 +10,7 @@ keywords:
   - "what is Altona Meadows like"
   - "altona-meadows suburb"
   - "living in Altona Meadows"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/altona-meadows/hero.jpg"
 ---
 
 Truganina Coastal Park, family estates, and an affordable alternative to Altona proper.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Altona Meadows? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Altona Meadows Melbourne — what you need**
+
+- [Find suburbs like Altona Meadows Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Altona Meadows Melbourne — what you need →](/tools/coffee-price-tracker/#altona-meadows)
+- [What Melbourne thinks about Altona Meadows Melbourne — what you need →](/tools/suburb-takedown/?suburb=altona-meadows)
+- [Compare Altona Meadows Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=altona-meadows)

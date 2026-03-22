@@ -10,7 +10,7 @@ keywords:
   - "what is Wantirna South like"
   - "wantirna-south suburb"
   - "living in Wantirna South"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/wantirna-south/hero.jpg"
 ---
 
 Knox City Shopping Centre, Westfield Knox, and family suburbia with Dandenong Creek parkland.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Wantirna South? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Wantirna South Melbourne — what you need**
+
+- [Find suburbs like Wantirna South Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Wantirna South Melbourne — what you need →](/tools/coffee-price-tracker/#wantirna-south)
+- [What Melbourne thinks about Wantirna South Melbourne — what you need →](/tools/suburb-takedown/?suburb=wantirna-south)
+- [Compare Wantirna South Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=wantirna-south)

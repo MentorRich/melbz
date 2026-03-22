@@ -10,7 +10,7 @@ keywords:
   - "what is Studley Park like"
   - "studley-park suburb"
   - "living in Studley Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/studley-park/hero.jpg"
 ---
 
 Yarra Bend parkland pocket with stunning river views and heritage homes.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Studley Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Studley Park Melbourne — what you need**
+
+- [Find suburbs like Studley Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Studley Park Melbourne — what you need →](/tools/coffee-price-tracker/#studley-park)
+- [What Melbourne thinks about Studley Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=studley-park)
+- [Compare Studley Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=studley-park)

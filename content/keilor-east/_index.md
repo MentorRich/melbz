@@ -10,7 +10,7 @@ keywords:
   - "what is Keilor East like"
   - "keilor-east suburb"
   - "living in Keilor East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/keilor-east/hero.jpg"
 ---
 
 Diverse community with DFO Essendon, family parks, and accessible location.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Keilor East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Keilor East Melbourne — what you need**
+
+- [Find suburbs like Keilor East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Keilor East Melbourne — what you need →](/tools/coffee-price-tracker/#keilor-east)
+- [What Melbourne thinks about Keilor East Melbourne — what you need →](/tools/suburb-takedown/?suburb=keilor-east)
+- [Compare Keilor East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=keilor-east)

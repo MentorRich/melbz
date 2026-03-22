@@ -10,7 +10,7 @@ keywords:
   - "what is Kingsville like"
   - "kingsville suburb"
   - "living in Kingsville"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/kingsville/hero.jpg"
 ---
 
 Tiny community between Seddon and Yarraville. Quiet streets and proximity to village life.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Kingsville? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Kingsville Melbourne — what you need**
+
+- [Find suburbs like Kingsville Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Kingsville Melbourne — what you need →](/tools/coffee-price-tracker/#kingsville)
+- [What Melbourne thinks about Kingsville Melbourne — what you need →](/tools/suburb-takedown/?suburb=kingsville)
+- [Compare Kingsville Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=kingsville)

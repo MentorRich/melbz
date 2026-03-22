@@ -4,7 +4,7 @@ description: "Richmond guide 2026: Victoria Street Vietnamese food, Swan Street 
 date: 2026-03-22
 lastmod: 2026-03-22
 author: "Mark Thompson"
-cover_image: "/images/shared/cafe-street.jpg"
+cover_image: "/images/richmond/hero.jpg"
 cover_image_alt: "Richmond Melbourne street scene with shops and cafes"
 suburb: "richmond"
 tags: ["melbourne", "richmond", "suburb-guide"]
@@ -93,3 +93,12 @@ Richmond works for families who want inner-city convenience. Richmond Primary Sc
 ---
 
 *Got something to add about Richmond? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Richmond Melbourne — The Suburb That Runs on Pho and Footy**
+
+- [Find suburbs like Richmond Melbourne — The Suburb That Runs on Pho and Footy →](/tools/suburb-match/)
+- [Coffee prices in Richmond Melbourne — The Suburb That Runs on Pho and Footy →](/tools/coffee-price-tracker/#richmond)
+- [What Melbourne thinks about Richmond Melbourne — The Suburb That Runs on Pho and Footy →](/tools/suburb-takedown/?suburb=richmond)
+- [Compare Richmond Melbourne — The Suburb That Runs on Pho and Footy with other suburbs →](/tools/compare-suburbs/?suburbs=richmond)

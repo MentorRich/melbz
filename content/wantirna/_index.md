@@ -10,7 +10,7 @@ keywords:
   - "what is Wantirna like"
   - "wantirna suburb"
   - "living in Wantirna"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/wantirna/hero.jpg"
 ---
 
 Wantirna Mall, creek trails, and established family streets in the outer east.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Wantirna? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Wantirna Melbourne — what you need**
+
+- [Find suburbs like Wantirna Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Wantirna Melbourne — what you need →](/tools/coffee-price-tracker/#wantirna)
+- [What Melbourne thinks about Wantirna Melbourne — what you need →](/tools/suburb-takedown/?suburb=wantirna)
+- [Compare Wantirna Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=wantirna)

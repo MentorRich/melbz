@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Carnegie? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Carnegie Melbourne — what you need**
+
+- [Find suburbs like Carnegie Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Carnegie Melbourne — what you need →](/tools/coffee-price-tracker/#carnegie)
+- [What Melbourne thinks about Carnegie Melbourne — what you need →](/tools/suburb-takedown/?suburb=carnegie)
+- [Compare Carnegie Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=carnegie)

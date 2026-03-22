@@ -10,7 +10,7 @@ keywords:
   - "what is Caulfield East like"
   - "caulfield-east suburb"
   - "living in Caulfield East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/caulfield-east/hero.jpg"
 ---
 
 Small residential pocket near Caulfield Racecourse.
@@ -93,3 +93,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Caulfield East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Caulfield East Melbourne — what you need**
+
+- [Find suburbs like Caulfield East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Caulfield East Melbourne — what you need →](/tools/coffee-price-tracker/#caulfield-east)
+- [What Melbourne thinks about Caulfield East Melbourne — what you need →](/tools/suburb-takedown/?suburb=caulfield-east)
+- [Compare Caulfield East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=caulfield-east)

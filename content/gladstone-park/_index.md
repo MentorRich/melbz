@@ -10,7 +10,7 @@ keywords:
   - "what is Gladstone Park like"
   - "gladstone-park suburb"
   - "living in Gladstone Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/gladstone-park/hero.jpg"
 ---
 
 Gladstone Park Shopping Centre, family estates, and proximity to the airport corridor.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Gladstone Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Gladstone Park Melbourne — what you need**
+
+- [Find suburbs like Gladstone Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Gladstone Park Melbourne — what you need →](/tools/coffee-price-tracker/#gladstone-park)
+- [What Melbourne thinks about Gladstone Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=gladstone-park)
+- [Compare Gladstone Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=gladstone-park)

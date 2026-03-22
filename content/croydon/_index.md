@@ -10,7 +10,7 @@ keywords:
   - "what is Croydon like"
   - "croydon suburb"
   - "living in Croydon"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/croydon/hero.jpg"
 ---
 
 Main Street shopping, Town Park, and the outer east's emerging village centre.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Croydon? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Croydon Melbourne — what you need**
+
+- [Find suburbs like Croydon Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Croydon Melbourne — what you need →](/tools/coffee-price-tracker/#croydon)
+- [What Melbourne thinks about Croydon Melbourne — what you need →](/tools/suburb-takedown/?suburb=croydon)
+- [Compare Croydon Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=croydon)

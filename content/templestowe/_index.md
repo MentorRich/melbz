@@ -10,7 +10,7 @@ keywords:
   - "what is Templestowe like"
   - "templestowe suburb"
   - "living in Templestowe"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/templestowe/hero.jpg"
 ---
 
 Hilly landscape, large blocks, and a green family suburb with river access.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Templestowe? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Templestowe Melbourne — what you need**
+
+- [Find suburbs like Templestowe Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Templestowe Melbourne — what you need →](/tools/coffee-price-tracker/#templestowe)
+- [What Melbourne thinks about Templestowe Melbourne — what you need →](/tools/suburb-takedown/?suburb=templestowe)
+- [Compare Templestowe Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=templestowe)

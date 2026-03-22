@@ -9,7 +9,7 @@ keywords:
   - "best suburbs dogs melbourne"
   - "off leash parks melbourne"
   - "pet friendly suburbs melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-dog-friendly-suburbs/hero.jpg"
 ---
 
 The best Melbourne suburbs for dog owners — off-leash parks, dog-friendly cafes, and vet access ranked.
@@ -29,3 +29,12 @@ The best Melbourne suburbs for dog owners — off-leash parks, dog-friendly cafe
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Most Dog-Friendly Suburbs in Melbourne**
+
+- [Find suburbs like Most Dog-Friendly Suburbs in Melbourne →](/tools/suburb-match/)
+- [Coffee prices in Most Dog-Friendly Suburbs in Melbourne →](/tools/coffee-price-tracker/#melbourne-dog-friendly-suburbs)
+- [What Melbourne thinks about Most Dog-Friendly Suburbs in Melbourne →](/tools/suburb-takedown/?suburb=melbourne-dog-friendly-suburbs)
+- [Compare Most Dog-Friendly Suburbs in Melbourne with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-dog-friendly-suburbs)

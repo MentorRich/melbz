@@ -10,7 +10,7 @@ keywords:
   - "what is Rosanna like"
   - "rosanna suburb"
   - "living in Rosanna"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/rosanna/hero.jpg"
 ---
 
 Rosanna Village shops, Yarra River access, and family living on the Hurstbridge line.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Rosanna? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Rosanna Melbourne — what you need**
+
+- [Find suburbs like Rosanna Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Rosanna Melbourne — what you need →](/tools/coffee-price-tracker/#rosanna)
+- [What Melbourne thinks about Rosanna Melbourne — what you need →](/tools/suburb-takedown/?suburb=rosanna)
+- [Compare Rosanna Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=rosanna)

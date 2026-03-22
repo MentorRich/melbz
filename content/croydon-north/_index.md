@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Croydon North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Croydon North Melbourne — what you need**
+
+- [Find suburbs like Croydon North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Croydon North Melbourne — what you need →](/tools/coffee-price-tracker/#croydon-north)
+- [What Melbourne thinks about Croydon North Melbourne — what you need →](/tools/suburb-takedown/?suburb=croydon-north)
+- [Compare Croydon North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=croydon-north)

@@ -10,7 +10,7 @@ keywords:
   - "what is Beaconsfield like"
   - "beaconsfield suburb"
   - "living in Beaconsfield"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/beaconsfield/hero.jpg"
 ---
 
 Country feel within the suburban boundary. Upper Beaconsfield hills access and family living.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Beaconsfield? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Beaconsfield Melbourne — what you need**
+
+- [Find suburbs like Beaconsfield Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Beaconsfield Melbourne — what you need →](/tools/coffee-price-tracker/#beaconsfield)
+- [What Melbourne thinks about Beaconsfield Melbourne — what you need →](/tools/suburb-takedown/?suburb=beaconsfield)
+- [Compare Beaconsfield Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=beaconsfield)

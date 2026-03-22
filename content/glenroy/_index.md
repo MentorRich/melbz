@@ -10,7 +10,7 @@ keywords:
   - "what is Glenroy like"
   - "glenroy suburb"
   - "living in Glenroy"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/glenroy/hero.jpg"
 ---
 
 Train station revamp, diverse food strip, and affordable family living in the north.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Glenroy? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Glenroy Melbourne — what you need**
+
+- [Find suburbs like Glenroy Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Glenroy Melbourne — what you need →](/tools/coffee-price-tracker/#glenroy)
+- [What Melbourne thinks about Glenroy Melbourne — what you need →](/tools/suburb-takedown/?suburb=glenroy)
+- [Compare Glenroy Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=glenroy)

@@ -10,7 +10,7 @@ keywords:
   - "what is Keilor Downs like"
   - "keilor-downs suburb"
   - "living in Keilor Downs"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/keilor-downs/hero.jpg"
 ---
 
 Watergardens proximity, established family estates, and multicultural community.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Keilor Downs? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Keilor Downs Melbourne — what you need**
+
+- [Find suburbs like Keilor Downs Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Keilor Downs Melbourne — what you need →](/tools/coffee-price-tracker/#keilor-downs)
+- [What Melbourne thinks about Keilor Downs Melbourne — what you need →](/tools/suburb-takedown/?suburb=keilor-downs)
+- [Compare Keilor Downs Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=keilor-downs)

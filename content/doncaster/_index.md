@@ -10,7 +10,7 @@ keywords:
   - "what is Doncaster like"
   - "doncaster suburb"
   - "living in Doncaster"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/doncaster/hero.jpg"
 ---
 
 Westfield Doncaster, hilltop views, and a strong Chinese-Australian family community.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Doncaster? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Doncaster Melbourne — what you need**
+
+- [Find suburbs like Doncaster Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Doncaster Melbourne — what you need →](/tools/coffee-price-tracker/#doncaster)
+- [What Melbourne thinks about Doncaster Melbourne — what you need →](/tools/suburb-takedown/?suburb=doncaster)
+- [Compare Doncaster Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=doncaster)

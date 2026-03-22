@@ -10,7 +10,7 @@ keywords:
   - "what is Tecoma like"
   - "tecoma suburb"
   - "living in Tecoma"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/tecoma/hero.jpg"
 ---
 
 Small Dandenong Ranges village with Belgrave line access and bush surroundings.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Tecoma? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Tecoma Melbourne — what you need**
+
+- [Find suburbs like Tecoma Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Tecoma Melbourne — what you need →](/tools/coffee-price-tracker/#tecoma)
+- [What Melbourne thinks about Tecoma Melbourne — what you need →](/tools/suburb-takedown/?suburb=tecoma)
+- [Compare Tecoma Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=tecoma)

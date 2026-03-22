@@ -124,3 +124,12 @@ It is not cheap, not quiet, and not for everyone. But for the people it suits, i
 ---
 
 *Something we missed? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Brunswick**
+
+- [Find suburbs like Brunswick →](/tools/suburb-match/)
+- [Coffee prices in Brunswick →](/tools/coffee-price-tracker/#brunswick)
+- [What Melbourne thinks about Brunswick →](/tools/suburb-takedown/?suburb=brunswick)
+- [Compare Brunswick with other suburbs →](/tools/compare-suburbs/?suburbs=brunswick)

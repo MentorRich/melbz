@@ -10,7 +10,7 @@ keywords:
   - "what is Lower Plenty like"
   - "lower-plenty suburb"
   - "living in Lower Plenty"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/lower-plenty/hero.jpg"
 ---
 
 Riverside bushland, large blocks, and a truly semi-rural pocket within 20km of the city.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Lower Plenty? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Lower Plenty Melbourne — what you need**
+
+- [Find suburbs like Lower Plenty Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Lower Plenty Melbourne — what you need →](/tools/coffee-price-tracker/#lower-plenty)
+- [What Melbourne thinks about Lower Plenty Melbourne — what you need →](/tools/suburb-takedown/?suburb=lower-plenty)
+- [Compare Lower Plenty Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=lower-plenty)

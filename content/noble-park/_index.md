@@ -10,7 +10,7 @@ keywords:
   - "what is Noble Park like"
   - "noble-park suburb"
   - "living in Noble Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/noble-park/hero.jpg"
 ---
 
 Ross Reserve, station upgrade, and a diverse community riding the Dandenong corridor growth.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Noble Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Noble Park Melbourne — what you need**
+
+- [Find suburbs like Noble Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Noble Park Melbourne — what you need →](/tools/coffee-price-tracker/#noble-park)
+- [What Melbourne thinks about Noble Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=noble-park)
+- [Compare Noble Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=noble-park)

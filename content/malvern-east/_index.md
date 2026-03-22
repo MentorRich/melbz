@@ -10,7 +10,7 @@ keywords:
   - "what is Malvern East like"
   - "malvern-east suburb"
   - "living in Malvern East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/malvern-east/hero.jpg"
 ---
 
 Central Park, quiet family streets, and proximity to Chadstone shopping.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Malvern East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Malvern East Melbourne — what you need**
+
+- [Find suburbs like Malvern East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Malvern East Melbourne — what you need →](/tools/coffee-price-tracker/#malvern-east)
+- [What Melbourne thinks about Malvern East Melbourne — what you need →](/tools/suburb-takedown/?suburb=malvern-east)
+- [Compare Malvern East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=malvern-east)

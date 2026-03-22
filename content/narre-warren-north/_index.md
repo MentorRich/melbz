@@ -10,7 +10,7 @@ keywords:
   - "what is Narre Warren North like"
   - "narre-warren-north suburb"
   - "living in Narre Warren North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/narre-warren-north/hero.jpg"
 ---
 
 Semi-rural acreage pocket near Berwick with large blocks and horse properties.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Narre Warren North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Narre Warren North Melbourne — what you need**
+
+- [Find suburbs like Narre Warren North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Narre Warren North Melbourne — what you need →](/tools/coffee-price-tracker/#narre-warren-north)
+- [What Melbourne thinks about Narre Warren North Melbourne — what you need →](/tools/suburb-takedown/?suburb=narre-warren-north)
+- [Compare Narre Warren North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=narre-warren-north)

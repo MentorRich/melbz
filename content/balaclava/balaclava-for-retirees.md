@@ -41,3 +41,14 @@ The residential streets off Carlisle — particularly between Inkerman Street an
 Balaclava suits retirees who want train access, walkable shops, and multicultural food on their doorstep. The Sandringham line eliminates the need to drive for most trips. Carlisle Street covers daily needs. The compact suburb means everything is close. The trade-off is limited green space — for parks, you walk to Caulfield Park or [St Kilda](/st-kilda/) beach.
 
 For more: [cost of living](/balaclava/cost-of-living/), [transport guide](/balaclava/transport-guide/), [suburb guide](/balaclava/).
+
+
+## What Locals Know
+
+Living in Balaclava means understanding the rhythms that listings and guides do not capture. The best spots are not always the most visible ones — locals develop their own routines, their own preferred cafes and walking routes, based on years of trial and error.
+
+## The Honest Take
+
+Balaclava has genuine strengths and real limitations. No suburb is perfect. What matters is whether the strengths align with what you value — whether that is walkability, community feel, food options, or commute times. The best way to know is to spend time here before committing.
+
+For the full picture, see our [Balaclava guide](/balaclava/).

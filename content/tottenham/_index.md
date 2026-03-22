@@ -10,7 +10,7 @@ keywords:
   - "what is Tottenham like"
   - "tottenham suburb"
   - "living in Tottenham"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/tottenham/hero.jpg"
 ---
 
 Primarily industrial with pockets of residential. Rail yards and freight hub.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Tottenham? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Tottenham Melbourne — what you need**
+
+- [Find suburbs like Tottenham Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Tottenham Melbourne — what you need →](/tools/coffee-price-tracker/#tottenham)
+- [What Melbourne thinks about Tottenham Melbourne — what you need →](/tools/suburb-takedown/?suburb=tottenham)
+- [Compare Tottenham Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=tottenham)

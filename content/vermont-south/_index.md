@@ -10,7 +10,7 @@ keywords:
   - "what is Vermont South like"
   - "vermont-south suburb"
   - "living in Vermont South"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/vermont-south/hero.jpg"
 ---
 
 Family estates, Vermont South Shopping Centre, and proximity to Knox and Eastland.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Vermont South? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Vermont South Melbourne — what you need**
+
+- [Find suburbs like Vermont South Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Vermont South Melbourne — what you need →](/tools/coffee-price-tracker/#vermont-south)
+- [What Melbourne thinks about Vermont South Melbourne — what you need →](/tools/suburb-takedown/?suburb=vermont-south)
+- [Compare Vermont South Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=vermont-south)

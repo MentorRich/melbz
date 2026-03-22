@@ -10,7 +10,7 @@ keywords:
   - "what is West Melbourne like"
   - "west-melbourne suburb"
   - "living in West Melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/west-melbourne/hero.jpg"
 ---
 
 A suburb in transition — warehouses turning into apartments, with the city literally next door.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about West Melbourne? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for West Melbourne Melbourne — what you need**
+
+- [Find suburbs like West Melbourne Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in West Melbourne Melbourne — what you need →](/tools/coffee-price-tracker/#west-melbourne)
+- [What Melbourne thinks about West Melbourne Melbourne — what you need →](/tools/suburb-takedown/?suburb=west-melbourne)
+- [Compare West Melbourne Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=west-melbourne)

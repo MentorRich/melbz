@@ -9,7 +9,7 @@ keywords:
   - "f1 melbourne where to stay"
   - "grand prix suburbs melbourne"
   - "albert park f1 guide"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-grand-prix-2026-suburb-guide/hero.jpg"
 ---
 
 Melbourne Grand Prix guide: which suburbs are closest to Albert Park, where to eat, and where to stay.
@@ -36,3 +36,12 @@ Melbourne Grand Prix guide: which suburbs are closest to Albert Park, where to e
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for F1 Grand Prix Melbourne — Where to Stay and Eat by Suburb**
+
+- [Find suburbs like F1 Grand Prix Melbourne — Where to Stay and Eat by Suburb →](/tools/suburb-match/)
+- [Coffee prices in F1 Grand Prix Melbourne — Where to Stay and Eat by Suburb →](/tools/coffee-price-tracker/#melbourne-grand-prix-2026-suburb-guide)
+- [What Melbourne thinks about F1 Grand Prix Melbourne — Where to Stay and Eat by Suburb →](/tools/suburb-takedown/?suburb=melbourne-grand-prix-2026-suburb-guide)
+- [Compare F1 Grand Prix Melbourne — Where to Stay and Eat by Suburb with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-grand-prix-2026-suburb-guide)

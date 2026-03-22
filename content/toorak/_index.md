@@ -67,3 +67,12 @@ Toorak is beautiful, expensive, and slightly insecure about being slightly borin
 ---
 
 *Got something to add about Toorak? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Toorak**
+
+- [Find suburbs like Toorak →](/tools/suburb-match/)
+- [Coffee prices in Toorak →](/tools/coffee-price-tracker/#toorak)
+- [What Melbourne thinks about Toorak →](/tools/suburb-takedown/?suburb=toorak)
+- [Compare Toorak with other suburbs →](/tools/compare-suburbs/?suburbs=toorak)

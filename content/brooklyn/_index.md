@@ -10,7 +10,7 @@ keywords:
   - "what is Brooklyn like"
   - "brooklyn suburb"
   - "living in Brooklyn"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/brooklyn/hero.jpg"
 ---
 
 Industrial suburb transitioning. Close to the West Gate but not much walking around here yet.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Brooklyn? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Brooklyn Melbourne — what you need**
+
+- [Find suburbs like Brooklyn Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Brooklyn Melbourne — what you need →](/tools/coffee-price-tracker/#brooklyn)
+- [What Melbourne thinks about Brooklyn Melbourne — what you need →](/tools/suburb-takedown/?suburb=brooklyn)
+- [Compare Brooklyn Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=brooklyn)

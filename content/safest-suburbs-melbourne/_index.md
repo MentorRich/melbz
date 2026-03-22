@@ -9,7 +9,7 @@ keywords:
   - "lowest crime suburbs melbourne"
   - "safe areas melbourne"
   - "best suburbs families safety melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/safest-suburbs-melbourne/hero.jpg"
 ---
 
 Which Melbourne suburbs are actually the safest? We looked at the data and talked to locals to find out.
@@ -40,3 +40,11 @@ It's not just about crime statistics. The suburbs that feel safest share common 
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+---
+
+**MELBZ Tools for Safest Suburbs in Melbourne — The Honest List**
+
+- [Find suburbs like Safest Suburbs in Melbourne — The Honest List →](/tools/suburb-match/)
+- [Coffee prices in Safest Suburbs in Melbourne — The Honest List →](/tools/coffee-price-tracker/#safest-suburbs-melbourne)
+- [What Melbourne thinks about Safest Suburbs in Melbourne — The Honest List →](/tools/suburb-takedown/?suburb=safest-suburbs-melbourne)
+- [Compare Safest Suburbs in Melbourne — The Honest List with other suburbs →](/tools/compare-suburbs/?suburbs=safest-suburbs-melbourne)

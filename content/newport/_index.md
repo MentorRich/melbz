@@ -10,7 +10,7 @@ keywords:
   - "what is Newport like"
   - "newport suburb"
   - "living in Newport"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/newport/hero.jpg"
 ---
 
 Mason Street shops, express trains to the city, and a growing cafe scene rivalling Yarraville.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Newport? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Newport Melbourne — what you need**
+
+- [Find suburbs like Newport Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Newport Melbourne — what you need →](/tools/coffee-price-tracker/#newport)
+- [What Melbourne thinks about Newport Melbourne — what you need →](/tools/suburb-takedown/?suburb=newport)
+- [Compare Newport Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=newport)

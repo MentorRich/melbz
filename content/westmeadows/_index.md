@@ -10,7 +10,7 @@ keywords:
   - "what is Westmeadows like"
   - "westmeadows suburb"
   - "living in Westmeadows"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/westmeadows/hero.jpg"
 ---
 
 Quiet northern pocket between Broadmeadows and the airport zone with family homes.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Westmeadows? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Westmeadows Melbourne — what you need**
+
+- [Find suburbs like Westmeadows Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Westmeadows Melbourne — what you need →](/tools/coffee-price-tracker/#westmeadows)
+- [What Melbourne thinks about Westmeadows Melbourne — what you need →](/tools/suburb-takedown/?suburb=westmeadows)
+- [Compare Westmeadows Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=westmeadows)

@@ -10,7 +10,7 @@ keywords:
   - "what is Caulfield South like"
   - "caulfield-south suburb"
   - "living in Caulfield South"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/caulfield-south/hero.jpg"
 ---
 
 Quiet streets south of Caulfield with Woolworths access and a purely residential character.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Caulfield South? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Caulfield South Melbourne — what you need**
+
+- [Find suburbs like Caulfield South Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Caulfield South Melbourne — what you need →](/tools/coffee-price-tracker/#caulfield-south)
+- [What Melbourne thinks about Caulfield South Melbourne — what you need →](/tools/suburb-takedown/?suburb=caulfield-south)
+- [Compare Caulfield South Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=caulfield-south)

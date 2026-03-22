@@ -10,7 +10,7 @@ keywords:
   - "what is Boronia like"
   - "boronia suburb"
   - "living in Boronia"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/boronia/hero.jpg"
 ---
 
 Boronia Mall, Dandenong Ranges access, and a practical outer-east suburb with train access.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Boronia? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Boronia Melbourne — what you need**
+
+- [Find suburbs like Boronia Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Boronia Melbourne — what you need →](/tools/coffee-price-tracker/#boronia)
+- [What Melbourne thinks about Boronia Melbourne — what you need →](/tools/suburb-takedown/?suburb=boronia)
+- [Compare Boronia Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=boronia)

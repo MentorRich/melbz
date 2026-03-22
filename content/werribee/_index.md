@@ -10,7 +10,7 @@ keywords:
   - "what is Werribee like"
   - "werribee suburb"
   - "living in Werribee"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/werribee/hero.jpg"
 ---
 
 Werribee town centre, zoo, river trail, and the western growth corridor's main regional centre.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Werribee? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Werribee Melbourne — what you need**
+
+- [Find suburbs like Werribee Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Werribee Melbourne — what you need →](/tools/coffee-price-tracker/#werribee)
+- [What Melbourne thinks about Werribee Melbourne — what you need →](/tools/suburb-takedown/?suburb=werribee)
+- [Compare Werribee Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=werribee)

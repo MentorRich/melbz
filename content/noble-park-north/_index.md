@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Noble Park North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Noble Park North Melbourne — what you need**
+
+- [Find suburbs like Noble Park North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Noble Park North Melbourne — what you need →](/tools/coffee-price-tracker/#noble-park-north)
+- [What Melbourne thinks about Noble Park North Melbourne — what you need →](/tools/suburb-takedown/?suburb=noble-park-north)
+- [Compare Noble Park North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=noble-park-north)

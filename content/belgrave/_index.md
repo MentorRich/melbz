@@ -10,7 +10,7 @@ keywords:
   - "what is Belgrave like"
   - "belgrave suburb"
   - "living in Belgrave"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/belgrave/hero.jpg"
 ---
 
 Puffing Billy terminus, Dandenong Ranges village, and artists' community in the hills.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Belgrave? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Belgrave Melbourne — what you need**
+
+- [Find suburbs like Belgrave Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Belgrave Melbourne — what you need →](/tools/coffee-price-tracker/#belgrave)
+- [What Melbourne thinks about Belgrave Melbourne — what you need →](/tools/suburb-takedown/?suburb=belgrave)
+- [Compare Belgrave Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=belgrave)

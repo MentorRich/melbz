@@ -59,3 +59,14 @@ Cafe-meets-bookshop. Buy a book, get a coffee discount. The food is better than 
 ## The Pattern
 
 Melbourne CBD openings in 2026 follow a clear trend: smaller venues, more specialised concepts, and a rejection of the something for everyone approach.
+
+
+## What Locals Know
+
+Living in Melbourne Cbd means understanding the rhythms that listings and guides do not capture. The best spots are not always the most visible ones — locals develop their own routines, their own preferred cafes and walking routes, based on years of trial and error.
+
+## The Honest Take
+
+Melbourne Cbd has genuine strengths and real limitations. No suburb is perfect. What matters is whether the strengths align with what you value — whether that is walkability, community feel, food options, or commute times. The best way to know is to spend time here before committing.
+
+For the full picture, see our [Melbourne Cbd guide](/melbourne-cbd/).

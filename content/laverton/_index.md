@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Laverton? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Laverton Melbourne — what you need**
+
+- [Find suburbs like Laverton Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Laverton Melbourne — what you need →](/tools/coffee-price-tracker/#laverton)
+- [What Melbourne thinks about Laverton Melbourne — what you need →](/tools/suburb-takedown/?suburb=laverton)
+- [Compare Laverton Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=laverton)

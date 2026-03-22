@@ -70,3 +70,12 @@ Fitzroy North does not have its own train station. The nearest is Rushall statio
 ---
 
 *Got something to add about Fitzroy North? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Fitzroy North Melbourne — Edinburgh Gardens, Brunswick Street and the Quieter Inner North**
+
+- [Find suburbs like Fitzroy North Melbourne — Edinburgh Gardens, Brunswick Street and the Quieter Inner North →](/tools/suburb-match/)
+- [Coffee prices in Fitzroy North Melbourne — Edinburgh Gardens, Brunswick Street and the Quieter Inner North →](/tools/coffee-price-tracker/#fitzroy-north)
+- [What Melbourne thinks about Fitzroy North Melbourne — Edinburgh Gardens, Brunswick Street and the Quieter Inner North →](/tools/suburb-takedown/?suburb=fitzroy-north)
+- [Compare Fitzroy North Melbourne — Edinburgh Gardens, Brunswick Street and the Quieter Inner North with other suburbs →](/tools/compare-suburbs/?suburbs=fitzroy-north)

@@ -10,7 +10,7 @@ keywords:
   - "what is Bayswater like"
   - "bayswater suburb"
   - "living in Bayswater"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/bayswater/hero.jpg"
 ---
 
 Mountain Highway shops, train access, and affordable eastern suburbs living near the Dandenongs.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Bayswater? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Bayswater Melbourne — what you need**
+
+- [Find suburbs like Bayswater Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Bayswater Melbourne — what you need →](/tools/coffee-price-tracker/#bayswater)
+- [What Melbourne thinks about Bayswater Melbourne — what you need →](/tools/suburb-takedown/?suburb=bayswater)
+- [Compare Bayswater Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=bayswater)

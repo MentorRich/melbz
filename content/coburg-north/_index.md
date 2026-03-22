@@ -10,7 +10,7 @@ keywords:
   - "what is Coburg North like"
   - "coburg-north suburb"
   - "living in Coburg North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/coburg-north/hero.jpg"
 ---
 
 Quieter, more suburban extension of Coburg with bigger blocks and Merri Creek parkland.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Coburg North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Coburg North Melbourne — what you need**
+
+- [Find suburbs like Coburg North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Coburg North Melbourne — what you need →](/tools/coffee-price-tracker/#coburg-north)
+- [What Melbourne thinks about Coburg North Melbourne — what you need →](/tools/suburb-takedown/?suburb=coburg-north)
+- [Compare Coburg North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=coburg-north)

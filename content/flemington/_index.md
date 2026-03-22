@@ -36,3 +36,12 @@ Flemington connects naturally to its neighbours. Walk east into [Kensington](/ke
 ---
 
 *Got something to add about Flemington? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Flemington**
+
+- [Find suburbs like Flemington →](/tools/suburb-match/)
+- [Coffee prices in Flemington →](/tools/coffee-price-tracker/#flemington)
+- [What Melbourne thinks about Flemington →](/tools/suburb-takedown/?suburb=flemington)
+- [Compare Flemington with other suburbs →](/tools/compare-suburbs/?suburbs=flemington)

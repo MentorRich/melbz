@@ -109,3 +109,12 @@ Brunswick East in 2026 is one of Melbourne's most liveable inner-north suburbs. 
 ---
 
 *Got something to add about Brunswick East? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Brunswick East Melbourne — what you need**
+
+- [Find suburbs like Brunswick East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Brunswick East Melbourne — what you need →](/tools/coffee-price-tracker/#brunswick-east)
+- [What Melbourne thinks about Brunswick East Melbourne — what you need →](/tools/suburb-takedown/?suburb=brunswick-east)
+- [Compare Brunswick East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=brunswick-east)

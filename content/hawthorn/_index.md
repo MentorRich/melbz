@@ -103,3 +103,12 @@ Swinburne University, the Glenferrie Road shopping strip, heritage homes on leaf
 - **[Camberwell](/camberwell/)** — Camberwell Junction shopping, the famous Sunday market, and heritage homes. Similar demographics, slightly further from the CBD.
 - **[Richmond](/richmond/)** — Bridge Road shopping, Victoria Street Vietnamese food, and Swan Street's pub scene. Cheaper, grittier, and better nightlife.
 - **[Hawthorn East](/hawthorn-east/)** — Quieter extension of Hawthorn with Auburn Village shops and easy access to Camberwell amenities.
+
+---
+
+**MELBZ Tools for Hawthorn Melbourne — The Complete Suburb Guide 2026**
+
+- [Find suburbs like Hawthorn Melbourne — The Complete Suburb Guide 2026 →](/tools/suburb-match/)
+- [Coffee prices in Hawthorn Melbourne — The Complete Suburb Guide 2026 →](/tools/coffee-price-tracker/#hawthorn)
+- [What Melbourne thinks about Hawthorn Melbourne — The Complete Suburb Guide 2026 →](/tools/suburb-takedown/?suburb=hawthorn)
+- [Compare Hawthorn Melbourne — The Complete Suburb Guide 2026 with other suburbs →](/tools/compare-suburbs/?suburbs=hawthorn)

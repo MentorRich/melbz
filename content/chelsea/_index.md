@@ -10,7 +10,7 @@ keywords:
   - "what is Chelsea like"
   - "chelsea suburb"
   - "living in Chelsea"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/chelsea/hero.jpg"
 ---
 
 Chelsea Beach, pier, and a small community with affordable bayside homes.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Chelsea? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Chelsea Melbourne — what you need**
+
+- [Find suburbs like Chelsea Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Chelsea Melbourne — what you need →](/tools/coffee-price-tracker/#chelsea)
+- [What Melbourne thinks about Chelsea Melbourne — what you need →](/tools/suburb-takedown/?suburb=chelsea)
+- [Compare Chelsea Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=chelsea)

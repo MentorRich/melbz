@@ -10,7 +10,7 @@ keywords:
   - "what is Burwood East like"
   - "burwood-east suburb"
   - "living in Burwood East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/burwood-east/hero.jpg"
 ---
 
 Burwood East Village, Blackburn Lake, and family homes with eastern suburbs convenience.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Burwood East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Burwood East Melbourne — what you need**
+
+- [Find suburbs like Burwood East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Burwood East Melbourne — what you need →](/tools/coffee-price-tracker/#burwood-east)
+- [What Melbourne thinks about Burwood East Melbourne — what you need →](/tools/suburb-takedown/?suburb=burwood-east)
+- [Compare Burwood East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=burwood-east)

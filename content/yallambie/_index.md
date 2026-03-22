@@ -10,7 +10,7 @@ keywords:
   - "what is Yallambie like"
   - "yallambie suburb"
   - "living in Yallambie"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/yallambie/hero.jpg"
 ---
 
 Quiet and leafy near La Trobe Uni. Residential streets backing onto parkland.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Yallambie? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Yallambie Melbourne — what you need**
+
+- [Find suburbs like Yallambie Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Yallambie Melbourne — what you need →](/tools/coffee-price-tracker/#yallambie)
+- [What Melbourne thinks about Yallambie Melbourne — what you need →](/tools/suburb-takedown/?suburb=yallambie)
+- [Compare Yallambie Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=yallambie)

@@ -117,3 +117,12 @@ Yarraville is Melbourne's inner west at its most charming. The Sun Theatre, Ande
 - **[Seddon](/seddon/)** — Yarraville's slightly more polished sibling. Similar village feel, further along the gentrification curve.
 - **[Brunswick](/brunswick/)** — Inner north alternative with comparable community energy but a very different character.
 - **[Spotswood](/spotswood/)** — Scienceworks, craft breweries, and a quieter pocket south of Yarraville.
+
+---
+
+**MELBZ Tools for Yarraville Melbourne — The Complete Suburb Guide**
+
+- [Find suburbs like Yarraville Melbourne — The Complete Suburb Guide →](/tools/suburb-match/)
+- [Coffee prices in Yarraville Melbourne — The Complete Suburb Guide →](/tools/coffee-price-tracker/#yarraville)
+- [What Melbourne thinks about Yarraville Melbourne — The Complete Suburb Guide →](/tools/suburb-takedown/?suburb=yarraville)
+- [Compare Yarraville Melbourne — The Complete Suburb Guide with other suburbs →](/tools/compare-suburbs/?suburbs=yarraville)

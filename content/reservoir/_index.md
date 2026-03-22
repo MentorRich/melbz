@@ -10,7 +10,7 @@ keywords:
   - "what is Reservoir like"
   - "reservoir suburb"
   - "living in Reservoir"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/reservoir/hero.jpg"
 ---
 
 Big, diverse, and still affordable. Edwardes Lake, Broadway shopping, and family-friendly streets.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Reservoir? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Reservoir Melbourne — what you need**
+
+- [Find suburbs like Reservoir Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Reservoir Melbourne — what you need →](/tools/coffee-price-tracker/#reservoir)
+- [What Melbourne thinks about Reservoir Melbourne — what you need →](/tools/suburb-takedown/?suburb=reservoir)
+- [Compare Reservoir Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=reservoir)

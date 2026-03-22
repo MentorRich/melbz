@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Strathmore Heights? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Strathmore Heights Melbourne — what you need**
+
+- [Find suburbs like Strathmore Heights Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Strathmore Heights Melbourne — what you need →](/tools/coffee-price-tracker/#strathmore-heights)
+- [What Melbourne thinks about Strathmore Heights Melbourne — what you need →](/tools/suburb-takedown/?suburb=strathmore-heights)
+- [Compare Strathmore Heights Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=strathmore-heights)

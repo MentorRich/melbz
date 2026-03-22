@@ -9,7 +9,7 @@ keywords:
   - "up and coming suburbs melbourne 2026"
   - "next big suburb melbourne"
   - "gentrification melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-gentrification-suburbs-2026/hero.jpg"
 ---
 
 Which Melbourne suburbs are in the middle of gentrification right now? And which ones are next? The honest rundown.
@@ -33,3 +33,12 @@ The signs are consistent: specialty coffee arrives first, then the wine bar, the
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Melbourne Gentrification Suburbs 2026**
+
+- [Find suburbs like Melbourne Gentrification Suburbs 2026 →](/tools/suburb-match/)
+- [Coffee prices in Melbourne Gentrification Suburbs 2026 →](/tools/coffee-price-tracker/#melbourne-gentrification-suburbs-2026)
+- [What Melbourne thinks about Melbourne Gentrification Suburbs 2026 →](/tools/suburb-takedown/?suburb=melbourne-gentrification-suburbs-2026)
+- [Compare Melbourne Gentrification Suburbs 2026 with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-gentrification-suburbs-2026)

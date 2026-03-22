@@ -10,7 +10,7 @@ keywords:
   - "what is Keilor Park like"
   - "keilor-park suburb"
   - "living in Keilor Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/keilor-park/hero.jpg"
 ---
 
 Mixed industrial and residential near the airport corridor.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Keilor Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Keilor Park Melbourne — what you need**
+
+- [Find suburbs like Keilor Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Keilor Park Melbourne — what you need →](/tools/coffee-price-tracker/#keilor-park)
+- [What Melbourne thinks about Keilor Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=keilor-park)
+- [Compare Keilor Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=keilor-park)

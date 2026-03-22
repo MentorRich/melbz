@@ -9,7 +9,7 @@ keywords:
   - "well connected suburbs melbourne"
   - "best commute melbourne"
   - "train line suburbs melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-public-transport-best-suburbs/hero.jpg"
 ---
 
 Which Melbourne suburbs have the best public transport connections? Train, tram, and bus rankings for commuters.
@@ -29,3 +29,12 @@ Which Melbourne suburbs have the best public transport connections? Train, tram,
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Best Connected Suburbs in Melbourne — Transport Rankings**
+
+- [Find suburbs like Best Connected Suburbs in Melbourne — Transport Rankings →](/tools/suburb-match/)
+- [Coffee prices in Best Connected Suburbs in Melbourne — Transport Rankings →](/tools/coffee-price-tracker/#melbourne-public-transport-best-suburbs)
+- [What Melbourne thinks about Best Connected Suburbs in Melbourne — Transport Rankings →](/tools/suburb-takedown/?suburb=melbourne-public-transport-best-suburbs)
+- [Compare Best Connected Suburbs in Melbourne — Transport Rankings with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-public-transport-best-suburbs)

@@ -10,6 +10,9 @@ tags:
   - "cafes"
   - "food"
   - "melbourne"
+description: "The 9 best brunch spots in Brunswick East Melbourne 2026. From Lygon Street cafes to backstreet gems, where locals actually eat on weekends."
+author: "Grace Park"
+suburb: "brunswick-east"
 ---
 
 # 9 Best Brunch Spots in Brunswick East — 2026 Local Guide
@@ -165,4 +168,3 @@ Brunswick East brunch isn't about spectacle. It's about places that have earned 
 - [Fitzroy](/fitzroy/)
 - [Brunswick](/brunswick/)
 - [Carlton](/carlton/)
-

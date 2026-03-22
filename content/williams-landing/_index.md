@@ -10,7 +10,7 @@ keywords:
   - "what is Williams Landing like"
   - "williams-landing suburb"
   - "living in Williams Landing"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/williams-landing/hero.jpg"
 ---
 
 New station, new shopping centre, and a purpose-built transit-oriented suburb.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Williams Landing? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Williams Landing Melbourne — what you need**
+
+- [Find suburbs like Williams Landing Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Williams Landing Melbourne — what you need →](/tools/coffee-price-tracker/#williams-landing)
+- [What Melbourne thinks about Williams Landing Melbourne — what you need →](/tools/suburb-takedown/?suburb=williams-landing)
+- [Compare Williams Landing Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=williams-landing)

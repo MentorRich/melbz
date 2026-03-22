@@ -10,7 +10,7 @@ keywords:
   - "what is Deer Park like"
   - "deer-park suburb"
   - "living in Deer Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/deer-park/hero.jpg"
 ---
 
 Growing western suburb with station access, parks, and affordable family estates.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Deer Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Deer Park Melbourne — what you need**
+
+- [Find suburbs like Deer Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Deer Park Melbourne — what you need →](/tools/coffee-price-tracker/#deer-park)
+- [What Melbourne thinks about Deer Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=deer-park)
+- [Compare Deer Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=deer-park)

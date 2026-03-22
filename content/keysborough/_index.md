@@ -10,7 +10,7 @@ keywords:
   - "what is Keysborough like"
   - "keysborough suburb"
   - "living in Keysborough"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/keysborough/hero.jpg"
 ---
 
 Parkmore Shopping Centre, family estates, and growing amenities in the south-east corridor.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Keysborough? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Keysborough Melbourne — what you need**
+
+- [Find suburbs like Keysborough Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Keysborough Melbourne — what you need →](/tools/coffee-price-tracker/#keysborough)
+- [What Melbourne thinks about Keysborough Melbourne — what you need →](/tools/suburb-takedown/?suburb=keysborough)
+- [Compare Keysborough Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=keysborough)

@@ -3,7 +3,7 @@ title: "Melbourne Lifestyle - Living, Working and Thriving by Suburb"
 description: "Family guides, dog-friendly spots, retirement living and suburb lifestyle comparisons across Melbourne."
 date: 2026-03-21
 author: "Dani Reyes"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/lifestyle/hero.jpg"
 ---
 
 Different suburbs suit different lifestyles. A young professional wants something different from a family of four or a retired couple. We cover it all.

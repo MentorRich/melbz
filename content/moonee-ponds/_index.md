@@ -10,7 +10,7 @@ keywords:
   - "what is Moonee Ponds like"
   - "moonee-ponds suburb"
   - "living in Moonee Ponds"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/moonee-ponds/hero.jpg"
 ---
 
 Puckle Street village, Queens Park, and a strong community that loves its local identity.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Moonee Ponds? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Moonee Ponds Melbourne — what you need**
+
+- [Find suburbs like Moonee Ponds Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Moonee Ponds Melbourne — what you need →](/tools/coffee-price-tracker/#moonee-ponds)
+- [What Melbourne thinks about Moonee Ponds Melbourne — what you need →](/tools/suburb-takedown/?suburb=moonee-ponds)
+- [Compare Moonee Ponds Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=moonee-ponds)

@@ -9,7 +9,7 @@ keywords:
   - "beach suburbs melbourne"
   - "summer things to do melbourne"
   - "outdoor events melbourne summer"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-summer-2026-guide/hero.jpg"
 ---
 
 Your summer in Melbourne sorted. Beach suburbs, rooftop bars, outdoor events, and the best ways to enjoy the warm months.
@@ -36,3 +36,12 @@ Your summer in Melbourne sorted. Beach suburbs, rooftop bars, outdoor events, an
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Melbourne Summer Guide 2026 — Beaches, Bars, Events**
+
+- [Find suburbs like Melbourne Summer Guide 2026 — Beaches, Bars, Events →](/tools/suburb-match/)
+- [Coffee prices in Melbourne Summer Guide 2026 — Beaches, Bars, Events →](/tools/coffee-price-tracker/#melbourne-summer-2026-guide)
+- [What Melbourne thinks about Melbourne Summer Guide 2026 — Beaches, Bars, Events →](/tools/suburb-takedown/?suburb=melbourne-summer-2026-guide)
+- [Compare Melbourne Summer Guide 2026 — Beaches, Bars, Events with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-summer-2026-guide)

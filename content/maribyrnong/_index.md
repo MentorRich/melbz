@@ -10,7 +10,7 @@ keywords:
   - "what is Maribyrnong like"
   - "maribyrnong suburb"
   - "living in Maribyrnong"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/maribyrnong/hero.jpg"
 ---
 
 Highpoint Shopping Centre, river parklands, and growing family-friendly development.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Maribyrnong? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Maribyrnong Melbourne — what you need**
+
+- [Find suburbs like Maribyrnong Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Maribyrnong Melbourne — what you need →](/tools/coffee-price-tracker/#maribyrnong)
+- [What Melbourne thinks about Maribyrnong Melbourne — what you need →](/tools/suburb-takedown/?suburb=maribyrnong)
+- [Compare Maribyrnong Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=maribyrnong)

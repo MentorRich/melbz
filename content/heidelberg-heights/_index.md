@@ -10,7 +10,7 @@ keywords:
   - "what is Heidelberg Heights like"
   - "heidelberg-heights suburb"
   - "living in Heidelberg Heights"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/heidelberg-heights/hero.jpg"
 ---
 
 More affordable Heidelberg option with community centres and family services.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Heidelberg Heights? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Heidelberg Heights Melbourne — what you need**
+
+- [Find suburbs like Heidelberg Heights Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Heidelberg Heights Melbourne — what you need →](/tools/coffee-price-tracker/#heidelberg-heights)
+- [What Melbourne thinks about Heidelberg Heights Melbourne — what you need →](/tools/suburb-takedown/?suburb=heidelberg-heights)
+- [Compare Heidelberg Heights Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=heidelberg-heights)

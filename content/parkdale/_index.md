@@ -10,7 +10,7 @@ keywords:
   - "what is Parkdale like"
   - "parkdale suburb"
   - "living in Parkdale"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/parkdale/hero.jpg"
 ---
 
 Under-the-radar bayside pocket with beach access and a quiet residential character.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Parkdale? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Parkdale Melbourne — what you need**
+
+- [Find suburbs like Parkdale Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Parkdale Melbourne — what you need →](/tools/coffee-price-tracker/#parkdale)
+- [What Melbourne thinks about Parkdale Melbourne — what you need →](/tools/suburb-takedown/?suburb=parkdale)
+- [Compare Parkdale Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=parkdale)

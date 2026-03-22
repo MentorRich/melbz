@@ -10,7 +10,7 @@ keywords:
   - "what is Heidelberg like"
   - "heidelberg suburb"
   - "living in Heidelberg"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/heidelberg/hero.jpg"
 ---
 
 Austin Hospital, Burgundy Street shops, and Yarra River art trails. Historic painters' suburb.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Heidelberg? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Heidelberg Melbourne — what you need**
+
+- [Find suburbs like Heidelberg Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Heidelberg Melbourne — what you need →](/tools/coffee-price-tracker/#heidelberg)
+- [What Melbourne thinks about Heidelberg Melbourne — what you need →](/tools/suburb-takedown/?suburb=heidelberg)
+- [Compare Heidelberg Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=heidelberg)

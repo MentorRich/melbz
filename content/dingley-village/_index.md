@@ -10,7 +10,7 @@ keywords:
   - "what is Dingley Village like"
   - "dingley-village suburb"
   - "living in Dingley Village"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/dingley-village/hero.jpg"
 ---
 
 Village atmosphere, Spring Road shops, and family estates near bayside access.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Dingley Village? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Dingley Village Melbourne — what you need**
+
+- [Find suburbs like Dingley Village Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Dingley Village Melbourne — what you need →](/tools/coffee-price-tracker/#dingley-village)
+- [What Melbourne thinks about Dingley Village Melbourne — what you need →](/tools/suburb-takedown/?suburb=dingley-village)
+- [Compare Dingley Village Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=dingley-village)

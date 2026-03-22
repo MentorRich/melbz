@@ -10,7 +10,7 @@ keywords:
   - "what is Watsonia like"
   - "watsonia suburb"
   - "living in Watsonia"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/watsonia/hero.jpg"
 ---
 
 Watsonia shops, Simpson Barracks nearby, and affordable north-east family living.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Watsonia? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Watsonia Melbourne — what you need**
+
+- [Find suburbs like Watsonia Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Watsonia Melbourne — what you need →](/tools/coffee-price-tracker/#watsonia)
+- [What Melbourne thinks about Watsonia Melbourne — what you need →](/tools/suburb-takedown/?suburb=watsonia)
+- [Compare Watsonia Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=watsonia)

@@ -10,7 +10,7 @@ keywords:
   - "what is Springvale South like"
   - "springvale-south suburb"
   - "living in Springvale South"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/springvale-south/hero.jpg"
 ---
 
 Quieter residential extension of Springvale with local parks and affordable family homes.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Springvale South? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Springvale South Melbourne — what you need**
+
+- [Find suburbs like Springvale South Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Springvale South Melbourne — what you need →](/tools/coffee-price-tracker/#springvale-south)
+- [What Melbourne thinks about Springvale South Melbourne — what you need →](/tools/suburb-takedown/?suburb=springvale-south)
+- [Compare Springvale South Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=springvale-south)

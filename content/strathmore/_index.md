@@ -10,7 +10,7 @@ keywords:
   - "what is Strathmore like"
   - "strathmore suburb"
   - "living in Strathmore"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/strathmore/hero.jpg"
 ---
 
 Strathmore Secondary School zone, wide streets, and an established family community.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Strathmore? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Strathmore Melbourne — what you need**
+
+- [Find suburbs like Strathmore Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Strathmore Melbourne — what you need →](/tools/coffee-price-tracker/#strathmore)
+- [What Melbourne thinks about Strathmore Melbourne — what you need →](/tools/suburb-takedown/?suburb=strathmore)
+- [Compare Strathmore Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=strathmore)

@@ -46,3 +46,14 @@ Swan Street on Cremorne's northern boundary is technically [Richmond](/richmond/
 Cremorne's restaurant scene is young and still finding its identity. The tech money is attracting operators, warehouse conversions provide unique settings, and Church Street is building a dining strip. It is not yet a destination dining suburb, but it is heading there. For now, the smart move is using Cremorne as a base and dipping into Swan Street and [Richmond](/richmond/) for variety.
 
 **More on Cremorne:** [Cheap eats in Cremorne](/cremorne/cheap-eats/) | [Best brunch in Cremorne](/cremorne/best-brunch/) | [Cremorne suburb guide](/cremorne/)
+
+
+## What Locals Know
+
+Living in Cremorne means understanding the rhythms that listings and guides do not capture. The best spots are not always the most visible ones — locals develop their own routines, their own preferred cafes and walking routes, based on years of trial and error.
+
+## The Honest Take
+
+Cremorne has genuine strengths and real limitations. No suburb is perfect. What matters is whether the strengths align with what you value — whether that is walkability, community feel, food options, or commute times. The best way to know is to spend time here before committing.
+
+For the full picture, see our [Cremorne guide](/cremorne/).

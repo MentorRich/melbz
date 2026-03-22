@@ -10,7 +10,7 @@ keywords:
   - "what is St Kilda West like"
   - "st-kilda-west suburb"
   - "living in St Kilda West"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/st-kilda-west/hero.jpg"
 ---
 
 Melbourne's smallest and most exclusive beachside pocket. Massive homes, West Beach, pure quiet.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about St Kilda West? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for St Kilda West Melbourne — what you need**
+
+- [Find suburbs like St Kilda West Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in St Kilda West Melbourne — what you need →](/tools/coffee-price-tracker/#st-kilda-west)
+- [What Melbourne thinks about St Kilda West Melbourne — what you need →](/tools/suburb-takedown/?suburb=st-kilda-west)
+- [Compare St Kilda West Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=st-kilda-west)

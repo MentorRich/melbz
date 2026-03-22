@@ -10,7 +10,7 @@ keywords:
   - "what is Cranbourne like"
   - "cranbourne suburb"
   - "living in Cranbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/cranbourne/hero.jpg"
 ---
 
 Botanic Gardens, train station, and the Casey corridor's established centre.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Cranbourne? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Cranbourne Melbourne — what you need**
+
+- [Find suburbs like Cranbourne Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Cranbourne Melbourne — what you need →](/tools/coffee-price-tracker/#cranbourne)
+- [What Melbourne thinks about Cranbourne Melbourne — what you need →](/tools/suburb-takedown/?suburb=cranbourne)
+- [Compare Cranbourne Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=cranbourne)

@@ -10,7 +10,7 @@ keywords:
   - "what is Oakleigh like"
   - "oakleigh suburb"
   - "living in Oakleigh"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/oakleigh/hero.jpg"
 ---
 
 Melbourne's Greek heart. Eaton Mall souvlaki, bakeries, and a community that fiercely loves its identity.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Oakleigh? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Oakleigh Melbourne — what you need**
+
+- [Find suburbs like Oakleigh Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Oakleigh Melbourne — what you need →](/tools/coffee-price-tracker/#oakleigh)
+- [What Melbourne thinks about Oakleigh Melbourne — what you need →](/tools/suburb-takedown/?suburb=oakleigh)
+- [Compare Oakleigh Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=oakleigh)

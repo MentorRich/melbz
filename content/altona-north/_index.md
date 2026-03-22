@@ -10,7 +10,7 @@ keywords:
   - "what is Altona North like"
   - "altona-north suburb"
   - "living in Altona North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/altona-north/hero.jpg"
 ---
 
 Industrial edges giving way to housing development and improving amenities.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Altona North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Altona North Melbourne — what you need**
+
+- [Find suburbs like Altona North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Altona North Melbourne — what you need →](/tools/coffee-price-tracker/#altona-north)
+- [What Melbourne thinks about Altona North Melbourne — what you need →](/tools/suburb-takedown/?suburb=altona-north)
+- [Compare Altona North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=altona-north)

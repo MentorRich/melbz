@@ -116,3 +116,12 @@ Yes. Median house price is around $2.8 million. It is one of Melbourne's most ex
 ## The Verdict
 
 Brighton is a genuinely lovely place to live if you can afford it and you value peace over pulse. The bathing boxes are gorgeous, Church Street is quietly competent, the schools are strong, and the beachfront is one of Melbourne's best. It is also expensive, occasionally insular, and will never surprise you with its spontaneity. But that is exactly the point — Brighton delivers consistency, safety, and beauty, and for the people who live here, that is more than enough.
+
+---
+
+**MELBZ Tools for Brighton Melbourne — Bathing Boxes, Church Street & Bayside Living**
+
+- [Find suburbs like Brighton Melbourne — Bathing Boxes, Church Street & Bayside Living →](/tools/suburb-match/)
+- [Coffee prices in Brighton Melbourne — Bathing Boxes, Church Street & Bayside Living →](/tools/coffee-price-tracker/#brighton)
+- [What Melbourne thinks about Brighton Melbourne — Bathing Boxes, Church Street & Bayside Living →](/tools/suburb-takedown/?suburb=brighton)
+- [Compare Brighton Melbourne — Bathing Boxes, Church Street & Bayside Living with other suburbs →](/tools/compare-suburbs/?suburbs=brighton)

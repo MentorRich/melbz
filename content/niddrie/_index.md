@@ -10,7 +10,7 @@ keywords:
   - "what is Niddrie like"
   - "niddrie suburb"
   - "living in Niddrie"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/niddrie/hero.jpg"
 ---
 
 Keilor Road shops, DFO proximity, and a multicultural family community.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Niddrie? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Niddrie Melbourne — what you need**
+
+- [Find suburbs like Niddrie Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Niddrie Melbourne — what you need →](/tools/coffee-price-tracker/#niddrie)
+- [What Melbourne thinks about Niddrie Melbourne — what you need →](/tools/suburb-takedown/?suburb=niddrie)
+- [Compare Niddrie Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=niddrie)

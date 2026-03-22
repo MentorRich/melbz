@@ -10,7 +10,7 @@ keywords:
   - "what is Chelsea Heights like"
   - "chelsea-heights suburb"
   - "living in Chelsea Heights"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/chelsea-heights/hero.jpg"
 ---
 
 Inland from Chelsea beach with family estates and park access.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Chelsea Heights? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Chelsea Heights Melbourne — what you need**
+
+- [Find suburbs like Chelsea Heights Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Chelsea Heights Melbourne — what you need →](/tools/coffee-price-tracker/#chelsea-heights)
+- [What Melbourne thinks about Chelsea Heights Melbourne — what you need →](/tools/suburb-takedown/?suburb=chelsea-heights)
+- [Compare Chelsea Heights Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=chelsea-heights)

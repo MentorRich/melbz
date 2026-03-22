@@ -10,7 +10,7 @@ keywords:
   - "what is Coolaroo like"
   - "coolaroo suburb"
   - "living in Coolaroo"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/coolaroo/hero.jpg"
 ---
 
 Northern growth corridor suburb with the Regional Rail Link and growing amenities.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Coolaroo? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Coolaroo Melbourne — what you need**
+
+- [Find suburbs like Coolaroo Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Coolaroo Melbourne — what you need →](/tools/coffee-price-tracker/#coolaroo)
+- [What Melbourne thinks about Coolaroo Melbourne — what you need →](/tools/suburb-takedown/?suburb=coolaroo)
+- [Compare Coolaroo Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=coolaroo)

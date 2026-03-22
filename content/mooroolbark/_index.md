@@ -10,7 +10,7 @@ keywords:
   - "what is Mooroolbark like"
   - "mooroolbark suburb"
   - "living in Mooroolbark"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mooroolbark/hero.jpg"
 ---
 
 Mooroolbark station, family estates, and the Yarra Valley gateway.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Mooroolbark? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Mooroolbark Melbourne — what you need**
+
+- [Find suburbs like Mooroolbark Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Mooroolbark Melbourne — what you need →](/tools/coffee-price-tracker/#mooroolbark)
+- [What Melbourne thinks about Mooroolbark Melbourne — what you need →](/tools/suburb-takedown/?suburb=mooroolbark)
+- [Compare Mooroolbark Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mooroolbark)

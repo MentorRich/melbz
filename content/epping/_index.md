@@ -10,7 +10,7 @@ keywords:
   - "what is Epping like"
   - "epping suburb"
   - "living in Epping"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/epping/hero.jpg"
 ---
 
 Northern Hospital, Pacific Epping, and one of the north's main regional centres.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Epping? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Epping Melbourne — what you need**
+
+- [Find suburbs like Epping Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Epping Melbourne — what you need →](/tools/coffee-price-tracker/#epping)
+- [What Melbourne thinks about Epping Melbourne — what you need →](/tools/suburb-takedown/?suburb=epping)
+- [Compare Epping Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=epping)

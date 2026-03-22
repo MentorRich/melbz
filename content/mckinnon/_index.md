@@ -10,7 +10,7 @@ keywords:
   - "what is McKinnon like"
   - "mckinnon suburb"
   - "living in McKinnon"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mckinnon/hero.jpg"
 ---
 
 Famed school zone, quiet and residential with good train access and community feel.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about McKinnon? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for McKinnon Melbourne — what you need**
+
+- [Find suburbs like McKinnon Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in McKinnon Melbourne — what you need →](/tools/coffee-price-tracker/#mckinnon)
+- [What Melbourne thinks about McKinnon Melbourne — what you need →](/tools/suburb-takedown/?suburb=mckinnon)
+- [Compare McKinnon Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mckinnon)

@@ -1,0 +1,445 @@
+{{ define "main" }}
+<style>
+:root { --accent: #ff3b3b; --bg: #0a0a0a; --card: #141414; --card-hover: #1a1a1a; --border: #222; --text: #e0e0e0; --text-muted: #888; --green: #22c55e; --amber: #f59e0b; }
+.rent-tool { max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; }
+.rent-tool h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+.rent-tool .subtitle { color: var(--text-muted); margin-bottom: 2rem; font-size: 1.1rem; }
+.rent-controls { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 2rem; padding: 1.5rem; background: var(--card); border-radius: 12px; border: 1px solid var(--border); }
+.rent-controls label { display: block; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 0.3rem; }
+.rent-controls select, .rent-controls input { background: var(--bg); color: var(--text); border: 1px solid var(--border); border-radius: 8px; padding: 0.6rem 1rem; font-size: 0.95rem; width: 100%; }
+.rent-controls select:focus, .rent-controls input:focus { outline: none; border-color: var(--accent); }
+.control-group { flex: 1; min-width: 180px; }
+.rent-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
+.rent-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; transition: border-color 0.2s, transform 0.2s; cursor: pointer; }
+.rent-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.rent-card .suburb-name { font-size: 1.2rem; font-weight: 700; margin-bottom: 0.2rem; }
+.rent-card .suburb-region { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; }
+.rent-row { display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 0; border-bottom: 1px solid var(--border); }
+.rent-row:last-child { border-bottom: none; }
+.rent-row .type { color: var(--text-muted); font-size: 0.85rem; }
+.rent-row .price { font-weight: 600; font-size: 1rem; }
+.rent-row .price.cheap { color: var(--green); }
+.rent-row .price.mid { color: var(--amber); }
+.rent-row .price.expensive { color: var(--accent); }
+.rent-card .cta { display: block; text-align: center; margin-top: 1rem; padding: 0.6rem; background: transparent; border: 1px solid var(--accent); color: var(--accent); border-radius: 8px; text-decoration: none; font-size: 0.85rem; font-weight: 600; transition: all 0.2s; }
+.rent-card .cta:hover { background: var(--accent); color: #fff; }
+.compare-bar { position: fixed; bottom: 0; left: 0; right: 0; background: var(--card); border-top: 2px solid var(--accent); padding: 1rem 2rem; display: none; z-index: 100; }
+.compare-bar.active { display: flex; align-items: center; justify-content: space-between; }
+.compare-bar .selected-suburbs { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+.compare-bar .pill { background: var(--bg); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; display: flex; align-items: center; gap: 0.4rem; }
+.compare-bar .pill .remove { cursor: pointer; color: var(--accent); font-weight: 700; }
+.compare-bar .compare-btn { background: var(--accent); color: #fff; border: none; padding: 0.7rem 1.5rem; border-radius: 8px; font-weight: 700; cursor: pointer; font-size: 0.95rem; }
+.compare-table-wrap { overflow-x: auto; margin-top: 2rem; }
+.compare-table { width: 100%; border-collapse: collapse; }
+.compare-table th, .compare-table td { padding: 0.8rem 1rem; text-align: left; border-bottom: 1px solid var(--border); white-space: nowrap; }
+.compare-table th { background: var(--card); color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; position: sticky; top: 0; }
+.compare-table td { font-size: 0.95rem; }
+.compare-table tr:hover td { background: var(--card-hover); }
+.compare-table .lowest { color: var(--green); font-weight: 700; }
+.sort-arrow { cursor: pointer; user-select: none; }
+.sort-arrow:hover { color: var(--accent); }
+.no-results { text-align: center; padding: 3rem; color: var(--text-muted); }
+.stat-bar { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--border); }
+.stat-bar .stat { text-align: center; flex: 1; }
+.stat-bar .stat-value { font-size: 1.1rem; font-weight: 700; }
+.stat-bar .stat-label { font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; }
+.view-toggle { display: flex; gap: 0; margin-bottom: 1.5rem; }
+.view-toggle button { background: var(--card); color: var(--text-muted); border: 1px solid var(--border); padding: 0.5rem 1.2rem; cursor: pointer; font-size: 0.85rem; }
+.view-toggle button:first-child { border-radius: 8px 0 0 8px; }
+.view-toggle button:last-child { border-radius: 0 8px 8px 0; }
+.view-toggle button.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+@media (max-width: 600px) { .rent-controls { flex-direction: column; } .rent-grid { grid-template-columns: 1fr; } }
+</style>
+
+<div class="rent-tool">
+    <h1>Melbourne Rent Comparison Tool</h1>
+    <p class="subtitle">Compare weekly rental prices across 40+ suburbs. Click suburbs to build a side-by-side comparison. Data: Q1 2026.</p>
+
+    <div class="rent-controls">
+        <div class="control-group">
+            <label>Property Type</label>
+            <select id="bedrooms">
+                <option value="all">All Types</option>
+                <option value="studio">Studio</option>
+                <option value="1br">1 Bedroom</option>
+                <option value="2br" selected>2 Bedroom</option>
+                <option value="3br">3 Bedroom</option>
+            </select>
+        </div>
+        <div class="control-group">
+            <label>Max Budget ($/week)</label>
+            <input type="number" id="maxBudget" placeholder="No limit" min="100" step="50">
+        </div>
+        <div class="control-group">
+            <label>Region</label>
+            <select id="region">
+                <option value="all">All Regions</option>
+                <option value="Inner North">Inner North</option>
+                <option value="Inner South">Inner South</option>
+                <option value="Inner East">Inner East</option>
+                <option value="Inner West">Inner West</option>
+                <option value="Bayside">Bayside</option>
+                <option value="City Centre">City Centre</option>
+                <option value="North West">North West</option>
+                <option value="North East">North East</option>
+                <option value="South East">South East</option>
+                <option value="Outer East">Outer East</option>
+            </select>
+        </div>
+        <div class="control-group">
+            <label>Sort By</label>
+            <select id="sortBy">
+                <option value="price-low">Cheapest First</option>
+                <option value="price-high">Most Expensive</option>
+                <option value="name">Suburb Name</option>
+                <option value="distance">Distance to CBD</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="view-toggle">
+        <button class="active" data-view="grid">Card View</button>
+        <button data-view="table">Table View</button>
+    </div>
+
+    <div id="rentGrid" class="rent-grid"></div>
+    <div id="rentTable" class="compare-table-wrap" style="display:none"></div>
+
+    <div id="compareBar" class="compare-bar">
+        <div>
+            <strong style="margin-right:0.5rem">Comparing:</strong>
+            <span class="selected-suburbs" id="selectedSuburbs"></span>
+        </div>
+        <div style="display:flex;gap:0.5rem">
+            <button class="compare-btn" onclick="showComparison()">Compare Now</button>
+            <button class="compare-btn" style="background:transparent;border:1px solid var(--accent);color:var(--accent)" onclick="clearCompare()">Clear</button>
+        </div>
+    </div>
+
+    <div id="comparisonResult" style="margin-top:2rem"></div>
+
+    <div style="margin-top:3rem;padding:2rem;background:var(--card);border-radius:12px;border:1px solid var(--border)">
+        <h2 style="margin-bottom:1rem">How to Use This Tool</h2>
+        <p>Select property type and set your weekly budget to filter suburbs. Click any suburb card to add it to your comparison (up to 5). Hit <strong>Compare Now</strong> to see a side-by-side breakdown including rent ranges, walkability, transit access, and lifestyle scores.</p>
+        <p style="margin-top:1rem;color:var(--text-muted);font-size:0.85rem">Prices reflect advertised weekly rents observed across major listing platforms in Q1 2026. Actual rents vary by property condition, inclusions, and market movement. This tool is informational — not financial advice.</p>
+        <p style="margin-top:1rem"><a href="/suburbs/" style="color:var(--accent)">Browse all 321 suburbs →</a></p>
+    </div>
+</div>
+
+<script>
+const SUBURBS = {"fitzroy": {"name": "Fitzroy", "region": "Inner North", "postcode": "3065", "rent_studio": [320, 380], "rent_1br": [380, 460], "rent_2br": [500, 620], "rent_3br": [650, 850], "walk_score": 94, "transit_score": 92, "cafe_density": "very high", "safety_rating": 7.5, "nightlife_rating": 9, "family_rating": 5, "parking_difficulty": "hard", "median_age": 32, "green_space": "low", "distance_cbd": 2.5}, "collingwood": {"name": "Collingwood", "region": "Inner North", "postcode": "3066", "rent_studio": [300, 360], "rent_1br": [360, 440], "rent_2br": [480, 580], "rent_3br": [600, 780], "walk_score": 92, "transit_score": 88, "cafe_density": "very high", "safety_rating": 7, "nightlife_rating": 8.5, "family_rating": 5, "parking_difficulty": "hard", "median_age": 31, "green_space": "low", "distance_cbd": 3}, "brunswick": {"name": "Brunswick", "region": "Inner North", "postcode": "3056", "rent_studio": [280, 340], "rent_1br": [340, 420], "rent_2br": [440, 560], "rent_3br": [580, 750], "walk_score": 89, "transit_score": 85, "cafe_density": "high", "safety_rating": 7.5, "nightlife_rating": 7.5, "family_rating": 6.5, "parking_difficulty": "moderate", "median_age": 30, "green_space": "moderate", "distance_cbd": 5}, "richmond": {"name": "Richmond", "region": "Inner East", "postcode": "3121", "rent_studio": [300, 360], "rent_1br": [360, 440], "rent_2br": [470, 580], "rent_3br": [620, 800], "walk_score": 91, "transit_score": 90, "cafe_density": "high", "safety_rating": 7.5, "nightlife_rating": 7, "family_rating": 6, "parking_difficulty": "hard", "median_age": 33, "green_space": "moderate", "distance_cbd": 3}, "st-kilda": {"name": "St Kilda", "region": "Inner South", "postcode": "3182", "rent_studio": [290, 350], "rent_1br": [350, 430], "rent_2br": [460, 570], "rent_3br": [600, 780], "walk_score": 90, "transit_score": 86, "cafe_density": "high", "safety_rating": 6.5, "nightlife_rating": 8.5, "family_rating": 5.5, "parking_difficulty": "hard", "median_age": 33, "green_space": "moderate", "distance_cbd": 6}, "south-yarra": {"name": "South Yarra", "region": "Inner South", "postcode": "3141", "rent_studio": [340, 400], "rent_1br": [400, 500], "rent_2br": [550, 700], "rent_3br": [750, 1000], "walk_score": 93, "transit_score": 91, "cafe_density": "high", "safety_rating": 8, "nightlife_rating": 8, "family_rating": 5.5, "parking_difficulty": "hard", "median_age": 31, "green_space": "moderate", "distance_cbd": 4}, "carlton": {"name": "Carlton", "region": "Inner North", "postcode": "3053", "rent_studio": [300, 350], "rent_1br": [350, 430], "rent_2br": [460, 580], "rent_3br": [600, 780], "walk_score": 95, "transit_score": 93, "cafe_density": "very high", "safety_rating": 8, "nightlife_rating": 6.5, "family_rating": 6, "parking_difficulty": "hard", "median_age": 28, "green_space": "moderate", "distance_cbd": 1.5}, "footscray": {"name": "Footscray", "region": "Inner West", "postcode": "3011", "rent_studio": [250, 310], "rent_1br": [300, 370], "rent_2br": [400, 500], "rent_3br": [520, 680], "walk_score": 82, "transit_score": 84, "cafe_density": "moderate", "safety_rating": 6.5, "nightlife_rating": 6, "family_rating": 6, "parking_difficulty": "easy", "median_age": 32, "green_space": "moderate", "distance_cbd": 5}, "northcote": {"name": "Northcote", "region": "Inner North", "postcode": "3070", "rent_studio": [290, 340], "rent_1br": [350, 420], "rent_2br": [460, 570], "rent_3br": [600, 780], "walk_score": 85, "transit_score": 82, "cafe_density": "high", "safety_rating": 8, "nightlife_rating": 7, "family_rating": 7.5, "parking_difficulty": "moderate", "median_age": 34, "green_space": "moderate", "distance_cbd": 6}, "melbourne-cbd": {"name": "Melbourne CBD", "region": "City Centre", "postcode": "3000", "rent_studio": [300, 370], "rent_1br": [370, 470], "rent_2br": [520, 680], "rent_3br": [700, 950], "walk_score": 98, "transit_score": 99, "cafe_density": "very high", "safety_rating": 7, "nightlife_rating": 9.5, "family_rating": 3, "parking_difficulty": "very hard", "median_age": 29, "green_space": "low", "distance_cbd": 0}, "prahran": {"name": "Prahran", "region": "Inner South", "postcode": "3181", "rent_studio": [310, 370], "rent_1br": [370, 460], "rent_2br": [500, 630], "rent_3br": [650, 850], "walk_score": 91, "transit_score": 87, "cafe_density": "high", "safety_rating": 8, "nightlife_rating": 7, "family_rating": 6, "parking_difficulty": "moderate", "median_age": 32, "green_space": "moderate", "distance_cbd": 5}, "hawthorn": {"name": "Hawthorn", "region": "Inner East", "postcode": "3122", "rent_studio": [290, 340], "rent_1br": [340, 420], "rent_2br": [460, 580], "rent_3br": [620, 800], "walk_score": 84, "transit_score": 83, "cafe_density": "high", "safety_rating": 8.5, "nightlife_rating": 5, "family_rating": 8, "parking_difficulty": "moderate", "median_age": 30, "green_space": "high", "distance_cbd": 6}, "brighton": {"name": "Brighton", "region": "Bayside", "postcode": "3186", "rent_studio": [320, 380], "rent_1br": [380, 470], "rent_2br": [520, 660], "rent_3br": [700, 950], "walk_score": 72, "transit_score": 68, "cafe_density": "moderate", "safety_rating": 9, "nightlife_rating": 3, "family_rating": 9.5, "parking_difficulty": "easy", "median_age": 41, "green_space": "high", "distance_cbd": 12}, "yarraville": {"name": "Yarraville", "region": "Inner West", "postcode": "3013", "rent_studio": [280, 330], "rent_1br": [320, 400], "rent_2br": [430, 540], "rent_3br": [560, 720], "walk_score": 78, "transit_score": 75, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 5, "family_rating": 8, "parking_difficulty": "easy", "median_age": 35, "green_space": "moderate", "distance_cbd": 7}, "thornbury": {"name": "Thornbury", "region": "Inner North", "postcode": "3071", "rent_studio": [270, 330], "rent_1br": [330, 400], "rent_2br": [430, 540], "rent_3br": [560, 720], "walk_score": 80, "transit_score": 78, "cafe_density": "high", "safety_rating": 8.5, "nightlife_rating": 6, "family_rating": 7.5, "parking_difficulty": "easy", "median_age": 34, "green_space": "moderate", "distance_cbd": 8}, "coburg": {"name": "Coburg", "region": "Inner North", "postcode": "3058", "rent_studio": [260, 310], "rent_1br": [310, 380], "rent_2br": [400, 500], "rent_3br": [520, 670], "walk_score": 76, "transit_score": 74, "cafe_density": "moderate", "safety_rating": 7.5, "nightlife_rating": 5, "family_rating": 7, "parking_difficulty": "easy", "median_age": 33, "green_space": "moderate", "distance_cbd": 9}, "essendon": {"name": "Essendon", "region": "North West", "postcode": "3040", "rent_studio": [270, 320], "rent_1br": [320, 390], "rent_2br": [420, 530], "rent_3br": [550, 720], "walk_score": 71, "transit_score": 72, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 3, "family_rating": 8.5, "parking_difficulty": "easy", "median_age": 37, "green_space": "high", "distance_cbd": 9}, "moonee-ponds": {"name": "Moonee Ponds", "region": "North West", "postcode": "3039", "rent_studio": [270, 330], "rent_1br": [320, 400], "rent_2br": [420, 540], "rent_3br": [560, 730], "walk_score": 74, "transit_score": 76, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 4, "family_rating": 8, "parking_difficulty": "easy", "median_age": 36, "green_space": "high", "distance_cbd": 8}, "kensington": {"name": "Kensington", "region": "Inner West", "postcode": "3031", "rent_studio": [280, 340], "rent_1br": [340, 410], "rent_2br": [440, 560], "rent_3br": [580, 740], "walk_score": 80, "transit_score": 80, "cafe_density": "moderate", "safety_rating": 8, "nightlife_rating": 4, "family_rating": 7, "parking_difficulty": "easy", "median_age": 33, "green_space": "moderate", "distance_cbd": 4}, "williamstown": {"name": "Williamstown", "region": "Inner West", "postcode": "3016", "rent_studio": [290, 350], "rent_1br": [350, 430], "rent_2br": [470, 590], "rent_3br": [600, 780], "walk_score": 70, "transit_score": 65, "cafe_density": "moderate", "safety_rating": 9, "nightlife_rating": 4, "family_rating": 9, "parking_difficulty": "easy", "median_age": 38, "green_space": "high", "distance_cbd": 10}, "seddon": {"name": "Seddon", "region": "Inner West", "postcode": "3011", "rent_studio": [270, 320], "rent_1br": [320, 390], "rent_2br": [420, 530], "rent_3br": [550, 700], "walk_score": 76, "transit_score": 73, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 4, "family_rating": 8, "parking_difficulty": "easy", "median_age": 35, "green_space": "moderate", "distance_cbd": 8}, "albert-park": {"name": "Albert Park", "region": "Inner South", "postcode": "3206", "rent_studio": [320, 380], "rent_1br": [380, 470], "rent_2br": [520, 660], "rent_3br": [680, 880], "walk_score": 85, "transit_score": 82, "cafe_density": "high", "safety_rating": 9, "nightlife_rating": 4, "family_rating": 8, "parking_difficulty": "moderate", "median_age": 37, "green_space": "very high", "distance_cbd": 4}, "south-melbourne": {"name": "South Melbourne", "region": "Inner South", "postcode": "3205", "rent_studio": [310, 370], "rent_1br": [370, 450], "rent_2br": [500, 630], "rent_3br": [650, 840], "walk_score": 88, "transit_score": 85, "cafe_density": "high", "safety_rating": 8.5, "nightlife_rating": 5, "family_rating": 6, "parking_difficulty": "moderate", "median_age": 34, "green_space": "moderate", "distance_cbd": 2}, "port-melbourne": {"name": "Port Melbourne", "region": "Inner South", "postcode": "3207", "rent_studio": [310, 370], "rent_1br": [370, 460], "rent_2br": [510, 640], "rent_3br": [660, 850], "walk_score": 80, "transit_score": 78, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 3, "family_rating": 7, "parking_difficulty": "easy", "median_age": 35, "green_space": "moderate", "distance_cbd": 4}, "docklands": {"name": "Docklands", "region": "City Centre", "postcode": "3008", "rent_studio": [290, 350], "rent_1br": [350, 440], "rent_2br": [480, 620], "rent_3br": [650, 850], "walk_score": 82, "transit_score": 88, "cafe_density": "moderate", "safety_rating": 7.5, "nightlife_rating": 4, "family_rating": 4, "parking_difficulty": "moderate", "median_age": 30, "green_space": "moderate", "distance_cbd": 1}, "southbank": {"name": "Southbank", "region": "Inner South", "postcode": "3006", "rent_studio": [300, 360], "rent_1br": [360, 450], "rent_2br": [500, 650], "rent_3br": [680, 900], "walk_score": 90, "transit_score": 92, "cafe_density": "high", "safety_rating": 7.5, "nightlife_rating": 6, "family_rating": 3.5, "parking_difficulty": "hard", "median_age": 29, "green_space": "moderate", "distance_cbd": 1}, "abbotsford": {"name": "Abbotsford", "region": "Inner East", "postcode": "3067", "rent_studio": [290, 340], "rent_1br": [340, 420], "rent_2br": [450, 570], "rent_3br": [590, 760], "walk_score": 83, "transit_score": 80, "cafe_density": "high", "safety_rating": 7.5, "nightlife_rating": 6, "family_rating": 6, "parking_difficulty": "moderate", "median_age": 33, "green_space": "moderate", "distance_cbd": 4}, "clifton-hill": {"name": "Clifton Hill", "region": "Inner North", "postcode": "3068", "rent_studio": [290, 340], "rent_1br": [350, 420], "rent_2br": [460, 570], "rent_3br": [600, 770], "walk_score": 82, "transit_score": 80, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 5, "family_rating": 7.5, "parking_difficulty": "easy", "median_age": 35, "green_space": "moderate", "distance_cbd": 4}, "fitzroy-north": {"name": "Fitzroy North", "region": "Inner North", "postcode": "3068", "rent_studio": [310, 370], "rent_1br": [370, 450], "rent_2br": [490, 610], "rent_3br": [640, 830], "walk_score": 88, "transit_score": 84, "cafe_density": "high", "safety_rating": 8.5, "nightlife_rating": 6, "family_rating": 7, "parking_difficulty": "moderate", "median_age": 34, "green_space": "moderate", "distance_cbd": 3}, "brunswick-east": {"name": "Brunswick East", "region": "Inner North", "postcode": "3057", "rent_studio": [280, 330], "rent_1br": [330, 410], "rent_2br": [440, 550], "rent_3br": [570, 730], "walk_score": 85, "transit_score": 80, "cafe_density": "high", "safety_rating": 8, "nightlife_rating": 5.5, "family_rating": 7, "parking_difficulty": "easy", "median_age": 31, "green_space": "moderate", "distance_cbd": 5}, "balaclava": {"name": "Balaclava", "region": "Inner South", "postcode": "3183", "rent_studio": [280, 340], "rent_1br": [340, 420], "rent_2br": [450, 570], "rent_3br": [590, 760], "walk_score": 87, "transit_score": 84, "cafe_density": "high", "safety_rating": 7.5, "nightlife_rating": 5, "family_rating": 6.5, "parking_difficulty": "moderate", "median_age": 32, "green_space": "low", "distance_cbd": 7}, "elwood": {"name": "Elwood", "region": "Bayside", "postcode": "3184", "rent_studio": [290, 350], "rent_1br": [350, 430], "rent_2br": [470, 590], "rent_3br": [610, 790], "walk_score": 82, "transit_score": 78, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 4, "family_rating": 7.5, "parking_difficulty": "easy", "median_age": 35, "green_space": "high", "distance_cbd": 8}, "preston": {"name": "Preston", "region": "Inner North", "postcode": "3072", "rent_studio": [260, 310], "rent_1br": [310, 380], "rent_2br": [400, 500], "rent_3br": [520, 680], "walk_score": 74, "transit_score": 76, "cafe_density": "moderate", "safety_rating": 7.5, "nightlife_rating": 5, "family_rating": 7, "parking_difficulty": "easy", "median_age": 33, "green_space": "moderate", "distance_cbd": 9}, "reservoir": {"name": "Reservoir", "region": "North", "postcode": "3073", "rent_studio": [240, 290], "rent_1br": [290, 360], "rent_2br": [380, 480], "rent_3br": [500, 650], "walk_score": 65, "transit_score": 68, "cafe_density": "low", "safety_rating": 7, "nightlife_rating": 3, "family_rating": 7, "parking_difficulty": "easy", "median_age": 35, "green_space": "moderate", "distance_cbd": 12}, "malvern": {"name": "Malvern", "region": "Inner East", "postcode": "3144", "rent_studio": [310, 370], "rent_1br": [370, 460], "rent_2br": [500, 640], "rent_3br": [660, 860], "walk_score": 78, "transit_score": 80, "cafe_density": "moderate", "safety_rating": 9, "nightlife_rating": 3, "family_rating": 9, "parking_difficulty": "easy", "median_age": 39, "green_space": "high", "distance_cbd": 9}, "glen-waverley": {"name": "Glen Waverley", "region": "Outer East", "postcode": "3150", "rent_studio": [250, 310], "rent_1br": [310, 380], "rent_2br": [400, 510], "rent_3br": [520, 680], "walk_score": 62, "transit_score": 65, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 3, "family_rating": 9, "parking_difficulty": "easy", "median_age": 38, "green_space": "high", "distance_cbd": 20}, "box-hill": {"name": "Box Hill", "region": "Outer East", "postcode": "3128", "rent_studio": [250, 300], "rent_1br": [300, 370], "rent_2br": [390, 490], "rent_3br": [510, 660], "walk_score": 75, "transit_score": 78, "cafe_density": "moderate", "safety_rating": 7.5, "nightlife_rating": 4, "family_rating": 7.5, "parking_difficulty": "moderate", "median_age": 32, "green_space": "moderate", "distance_cbd": 14}, "frankston": {"name": "Frankston", "region": "South East", "postcode": "3199", "rent_studio": [220, 270], "rent_1br": [270, 340], "rent_2br": [350, 440], "rent_3br": [450, 580], "walk_score": 68, "transit_score": 65, "cafe_density": "moderate", "safety_rating": 6.5, "nightlife_rating": 4, "family_rating": 7, "parking_difficulty": "easy", "median_age": 35, "green_space": "high", "distance_cbd": 40}, "dandenong": {"name": "Dandenong", "region": "South East", "postcode": "3175", "rent_studio": [210, 260], "rent_1br": [260, 320], "rent_2br": [340, 430], "rent_3br": [440, 570], "walk_score": 70, "transit_score": 72, "cafe_density": "moderate", "safety_rating": 6, "nightlife_rating": 3, "family_rating": 6.5, "parking_difficulty": "easy", "median_age": 33, "green_space": "moderate", "distance_cbd": 30}, "newport": {"name": "Newport", "region": "Inner West", "postcode": "3015", "rent_studio": [270, 320], "rent_1br": [320, 390], "rent_2br": [420, 530], "rent_3br": [550, 710], "walk_score": 72, "transit_score": 72, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 3.5, "family_rating": 8, "parking_difficulty": "easy", "median_age": 35, "green_space": "moderate", "distance_cbd": 9}, "ascot-vale": {"name": "Ascot Vale", "region": "Inner West", "postcode": "3032", "rent_studio": [270, 320], "rent_1br": [320, 400], "rent_2br": [420, 530], "rent_3br": [550, 720], "walk_score": 75, "transit_score": 76, "cafe_density": "moderate", "safety_rating": 8, "nightlife_rating": 4, "family_rating": 7.5, "parking_difficulty": "easy", "median_age": 34, "green_space": "high", "distance_cbd": 6}, "caulfield": {"name": "Caulfield", "region": "Inner South East", "postcode": "3162", "rent_studio": [280, 330], "rent_1br": [330, 410], "rent_2br": [440, 560], "rent_3br": [580, 750], "walk_score": 76, "transit_score": 80, "cafe_density": "moderate", "safety_rating": 8, "nightlife_rating": 3, "family_rating": 8, "parking_difficulty": "easy", "median_age": 34, "green_space": "moderate", "distance_cbd": 10}, "bentleigh": {"name": "Bentleigh", "region": "South East", "postcode": "3204", "rent_studio": [260, 310], "rent_1br": [310, 380], "rent_2br": [400, 510], "rent_3br": [520, 680], "walk_score": 72, "transit_score": 72, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 3, "family_rating": 8.5, "parking_difficulty": "easy", "median_age": 37, "green_space": "moderate", "distance_cbd": 14}, "sandringham": {"name": "Sandringham", "region": "Bayside", "postcode": "3191", "rent_studio": [290, 350], "rent_1br": [350, 430], "rent_2br": [470, 590], "rent_3br": [610, 790], "walk_score": 70, "transit_score": 68, "cafe_density": "moderate", "safety_rating": 9, "nightlife_rating": 3, "family_rating": 9, "parking_difficulty": "easy", "median_age": 40, "green_space": "high", "distance_cbd": 16}, "hampton": {"name": "Hampton", "region": "Bayside", "postcode": "3188", "rent_studio": [290, 340], "rent_1br": [340, 420], "rent_2br": [460, 580], "rent_3br": [600, 780], "walk_score": 72, "transit_score": 68, "cafe_density": "moderate", "safety_rating": 9, "nightlife_rating": 3, "family_rating": 9, "parking_difficulty": "easy", "median_age": 39, "green_space": "high", "distance_cbd": 15}, "bundoora": {"name": "Bundoora", "region": "North East", "postcode": "3083", "rent_studio": [230, 280], "rent_1br": [280, 350], "rent_2br": [370, 460], "rent_3br": [480, 620], "walk_score": 55, "transit_score": 60, "cafe_density": "low", "safety_rating": 7.5, "nightlife_rating": 2, "family_rating": 7.5, "parking_difficulty": "easy", "median_age": 30, "green_space": "high", "distance_cbd": 16}, "clayton": {"name": "Clayton", "region": "South East", "postcode": "3168", "rent_studio": [230, 280], "rent_1br": [280, 350], "rent_2br": [370, 460], "rent_3br": [480, 620], "walk_score": 68, "transit_score": 72, "cafe_density": "moderate", "safety_rating": 7.5, "nightlife_rating": 3, "family_rating": 7, "parking_difficulty": "easy", "median_age": 28, "green_space": "moderate", "distance_cbd": 18}, "heidelberg": {"name": "Heidelberg", "region": "North East", "postcode": "3084", "rent_studio": [270, 320], "rent_1br": [320, 390], "rent_2br": [420, 530], "rent_3br": [550, 720], "walk_score": 70, "transit_score": 72, "cafe_density": "moderate", "safety_rating": 8.5, "nightlife_rating": 3, "family_rating": 8.5, "parking_difficulty": "easy", "median_age": 37, "green_space": "very high", "distance_cbd": 11}, "doncaster": {"name": "Doncaster", "region": "Outer East", "postcode": "3108", "rent_studio": [260, 310], "rent_1br": [310, 380], "rent_2br": [410, 520], "rent_3br": [540, 700], "walk_score": 55, "transit_score": 55, "cafe_density": "low", "safety_rating": 8.5, "nightlife_rating": 2, "family_rating": 8.5, "parking_difficulty": "easy", "median_age": 40, "green_space": "high", "distance_cbd": 15}, "glen-iris": {"name": "Glen Iris", "region": "Inner East", "postcode": "3146", "rent_studio": [290, 340], "rent_1br": [340, 420], "rent_2br": [460, 580], "rent_3br": [600, 780], "walk_score": 74, "transit_score": 76, "cafe_density": "moderate", "safety_rating": 9, "nightlife_rating": 2, "family_rating": 9, "parking_difficulty": "easy", "median_age": 38, "green_space": "high", "distance_cbd": 10}, "carnegie": {"name": "Carnegie", "region": "Inner South East", "postcode": "3163", "rent_studio": [270, 320], "rent_1br": [320, 390], "rent_2br": [420, 530], "rent_3br": [550, 710], "walk_score": 80, "transit_score": 80, "cafe_density": "moderate", "safety_rating": 8, "nightlife_rating": 4, "family_rating": 7.5, "parking_difficulty": "easy", "median_age": 33, "green_space": "moderate", "distance_cbd": 12}};
+
+let selected = [];
+const bedMap = { studio: 'rent_studio', '1br': 'rent_1br', '2br': 'rent_2br', '3br': 'rent_3br' };
+
+function getPrice(s, bed) {
+    if (bed === 'all') {
+        const r = SUBURBS[s].rent_2br;
+        return (r[0] + r[1]) / 2;
+    }
+    const r = SUBURBS[s][bedMap[bed]];
+    return (r[0] + r[1]) / 2;
+}
+
+function getPriceRange(s, bed) {
+    if (bed === 'all') {
+        return { studio: SUBURBS[s].rent_studio, '1br': SUBURBS[s].rent_1br, '2br': SUBURBS[s].rent_2br, '3br': SUBURBS[s].rent_3br };
+    }
+    return SUBURBS[s][bedMap[bed]];
+}
+
+function priceClass(avg) {
+    if (avg < 400) return 'cheap';
+    if (avg < 550) return 'mid';
+    return 'expensive';
+}
+
+function renderCards() {
+    const bed = document.getElementById('bedrooms').value;
+    const budget = parseInt(document.getElementById('maxBudget').value) || Infinity;
+    const region = document.getElementById('region').value;
+    const sort = document.getElementById('sortBy').value;
+
+    let slugs = Object.keys(SUBURBS).filter(s => {
+        const d = SUBURBS[s];
+        if (region !== 'all' && d.region !== region) return false;
+        const avg = getPrice(s, bed);
+        if (avg > budget) return false;
+        return true;
+    });
+
+    slugs.sort((a, b) => {
+        switch (sort) {
+            case 'price-low': return getPrice(a, bed) - getPrice(b, bed);
+            case 'price-high': return getPrice(b, bed) - getPrice(a, bed);
+            case 'name': return SUBURBS[a].name.localeCompare(SUBURBS[b].name);
+            case 'distance': return SUBURBS[a].distance_cbd - SUBURBS[b].distance_cbd;
+        }
+    });
+
+    const grid = document.getElementById('rentGrid');
+    if (slugs.length === 0) {
+        grid.innerHTML = '<div class="no-results">No suburbs match your filters. Try increasing your budget or changing the region.</div>';
+        return;
+    }
+
+    grid.innerHTML = slugs.map(s => {
+        const d = SUBURBS[s];
+        const isSelected = selected.includes(s);
+        let rows = '';
+        if (bed === 'all') {
+            rows = ['studio', '1br', '2br', '3br'].map(b => {
+                const r = d[bedMap[b]];
+                const avg = (r[0] + r[1]) / 2;
+                const label = b === 'studio' ? 'Studio' : b === '1br' ? '1 Bed' : b === '2br' ? '2 Bed' : '3 Bed';
+                return `<div class="rent-row"><span class="type">${label}</span><span class="price ${priceClass(avg)}">$${r[0]}-${r[1]}/wk</span></div>`;
+            }).join('');
+        } else {
+            const r = d[bedMap[bed]];
+            const avg = (r[0] + r[1]) / 2;
+            const label = bed === 'studio' ? 'Studio' : bed === '1br' ? '1 Bedroom' : bed === '2br' ? '2 Bedroom' : '3 Bedroom';
+            rows = `<div class="rent-row"><span class="type">${label}</span><span class="price ${priceClass(avg)}">$${r[0]}-${r[1]}/wk</span></div>`;
+        }
+        return `<div class="rent-card${isSelected ? ' selected' : ''}" style="${isSelected ? 'border-color:var(--accent)' : ''}" onclick="toggleSelect('${s}')">
+            <div class="suburb-name">${d.name}</div>
+            <div class="suburb-region">${d.region} · ${d.postcode} · ${d.distance_cbd}km to CBD</div>
+            ${rows}
+            <div class="stat-bar">
+                <div class="stat"><div class="stat-value">${d.walk_score}</div><div class="stat-label">Walk</div></div>
+                <div class="stat"><div class="stat-value">${d.transit_score}</div><div class="stat-label">Transit</div></div>
+                <div class="stat"><div class="stat-value">${d.safety_rating}</div><div class="stat-label">Safety</div></div>
+                <div class="stat"><div class="stat-value">${d.nightlife_rating}</div><div class="stat-label">Nightlife</div></div>
+            </div>
+            <a href="/${s}/" class="cta">View ${d.name} Guide →</a>
+        </div>`;
+    }).join('');
+
+    // Table view
+    const table = document.getElementById('rentTable');
+    table.innerHTML = `<table class="compare-table"><thead><tr>
+        <th>Suburb</th><th>Region</th><th>Studio</th><th>1 Bed</th><th>2 Bed</th><th>3 Bed</th>
+        <th>Walk</th><th>Transit</th><th>Safety</th><th>CBD km</th>
+    </tr></thead><tbody>${slugs.map(s => {
+        const d = SUBURBS[s];
+        return `<tr onclick="toggleSelect('${s}')" style="cursor:pointer;${selected.includes(s)?'background:var(--card-hover)':''}">
+            <td><strong>${d.name}</strong></td><td>${d.region}</td>
+            <td>$${d.rent_studio[0]}-${d.rent_studio[1]}</td>
+            <td>$${d.rent_1br[0]}-${d.rent_1br[1]}</td>
+            <td>$${d.rent_2br[0]}-${d.rent_2br[1]}</td>
+            <td>$${d.rent_3br[0]}-${d.rent_3br[1]}</td>
+            <td>${d.walk_score}</td><td>${d.transit_score}</td>
+            <td>${d.safety_rating}/10</td><td>${d.distance_cbd}</td>
+        </tr>`;
+    }).join('')}</tbody></table>`;
+}
+
+function toggleSelect(slug) {
+    const idx = selected.indexOf(slug);
+    if (idx >= 0) { selected.splice(idx, 1); }
+    else if (selected.length < 5) { selected.push(slug); }
+    updateCompareBar();
+    renderCards();
+}
+
+function updateCompareBar() {
+    const bar = document.getElementById('compareBar');
+    const container = document.getElementById('selectedSuburbs');
+    if (selected.length === 0) { bar.classList.remove('active'); return; }
+    bar.classList.add('active');
+    container.innerHTML = selected.map(s =>
+        `<span class="pill">${SUBURBS[s].name} <span class="remove" onclick="event.stopPropagation();toggleSelect('${s}')">×</span></span>`
+    ).join('');
+}
+
+function clearCompare() {
+    selected = [];
+    updateCompareBar();
+    renderCards();
+    document.getElementById('comparisonResult').innerHTML = '';
+}
+
+function showComparison() {
+    if (selected.length < 2) { alert('Select at least 2 suburbs to compare'); return; }
+    const res = document.getElementById('comparisonResult');
+    const unique = selected;
+
+    // Build the mega comparison table
+    let html = '<h2 style="margin-bottom:0.5rem;font-size:1.5rem">Side-by-Side Comparison</h2>';
+    html += '<p style="color:var(--text-muted);margin-bottom:1.5rem;font-size:0.9rem">Green values = best in row</p>';
+
+    html += '<div class="compare-table-wrap"><table class="compare-table"><thead><tr><th style="min-width:160px">Metric</th>';
+    unique.forEach(s => html += `<th>${SUBURBS[s].name}</th>`);
+    html += '</tr></thead><tbody>';
+
+    // --- RENT SECTION ---
+    html += `<tr><td colspan="${unique.length+1}" style="background:var(--card);font-weight:700;color:var(--accent);font-size:0.85rem;text-transform:uppercase;letter-spacing:0.05em;padding:0.6rem 1rem">Weekly Rent</td></tr>`;
+    [['Studio','rent_studio'],['1 Bedroom','rent_1br'],['2 Bedroom','rent_2br'],['3 Bedroom','rent_3br']].forEach(([label, key]) => {
+        const avgs = unique.map(s => (SUBURBS[s][key][0]+SUBURBS[s][key][1])/2);
+        const minVal = Math.min(...avgs);
+        html += `<tr><td style="color:var(--text-muted)">${label}</td>${unique.map((s,i) => {
+            const r = SUBURBS[s][key];
+            const best = avgs[i] === minVal;
+            return `<td style="${best?'color:var(--green);font-weight:700':''}">$${r[0]}–${r[1]}/wk</td>`;
+        }).join('')}</tr>`;
+    });
+
+    // Monthly cost estimate
+    html += `<tr><td style="color:var(--text-muted)">Monthly (2BR est.)</td>${unique.map((s,i) => {
+        const r = SUBURBS[s].rent_2br;
+        const monthly = Math.round((r[0]+r[1])/2 * 52/12);
+        const allMonthly = unique.map(ss => Math.round((SUBURBS[ss].rent_2br[0]+SUBURBS[ss].rent_2br[1])/2 * 52/12));
+        const best = monthly === Math.min(...allMonthly);
+        return `<td style="${best?'color:var(--green);font-weight:700':''}">~$${monthly.toLocaleString()}/mo</td>`;
+    }).join('')}</tr>`;
+
+    // Annual cost estimate
+    html += `<tr><td style="color:var(--text-muted)">Annual (2BR est.)</td>${unique.map((s,i) => {
+        const r = SUBURBS[s].rent_2br;
+        const annual = Math.round((r[0]+r[1])/2 * 52);
+        const allAnnual = unique.map(ss => Math.round((SUBURBS[ss].rent_2br[0]+SUBURBS[ss].rent_2br[1])/2 * 52));
+        const best = annual === Math.min(...allAnnual);
+        return `<td style="${best?'color:var(--green);font-weight:700':''}">~$${annual.toLocaleString()}/yr</td>`;
+    }).join('')}</tr>`;
+
+    // --- LIFESTYLE SECTION ---
+    html += `<tr><td colspan="${unique.length+1}" style="background:var(--card);font-weight:700;color:var(--accent);font-size:0.85rem;text-transform:uppercase;letter-spacing:0.05em;padding:0.6rem 1rem">Lifestyle Scores</td></tr>`;
+
+    const scoreMetrics = [
+        { key:'walk_score', label:'Walk Score', unit:'/100', higher:true },
+        { key:'transit_score', label:'Transit Score', unit:'/100', higher:true },
+        { key:'safety_rating', label:'Safety', unit:'/10', higher:true },
+        { key:'nightlife_rating', label:'Nightlife', unit:'/10', higher:true },
+        { key:'family_rating', label:'Family Friendly', unit:'/10', higher:true },
+    ];
+    scoreMetrics.forEach(m => {
+        const vals = unique.map(s => SUBURBS[s][m.key]);
+        const bestVal = m.higher ? Math.max(...vals) : Math.min(...vals);
+        html += `<tr><td style="color:var(--text-muted)">${m.label}</td>${unique.map((s,i) => {
+            const v = SUBURBS[s][m.key];
+            const best = v === bestVal;
+            return `<td style="${best?'color:var(--green);font-weight:700':''}">${v}${m.unit}</td>`;
+        }).join('')}</tr>`;
+    });
+
+    // --- PRACTICAL SECTION ---
+    html += `<tr><td colspan="${unique.length+1}" style="background:var(--card);font-weight:700;color:var(--accent);font-size:0.85rem;text-transform:uppercase;letter-spacing:0.05em;padding:0.6rem 1rem">Practical Details</td></tr>`;
+
+    // CBD distance
+    const dists = unique.map(s => SUBURBS[s].distance_cbd);
+    const minDist = Math.min(...dists);
+    html += `<tr><td style="color:var(--text-muted)">Distance to CBD</td>${unique.map((s,i) => {
+        const v = SUBURBS[s].distance_cbd;
+        return `<td style="${v===minDist?'color:var(--green);font-weight:700':''}">${v} km</td>`;
+    }).join('')}</tr>`;
+
+    // Cafe density
+    const cafeOrder = {'very high':4,'high':3,'moderate':2,'low':1};
+    const cafeVals = unique.map(s => cafeOrder[SUBURBS[s].cafe_density]||0);
+    const maxCafe = Math.max(...cafeVals);
+    html += `<tr><td style="color:var(--text-muted)">Cafe Density</td>${unique.map((s,i) => {
+        const v = SUBURBS[s].cafe_density;
+        return `<td style="${cafeVals[i]===maxCafe?'color:var(--green);font-weight:700':''}">${v.charAt(0).toUpperCase()+v.slice(1)}</td>`;
+    }).join('')}</tr>`;
+
+    // Parking
+    const parkOrder = {'very hard':1,'hard':2,'moderate':3,'easy':4};
+    const parkVals = unique.map(s => parkOrder[SUBURBS[s].parking_difficulty]||0);
+    const maxPark = Math.max(...parkVals);
+    html += `<tr><td style="color:var(--text-muted)">Parking</td>${unique.map((s,i) => {
+        const v = SUBURBS[s].parking_difficulty;
+        return `<td style="${parkVals[i]===maxPark?'color:var(--green);font-weight:700':''}">${v.charAt(0).toUpperCase()+v.slice(1)}</td>`;
+    }).join('')}</tr>`;
+
+    // Green space
+    const greenOrder = {'very high':4,'high':3,'moderate':2,'low':1};
+    const greenVals = unique.map(s => greenOrder[SUBURBS[s].green_space]||0);
+    const maxGreen = Math.max(...greenVals);
+    html += `<tr><td style="color:var(--text-muted)">Green Space</td>${unique.map((s,i) => {
+        const v = SUBURBS[s].green_space;
+        return `<td style="${greenVals[i]===maxGreen?'color:var(--green);font-weight:700':''}">${v.charAt(0).toUpperCase()+v.slice(1)}</td>`;
+    }).join('')}</tr>`;
+
+    // Median age
+    html += `<tr><td style="color:var(--text-muted)">Median Age</td>${unique.map(s => {
+        return `<td>${SUBURBS[s].median_age}</td>`;
+    }).join('')}</tr>`;
+
+    // Postcode + Region
+    html += `<tr><td style="color:var(--text-muted)">Region</td>${unique.map(s => `<td>${SUBURBS[s].region}</td>`).join('')}</tr>`;
+    html += `<tr><td style="color:var(--text-muted)">Postcode</td>${unique.map(s => `<td>${SUBURBS[s].postcode}</td>`).join('')}</tr>`;
+
+    html += '</tbody></table></div>';
+
+    // --- VERDICT BOX ---
+    html += '<div style="background:var(--card);border:1px solid var(--accent);border-radius:12px;padding:1.5rem 2rem;margin:2rem 0">';
+    html += '<h3 style="color:var(--accent);margin-bottom:1rem;font-size:1.1rem">Quick Verdict</h3>';
+    html += '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:0.5rem">';
+
+    const verdicts = [
+        { label:'Cheapest (2BR)', fn: s => (SUBURBS[s].rent_2br[0]+SUBURBS[s].rent_2br[1])/2, lower:true },
+        { label:'Most Walkable', fn: s => SUBURBS[s].walk_score },
+        { label:'Best Transit', fn: s => SUBURBS[s].transit_score },
+        { label:'Safest', fn: s => SUBURBS[s].safety_rating },
+        { label:'Best Nightlife', fn: s => SUBURBS[s].nightlife_rating },
+        { label:'Most Family Friendly', fn: s => SUBURBS[s].family_rating },
+        { label:'Closest to CBD', fn: s => SUBURBS[s].distance_cbd, lower:true },
+        { label:'Best Cafes', fn: s => cafeOrder[SUBURBS[s].cafe_density]||0 },
+        { label:'Easiest Parking', fn: s => parkOrder[SUBURBS[s].parking_difficulty]||0 },
+        { label:'Most Green Space', fn: s => greenOrder[SUBURBS[s].green_space]||0 },
+    ];
+    verdicts.forEach(v => {
+        const sorted = unique.slice().sort((a,b) => v.lower ? v.fn(a)-v.fn(b) : v.fn(b)-v.fn(a));
+        html += `<div style="display:flex;justify-content:space-between;padding:0.4rem 0.6rem;border-radius:6px;background:var(--bg);font-size:0.9rem"><span style="color:var(--text-muted)">${v.label}</span><strong style="color:var(--green)">${SUBURBS[sorted[0]].name}</strong></div>`;
+    });
+    html += '</div></div>';
+
+    // Savings table
+    if (unique.length >= 2) {
+        const rentAvgs = unique.map(s => Math.round((SUBURBS[s].rent_2br[0]+SUBURBS[s].rent_2br[1])/2));
+        const maxRent = Math.max(...rentAvgs);
+        const minRent = Math.min(...rentAvgs);
+        const savings = maxRent - minRent;
+        if (savings > 0) {
+            html += `<div style="background:var(--card);border-radius:12px;padding:1.5rem 2rem;margin-bottom:2rem;border:1px solid var(--border)">`;
+            html += `<h3 style="margin-bottom:0.8rem;font-size:1rem">Potential Savings (2BR)</h3>`;
+            html += `<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;text-align:center">`;
+            html += `<div><div style="font-size:1.8rem;font-weight:700;color:var(--green)">$${savings}</div><div style="color:var(--text-muted);font-size:0.8rem">per week</div></div>`;
+            html += `<div><div style="font-size:1.8rem;font-weight:700;color:var(--green)">$${Math.round(savings*52/12).toLocaleString()}</div><div style="color:var(--text-muted);font-size:0.8rem">per month</div></div>`;
+            html += `<div><div style="font-size:1.8rem;font-weight:700;color:var(--green)">$${(savings*52).toLocaleString()}</div><div style="color:var(--text-muted);font-size:0.8rem">per year</div></div>`;
+            html += `</div><p style="margin-top:0.8rem;color:var(--text-muted);font-size:0.85rem">Choosing ${SUBURBS[unique[rentAvgs.indexOf(minRent)]].name} over ${SUBURBS[unique[rentAvgs.indexOf(maxRent)]].name}</p></div>`;
+        }
+    }
+
+    // Guide links
+    html += '<div style="display:flex;gap:0.8rem;flex-wrap:wrap;margin-top:1rem">';
+    unique.forEach(s => {
+        html += `<a href="/${s}/" style="background:var(--card);border:1px solid var(--border);padding:0.6rem 1rem;border-radius:8px;color:var(--accent);text-decoration:none;font-weight:600;font-size:0.9rem">Read ${SUBURBS[s].name} Guide →</a>`;
+    });
+    html += '</div>';
+
+    html += '<p style="margin-top:1.5rem;color:var(--text-muted);font-size:0.8rem">Green values = best option per row. Rent data: Q1 2026 advertised listings.</p>';
+
+    res.innerHTML = html;
+    res.scrollIntoView({ behavior: 'smooth' });
+}
+
+// View toggle
+document.querySelectorAll('.view-toggle button').forEach(btn => {
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.view-toggle button').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const v = btn.dataset.view;
+        document.getElementById('rentGrid').style.display = v === 'grid' ? 'grid' : 'none';
+        document.getElementById('rentTable').style.display = v === 'table' ? 'block' : 'none';
+    });
+});
+
+// Event listeners
+['bedrooms', 'maxBudget', 'region', 'sortBy'].forEach(id => {
+    document.getElementById(id).addEventListener('change', renderCards);
+    document.getElementById(id).addEventListener('input', renderCards);
+});
+
+renderCards();
+</script>
+{{ end }}

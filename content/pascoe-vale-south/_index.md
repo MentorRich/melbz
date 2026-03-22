@@ -10,7 +10,7 @@ keywords:
   - "what is Pascoe Vale South like"
   - "pascoe-vale-south suburb"
   - "living in Pascoe Vale South"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/pascoe-vale-south/hero.jpg"
 ---
 
 Small pocket between Pascoe Vale and Coburg. Quiet, close to everything.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Pascoe Vale South? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Pascoe Vale South Melbourne — what you need**
+
+- [Find suburbs like Pascoe Vale South Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Pascoe Vale South Melbourne — what you need →](/tools/coffee-price-tracker/#pascoe-vale-south)
+- [What Melbourne thinks about Pascoe Vale South Melbourne — what you need →](/tools/suburb-takedown/?suburb=pascoe-vale-south)
+- [Compare Pascoe Vale South Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=pascoe-vale-south)

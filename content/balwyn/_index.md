@@ -10,7 +10,7 @@ keywords:
   - "what is Balwyn like"
   - "balwyn suburb"
   - "living in Balwyn"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/balwyn/hero.jpg"
 ---
 
 Family-oriented suburb with strong Chinese-Australian community, top schools, and Whitehorse Road shops.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Balwyn? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Balwyn Melbourne — what you need**
+
+- [Find suburbs like Balwyn Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Balwyn Melbourne — what you need →](/tools/coffee-price-tracker/#balwyn)
+- [What Melbourne thinks about Balwyn Melbourne — what you need →](/tools/suburb-takedown/?suburb=balwyn)
+- [Compare Balwyn Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=balwyn)

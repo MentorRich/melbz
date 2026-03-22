@@ -10,7 +10,7 @@ keywords:
   - "what is Maidstone like"
   - "maidstone suburb"
   - "living in Maidstone"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/maidstone/hero.jpg"
 ---
 
 Quiet residential streets near the Maribyrnong River. Still affordable, increasing interest.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Maidstone? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Maidstone Melbourne — what you need**
+
+- [Find suburbs like Maidstone Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Maidstone Melbourne — what you need →](/tools/coffee-price-tracker/#maidstone)
+- [What Melbourne thinks about Maidstone Melbourne — what you need →](/tools/suburb-takedown/?suburb=maidstone)
+- [Compare Maidstone Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=maidstone)

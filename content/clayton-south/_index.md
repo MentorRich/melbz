@@ -10,7 +10,7 @@ keywords:
   - "what is Clayton South like"
   - "clayton-south suburb"
   - "living in Clayton South"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/clayton-south/hero.jpg"
 ---
 
 Parkland access, quiet residential streets, and affordable living near Monash.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Clayton South? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Clayton South Melbourne — what you need**
+
+- [Find suburbs like Clayton South Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Clayton South Melbourne — what you need →](/tools/coffee-price-tracker/#clayton-south)
+- [What Melbourne thinks about Clayton South Melbourne — what you need →](/tools/suburb-takedown/?suburb=clayton-south)
+- [Compare Clayton South Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=clayton-south)

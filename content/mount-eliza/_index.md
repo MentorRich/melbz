@@ -10,7 +10,7 @@ keywords:
   - "what is Mount Eliza like"
   - "mount-eliza suburb"
   - "living in Mount Eliza"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mount-eliza/hero.jpg"
 ---
 
 Village shops, Canadian Bay Beach, and the Mornington Peninsula's most affluent family pocket.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Mount Eliza? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Mount Eliza Melbourne — what you need**
+
+- [Find suburbs like Mount Eliza Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Mount Eliza Melbourne — what you need →](/tools/coffee-price-tracker/#mount-eliza)
+- [What Melbourne thinks about Mount Eliza Melbourne — what you need →](/tools/suburb-takedown/?suburb=mount-eliza)
+- [Compare Mount Eliza Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mount-eliza)

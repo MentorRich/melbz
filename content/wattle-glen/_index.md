@@ -10,7 +10,7 @@ keywords:
   - "what is Wattle Glen like"
   - "wattle-glen suburb"
   - "living in Wattle Glen"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/wattle-glen/hero.jpg"
 ---
 
 Hurstbridge line stop, bush surroundings, and a tiny community feel.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Wattle Glen? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Wattle Glen Melbourne — what you need**
+
+- [Find suburbs like Wattle Glen Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Wattle Glen Melbourne — what you need →](/tools/coffee-price-tracker/#wattle-glen)
+- [What Melbourne thinks about Wattle Glen Melbourne — what you need →](/tools/suburb-takedown/?suburb=wattle-glen)
+- [Compare Wattle Glen Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=wattle-glen)

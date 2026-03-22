@@ -1,154 +1,113 @@
-{{/* layouts/partials/happening-now.html */}}
-{{/* The Belonging Engine — Live Activity Widget */}}
-{{ $suburb := .Params.suburb | default "" }}
-{{ $currentPage := .Permalink }}
-
-<div id="happening-now-widget" class="happening-now" data-suburb="{{ $suburb }}">
+<div class="happening-now" aria-label="Live Melbourne updates">
   <div class="hn-header">
-    <span class="hn-pulse">⚡</span>
-    <span class="hn-title">Happening Now</span>
+    <span class="hn-dot" aria-hidden="true"></span>
+    <span class="hn-label">Happening Now</span>
+    <span class="hn-city">Melbourne</span>
   </div>
-  
-  <div class="hn-content" id="hn-content">
-    {{ range first 6 (shuffle (slice 
-      (dict "icon" "👁" "text" "47 people reading about Fitzroy right now" "suburb" "fitzroy")
-      (dict "icon" "🍜" "text" "Best ramen in Melbourne? trending (12 replies)" "suburb" "melbourne")
-      (dict "icon" "📍" "text" "New: Pasta shop just opened in Carlton" "suburb" "carlton")
-      (dict "icon" "🗳" "text" "VOTE: Is $7 too much for a flat white?" "suburb" "")
-      (dict "icon" "🔥" "text" "Collingwood cafe review going viral" "suburb" "collingwood")
-      (dict "icon" "💬" "text" "Confession: I judge coffee shops by their bathroom" "suburb" "")
-      (dict "icon" "🎉" "text" "Happy hour at this St Kilda bar — 2-for-1 until 8pm" "suburb" "st-kilda")
-      (dict "icon" "👀" "text" "23 viewing North Melbourne guide now" "suburb" "north-melbourne")
-      (dict "icon" "🍺" "text" "Best pub trivia? Prahran locals debate" "suburb" "prahran")
-      (dict "icon" "📸" "text" "New brunch spot trend: no WiFi" "suburb" "richmond")
-    )) }}
-      <div class="hn-item" data-suburb="{{ .suburb }}">
-        <span class="hn-icon">{{ .icon }}</span>
-        <span class="hn-text">{{ .text }}</span>
-      </div>
-    {{ end }}
+
+  <div class="hn-feed" id="hn-feed" aria-live="polite">
+    <a href="/fitzroy/new-openings/" class="hn-item active">
+      ⚡ <strong>New in Fitzroy:</strong> The venue Brunswick Street
+      is talking about this week — and it is not what anyone expected
+    </a>
+    <a href="/vibe-score/" class="hn-item">
+      🔥 <strong>Vibe Score update:</strong> Collingwood just hit 91 —
+      highest in 6 months. Here is what actually changed
+    </a>
+    <a href="/confessions/" class="hn-item">
+      😬 <strong>Confession:</strong> "I told my date I live in Fitzroy.
+      I actually live in Reservoir." 2.1K reactions and counting
+    </a>
+    <a href="/carlton/best-cafes/" class="hn-item">
+      ☕ <strong>18 Carlton cafes tested:</strong> The winner will surprise
+      anyone who thinks they already know Carlton coffee
+    </a>
+    <a href="/footscray/" class="hn-item">
+      📈 <strong>Footscray is still up:</strong> Median rent $80 per week
+      cheaper than Brunswick. How much longer can that gap last?
+    </a>
+    <a href="/comparisons/fitzroy-vs-collingwood/" class="hn-item">
+      🥊 <strong>Fitzroy vs Collingwood:</strong> We picked a winner.
+      67 percent of readers disagreed. Read the argument
+    </a>
+    <a href="/students/cheapest-suburbs-near-melbourne-uni-2026/" class="hn-item">
+      🎓 <strong>Student alert:</strong> The cheapest suburb within
+      20 minutes of Melbourne Uni is not Carlton. Not even close
+    </a>
+    <a href="/guides/safest-suburbs-melbourne-2026/" class="hn-item">
+      🔒 <strong>Safety rankings updated:</strong> The suburb that jumped
+      12 places this year is not where anyone predicted
+    </a>
+    <a href="/st-kilda/nightlife-guide/" class="hn-item">
+      🌙 <strong>St Kilda after midnight:</strong> What actually happens
+      once the tourists go home and the locals come out
+    </a>
+    <a href="/guides/melbourne-rent-prices-all-suburbs-2026/" class="hn-item">
+      💸 <strong>Rent reality check:</strong> Melbourne suburbs where
+      $400 per week still gets a decent 1BR in 2026. Fewer than you think
+    </a>
+    <a href="/confessions/" class="hn-item">
+      🗳️ <strong>Live poll:</strong> Is $7 too much for a flat white?
+      Melbourne has voted. The result is genuinely close
+    </a>
+    <a href="/brunswick/best-bars/" class="hn-item">
+      🍺 <strong>Brunswick bar scene:</strong> Three new openings,
+      one shock closure. The one that closed hit different
+    </a>
+    <a href="/guides/best-suburbs-young-professionals-2026/" class="hn-item">
+      💼 <strong>Young professionals 2026:</strong> The inner suburb
+      with the best lifestyle per dollar is no longer Fitzroy
+    </a>
+    <a href="/students/melbourne-suburbs-nightlife-ranked-under-30s/" class="hn-item">
+      🎉 <strong>Nightlife ranked for under 30s:</strong> The top 3 suburbs
+      will settle arguments at every Melbourne share house
+    </a>
+    <a href="/richmond/best-restaurants/" class="hn-item">
+      🍜 <strong>Richmond food strip:</strong> The Vietnamese restaurants
+      on Victoria Street locals actually eat at vs the ones they skip
+    </a>
+    <a href="/vibe-score/" class="hn-item">
+      👁 <strong>Right now:</strong> 847 people reading Melbourne suburb
+      guides. Fitzroy and Footscray trending for completely opposite reasons
+    </a>
   </div>
-  
-  <div class="hn-footer">
-    <a href="/confessions/" class="hn-link">Drop a confession →</a>
-    <a href="/join/" class="hn-join">Join the chat</a>
+
+  <div class="hn-actions">
+    <a href="/confessions/" class="hn-btn hn-btn-primary">Drop a confession →</a>
+    <a href="/nightlife/" class="hn-btn hn-btn-secondary">What is on tonight</a>
   </div>
 </div>
 
 <style>
-.happening-now {
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-  border-radius: 12px;
-  padding: 16px;
-  color: #fff;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-  position: sticky;
-  top: 20px;
-  max-width: 300px;
-}
-
-.hn-header {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 12px;
-  padding-bottom: 12px;
-  border-bottom: 1px solid rgba(255,255,255,0.1);
-}
-
-.hn-pulse {
-  animation: pulse 2s infinite;
-  font-size: 18px;
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.7; transform: scale(1.1); }
-}
-
-.hn-title {
-  font-weight: 600;
-  font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #e94560;
-}
-
-.hn-content {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-
-.hn-item {
-  display: flex;
-  align-items: flex-start;
-  gap: 10px;
-  padding: 8px;
-  background: rgba(255,255,255,0.05);
-  border-radius: 8px;
-  font-size: 13px;
-  line-height: 1.4;
-  transition: background 0.2s;
-}
-
-.hn-item:hover {
-  background: rgba(255,255,255,0.1);
-}
-
-.hn-icon {
-  font-size: 16px;
-  flex-shrink: 0;
-}
-
-.hn-text {
-  color: rgba(255,255,255,0.9);
-}
-
-.hn-footer {
-  margin-top: 12px;
-  padding-top: 12px;
-  border-top: 1px solid rgba(255,255,255,0.1);
-  display: flex;
-  justify-content: space-between;
-  font-size: 12px;
-}
-
-.hn-link, .hn-join {
-  color: #e94560;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-.hn-link:hover, .hn-join:hover {
-  text-decoration: underline;
-}
+.happening-now{background:#0f0f0f;border:1px solid #1e1e1e;border-radius:12px;padding:1.25rem 1.5rem;margin:1.5rem 0 2rem}
+.hn-header{display:flex;align-items:center;gap:.5rem;margin-bottom:1rem}
+.hn-dot{width:8px;height:8px;background:#ff3b3b;border-radius:50%;flex-shrink:0;animation:hn-pulse 1.5s ease-in-out infinite}
+@keyframes hn-pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(1.4)}}
+.hn-label{font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:#ff3b3b}
+.hn-city{font-size:.75rem;color:#555;margin-left:auto;text-transform:uppercase;letter-spacing:.05em}
+.hn-feed{min-height:3rem;margin-bottom:1rem}
+.hn-item{display:none;color:#e0e0e0;font-size:.95rem;line-height:1.55;text-decoration:none;padding:.5rem 0;border-bottom:1px solid #1e1e1e;transition:color .2s;animation:hn-fade .4s ease}
+.hn-item.active{display:block}
+.hn-item:hover{color:#fff}
+.hn-item strong{color:#fff}
+@keyframes hn-fade{from{opacity:0;transform:translateY(3px)}to{opacity:1;transform:translateY(0)}}
+.hn-actions{display:flex;gap:.75rem;flex-wrap:wrap;margin-top:.75rem}
+.hn-btn{font-size:.85rem;font-weight:700;padding:.5rem 1.1rem;border-radius:6px;text-decoration:none;min-height:40px;display:inline-flex;align-items:center;transition:opacity .2s}
+.hn-btn:hover{opacity:.85}
+.hn-btn-primary{background:#ff3b3b;color:#fff}
+.hn-btn-secondary{background:transparent;border:1px solid #333;color:#aaa}
+@media(max-width:600px){.happening-now{border-radius:8px;padding:1rem}.hn-item{font-size:.9rem}}
 </style>
 
 <script>
-(function() {
-  const widget = document.getElementById('happening-now-widget');
-  const userSuburb = localStorage.getItem('melbz_suburb');
-  const content = document.getElementById('hn-content');
-  
-  // Highlight user's suburb items
-  if (userSuburb && content) {
-    const items = content.querySelectorAll('.hn-item');
-    items.forEach(item => {
-      if (item.dataset.suburb === userSuburb) {
-        item.style.borderLeft = '3px solid #e94560';
-        item.style.background = 'rgba(233, 69, 96, 0.15)';
-      }
-    });
-  }
-  
-  // Refresh on page load
-  document.addEventListener('DOMContentLoaded', function() {
-    // Shuffle items for variety
-    const items = Array.from(content.children);
-    items.sort(() => Math.random() - 0.5);
-    items.forEach(item => content.appendChild(item));
-  });
+(function(){
+  var items=document.querySelectorAll('#hn-feed .hn-item');
+  if(!items.length)return;
+  var i=0;
+  setInterval(function(){
+    items[i].classList.remove('active');
+    i=(i+1)%items.length;
+    items[i].classList.add('active');
+  },4000);
 })();
 </script>

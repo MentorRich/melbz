@@ -10,7 +10,7 @@ keywords:
   - "what is Glen Huntly like"
   - "glen-huntly suburb"
   - "living in Glen Huntly"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/glen-huntly/hero.jpg"
 ---
 
 Small village strip, tram access, and an affordable alternative to Elsternwick and Carnegie.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Glen Huntly? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Glen Huntly Melbourne — what you need**
+
+- [Find suburbs like Glen Huntly Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Glen Huntly Melbourne — what you need →](/tools/coffee-price-tracker/#glen-huntly)
+- [What Melbourne thinks about Glen Huntly Melbourne — what you need →](/tools/suburb-takedown/?suburb=glen-huntly)
+- [Compare Glen Huntly Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=glen-huntly)

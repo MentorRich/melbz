@@ -4,7 +4,7 @@ description: "The complete guide to Preston in 2026. Preston Market, High Street
 date: 2026-03-22
 lastmod: 2026-03-22
 author: "Lisa Nguyen"
-cover_image: "/images/shared/melbourne-suburb.jpg"
+cover_image: "/images/preston/hero.jpg"
 cover_image_alt: "High Street Preston with cafes and shops on a Saturday morning"
 suburb: "preston"
 tags: ["preston", "inner-north", "suburb-guide", "melbourne"]
@@ -105,3 +105,12 @@ Want more detail? We've covered every angle:
 - **[Thornbury](/thornbury/)** — The next Northcote — craft breweries, High Street eats, and families buying in
 - **[Reservoir](/reservoir/)** — Big, diverse, and still affordable. Edwardes Lake, Broadway shopping, and family value
 - **[Northcote](/northcote/)** — Established inner-north favourite with brunch, bars, and higher price tags
+
+---
+
+**MELBZ Tools for Preston**
+
+- [Find suburbs like Preston →](/tools/suburb-match/)
+- [Coffee prices in Preston →](/tools/coffee-price-tracker/#preston)
+- [What Melbourne thinks about Preston →](/tools/suburb-takedown/?suburb=preston)
+- [Compare Preston with other suburbs →](/tools/compare-suburbs/?suburbs=preston)

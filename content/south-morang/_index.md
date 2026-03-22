@@ -10,7 +10,7 @@ keywords:
   - "what is South Morang like"
   - "south-morang suburb"
   - "living in South Morang"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/south-morang/hero.jpg"
 ---
 
 Mernda line terminus has transformed this suburb. New estates, growing amenities.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about South Morang? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for South Morang Melbourne — what you need**
+
+- [Find suburbs like South Morang Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in South Morang Melbourne — what you need →](/tools/coffee-price-tracker/#south-morang)
+- [What Melbourne thinks about South Morang Melbourne — what you need →](/tools/suburb-takedown/?suburb=south-morang)
+- [Compare South Morang Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=south-morang)

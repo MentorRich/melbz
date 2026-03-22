@@ -10,7 +10,7 @@ keywords:
   - "what is Hoppers Crossing like"
   - "hoppers-crossing suburb"
   - "living in Hoppers Crossing"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/hoppers-crossing/hero.jpg"
 ---
 
 Pacific Werribee access, train line, and established family living in the western corridor.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Hoppers Crossing? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Hoppers Crossing Melbourne — what you need**
+
+- [Find suburbs like Hoppers Crossing Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Hoppers Crossing Melbourne — what you need →](/tools/coffee-price-tracker/#hoppers-crossing)
+- [What Melbourne thinks about Hoppers Crossing Melbourne — what you need →](/tools/suburb-takedown/?suburb=hoppers-crossing)
+- [Compare Hoppers Crossing Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=hoppers-crossing)

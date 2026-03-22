@@ -10,7 +10,7 @@ keywords:
   - "what is Carrum Downs like"
   - "carrum-downs suburb"
   - "living in Carrum Downs"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/carrum-downs/hero.jpg"
 ---
 
 Affordable family suburb with retail access and proximity to Frankston.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Carrum Downs? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Carrum Downs Melbourne — what you need**
+
+- [Find suburbs like Carrum Downs Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Carrum Downs Melbourne — what you need →](/tools/coffee-price-tracker/#carrum-downs)
+- [What Melbourne thinks about Carrum Downs Melbourne — what you need →](/tools/suburb-takedown/?suburb=carrum-downs)
+- [Compare Carrum Downs Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=carrum-downs)

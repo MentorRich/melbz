@@ -10,6 +10,9 @@ tags:
   - "beer"
   - "nightlife"
   - "melbourne"
+description: "The 7 best pubs in Brunswick East Melbourne 2026. Beer gardens, craft taps and the Lomond Hotel. Your local pub guide."
+author: "Tyler James"
+suburb: "brunswick-east"
 ---
 
 # 7 Best Pubs in Brunswick East — Your 2026 Local Guide
@@ -168,4 +171,3 @@ Brunswick East pubs aren't trying to be everything — they're trying to be the 
 - [Fitzroy](/fitzroy/)
 - [Brunswick](/brunswick/)
 - [Carlton](/carlton/)
-

@@ -10,7 +10,7 @@ keywords:
   - "what is Park Orchards like"
   - "park-orchards suburb"
   - "living in Park Orchards"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/park-orchards/hero.jpg"
 ---
 
 Large bush blocks, horse properties, and a semi-rural pocket within the suburban boundary.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Park Orchards? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Park Orchards Melbourne — what you need**
+
+- [Find suburbs like Park Orchards Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Park Orchards Melbourne — what you need →](/tools/coffee-price-tracker/#park-orchards)
+- [What Melbourne thinks about Park Orchards Melbourne — what you need →](/tools/suburb-takedown/?suburb=park-orchards)
+- [Compare Park Orchards Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=park-orchards)

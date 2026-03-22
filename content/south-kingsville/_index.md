@@ -10,7 +10,7 @@ keywords:
   - "what is South Kingsville like"
   - "south-kingsville suburb"
   - "living in South Kingsville"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/south-kingsville/hero.jpg"
 ---
 
 Small, quiet pocket near the waterfront. Still finding its identity between industrial and residential.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about South Kingsville? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for South Kingsville Melbourne — what you need**
+
+- [Find suburbs like South Kingsville Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in South Kingsville Melbourne — what you need →](/tools/coffee-price-tracker/#south-kingsville)
+- [What Melbourne thinks about South Kingsville Melbourne — what you need →](/tools/suburb-takedown/?suburb=south-kingsville)
+- [Compare South Kingsville Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=south-kingsville)

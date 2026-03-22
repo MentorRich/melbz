@@ -9,7 +9,7 @@ keywords:
   - "cafe culture melbourne"
   - "best cafes melbourne suburbs"
   - "flat white melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-cafe-culture-best-suburbs/hero.jpg"
 ---
 
 Melbourne's cafe culture is world-famous. Which suburbs do it best? Our picks for coffee lovers.
@@ -29,3 +29,12 @@ Melbourne's cafe culture is world-famous. Which suburbs do it best? Our picks fo
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Best Coffee Suburbs in Melbourne — The Cafe Guide**
+
+- [Find suburbs like Best Coffee Suburbs in Melbourne — The Cafe Guide →](/tools/suburb-match/)
+- [Coffee prices in Best Coffee Suburbs in Melbourne — The Cafe Guide →](/tools/coffee-price-tracker/#melbourne-cafe-culture-best-suburbs)
+- [What Melbourne thinks about Best Coffee Suburbs in Melbourne — The Cafe Guide →](/tools/suburb-takedown/?suburb=melbourne-cafe-culture-best-suburbs)
+- [Compare Best Coffee Suburbs in Melbourne — The Cafe Guide with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-cafe-culture-best-suburbs)

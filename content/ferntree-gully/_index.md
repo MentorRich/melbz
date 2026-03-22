@@ -10,7 +10,7 @@ keywords:
   - "what is Ferntree Gully like"
   - "ferntree-gully suburb"
   - "living in Ferntree Gully"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/ferntree-gully/hero.jpg"
 ---
 
 Gateway to the Dandenong Ranges. Mountain access, family living, and Knox City nearby.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Ferntree Gully? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Ferntree Gully Melbourne — what you need**
+
+- [Find suburbs like Ferntree Gully Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Ferntree Gully Melbourne — what you need →](/tools/coffee-price-tracker/#ferntree-gully)
+- [What Melbourne thinks about Ferntree Gully Melbourne — what you need →](/tools/suburb-takedown/?suburb=ferntree-gully)
+- [Compare Ferntree Gully Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=ferntree-gully)

@@ -10,7 +10,7 @@ keywords:
   - "what is Cairnlea like"
   - "cairnlea suburb"
   - "living in Cairnlea"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/cairnlea/hero.jpg"
 ---
 
 Newer planned estate with family amenities, parks, and good schools.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Cairnlea? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Cairnlea Melbourne — what you need**
+
+- [Find suburbs like Cairnlea Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Cairnlea Melbourne — what you need →](/tools/coffee-price-tracker/#cairnlea)
+- [What Melbourne thinks about Cairnlea Melbourne — what you need →](/tools/suburb-takedown/?suburb=cairnlea)
+- [Compare Cairnlea Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=cairnlea)

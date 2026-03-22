@@ -10,7 +10,7 @@ keywords:
   - "what is Frankston North like"
   - "frankston-north suburb"
   - "living in Frankston North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/frankston-north/hero.jpg"
 ---
 
 Affordable pocket north of Frankston with community investment and improving reputation.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Frankston North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Frankston North Melbourne — what you need**
+
+- [Find suburbs like Frankston North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Frankston North Melbourne — what you need →](/tools/coffee-price-tracker/#frankston-north)
+- [What Melbourne thinks about Frankston North Melbourne — what you need →](/tools/suburb-takedown/?suburb=frankston-north)
+- [Compare Frankston North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=frankston-north)

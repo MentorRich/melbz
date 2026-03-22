@@ -9,7 +9,7 @@ keywords:
   - "spring racing carnival melbourne"
   - "where to stay melbourne cup"
   - "flemington race day"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/spring-racing-carnival-melbourne-suburb-guide/hero.jpg"
 ---
 
 Spring racing season transforms Melbourne. Where to stay, where to party, and which suburbs come alive.
@@ -36,3 +36,12 @@ Spring racing season transforms Melbourne. Where to stay, where to party, and wh
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Melbourne Cup Carnival — The Suburb Guide**
+
+- [Find suburbs like Melbourne Cup Carnival — The Suburb Guide →](/tools/suburb-match/)
+- [Coffee prices in Melbourne Cup Carnival — The Suburb Guide →](/tools/coffee-price-tracker/#spring-racing-carnival-melbourne-suburb-guide)
+- [What Melbourne thinks about Melbourne Cup Carnival — The Suburb Guide →](/tools/suburb-takedown/?suburb=spring-racing-carnival-melbourne-suburb-guide)
+- [Compare Melbourne Cup Carnival — The Suburb Guide with other suburbs →](/tools/compare-suburbs/?suburbs=spring-racing-carnival-melbourne-suburb-guide)

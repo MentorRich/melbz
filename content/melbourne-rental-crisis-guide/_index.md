@@ -9,7 +9,7 @@ keywords:
   - "how to find rental melbourne"
   - "rental tips melbourne 2026"
   - "apartment hunting melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-rental-crisis-guide/hero.jpg"
 ---
 
 The rental market is tough. Here are practical strategies that actually work for finding a rental in Melbourne right now.
@@ -37,3 +37,12 @@ The rental market is tough. Here are practical strategies that actually work for
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Melbourne Rental Crisis — How to Find a Place in 2026**
+
+- [Find suburbs like Melbourne Rental Crisis — How to Find a Place in 2026 →](/tools/suburb-match/)
+- [Coffee prices in Melbourne Rental Crisis — How to Find a Place in 2026 →](/tools/coffee-price-tracker/#melbourne-rental-crisis-guide)
+- [What Melbourne thinks about Melbourne Rental Crisis — How to Find a Place in 2026 →](/tools/suburb-takedown/?suburb=melbourne-rental-crisis-guide)
+- [Compare Melbourne Rental Crisis — How to Find a Place in 2026 with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-rental-crisis-guide)

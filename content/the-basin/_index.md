@@ -10,7 +10,7 @@ keywords:
   - "what is The Basin like"
   - "the-basin suburb"
   - "living in The Basin"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/the-basin/hero.jpg"
 ---
 
 Semi-rural pocket near the Dandenong Ranges with a strong community identity.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about The Basin? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for The Basin Melbourne — what you need**
+
+- [Find suburbs like The Basin Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in The Basin Melbourne — what you need →](/tools/coffee-price-tracker/#the-basin)
+- [What Melbourne thinks about The Basin Melbourne — what you need →](/tools/suburb-takedown/?suburb=the-basin)
+- [Compare The Basin Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=the-basin)

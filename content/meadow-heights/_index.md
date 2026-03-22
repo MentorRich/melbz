@@ -10,7 +10,7 @@ keywords:
   - "what is Meadow Heights like"
   - "meadow-heights suburb"
   - "living in Meadow Heights"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/meadow-heights/hero.jpg"
 ---
 
 Multicultural community near Broadmeadows with affordable housing and local services.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Meadow Heights? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Meadow Heights Melbourne — what you need**
+
+- [Find suburbs like Meadow Heights Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Meadow Heights Melbourne — what you need →](/tools/coffee-price-tracker/#meadow-heights)
+- [What Melbourne thinks about Meadow Heights Melbourne — what you need →](/tools/suburb-takedown/?suburb=meadow-heights)
+- [Compare Meadow Heights Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=meadow-heights)

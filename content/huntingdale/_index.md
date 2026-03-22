@@ -10,7 +10,7 @@ keywords:
   - "what is Huntingdale like"
   - "huntingdale suburb"
   - "living in Huntingdale"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/huntingdale/hero.jpg"
 ---
 
 Monash Uni station, small village feel, and a functional suburb between Oakleigh and Clayton.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Huntingdale? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Huntingdale Melbourne — what you need**
+
+- [Find suburbs like Huntingdale Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Huntingdale Melbourne — what you need →](/tools/coffee-price-tracker/#huntingdale)
+- [What Melbourne thinks about Huntingdale Melbourne — what you need →](/tools/suburb-takedown/?suburb=huntingdale)
+- [Compare Huntingdale Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=huntingdale)

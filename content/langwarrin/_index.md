@@ -10,7 +10,7 @@ keywords:
   - "what is Langwarrin like"
   - "langwarrin suburb"
   - "living in Langwarrin"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/langwarrin/hero.jpg"
 ---
 
 Peninsula Link access, family estates, and equestrian properties on the Peninsula edge.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Langwarrin? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Langwarrin Melbourne — what you need**
+
+- [Find suburbs like Langwarrin Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Langwarrin Melbourne — what you need →](/tools/coffee-price-tracker/#langwarrin)
+- [What Melbourne thinks about Langwarrin Melbourne — what you need →](/tools/suburb-takedown/?suburb=langwarrin)
+- [Compare Langwarrin Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=langwarrin)

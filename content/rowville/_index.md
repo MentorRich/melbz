@@ -10,7 +10,7 @@ keywords:
   - "what is Rowville like"
   - "rowville suburb"
   - "living in Rowville"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/rowville/hero.jpg"
 ---
 
 Stud Park, family estates, and one of the outer south-east's biggest suburbs by population.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Rowville? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Rowville Melbourne — what you need**
+
+- [Find suburbs like Rowville Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Rowville Melbourne — what you need →](/tools/coffee-price-tracker/#rowville)
+- [What Melbourne thinks about Rowville Melbourne — what you need →](/tools/suburb-takedown/?suburb=rowville)
+- [Compare Rowville Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=rowville)

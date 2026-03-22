@@ -10,7 +10,7 @@ keywords:
   - "what is Caulfield North like"
   - "caulfield-north suburb"
   - "living in Caulfield North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/caulfield-north/hero.jpg"
 ---
 
 Tree-lined streets, strong Jewish community, and good proximity to both the beach and the city.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Caulfield North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Caulfield North Melbourne — what you need**
+
+- [Find suburbs like Caulfield North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Caulfield North Melbourne — what you need →](/tools/coffee-price-tracker/#caulfield-north)
+- [What Melbourne thinks about Caulfield North Melbourne — what you need →](/tools/suburb-takedown/?suburb=caulfield-north)
+- [Compare Caulfield North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=caulfield-north)

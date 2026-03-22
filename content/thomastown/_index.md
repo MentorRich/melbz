@@ -10,7 +10,7 @@ keywords:
   - "what is Thomastown like"
   - "thomastown suburb"
   - "living in Thomastown"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/thomastown/hero.jpg"
 ---
 
 Diverse community on the South Morang line with improving infrastructure and retail.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Thomastown? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Thomastown Melbourne — what you need**
+
+- [Find suburbs like Thomastown Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Thomastown Melbourne — what you need →](/tools/coffee-price-tracker/#thomastown)
+- [What Melbourne thinks about Thomastown Melbourne — what you need →](/tools/suburb-takedown/?suburb=thomastown)
+- [Compare Thomastown Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=thomastown)

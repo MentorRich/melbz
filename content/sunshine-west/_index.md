@@ -10,7 +10,7 @@ keywords:
   - "what is Sunshine West like"
   - "sunshine-west suburb"
   - "living in Sunshine West"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/sunshine-west/hero.jpg"
 ---
 
 Western Ring Road access, growing retail, and one of the west's most affordable pockets.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Sunshine West? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Sunshine West Melbourne — what you need**
+
+- [Find suburbs like Sunshine West Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Sunshine West Melbourne — what you need →](/tools/coffee-price-tracker/#sunshine-west)
+- [What Melbourne thinks about Sunshine West Melbourne — what you need →](/tools/suburb-takedown/?suburb=sunshine-west)
+- [Compare Sunshine West Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=sunshine-west)

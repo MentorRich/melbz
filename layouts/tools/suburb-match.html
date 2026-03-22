@@ -1,0 +1,431 @@
+{{ define "main" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Melbourne Suburb Match Quiz",
+  "url": "https://melbz.com.au/tools/suburb-match/",
+  "description": "Answer 7 quick questions about your lifestyle, budget and vibe. Get matched to your ideal Melbourne suburb instantly.",
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "Web",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "AUD" },
+  "provider": { "@type": "Organization", "name": "MELBZ", "url": "https://melbz.com.au" }
+}
+</script>
+<style>
+:root{--accent:#ff3b3b;--bg:#0a0a0a;--card:#141414;--card-hover:#1a1a1a;--border:#222;--text:#e0e0e0;--text-muted:#888;--green:#22c55e;--amber:#f59e0b}
+*,*::before,*::after{box-sizing:border-box}
+.quiz-tool{max-width:720px;margin:0 auto;padding:2rem 1rem;min-height:80vh}
+.quiz-tool h1{font-size:2rem;margin-bottom:0.5rem;line-height:1.2}
+.quiz-tool .subtitle{color:var(--text-muted);margin-bottom:2rem;font-size:1.1rem}
+.progress-bar{width:100%;height:6px;background:var(--border);border-radius:3px;margin-bottom:2rem;overflow:hidden}
+.progress-fill{height:100%;background:var(--accent);border-radius:3px;transition:width 0.4s ease}
+.progress-label{font-size:0.8rem;color:var(--text-muted);margin-bottom:0.5rem;text-transform:uppercase;letter-spacing:0.05em}
+.question-container{position:relative;overflow:hidden;min-height:400px}
+.question{position:absolute;top:0;left:0;width:100%;opacity:0;transform:translateX(60px);transition:all 0.4s ease;pointer-events:none}
+.question.active{position:relative;opacity:1;transform:translateX(0);pointer-events:all}
+.question.exit-left{opacity:0;transform:translateX(-60px)}
+.question h2{font-size:1.4rem;margin-bottom:1.5rem;line-height:1.3;color:var(--text)}
+.answer-grid{display:grid;gap:0.75rem}
+.answer-tile{display:block;width:100%;text-align:left;background:var(--card);border:2px solid var(--border);border-radius:12px;padding:1rem 1.25rem;cursor:pointer;font-size:1rem;color:var(--text);line-height:1.4;transition:all 0.2s;min-height:48px;font-family:inherit}
+.answer-tile:hover,.answer-tile:focus{border-color:var(--accent);background:var(--card-hover);outline:none}
+.answer-tile:active{transform:scale(0.98)}
+.answer-tile .letter{display:inline-block;width:28px;height:28px;line-height:28px;text-align:center;background:var(--border);border-radius:6px;font-weight:700;font-size:0.85rem;margin-right:0.75rem;color:var(--text-muted);transition:all 0.2s;flex-shrink:0}
+.answer-tile:hover .letter{background:var(--accent);color:#fff}
+.results-section{display:none}
+.results-section.visible{display:block}
+.results-header{text-align:center;margin-bottom:2rem}
+.results-header h2{font-size:1.8rem;margin-bottom:0.5rem}
+.results-header p{color:var(--text-muted);font-size:1rem}
+.match-card{background:var(--card);border:2px solid var(--border);border-radius:16px;padding:1.5rem;margin-bottom:1.25rem;transition:border-color 0.2s}
+.match-card:first-child{border-color:var(--accent)}
+.match-rank{font-size:0.75rem;text-transform:uppercase;letter-spacing:0.1em;color:var(--accent);font-weight:700;margin-bottom:0.5rem}
+.match-card:nth-child(2) .match-rank{color:var(--amber)}
+.match-card:nth-child(3) .match-rank{color:var(--text-muted)}
+.match-name{font-size:1.5rem;font-weight:700;margin-bottom:0.25rem}
+.match-name a{color:var(--text);text-decoration:none}
+.match-name a:hover{color:var(--accent)}
+.match-meta{display:flex;gap:1rem;margin-bottom:0.75rem;flex-wrap:wrap}
+.vibe-badge{display:inline-flex;align-items:center;gap:0.3rem;padding:0.25rem 0.6rem;border-radius:6px;font-size:0.8rem;font-weight:600}
+.vibe-badge.green{background:rgba(34,197,94,0.15);color:var(--green)}
+.vibe-badge.amber{background:rgba(245,158,11,0.15);color:var(--amber)}
+.vibe-badge.red{background:rgba(255,59,59,0.15);color:var(--accent)}
+.rent-estimate{font-size:0.85rem;color:var(--text-muted)}
+.match-desc{font-size:1rem;color:var(--text);margin-bottom:1rem;font-style:italic;line-height:1.5}
+.match-cta{display:inline-block;padding:0.6rem 1.2rem;background:transparent;border:1px solid var(--accent);color:var(--accent);border-radius:8px;text-decoration:none;font-size:0.85rem;font-weight:600;transition:all 0.2s;min-height:48px;line-height:1.6}
+.match-cta:hover{background:var(--accent);color:#fff}
+.share-section{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:1.5rem;margin-top:2rem;text-align:center}
+.share-section h3{font-size:1.1rem;margin-bottom:0.75rem}
+.share-section p{font-size:0.9rem;color:var(--text-muted);margin-bottom:1rem}
+.share-btn{display:inline-block;padding:0.7rem 1.5rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;cursor:pointer;font-size:0.95rem;min-height:48px;font-family:inherit;transition:opacity 0.2s}
+.share-btn:hover{opacity:0.9}
+.share-url{display:block;margin-top:0.75rem;padding:0.6rem;background:var(--bg);border:1px solid var(--border);border-radius:8px;color:var(--text-muted);font-size:0.8rem;word-break:break-all;display:none}
+.extra-links{margin-top:1.5rem;display:flex;flex-direction:column;gap:0.75rem;align-items:center}
+.extra-links a{color:var(--text-muted);text-decoration:none;font-size:0.9rem;transition:color 0.2s;min-height:48px;display:flex;align-items:center}
+.extra-links a:hover{color:var(--accent)}
+.restart-btn{display:inline-block;margin-top:2rem;padding:0.6rem 1.5rem;background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:8px;cursor:pointer;font-size:0.9rem;font-family:inherit;min-height:48px;transition:all 0.2s}
+.restart-btn:hover{border-color:var(--accent);color:var(--accent)}
+@media(max-width:480px){
+  .quiz-tool h1{font-size:1.5rem}
+  .question h2{font-size:1.2rem}
+  .answer-tile{padding:0.9rem 1rem;font-size:0.95rem}
+  .match-name{font-size:1.3rem}
+  .match-meta{gap:0.5rem}
+}
+</style>
+
+<div class="quiz-tool">
+  <h1>Melbourne Suburb Match</h1>
+  <p class="subtitle">7 questions. Your perfect suburb. Share with your group chat.</p>
+
+  <div id="quizSection">
+    <div class="progress-label"><span id="progLabel">Q1 of 7</span></div>
+    <div class="progress-bar"><div class="progress-fill" id="progFill" style="width:14.28%"></div></div>
+    <div class="question-container" id="questionContainer"></div>
+  </div>
+
+  <div class="results-section" id="resultsSection">
+    <div class="results-header">
+      <h2>Your Melbourne Match</h2>
+      <p>Based on your answers, these suburbs suit you best.</p>
+    </div>
+    <div id="matchCards"></div>
+    <div class="share-section">
+      <h3>Share your match</h3>
+      <p>Compare with a friend &mdash; send them this link and see if you match.</p>
+      <button class="share-btn" id="shareBtn">Copy share link</button>
+      <div class="share-url" id="shareUrl"></div>
+    </div>
+    <div class="extra-links" id="extraLinks"></div>
+    <button class="restart-btn" id="restartBtn">Take the quiz again</button>
+  </div>
+</div>
+
+<script>
+(function(){
+  const QUESTIONS = [
+    {
+      q: "Your weekly rent budget?",
+      answers: [
+        "Under $300 \u2014 share house, outer suburbs, not precious about it",
+        "$300\u2013$450 \u2014 solid options, not going broke",
+        "$450\u2013$600 \u2014 inner suburbs, own place",
+        "$600+ \u2014 inner city, the lifestyle costs what it costs"
+      ]
+    },
+    {
+      q: "Saturday morning. Where are you?",
+      answers: [
+        "In bed until 11am then someone else\u2019s kitchen",
+        "At a market buying expensive bread without irony",
+        "Running or cycling somewhere with a river nearby",
+        "Already three coffees deep at a cafe I have claimed as my office"
+      ]
+    },
+    {
+      q: "Your relationship with the Melbourne CBD?",
+      answers: [
+        "Walking distance or a 15 minute tram",
+        "20\u201330 minute tram or train is completely fine",
+        "I need train access, I will occasionally drive",
+        "I work remotely and genuinely do not care"
+      ]
+    },
+    {
+      q: "Your ideal Friday night?",
+      answers: [
+        "Small bar, no bookings, found by accident",
+        "Live music at a pub that has been there 40 years",
+        "Long dinner with a wine list I will pretend to understand",
+        "House party in a warehouse or large terrace"
+      ]
+    },
+    {
+      q: "What do you actually need nearby?",
+      answers: [
+        "The best cafe I have ever been to",
+        "Parks, trails, green space I can walk to",
+        "Restaurants from every cuisine imaginable",
+        "Bars and late-night food I can reach on foot after midnight"
+      ]
+    },
+    {
+      q: "Your suburb philosophy?",
+      answers: [
+        "I want character. Gentrification is complicated and I know it.",
+        "I want quiet streets and a genuine community feel",
+        "I want to be central to everything and I will pay for it",
+        "I want the underrated suburb that is about to have its moment"
+      ]
+    },
+    {
+      q: "Pick your Melbourne personality:",
+      answers: [
+        "I have strong opinions about natural wine and I am not apologising",
+        "I have lived in four suburbs in eight years and learned from all of them",
+        "My suburb is the one people always mean to visit but never do",
+        "I moved here from interstate and I have fully converted"
+      ]
+    }
+  ];
+
+  const SCORING = {
+    0: {
+      0: {"outer-north":3,"outer-west":3,"outer-east":2},
+      1: {"mid-north":3,"mid-west":2,"mid-south":2},
+      2: {"inner-north":3,"inner-south":2,"inner-west":2},
+      3: {"premium":3,"cbd":3}
+    },
+    1: {
+      0: {"inner-north":2,"mid-north":2},
+      1: {"mid-north":2,"mid-west":2,"inner-north":1},
+      2: {"mid-west":2,"inner-west":2,"clifton-hill-cluster":2},
+      3: {"inner-north":2,"cbd":2,"inner-south":1}
+    },
+    2: {
+      0: {"inner-north":3,"inner-south":2,"cbd":2},
+      1: {"mid-north":2,"mid-west":2,"mid-south":2},
+      2: {"outer-north":2,"outer-east":2,"outer-west":2},
+      3: {}
+    },
+    3: {
+      0: {"inner-north":2,"inner-south":1,"cbd":1},
+      1: {"mid-north":2,"inner-north":1,"mid-west":1},
+      2: {"inner-south":2,"premium":1,"bayside":1},
+      3: {"inner-north":2,"mid-north":2}
+    },
+    4: {
+      0: {"inner-north":2,"mid-north":2,"inner-south":1},
+      1: {"mid-west":2,"clifton-hill-cluster":2,"bayside":2},
+      2: {"inner-north":2,"cbd":2,"outer-multicultural":2},
+      3: {"inner-north":2,"inner-south":2,"cbd":2}
+    },
+    5: {
+      0: {"inner-north":2,"mid-north":2},
+      1: {"mid-west":2,"mid-south":2,"bayside":2},
+      2: {"cbd":3,"premium":2},
+      3: {"outer-west":2,"mid-north":1}
+    },
+    6: {
+      0: {"inner-north":2,"mid-north":1},
+      1: {"mid-north":2,"mid-west":1,"inner-north":1},
+      2: {"mid-west":2,"clifton-hill-cluster":1,"bayside":1},
+      3: {"cbd":2,"inner-south":1,"inner-north":1}
+    }
+  };
+
+  const CLUSTERS = {
+    "inner-north": ["fitzroy","collingwood","abbotsford","carlton"],
+    "mid-north": ["brunswick","northcote","thornbury","fitzroy-north"],
+    "outer-north": ["coburg","preston","reservoir","bundoora"],
+    "inner-south": ["prahran","south-yarra","windsor"],
+    "mid-south": ["carnegie","caulfield","bentleigh","malvern-east"],
+    "bayside": ["brighton","sandringham","hampton","elwood","albert-park"],
+    "inner-west": ["kensington","williamstown","newport"],
+    "mid-west": ["yarraville","seddon","footscray"],
+    "outer-west": ["sunshine","braybrook","altona"],
+    "cbd": ["melbourne-cbd","southbank","docklands"],
+    "premium": ["toorak","malvern","south-melbourne","albert-park"],
+    "clifton-hill-cluster": ["clifton-hill","northcote","fairfield"],
+    "outer-multicultural": ["box-hill","springvale","footscray","dandenong"],
+    "outer-east": ["clayton","dandenong","frankston"]
+  };
+
+  const SUBURB_DATA = {
+    "fitzroy": {name:"Fitzroy",vibe:9.2,rent1br:"$450\u2013$550",desc:"Where Melbourne\u2019s creative history lives alongside its $22 cocktail present."},
+    "collingwood": {name:"Collingwood",vibe:8.8,rent1br:"$420\u2013$520",desc:"Smith Street, warehouse conversions, Stomping Ground. Genuinely delivers."},
+    "abbotsford": {name:"Abbotsford",vibe:7.8,rent1br:"$380\u2013$480",desc:"Collingwood\u2019s quieter sibling with the same postcodes and half the attitude."},
+    "carlton": {name:"Carlton",vibe:8.5,rent1br:"$400\u2013$500",desc:"Lygon Street espresso since before you were born. University energy forever."},
+    "brunswick": {name:"Brunswick",vibe:8.9,rent1br:"$380\u2013$470",desc:"Peaked around 2015. Still proud of it. Deservedly."},
+    "northcote": {name:"Northcote",vibe:8.6,rent1br:"$400\u2013$490",desc:"Where Fitzroy people move when they want a backyard and 10 more years."},
+    "thornbury": {name:"Thornbury",vibe:8.0,rent1br:"$370\u2013$450",desc:"Northcote\u2019s northern expansion. High Street is doing real work now."},
+    "fitzroy-north": {name:"Fitzroy North",vibe:8.3,rent1br:"$420\u2013$510",desc:"Edinburgh Gardens energy. All the Fitzroy charm with slightly more parking."},
+    "coburg": {name:"Coburg",vibe:7.4,rent1br:"$320\u2013$400",desc:"Sydney Road kebabs at 2am, genuine multiculturalism, and rents that still make sense."},
+    "preston": {name:"Preston",vibe:7.2,rent1br:"$310\u2013$390",desc:"High Street is having a moment. The locals are cautiously optimistic."},
+    "reservoir": {name:"Reservoir",vibe:6.5,rent1br:"$280\u2013$360",desc:"Genuinely affordable, surprisingly connected, steadily improving every year."},
+    "bundoora": {name:"Bundoora",vibe:5.8,rent1br:"$260\u2013$340",desc:"University suburb energy. La Trobe campus, affordable rent, decent buses."},
+    "prahran": {name:"Prahran",vibe:8.4,rent1br:"$440\u2013$540",desc:"Greville Street record stores and Chapel Street shopping in the same postcode."},
+    "south-yarra": {name:"South Yarra",vibe:8.1,rent1br:"$480\u2013$580",desc:"Chapel Street is trying very hard and you respect the effort."},
+    "windsor": {name:"Windsor",vibe:8.3,rent1br:"$420\u2013$500",desc:"The south side of Chapel Street where things get interesting and slightly cheaper."},
+    "carnegie": {name:"Carnegie",vibe:7.1,rent1br:"$350\u2013$430",desc:"Koornang Road\u2019s restaurant strip is genuinely excellent and nobody talks about it enough."},
+    "caulfield": {name:"Caulfield",vibe:6.8,rent1br:"$360\u2013$440",desc:"Monash students, the racecourse, and solid suburban reliability."},
+    "bentleigh": {name:"Bentleigh",vibe:6.9,rent1br:"$370\u2013$450",desc:"Centre Road cafes have quietly become very good. Family suburb with edge."},
+    "malvern-east": {name:"Malvern East",vibe:6.5,rent1br:"$380\u2013$460",desc:"Leafy streets, good schools, and the quiet confidence of not needing a scene."},
+    "brighton": {name:"Brighton",vibe:7.0,rent1br:"$480\u2013$580",desc:"The bathing boxes are genuinely iconic and everyone knows exactly why."},
+    "sandringham": {name:"Sandringham",vibe:7.2,rent1br:"$440\u2013$530",desc:"Beach suburb without the Brighton price tag. Locals guard this secret fiercely."},
+    "hampton": {name:"Hampton",vibe:7.1,rent1br:"$450\u2013$540",desc:"Hampton Street village energy. Beach access without the bayside premium."},
+    "elwood": {name:"Elwood",vibe:7.8,rent1br:"$400\u2013$500",desc:"Acland Street overflow, canal walks, and a beach that surprises newcomers."},
+    "albert-park": {name:"Albert Park",vibe:8.0,rent1br:"$500\u2013$600",desc:"The lake, the Grand Prix, and cafes where everyone seems to know each other."},
+    "kensington": {name:"Kensington",vibe:7.9,rent1br:"$400\u2013$490",desc:"Inner west access, Flemington Racecourse views, and genuinely good coffee."},
+    "williamstown": {name:"Williamstown",vibe:7.6,rent1br:"$420\u2013$510",desc:"Melbourne\u2019s best kept open secret. Bay views, good pubs, nobody telling anyone."},
+    "newport": {name:"Newport",vibe:7.3,rent1br:"$380\u2013$460",desc:"Williamstown access without the Williamstown price. Express trains to the city."},
+    "yarraville": {name:"Yarraville",vibe:8.2,rent1br:"$400\u2013$480",desc:"Sun Theatre, Anderson Street village, and a community that actually shows up."},
+    "seddon": {name:"Seddon",vibe:7.7,rent1br:"$380\u2013$460",desc:"One main street that punches well above its size. Yarraville\u2019s quieter neighbour."},
+    "footscray": {name:"Footscray",vibe:8.0,rent1br:"$340\u2013$420",desc:"Melbourne\u2019s most underrated suburb and the locals prefer it that way."},
+    "sunshine": {name:"Sunshine",vibe:6.2,rent1br:"$280\u2013$360",desc:"Express trains, genuine diversity, and rents that let you actually save money."},
+    "braybrook": {name:"Braybrook",vibe:5.5,rent1br:"$260\u2013$340",desc:"Affordable, improving, and closer to everything than people think."},
+    "altona": {name:"Altona",vibe:6.8,rent1br:"$360\u2013$440",desc:"Beach suburb energy at western suburb prices. The smart money knows."},
+    "melbourne-cbd": {name:"Melbourne CBD",vibe:7.5,rent1br:"$420\u2013$520",desc:"Walk to everything. Pay for everything. Never apologise for the convenience."},
+    "southbank": {name:"Southbank",vibe:6.8,rent1br:"$430\u2013$530",desc:"River views, Arts Precinct access, and towers that define the skyline."},
+    "docklands": {name:"Docklands",vibe:5.5,rent1br:"$400\u2013$500",desc:"Melbourne\u2019s most misunderstood suburb. Getting better. Slowly."},
+    "toorak": {name:"Toorak",vibe:6.5,rent1br:"$550\u2013$700",desc:"Expensive, beautiful, mildly confused about being slightly boring."},
+    "malvern": {name:"Malvern",vibe:6.8,rent1br:"$460\u2013$560",desc:"High Street boutiques and very good schools. Knows what it is."},
+    "south-melbourne": {name:"South Melbourne",vibe:8.1,rent1br:"$480\u2013$580",desc:"South Melbourne Market alone justifies the postcode. The rest is a bonus."},
+    "clifton-hill": {name:"Clifton Hill",vibe:8.0,rent1br:"$400\u2013$490",desc:"Queens Parade charm, Merri Creek trails, and quiet streets five minutes from Smith Street."},
+    "fairfield": {name:"Fairfield",vibe:7.5,rent1br:"$370\u2013$450",desc:"Fairfield Boathouse, Yarra trails, and a village strip that rewards repeat visits."},
+    "richmond": {name:"Richmond",vibe:8.3,rent1br:"$420\u2013$520",desc:"Vietnamese food, footy, and a pub on every corner. Melbourne\u2019s workhorse suburb."},
+    "box-hill": {name:"Box Hill",vibe:6.5,rent1br:"$340\u2013$420",desc:"Melbourne\u2019s second Chinatown and nobody even argues about it anymore."},
+    "springvale": {name:"Springvale",vibe:6.2,rent1br:"$280\u2013$360",desc:"The best Vietnamese and Chinese food in Melbourne, and that is not hyperbole."},
+    "dandenong": {name:"Dandenong",vibe:5.5,rent1br:"$260\u2013$340",desc:"Afghan bakeries, Little India, Dandenong Market. Multicultural Melbourne at full volume."},
+    "clayton": {name:"Clayton",vibe:5.8,rent1br:"$300\u2013$380",desc:"Monash University\u2019s neighbourhood. Asian food corridor that locals fiercely protect."},
+    "frankston": {name:"Frankston",vibe:5.2,rent1br:"$280\u2013$360",desc:"Beach access, improving rapidly, and tired of the reputation it had 15 years ago."},
+    "st-kilda": {name:"St Kilda",vibe:8.0,rent1br:"$420\u2013$500",desc:"Acland Street, the Esplanade, Luna Park. Still the suburb that makes visitors fall in love."},
+    "brunswick-east": {name:"Brunswick East",vibe:8.2,rent1br:"$380\u2013$460",desc:"Lygon Street\u2019s northern extension. Better coffee than Carlton and they know it."},
+    "hawthorn": {name:"Hawthorn",vibe:7.0,rent1br:"$400\u2013$490",desc:"Glenferrie Road, Swinburne campus, and leafy streets that photograph beautifully."},
+    "cremorne": {name:"Cremorne",vibe:7.8,rent1br:"$430\u2013$520",desc:"Richmond\u2019s tech precinct. Start-ups, breweries, and rents that reflect the hype."}
+  };
+
+  let answers = [];
+  let currentQ = 0;
+
+  function init() {
+    const params = new URLSearchParams(window.location.search);
+    const r = params.get('r');
+    if (r && r.length === 7 && /^[0-3]{7}$/.test(r)) {
+      answers = r.split('').map(Number);
+      document.getElementById('quizSection').style.display = 'none';
+      showResults();
+      return;
+    }
+    renderQuestion(0);
+  }
+
+  function renderQuestion(idx) {
+    const container = document.getElementById('questionContainer');
+    const q = QUESTIONS[idx];
+    document.getElementById('progLabel').textContent = 'Q' + (idx + 1) + ' of 7';
+    document.getElementById('progFill').style.width = ((idx + 1) / 7 * 100) + '%';
+
+    const div = document.createElement('div');
+    div.className = 'question active';
+    div.innerHTML = '<h2>' + q.q + '</h2><div class="answer-grid">' +
+      q.answers.map(function(a, i) {
+        return '<button class="answer-tile" data-idx="' + i + '">' +
+          '<span class="letter">' + String.fromCharCode(65 + i) + '</span>' + a + '</button>';
+      }).join('') + '</div>';
+
+    var prev = container.querySelector('.question.active');
+    if (prev) {
+      prev.classList.remove('active');
+      prev.classList.add('exit-left');
+      setTimeout(function() { if (prev.parentNode) prev.parentNode.removeChild(prev); }, 500);
+    }
+    container.appendChild(div);
+
+    div.querySelectorAll('.answer-tile').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        answers[idx] = parseInt(this.getAttribute('data-idx'));
+        if (idx < 6) {
+          currentQ = idx + 1;
+          renderQuestion(currentQ);
+        } else {
+          document.getElementById('quizSection').style.display = 'none';
+          showResults();
+        }
+      });
+    });
+  }
+
+  function calcScores() {
+    var scores = {};
+    for (var qi = 0; qi < 7; qi++) {
+      var ai = answers[qi];
+      var map = SCORING[qi][ai];
+      if (!map) continue;
+      for (var cluster in map) {
+        scores[cluster] = (scores[cluster] || 0) + map[cluster];
+      }
+    }
+    if (answers[2] === 3) {
+      for (var c in scores) scores[c] = scores[c] * 1.0;
+    }
+    return scores;
+  }
+
+  function showResults() {
+    var scores = calcScores();
+    var sorted = Object.keys(scores).sort(function(a, b) { return scores[b] - scores[a]; });
+    var top3 = sorted.slice(0, 3);
+
+    var cardsHtml = '';
+    var topSuburb = null;
+    var rankLabels = ["\u2764\ufe0f Your top match", "\ud83e\udd48 Strong contender", "\ud83e\udd49 Worth exploring"];
+    top3.forEach(function(cluster, i) {
+      var suburbs = CLUSTERS[cluster];
+      if (!suburbs || !suburbs.length) return;
+      var pick = null;
+      for (var s = 0; s < suburbs.length; s++) {
+        if (SUBURB_DATA[suburbs[s]]) { pick = suburbs[s]; break; }
+      }
+      if (!pick) pick = suburbs[0];
+      var data = SUBURB_DATA[pick] || {name: pick.replace(/-/g,' ').replace(/\b\w/g, function(l){return l.toUpperCase();}), vibe: 7, rent1br: "$350\u2013$450", desc: "A Melbourne suburb with its own story."};
+      if (i === 0) topSuburb = pick;
+
+      var vibeClass = data.vibe >= 8 ? 'green' : data.vibe >= 5 ? 'amber' : 'red';
+      cardsHtml += '<div class="match-card">' +
+        '<div class="match-rank">' + rankLabels[i] + '</div>' +
+        '<div class="match-name"><a href="/' + pick + '/">' + data.name + '</a></div>' +
+        '<div class="match-meta">' +
+          '<span class="vibe-badge ' + vibeClass + '">Vibe ' + data.vibe + '/10</span>' +
+          '<span class="rent-estimate">1BR: ' + data.rent1br + '/wk</span>' +
+        '</div>' +
+        '<div class="match-desc">\u201c' + data.desc + '\u201d</div>' +
+        '<a href="/' + pick + '/" class="match-cta">Read the full guide \u2192</a>' +
+      '</div>';
+    });
+
+    document.getElementById('matchCards').innerHTML = cardsHtml;
+
+    var code = answers.join('');
+    var shareLink = window.location.origin + '/tools/suburb-match/?r=' + code;
+    document.getElementById('shareUrl').textContent = shareLink;
+
+    var extraHtml = '';
+    if (topSuburb) {
+      extraHtml += '<a href="/confessions/">Disagree with your match? Tell us \u2192</a>';
+      extraHtml += '<a href="/tools/compare-suburbs/?suburbs=' + topSuburb + '">Compare ' + (SUBURB_DATA[topSuburb]||{}).name + ' with others \u2192</a>';
+    }
+    document.getElementById('extraLinks').innerHTML = extraHtml;
+
+    document.getElementById('resultsSection').classList.add('visible');
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  }
+
+  document.getElementById('shareBtn').addEventListener('click', function() {
+    var code = answers.join('');
+    var url = window.location.origin + '/tools/suburb-match/?r=' + code;
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function() {
+        document.getElementById('shareBtn').textContent = 'Copied!';
+        setTimeout(function(){ document.getElementById('shareBtn').textContent = 'Copy share link'; }, 2000);
+      });
+    } else {
+      document.getElementById('shareUrl').style.display = 'block';
+      document.getElementById('shareUrl').textContent = url;
+    }
+  });
+
+  document.getElementById('restartBtn').addEventListener('click', function() {
+    answers = [];
+    currentQ = 0;
+    document.getElementById('resultsSection').classList.remove('visible');
+    document.getElementById('quizSection').style.display = 'block';
+    document.getElementById('matchCards').innerHTML = '';
+    history.replaceState(null, '', window.location.pathname);
+    renderQuestion(0);
+  });
+
+  init();
+})();
+</script>
+{{ end }}

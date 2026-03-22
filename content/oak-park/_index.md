@@ -10,7 +10,7 @@ keywords:
   - "what is Oak Park like"
   - "oak-park suburb"
   - "living in Oak Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/oak-park/hero.jpg"
 ---
 
 Quiet suburb between Glenroy and Pascoe Vale. Parks, train access, and residential calm.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Oak Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Oak Park Melbourne — what you need**
+
+- [Find suburbs like Oak Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Oak Park Melbourne — what you need →](/tools/coffee-price-tracker/#oak-park)
+- [What Melbourne thinks about Oak Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=oak-park)
+- [Compare Oak Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=oak-park)

@@ -10,7 +10,7 @@ keywords:
   - "what is East Melbourne like"
   - "east-melbourne suburb"
   - "living in East Melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/east-melbourne/hero.jpg"
 ---
 
 Tree-lined streets, heritage terraces, and MCG on the doorstep. Old money Melbourne.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about East Melbourne? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for East Melbourne Melbourne — what you need**
+
+- [Find suburbs like East Melbourne Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in East Melbourne Melbourne — what you need →](/tools/coffee-price-tracker/#east-melbourne)
+- [What Melbourne thinks about East Melbourne Melbourne — what you need →](/tools/suburb-takedown/?suburb=east-melbourne)
+- [Compare East Melbourne Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=east-melbourne)

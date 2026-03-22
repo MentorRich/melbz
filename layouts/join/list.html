@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en-au">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} | MELBZ</title>
+  <meta name="description" content="{{ .Description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ .Description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <link rel="icon" type="image/png" href="/brand/melbzfav.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+  <style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'DM Sans',-apple-system,BlinkMacSystemFont,sans-serif;background:#fafafa;color:#1a1a2e;line-height:1.6}
+  .join-page{max-width:600px;margin:0 auto;padding:40px 20px}
+  .join-header{text-align:center;margin-bottom:2.5rem}
+  .join-logo{display:inline-block;margin-bottom:1rem}
+  .join-logo img{height:40px}
+  .join-header h1{font-size:2rem;font-weight:800;margin-bottom:.5rem}
+  .join-header p{color:#555;font-size:1.05rem}
+  .join-form{background:#fff;border-radius:12px;padding:2rem;box-shadow:0 2px 12px rgba(0,0,0,0.06)}
+  .form-group{margin-bottom:1.25rem}
+  .form-group label{display:block;font-weight:600;font-size:.9rem;margin-bottom:.4rem;color:#1a1a2e}
+  .form-group .required{color:#ff3b3b}
+  .form-group input,.form-group select,.form-group textarea{width:100%;padding:12px 16px;border:1px solid #ddd;border-radius:8px;font-size:1rem;font-family:inherit;min-height:48px;transition:border-color .2s}
+  .form-group input:focus,.form-group select:focus,.form-group textarea:focus{outline:none;border-color:#ff3b3b}
+  .checkbox-group{display:flex;flex-direction:column;gap:.5rem}
+  .checkbox-group label{display:flex;align-items:center;gap:.5rem;font-weight:400;cursor:pointer;min-height:48px;padding:4px 0}
+  .checkbox-group input[type=checkbox]{width:20px;height:20px;accent-color:#ff3b3b}
+  .submit-btn{width:100%;padding:14px;background:#ff3b3b;color:#fff;border:none;border-radius:8px;font-size:1.05rem;font-weight:700;cursor:pointer;min-height:48px;transition:opacity .2s;font-family:inherit}
+  .submit-btn:hover{opacity:.9}
+  .submit-btn:disabled{opacity:.5;cursor:not-allowed}
+  .form-success{display:none;text-align:center;padding:2rem}
+  .form-success h2{color:#22c55e;margin-bottom:.5rem}
+  .form-error{display:none;background:#fee2e2;color:#dc2626;padding:12px;border-radius:8px;margin-bottom:1rem;font-size:.9rem}
+  .join-footer{text-align:center;margin-top:2rem;color:#888;font-size:.85rem}
+  .join-footer a{color:#888}
+  </style>
+</head>
+<body>
+  <div class="join-page">
+    <div class="join-header">
+      <a href="/" class="join-logo"><img src="/brand/melbzlogo16.png" alt="MELBZ" width="120" height="40"></a>
+      <h1>Join MELBZ</h1>
+      <p>Get the Monday Brief, new openings, suburb intelligence, and local picks straight to your inbox. Free. No spam. Unsubscribe whenever.</p>
+    </div>
+
+    <div class="join-form" id="join-form-container">
+      <div class="form-error" id="form-error"></div>
+
+      <form id="join-form" action="https://formsubmit.co/hq@melbz.com.au" method="POST">
+    <input type="hidden" name="_subject" value="New MELBZ Member Signup">
+    <input type="hidden" name="_template" value="table">
+    <input type="hidden" name="_next" value="https://melbz.com.au/join/?thanks=1">
+    <input type="hidden" name="_captcha" value="false">
+    <input type="text" name="_honey" style="display:none!important" tabindex="-1" autocomplete="off">
+        
+        <input type="hidden" name="redirect" value="">
+        <!-- Honeypot -->
+        <div class="form-group">
+          <label for="name">Name <span class="required">*</span></label>
+          <input type="text" id="name" name="name" required placeholder="Your name" autocomplete="name">
+        </div>
+
+        <div class="form-group">
+          <label for="email">Email <span class="required">*</span></label>
+          <input type="email" id="email" name="email" required placeholder="you@email.com" autocomplete="email">
+        </div>
+
+        <div class="form-group">
+          <label for="suburb">Your suburb</label>
+          <select id="suburb" name="suburb">
+            <option value="">Select your suburb</option>
+            <option value="Fitzroy">Fitzroy</option>
+            <option value="Brunswick">Brunswick</option>
+            <option value="Richmond">Richmond</option>
+            <option value="Collingwood">Collingwood</option>
+            <option value="South Yarra">South Yarra</option>
+            <option value="St Kilda">St Kilda</option>
+            <option value="Carlton">Carlton</option>
+            <option value="Northcote">Northcote</option>
+            <option value="Prahran">Prahran</option>
+            <option value="Footscray">Footscray</option>
+            <option value="Melbourne CBD">Melbourne CBD</option>
+            <option value="Hawthorn">Hawthorn</option>
+            <option value="Brighton">Brighton</option>
+            <option value="Yarraville">Yarraville</option>
+            <option value="Thornbury">Thornbury</option>
+            <option value="Coburg">Coburg</option>
+            <option value="Essendon">Essendon</option>
+            <option value="Moonee Ponds">Moonee Ponds</option>
+            <option value="Kensington">Kensington</option>
+            <option value="Preston">Preston</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label>What are you interested in?</label>
+          <div class="checkbox-group">
+            <label><input type="checkbox" name="interests" value="Monday Brief"> Monday Brief (weekly roundup)</label>
+            <label><input type="checkbox" name="interests" value="New Openings"> New openings and closures</label>
+            <label><input type="checkbox" name="interests" value="Property"> Property and rental updates</label>
+            <label><input type="checkbox" name="interests" value="Nightlife"> Nightlife and events</label>
+            <label><input type="checkbox" name="interests" value="Community"> Community and confessions</label>
+          </div>
+        </div>
+
+        <button type="submit" class="submit-btn" id="submit-btn">Join MELBZ</button>
+      </form>
+
+      <div class="form-success" id="form-success">
+        <h2>Welcome to MELBZ</h2>
+        <p>You are in. Check your inbox for the next Monday Brief.</p>
+        <p style="margin-top:1rem"><a href="/" style="color:#ff3b3b;font-weight:600">Back to MELBZ →</a></p>
+      </div>
+    </div>
+
+    <div class="join-footer">
+      <p>By joining, you agree to our <a href="/privacy/">Privacy Policy</a> and <a href="/terms/">Terms</a></p>
+      <p style="margin-top:.5rem"><a href="/">← Back to MELBZ</a></p>
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    var form = document.getElementById('join-form');
+    var btn = document.getElementById('submit-btn');
+    var errDiv = document.getElementById('form-error');
+    var successDiv = document.getElementById('form-success');
+
+    if (!form) return;
+
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      btn.disabled = true;
+      btn.textContent = 'Submitting...';
+      errDiv.style.display = 'none';
+
+      var data = new FormData(form);
+
+      fetch('https://formsubmit.co/ajax/hq@melbz.com.au', {
+        method: 'POST',
+        body: data
+      })
+      .then(function(res) { return res.json(); })
+      .then(function(json) {
+        if (json.success) {
+          form.style.display = 'none';
+          successDiv.style.display = 'block';
+          try { localStorage.setItem('melbz_member', 'true'); } catch(ex) {}
+        } else {
+          errDiv.textContent = json.message || 'Something went wrong. Please try again.';
+          errDiv.style.display = 'block';
+          btn.disabled = false;
+          btn.textContent = 'Join MELBZ';
+        }
+      })
+      .catch(function() {
+        errDiv.textContent = 'Network error. Please check your connection and try again.';
+        errDiv.style.display = 'block';
+        btn.disabled = false;
+        btn.textContent = 'Join MELBZ';
+      });
+    });
+  })();
+  </script>
+</body>
+</html>

@@ -8,6 +8,8 @@ cover_image: "/images/shared/melbourne-cafe.jpg"
 cover_image_alt: "Carlton Melbourne coffee culture at a Lygon Street cafe"
 suburb: "carlton"
 tags: ["melbourne", "carlton", "coffee"]
+aliases:
+  - /carlton/best-coffee-carlton-2026/
 ---
 
 Carlton is where Melbourne's coffee obsession was born. Before flat white became a global term, before every laneway in the CBD had a $7 single-origin pour-over, there was Lygon Street. Italian immigrants brought espresso culture to Melbourne in the 1950s and 60s, and Carlton was ground zero. That legacy isn't dusty or museum-piece — it's alive, competitive, and the standard is absurdly high.

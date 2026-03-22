@@ -10,6 +10,9 @@ tags:
   - "bars"
   - "entertainment"
   - "melbourne"
+description: "Brunswick East nightlife guide 2026. Bars, pubs, live music venues and where to go after dark on Lygon Street and surrounds."
+author: "Jules Marchetti"
+suburb: "brunswick-east"
 ---
 
 # Brunswick East After Dark — The Complete Nightlife Guide 2026
@@ -188,4 +191,3 @@ Brunswick East after dark is about quality over quantity. You won't find nightcl
 - [Fitzroy](/fitzroy/)
 - [Brunswick](/brunswick/)
 - [Carlton](/carlton/)
-

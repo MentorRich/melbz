@@ -10,7 +10,7 @@ keywords:
   - "what is Kew East like"
   - "kew-east suburb"
   - "living in Kew East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/kew-east/hero.jpg"
 ---
 
 Tree-lined residential streets near Willsmere with easy Eastern Freeway access.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Kew East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Kew East Melbourne — what you need**
+
+- [Find suburbs like Kew East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Kew East Melbourne — what you need →](/tools/coffee-price-tracker/#kew-east)
+- [What Melbourne thinks about Kew East Melbourne — what you need →](/tools/suburb-takedown/?suburb=kew-east)
+- [Compare Kew East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=kew-east)

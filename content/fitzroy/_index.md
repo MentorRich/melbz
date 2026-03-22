@@ -38,3 +38,12 @@ It's not the first suburb people think of, but families who live here tend to st
 ## Keep exploring
 
 Fitzroy bleeds into its neighbours. Walk north across Alexandra Parade into [Fitzroy North](/fitzroy-north/) for a quieter, more residential version of the same DNA. East across Smith Street is [Collingwood](/collingwood/), where the warehouse conversions and breweries pick up. South on Nicholson Street takes you into [Carlton](/carlton/) and Lygon Street's Italian heritage. West across the gardens, [Clifton Hill](/clifton-hill/) sits on the Merri Creek with a slower pace entirely.
+
+---
+
+**MELBZ Tools for Fitzroy**
+
+- [Find suburbs like Fitzroy →](/tools/suburb-match/)
+- [Coffee prices in Fitzroy →](/tools/coffee-price-tracker/#fitzroy)
+- [What Melbourne thinks about Fitzroy →](/tools/suburb-takedown/?suburb=fitzroy)
+- [Compare Fitzroy with other suburbs →](/tools/compare-suburbs/?suburbs=fitzroy)

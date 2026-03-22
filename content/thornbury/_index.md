@@ -125,3 +125,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Thornbury? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Thornbury Melbourne — what you need**
+
+- [Find suburbs like Thornbury Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Thornbury Melbourne — what you need →](/tools/coffee-price-tracker/#thornbury)
+- [What Melbourne thinks about Thornbury Melbourne — what you need →](/tools/suburb-takedown/?suburb=thornbury)
+- [Compare Thornbury Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=thornbury)

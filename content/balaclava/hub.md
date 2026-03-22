@@ -64,3 +64,14 @@ One of Melbourne's most multicultural food strips — Jewish bakeries, Eastern E
 ## The Verdict
 
 Balaclava is a compact, train-connected suburb with one of Melbourne's best food strips. Carlisle Street delivers multicultural dining at honest prices. The Sandringham line gets you to the CBD in 17 minutes. The Astor Theatre adds cultural weight. Rent is more affordable than neighbouring St Kilda. For full details, start with our [suburb guide](/balaclava/) or [honest guide](/balaclava/honest-guide/).
+
+
+## What Locals Know
+
+Living in Balaclava means understanding the rhythms that listings and guides do not capture. The best spots are not always the most visible ones — locals develop their own routines, their own preferred cafes and walking routes, based on years of trial and error.
+
+## The Honest Take
+
+Balaclava has genuine strengths and real limitations. No suburb is perfect. What matters is whether the strengths align with what you value — whether that is walkability, community feel, food options, or commute times. The best way to know is to spend time here before committing.
+
+For the full picture, see our [Balaclava guide](/balaclava/).

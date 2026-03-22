@@ -10,7 +10,7 @@ keywords:
   - "what is Warranwood like"
   - "warranwood suburb"
   - "living in Warranwood"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/warranwood/hero.jpg"
 ---
 
 Leafy pocket near Croydon North with bush blocks and family streets.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Warranwood? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Warranwood Melbourne — what you need**
+
+- [Find suburbs like Warranwood Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Warranwood Melbourne — what you need →](/tools/coffee-price-tracker/#warranwood)
+- [What Melbourne thinks about Warranwood Melbourne — what you need →](/tools/suburb-takedown/?suburb=warranwood)
+- [Compare Warranwood Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=warranwood)

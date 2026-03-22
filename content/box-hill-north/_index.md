@@ -10,7 +10,7 @@ keywords:
   - "what is Box Hill North like"
   - "box-hill-north suburb"
   - "living in Box Hill North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/box-hill-north/hero.jpg"
 ---
 
 Residential streets, good schools, and quick access to Box Hill Central.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Box Hill North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Box Hill North Melbourne — what you need**
+
+- [Find suburbs like Box Hill North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Box Hill North Melbourne — what you need →](/tools/coffee-price-tracker/#box-hill-north)
+- [What Melbourne thinks about Box Hill North Melbourne — what you need →](/tools/suburb-takedown/?suburb=box-hill-north)
+- [Compare Box Hill North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=box-hill-north)

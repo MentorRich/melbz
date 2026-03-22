@@ -29,3 +29,12 @@ From creek trails to coastal paths to urban walks — the best walking options i
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Best Walking Trails in Melbourne — Suburb by Suburb**
+
+- [Find suburbs like Best Walking Trails in Melbourne — Suburb by Suburb →](/tools/suburb-match/)
+- [Coffee prices in Best Walking Trails in Melbourne — Suburb by Suburb →](/tools/coffee-price-tracker/#best-walks-melbourne-suburbs)
+- [What Melbourne thinks about Best Walking Trails in Melbourne — Suburb by Suburb →](/tools/suburb-takedown/?suburb=best-walks-melbourne-suburbs)
+- [Compare Best Walking Trails in Melbourne — Suburb by Suburb with other suburbs →](/tools/compare-suburbs/?suburbs=best-walks-melbourne-suburbs)

@@ -9,7 +9,7 @@ keywords:
   - "new years eve melbourne"
   - "fireworks melbourne suburbs"
   - "best nye melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/new-years-eve-melbourne-best-suburbs/hero.jpg"
 ---
 
 Where to ring in the new year in Melbourne. Fireworks views, bar recommendations, and the suburb guide to NYE.
@@ -36,3 +36,12 @@ Where to ring in the new year in Melbourne. Fireworks views, bar recommendations
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for New Years Eve Melbourne Best Suburbs**
+
+- [Find suburbs like New Years Eve Melbourne Best Suburbs →](/tools/suburb-match/)
+- [Coffee prices in New Years Eve Melbourne Best Suburbs →](/tools/coffee-price-tracker/#new-years-eve-melbourne-best-suburbs)
+- [What Melbourne thinks about New Years Eve Melbourne Best Suburbs →](/tools/suburb-takedown/?suburb=new-years-eve-melbourne-best-suburbs)
+- [Compare New Years Eve Melbourne Best Suburbs with other suburbs →](/tools/compare-suburbs/?suburbs=new-years-eve-melbourne-best-suburbs)

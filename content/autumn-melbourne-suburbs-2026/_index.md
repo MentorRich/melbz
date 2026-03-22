@@ -36,3 +36,12 @@ Autumn in Melbourne is peak liveability. The suburbs that shine when the leaves 
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Best Melbourne Suburbs for Autumn Vibes**
+
+- [Find suburbs like Best Melbourne Suburbs for Autumn Vibes →](/tools/suburb-match/)
+- [Coffee prices in Best Melbourne Suburbs for Autumn Vibes →](/tools/coffee-price-tracker/#autumn-melbourne-suburbs-2026)
+- [What Melbourne thinks about Best Melbourne Suburbs for Autumn Vibes →](/tools/suburb-takedown/?suburb=autumn-melbourne-suburbs-2026)
+- [Compare Best Melbourne Suburbs for Autumn Vibes with other suburbs →](/tools/compare-suburbs/?suburbs=autumn-melbourne-suburbs-2026)

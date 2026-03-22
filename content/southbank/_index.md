@@ -116,3 +116,12 @@ Southbank won't give you the Melbourne you've seen in tourism ads — the leafy 
 - **[Melbourne CBD](/melbourne-cbd/)** — 10-minute walk across the river
 - **[South Melbourne](/south-melbourne/)** — South Melbourne Market, Clarendon Street cafes, 10 minutes south
 - **[St Kilda](/st-kilda/)** — Beach, Luna Park, 20 minutes on tram 96
+
+---
+
+**MELBZ Tools for Southbank Melbourne — Riverside Living, Arts, and the Honest Take**
+
+- [Find suburbs like Southbank Melbourne — Riverside Living, Arts, and the Honest Take →](/tools/suburb-match/)
+- [Coffee prices in Southbank Melbourne — Riverside Living, Arts, and the Honest Take →](/tools/coffee-price-tracker/#southbank)
+- [What Melbourne thinks about Southbank Melbourne — Riverside Living, Arts, and the Honest Take →](/tools/suburb-takedown/?suburb=southbank)
+- [Compare Southbank Melbourne — Riverside Living, Arts, and the Honest Take with other suburbs →](/tools/compare-suburbs/?suburbs=southbank)

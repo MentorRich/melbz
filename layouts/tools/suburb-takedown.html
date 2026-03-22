@@ -1,0 +1,354 @@
+{{ define "main" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "What Melbourne Thinks About Your Suburb",
+  "url": "https://melbz.com.au/tools/suburb-takedown/",
+  "description": "Type your Melbourne suburb. Get an unfiltered, AI-generated honest assessment of what everyone in Melbourne actually thinks about it.",
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "Web",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "AUD" },
+  "provider": { "@type": "Organization", "name": "MELBZ", "url": "https://melbz.com.au" }
+}
+</script>
+<style>
+:root{--accent:#ff3b3b;--bg:#0a0a0a;--card:#141414;--card-hover:#1a1a1a;--border:#222;--text:#e0e0e0;--text-muted:#888;--green:#22c55e;--amber:#f59e0b}
+*,*::before,*::after{box-sizing:border-box}
+.takedown-tool{max-width:720px;margin:0 auto;padding:2rem 1rem;min-height:80vh}
+.takedown-tool h1{font-size:2rem;margin-bottom:0.5rem;line-height:1.2}
+.takedown-tool .subtitle{color:var(--text-muted);margin-bottom:2.5rem;font-size:1.1rem}
+.input-section{margin-bottom:2rem}
+.suburb-input-wrap{position:relative}
+.suburb-input{width:100%;background:var(--card);color:var(--text);border:2px solid var(--border);border-radius:12px;padding:1rem 1.2rem;font-size:1.1rem;font-family:inherit;min-height:48px;transition:border-color 0.2s}
+.suburb-input:focus{outline:none;border-color:var(--accent)}
+.suburb-input::placeholder{color:var(--text-muted)}
+.autocomplete-list{position:absolute;top:100%;left:0;right:0;background:var(--card);border:1px solid var(--border);border-top:none;border-radius:0 0 12px 12px;max-height:240px;overflow-y:auto;z-index:50;display:none}
+.autocomplete-list.open{display:block}
+.autocomplete-item{padding:0.7rem 1.2rem;cursor:pointer;font-size:0.95rem;min-height:48px;display:flex;align-items:center;transition:background 0.15s}
+.autocomplete-item:hover,.autocomplete-item.highlighted{background:var(--card-hover);color:var(--accent)}
+.go-btn{display:block;width:100%;margin-top:1rem;padding:1rem;background:var(--accent);color:#fff;border:none;border-radius:12px;font-size:1.1rem;font-weight:700;cursor:pointer;min-height:48px;font-family:inherit;transition:opacity 0.2s}
+.go-btn:hover{opacity:0.9}
+.go-btn:disabled{opacity:0.5;cursor:not-allowed}
+.loading-section{display:none;text-align:center;padding:3rem 1rem}
+.loading-section.visible{display:block}
+.loading-spinner{width:40px;height:40px;border:4px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin 0.8s linear infinite;margin:0 auto 1.5rem}
+@keyframes spin{to{transform:rotate(360deg)}}
+.loading-text{color:var(--text-muted);font-size:1rem;font-style:italic;min-height:1.5em}
+.result-card{display:none;background:linear-gradient(145deg,#1a1a1a,#111);border:1px solid var(--border);border-radius:16px;padding:2rem;margin-bottom:1.5rem}
+.result-card.visible{display:block}
+.result-suburb{font-size:1.8rem;font-weight:700;margin-bottom:1.5rem;color:var(--accent)}
+.result-text{line-height:1.7;font-size:1.05rem}
+.result-text p{margin-bottom:1.25rem}
+.result-text p:last-child{margin-bottom:0}
+.result-actions{display:flex;flex-wrap:wrap;gap:0.75rem;margin-top:1.5rem}
+.result-actions button,.result-actions a{display:inline-flex;align-items:center;justify-content:center;padding:0.7rem 1.2rem;border-radius:8px;font-size:0.9rem;font-weight:600;min-height:48px;cursor:pointer;text-decoration:none;font-family:inherit;transition:all 0.2s}
+.btn-share{background:var(--accent);color:#fff;border:none}
+.btn-share:hover{opacity:0.9}
+.btn-retry{background:transparent;border:1px solid var(--border);color:var(--text-muted)}
+.btn-retry:hover{border-color:var(--accent);color:var(--accent)}
+.btn-guide{background:transparent;border:1px solid var(--green);color:var(--green)}
+.btn-guide:hover{background:var(--green);color:#fff}
+.btn-compare{background:transparent;border:1px solid var(--amber);color:var(--amber)}
+.btn-compare:hover{background:var(--amber);color:#fff}
+.btn-challenge{background:transparent;border:1px solid var(--accent);color:var(--accent)}
+.btn-challenge:hover{background:var(--accent);color:#fff}
+.error-card{display:none;background:var(--card);border:1px solid var(--accent);border-radius:12px;padding:1.5rem;text-align:center}
+.error-card.visible{display:block}
+.error-card p{color:var(--text-muted);margin-bottom:1rem;font-size:0.95rem}
+.recent-section{margin-top:3rem;border-top:1px solid var(--border);padding-top:2rem}
+.recent-section h3{font-size:1rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:1rem}
+.recent-cards{display:grid;gap:0.75rem}
+.recent-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:1rem;cursor:pointer;transition:border-color 0.2s;display:flex;justify-content:space-between;align-items:center;min-height:48px}
+.recent-card:hover{border-color:var(--accent)}
+.recent-name{font-weight:600;font-size:0.95rem}
+.recent-preview{color:var(--text-muted);font-size:0.8rem;margin-top:0.2rem;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+.recent-view{color:var(--accent);font-size:0.85rem;font-weight:600;white-space:nowrap}
+.api-config{background:var(--card);border:1px solid var(--amber);border-radius:12px;padding:1.5rem;margin-bottom:2rem;display:none}
+.api-config.visible{display:block}
+.api-config label{display:block;font-size:0.8rem;color:var(--text-muted);margin-bottom:0.3rem;text-transform:uppercase;letter-spacing:0.05em}
+.api-config input{width:100%;background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:8px;padding:0.7rem 1rem;font-size:0.9rem;font-family:monospace;min-height:48px}
+.api-config input:focus{outline:none;border-color:var(--accent)}
+.api-config .note{font-size:0.8rem;color:var(--text-muted);margin-top:0.5rem}
+.api-config button{margin-top:0.75rem;padding:0.6rem 1rem;background:var(--accent);color:#fff;border:none;border-radius:8px;cursor:pointer;font-size:0.85rem;font-weight:600;min-height:48px;font-family:inherit}
+@media(max-width:480px){
+  .takedown-tool h1{font-size:1.5rem}
+  .result-suburb{font-size:1.4rem}
+  .result-actions{flex-direction:column}
+  .result-actions button,.result-actions a{width:100%}
+}
+</style>
+
+<div class="takedown-tool">
+  <h1>What does Melbourne actually think about your suburb?</h1>
+  <p class="subtitle">Type your suburb below. Brace yourself.</p>
+
+  <div class="api-config" id="apiConfig">
+    <label for="apiKeyInput">Anthropic API Key</label>
+    <input type="password" id="apiKeyInput" placeholder="sk-ant-...">
+    <div class="note">Your key stays in your browser (localStorage). Never sent anywhere except Anthropic.</div>
+    <button id="saveKeyBtn">Save key</button>
+  </div>
+
+  <div class="input-section" id="inputSection">
+    <div class="suburb-input-wrap">
+      <input type="text" class="suburb-input" id="suburbInput" placeholder="Type your suburb..." autocomplete="off">
+      <div class="autocomplete-list" id="acList"></div>
+    </div>
+    <button class="go-btn" id="goBtn">Get the honest take &rarr;</button>
+  </div>
+
+  <div class="loading-section" id="loadingSection">
+    <div class="loading-spinner"></div>
+    <div class="loading-text" id="loadingText">Consulting 321 suburbs worth of opinions...</div>
+  </div>
+
+  <div class="result-card" id="resultCard">
+    <div class="result-suburb" id="resultSuburb"></div>
+    <div class="result-text" id="resultText"></div>
+    <div class="result-actions">
+      <button class="btn-share" id="shareBtn">Share this take</button>
+      <button class="btn-retry" id="retryBtn">Try another suburb</button>
+      <a class="btn-guide" id="guideLink" href="#">Read the full guide &rarr;</a>
+      <a class="btn-compare" id="compareLink" href="#">How does it compare?</a>
+      <a class="btn-challenge" id="challengeLink" href="#">Challenge a friend&rsquo;s suburb</a>
+    </div>
+  </div>
+
+  <div class="error-card" id="errorCard">
+    <p>The generator is having a moment. Try again in a few seconds.<br>If it keeps happening, something may be down on our end.</p>
+    <button class="btn-retry" id="retryErrBtn">Try again</button>
+  </div>
+
+  <div class="recent-section" id="recentSection" style="display:none">
+    <h3>Your recent lookups</h3>
+    <div class="recent-cards" id="recentCards"></div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var ALL_SUBURBS = ["Abbotsford","Albert Park","Alphington","Altona","Altona Meadows","Armadale","Ascot Vale","Ashburton","Ashwood","Avondale Heights","Bacchus Marsh","Balaclava","Balwyn","Balwyn North","Bentleigh","Bentleigh East","Berwick","Box Hill","Box Hill South","Braybrook","Brighton","Brighton East","Broadmeadows","Brunswick","Brunswick East","Brunswick West","Bundoora","Burnley","Burwood","Camberwell","Canterbury","Carlton","Carlton North","Carnegie","Caroline Springs","Caulfield","Caulfield North","Caulfield South","Chadstone","Chelsea","Cheltenham","Chirnside Park","Clayton","Clifton Hill","Coburg","Coburg North","Collingwood","Craigieburn","Cranbourne","Cremorne","Croydon","Dandenong","Deer Park","Diamond Creek","Doncaster","Doncaster East","Donvale","Docklands","East Melbourne","Elsternwick","Eltham","Elwood","Essendon","Fairfield","Fitzroy","Fitzroy North","Flemington","Footscray","Forest Hill","Frankston","Glen Huntly","Glen Iris","Glen Waverley","Glenroy","Hampton","Hampton East","Hawthorn","Hawthorn East","Heidelberg","Highett","Hughesdale","Ivanhoe","Kensington","Kew","Kew East","Kooyong","Lalor","Laverton","Lilydale","Maidstone","Malvern","Malvern East","Maribyrnong","Melbourne CBD","Mentone","Middle Park","Mill Park","Mitcham","Mont Albert","Moonee Ponds","Moorabbin","Mordialloc","Mount Waverley","Mulgrave","Murrumbeena","Newport","Niddrie","Noble Park","North Melbourne","Northcote","Oakleigh","Ormond","Parkdale","Parkville","Pascoe Vale","Point Cook","Port Melbourne","Prahran","Preston","Reservoir","Richmond","Ringwood","Ripponlea","Rowville","Sandringham","Seaholme","Seddon","South Melbourne","South Yarra","Southbank","Spotswood","Springvale","Springvale South","St Kilda","St Kilda East","St Kilda West","Strathmore","Sunshine","Sunshine West","Surrey Hills","Taylors Lakes","Templestowe","Thornbury","Toorak","Truganina","Tullamarine","Vermont","Wantirna","Werribee","West Footscray","West Melbourne","Williamstown","Windsor","Yarraville"];
+
+  var SLUG_MAP = {};
+  ALL_SUBURBS.forEach(function(s){
+    SLUG_MAP[s] = s.toLowerCase().replace(/\s+/g,'-');
+  });
+
+  var API_KEY = localStorage.getItem('melbz_anthropic_key') || '{{ .Site.Params.anthropic_api_key | default "" }}';
+  var recentLookups = JSON.parse(localStorage.getItem('melbz_recent_takes') || '[]');
+  var currentSuburb = '';
+  var currentTake = '';
+
+  // API key config
+  if (!API_KEY) {
+    document.getElementById('apiConfig').classList.add('visible');
+  }
+  document.getElementById('saveKeyBtn').addEventListener('click', function(){
+    var k = document.getElementById('apiKeyInput').value.trim();
+    if (k) {
+      API_KEY = k;
+      localStorage.setItem('melbz_anthropic_key', k);
+      document.getElementById('apiConfig').classList.remove('visible');
+    }
+  });
+
+  // Autocomplete
+  var input = document.getElementById('suburbInput');
+  var acList = document.getElementById('acList');
+  var hlIdx = -1;
+
+  input.addEventListener('input', function(){
+    var val = this.value.trim().toLowerCase();
+    if (val.length < 1) { acList.classList.remove('open'); return; }
+    var matches = ALL_SUBURBS.filter(function(s){return s.toLowerCase().indexOf(val) !== -1;}).slice(0,8);
+    if (!matches.length) { acList.classList.remove('open'); return; }
+    hlIdx = -1;
+    acList.innerHTML = matches.map(function(m,i){return '<div class="autocomplete-item" data-val="'+m+'">'+m+'</div>';}).join('');
+    acList.classList.add('open');
+    acList.querySelectorAll('.autocomplete-item').forEach(function(item){
+      item.addEventListener('click', function(){
+        input.value = this.getAttribute('data-val');
+        acList.classList.remove('open');
+      });
+    });
+  });
+
+  input.addEventListener('keydown', function(e){
+    var items = acList.querySelectorAll('.autocomplete-item');
+    if (!items.length) return;
+    if (e.key === 'ArrowDown') { e.preventDefault(); hlIdx = Math.min(hlIdx+1, items.length-1); updateHL(items); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); hlIdx = Math.max(hlIdx-1, 0); updateHL(items); }
+    else if (e.key === 'Enter' && hlIdx >= 0) { e.preventDefault(); input.value = items[hlIdx].getAttribute('data-val'); acList.classList.remove('open'); }
+  });
+
+  function updateHL(items) {
+    items.forEach(function(it,i){ it.classList.toggle('highlighted', i===hlIdx); });
+  }
+
+  document.addEventListener('click', function(e){
+    if (!e.target.closest('.suburb-input-wrap')) acList.classList.remove('open');
+  });
+
+  // Loading messages
+  var LOADING_MSGS = [
+    "Consulting 321 suburbs worth of opinions...",
+    "Checking what Fitzroy thinks (unsolicited)...",
+    "Reviewing the historical evidence...",
+    "Asking someone who used to live there...",
+    "Processing strong feelings..."
+  ];
+
+  // Go button
+  document.getElementById('goBtn').addEventListener('click', function(){ triggerTake(input.value.trim()); });
+  input.addEventListener('keydown', function(e){
+    if (e.key === 'Enter' && !acList.classList.contains('open')) { triggerTake(input.value.trim()); }
+  });
+
+  function triggerTake(suburb) {
+    if (!suburb) return;
+    var match = ALL_SUBURBS.find(function(s){return s.toLowerCase() === suburb.toLowerCase();});
+    if (!match) {
+      match = ALL_SUBURBS.find(function(s){return s.toLowerCase().indexOf(suburb.toLowerCase()) !== -1;});
+    }
+    if (!match) match = suburb;
+    currentSuburb = match;
+
+    if (!API_KEY) {
+      document.getElementById('apiConfig').classList.add('visible');
+      return;
+    }
+
+    document.getElementById('inputSection').style.display = 'none';
+    document.getElementById('resultCard').classList.remove('visible');
+    document.getElementById('errorCard').classList.remove('visible');
+    document.getElementById('loadingSection').classList.add('visible');
+
+    var msgIdx = 0;
+    var loadTxt = document.getElementById('loadingText');
+    loadTxt.textContent = LOADING_MSGS[0];
+    var msgInterval = setInterval(function(){
+      msgIdx = (msgIdx + 1) % LOADING_MSGS.length;
+      loadTxt.textContent = LOADING_MSGS[msgIdx];
+    }, 1500);
+
+    fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': API_KEY,
+        'anthropic-version': '2023-06-01',
+        'anthropic-dangerous-direct-browser-access': 'true'
+      },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1024,
+        system: "You are a sharp, well-informed Melbourne local who has lived in or spent significant time in most Melbourne suburbs. You write honest suburb assessments in a voice that is dry, specific, and affectionate underneath the directness \u2014 think a trusted friend who gives you the real version, not the real estate brochure version. You know Melbourne deeply: its geography, its suburb identities, its contradictions, its housing market, its transport network, its food culture, its social dynamics. You write about suburbs with genuine knowledge \u2014 specific streets, real cultural references, honest strengths and weaknesses. Your tone is never mean-spirited or contemptuous \u2014 you roast with affection, not contempt. You always write exactly 3 paragraphs. Paragraph 1: the honest reputation and what it is based on. Paragraph 2: what people get wrong about it and what it actually delivers for residents. Paragraph 3: who this suburb genuinely suits and who should look elsewhere \u2014 end with one specific thing the suburb does better than anywhere else in Melbourne. Never fabricate specific venue names, addresses, or statistics you cannot verify. Speak from the perspective of accumulated Melbourne knowledge, not invented facts.",
+        messages: [{role: 'user', content: 'Give me the honest Melbourne take on ' + match + '.'}]
+      })
+    })
+    .then(function(r){
+      clearInterval(msgInterval);
+      if (!r.ok) throw new Error('API ' + r.status);
+      return r.json();
+    })
+    .then(function(data){
+      var text = (data.content && data.content[0] && data.content[0].text) || '';
+      text = text.trim();
+      currentTake = text;
+      showResult(match, text);
+      saveRecent(match, text);
+    })
+    .catch(function(err){
+      clearInterval(msgInterval);
+      console.error('API error:', err);
+      document.getElementById('loadingSection').classList.remove('visible');
+      document.getElementById('errorCard').classList.add('visible');
+    });
+  }
+
+  function showResult(suburb, text) {
+    document.getElementById('loadingSection').classList.remove('visible');
+    document.getElementById('resultSuburb').textContent = suburb;
+    var paras = text.split(/\n\n+/).filter(function(p){return p.trim();});
+    document.getElementById('resultText').innerHTML = paras.map(function(p){return '<p>'+p.trim()+'</p>';}).join('');
+    var slug = SLUG_MAP[suburb] || suburb.toLowerCase().replace(/\s+/g,'-');
+    document.getElementById('guideLink').href = '/'+slug+'/';
+    document.getElementById('compareLink').href = '/tools/compare-suburbs/?suburbs='+slug;
+    document.getElementById('challengeLink').href = '/tools/suburb-takedown/?suburb='+slug;
+    document.getElementById('resultCard').classList.add('visible');
+  }
+
+  // Share
+  document.getElementById('shareBtn').addEventListener('click', function(){
+    if (!currentTake) return;
+    var firstSentence = currentTake.split(/[.!?]/)[0] + '.';
+    var shareText = firstSentence + '\n...read the full take at melbz.com.au/tools/suburb-takedown/';
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(shareText).then(function(){
+        document.getElementById('shareBtn').textContent = 'Copied!';
+        setTimeout(function(){ document.getElementById('shareBtn').textContent = 'Share this take'; }, 2000);
+      });
+    }
+  });
+
+  // Retry / Try another
+  document.getElementById('retryBtn').addEventListener('click', resetToInput);
+  document.getElementById('retryErrBtn').addEventListener('click', function(){
+    document.getElementById('errorCard').classList.remove('visible');
+    if (currentSuburb) triggerTake(currentSuburb);
+    else resetToInput();
+  });
+
+  function resetToInput() {
+    document.getElementById('resultCard').classList.remove('visible');
+    document.getElementById('errorCard').classList.remove('visible');
+    document.getElementById('loadingSection').classList.remove('visible');
+    document.getElementById('inputSection').style.display = 'block';
+    input.value = '';
+    input.focus();
+  }
+
+  // Recent lookups (localStorage)
+  function saveRecent(suburb, text) {
+    var existing = recentLookups.filter(function(r){return r.suburb !== suburb;});
+    existing.unshift({suburb: suburb, preview: text.split('\n')[0].substring(0, 120)});
+    recentLookups = existing.slice(0, 5);
+    localStorage.setItem('melbz_recent_takes', JSON.stringify(recentLookups));
+    renderRecent();
+  }
+
+  function renderRecent() {
+    if (!recentLookups.length) { document.getElementById('recentSection').style.display = 'none'; return; }
+    document.getElementById('recentSection').style.display = 'block';
+    var html = '';
+    recentLookups.forEach(function(r){
+      html += '<div class="recent-card" data-suburb="'+r.suburb+'">' +
+        '<div><div class="recent-name">'+r.suburb+'</div><div class="recent-preview">'+r.preview+'...</div></div>' +
+        '<div class="recent-view">View \u2192</div></div>';
+    });
+    document.getElementById('recentCards').innerHTML = html;
+    document.querySelectorAll('.recent-card').forEach(function(card){
+      card.addEventListener('click', function(){
+        input.value = this.getAttribute('data-suburb');
+        triggerTake(this.getAttribute('data-suburb'));
+      });
+    });
+  }
+
+  renderRecent();
+
+  // Auto-trigger from URL param
+  var params = new URLSearchParams(window.location.search);
+  var preSuburb = params.get('suburb');
+  if (preSuburb) {
+    var decoded = decodeURIComponent(preSuburb).replace(/-/g,' ');
+    var matched = ALL_SUBURBS.find(function(s){return s.toLowerCase() === decoded.toLowerCase();});
+    if (matched) {
+      input.value = matched;
+      setTimeout(function(){ triggerTake(matched); }, 300);
+    }
+  }
+})();
+</script>
+{{ end }}

@@ -10,7 +10,7 @@ keywords:
   - "what is Mitcham like"
   - "mitcham suburb"
   - "living in Mitcham"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mitcham/hero.jpg"
 ---
 
 Mitcham village shops, close to Eastland, and a quieter alternative to Ringwood.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Mitcham? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Mitcham Melbourne — what you need**
+
+- [Find suburbs like Mitcham Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Mitcham Melbourne — what you need →](/tools/coffee-price-tracker/#mitcham)
+- [What Melbourne thinks about Mitcham Melbourne — what you need →](/tools/suburb-takedown/?suburb=mitcham)
+- [Compare Mitcham Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mitcham)

@@ -100,3 +100,12 @@ Kensington is the inner-west suburb that delivers village living with city proxi
 - [Flemington](/flemington/) — Racecourse Road dining, the Flemington Racecourse, and Newmarket shopping
 - [Footscray](/footscray/) — Melbourne's most diverse food scene and a rapidly evolving creative strip
 - [North Melbourne](/north-melbourne/) — Errol Street village, Royal Melbourne Hospital precinct, tram access
+
+---
+
+**MELBZ Tools for Kensington Melbourne — Local Suburb Guide for 2026**
+
+- [Find suburbs like Kensington Melbourne — Local Suburb Guide for 2026 →](/tools/suburb-match/)
+- [Coffee prices in Kensington Melbourne — Local Suburb Guide for 2026 →](/tools/coffee-price-tracker/#kensington)
+- [What Melbourne thinks about Kensington Melbourne — Local Suburb Guide for 2026 →](/tools/suburb-takedown/?suburb=kensington)
+- [Compare Kensington Melbourne — Local Suburb Guide for 2026 with other suburbs →](/tools/compare-suburbs/?suburbs=kensington)

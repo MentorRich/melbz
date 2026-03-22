@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Canterbury? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Canterbury Melbourne — what you need**
+
+- [Find suburbs like Canterbury Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Canterbury Melbourne — what you need →](/tools/coffee-price-tracker/#canterbury)
+- [What Melbourne thinks about Canterbury Melbourne — what you need →](/tools/suburb-takedown/?suburb=canterbury)
+- [Compare Canterbury Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=canterbury)

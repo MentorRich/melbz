@@ -10,7 +10,7 @@ keywords:
   - "what is Lalor like"
   - "lalor suburb"
   - "living in Lalor"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/lalor/hero.jpg"
 ---
 
 Multicultural community, train access, and affordable houses in Melbourne's growth corridor.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Lalor? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Lalor Melbourne — what you need**
+
+- [Find suburbs like Lalor Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Lalor Melbourne — what you need →](/tools/coffee-price-tracker/#lalor)
+- [What Melbourne thinks about Lalor Melbourne — what you need →](/tools/suburb-takedown/?suburb=lalor)
+- [Compare Lalor Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=lalor)

@@ -10,7 +10,7 @@ keywords:
   - "what is Cranbourne East like"
   - "cranbourne-east suburb"
   - "living in Cranbourne East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/cranbourne-east/hero.jpg"
 ---
 
 Hunt Club estate, Amstel Golf Course, and new housing in the south-east growth zone.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Cranbourne East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Cranbourne East Melbourne — what you need**
+
+- [Find suburbs like Cranbourne East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Cranbourne East Melbourne — what you need →](/tools/coffee-price-tracker/#cranbourne-east)
+- [What Melbourne thinks about Cranbourne East Melbourne — what you need →](/tools/suburb-takedown/?suburb=cranbourne-east)
+- [Compare Cranbourne East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=cranbourne-east)

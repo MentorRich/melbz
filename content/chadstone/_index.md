@@ -10,7 +10,7 @@ keywords:
   - "what is Chadstone like"
   - "chadstone suburb"
   - "living in Chadstone"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/chadstone/hero.jpg"
 ---
 
 Chadstone Shopping Centre — Australia's biggest. Plus some residential streets around it.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Chadstone? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Chadstone Melbourne — what you need**
+
+- [Find suburbs like Chadstone Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Chadstone Melbourne — what you need →](/tools/coffee-price-tracker/#chadstone)
+- [What Melbourne thinks about Chadstone Melbourne — what you need →](/tools/suburb-takedown/?suburb=chadstone)
+- [Compare Chadstone Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=chadstone)

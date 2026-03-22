@@ -10,7 +10,7 @@ keywords:
   - "what is Edithvale like"
   - "edithvale suburb"
   - "living in Edithvale"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/edithvale/hero.jpg"
 ---
 
 Edithvale Beach, wetlands, and a quiet beachside community on the Frankston line.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Edithvale? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Edithvale Melbourne — what you need**
+
+- [Find suburbs like Edithvale Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Edithvale Melbourne — what you need →](/tools/coffee-price-tracker/#edithvale)
+- [What Melbourne thinks about Edithvale Melbourne — what you need →](/tools/suburb-takedown/?suburb=edithvale)
+- [Compare Edithvale Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=edithvale)

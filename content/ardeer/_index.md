@@ -10,7 +10,7 @@ keywords:
   - "what is Ardeer like"
   - "ardeer suburb"
   - "living in Ardeer"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/ardeer/hero.jpg"
 ---
 
 Primarily industrial with some residential pockets. Adjacent to Deer Park.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Ardeer? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Ardeer Melbourne — what you need**
+
+- [Find suburbs like Ardeer Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Ardeer Melbourne — what you need →](/tools/coffee-price-tracker/#ardeer)
+- [What Melbourne thinks about Ardeer Melbourne — what you need →](/tools/suburb-takedown/?suburb=ardeer)
+- [Compare Ardeer Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=ardeer)

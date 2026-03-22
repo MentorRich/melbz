@@ -10,7 +10,7 @@ keywords:
   - "what is Sunshine like"
   - "sunshine suburb"
   - "living in Sunshine"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/sunshine/hero.jpg"
 ---
 
 Hampshire Road revamp, express trains, and the western suburbs' emerging central hub.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Sunshine? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Sunshine Melbourne — what you need**
+
+- [Find suburbs like Sunshine Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Sunshine Melbourne — what you need →](/tools/coffee-price-tracker/#sunshine)
+- [What Melbourne thinks about Sunshine Melbourne — what you need →](/tools/suburb-takedown/?suburb=sunshine)
+- [Compare Sunshine Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=sunshine)

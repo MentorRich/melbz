@@ -66,3 +66,12 @@ Cremorne does not have its own train station. The nearest is Richmond station, a
 ---
 
 *Got something to add about Cremorne? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Cremorne Melbourne — Tech Hub, Warehouse Conversions and the Yarra River**
+
+- [Find suburbs like Cremorne Melbourne — Tech Hub, Warehouse Conversions and the Yarra River →](/tools/suburb-match/)
+- [Coffee prices in Cremorne Melbourne — Tech Hub, Warehouse Conversions and the Yarra River →](/tools/coffee-price-tracker/#cremorne)
+- [What Melbourne thinks about Cremorne Melbourne — Tech Hub, Warehouse Conversions and the Yarra River →](/tools/suburb-takedown/?suburb=cremorne)
+- [Compare Cremorne Melbourne — Tech Hub, Warehouse Conversions and the Yarra River with other suburbs →](/tools/compare-suburbs/?suburbs=cremorne)

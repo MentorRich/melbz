@@ -10,7 +10,7 @@ keywords:
   - "what is Tarneit like"
   - "tarneit suburb"
   - "living in Tarneit"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/tarneit/hero.jpg"
 ---
 
 One of Melbourne's fastest-growing suburbs. New estates, new schools, new everything.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Tarneit? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Tarneit Melbourne — what you need**
+
+- [Find suburbs like Tarneit Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Tarneit Melbourne — what you need →](/tools/coffee-price-tracker/#tarneit)
+- [What Melbourne thinks about Tarneit Melbourne — what you need →](/tools/suburb-takedown/?suburb=tarneit)
+- [Compare Tarneit Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=tarneit)

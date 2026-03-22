@@ -10,7 +10,7 @@ keywords:
   - "what is Mordialloc like"
   - "mordialloc suburb"
   - "living in Mordialloc"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/mordialloc/hero.jpg"
 ---
 
 The creek, the pier, fish and chips — Mordialloc is bayside Melbourne at its most relaxed.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Mordialloc? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Mordialloc Melbourne — what you need**
+
+- [Find suburbs like Mordialloc Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Mordialloc Melbourne — what you need →](/tools/coffee-price-tracker/#mordialloc)
+- [What Melbourne thinks about Mordialloc Melbourne — what you need →](/tools/suburb-takedown/?suburb=mordialloc)
+- [Compare Mordialloc Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=mordialloc)

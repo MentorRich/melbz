@@ -10,7 +10,7 @@ keywords:
   - "what is Jacana like"
   - "jacana suburb"
   - "living in Jacana"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/jacana/hero.jpg"
 ---
 
 Small pocket between Broadmeadows and Glenroy with its own train station and quiet streets.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Jacana? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Jacana Melbourne — what you need**
+
+- [Find suburbs like Jacana Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Jacana Melbourne — what you need →](/tools/coffee-price-tracker/#jacana)
+- [What Melbourne thinks about Jacana Melbourne — what you need →](/tools/suburb-takedown/?suburb=jacana)
+- [Compare Jacana Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=jacana)

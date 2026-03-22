@@ -10,7 +10,7 @@ keywords:
   - "what is Frankston like"
   - "frankston suburb"
   - "living in Frankston"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/frankston/hero.jpg"
 ---
 
 Frankston waterfront, train terminus, and the biggest regional centre south of Dandenong. Rapidly improving.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Frankston? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Frankston Melbourne — what you need**
+
+- [Find suburbs like Frankston Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Frankston Melbourne — what you need →](/tools/coffee-price-tracker/#frankston)
+- [What Melbourne thinks about Frankston Melbourne — what you need →](/tools/suburb-takedown/?suburb=frankston)
+- [Compare Frankston Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=frankston)

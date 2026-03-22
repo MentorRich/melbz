@@ -10,7 +10,7 @@ keywords:
   - "what is Bentleigh like"
   - "bentleigh suburb"
   - "living in Bentleigh"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/bentleigh/hero.jpg"
 ---
 
 Centre Road shopping, Sunday market, and an unpretentious family suburb with strong schools.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Bentleigh? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Bentleigh Melbourne — what you need**
+
+- [Find suburbs like Bentleigh Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Bentleigh Melbourne — what you need →](/tools/coffee-price-tracker/#bentleigh)
+- [What Melbourne thinks about Bentleigh Melbourne — what you need →](/tools/suburb-takedown/?suburb=bentleigh)
+- [Compare Bentleigh Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=bentleigh)

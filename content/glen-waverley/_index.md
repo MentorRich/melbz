@@ -10,7 +10,7 @@ keywords:
   - "what is Glen Waverley like"
   - "glen-waverley suburb"
   - "living in Glen Waverley"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/glen-waverley/hero.jpg"
 ---
 
 The Glen Shopping Centre, Kingsway restaurant strip, and one of Melbourne's top school zones.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Glen Waverley? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Glen Waverley Melbourne — what you need**
+
+- [Find suburbs like Glen Waverley Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Glen Waverley Melbourne — what you need →](/tools/coffee-price-tracker/#glen-waverley)
+- [What Melbourne thinks about Glen Waverley Melbourne — what you need →](/tools/suburb-takedown/?suburb=glen-waverley)
+- [Compare Glen Waverley Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=glen-waverley)

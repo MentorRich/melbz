@@ -10,7 +10,7 @@ keywords:
   - "what is Williamstown North like"
   - "williamstown-north suburb"
   - "living in Williamstown North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/williamstown-north/hero.jpg"
 ---
 
 Industrial meets residential on the edge of Williamstown's maritime precinct.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Williamstown North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Williamstown North Melbourne — what you need**
+
+- [Find suburbs like Williamstown North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Williamstown North Melbourne — what you need →](/tools/coffee-price-tracker/#williamstown-north)
+- [What Melbourne thinks about Williamstown North Melbourne — what you need →](/tools/suburb-takedown/?suburb=williamstown-north)
+- [Compare Williamstown North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=williamstown-north)

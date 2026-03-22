@@ -10,7 +10,7 @@ keywords:
   - "what is Endeavour Hills like"
   - "endeavour-hills suburb"
   - "living in Endeavour Hills"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/endeavour-hills/hero.jpg"
 ---
 
 Hilly suburb with city views, family parks, and strong multicultural community.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Endeavour Hills? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Endeavour Hills Melbourne — what you need**
+
+- [Find suburbs like Endeavour Hills Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Endeavour Hills Melbourne — what you need →](/tools/coffee-price-tracker/#endeavour-hills)
+- [What Melbourne thinks about Endeavour Hills Melbourne — what you need →](/tools/suburb-takedown/?suburb=endeavour-hills)
+- [Compare Endeavour Hills Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=endeavour-hills)

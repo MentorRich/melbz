@@ -10,7 +10,7 @@ keywords:
   - "what is Aspendale Gardens like"
   - "aspendale-gardens suburb"
   - "living in Aspendale Gardens"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/aspendale-gardens/hero.jpg"
 ---
 
 Planned estate with wetlands, parks, and family homes near the beach.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Aspendale Gardens? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Aspendale Gardens Melbourne — what you need**
+
+- [Find suburbs like Aspendale Gardens Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Aspendale Gardens Melbourne — what you need →](/tools/coffee-price-tracker/#aspendale-gardens)
+- [What Melbourne thinks about Aspendale Gardens Melbourne — what you need →](/tools/suburb-takedown/?suburb=aspendale-gardens)
+- [Compare Aspendale Gardens Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=aspendale-gardens)

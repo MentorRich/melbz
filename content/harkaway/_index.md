@@ -10,7 +10,7 @@ keywords:
   - "what is Harkaway like"
   - "harkaway suburb"
   - "living in Harkaway"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/harkaway/hero.jpg"
 ---
 
 Rural village with acreage properties, horse paddocks, and complete countryside feel.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Harkaway? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Harkaway Melbourne — what you need**
+
+- [Find suburbs like Harkaway Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Harkaway Melbourne — what you need →](/tools/coffee-price-tracker/#harkaway)
+- [What Melbourne thinks about Harkaway Melbourne — what you need →](/tools/suburb-takedown/?suburb=harkaway)
+- [Compare Harkaway Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=harkaway)

@@ -62,7 +62,7 @@
  
  &amp;lt;div class=&amp;quot;form-group&amp;quot;&amp;gt;
  &amp;lt;label for=&amp;quot;email&amp;quot;&amp;gt;Your email (for magic links)&amp;lt;/label&amp;gt;
- &amp;lt;input type=&amp;quot;email&amp;quot; id=&amp;quot;email&amp;quot; name=&amp;quot;email&amp;quot; placeholder=&amp;quot;hq@melbz101&amp;quot; required&amp;gt;
+ &amp;lt;input type=&amp;quot;email&amp;quot; id=&amp;quot;email&amp;quot; name=&amp;quot;email&amp;quot; placeholder=&amp;quot;hq@melbz.com.au&amp;quot; required&amp;gt;
  &amp;lt;span class=&amp;quot;hint&amp;quot;&amp;gt;We'll send you a magic link to sign in — no passwords yet&amp;lt;/span&amp;gt;
  &amp;lt;/div&amp;gt;
  
@@ -319,10 +319,9 @@
 &lt;/script&gt;
 &lt;h2 id="related-articles"&gt;Related Articles&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://melbz.com.au/northcote/"&gt;/northcote/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://melbz.com.au/south-yarra/"&gt;/south-yarra/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://melbz.com.au/prahran/"&gt;/prahran/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://melbz.com.au/southbank/"&gt;/southbank/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://melbz.com.au/richmond/"&gt;/richmond/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Find more Melbourne content at &lt;a href="https://melbz.com.au/"&gt;melbz.com.au&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;li&gt;&lt;a href="https://melbz.com.au/northcote/"&gt;Northcote&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://melbz.com.au/south-yarra/"&gt;South Yarra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://melbz.com.au/prahran/"&gt;Prahran&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://melbz.com.au/southbank/"&gt;Southbank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://melbz.com.au/richmond/"&gt;Richmond&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

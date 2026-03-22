@@ -10,7 +10,7 @@ keywords:
   - "what is Burnley like"
   - "burnley suburb"
   - "living in Burnley"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/burnley/hero.jpg"
 ---
 
 Tiny suburb between Richmond and Hawthorn. The Gardens, Burnley Station, and not much else — that's the charm.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Burnley? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Burnley Melbourne — what you need**
+
+- [Find suburbs like Burnley Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Burnley Melbourne — what you need →](/tools/coffee-price-tracker/#burnley)
+- [What Melbourne thinks about Burnley Melbourne — what you need →](/tools/suburb-takedown/?suburb=burnley)
+- [Compare Burnley Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=burnley)

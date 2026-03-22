@@ -9,7 +9,7 @@ keywords:
   - "easter long weekend melbourne"
   - "easter events melbourne"
   - "things to do easter melbourne"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/easter-melbourne-2026/hero.jpg"
 ---
 
 How to make the most of Easter in Melbourne. Events, markets, road trip ideas, and the best suburbs for the long weekend.
@@ -36,3 +36,12 @@ How to make the most of Easter in Melbourne. Events, markets, road trip ideas, a
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Easter in Melbourne 2026 — Events, Markets, Long Weekend Ideas**
+
+- [Find suburbs like Easter in Melbourne 2026 — Events, Markets, Long Weekend Ideas →](/tools/suburb-match/)
+- [Coffee prices in Easter in Melbourne 2026 — Events, Markets, Long Weekend Ideas →](/tools/coffee-price-tracker/#easter-melbourne-2026)
+- [What Melbourne thinks about Easter in Melbourne 2026 — Events, Markets, Long Weekend Ideas →](/tools/suburb-takedown/?suburb=easter-melbourne-2026)
+- [Compare Easter in Melbourne 2026 — Events, Markets, Long Weekend Ideas with other suburbs →](/tools/compare-suburbs/?suburbs=easter-melbourne-2026)

@@ -10,7 +10,7 @@ keywords:
   - "what is Sydenham like"
   - "sydenham suburb"
   - "living in Sydenham"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/sydenham/hero.jpg"
 ---
 
 Watergardens station, newer estates, and affordable family living in the north-west.
@@ -94,3 +94,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Sydenham? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Sydenham Melbourne — what you need**
+
+- [Find suburbs like Sydenham Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Sydenham Melbourne — what you need →](/tools/coffee-price-tracker/#sydenham)
+- [What Melbourne thinks about Sydenham Melbourne — what you need →](/tools/suburb-takedown/?suburb=sydenham)
+- [Compare Sydenham Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=sydenham)

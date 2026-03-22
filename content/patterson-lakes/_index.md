@@ -10,7 +10,7 @@ keywords:
   - "what is Patterson Lakes like"
   - "patterson-lakes suburb"
   - "living in Patterson Lakes"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/patterson-lakes/hero.jpg"
 ---
 
 Canal living, boats in backyards, and Melbourne's suburban Venice.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Patterson Lakes? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Patterson Lakes Melbourne — what you need**
+
+- [Find suburbs like Patterson Lakes Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Patterson Lakes Melbourne — what you need →](/tools/coffee-price-tracker/#patterson-lakes)
+- [What Melbourne thinks about Patterson Lakes Melbourne — what you need →](/tools/suburb-takedown/?suburb=patterson-lakes)
+- [Compare Patterson Lakes Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=patterson-lakes)

@@ -10,7 +10,7 @@ keywords:
   - "what is Hampton Park like"
   - "hampton-park suburb"
   - "living in Hampton Park"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/hampton-park/hero.jpg"
 ---
 
 Diverse community suburb with parks, schools, and affordable family housing.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Hampton Park? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Hampton Park Melbourne — what you need**
+
+- [Find suburbs like Hampton Park Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Hampton Park Melbourne — what you need →](/tools/coffee-price-tracker/#hampton-park)
+- [What Melbourne thinks about Hampton Park Melbourne — what you need →](/tools/suburb-takedown/?suburb=hampton-park)
+- [Compare Hampton Park Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=hampton-park)

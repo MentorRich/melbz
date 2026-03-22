@@ -10,7 +10,7 @@ keywords:
   - "what is Lysterfield like"
   - "lysterfield suburb"
   - "living in Lysterfield"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/lysterfield/hero.jpg"
 ---
 
 Lysterfield Lake Park, bush blocks, and semi-rural living at Melbourne's edge.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Lysterfield? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Lysterfield Melbourne — what you need**
+
+- [Find suburbs like Lysterfield Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Lysterfield Melbourne — what you need →](/tools/coffee-price-tracker/#lysterfield)
+- [What Melbourne thinks about Lysterfield Melbourne — what you need →](/tools/suburb-takedown/?suburb=lysterfield)
+- [Compare Lysterfield Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=lysterfield)

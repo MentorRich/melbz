@@ -67,3 +67,14 @@ Buying in Brunswick East makes sense if you value Lygon Street's amenity, the Me
 - [Carlton Suburb Guide](/carlton/)
 - [Collingwood Suburb Guide](/collingwood/)
 - [Northcote Suburb Guide](/northcote/)
+
+
+## What Locals Know
+
+Living in Brunswick East means understanding the rhythms that listings and guides do not capture. The best spots are not always the most visible ones — locals develop their own routines, their own preferred cafes and walking routes, based on years of trial and error.
+
+## The Honest Take
+
+Brunswick East has genuine strengths and real limitations. No suburb is perfect. What matters is whether the strengths align with what you value — whether that is walkability, community feel, food options, or commute times. The best way to know is to spend time here before committing.
+
+For the full picture, see our [Brunswick East guide](/brunswick-east/).

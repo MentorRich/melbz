@@ -10,7 +10,7 @@ keywords:
   - "what is Spotswood like"
   - "spotswood suburb"
   - "living in Spotswood"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/spotswood/hero.jpg"
 ---
 
 Scienceworks, craft breweries, and a small community with growing hipster credentials.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Spotswood? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Spotswood Melbourne — what you need**
+
+- [Find suburbs like Spotswood Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Spotswood Melbourne — what you need →](/tools/coffee-price-tracker/#spotswood)
+- [What Melbourne thinks about Spotswood Melbourne — what you need →](/tools/suburb-takedown/?suburb=spotswood)
+- [Compare Spotswood Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=spotswood)

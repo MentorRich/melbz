@@ -10,7 +10,7 @@ keywords:
   - "what is Keilor like"
   - "keilor suburb"
   - "living in Keilor"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/keilor/hero.jpg"
 ---
 
 Keilor Village heritage precinct on the Maribyrnong River. Old Melbourne with character.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Keilor? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Keilor Melbourne — what you need**
+
+- [Find suburbs like Keilor Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Keilor Melbourne — what you need →](/tools/coffee-price-tracker/#keilor)
+- [What Melbourne thinks about Keilor Melbourne — what you need →](/tools/suburb-takedown/?suburb=keilor)
+- [Compare Keilor Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=keilor)

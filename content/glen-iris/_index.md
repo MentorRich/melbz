@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Glen Iris? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Glen Iris Melbourne — what you need**
+
+- [Find suburbs like Glen Iris Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Glen Iris Melbourne — what you need →](/tools/coffee-price-tracker/#glen-iris)
+- [What Melbourne thinks about Glen Iris Melbourne — what you need →](/tools/suburb-takedown/?suburb=glen-iris)
+- [Compare Glen Iris Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=glen-iris)

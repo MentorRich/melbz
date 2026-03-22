@@ -10,7 +10,7 @@ keywords:
   - "what is Surrey Hills like"
   - "surrey-hills suburb"
   - "living in Surrey Hills"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/surrey-hills/hero.jpg"
 ---
 
 Village shopping strip, Union Road cafes, and a strong sense of old Melbourne community.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Surrey Hills? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Surrey Hills Melbourne — what you need**
+
+- [Find suburbs like Surrey Hills Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Surrey Hills Melbourne — what you need →](/tools/coffee-price-tracker/#surrey-hills)
+- [What Melbourne thinks about Surrey Hills Melbourne — what you need →](/tools/suburb-takedown/?suburb=surrey-hills)
+- [Compare Surrey Hills Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=surrey-hills)

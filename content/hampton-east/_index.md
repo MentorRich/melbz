@@ -10,7 +10,7 @@ keywords:
   - "what is Hampton East like"
   - "hampton-east suburb"
   - "living in Hampton East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/hampton-east/hero.jpg"
 ---
 
 Quiet and purely residential — tucked behind Hampton with park access.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Hampton East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Hampton East Melbourne — what you need**
+
+- [Find suburbs like Hampton East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Hampton East Melbourne — what you need →](/tools/coffee-price-tracker/#hampton-east)
+- [What Melbourne thinks about Hampton East Melbourne — what you need →](/tools/suburb-takedown/?suburb=hampton-east)
+- [Compare Hampton East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=hampton-east)

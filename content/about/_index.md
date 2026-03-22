@@ -73,3 +73,31 @@ We read everything. We can't promise we'll agree with you, but we'll read it.
 ---
 
 *MELBZ is published by **Axior Labs** (ABN 91 949 773 596). We're based in Melbourne, Victoria, Australia. We're not affiliated with any real estate company, council, or tourism body — we're just people with strong opinions about suburbs and a website.*
+
+
+## Publisher
+
+MELBZ is published by **Axior Labs** (ABN 91 949 773 596), a Melbourne-based digital media company led by founder Ebiau Daniel. We operate out of Melbourne, Victoria, Australia — and every writer contributing to MELBZ is based in the greater Melbourne metro area.
+
+## How We Research Content
+
+MELBZ operates with a rotating editorial team of roughly 50 contributor personas, each with specific suburb expertise and local knowledge. Our process:
+
+1. **On-the-ground research** — writers visit suburbs, walk the streets, eat at the venues, and take the transport routes they write about
+2. **Data-backed claims** — rental prices, crime statistics, and transport times are sourced from public datasets (DHHS, ABS, PTV) and updated quarterly
+3. **No fabricated venues or statistics** — if we mention a restaurant, bar, or cafe, it exists. If we quote a price, it is based on verifiable data or clearly marked as an estimate
+4. **Regular updates** — articles carry a published date and an updated date. Stale content gets flagged and refreshed
+
+## Corrections Policy
+
+We fix errors promptly. If something is wrong, email [hq@melbz.com.au](mailto:hq@melbz.com.au) with the article URL and what needs correcting. We update within 48 hours and note significant corrections at the end of the article.
+
+## Editorial Standards
+
+Read our full [editorial standards](/about/editorial-standards/) for details on how we research, verify, and disclose commercial relationships.
+
+## Contact
+
+**Email:** [hq@melbz.com.au](mailto:hq@melbz.com.au)
+**Publisher:** Axior Labs (ABN 91 949 773 596)
+**Location:** Melbourne, Victoria, Australia

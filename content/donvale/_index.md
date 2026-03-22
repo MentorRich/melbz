@@ -10,7 +10,7 @@ keywords:
   - "what is Donvale like"
   - "donvale suburb"
   - "living in Donvale"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/donvale/hero.jpg"
 ---
 
 Hilly, leafy, and family-oriented near Warrandyte with good school access.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Donvale? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Donvale Melbourne — what you need**
+
+- [Find suburbs like Donvale Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Donvale Melbourne — what you need →](/tools/coffee-price-tracker/#donvale)
+- [What Melbourne thinks about Donvale Melbourne — what you need →](/tools/suburb-takedown/?suburb=donvale)
+- [Compare Donvale Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=donvale)

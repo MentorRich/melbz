@@ -25,6 +25,7 @@ theme = 'melbz'
 
 # Site-wide params
 [params]
+  anthropic_api_key = ""
   description = "Melbourne moves fast. Venues open, close, and get replaced by another dumpling house before you've finished your flat white. MELBZ tracks all of it — 321 suburbs, thousands of venues, updated daily by 50 locals who argue about this city for a living."
   author = "MELBZ"
   tagline = "We Know Your Suburb Better Than You Do"
@@ -70,6 +71,12 @@ theme = 'melbz'
   url = "/property/"
   weight = 40
 
+
+[[menu.main]]
+  identifier = "tools"
+  name = "Tools"
+  url = "/tools/"
+  weight = 45
 [[menu.main]]
   identifier = "events"
   name = "Events"
@@ -129,4 +136,3 @@ enableRobotsTXT = true
 [outputFormats.JSON]
   mediaType = "application/json"
   baseName = "index"
-  isPlainText = true

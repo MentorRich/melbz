@@ -10,7 +10,7 @@ keywords:
   - "what is Brunswick West like"
   - "brunswick-west suburb"
   - "living in Brunswick West"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/brunswick-west/hero.jpg"
 ---
 
 The more affordable Brunswick option with good parks, quiet streets, and easy city access.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Brunswick West? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Brunswick West Melbourne — what you need**
+
+- [Find suburbs like Brunswick West Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Brunswick West Melbourne — what you need →](/tools/coffee-price-tracker/#brunswick-west)
+- [What Melbourne thinks about Brunswick West Melbourne — what you need →](/tools/suburb-takedown/?suburb=brunswick-west)
+- [Compare Brunswick West Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=brunswick-west)

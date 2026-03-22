@@ -10,7 +10,7 @@ keywords:
   - "what is Essendon North like"
   - "essendon-north suburb"
   - "living in Essendon North"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/essendon-north/hero.jpg"
 ---
 
 Quiet residential extension of Essendon with more space and lower prices.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Essendon North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Essendon North Melbourne — what you need**
+
+- [Find suburbs like Essendon North Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Essendon North Melbourne — what you need →](/tools/coffee-price-tracker/#essendon-north)
+- [What Melbourne thinks about Essendon North Melbourne — what you need →](/tools/suburb-takedown/?suburb=essendon-north)
+- [Compare Essendon North Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=essendon-north)

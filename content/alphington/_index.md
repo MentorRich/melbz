@@ -10,7 +10,7 @@ keywords:
   - "what is Alphington like"
   - "alphington suburb"
   - "living in Alphington"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/alphington/hero.jpg"
 ---
 
 Riverside living with the old Alphington Paper Mill site now a trendy mixed-use precinct.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Alphington? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Alphington Melbourne — what you need**
+
+- [Find suburbs like Alphington Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Alphington Melbourne — what you need →](/tools/coffee-price-tracker/#alphington)
+- [What Melbourne thinks about Alphington Melbourne — what you need →](/tools/suburb-takedown/?suburb=alphington)
+- [Compare Alphington Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=alphington)

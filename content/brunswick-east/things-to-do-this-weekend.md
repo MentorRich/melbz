@@ -10,6 +10,9 @@ tags:
   - "things-to-do"
   - "entertainment"
   - "melbourne"
+description: "What to do this weekend in Brunswick East. Markets, cafes, gigs and local finds along Lygon Street and beyond. Updated weekly."
+author: "Maya Chen"
+suburb: "brunswick-east"
 ---
 
 # Things To Do This Weekend in Brunswick East
@@ -122,4 +125,3 @@ Brunswick East is the suburb that reminds you why Melbourne's inner north is spe
 - [Brunswick](/brunswick/)
 - [Melbourne Cbd](/melbourne-cbd/)
 - [Carlton](/carlton/)
-

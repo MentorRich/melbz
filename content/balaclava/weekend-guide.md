@@ -51,3 +51,14 @@ Carlisle Street gets active but not overwhelming. Nothing like [St Kilda](/st-ki
 Balaclava weekends work because the suburb is compact enough to do everything on foot. Bakery, brunch, food crawl, cinema, dinner, drinks — all within 600 metres of Carlisle Street. Add a Caulfield Park walk or a St Kilda Beach trip for outdoor time. The rhythm is unhurried and distinctly local.
 
 For more: [things to do](/balaclava/things-to-do/), [best cafes](/balaclava/best-cafes/), [suburb guide](/balaclava/).
+
+
+## What Locals Know
+
+Living in Balaclava means understanding the rhythms that listings and guides do not capture. The best spots are not always the most visible ones — locals develop their own routines, their own preferred cafes and walking routes, based on years of trial and error.
+
+## The Honest Take
+
+Balaclava has genuine strengths and real limitations. No suburb is perfect. What matters is whether the strengths align with what you value — whether that is walkability, community feel, food options, or commute times. The best way to know is to spend time here before committing.
+
+For the full picture, see our [Balaclava guide](/balaclava/).

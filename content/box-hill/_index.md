@@ -66,3 +66,12 @@ Box Hill connects to its neighbours in different directions. North across Whiteh
 ---
 
 *Got something to add about Box Hill? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Box Hill**
+
+- [Find suburbs like Box Hill →](/tools/suburb-match/)
+- [Coffee prices in Box Hill →](/tools/coffee-price-tracker/#box-hill)
+- [What Melbourne thinks about Box Hill →](/tools/suburb-takedown/?suburb=box-hill)
+- [Compare Box Hill with other suburbs →](/tools/compare-suburbs/?suburbs=box-hill)

@@ -10,7 +10,7 @@ keywords:
   - "what is Wheelers Hill like"
   - "wheelers-hill suburb"
   - "living in Wheelers Hill"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/wheelers-hill/hero.jpg"
 ---
 
 Jells Park, hilltop estates, and a quiet family suburb with panoramic views.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Wheelers Hill? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Wheelers Hill Melbourne — what you need**
+
+- [Find suburbs like Wheelers Hill Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Wheelers Hill Melbourne — what you need →](/tools/coffee-price-tracker/#wheelers-hill)
+- [What Melbourne thinks about Wheelers Hill Melbourne — what you need →](/tools/suburb-takedown/?suburb=wheelers-hill)
+- [Compare Wheelers Hill Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=wheelers-hill)

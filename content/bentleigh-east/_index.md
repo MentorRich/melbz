@@ -10,7 +10,7 @@ keywords:
   - "what is Bentleigh East like"
   - "bentleigh-east suburb"
   - "living in Bentleigh East"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/bentleigh-east/hero.jpg"
 ---
 
 East Boundary Road shops, family-friendly parks, and good value compared to inner suburbs.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Bentleigh East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Bentleigh East Melbourne — what you need**
+
+- [Find suburbs like Bentleigh East Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Bentleigh East Melbourne — what you need →](/tools/coffee-price-tracker/#bentleigh-east)
+- [What Melbourne thinks about Bentleigh East Melbourne — what you need →](/tools/suburb-takedown/?suburb=bentleigh-east)
+- [Compare Bentleigh East Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=bentleigh-east)

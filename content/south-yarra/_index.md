@@ -106,3 +106,12 @@ Yes. It's one of Melbourne's pricier inner suburbs for both renting and buying. 
 ---
 
 *Got something to add about South Yarra? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for South Yarra Melbourne — what you need**
+
+- [Find suburbs like South Yarra Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in South Yarra Melbourne — what you need →](/tools/coffee-price-tracker/#south-yarra)
+- [What Melbourne thinks about South Yarra Melbourne — what you need →](/tools/suburb-takedown/?suburb=south-yarra)
+- [Compare South Yarra Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=south-yarra)

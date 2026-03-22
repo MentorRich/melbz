@@ -10,7 +10,7 @@ keywords:
   - "what is Nunawading like"
   - "nunawading suburb"
   - "living in Nunawading"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/nunawading/hero.jpg"
 ---
 
 Whitehorse Road retail corridor, train access, and a practical family suburb.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Nunawading? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Nunawading Melbourne — what you need**
+
+- [Find suburbs like Nunawading Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Nunawading Melbourne — what you need →](/tools/coffee-price-tracker/#nunawading)
+- [What Melbourne thinks about Nunawading Melbourne — what you need →](/tools/suburb-takedown/?suburb=nunawading)
+- [Compare Nunawading Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=nunawading)

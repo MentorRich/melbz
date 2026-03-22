@@ -10,7 +10,7 @@ keywords:
   - "what is South Wharf like"
   - "south-wharf suburb"
   - "living in South Wharf"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/south-wharf/hero.jpg"
 ---
 
 Convention centre district, DFO South Wharf, and Yarra promenade dining.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about South Wharf? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for South Wharf Melbourne — what you need**
+
+- [Find suburbs like South Wharf Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in South Wharf Melbourne — what you need →](/tools/coffee-price-tracker/#south-wharf)
+- [What Melbourne thinks about South Wharf Melbourne — what you need →](/tools/suburb-takedown/?suburb=south-wharf)
+- [Compare South Wharf Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=south-wharf)

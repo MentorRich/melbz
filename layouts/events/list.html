@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+{{ partial "happening-now.html" . }}
+
+<div class="section">
+    <div class="container">
+        {{- partial "breadcrumbs.html" . -}}
+
+        <div class="hero" style="margin-bottom: 3rem; padding: 2rem 0;">
+            <h1>{{ .Title }}</h1>
+            {{ if .Params.description }}
+                <p class="hero-subtitle">{{ .Params.description }}</p>
+            {{ else }}
+                <p class="hero-subtitle">What is happening in Melbourne right now — events, festivals, openings, and things worth leaving the house for.</p>
+            {{ end }}
+        </div>
+
+        {{ $pages := .Pages }}
+        {{ if $pages }}
+        <div class="article-grid">
+            {{ range $pages }}
+                {{- partial "article-card.html" . -}}
+            {{ end }}
+        </div>
+        {{ else }}
+        <div class="text-center" style="padding: 3rem 0;">
+            <h3>No events listed yet</h3>
+            <p>Check back soon for Melbourne events.</p>
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+{{ end }}

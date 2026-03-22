@@ -10,7 +10,7 @@ keywords:
   - "what is Ringwood like"
   - "ringwood suburb"
   - "living in Ringwood"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/ringwood/hero.jpg"
 ---
 
 Eastland Shopping Centre, Costco, and the eastern suburbs' main commercial hub.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Ringwood? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Ringwood Melbourne — what you need**
+
+- [Find suburbs like Ringwood Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Ringwood Melbourne — what you need →](/tools/coffee-price-tracker/#ringwood)
+- [What Melbourne thinks about Ringwood Melbourne — what you need →](/tools/suburb-takedown/?suburb=ringwood)
+- [Compare Ringwood Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=ringwood)

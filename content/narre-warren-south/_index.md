@@ -10,7 +10,7 @@ keywords:
   - "what is Narre Warren South like"
   - "narre-warren-south suburb"
   - "living in Narre Warren South"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/narre-warren-south/hero.jpg"
 ---
 
 Family estates, Narre Warren South P-12, and quieter living south of the main centre.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Narre Warren South? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Narre Warren South Melbourne — what you need**
+
+- [Find suburbs like Narre Warren South Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Narre Warren South Melbourne — what you need →](/tools/coffee-price-tracker/#narre-warren-south)
+- [What Melbourne thinks about Narre Warren South Melbourne — what you need →](/tools/suburb-takedown/?suburb=narre-warren-south)
+- [Compare Narre Warren South Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=narre-warren-south)

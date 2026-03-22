@@ -113,3 +113,12 @@ Northcote is the inner north suburb that knows what it is and doesn't apologise 
 ---
 
 *Got something to add about Northcote? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Northcote Melbourne — what you need**
+
+- [Find suburbs like Northcote Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Northcote Melbourne — what you need →](/tools/coffee-price-tracker/#northcote)
+- [What Melbourne thinks about Northcote Melbourne — what you need →](/tools/suburb-takedown/?suburb=northcote)
+- [Compare Northcote Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=northcote)

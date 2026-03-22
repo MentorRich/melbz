@@ -10,7 +10,7 @@ keywords:
   - "what is Kooyong like"
   - "kooyong suburb"
   - "living in Kooyong"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/kooyong/hero.jpg"
 ---
 
 Tennis courts, private schools, and one of Melbourne's most exclusive residential pockets.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Kooyong? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Kooyong Melbourne — what you need**
+
+- [Find suburbs like Kooyong Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Kooyong Melbourne — what you need →](/tools/coffee-price-tracker/#kooyong)
+- [What Melbourne thinks about Kooyong Melbourne — what you need →](/tools/suburb-takedown/?suburb=kooyong)
+- [Compare Kooyong Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=kooyong)

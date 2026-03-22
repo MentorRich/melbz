@@ -10,7 +10,7 @@ keywords:
   - "what is Pascoe Vale like"
   - "pascoe-vale suburb"
   - "living in Pascoe Vale"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/pascoe-vale/hero.jpg"
 ---
 
 Growing cafe scene on Cumberland Road, family homes, and improving infrastructure.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Pascoe Vale? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Pascoe Vale Melbourne — what you need**
+
+- [Find suburbs like Pascoe Vale Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Pascoe Vale Melbourne — what you need →](/tools/coffee-price-tracker/#pascoe-vale)
+- [What Melbourne thinks about Pascoe Vale Melbourne — what you need →](/tools/suburb-takedown/?suburb=pascoe-vale)
+- [Compare Pascoe Vale Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=pascoe-vale)

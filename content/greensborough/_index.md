@@ -10,7 +10,7 @@ keywords:
   - "what is Greensborough like"
   - "greensborough suburb"
   - "living in Greensborough"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/greensborough/hero.jpg"
 ---
 
 Greensborough Plaza, Plenty River, and the gateway between suburban Melbourne and the bush.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Greensborough? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Greensborough Melbourne — what you need**
+
+- [Find suburbs like Greensborough Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Greensborough Melbourne — what you need →](/tools/coffee-price-tracker/#greensborough)
+- [What Melbourne thinks about Greensborough Melbourne — what you need →](/tools/suburb-takedown/?suburb=greensborough)
+- [Compare Greensborough Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=greensborough)

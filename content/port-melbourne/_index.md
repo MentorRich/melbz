@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Port Melbourne? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Port Melbourne Melbourne — what you need**
+
+- [Find suburbs like Port Melbourne Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Port Melbourne Melbourne — what you need →](/tools/coffee-price-tracker/#port-melbourne)
+- [What Melbourne thinks about Port Melbourne Melbourne — what you need →](/tools/suburb-takedown/?suburb=port-melbourne)
+- [Compare Port Melbourne Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=port-melbourne)

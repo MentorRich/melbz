@@ -10,7 +10,7 @@ keywords:
   - "what is Warrandyte like"
   - "warrandyte suburb"
   - "living in Warrandyte"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/warrandyte/hero.jpg"
 ---
 
 Yarra River bushland, artists' community, and the most bush-feels suburb within commuting distance.
@@ -95,3 +95,11 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Warrandyte? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+---
+
+**MELBZ Tools for Warrandyte Melbourne — what you need**
+
+- [Find suburbs like Warrandyte Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Warrandyte Melbourne — what you need →](/tools/coffee-price-tracker/#warrandyte)
+- [What Melbourne thinks about Warrandyte Melbourne — what you need →](/tools/suburb-takedown/?suburb=warrandyte)
+- [Compare Warrandyte Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=warrandyte)

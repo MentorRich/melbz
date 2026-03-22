@@ -10,7 +10,7 @@ keywords:
   - "what is Plenty like"
   - "plenty suburb"
   - "living in Plenty"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/plenty/hero.jpg"
 ---
 
 Rural-feeling pocket near the Plenty Gorge with large blocks and family living.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Plenty? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Plenty Melbourne — what you need**
+
+- [Find suburbs like Plenty Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Plenty Melbourne — what you need →](/tools/coffee-price-tracker/#plenty)
+- [What Melbourne thinks about Plenty Melbourne — what you need →](/tools/suburb-takedown/?suburb=plenty)
+- [Compare Plenty Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=plenty)

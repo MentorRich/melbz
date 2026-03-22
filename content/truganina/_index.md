@@ -10,7 +10,7 @@ keywords:
   - "what is Truganina like"
   - "truganina suburb"
   - "living in Truganina"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/truganina/hero.jpg"
 ---
 
 Southern Wyndham growth with massive new estates and growing community infrastructure.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Truganina? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Truganina Melbourne — what you need**
+
+- [Find suburbs like Truganina Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Truganina Melbourne — what you need →](/tools/coffee-price-tracker/#truganina)
+- [What Melbourne thinks about Truganina Melbourne — what you need →](/tools/suburb-takedown/?suburb=truganina)
+- [Compare Truganina Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=truganina)

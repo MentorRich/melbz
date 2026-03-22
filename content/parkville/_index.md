@@ -10,7 +10,7 @@ keywords:
   - "what is Parkville like"
   - "parkville suburb"
   - "living in Parkville"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/parkville/hero.jpg"
 ---
 
 Melbourne Uni, Royal Park, and heritage homes. Parkville feels like its own village inside the city.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Parkville? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Parkville Melbourne — what you need**
+
+- [Find suburbs like Parkville Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Parkville Melbourne — what you need →](/tools/coffee-price-tracker/#parkville)
+- [What Melbourne thinks about Parkville Melbourne — what you need →](/tools/suburb-takedown/?suburb=parkville)
+- [Compare Parkville Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=parkville)

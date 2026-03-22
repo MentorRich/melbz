@@ -10,7 +10,7 @@ keywords:
   - "what is Moorabbin like"
   - "moorabbin suburb"
   - "living in Moorabbin"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/moorabbin/hero.jpg"
 ---
 
 Junction hub with airport proximity and industrial edges becoming mixed-use residential.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Moorabbin? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Moorabbin Melbourne — what you need**
+
+- [Find suburbs like Moorabbin Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Moorabbin Melbourne — what you need →](/tools/coffee-price-tracker/#moorabbin)
+- [What Melbourne thinks about Moorabbin Melbourne — what you need →](/tools/suburb-takedown/?suburb=moorabbin)
+- [Compare Moorabbin Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=moorabbin)

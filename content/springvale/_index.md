@@ -10,7 +10,7 @@ keywords:
   - "what is Springvale like"
   - "springvale suburb"
   - "living in Springvale"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/springvale/hero.jpg"
 ---
 
 Melbourne's most diverse food strip. Vietnamese, Chinese, Afghan — the real multicultural essence of the south-east.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Springvale? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Springvale Melbourne — what you need**
+
+- [Find suburbs like Springvale Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Springvale Melbourne — what you need →](/tools/coffee-price-tracker/#springvale)
+- [What Melbourne thinks about Springvale Melbourne — what you need →](/tools/suburb-takedown/?suburb=springvale)
+- [Compare Springvale Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=springvale)

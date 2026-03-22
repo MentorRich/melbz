@@ -10,7 +10,7 @@ keywords:
   - "what is Aberfeldie like"
   - "aberfeldie suburb"
   - "living in Aberfeldie"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/aberfeldie/hero.jpg"
 ---
 
 Small, quiet enclave near Maribyrnong River. Heritage homes and a village feel.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Aberfeldie? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Aberfeldie Melbourne — what you need**
+
+- [Find suburbs like Aberfeldie Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Aberfeldie Melbourne — what you need →](/tools/coffee-price-tracker/#aberfeldie)
+- [What Melbourne thinks about Aberfeldie Melbourne — what you need →](/tools/suburb-takedown/?suburb=aberfeldie)
+- [Compare Aberfeldie Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=aberfeldie)

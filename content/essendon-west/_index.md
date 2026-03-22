@@ -10,7 +10,7 @@ keywords:
   - "what is Essendon West like"
   - "essendon-west suburb"
   - "living in Essendon West"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/essendon-west/hero.jpg"
 ---
 
 Small pocket near Maribyrnong River with quiet residential streets.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Essendon West? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Essendon West Melbourne — what you need**
+
+- [Find suburbs like Essendon West Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Essendon West Melbourne — what you need →](/tools/coffee-price-tracker/#essendon-west)
+- [What Melbourne thinks about Essendon West Melbourne — what you need →](/tools/suburb-takedown/?suburb=essendon-west)
+- [Compare Essendon West Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=essendon-west)

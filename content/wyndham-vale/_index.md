@@ -10,7 +10,7 @@ keywords:
   - "what is Wyndham Vale like"
   - "wyndham-vale suburb"
   - "living in Wyndham Vale"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/wyndham-vale/hero.jpg"
 ---
 
 Affordable western living with regional rail access and growing amenities.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Wyndham Vale? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Wyndham Vale Melbourne — what you need**
+
+- [Find suburbs like Wyndham Vale Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Wyndham Vale Melbourne — what you need →](/tools/coffee-price-tracker/#wyndham-vale)
+- [What Melbourne thinks about Wyndham Vale Melbourne — what you need →](/tools/suburb-takedown/?suburb=wyndham-vale)
+- [Compare Wyndham Vale Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=wyndham-vale)

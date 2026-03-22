@@ -4,7 +4,7 @@ description: "The complete guide to Coburg in Melbourne's inner north. Living, e
 date: 2026-03-22
 lastmod: 2026-03-22
 author: "Priya Sharma"
-cover_image: "/images/shared/inner-north-suburb.jpg"
+cover_image: "/images/coburg/hero.jpg"
 cover_image_alt: "Sydney Road streetscape in Coburg with shops and tram tracks"
 suburb: "coburg"
 tags: ["coburg", "suburb-guide", "inner-north", "sydney-road"]
@@ -116,3 +116,12 @@ Coburg in 2026 is the inner north's best value proposition. The food scene punch
 ---
 
 *Got something to add about Coburg? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Coburg Melbourne — what you need**
+
+- [Find suburbs like Coburg Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Coburg Melbourne — what you need →](/tools/coffee-price-tracker/#coburg)
+- [What Melbourne thinks about Coburg Melbourne — what you need →](/tools/suburb-takedown/?suburb=coburg)
+- [Compare Coburg Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=coburg)

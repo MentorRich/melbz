@@ -10,7 +10,7 @@ keywords:
   - "what is Doreen like"
   - "doreen suburb"
   - "living in Doreen"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/doreen/hero.jpg"
 ---
 
 Laurimar estate, Plenty River access, and family living on Melbourne's northern edge.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Doreen? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Doreen Melbourne — what you need**
+
+- [Find suburbs like Doreen Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Doreen Melbourne — what you need →](/tools/coffee-price-tracker/#doreen)
+- [What Melbourne thinks about Doreen Melbourne — what you need →](/tools/suburb-takedown/?suburb=doreen)
+- [Compare Doreen Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=doreen)

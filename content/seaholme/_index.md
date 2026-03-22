@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Seaholme? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Seaholme Melbourne — what you need**
+
+- [Find suburbs like Seaholme Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Seaholme Melbourne — what you need →](/tools/coffee-price-tracker/#seaholme)
+- [What Melbourne thinks about Seaholme Melbourne — what you need →](/tools/suburb-takedown/?suburb=seaholme)
+- [Compare Seaholme Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=seaholme)

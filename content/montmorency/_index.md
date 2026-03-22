@@ -10,7 +10,7 @@ keywords:
   - "what is Montmorency like"
   - "montmorency suburb"
   - "living in Montmorency"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/montmorency/hero.jpg"
 ---
 
 Were Street cafes, bushland feel, and a community that loves its semi-rural identity.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Montmorency? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Montmorency Melbourne — what you need**
+
+- [Find suburbs like Montmorency Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Montmorency Melbourne — what you need →](/tools/coffee-price-tracker/#montmorency)
+- [What Melbourne thinks about Montmorency Melbourne — what you need →](/tools/suburb-takedown/?suburb=montmorency)
+- [Compare Montmorency Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=montmorency)

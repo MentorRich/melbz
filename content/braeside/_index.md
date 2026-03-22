@@ -10,7 +10,7 @@ keywords:
   - "what is Braeside like"
   - "braeside suburb"
   - "living in Braeside"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/braeside/hero.jpg"
 ---
 
 Braeside Park and surrounding industrial area with some residential edges.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Braeside? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Braeside Melbourne — what you need**
+
+- [Find suburbs like Braeside Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Braeside Melbourne — what you need →](/tools/coffee-price-tracker/#braeside)
+- [What Melbourne thinks about Braeside Melbourne — what you need →](/tools/suburb-takedown/?suburb=braeside)
+- [Compare Braeside Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=braeside)

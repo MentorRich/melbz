@@ -8,7 +8,7 @@ keywords:
   - "melbourne suburbs this week"
   - "melbourne weekly guide"
   - "best suburbs melbourne week 12"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/weekly-roundup-week-12/hero.jpg"
 ---
 
 ## This Week's Suburb Spotlight

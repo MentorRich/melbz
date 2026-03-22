@@ -68,3 +68,12 @@ Camberwell connects naturally to its neighbours. Walk south along Burke Road int
 ---
 
 *Got something to add about Camberwell? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Camberwell**
+
+- [Find suburbs like Camberwell →](/tools/suburb-match/)
+- [Coffee prices in Camberwell →](/tools/coffee-price-tracker/#camberwell)
+- [What Melbourne thinks about Camberwell →](/tools/suburb-takedown/?suburb=camberwell)
+- [Compare Camberwell with other suburbs →](/tools/compare-suburbs/?suburbs=camberwell)

@@ -10,7 +10,7 @@ keywords:
   - "what is Narre Warren like"
   - "narre-warren suburb"
   - "living in Narre Warren"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/narre-warren/hero.jpg"
 ---
 
 Fountain Gate Shopping Centre, diverse community, and the Casey corridor's commercial heart.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Narre Warren? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Narre Warren Melbourne — what you need**
+
+- [Find suburbs like Narre Warren Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Narre Warren Melbourne — what you need →](/tools/coffee-price-tracker/#narre-warren)
+- [What Melbourne thinks about Narre Warren Melbourne — what you need →](/tools/suburb-takedown/?suburb=narre-warren)
+- [Compare Narre Warren Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=narre-warren)

@@ -10,7 +10,7 @@ keywords:
   - "what is Lower Templestowe like"
   - "templestowe-lower suburb"
   - "living in Lower Templestowe"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/templestowe-lower/hero.jpg"
 ---
 
 Manningham Road shops, growing apartment scene, and easier access than upper Templestowe.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Lower Templestowe? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Lower Templestowe Melbourne — what you need**
+
+- [Find suburbs like Lower Templestowe Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Lower Templestowe Melbourne — what you need →](/tools/coffee-price-tracker/#templestowe-lower)
+- [What Melbourne thinks about Lower Templestowe Melbourne — what you need →](/tools/suburb-takedown/?suburb=templestowe-lower)
+- [Compare Lower Templestowe Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=templestowe-lower)

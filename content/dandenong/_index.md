@@ -10,7 +10,7 @@ keywords:
   - "what is Dandenong like"
   - "dandenong suburb"
   - "living in Dandenong"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/dandenong/hero.jpg"
 ---
 
 Dandenong Market, the Afghan precinct, and Victoria's most diverse regional centre after the CBD.
@@ -95,3 +95,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Dandenong? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Dandenong Melbourne — what you need**
+
+- [Find suburbs like Dandenong Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Dandenong Melbourne — what you need →](/tools/coffee-price-tracker/#dandenong)
+- [What Melbourne thinks about Dandenong Melbourne — what you need →](/tools/suburb-takedown/?suburb=dandenong)
+- [Compare Dandenong Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=dandenong)

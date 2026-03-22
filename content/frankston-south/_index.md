@@ -10,7 +10,7 @@ keywords:
   - "what is Frankston South like"
   - "frankston-south suburb"
   - "living in Frankston South"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/frankston-south/hero.jpg"
 ---
 
 Sweetwater Creek, leafy hillside living, and the affluent side of Frankston.
@@ -94,3 +94,12 @@ Want more detail? We've covered every angle:
 ---
 
 *Got something to add about Frankston South? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+**MELBZ Tools for Frankston South Melbourne — what you need**
+
+- [Find suburbs like Frankston South Melbourne — what you need →](/tools/suburb-match/)
+- [Coffee prices in Frankston South Melbourne — what you need →](/tools/coffee-price-tracker/#frankston-south)
+- [What Melbourne thinks about Frankston South Melbourne — what you need →](/tools/suburb-takedown/?suburb=frankston-south)
+- [Compare Frankston South Melbourne — what you need with other suburbs →](/tools/compare-suburbs/?suburbs=frankston-south)

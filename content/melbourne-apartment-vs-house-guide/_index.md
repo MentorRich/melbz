@@ -9,7 +9,7 @@ keywords:
   - "renting apartment melbourne"
   - "house vs unit melbourne"
   - "best apartments melbourne suburbs"
-cover_image: "/images/shared/city-architecture.jpg"
+cover_image: "/images/melbourne-apartment-vs-house-guide/hero.jpg"
 ---
 
 Should you rent a house or apartment? It depends on the suburb. Here's the breakdown for Melbourne.
@@ -37,3 +37,12 @@ Should you rent a house or apartment? It depends on the suburb. Here's the break
 ---
 
 *Want suburb-specific detail? Every Melbourne suburb has its own guide on melbz.com.au — search for your suburb above.*
+
+---
+
+**MELBZ Tools for Apartment vs House in Melbourne — Which Suburb Suits Which?**
+
+- [Find suburbs like Apartment vs House in Melbourne — Which Suburb Suits Which? →](/tools/suburb-match/)
+- [Coffee prices in Apartment vs House in Melbourne — Which Suburb Suits Which? →](/tools/coffee-price-tracker/#melbourne-apartment-vs-house-guide)
+- [What Melbourne thinks about Apartment vs House in Melbourne — Which Suburb Suits Which? →](/tools/suburb-takedown/?suburb=melbourne-apartment-vs-house-guide)
+- [Compare Apartment vs House in Melbourne — Which Suburb Suits Which? with other suburbs →](/tools/compare-suburbs/?suburbs=melbourne-apartment-vs-house-guide)

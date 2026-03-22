@@ -36,3 +36,12 @@ Better than you'd think. The waterfront promenades work as playgrounds. Ron Bara
 ## Keep exploring
 
 Docklands connects to the CBD via the Bourke Street and Collins Street bridges — walk east and you're in the city within 10 minutes. North across Footscray Road is [West Melbourne](/west-melbourne/), which is undergoing its own transformation. South across the Yarra is [Southbank](/southbank/), with the arts precinct and Crown. The harbour itself connects to [Port Melbourne](/port-melbourne/) via the waterfront path.
+
+---
+
+**MELBZ Tools for Docklands**
+
+- [Find suburbs like Docklands →](/tools/suburb-match/)
+- [Coffee prices in Docklands →](/tools/coffee-price-tracker/#docklands)
+- [What Melbourne thinks about Docklands →](/tools/suburb-takedown/?suburb=docklands)
+- [Compare Docklands with other suburbs →](/tools/compare-suburbs/?suburbs=docklands)

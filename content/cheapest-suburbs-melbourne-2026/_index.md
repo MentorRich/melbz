@@ -3,13 +3,13 @@ title: "Cheapest Suburbs in Melbourne to Rent — 2026 Guide"
 description: "Where can you still find affordable rent in Melbourne? The suburbs that offer genuine value without sacrificing too much on lifestyle."
 date: 2026-03-21
 article_type: "trending"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cheapest suburbs melbourne rent"
   - "affordable suburbs melbourne 2026"
   - "cheapest rent melbourne"
   - "budget suburbs melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Where can you still find affordable rent in Melbourne? The suburbs that offer genuine value without sacrificing too much on lifestyle.

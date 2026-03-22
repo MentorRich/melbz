@@ -1,16 +1,16 @@
 ---
-title: "Gladstone Park Melbourne — Everything You Need to Know"
+title: "Gladstone Park Melbourne — what you need"
 description: "The complete guide to Gladstone Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Gladstone Park Melbourne"
   - "what is Gladstone Park like"
   - "gladstone-park suburb"
   - "living in Gladstone Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Gladstone Park Shopping Centre, family estates, and proximity to the airport corridor.

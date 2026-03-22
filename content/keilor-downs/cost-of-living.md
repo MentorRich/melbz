@@ -4,16 +4,22 @@ description: "How expensive is Keilor Downs? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Keilor Downs Melbourne"
   - "how expensive is Keilor Downs"
   - "is Keilor Downs expensive to live in"
   - "Keilor Downs rent"
+tags:
+  - "keilor-downs"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Keilor Downs — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Keilor Downs, here is exactly how far your dollar goes.
 
 Read our full [Keilor Downs suburb guide](/keilor-downs/) for the bigger picture.
 

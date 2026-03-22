@@ -4,13 +4,18 @@ description: "The insider's guide to Oakleigh South's different pockets, streets
 date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "Oakleigh South neighbourhood guide"
   - "best streets in Oakleigh South"
   - "Oakleigh South areas"
   - "Oakleigh South pockets Melbourne"
+tags:
+  - "oakleigh-south"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Oakleigh South isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

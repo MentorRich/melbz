@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Huntingdale? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "huntingdale"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Huntingdale good for families"
   - "Huntingdale family friendly"
   - "raising kids in Huntingdale"
+tags:
+  - "huntingdale"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Huntingdale with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

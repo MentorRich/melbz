@@ -4,13 +4,18 @@ description: "The insider's guide to Caulfield North's different pockets, street
 date: 2026-03-21
 suburb: "caulfield-north"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Caulfield North neighbourhood guide"
   - "best streets in Caulfield North"
   - "Caulfield North areas"
   - "Caulfield North pockets Melbourne"
+tags:
+  - "caulfield-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Caulfield North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

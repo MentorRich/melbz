@@ -4,15 +4,22 @@ description: "Public transport in Sydenham: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "sydenham"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Sydenham Melbourne"
   - "commute from Sydenham to city"
   - "Sydenham train station"
+tags:
+  - "sydenham"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Sydenham — what works, what's annoying, and how long things actually take.
+Sydenham transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Sydenham suburb guide](/sydenham/) for the complete picture.
 

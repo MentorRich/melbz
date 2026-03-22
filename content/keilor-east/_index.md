@@ -1,16 +1,16 @@
 ---
-title: "Keilor East Melbourne — Everything You Need to Know"
+title: "Keilor East Melbourne — what you need"
 description: "The complete guide to Keilor East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "keilor-east"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Keilor East Melbourne"
   - "what is Keilor East like"
   - "keilor-east suburb"
   - "living in Keilor East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Diverse community with DFO Essendon, family parks, and accessible location.

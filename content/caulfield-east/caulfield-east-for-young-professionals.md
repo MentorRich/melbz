@@ -4,12 +4,18 @@ description: "Is Caulfield East a good suburb for young professionals? Social sc
 date: 2026-03-21
 suburb: "caulfield-east"
 article_type: "young-professionals"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Caulfield East young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Caulfield East"
+tags:
+  - "caulfield-east"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Caulfield East as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

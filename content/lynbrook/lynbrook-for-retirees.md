@@ -4,12 +4,16 @@ description: "Considering retirement in Lynbrook? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "lynbrook"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Lynbrook retirees Melbourne"
   - "retiring in Lynbrook"
   - "quiet suburbs Melbourne"
+tags:
+  - "lynbrook"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Lynbrook? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

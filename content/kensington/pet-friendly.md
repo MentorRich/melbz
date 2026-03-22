@@ -1,19 +1,14 @@
 ---
 title: "Dog-Friendly Kensington — Parks, Cafes and Walks"
-description: "Raising a dog in Kensington? Off-leash parks, pet-friendly cafes, vet access, and what doggo life looks like in this suburb."
-date: 2026-03-21
+description: "Raising a dog in Kensington? Off-leash parks, pet-friendly cafes, vet access, and what doggo life looks like in this suburb. Updated for 2026 with real local."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Chen"
+cover_image: "/images/kensington/pet-friendly.jpg"
+cover_image_alt: "Pet Friendly in Kensington Melbourne"
 suburb: "kensington"
-article_type: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
-  - "dog friendly Kensington"
-  - "off leash park Kensington"
-  - "pet friendly cafes Kensington"
-  - "walking dog Kensington"
+tags: ["kensington", "pet-friendly"]
 ---
-
-
 ## Being a Dog Owner in Kensington
 
 Melbourne is a dog city, and Kensington holds its own for four-legged residents. Whether you've got a cattle dog that needs actual exercise or a French Bulldog that considers a 10-minute waddle an expedition, this suburb has something for you.
@@ -28,7 +23,7 @@ Kensington has dedicated off-leash areas where your dog can actually run. The lo
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/kensington/best-cafes/)
 
 Multiple cafes in Kensington welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +63,23 @@ Veterinary clinics are accessible from Kensington, including emergency after-hou
 ---
 
 **More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington Things to Do](/kensington/things-to-do/) · [Kensington for Families](/kensington/kensington-for-families/)
+
+---
+
+## Explore More of Kensington
+
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

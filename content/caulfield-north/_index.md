@@ -1,16 +1,16 @@
 ---
-title: "Caulfield North Melbourne — Everything You Need to Know"
+title: "Caulfield North Melbourne — what you need"
 description: "The complete guide to Caulfield North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "caulfield-north"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Caulfield North Melbourne"
   - "what is Caulfield North like"
   - "caulfield-north suburb"
   - "living in Caulfield North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Tree-lined streets, strong Jewish community, and good proximity to both the beach and the city.

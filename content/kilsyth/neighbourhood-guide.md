@@ -4,13 +4,18 @@ description: "The insider's guide to Kilsyth's different pockets, streets, and a
 date: 2026-03-21
 suburb: "kilsyth"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Kilsyth neighbourhood guide"
   - "best streets in Kilsyth"
   - "Kilsyth areas"
   - "Kilsyth pockets Melbourne"
+tags:
+  - "kilsyth"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Kilsyth isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

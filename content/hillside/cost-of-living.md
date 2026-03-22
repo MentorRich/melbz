@@ -4,16 +4,22 @@ description: "How expensive is Hillside? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "hillside"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Hillside Melbourne"
   - "how expensive is Hillside"
   - "is Hillside expensive to live in"
   - "Hillside rent"
+tags:
+  - "hillside"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Hillside — no sugar-coating, no made-up figures.
+Hillside living costs reflect its position in Melbourne property landscape. Here are the numbers that matter.
 
 Read our full [Hillside suburb guide](/hillside/) for the bigger picture.
 

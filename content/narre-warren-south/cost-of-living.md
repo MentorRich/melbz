@@ -4,16 +4,22 @@ description: "How expensive is Narre Warren South? Rent, daily costs, and how th
 date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Narre Warren South Melbourne"
   - "how expensive is Narre Warren South"
   - "is Narre Warren South expensive to live in"
   - "Narre Warren South rent"
+tags:
+  - "narre-warren-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Narre Warren South — no sugar-coating, no made-up figures.
+Living costs in Narre Warren South have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Narre Warren South suburb guide](/narre-warren-south/) for the bigger picture.
 

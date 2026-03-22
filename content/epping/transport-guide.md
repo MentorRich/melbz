@@ -4,15 +4,22 @@ description: "Public transport in Epping: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "epping"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Epping Melbourne"
   - "commute from Epping to city"
   - "Epping train station"
+tags:
+  - "epping"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Epping — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Epping. Let us cut through the fluff.
 
 Check out our full [Epping suburb guide](/epping/) for the complete picture.
 

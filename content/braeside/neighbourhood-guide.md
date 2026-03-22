@@ -4,13 +4,18 @@ description: "The insider's guide to Braeside's different pockets, streets, and 
 date: 2026-03-21
 suburb: "braeside"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Braeside neighbourhood guide"
   - "best streets in Braeside"
   - "Braeside areas"
   - "Braeside pockets Melbourne"
+tags:
+  - "braeside"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Braeside isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

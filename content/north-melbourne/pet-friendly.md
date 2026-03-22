@@ -4,13 +4,19 @@ description: "Raising a dog in North Melbourne? Off-leash parks, pet-friendly ca
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "dog friendly North Melbourne"
   - "off leash park North Melbourne"
   - "pet friendly cafes North Melbourne"
   - "walking dog North Melbourne"
+tags:
+  - "north-melbourne"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +34,7 @@ North Melbourne has dedicated off-leash areas where your dog can actually run. T
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/north-melbourne/best-cafes/)
 
 Multiple cafes in North Melbourne welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from North Melbourne, including emergency afte
 ---
 
 **More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne Things to Do](/north-melbourne/things-to-do/) · [North Melbourne for Families](/north-melbourne/north-melbourne-for-families/)
+
+---
+
+## Explore More of North Melbourne
+
+- [North Melbourne History](/north-melbourne/history/)
+- [North Melbourne Rent Guide](/north-melbourne/rent-guide/)
+- [North Melbourne Things To Do](/north-melbourne/things-to-do/)
+- [North Melbourne Cost of Living](/north-melbourne/cost-of-living/)
+- [North Melbourne Neighbourhood Guide](/north-melbourne/neighbourhood-guide/)
+- [North Melbourne Transport Guide](/north-melbourne/transport-guide/)
+- [North Melbourne Best Cafes](/north-melbourne/best-cafes/)
+- [North Melbourne Best Restaurants](/north-melbourne/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

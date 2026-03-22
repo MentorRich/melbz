@@ -4,15 +4,22 @@ description: "Public transport in Braybrook: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "braybrook"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Braybrook Melbourne"
   - "commute from Braybrook to city"
   - "Braybrook train station"
+tags:
+  - "braybrook"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Braybrook — what works, what's annoying, and how long things actually take.
+Two words define transport in Braybrook: car-first. Everything else is detail.
 
 Check out our full [Braybrook suburb guide](/braybrook/) for the complete picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Wantirna South? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Wantirna South retirees Melbourne"
   - "retiring in Wantirna South"
   - "quiet suburbs Melbourne"
+tags:
+  - "wantirna-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Wantirna South? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

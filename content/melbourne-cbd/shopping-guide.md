@@ -1,16 +1,16 @@
 ---
 title: "Shopping in Melbourne CBD 2026: The Ultimate Guide"
-cover_image: "/images/melbourne-cbd/shopping-guide.jpg"
-date: 2026-03-16
-author: zara
-author_image: "/images/authors/tara.jpg"
-tags: ["melbourne-cbd", "shopping", "fashion"]
-categories: ["lifestyle"]
-description: "Shopping in Melbourne CBD 2026: The Ultimate Guide"
+cover_image: "/images/shared/city-architecture.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Zara Khan"
+tags: ["melbourne", "melbourne-cbd", "shopping", "fashion"]
+description: "Melbourne CBD shopping guide for 2026. Bourke Street Mall chains, Collins Street luxury, Block Arcade boutiques and independent laneway fashion on Flinders Lane."
 ---
 
 **Updated 16 March 2026 | Zara Khan reporting**
-
 
 
 Look, Melbourne CBD shopping isn't what it was five years ag..."
@@ -69,7 +69,7 @@ Emporium connects directly to Myer via the upper-level walkway, which means you 
 
 Degraves Street is a coffee street. Let's be honest about that. The laneways between Flinders Lane and Collins Street deliver Melbourne's most iconic caffeine experience and the shopping is secondary. But secondary doesn't mean bad.
 
-You'll find a handful of small fashion boutiques — mostly vintage and pre-loved — tucked between the cafes. **Retro Star Vintage** near the Flinders Lane end is worth a look if you're after genuine vintage without the Fitzroy price markup. A good denim jacket will run you $60–$90, which is fair. The jewellers along Degraves have been there for decades and still do proper custom work — not the "personalised" mass-produced stuff you get at the Emporium chain stores.
+You'll find a handful of small fashion boutiques — mostly vintage and pre-loved — tucked between the [cafes](/melbourne-cbd/best-cafes/). **Retro Star Vintage** near the Flinders Lane end is worth a look if you're after genuine vintage without the Fitzroy price markup. A good denim jacket will run you $60–$90, which is fair. The jewellers along Degraves have been there for decades and still do proper custom work — not the "personalised" mass-produced stuff you get at the Emporium chain stores.
 
 The real Degraves play is the food-to-go circuit: grab a croissant from Rustica, a coffee from Degraves Espresso, and browse the vintage racks between bites. That's a CBD morning done right.
 
@@ -96,7 +96,7 @@ Chapel Street is the longest shopping strip in Melbourne and in 2026, it's still
 **What's doing well:**
 - **Zimmermann** keeps expanding — their Prahran flagship is enormous and still packed on weekends. If you want Australian resort wear at top-tier prices, this is your temple.
 - **TSB (The Saturday Shop)** — vintage and curated secondhand, better organised than most op shops, with staff who actually know what they're holding.
-- **Chapel Street Bazaar** — the collective vintage market that survived COVID, the rent hikes, and the apathy. Open weekends, $15–$40 per piece, and you will find something you didn't know you needed.
+- **Chapel Street Bazaar** — the collective vintage market that survived COVID, the [rent](/melbourne-cbd/cost-of-living/) hikes, and the apathy. Open weekends, $15–$40 per piece, and you will find something you didn't know you needed.
 
 **What's struggling:** The mid-range chain stores between Greville Street and Williams Road. Portmans, Witchery, and the like are leaning heavily into online integration (scan a QR code, order online, pick up here) because the physical foot traffic in that stretch just doesn't support standalone stores anymore.
 
@@ -127,7 +127,7 @@ Every shopping guide pretends everything is worth visiting. That's dishonest and
 **High Street, Armadale** — This is a great shopping strip, full stop. But it's firmly in the "luxury bridal and $500 dresses" category. Unless that's your lane, it's not where you should be spending a Saturday.
 
 
-## The Practical Stuff: Hours, Transport, and Budget
+## The Practical Stuff: Hours, [Transport](/melbourne-cbd/transport-guide/), and Budget
 
 **CBD shopping hours (2026):**
 - Monday–Wednesday: 10am–6pm
@@ -167,38 +167,22 @@ That's the landscape. Plan accordingly.
 
 *This guide is part of our [Melbourne CBD guide series](/melbourne-cbd) — check the neighbourhood hub for every suburb, venue, and vibe score in the city.*
 
-### Featured Venues
+---
 
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+## Explore More of Melbourne CBD
 
-### Key Highlights
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Cocktails](/melbourne-cbd/cocktails/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD Weekend Guide V2](/melbourne-cbd/weekend-guide-v2/)
 
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

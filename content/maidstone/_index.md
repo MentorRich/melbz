@@ -1,16 +1,16 @@
 ---
-title: "Maidstone Melbourne — Everything You Need to Know"
+title: "Maidstone Melbourne — what you need"
 description: "The complete guide to Maidstone. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "maidstone"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Maidstone Melbourne"
   - "what is Maidstone like"
   - "maidstone suburb"
   - "living in Maidstone"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet residential streets near the Maribyrnong River. Still affordable, increasing interest.

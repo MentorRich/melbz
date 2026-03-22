@@ -4,12 +4,16 @@ description: "Considering retirement in Essendon West? Quiet streets, healthcare
 date: 2026-03-21
 suburb: "essendon-west"
 article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Essendon West retirees Melbourne"
   - "retiring in Essendon West"
   - "quiet suburbs Melbourne"
+tags:
+  - "essendon-west"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Essendon West? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

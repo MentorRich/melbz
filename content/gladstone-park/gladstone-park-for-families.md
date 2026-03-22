@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Gladstone Park? Parks, schools, safety
 date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Gladstone Park good for families"
   - "Gladstone Park family friendly"
   - "raising kids in Gladstone Park"
+tags:
+  - "gladstone-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Gladstone Park with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

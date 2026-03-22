@@ -4,12 +4,16 @@ description: "Considering retirement in Clarinda? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "clarinda"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Clarinda retirees Melbourne"
   - "retiring in Clarinda"
   - "quiet suburbs Melbourne"
+tags:
+  - "clarinda"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Clarinda? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

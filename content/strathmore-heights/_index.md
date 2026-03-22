@@ -1,16 +1,16 @@
 ---
-title: "Strathmore Heights Melbourne — Everything You Need to Know"
+title: "Strathmore Heights Melbourne — what you need"
 description: "The complete guide to Strathmore Heights. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "strathmore-heights"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Strathmore Heights Melbourne"
   - "what is Strathmore Heights like"
   - "strathmore-heights suburb"
   - "living in Strathmore Heights"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small extension of Strathmore near Airport West. Residential only.

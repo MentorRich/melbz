@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Park Orchards? Parks, schools, safety,
 date: 2026-03-21
 suburb: "park-orchards"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Park Orchards good for families"
   - "Park Orchards family friendly"
   - "raising kids in Park Orchards"
+tags:
+  - "park-orchards"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Park Orchards with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

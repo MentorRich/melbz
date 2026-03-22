@@ -4,13 +4,20 @@ description: "Where to find the best coffee and cafes in Glen Iris. Local picks,
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "best-of"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "best cafes Glen Iris"
   - "coffee Glen Iris Melbourne"
   - "cafes near Glen Iris"
   - "brunch Glen Iris"
+tags:
+  - "glen-iris"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
@@ -18,7 +25,7 @@ keywords:
 
 Glen Iris takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
 
-The cafe culture here reflects the neighbourhood. Gardiner's Creek trail, family homes, and a leafy pocket between Camberwell and Malvern.
+The cafe culture here reflects the neighbourhood. Gardiner's Creek trail, family homes, and a leafy pocket between [Camberwell](/camberwell/) and Malvern.
 
 ## What Makes a Good Cafe Here
 
@@ -59,3 +66,23 @@ Glen Iris's cafe scene is solid and genuine. You won't struggle to find good cof
 ---
 
 **More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris Cost of Living](/glen-iris/cost-of-living/) · [Glen Iris Neighbourhood Guide](/glen-iris/neighbourhood-guide/)
+
+---
+
+## Explore More of Glen Iris
+
+- [Glen Iris History](/glen-iris/history/)
+- [Glen Iris Rent Guide](/glen-iris/rent-guide/)
+- [Glen Iris Glen Iris For Retirees](/glen-iris/glen-iris-for-retirees/)
+- [Glen Iris Things To Do](/glen-iris/things-to-do/)
+- [Glen Iris Cost of Living](/glen-iris/cost-of-living/)
+- [Glen Iris Young Professionals Guide](/glen-iris/young-professionals/)
+- [Glen Iris Transport Guide](/glen-iris/transport-guide/)
+- [Glen Iris Best Restaurants](/glen-iris/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

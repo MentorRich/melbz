@@ -4,19 +4,24 @@ description: "The spots in Cheltenham that don't make the top 10 lists but local
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "local-guide"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "hidden gems Cheltenham"
   - "secret spots Cheltenham"
   - "local tips Cheltenham"
   - "off beaten path Cheltenham Melbourne"
+tags:
+  - "cheltenham"
+  - "hidden-gems"
+  - "local-tips"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Why Cheltenham's Best Bits Are Hidden
 
-Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But Cheltenham's real character lives in the places most visitors never find.
+Every Melbourne suburb has a public face — the main strip, the popular [cafes](/cheltenham/best-cafes/), the spots Google tells you about. But Cheltenham's real character lives in the places most visitors never find.
 
 These aren't "hidden" because someone's keeping secrets. They're hidden because they don't advertise, they don't have social media strategies, and they rely entirely on word of mouth and repeat customers.
 
@@ -62,4 +67,24 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham History](/cheltenham/history/) · [Cheltenham Living Guide](/cheltenham/living-in-cheltenham/)
+**More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham History](/cheltenham/[history](/cheltenham/history/)/) · [Cheltenham Living Guide](/cheltenham/living-in-cheltenham/)
+
+---
+
+## Explore More of Cheltenham
+
+- [Cheltenham History](/cheltenham/history/)
+- [Cheltenham Rent Guide](/cheltenham/rent-guide/)
+- [Cheltenham Things To Do](/cheltenham/things-to-do/)
+- [Cheltenham Cost of Living](/cheltenham/cost-of-living/)
+- [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+- [Cheltenham Living In Cheltenham](/cheltenham/living-in-cheltenham/)
+- [Cheltenham Transport Guide](/cheltenham/transport-guide/)
+- [Cheltenham Best Cafes](/cheltenham/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

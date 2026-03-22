@@ -1,17 +1,14 @@
 ---
 title: "Best Pubs in Coburg 2026: Sydney Road's Drinking Institutions"
-cover_image: "/images/coburg/best-pubs.jpg"
----
-
+description: "The best pubs in Coburg for 2026 — six verified neighbourhood pubs from the Post Office Hotel to the Cornish Arms. Cold beer, honest food."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Thompson"
+cover_image: "/images/shared/pub-bar.jpg"
+cover_image_alt: "Interior of the Post Office Hotel pub on Sydney Road Coburg"
 suburb: "coburg"
-vertical: "nightlife"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "The best pubs in Coburg for 2026 — 6 verified neighbourhood pubs from the Post Office Hotel to the Cornish Arms. Cold beer, honest food, no pretension."
-tags: ["coburg"]
-categories: ["general"]
+tags: ["coburg", "pubs", "nightlife", "bars"]
+---
 # Best Pubs in Coburg 2026: Sydney Road's Drinking Institutions
 
 Coburg doesn't do gastropubs. It doesn't do craft-beer-temples-with-a-curator. It doesn't do venues where the bartender has a PhD in fermentation and the bar snacks come with a tasting note card. What Coburg does is proper neighbourhood pubs — the kind where the beer is cold, the parma is good, and the bartender will remember your name by your third visit.
@@ -20,7 +17,7 @@ This matters more than people think. In an era where Melbourne's pub scene is in
 
 Here are the six best pubs in Coburg, ranked by someone who actually drinks at pubs.
 
-**Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
+**Last updated: March 2026**
 
 
 ## 1. Post Office Hotel
@@ -29,7 +26,7 @@ Here are the six best pubs in Coburg, ranked by someone who actually drinks at p
 
 The Post Office Hotel on the corner of Bell and Sydney Roads is, without question, the beating heart of Coburg's pub scene. It's been a pub in one form or another for over a century, and the current operation strikes a balance that's harder than it looks: traditional enough to feel like a proper pub, modern enough to not feel stuck in 1987.
 
-The front bar is the real deal — pool table, TAB, a TV showing whatever sport the publican deems important. The beer selection goes beyond the VB-and-XXXX-Gold baseline: you'll find craft taps from Victorian breweries (expect Mountain Goat, Stomping Ground, and rotating specials) alongside the classics. The wine list is decent for a pub. The food does pub classics well: the chicken parma is thick, the schnitty is crispy, and the burgers are properly made with good buns.
+The front bar is the real deal — pool table, TAB, a TV showing whatever sport the publican deems important. The beer selection goes beyond the VB-and-X-Gold baseline: you'll find craft taps from Victorian breweries (expect Mountain Goat, Stomping Ground, and rotating specials) alongside the classics. The wine list is decent for a pub. The food does pub classics well: the chicken parma is thick, the schnitty is crispy, and the burgers are properly made with good buns.
 
 But it's the atmosphere that sells it. The Post Office feels like a place that belongs to its community. On a Friday night, you'll see a mix of Merri-Bek council workers, young families having an early dinner, Coburg regulars at the bar, and the occasional Brunswick escapee who wandered north looking for somewhere quieter. Everyone fits.
 
@@ -122,18 +119,17 @@ Coburg's pubs are the real deal — honest, community-focused, and priced for ac
 
 If you want the polished gastropub experience, head to Brunswick. If you want a neighbourhood pub where you can sit at the bar, drink a cold beer, and talk to someone without shouting over a DJ — Coburg's got you.
 
-**Your Coburg Vibe Score this week: 72/100** — Pubs that serve the community, not the algorithm.
+## FAQ
 
+**What's the best pub in Coburg?**
+The Post Office Hotel is the standout — over a century of history, good craft taps, reliable food, and Tuesday trivia.
 
-*Know a pub we missed? Let us know.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
+**Does Coburg have beer gardens?**
+The Cornish Arms has the best beer garden in the suburb — spacious, leafy, and perfect for summer Saturday afternoons.
 
-## Related Articles
+**Are Coburg pub prices cheaper than Brunswick?**
+Yes. Schooners run $8-$10 vs $10-$14 in Brunswick. Pub parmas are $18-$22 vs $22-$28.
 
-- [/brunswick/](/brunswick/)
-- [/best-pubs-melbourne/](/best-pubs-melbourne/)
-- [/nightlife/](/nightlife/)
-- [/coburg/](/coburg/)
-- [/coburg/hub](/coburg/hub)
+---
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Coburg:** [Coburg Best Bars](/coburg/best-bars/) · [Coburg Nightlife Guide](/coburg/nightlife-guide/) · [Coburg Suburb Guide](/coburg/)

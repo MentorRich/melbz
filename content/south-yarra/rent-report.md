@@ -1,16 +1,16 @@
 ---
-title: "Rent Prices in South Yarra 2026: Chapel Street Premium"
+title: "South Yarra Rent Report 2026: Chapel Street Premium"
+description: "Current rent prices in South Yarra 2026. Median rents by dwelling type, salary requirements, suburb comparisons with Prahran and Richmond."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 cover_image: "/images/south-yarra/rent-report.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["south-yarra", "rent", "property"]
-categories: ["property"]
-description: "Rent Prices in South Yarra 2026: Chapel Street Premium."
+cover_image_alt: "South Yarra Melbourne apartments rent"
+suburb: "south-yarra"
+tags: ["melbourne", "south-yarra", "rent", "property"]
 ---
 
 **Updated 16 March 2026 | Marcus Cole reporting**
-
 
 
 South Yarra has always been Melbourne's most aspiratio..."
@@ -143,12 +143,17 @@ The Chapel Street premium is real. Whether it's worth it depends entirely on you
 
 *Marcus Cole is the Property Editor at MELBZ. He has covered Melbourne's rental and property markets for over a decade. Have data or a tip? [Contact the newsroom.](/about)*
 
-## Related Articles
+## FAQ
 
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/south-yarra/](/south-yarra/)
+**What is the average rent in South Yarra?**
+Median one-bedroom apartment rent is around $450/week. Two-bedroom apartments sit around $620/week. Houses average $850/week.
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**What salary do I need to rent in South Yarra?**
+For a one-bedroom apartment ($450/week), the 30% rule requires $78,000/year. A two-bedroom needs household income above $107,000.
+
+**Is South Yarra cheaper than Toorak?**
+Significantly. Toorak house rents hit $1,300/week median — nearly double South Yarra's. Apartments are more comparable between the two suburbs.
+
+---
+
+**More South Yarra:** [Cost of Living](/south-yarra/cost-of-living/) | [Property Market](/south-yarra/property-market/) | [Suburb Guide](/south-yarra/)

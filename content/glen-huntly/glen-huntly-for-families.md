@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Glen Huntly? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "glen-huntly"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Glen Huntly good for families"
   - "Glen Huntly family friendly"
   - "raising kids in Glen Huntly"
+tags:
+  - "glen-huntly"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Glen Huntly with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

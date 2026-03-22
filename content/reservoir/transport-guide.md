@@ -4,68 +4,95 @@ description: "Public transport in Reservoir: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Reservoir Melbourne"
   - "commute from Reservoir to city"
   - "Reservoir train station"
+tags:
+  - "reservoir"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Reservoir — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Reservoir, you need to know what the daily commute actually looks like. Reservoir sits 14km north of the Melbourne CBD, and transport options here are decent — anchored by a reliable train line, supplemented by buses, and practical for cycling if you are up for it.
 
 Check out our full [Reservoir suburb guide](/reservoir/) for the complete picture.
 
 ## Getting Around Reservoir — The Quick Version
 
-Public transport in Reservoir is good. You can get to the city in roughly 20 to 40 minutes during peak hours. A car is useful but not essential for most daily needs.
+Reservoir station is on the Mernda (South Morang) line, and that is your main link to the city. Trains run every 6 to 10 minutes during morning and evening peak, with the trip to Melbourne Central taking about 25 to 30 minutes. Buses connect residential streets to the station and to neighbouring suburbs. A car is useful but not essential for most daily needs.
 
 ## Train Access
 
-Reservoir has convenient train station access.
+**Reservoir station** sits on the Mernda line (formerly the South Morang line) and is the suburb's primary public transport asset. The station is located at the western end of Broadway, making it easy to combine a train trip with a stop at the shops.
 
-Services run regularly during peak hours and taper off in the evenings. Weekend services are less frequent but still usable for most plans.
+**To the CBD:** Reservoir to Melbourne Central takes approximately 25 minutes during peak. Trains run every 6 to 10 minutes during peak hours and every 15 to 20 minutes off-peak. Weekend services are less frequent but still regular enough for most plans.
 
-Getting to the city by train is Reservoir's strongest PT link. During morning peak, trains come frequently enough that you don't really check the timetable — you just show up and one arrives.
+**Night Network:** On Friday and Saturday nights, the Mernda line runs hourly all-night services, so you can get home from the city without relying on rideshares.
+
+**Nearby stations:** Ruthven station (one stop north) and Regent station (one stop south towards Preston) are also accessible from parts of Reservoir, depending on where you live.
 
 ## Tram Access
 
-Reservoir doesn't have direct tram access, which is typical for suburbs at this distance from the city. You'll rely on train and bus connections instead.
+Reservoir does not have direct tram access, which is standard for suburbs at this distance from the city. However, the route 11 tram runs along Plenty Road through Preston and is accessible by bus or a short drive from the eastern side of Reservoir. Route 86 along Plenty Road in Bundoora is another option.
 
-If tram access is important to you, the nearest tram routes run through [neighbouring inner suburbs] — a short drive or bus ride away.
-
+For regular tram use, you will be relying on a bus or bike connection to reach the nearest tram stop.
 
 ## Bus Routes
 
-Buses in Reservoir serve as connectors — linking residential streets to train stations, shopping centres, and neighbouring suburbs that aren't directly on a train line.
+Buses in Reservoir fill the gaps between the train line and the residential streets. Key routes include:
 
-Bus routes run along the main roads and connect to key transport hubs.
+- **Bus 552** — Runs along Broadway and connects to Northland Shopping Centre and surrounding suburbs
+- **Bus 555/556** — Cross-suburban routes linking Reservoir to La Trobe University, Bundoora, and Heidelberg
+- **Bus 527** — Connects to the western side of Reservoir and through to Coburg
 
-Frequency varies. Main routes during peak hours are reasonable. Off-peak and weekends, plan ahead or have a backup plan.
+Frequency varies. Main routes run every 15 to 20 minutes during peak. Off-peak and weekends, check the PTV app and have a backup plan.
 
 ## Commute to the City — How Long Does It Actually Take?
 
-Realistically, expect 20 to 40 minutes door-to-door during peak hours, depending on which part of Reservoir you live in and where in the city you're headed.
+Realistically, here is what to expect during peak hours:
 
-That includes walking to the stop, waiting, travelling, and walking at the other end. On a good day it's faster. On a bad day (signal faults, track works), add 20 minutes and a healthy dose of frustration.
+- **Train from Reservoir station to Melbourne Central:** 25 to 30 minutes
+- **Train from Reservoir station to Flinders Street:** 28 to 33 minutes
+- **Driving to CBD:** 30 to 50 minutes depending on traffic (High Street and Plenty Road are the main routes, both get congested)
+- **Cycling to CBD:** About 45 to 55 minutes via the bike paths through Preston and Northcote
 
-**Train:** The most reliable option for city-bound commuting.
-**Driving:** Depends entirely on traffic. Can be faster off-peak, absolute pain during peak.
-**Cycling:** Viable if you're within a reasonable distance and the route doesn't involve a death wish at major intersections.
+On a good day, the train is faster than driving. On a bad day (signal faults, track works), add 15 to 20 minutes to any of the above and bring your patience.
 
 ## Driving and Parking
 
-Parking is generally easier here than inner-city suburbs. Most residential areas have street parking, and the shopping centres offer off-street options. It gets tighter near the station and main shops.
+Parking is significantly easier in Reservoir than inner-city suburbs. Most houses have off-street parking or driveways. Street parking is unrestricted on most residential streets. It gets tighter near Reservoir station and the Broadway shops during business hours, but nothing compared to suburbs closer to the city.
+
+**Main road access:** High Street runs north-south and connects to the Eastern Freeway and citylink. Plenty Road runs north-east toward Bundoora and La Trobe University. Broadway runs east-west through the commercial centre.
 
 ## Walking and Cycling
 
-Reservoir is reasonably walkable for daily needs, with footpaths along main roads and a few dedicated cycling paths.
+Reservoir is flat and reasonably walkable for daily needs. The Broadway strip has footpaths on both sides, and most residential streets have adequate paths. The walk from Reservoir station along Broadway to Edwardes Lake takes about 15 minutes.
 
-Cycling infrastructure exists on main routes and through some parks. It's feasible for keen cyclists but not as developed as inner suburbs.
+Cycling is practical for committed riders. You can reach Preston and Thornbury in 10 to 15 minutes by bike, and the Merri Creek trail is accessible from the western side of the suburb via Coburg. Dedicated cycling lanes are limited, but the flat terrain and wide streets help.
 
 ## PT Verdict — Is Reservoir Well Connected?
 
-Reservoir has solid connections — not inner-city level, but good enough that PT is a realistic daily option. A car is helpful but not essential.
+Reservoir scores well for a suburb at its distance from the CBD. The Mernda line is reliable and frequent, buses cover the gaps, and Night Network services mean weekend nights are sorted. A car adds convenience for cross-suburban trips, but it is not essential for daily life.
+
+## FAQ
+
+**How long does it take to get from Reservoir to the CBD?**
+By train, about 25 to 30 minutes to Melbourne Central during peak. By car, 30 to 50 minutes depending on traffic.
+
+**What train line is Reservoir on?**
+Reservoir is on the Mernda line (formerly South Morang), which runs through Preston, Thornbury, and Clifton Hill before reaching the City Loop.
+
+**Does Reservoir have tram access?**
+Not directly. The nearest tram routes (11 and 86) run along Plenty Road in Preston and Bundoora, accessible by bus or a short drive from eastern Reservoir.
+
+**Is there night public transport in Reservoir?**
+Yes. Night Network services run hourly on Friday and Saturday nights on the Mernda line, with the last regular service around midnight on weekdays.
 
 ---
 

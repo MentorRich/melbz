@@ -4,15 +4,22 @@ description: "Public transport in Hadfield: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "hadfield"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Hadfield Melbourne"
   - "commute from Hadfield to city"
   - "Hadfield train station"
+tags:
+  - "hadfield"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Hadfield — what works, what's annoying, and how long things actually take.
+Living in Hadfield means adapting to its transport quirks. Every suburb has them - here are the ones for Hadfield.
 
 Check out our full [Hadfield suburb guide](/hadfield/) for the complete picture.
 

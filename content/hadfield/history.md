@@ -4,16 +4,22 @@ description: "The story of Hadfield: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "hadfield"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Hadfield Melbourne history"
   - "how has Hadfield changed"
   - "Hadfield gentrification"
   - "Hadfield then and now"
+tags:
+  - "hadfield"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Hadfield's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Hadfield, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Hadfield suburb guide](/hadfield/) for the current picture.
 

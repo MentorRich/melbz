@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Campbellfield? Parks, schools, safety,
 date: 2026-03-21
 suburb: "campbellfield"
 article_type: "families"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "is Campbellfield good for families"
   - "Campbellfield family friendly"
   - "raising kids in Campbellfield"
+tags:
+  - "campbellfield"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Campbellfield with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

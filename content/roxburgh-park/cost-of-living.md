@@ -4,16 +4,22 @@ description: "How expensive is Roxburgh Park? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Roxburgh Park Melbourne"
   - "how expensive is Roxburgh Park"
   - "is Roxburgh Park expensive to live in"
   - "Roxburgh Park rent"
+tags:
+  - "roxburgh-park"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Roxburgh Park — no sugar-coating, no made-up figures.
+Let us talk money in Roxburgh Park. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Roxburgh Park suburb guide](/roxburgh-park/) for the bigger picture.
 

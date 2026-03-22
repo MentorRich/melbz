@@ -3,14 +3,13 @@ title: "Cost of Living in Elwood 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "elwood"
 suburbs: ["elwood"]
 vertical: property
 tags: ["elwood", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Elwood in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/3798181/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Elwood Melbourne cost of living"
 vibe_score: 81
 ---
@@ -36,7 +35,7 @@ This is where most of your money goes. Elwood's rental market in 2026 looks like
 |---------|-------------|-------|
 | Rent (1-bed) | $1728 | Biggest line item by far |
 | Groceries | $320-$420 | Depends on Coles vs local market habits |
-| Transport (Myki) | $160-$200 | Zone 1-2 monthly cap |
+| [Transport](/elwood/transport-guide/) (Myki) | $160-$200 | Zone 1-2 monthly cap |
 | Utilities (1-bed) | $180-$240 | Gas + electricity + water |
 | Internet | $70-$90 | NBN, decent speed |
 | Coffee habit | $80-$120 | 1-2 per day at local prices |
@@ -50,7 +49,7 @@ This is where most of your money goes. Elwood's rental market in 2026 looks like
 
 **Eating out:** The average meal out in Elwood runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/elwood/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Elwood, you're on the Zone 1/2 border, so check the exact station — it can make a $5/day difference. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Elwood, you're on the Zone 1/2 border, so check the exact station — it can make a $5/day difference. An annual Myki pass is the smart move if you [commute](/elwood/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,24 @@ For more context on how this compares, check our [Living in Elwood guide](/elwoo
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Elwood
+
+- [Elwood History](/elwood/history/)
+- [Elwood Rent Guide](/elwood/rent-guide/)
+- [Elwood Things To Do](/elwood/things-to-do/)
+- [Elwood Young Professionals Guide](/elwood/young-professionals/)
+- [Elwood Nightlife Guide](/elwood/nightlife-guide/)
+- [Elwood Transport Guide](/elwood/transport-guide/)
+- [Elwood Best Cafes](/elwood/best-cafes/)
+- [Elwood Best Restaurants](/elwood/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

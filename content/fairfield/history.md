@@ -4,16 +4,22 @@ description: "The story of Fairfield: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "fairfield"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Fairfield Melbourne history"
   - "how has Fairfield changed"
   - "Fairfield gentrification"
   - "Fairfield then and now"
+tags:
+  - "fairfield"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Fairfield's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Fairfield from a railway village to a diverse community. Understanding that arc explains a lot.
 
 See our full [Fairfield suburb guide](/fairfield/) for the current picture.
 

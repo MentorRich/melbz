@@ -1,12 +1,13 @@
 ---
 title: "Cost of Living in Brunswick East 2026: The Real Numbers"
 cover_image: "/images/brunswick-east/cost-of-living.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
+date: 2026-03-22
+author: "Marcus Cole"
+lastmod: 2026-03-22
+cover_image_alt: "Lygon Street Brunswick East shopping strip"
+suburb: "brunswick-east"
 tags: ["brunswick-east", "cost-of-living", "property"]
-categories: ["property"]
-description: "Cost of Living in Brunswick East 2026: The Real Numbers"
+description: "Cost of living in Brunswick East 2026 — real rent, grocery, and dining costs on Lygon Street. Monthly budget breakdowns for the 3057 postcode."
 ---
 
 Brunswick East sits in that sweet spot between "I can afford this" and "I can still walk to the city..."
@@ -18,14 +19,14 @@ But convenience costs money. And in 2026, it costs more than it did last year.
 
 **Updated 16 March 2026 | Marcus Cole reporting**
 
-I pulled apart the real costs of living in Brunswick East — not the aspirational "you could live here on $50K" version, but the actual numbers you'd see on your bank statement if you moved in tomorrow. Every price in this article is current as of mid-March 2026. I walked the streets, checked the listings, and drank the coffee (at my own expense, obviously).
+I pulled apart the real costs of living in Brunswick East — not the aspirational "you could live here on $50K" version, but the actual numbers you'd see on your bank statement if you moved in tomorrow. Every price is current as of mid-March 2026. I walked the streets, checked the listings, and drank the coffee (at my own expense, obviously).
 
 Here's what it actually costs to live in Brunswick East.
 
 
 ## Rent: The Big One
 
-Let's not dance around it. Rent is the number that decides whether you're actually living in Brunswick East or just fantasising about it.
+Let's not dance around it. Rent is the number that decides If you'''re actually living in Brunswick East or just fantasising about it.
 
 **Median rent as of March 2026:**
 
@@ -256,10 +257,9 @@ The gap between what Brunswick East costs and what it costs three stops further 
 - Culture: 8/10
 ## Related Articles
 
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/property/](/property/)
+- [Brunswick](/brunswick/)
+- [Fitzroy](/fitzroy/)
+- [Carlton](/carlton/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Property](/property/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

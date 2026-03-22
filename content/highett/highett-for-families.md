@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Highett? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "highett"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Highett good for families"
   - "Highett family friendly"
   - "raising kids in Highett"
+tags:
+  - "highett"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Highett with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

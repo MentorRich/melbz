@@ -4,12 +4,16 @@ description: "Considering retirement in Narre Warren North? Quiet streets, healt
 date: 2026-03-21
 suburb: "narre-warren-north"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Narre Warren North retirees Melbourne"
   - "retiring in Narre Warren North"
   - "quiet suburbs Melbourne"
+tags:
+  - "narre-warren-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Narre Warren North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

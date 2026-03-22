@@ -4,19 +4,25 @@ description: "The honest rental guide for Reservoir. What to expect, where to lo
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "housing"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "renting in Reservoir"
   - "Reservoir rental market"
   - "rent Reservoir Melbourne"
   - "apartments Reservoir"
+tags:
+  - "reservoir"
+  - "rent"
+  - "property"
+  - "cost-of-living"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Renting in Reservoir — The Real Story
 
-Looking to rent in Reservoir? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
+Looking to [rent](/reservoir/cost-of-living/) in Reservoir? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
 
 See our full [Reservoir Cost of Living](/reservoir/cost-of-living/) guide for the broader picture.
 
@@ -38,7 +44,7 @@ That said, Reservoir has a steady flow of rental stock. Properties come up regul
 
 ## How to Actually Get a Rental in Reservoir
 
-1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental history. Pre-fill the Ignite or 2Apply forms.
+1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental [history](/reservoir/history/). Pre-fill the Ignite or 2Apply forms.
 
 2. **Apply on the day of inspection** — Properties that sit for a week are rare. Same-day applications show you're serious.
 
@@ -69,3 +75,23 @@ The key is matching your budget to realistic expectations. A smaller, well-locat
 ---
 
 **More on Reservoir:** [Reservoir Suburb Guide](/reservoir/) · [Reservoir Cost of Living](/reservoir/cost-of-living/) · [Reservoir for Young Professionals](/reservoir/reservoir-for-young-professionals/)
+
+---
+
+## Explore More of Reservoir
+
+- [Reservoir History](/reservoir/history/)
+- [Reservoir Things To Do](/reservoir/things-to-do/)
+- [Reservoir Cost of Living](/reservoir/cost-of-living/)
+- [Reservoir Reservoir For Families](/reservoir/reservoir-for-families/)
+- [Reservoir Neighbourhood Guide](/reservoir/neighbourhood-guide/)
+- [Reservoir Transport Guide](/reservoir/transport-guide/)
+- [Reservoir Best Cafes](/reservoir/best-cafes/)
+- [Reservoir Best Restaurants](/reservoir/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Preston Suburb Guide](/preston/)
+- [Thornbury Suburb Guide](/thornbury/)
+- [Coburg Suburb Guide](/coburg/)
+- [Pascoe Vale Suburb Guide](/pascoe-vale/)

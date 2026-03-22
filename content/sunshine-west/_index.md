@@ -1,16 +1,16 @@
 ---
-title: "Sunshine West Melbourne — Everything You Need to Know"
+title: "Sunshine West Melbourne — what you need"
 description: "The complete guide to Sunshine West. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "sunshine-west"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Sunshine West Melbourne"
   - "what is Sunshine West like"
   - "sunshine-west suburb"
   - "living in Sunshine West"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Western Ring Road access, growing retail, and one of the west's most affordable pockets.

@@ -4,15 +4,22 @@ description: "Public transport in Laverton: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "laverton"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Laverton Melbourne"
   - "commute from Laverton to city"
   - "Laverton train station"
+tags:
+  - "laverton"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Laverton — what works, what's annoying, and how long things actually take.
+Laverton transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Laverton suburb guide](/laverton/) for the complete picture.
 

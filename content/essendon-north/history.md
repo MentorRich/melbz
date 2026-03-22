@@ -4,16 +4,22 @@ description: "The story of Essendon North: from its origins to today. How this M
 date: 2026-03-21
 suburb: "essendon-north"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Essendon North Melbourne history"
   - "how has Essendon North changed"
   - "Essendon North gentrification"
   - "Essendon North then and now"
+tags:
+  - "essendon-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Essendon North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Essendon North means understanding where it came from. The history explains the character.
 
 See our full [Essendon North suburb guide](/essendon-north/) for the current picture.
 

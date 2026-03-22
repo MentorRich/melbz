@@ -3,13 +3,13 @@ title: "Best Melbourne Suburbs for Young Professionals 2026"
 description: "Where should young professionals live in Melbourne? Balancing rent, social scene, commute, and lifestyle."
 date: 2026-03-21
 article_type: "trending"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "best suburbs young professionals melbourne"
   - "where to live melbourne 20s 30s"
   - "young professional suburbs melbourne"
   - "social suburbs melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Where should young professionals live in Melbourne? Balancing rent, social scene, commute, and lifestyle.

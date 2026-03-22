@@ -4,16 +4,22 @@ description: "The story of Berwick: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "berwick"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Berwick Melbourne history"
   - "how has Berwick changed"
   - "Berwick gentrification"
   - "Berwick then and now"
+tags:
+  - "berwick"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Berwick's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Berwick has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Berwick suburb guide](/berwick/) for the current picture.
 

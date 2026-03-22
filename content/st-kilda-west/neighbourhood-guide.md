@@ -4,13 +4,18 @@ description: "The insider's guide to St Kilda West's different pockets, streets,
 date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "St Kilda West neighbourhood guide"
   - "best streets in St Kilda West"
   - "St Kilda West areas"
   - "St Kilda West pockets Melbourne"
+tags:
+  - "st-kilda-west"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 St Kilda West isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

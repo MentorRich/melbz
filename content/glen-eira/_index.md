@@ -1,16 +1,16 @@
 ---
-title: "Glen Eira Melbourne — Everything You Need to Know"
+title: "Glen Eira Melbourne — what you need"
 description: "The complete guide to Glen Eira. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "glen-eira"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Glen Eira Melbourne"
   - "what is Glen Eira like"
   - "glen-eira suburb"
   - "living in Glen Eira"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Council area locality with parks and family-oriented residential streets.

@@ -4,13 +4,19 @@ description: "Is Balwyn safe to live in? The honest breakdown of safety, what to
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "safety"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Balwyn safe"
   - "Balwyn safety"
   - "Balwyn crime"
   - "is Balwyn dangerous Melbourne"
+tags:
+  - "balwyn"
+  - "safety"
+  - "crime"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -22,9 +28,9 @@ Read our full [Balwyn suburb guide](/balwyn/) for the complete picture.
 
 ## The Day-to-Day Experience
 
-Walking around Balwyn during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around Balwyn during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/balwyn/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/balwyn/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +54,7 @@ Crime statistics exist for every suburb, and Balwyn's numbers are unremarkable �
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/balwyn/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +74,23 @@ The lifestyle benefits of Balwyn — community, walkability, access — outweigh
 ---
 
 **More on Balwyn:** [Balwyn Suburb Guide](/balwyn/) · [Balwyn Living Guide](/balwyn/living-in-balwyn/) · [Balwyn for Families](/balwyn/balwyn-for-families/)
+
+---
+
+## Explore More of Balwyn
+
+- [Balwyn History](/balwyn/history/)
+- [Balwyn Rent Guide](/balwyn/rent-guide/)
+- [Balwyn Balwyn For Retirees](/balwyn/balwyn-for-retirees/)
+- [Balwyn Balwyn For Young Professionals](/balwyn/balwyn-for-young-professionals/)
+- [Balwyn Things To Do](/balwyn/things-to-do/)
+- [Balwyn Cost of Living](/balwyn/cost-of-living/)
+- [Balwyn Neighbourhood Guide](/balwyn/neighbourhood-guide/)
+- [Balwyn Transport Guide](/balwyn/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

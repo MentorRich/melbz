@@ -4,13 +4,18 @@ description: "The insider's guide to Croydon's different pockets, streets, and a
 date: 2026-03-21
 suburb: "croydon"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Croydon neighbourhood guide"
   - "best streets in Croydon"
   - "Croydon areas"
   - "Croydon pockets Melbourne"
+tags:
+  - "croydon"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Croydon isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

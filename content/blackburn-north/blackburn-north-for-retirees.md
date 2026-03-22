@@ -4,12 +4,16 @@ description: "Considering retirement in Blackburn North? Quiet streets, healthca
 date: 2026-03-21
 suburb: "blackburn-north"
 article_type: "retirees"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Blackburn North retirees Melbourne"
   - "retiring in Blackburn North"
   - "quiet suburbs Melbourne"
+tags:
+  - "blackburn-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Blackburn North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

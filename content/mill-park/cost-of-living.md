@@ -4,16 +4,22 @@ description: "How expensive is Mill Park? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "mill-park"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Mill Park Melbourne"
   - "how expensive is Mill Park"
   - "is Mill Park expensive to live in"
   - "Mill Park rent"
+tags:
+  - "mill-park"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Mill Park — no sugar-coating, no made-up figures.
+Mill Park sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Mill Park suburb guide](/mill-park/) for the bigger picture.
 

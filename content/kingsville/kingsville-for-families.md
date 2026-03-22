@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Kingsville? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "kingsville"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Kingsville good for families"
   - "Kingsville family friendly"
   - "raising kids in Kingsville"
+tags:
+  - "kingsville"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Kingsville with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

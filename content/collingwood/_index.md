@@ -1,97 +1,88 @@
 ---
-title: "Collingwood Melbourne — Everything You Need to Know"
-description: "The complete guide to Collingwood. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
-date: 2026-03-21
-suburb: "collingwood"
-article_type: "profile"
+title: "Collingwood Melbourne — Suburb Guide 2026"
+description: "Your honest guide to Collingwood. Smith Street dining, warehouse conversions, craft beer, transport, and what it's actually like to live 3km from Melbourne's CBD."
+date: 2026-03-22
+lastmod: 2026-03-22
 author: "Dave Wilson"
-author_image: "/images/authors/nina.jpg"
-keywords:
-  - "Collingwood Melbourne"
-  - "what is Collingwood like"
-  - "collingwood suburb"
-  - "living in Collingwood"
+cover_image: "/images/shared/cafe-street.jpg"
+cover_image_alt: "Collingwood Melbourne street scene"
+suburb: "collingwood"
+tags: ["melbourne", "collingwood", "suburb guide"]
 ---
 
-Warehouses turned breweries, Smith Street's restaurant strip, and Melbourne's edgiest nightlife.
+Warehouse conversions, Smith Street restaurants, craft breweries on Gipps Street, and a creative scene that still has genuine teeth. Collingwood sits about 3km east of Melbourne's CBD, tucked between Fitzroy, Abbotsford, and Clifton Hill, and it runs on its own logic.
 
-If you're thinking about living in Collingwood, visiting for the first time, or just trying to work out if this place is worth your Saturday afternoon — here's the honest rundown.
+If you're thinking about living here, visiting for a weekend, or just deciding whether this suburb deserves your Saturday afternoon — here's the unfiltered version.
 
 ## Where Is Collingwood?
 
-Collingwood sits in Melbourne's Inner North region. It's the kind of suburb where you can feel the neighbourhood's personality the minute you step off public transport. Getting to the city from here isn't a drama — you've got options depending on where exactly you are in the suburb.
+Collingwood is an inner-Melbourne suburb in the City of Yarra, postcode 3066, about 3km east of the CBD. It sits east of Fitzroy, south of Clifton Hill, and west of Abbotsford.
 
-The suburb borders Fitzroy, Abbotsford, Richmond. That matters because your nearby options for food, coffee, and weekend plans extend well beyond Collingwood's own postcode boundaries.
+Smith Street is the main artery, shared with Fitzroy — the border runs down the middle of the road. Johnston Street cuts east-west and connects to Hoddle Street. Wellington Street, Langridge Street, and Easey Street fill in the grid. Trams run along Smith Street (Route 86), and Collingwood station on the Hurstbridge/Mernda line sits at the suburb's eastern edge.
 
 ## What's Collingwood Actually Like?
 
-Warehouses turned breweries, Smith Street's restaurant strip, and Melbourne's edgiest nightlife.
+Former industrial warehouses turned into breweries, studios, and apartments. Smith Street's restaurant strip runs from Johnston Street north, lined with bars, cafes, and independent shops. Stomping Ground Brewery on Gipps Street anchors the craft beer scene with a beer hall that fills every weekend. Walk around on a Saturday morning and you'll see freelancers at corner cafes, young families at Proud Mary on Nelson Street, and tradies grabbing coffee. The suburb operates at its own pace.
 
-Every suburb has a specific energy. Collingwood has its own thing going on — it's not trying to be everywhere else. The streets have character, the locals know their spots, and there's a pace of life here that either suits you or doesn't.
+## Who Lives Here and What's the Housing Like?
 
-Walk around on a Saturday morning and you'll pick up the vibe pretty quickly. The cafes tell you a lot — are they packed with young couples or families with prams? That gives you a read on who lives here.
+Collingwood draws a younger, creative-leaning crowd. Renters outnumber owners. Share houses work for people in their twenties; couples and small families tend toward converted warehouses and newer apartments along Wellington Street and Easey Street. Long-time residents and public housing tenants share the suburb with a newer wave of professionals.
 
-## Who Lives in Collingwood?
+The housing stock reflects the industrial past — converted warehouses, Victorian terraces, apartment blocks. Families hunting for a backyard will need patience. Median rents sit slightly below Fitzroy for comparable properties. Check our [cost of living guide](/collingwood/cost-of-living/) for current numbers.
 
-Collingwood draws a particular crowd. The demographics lean towards the kind of people who value what this suburb specifically offers. You'll find a mix — and it's the mix that makes it work.
+## Getting Around
 
-The community here has its own institutions, its own rhythms, its own complaints about parking. Like every Melbourne suburb, it's evolved over the past couple of decades and the people who live here now aren't necessarily the same crowd from fifteen years ago.
+Tram Route 86 on Smith Street connects you to the CBD in about 20 minutes. Collingwood station on the Hurstbridge/Mernda line sits near the suburb's eastern border. Cycling works well — flat streets, improving bike lanes, and access to the Capital City Trail via the Yarra River paths. A car helps for weekend errands but daily life works without one.
 
-## Housing in Collingwood
+## Eating and Drinking
 
-The housing stock in Collingwood tells the story of how the suburb has evolved. You'll find a mix of older homes that have been here for decades alongside newer build quality — townhouses, apartments, and the occasional knockdown-rebuild that sticks out on the street.
-
-If you're renting, there's decent variety depending on your budget. Share houses exist for those starting out. Units and apartments work for professionals. Families will need to hunt a bit harder for standalone homes with a backyard, but they're out there.
-
-## Getting Around Collingwood
-
-Transport from Collingwood is solid enough to make it work without a car for most people, though having a car definitely helps for some errands and weekend plans.
-
-**Read the full breakdown:** [Collingwood Transport Guide](/collingwood/transport-guide/)
-
-Quick version: you can get to the city reasonably easy. The tram and train network serves this area, and cycling infrastructure has been improving steadily.
-
-## Eating and Drinking in Collingwood
-
-The food scene in Collingwood reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and a food scene that punches above its weight without needing to leave the suburb every time you want a decent meal.
-
-Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
+Smith Street between Johnston Street and Alexandra Parade is the main food corridor — Italian at Alimentari, craft beer at Stomping Ground on Gipps Street, coffee at Proud Mary on Nelson Street. Johnston Street adds Vietnamese and Thai heading toward Abbotsford. See our guides to [Collingwood's best cafes](/collingwood/best-cafes/), [best restaurants](/collingwood/best-restaurants/), and [best bars](/collingwood/best-bars/).
 
 ## Is Collingwood Right for You?
 
-**You'll love Collingwood if:**
-- You want a suburb with genuine character and community
-- You value proximity to Melbourne's best without paying absolute top dollar
-- You like having your local spots — the cafe you don't need to think about, the pub you default to
-- You appreciate a neighbourhood that's evolved naturally rather than been manufactured
+**You'll probably like it if:**
+- You want walkable access to good food, bars, and coffee without CBD prices
+- You prefer independent shops and restaurants over chains
+- You're comfortable with density and a bit of noise on the main strips
+- You value a suburb with genuine character over one that's been designed by committee
 
-**It might not be for you if:**
-- You need absolute silence and a massive backyard
-- Budget is extremely tight — some areas of Collingwood have crept up in cost
-- You want everything brand new and shiny
-- You're not comfortable with a suburb that has a strong identity you need to adapt to
+**It might not suit you if:**
+- You need a big backyard and quiet streets in every direction
+- Your budget is tight — rents have crept up significantly in the past five years
+- You want everything new and polished
+- You prefer driving everywhere — parking on Smith Street is a battle
 
-## Living Here — The Deep Dive
+## FAQ
 
-Want more detail? We've covered every angle:
+**Is Collingwood safe?** Generally yes, like most inner-Melbourne suburbs. Smith Street can get rowdy late on weekend nights, and the usual city-fringe awareness applies. The quieter residential streets east of Smith Street feel different from the main strip.
 
-- **[Living in Collingwood — The Honest Guide](/collingwood/living-in-collingwood/)** — Pros, cons, and the unfiltered truth
-- **[Is Collingwood Good for Families?](/collingwood/collingwood-for-families/)** — Schools, parks, safety, the works
-- **[Is Collingwood Good for Young Professionals?](/collingwood/collingwood-for-young-professionals/)** — Social scene, commute, renting
-- **[Is Collingwood Good for Retirees?](/collingwood/collingwood-for-retirees/)** — Quiet streets, healthcare, community
-- **[Cost of Living in Collingwood](/collingwood/cost-of-living/)** — Rent, daily costs, and how it compares
-- **[Getting Around Collingwood](/collingwood/transport-guide/)** — Trains, trams, bikes, driving
-- **[Collingwood Neighbourhood Guide](/collingwood/neighbourhood-guide/)** — Streets, pockets, and where to be
-- **[History of Collingwood](/collingwood/history/)** — How this suburb became what it is today
+**Does Collingwood have a train station?** Collingwood station exists on the Hurstbridge/Mernda line, but it sits at the suburb's eastern edge near Hoddle Street. Most of the suburb is better served by the Route 86 tram on Smith Street.
+
+**What council is Collingwood in?** City of Yarra. Same council as Fitzroy, Richmond, and Abbotsford.
+
+**Is Collingwood the same as Fitzroy?** No, though they share Smith Street — the border runs down the middle. Fitzroy is to the west, Collingwood to the east. The two suburbs have different characters despite the shared strip.
+
+## Our Verdict
+
+Collingwood works because it hasn't been smoothed out. The warehouse conversions gave it density without losing character. Smith Street gave it a food and bar scene that competes with anywhere in Melbourne. And the creative community that settled here over the past two decades gave it an identity that still holds, even as rents have risen. It's not the cheapest option in inner Melbourne, but for what you get — walkability, food, culture, proximity to the CBD — it earns its reputation.
+
+## Explore More
+
+- [Best Cafes in Collingwood](/collingwood/best-cafes/)
+- [Best Restaurants in Collingwood](/collingwood/best-restaurants/)
+- [Best Bars in Collingwood](/collingwood/best-bars/)
+- [Best Pubs in Collingwood](/collingwood/best-pubs/)
+- [Cost of Living in Collingwood](/collingwood/cost-of-living/)
+- [Getting Around Collingwood](/collingwood/transport-guide/)
+- [Collingwood Neighbourhood Guide](/collingwood/neighbourhood-guide/)
 
 ## Suburbs Near Collingwood
 
-- **[Fitzroy](/fitzroy/)** — Melbourne's creative soul — street art, live music, small bars, and Brunswick St
-- **[Abbotsford](/abbotsford/)** — Brewery district vibes with Victoria Street's Vietnamese food strip and Yarra Ri
-- **[Richmond](/richmond/)** — Bridge Road shopping, Victoria Street's Vietnamese food, and Swan Street's pub s
-- **[Clifton Hill](/clifton-hill/)** — A quiet pocket between Collingwood and Northcote with Queens Parade cafes and Me
-
+- [Fitzroy](/fitzroy/) — Brunswick Street, street art, live music, small bars
+- [Abbotsford](/abbotsford/) — Breweries, Victoria Street food, Yarra River trails
+- [Richmond](/richmond/) — Bridge Road shopping, Swan Street pubs, Victoria Street Vietnamese
+- [Clifton Hill](/clifton-hill/) — Queens Parade cafes, quieter residential streets
 
 ---
 
-*Got something to add about Collingwood? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+*Got something to add about Collingwood? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*

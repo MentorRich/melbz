@@ -4,15 +4,22 @@ description: "Public transport in Cheltenham: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Cheltenham Melbourne"
   - "commute from Cheltenham to city"
   - "Cheltenham train station"
+tags:
+  - "cheltenham"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Cheltenham — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Cheltenham, you need to know what the daily commute actually looks like.
 
 Check out our full [Cheltenham suburb guide](/cheltenham/) for the complete picture.
 

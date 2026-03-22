@@ -1,12 +1,13 @@
 ---
 title: "Late Night Food in Melbourne CBD 2026: After Midnight Guide"
-cover_image: "/images/melbourne-cbd/late-night-food-v2.jpg"
-date: 2026-03-16
-author: ethan
-author_image: "/images/authors/ethan.jpg"
-tags: ["melbourne-cbd", "late-night", "food"]
-categories: ["food"]
-description: "Late Night Food in Melbourne CBD 2026: After Midnight Guide"
+cover_image: "/images/shared/food-restaurants.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Ethan Park"
+tags: ["melbourne", "melbourne-cbd", "late-night", "food"]
+description: "Melbourne CBD late-night food after midnight in 2026. Chinatown dumpling houses open until 2am, kebab shops on Swanston Street and 24-hour ramen on Russell."
 ---
 
 It's 1:47am. You've just come out of a gig at the Forum or you've lost track of time at a lanewa..."
@@ -80,7 +81,7 @@ The croque madame ($18) is one of the best in the city at any hour, let alone at
 
 Saturday nights until 3am are the sweet spot. The place fills up with people who've been out but still have enough coordination to use a knife and fork. It's the anti-kebab, and sometimes that's exactly what the situation calls for.
 
-**Cross-link:** Southbank's Crown entertainment precinct has several late-night dining options if you're already heading that direction, but Bar Margaux is the better food for your dollar — save the Southbank options for when you're after the experience, not the meal.
+**Cross-link:** [Southbank](/southbank/)'s Crown entertainment precinct has several late-night dining options if you're already heading that direction, but Bar Margaux is the better food for your dollar — save the Southbank options for when you're after the experience, not the meal.
 
 
 ## 5. Ampère — The Bar That Happens to Feed You Properly
@@ -115,7 +116,7 @@ The Elizabeth Street location is well-placed for anyone stumbling out of the CBD
 
 ## Getting Home Safe
 
-A quick word on the logistics of late-night CBD eating. After midnight your public transport options narrow fast. Night Network buses run through the early hours on weekends, but they're slow and the routes are limited. Trams and trains stop around midnight on weekdays and push through to about 1:30am on Friday and Saturday nights.
+A quick word on the logistics of late-night CBD eating. After midnight your public [transport](/melbourne-cbd/transport-guide/) options narrow fast. Night Network buses run through the early hours on weekends, but they're slow and the routes are limited. Trams and trains stop around midnight on weekdays and push through to about 1:30am on Friday and Saturday nights.
 
 The practical move is usually Uber or a rideshare from a well-lit pickup point. Elizabeth Street near the McDonald's (Flinders Street end) and the corner of Swanston and Bourke are the reliable pickup zones where drivers actually show up without cancelling.
 
@@ -132,7 +133,7 @@ Every late-night food guide has a long list and a shortlist. Here's what landed 
 
 **Forester's Pub & Dining on Swanston.** They advertise 3am dining on weekends and the menu looks fine on paper. In practice, the kitchen slows down significantly after midnight and the food that arrives doesn't match the menu descriptions. Three separate visits, three underwhelming meals. It might have a good night in it, but we couldn't reliably recommend it.
 
-**Chinatown restaurants along Little Bourke Street.** Several of them technically open late, but "late" here means they're serving the same menu they served at 6pm, just to fewer people. None of them stood out enough against the other options on this list. The Cantonese late-night scene has contracted in recent years — places like Ling Nan have shifted hours and it's harder to get a proper late-night yum cha fix than it used to be.
+**Chinatown [restaurants](/melbourne-cbd/best-restaurants/) along Little Bourke Street.** Several of them technically open late, but "late" here means they're serving the same menu they served at 6pm, just to fewer people. None of them stood out enough against the other options on this list. The Cantonese late-night scene has contracted in recent years — places like Ling Nan have shifted hours and it's harder to get a proper late-night yum cha fix than it used to be.
 
 **The 24-hour service stations with hot food.** No.
 
@@ -154,38 +155,22 @@ We'll be back to test more spots as the weather cools down and the late-night cr
 
 *Read next: [Best Ramen in Carlton — Our Definitive Ranking](/carlton/ramen-guide)*
 
-### Featured Venues
+---
 
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+## Explore More of Melbourne CBD
 
-### Key Highlights
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Cocktails](/melbourne-cbd/cocktails/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD Weekend Guide V2](/melbourne-cbd/weekend-guide-v2/)
 
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Narre Warren North? Parks, schools, sa
 date: 2026-03-21
 suburb: "narre-warren-north"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Narre Warren North good for families"
   - "Narre Warren North family friendly"
   - "raising kids in Narre Warren North"
+tags:
+  - "narre-warren-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Narre Warren North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

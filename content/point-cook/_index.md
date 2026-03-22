@@ -1,16 +1,16 @@
 ---
-title: "Point Cook Melbourne — Everything You Need to Know"
+title: "Point Cook Melbourne — what you need"
 description: "The complete guide to Point Cook. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "point-cook"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Point Cook Melbourne"
   - "what is Point Cook like"
   - "point-cook suburb"
   - "living in Point Cook"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Melbourne's biggest western growth suburb. New estates, Saltwater Coast, and family everything.

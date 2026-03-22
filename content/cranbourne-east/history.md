@@ -4,16 +4,22 @@ description: "The story of Cranbourne East: from its origins to today. How this 
 date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Cranbourne East Melbourne history"
   - "how has Cranbourne East changed"
   - "Cranbourne East gentrification"
   - "Cranbourne East then and now"
+tags:
+  - "cranbourne-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Cranbourne East's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Cranbourne East shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Cranbourne East suburb guide](/cranbourne-east/) for the current picture.
 

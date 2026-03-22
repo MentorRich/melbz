@@ -4,13 +4,18 @@ description: "The insider's guide to Roxburgh Park's different pockets, streets,
 date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Roxburgh Park neighbourhood guide"
   - "best streets in Roxburgh Park"
   - "Roxburgh Park areas"
   - "Roxburgh Park pockets Melbourne"
+tags:
+  - "roxburgh-park"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Roxburgh Park isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

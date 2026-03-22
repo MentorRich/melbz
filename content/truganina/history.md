@@ -4,16 +4,22 @@ description: "The story of Truganina: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "truganina"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Truganina Melbourne history"
   - "how has Truganina changed"
   - "Truganina gentrification"
   - "Truganina then and now"
+tags:
+  - "truganina"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Truganina's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Truganina, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Truganina suburb guide](/truganina/) for the current picture.
 

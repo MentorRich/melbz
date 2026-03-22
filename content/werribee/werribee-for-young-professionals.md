@@ -4,12 +4,18 @@ description: "Is Werribee a good suburb for young professionals? Social scene, c
 date: 2026-03-21
 suburb: "werribee"
 article_type: "young-professionals"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Werribee young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Werribee"
+tags:
+  - "werribee"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Werribee as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

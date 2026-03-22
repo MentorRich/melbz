@@ -4,16 +4,22 @@ description: "The story of Jacana: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "jacana"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Jacana Melbourne history"
   - "how has Jacana changed"
   - "Jacana gentrification"
   - "Jacana then and now"
+tags:
+  - "jacana"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Jacana's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Jacana has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Jacana suburb guide](/jacana/) for the current picture.
 

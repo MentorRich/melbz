@@ -1,16 +1,16 @@
 ---
-title: "Ashwood Melbourne — Everything You Need to Know"
+title: "Ashwood Melbourne — what you need"
 description: "The complete guide to Ashwood. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "ashwood"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Ashwood Melbourne"
   - "what is Ashwood like"
   - "ashwood suburb"
   - "living in Ashwood"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Jordanville station, shopping centre upgrade, and a suburb improving rapidly.

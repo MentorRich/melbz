@@ -1,16 +1,16 @@
 ---
-title: "Cranbourne East Melbourne — Everything You Need to Know"
+title: "Cranbourne East Melbourne — what you need"
 description: "The complete guide to Cranbourne East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Cranbourne East Melbourne"
   - "what is Cranbourne East like"
   - "cranbourne-east suburb"
   - "living in Cranbourne East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hunt Club estate, Amstel Golf Course, and new housing in the south-east growth zone.

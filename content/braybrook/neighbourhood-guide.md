@@ -4,13 +4,18 @@ description: "The insider's guide to Braybrook's different pockets, streets, and
 date: 2026-03-21
 suburb: "braybrook"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Tom O'Brien"
 keywords:
   - "Braybrook neighbourhood guide"
   - "best streets in Braybrook"
   - "Braybrook areas"
   - "Braybrook pockets Melbourne"
+tags:
+  - "braybrook"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Braybrook isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

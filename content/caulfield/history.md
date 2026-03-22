@@ -4,16 +4,22 @@ description: "The story of Caulfield: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "caulfield"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Caulfield Melbourne history"
   - "how has Caulfield changed"
   - "Caulfield gentrification"
   - "Caulfield then and now"
+tags:
+  - "caulfield"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Caulfield's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Caulfield, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Caulfield suburb guide](/caulfield/) for the current picture.
 

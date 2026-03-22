@@ -4,16 +4,22 @@ description: "The story of Pascoe Vale: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "pascoe-vale"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Pascoe Vale Melbourne history"
   - "how has Pascoe Vale changed"
   - "Pascoe Vale gentrification"
   - "Pascoe Vale then and now"
+tags:
+  - "pascoe-vale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Pascoe Vale's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Pascoe Vale comes from an Indigenous word. But the real story is what happened after the suburb was named.
 
 See our full [Pascoe Vale suburb guide](/pascoe-vale/) for the current picture.
 

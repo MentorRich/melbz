@@ -4,13 +4,19 @@ description: "Is Glen Iris safe to live in? The honest breakdown of safety, what
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "safety"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Glen Iris safe"
   - "Glen Iris safety"
   - "Glen Iris crime"
   - "is Glen Iris dangerous Melbourne"
+tags:
+  - "glen-iris"
+  - "safety"
+  - "crime"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -22,9 +28,9 @@ Read our full [Glen Iris suburb guide](/glen-iris/) for the complete picture.
 
 ## The Day-to-Day Experience
 
-Walking around Glen Iris during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around Glen Iris during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/glen-iris/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/glen-iris/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +54,7 @@ Crime statistics exist for every suburb, and Glen Iris's numbers are unremarkabl
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/glen-iris/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +74,23 @@ The lifestyle benefits of Glen Iris — community, walkability, access — outwe
 ---
 
 **More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris Living Guide](/glen-iris/living-in-glen-iris/) · [Glen Iris for Families](/glen-iris/glen-iris-for-families/)
+
+---
+
+## Explore More of Glen Iris
+
+- [Glen Iris History](/glen-iris/history/)
+- [Glen Iris Rent Guide](/glen-iris/rent-guide/)
+- [Glen Iris Glen Iris For Retirees](/glen-iris/glen-iris-for-retirees/)
+- [Glen Iris Things To Do](/glen-iris/things-to-do/)
+- [Glen Iris Cost of Living](/glen-iris/cost-of-living/)
+- [Glen Iris Young Professionals Guide](/glen-iris/young-professionals/)
+- [Glen Iris Transport Guide](/glen-iris/transport-guide/)
+- [Glen Iris Best Cafes](/glen-iris/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

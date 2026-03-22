@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Rowville? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "rowville"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Rowville good for families"
   - "Rowville family friendly"
   - "raising kids in Rowville"
+tags:
+  - "rowville"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Rowville with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,15 +4,22 @@ description: "Public transport in Bayswater North: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "bayswater-north"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Bayswater North Melbourne"
   - "commute from Bayswater North to city"
   - "Bayswater North train station"
+tags:
+  - "bayswater-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Bayswater North — what works, what's annoying, and how long things actually take.
+Bayswater North transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Bayswater North suburb guide](/bayswater-north/) for the complete picture.
 

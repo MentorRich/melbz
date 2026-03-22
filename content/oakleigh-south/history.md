@@ -4,16 +4,22 @@ description: "The story of Oakleigh South: from its origins to today. How this M
 date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Oakleigh South Melbourne history"
   - "how has Oakleigh South changed"
   - "Oakleigh South gentrification"
   - "Oakleigh South then and now"
+tags:
+  - "oakleigh-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Oakleigh South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Oakleigh South is a tale of boom, bust, and renewal.
 
 See our full [Oakleigh South suburb guide](/oakleigh-south/) for the current picture.
 

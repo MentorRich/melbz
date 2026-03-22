@@ -1,61 +1,105 @@
 ---
-title: "Best Cafes in Collingwood Melbourne"
-description: "Where to find the best coffee and cafes in Collingwood. Local picks, quiet corners, and the spots that actually deliver."
-date: 2026-03-21
+title: "Best Cafes in Collingwood Melbourne 2026"
+description: "The best cafes in Collingwood for 2026. Real picks on Smith Street, Wellington Street, and the side streets where locals actually drink their coffee."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Lam"
+cover_image: "/images/collingwood/best-cafes.jpg"
+cover_image_alt: "Collingwood Melbourne cafe street scene"
 suburb: "collingwood"
-article_type: "best-of"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-keywords:
-  - "best cafes Collingwood"
-  - "coffee Collingwood Melbourne"
-  - "cafes near Collingwood"
-  - "brunch Collingwood"
+tags: ["melbourne", "collingwood", "cafes"]
 ---
 
+# Best Cafes in Collingwood — Local Picks for 2026
 
-## The Cafe Scene in Collingwood
+Collingwood's cafe scene benefits from two things: proximity to [Fitzroy](/fitzroy/)'s competitive coffee culture and a supply of converted warehouses that give cafes room to breathe. The main strip is Smith Street, shared with Fitzroy, but the best cafes tend to sit on the parallel streets — Nelson, Wellington, Gipps, Langridge — where the pace is slower and the regulars outnumber the passers-by. Melbourne's coffee standard is high, and Collingwood keeps up without making a performance of it.
 
-Collingwood takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
+Here are the cafes that earn regular visits.
 
-The cafe culture here reflects the neighbourhood. Warehouses turned breweries, Smith Street's restaurant strip, and Melbourne's edgiest nightlife.
+## 1. Proud Mary — The One That Ranks Globally
 
-## What Makes a Good Cafe Here
+Proud Mary on Nelson Street placed 27th on the World's 100 Best Coffee Shops list for 2026, and the room matches the reputation. It's a big warehouse space with communal tables, an open kitchen, and a coffee program that roasts in-house and rotates single-origin options regularly. The brunch menu is ambitious — the Full Breakfast board is a production — and the baristas move with the kind of focus you'd expect from a crew that competes at world level. Weekday mornings are manageable; weekends mean queuing.
 
-The best cafes in Collingwood aren't just about the coffee (though the coffee matters). They're the places where the staff recognise you after a few visits, where the food is genuinely good rather than just photogenic, and where you can sit for an hour without feeling rushed.
+**Address:** 60 Nelson Street, Collingwood VIC 3066
+**Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
+**Best for:** Serious coffee, full brunch, impressing visitors from interstate
 
-Local picks tend to be the ones slightly off the main strip — the place your neighbour told you about, not the one with the queue out the door on Instagram.
+## 2. Aunty Peg's — Pour-Over Only, No Compromise
 
-## Types of Cafes You'll Find
+Aunty Peg's on Wellington Street is Proud Mary's sister venue and the opposite in almost every way. Fifteen seats, bare concrete, white walls, and no milk coffee. This is a pour-over-only space where the baristas walk you through each single-origin on offer. The beans come from their own Collective Roasting Solutions operation. There's no food menu — come for the coffee, eat elsewhere. If you're the kind of person who drinks black coffee and wants to taste the difference between Ethiopian and Colombian, this is your room.
 
-**The Morning Ritual Spot** — Opens early, nails the basics. Perfect flat white, decent toast, no fuss. In and out in 15 minutes or linger with the paper.
+**Address:** 200 Wellington Street, Collingwood VIC 3066
+**Hours:** Mon–Fri 7:30am–2:30pm, Sat 8am–2:30pm
+**Best for:** Black coffee drinkers, anyone who wants to learn about specialty coffee
 
-**The Brunch Destination** — Proper menu, weekend crowds, the kind of place you plan around. Usually has one or two dishes that people specifically come here for. Worth the wait most of the time.
+## 3. Alimentari Delicatessen & Cafe — Italian Without the Fuss
 
-**The Work-From-Cafe** — Good WiFi, comfortable seating, doesn't mind you sitting there all morning. Usually slightly quieter on weekdays and has proper bench space.
+Alimentari on Smith Street runs as a deli and cafe in equal measure. The espresso is Italian-style — short, strong, fast — and the cornetti are still warm early in the morning. Shelves line the walls with imported olive oils, tinned fish, pasta, and cheeses. The food menu does panini and simple breakfast dishes that prioritise ingredients over presentation. It's the kind of place where the barista knows the regulars, the cornetti sell out by 10am, and nobody is taking photos of their latte art.
 
-**The Hidden Local** — The one only neighbourhood people know about. Might not look like much from outside. Often the best value and genuine character.
+**Address:** 302 Smith Street, Collingwood VIC 3066
+**Hours:** Mon–Sat 7:30am–4pm, Sun 8am–3pm
+**Best for:** Quick espresso, Italian pastries, deli shopping while you're there
 
-**The All-Day Spot** — Transitions from coffee to lunch to afternoon drinks. Versatile and reliable. Good for meetings and catch-ups at any hour.
+## 4. Terror Twilight — The All-Morning Corner Spot
 
-## Coffee Quality in Collingwood
+Terror Twilight sits on a sunny corner of Johnston Street and does the full cafe experience well. The coffee is consistently good — not obsessive single-origin territory, but well-priced and properly extracted. The food menu is the real draw: zucchini fritters, seasonal specials, and poached eggs with the kind of yolk consistency that suggests someone in the kitchen actually cares. The crowd is a genuine cross-section of Collingwood — families, tradies, remote workers — and the room fills with natural light all morning.
 
-Melbourne sets the bar high for coffee, and Collingwood keeps up. Locally roasted beans, proper baristas who care about extraction, and enough competition that bad coffee doesn't survive here long.
+**Address:** 55 Johnston Street, Collingwood VIC 3066
+**Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
+**Best for:** A full brunch with good coffee, morning catch-ups, working from cafe
 
-You'll find a mix of specialty roasters and reliable multi-roaster setups. Most cafes here give you a choice of milk alternatives without making a thing about it.
+## 5. Lune Croissanterie — Melbourne's Pastry Benchmark
 
-## Tips for Finding Your Spot
+Lune on Rose Street is primarily a bakery, but the cafe element has grown into its own thing. The pastries are made in a glass-walled kitchen, the croissants are as good as their reputation suggests, and the coffee counter does a solid job without trying to compete with the dedicated roasters. The twice-baked almond croissant is the signature item. Popular items sell out by mid-morning on weekends, so arriving early is the strategy. It's technically on the Collingwood-Fitzroy border.
 
-1. **Walk the back streets** — the best cafes aren't always on the main drag
-2. **Go on a weekday first** — easier to get a feel for the place without weekend chaos
-3. **Ask locals** — the barista at one cafe will usually tell you their favourite cafe (which is someone else's)
-4. **Check the food** — great coffee with bad food is a red flag for the overall standard
-5. **Look at who's there** — regulars and locals means the place has earned repeat business
+**Address:** 119 Rose Street, Collingwood VIC 3066
+**Hours:** Tue–Sat from 7:30am (until sold out)
+**Best for:** Pastries, weekend morning ritual, a croissant worth queuing for
+
+## 6. Stomping Ground Brewery Cafe
+
+Stomping Ground on Gipps Street is a brewery first, but the cafe program works on its own terms. The warehouse space is large enough that a morning coffee feels relaxed rather than cramped, and the beer garden catches morning sun on the right days. The food menu is breakfast pub fare — eggs, bacon, toast, hash browns — done honestly. It's not a specialty coffee spot, but the brews are good and the setting is the real appeal. On weekends, this transitions into brunch-and-beer territory.
+
+**Address:** 100 Gipps Street, Collingwood VIC 3066
+**Hours:** Check their website for current cafe hours
+**Best for:** A relaxed morning in a big space, weekend brunch with a beer
+
+---
+
+## FAQ
+
+**What's the best coffee in Collingwood?** For specialty single-origin, Proud Mary on Nelson Street and Aunty Peg's on Wellington Street are the standouts. For Italian-style espresso, Alimentari on Smith Street. See our dedicated [best coffee in Collingwood](/collingwood/best-coffee/) guide for the full list.
+
+**Are Collingwood cafes good for working from?** Terror Twilight and Proud Mary both have room and WiFi. Aunty Peg's is too small and focused for laptop work. Stomping Ground's warehouse space works if you don't mind a more casual setting.
+
+**Where's the quietest cafe?** Aunty Peg's on Wellington Street, by design — it's tiny and focused. Terror Twilight is calmer than most Smith Street spots, especially on weekday mornings.
+
+**How does Collingwood compare to Fitzroy for cafes?** They share Smith Street, so there's overlap. Fitzroy has more options on [Brunswick](/brunswick/) Street and Gertrude Street. Collingwood's strength is the side-street cafes on Nelson, Wellington, and Gipps that feel more residential and less like a strip. Check the [Fitzroy cafe guide](/fitzroy/best-cafes/) for comparison.
 
 ## Our Verdict
 
-Collingwood's cafe scene is strong and growing. You won't struggle to find good coffee within a short walk from anywhere in the suburb. The variety means there's something for every mood and occasion.
+Collingwood's cafe scene punches hard for a suburb its size. Proud Mary and Aunty Peg's give it global-level coffee credentials, Alimentari adds Italian soul, and Terror Twilight does the reliable neighbourhood cafe thing better than most. The side streets — Nelson, Wellington, Gipps — are where the character sits, one block removed from Smith Street's foot traffic. You won't struggle to find good coffee anywhere in the suburb, but the six spots above are the ones that earn loyalty. For the broader food picture, see our [best brunch in Collingwood](/collingwood/best-brunch/) and [best restaurants](/collingwood/best-[restaurants](/collingwood/best-restaurants/)/) guides.
 
 ---
 
-**More on Collingwood:** [Collingwood Suburb Guide](/collingwood/) · [Collingwood Cost of Living](/collingwood/cost-of-living/) · [Collingwood Neighbourhood Guide](/collingwood/neighbourhood-guide/)
+*Know a spot we missed? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+## Explore More of Collingwood
+
+- [Collingwood History](/collingwood/history/)
+- [Collingwood Late Night Eats](/collingwood/late-night-eats/)
+- [Collingwood Things To Do This Weekend](/collingwood/things-to-do-this-weekend/)
+- [Collingwood Cheap Eats](/collingwood/cheap-eats/)
+- [Collingwood Rent Guide](/collingwood/rent-guide/)
+- [Collingwood Date Night Guide](/collingwood/date-night/)
+- [Collingwood New Openings](/collingwood/new-openings/)
+- [Collingwood Things To Do](/collingwood/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

@@ -4,15 +4,22 @@ description: "Public transport in Berwick: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "berwick"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Berwick Melbourne"
   - "commute from Berwick to city"
   - "Berwick train station"
+tags:
+  - "berwick"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Berwick — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Berwick, you need to know what the daily commute actually looks like.
 
 Check out our full [Berwick suburb guide](/berwick/) for the complete picture.
 

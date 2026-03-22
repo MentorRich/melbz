@@ -1,16 +1,16 @@
 ---
-title: "Aspendale Gardens Melbourne — Everything You Need to Know"
+title: "Aspendale Gardens Melbourne — what you need"
 description: "The complete guide to Aspendale Gardens. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Aspendale Gardens Melbourne"
   - "what is Aspendale Gardens like"
   - "aspendale-gardens suburb"
   - "living in Aspendale Gardens"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Planned estate with wetlands, parks, and family homes near the beach.

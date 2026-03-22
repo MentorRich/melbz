@@ -4,12 +4,18 @@ description: "Is South Morang a good suburb for young professionals? Social scen
 date: 2026-03-21
 suburb: "south-morang"
 article_type: "young-professionals"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "South Morang young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in South Morang"
+tags:
+  - "south-morang"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering South Morang as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

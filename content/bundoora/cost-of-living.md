@@ -4,16 +4,22 @@ description: "How expensive is Bundoora? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "bundoora"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Bundoora Melbourne"
   - "how expensive is Bundoora"
   - "is Bundoora expensive to live in"
   - "Bundoora rent"
+tags:
+  - "bundoora"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Bundoora — no sugar-coating, no made-up figures.
+Let us talk money in Bundoora. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Bundoora suburb guide](/bundoora/) for the bigger picture.
 

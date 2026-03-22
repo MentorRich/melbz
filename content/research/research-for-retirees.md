@@ -4,12 +4,16 @@ description: "Considering retirement in Research? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "research"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Research retirees Melbourne"
   - "retiring in Research"
   - "quiet suburbs Melbourne"
+tags:
+  - "research"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Research? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Springvale South? Parks, schools, safe
 date: 2026-03-21
 suburb: "springvale-south"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Springvale South good for families"
   - "Springvale South family friendly"
   - "raising kids in Springvale South"
+tags:
+  - "springvale-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Springvale South with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

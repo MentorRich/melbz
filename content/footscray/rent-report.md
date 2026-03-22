@@ -1,27 +1,18 @@
 ---
 title: "Rent Prices in Footscray 2026: The West Side Value Play"
+description: "Footscray rent data for 2026 — median prices, salary breakdowns, neighbour comparisons, and whether the inner west is still Melbourne's value play."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 cover_image: "/images/footscray/rent-report.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["footscray", "rent", "property"]
-categories: ["property"]
-description: "Rent Prices in Footscray 2026: The West Side Value Play"
+cover_image_alt: "Footscray streetscape with residential properties and cafes in Melbourne's inner west"
+suburb: "footscray"
+tags: ["footscray", "rent", "property", "rent-report", "melbourne-west"]
 ---
-
-**Updated 16 March 2026 | Marcus Cole reporting**
-
-
-
-Footscray has long been Melbourne's inner-west underd..."
-
-*Updated 16 March 2026 | Marcus Cole reporting*
 
 # Rent Prices in Footscray 2026: The West Side Value Play
 
-*Updated 16 March 2026 | Marcus Cole reporting*
-
-Footscray has long been Melbourne's inner-west underdog — the suburb that renters whisper about like it's a secret they don't want to share. While Fitzroy and South Yarra grab the Instagram glory, Footscray has been quietly building something better: genuine livability at prices that don't require a trust fund.
+Footscray has long been Melbourne's inner-west underdog — the suburb that renters talk about like it's a secret they don't want to share. While Fitzroy and South Yarra grab the Instagram glory, Footscray has been quietly building something better: genuine livability at prices that don't require a trust fund.
 
 But "affordable" is a relative term in 2026 Melbourne. So let's break down what renting in Footscray actually costs right now, how it stacks up against its neighbours, and whether your paycheque can handle it.
 
@@ -49,7 +40,7 @@ Footscray doesn't exist in a vacuum. Here's how the rent looks across the inner 
 
 | Suburb | Houses (pw) | Units (pw) | Distance to CBD |
 |---|---|---|---|
-| **Footscray** | $610 | $525 | 6 km |
+| **Footscray** | $610 | $525 | 5 km |
 | **Seddon** | $635 | $535 | 5.5 km |
 | **Yarraville** | $680 | $550 | 7 km |
 | **West Melbourne** | $720 | $575 | 3 km |
@@ -91,11 +82,11 @@ The numbers explain the value. The lifestyle explains the demand.
 
 Footscray's appeal goes beyond dollars per week. Here's what keeps driving renters west:
 
-**The food scene is legitimately world-class.** Footscray's Vietnamese restaurants, Ethiopian haunts, and new-wave cafes aren't "under the radars" anymore — they're established institutions. The strip along Hopkins Street and theNicholson Street precinct continue to draw food-obsessed renters from the inner north and east.
+**The food scene is legitimately excellent.** Footscray's Vietnamese restaurants, Ethiopian spots, and new-wave cafes aren't under the radar anymore — they're established institutions. The strip along Hopkins Street and the Nicholson Street precinct continue to draw food-obsessed renters from the inner north and east.
 
-**Public transport is sorted.** Footscray Station sits on the Werribee and Williamstown lines with services running every 10 minutes in peak. You're at Flinders Street in under 15 minutes. The 216 and 220 buses connect to the western suburbs, and the Maribyrnong River trail provides a bike commute option that's genuinely pleasant.
+**Public transport is sorted.** Footscray Station is a major hub serving the Werribee, Williamstown, and Sunbury metropolitan lines, plus V/Line services to Geelong, Ballarat, and Bendigo. You're at Southern Cross in under 15 minutes. The 216 and 220 buses connect to the western suburbs, and the Maribyrnong River Trail provides a bike commute option that's genuinely pleasant.
 
-**Green space punches above its weight.** Footscray's Lions Park, the Maribyrnong River trail, and Footscray Park give you more outdoor space than most inner suburbs can offer. Compare that to West Melbourne, where "green space" largely means Flagstaff Garden and hoping for the best.
+**Green space punches above its weight.** Footscray Park, the Maribyrnong River Trail, and the riverside parklands give you more outdoor space than most inner suburbs can offer. Compare that to West Melbourne, where "green space" largely means Flagstaff Garden and hoping for the best.
 
 **Community identity is real.** Footscray has never tried to be Fitzroy, and that's its strength. The [Footscray cost of living](/cost-of-living/footscray) profile reflects a suburb that's authentic, multicultural, and genuinely diverse — not a curated version of diversity for weekend markets.
 
@@ -122,40 +113,20 @@ The suburb's fundamentals remain strong: transport, food, green space, community
 For most renters doing the maths in 2026, Footscray still makes the numbers work better than almost any other inner Melbourne suburb. That's not a secret anymore — but it's still the truth.
 
 
-*Sources: Domain Rental Report (December 2025), ABS Employee Earnings (August 2025), Homes Victoria Rental Report (September 2025), Your Investment Property Magazine, PropertyValue.com.au, Realestateinvestar.com.au, HTAG.com.au. Data reflects rolling-year medians as of Q4 2025/Q1 2026.*
+*Sources: Domain Rental Report (December 2025), ABS Employee Earnings (August 2025), Homes Victoria Rental Report (September 2025), Your Investment Property Magazine, PropertyValue.com.au. Data reflects rolling-year medians as of Q4 2025/Q1 2026.*
 
-### Featured Venues
+## Frequently Asked Questions
 
-- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
-- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
-- **Roti Road** at 189 Barkly St, Footscray VIC 3011
-- **Footscray Milking Station** at 35 Bunbury St, Footscray VIC 3011
-- **Ca Com Banh Mi Bar** at 114 Hopkins St, Footscray VIC 3011
-- **Small Graces** at 557 Barkly St, West Footscray VIC 3012
-- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
-- **To's Bakery** at 104 Hopkins St, Footscray VIC 3011
-- **Konjo Ethiopian Restaurant** at 898 Barkly St, West Footscray VIC 3012
-- **Pho Hung Vuong Saigon** at 128 Hopkins St, Footscray VIC 3011
+**What is the average rent in Footscray in 2026?**
+The median weekly rent is approximately $525 for units/apartments and $610 for houses. One-bedroom apartments typically range from $380-$420/week, while two-bedroom apartments sit around $500-$550/week.
 
-### Key Highlights
+**Is Footscray cheaper than Fitzroy or Collingwood for rent?**
+Yes, significantly. Footscray units are roughly $100-$150/week cheaper than equivalent properties in [Fitzroy](/fitzroy/) or [Collingwood](/collingwood/) for a comparable distance from the CBD.
 
-- Footscray Market
-- Little Saigon dining precinct
-- Footscray Community Arts Centre
+**Can a single person afford to rent in Footscray on a median salary?**
+A Footscray unit at $525/week represents about 37.5% of Melbourne's median full-time weekly earnings ($1,400). That's above the 30% rule of thumb but manageable for most. Couples sharing a unit are well within comfortable territory at under 19% each.
 
-### Suburb Vibe
+**What train lines run through Footscray Station?**
+Footscray Station serves the Werribee, Williamstown, and Sunbury metropolitan lines, plus V/Line regional services to Geelong, Ballarat, and Bendigo. It's one of Melbourne's most connected suburban stations.
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-- [/south-yarra/](/south-yarra/)
-- [/footscray/](/footscray/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**Read next:** [Footscray Rent Guide](/footscray/rent-guide/) | [Footscray Property Market](/footscray/property-market/) | [Footscray Living Guide](/footscray/living-guide/)

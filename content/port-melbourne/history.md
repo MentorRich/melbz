@@ -4,16 +4,22 @@ description: "The story of Port Melbourne: from its origins to today. How this M
 date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Port Melbourne Melbourne history"
   - "how has Port Melbourne changed"
   - "Port Melbourne gentrification"
   - "Port Melbourne then and now"
+tags:
+  - "port-melbourne"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Port Melbourne's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Port Melbourne was a railway stop in open paddocks. The transformation tells a quintessentially Melbourne story.
 
 See our full [Port Melbourne suburb guide](/port-melbourne/) for the current picture.
 

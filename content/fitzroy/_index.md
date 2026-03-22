@@ -1,39 +1,40 @@
 ---
 title: "Fitzroy"
-cover_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
-description: "Inner north's creative heart with legendary food scene. From Brunswick Street's iconic restaurants to Gertrude Street's wine bars, discover what makes Fitzroy one of Melbourne's most dynamic suburbs."
+cover_image: "/images/shared/cafe-street.jpg"
+description: "Fitzroy is Melbourne's original inner-city village — Brunswick Street restaurants, Gertrude Street wine bars, Edinburgh Gardens on a Saturday, and a food scene that punches harder than suburbs twice its size."
 author: "Jules Marchetti"
 ---
 
-author_role: "Editor-in-Chief"
-author_image: "/images/authors/jules.jpg"
+Fitzroy runs on a six-block grid between Nicholson Street and Smith Street, and within that grid you'll find more good restaurants per square metre than anywhere else in Melbourne. That's not marketing — it's geometry. The suburb is barely one square kilometre, and at last count it held north of 200 licensed venues.
 
-Fitzroy doesn't need an introduction—but it deserves one done properly. This is where Melbourne’s creative pulse beats loudest, where street art is curated not vandalised, and where a single block can hold a century of stories. From the Victorian terraces that survived the wrecking ball to the warehouse conversions that now host the city’s sharpest galleries and studios, Fitzroy is a suburb that refuses to be boxed in.
+The bones of the place are Victorian: double-fronted terraces along Napier Street, workers' cottages on Gore Street, the brutalist public housing towers on Atherton Gardens that have been here since the 1960s. Fitzroy has never been one thing. It was a working-class suburb, then a migrant hub, then the epicentre of Melbourne's punk and pub-rock scene in the '70s and '80s. The Birthday Party played their earliest gigs at the Crystal Ballroom. Nick Cave lived on Gertrude Street. That history sits in the walls, even as the storefronts turn over.
 
-It’s also a place that takes its food seriously. You don’t stumble onto Brunswick Street by accident; you come here because you know what you want. Whether that’s a late‑night souvlaki after a gig at the Evelyn, a long lunch at a bistro that would hold its own in Paris, or a coffee so meticulously brewed it tastes like a revelation. Fitzroy’s dining scene isn’t just good—it’s a benchmark.
+Today the tension between old Fitzroy and new Fitzroy is the suburb's defining feature. You'll still find $4 banh mi at Thy Thy on Victoria Parade and $18 pints at a laneway natural wine bar on the same afternoon. The Commission flats and the $2.5 million renovated terraces share the same postcode — 3065 — and the same tram stops.
 
 ## What to eat in Fitzroy
 
-The short answer: almost everything. The long answer starts with our [definitive guide to Fitzroy’s best restaurants](/fitzroy/best-restaurants/), where we’ve mapped out every essential bite from Gertrude Street to Smith Street. You’ll find everything from neighbourhood trattorias to degustation temples, plus the casual spots that locals actually visit on a Tuesday night.
+Brunswick Street is the spine, but the best eating has migrated. Gertrude Street between Nicholson and Smith now holds the highest concentration of quality: Cutler & Co for a special-occasion dinner that still feels like a Fitzroy dinner (no white tablecloths, excellent wine list), Lune Croissanterie on Rose Street for laminated pastry that draws queues at 7am, and Horn Please on Johnston Street for contemporary Indian that locals have been arguing about since it opened.
+
+Smith Street — technically Collingwood, but Fitzroy claims the western footpath — adds Gelato Messina, Charcoal Lane (Indigenous-run fine dining in a former bluestone building), and a rotating cast of pop-ups in the old warehouse spaces south of Johnston.
+
+For the full breakdown, see our [guide to Fitzroy's best restaurants](/fitzroy/best-restaurants/).
 
 ## The Fitzroy Vibe Score
 
-How does Fitzroy stack up against the rest of Melbourne? Our live [Suburb Vibe Score](/vibe-score/) tracks the energy, foot traffic, venue openings and social buzz across every inner‑city neighbourhood. Fitzroy typically sits in the top three—check the latest ranking to see where it landed this week.
+Our live [Suburb Vibe Score](/vibe-score/) tracks venue openings, foot traffic, social buzz, and event density across Melbourne's inner suburbs. Fitzroy consistently ranks in the top three — it dipped briefly in early 2025 when two Johnston Street venues closed in the same month, but recovered within weeks. Check the latest ranking to see where it sits this week.
 
-## Frequently asked questions
+## Living in Fitzroy — what it actually costs
 
-### Is Fitzroy expensive to live in?
+A one-bedroom apartment on Brunswick Street runs $450–$550 per week in 2026. A two-bedroom terrace north of Johnston Street is $700–$900. Buying is another conversation entirely: median house prices crossed $1.5 million in 2024 and haven't looked back. The tradeoff is that you can walk to almost everything — groceries at Piedimonte's on Best Street, a GP on Smith Street, the Fitzroy Pool on Alexandra Parade — so car costs drop or disappear.
 
-Yes—and for good reason. Proximity to the city, a walkable village‑like core, and an almost absurd concentration of great bars, cafes and boutiques make it one of Melbourne’s most sought‑after addresses. Rentals are competitive, but for many, the trade‑off in lifestyle is worth it.
+### Getting around
 
-### What’s the best way to get around Fitzroy?
+Tram Route 11 runs the length of Brunswick Street from the city to West Preston. Route 86 cuts across Gertrude Street and High Street toward Bundoora. Both run frequently until midnight and connect to Flinders Street and Melbourne Central within 10 minutes. Most locals walk or cycle — the Capital City Trail runs along the Merri Creek and connects to the Main Yarra Trail via Edinburgh Gardens.
 
-Walk. The grid of streets between Nicholson Street and Smith Street is compact, flat and endlessly interesting. Trams run along Brunswick Street (Route 11) and Gertrude Street (Route 86), connecting you to the CBD in under 10 minutes. Riding a bike is also a popular (and safe) option, with separated lanes on several key routes.
+### Is Fitzroy good for families?
 
-### Is Fitzroy family‑friendly?
-
-Surprisingly, yes. While it’s known for its nightlife and creative edge, Fitzroy has excellent parks (Edinburgh Gardens, Fitzroy Pool), respected primary schools, and a community vibe that extends beyond the weekend crowd. The weekend farmers’ market at the Collingwood Children’s Farm is a family ritual for many locals.
+It's not the first suburb people think of, but families who live here tend to stay. Fitzroy Primary on George Street feeds into Collingwood College. Edinburgh Gardens has a solid playground, a skate bowl, and the kind of flat open grass that works for cricket, dogs, and picnics simultaneously. Saturday mornings at the Collingwood Children's Farm (a 10-minute walk east) are a local ritual. The suburb is safe, walkable, and has more playgrounds per capita than you'd expect.
 
 ## Keep exploring
 
-Fitzroy’s energy spills over into its neighbours. Head north to [Carlton](/carlton/) for Lygon Street’s espresso culture and Italian heritage, or south‑east to [St Kilda](/st-kilda/) for bayside breezes and a completely different kind of nightlife. Each suburb has its own personality—part of what makes Melbourne’s inner‑city tapestry so compelling.
+Fitzroy bleeds into its neighbours. Walk north across Alexandra Parade into [Fitzroy North](/fitzroy-north/) for a quieter, more residential version of the same DNA. East across Smith Street is [Collingwood](/collingwood/), where the warehouse conversions and breweries pick up. South on Nicholson Street takes you into [Carlton](/carlton/) and Lygon Street's Italian heritage. West across the gardens, [Clifton Hill](/clifton-hill/) sits on the Merri Creek with a slower pace entirely.

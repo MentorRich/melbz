@@ -4,15 +4,22 @@ description: "Public transport in Patterson Lakes: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Patterson Lakes Melbourne"
   - "commute from Patterson Lakes to city"
   - "Patterson Lakes train station"
+tags:
+  - "patterson-lakes"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Patterson Lakes — what works, what's annoying, and how long things actually take.
+If you are car-dependent, Patterson Lakes might surprise you. If you rely on PT, read this first.
 
 Check out our full [Patterson Lakes suburb guide](/patterson-lakes/) for the complete picture.
 

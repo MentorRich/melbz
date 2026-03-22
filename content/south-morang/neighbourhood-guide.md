@@ -4,13 +4,18 @@ description: "The insider's guide to South Morang's different pockets, streets, 
 date: 2026-03-21
 suburb: "south-morang"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "South Morang neighbourhood guide"
   - "best streets in South Morang"
   - "South Morang areas"
   - "South Morang pockets Melbourne"
+tags:
+  - "south-morang"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 South Morang isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,16 +4,22 @@ description: "How expensive is Tarneit? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "tarneit"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Tarneit Melbourne"
   - "how expensive is Tarneit"
   - "is Tarneit expensive to live in"
   - "Tarneit rent"
+tags:
+  - "tarneit"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Tarneit — no sugar-coating, no made-up figures.
+Living costs in Tarneit have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Tarneit suburb guide](/tarneit/) for the bigger picture.
 

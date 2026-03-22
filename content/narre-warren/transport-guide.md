@@ -4,15 +4,22 @@ description: "Public transport in Narre Warren: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "narre-warren"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Narre Warren Melbourne"
   - "commute from Narre Warren to city"
   - "Narre Warren train station"
+tags:
+  - "narre-warren"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Narre Warren — what works, what's annoying, and how long things actually take.
+Narre Warren transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Narre Warren suburb guide](/narre-warren/) for the complete picture.
 

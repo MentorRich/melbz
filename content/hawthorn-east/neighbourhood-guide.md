@@ -4,13 +4,18 @@ description: "The insider's guide to Hawthorn East's different pockets, streets,
 date: 2026-03-21
 suburb: "hawthorn-east"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Hawthorn East neighbourhood guide"
   - "best streets in Hawthorn East"
   - "Hawthorn East areas"
   - "Hawthorn East pockets Melbourne"
+tags:
+  - "hawthorn-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hawthorn East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,13 +4,18 @@ description: "The insider's guide to Pakenham's different pockets, streets, and 
 date: 2026-03-21
 suburb: "pakenham"
 article_type: "neighbourhood"
-author: "dani"
-author_image: "/images/authors/dani.jpg" 
+author: "Dani Reyes"
 keywords:
   - "Pakenham neighbourhood guide"
   - "best streets in Pakenham"
   - "Pakenham areas"
   - "Pakenham pockets Melbourne"
+tags:
+  - "pakenham"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Pakenham isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

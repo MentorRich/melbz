@@ -4,12 +4,16 @@ description: "Considering retirement in Mernda? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "mernda"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Mernda retirees Melbourne"
   - "retiring in Mernda"
   - "quiet suburbs Melbourne"
+tags:
+  - "mernda"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Mernda? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

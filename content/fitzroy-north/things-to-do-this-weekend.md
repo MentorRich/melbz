@@ -1,18 +1,16 @@
 ---
 title: "Things To Do This Weekend in Fitzroy North — 2026 Local Guide"
+description: "Your Fitzroy North weekend planned hour by hour. Edinburgh Gardens picnics, Brunswick Street brunch, pub sessions, and the best of the inner north mapped out."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Chen"
 cover_image: "/images/fitzroy-north/things-to-do-this-weekend.jpg"
+cover_image_alt: "Weekend scene at Edinburgh Gardens Fitzroy North"
+suburb: "fitzroy-north"
+tags: ["fitzroy-north", "weekend", "things-to-do"]
 ---
 
-suburb: "fitzroy-north"
-vertical: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the things to do this weekend in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
-tags: ["fitzroy-north"]
-categories: ["things"]
-## Things To Do This Weekend in Fitzroy North
+## Things To Do This Weekend in [Fitzroy](/fitzroy/) North
 
 This is your verified guide to what to do in Fitzroy North on weekends in 2026.
 
@@ -180,7 +178,7 @@ That's a weekend that makes living here worth it.
 
 ## If You're Visiting Fitzroy North for the Weekend
 
-**Where to stay:** There aren't many hotels in Fitzroy North itself. Stay in Fitzroy proper (plenty of Airbnbs) and walk 10-15 minutes north, or stay in Carlton and tram it. The 86 tram gets you from the CBD to Brunswick Street in 15 minutes.
+**Where to stay:** There aren't many hotels in Fitzroy North itself. Stay in Fitzroy proper (plenty of Airbnbs) and walk 10-15 minutes north, or stay in [Carlton](/carlton/) and tram it. The 86 tram gets you from the CBD to Brunswick Street in 15 minutes.
 
 **Where to eat:** Pick three from the cafe/restaurant list above, spread them across the weekend. Don't try to do everything — you'll be exhausted.
 
@@ -197,40 +195,22 @@ That's a weekend that makes living here worth it.
 - Carlton North's weekend vibes: [Carlton North weekend guide](/carlton-north/things-to-do-this-weekend)
 - Brunswick East's weekend: [Brunswick East weekend guide](/brunswick-east/things-to-do-this-weekend)
 
-Living in Fitzroy North? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=fitzroy-north)
+---
 
-### Featured Venues
+## Explore More of Fitzroy North
 
-- **Neighbourhood Wine** at 1 Reid St, Fitzroy North VIC 3068
-- **Piedimonte's (The Deli/Cafe)** at 123 Scotchmer St, Fitzroy North VIC 3068
-- **Just Italy** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Cavallero** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Morning Market** at 559 Barkly St, Fitzroy North VIC 3068
-- **Park Street** at 815 Nicholson St, Fitzroy North VIC 3068
-- **Piedimonte's Supermarket Deli** at 42-50 Wreckyn St, North Fitzroy VIC 3068
-- **North Fitzroy Arms Hotel** at 296 Rae St, North Fitzroy VIC 3068
-- **Pizza Meine Liebe** at 231 St Georges Rd, North Fitzroy VIC 3068
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+- [Fitzroy North Young Professionals Guide](/fitzroy-north/young-professionals/)
 
-### Key Highlights
+### Nearby Suburbs Worth Checking
 
-- Edinburgh Gardens
-- St Georges Road village shops
-- Capital City Trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/things-to-do-melbourne/](/things-to-do-melbourne/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

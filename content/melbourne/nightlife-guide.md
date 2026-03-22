@@ -1,17 +1,16 @@
 ---
 title: "Nightlife Guide in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/nightlife-guide.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Discover the nightlife guide in Melbourne. Our verified 2026 guide covers the best spots for locals."
 tags: ["melbourne"]
 categories: ["nightlife"]
+---
+
 # Nightlife Guide to Melbourne — 2026
 
 Melbourne after dark is a different city. The daytime coffee snobs become cocktail snobs. The office workers who wouldn't make eye contact on the 8:15 tram are suddenly your best mate at the pub. The laneways that looked charming at noon become mysterious at midnight, and the ones that looked sketchy at noon become genuinely concerning at 2am.
@@ -167,10 +166,9 @@ Living in Melbourne? [Compare energy plans, internet, and insurance for your are
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Southbank](/southbank/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

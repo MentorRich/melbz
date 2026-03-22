@@ -4,15 +4,22 @@ description: "Public transport in Hillside: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "hillside"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Hillside Melbourne"
   - "commute from Hillside to city"
   - "Hillside train station"
+tags:
+  - "hillside"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Hillside — what works, what's annoying, and how long things actually take.
+Hillside transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Hillside suburb guide](/hillside/) for the complete picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Niddrie Melbourne — Everything You Need to Know"
+title: "Niddrie Melbourne — what you need"
 description: "The complete guide to Niddrie. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "niddrie"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Niddrie Melbourne"
   - "what is Niddrie like"
   - "niddrie suburb"
   - "living in Niddrie"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Keilor Road shops, DFO proximity, and a multicultural family community.

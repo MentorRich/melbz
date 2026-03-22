@@ -4,13 +4,18 @@ description: "The insider's guide to Sandringham's different pockets, streets, a
 date: 2026-03-21
 suburb: "sandringham"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Sandringham neighbourhood guide"
   - "best streets in Sandringham"
   - "Sandringham areas"
   - "Sandringham pockets Melbourne"
+tags:
+  - "sandringham"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Sandringham isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

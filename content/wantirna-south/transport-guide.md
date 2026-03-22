@@ -4,15 +4,22 @@ description: "Public transport in Wantirna South: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Wantirna South Melbourne"
   - "commute from Wantirna South to city"
   - "Wantirna South train station"
+tags:
+  - "wantirna-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Wantirna South — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Wantirna South, you need to know what the daily commute actually looks like.
 
 Check out our full [Wantirna South suburb guide](/wantirna-south/) for the complete picture.
 

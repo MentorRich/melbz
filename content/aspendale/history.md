@@ -4,16 +4,22 @@ description: "The story of Aspendale: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "aspendale"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Aspendale Melbourne history"
   - "how has Aspendale changed"
   - "Aspendale gentrification"
   - "Aspendale then and now"
+tags:
+  - "aspendale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Aspendale's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Aspendale is rooted in immigration and community.
 
 See our full [Aspendale suburb guide](/aspendale/) for the current picture.
 

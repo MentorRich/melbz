@@ -4,16 +4,22 @@ description: "How expensive is Wattle Glen? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Wattle Glen Melbourne"
   - "how expensive is Wattle Glen"
   - "is Wattle Glen expensive to live in"
   - "Wattle Glen rent"
+tags:
+  - "wattle-glen"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Wattle Glen — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Wattle Glen, here is exactly how far your dollar goes.
 
 Read our full [Wattle Glen suburb guide](/wattle-glen/) for the bigger picture.
 

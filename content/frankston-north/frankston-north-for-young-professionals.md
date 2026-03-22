@@ -4,12 +4,18 @@ description: "Is Frankston North a good suburb for young professionals? Social s
 date: 2026-03-21
 suburb: "frankston-north"
 article_type: "young-professionals"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Frankston North young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Frankston North"
+tags:
+  - "frankston-north"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Frankston North as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

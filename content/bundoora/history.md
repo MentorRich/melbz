@@ -4,16 +4,22 @@ description: "The story of Bundoora: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "bundoora"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Bundoora Melbourne history"
   - "how has Bundoora changed"
   - "Bundoora gentrification"
   - "Bundoora then and now"
+tags:
+  - "bundoora"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Bundoora's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Bundoora is not just dates and facts - it is the DNA of the current personality of this suburb.
 
 See our full [Bundoora suburb guide](/bundoora/) for the current picture.
 

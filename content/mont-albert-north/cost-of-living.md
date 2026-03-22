@@ -4,16 +4,22 @@ description: "How expensive is Mont Albert North? Rent, daily costs, and how thi
 date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Mont Albert North Melbourne"
   - "how expensive is Mont Albert North"
   - "is Mont Albert North expensive to live in"
   - "Mont Albert North rent"
+tags:
+  - "mont-albert-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Mont Albert North — no sugar-coating, no made-up figures.
+The gap between the sticker price of Mont Albert North and actual living costs is worth understanding before you move.
 
 Read our full [Mont Albert North suburb guide](/mont-albert-north/) for the bigger picture.
 

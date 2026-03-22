@@ -4,16 +4,22 @@ description: "The story of Hughesdale: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "hughesdale"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Hughesdale Melbourne history"
   - "how has Hughesdale changed"
   - "Hughesdale gentrification"
   - "Hughesdale then and now"
+tags:
+  - "hughesdale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Hughesdale's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Hughesdale has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Hughesdale suburb guide](/hughesdale/) for the current picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Narre Warren Melbourne — Everything You Need to Know"
+title: "Narre Warren Melbourne — what you need"
 description: "The complete guide to Narre Warren. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "narre-warren"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Narre Warren Melbourne"
   - "what is Narre Warren like"
   - "narre-warren suburb"
   - "living in Narre Warren"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Fountain Gate Shopping Centre, diverse community, and the Casey corridor's commercial heart.

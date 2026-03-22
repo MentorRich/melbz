@@ -4,13 +4,18 @@ description: "The insider's guide to Park Orchards's different pockets, streets,
 date: 2026-03-21
 suburb: "park-orchards"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Park Orchards neighbourhood guide"
   - "best streets in Park Orchards"
   - "Park Orchards areas"
   - "Park Orchards pockets Melbourne"
+tags:
+  - "park-orchards"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Park Orchards isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

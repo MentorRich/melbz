@@ -4,13 +4,18 @@ description: "The insider's guide to Kings Park's different pockets, streets, an
 date: 2026-03-21
 suburb: "kings-park"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Kings Park neighbourhood guide"
   - "best streets in Kings Park"
   - "Kings Park areas"
   - "Kings Park pockets Melbourne"
+tags:
+  - "kings-park"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Kings Park isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,13 +4,19 @@ description: "Where to eat in Port Melbourne: the honest guide to the suburb's r
 date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "best-of"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "best restaurants Port Melbourne"
   - "where to eat Port Melbourne"
   - "dinner Port Melbourne Melbourne"
   - "restaurants near Port Melbourne"
+tags:
+  - "port-melbourne"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
@@ -56,4 +62,24 @@ The mid-range is where Port Melbourne shines — restaurants that care about qua
 
 ---
 
-**More on Port Melbourne:** [Port Melbourne Suburb Guide](/port-melbourne/) · [Port Melbourne Best Cafes](/port-melbourne/best-cafes/) · [Port Melbourne Living Guide](/port-melbourne/living-in-port-melbourne/)
+**More on Port Melbourne:** [Port Melbourne Suburb Guide](/port-melbourne/) · [Port Melbourne Best Cafes](/port-melbourne/best-[cafes](/port-melbourne/best-cafes/)/) · [Port Melbourne Living Guide](/port-melbourne/living-in-port-melbourne/)
+
+---
+
+## Explore More of Port Melbourne
+
+- [Port Melbourne History](/port-melbourne/history/)
+- [Port Melbourne Rent Guide](/port-melbourne/rent-guide/)
+- [Port Melbourne Things To Do](/port-melbourne/things-to-do/)
+- [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/)
+- [Port Melbourne Young Professionals Guide](/port-melbourne/young-professionals/)
+- [Port Melbourne Nightlife Guide](/port-melbourne/nightlife-guide/)
+- [Port Melbourne Transport Guide](/port-melbourne/transport-guide/)
+- [Port Melbourne Best Cafes](/port-melbourne/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

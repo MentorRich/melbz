@@ -4,16 +4,22 @@ description: "How expensive is Watsonia? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "watsonia"
 article_type: "cost-of-living"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Watsonia Melbourne"
   - "how expensive is Watsonia"
   - "is Watsonia expensive to live in"
   - "Watsonia rent"
+tags:
+  - "watsonia"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Watsonia — no sugar-coating, no made-up figures.
+Watsonia sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Watsonia suburb guide](/watsonia/) for the bigger picture.
 

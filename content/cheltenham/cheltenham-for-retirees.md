@@ -4,12 +4,16 @@ description: "Considering retirement in Cheltenham? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Cheltenham retirees Melbourne"
   - "retiring in Cheltenham"
   - "quiet suburbs Melbourne"
+tags:
+  - "cheltenham"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Cheltenham? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

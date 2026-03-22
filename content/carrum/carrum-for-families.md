@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Carrum? Parks, schools, safety, and th
 date: 2026-03-21
 suburb: "carrum"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Carrum good for families"
   - "Carrum family friendly"
   - "raising kids in Carrum"
+tags:
+  - "carrum"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Carrum with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

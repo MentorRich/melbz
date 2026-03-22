@@ -4,16 +4,22 @@ description: "The story of Frankston North: from its origins to today. How this 
 date: 2026-03-21
 suburb: "frankston-north"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Frankston North Melbourne history"
   - "how has Frankston North changed"
   - "Frankston North gentrification"
   - "Frankston North then and now"
+tags:
+  - "frankston-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Frankston North's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Frankston North from quiet farmland to a buzzing residential suburb. Understanding that arc explains a lot.
 
 See our full [Frankston North suburb guide](/frankston-north/) for the current picture.
 

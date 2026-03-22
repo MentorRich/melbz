@@ -4,16 +4,22 @@ description: "The story of St Albans: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "st-albans"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "St Albans Melbourne history"
   - "how has St Albans changed"
   - "St Albans gentrification"
   - "St Albans then and now"
+tags:
+  - "st-albans"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. St Albans's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Understanding St Albans means understanding where it came from. The history explains the character.
 
 See our full [St Albans suburb guide](/st-albans/) for the current picture.
 

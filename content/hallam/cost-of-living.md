@@ -4,16 +4,22 @@ description: "How expensive is Hallam? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "hallam"
 article_type: "cost-of-living"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Hallam Melbourne"
   - "how expensive is Hallam"
   - "is Hallam expensive to live in"
   - "Hallam rent"
+tags:
+  - "hallam"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Hallam — no sugar-coating, no made-up figures.
+Hallam living costs reflect its position in Melbourne property landscape. Here are the numbers that matter.
 
 Read our full [Hallam suburb guide](/hallam/) for the bigger picture.
 

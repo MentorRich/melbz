@@ -4,16 +4,22 @@ description: "How expensive is Mentone? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "mentone"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Mentone Melbourne"
   - "how expensive is Mentone"
   - "is Mentone expensive to live in"
   - "Mentone rent"
+tags:
+  - "mentone"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Mentone — no sugar-coating, no made-up figures.
+Everyone asks how expensive is Mentone. The real answer depends on your lifestyle. Here is the data.
 
 Read our full [Mentone suburb guide](/mentone/) for the bigger picture.
 

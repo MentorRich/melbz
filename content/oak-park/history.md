@@ -4,16 +4,22 @@ description: "The story of Oak Park: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "oak-park"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Oak Park Melbourne history"
   - "how has Oak Park changed"
   - "Oak Park gentrification"
   - "Oak Park then and now"
+tags:
+  - "oak-park"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Oak Park's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Oak Park involve post-war migration and renewal.
 
 See our full [Oak Park suburb guide](/oak-park/) for the current picture.
 

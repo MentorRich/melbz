@@ -4,15 +4,22 @@ description: "Public transport in Chelsea: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "chelsea"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Chelsea Melbourne"
   - "commute from Chelsea to city"
   - "Chelsea train station"
+tags:
+  - "chelsea"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Chelsea — what works, what's annoying, and how long things actually take.
+Two words define transport in Chelsea: well-connected. Everything else is detail.
 
 Check out our full [Chelsea suburb guide](/chelsea/) for the complete picture.
 

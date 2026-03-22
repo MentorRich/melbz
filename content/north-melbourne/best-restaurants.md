@@ -4,13 +4,19 @@ description: "Where to eat in North Melbourne: the honest guide to the suburb's 
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "best-of"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "best restaurants North Melbourne"
   - "where to eat North Melbourne"
   - "dinner North Melbourne Melbourne"
   - "restaurants near North Melbourne"
+tags:
+  - "north-melbourne"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
@@ -56,4 +62,24 @@ The mid-range is where North Melbourne shines — restaurants that care about qu
 
 ---
 
-**More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne Best Cafes](/north-melbourne/best-cafes/) · [North Melbourne Living Guide](/north-melbourne/living-in-north-melbourne/)
+**More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne Best Cafes](/north-melbourne/best-[cafes](/north-melbourne/best-cafes/)/) · [North Melbourne Living Guide](/north-melbourne/living-in-north-melbourne/)
+
+---
+
+## Explore More of North Melbourne
+
+- [North Melbourne History](/north-melbourne/history/)
+- [North Melbourne Rent Guide](/north-melbourne/rent-guide/)
+- [North Melbourne Things To Do](/north-melbourne/things-to-do/)
+- [North Melbourne Cost of Living](/north-melbourne/cost-of-living/)
+- [North Melbourne Neighbourhood Guide](/north-melbourne/neighbourhood-guide/)
+- [North Melbourne Transport Guide](/north-melbourne/transport-guide/)
+- [North Melbourne Best Cafes](/north-melbourne/best-cafes/)
+- [North Melbourne Weekend Guide](/north-melbourne/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

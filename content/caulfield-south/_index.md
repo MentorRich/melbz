@@ -1,16 +1,16 @@
 ---
-title: "Caulfield South Melbourne — Everything You Need to Know"
+title: "Caulfield South Melbourne — what you need"
 description: "The complete guide to Caulfield South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Caulfield South Melbourne"
   - "what is Caulfield South like"
   - "caulfield-south suburb"
   - "living in Caulfield South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet streets south of Caulfield with Woolworths access and a purely residential character.

@@ -4,13 +4,19 @@ description: "What to do in North Melbourne this weekend and beyond. Activities,
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "activities"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "things to do North Melbourne"
   - "North Melbourne activities"
   - "what to do in North Melbourne"
   - "North Melbourne weekend plans"
+tags:
+  - "north-melbourne"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -53,7 +59,7 @@ More than you think. Working-class roots with a growing cafe scene. Close to eve
 
 Melbourne weather means you need indoor plans. North Melbourne has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/north-melbourne/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. North Melbourne has:
 ---
 
 **More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne Best Cafes](/north-melbourne/best-cafes/) · [North Melbourne Neighbourhood Guide](/north-melbourne/neighbourhood-guide/)
+
+---
+
+## Explore More of North Melbourne
+
+- [North Melbourne History](/north-melbourne/history/)
+- [North Melbourne Rent Guide](/north-melbourne/rent-guide/)
+- [North Melbourne Cost of Living](/north-melbourne/cost-of-living/)
+- [North Melbourne Neighbourhood Guide](/north-melbourne/neighbourhood-guide/)
+- [North Melbourne Transport Guide](/north-melbourne/transport-guide/)
+- [North Melbourne Best Cafes](/north-melbourne/best-cafes/)
+- [North Melbourne Best Restaurants](/north-melbourne/best-restaurants/)
+- [North Melbourne Weekend Guide](/north-melbourne/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

@@ -1,16 +1,16 @@
 ---
-title: "Port Melbourne Melbourne — Everything You Need to Know"
+title: "Port Melbourne Melbourne — what you need"
 description: "The complete guide to Port Melbourne. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "profile"
 author: "Sarah Chen"
-author_image: "/images/authors/sam.jpg"
 keywords:
   - "Port Melbourne Melbourne"
   - "what is Port Melbourne like"
   - "port-melbourne suburb"
   - "living in Port Melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Bay Trail running, Station Pier views, and a growing apartment scene along the waterfront.

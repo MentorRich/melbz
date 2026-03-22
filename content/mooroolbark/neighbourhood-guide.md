@@ -4,13 +4,18 @@ description: "The insider's guide to Mooroolbark's different pockets, streets, a
 date: 2026-03-21
 suburb: "mooroolbark"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Mooroolbark neighbourhood guide"
   - "best streets in Mooroolbark"
   - "Mooroolbark areas"
   - "Mooroolbark pockets Melbourne"
+tags:
+  - "mooroolbark"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mooroolbark isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

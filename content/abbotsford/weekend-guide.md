@@ -1,19 +1,14 @@
 ---
 title: "What to Do in Abbotsford This Weekend"
-description: "Your weekend in Abbotsford sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner North."
-date: 2026-03-21
+description: "Your weekend in Abbotsford sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner North. Updated for 2026 with real."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
+cover_image: "/images/abbotsford/weekend-guide.jpg"
+cover_image_alt: "Weekend Guide in Abbotsford Melbourne"
 suburb: "abbotsford"
-article_type: "weekend"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
-keywords:
-  - "what to do Abbotsford this weekend"
-  - "Abbotsford weekend"
-  - "things to do Abbotsford Saturday"
-  - "Abbotsford Sunday plans"
+tags: ["abbotsford", "weekend-guide"]
 ---
-
-
 ## Your Weekend in Abbotsford
 
 Abbotsford does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
@@ -61,4 +56,6 @@ Abbotsford does weekends well. Whether you're the type who plans every hour or p
 
 ---
 
-**More on Abbotsford:** [Abbotsford Suburb Guide](/abbotsford/) · [Abbotsford Things to Do](/abbotsford/things-to-do/) · [Abbotsford Best Restaurants](/abbotsford/best-restaurants/)
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
+
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

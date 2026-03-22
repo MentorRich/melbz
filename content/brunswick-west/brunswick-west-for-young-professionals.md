@@ -4,12 +4,18 @@ description: "Is Brunswick West a good suburb for young professionals? Social sc
 date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "young-professionals"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Brunswick West young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Brunswick West"
+tags:
+  - "brunswick-west"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Brunswick West as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

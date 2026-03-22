@@ -4,12 +4,16 @@ description: "Considering retirement in Aspendale Gardens? Quiet streets, health
 date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Aspendale Gardens retirees Melbourne"
   - "retiring in Aspendale Gardens"
   - "quiet suburbs Melbourne"
+tags:
+  - "aspendale-gardens"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Aspendale Gardens? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

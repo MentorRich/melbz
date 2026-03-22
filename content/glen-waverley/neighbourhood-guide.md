@@ -4,13 +4,18 @@ description: "The insider's guide to Glen Waverley's different pockets, streets,
 date: 2026-03-21
 suburb: "glen-waverley"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Glen Waverley neighbourhood guide"
   - "best streets in Glen Waverley"
   - "Glen Waverley areas"
   - "Glen Waverley pockets Melbourne"
+tags:
+  - "glen-waverley"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Glen Waverley isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,19 +4,25 @@ description: "What to do in Cheltenham this weekend and beyond. Activities, even
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "activities"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "things to do Cheltenham"
   - "Cheltenham activities"
   - "what to do in Cheltenham"
   - "Cheltenham weekend plans"
+tags:
+  - "cheltenham"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
 ## What Is There to Do in Cheltenham?
 
-More than you think. Southland Shopping Centre access, good transport, and family homes at bayside prices. That energy translates into things to do on any day of the week, rain or shine.
+More than you think. Southland Shopping Centre access, good [transport](/cheltenham/transport-guide/), and family homes at bayside prices. That energy translates into things to do on any day of the week, rain or shine.
 
 ## Outdoor Activities
 
@@ -53,7 +59,7 @@ More than you think. Southland Shopping Centre access, good transport, and famil
 
 Melbourne weather means you need indoor plans. Cheltenham has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/cheltenham/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Cheltenham has:
 ---
 
 **More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham Best Cafes](/cheltenham/best-cafes/) · [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+
+---
+
+## Explore More of Cheltenham
+
+- [Cheltenham History](/cheltenham/history/)
+- [Cheltenham Rent Guide](/cheltenham/rent-guide/)
+- [Cheltenham Cost of Living](/cheltenham/cost-of-living/)
+- [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+- [Cheltenham Living In Cheltenham](/cheltenham/living-in-cheltenham/)
+- [Cheltenham Transport Guide](/cheltenham/transport-guide/)
+- [Cheltenham Best Cafes](/cheltenham/best-cafes/)
+- [Cheltenham Cheltenham For Retirees](/cheltenham/cheltenham-for-retirees/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

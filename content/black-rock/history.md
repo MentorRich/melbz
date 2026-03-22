@@ -4,16 +4,22 @@ description: "The story of Black Rock: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "black-rock"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Black Rock Melbourne history"
   - "how has Black Rock changed"
   - "Black Rock gentrification"
   - "Black Rock then and now"
+tags:
+  - "black-rock"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Black Rock's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Black Rock has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Black Rock suburb guide](/black-rock/) for the current picture.
 

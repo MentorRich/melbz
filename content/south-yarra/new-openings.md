@@ -1,79 +1,96 @@
 ---
-title: "New Openings in South Yarra 2026"
+title: "New Restaurant and Bar Openings in South Yarra 2026"
+description: "The newest restaurants, cafes and bars in South Yarra for 2026. Eight new venues from Hearth and Vine on Toorak Road to Kissa on Chapel Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sharma"
 cover_image: "/images/south-yarra/new-openings.jpg"
-date: 2026-03-18
-author: priya
-author_image: "/images/authors/priya.jpg"
-description: "The newest restaurants, cafes, and bars that just opened in South Yarra. Fresh concepts and exciting new venues to try this year."
-tags: ["south-yarra", "new-openings"]
-categories: ["new"]
+cover_image_alt: "South Yarra Melbourne new restaurant opening"
+suburb: "south-yarra"
+tags: ["melbourne", "south-yarra", "new-openings", "restaurants"]
 ---
 
-*Updated 18 March 2026 | Food Editor*
+South Yarra's dining scene is shifting. The 2026 wave of openings leans toward focused concepts — venues doing a few things well rather than trying to please everyone. Wood-fired cooking, natural wine, single-protein [restaurants](/south-yarra/best-restaurants/), and day-to-night transformations. Here are the new arrivals worth knowing about.
 
-# South Yarra's Dining Scene Expands: The Most Anticipated New Openings of 2026
+## The New Arrivals
 
-The dining landscape of [South Yarra](/south-yarra/) is undergoing a subtle but significant shift. While the suburb has long been synonymous with established fine dining and classic European bistros, 2026 is seeing a new wave of openings that prioritize ingredient-driven simplicity, innovative beverage programs, and spaces that feel less like formal restaurants and more like sophisticated extensions of a host’s home. As someone who has covered Melbourne’s food scene for years, I’m particularly excited by this move towards confident, less fussy dining. The focus is on provenance, technique, and creating a genuine sense of occasion without the stuffiness. Here are the new openings that have captured my attention this season.
+### 1. Hearth & Vine — 28 Toorak Road
 
-### 1. Hearth & Vine
-**Address:** 28 Toorak Road, South Yarra VIC 3141
+A large wood-fired hearth anchors the open kitchen. Chef Anya Petrov (formerly of a celebrated Tasmanian wood-fire restaurant) runs a menu built around Victorian producers. The dry-aged duck cooked over ironbark with black garlic and sour cherry glaze is the standout. The wine list leans into minimal-intervention producers from the Macedon Ranges and Geelong. Cooking with primal appeal, executed with precision.
 
-Walking into Hearth & Vine feels like being welcomed into a particularly well-designed Scandinavian cabin. The centrepiece is a large, wood-fired hearth that dominates the open kitchen, used not just for grilling but for slow-roasting, baking bread, and even smoking butter. Chef Anya Petrov, formerly of a celebrated wood-fire restaurant in Tasmania, has crafted a menu that reads like a love letter to Victorian producers. The star is the dry-aged duck, cooked over ironbark and served with a black garlic and sour cherry glaze. It’s robust, smoky, and deeply flavourful. The wine list, curated by sommelier Ben Carter, leans heavily into minimal-intervention producers from the Macedon Ranges and Geelong, with a particular fondness for skin-contact whites that stand up beautifully to the char from the hearth. This is cooking with primal appeal, executed with modern precision.
+### 2. Lune Epicerie — 421 Chapel Street
 
-### 2. Lune Épicerie
-**Address:** 421 Chapel Street, South Yarra VIC 3141
+An offshoot of the famous croissanterie, focused on savoury pastry. Daytime only (7am-3pm). Lamb shoulder pies with rosemary and pine nut, leek and Gruyere tarts, and the classic almond croissant. Rotating single-origin espresso from local roasters. Watch the team laminate dough through the glass.
 
-Yes, it’s an offshoot of the famed croissanterie, but Lune Épicerie is a distinct entity. Situated just a few doors down from their production facility, this is a daytime-only destination (7am–3pm) focused on the savoury side of pastry. The space is all white tiles, brushed steel, and glass, allowing you to watch the team laminate dough for their signature items. Beyond the classic almond croissant, you’ll find exquisite, handheld savoury pies—the lamb shoulder with rosemary and pinenut is a masterclass in flaky pastry—alongside tarts filled with leek and Gruyère. Their coffee program is serious, featuring a rotating single-origin espresso from local roasters. It’s the perfect spot for a business breakfast or a solo lunch where you can indulge in the technical brilliance that made Lune famous, without the usual sweet-tooth prerequisite.
+### 3. Vin & Volaille — 15 Bray Street
 
-### 3. Vin & Volaille
-**Address:** 15 Bray Street, South Yarra VIC 3141
+Wine bar with a narrow focus: natural wine and chicken. The chicken comes from a specific Yarra Valley farm and appears spatchcocked over charcoal, confit in duck fat, or as weekend-only ramen broth. The wine list runs through small-batch Australian and French natural producers. The chicken liver parfait with house-made brioche earns the visit alone.
 
-Tucked just off the main Chapel Street drag, Vin & Volaille is a wine bar with a beautifully narrow focus: natural wine and chicken. Don’t let the simplicity fool you. The chicken, sourced from a specific farm in the Yarra Valley, is prepared in a multitude of ways—spatchcocked and grilled over charcoal, slowly confit in duck fat, or transformed into a rich, comforting broth for their weekend-only ramen. The wine list is an adventurous journey through small-batch Australian and French natural wines, with knowledgeable staff eager to guide you. The fit-out is intimate, with banquette seating and a long bar where solo diners can perch. It’s a concept that could feel gimmicky, but instead, it’s executed with such sincerity and skill that it becomes a revelation. The chicken liver parfait, served with house-made brioche, is worth the visit alone.
+### 4. The Brasserie at Como — 303-325 Toorak Road
 
-### 4. Nocturne
-**Address:** 671 Malvern Road, Toorak VIC 3142 (on the South Yarra border)
+Inside the refurbished Como Mews. High ceilings, marble tabletops, bentwood chairs, arched windows overlooking a courtyard. French brasserie fare with Victorian ingredients — the steak frites uses grass-fed local beef, the whole roasted flounder with brown butter and capers is a centrepiece dish. Pre-theatre menu and an afternoon tea pastry trolley.
 
-Technically just across the border in Toorak, Nocturne’s influence is already being felt in the South Yarra scene. This is a late-night venue (open from 5pm until 2am) designed for the post-theatre, post-dinner crowd. The atmosphere is moody and sophisticated, with deep blue velvet booths, low lighting, and a soundtrack of cool jazz. The menu is a collection of refined, small-plate comfort food: think Wagyu beef sliders with truffle aioli, crisp fried school prawns with lemon myrtle salt, and a stunning potato gratin dauphinois. The cocktail program is the main event, featuring reimagined classics and a dedicated martini trolley that circles the room. It fills a genuine gap in the area for a grown-up, late-night spot that isn’t a club or a pub.
+### 5. Kissa — 567 Chapel Street
 
-### 5. Sól
-**Address:** 1127 High Street, Armadale VIC 3143 (a short walk from South Yarra)
+A Japanese kissaten (traditional coffee shop) with a Melbourne twist. By day: meticulously brewed pour-over coffee and wagashi (Japanese sweets). By evening: the lights dim and it becomes an izakaya with agedashi tofu, chicken yakitori, and a serious Japanese whisky and sake selection. Blonde timber, washi paper screens, and ceramic tableware from local artists.
 
-Sól, meaning "sun" in Old Norse, is a bright, airy café that brings a distinct Nordic sensibility to Melbourne’s brunch scene. The space is minimalist, with pale wood, white walls, and an abundance of natural light. The menu avoids the typical avocado smash territory, instead offering dishes like rye porridge with stewed rhubarb and toasted seeds, open-faced sandwiches on dense, dark bread topped with pickled herring or cured trout, and a truly exceptional cardamom bun. Their focus on fermentation extends to their drinks, with house-made kombucha and a shrub-based non-alcoholic cocktail list that is as thoughtful as any bar’s. It’s a calm, nourishing alternative to the often-chaotic weekend brunch rush.
+### 6. Fieldwork — 89 Commercial Road
 
-### 6. The Brasserie at Como
-**Address:** 303-325 Toorak Road, South Yarra VIC 3141
+Wine bar and bottle shop with a strictly Victorian wine philosophy. Shelves stocked exclusively with wines from Mornington Peninsula, Beechworth, and the Grampians. The by-the-glass menu changes weekly. Food is designed to accompany wine: house-made charcuterie, terrines, sourdough with cultured butter, rotating cheeses. Communal tables and staff who are educators rather than sellers.
 
-Within the newly refurbished Como Mews, this all-day brasserie brings a touch of Parisian grandeur to the precinct. The room is stunning—high ceilings, marble tabletops, bentwood chairs, and large arched windows overlooking a courtyard. The menu is a greatest hits of French brasserie fare, executed with impeccable local ingredients. The steak frites, using grass-fed Victorian beef, is a benchmark, and the whole roasted flounder with brown butter and capers is a showstopper. They offer a pre-theatre menu that is exceptional value, and their pastry trolley at afternoon tea is a nostalgic delight. It’s a versatile space that works for a celebratory dinner, a leisurely weekend lunch, or a sophisticated coffee meeting.
+### 7. Nocturne — 671 Malvern Road (Toorak border)
 
-### 7. Kissa
-**Address:** 567 Chapel Street, South Yarra VIC 3141
+Late-night venue (5pm-2am) for the post-theatre, post-dinner crowd. Deep blue velvet booths, low lighting, cool jazz soundtrack. Refined small plates: Wagyu sliders with truffle aioli, crisp school prawns with lemon myrtle salt, potato gratin dauphinois. A dedicated martini trolley circles the room. Fills the gap for a grown-up late-night spot.
 
-Kissa is a modern Japanese kissaten—a traditional coffee shop—but with a Melbourne twist. By day, it’s a serene spot for meticulously brewed pour-over coffee (using single-origin beans roasted in-house) and delicate wagashi (Japanese sweets). As evening falls, the lights dim, and it transforms into an intimate izakaya. The evening menu features small plates like silky agedashi tofu, grilled chicken yakitori with tare glaze, and an impressive selection of Japanese whisky and sake. The design is a harmonious blend of blonde timber, washi paper screens, and ceramic tableware sourced from local artists. It’s a multi-faceted venue that caters to different needs throughout the day with consistent elegance.
+### 8. Sol — 1127 High Street, Armadale (short walk from South Yarra)
 
-### 8. Fieldwork
-**Address:** 89 Commercial Road, South Yarra VIC 3141
+Nordic-inspired cafe with minimalist design. Rye porridge with stewed rhubarb, open-faced sandwiches on dense dark bread with pickled herring or cured trout, and an exceptional cardamom bun. House-made kombucha and a non-alcoholic cocktail list built on shrubs. Calm alternative to the weekend brunch rush.
 
-Fieldwork is a wine bar and bottle shop hybrid with a staunchly local philosophy. The shelves are stocked exclusively with wines from Victorian regions—Mornington Peninsula, Beechworth, the Grampians—and the by-the-glass menu changes weekly based on what the owners are most excited about. The food is designed to accompany wine: think house-made charcuterie, terrines, excellent sourdough with cultured butter, and a rotating selection of cheeses. The space is unpretentious, with communal tables and a friendly buzz. It’s a fantastic place to learn about Victorian wine in a relaxed setting, with staff who are passionate educators rather than mere servers. It’s already becoming a beloved local for residents of the [best apartments in Melbourne](/best-apartments-melbourne/) seeking a neighbourhood haunt.
+## What These Openings Tell Us
 
-This new cohort of openings signals a maturing of the South Yarra dining scene. The emphasis is on specialty, on doing a few things exceptionally well, and on creating environments that are as considered as the food and drink on offer. Whether it’s the primal allure of the hearth, the focused simplicity of great chicken and natural wine, or the calm innovation of a Nordic café, these venues are adding depth and diversity to one of Melbourne’s most storied dining precincts. For more guides to the city’s evolving food landscape, explore our coverage of the [best restaurants in Melbourne](/best-restaurants-melbourne/) and the [best cafes in Melbourne](/best-cafes-melbourne/).
+The trend is specialisation. Vin & Volaille does chicken and wine. Fieldwork does Victorian wine and charcuterie. Kissa does Japanese coffee and izakaya. These venues aren't trying to be everything — they're confident in a narrow lane and execute it well.
 
+The other trend is day-to-night flexibility. Kissa transforms from kissaten to izakaya. Lune Epicerie takes the croissanterie into savoury territory. Nocturne fills the 10pm-2am gap that most South Yarra restaurants leave empty.
 
+## What We're Watching
 
-## Venue Addresses & Details
+**Como Lane by Scott Pickett Group** — Parisian-garden-themed cafe inside the Como House estate. Early reviews are positive (XO chilli scrambles, lemon-myrtle pancakes) but it opened late 2025 and we want to see a full year of service before adding it to a "best of" list. First impressions: promising.
 
-- **The Yarra Terrace** — 122 Toorak Road, South Yarra, VIC 3141 ($$$). Open: Tue-Sun 12:00 PM - 11:00 PM. *Tip: Book the corner booth at sunset for the best light*
-- **Komorebi South Yarra** — 45 Chapel Street, South Yarra, VIC 3141 ($$). Open: Mon-Sat 7:00 AM - 4:00 PM. *Tip: Try the matcha-infused sourdough toast*
-- **Osteria Vico** — 88 Domain Road, South Yarra, VIC 3141 ($$$). Open: Wed-Sun 5:30 PM - 10:30 PM. *Tip: The house-made pappardelle is off-menu on request*
-- **Botanica Wine Bar** — 210 Commercial Road, South Yarra, VIC 3141 ($$). Open: Thu-Sun 4:00 PM - 12:00 AM. *Tip: Check their Instagram for weekly rotating natural wine flights*
-- **The Foundry South Yarra** — 15-17 Punt Road, South Yarra, VIC 3141 ($$). Open: Daily 11:00 AM - 1:00 AM. *Tip: The Sunday roast sells out by 3 PM*
-## Related Articles
+## The Verdict
 
-- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
-- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
-- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
-- [Best Bars in Melbourne](/best-bars-melbourne)
-- [Cost of Living in Melbourne](/cost-of-living-melbourne)
-- [Transport Guide for Melbourne](/transport-guide-melbourne)
+This cohort of openings signals a maturing South Yarra dining scene. The emphasis is on doing a few things exceptionally well and creating spaces as considered as the food. For the diner, it means more reasons to eat in the suburb and fewer reasons to cross the river.
 
-*Find more Melbourne suburb guides at [melbz.com.au](/)*
+## FAQ
 
+**What's the best new restaurant in South Yarra?**
+Hearth & Vine on Toorak Road for the wood-fired experience. Vin & Volaille on Bray Street for something more intimate.
+
+**Are there new late-night options?**
+Nocturne on the Toorak border serves refined small plates and cocktails until 2am.
+
+**Any new [cafes](/south-yarra/best-cafes/)?**
+Lune Epicerie at 421 Chapel Street for savoury pastry and excellent coffee. Kissa at 567 Chapel Street for Japanese pour-over.
+
+---
+
+**More South Yarra:** [Best Restaurants](/south-yarra/best-restaurants/) | [Best Cafes](/south-yarra/best-cafes/) | [Nightlife Guide](/south-yarra/[nightlife](/south-yarra/nightlife-guide/)-guide/)
+
+---
+
+## Explore More of South Yarra
+
+- [South Yarra History](/south-yarra/history/)
+- [South Yarra Late Night Eats](/south-yarra/late-night-eats/)
+- [South Yarra Things To Do This Weekend](/south-yarra/things-to-do-this-weekend/)
+- [South Yarra Cheap Eats](/south-yarra/cheap-eats/)
+- [South Yarra Rent Guide](/south-yarra/rent-guide/)
+- [South Yarra Suburb Roast](/south-yarra/suburb-roast/)
+- [South Yarra Date Night Guide](/south-yarra/date-night/)
+- [South Yarra Live Music](/south-yarra/live-music/)
+
+### Nearby Suburbs Worth Checking
+
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)
+- [Albert Park Suburb Guide](/albert-park/)

@@ -1,16 +1,16 @@
 ---
-title: "Middle Park Melbourne — Everything You Need to Know"
+title: "Middle Park Melbourne — what you need"
 description: "The complete guide to Middle Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "middle-park"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Middle Park Melbourne"
   - "what is Middle Park like"
   - "middle-park suburb"
   - "living in Middle Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Beach access and leafy streets without St Kilda's intensity. A quiet bayside gem.

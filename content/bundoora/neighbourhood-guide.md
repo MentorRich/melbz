@@ -4,13 +4,18 @@ description: "The insider's guide to Bundoora's different pockets, streets, and 
 date: 2026-03-21
 suburb: "bundoora"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Bundoora neighbourhood guide"
   - "best streets in Bundoora"
   - "Bundoora areas"
   - "Bundoora pockets Melbourne"
+tags:
+  - "bundoora"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Bundoora isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

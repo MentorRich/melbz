@@ -4,15 +4,22 @@ description: "Public transport in Coolaroo: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "coolaroo"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Coolaroo Melbourne"
   - "commute from Coolaroo to city"
   - "Coolaroo train station"
+tags:
+  - "coolaroo"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Coolaroo — what works, what's annoying, and how long things actually take.
+Getting around Coolaroo comes down to train connections through the loop. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Coolaroo suburb guide](/coolaroo/) for the complete picture.
 

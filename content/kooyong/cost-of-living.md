@@ -4,16 +4,22 @@ description: "How expensive is Kooyong? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "kooyong"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Kooyong Melbourne"
   - "how expensive is Kooyong"
   - "is Kooyong expensive to live in"
   - "Kooyong rent"
+tags:
+  - "kooyong"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Kooyong — no sugar-coating, no made-up figures.
+Kooyong sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Kooyong suburb guide](/kooyong/) for the bigger picture.
 

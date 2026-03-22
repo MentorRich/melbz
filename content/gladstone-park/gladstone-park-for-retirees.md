@@ -4,12 +4,16 @@ description: "Considering retirement in Gladstone Park? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Gladstone Park retirees Melbourne"
   - "retiring in Gladstone Park"
   - "quiet suburbs Melbourne"
+tags:
+  - "gladstone-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Gladstone Park? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

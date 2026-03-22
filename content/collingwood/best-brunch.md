@@ -1,138 +1,115 @@
 ---
-title: "Best Brunch in Collingwood — 2026 Local Guide"
+title: "Best Brunch in Collingwood Melbourne 2026"
+description: "The best brunch spots in Collingwood for 2026. From Proud Mary's warehouse breakfasts to quiet corners on Wellington Street and Johnston Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reeves"
 cover_image: "/images/collingwood/best-brunch.jpg"
+cover_image_alt: "Collingwood Melbourne brunch scene"
+suburb: "collingwood"
+tags: ["melbourne", "collingwood", "brunch"]
 ---
 
-suburb: "collingwood"
-vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "The 8 best brunch spots in Collingwood for 2026 — from warehouse-scale brekkies to quiet corner spots where the eggs are always runny."
-tags: ["collingwood"]
-categories: ["best"]
-# Best Brunch in Collingwood — 8 Spots That Actually Deliver (2026)
+# Best Brunch in Collingwood — Where to Eat on a Saturday Morning (2026)
 
-Collingwood takes brunch more seriously than most suburbs take their entire identity. This is a place where a Saturday morning egg is a political statement, where the queue at 9am is part of the experience, and where "just a quick breakfast" never actually takes less than 90 minutes because you spotted someone you know three tables over and had to catch up. The food scene here skews ambitious — kitchens that treat brunch like a proper service, not just a warm-up for lunch. If you want eggs, you'll get eggs. If you want something better, Collingwood has that too.
+Collingwood takes brunch seriously enough that Saturday morning queues are just part of the deal. The suburb's warehouse conversions and side-street [cafes](/collingwood/best-cafes/) mean there's genuine variety — you can do a full production breakfast at a packed institution on Nelson Street or a quiet eggs-and-coffee situation on Wellington Street without walking more than ten minutes. Smith Street has options, but the better brunch spots tend to sit one block off the main strip where the [rent](/collingwood/cost-of-living/) is slightly lower and the kitchens have room to think.
 
-**Last updated: 17 March 2026** | **Collingwood Vibe Score: 83/100 ⚡️**
+Here are the spots that consistently deliver.
 
+## 1. Proud Mary — The Full-Scale Warehouse Breakfast
 
-## 1. Proud Mary — The Big Beast
+Proud Mary on Nelson Street has been Collingwood's flagship brunch since 2009. The warehouse space is big, loud, and communal — high ceilings, long tables, and a room that fills from 8am on weekends. The menu is ambitious: a Full Breakfast board that could feed three people, house-cured salmon, and seasonal dishes that rotate regularly. The coffee program is the real anchor — they roast in-house and run a rotating single-origin menu that serious coffee drinkers travel across Melbourne for.
 
-**The vibe:** If Collingwood had a brunch ambassador, it would be Proud Mary. This sprawling warehouse on Nelson Street has been feeding the suburb since 2009, and the menu has only gotten more expansive. We're talking an actual full-breakfast board that could feed four people, house-cured salmon, and dishes that arrive looking like they belong in a magazine. The room is loud, communal, and full of energy — exactly the kind of Saturday morning chaos that Collingwood was built on.
+Expect a 30–40 minute wait on Saturday mornings between 9am and 11am. Arrive before 8:30am or try a weekday, when the room doesn't peak until after 9.
 
-The coffee is world-class (27th in the world's best coffee shops 2026), which means your flat white isn't an afterthought — it's a co-star.
-
-**Order this:** The Full Breakfast board ($32) — it's obscene in the best way
 **Address:** 60 Nelson Street, Collingwood VIC 3066
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
-**Insider tip:** If you're a group of 4+, they'll often seat you faster than couples. The wait can stretch to 40 minutes on Saturday at 9:30am — pre-book via their website for groups, or rock up at 8am and walk straight in.
+**Price:** $$–$$$
+**What to order:** The Full Breakfast board ($32) and a single-origin flat white
 
+## 2. Terror Twilight — The Johnston Street Corner Classic
 
-## 2. Terror Twilight — The Corner Classic
+Terror Twilight occupies a sun-drenched corner on Johnston Street where the light pours through wrap-around windows all morning. Named after a Pavement album, the space draws a mixed crowd: young families, tradies, freelancers on laptops. The food hits a balance between creative and unfussy — the zucchini fritters with poached eggs are the signature dish, but the seasonal specials are worth asking about. The kitchen changes things up often enough that regulars don't get bored.
 
-**The vibe:** Named after a Pavement album, Terror Twilight owns one of Collingwood's best corners — Johnston Street where it meets the Abbotsford border. Sunlight floods the room through wrap-around windows, and the crowd is the full Collingwood spectrum: young families with prams, tradies fresh off a start, freelancers nursing their third coffee. The food is seriously good without being fussy, which is a harder balance to strike than most cafes realise.
+Johnston Street is a straight walk from Smith Street or from the [Fitzroy](/fitzroy/) side, making this an easy stop if you're exploring both suburbs.
 
-The zucchini fritters are the headliner, but the seasonal specials are worth asking about — the kitchen changes things up regularly enough that there's always a reason to come back.
-
-**Order this:** Zucchini fritters with poached eggs and house relish ($19)
 **Address:** 55 Johnston Street, Collingwood VIC 3066
 **Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
-**Insider tip:** The corner window table is the best seat in the house. If it's taken, the outdoor tables are solid in warmer months. From Fitzroy, it's a straight 5-minute walk down Johnston Street.
+**Price:** $$
+**What to order:** Zucchini fritters with poached eggs and house relish ($19)
 
+## 3. Aunty Peg's — Black Coffee, No Compromise
 
-## 3. The Farm Cafe — The One With Actual Produce
+Aunty Peg's on Wellington Street isn't a traditional brunch spot — there's no food menu to speak of, and they don't serve milk coffee. What they do is pour-over black coffee at an exceptional level. It's the sister venue to Proud Mary, but where Proud Mary goes big, Aunty Peg's goes focused. About 15 seats, a concrete-and-white-wall fit-out, and baristas who'll walk you through whichever single-origin is on the grinder. Come here for the coffee, eat somewhere else for the food. Or pair it with brunch at Terror Twilight, which is a ten-minute walk east along Johnston Street.
 
-**The vibe:** The Farm Cafe lives up to its name — there's a genuine kitchen garden out back, the produce is as local as it gets, and the menu changes with what's actually in season. Located in a converted warehouse near the Collingwood-Fitzroy border, it's spacious and relaxed, with long communal tables that encourage the kind of casual brunch energy where strangers end up sharing the newspaper (or, more likely, their phones).
+**Address:** 200 Wellington Street, Collingwood VIC 3066
+**Hours:** Mon–Fri 7:30am–2:30pm, Sat 8am–2:30pm
+**Price:** $
+**What to order:** The pour-over flight ($14) — three origins side by side
 
-The all-day breakfast runs until 3pm, which is perfect for anyone whose Saturday morning doesn't technically start until noon.
+## 4. Alimentari — The Italian Morning Ritual
 
-**Order this:** The farm plate ($24) — seasonal greens, poached eggs, sourdough, and whatever the kitchen is excited about that week
-**Address:** 67 George Street, Collingwood VIC 3066
-**Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
-**Insider tip:** They do a solid take-home range — house-made granola, relishes, and bread. Grab a jar of their chilli jam. It's $9 and it will transform your toast game forever.
+Alimentari on Smith Street is part deli, part cafe, and functions as Collingwood's Italian breakfast institution. The cornetti are baked fresh and still warm at 8am. The espresso is short, strong, and properly Italian — no third-wave ceremony, just good extraction and speed. The shelves are stacked with imported olive oils, tinned fish, and cheeses. It works as a grab-and-go morning stop or a proper sit-down with a panini and the newspaper. The Smith Street location means foot traffic is constant, but the staff move fast.
 
+**Address:** 302 Smith Street, Collingwood VIC 3066
+**Hours:** Mon–Sat 7:30am–4pm, Sun 8am–3pm
+**Price:** $–$$
+**What to order:** A cornetto with ricotta ($6) and a macchiato ($4)
 
-## 4. Addict Food & Coffee — The Consistency King
+## 5. Stomping Ground — The Weekend Beer-Hall Brunch
 
-**The vibe:** Addict is the brunch spot you recommend when someone asks "where's reliably good?" Because it is, every single time. The Faraday Street location is small — maybe 20 seats inside, a handful more outside — but the kitchen punches well above its weight. Creative dishes that don't try too hard, a coffee program that's properly executed, and service that moves at a pace that respects your Saturday morning.
+Stomping Ground on Gipps Street is primarily a brewery, but their weekend brunch program has built its own following. The space is enormous — a converted warehouse with a beer garden, long tables, and room for prams and dogs. The food is hearty pub-level breakfast: eggs, bacon, hash browns, and toast done well rather than reinvented. The real draw is drinking a fresh pale ale at 10am in a sunlit beer garden while your eggs arrive. It's not fine dining. It doesn't pretend to be.
 
-The French toast is a standout. Not the "drown it in maple syrup and call it done" version — the real deal, with seasonal fruit and a house-made custard that suggests someone in that kitchen has actually trained.
+**Address:** 100 Gipps Street, Collingwood VIC 3066
+**Hours:** Sat–Sun brunch from 10am; weekday hours vary
+**Price:** $$
+**What to order:** The big breakfast and a Gipps Street Pale Ale
 
-**Order this:** French toast with seasonal fruit ($21) and a piccolo ($4.50)
-**Address:** 106 Faraday Street, Collingwood VIC 3066
-**Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
-**Insider tip:** Faraday Street is one block off Lygon Street (the Collingwood end, not Carlton). Less tourist foot traffic, more locals. There's usually free street parking on Faraday after 10:30am.
+## 6. Lune Croissanterie — The Pastry Pilgrimage
 
+Lune on Rose Street (right on the Collingwood-Fitzroy border) is Melbourne's most celebrated croissant operation. The pastries are made in a glass-walled kitchen you can watch from the cafe, and the quality justifies the queue. Lune isn't a full brunch spot — there are no poached eggs or avocado toast — but a twice-baked almond croissant and a coffee from their counter is a Saturday morning worth having. Arrive early; popular items sell out by mid-morning.
 
-## 5. Seedling Cafe — The Quiet Gem
+**Address:** 119 Rose Street, Collingwood VIC 3066
+**Hours:** Tue–Sat from 7:30am (until sold out)
+**Price:** $–$$
+**What to order:** Twice-baked almond croissant and a long black
 
-**The vibe:** Seedling is tucked away on Wellington Street, which means it doesn't get the Smith Street or Johnston Street foot traffic. That's actually its advantage — you can usually get a table without a wait, and the room has a calm, unhurried feel that some of the more famous spots can't offer. The menu leans into wholesome without being boring — think grain bowls that taste like meals and sourdough that actually has flavour.
+---
 
-The space is light-filled and simple, with a small courtyard out back that's perfect for those crisp Melbourne autumn mornings when the sun's out but the wind hasn't woken up yet.
+## FAQ
 
-**Order this:** The Seedling big breakfast ($22) with a turmeric latte ($6)
-**Address:** 288 Wellington Street, Collingwood VIC 3066
-**Hours:** Tue–Fri 7:30am–2:30pm, Sat–Sun 8am–2:30pm
-**Insider tip:** Closed Mondays — plan accordingly. The banana bread here is baked in-house and sells out most days. If you see it, buy it immediately.
+**What's the best brunch spot in Collingwood for groups?** Proud Mary on Nelson Street handles groups well — the communal tables seat large parties, and they take bookings for groups of four or more. Stomping Ground's beer hall also works for bigger crews without needing a reservation.
 
+**Where should I go if I hate queues?** Terror Twilight on Johnston Street is less hectic than Proud Mary, especially before 9:30am. Aunty Peg's on Wellington Street rarely has a wait, though there's no food. On weekdays, most spots have walk-in availability all morning.
 
-## 6. Three Bags Full — The Mount Alexander Road Classic
+**Is Collingwood brunch expensive?** Mid-range for Melbourne. Expect $18–25 for a main dish and $4.50–5.50 for coffee. Alimentari is the budget pick. Proud Mary sits at the higher end.
 
-**The vibe:** Three Bags Full straddles the Collingwood-Abbotsford border on Mount Alexander Road, and it's been a brunch institution for well over a decade. The warehouse space is generous — high ceilings, exposed brick, plenty of room for prams and laptops — and the menu is reliably excellent. This is the kind of place where you see the same staff year after year because they actually like working there, which tells you everything about the culture.
+**Can I walk between these spots?** Yes. The furthest distance is Proud Mary (Nelson Street) to Stomping Ground (Gipps Street), which is about 12 minutes on foot. Everything else clusters within a few blocks of Smith Street and Johnston Street.
 
-The poached eggs here deserve a paragraph of their own. Perfectly runny, every time, across every dish that uses them. It sounds like a small thing, but in Melbourne's brunch wars, egg execution is the difference between a good cafe and a great one.
+## Our Verdict
 
-**Order this:** The three bags full breakfast ($23) with a long black ($4.50)
-**Address:** 240-244 Mount Alexander Road, Abbotsford VIC 3067 (right on the Collingwood border)
-**Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
-**Insider tip:** Technically Abbotsford, but Collingwood locals claim it. If you're heading to the [Abbotsford Convent](/suburbs/abbotsford) after brunch, it's a 10-minute walk along the boulevard. Combine both for a perfect morning.
+Collingwood's brunch scene holds up because the venues genuinely differ from each other. Proud Mary does the full warehouse production. Terror Twilight nails the neighbourhood corner cafe. Alimentari brings Italian simplicity. Stomping Ground lets you drink beer at 10am without judgment. You don't need to pick a favourite — the suburb is small enough that you can rotate through all six in a month and still want to come back. For more on the food scene, check our [best cafes in Collingwood](/collingwood/best-cafes/) and [best coffee in Collingwood](/collingwood/best-coffee/) guides. If you're crossing the border, the [Fitzroy brunch guide](/fitzroy/best-brunch/) covers the other side of Smith Street.
 
+---
 
-## 7. Fifty Acres — The Botanical One
+*Know a spot we missed? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
 
-**The vibe:** Fifty Acres is a small, plant-filled cafe on Oxford Street that feels like eating in someone's well-designed conservatory. The menu is seasonal and vegetable-forward — not in a preachy way, but in a "we just think vegetables taste better when you cook them properly" way. The room is compact and fills fast, but the outdoor area extends the seating nicely in good weather.
+---
 
-The coffee is good, the pastries are excellent (get the seasonal tart if it's on), and the overall vibe is gentle in a way that Collingwood's louder spots aren't. Sometimes you want a quiet brunch. This is your place.
+## Explore More of Collingwood
 
-**Order this:** Seasonal vegetable plate ($20) and a filter coffee ($4.50)
-**Address:** 137 Oxford Street, Collingwood VIC 3066
-**Hours:** Wed–Sun 8am–2:30pm
-**Insider tip:** Open Thursday to Sunday only. The seasonal tart changes weekly and always sells out by 1pm on weekends — come early if you want one.
+- [Collingwood History](/collingwood/history/)
+- [Collingwood Late Night Eats](/collingwood/late-night-eats/)
+- [Collingwood Things To Do This Weekend](/collingwood/things-to-do-this-weekend/)
+- [Collingwood Cheap Eats](/collingwood/cheap-eats/)
+- [Collingwood Rent Guide](/collingwood/rent-guide/)
+- [Collingwood Date Night Guide](/collingwood/date-night/)
+- [Collingwood New Openings](/collingwood/new-openings/)
+- [Collingwood Things To Do](/collingwood/things-to-do/)
 
+### Nearby Suburbs Worth Checking
 
-## 8. Bowery to Williamsburg — The American Twist
-
-**The vibe:** Named after the iconic New York street intersection, Bowery to Williamsburg brings American-style brunch energy to Collingwood's Johnston Street. Think thick bagels, generous portions, and a NYC-meets-Melbourne aesthetic that shouldn't work but absolutely does. The fit-out is all exposed brick and subway tiles, the menu leans into deli-style breakfasts, and the coffee is proper Melbourne standard.
-
-It's a refreshing change of pace from the avocado-toast brigade. If you're craving a proper bagel with smoked salmon and cream cheese, or a Reuben sandwich for brunch, this is where you go.
-
-**Order this:** The smoked salmon bagel with cream cheese, capers, and dill ($18)
-**Address:** 167 Johnston Street, Collingwood VIC 3066
-**Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
-**Insider tip:** It's on the Fitzroy side of Johnston Street — the border between the two suburbs is blurry here. If you're coming from the [Fitzroy food scene](/suburbs/fitzroy/best-brunch), this is a natural crossover point.
-
-
-## The Bottom Line
-
-Collingwood brunch in 2026 is genuinely world-class — this is the suburb that turned the morning meal into Melbourne's unofficial religion. If you've only got one shot, go to Proud Mary for the full sensory experience or Terror Twilight for a gentler introduction. But honestly, the beauty of Collingwood's brunch scene is that no two spots feel the same: you can go full warehouse chaos, quiet courtyard zen, or American deli energy within a 10-minute walk.
-
-**Your Collingwood Vibe Score this week: 83/100 ⚡️** — Brunch is the engine that drives this score.
-
-
-*Related reads: [Best Coffee in Collingwood](/suburbs/collingwood/best-coffee) · [Best Cafes in Collingwood](/suburbs/collingwood/best-cafes) · [Fitzroy Brunch Guide](/suburbs/fitzroy/best-brunch) · [Cheap Eats in Collingwood](/suburbs/collingwood/cheap-eats)*
-
-*Know a spot we missed? Let us know.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
-
-## Related Articles
-
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/collingwood/](/collingwood/)
-- [/collingwood/hub](/collingwood/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

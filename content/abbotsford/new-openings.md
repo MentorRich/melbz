@@ -1,17 +1,14 @@
 ---
 title: "New Openings in Abbotsford — 2026 Local Guide"
+description: "Discover the new openings in Abbotsford. Our verified 2026 guide covers the best spots for locals. Updated for 2026 with real local picks and honest advice f."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Tan"
 cover_image: "/images/abbotsford/new-openings.jpg"
----
-
+cover_image_alt: "New Openings in Abbotsford Melbourne"
 suburb: "abbotsford"
-vertical: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the new openings in Abbotsford. Our verified 2026 guide covers the best spots for locals."
 tags: ["abbotsford"]
-categories: ["new"]
+---
 ## The Best New Openings in Abbotsford
 
 Abbotsford has always been the quiet achiever of Melbourne's inner east. While neighbouring Collingwood grabs headlines for every new warehouse conversion and Fitzroy getsCredit for every cutting-edge dining concept, Abbotsford has been steadily evolving — adding new venues, hosting emerging talent, and doing it all with the kind of understated confidence that says "we don't need a PR campaign."
@@ -116,42 +113,8 @@ Whether you're checking out Molli for a special dinner, exploring Range for Frid
 
 **Also explore:** [Collingwood new openings](/collingwood/new-openings) · [Richmond food guide](/richmond/best-restaurants) · [Fitzroy new openings](/fitzroy/new-openings)
 
+---
 
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
 
-Living in Abbotsford? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=abbotsford)
-
-### Featured Venues
-
-- **Lygon Street Nursery & Cafe (Farm Vigano)** at 100-110 Farm Rd, Abbotsford VIC 3067
-- **Dr Morse Bar & Eatery** at 274 Johnston St, Abbotsford VIC 3067
-- **Retreat Hotel Abbotsford** at 226 Nicholson St, Abbotsford VIC 3067
-- **Lune Croissanterie** at 119 Rose St, Fitzroy/Abbotsford border, VIC 3065
-- **Dr. Morse Bar & Eatery** at 274 Johnston St, Abbotsford, VIC 3067
-- **Three Bags Full** at 60 Nicholson St, Abbotsford, VIC 3067
-- **Dr. Morse Bar & Eatery** at 274 Johnston St, Abbotsford VIC 3067
-- **Lentil As Anything (Abbotsford Convent)** at 1 St Heliers St, Abbotsford VIC 3067
-- **Bodriggy Brewing Company** at 245 Johnston St, Abbotsford VIC 3067
-- **Ichi Ni Nana Izakaya** at 127 Brunswick St, Fitzroy, VIC 3065
-
-### Key Highlights
-
-- Abbotsford Convent arts precinct
-- Collingwood Children's Farm
-- Victoria Street's authentic Vietnamese eateries
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

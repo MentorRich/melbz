@@ -1,178 +1,149 @@
 ---
-title: "Things To Do This Weekend in Fitzroy — 2026 Local Guide"
+title: "Things to Do This Weekend in Fitzroy — March 2026"
+description: "What to do in Fitzroy this weekend — markets, live music, brunch spots and walks. Your Saturday and Sunday plan for Melbourne's inner north."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Torres"
 cover_image: "/images/fitzroy/things-to-do-this-weekend.jpg"
+cover_image_alt: "Fitzroy Melbourne weekend Brunswick Street"
+suburb: "fitzroy"
+tags: ["melbourne", "fitzroy", "weekend", "things-to-do"]
 ---
 
-suburb: "fitzroy"
-vertical: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the things to do this weekend in Fitzroy. Our verified 2026 guide covers the best spots for locals."
-tags: ["fitzroy"]
-categories: ["things"]
-## Things To Do This Weekend in Fitzroy
+## Your Weekend in Fitzroy — What's Actually Worth Doing
 
-Fitzroy is the suburb that makes you feel guilty for staying home. There's always something on — markets, live music, art openings, food that makes you rethink your cooking. The challenge isn't finding something to do. It's narrowing it down before it's already Sunday evening and you've achieved nothing.
+Fitzroy doesn't need a hype man. The suburb sells itself on density: good coffee, live music, markets, galleries, parks, and food within walking distance of each other. The hard part isn't finding something to do — it's resisting the urge to overbook yourself and ending up exhausted by Saturday afternoon.
 
-Here's your actual plan for the weekend, based on what's genuinely worth leaving the house for.
+This is a realistic weekend plan. Not a fantasy itinerary that requires teleportation and an unlimited budget. Just the things worth leaving the house for this weekend, laid out in a way that actually works.
 
+## Getting Here
 
-## SATURDAY
+Fitzroy doesn't have a train station. It never has. If someone tells you to catch a train to Fitzroy, they're confused or they mean [Collingwood](/collingwood/).
 
-### Morning: Queen Victoria Market — Queen Street (Melbourne CBD, 15 min tram)
+**Tram routes 11 and 86** are your best options from the CBD. The 86 runs along Bourke Street in the city and continues up Smith Street on the Fitzroy-Collingwood border. The 11 runs along Collins Street and up [Brunswick](/brunswick/) Street through the heart of Fitzroy. Both take about 10 to 15 minutes from the city depending on traffic.
 
-Technically not in Fitzroy, but the #86 tram rolls straight down from Brunswick Street and it's the best market in Melbourne. Every Saturday from 6am to 3pm. The produce hall, the deli hall, the hot food — it's all world-class. Get a bratwurst from the German stall ($10), fill a bag with stone fruit, and feel organised for the week.
+If you're cycling, Fitzroy is flat and well-connected to the city via Nicholson Street and the Edinburgh Gardens bike paths. Parking on weekends is doable but annoying — try the side streets off Alexandra Parade or around Edinburgh Gardens.
 
-**Budget:** Free entry. Spending depends on your self-control. Expect $30–$60 for a solid shop.
+## Saturday
 
-### Late Morning: Rose Street Artists' Market — 60 Rose Street, Fitzroy
+### Morning: Rose Street Artists' Market
 
-The Rose Street Market runs every Saturday and Sunday from 8am to 5pm. It's not the biggest market in Melbourne, but it's the most curated. Local designers, vintage clothing, handmade ceramics, original art. You'll find gifts here that you can't get anywhere else.
+**Rose Street Artists' Market** (60 Rose St) runs every Saturday and Sunday. Doors open in the morning and it runs through the afternoon. This is Melbourne's best curated makers' market — local designers, ceramicists, jewellers, illustrators, and textile artists selling direct. It's the kind of place where you walk in for a browse and walk out with a hand-thrown mug and a screen print you didn't budget for.
 
-**Budget:** Free entry. Vintage clothing $30–$80. Art prints $20–$150.
+The market sits in a converted warehouse and the atmosphere is relaxed. Take your time. Talk to the makers. Most of them are happy to explain their process, and you'll find things here that don't exist in any shop.
 
-### Afternoon: Fitzroy Pool — 520 Alexandra Parade, Fitzroy
+**Budget:** Free entry. Expect to spend $30 to $100 if you're buying. Ceramics $25 to $80, prints $20 to $120, jewellery $40 to $150.
 
-Not glamorous, but brilliant. Fitzroy Pool is a classic Melbourne outdoor pool surrounded by high-rises and trees. In summer it's packed, in the cooler months the indoor pool is quiet and meditative. The entry fee is cheap and the vibe is proper community — no fancy gym energy.
+### Late Morning: Coffee and Brunch on Brunswick Street
 
-**Cost:** Adult entry ~$6. Open 6am–9pm weekdays, 8am–7pm weekends.
+Brunswick Street is Fitzroy's main drag and it's lined with [cafes](/fitzroy/best-cafes/) competing for your Saturday morning attention. Two reliable options:
 
-### Evening: Live Music at The Tote — 71 Johnston Street, Fitzroy
+**Marios** (Brunswick St) has been here longer than most of its customers have been alive. It's a Fitzroy institution — no pretension, good Italian-influenced brunch, and a loyal crowd of regulars who've been sitting in the same seats since the nineties. The coffee is solid, the atmosphere is warm, and the staff remember your order if you come often enough.
 
-The Tote is a Fitzroy institution and one of Melbourne's best live music venues. It's been hosting punk, rock, indie, and everything in between since before most of its current audience was born. Check their website for the Saturday lineup — there's usually three or four bands and entry is typically $15–$25.
+**Industry Beans** (3/62 Rose St) is a different energy — a specialty coffee roaster with a polished warehouse space, inventive coffee drinks, and a brunch menu that takes itself seriously. If you care about extraction methods and single-origin beans, this is your spot. If you just want a good flat white and some toast, it also does that without judgement.
 
-**What to drink:** They pour a decent Carlton Draught ($8) and the bar staff don't judge.
+**Budget:** Brunch for two with coffees: $50 to $75 at either venue.
 
+### Afternoon: Edinburgh Gardens
 
-## SUNDAY
+**Edinburgh Gardens** is Fitzroy's backyard. On a Saturday afternoon in decent weather, it fills up with picnics, footballs, dogs, and people reading books on blankets. The gardens stretch from St Georges Road to Brunswick Street North, with a playground, barbecue facilities, and enough space that it never feels overcrowded.
 
-### Morning: Slow Start at Industry Beans — 47 Rose Street, Fitzroy
+Grab takeaway from one of the Brunswick Street spots, find a patch of grass, and do nothing useful for a couple of hours. This is free, it's restorative, and it's one of the best things about living in or visiting Fitzroy.
 
-Start Sunday properly. Industry Beans opens at 7am and the weekend crowd peaks around 9am. Get a Magic ($6.50) and the corn fritters ($21). Read the paper, watch Fitzroy wake up. This is the version of Sunday that Instagram tries to sell you, except it's real.
+If you need more structure, walk the perimeter — it's a good 20-minute loop — or watch whatever local sport is happening on the ovals.
 
-### Midday: Collingwood Children's Farm — 71 St Heliers Street, Abbottsford
+### Evening: Live Music at The Tote
 
-Ten minutes from Fitzroy and one of Melbourne's under-the-radar spots for families. The farm has animals, a café, and a Saturday farmers' market (runs 8am–1pm Saturdays only). On Sunday, it's quieter and you can actually enjoy the space without fighting a pram army.
+**The Tote** (71 Johnston St) is one of Melbourne's most important live music venues. It's been booking punk, rock, garage, indie, and everything adjacent since the 1980s, and it's survived every attempt to shut it down. The room is loud, the carpet is sticky, and the bands are almost always worth seeing.
 
-**Cost:** Adults $16, kids $9, under 2 free. Open 9am–5pm daily.
+Check their socials or website for the Saturday night lineup. Cover is typically $10 to $25 depending on the act. Cheap pints, no pretension, and the kind of atmosphere that reminds you why Melbourne's music scene has the reputation it does.
 
-### Afternoon: Gertrude Street & Smith Street Wandering
+**Budget:** Cover plus a few beers: $40 to $60.
 
-This is Fitzroy's best free activity: walking. Start at Gertrude Street and browse the boutiques — no big chains, just independent fashion, bookshops, and galleries. Walk north along Smith Street into Collingwood and you'll hit vintage shops, record stores, and some of the best cheap eats in the inner north.
+## Sunday
 
-**Key stops on the walk:**
-- **Polyester Books** (307 Smith Street) — zines, indie comics, counterculture
-- **Polyester Records** (330 Smith Street) — vinyl heaven
-- **Luminaire** (177 Gertrude Street) — curated homewares and gifts
-- **Fitzroy Salt** (232 Gertrude Street) — speciality salt and spice shop, surprisingly fascinating
+### Morning: Slow Start
 
-### Evening: Dinner on Brunswick Street
+Sunday in Fitzroy should begin slowly. Walk to your nearest café, get a good coffee, and resist the urge to check your phone for 20 minutes. If you need a specific recommendation, head back to Industry Beans (3/62 Rose St) for a pour-over, or try one of the smaller cafes on Gertrude Street where the pace is gentler and the tables are smaller.
 
-Brunswick Street has mellowed in recent years — fewer clubs, more restaurants. For a Sunday dinner, aim for something low-key. **Marhaba** (272 Brunswick Street) does outstanding Lebanese share plates ($16–$28 per dish), **Bimbo's** (365 Brunswick Street) does Italian with a great wine list ($22–$38 mains), and **Tiamo** (305 Brunswick Street) is a Fitzroy institution for proper Italian comfort food.
+### Late Morning: Gertrude Street Galleries
 
+**Gertrude Street** is Fitzroy's gallery strip. Between Nicholson and Smith Streets, you'll find a concentration of small independent galleries showing contemporary Australian art. Most are free entry, and on a Sunday late morning you can walk the strip without crowds.
 
-## Rainy Day Options
+The galleries rotate shows regularly, so there's usually something new even if you were here a month ago. This is also Melbourne's best street for window shopping — the boutiques, bookshops, and homewares stores between the galleries are worth ducking into.
 
-### Art Galleries
+**Budget:** Free, unless you buy art. Then it depends on your taste and your mortgage situation.
 
-Fitzroy punches above its weight for free galleries:
-- **Australian Centre for Contemporary Art (ACCA)** — 111 Sturt Street, Southbank (short tram ride) — free entry, always interesting
-- **Fitzroy Gallery** — rotating exhibitions on Brunswick Street
-- **Nicholas Building** — 37 Swanston Street, CBD — building full of artist studios, open most days
+### Afternoon: Fitzroy Pool or a Long Walk
 
-### Cinema
+**Fitzroy Pool** (Alexandra Parade) is a proper Melbourne outdoor pool — no frills, affordable entry, and a local crowd that treats it like a second living room. On a warm Sunday afternoon, it's one of the best spots in the inner north. The pool sits right on Alexandra Parade and you can see the city skyline from the deck.
 
-**Sun Theatre** — 8 Ballarat Street, Yarraville — a 1930s art deco cinema that shows a mix of indie, arthouse, and mainstream. Tickets $15–$18. Worth the 20-minute trip.
+If swimming isn't your thing, an alternative is a longer walk. Start at Edinburgh Gardens, head south along Brunswick Street, cut across to Gertrude Street, and loop back via Smith Street. That's a solid hour of walking through some of Melbourne's most interesting streetscapes, with plenty of options to stop for a drink or a snack along the way.
 
+**Budget:** Pool entry around $6 to $8. Walking is free.
 
-## What We Skipped and Why
+### Evening: Dinner Somewhere Low-Key
 
-**Fitzroy Gardens tours:** Tourist territory. Locals don't do this unless they have visiting family.
+Sunday night dinner in Fitzroy should be uncomplicated. Brunswick Street has a deep bench of reliable [restaurants](/fitzroy/best-restaurants/) — Italian, Vietnamese, Middle Eastern, vegetarian. Most don't require bookings on a Sunday. Pick a place that's half full, order a carafe of house wine, and eat something that someone else cooked.
 
-**Street art walking tours:** You can see all of Fitzroy's street art by yourself, for free, in about an hour. Paying $45 for someone to point at a Roscoe Street mural is madness.
+If you want something specific, **Marios** on Brunswick Street does dinner as well as brunch, and the pasta is honest and unpretentious. Gertrude Street has more ambitious options if you feel like spending a bit more, but Sunday night isn't the time for a three-hour degustation.
 
-**Trivia nights:** We love trivia, but venue-specific nights change too frequently to list reliably. Check your local pub's socials.
+**Budget:** Dinner for two with wine: $70 to $110 depending on the venue.
 
+## If It Rains
 
-## Cross-Suburb Weekend Ideas
+Fitzroy is walkable even in the rain, but if you'd rather stay dry:
 
-- [Things To Do in Collingwood](/fitzroy/things-to-do-this-weekend) — the industrial-chic sibling
-- [Things To Do in Carlton](/fitzroy/things-to-do-this-weekend) — Italian quarter energy
-- [Things To Do in Fitzroy North](/fitzroy/things-to-do-this-weekend) — quieter weekend rhythms
+- **Gertrude Street galleries** are indoors and free
+- **Rose Street Artists' Market** is covered
+- Brunswick Street has enough cafes, bookshops, and vintage stores to fill a rainy afternoon without getting bored
+- The indoor pool at **Fitzroy Pool** operates year-round
 
+Fitzroy is one of those suburbs where bad weather doesn't kill the weekend — it just changes the flavour.
 
-<!-- WIDGET: Poll -->
-**🗳️ Your perfect Fitzroy Saturday?**
-- Markets + brunch + wandering
-- Pool + live music + late dinner
-- Galleries + coffee + reading in a cafe
-- I don't plan — I just walk out the door
+## FAQ
 
-[Vote in our weekly suburb poll →](/poll/fitzroy-weekend-style)
+**Is Fitzroy safe on weekends?**
+Yes. Fitzroy is busy and well-lit on weekends, particularly along Brunswick and Gertrude Streets. Like any inner-city suburb, use normal common sense after midnight, but it's not a suburb that should make you nervous.
 
+**Can I do Fitzroy without a car?**
+Absolutely. Tram routes 11 and 86 connect Fitzroy directly to the CBD in 10 to 15 minutes. Once you're here, everything is walkable. A car is more hassle than help in Fitzroy on a weekend.
 
-<!-- WIDGET: Suburb Vibe Score -->
-**📊 Fitzroy Vibe Score This Week: 91/100**
+**Is Fitzroy expensive?**
+It depends what you do. Coffee and a market browse is cheap. A sit-down dinner with wine adds up. Edinburgh Gardens, street art, gallery hopping, and walking are all free. You can do a great Fitzroy weekend for under $50 per person if you're selective.
 
-Weekend activity density is a major driver. Fitzroy consistently ranks among Melbourne's top 5 for things to do within walking distance.
+**What's the difference between Fitzroy and Collingwood?**
+Smith Street is roughly the border. West of Smith Street is Fitzroy, east is Collingwood. In practice, the two blur together and most people walk between them without noticing the line. Collingwood leans slightly more industrial; Fitzroy is more residential and café-oriented.
 
-[See the full Vibe Score breakdown →](/fitzroy/vibe-score)
+**Where do locals actually go?**
+Edinburgh Gardens on a sunny afternoon, Marios for brunch without a queue, The Tote for a midweek gig, and whichever wine bar on Gertrude Street they've decided is theirs. Locals avoid Brunswick Street on Saturday nights when it gets rowdy and head to the quieter pockets instead.
 
+## The Verdict
 
-<!-- WIDGET: Comment Prompt -->
-**💬 What did we miss?**
+Fitzroy rewards the unstructured weekend. The best experiences here come from walking, stumbling into things, and being willing to try the place you haven't heard of. You don't need a packed itinerary — just comfortable shoes and a loose sense of direction.
 
-Fitzronians (is that a word?) — what's your weekend ritual? Tell us what we got right and what we're sleeping on.
+The density of good cafes, restaurants, bars, galleries, and green space in this suburb is hard to match anywhere else in Melbourne. It's not the cheapest weekend you'll have, but it's one of the most satisfying.
 
-[Drop a comment below or email us at hq@melbz101](#comments)
+For more on the suburb, read the [Fitzroy neighbourhood guide](/fitzroy/neighbourhood-guide). If you're planning a night out, the [Fitzroy [nightlife](/fitzroy/nightlife-guide/) guide](/fitzroy/nightlife-guide) goes deeper on bars and late-night spots. And if something new has opened since your last visit, check [new openings in Fitzroy](/fitzroy/new-openings) for the latest.
 
+*This guide was researched and written by Maya Torres for MELBZ in March 2026. We pay our own way, accept no sponsorship, and update when things change. If something's wrong or missing, let us know at hq@melbz.com.au.*
 
-<!-- WIDGET: Related Reading -->
-**📖 More from Fitzroy**
+---
 
-- [Nightlife Guide in Fitzroy](/fitzroy/nightlife-guide) — the Saturday night plan
-- [New Openings in Fitzroy](/fitzroy/new-openings) — what's just landed this month
-- [Date Night in Fitzroy](/fitzroy/date-night) — weekend plans for two
+## Explore More of Fitzroy
 
+- [Fitzroy History](/fitzroy/history/)
+- [Fitzroy Cheap Eats](/fitzroy/cheap-eats/)
+- [Fitzroy Rent Guide](/fitzroy/rent-guide/)
+- [Fitzroy Suburb Roast](/fitzroy/suburb-roast/)
+- [Fitzroy Date Night Guide](/fitzroy/date-night/)
+- [Fitzroy New Openings](/fitzroy/new-openings/)
+- [Fitzroy Things To Do](/fitzroy/things-to-do/)
+- [Fitzroy Cost of Living](/fitzroy/cost-of-living/)
 
-*This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every experience, and received no sponsorship or compensation. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
+### Nearby Suburbs Worth Checking
 
-**MELBZ — Melbourne's neighbourhood intelligence. Written by locals, for locals. Not AI-generated. Not outsourced. Real people in real suburbs.**
-
-### Featured Venues
-
-- **Marion** at 53 Gertrude St, Fitzroy VIC 3065
-- **Cutler & Co.** at 55-57 Gertrude St, Fitzroy VIC 3065
-- **Poodle Bar & Bistro** at 81-83 Gertrude St, Fitzroy VIC 3065
-- **Proud Mary Coffee** at 172 Oxford St, Collingwood, VIC 3066
-- **Archie's All Day** at 189 Gertrude St, Fitzroy, VIC 3065
-- **Industry Beans Fitzroy** at 3/62 Rose St, Fitzroy, VIC 3065
-- **Vegie Bar** at 380 Brunswick St, Fitzroy VIC 3065
-- **Naked for Satan** at 285 Brunswick St, Fitzroy VIC 3065
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy VIC 3065
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy VIC 3065
-
-### Key Highlights
-
-- Brunswick Street shopping and dining
-- The Royal Exhibition Building and Carlton Gardens
-- Independent art galleries and street art tours
-
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 9/10
-- Affordability: 5/10
-- Transport: 9/10
-- Culture: 10/10
-## Related Articles
-
-- [/southbank/](/southbank/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

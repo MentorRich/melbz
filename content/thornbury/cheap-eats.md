@@ -1,17 +1,15 @@
 ---
 title: "11 Cheap Eats in Thornbury Under $20 — Your 2026 Budget Guide"
+description: "Thornbury's best cheap eats under twenty dollars in 2026. Real prices, generous portions, and no compromises on quality. Your wallet will thank you."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Omar Hassan"
 cover_image: "/images/thornbury/cheap-eats.jpg"
+cover_image_alt: "Thornbury Melbourne cheap eats and street food"
+suburb: "thornbury"
+tags: ["melbourne", "thornbury", "cheap-eats", "food"]
 ---
 
-suburb: "thornbury"
-vertical: "lifestyle"
-author: "omar"
-author_image: "/images/authors/omar.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Thornbury's best cheap eats under $20 in 2026. Real prices, generous portions, and no compromises on quality. Your wallet will thank you."
-tags: ["thornbury"]
-categories: ["cheap"]
 # 11 Cheap Eats in Thornbury Under $20 — Your 2026 Budget Guide
 
 Thornbury has always been the inner north's under-the-radar spot for affordable eating, and in 2026 — when a $22 avocado toast makes you question your life choices — that matters more than ever. The High Street strip between Darebin Road and Dundas Street packs in Greek souvlaki, Italian lasagne, Lebanese grills, American burgers, and proper café food, most of it well under $20. You don't need a fancy budget to eat well here. You just need to know where to go.
@@ -160,38 +158,3 @@ Thornbury's cheap eat scene is genuinely good, not just cheap. Greek Street Food
 
 **What We Skipped and Why:** We excluded food court-style operations and places where "cheap" means "small portion at a low price." Every spot on this list delivers genuine value — filling meals at honest prices. We also left out venues on the extreme Northcote or [Preston](/preston) borders that could go either way geographically. If the Google Maps pin is closer to another suburb's strip, it belongs in their guide, not ours.
 
-### Featured Venues
-
-- **Umbra** at 769 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
-- **Jerry Joy** at 847 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Umami** at 778 High St, Thornbury VIC 3071
-- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
-- **Umami** at 774 High St, Thornbury VIC 3071
-
-### Key Highlights
-
-- High Street's independent cafes and vintage stores
-- The iconic Thornbury Theatre
-- Penders Park and Merri Creek trail access
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/northcote/](/northcote/)
-- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
-- [/food/](/food/)
-- [/thornbury/](/thornbury/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

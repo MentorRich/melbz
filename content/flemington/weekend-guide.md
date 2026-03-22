@@ -4,13 +4,19 @@ description: "Your weekend in Flemington sorted — from morning coffee to Satur
 date: 2026-03-21
 suburb: "flemington"
 article_type: "weekend"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "what to do Flemington this weekend"
   - "Flemington weekend"
   - "things to do Flemington Saturday"
   - "Flemington Sunday plans"
+tags:
+  - "flemington"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Flemington does weekends well. Whether you're the type who plans every hour or p
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Flemington's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/flemington/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Flemington's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Flemington starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Flemington starts slower. The [cafes](/flemington/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Flemington and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Flemington does weekends well. Whether you're the type who plans every hour or p
 ---
 
 **More on Flemington:** [Flemington Suburb Guide](/flemington/) · [Flemington Things to Do](/flemington/things-to-do/) · [Flemington Best Restaurants](/flemington/best-restaurants/)
+
+---
+
+## Explore More of Flemington
+
+- [Flemington History](/flemington/history/)
+- [Flemington Rent Guide](/flemington/rent-guide/)
+- [Flemington Things To Do](/flemington/things-to-do/)
+- [Flemington Cost of Living](/flemington/cost-of-living/)
+- [Flemington Young Professionals Guide](/flemington/young-professionals/)
+- [Flemington Nightlife Guide](/flemington/nightlife-guide/)
+- [Flemington Transport Guide](/flemington/transport-guide/)
+- [Flemington Best Cafes](/flemington/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Fitzroy North Suburb Guide](/fitzroy-north/)
+- [Footscray Suburb Guide](/footscray/)
+- [Forest Hill Suburb Guide](/forest-hill/)

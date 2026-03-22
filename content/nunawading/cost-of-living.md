@@ -4,16 +4,22 @@ description: "How expensive is Nunawading? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "nunawading"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Nunawading Melbourne"
   - "how expensive is Nunawading"
   - "is Nunawading expensive to live in"
   - "Nunawading rent"
+tags:
+  - "nunawading"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Nunawading — no sugar-coating, no made-up figures.
+The cost question in Nunawading is straightforward: it is creeping up year on year. Here is what your wallet actually needs to know.
 
 Read our full [Nunawading suburb guide](/nunawading/) for the bigger picture.
 

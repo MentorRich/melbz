@@ -1,33 +1,25 @@
 ---
 title: "Best Asian Food in Melbourne CBD 2026: Chinatown & Beyond"
-cover_image: "/images/melbourne-cbd/best-asian-food-v2.jpg"
-date: 2026-03-16
-author: yuki
-author_image: "/images/authors/yuki.jpg"
-tags: ["melbourne-cbd", "asian", "food"]
-categories: ["food"]
-description: "Best Asian Food in Melbourne CBD 2026: Chinatown & Beyond"
+cover_image: "/images/shared/food-restaurants.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Yuki Tanaka"
+tags: ["melbourne", "melbourne-cbd", "asian", "food"]
+description: "Six tested Asian restaurants in Melbourne CBD. Chinatown dumplings, late-night Cantonese at Supper Inn, modern Chinese at Lee Ho Fook and Thai newcomers."
 ---
 
-Melbourne's CBD is home to one of the oldest Chinatowns in the Western world, and in 2026 it's sti..."
+Melbourne's CBD has one of the oldest Chinatowns in the Western world, and in 2026 it's sti..."
 # Best Asian Food in Melbourne CBD 2026: Chinatown & Beyond
 
-Melbourne's CBD is home to one of the oldest Chinatowns in the Western world, and in 2026 it's still the beating heart of the city's Asian dining scene. But the real magic happens when you push past the neon-lit Little Bourke Street strip and discover what's tucked into arcades, laneways, and side streets that most tourists walk right past.
+Melbourne's CBD has one of the oldest Chinatowns in the Western world, and in 2026 it's still the beating heart of the city's Asian dining scene. But the real magic happens when you push past the neon-lit Little Bourke Street strip and discover what's tucked into arcades, laneways, and side streets that most tourists walk right past.
 
 I spent March 2026 eating my way through the CBD — every dumpling house, noodle shop, late-night Cantonese joint, and modern Asian restaurant I could fit into two weeks of lunches and dinners. Here's what actually earned a repeat visit.
 
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
 
 
-
-## Venue Addresses & Details
-
-- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: If the queue is long, head to the GoGo Bar downstairs for drinks while you wait for a table.*
-- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$-$$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: The New England lobster roll is a cult classic; don't leave without trying it.*
-- **Rice Paper Scissors** — 19 Liverpool St, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the best variety of their small plates.*
-- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Mon-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Book well in advance and ask for the Peking Duck, which is carved tableside.*
-- **Longrain** — 44 Little Bourke St, Melbourne VIC 3000 ($$-$$$). Open: Tue-Sat 5:00 PM - 10:00 PM. *Tip: The eggnet salad is a signature dish that balances texture and spice perfectly.*
-- **Shujinko** — 225 Russell St, Melbourne VIC 3000 ($$). Open: Open 24 hours. *Tip: Visit late at night to avoid the massive dinner queues; it's the best post-event meal in the city.*
 ## How We Tested
 
 Every restaurant on this list was visited in March 2026. I ordered the dishes that locals recommend, checked the prices against what you'd pay for equivalent quality in the inner suburbs, and timed how long it actually takes to get a table on a weeknight. No reservations were made under a pseudonym — I ate as a regular punter would.
@@ -58,13 +50,13 @@ The roast duck (~$28 half) is consistently one of the best in the CBD — lacque
 **Address:** 15 Celestial Avenue, Melbourne VIC 3000
 **Hours:** Daily, 5:30pm–2:30am
 **Price range:** $25–$45 per person (BYO saves you a fortune)
-**Insider tip:** BYO is the move here. Grab a bottle from the bottleshop on Swanston Street on your way. Corkage is minimal or non-existent depending on the night. If you're coming after 11pm, expect it to be full of hospo workers — which tells you everything you need to know about the food quality.
+**Insider tip:** BYO is the move here. Grab a bottle from the bottleshop on Swanston Street on your way. Corkage is minimal or non-existent depending on the night. If you're coming after 11pm, expect it to be full of hospo workers — which tells you what you need about the food quality.
 
 
 ## 3. Lee Ho Fook
 **The vibe:** Modern Chinese fine dining that earned its cult status the hard way
 
-Chef Victor Liong's flagship sits down a moody off Flinders Lane and has been one of Melbourne's most talked-about Chinese restaurants since it opened. This isn't your grandma's yum cha — it's a tasting menu experience ($150–$180 per person) that treats Chinese flavours with the same reverence French restaurants give to butter and wine.
+Chef Victor Liong's flagship sits down a moody off Flinders Lane and has been one of Melbourne's most talked-about Chinese [restaurants](/melbourne-cbd/best-restaurants/) since it opened. This isn't your grandma's yum cha — it's a tasting menu experience ($150–$180 per person) that treats Chinese flavours with the same reverence French restaurants give to butter and wine.
 
 The char siu pork belly with smoked eel and pickled daikon remains one of the standout dishes on the current menu. Liong's team changes things seasonally, so the exact lineup shifts, but the quality doesn't. The wine list is deep and well-curated, which is rare for a Chinese restaurant anywhere in Australia.
 
@@ -114,18 +106,9 @@ The massaman curry (~$22) is rich and properly slow-cooked — not the sweetened
 **Address:** 111 Lonsdale Street, Melbourne VIC 3000
 **Hours:** Daily, 11am–10pm
 **Price range:** $18–$35 per person
-**Insider tip:** If you're visiting from Southbank after a show at the Arts Centre or Regent Theatre, Nora Thai is a 10-minute walk across town — closer and better than most of the CBD's Thai options. The spice levels are authentic, so if "mild" at your usual Thai place is your max, tell them upfront. No shame in it.
+**Insider tip:** If you're visiting from [Southbank](/southbank/) after a show at the Arts Centre or Regent Theatre, Nora Thai is a 10-minute walk across town — closer and better than most of the CBD's Thai options. The spice levels are authentic, so if "mild" at your usual Thai place is your max, tell them upfront. No shame in it.
 
 
-
-## Venue Addresses & Details
-
-- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: If the queue is long, head to the GoGo Bar downstairs for drinks while you wait for a table.*
-- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$-$$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: The New England lobster roll is a cult classic; don't leave without trying it.*
-- **Rice Paper Scissors** — 19 Liverpool St, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the best variety of their small plates.*
-- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Mon-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Book well in advance and ask for the Peking Duck, which is carved tableside.*
-- **Longrain** — 44 Little Bourke St, Melbourne VIC 3000 ($$-$$$). Open: Tue-Sat 5:00 PM - 10:00 PM. *Tip: The eggnet salad is a signature dish that balances texture and spice perfectly.*
-- **Shujinko** — 225 Russell St, Melbourne VIC 3000 ($$). Open: Open 24 hours. *Tip: Visit late at night to avoid the massive dinner queues; it's the best post-event meal in the city.*
 ## What We Skipped and Why
 
 **Dumpling-only spots in Centre Place and Degraves Street.** There are dozens of them, and most are perfectly fine. But "perfectly fine" doesn't make a best-of list. ShanDong MaMa earned its spot by doing one thing exceptionally well. The rest are interchangeable.
@@ -137,15 +120,6 @@ The massaman curry (~$22) is rich and properly slow-cooked — not the sweetened
 **Korean BBQ on Little Lonsdale.** The Korean BBQ strip south of Russell Street has solid options, but they're best experienced as group outings where the vibes matter more than the individual dishes. We're doing a dedicated Korean BBQ guide later in 2026.
 
 
-
-## Venue Addresses & Details
-
-- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: If the queue is long, head to the GoGo Bar downstairs for drinks while you wait for a table.*
-- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$-$$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: The New England lobster roll is a cult classic; don't leave without trying it.*
-- **Rice Paper Scissors** — 19 Liverpool St, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the best variety of their small plates.*
-- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Mon-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Book well in advance and ask for the Peking Duck, which is carved tableside.*
-- **Longrain** — 44 Little Bourke St, Melbourne VIC 3000 ($$-$$$). Open: Tue-Sat 5:00 PM - 10:00 PM. *Tip: The eggnet salad is a signature dish that balances texture and spice perfectly.*
-- **Shujinko** — 225 Russell St, Melbourne VIC 3000 ($$). Open: Open 24 hours. *Tip: Visit late at night to avoid the massive dinner queues; it's the best post-event meal in the city.*
 ## The Verdict: Your CBD Asian Food Cheat Sheet
 
 | Budget Meal | Date Night | Late Night | Impressing Visitors |
@@ -154,15 +128,6 @@ The massaman curry (~$22) is rich and properly slow-cooked — not the sweetened
 | Tina's Noodle Kitchen ($16–28) | Bamboo House ($30–60) | Ling Nan (open til midnight) | Lee Ho Fook |
 
 
-
-## Venue Addresses & Details
-
-- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: If the queue is long, head to the GoGo Bar downstairs for drinks while you wait for a table.*
-- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$-$$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: The New England lobster roll is a cult classic; don't leave without trying it.*
-- **Rice Paper Scissors** — 19 Liverpool St, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the best variety of their small plates.*
-- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Mon-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Book well in advance and ask for the Peking Duck, which is carved tableside.*
-- **Longrain** — 44 Little Bourke St, Melbourne VIC 3000 ($$-$$$). Open: Tue-Sat 5:00 PM - 10:00 PM. *Tip: The eggnet salad is a signature dish that balances texture and spice perfectly.*
-- **Shujinko** — 225 Russell St, Melbourne VIC 3000 ($$). Open: Open 24 hours. *Tip: Visit late at night to avoid the massive dinner queues; it's the best post-event meal in the city.*
 ## Getting Here and Nearby
 
 The CBD's Asian food epicentre clusters around Little Bourke Street and the Chinatown precinct, accessible from Melbourne Central or Parliament train stations, plus the 86 and 96 trams along Bourke and Swanston Streets.
@@ -199,25 +164,26 @@ Every Thursday, our food editors send the best new openings, hidden specials, an
 - [Melbourne CBD Suburb Vibe Score — This Week](/melbourne-cbd/vibe-score)
 
 
-*Found an error? A restaurant that should be on this list? Drop us a line at hq@melbz101 — we taste-test every recommendation.*
+*Found an error? A restaurant that should be on this list? Drop us a line at hq@melbz.com.au — we taste-test every recommendation.*
 
 *Last updated: 16 March 2026. Prices and hours may change. Always check before visiting.*
 
+---
 
-## Venue Addresses & Details
+## Explore More of Melbourne CBD
 
-- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: If the queue is long, head to the GoGo Bar downstairs for drinks while you wait for a table.*
-- **Supernormal** — 180 Flinders Ln, Melbourne VIC 3000 ($$$-$$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: The New England lobster roll is a cult classic; don't leave without trying it.*
-- **Rice Paper Scissors** — 19 Liverpool St, Melbourne VIC 3000 ($$-$$$). Open: Daily 11:30 AM - 10:00 PM. *Tip: Opt for the 'Feed Me' menu to experience the best variety of their small plates.*
-- **Flower Drum** — 17 Market Ln, Melbourne VIC 3000 ($$$$). Open: Mon-Sat 12:00 PM - 3:00 PM, 6:00 PM - 11:00 PM. *Tip: Book well in advance and ask for the Peking Duck, which is carved tableside.*
-- **Longrain** — 44 Little Bourke St, Melbourne VIC 3000 ($$-$$$). Open: Tue-Sat 5:00 PM - 10:00 PM. *Tip: The eggnet salad is a signature dish that balances texture and spice perfectly.*
-- **Shujinko** — 225 Russell St, Melbourne VIC 3000 ($$). Open: Open 24 hours. *Tip: Visit late at night to avoid the massive dinner queues; it's the best post-event meal in the city.*
-## Related Articles
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Cocktails](/melbourne-cbd/cocktails/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD Weekend Guide V2](/melbourne-cbd/weekend-guide-v2/)
 
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+### Nearby Suburbs Worth Checking
 
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

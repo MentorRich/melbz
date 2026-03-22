@@ -1,17 +1,16 @@
 ---
-title: "Fitzroy North Honest Guide 2026: Queens Parade & Side Streets"
+title: "Fitzroy North Honest Guide 2026: Edinburgh Gardens and Beyond"
+description: "The unfiltered guide to Fitzroy North in 2026. Edinburgh Gardens, North Fitzroy Village on St Georges Road, Brunswick Street pubs, and the real inner-north living."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jack Morrison"
 cover_image: "/images/fitzroy-north/honest-guide.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+cover_image_alt: "Edinburgh Gardens Fitzroy North community scene"
+suburb: "fitzroy-north"
 tags: ["fitzroy-north", "honest-guide", "lifestyle"]
-categories: ["lifestyle"]
-description: "Fitzroy North Honest Guide 2026: Queens Parade & Side Streets"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -129,39 +128,3 @@ If you can afford it and you want inner-city living that still feels like a neig
 **💬 What's your Fitzroy North experience?** Drop a comment below — we publish the honest ones, the good ones, and the brutally honest ones.
 
 *Back to all [Honest Guides](/honest-guides)*
-
-### Featured Venues
-
-- **Neighbourhood Wine** at 1 Reid St, Fitzroy North VIC 3068
-- **Piedimonte's (The Deli/Cafe)** at 123 Scotchmer St, Fitzroy North VIC 3068
-- **Just Italy** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Cavallero** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Morning Market** at 559 Barkly St, Fitzroy North VIC 3068
-- **Park Street** at 815 Nicholson St, Fitzroy North VIC 3068
-- **Piedimonte's Supermarket Deli** at 42-50 Wreckyn St, North Fitzroy VIC 3068
-- **North Fitzroy Arms Hotel** at 296 Rae St, North Fitzroy VIC 3068
-- **Pizza Meine Liebe** at 231 St Georges Rd, North Fitzroy VIC 3068
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
-
-### Key Highlights
-
-- Edinburgh Gardens
-- St Georges Road village shops
-- Capital City Trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

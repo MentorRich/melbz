@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Caulfield East? Parks, schools, safety
 date: 2026-03-21
 suburb: "caulfield-east"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Caulfield East good for families"
   - "Caulfield East family friendly"
   - "raising kids in Caulfield East"
+tags:
+  - "caulfield-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Caulfield East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,16 +4,22 @@ description: "How expensive is Cranbourne East? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Cranbourne East Melbourne"
   - "how expensive is Cranbourne East"
   - "is Cranbourne East expensive to live in"
   - "Cranbourne East rent"
+tags:
+  - "cranbourne-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Cranbourne East — no sugar-coating, no made-up figures.
+The cost of living in Cranbourne East surprises some people. Whether that is a good or bad surprise depends on your budget.
 
 Read our full [Cranbourne East suburb guide](/cranbourne-east/) for the bigger picture.
 

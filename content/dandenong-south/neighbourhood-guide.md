@@ -4,13 +4,18 @@ description: "The insider's guide to Dandenong South's different pockets, street
 date: 2026-03-21
 suburb: "dandenong-south"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Dandenong South neighbourhood guide"
   - "best streets in Dandenong South"
   - "Dandenong South areas"
   - "Dandenong South pockets Melbourne"
+tags:
+  - "dandenong-south"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Dandenong South isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

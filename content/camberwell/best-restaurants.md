@@ -1,59 +1,71 @@
 ---
-title: "Best Restaurants in Camberwell Melbourne"
-description: "Where to eat in Camberwell: the honest guide to the suburb's restaurant scene, from weeknight dinners to special occasions."
+title: "Best Restaurants in Camberwell Melbourne -- 2026 Guide"
+cover_image: "/images/camberwell/best-restaurants.jpg"
+description: "Where to eat in Camberwell. The restaurants on Burke Road and surrounds that are worth booking, from weeknight dinners to special occasions."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "best-of"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
-keywords:
-  - "best restaurants Camberwell"
-  - "where to eat Camberwell"
-  - "dinner Camberwell Melbourne"
-  - "restaurants near Camberwell"
+author: "Marco Rossi"
+tags:
+  - "camberwell"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
 ---
 
+Camberwell's restaurant scene has outgrown the old reputation of being a food desert east of [Hawthorn](/hawthorn/). Burke Road now holds enough quality options that you can eat well without leaving the suburb, and the multicultural spread has deepened significantly over the past five years.
 
-## Eating Out in Camberwell
+## The restaurants worth knowing
 
-Camberwell's restaurant scene reflects the suburb's personality. Camberwell Junction shopping, Sunday market, and heritage homes. Classic Melbourne east. That translates into a food culture that's polished and quality-driven.
+### Elyros -- 871 Burke Road
 
-You've got options from casual weeknight dinners to proper sit-down spots you save for birthdays. The range is what makes it work — you don't need to leave the suburb for good food.
+Greek-Mediterranean, but not the kind where you are served a $14 souvlaki on a plastic plate. Elyros does refined Greek cooking -- the lamb shoulder for two ($68) is slow-cooked and genuinely excellent. The dips plate ($22) is a proper starter, not an afterthought. The wine list leans Greek and Australian, which is a combination that works better than it sounds. The room fills on Friday and Saturday nights. Book ahead.
 
-## What Kind of Food Can You Find?
+**Best for:** Friday night dinner, special occasions.
+**Price:** Dinner for two with wine: $120-$160.
 
-The cuisine options depend on what Camberwell's community looks like, and right now it's a solid mix:
+### Chengdu Taste -- 766 Burke Road
 
-**Italian** — Melbourne does Italian well, and Camberwell is no exception. From proper pasta joints to pizza that actually tastes like something.
+The Sichuan restaurant that put Camberwell on the map for people who otherwise would never eat east of [Richmond](/richmond/). The mapo tofu ($18) has proper ma la heat. The dan dan noodles ($16) are the benchmark order. The boiled fish in chilli oil ($28) is confrontational in the best way. The room is basic, the service is functional, and the food is the entire point.
 
-**Asian** — Thai, Vietnamese, Japanese, Chinese — the variety depends on the suburb's demographic mix, but you'll find options that range from quick and affordable to genuinely impressive.
+**Best for:** Weeknight dinner, groups who can handle heat.
+**Price:** Dinner for two: $50-$70.
 
-**Modern Australian** — The catch-all that actually means "good food made by creative chefs who source well." Several of Camberwell's best spots fall into this category.
+### Georges Restaurant and Bar -- 562 Burke Road
 
-**Pub Food Done Right** — The local pub that's upgraded beyond parma and chips (though those are still available). Proper kitchen, decent wine list, and food that surprises you.
+The occasion restaurant. Georges does modern Australian with European technique and a wine list that takes itself seriously. The fit-out is more polished than most Burke Road spots, and the service matches. Main courses run $38-$48, and the degustation ($95) is worth it if you want the kitchen's full attention.
 
-**Quick and Good** — Takeaway, kebabs, fish and chips, burger joints. Not flashy but essential for those nights when you don't feel like cooking but don't want to sit down either.
+**Best for:** Birthdays, anniversaries, impressing parents.
+**Price:** Dinner for two with wine: $160-$220.
 
-## Weeknight vs Weekend Dining
+## Quick bites
 
-**Weeknights** are your sweet spot in Camberwell. Walk-in friendly, quieter, and you get the kitchen's attention. Tuesday to Thursday is when locals eat out casually.
+Tao Dumplings at 550 Burke Road handles the dumpling craving efficiently -- xiao long bao ($14 for 6), pork and chive dumplings ($12), and a short menu that does not try to be everything. Banh Mi Boys at the same address does Vietnamese rolls for under $12 that are worth the walk.
 
-**Weekends** bring the crowds, especially Friday and Saturday nights. Book ahead for anywhere decent, or go early (6pm) to beat the rush. Sunday dinner is an underrated option — quieter than Saturday with the same quality.
+## Weeknight vs weekend
 
-## Price Range
-
-Camberwell's restaurants cover a genuine range. You can have a solid dinner for a reasonable amount, or splurge on the suburb's best without Melbourne CBD prices.
-
-The mid-range is where Camberwell shines — restaurants that care about quality but don't gouge on price. That's the sweet spot here.
-
-## Tips for Eating in Camberwell
-
-1. **Ask the locals** — the best restaurant is often the one without the marketing budget
-2. **Weeknight date nights** — better experience, easier bookings, sometimes cheaper
-3. **Try the specials** — chefs put their energy into specials, and it shows
-4. **Don't judge by decor** — some of the best food comes from the least fancy-looking places
-5. **Support the independents** — chain restaurants exist but the soul of Camberwell's food scene is the owner-operators
+Weeknights are the sweet spot for eating on Burke Road. Walk-in friendly, quieter, and the kitchens have bandwidth. Friday and Saturday nights fill the good restaurants by 7pm -- book ahead or eat early (6pm) to avoid disappointment.
 
 ---
 
-**More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) · [Camberwell Best Cafes](/camberwell/best-cafes/) · [Camberwell Living Guide](/camberwell/living-in-camberwell/)
+**More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) | [Best [Cafes](/camberwell/best-cafes/) in Camberwell](/camberwell/best-cafes/) | [Camberwell Cost of Living](/camberwell/cost-of-living/)
+
+---
+
+## Explore More of Camberwell
+
+- [Camberwell History](/camberwell/history/)
+- [Camberwell Camberwell For Retirees](/camberwell/camberwell-for-retirees/)
+- [Camberwell Rent Guide](/camberwell/rent-guide/)
+- [Camberwell Things To Do](/camberwell/things-to-do/)
+- [Camberwell Cost of Living](/camberwell/cost-of-living/)
+- [Camberwell Young Professionals Guide](/camberwell/young-professionals/)
+- [Camberwell Nightlife Guide](/camberwell/nightlife-guide/)
+- [Camberwell Transport Guide](/camberwell/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Glen Iris Suburb Guide](/glen-iris/)

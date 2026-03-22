@@ -4,16 +4,22 @@ description: "How expensive is Pakenham? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "pakenham"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Pakenham Melbourne"
   - "how expensive is Pakenham"
   - "is Pakenham expensive to live in"
   - "Pakenham rent"
+tags:
+  - "pakenham"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Pakenham — no sugar-coating, no made-up figures.
+Let us talk money in Pakenham. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Pakenham suburb guide](/pakenham/) for the bigger picture.
 

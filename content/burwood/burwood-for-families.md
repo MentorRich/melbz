@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Burwood? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "burwood"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Burwood good for families"
   - "Burwood family friendly"
   - "raising kids in Burwood"
+tags:
+  - "burwood"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Burwood with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Lower Templestowe? Parks, schools, saf
 date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Lower Templestowe good for families"
   - "Lower Templestowe family friendly"
   - "raising kids in Lower Templestowe"
+tags:
+  - "templestowe-lower"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Lower Templestowe with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

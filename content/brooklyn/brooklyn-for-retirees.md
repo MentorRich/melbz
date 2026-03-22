@@ -4,12 +4,16 @@ description: "Considering retirement in Brooklyn? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "brooklyn"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Brooklyn retirees Melbourne"
   - "retiring in Brooklyn"
   - "quiet suburbs Melbourne"
+tags:
+  - "brooklyn"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Brooklyn? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

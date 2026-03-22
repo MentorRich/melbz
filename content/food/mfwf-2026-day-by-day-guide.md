@@ -1,15 +1,12 @@
 ---
 title: "Melbourne Food & Wine Festival 2026: Your Complete Day-by-Day Guide"
-cover_image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 description: "The 2026 Melbourne Food & Wine Festival runs March 20-29. Our day-by-day guide covers the best events, where to book, and free highlights across 10 delicious days."
 author: "Marcus Chen"
----
-
-author_role: "Food & Events Editor"
-author_image: "/images/authors/marcus.jpg"
 date: "2026-03-17"
 tags: ["melbourne events", "food festival", "mfwf 2026", "wine festival"]
 categories: ["Events", "Food & Drink"]
+---
 
 The Melbourne Food & Wine Festival returns for its 2026 edition, bringing more than 200 events across 10 delicious days from March 20 to 29. Whether you're hunting for exclusive degustation dinners, free community feasts, or opportunities to meet internationally renowned chefs, this year's program delivers. This guide breaks down what's happening each day so you can plan your festival experience without the overwhelm.
 
@@ -183,10 +180,9 @@ And if you're still hungry for more content after the festival, explore our [Mel
 The Melbourne Food & Wine Festival 2026 runs March 20-29. Book now, plan your route, and get ready for 10 days of exceptional eating across Australia's food capital.
 ## Related Articles
 
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/food/](/food/)
-- [/food/hub](/food/hub)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Fitzroy](/fitzroy/)
+- [Carlton](/carlton/)
+- [Food](/food/)
+- [Hub](/food/hub)
 
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -3,19 +3,18 @@ title: "Transport in Carlton North 2026: Trains, Trams & the Commute Reality"
 slug: "transport-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Tom O'Brien"
 suburb: "carlton-north"
 suburbs: ["carlton-north"]
 vertical: lifestyle
 tags: ["carlton-north", "transport", "commute", "trains", "trams"]
 description: "How to get around Carlton North in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/5172818/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Carlton North Melbourne transport"
 vibe_score: 79
 ---
 
-Carlton North's transport game scored **B+** in our latest review. Here's what that actually means for your daily commute and weekend plans.
+[Carlton](/carlton/) North's transport game scored **B+** in our latest review. Here's what that actually means for your daily commute and weekend plans.
 
 ## Transport Scorecard
 
@@ -51,4 +50,24 @@ For the full picture of living here, check our [Living in Carlton North guide](/
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Carlton North
+
+- [Carlton North History](/carlton-north/history/)
+- [Carlton North Rent Guide](/carlton-north/rent-guide/)
+- [Carlton North Things To Do](/carlton-north/things-to-do/)
+- [Carlton North Cost of Living](/carlton-north/cost-of-living/)
+- [Carlton North Young Professionals Guide](/carlton-north/young-professionals/)
+- [Carlton North Nightlife Guide](/carlton-north/nightlife-guide/)
+- [Carlton North Best Cafes](/carlton-north/best-cafes/)
+- [Carlton North Best Restaurants](/carlton-north/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Canterbury Suburb Guide](/canterbury/)
+- [Carlton Suburb Guide](/carlton/)
+- [Carnegie Suburb Guide](/carnegie/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)

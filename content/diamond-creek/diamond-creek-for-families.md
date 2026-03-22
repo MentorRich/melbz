@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Diamond Creek? Parks, schools, safety,
 date: 2026-03-21
 suburb: "diamond-creek"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Diamond Creek good for families"
   - "Diamond Creek family friendly"
   - "raising kids in Diamond Creek"
+tags:
+  - "diamond-creek"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Diamond Creek with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

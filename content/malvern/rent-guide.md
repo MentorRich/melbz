@@ -4,19 +4,25 @@ description: "The honest rental guide for Malvern. What to expect, where to look
 date: 2026-03-21
 suburb: "malvern"
 article_type: "housing"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "renting in Malvern"
   - "Malvern rental market"
   - "rent Malvern Melbourne"
   - "apartments Malvern"
+tags:
+  - "malvern"
+  - "rent"
+  - "property"
+  - "cost-of-living"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Renting in Malvern — The Real Story
 
-Looking to rent in Malvern? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
+Looking to [rent](/malvern/cost-of-living/) in Malvern? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
 
 See our full [Malvern Cost of Living](/malvern/cost-of-living/) guide for the broader picture.
 
@@ -38,7 +44,7 @@ That said, Malvern has a steady flow of rental stock. Properties come up regular
 
 ## How to Actually Get a Rental in Malvern
 
-1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental history. Pre-fill the Ignite or 2Apply forms.
+1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental [history](/malvern/history/). Pre-fill the Ignite or 2Apply forms.
 
 2. **Apply on the day of inspection** — Properties that sit for a week are rare. Same-day applications show you're serious.
 
@@ -69,3 +75,23 @@ The key is matching your budget to realistic expectations. A smaller, well-locat
 ---
 
 **More on Malvern:** [Malvern Suburb Guide](/malvern/) · [Malvern Cost of Living](/malvern/cost-of-living/) · [Malvern for Young Professionals](/malvern/malvern-for-young-professionals/)
+
+---
+
+## Explore More of Malvern
+
+- [Malvern History](/malvern/history/)
+- [Malvern Things To Do](/malvern/things-to-do/)
+- [Malvern Cost of Living](/malvern/cost-of-living/)
+- [Malvern Young Professionals Guide](/malvern/young-professionals/)
+- [Malvern Transport Guide](/malvern/transport-guide/)
+- [Malvern Best Cafes](/malvern/best-cafes/)
+- [Malvern Best Restaurants](/malvern/best-restaurants/)
+- [Malvern Weekend Guide](/malvern/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

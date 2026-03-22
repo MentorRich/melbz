@@ -4,16 +4,22 @@ description: "How expensive is Tecoma? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "tecoma"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Tecoma Melbourne"
   - "how expensive is Tecoma"
   - "is Tecoma expensive to live in"
   - "Tecoma rent"
+tags:
+  - "tecoma"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Tecoma — no sugar-coating, no made-up figures.
+Before committing to Tecoma, run the numbers. Rent is just the start - here is the complete cost breakdown.
 
 Read our full [Tecoma suburb guide](/tecoma/) for the bigger picture.
 

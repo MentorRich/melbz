@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Mont Albert North? Parks, schools, saf
 date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Mont Albert North good for families"
   - "Mont Albert North family friendly"
   - "raising kids in Mont Albert North"
+tags:
+  - "mont-albert-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Mont Albert North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,16 +4,22 @@ description: "How expensive is Hampton East? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "hampton-east"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Hampton East Melbourne"
   - "how expensive is Hampton East"
   - "is Hampton East expensive to live in"
   - "Hampton East rent"
+tags:
+  - "hampton-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Hampton East — no sugar-coating, no made-up figures.
+Let us talk money in Hampton East. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Hampton East suburb guide](/hampton-east/) for the bigger picture.
 

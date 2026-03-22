@@ -4,13 +4,18 @@ description: "The insider's guide to Wheelers Hill's different pockets, streets,
 date: 2026-03-21
 suburb: "wheelers-hill"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Wheelers Hill neighbourhood guide"
   - "best streets in Wheelers Hill"
   - "Wheelers Hill areas"
   - "Wheelers Hill pockets Melbourne"
+tags:
+  - "wheelers-hill"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Wheelers Hill isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

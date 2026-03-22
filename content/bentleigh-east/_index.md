@@ -1,16 +1,16 @@
 ---
-title: "Bentleigh East Melbourne — Everything You Need to Know"
+title: "Bentleigh East Melbourne — what you need"
 description: "The complete guide to Bentleigh East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Bentleigh East Melbourne"
   - "what is Bentleigh East like"
   - "bentleigh-east suburb"
   - "living in Bentleigh East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 East Boundary Road shops, family-friendly parks, and good value compared to inner suburbs.

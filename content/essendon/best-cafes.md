@@ -4,13 +4,20 @@ description: "Where to find the best coffee and cafes in Essendon. Local picks, 
 date: 2026-03-21
 suburb: "essendon"
 article_type: "best-of"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Priya Sandhu"
 keywords:
   - "best cafes Essendon"
   - "coffee Essendon Melbourne"
   - "cafes near Essendon"
   - "brunch Essendon"
+tags:
+  - "essendon"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
@@ -59,3 +66,23 @@ Essendon's cafe scene is solid and genuine. You won't struggle to find good coff
 ---
 
 **More on Essendon:** [Essendon Suburb Guide](/essendon/) · [Essendon Cost of Living](/essendon/cost-of-living/) · [Essendon Neighbourhood Guide](/essendon/neighbourhood-guide/)
+
+---
+
+## Explore More of Essendon
+
+- [Essendon History](/essendon/history/)
+- [Essendon Rent Guide](/essendon/rent-guide/)
+- [Essendon Things To Do](/essendon/things-to-do/)
+- [Essendon Essendon For Retirees](/essendon/essendon-for-retirees/)
+- [Essendon Cost of Living](/essendon/cost-of-living/)
+- [Essendon Young Professionals Guide](/essendon/young-professionals/)
+- [Essendon Nightlife Guide](/essendon/nightlife-guide/)
+- [Essendon Transport Guide](/essendon/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Endeavour Hills Suburb Guide](/endeavour-hills/)
+- [Epping Suburb Guide](/epping/)
+- [Essendon North Suburb Guide](/essendon-north/)
+- [Essendon West Suburb Guide](/essendon-west/)

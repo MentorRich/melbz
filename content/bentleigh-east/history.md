@@ -4,16 +4,22 @@ description: "The story of Bentleigh East: from its origins to today. How this M
 date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Bentleigh East Melbourne history"
   - "how has Bentleigh East changed"
   - "Bentleigh East gentrification"
   - "Bentleigh East then and now"
+tags:
+  - "bentleigh-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Bentleigh East's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Bentleigh East is a story of community resilience.
 
 See our full [Bentleigh East suburb guide](/bentleigh-east/) for the current picture.
 

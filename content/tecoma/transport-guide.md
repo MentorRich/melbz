@@ -4,15 +4,22 @@ description: "Public transport in Tecoma: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "tecoma"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Tecoma Melbourne"
   - "commute from Tecoma to city"
   - "Tecoma train station"
+tags:
+  - "tecoma"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Tecoma — what works, what's annoying, and how long things actually take.
+Tecoma transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Tecoma suburb guide](/tecoma/) for the complete picture.
 

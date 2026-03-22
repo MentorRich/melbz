@@ -4,16 +4,22 @@ description: "How expensive is Officer? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "officer"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Officer Melbourne"
   - "how expensive is Officer"
   - "is Officer expensive to live in"
   - "Officer rent"
+tags:
+  - "officer"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Officer — no sugar-coating, no made-up figures.
+If you are weighing up Officer against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Officer suburb guide](/officer/) for the bigger picture.
 

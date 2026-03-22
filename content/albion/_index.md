@@ -1,16 +1,16 @@
 ---
-title: "Albion Melbourne — Everything You Need to Know"
+title: "Albion Melbourne — what you need"
 description: "The complete guide to Albion. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "albion"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Albion Melbourne"
   - "what is Albion like"
   - "albion suburb"
   - "living in Albion"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small suburb between Sunshine and St Albans with its own station and affordable housing.

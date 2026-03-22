@@ -4,12 +4,16 @@ description: "Considering retirement in Frankston? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "frankston"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Frankston retirees Melbourne"
   - "retiring in Frankston"
   - "quiet suburbs Melbourne"
+tags:
+  - "frankston"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Frankston? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

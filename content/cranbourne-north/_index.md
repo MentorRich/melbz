@@ -1,16 +1,16 @@
 ---
-title: "Cranbourne North Melbourne — Everything You Need to Know"
+title: "Cranbourne North Melbourne — what you need"
 description: "The complete guide to Cranbourne North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "cranbourne-north"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Cranbourne North Melbourne"
   - "what is Cranbourne North like"
   - "cranbourne-north suburb"
   - "living in Cranbourne North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 New estates, Coles/Woolies access, and one of Casey's fastest-growing pockets.

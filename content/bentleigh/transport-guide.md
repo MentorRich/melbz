@@ -4,15 +4,22 @@ description: "Public transport in Bentleigh: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "bentleigh"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Bentleigh Melbourne"
   - "commute from Bentleigh to city"
   - "Bentleigh train station"
+tags:
+  - "bentleigh"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Bentleigh — what works, what's annoying, and how long things actually take.
+The daily commute from Bentleigh has a personality all its own. It is surprisingly good.
 
 Check out our full [Bentleigh suburb guide](/bentleigh/) for the complete picture.
 

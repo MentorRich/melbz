@@ -4,16 +4,22 @@ description: "How expensive is Bentleigh East? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Tom O'Brien"
 keywords:
   - "cost of living Bentleigh East Melbourne"
   - "how expensive is Bentleigh East"
   - "is Bentleigh East expensive to live in"
   - "Bentleigh East rent"
+tags:
+  - "bentleigh-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Bentleigh East — no sugar-coating, no made-up figures.
+If you are weighing up Bentleigh East against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Bentleigh East suburb guide](/bentleigh-east/) for the bigger picture.
 

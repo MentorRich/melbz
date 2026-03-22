@@ -4,15 +4,22 @@ description: "Public transport in Diamond Creek: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "diamond-creek"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Diamond Creek Melbourne"
   - "commute from Diamond Creek to city"
   - "Diamond Creek train station"
+tags:
+  - "diamond-creek"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Diamond Creek — what works, what's annoying, and how long things actually take.
+The transport story in Diamond Creek is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Diamond Creek suburb guide](/diamond-creek/) for the complete picture.
 

@@ -1,97 +1,40 @@
 ---
-title: "St Kilda East Melbourne — Everything You Need to Know"
-description: "The complete guide to St Kilda East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
-date: 2026-03-21
-suburb: "st-kilda-east"
-article_type: "profile"
+title: "St Kilda East"
+cover_image: "/images/shared/cafe-street.jpg"
+description: "St Kilda East is Melbourne's quiet inner-south pocket — Hotham Street delis, Alma Park on a Sunday, tram rides to the beach, and a Jewish community that gives the suburb a rhythm unlike anywhere else in the city."
 author: "Emma Rodriguez"
-author_image: "/images/authors/ben.jpg"
-keywords:
-  - "St Kilda East Melbourne"
-  - "what is St Kilda East like"
-  - "st-kilda-east suburb"
-  - "living in St Kilda East"
 ---
 
-Quieter Jewish community area with Alma Park, good delis, and easy tram access to the beach.
+St Kilda East occupies the triangle between Hotham Street, Inkerman Road, and the Balaclava train line — a residential pocket seven kilometres south-east of the CBD that most Melburnians drive through without realising they've entered a different suburb. That anonymity is part of the appeal. The people who live here chose it deliberately.
 
-If you're thinking about living in St Kilda East, visiting for the first time, or just trying to work out if this place is worth your Saturday afternoon — here's the honest rundown.
+The suburb sits within the City of Port Phillip, postcode 3183, and its character is shaped by two forces: proximity to St Kilda's beach strip without the noise, and one of Melbourne's oldest and most established Jewish communities. Walk along Hotham Street on a Friday afternoon and the rhythm shifts — families heading to shul, bakeries selling challah, a pace that feels deliberately slower than the surrounding suburbs.
 
-## Where Is St Kilda East?
+The housing stock is mostly Edwardian and interwar — double-fronted weatherboards on the quieter streets, solid 1930s brick flats along Alma Road, and a scattering of 1960s walk-ups that have been steadily renovated. Chapel Street forms the western border with Windsor, and on a Saturday you can walk from the boutiques and bars of Chapel Street to the silence of a residential back street in St Kilda East in under five minutes.
 
-St Kilda East sits in Melbourne's Bayside region. It's the kind of suburb where you can feel the neighbourhood's personality the minute you step off public transport. Getting to the city from here isn't a drama — you've got options depending on where exactly you are in the suburb.
+## What to eat in St Kilda East
 
-The suburb borders St Kilda, Balaclava, Windsor. That matters because your nearby options for food, coffee, and weekend plans extend well beyond St Kilda East's own postcode boundaries.
+St Kilda East is not a dining destination in the traditional sense, and that honesty matters. The suburb has a handful of venues that locals return to weekly, and the rest of your eating life happens across the border in Balaclava or St Kilda.
 
-## What's St Kilda East Actually Like?
+Scheherazade on Acland Street (technically St Kilda, but locals claim it) has been serving Eastern European comfort food — borscht, blintzes, schnitzel — since 1958. On Hotham Street, Glick's Bagels does the best bagels in Melbourne's south-east, and the kosher bakeries along Carlisle Street in neighbouring Balaclava are a five-minute walk. For a proper sit-down dinner, Claypots Seafood Bar on St Kilda's foreshore is a 10-minute walk west.
 
-Quieter Jewish community area with Alma Park, good delis, and easy tram access to the beach.
+For the full breakdown, see our [guide to St Kilda East's best restaurants](/st-kilda-east/best-restaurants/).
 
-Every suburb has a specific energy. St Kilda East has its own thing going on — it's not trying to be everywhere else. The streets have character, the locals know their spots, and there's a pace of life here that either suits you or doesn't.
+## The St Kilda East Vibe Score
 
-Walk around on a Saturday morning and you'll pick up the vibe pretty quickly. The cafes tell you a lot — are they packed with young couples or families with prams? That gives you a read on who lives here.
+Our live [Suburb Vibe Score](/vibe-score/) tracks venue activity, foot traffic, and community engagement across Melbourne's suburbs. St Kilda East sits in the steady mid-range — it doesn't spike with new openings or trend on social media, but it holds consistent because the people who live here actually use the suburb daily. Check the latest ranking to see where it sits this week.
 
-## Who Lives in St Kilda East?
+## Living in St Kilda East — what it actually costs
 
-St Kilda East draws a particular crowd. The demographics lean towards the kind of people who value what this suburb specifically offers. You'll find a mix — and it's the mix that makes it work.
+A one-bedroom apartment on Alma Road runs $400–$480 per week in 2026. A two-bedroom unit near Hotham Street is $550–$680. Buying a freestanding house crossed $1.4 million median in 2024, but apartments remain accessible at $500K–$700K. The tradeoff is that you're close to everything — Balaclava station is a five-minute walk for most residents, tram 3 runs along Balaclava Road, and tram 67 on Glen Huntly Road connects you to the CBD in 25 minutes.
 
-The community here has its own institutions, its own rhythms, its own complaints about parking. Like every Melbourne suburb, it's evolved over the past couple of decades and the people who live here now aren't necessarily the same crowd from fifteen years ago.
+### Getting around
 
-## Housing in St Kilda East
+St Kilda East has no train station of its own, but Balaclava station on the Sandringham line sits right on the border and most of the suburb is within a 10-minute walk of it. Tram 3 runs along Balaclava Road toward the city, and tram 67 on Glen Huntly Road heads to Melbourne University and beyond. Chapel Street is a short walk west with its own tram connections. Most locals walk or cycle — the flat terrain and grid streets make it genuinely car-optional.
 
-The housing stock in St Kilda East tells the story of how the suburb has evolved. You'll find a mix of older homes that have been here for decades alongside newer build quality — townhouses, apartments, and the occasional knockdown-rebuild that sticks out on the street.
+### Is St Kilda East good for families?
 
-If you're renting, there's decent variety depending on your budget. Share houses exist for those starting out. Units and apartments work for professionals. Families will need to hunt a bit harder for standalone homes with a backyard, but they're out there.
+St Kilda East works well for families who want inner-city access without inner-city noise. St Kilda East Primary School on Blessington Street has a strong community reputation. Alma Park — the suburb's biggest green space — has a playground, mature trees, and enough room for weekend cricket. The Jewish day schools nearby (Leibler Yavneh College, Beth Rivkah) add educational options that draw families from across the south-east. The walk to Balaclava station is flat and safe, and the local streets are quiet enough for kids on bikes.
 
-## Getting Around St Kilda East
+## Keep exploring
 
-Transport from St Kilda East is solid enough to make it work without a car for most people, though having a car definitely helps for some errands and weekend plans.
-
-**Read the full breakdown:** [St Kilda East Transport Guide](/st-kilda-east/transport-guide/)
-
-Quick version: you can get to the city reasonably easy. The tram and train network serves this area, and cycling infrastructure has been improving steadily.
-
-## Eating and Drinking in St Kilda East
-
-The food scene in St Kilda East reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and a food scene that punches above its weight without needing to leave the suburb every time you want a decent meal.
-
-Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
-
-## Is St Kilda East Right for You?
-
-**You'll love St Kilda East if:**
-- You want a suburb with genuine character and community
-- You value proximity to Melbourne's best without paying absolute top dollar
-- You like having your local spots — the cafe you don't need to think about, the pub you default to
-- You appreciate a neighbourhood that's evolved naturally rather than been manufactured
-
-**It might not be for you if:**
-- You need absolute silence and a massive backyard
-- Budget is extremely tight — some areas of St Kilda East have crept up in cost
-- You want everything brand new and shiny
-- You're not comfortable with a suburb that has a strong identity you need to adapt to
-
-## Living Here — The Deep Dive
-
-Want more detail? We've covered every angle:
-
-- **[Living in St Kilda East — The Honest Guide](/st-kilda-east/living-in-st-kilda-east/)** — Pros, cons, and the unfiltered truth
-- **[Is St Kilda East Good for Families?](/st-kilda-east/st-kilda-east-for-families/)** — Schools, parks, safety, the works
-- **[Is St Kilda East Good for Young Professionals?](/st-kilda-east/st-kilda-east-for-young-professionals/)** — Social scene, commute, renting
-- **[Is St Kilda East Good for Retirees?](/st-kilda-east/st-kilda-east-for-retirees/)** — Quiet streets, healthcare, community
-- **[Cost of Living in St Kilda East](/st-kilda-east/cost-of-living/)** — Rent, daily costs, and how it compares
-- **[Getting Around St Kilda East](/st-kilda-east/transport-guide/)** — Trains, trams, bikes, driving
-- **[St Kilda East Neighbourhood Guide](/st-kilda-east/neighbourhood-guide/)** — Streets, pockets, and where to be
-- **[History of St Kilda East](/st-kilda-east/history/)** — How this suburb became what it is today
-
-## Suburbs Near St Kilda East
-
-- **[St Kilda](/st-kilda/)** — Acland Street cakes, Luna Park, and Melbourne's most famous beach strip. Always 
-- **[Balaclava](/balaclava/)** — Carlisle Street shops, Jewish bakeries, diverse food scene, and a growing cafe c
-- **[Windsor](/windsor/)** — Chapel Street's grungy end — independent bars, diners, and a strong community fe
-- **[Caulfield North](/caulfield-north/)** — Tree-lined streets, strong Jewish community, and good proximity to both the beac
-
-
----
-
-*Got something to add about St Kilda East? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+St Kilda East connects naturally to its neighbours. Walk west across Chapel Street into [Windsor](/windsor/) for its bar and dining strip. South along Hotham Street takes you into [St Kilda](/st-kilda/) and the Acland Street foreshore. East is [Caulfield North](/caulfield-north/) with its larger houses and Caulfield Park. North across Inkerman Road puts you in [Balaclava](/balaclava/) and the Carlisle Street food scene that many St Kilda East residents consider their local strip.

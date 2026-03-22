@@ -4,13 +4,18 @@ description: "The insider's guide to Dandenong's different pockets, streets, and
 date: 2026-03-21
 suburb: "dandenong"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Dandenong neighbourhood guide"
   - "best streets in Dandenong"
   - "Dandenong areas"
   - "Dandenong pockets Melbourne"
+tags:
+  - "dandenong"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Dandenong isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

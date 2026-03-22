@@ -4,12 +4,16 @@ description: "Thinking of raising kids in North Melbourne? Parks, schools, safet
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "families"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "is North Melbourne good for families"
   - "North Melbourne family friendly"
   - "raising kids in North Melbourne"
+tags:
+  - "north-melbourne"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to North Melbourne with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

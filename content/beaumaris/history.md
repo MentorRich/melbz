@@ -4,16 +4,22 @@ description: "The story of Beaumaris: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "beaumaris"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Beaumaris Melbourne history"
   - "how has Beaumaris changed"
   - "Beaumaris gentrification"
   - "Beaumaris then and now"
+tags:
+  - "beaumaris"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Beaumaris's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+Beaumaris has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Beaumaris suburb guide](/beaumaris/) for the current picture.
 

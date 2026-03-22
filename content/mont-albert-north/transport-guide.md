@@ -4,15 +4,22 @@ description: "Public transport in Mont Albert North: trains, trams, buses, cycli
 date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Mont Albert North Melbourne"
   - "commute from Mont Albert North to city"
   - "Mont Albert North train station"
+tags:
+  - "mont-albert-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Mont Albert North — what works, what's annoying, and how long things actually take.
+Mont Albert North transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Mont Albert North suburb guide](/mont-albert-north/) for the complete picture.
 

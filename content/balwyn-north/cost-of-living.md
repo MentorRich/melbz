@@ -4,16 +4,22 @@ description: "How expensive is Balwyn North? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Balwyn North Melbourne"
   - "how expensive is Balwyn North"
   - "is Balwyn North expensive to live in"
   - "Balwyn North rent"
+tags:
+  - "balwyn-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Balwyn North — no sugar-coating, no made-up figures.
+Rent in Balwyn North tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Balwyn North suburb guide](/balwyn-north/) for the bigger picture.
 

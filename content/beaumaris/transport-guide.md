@@ -4,15 +4,22 @@ description: "Public transport in Beaumaris: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "beaumaris"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Beaumaris Melbourne"
   - "commute from Beaumaris to city"
   - "Beaumaris train station"
+tags:
+  - "beaumaris"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Beaumaris — what works, what's annoying, and how long things actually take.
+Living in Beaumaris means adapting to its transport quirks. Every suburb has them - here are the ones for Beaumaris.
 
 Check out our full [Beaumaris suburb guide](/beaumaris/) for the complete picture.
 

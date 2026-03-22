@@ -1,16 +1,16 @@
 ---
-title: "Canterbury Melbourne — Everything You Need to Know"
+title: "Canterbury Melbourne — what you need"
 description: "The complete guide to Canterbury. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "canterbury"
 article_type: "profile"
 author: "Emma Rodriguez"
-author_image: "/images/authors/ben.jpg"
 keywords:
   - "Canterbury Melbourne"
   - "what is Canterbury like"
   - "canterbury suburb"
   - "living in Canterbury"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet prestige suburb with Maling Road village shops and wide, tree-lined streets.

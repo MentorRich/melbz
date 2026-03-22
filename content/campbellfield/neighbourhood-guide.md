@@ -4,13 +4,18 @@ description: "The insider's guide to Campbellfield's different pockets, streets,
 date: 2026-03-21
 suburb: "campbellfield"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Campbellfield neighbourhood guide"
   - "best streets in Campbellfield"
   - "Campbellfield areas"
   - "Campbellfield pockets Melbourne"
+tags:
+  - "campbellfield"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Campbellfield isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

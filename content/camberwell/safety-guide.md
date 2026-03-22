@@ -3,14 +3,14 @@ title: "How Safe Is Camberwell Melbourne?"
 description: "Is Camberwell safe to live in? The honest breakdown of safety, what to be aware of, and how locals experience the suburb day-to-day."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "safety"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
-keywords:
-  - "is Camberwell safe"
-  - "Camberwell safety"
-  - "Camberwell crime"
-  - "is Camberwell dangerous Melbourne"
+author: "Bec Taylor"
+tags:
+  - "camberwell"
+  - "safety"
+  - "crime"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -22,9 +22,9 @@ Read our full [Camberwell suburb guide](/camberwell/) for the complete picture.
 
 ## The Day-to-Day Experience
 
-Walking around Camberwell during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around Camberwell during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/camberwell/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/camberwell/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +48,7 @@ Crime statistics exist for every suburb, and Camberwell's numbers are unremarkab
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/camberwell/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +68,23 @@ The lifestyle benefits of Camberwell — community, walkability, access — outw
 ---
 
 **More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) · [Camberwell Living Guide](/camberwell/living-in-camberwell/) · [Camberwell for Families](/camberwell/camberwell-for-families/)
+
+---
+
+## Explore More of Camberwell
+
+- [Camberwell History](/camberwell/history/)
+- [Camberwell Camberwell For Retirees](/camberwell/camberwell-for-retirees/)
+- [Camberwell Rent Guide](/camberwell/rent-guide/)
+- [Camberwell Things To Do](/camberwell/things-to-do/)
+- [Camberwell Cost of Living](/camberwell/cost-of-living/)
+- [Camberwell Young Professionals Guide](/camberwell/young-professionals/)
+- [Camberwell Nightlife Guide](/camberwell/nightlife-guide/)
+- [Camberwell Transport Guide](/camberwell/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Glen Iris Suburb Guide](/glen-iris/)

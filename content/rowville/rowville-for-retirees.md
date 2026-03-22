@@ -4,12 +4,16 @@ description: "Considering retirement in Rowville? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "rowville"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Rowville retirees Melbourne"
   - "retiring in Rowville"
   - "quiet suburbs Melbourne"
+tags:
+  - "rowville"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Rowville? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

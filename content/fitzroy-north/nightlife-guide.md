@@ -1,17 +1,15 @@
 ---
-title: "Nightlife Guide in Fitzroy North — 2026 Local Guide"
+title: "Nightlife Guide to Fitzroy North — 2026 Local Guide"
+description: "Fitzroy North after dark in 2026. The Terminus Hotel, Long Play cocktails, Brunswick Street pubs, and natural wine bars for the inner-north crowd who stay local."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
 cover_image: "/images/fitzroy-north/nightlife-guide.jpg"
+cover_image_alt: "Fitzroy North Brunswick Street nightlife scene"
+suburb: "fitzroy-north"
+tags: ["fitzroy-north", "nightlife", "bars", "pubs"]
 ---
 
-suburb: "fitzroy-north"
-vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the nightlife guide in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
-tags: ["fitzroy-north"]
-categories: ["nightlife"]
 ## The Nightlife Guide to Fitzroy North
 
 This is your verified guide to Fitzroy North nightlife in 2026.
@@ -181,41 +179,3 @@ If Fitzroy North's scene doesn't hit the spot:
 - Fitzroy's full nightlife scene: [Fitzroy nightlife guide](/fitzroy/nightlife-guide)
 - Carlton North's quieter evenings: [Carlton North nightlife guide](/carlton-north/nightlife-guide)
 - Brunswick East's alternative scene: [Brunswick East nightlife guide](/brunswick-east/nightlife-guide)
-
-Living in Fitzroy North? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=fitzroy-north)
-
-### Featured Venues
-
-- **Neighbourhood Wine** at 1 Reid St, Fitzroy North VIC 3068
-- **Piedimonte's (The Deli/Cafe)** at 123 Scotchmer St, Fitzroy North VIC 3068
-- **Just Italy** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Cavallero** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Morning Market** at 559 Barkly St, Fitzroy North VIC 3068
-- **Park Street** at 815 Nicholson St, Fitzroy North VIC 3068
-- **Piedimonte's Supermarket Deli** at 42-50 Wreckyn St, North Fitzroy VIC 3068
-- **North Fitzroy Arms Hotel** at 296 Rae St, North Fitzroy VIC 3068
-- **Pizza Meine Liebe** at 231 St Georges Rd, North Fitzroy VIC 3068
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
-
-### Key Highlights
-
-- Edinburgh Gardens
-- St Georges Road village shops
-- Capital City Trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

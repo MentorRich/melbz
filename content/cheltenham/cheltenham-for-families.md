@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Cheltenham? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Cheltenham good for families"
   - "Cheltenham family friendly"
   - "raising kids in Cheltenham"
+tags:
+  - "cheltenham"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Cheltenham with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

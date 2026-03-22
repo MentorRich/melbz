@@ -1,16 +1,16 @@
 ---
-title: "Reservoir Melbourne — Everything You Need to Know"
+title: "Reservoir Melbourne — what you need"
 description: "The complete guide to Reservoir. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Reservoir Melbourne"
   - "what is Reservoir like"
   - "reservoir suburb"
   - "living in Reservoir"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Big, diverse, and still affordable. Edwardes Lake, Broadway shopping, and family-friendly streets.

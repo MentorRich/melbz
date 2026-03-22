@@ -4,12 +4,16 @@ description: "What's it really like living in Upwey? Pros, cons, and the stuff l
 date: 2026-03-21
 suburb: "upwey"
 article_type: "living-in"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "living in Upwey Melbourne"
   - "pros and cons of living in Upwey"
   - "is Upwey a good place to live"
+tags:
+  - "upwey"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Upwey? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ Upwey village shops, bush walking trails, and Belgrave line access. That's the e
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Upwey delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** The food scene covers the essentials and then some - good coffee, reliable dinner spots, and a few places that punch well above their weight.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

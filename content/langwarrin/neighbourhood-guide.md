@@ -4,13 +4,18 @@ description: "The insider's guide to Langwarrin's different pockets, streets, an
 date: 2026-03-21
 suburb: "langwarrin"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Langwarrin neighbourhood guide"
   - "best streets in Langwarrin"
   - "Langwarrin areas"
   - "Langwarrin pockets Melbourne"
+tags:
+  - "langwarrin"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Langwarrin isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

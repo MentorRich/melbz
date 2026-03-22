@@ -4,12 +4,16 @@ description: "Thinking of raising kids in West Melbourne? Parks, schools, safety
 date: 2026-03-21
 suburb: "west-melbourne"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "is West Melbourne good for families"
   - "West Melbourne family friendly"
   - "raising kids in West Melbourne"
+tags:
+  - "west-melbourne"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to West Melbourne with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

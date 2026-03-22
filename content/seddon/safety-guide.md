@@ -4,13 +4,19 @@ description: "Is Seddon safe to live in? The honest breakdown of safety, what to
 date: 2026-03-21
 suburb: "seddon"
 article_type: "safety"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Seddon safe"
   - "Seddon safety"
   - "Seddon crime"
   - "is Seddon dangerous Melbourne"
+tags:
+  - "seddon"
+  - "safety"
+  - "crime"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -22,9 +28,9 @@ Read our full [Seddon suburb guide](/seddon/) for the complete picture.
 
 ## The Day-to-Day Experience
 
-Walking around Seddon during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around Seddon during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/seddon/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/seddon/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +54,7 @@ Crime statistics exist for every suburb, and Seddon's numbers are in line with c
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/seddon/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +74,23 @@ The lifestyle benefits of Seddon — community, walkability, access — outweigh
 ---
 
 **More on Seddon:** [Seddon Suburb Guide](/seddon/) · [Seddon Living Guide](/seddon/living-in-seddon/) · [Seddon for Families](/seddon/seddon-for-families/)
+
+---
+
+## Explore More of Seddon
+
+- [Seddon History](/seddon/history/)
+- [Seddon Rent Guide](/seddon/rent-guide/)
+- [Seddon Things To Do](/seddon/things-to-do/)
+- [Seddon Cost of Living](/seddon/cost-of-living/)
+- [Seddon Young Professionals Guide](/seddon/young-professionals/)
+- [Seddon Transport Guide](/seddon/transport-guide/)
+- [Seddon Best Cafes](/seddon/best-cafes/)
+- [Seddon Best Restaurants](/seddon/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Footscray Suburb Guide](/footscray/)
+- [Yarraville Suburb Guide](/yarraville/)
+- [Williamstown Suburb Guide](/williamstown/)
+- [Newport Suburb Guide](/newport/)

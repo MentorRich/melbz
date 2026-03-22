@@ -4,13 +4,20 @@ description: "Where to find the best coffee and cafes in Elwood. Local picks, qu
 date: 2026-03-21
 suburb: "elwood"
 article_type: "best-of"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "best cafes Elwood"
   - "coffee Elwood Melbourne"
   - "cafes near Elwood"
   - "brunch Elwood"
+tags:
+  - "elwood"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
@@ -18,7 +25,7 @@ keywords:
 
 Elwood takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
 
-The cafe culture here reflects the neighbourhood. Elwood Beach, Ormond Road village, and a relaxed bayside lifestyle without St Kilda's chaos.
+The cafe culture here reflects the neighbourhood. Elwood Beach, Ormond Road village, and a relaxed bayside lifestyle without [St Kilda](/st-kilda/)'s chaos.
 
 ## What Makes a Good Cafe Here
 
@@ -59,3 +66,23 @@ Elwood's cafe scene is laid-back but legitimate. You won't struggle to find good
 ---
 
 **More on Elwood:** [Elwood Suburb Guide](/elwood/) · [Elwood Cost of Living](/elwood/cost-of-living/) · [Elwood Neighbourhood Guide](/elwood/neighbourhood-guide/)
+
+---
+
+## Explore More of Elwood
+
+- [Elwood History](/elwood/history/)
+- [Elwood Rent Guide](/elwood/rent-guide/)
+- [Elwood Things To Do](/elwood/things-to-do/)
+- [Elwood Cost of Living](/elwood/cost-of-living/)
+- [Elwood Young Professionals Guide](/elwood/young-professionals/)
+- [Elwood Nightlife Guide](/elwood/nightlife-guide/)
+- [Elwood Transport Guide](/elwood/transport-guide/)
+- [Elwood Best Restaurants](/elwood/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

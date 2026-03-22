@@ -4,16 +4,22 @@ description: "How expensive is Tottenham? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "tottenham"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Tottenham Melbourne"
   - "how expensive is Tottenham"
   - "is Tottenham expensive to live in"
   - "Tottenham rent"
+tags:
+  - "tottenham"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Tottenham — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Tottenham actually cost? No vague estimates - real numbers.
 
 Read our full [Tottenham suburb guide](/tottenham/) for the bigger picture.
 

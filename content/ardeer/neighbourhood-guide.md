@@ -4,13 +4,18 @@ description: "The insider's guide to Ardeer's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "ardeer"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Tom O'Brien"
 keywords:
   - "Ardeer neighbourhood guide"
   - "best streets in Ardeer"
   - "Ardeer areas"
   - "Ardeer pockets Melbourne"
+tags:
+  - "ardeer"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Ardeer isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

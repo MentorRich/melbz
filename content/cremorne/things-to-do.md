@@ -1,22 +1,18 @@
 ---
-title: "Things to Do in Cremorne Melbourne"
-description: "What to do in Cremorne this weekend and beyond. Activities, events, and the stuff locals actually enjoy."
-date: 2026-03-21
+title: "Things to Do in Cremorne Melbourne — 2026 Guide"
+description: "What to do in Cremorne beyond warehouse cafes. Yarra River walks, Church Street browsing, Swan Street border dining, and the activities locals actually enjoy."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sharma"
+cover_image: "/images/cremorne/things-to-do.jpg"
+cover_image_alt: "Yarra River walking path near Cremorne"
 suburb: "cremorne"
-article_type: "activities"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
-keywords:
-  - "things to do Cremorne"
-  - "Cremorne activities"
-  - "what to do in Cremorne"
-  - "Cremorne weekend plans"
+tags: ["cremorne", "things-to-do", "activities"]
 ---
-
 
 ## What Is There to Do in Cremorne?
 
-More than you think. Melbourne's tech startup hub. Church Street cafes, coworking spaces, and the Yarra River path. That energy translates into things to do on any day of the week, rain or shine.
+More than you think. Melbourne's tech startup hub. Church Street [cafes](/cremorne/best-cafes/), coworking spaces, and the Yarra River path. That energy translates into things to do on any day of the week, rain or shine.
 
 ## Outdoor Activities
 
@@ -69,3 +65,23 @@ Melbourne weather means you need indoor plans. Cremorne has:
 ---
 
 **More on Cremorne:** [Cremorne Suburb Guide](/cremorne/) · [Cremorne Best Cafes](/cremorne/best-cafes/) · [Cremorne Neighbourhood Guide](/cremorne/neighbourhood-guide/)
+
+---
+
+## Explore More of Cremorne
+
+- [Cremorne History](/cremorne/history/)
+- [Cremorne Things To Do This Weekend](/cremorne/things-to-do-this-weekend/)
+- [Cremorne Cheap Eats](/cremorne/cheap-eats/)
+- [Cremorne Rent Guide](/cremorne/rent-guide/)
+- [Cremorne Date Night Guide](/cremorne/date-night/)
+- [Cremorne Cremorne For Retirees](/cremorne/cremorne-for-retirees/)
+- [Cremorne New Openings](/cremorne/new-openings/)
+- [Cremorne Cost of Living](/cremorne/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Cranbourne North Suburb Guide](/cranbourne-north/)
+- [Cranbourne West Suburb Guide](/cranbourne-west/)
+- [Croydon Suburb Guide](/croydon/)
+- [Croydon North Suburb Guide](/croydon-north/)

@@ -4,13 +4,18 @@ description: "The insider's guide to Sunshine North's different pockets, streets
 date: 2026-03-21
 suburb: "sunshine-north"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Sunshine North neighbourhood guide"
   - "best streets in Sunshine North"
   - "Sunshine North areas"
   - "Sunshine North pockets Melbourne"
+tags:
+  - "sunshine-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Sunshine North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

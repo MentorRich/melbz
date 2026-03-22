@@ -4,15 +4,22 @@ description: "Public transport in Armadale: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "armadale"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Armadale Melbourne"
   - "commute from Armadale to city"
   - "Armadale train station"
+tags:
+  - "armadale"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Armadale — what works, what's annoying, and how long things actually take.
+Two words define transport in Armadale: frustratingly patchy. Everything else is detail.
 
 Check out our full [Armadale suburb guide](/armadale/) for the complete picture.
 

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Aspendale Gardens? Parks, schools, saf
 date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Aspendale Gardens good for families"
   - "Aspendale Gardens family friendly"
   - "raising kids in Aspendale Gardens"
+tags:
+  - "aspendale-gardens"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Aspendale Gardens with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

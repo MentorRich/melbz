@@ -4,16 +4,22 @@ description: "The story of Keilor: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "keilor"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Keilor Melbourne history"
   - "how has Keilor changed"
   - "Keilor gentrification"
   - "Keilor then and now"
+tags:
+  - "keilor"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Keilor's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Keilor and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Keilor suburb guide](/keilor/) for the current picture.
 

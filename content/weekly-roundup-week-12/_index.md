@@ -3,12 +3,12 @@ title: "Melbourne Weekly — Week 12 Suburb Spotlight"
 description: "This week's spotlight suburbs in Melbourne. Five suburbs worth exploring right now."
 date: 2026-03-21
 article_type: "weekly-roundup"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "melbourne suburbs this week"
   - "melbourne weekly guide"
   - "best suburbs melbourne week 12"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 ## This Week's Suburb Spotlight

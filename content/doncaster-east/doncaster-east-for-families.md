@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Doncaster East? Parks, schools, safety
 date: 2026-03-21
 suburb: "doncaster-east"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Doncaster East good for families"
   - "Doncaster East family friendly"
   - "raising kids in Doncaster East"
+tags:
+  - "doncaster-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Doncaster East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

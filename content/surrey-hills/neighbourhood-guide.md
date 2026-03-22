@@ -4,13 +4,18 @@ description: "The insider's guide to Surrey Hills's different pockets, streets, 
 date: 2026-03-21
 suburb: "surrey-hills"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Surrey Hills neighbourhood guide"
   - "best streets in Surrey Hills"
   - "Surrey Hills areas"
   - "Surrey Hills pockets Melbourne"
+tags:
+  - "surrey-hills"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Surrey Hills isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

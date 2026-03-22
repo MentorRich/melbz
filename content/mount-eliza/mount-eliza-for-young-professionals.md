@@ -4,12 +4,18 @@ description: "Is Mount Eliza a good suburb for young professionals? Social scene
 date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "young-professionals"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Mount Eliza young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Mount Eliza"
+tags:
+  - "mount-eliza"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Mount Eliza as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

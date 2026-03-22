@@ -4,12 +4,16 @@ description: "What's it really like living in Wattle Glen? Pros, cons, and the s
 date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "living-in"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "living in Wattle Glen Melbourne"
   - "pros and cons of living in Wattle Glen"
   - "is Wattle Glen a good place to live"
+tags:
+  - "wattle-glen"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Wattle Glen? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ Hurstbridge line stop, bush surroundings, and a tiny community feel. That's the 
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Wattle Glen delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** From morning coffee to Friday night dinner, Wattle Glen has you covered without needing to drive 20 minutes for a decent meal.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

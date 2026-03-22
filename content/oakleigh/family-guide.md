@@ -3,14 +3,13 @@ title: "Oakleigh for Families 2026: Schools, Parks & the Parent Verdict"
 slug: "family-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: kate
-author_image: "/images/authors/kate.jpg"
+author: "Kate Sullivan"
 suburb: "oakleigh"
 suburbs: ["oakleigh"]
 vertical: lifestyle
 tags: ["oakleigh", "family-guide", "schools", "parks", "families"]
 description: "Is Oakleigh good for families? Schools, parks, safety, activities and the honest parent review for 2026."
-cover_image: "https://images.pexels.com/photos/4384019/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/parks-gardens.jpg"
 cover_alt: "Oakleigh family friendly parks Melbourne"
 vibe_score: 71
 ---
@@ -31,7 +30,7 @@ Thinking about raising kids in Oakleigh? Here's what parents actually need to kn
 
 ## Schools
 
-School options in Oakleigh are adequate. You've got local primary schools within walking distance and secondary options accessible by a short commute. For the most competitive schools, some families look at neighbouring suburbs — but the local offerings do the job.
+School options in Oakleigh are adequate. You've got local primary schools within walking distance and secondary options accessible by a short [commute](/oakleigh/transport-guide/). For the most competitive schools, some families look at neighbouring suburbs — but the local offerings do the job.
 
 ## Parks & Green Spaces
 
@@ -51,7 +50,7 @@ Weekends in Oakleigh have genuine options. Local markets, community events, libr
 
 ## The Commute Factor
 
-The commute from Oakleigh matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the transport schedule against your actual school and work locations.
+The commute from Oakleigh matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the [transport](/oakleigh/transport-guide/) schedule against your actual school and work locations.
 
 See our [Oakleigh Transport Guide](/oakleigh/transport-guide/) for the full breakdown.
 
@@ -66,4 +65,22 @@ Oakleigh works for families but it's not a default family suburb. You'll find wh
 
 ---
 
-*Are you a Oakleigh parent? Tell us what we missed — [hq@melbz101](mailto:hq@melbz101) or DM [@melbz101](https://instagram.com/melbz101).*
+*Are you a Oakleigh parent? Tell us what we missed — [hq@melbz.com.au](mailto:hq@melbz.com.au) or DM [@melbz101](https://instagram.com/melbz101).*
+
+---
+
+## Explore More of Oakleigh
+
+- [Oakleigh History](/oakleigh/history/)
+- [Oakleigh Cost of Living](/oakleigh/cost-of-living/)
+- [Oakleigh Young Professionals Guide](/oakleigh/young-professionals/)
+- [Oakleigh Oakleigh For Retirees](/oakleigh/oakleigh-for-retirees/)
+- [Oakleigh Transport Guide](/oakleigh/transport-guide/)
+- [Oakleigh Honest Guide](/oakleigh/honest-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Nunawading Suburb Guide](/nunawading/)
+- [Oak Park Suburb Guide](/oak-park/)
+- [Oakleigh South Suburb Guide](/oakleigh-south/)
+- [Officer Suburb Guide](/officer/)

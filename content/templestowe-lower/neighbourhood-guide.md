@@ -4,13 +4,18 @@ description: "The insider's guide to Lower Templestowe's different pockets, stre
 date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Lower Templestowe neighbourhood guide"
   - "best streets in Lower Templestowe"
   - "Lower Templestowe areas"
   - "Lower Templestowe pockets Melbourne"
+tags:
+  - "templestowe-lower"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Lower Templestowe isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

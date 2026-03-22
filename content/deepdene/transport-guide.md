@@ -4,15 +4,22 @@ description: "Public transport in Deepdene: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "deepdene"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Deepdene Melbourne"
   - "commute from Deepdene to city"
   - "Deepdene train station"
+tags:
+  - "deepdene"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Deepdene — what works, what's annoying, and how long things actually take.
+Real talk about getting around Deepdene: what the timetable says vs what actually happens.
 
 Check out our full [Deepdene suburb guide](/deepdene/) for the complete picture.
 

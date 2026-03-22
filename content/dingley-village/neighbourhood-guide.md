@@ -4,13 +4,18 @@ description: "The insider's guide to Dingley Village's different pockets, street
 date: 2026-03-21
 suburb: "dingley-village"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Dingley Village neighbourhood guide"
   - "best streets in Dingley Village"
   - "Dingley Village areas"
   - "Dingley Village pockets Melbourne"
+tags:
+  - "dingley-village"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Dingley Village isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

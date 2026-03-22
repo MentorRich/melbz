@@ -4,16 +4,22 @@ description: "The story of Ivanhoe East: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Ivanhoe East Melbourne history"
   - "how has Ivanhoe East changed"
   - "Ivanhoe East gentrification"
   - "Ivanhoe East then and now"
+tags:
+  - "ivanhoe-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Ivanhoe East's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Ivanhoe East, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Ivanhoe East suburb guide](/ivanhoe-east/) for the current picture.
 

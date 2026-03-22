@@ -4,15 +4,22 @@ description: "Public transport in Lower Templestowe: trains, trams, buses, cycli
 date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Lower Templestowe Melbourne"
   - "commute from Lower Templestowe to city"
   - "Lower Templestowe train station"
+tags:
+  - "templestowe-lower"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Lower Templestowe — what works, what's annoying, and how long things actually take.
+Real talk about getting around Templestowe Lower: what the timetable says vs what actually happens.
 
 Check out our full [Lower Templestowe suburb guide](/templestowe-lower/) for the complete picture.
 

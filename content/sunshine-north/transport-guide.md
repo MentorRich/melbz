@@ -4,15 +4,22 @@ description: "Public transport in Sunshine North: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "sunshine-north"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Sunshine North Melbourne"
   - "commute from Sunshine North to city"
   - "Sunshine North train station"
+tags:
+  - "sunshine-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Sunshine North — what works, what's annoying, and how long things actually take.
+Public transport in Sunshine North has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Sunshine North suburb guide](/sunshine-north/) for the complete picture.
 

@@ -4,16 +4,22 @@ description: "The story of Clayton South: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "clayton-south"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Clayton South Melbourne history"
   - "how has Clayton South changed"
   - "Clayton South gentrification"
   - "Clayton South then and now"
+tags:
+  - "clayton-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Clayton South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Clayton South was not always the place you see today. Its story starts as a working-class neighbourhood, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Clayton South suburb guide](/clayton-south/) for the current picture.
 

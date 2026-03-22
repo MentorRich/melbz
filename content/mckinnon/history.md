@@ -4,16 +4,22 @@ description: "The story of McKinnon: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "mckinnon"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "McKinnon Melbourne history"
   - "how has McKinnon changed"
   - "McKinnon gentrification"
   - "McKinnon then and now"
+tags:
+  - "mckinnon"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. McKinnon's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+History buffs and new residents alike should know the origin story of Mckinnon. It explains more than you would expect.
 
 See our full [McKinnon suburb guide](/mckinnon/) for the current picture.
 

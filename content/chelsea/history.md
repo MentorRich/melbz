@@ -4,16 +4,22 @@ description: "The story of Chelsea: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "chelsea"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Chelsea Melbourne history"
   - "how has Chelsea changed"
   - "Chelsea gentrification"
   - "Chelsea then and now"
+tags:
+  - "chelsea"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Chelsea's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+Chelsea has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Chelsea suburb guide](/chelsea/) for the current picture.
 

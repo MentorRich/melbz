@@ -4,12 +4,16 @@ description: "What's it really like living in Pakenham? Pros, cons, and the stuf
 date: 2026-03-21
 suburb: "pakenham"
 article_type: "living-in"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "living in Pakenham Melbourne"
   - "pros and cons of living in Pakenham"
   - "is Pakenham a good place to live"
+tags:
+  - "pakenham"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Pakenham? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ End of the metro train line. Town centre, Main Street shops, and affordable hous
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Pakenham delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** The dining options range from genuinely good to hidden gems that locals guard jealously. Pakenham eats well without the inner-city markup.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

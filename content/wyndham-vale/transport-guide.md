@@ -4,15 +4,22 @@ description: "Public transport in Wyndham Vale: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "wyndham-vale"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Wyndham Vale Melbourne"
   - "commute from Wyndham Vale to city"
   - "Wyndham Vale train station"
+tags:
+  - "wyndham-vale"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Wyndham Vale — what works, what's annoying, and how long things actually take.
+Public transport in Wyndham Vale has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Wyndham Vale suburb guide](/wyndham-vale/) for the complete picture.
 

@@ -4,13 +4,18 @@ description: "The insider's guide to Ivanhoe East's different pockets, streets, 
 date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Ivanhoe East neighbourhood guide"
   - "best streets in Ivanhoe East"
   - "Ivanhoe East areas"
   - "Ivanhoe East pockets Melbourne"
+tags:
+  - "ivanhoe-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Ivanhoe East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

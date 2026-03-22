@@ -4,16 +4,22 @@ description: "The story of Macleod: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "macleod"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Macleod Melbourne history"
   - "how has Macleod changed"
   - "Macleod gentrification"
   - "Macleod then and now"
+tags:
+  - "macleod"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Macleod's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Macleod involve the railway that changed everything.
 
 See our full [Macleod suburb guide](/macleod/) for the current picture.
 

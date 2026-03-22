@@ -2,11 +2,11 @@
 title: "Contact MELBZ"
 description: "Get in touch with MELBZ for editorial enquiries, business listings, or advertising. Published by Axior Labs."
 date: 2026-03-17
-author: "MELBZ Editorial Team"
-author_image: "/images/authors/dani.jpg"
+author: "Marcus Cole"
 noAds: true
 tags: ["contact"]
 categories: ["general"]
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 # Contact MELBZ

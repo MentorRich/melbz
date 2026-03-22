@@ -4,16 +4,22 @@ description: "The story of Sandringham: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "sandringham"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Sandringham Melbourne history"
   - "how has Sandringham changed"
   - "Sandringham gentrification"
   - "Sandringham then and now"
+tags:
+  - "sandringham"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Sandringham's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Sandringham from a railway village to a diverse community. Understanding that arc explains a lot.
 
 See our full [Sandringham suburb guide](/sandringham/) for the current picture.
 

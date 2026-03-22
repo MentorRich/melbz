@@ -4,12 +4,16 @@ description: "Considering retirement in Brunswick West? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Brunswick West retirees Melbourne"
   - "retiring in Brunswick West"
   - "quiet suburbs Melbourne"
+tags:
+  - "brunswick-west"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Brunswick West? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

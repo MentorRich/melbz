@@ -1,16 +1,16 @@
 ---
-title: "Blackburn Melbourne — Everything You Need to Know"
+title: "Blackburn Melbourne — what you need"
 description: "The complete guide to Blackburn. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "blackburn"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Tom O'Brien"
 keywords:
   - "Blackburn Melbourne"
   - "what is Blackburn like"
   - "blackburn suburb"
   - "living in Blackburn"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Blackburn Lake Sanctuary, village shops, and established family living on the Belgrave line.

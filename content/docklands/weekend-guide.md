@@ -1,64 +1,60 @@
 ---
 title: "What to Do in Docklands This Weekend"
-description: "Your weekend in Docklands sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's City."
+description: "Your weekend in Docklands — waterfront walks, Marvel Stadium check, harbour brunch, and Saturday night on NewQuay."
 date: 2026-03-21
 suburb: "docklands"
 article_type: "weekend"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
-keywords:
-  - "what to do Docklands this weekend"
-  - "Docklands weekend"
-  - "things to do Docklands Saturday"
-  - "Docklands Sunday plans"
+author: "Marcus Liu"
+cover_image: "/images/docklands/weekend-guide.jpg"
+tags: ["melbourne", "docklands", "weekend", "things-to-do"]
 ---
-
 
 ## Your Weekend in Docklands
 
-Docklands does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
+Step one: check the Marvel Stadium fixture. If there's a game or concert, your weekend either revolves around it or actively avoids it. That's Docklands life.
 
 ## Saturday Morning
 
-**The Coffee Run** — Start at your neighbourhood cafe. Docklands's cafe culture means you've got options from "quick and efficient" to "settle in for two hours." Saturday morning flat whites hit differently when you're not rushing to work.
+The waterfront promenade before 9am is Docklands at its best. Morning light on the harbour, minimal foot traffic, and the kind of quiet that surprises people who only know the precinct on game days. Run, walk, or cycle the loop from NewQuay to Yarra's Edge.
 
-**Market Check** — If there's a weekend market running near Docklands, it's worth the wander. Fresh produce, street food, and the kind of people-watching that makes weekend mornings worthwhile.
-
-**Park Time** — Docklands's green spaces fill up on Saturday mornings with runners, dog walkers, and families. Join the park regulars or find a quiet bench.
+Then coffee. Hardware Societe at The District for a proper sit-down brunch — the French-inspired dishes are the reason. The Quarter at NewQuay for waterfront seating and a faster, simpler morning.
 
 ## Saturday Afternoon
 
-**Lunch Locally** — Don't reach for Uber Eats. Walk to one of Docklands's lunch spots — try somewhere you haven't been before. The mid-afternoon lull means no queues and relaxed service.
+The District Docklands for a cinema session or retail browse. Costco run if the pantry needs restocking. The library at Victoria Harbour for quiet time with harbour views — genuinely one of Melbourne's best free spaces.
 
-**Explore the Neighbourhood** — Pick a street you haven't walked down yet. Every suburb has blocks you've driven past but never explored on foot. Saturday afternoon is perfect for this.
-
-**Shop the Independent Stores** — Support local. Docklands's independent shops are the ones that give the suburb its character. Browse without pressure, buy something you didn't know you needed.
+If the weather's good: kayaking or paddleboarding from the NewQuay marina. Getting on the water is the activity that makes Docklands feel like a different city.
 
 ## Saturday Night
 
-**Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Docklands's restaurant scene covers date night to casual with mates.
+Dinner on the waterfront — Berth at NewQuay for steaks and harbour views, or Cargo Hall on Harbour Esplanade for something more considered. Post-dinner drinks at Hightail's rooftop or the Woolshed's beer garden.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
-
-**Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Docklands's bottle shops have good selections and the staff usually have recommendations.
+If the precinct feels quiet (non-event weekends), walk 10 minutes into the CBD for deeper bar options. The Bourke Street bridge delivers you into the city's laneway bar scene within 15 minutes door to door.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Docklands starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
-
-**Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Docklands and into the neighbouring suburb. Find a coffee stop halfway through.
-
-**Sunday Pub Session** — If Docklands's pubs do Sunday sessions, these are gold. Relaxed, possibly live music, definitely relaxed dress code. The best cure for Sunday evening dread.
-
-**Prep for Monday** — We all have to do it. Grocery run through Docklands's shops, meal prep, and set the week up. At least you're doing it in a suburb with good options.
-
-## Monthly Rituals
-
-- **Try a new restaurant** you haven't been to yet
-- **Walk a neighbourhood you usually drive through**
-- **Check local event listings** for one-off markets, exhibitions, or community events
-- **Have one completely unplanned day** — no bookings, no plans, just see what Docklands offers when you say yes to whatever comes up
+The slow Docklands Sunday. Coffee at the NewQuay waterfront. Ron Barassi Snr Park for a casual kick or a walk. The Yarra's Edge promenade for afternoon light on the river. Docklands does lazy Sundays well when the wind doesn't interfere.
 
 ---
 
-**More on Docklands:** [Docklands Suburb Guide](/docklands/) · [Docklands Things to Do](/docklands/things-to-do/) · [Docklands Best Restaurants](/docklands/best-restaurants/)
+**More on Docklands:** [Docklands Suburb Guide](/docklands/) · [Things to Do](/docklands/things-to-do/) · [Best Cafes](/docklands/best-[cafes](/docklands/best-cafes/)/)
+
+---
+
+## Explore More of Docklands
+
+- [Docklands History](/docklands/history/)
+- [Docklands Rent Guide](/docklands/rent-guide/)
+- [Docklands Docklands For Young Professionals](/docklands/docklands-for-young-professionals/)
+- [Docklands Docklands For Retirees](/docklands/docklands-for-retirees/)
+- [Docklands Living In Docklands](/docklands/living-in-docklands/)
+- [Docklands Things To Do](/docklands/things-to-do/)
+- [Docklands Cost of Living](/docklands/cost-of-living/)
+- [Docklands Neighbourhood Guide](/docklands/neighbourhood-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Melbourne CBD Suburb Guide](/melbourne-cbd/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

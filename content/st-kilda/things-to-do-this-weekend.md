@@ -1,137 +1,110 @@
 ---
-title: "Things To Do This Weekend in St Kilda — 2026 Local Guide"
+title: "Things to Do This Weekend in St Kilda: March 2026 Picks"
+description: "Your St Kilda weekend sorted. Pier walks, brunch at The Cat's Kaka, Sunday Esplanade Market, sunset at the Espy and more. Updated weekly."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Chen"
 cover_image: "/images/st-kilda/things-to-do-this-weekend.jpg"
+cover_image_alt: "St Kilda Beach foreshore on a sunny weekend morning"
+suburb: "st-kilda"
+tags: ["st-kilda", "weekend", "things-to-do", "events", "brunch"]
 ---
 
-suburb: "st-kilda"
-vertical: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the things to do this weekend in St Kilda. Our verified 2026 guide covers the best spots for locals."
-tags: ["st-kilda"]
-categories: ["things"]
-## The Best Things To Do This Weekend in St Kilda
+# Things to Do This Weekend in St Kilda: March 2026 Picks
 
-St Kilda doesn't do quiet weekends. Between the tram-scattered foreshore, Acland Street's cake-shop windows, and Luna Park's grinning face staring down Jacka Boulevard, there's a rhythm here that other Melbourne suburbs simply can't replicate. Whether you've lived here your whole life or you're catching the 96 tram down from the CBD, this is your verified 2026 guide to making the most of your Saturday and Sunday.
+St Kilda doesn't do quiet weekends. Between the tram-scattered foreshore, Acland Street's cake-shop windows, and Luna Park's grinning face staring down Jacka Boulevard, there's a rhythm here that other Melbourne suburbs can't replicate. Whether you've lived here your whole life or you're catching the tram 96 down from the CBD, this is your verified guide to making the most of your Saturday and Sunday.
 
 
-### Morning: Start With the Water
+## Morning: Start With the Water
 
-The best thing about St Kilda on a weekend morning is the sheer number of people doing something active — and you don't have to join them to enjoy the atmosphere. Walk the promenade from St Kilda Sea Baths (10–18 Jacka Boulevard) towards Pier Road and you'll pass rollerbladers, dog walkers, and couples with flat whites from Auction Rooms on Acland Street.
+The best thing about St Kilda on a weekend morning is the sheer number of people doing something active — and you don't have to join them to enjoy the atmosphere. Walk the promenade from St Kilda Sea Baths (10-18 Jacka Boulevard) towards Pier Road and you'll pass rollerbladers, dog walkers, and couples with flat whites.
 
-If you do want to get moving, **St Kilda Beach Yoga** runs 8am sessions right on the sand near theCatani Gardens end of the foreshore. Sessions are donation-based, usually around $15. It's casual, no-lycra-required, and the instructor reads the room beautifully.
+The **St Kilda Pier walk** is a classic for a reason. Walk the full breakwater to the end — about 1.5km return, flat and easy, with a guaranteed pelican sighting. On a clear morning, you can see across to the Mornington Peninsula. In the evening, this is where the little penguins come ashore at the breakwater colony (dusk, free, no flash photography).
 
-For something with more structure, **HOTWORX St Kilda** (157 Carlisle Street) offers infrared sauna and cycle classes from 6am. A single session runs about $35, or grab a monthly unlimited for $169. It's tucked behind the strip of Indian restaurants on Carlisle Street, so you can grab a veggie samosa from **Mr. B's** on the walk back.
+If you've got kids in tow, the **St Kilda Botanical Gardens** (111 Blessington Street) open at sunrise and are free to enter. The playground near the ponds is shaded and well-maintained, and the garden paths are pram-friendly.
 
-If you've got kids in tow, the **St Kilda Botanical Gardens** (111 Blessington Street) open at sunrise and are free to enter. The playground near the ponds is shaded and well-maintained, and the garden paths are pram-friendly. It's a gentler morning than the beach promenade and just as satisfying.
-
-The **St Kilda Pier walk** is a classic for a reason. Park at the Pier Road car park and walk the full breakwater to the end. On a clear morning, you can see across to the Mornington Peninsula. The pier itself is about 1.5km return — flat, easy, and with a guaranteed pelican sighting if you walk far enough. In the evening, the pier is where the little penguins come ashore at the breakwater colony (dusk, free, but be quiet and don't use flash photography — the volunteers will politely but firmly tell you off).
+For something more active, the **Bay Trail** runs along the foreshore connecting Port Melbourne through St Kilda to Elwood. [Rent](/st-kilda/cost-of-living/) a bike from Rentabike near Luna Park (from about $25/day) or bring your own.
 
 
-### Brunch: Where St Kilda Earns Its Reputation
+## Brunch: Where St Kilda Earns Its Reputation
 
-You could eat brunch in St Kilda every weekend for a year and still not cover everything. But if we're picking the essential ones for 2026, here's where you land:
+**The Cat's Kaka** (52 Acland Street) is the newer entry — open since late 2025 — specialising in Japanese-fusion brunch. The miso scrambled eggs on shokupan ($19) are genuinely unlike anything else in the area. The matcha waffles with black sesame ice cream ($21) are the sweet option. Expect a queue on Sundays.
 
-**Loretta's** (397 Bay Street, Brunswick Street end) does a ricotta hotcake with honeycomb butter and mixed berries for $22 that regularly sells out before 11am. The room is small, the coffee is Allpress, and the wait is part of the charm.
+**Monarch Cakes** (103 Acland Street) has been selling Eastern European pastries since 1934. Black forest cake by the slice ($9.50). Not brunch in the traditional sense, but eating cake at 10am is a St Kilda institution.
 
-**The Cat's Kaka** (52 Acland Street) is a newer entry — open since late 2025 — specialising in Japanese-fusion brunch. Their miso scrambled eggs on shokupan with pickled ginger ($19) are genuinely unlike anything else in the area. Expect a queue on Sundays. The matcha waffles with black sesame ice cream ($21) are a sweet option that blurs the line between brunch and dessert.
+**Galleon Cafe** (9 Carlisle Street) is the neighbourhood reliable — good coffee, solid breakfast menu, generous outdoor seating, and a more local crowd than the Acland Street options.
 
-Over in neighbouring **Elwood**, **Code Black Coffee** (33 Ormond Road) pulls a tight menu of egg-based dishes and a banana bread that's more cake than bread. Worth the five-minute walk if Acland Street is heaving. They roast their own beans in-house and the flat white ($5) is as good as anything on Acland Street.
+**Baked.** (67 Fitzroy Street) does a twice-baked almond croissant ($7.50) that sells out before 11am on weekends. The sourdough loaf ($9) is worth buying for the week. Go early.
 
-**Grigons & Orr** (492 Victoria Street) sits right on the St Kilda–South Melbourne border and does a full big breakfast ($24) that's the antithesis of refined brunch. Scrambled eggs, bacon, chipolata, tomato, mushrooms, sourdough, hash brown. It's enormous, it's greasy, and it's exactly what you want after a big Saturday night. The coffee is solid and the service is fast.
-
-**Budget brunch hack:** If you want a good weekend brunch without the wait, head to **Carlisle Street** and grab a dosa from **Dosa Hut** (26 Carlisle Street). Masala dosas for $10–$14, massive, and you'll be in and out in 30 minutes while Acland Street is still queuing.
-
-> **📊 MELBZ POLL** — What's your go-to St Kilda brunch? Vote: Loretta's, The Cat's Kaka, or somewhere else entirely?
+**Budget brunch:** Head to **Dosa Hut** (26 Carlisle Street) for masala dosas at $10-$14. Massive, fast, and you'll be in and out in 30 minutes while Acland Street is still queuing.
 
 
-### Afternoon: Culture, Games, and Cake
+## Afternoon: Culture, Games, and Cake
 
-After you've eaten, St Kilda offers three distinct afternoon energy tracks.
+After you've eaten, St Kilda offers three distinct afternoon tracks:
 
-**Option A: Go Cultural.** The **Jewish Museum of Australia** (26 Alma Road, $15 entry) is small but beautifully curated — the Holocaust gallery is particularly moving. It's the kind of place you walk through in an hour and think about for a week. Closed Saturdays but open Sunday.
+**Option A: Go Cultural.** The **Jewish Museum of Australia** (26 Alma Road, $15 entry) is small but beautifully curated — the Holocaust gallery is particularly moving. Closed Saturdays but open Sunday. Alternatively, walk Acland Street and eat cake — **Monarch Cakes** (103 Acland Street) sells their black forest by the slice ($9.50) and it's still the benchmark.
 
-**Option B: Go Competitive.** **Zero Latency VR** (Suite 4/72 Fitzroy Street) charges $49 per person for a 30-minute multiplayer virtual reality session. Groups of four get the best experience. It's loud, sweaty, and oddly bonding. Book online because walk-ins on weekends are rare.
+**Option B: Go Active.** **Luna Park** (12A Jacka Boulevard) has free entry — you only pay for rides. The Scenic Railway ($15) is the oldest continually operating roller coaster in the world. A family fun pass runs $44. Or try **Zero Latency VR** (72 Fitzroy Street, $49 per person for 30 minutes) for multiplayer virtual reality.
 
-**Option C: Go Decadent.** Walk Acland Street and eat cake. This is a St Kilda institution and it hasn't changed in fifty years for good reason. **Monarch Cakes** (39 Acland Street) sells their black forest cake by the slice ($9.50) and it's still the benchmark. **Acland Street Cantina** does a lighter European pastry range if the Monarch queue is too long.
+**Option C: Go Easy.** Walk from Luna Park along The Esplanade to **The Railway Hotel** (63 Fitzroy Street) for a pint in the beer garden. Mains $18-$32, good taps, no pretension.
 
-If you're heading towards **Prahran** for the afternoon, Chapel Street is a ten-minute tram ride from the Fitzroy Street stop, and the Prahran Market (163 Commercial Road) is a strong option for artisan cheese and charcuterie to take home.
-
-
-### Evening: Where the Night Actually Starts
-
-St Kilda's evening scene splits into two worlds: the Fitzroy Street strip and the Acland Street pocket. Both are walkable, both are busy, and both serve very different crowds.
-
-**Fitzroy Street** is where you go for cocktails and big-group energy. **The Railway Hotel** (63 Fitzroy Street) has a bistro, a beer garden, and a jukebox that still gets used. Mains sit between $22 and $36. **Borsch Vodka & Tears** (152 Chapel Street — technically Prahran but St Kilda adjacent) is a Polish vodka den with over 100 varieties, candlelit tables, and pierogi that will ruin you for all other pierogi.
-
-**Acland Street** skews more intimate. **Limbo** (8 Acland Street) is a moody cocktail bar with live jazz on weekends. No cover charge, but the cocktails run $22–$28. Down the road, **Prince Public Bar** (29 Fitzroy Street) is the reliable local — cheap pints, decent parma, no pretensions.
-
-For dinner, **Donovans** (42 Jacka Boulevard) remains the gold standard for relaxed fine dining in St Kilda. A Tuesday night is easy; a Saturday requires a booking. Expect $80–$120 per person for mains and wine. The roasted duck for two ($78) is a genuine showpiece. The bread-and-butter pudding ($16) is a dessert that has been on the menu since opening and has never left — because it's perfect.
-
-If Donovans is fully booked, **Là Bas** (107 Barkly Street) is the backup plan that doesn't feel like a backup. This Italian spot has been open since mid-2025 and does handmade pasta with seasonal ingredients. The cacio e pepe ($24) is textbook, the lamb shoulder for two ($65) is shareable and substantial, and the wine list leans heavily Italian — which is exactly what you want here. Budget $100–$130 per person with wine.
-
-For something more casual, **Lentil As Anything** (41 Blessington Street) operates on a pay-what-you-feel model and serves vegetarian and vegan meals in a community-oriented space. It's not fine dining — it's a neighbourhood institution that feeds everyone regardless of budget. The curries and stews rotate daily and a satisfying meal will cost you $12–$20 depending on what you choose to contribute. Cash is appreciated but card works too.
+If you're heading towards [Prahran](/prahran/) for the afternoon, Chapel Street is a ten-minute tram ride from Fitzroy Street, and the Prahran Market (163 Commercial Road) is worth it for artisan cheese and charcuterie.
 
 
-### What We Skipped and Why
+## Evening: Where the Night Actually Starts
 
-**Luna Park rides** — We love the aesthetic, but individual ride pricing ($8–$15 each) adds up fast and most of the rides are pitched at kids under 12. The免费 entry and the photo moment are the real draw.
+**Fitzroy Street** is where you go for group energy and bigger venues. **The Esplanade Hotel** (11 The Esplanade) runs live music most nights in the main bar — usually free or $10-$20 — and the terrace at sunset is one of Melbourne's free pleasures. **The Prince of Wales** (29 Fitzroy Street) has a rooftop bar with DJs and bay views, open Thursday to Saturday.
 
-**St Kilda Festival (February)** — By the time you're reading this in March 2026, it's done for the year. Mark it for 2027 — it's free, it's enormous, and it shuts down the whole foreshore.
+**Acland Street** skews more intimate. **Limbo** (8 Acland Street) is a moody cocktail bar with live jazz on weekends from 8:30pm. Cocktails $22-$28, no cover charge.
 
-**Petting zoo at Catani Gardens** — We've seen it pop up on weekends but it's inconsistent. Not reliable enough to recommend as a plan.
+For dinner, **Cicciolina** (130 Acland Street) has been setting the standard for modern Australian-Mediterranean dining since the '90s. Book ahead on weekends. For something more casual, **Hot Chicken Project** (212 Carlisle Street) does Nashville-style hot chicken until midnight on weekends — quarter bird with slaw and fries for $18.
 
-
-### Nearby Guides Worth Reading
-
-- [Things To Do in Elwood This Weekend](/elwood/things-to-do-this-weekend) — the quieter cousin to St Kilda's chaos
-- [Things To Do in South Melbourne This Weekend](/south-melbourne/things-to-do-this-weekend) — market days and gallery hops
-- [Things To Do in Prahran This Weekend](/prahran/things-to-do-this-weekend) — Chapel Street deep cuts
-
-> **📊 MELBZ POLL** — Rate this guide: 🔥 Essential | 👍 Helpful | 🤷 Could be better
+**Lentil As Anything** (41 Blessington Street) operates on a pay-what-you-feel model and serves vegetarian meals in a community-oriented space. The curries rotate daily and a satisfying meal will cost $12-$20 depending on what you contribute.
 
 
-*Last verified March 2026. Prices and hours change — check ahead before you go.*
+## Sunday: The Esplanade Market
+
+The **Sunday Esplanade Market** runs every Sunday from 10am to 4pm along The Esplanade between Fitzroy Street and Cavell Street. Arts, crafts, jewellery, handmade ceramics, food vendors, and live buskers. It's been running for over 20 years and remains one of Melbourne's best free-entry markets. The food stalls — Turkish gozleme, handmade dumplings, artisan doughnuts — are worth the trip alone. Go early for the best selection.
 
 
-**About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
+## FAQ
 
-Living in St Kilda? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=st-kilda)
+**What's the one must-do thing in St Kilda this weekend?**
+Walk St Kilda Pier at dusk for the little penguins. Free, magical, and it happens every night year-round. Get there 30 minutes before sunset.
 
-### Featured Venues
+**How do I get to St Kilda from the CBD?**
+Tram 96 from Bourke Street runs straight to St Kilda Beach in about 25 minutes. Tram 16 runs via Fitzroy Street. There is no train station in St Kilda — the nearest is Balaclava Station.
 
-- **Donovans** at 40 Jacka Blvd, St Kilda VIC 3182
-- **Stokehouse** at 30 Jacka Blvd, St Kilda VIC 3182
-- **Cicciolina** at 130 Acland St, St Kilda VIC 3182
-- **Monarch Cakes** at 103 Acland St, St Kilda VIC 3182
-- **Galleon Cafe** at 9 Carlisle St, St Kilda VIC 3182
-- **Fitzrovia** at 2/155 Fitzroy St, St Kilda VIC 3182
-- **I Love Pho 24** at 262 Victoria St, Richmond, VIC 3121 (Note: St Kilda branch at 128 Acland St, St Kilda, VIC 3182)
-- **Monarch Cakes** at 103 Acland St, St Kilda, VIC 3182
-- **Lentil As Anything** at 1-3 St Kilda Rd, St Kilda, VIC 3182
-- **Ichi Ni Izakaya** at 12/13 The Esplanade, St Kilda VIC 3182
+**Is Luna Park free?**
+Entry is free. Individual rides cost $8-$15 each, or a fun pass is $44 for unlimited rides. The Scenic Railway alone is $15.
 
-### Key Highlights
+**What if it rains?**
+The Jewish Museum, the Palais Theatre (if there's a show), the St Kilda Library (150 Carlisle Street), and the [cafes](/st-kilda/best-cafes/) along Acland and Carlisle Streets all work as wet-weather options. Or lean into it — a rainy foreshore walk in a decent jacket has its own appeal.
 
-- St Kilda Pier and Penguin Colony
-- Luna Park
-- Acland Street cake shops
 
-### Suburb Vibe
+## The Verdict
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
+St Kilda weekends work because the suburb has enough density to fill two days without repeating yourself. The Saturday rhythm of foreshore walk, brunch, afternoon drift and evening out is well-practised here, and the Sunday Esplanade Market is one of Melbourne's best weekend rituals. It's a suburb that rewards showing up and paying attention.
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
+**Read next:** [St Kilda Things to Do](/st-kilda/things-to-do/) | [St Kilda [Nightlife](/st-kilda/nightlife-guide/) Guide](/st-kilda/nightlife-guide/) | [St Kilda New Openings](/st-kilda/new-openings/)
 
-*Find more Melbourne content at [melbz.com.au](/)*
+---
+
+## Explore More of St Kilda
+
+- [St Kilda History](/st-kilda/history/)
+- [St Kilda Cocktails](/st-kilda/cocktails/)
+- [St Kilda Cheap Eats](/st-kilda/cheap-eats/)
+- [St Kilda Rent Guide](/st-kilda/rent-guide/)
+- [St Kilda Date Night Guide](/st-kilda/date-night/)
+- [St Kilda New Openings](/st-kilda/new-openings/)
+- [St Kilda St Kilda For Retirees](/st-kilda/st-kilda-for-retirees/)
+- [St Kilda Things To Do](/st-kilda/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [Albert Park Suburb Guide](/albert-park/)

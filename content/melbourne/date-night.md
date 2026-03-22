@@ -1,17 +1,16 @@
 ---
 title: "Date Night in Melbourne — Where to Actually Take Someone in 2026"
 cover_image: "/images/melbourne/date-night.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Date night in Melbourne that doesn't suck. Real restaurants, real bars, real walking routes. From $30 meals to splurges worth the money."
 tags: ["melbourne"]
 categories: ["date"]
+---
+
 # Date Night in Melbourne — Where to Actually Take Someone in 2026
 
 Dating in Melbourne is weird. You're matching with people from four different suburbs, coordinating schedules around shift work and AFL finals, and trying to figure out if a $200 degustation says "I'm serious" or "I'm trying too hard." The stakes feel high even when they're not, and choosing the wrong venue can turn a promising evening into an awkward one.
@@ -169,10 +168,9 @@ The best date-night restaurants in Melbourne aren't the most expensive ones — 
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [South Yarra](/south-yarra/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

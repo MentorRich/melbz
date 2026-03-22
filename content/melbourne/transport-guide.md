@@ -1,17 +1,14 @@
 ---
 title: "Melbourne Transport Guide 2026: Trains, Trams, and Getting Around"
-cover_image: "https://images.pexels.com/photos/5579769/pexels-photo-5579769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "/images/shared/city-architecture.jpg"
 date: 2026-03-16
-author: sam
-author_image: "/images/authors/sam.jpg"
+author: "Sam Walsh"
 tags: ["melbourne", "transport", "trams", "trains"]
 categories: ["lifestyle"]
 description: "Melbourne Transport Guide 2026: Trains, Trams, and Getting Around"
 ---
 
 **Updated 16 March 2026 | Sam Torres reporting**
-
-
 
 
 *Updated 16 March 2026 | Sam Torres reporting*
@@ -227,10 +224,9 @@ The network isn't perfect. The 19 tram will test your patience. Signal faults wi
 
 ## Related Articles
 
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/collingwood/](/collingwood/)
-- [/brunswick/](/brunswick/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
+- [Fitzroy](/fitzroy/)
+- [Collingwood](/collingwood/)
+- [Brunswick](/brunswick/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

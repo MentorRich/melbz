@@ -4,13 +4,18 @@ description: "The insider's guide to Altona Meadows's different pockets, streets
 date: 2026-03-21
 suburb: "altona-meadows"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Altona Meadows neighbourhood guide"
   - "best streets in Altona Meadows"
   - "Altona Meadows areas"
   - "Altona Meadows pockets Melbourne"
+tags:
+  - "altona-meadows"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Altona Meadows isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

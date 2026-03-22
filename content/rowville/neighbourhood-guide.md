@@ -4,13 +4,18 @@ description: "The insider's guide to Rowville's different pockets, streets, and 
 date: 2026-03-21
 suburb: "rowville"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Rowville neighbourhood guide"
   - "best streets in Rowville"
   - "Rowville areas"
   - "Rowville pockets Melbourne"
+tags:
+  - "rowville"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Rowville isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

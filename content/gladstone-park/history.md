@@ -4,16 +4,22 @@ description: "The story of Gladstone Park: from its origins to today. How this M
 date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Gladstone Park Melbourne history"
   - "how has Gladstone Park changed"
   - "Gladstone Park gentrification"
   - "Gladstone Park then and now"
+tags:
+  - "gladstone-park"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Gladstone Park's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Gladstone Park was not always the place you see today. Its story starts as farming land on Melbourne's fringe, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Gladstone Park suburb guide](/gladstone-park/) for the current picture.
 

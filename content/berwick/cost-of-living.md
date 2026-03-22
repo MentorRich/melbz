@@ -4,16 +4,22 @@ description: "How expensive is Berwick? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "berwick"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Berwick Melbourne"
   - "how expensive is Berwick"
   - "is Berwick expensive to live in"
   - "Berwick rent"
+tags:
+  - "berwick"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Berwick — no sugar-coating, no made-up figures.
+Berwick living costs reflect its position in Melbourne property landscape. Here are the numbers that matter.
 
 Read our full [Berwick suburb guide](/berwick/) for the bigger picture.
 

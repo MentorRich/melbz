@@ -4,12 +4,18 @@ description: "Is Ferntree Gully a good suburb for young professionals? Social sc
 date: 2026-03-21
 suburb: "ferntree-gully"
 article_type: "young-professionals"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Ferntree Gully young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Ferntree Gully"
+tags:
+  - "ferntree-gully"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Ferntree Gully as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

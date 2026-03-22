@@ -4,13 +4,19 @@ description: "Is Port Melbourne safe to live in? The honest breakdown of safety,
 date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "safety"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Port Melbourne safe"
   - "Port Melbourne safety"
   - "Port Melbourne crime"
   - "is Port Melbourne dangerous Melbourne"
+tags:
+  - "port-melbourne"
+  - "safety"
+  - "crime"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -22,9 +28,9 @@ Read our full [Port Melbourne suburb guide](/port-melbourne/) for the complete p
 
 ## The Day-to-Day Experience
 
-Walking around Port Melbourne during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around Port Melbourne during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/port-melbourne/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/port-melbourne/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +54,7 @@ Crime statistics exist for every suburb, and Port Melbourne's numbers are in lin
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/port-melbourne/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +74,23 @@ The lifestyle benefits of Port Melbourne — community, walkability, access — 
 ---
 
 **More on Port Melbourne:** [Port Melbourne Suburb Guide](/port-melbourne/) · [Port Melbourne Living Guide](/port-melbourne/living-in-port-melbourne/) · [Port Melbourne for Families](/port-melbourne/port-melbourne-for-families/)
+
+---
+
+## Explore More of Port Melbourne
+
+- [Port Melbourne History](/port-melbourne/history/)
+- [Port Melbourne Rent Guide](/port-melbourne/rent-guide/)
+- [Port Melbourne Things To Do](/port-melbourne/things-to-do/)
+- [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/)
+- [Port Melbourne Young Professionals Guide](/port-melbourne/young-professionals/)
+- [Port Melbourne Nightlife Guide](/port-melbourne/nightlife-guide/)
+- [Port Melbourne Transport Guide](/port-melbourne/transport-guide/)
+- [Port Melbourne Best Cafes](/port-melbourne/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

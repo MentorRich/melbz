@@ -4,12 +4,16 @@ description: "Thinking of raising kids in St Kilda West? Parks, schools, safety,
 date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is St Kilda West good for families"
   - "St Kilda West family friendly"
   - "raising kids in St Kilda West"
+tags:
+  - "st-kilda-west"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to St Kilda West with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

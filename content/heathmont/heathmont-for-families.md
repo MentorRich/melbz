@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Heathmont? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "heathmont"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Heathmont good for families"
   - "Heathmont family friendly"
   - "raising kids in Heathmont"
+tags:
+  - "heathmont"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 Moving to Heathmont with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

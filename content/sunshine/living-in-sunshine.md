@@ -4,12 +4,16 @@ description: "What's it really like living in Sunshine? Pros, cons, and the stuf
 date: 2026-03-21
 suburb: "sunshine"
 article_type: "living-in"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "living in Sunshine Melbourne"
   - "pros and cons of living in Sunshine"
   - "is Sunshine a good place to live"
+tags:
+  - "sunshine"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Sunshine? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ Hampshire Road revamp, express trains, and the western suburbs' emerging central
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Sunshine delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** From morning coffee to Friday night dinner, Sunshine has you covered without needing to drive 20 minutes for a decent meal.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

@@ -1,17 +1,16 @@
 ---
 title: "New Openings in Melbourne — March 2026 Guide"
 cover_image: "/images/melbourne/new-openings.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 date: 2026-03-17
 updated: 2026-03-17
 description: "New restaurant, bar, and café openings in Melbourne for March 2026. Real venues, real details, and whether they're worth your time."
 tags: ["melbourne"]
 categories: ["new"]
+---
+
 # New Openings in Melbourne — March 2026
 
 Melbourne opens restaurants the way other cities open envelopes — constantly, obsessively, and with no sign of slowing down. In early 2026 alone, we've seen an Andrew McConnell European grill announced, Con Christopoulos take over half of Collins Street, a Lune mega-venue in the works, and a Carnation Canteen alum convert a legendary Rathdowne Street bar into something entirely new.
@@ -159,10 +158,9 @@ Melbourne's 2026 opening season is shaping up to be dominated by Italian food (R
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

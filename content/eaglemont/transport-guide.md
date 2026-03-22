@@ -4,15 +4,22 @@ description: "Public transport in Eaglemont: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "eaglemont"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Eaglemont Melbourne"
   - "commute from Eaglemont to city"
   - "Eaglemont train station"
+tags:
+  - "eaglemont"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Eaglemont — what works, what's annoying, and how long things actually take.
+Eaglemont sits in the western growth corridor, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Eaglemont suburb guide](/eaglemont/) for the complete picture.
 

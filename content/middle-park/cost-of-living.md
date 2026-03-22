@@ -4,16 +4,22 @@ description: "How expensive is Middle Park? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "middle-park"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Middle Park Melbourne"
   - "how expensive is Middle Park"
   - "is Middle Park expensive to live in"
   - "Middle Park rent"
+tags:
+  - "middle-park"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Middle Park — no sugar-coating, no made-up figures.
+The gap between the sticker price of Middle Park and actual living costs is worth understanding before you move.
 
 Read our full [Middle Park suburb guide](/middle-park/) for the bigger picture.
 

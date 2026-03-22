@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Williams Landing? Parks, schools, safe
 date: 2026-03-21
 suburb: "williams-landing"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Williams Landing good for families"
   - "Williams Landing family friendly"
   - "raising kids in Williams Landing"
+tags:
+  - "williams-landing"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Williams Landing with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

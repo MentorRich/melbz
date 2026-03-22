@@ -4,13 +4,19 @@ description: "The bar scene in Seddon: where to drink, what the vibe is, and the
 date: 2026-03-21
 suburb: "seddon"
 article_type: "nightlife"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "best bars Seddon"
   - "bars in Seddon Melbourne"
   - "nightlife Seddon"
   - "where to drink Seddon"
+tags:
+  - "seddon"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 
@@ -55,4 +61,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Seddon:** [Seddon Suburb Guide](/seddon/) · [Seddon Best Restaurants](/seddon/best-restaurants/) · [Seddon for Young Professionals](/seddon/seddon-for-young-professionals/)
+**More on Seddon:** [Seddon Suburb Guide](/seddon/) · [Seddon Best Restaurants](/seddon/best-[restaurants](/seddon/best-restaurants/)/) · [Seddon for Young Professionals](/seddon/seddon-for-young-professionals/)
+
+---
+
+## Explore More of Seddon
+
+- [Seddon History](/seddon/history/)
+- [Seddon Rent Guide](/seddon/rent-guide/)
+- [Seddon Things To Do](/seddon/things-to-do/)
+- [Seddon Cost of Living](/seddon/cost-of-living/)
+- [Seddon Young Professionals Guide](/seddon/young-professionals/)
+- [Seddon Transport Guide](/seddon/transport-guide/)
+- [Seddon Best Cafes](/seddon/best-cafes/)
+- [Seddon Best Restaurants](/seddon/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Footscray Suburb Guide](/footscray/)
+- [Yarraville Suburb Guide](/yarraville/)
+- [Williamstown Suburb Guide](/williamstown/)
+- [Newport Suburb Guide](/newport/)

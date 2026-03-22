@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Keilor Downs? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Keilor Downs good for families"
   - "Keilor Downs family friendly"
   - "raising kids in Keilor Downs"
+tags:
+  - "keilor-downs"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Keilor Downs with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

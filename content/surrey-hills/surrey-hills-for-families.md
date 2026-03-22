@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Surrey Hills? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "surrey-hills"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Surrey Hills good for families"
   - "Surrey Hills family friendly"
   - "raising kids in Surrey Hills"
+tags:
+  - "surrey-hills"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Surrey Hills with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

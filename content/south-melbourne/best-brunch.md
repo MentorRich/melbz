@@ -1,16 +1,16 @@
 ---
 title: "Best Brunch in South Melbourne 2026: The Complete Guide"
 cover_image: "/images/south-melbourne/best-brunch.jpg"
-date: 2026-03-16
-author: priya
-author_image: "/images/authors/priya.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
 tags: ["south-melbourne", "brunch", "cafes"]
-categories: ["food"]
-description: "Best Brunch in South Melbourne 2026: The Complete Guide"
+description: "Dead Man Espresso Reuben sandwiches, The Kettle Black ricotta hotcakes, and the South Melbourne brunch spots worth the weekend queue. Tested 2026."
+cover_image_alt: "South Melbourne street scene and local dining"
+suburb: "south-melbourne"
 ---
 
 **Updated 16 March 2026 | 8 places tested | Priya Sandhu reporting**
-
 
 
 South Melbourne doesn't do brunch ..."
@@ -127,7 +127,7 @@ This is a cafe built for takeaway too — the front counter has a rotating selec
 >
 > "I once told my friends I'd been to Kettle Black and loved it. I'd actually never been. I just didn't want to admit I'd spent Sunday at a chain cafe in Southland." — Anonymous, South Yarra
 >
-> *Send your confession to hq@melbz101. We won't judge. (Much.)*
+> *Send your confession to hq@melbz.com.au. We won't judge. (Much.)*
 
 
 ## 7. Market Lane Coffee — South Melbourne
@@ -193,10 +193,9 @@ For more Melbourne food coverage, check our [complete guide to eating around the
 
 ## Related Articles
 
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/south-yarra/](/south-yarra/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/south-melbourne/](/south-melbourne/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [South Yarra](/south-yarra/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [South Melbourne](/south-melbourne/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

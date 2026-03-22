@@ -1,16 +1,16 @@
 ---
-title: "Clifton Hill Melbourne — Everything You Need to Know"
+title: "Clifton Hill Melbourne — what you need"
 description: "The complete guide to Clifton Hill. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Clifton Hill Melbourne"
   - "what is Clifton Hill like"
   - "clifton-hill suburb"
   - "living in Clifton Hill"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 A quiet pocket between Collingwood and Northcote with Queens Parade cafes and Merri Creek access.

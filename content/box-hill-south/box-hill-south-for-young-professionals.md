@@ -4,12 +4,18 @@ description: "Is Box Hill South a good suburb for young professionals? Social sc
 date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "young-professionals"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Box Hill South young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Box Hill South"
+tags:
+  - "box-hill-south"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Box Hill South as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

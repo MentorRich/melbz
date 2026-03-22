@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Meadow Heights? Parks, schools, safety
 date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Meadow Heights good for families"
   - "Meadow Heights family friendly"
   - "raising kids in Meadow Heights"
+tags:
+  - "meadow-heights"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Meadow Heights with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

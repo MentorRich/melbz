@@ -4,13 +4,18 @@ description: "The insider's guide to West Footscray's different pockets, streets
 date: 2026-03-21
 suburb: "west-footscray"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "West Footscray neighbourhood guide"
   - "best streets in West Footscray"
   - "West Footscray areas"
   - "West Footscray pockets Melbourne"
+tags:
+  - "west-footscray"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 West Footscray isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

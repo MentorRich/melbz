@@ -4,16 +4,22 @@ description: "The story of Kew East: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "kew-east"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Kew East Melbourne history"
   - "how has Kew East changed"
   - "Kew East gentrification"
   - "Kew East then and now"
+tags:
+  - "kew-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Kew East's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Kew East from an industrial hub to a sought-after neighbourhood. Understanding that arc explains a lot.
 
 See our full [Kew East suburb guide](/kew-east/) for the current picture.
 

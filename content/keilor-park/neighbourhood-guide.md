@@ -4,13 +4,18 @@ description: "The insider's guide to Keilor Park's different pockets, streets, a
 date: 2026-03-21
 suburb: "keilor-park"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Keilor Park neighbourhood guide"
   - "best streets in Keilor Park"
   - "Keilor Park areas"
   - "Keilor Park pockets Melbourne"
+tags:
+  - "keilor-park"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Keilor Park isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

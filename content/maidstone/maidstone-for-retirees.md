@@ -4,12 +4,16 @@ description: "Considering retirement in Maidstone? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "maidstone"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Maidstone retirees Melbourne"
   - "retiring in Maidstone"
   - "quiet suburbs Melbourne"
+tags:
+  - "maidstone"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Maidstone? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

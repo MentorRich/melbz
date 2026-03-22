@@ -4,13 +4,18 @@ description: "The insider's guide to Williamstown's different pockets, streets, 
 date: 2026-03-21
 suburb: "williamstown"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Williamstown neighbourhood guide"
   - "best streets in Williamstown"
   - "Williamstown areas"
   - "Williamstown pockets Melbourne"
+tags:
+  - "williamstown"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Williamstown isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

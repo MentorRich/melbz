@@ -1,16 +1,16 @@
 ---
-title: "Mooroolbark Melbourne — Everything You Need to Know"
+title: "Mooroolbark Melbourne — what you need"
 description: "The complete guide to Mooroolbark. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mooroolbark"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Mooroolbark Melbourne"
   - "what is Mooroolbark like"
   - "mooroolbark suburb"
   - "living in Mooroolbark"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mooroolbark station, family estates, and the Yarra Valley gateway.

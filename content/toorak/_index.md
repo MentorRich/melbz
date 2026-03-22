@@ -1,96 +1,68 @@
 ---
-title: "Toorak Melbourne — Everything You Need to Know"
-description: "The complete guide to Toorak. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
-date: 2026-03-21
+title: "Toorak"
+description: "Toorak is Melbourne's wealthiest suburb — Toorak Road boutiques, Como House, mansion-lined streets, private schools, and a village that tries very hard to look effortless."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jules Marchetti"
+cover_image: "/images/shared/parks-gardens.jpg"
+cover_image_alt: "Tree-lined residential street in Toorak with heritage mansions and manicured gardens"
 suburb: "toorak"
-article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-keywords:
+tags:
   - "Toorak Melbourne"
   - "what is Toorak like"
   - "toorak suburb"
   - "living in Toorak"
 ---
 
-Melbourne's wealthiest suburb. Toorak Road shops, mansion-lined streets, and old money prestige.
+Toorak sits 5km south-east of the CBD in the City of Stonnington, postcode 3142, and it has been Melbourne's prestige address since the 1850s gold rush money built the first mansions along the ridge above the Yarra. The name itself comes from "Toorak House," a grand estate that once occupied the land near the corner of Toorak Road and St Georges Road. Today the suburb runs roughly from Orrong Road in the west to Glenferrie Road in the east, with the Yarra River forming the northern boundary and Malvern Road to the south.
 
-If you're thinking about living in Toorak, visiting for the first time, or just trying to work out if this place is worth your Saturday afternoon — here's the honest rundown.
+The bones of the suburb are grand Victorian and Edwardian estates — many subdivided over the decades but still visually imposing along streets like Irving Road, Albany Road, and St Georges Road. Toorak Village on Toorak Road between Canterbury Road and Wallace Avenue is the commercial heart: designer boutiques, European-style delis, and cafes where the median coffee order probably costs more than a meal in Footscray. The village isn't large — maybe 400 metres of shopfronts — but it concentrates wealth in a way that feels almost self-conscious.
 
-## Where Is Toorak?
+Como House on Como Avenue is the suburb's cultural anchor: a National Trust property dating to 1847 with gardens that host summer picnics and twilight events. It's one of the few grand estates that survived intact while its neighbours were carved into townhouse developments.
 
-Toorak sits in Melbourne's Inner South region. It's the kind of suburb where you can feel the neighbourhood's personality the minute you step off public transport. Getting to the city from here isn't a drama — you've got options depending on where exactly you are in the suburb.
+## Getting around Toorak
 
-The suburb borders South Yarra, Armadale, Hawthorn. That matters because your nearby options for food, coffee, and weekend plans extend well beyond Toorak's own postcode boundaries.
+Toorak station sits on the Glen Waverley line and gets you to Flinders Street in about 12 minutes. Tram 8 runs along Toorak Road connecting to the CBD via Domain Interchange, and tram 58 also services Toorak Road heading toward South Yarra and the city. Kooyong Road runs north-south through the suburb and connects to the Monash Freeway for drivers heading east. Canterbury Road provides an alternative east-west route parallel to Toorak Road, quieter and preferred by locals who know the traffic light sequencing.
 
-## What's Toorak Actually Like?
+For the full breakdown, see our [Toorak transport guide](/toorak/transport-guide/).
 
-Melbourne's wealthiest suburb. Toorak Road shops, mansion-lined streets, and old money prestige.
+## What to eat and drink in Toorak
 
-Every suburb has a specific energy. Toorak has its own thing going on — it's not trying to be everywhere else. The streets have character, the locals know their spots, and there's a pace of life here that either suits you or doesn't.
+Toorak Road and Toorak Village carry the dining scene. France-Soir on Toorak Road has been serving French bistro classics since the 1980s and remains a genuine institution — the steak frites and the waiters have both been here for decades. Kazuki's on Canterbury Road does modern Japanese with a seasonal tasting menu that serious food people travel across Melbourne for. The village delis stock European cheeses, cured meats, and bread that costs what it should.
 
-Walk around on a Saturday morning and you'll pick up the vibe pretty quickly. The cafes tell you a lot — are they packed with young couples or families with prams? That gives you a read on who lives here.
+The cafe scene is polished rather than experimental. You're more likely to find a perfect flat white in a marble-tiled fitout than a pour-over in a converted garage. Toorak Road cafes cater to the school-run crowd in the mornings and the ladies-who-lunch demographic from 11am onward.
 
-## Who Lives in Toorak?
+Explore our guides to [Toorak's best restaurants](/toorak/best-restaurants/), [best cafes](/toorak/best-cafes/), and [best bars](/toorak/best-bars/).
 
-Toorak draws a particular crowd. The demographics lean towards the kind of people who value what this suburb specifically offers. You'll find a mix — and it's the mix that makes it work.
+## Living in Toorak — what it actually costs
 
-The community here has its own institutions, its own rhythms, its own complaints about parking. Like every Melbourne suburb, it's evolved over the past couple of decades and the people who live here now aren't necessarily the same crowd from fifteen years ago.
+Toorak is Melbourne's most expensive suburb and has been for most of the past century. Median house prices sit well above $4 million. Apartments are the entry point, and even a one-bedroom unit on the village fringe commands $400–$500 per week in rent. Two-bedroom apartments run $550–$800 depending on how close you are to Toorak Road and whether there's parking. The trade-off is proximity to some of Melbourne's best private schools, and a postcode that still carries weight.
 
-## Housing in Toorak
+### Is Toorak good for families?
 
-The housing stock in Toorak tells the story of how the suburb has evolved. You'll find a mix of older homes that have been here for decades alongside newer build quality — townhouses, apartments, and the occasional knockdown-rebuild that sticks out on the street.
+Absolutely — if you can afford it. Melbourne Grammar, Lauriston Girls' School, and St Kevin's College are all within the Toorak orbit. Como Park and Toorak Park provide green space, though they're modest compared to what you'd get in suburbs further out. The streets south of Toorak Road are genuinely quiet, tree-lined, and feel safe enough that kids ride bikes unsupervised. The school-run traffic on Canterbury Road and Kooyong Road is the main family annoyance.
 
-If you're renting, there's decent variety depending on your budget. Share houses exist for those starting out. Units and apartments work for professionals. Families will need to hunt a bit harder for standalone homes with a backyard, but they're out there.
+## The honest take
 
-## Getting Around Toorak
+Toorak is beautiful, expensive, and slightly insecure about being slightly boring. The suburb doesn't have the creative energy of Fitzroy, the nightlife of South Yarra, or the multicultural buzz of Richmond. What it has is immaculate streetscapes, excellent schools, quiet wealth, and a village strip where the greatest act of rebellion is ordering a long black instead of a latte. If you value polish over personality, Toorak delivers exactly what it promises — and the money you spend here buys a specific kind of Melbourne life that nowhere else quite replicates.
 
-Transport from Toorak is solid enough to make it work without a car for most people, though having a car definitely helps for some errands and weekend plans.
+## Keep exploring
 
-**Read the full breakdown:** [Toorak Transport Guide](/toorak/transport-guide/)
-
-Quick version: you can get to the city reasonably easy. The tram and train network serves this area, and cycling infrastructure has been improving steadily.
-
-## Eating and Drinking in Toorak
-
-The food scene in Toorak reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and a mix of old and new that keeps it lively without needing to leave the suburb every time you want a decent meal.
-
-Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
-
-## Is Toorak Right for You?
-
-**You'll love Toorak if:**
-- You want a suburb with genuine character and community
-- You value proximity to Melbourne's best without paying absolute top dollar
-- You like having your local spots — the cafe you don't need to think about, the pub you default to
-- You appreciate a neighbourhood that's evolved naturally rather than been manufactured
-
-**It might not be for you if:**
-- You need absolute silence and a massive backyard
-- Budget is extremely tight — some areas of Toorak have crept up in cost
-- You want everything brand new and shiny
-- You're not comfortable with a suburb that has a strong identity you need to adapt to
-
-## Living Here — The Deep Dive
-
-Want more detail? We've covered every angle:
-
-- **[Living in Toorak — The Honest Guide](/toorak/living-in-toorak/)** — Pros, cons, and the unfiltered truth
-- **[Is Toorak Good for Families?](/toorak/toorak-for-families/)** — Schools, parks, safety, the works
-- **[Is Toorak Good for Young Professionals?](/toorak/toorak-for-young-professionals/)** — Social scene, commute, renting
+- **[Living in Toorak — The Honest Guide](/toorak/living-in-toorak/)** — Pros, cons, and the unfiltered version
+- **[Is Toorak Good for Families?](/toorak/toorak-for-families/)** — Schools, parks, safety
+- **[Is Toorak Good for Young Professionals?](/toorak/toorak-for-young-professionals/)** — Social scene, commute, rent
 - **[Is Toorak Good for Retirees?](/toorak/toorak-for-retirees/)** — Quiet streets, healthcare, community
-- **[Cost of Living in Toorak](/toorak/cost-of-living/)** — Rent, daily costs, and how it compares
-- **[Getting Around Toorak](/toorak/transport-guide/)** — Trains, trams, bikes, driving
-- **[Toorak Neighbourhood Guide](/toorak/neighbourhood-guide/)** — Streets, pockets, and where to be
-- **[History of Toorak](/toorak/history/)** — How this suburb became what it is today
+- **[Cost of Living in Toorak](/toorak/cost-of-living/)** — Rent, daily costs, comparisons
+- **[Getting Around Toorak](/toorak/transport-guide/)** — Trains, trams, driving
+- **[Toorak Neighbourhood Guide](/toorak/neighbourhood-guide/)** — Streets, pockets, where to be
+- **[History of Toorak](/toorak/history/)** — How the suburb became Melbourne's address
 
-## Suburbs Near Toorak
+## Suburbs near Toorak
 
-- **[South Yarra](/south-yarra/)** — Chapel Street shopping, Botanical Gardens, and Melbourne's see-and-be-seen brunc
-- **[Armadale](/armadale/)** — High Street boutiques, tree-lined avenues, and a quieter alternative to South Ya
-- **[Hawthorn](/hawthorn/)** — Glenferrie Road shops, Swinburne Uni, and some of Melbourne's finest heritage ho
-- **[Malvern](/malvern/)** — Glenferrie Road shops, top schools, and established family living in Melbourne's
-
+- **[South Yarra](/south-yarra/)** — Chapel Street shopping, Botanical Gardens, and Melbourne's see-and-be-seen brunch scene
+- **[Hawthorn](/hawthorn/)** — Glenferrie Road shops, Swinburne Uni, and heritage homes across the river
+- **[Prahran](/prahran/)** — Greville Street boutiques, Chapel Street nightlife, and a grittier energy next door
+- **[Richmond](/richmond/)** — Bridge Road, Victoria Street Vietnamese, and inner-city edge 10 minutes away
 
 ---
 

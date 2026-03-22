@@ -4,16 +4,22 @@ description: "How expensive is Montmorency? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "montmorency"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Montmorency Melbourne"
   - "how expensive is Montmorency"
   - "is Montmorency expensive to live in"
   - "Montmorency rent"
+tags:
+  - "montmorency"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Montmorency — no sugar-coating, no made-up figures.
+Let us talk money in Montmorency. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Montmorency suburb guide](/montmorency/) for the bigger picture.
 

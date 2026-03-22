@@ -4,17 +4,23 @@ description: "What to do in Carlton North this weekend and beyond. Activities, e
 date: 2026-03-21
 suburb: "carlton-north"
 article_type: "activities"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "things to do Carlton North"
   - "Carlton North activities"
   - "what to do in Carlton North"
   - "Carlton North weekend plans"
+tags:
+  - "carlton-north"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
-## What Is There to Do in Carlton North?
+## What Is There to Do in [Carlton](/carlton/) North?
 
 More than you think. Quieter sibling of Carlton with Rathdowne Village charm and leafy residential streets. That energy translates into things to do on any day of the week, rain or shine.
 
@@ -53,7 +59,7 @@ More than you think. Quieter sibling of Carlton with Rathdowne Village charm and
 
 Melbourne weather means you need indoor plans. Carlton North has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/carlton-north/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Carlton North has:
 ---
 
 **More on Carlton North:** [Carlton North Suburb Guide](/carlton-north/) · [Carlton North Best Cafes](/carlton-north/best-cafes/) · [Carlton North Neighbourhood Guide](/carlton-north/neighbourhood-guide/)
+
+---
+
+## Explore More of Carlton North
+
+- [Carlton North History](/carlton-north/history/)
+- [Carlton North Rent Guide](/carlton-north/rent-guide/)
+- [Carlton North Cost of Living](/carlton-north/cost-of-living/)
+- [Carlton North Young Professionals Guide](/carlton-north/young-professionals/)
+- [Carlton North Nightlife Guide](/carlton-north/nightlife-guide/)
+- [Carlton North Transport Guide](/carlton-north/transport-guide/)
+- [Carlton North Best Cafes](/carlton-north/best-cafes/)
+- [Carlton North Best Restaurants](/carlton-north/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Canterbury Suburb Guide](/canterbury/)
+- [Carlton Suburb Guide](/carlton/)
+- [Carnegie Suburb Guide](/carnegie/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)

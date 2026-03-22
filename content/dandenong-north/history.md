@@ -4,16 +4,22 @@ description: "The story of Dandenong North: from its origins to today. How this 
 date: 2026-03-21
 suburb: "dandenong-north"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Dandenong North Melbourne history"
   - "how has Dandenong North changed"
   - "Dandenong North gentrification"
   - "Dandenong North then and now"
+tags:
+  - "dandenong-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Dandenong North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Dandenong North has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Dandenong North suburb guide](/dandenong-north/) for the current picture.
 

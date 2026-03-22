@@ -1,12 +1,13 @@
 ---
 title: "Best Late Night Food in Melbourne 2026: The Definitive Guide"
-cover_image: "/images/melbourne-cbd/late-night-food.jpg"
-date: 2026-03-16
-author: tariq
-author_image: "/images/authors/tariq.jpg"
-tags: ["melbourne", "late-night", "food"]
-categories: ["food"]
-description: "Best Late Night Food in Melbourne 2026: The Definitive Guide"
+cover_image: "/images/shared/food-restaurants.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Tariq Khan"
+tags: ["melbourne", "melbourne-cbd", "late-night", "food"]
+description: "Twelve late-night food spots tested across Melbourne CBD and inner suburbs for 2026. Chinatown dumplings at 2am, souvlaki until dawn and laneway bar snacks."
 ---
 
 It's 11:47pm on a Saturday. You've just left a packed gig at the Forum, your Myki's expired, an..."
@@ -165,7 +166,7 @@ Laksa King isn't in the CBD — it's a 10-minute tram ride from Flemington Bridg
 
 **The Crown Casino food court** — Technically open 24 hours, but the quality varies wildly and it's more of a last resort than a recommendation. China Bar at Crown is decent; the rest is hit-or-miss.
 
-**Hospitality venues and hotel bars serving late** — Many hotels in the CBD serve food until midnight, but they're not reliably late-night and the markup is steep. We're sticking to standalone restaurants and bars for this guide.
+**Hospitality venues and hotel bars serving late** — Many hotels in the CBD serve food until midnight, but they're not reliably late-night and the markup is steep. We're sticking to standalone [restaurants](/melbourne-cbd/best-restaurants/) and bars for this guide.
 
 
 ## Getting Home Safe
@@ -176,7 +177,7 @@ Melbourne's [Night Network](https://www.ptv.vic.gov.au/night-network/) runs all-
 - **Fitzroy Police Station** — 292 Smith Street, open 24 hours.
 - **If you or someone you're with needs help** — Call 000 or text the venue security. Most late-night CBD venues have trained staff.
 
-For more on navigating Melbourne after dark, check our [Melbourne Night Transport Guide](/melbourne-cbd/night-transport-guide/).
+For more on navigating Melbourne after dark, check our [Melbourne Night [Transport](/melbourne-cbd/transport-guide/) Guide](/melbourne-cbd/night-transport-guide/).
 
 
 > **📊 VOTE: Where's your go-to for a late-night feed?**
@@ -211,12 +212,22 @@ Planning your late-night route? Check our [CBD Transport Guide](/melbourne-cbd/t
 > **🔄 OPEN LOOP CLOSE**
 > This guide covers the CBD and inner suburbs, but Melbourne's outer-north late-night scene is a different animal entirely. Brunswick, Footscray, and Richmond each have their own late-night food ecosystems worth exploring. Start with [Best Late Night Food in Brunswick](/brunswick/late-night-food/) for the full picture.
 
-## Related Articles
+---
 
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
+## Explore More of Melbourne CBD
 
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Cocktails](/melbourne-cbd/cocktails/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD Weekend Guide V2](/melbourne-cbd/weekend-guide-v2/)
+
+### Nearby Suburbs Worth Checking
+
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

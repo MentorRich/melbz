@@ -1,17 +1,16 @@
 ---
 title: "Best Pubs in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-pubs.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best pubs in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually drink — from heritage hotels to craft beer dens."
 tags: ["melbourne"]
 categories: ["general"]
+---
+
 # Best Pubs in Melbourne — 2026 Guide
 
 A Melbourne pub isn't just a place to drink — it's a community centre, a sports stadium, a restaurant, a meeting room, and occasionally a time machine. The city's pub culture runs deep, from the grand heritage hotels of the CBD to the neighbourhood locals that anchor every suburb. In 2026, Melbourne pubs are in a golden age: the old-school working man's pubs are still going strong, while a new wave of craft beer-focused venues is raising the bar (literally) on what a pub can be.
@@ -234,10 +233,9 @@ If you're new to Melbourne, know this: Friday arvo (3pm–7pm) at a good pub is 
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

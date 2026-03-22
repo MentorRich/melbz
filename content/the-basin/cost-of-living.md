@@ -4,16 +4,22 @@ description: "How expensive is The Basin? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "the-basin"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living The Basin Melbourne"
   - "how expensive is The Basin"
   - "is The Basin expensive to live in"
   - "The Basin rent"
+tags:
+  - "the-basin"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in The Basin — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In The Basin, here is exactly how far your dollar goes.
 
 Read our full [The Basin suburb guide](/the-basin/) for the bigger picture.
 

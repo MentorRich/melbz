@@ -1,16 +1,16 @@
 ---
-title: "Hughesdale Melbourne — Everything You Need to Know"
+title: "Hughesdale Melbourne — what you need"
 description: "The complete guide to Hughesdale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "hughesdale"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Hughesdale Melbourne"
   - "what is Hughesdale like"
   - "hughesdale suburb"
   - "living in Hughesdale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Poath Road strip, tiny community, and the gateway to Oakleigh's Greek food scene.

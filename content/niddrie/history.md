@@ -4,16 +4,22 @@ description: "The story of Niddrie: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "niddrie"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Niddrie Melbourne history"
   - "how has Niddrie changed"
   - "Niddrie gentrification"
   - "Niddrie then and now"
+tags:
+  - "niddrie"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Niddrie's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Niddrie has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Niddrie suburb guide](/niddrie/) for the current picture.
 

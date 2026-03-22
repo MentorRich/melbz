@@ -1,23 +1,15 @@
 ---
-title: "Coburg Honest Guide 2026: Sydney Road & Real Opinions"
-cover_image: "/images/coburg/honest-guide.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
-tags: ["coburg", "honest-guide", "lifestyle"]
-categories: ["lifestyle"]
-description: "Coburg Honest Guide 2026: Sydney Road & Real Opinions"
+title: "Coburg Honest Guide 2026: Sydney Road and Real Opinions"
+description: "The unfiltered guide to Coburg in 2026. Sydney Road food, Merri Creek, the Upfield line, rent reality, and whether it really is the new Brunswick."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
+cover_image: "/images/shared/suburb-street.jpg"
+cover_image_alt: "Sydney Road in Coburg with tram tracks, bakeries, and pedestrians"
+suburb: "coburg"
+tags: ["coburg", "honest-guide", "living", "lifestyle"]
 ---
 
-**Updated 16 March 2026 | Jack Morrison reporting**
-
-
-
-
-*Updated 16 March 2026 | Jack Morrison reporting*
-
-
-Coburg is Melbourne's most contradictory suburb,..."
 # Coburg Honest Guide 2026: Sydney Road & Real Opinions
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -30,7 +22,7 @@ If you're thinking about moving to Coburg, spending a Saturday here, or just won
 
 ## The Vibe: Inner-North Adjacent
 
-Coburg sits about 8km north of the CBD, squeezed between Brunswick and Preston like the middle child who turned out surprisingly interesting. It's bounded by the Merri Creek to the east — which is genuinely beautiful, by the way — and Moreland Road to the north. Sydney Road is the main artery and it's doing a lot of heavy lifting: part high street, part used car dealership strip, part emerging food destination.
+Coburg sits about 9km north of the CBD, squeezed between Brunswick and Preston like the middle child who turned out surprisingly interesting. It's bounded by the Merri Creek to the east — which is genuinely beautiful, by the way — and Moreland Road to the north. Sydney Road is the main artery and it's doing a lot of heavy lifting: part high street, part used car dealership strip, part emerging food destination.
 
 The demographic mix here is genuinely diverse, not just "diverse" in the way council reports use it. We're talking Turkish families who've been here since the 70s, Vietnamese communities concentrated around the northern end closer to [Coburg North](/coburg-north), young couples priced out of [Brunswick](/brunswick) who've drifted south along the 19 tram line, and a growing cohort of artists and creative types who can't afford Fitzroy anymore and have stopped pretending they're moving to Footscray.
 
@@ -169,42 +161,19 @@ It's not the new Brunswick. It's not trying to be. It's Coburg, and it's doing j
 - **Avoid:** Parking on Sydney Road after 11am on weekends. Trust us on this one
 
 
-*Got opinions about Coburg? The suburbs don't rate themselves. [Submit your Coburg ratings and tips on the MELBZ suburb page](/coburg) and help keep this guide honest.*
+## FAQ
 
-*MELBZ Honest Guides are written on the ground, not from a desk. If something's changed, [let us know](/submit).*
+**Is Coburg the new Brunswick?**
+No — and it's not trying to be. Coburg is cheaper, quieter, and has a different character. Brunswick has the nightlife and the reputation. Coburg has the food value and the Merri Creek.
 
-### Featured Venues
+**Is Coburg safe?**
+Generally yes. Standard Melbourne inner-north safety. Main streets are busy and well-lit. See our [Coburg Safety Guide](/coburg/safety-guide/) for details.
 
-- **Post Office Hotel** at 229-231 Sydney Rd, Coburg VIC 3058
-- **Half Moon Cafe** at 134 Sydney Rd, Coburg VIC 3058
-- **Zeytin** at 128 Sydney Rd, Coburg VIC 3058
-- **Code Black Coffee** at 15-17 Weston St, Brunswick VIC 3056
-- **Post Office Hotel** at 229-231 Sydney Rd, Coburg VIC 3058
-- **True North** at 2A Munro St, Coburg VIC 3058
-- **Half Moon Cafe** at 134 Sydney Rd, Coburg VIC 3058
-- **New Somali Kitchen** at 322 Sydney Rd, Coburg VIC 3058
-- **Coburg Kebab House** at 400 Sydney Rd, Coburg VIC 3058
-- **Half Moon Cafe** at 154 Sydney Rd, Coburg VIC 3058
+**What's the commute from Coburg to the CBD?**
+20-25 minutes by train from Coburg station (Upfield line). 35-45 minutes by Route 19 tram on Sydney Road. 30-40 minutes by bike on the Upfield path.
 
-### Key Highlights
+---
 
-- Coburg Lake Reserve
-- Pentridge Prison heritage site
-- Sydney Road shopping and dining strip
+*Got opinions about Coburg? [Submit your tips on the MELBZ suburb page](/coburg) and help keep this guide honest.*
 
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/northcote/](/northcote/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-- [/brunswick/](/brunswick/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Coburg:** [Coburg Suburb Guide](/coburg/) · [Coburg Cost of Living](/coburg/cost-of-living/) · [Coburg Neighbourhood Guide](/coburg/neighbourhood-guide/)

@@ -2,8 +2,7 @@
 title: "Essendon Honest Guide 2026: Mt Alexander Road & Real Opinions"
 cover_image: "/images/essendon/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["essendon", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Essendon Honest Guide 2026: Mt Alexander Road & Real Opinions"
@@ -26,7 +25,7 @@ Let's get this out of the way: Essendon is not Fitzroy. It's not even Moonee Pon
 
 The suburb splits neatly into two personalities. There's the residential Essendon of tree-lined streets and Federation-era homes with impeccable front gardens maintained by retirees who still iron their gardening clothes. And then there's the commercial strip along Buckley Street and the stretch of Mt Alexander Road — the bits that actually give Essendon its pulse and where most of the action, such as it is, actually happens.
 
-If you've never driven down Mt Alexander Road, picture a wide, busy arterial lined with a mishmash of old shopfronts, a few decent cafes, a barber or three, and the occasional period home that's somehow survived decades of being sandwiched between traffic and apartments. It's not glamorous. It's got potholes and roundabouts and that one intersection near Keilor Road that makes seasoned drivers clench. But it's *real* in a way that more polished suburbs sometimes aren't.
+If you've never driven down Mt Alexander Road, picture a wide, busy arterial lined with a mishmash of old shopfronts, a few decent [cafes](/essendon/best-cafes/), a barber or three, and the occasional period home that's somehow survived decades of being sandwiched between traffic and apartments. It's not glamorous. It's got potholes and roundabouts and that one intersection near Keilor Road that makes seasoned drivers clench. But it's *real* in a way that more polished suburbs sometimes aren't.
 
 ## What Actually Works Here
 
@@ -34,7 +33,7 @@ If you've never driven down Mt Alexander Road, picture a wide, busy arterial lin
 
 **Green space is genuinely excellent.** Queens Park is the heart of Essendon — big enough for weekend sports, picnics, and that satisfying loop walk — and Woodlands Park adds more greenery if you need it. For a suburb this close to the city, the amount of usable, well-maintained parkland is a genuine standout. The Moonee Ponds Creek Trail also runs nearby for cyclists and joggers, linking you all the way into the city if you're keen.
 
-**Transport is solid.** Essendon Station on the Craigieburn line gets you into Southern Cross in around 15–20 minutes on a good day (and yes, "good day" does a lot of heavy lifting there — Metro Trains and reliability have a complicated relationship). Trams along nearby routes add backup options. And if you drive, you're a quick hop from CityLink and the Tullamarine Freeway, which means the airport is embarrassingly close. That last point cuts both ways, but we'll get to that.
+**[Transport](/essendon/transport-guide/) is solid.** Essendon Station on the Craigieburn line gets you into Southern Cross in around 15–20 minutes on a good day (and yes, "good day" does a lot of heavy lifting there — Metro Trains and reliability have a complicated relationship). Trams along nearby routes add backup options. And if you drive, you're a quick hop from CityLink and the Tullamarine Freeway, which means the airport is embarrassingly close. That last point cuts both ways, but we'll get to that.
 
 **The community vibe is genuine.** Essendon has a community feel that's hard to fake. You see it in the local sports clubs — the Essendon Football Club connection (the Dons, not the Bombers, if you want to start a bar fight) looms large and shapes the identity of the area. You see it in the weekend foot traffic along Buckley Street. You see it in the locals who've been here for 30 years and will tell you about it whether you asked or not. It's the kind of suburb where people actually nod hello on the street, which in Melbourne is practically a declaration of love.
 
@@ -44,7 +43,7 @@ If you've never driven down Mt Alexander Road, picture a wide, busy arterial lin
 
 ## The Bits That Need Work
 
-**Mt Alexander Road traffic is genuinely dangerous.** Let's not sugarcoat this. The stretch from Essendon Station up to Keilor Road has a well-documented history of close calls and fatalities. Locals have been lobbying for years for better pedestrian infrastructure and traffic calming. If you're a cyclist or a pedestrian, this road demands your full attention. It's not a pleasant stroll — it's an arterial road that happens to have shops on it. The council has run consultations, but progress is glacial. If you're considering Essendon, factor in that your main commercial strip comes with genuine road safety concerns.
+**Mt Alexander Road traffic is genuinely dangerous.** Let's not sugarcoat this. The stretch from Essendon Station up to Keilor Road has a well-documented [history](/essendon/history/) of close calls and fatalities. Locals have been lobbying for years for better pedestrian infrastructure and traffic calming. If you're a cyclist or a pedestrian, this road demands your full attention. It's not a pleasant stroll — it's an arterial road that happens to have shops on it. The council has run consultations, but progress is glacial. If you're considering Essendon, factor in that your main commercial strip comes with genuine road safety concerns.
 
 **The apartment boom is eroding character.** Like every Melbourne suburb within striking distance of the city, Essendon is seeing a creep of apartment developments that are slowly replacing period homes and open spaces. The locals will tell you — and they're not wrong — that the suburb's charm was always in its Edwardian and Federation-era houses, its wide streets, and its sense of space. Every new three-to-five-storey block chips away at that. The development along Mt Alexander Road and near the station is the most visible example. Whether this is "growth" or "erosion" depends on your perspective, but the tension is real.
 
@@ -64,7 +63,7 @@ We're not going to pretend we covered everything. Here's what we deliberately le
 
 **The Bombers.** We're not writing an Essendon FC fan page. If you want footy content, there are thousands of sites that'll do it better. The Bombers' connection to the suburb is real and important — the club's identity is woven into the area — but this is a suburb guide, not a sports almanac. We mention it because it matters. We skip it because you already know.
 
-**Essendon Fields.** The retail and commercial precinct near the airport has its own thing going — big-box stores, some restaurants, the usual airport-adjacent commercial mix. But it's not really *Essendon* in the way residents experience the suburb. It's a destination you drive to, not a neighbourhood you walk through. We cover neighbourhoods here, not retail parks.
+**Essendon Fields.** The retail and commercial precinct near the airport has its own thing going — big-box stores, some [restaurants](/essendon/best-restaurants/), the usual airport-adjacent commercial mix. But it's not really *Essendon* in the way residents experience the suburb. It's a destination you drive to, not a neighbourhood you walk through. We cover neighbourhoods here, not retail parks.
 
 **Schools.** Every suburb guide lists the local schools. We're skipping the detailed school breakdown because parents research schools differently — they look at My School data, they visit, they talk to other parents. Listing schools here with superficial commentary would be doing you a disservice. The area has a mix of public and private options. Do your own homework on this one.
 
@@ -88,7 +87,7 @@ Essendon doesn't exist in a vacuum. Here's how the neighbours fit in:
 
 ## Who Should Live Here
 
-Essendon works best for young families who want a genuine community feel without inner-city prices, professionals who commute to the CBD and want a quiet home base, and downsizers who've grown up in the north-west and don't want to leave. It suits people who value quiet parks, good coffee, and a neighbourhood that doesn't take itself too seriously.
+Essendon works best for young families who want a genuine community feel without inner-city prices, professionals who [commute](/essendon/transport-guide/) to the CBD and want a quiet home base, and downsizers who've grown up in the north-west and don't want to leave. It suits people who value quiet parks, good coffee, and a neighbourhood that doesn't take itself too seriously.
 
 Essendon does *not* work for night owls who want a packed after-dark scene, foodies who need a new restaurant every fortnight, or anyone who finds planes overhead genuinely distressing. It's not the suburb for people who want to brag about where they live — it's the suburb for people who want to actually *live* where they live.
 
@@ -107,10 +106,9 @@ The honest truth? Essendon is a good suburb that could be a great one — if the
 
 ## Related Articles
 
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/essendon/](/essendon/)
-- [/essendon/hub](/essendon/hub)
+- [Brunswick](/brunswick/)
+- [Fitzroy](/fitzroy/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Essendon](/essendon/)
+- [Hub](/essendon/hub)
 
-*Find more Melbourne content at [melbz.com.au](/)*

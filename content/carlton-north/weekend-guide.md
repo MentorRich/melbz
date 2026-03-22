@@ -4,17 +4,23 @@ description: "Your weekend in Carlton North sorted — from morning coffee to Sa
 date: 2026-03-21
 suburb: "carlton-north"
 article_type: "weekend"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "what to do Carlton North this weekend"
   - "Carlton North weekend"
   - "things to do Carlton North Saturday"
   - "Carlton North Sunday plans"
+tags:
+  - "carlton-north"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
-## Your Weekend in Carlton North
+## Your Weekend in [Carlton](/carlton/) North
 
 Carlton North does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
 
@@ -38,13 +44,13 @@ Carlton North does weekends well. Whether you're the type who plans every hour o
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Carlton North's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/carlton-north/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Carlton North's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Carlton North starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Carlton North starts slower. The [cafes](/carlton-north/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Carlton North and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Carlton North does weekends well. Whether you're the type who plans every hour o
 ---
 
 **More on Carlton North:** [Carlton North Suburb Guide](/carlton-north/) · [Carlton North Things to Do](/carlton-north/things-to-do/) · [Carlton North Best Restaurants](/carlton-north/best-restaurants/)
+
+---
+
+## Explore More of Carlton North
+
+- [Carlton North History](/carlton-north/history/)
+- [Carlton North Rent Guide](/carlton-north/rent-guide/)
+- [Carlton North Things To Do](/carlton-north/things-to-do/)
+- [Carlton North Cost of Living](/carlton-north/cost-of-living/)
+- [Carlton North Young Professionals Guide](/carlton-north/young-professionals/)
+- [Carlton North Nightlife Guide](/carlton-north/nightlife-guide/)
+- [Carlton North Transport Guide](/carlton-north/transport-guide/)
+- [Carlton North Best Cafes](/carlton-north/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Canterbury Suburb Guide](/canterbury/)
+- [Carlton Suburb Guide](/carlton/)
+- [Carnegie Suburb Guide](/carnegie/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)

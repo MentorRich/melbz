@@ -2,8 +2,7 @@
 title: "Canterbury Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/canterbury/nightlife-guide.jpg"
 date: 2026-03-18
-author: lina
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 tags: ["canterbury", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Canterbury Nightlife Guide 2026: Pubs, Bars & Local Spots"
@@ -69,18 +68,9 @@ Canterbury locals often head to **[Camberwell](/camberwell/nightlife-guide)** or
 *This guide is part of MELBZ's comprehensive Melbourne nightlife coverage.*
 ## Related Articles
 
-- [/nightlife/](/nightlife/)
-- [/things-to-do/](/things-to-do/)
-- [/canterbury/](/canterbury/)
-- [/canterbury/hub](/canterbury/hub)
+- [Nightlife](/nightlife/)
+- [Things To Do](/things-to-do/)
+- [Canterbury](/canterbury/)
+- [Hub](/canterbury/hub)
 
-*Find more Melbourne content at [melbz.com.au](/)*
 
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

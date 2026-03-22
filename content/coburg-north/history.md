@@ -4,16 +4,22 @@ description: "The story of Coburg North: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "coburg-north"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Coburg North Melbourne history"
   - "how has Coburg North changed"
   - "Coburg North gentrification"
   - "Coburg North then and now"
+tags:
+  - "coburg-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Coburg North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Coburg North from a railway village to a diverse community. Understanding that arc explains a lot.
 
 See our full [Coburg North suburb guide](/coburg-north/) for the current picture.
 

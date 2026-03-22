@@ -4,12 +4,18 @@ description: "Is Cranbourne East a good suburb for young professionals? Social s
 date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "young-professionals"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Cranbourne East young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Cranbourne East"
+tags:
+  - "cranbourne-east"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Cranbourne East as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

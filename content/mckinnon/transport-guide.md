@@ -4,15 +4,22 @@ description: "Public transport in McKinnon: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "mckinnon"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport McKinnon Melbourne"
   - "commute from McKinnon to city"
   - "McKinnon train station"
+tags:
+  - "mckinnon"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around McKinnon — what works, what's annoying, and how long things actually take.
+Mckinnon transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [McKinnon suburb guide](/mckinnon/) for the complete picture.
 

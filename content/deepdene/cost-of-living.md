@@ -4,16 +4,22 @@ description: "How expensive is Deepdene? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "deepdene"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Deepdene Melbourne"
   - "how expensive is Deepdene"
   - "is Deepdene expensive to live in"
   - "Deepdene rent"
+tags:
+  - "deepdene"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Deepdene — no sugar-coating, no made-up figures.
+The cost question in Deepdene is straightforward: it is cheaper than you would think. Here is what your wallet actually needs to know.
 
 Read our full [Deepdene suburb guide](/deepdene/) for the bigger picture.
 

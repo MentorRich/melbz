@@ -4,13 +4,19 @@ description: "Thinking of buying in Seddon? What the market looks like, what to 
 date: 2026-03-21
 suburb: "seddon"
 article_type: "property"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "buying in Seddon"
   - "Seddon property market"
   - "Seddon house prices"
   - "real estate Seddon Melbourne"
+tags:
+  - "seddon"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -80,3 +86,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Seddon:** [Seddon Suburb Guide](/seddon/) · [Seddon Cost of Living](/seddon/cost-of-living/) · [Seddon Neighbourhood Guide](/seddon/neighbourhood-guide/)
+
+---
+
+## Explore More of Seddon
+
+- [Seddon History](/seddon/history/)
+- [Seddon Rent Guide](/seddon/rent-guide/)
+- [Seddon Things To Do](/seddon/things-to-do/)
+- [Seddon Cost of Living](/seddon/cost-of-living/)
+- [Seddon Young Professionals Guide](/seddon/young-professionals/)
+- [Seddon Transport Guide](/seddon/transport-guide/)
+- [Seddon Best Cafes](/seddon/best-cafes/)
+- [Seddon Best Restaurants](/seddon/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Footscray Suburb Guide](/footscray/)
+- [Yarraville Suburb Guide](/yarraville/)
+- [Williamstown Suburb Guide](/williamstown/)
+- [Newport Suburb Guide](/newport/)

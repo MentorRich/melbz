@@ -2,8 +2,7 @@
 title: "Carlton North Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/carlton-north/nightlife-guide.jpg"
 date: 2026-03-18
-author: lina
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 tags: ["carlton-north", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Carlton North Nightlife Guide 2026: Pubs, Bars & Local Spots"
@@ -111,10 +110,9 @@ Carlton North residents often explore **[Fitzroy](/fitzroy/nightlife-guide)** fo
 - Culture: 8/10
 ## Related Articles
 
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/nightlife/](/nightlife/)
-- [/things-to-do/](/things-to-do/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Fitzroy](/fitzroy/)
+- [Carlton](/carlton/)
+- [Nightlife](/nightlife/)
+- [Things To Do](/things-to-do/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

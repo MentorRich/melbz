@@ -1,153 +1,67 @@
 ---
-title: "Southbank Hub Page"
+title: "Southbank Melbourne — Hub Page"
+description: "Your starting point for everything Southbank. Arts Centre Melbourne, Crown Casino, Southbank Promenade, restaurants on Clarendon Street, and all our guides."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 cover_image: "/images/southbank/hub.jpg"
-date: 2026-03-18
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["southbank", "hub"]
-categories: ["general"]
-description: "Southbank Hub Page"
+cover_image_alt: "Southbank Promenade with restaurants and Melbourne skyline"
+suburb: "southbank"
+tags: ["southbank", "hub", "guide", "melbourne"]
 ---
 
-*description: "18 March 2026 | Property Editor"*
+## Southbank, Melbourne
 
+Southbank sits directly across the Yarra from the CBD in the City of Melbourne (postcode 3006). Melbourne's premier entertainment, arts, and high-rise residential precinct — home to Crown Casino, Arts Centre Melbourne, the NGV, Eureka Tower, and the Southbank Promenade.
 
-### Living in Southbank
+**Key streets:** Southbank Boulevard, City Road, Clarendon Street, Sturt Street, Kavanagh Street.
 
-Southbank offers a unique Melbourne lifestyle that attracts residents from all walks of life. The suburb combines urban convenience with local character, making it a sought-after location for both young professionals and established families.
-
-**Housing options** in Southbank range from period apartments to modern developments. The area has seen significant investment in recent years, with new apartment buildings complementing the traditional housing stock.
-
-**Transport connections** are excellent, with tram routes, train stations, and bike paths providing easy access to Melbourne's CBD and surrounding suburbs.
-
-**Local amenities** include grocery stores, medical centres, schools, and recreation facilities. The suburb's commercial strips offer diverse dining and retail options.
-
-**Community life** in Southbank is active, with local events, markets, and gatherings bringing neighbours together throughout the year.
-*Updated 18 March 2026 | Property Editor*
-
-# Southbank, Melbourne: The Ultimate Urban Hub
-Southbank is a packed, cosmopolitan suburb located directly across the Yarra River from Melbourne's CBD. This dynamic precinct seamlessly blends sleek modern architecture with a packed on weekends riverside promenade, making it the perfect destination for tourists and urban explorers alike. As the city's premier arts and entertainment hub, Southbank offers an unparalleled cultural experience.
-
-## Overview
-Southbank is characterized by its high-rise urban landscape, world-class dining options, and unparalleled access to major landmarks. The suburb's always crowded on weekends atmosphere is complemented by its excellent public transportation links, making it an attractive destination for both locals and tourists.
-
-### Vibe Score
-| Category | Score |
-| --- | --- |
-| Food | 8 |
-| Nightlife | 7 |
-| Affordability | 6 |
-| Transport | 9 |
-| Culture | 8 |
+**Getting here:** No dedicated train station. Nearest is Flinders Street (5 min walk across the river). Tram 96 along Southbank Boulevard, tram 12 along Clarendon Street.
 
 ## Food & Drink
-Southbank is renowned for its exceptional dining scene, offering a diverse range of culinary experiences.
 
-### Best Restaurants
-Some of the top-rated restaurants in Southbank include:
+- [Best Restaurants in Southbank](/southbank/best-restaurants/) — Rockpool, Biarritz, The Meat & Wine Co
+- [Best Cafes in Southbank](/southbank/best-cafes/) — Brolly, ACMI Cafe, Clement Coffee
+- [Best Asian Food](/southbank/best-asian/) — Shujinko, OKAMI, Dodee Paidang
+- [Best Bars](/southbank/best-bars/) — Lui Bar, Ponyfish Island, Hopscotch
+- [Late Night Eats](/southbank/late-night-eats/) — Where to eat after 10pm
+- [Best Brunch](/southbank/best-brunch/) — Weekend breakfast spots
+- [Best Coffee](/southbank/best-coffee/) — Where the locals get their fix
 
-* [Rockpool Bar & Grill](/southbank/rockpool-bar-grill)
-* [Pony Dining](/southbank/pony-dining)
-* [Nobu Melbourne](/southbank/nobu-melbourne)
-* [Pure South Dining](/southbank/pure-south-dining)
-* [The Meat & Wine Co Southbank](/southbank/the-meat-wine-co-southbank)
+## Living in Southbank
 
-### Best Cafes
-Some of the top-rated cafes in Southbank include:
+- [The Honest Guide](/southbank/honest-guide/) — Unfiltered apartment living truth
+- [Neighbourhood Guide](/southbank/neighbourhood-guide/) — Streets, pockets, and where to be
+- [Cost of Living](/southbank/cost-of-living/) — Rent, body corporate, daily costs
+- [Transport Guide](/southbank/transport-guide/) — Trams, walking, cycling
+- [Rent Guide](/southbank/rent-guide/) — The rental market explained
+- [Property Market](/southbank/property-market/) — Buying guide
+- [Safety Guide](/southbank/safety-guide/) — How safe is Southbank?
 
-* [Pantry Southbank](/southbank/pantry-southbank)
-* [Baseline Cafe](/southbank/baseline-cafe)
-* [Bondi & Bourke](/southbank/bondi-bourke)
-* [Code Black Coffee](/southbank/code-black-coffee)
-* [Freshwater Cafe](/southbank/freshwater-cafe)
+## Lifestyle
 
-## Nightlife
-Southbank offers an exciting nightlife scene, with a range of bars, clubs, and live music venues.
+- [Things to Do](/southbank/things-to-do/) — NGV, Arts Centre, Promenade
+- [Weekend Guide](/southbank/weekend-guide/) — Your weekend sorted
+- [Nightlife Guide](/southbank/nightlife-guide/) — After dark in Southbank
+- [Hidden Gems](/southbank/hidden-gems/) — What tourists miss
+- [New Openings](/southbank/new-openings/) — Latest venues
+- [For Young Professionals](/southbank/young-professionals/) — The career-starter verdict
+- [For Retirees](/southbank/southbank-for-retirees/) — Arts, walkability, healthcare
+- [For Families](/southbank/family-guide/) — The honest parent assessment
+- [Pet Friendly](/southbank/pet-friendly/) — Dogs in a high-rise suburb
+- [History](/southbank/history/) — From factories to towers
 
-### Best Bars
-Some of the top-rated bars in Southbank include:
+## FAQ
 
-* [Ponyfish Island](/southbank/ponyfish-island)
-* [The Lui Bar](/southbank/the-lui-bar)
-* [Arbory Afloat](/southbank/arbory-afloat)
-* [Hopscotch Melbourne](/southbank/hopscotch-melbourne)
-* [Ludlow Bar & Dining Room](/southbank/ludlow-bar-dining-room)
+**What is Southbank known for?**
+Crown Casino, Southbank Promenade, Arts Centre Melbourne, NGV, and high-rise apartment living.
 
-## Property
-Southbank is known for its high-density luxury apartment market and premium lifestyle amenities.
+**What council is Southbank in?**
+City of Melbourne. Postcode 3006.
 
-### Rent Prices
-The median rent prices in Southbank are:
+**Does Southbank have a train station?**
+No. Nearest is Flinders Street Station, a 5-minute walk across the river.
 
-* 1-bedroom apartment: $580
-* 2-bedroom apartment: $780
-* 3-bedroom apartment: $1100
-* Unit: $650
-* House: $1200
+## The Verdict
 
-### Affordability
-Southbank remains significantly more expensive than the broader Melbourne metropolitan average due to its high-density luxury apartment market and proximity to the CBD.
-
-## Transport
-Southbank offers excellent public transportation links, including:
-
-* [Flinders Street Station](/southbank/flinders-street-station)
-* [Tram routes 12, 58, and 1](/southbank/tram-routes)
-* [Bus routes 234 and 236](/southbank/bus-routes)
-
-## Things to Do
-Southbank offers a range of activities and attractions, including:
-
-* [NGV International](/southbank/ngv-international)
-* [Eureka Skydeck](/southbank/eureka-skydeck)
-* [Australian Centre for Contemporary Art (ACCA)](/southbank/australian-centre-for-contemporary-art-acca)
-* [Arts Centre Melbourne](/southbank/arts-centre-melbourne)
-
-## Suburb Vibe Score
-Southbank's suburb vibe score is 8/10, reflecting its always busy atmosphere, excellent amenities, and unparalleled access to major landmarks.
-
-## Stay Up-to-Date
-Want to stay informed about Southbank's latest news, trends, and developments? [Sign up for our newsletter](/newsletter-signup) to receive exclusive updates and insights into Melbourne's premier arts and entertainment precinct.
-
-### Featured Venues
-
-- **Rockpool Bar & Grill** at Crown Riverwalk, 8 Whiteman St, Southbank VIC 3006
-- **Pony Dining** at 25-27 Southgate Ave, Southbank VIC 3006
-- **Nobu Melbourne** at Crown Melbourne, 8 Whiteman St, Southbank VIC 3006
-- **Pantry Southbank** at 1/109-111 Clarendon St, Southbank VIC 3006
-- **Baseline Cafe** at 127-129 Southbank Blvd, Southbank VIC 3006
-- **Bondi & Bourke** at 100 Southbank Blvd, Southbank VIC 3006
-- **Ponyfish Island** at Southgate Pedestrian Bridge, Southbank VIC 3006
-- **Nando's Southbank** at 2/28-30 Southgate Ave, Southbank VIC 3006
-- **Grill'd Southbank** at Shop 1, 28-30 Southgate Ave, Southbank VIC 3006
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border)
-
-### Key Highlights
-
-- Arts Centre Melbourne
-- Eureka Skydeck
-- Southbank Promenade
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/southbank/](/southbank/)
-- [/southbank/](/southbank/)
-- [/southbank/hub](/southbank/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
-
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.
+Southbank is Melbourne's most deliberately built suburb — premium entertainment, world-class culture, and residential density without the organic neighbourhood character. Give it another decade and the community will catch up with the infrastructure. For now, it's the most convenient address in Melbourne for the right person.

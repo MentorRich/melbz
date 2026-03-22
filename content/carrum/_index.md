@@ -1,16 +1,16 @@
 ---
-title: "Carrum Melbourne — Everything You Need to Know"
+title: "Carrum Melbourne — what you need"
 description: "The complete guide to Carrum. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "carrum"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Carrum Melbourne"
   - "what is Carrum like"
   - "carrum suburb"
   - "living in Carrum"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Carrum Beach, station upgrade, and the Patterson River lifestyle boat hub.

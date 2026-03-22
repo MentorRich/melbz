@@ -4,17 +4,23 @@ description: "Your weekend in Balwyn North sorted — from morning coffee to Sat
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "weekend"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "what to do Balwyn North this weekend"
   - "Balwyn North weekend"
   - "things to do Balwyn North Saturday"
   - "Balwyn North Sunday plans"
+tags:
+  - "balwyn-north"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
-## Your Weekend in Balwyn North
+## Your Weekend in [Balwyn](/balwyn/) North
 
 Balwyn North does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
 
@@ -38,13 +44,13 @@ Balwyn North does weekends well. Whether you're the type who plans every hour or
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Balwyn North's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/balwyn-north/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Balwyn North's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Balwyn North starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Balwyn North starts slower. The [cafes](/balwyn-north/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Balwyn North and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Balwyn North does weekends well. Whether you're the type who plans every hour or
 ---
 
 **More on Balwyn North:** [Balwyn North Suburb Guide](/balwyn-north/) · [Balwyn North Things to Do](/balwyn-north/things-to-do/) · [Balwyn North Best Restaurants](/balwyn-north/best-restaurants/)
+
+---
+
+## Explore More of Balwyn North
+
+- [Balwyn North History](/balwyn-north/history/)
+- [Balwyn North Rent Guide](/balwyn-north/rent-guide/)
+- [Balwyn North Living In Balwyn North](/balwyn-north/living-in-balwyn-north/)
+- [Balwyn North Things To Do](/balwyn-north/things-to-do/)
+- [Balwyn North Cost of Living](/balwyn-north/cost-of-living/)
+- [Balwyn North Neighbourhood Guide](/balwyn-north/neighbourhood-guide/)
+- [Balwyn North Transport Guide](/balwyn-north/transport-guide/)
+- [Balwyn North Best Cafes](/balwyn-north/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Balaclava Suburb Guide](/balaclava/)
+- [Balwyn Suburb Guide](/balwyn/)
+- [Bayswater Suburb Guide](/bayswater/)
+- [Bayswater North Suburb Guide](/bayswater-north/)

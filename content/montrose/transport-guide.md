@@ -4,15 +4,22 @@ description: "Public transport in Montrose: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "montrose"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Montrose Melbourne"
   - "commute from Montrose to city"
   - "Montrose train station"
+tags:
+  - "montrose"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Montrose — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Montrose transport links. Here is the reality.
 
 Check out our full [Montrose suburb guide](/montrose/) for the complete picture.
 

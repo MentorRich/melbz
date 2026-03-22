@@ -1,16 +1,16 @@
 ---
-title: "Doreen Melbourne — Everything You Need to Know"
+title: "Doreen Melbourne — what you need"
 description: "The complete guide to Doreen. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "doreen"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Doreen Melbourne"
   - "what is Doreen like"
   - "doreen suburb"
   - "living in Doreen"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Laurimar estate, Plenty River access, and family living on Melbourne's northern edge.

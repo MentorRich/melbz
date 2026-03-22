@@ -4,13 +4,20 @@ description: "Where to find the best coffee and cafes in Port Melbourne. Local p
 date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "best-of"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "best cafes Port Melbourne"
   - "coffee Port Melbourne Melbourne"
   - "cafes near Port Melbourne"
   - "brunch Port Melbourne"
+tags:
+  - "port-melbourne"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
@@ -59,3 +66,23 @@ Port Melbourne's cafe scene is laid-back but legitimate. You won't struggle to f
 ---
 
 **More on Port Melbourne:** [Port Melbourne Suburb Guide](/port-melbourne/) · [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/) · [Port Melbourne Neighbourhood Guide](/port-melbourne/neighbourhood-guide/)
+
+---
+
+## Explore More of Port Melbourne
+
+- [Port Melbourne History](/port-melbourne/history/)
+- [Port Melbourne Rent Guide](/port-melbourne/rent-guide/)
+- [Port Melbourne Things To Do](/port-melbourne/things-to-do/)
+- [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/)
+- [Port Melbourne Young Professionals Guide](/port-melbourne/young-professionals/)
+- [Port Melbourne Nightlife Guide](/port-melbourne/nightlife-guide/)
+- [Port Melbourne Transport Guide](/port-melbourne/transport-guide/)
+- [Port Melbourne Best Restaurants](/port-melbourne/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

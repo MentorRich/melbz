@@ -4,12 +4,16 @@ description: "Considering retirement in Dandenong North? Quiet streets, healthca
 date: 2026-03-21
 suburb: "dandenong-north"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Dandenong North retirees Melbourne"
   - "retiring in Dandenong North"
   - "quiet suburbs Melbourne"
+tags:
+  - "dandenong-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Dandenong North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

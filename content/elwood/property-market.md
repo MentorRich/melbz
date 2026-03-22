@@ -4,13 +4,19 @@ description: "Thinking of buying in Elwood? What the market looks like, what to 
 date: 2026-03-21
 suburb: "elwood"
 article_type: "property"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "buying in Elwood"
   - "Elwood property market"
   - "Elwood house prices"
   - "real estate Elwood Melbourne"
+tags:
+  - "elwood"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -80,3 +86,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Elwood:** [Elwood Suburb Guide](/elwood/) · [Elwood Cost of Living](/elwood/cost-of-living/) · [Elwood Neighbourhood Guide](/elwood/neighbourhood-guide/)
+
+---
+
+## Explore More of Elwood
+
+- [Elwood History](/elwood/history/)
+- [Elwood Rent Guide](/elwood/rent-guide/)
+- [Elwood Things To Do](/elwood/things-to-do/)
+- [Elwood Cost of Living](/elwood/cost-of-living/)
+- [Elwood Young Professionals Guide](/elwood/young-professionals/)
+- [Elwood Nightlife Guide](/elwood/nightlife-guide/)
+- [Elwood Transport Guide](/elwood/transport-guide/)
+- [Elwood Best Cafes](/elwood/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

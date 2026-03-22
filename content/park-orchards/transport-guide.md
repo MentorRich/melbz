@@ -4,15 +4,22 @@ description: "Public transport in Park Orchards: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "park-orchards"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Park Orchards Melbourne"
   - "commute from Park Orchards to city"
   - "Park Orchards train station"
+tags:
+  - "park-orchards"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Park Orchards — what works, what's annoying, and how long things actually take.
+Your morning commute from Park Orchards depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Park Orchards suburb guide](/park-orchards/) for the complete picture.
 

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Tarneit? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "tarneit"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Tarneit good for families"
   - "Tarneit family friendly"
   - "raising kids in Tarneit"
+tags:
+  - "tarneit"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Tarneit with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

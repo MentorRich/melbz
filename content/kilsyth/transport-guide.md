@@ -4,15 +4,22 @@ description: "Public transport in Kilsyth: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "kilsyth"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Kilsyth Melbourne"
   - "commute from Kilsyth to city"
   - "Kilsyth train station"
+tags:
+  - "kilsyth"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Kilsyth — what works, what's annoying, and how long things actually take.
+Real talk about getting around Kilsyth: what the timetable says vs what actually happens.
 
 Check out our full [Kilsyth suburb guide](/kilsyth/) for the complete picture.
 

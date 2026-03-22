@@ -4,16 +4,22 @@ description: "The story of Donvale: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "donvale"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Donvale Melbourne history"
   - "how has Donvale changed"
   - "Donvale gentrification"
   - "Donvale then and now"
+tags:
+  - "donvale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Donvale's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Donvale from a railway village to a diverse community. Understanding that arc explains a lot.
 
 See our full [Donvale suburb guide](/donvale/) for the current picture.
 

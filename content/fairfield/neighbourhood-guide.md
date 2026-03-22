@@ -4,13 +4,18 @@ description: "The insider's guide to Fairfield's different pockets, streets, and
 date: 2026-03-21
 suburb: "fairfield"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Fairfield neighbourhood guide"
   - "best streets in Fairfield"
   - "Fairfield areas"
   - "Fairfield pockets Melbourne"
+tags:
+  - "fairfield"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Fairfield isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

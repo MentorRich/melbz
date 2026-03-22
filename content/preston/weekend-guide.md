@@ -1,64 +1,86 @@
 ---
-title: "What to Do in Preston This Weekend"
-description: "Your weekend in Preston sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's North."
-date: 2026-03-21
+title: "What to Do in Preston This Weekend — 2026 Guide"
+description: "Your weekend in Preston sorted. Saturday morning at the market, brunch on High Street, afternoon at Hardout Bar on Plenty Road, and Sunday recovery picks."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Chen"
+cover_image: "/images/shared/melbourne-weekend.jpg"
+cover_image_alt: "Weekend brunch scene at a Preston cafe"
 suburb: "preston"
-article_type: "weekend"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
-  - "what to do Preston this weekend"
-  - "Preston weekend"
-  - "things to do Preston Saturday"
-  - "Preston Sunday plans"
+tags: ["preston", "weekend", "things-to-do", "lifestyle", "inner-north"]
 ---
-
 
 ## Your Weekend in Preston
 
-Preston does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
+Preston does weekends well. Whether you plan every hour or prefer to see where the day takes you, this suburb gives you enough options without overwhelming you.
 
 ## Saturday Morning
 
-**The Coffee Run** — Start at your neighbourhood cafe. Preston's cafe culture means you've got options from "quick and efficient" to "settle in for two hours." Saturday morning flat whites hit differently when you're not rushing to work.
+**The Coffee Run** — Start at your local. **Moon Rabbit** on High Street for a jaffle and flat white. **Arepa Days** on Dundas Place for Colombian coffee and an arepa. **George Jones** on Murray Road for a refined espresso.
 
-**Market Check** — If there's a weekend market running near Preston, it's worth the wander. Fresh produce, street food, and the kind of people-watching that makes weekend mornings worthwhile.
+**Preston Market** — Open Wednesday, Friday, Saturday, and Sunday. Saturday is the main event. Fresh produce cheaper than supermarkets, gozleme from the Turkish stalls ($10), Lebanese pastries from **Cedar Bakery** ($3-5), and the kind of people-watching that makes weekend mornings worthwhile. Go at 8-9am to beat the crowds.
 
-**Park Time** — Preston's green spaces fill up on Saturday mornings with runners, dog walkers, and families. Join the park regulars or find a quiet bench.
+**Park Time** — Preston's green spaces fill up Saturday mornings with runners, dog walkers, and families. The Merri Creek trail from the western edge is perfect for a longer walk.
 
 ## Saturday Afternoon
 
-**Lunch Locally** — Don't reach for Uber Eats. Walk to one of Preston's lunch spots — try somewhere you haven't been before. The mid-afternoon lull means no queues and relaxed service.
+**Lunch** — Walk to somewhere you haven't tried. **Pho Hung** on High Street for $14 pho. **Takeaway Pizza** for wood-fired slices. **El Jannah** for charcoal chicken.
 
-**Explore the Neighbourhood** — Pick a street you haven't walked down yet. Every suburb has blocks you've driven past but never explored on foot. Saturday afternoon is perfect for this.
+**Shop the Independents** — Record stores on High Street for vinyl digging. Op shops. Small homeware stores on the side streets.
 
-**Shop the Independent Stores** — Support local. Preston's independent shops are the ones that give the suburb its character. Browse without pressure, buy something you didn't know you needed.
+**Afternoon Drinks** — **Hardout Bar** on Plenty Road for craft beer and vinyl DJs. **Oliva Social** at 102-104 High Street for a Chinotto Connection. **The Keys** on Murray Road if you want bowling with your beer.
 
 ## Saturday Night
 
-**Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Preston's restaurant scene covers date night to casual with mates.
+**Dinner** — Book **Dexter** or **Tavolata** on High Street for something special. **Benzina Cantina** for rooftop tacos. Walk into **Pho Hung** or **Lam Lam** for a budget option.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**After dinner** — **Oliva Social** for cocktails. **Surly's** for pet-nats. **Rebel Rebel** on Plenty Road for dive bar vibes. **The Keys** for bowling or dancing.
 
-**Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Preston's bottle shops have good selections and the staff usually have recommendations.
+**Low-key alternative** — Bottle shop run, snacks from the deli, couch.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Preston starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep in. Then coffee.** Sunday starts slower. **Moon Rabbit** won't judge you for staring at your phone.
 
-**Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Preston and into the neighbouring suburb. Find a coffee stop halfway through.
+**Sunday Market** — Preston Market is open and quieter than Saturday. Same food, fewer crowds. Good for a lazy breakfast of gozleme and fresh juice.
 
-**Sunday Pub Session** — If Preston's pubs do Sunday sessions, these are gold. Relaxed, possibly live music, definitely relaxed dress code. The best cure for Sunday evening dread.
+**Sunday Walk** — The Merri Creek trail or a loop through the residential streets toward [Thornbury](/thornbury/).
 
-**Prep for Monday** — We all have to do it. Grocery run through Preston's shops, meal prep, and set the week up. At least you're doing it in a suburb with good options.
+**Sunday Pub Session** — **The Olympic Hotel** on Bell Street for a bistro lunch and a schooner. Relaxed atmosphere, possibly footy on the TV.
 
-## Monthly Rituals
+## FAQ
 
-- **Try a new restaurant** you haven't been to yet
-- **Walk a neighbourhood you usually drive through**
-- **Check local event listings** for one-off markets, exhibitions, or community events
-- **Have one completely unplanned day** — no bookings, no plans, just see what Preston offers when you say yes to whatever comes up
+**What's the best Saturday activity in Preston?**
+Preston Market in the morning, brunch at Skinny's or George Jones, afternoon drinks at Hardout Bar.
+
+**What's open on Sunday in Preston?**
+Preston Market, most [cafes](/preston/best-cafes/) (Moon Rabbit, George Jones, Skinny's), The Olympic Hotel for pub lunch, and most bars from late afternoon.
+
+**Can I do a full weekend in Preston without leaving?**
+Absolutely. Market, brunch, shopping, afternoon drinks, dinner, bar hopping, Sunday recovery — Preston covers it all.
+
+## The Verdict
+
+Preston works best when you don't over-plan. Start at the market on Saturday, find a brunch spot, see where the afternoon takes you. The density of good food and drink along High Street, Plenty Road, and Murray Road means you can wander and discover without a rigid itinerary. A full weekend — from $10 gozleme to $90 dinner at Dexter — for $120-240 per person, all within walking distance.
+
+**More on Preston:** [Preston Suburb Guide](/preston/) · [Preston Things to Do](/preston/things-to-do/) · [Preston Best Restaurants](/preston/best-[restaurants](/preston/best-restaurants/)/)
 
 ---
 
-**More on Preston:** [Preston Suburb Guide](/preston/) · [Preston Things to Do](/preston/things-to-do/) · [Preston Best Restaurants](/preston/best-restaurants/)
+## Explore More of Preston
+
+- [Preston History](/preston/history/)
+- [Preston Things To Do This Weekend](/preston/things-to-do-this-weekend/)
+- [Preston Cheap Eats](/preston/cheap-eats/)
+- [Preston Rent Guide](/preston/rent-guide/)
+- [Preston Date Night Guide](/preston/date-night/)
+- [Preston New Openings](/preston/new-openings/)
+- [Preston Things To Do](/preston/things-to-do/)
+- [Preston Cost of Living](/preston/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Reservoir Suburb Guide](/reservoir/)
+- [Thornbury Suburb Guide](/thornbury/)
+- [Coburg Suburb Guide](/coburg/)
+- [Pascoe Vale Suburb Guide](/pascoe-vale/)

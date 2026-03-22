@@ -1,16 +1,16 @@
 ---
-title: "Meadow Heights Melbourne — Everything You Need to Know"
+title: "Meadow Heights Melbourne — what you need"
 description: "The complete guide to Meadow Heights. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Meadow Heights Melbourne"
   - "what is Meadow Heights like"
   - "meadow-heights suburb"
   - "living in Meadow Heights"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Multicultural community near Broadmeadows with affordable housing and local services.

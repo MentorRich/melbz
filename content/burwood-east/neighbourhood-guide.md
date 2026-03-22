@@ -4,13 +4,18 @@ description: "The insider's guide to Burwood East's different pockets, streets, 
 date: 2026-03-21
 suburb: "burwood-east"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Burwood East neighbourhood guide"
   - "best streets in Burwood East"
   - "Burwood East areas"
   - "Burwood East pockets Melbourne"
+tags:
+  - "burwood-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Burwood East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

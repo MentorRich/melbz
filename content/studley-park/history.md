@@ -4,16 +4,22 @@ description: "The story of Studley Park: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "studley-park"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Studley Park Melbourne history"
   - "how has Studley Park changed"
   - "Studley Park gentrification"
   - "Studley Park then and now"
+tags:
+  - "studley-park"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Studley Park's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Studley Park, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Studley Park suburb guide](/studley-park/) for the current picture.
 

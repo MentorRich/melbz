@@ -4,16 +4,22 @@ description: "The story of Lower Templestowe: from its origins to today. How thi
 date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Lower Templestowe Melbourne history"
   - "how has Lower Templestowe changed"
   - "Lower Templestowe gentrification"
   - "Lower Templestowe then and now"
+tags:
+  - "templestowe-lower"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Lower Templestowe's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Templestowe Lower is tied to Melbourne's industrial past.
 
 See our full [Lower Templestowe suburb guide](/templestowe-lower/) for the current picture.
 

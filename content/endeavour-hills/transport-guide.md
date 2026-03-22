@@ -4,15 +4,22 @@ description: "Public transport in Endeavour Hills: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "endeavour-hills"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Endeavour Hills Melbourne"
   - "commute from Endeavour Hills to city"
   - "Endeavour Hills train station"
+tags:
+  - "endeavour-hills"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Endeavour Hills — what works, what's annoying, and how long things actually take.
+Living in Endeavour Hills means adapting to its transport quirks. Every suburb has them - here are the ones for Endeavour Hills.
 
 Check out our full [Endeavour Hills suburb guide](/endeavour-hills/) for the complete picture.
 

@@ -4,12 +4,18 @@ description: "Is Altona Meadows a good suburb for young professionals? Social sc
 date: 2026-03-21
 suburb: "altona-meadows"
 article_type: "young-professionals"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Altona Meadows young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Altona Meadows"
+tags:
+  - "altona-meadows"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Altona Meadows as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

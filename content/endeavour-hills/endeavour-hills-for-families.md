@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Endeavour Hills? Parks, schools, safet
 date: 2026-03-21
 suburb: "endeavour-hills"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Endeavour Hills good for families"
   - "Endeavour Hills family friendly"
   - "raising kids in Endeavour Hills"
+tags:
+  - "endeavour-hills"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Endeavour Hills with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

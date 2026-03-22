@@ -4,16 +4,22 @@ description: "The story of Carrum: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "carrum"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Carrum Melbourne history"
   - "how has Carrum changed"
   - "Carrum gentrification"
   - "Carrum then and now"
+tags:
+  - "carrum"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Carrum's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+The history of Carrum is not just dates and facts - it is the DNA of the current personality of this suburb.
 
 See our full [Carrum suburb guide](/carrum/) for the current picture.
 

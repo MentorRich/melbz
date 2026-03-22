@@ -1,16 +1,16 @@
 ---
 title: "Best Pubs in Melbourne CBD 2026: Heritage Hotels & Laneway Locals"
-cover_image: "/images/melbourne-cbd/best-pubs-v2.jpg"
-date: 2026-03-16
-author: kai
-author_image: "/images/authors/kai.jpg"
-tags: ["melbourne-cbd", "pubs", "nightlife"]
-categories: ["nightlife"]
-description: "Best Pubs in Melbourne CBD 2026: Heritage Hotels & Laneway Locals"
+cover_image: "/images/shared/nightlife.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Kai Thompson"
+tags: ["melbourne", "melbourne-cbd", "pubs", "nightlife"]
+description: "Six Melbourne CBD pubs tested for 2026. Heritage drinking at the Mitre, rock and roll on Queen Street, cask ale at The Sherlock Holmes on Lonsdale Street."
 ---
 
 **Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
-
 
 
 There's a moment every M..."
@@ -68,7 +68,7 @@ Melbourne CBD's pub scene in 2026 sits at a fascinating crossroads. The old guar
 **The verdict:** The Crafty Squire is the pub for people who care about what's in their glass but don't want to sit in a minimalist taproom with concrete floors. It's a proper pub that happens to have an exceptional beer list. The CBD's best beer destination, full stop.
 
 
-## 4. The European — Spring Street's Cosmopolitan Local
+## 4. The European — Spring Street's Continental Local
 
 **Address:** 161 Spring Street, Melbourne VIC 3000  
 **The vibe:** Tucked at the top end of Spring Street near the Treasury Gardens, The European feels like a pub that fell in love with continental Europe and never came back. The interior mixes old-school Melbourne pub bones — pressed tin ceilings, dark wood bar — with European bistro touches: zinc-topped tables, bistro chairs, and a wine list that would make a Parisian nod approvingly. The atmosphere skews slightly more mature than your average CBD pub, and that's entirely the point. This is where you go when you want a drink without elbowing through a sea of twenty-somethings.
@@ -153,13 +153,3 @@ Melbourne was built on pubs. These six prove it still is.
 - [Carlton's Lygon Street: A Pub Guide](/carlton/)  
 - [Fitzroy Locals: Where Fitzroy Actually Drinks](/fitzroy/)  
 - [Melbourne CBD Nightlife: The Definitive 2026 Guide](/melbourne-cbd/)
-
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

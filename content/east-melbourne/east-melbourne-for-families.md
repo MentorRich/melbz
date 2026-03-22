@@ -4,12 +4,16 @@ description: "Thinking of raising kids in East Melbourne? Parks, schools, safety
 date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is East Melbourne good for families"
   - "East Melbourne family friendly"
   - "raising kids in East Melbourne"
+tags:
+  - "east-melbourne"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to East Melbourne with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

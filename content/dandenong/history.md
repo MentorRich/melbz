@@ -4,16 +4,22 @@ description: "The story of Dandenong: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "dandenong"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Dandenong Melbourne history"
   - "how has Dandenong changed"
   - "Dandenong gentrification"
   - "Dandenong then and now"
+tags:
+  - "dandenong"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Dandenong's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+The history of Dandenong shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Dandenong suburb guide](/dandenong/) for the current picture.
 

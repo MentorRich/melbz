@@ -1,16 +1,16 @@
 ---
-title: "Altona Meadows Melbourne — Everything You Need to Know"
+title: "Altona Meadows Melbourne — what you need"
 description: "The complete guide to Altona Meadows. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "altona-meadows"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Altona Meadows Melbourne"
   - "what is Altona Meadows like"
   - "altona-meadows suburb"
   - "living in Altona Meadows"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Truganina Coastal Park, family estates, and an affordable alternative to Altona proper.

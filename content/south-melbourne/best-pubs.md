@@ -1,16 +1,16 @@
 ---
 title: "Best Pubs in South Melbourne 2026: Heritage Hotels & Modern Taprooms"
 cover_image: "/images/south-melbourne/best-pubs.jpg"
-date: 2026-03-16
-author: kai
-author_image: "/images/authors/kai.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Thompson"
 tags: ["south-melbourne", "pubs", "nightlife"]
-categories: ["nightlife"]
-description: "Best Pubs in South Melbourne 2026: Heritage Hotels & Modern Taprooms"
+description: "From Lamaro's gastropub excellence on Cecil Street to the heritage-reborn George Hotel on Coventry, South Melbourne's best pubs pair craft taps right."
+cover_image_alt: "South Melbourne street scene and local dining"
+suburb: "south-melbourne"
 ---
 
 **Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
-
 
 
 South Melbourne sits ..."
@@ -139,7 +139,7 @@ South Melbourne doesn't have the volume of, say, Collingwood or Fitzroy, but the
 South Melbourne's pub scene in 2026 isn't trying to be Melbourne's best. It just quietly is.
 
 
-*Have we missed your favourite South Melbourne local? Tell us on Instagram [@melbz101](https://instagram.com/melbzcomau) or email hq@melbz101.*
+*Have we missed your favourite South Melbourne local? Tell us on Instagram [@melbz101](https://instagram.com/melbzcomau) or email hq@melbz.com.au.*
 
 
 **POLL: What's your South Melbourne pub pick?**
@@ -161,10 +161,9 @@ South Melbourne's pub scene in 2026 isn't trying to be Melbourne's best. It just
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [South Yarra](/south-yarra/)
+- [St Kilda](/st-kilda/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

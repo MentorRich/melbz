@@ -4,15 +4,22 @@ description: "Public transport in Clayton South: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "clayton-south"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Clayton South Melbourne"
   - "commute from Clayton South to city"
   - "Clayton South train station"
+tags:
+  - "clayton-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Clayton South — what works, what's annoying, and how long things actually take.
+Getting around Clayton South comes down to train connections through the loop. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Clayton South suburb guide](/clayton-south/) for the complete picture.
 

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Hillside? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "hillside"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Hillside good for families"
   - "Hillside family friendly"
   - "raising kids in Hillside"
+tags:
+  - "hillside"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Hillside with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

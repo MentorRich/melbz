@@ -4,15 +4,22 @@ description: "Public transport in Kooyong: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "kooyong"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Kooyong Melbourne"
   - "commute from Kooyong to city"
   - "Kooyong train station"
+tags:
+  - "kooyong"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Kooyong — what works, what's annoying, and how long things actually take.
+Living in Kooyong means adapting to its transport quirks. Every suburb has them - here are the ones for Kooyong.
 
 Check out our full [Kooyong suburb guide](/kooyong/) for the complete picture.
 

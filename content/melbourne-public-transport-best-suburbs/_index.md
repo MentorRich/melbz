@@ -3,13 +3,13 @@ title: "Best Connected Suburbs in Melbourne — Transport Rankings"
 description: "Which Melbourne suburbs have the best public transport connections? Train, tram, and bus rankings for commuters."
 date: 2026-03-21
 article_type: "trending"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "best public transport suburbs melbourne"
   - "well connected suburbs melbourne"
   - "best commute melbourne"
   - "train line suburbs melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Which Melbourne suburbs have the best public transport connections? Train, tram, and bus rankings for commuters.

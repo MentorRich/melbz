@@ -3,13 +3,13 @@ title: "Melbourne Suburbs Getting Gentrified — Where's Next?"
 description: "Which Melbourne suburbs are in the middle of gentrification right now? And which ones are next? The honest rundown."
 date: 2026-03-21
 article_type: "trending"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "gentrifying suburbs melbourne"
   - "up and coming suburbs melbourne 2026"
   - "next big suburb melbourne"
   - "gentrification melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Which Melbourne suburbs are in the middle of gentrification right now? And which ones are next? The honest rundown.

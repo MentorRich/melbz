@@ -4,16 +4,22 @@ description: "How expensive is Newport? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "newport"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Newport Melbourne"
   - "how expensive is Newport"
   - "is Newport expensive to live in"
   - "Newport rent"
+tags:
+  - "newport"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Newport — no sugar-coating, no made-up figures.
+Newport living costs reflect its position in Melbourne property landscape. Here are the numbers that matter.
 
 Read our full [Newport suburb guide](/newport/) for the bigger picture.
 

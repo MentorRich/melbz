@@ -1,16 +1,16 @@
 ---
-title: "Chelsea Heights Melbourne — Everything You Need to Know"
+title: "Chelsea Heights Melbourne — what you need"
 description: "The complete guide to Chelsea Heights. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Chelsea Heights Melbourne"
   - "what is Chelsea Heights like"
   - "chelsea-heights suburb"
   - "living in Chelsea Heights"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Inland from Chelsea beach with family estates and park access.

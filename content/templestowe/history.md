@@ -4,16 +4,22 @@ description: "The story of Templestowe: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "templestowe"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Templestowe Melbourne history"
   - "how has Templestowe changed"
   - "Templestowe gentrification"
   - "Templestowe then and now"
+tags:
+  - "templestowe"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Templestowe's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Templestowe, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Templestowe suburb guide](/templestowe/) for the current picture.
 

@@ -3,14 +3,12 @@ title: "Cost of Living in Fitzroy 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "fitzroy"
 suburbs: ["fitzroy"]
-vertical: property
 tags: ["fitzroy", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Fitzroy in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/1917428/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/fitzroy/cost-of-living.jpg"
 cover_alt: "Fitzroy Melbourne cost of living"
 vibe_score: 94
 ---
@@ -36,7 +34,7 @@ This is where most of your money goes. Fitzroy's rental market in 2026 looks lik
 |---------|-------------|-------|
 | Rent (1-bed) | $1910 | Biggest line item by far |
 | Groceries | $320-$420 | Depends on Coles vs local market habits |
-| Transport (Myki) | $160-$200 | Zone 1-2 monthly cap |
+| [Transport](/fitzroy/transport-guide/) (Myki) | $160-$200 | Zone 1-2 monthly cap |
 | Utilities (1-bed) | $180-$240 | Gas + electricity + water |
 | Internet | $70-$90 | NBN, decent speed |
 | Coffee habit | $80-$120 | 1-2 per day at local prices |
@@ -50,7 +48,7 @@ This is where most of your money goes. Fitzroy's rental market in 2026 looks lik
 
 **Eating out:** The average meal out in Fitzroy runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/fitzroy/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Fitzroy, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Fitzroy, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you [commute](/fitzroy/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +65,24 @@ For more context on how this compares, check our [Living in Fitzroy guide](/fitz
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Fitzroy
+
+- [Fitzroy History](/fitzroy/history/)
+- [Fitzroy Things To Do This Weekend](/fitzroy/things-to-do-this-weekend/)
+- [Fitzroy Cheap Eats](/fitzroy/cheap-eats/)
+- [Fitzroy Rent Guide](/fitzroy/rent-guide/)
+- [Fitzroy Suburb Roast](/fitzroy/suburb-roast/)
+- [Fitzroy Date Night Guide](/fitzroy/date-night/)
+- [Fitzroy New Openings](/fitzroy/new-openings/)
+- [Fitzroy Things To Do](/fitzroy/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

@@ -4,13 +4,19 @@ description: "The story of Albert Park: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "albert-park"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Albert Park Melbourne history"
   - "how has Albert Park changed"
   - "Albert Park gentrification"
   - "Albert Park then and now"
+tags:
+  - "albert-park"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Every Melbourne suburb has a story. Albert Park's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.

@@ -4,16 +4,22 @@ description: "How expensive is Brunswick West? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Brunswick West Melbourne"
   - "how expensive is Brunswick West"
   - "is Brunswick West expensive to live in"
   - "Brunswick West rent"
+tags:
+  - "brunswick-west"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Brunswick West — no sugar-coating, no made-up figures.
+Rent in Brunswick West tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Brunswick West suburb guide](/brunswick-west/) for the bigger picture.
 

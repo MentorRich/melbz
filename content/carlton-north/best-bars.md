@@ -4,17 +4,23 @@ description: "The bar scene in Carlton North: where to drink, what the vibe is, 
 date: 2026-03-21
 suburb: "carlton-north"
 article_type: "nightlife"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "best bars Carlton North"
   - "bars in Carlton North Melbourne"
   - "nightlife Carlton North"
   - "where to drink Carlton North"
+tags:
+  - "carlton-north"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 
-## The Drinking Scene in Carlton North
+## The Drinking Scene in [Carlton](/carlton/) North
 
 Carlton North has a bar scene that reflects the suburb — not short on places to drink, with a mix of dive bars, wine spots, and proper cocktail joints. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
 
@@ -55,4 +61,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Carlton North:** [Carlton North Suburb Guide](/carlton-north/) · [Carlton North Best Restaurants](/carlton-north/best-restaurants/) · [Carlton North for Young Professionals](/carlton-north/carlton-north-for-young-professionals/)
+**More on Carlton North:** [Carlton North Suburb Guide](/carlton-north/) · [Carlton North Best Restaurants](/carlton-north/best-[restaurants](/carlton-north/best-restaurants/)/) · [Carlton North for Young Professionals](/carlton-north/carlton-north-for-young-professionals/)
+
+---
+
+## Explore More of Carlton North
+
+- [Carlton North History](/carlton-north/history/)
+- [Carlton North Rent Guide](/carlton-north/rent-guide/)
+- [Carlton North Things To Do](/carlton-north/things-to-do/)
+- [Carlton North Cost of Living](/carlton-north/cost-of-living/)
+- [Carlton North Young Professionals Guide](/carlton-north/young-professionals/)
+- [Carlton North Nightlife Guide](/carlton-north/nightlife-guide/)
+- [Carlton North Transport Guide](/carlton-north/transport-guide/)
+- [Carlton North Best Cafes](/carlton-north/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Canterbury Suburb Guide](/canterbury/)
+- [Carlton Suburb Guide](/carlton/)
+- [Carnegie Suburb Guide](/carnegie/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Upper Ferntree Gully? Parks, schools, 
 date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Upper Ferntree Gully good for families"
   - "Upper Ferntree Gully family friendly"
   - "raising kids in Upper Ferntree Gully"
+tags:
+  - "upper-ferntree-gully"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Upper Ferntree Gully with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

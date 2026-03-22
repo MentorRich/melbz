@@ -1,21 +1,15 @@
 ---
 title: "Kensington for Young Professionals 2026: Lifestyle, Cost & Nightlife"
-slug: "young-professionals"
-date: 2026-03-21
-updated: 2026-03-21
-author: dani
-author_image: "/images/authors/dani.jpg"
+description: "Kensington for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent. Updated for 2026 with real local ."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
+cover_image: "/images/kensington/young-professionals.jpg"
+cover_image_alt: "Young Professionals in Kensington Melbourne"
 suburb: "kensington"
-suburbs: ["kensington"]
-vertical: lifestyle
 tags: ["kensington", "young-professionals", "nightlife", "lifestyle"]
-description: "Kensington for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent."
-cover_image: "https://images.pexels.com/photos/4168415/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Kensington nightlife young professionals Melbourne"
-vibe_score: 76
 ---
-
-You're in your mid-20s to early-30s, you earn decent money but not Toorak money, and you want a suburb that has actual things to do after 6pm. Is Kensington it?
+Kensington markets itself to young professionals, but does the reality match? We scored it on what actually matters.
 
 ## The Young Professional Scorecard
 
@@ -58,7 +52,7 @@ From Kensington to the CBD: 10-20 minutes by train or tram. Services run every 5
 
 ## Is Kensington Worth It for Young Professionals?
 
-Kensington works for young professionals who prioritise transport and value over a buzzing social scene. It's not the flashiest choice, but it's smart.
+Kensington works for young professionals who prioritise transport and value over a busy social scene. It's not the flashiest choice, but it's smart.
 
 ### Where to Look Instead
 
@@ -68,4 +62,4 @@ Kensington works for young professionals who prioritise transport and value over
 
 ---
 
-*Living the young professional life in Kensington? Tell us your experience — [hq@melbz101](mailto:hq@melbz101)*
+*Living the young professional life in Kensington? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*

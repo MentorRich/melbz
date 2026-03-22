@@ -1,74 +1,87 @@
 ---
 title: "Is Toorak Good for Families?"
-description: "Thinking of raising kids in Toorak? Parks, schools, safety, and the honest parent verdict on this Melbourne suburb."
-date: 2026-03-21
+description: "Raising kids in Toorak: Melbourne Grammar, Lauriston Girls' School, Toorak Park playgrounds, quiet residential streets, and what family life costs here."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Liu"
+cover_image: "/images/toorak/toorak-for-families.jpg"
+cover_image_alt: "Family walking along a tree-lined residential street in Toorak"
 suburb: "toorak"
-article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
+tags:
   - "is Toorak good for families"
   - "Toorak family friendly"
   - "raising kids in Toorak"
+  - "schools in Toorak"
 ---
 
-Moving to Toorak with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.
+Moving to Toorak with kids? The short answer: it's one of Melbourne's best family suburbs if you can afford it. The schools are exceptional, the streets are quiet, and the community is engaged. Here's the honest breakdown.
 
 Read our full [Toorak suburb guide](/toorak/) for the complete picture.
 
-## Quick Answer — Is Toorak Family-Friendly?
+## Schools — The Main Draw
 
-Short version: Toorak can work really well for families, with some caveats. It depends on what stage your family's at and what you prioritise — space, schools, outdoor access, or community.
+Schools are the primary reason families move to Toorak, and the options are exceptional:
 
-## Parks and Outdoor Spaces for Kids
+**Melbourne Grammar School** — One of Melbourne's most prestigious private schools, with the junior campus on Grimwade's site accessible from Toorak. Fees are significant but the school's reputation is established over 160+ years.
 
-Toorak has decent green space for a Melbourne suburb. There are parks within walking distance of most residential streets, and the ones that get used by families are generally well-maintained with playground equipment, open grass, and enough shade to make summer bearable.
+**Lauriston Girls' School** — An independent girls' school on Huntingtower Road in Toorak itself. Strong academic results and a community that's deeply embedded in the suburb's social fabric.
 
-Weekend mornings see the parks fill with families — it's one of those places where you'll bump into school parents and recognise faces. Kids have room to run around without you needing to drive 20 minutes to find grass.
+**St Kevin's College** — Catholic boys' school nearby in South Yarra, within easy reach of Toorak families.
 
-Cycling paths and walking trails connect through to neighbouring suburbs, which is great for weekend family rides.
+**Toorak Primary School** — The local government primary school on Toorak Road. Well-regarded and benefits from an engaged parent community and the demographics that come with the postcode.
 
-## The School Situation
+Childcare and kindergarten spots are competitive — register well before you move if you have under-5s.
 
-There are primary and secondary school options within the suburb and nearby. The local schools have their own character and reputation — some families specifically move to Toorak for school access.
+## Parks and Outdoor Spaces
 
-Without getting into ranking specific schools, the education options here cover a reasonable range. There are public options that locals rate, and private school access is feasible with commuting to nearby suburbs.
+**Toorak Park** on Orrong Road is the main family green space — playgrounds, open grass, cricket and football in season, and off-leash dog areas (with time restrictions). Weekend mornings see the park fill with families from the surrounding streets.
 
-Childcare and kindergarten spots can be competitive — register early if you're moving here with under-5s.
+**Como Park** around Como House offers gardens and paths suitable for prams and small children. The house itself runs family-friendly events during school holidays.
 
-## How Safe Does It Feel for Families?
+**Main Yarra Trail** — The riverside path along Toorak's northern edge is flat, safe, and perfect for family cycling. Kids can ride separated from traffic the entire way to the Botanical Gardens.
 
-Toorak generally feels safe for families. The streets are well-lit on the main drags, and the residential pockets have that community-watch feel where neighbours look out for each other.
+## The Streets
 
-Like any Melbourne suburb, use common sense at night on quieter streets. But overall, parents here let their older kids walk to school and ride bikes around the neighbourhood without major concern.
+The residential streets south of Toorak Road — Irving Road, Albany Road, Canterbury Road — are genuinely quiet and safe enough for older children to ride bikes and walk to friends' houses. The wide footpaths and low traffic volumes create a neighbourhood feel that's increasingly rare in inner Melbourne.
 
-## Housing — Are There Family-Sized Homes?
+School-run traffic on Toorak Road and Kooyong Road is the main family annoyance — drop-off and pick-up times are congested, and parking near schools during these windows requires patience.
 
-Yes, though competition for good family homes can be fierce. You'll find freestanding houses with backyards, but they're not the majority of housing stock — there's a mix of units, townhouses, and smaller residences as well.
+## Housing for Families
 
-Families typically look at the quieter streets away from the main commercial strips. Those pockets offer more space, less noise, and the neighbourhood feel that families want.
+Family-sized homes in Toorak are expensive. Freestanding houses with backyards on the grand streets start at $3M and climb steeply. Townhouses are more achievable ($1.5M–$3M) and some newer developments include small gardens.
 
-## What Families Love About Toorak
+Families renting typically look at the quieter streets south of Toorak Road. Three-bedroom townhouse rentals run $900–$1,400/week. It's a lot — but many families judge it worthwhile for the school access and lifestyle.
 
-- Walking distance to shops, cafes, and parks means less time in the car
-- Community feel — school mums and dads know each other, kids play together locally
-- Good food options that work for family dinners (not just date-night restaurants)
-- Access to other family-friendly suburbs nearby for variety
-- Parks and trails that give kids outdoor space
+## What Families Love
+
+- Exceptional school access — both private and public
+- Quiet residential streets safe for children
+- The village has everything within walking distance
+- Strong parent community — school networks are active
+- Como House events for kids during holidays
 
 ## What Families Find Tricky
 
-- Bigger homes come with bigger price tags — space costs money here
-- Parking near schools during drop-off and pick-up is chaos
-- Some main streets can feel busy for younger kids on foot
-- Childcare waitlists — register before you move if possible
-- Weekend crowds at popular cafes and restaurants
+- The cost — everything from housing to school fees is premium
+- Parking during school hours is chaotic near Toorak Road
+- Limited diversity compared to more multicultural suburbs
+- Backyards are smaller than outer suburbs offer
+- Weekend dining with young kids can be challenging in the more formal village restaurants
 
-## Verdict — Is It Worth It for Families?
+## FAQ
 
-Toorak works for families who value community, walkability, and character over having the biggest house on the biggest block. If you're after a genuine neighbourhood where your kids can grow up knowing their neighbours, this delivers.
+**What's the best school in Toorak?**
+Depends on your priorities and budget. Melbourne Grammar and Lauriston are the prestige private options. Toorak Primary is the well-regarded local government school.
 
-If you need five bedrooms and a pool, you'll be paying a premium here or looking further out. But for families who want that sweet spot of location and community — Toorak is genuinely worth considering.
+**Are there playgrounds in Toorak?**
+Yes — Toorak Park on Orrong Road has the main playground. Como Park has open space suitable for younger children.
+
+**Is Toorak safe for kids?**
+Very. The residential streets are quiet, the community is engaged, and crime rates are among Melbourne's lowest. See our [Toorak safety guide](/toorak/safety-guide/).
+
+## Verdict
+
+Toorak is one of Melbourne's premier family suburbs — but exclusively at the premium end. The schools are the drawcard, the streets are beautiful and safe, and the community is strong. If your budget stretches to it, the suburb delivers a family lifestyle that few Melbourne addresses can match. If the numbers are tight, consider [Hawthorn](/hawthorn/) for a similar school-focused family suburb at a (slightly) lower price point.
 
 ---
 
@@ -77,4 +90,4 @@ If you need five bedrooms and a pool, you'll be paying a premium here or looking
 - [Toorak Cost of Living](/toorak/cost-of-living/)
 - [Toorak Transport Guide](/toorak/transport-guide/)
 
-**Nearby suburbs:** [South Yarra](/south-yarra/) · [Armadale](/armadale/) · [Hawthorn](/hawthorn/) · [Malvern](/malvern/)
+**Nearby suburbs:** [South Yarra](/south-yarra/) · [Hawthorn](/hawthorn/) · [Prahran](/prahran/) · [Richmond](/richmond/)

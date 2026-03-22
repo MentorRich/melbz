@@ -4,16 +4,22 @@ description: "How expensive is East Melbourne? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living East Melbourne Melbourne"
   - "how expensive is East Melbourne"
   - "is East Melbourne expensive to live in"
   - "East Melbourne rent"
+tags:
+  - "east-melbourne"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in East Melbourne — no sugar-coating, no made-up figures.
+The cost question in East Melbourne is straightforward: it is creeping up year on year. Here is what your wallet actually needs to know.
 
 Read our full [East Melbourne suburb guide](/east-melbourne/) for the bigger picture.
 

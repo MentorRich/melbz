@@ -4,13 +4,18 @@ description: "The insider's guide to Carrum's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "carrum"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Carrum neighbourhood guide"
   - "best streets in Carrum"
   - "Carrum areas"
   - "Carrum pockets Melbourne"
+tags:
+  - "carrum"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Carrum isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

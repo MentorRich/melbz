@@ -4,16 +4,22 @@ description: "The story of Eaglemont: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "eaglemont"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Eaglemont Melbourne history"
   - "how has Eaglemont changed"
   - "Eaglemont gentrification"
   - "Eaglemont then and now"
+tags:
+  - "eaglemont"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Eaglemont's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+The name Eaglemont comes from its early settlers. But the real story is what happened after the suburb was named.
 
 See our full [Eaglemont suburb guide](/eaglemont/) for the current picture.
 

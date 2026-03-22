@@ -4,16 +4,22 @@ description: "How expensive is Werribee? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "werribee"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Werribee Melbourne"
   - "how expensive is Werribee"
   - "is Werribee expensive to live in"
   - "Werribee rent"
+tags:
+  - "werribee"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Werribee — no sugar-coating, no made-up figures.
+The gap between the sticker price of Werribee and actual living costs is worth understanding before you move.
 
 Read our full [Werribee suburb guide](/werribee/) for the bigger picture.
 

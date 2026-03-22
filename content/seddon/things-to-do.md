@@ -4,13 +4,19 @@ description: "What to do in Seddon this weekend and beyond. Activities, events, 
 date: 2026-03-21
 suburb: "seddon"
 article_type: "activities"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "things to do Seddon"
   - "Seddon activities"
   - "what to do in Seddon"
   - "Seddon weekend plans"
+tags:
+  - "seddon"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -53,7 +59,7 @@ More than you think. Charles Street village, craft beer, and the inner west pock
 
 Melbourne weather means you need indoor plans. Seddon has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/seddon/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Seddon has:
 ---
 
 **More on Seddon:** [Seddon Suburb Guide](/seddon/) · [Seddon Best Cafes](/seddon/best-cafes/) · [Seddon Neighbourhood Guide](/seddon/neighbourhood-guide/)
+
+---
+
+## Explore More of Seddon
+
+- [Seddon History](/seddon/history/)
+- [Seddon Rent Guide](/seddon/rent-guide/)
+- [Seddon Cost of Living](/seddon/cost-of-living/)
+- [Seddon Young Professionals Guide](/seddon/young-professionals/)
+- [Seddon Transport Guide](/seddon/transport-guide/)
+- [Seddon Best Cafes](/seddon/best-cafes/)
+- [Seddon Best Restaurants](/seddon/best-restaurants/)
+- [Seddon Weekend Guide](/seddon/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Footscray Suburb Guide](/footscray/)
+- [Yarraville Suburb Guide](/yarraville/)
+- [Williamstown Suburb Guide](/williamstown/)
+- [Newport Suburb Guide](/newport/)

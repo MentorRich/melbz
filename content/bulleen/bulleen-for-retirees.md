@@ -4,12 +4,16 @@ description: "Considering retirement in Bulleen? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "bulleen"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Bulleen retirees Melbourne"
   - "retiring in Bulleen"
   - "quiet suburbs Melbourne"
+tags:
+  - "bulleen"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Bulleen? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

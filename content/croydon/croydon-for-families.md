@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Croydon? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "croydon"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Croydon good for families"
   - "Croydon family friendly"
   - "raising kids in Croydon"
+tags:
+  - "croydon"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Croydon with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

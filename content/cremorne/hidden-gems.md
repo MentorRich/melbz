@@ -1,22 +1,18 @@
 ---
-title: "Hidden Gems in Cremorne Melbourne — What Most People Miss"
-description: "The spots in Cremorne that don't make the top 10 lists but locals would fight to protect. Off the main strip, under the radar."
-date: 2026-03-21
+title: "Hidden Gems in Cremorne — What Most People Miss"
+description: "The spots in Cremorne most visitors never find. Warehouse laneways, Dover Street cafes, Balmain Street side-street finds, and the Yarra views locals protect."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Tyler Nguyen"
+cover_image: "/images/cremorne/hidden-gems.jpg"
+cover_image_alt: "Quiet laneway in Cremorne warehouse precinct"
 suburb: "cremorne"
-article_type: "local-guide"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
-keywords:
-  - "hidden gems Cremorne"
-  - "secret spots Cremorne"
-  - "local tips Cremorne"
-  - "off beaten path Cremorne Melbourne"
+tags: ["cremorne", "hidden-gems", "local-tips"]
 ---
-
 
 ## Why Cremorne's Best Bits Are Hidden
 
-Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But Cremorne's real character lives in the places most visitors never find.
+Every Melbourne suburb has a public face — the main strip, the popular [cafes](/cremorne/best-cafes/), the spots Google tells you about. But Cremorne's real character lives in the places most visitors never find.
 
 These aren't "hidden" because someone's keeping secrets. They're hidden because they don't advertise, they don't have social media strategies, and they rely entirely on word of mouth and repeat customers.
 
@@ -62,4 +58,24 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on Cremorne:** [Cremorne Suburb Guide](/cremorne/) · [Cremorne History](/cremorne/history/) · [Cremorne Living Guide](/cremorne/living-in-cremorne/)
+**More on Cremorne:** [Cremorne Suburb Guide](/cremorne/) · [Cremorne History](/cremorne/[history](/cremorne/history/)/) · [Cremorne Living Guide](/cremorne/living-in-cremorne/)
+
+---
+
+## Explore More of Cremorne
+
+- [Cremorne History](/cremorne/history/)
+- [Cremorne Things To Do This Weekend](/cremorne/things-to-do-this-weekend/)
+- [Cremorne Cheap Eats](/cremorne/cheap-eats/)
+- [Cremorne Rent Guide](/cremorne/rent-guide/)
+- [Cremorne Date Night Guide](/cremorne/date-night/)
+- [Cremorne Cremorne For Retirees](/cremorne/cremorne-for-retirees/)
+- [Cremorne New Openings](/cremorne/new-openings/)
+- [Cremorne Things To Do](/cremorne/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Cranbourne North Suburb Guide](/cranbourne-north/)
+- [Cranbourne West Suburb Guide](/cranbourne-west/)
+- [Croydon Suburb Guide](/croydon/)
+- [Croydon North Suburb Guide](/croydon-north/)

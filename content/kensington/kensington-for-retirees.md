@@ -1,17 +1,14 @@
 ---
 title: "Is Kensington Good for Retirees?"
-description: "Considering retirement in Kensington? Quiet streets, healthcare access, community feel, and the honest verdict for retirees."
-date: 2026-03-21
+description: "Considering retirement in Kensington? Quiet streets, healthcare access, community feel, and the honest verdict for retirees. Updated for 2026 with real local."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/kensington/kensington-for-retirees.jpg"
+cover_image_alt: "Kensington For Retirees in Kensington Melbourne"
 suburb: "kensington"
-article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
-keywords:
-  - "Kensington retirees Melbourne"
-  - "retiring in Kensington"
-  - "quiet suburbs Melbourne"
+tags: ["kensington", "kensington-for-retirees"]
 ---
-
 Thinking about retiring in Kensington? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.
 
 See our full [Kensington suburb guide](/kensington/) for the complete background.

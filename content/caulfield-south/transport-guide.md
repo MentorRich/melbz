@@ -4,15 +4,22 @@ description: "Public transport in Caulfield South: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Caulfield South Melbourne"
   - "commute from Caulfield South to city"
   - "Caulfield South train station"
+tags:
+  - "caulfield-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Caulfield South — what works, what's annoying, and how long things actually take.
+Public transport in Caulfield South has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Caulfield South suburb guide](/caulfield-south/) for the complete picture.
 

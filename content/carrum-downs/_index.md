@@ -1,16 +1,16 @@
 ---
-title: "Carrum Downs Melbourne — Everything You Need to Know"
+title: "Carrum Downs Melbourne — what you need"
 description: "The complete guide to Carrum Downs. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "carrum-downs"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Carrum Downs Melbourne"
   - "what is Carrum Downs like"
   - "carrum-downs suburb"
   - "living in Carrum Downs"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Affordable family suburb with retail access and proximity to Frankston.

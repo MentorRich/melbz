@@ -4,13 +4,18 @@ description: "The insider's guide to Clayton's different pockets, streets, and a
 date: 2026-03-21
 suburb: "clayton"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Clayton neighbourhood guide"
   - "best streets in Clayton"
   - "Clayton areas"
   - "Clayton pockets Melbourne"
+tags:
+  - "clayton"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Clayton isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,13 +4,18 @@ description: "The insider's guide to Brunswick West's different pockets, streets
 date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Brunswick West neighbourhood guide"
   - "best streets in Brunswick West"
   - "Brunswick West areas"
   - "Brunswick West pockets Melbourne"
+tags:
+  - "brunswick-west"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Brunswick West isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

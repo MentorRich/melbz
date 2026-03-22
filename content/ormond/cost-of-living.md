@@ -4,16 +4,22 @@ description: "How expensive is Ormond? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "ormond"
 article_type: "cost-of-living"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Ormond Melbourne"
   - "how expensive is Ormond"
   - "is Ormond expensive to live in"
   - "Ormond rent"
+tags:
+  - "ormond"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Ormond — no sugar-coating, no made-up figures.
+The gap between the sticker price of Ormond and actual living costs is worth understanding before you move.
 
 Read our full [Ormond suburb guide](/ormond/) for the bigger picture.
 

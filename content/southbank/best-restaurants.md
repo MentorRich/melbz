@@ -1,59 +1,88 @@
 ---
-title: "Best Restaurants in Southbank Melbourne"
-description: "Where to eat in Southbank: the honest guide to the suburb's restaurant scene, from weeknight dinners to special occasions."
-date: 2026-03-21
+title: "Best Restaurants in Southbank — 2026 Local Guide"
+description: "Where to eat in Southbank. The Meat and Wine Co at Freshwater Place, Biarritz French bistro at Southgate, Rockpool at Crown, and the honest dining guide."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Tan"
+cover_image: "/images/southbank/best-restaurants.jpg"
+cover_image_alt: "Dinner setting at a Southbank riverside restaurant"
 suburb: "southbank"
-article_type: "best-of"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-keywords:
-  - "best restaurants Southbank"
-  - "where to eat Southbank"
-  - "dinner Southbank Melbourne"
-  - "restaurants near Southbank"
+tags: ["southbank", "restaurants", "dining", "food", "riverside"]
 ---
-
 
 ## Eating Out in Southbank
 
-Southbank's restaurant scene reflects the suburb's personality. High-rise riverside living with Arts Centre views and Crown Casino on the doorstep. That translates into a food culture that's unpretentious and honestly good.
+Southbank's restaurant scene is a mixed bag. The Promenade restaurants are designed for tourists — competent but rarely exceptional, with views doing heavy lifting on a $32 pasta that would be $22 in [Fitzroy](/fitzroy/). But dig deeper and there's genuine quality along **Clarendon Street**, Freshwater Place, and Southgate.
 
-You've got options from casual weeknight dinners to proper sit-down spots you save for birthdays. The range is what makes it work — you don't need to leave the suburb for good food.
+## The Meat & Wine Co — 3 Freshwater Place
 
-## What Kind of Food Can You Find?
+**Best for:** Reliable high-end steak in a corporate-friendly setting
 
-The cuisine options depend on what Southbank's community looks like, and right now it's a solid mix:
+A quality 300g rib-eye runs $65-85. It's a corporate favourite — book ahead for Friday nights. Located at Freshwater Place near **Southbank Boulevard**. The wine list goes deep. For business dinners and celebration steaks, this is the safe bet.
 
-**Italian** — Melbourne does Italian well, and Southbank is no exception. From proper pasta joints to pizza that actually tastes like something.
+## Biarritz — 1/3 Southgate Avenue
 
-**Asian** — Thai, Vietnamese, Japanese, Chinese — the variety depends on the suburb's demographic mix, but you'll find options that range from quick and affordable to genuinely impressive.
+**Best for:** French bistro that feels like a local secret
 
-**Modern Australian** — The catch-all that actually means "good food made by creative chefs who source well." Several of Southbank's best spots fall into this category.
+Classic French bistro at Southgate. The steak frites ($42) is consistently excellent. Sit at the bar for a more casual experience. This is one of the few Southbank restaurants that feels like a neighbourhood spot rather than a tourist destination.
 
-**Pub Food Done Right** — The local pub that's upgraded beyond parma and chips (though those are still available). Proper kitchen, decent wine list, and food that surprises you.
+## Rockpool Bar & Grill — Crown, 8 Whiteman Street
 
-**Quick and Good** — Takeaway, kebabs, fish and chips, burger joints. Not flashy but essential for those nights when you don't feel like cooking but don't want to sit down either.
+**Best for:** Special occasion dining in the Crown complex
 
-## Weeknight vs Weekend Dining
+One of Melbourne's most acclaimed restaurants. World-class beef, extensive wine list, impeccable service. Mains from $45-120. The Crown location means it's surrounded by casino dining, but inside Rockpool, you forget all that. Book well ahead.
 
-**Weeknights** are your sweet spot in Southbank. Walk-in friendly, quieter, and you get the kitchen's attention. Tuesday to Thursday is when locals eat out casually.
+## Shujinko — 35-37 Riverside Quay
 
-**Weekends** bring the crowds, especially Friday and Saturday nights. Book ahead for anywhere decent, or go early (6pm) to beat the rush. Sunday dinner is an underrated option — quieter than Saturday with the same quality.
+**Best for:** Late-night ramen that's open 24 hours on weekends
 
-## Price Range
+When everything else has closed, Shujinko is still serving proper tonkotsu ramen. The #1 Black tonkotsu ($17.90) is the signature. 24-hour service Friday-Saturday makes it Southbank's most essential late-night venue.
 
-Southbank's restaurants cover a genuine range. You can have a solid dinner for a reasonable amount, or splurge on the suburb's best without Melbourne CBD prices.
+## Dodee Paidang — Level 1, 8 Whiteman Street
 
-The mid-range is where Southbank shines — restaurants that care about quality but don't gouge on price. That's the sweet spot here.
+**Best for:** Authentic Bangkok-style Thai
 
-## Tips for Eating in Southbank
+Proper Thai with a spice scale that runs 0-7. The tom yum noodle with grilled king prawns ($19) is a standout. Genuine Bangkok flavours rather than the diluted suburban version. Near the Crown precinct.
 
-1. **Ask the locals** — the best restaurant is often the one without the marketing budget
-2. **Weeknight date nights** — better experience, easier bookings, sometimes cheaper
-3. **Try the specials** — chefs put their energy into specials, and it shows
-4. **Don't judge by decor** — some of the best food comes from the least fancy-looking places
-5. **Support the independents** — chain restaurants exist but the soul of Southbank's food scene is the owner-operators
+## OKAMI — 208-210 Clarendon Street
+
+**Best for:** Japanese all-you-can-eat
+
+$34.80 lunch, $38.80 dinner for unlimited tapas-sized Japanese dishes. Load up on edamame, sashimi, and seaweed salad. The quality is consistently good for the format. One of Southbank's better-value dining options on **Clarendon Street**.
+
+## FAQ
+
+**What's the best restaurant in Southbank for a date?**
+Biarritz for intimate French bistro, Lui Bar (upstairs at Eureka Tower) for the view, Rockpool for a genuine special occasion.
+
+**Where's the best cheap dinner in Southbank?**
+Shujinko ramen ($17.90) or Straits of Malacca roti canai ($10 for two) are the best value. OKAMI's all-you-can-eat lunch ($34.80) is decent value for volume.
+
+**Is it worth eating on the Southbank Promenade?**
+Only if the view matters more than the food. For quality, head to Freshwater Place, Southgate Avenue, or **Clarendon Street** instead.
+
+## The Verdict
+
+Southbank's restaurant scene covers high-end steaks, French bistros, Japanese, Thai, Malaysian, and late-night ramen. The best venues are the ones that don't rely on tourist foot traffic — Biarritz at Southgate, The Meat & Wine Co at Freshwater Place, and Shujinko's 24-hour ramen. Skip the generic Promenade restaurants and head to **Clarendon Street**, **City Road**, or the Southgate complex for genuine quality. Mains range from $17 (ramen) to $85 (premium steak), with most sitting at $25-45.
+
+**More on Southbank:** [Southbank Suburb Guide](/southbank/) · [Southbank Best Asian](/southbank/best-asian/) · [Southbank Late Night Eats](/southbank/late-night-eats/)
 
 ---
 
-**More on Southbank:** [Southbank Suburb Guide](/southbank/) · [Southbank Best Cafes](/southbank/best-cafes/) · [Southbank Living Guide](/southbank/living-in-southbank/)
+## Explore More of Southbank
+
+- [Southbank History](/southbank/history/)
+- [Southbank Late Night Eats](/southbank/late-night-eats/)
+- [Southbank Rent Guide](/southbank/rent-guide/)
+- [Southbank Southbank For Retirees](/southbank/southbank-for-retirees/)
+- [Southbank New Openings](/southbank/new-openings/)
+- [Southbank Things To Do](/southbank/things-to-do/)
+- [Southbank Cost of Living](/southbank/cost-of-living/)
+- [Southbank Young Professionals Guide](/southbank/young-professionals/)
+
+### Nearby Suburbs Worth Checking
+
+- [Melbourne CBD Suburb Guide](/melbourne-cbd/)
+- [Docklands Suburb Guide](/docklands/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

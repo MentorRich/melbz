@@ -4,13 +4,18 @@ description: "The insider's guide to Templestowe's different pockets, streets, a
 date: 2026-03-21
 suburb: "templestowe"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Templestowe neighbourhood guide"
   - "best streets in Templestowe"
   - "Templestowe areas"
   - "Templestowe pockets Melbourne"
+tags:
+  - "templestowe"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Templestowe isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

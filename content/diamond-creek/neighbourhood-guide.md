@@ -4,13 +4,18 @@ description: "The insider's guide to Diamond Creek's different pockets, streets,
 date: 2026-03-21
 suburb: "diamond-creek"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Diamond Creek neighbourhood guide"
   - "best streets in Diamond Creek"
   - "Diamond Creek areas"
   - "Diamond Creek pockets Melbourne"
+tags:
+  - "diamond-creek"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Diamond Creek isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

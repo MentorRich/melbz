@@ -1,16 +1,16 @@
 ---
-title: "Doncaster Melbourne — Everything You Need to Know"
+title: "Doncaster Melbourne — what you need"
 description: "The complete guide to Doncaster. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "doncaster"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Doncaster Melbourne"
   - "what is Doncaster like"
   - "doncaster suburb"
   - "living in Doncaster"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Westfield Doncaster, hilltop views, and a strong Chinese-Australian family community.

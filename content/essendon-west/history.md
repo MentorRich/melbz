@@ -4,16 +4,22 @@ description: "The story of Essendon West: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "essendon-west"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Essendon West Melbourne history"
   - "how has Essendon West changed"
   - "Essendon West gentrification"
   - "Essendon West then and now"
+tags:
+  - "essendon-west"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Essendon West's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+History buffs and new residents alike should know the origin story of Essendon West. It explains more than you would expect.
 
 See our full [Essendon West suburb guide](/essendon-west/) for the current picture.
 

@@ -4,15 +4,22 @@ description: "Public transport in Lalor: trains, trams, buses, cycling, and how 
 date: 2026-03-21
 suburb: "lalor"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Lalor Melbourne"
   - "commute from Lalor to city"
   - "Lalor train station"
+tags:
+  - "lalor"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Lalor — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Lalor. Let us cut through the fluff.
 
 Check out our full [Lalor suburb guide](/lalor/) for the complete picture.
 

@@ -1,17 +1,16 @@
 ---
 title: "Nightlife Guide in Port Melbourne — 2026 Local Guide"
 cover_image: "/images/port-melbourne/nightlife-guide.jpg"
----
-
 suburb: "port-melbourne"
 vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The complete Port Melbourne nightlife guide for 2026 — from waterfront bars and rooftop venues to local pubs and the growing Bay Street scene."
 tags: ["port-melbourne"]
 categories: ["nightlife"]
+---
+
 # Port Melbourne Nightlife Guide 2026 — Waterfront Vibes and Growing Bars
 
 Port Melbourne has an identity problem. Is it the ritzy waterfront suburb with multimillion-dollar apartments and harbour views? Is it the working-class area with tradie pubs and fishing history? The answer, increasingly, is that it's both — and that tension makes for a nightlife scene that's more interesting than you might expect. The suburb has transformed dramatically over the past decade, with new developments bringing new venues, new residents, and new energy. But the old pubs are still there, serving the people who've been coming here for decades.
@@ -126,10 +125,8 @@ The suburb's proximity to Albert Park means there's a particular energy during t
 *Also see: [Best Pubs in Port Melbourne](/port-melbourne/best-pubs) · [Best Bars in Port Melbourne](/port-melbourne/best-bars) · [Rooftop Bars in Melbourne](/melbourne/rooftop-bars) · [Albert Park Night Out](/albert-park/nightlife-guide) · [South Melbourne Food and Drink](/south-melbourne/best-restaurants)*
 ## Related Articles
 
-- [/southbank/](/southbank/)
-- [/st-kilda/](/st-kilda/)
-- [/nightlife/](/nightlife/)
-- [/things-to-do/](/things-to-do/)
-- [/port-melbourne/](/port-melbourne/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Southbank](/southbank/)
+- [St Kilda](/st-kilda/)
+- [Nightlife](/nightlife/)
+- [Things To Do](/things-to-do/)
+- [Port Melbourne](/port-melbourne/)

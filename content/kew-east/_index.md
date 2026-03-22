@@ -1,16 +1,16 @@
 ---
-title: "Kew East Melbourne — Everything You Need to Know"
+title: "Kew East Melbourne — what you need"
 description: "The complete guide to Kew East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "kew-east"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Kew East Melbourne"
   - "what is Kew East like"
   - "kew-east suburb"
   - "living in Kew East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Tree-lined residential streets near Willsmere with easy Eastern Freeway access.

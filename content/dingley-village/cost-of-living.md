@@ -4,16 +4,22 @@ description: "How expensive is Dingley Village? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "dingley-village"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Dingley Village Melbourne"
   - "how expensive is Dingley Village"
   - "is Dingley Village expensive to live in"
   - "Dingley Village rent"
+tags:
+  - "dingley-village"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Dingley Village — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Dingley Village, here is exactly how far your dollar goes.
 
 Read our full [Dingley Village suburb guide](/dingley-village/) for the bigger picture.
 

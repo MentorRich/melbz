@@ -4,15 +4,22 @@ description: "Public transport in Officer: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "officer"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Officer Melbourne"
   - "commute from Officer to city"
   - "Officer train station"
+tags:
+  - "officer"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Officer — what works, what's annoying, and how long things actually take.
+Officer transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Officer suburb guide](/officer/) for the complete picture.
 

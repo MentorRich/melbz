@@ -1,21 +1,14 @@
 ---
-title: "Camberwell for Young Professionals 2026: Lifestyle, Cost & Nightlife"
-slug: "young-professionals"
+title: "Camberwell for Young Professionals 2026: Lifestyle, Cost and Nightlife"
 date: 2026-03-21
-updated: 2026-03-21
-author: dani
-author_image: "/images/authors/dani.jpg"
+author: "Dani Rossi"
 suburb: "camberwell"
-suburbs: ["camberwell"]
-vertical: lifestyle
 tags: ["camberwell", "young-professionals", "nightlife", "lifestyle"]
-description: "Camberwell for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent."
-cover_image: "https://images.pexels.com/photos/6799319/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Camberwell nightlife young professionals Melbourne"
-vibe_score: 77
+description: "Camberwell for young professionals in 2026. The bars, the commute, the cost, and whether it is worth paying inner-east rent."
+cover_image: "/images/camberwell/young-professionals.jpg"
 ---
 
-You're in your mid-20s to early-30s, you earn decent money but not Toorak money, and you want a suburb that has actual things to do after 6pm. Is Camberwell it?
+Young professionals in Camberwell tend to love some things and tolerate others. Here is the breakdown by category.
 
 ## The Young Professional Scorecard
 
@@ -68,4 +61,4 @@ Camberwell works for young professionals who prioritise lifestyle balance over a
 
 ---
 
-*Living the young professional life in Camberwell? Tell us your experience — [hq@melbz101](mailto:hq@melbz101)*
+*Living the young professional life in Camberwell? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*

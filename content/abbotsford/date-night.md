@@ -1,17 +1,14 @@
 ---
 title: "Date Night in Abbotsford — 2026 Local Guide"
+description: "Discover the date night in Abbotsford. Our verified 2026 guide covers the best spots for locals. Updated for 2026 with real local picks and honest advice for."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Chen"
 cover_image: "/images/abbotsford/date-night.jpg"
----
-
+cover_image_alt: "Date Night in Abbotsford Melbourne"
 suburb: "abbotsford"
-vertical: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the date night in Abbotsford. Our verified 2026 guide covers the best spots for locals."
 tags: ["abbotsford"]
-categories: ["date"]
+---
 ## The Best Date Night in Abbotsford
 
 Let's get something straight: Abbotsford is not where you go for a first date if you're the kind of person who wants a white tablecloth and a sommelier. This is where you go when you want a date that actually tells you something about the person you're with — how they react to a slightly divey bar, whether they appreciate a good banh mi, if they can handle a kayak on the Yarra without panicking.
@@ -100,7 +97,7 @@ For dessert, grab bánh bò (Vietnamese honeycomb cake) from one of the bakeries
 
 The beauty of ending a date night with midnight pho is that it strips away all pretence. You're not at a $200 degustation trying to sound sophisticated. You're sitting at a plastic table slurping noodles, and if your date is into that, you've just learned something far more valuable than whether they know the difference between a Barolo and a Barbaresco.
 
-**The vibe:** Authentic, unpretentious, Melbourne as hell. If your date judges you for eating pho at midnight, that tells you everything you need to know.
+**The vibe:** Authentic, unpretentious, Melbourne as hell. If your date judges you for eating pho at midnight, that tells you what you need.
 
 **Budget:** A bowl of pho: $15–$18. Dessert: $5–$8. Total late-night feed for two: under $50.
 
@@ -113,42 +110,8 @@ And honestly? If your date can't have a good time in Abbotsford, they're probabl
 
 **Also explore:** [Collingwood date night](/collingwood/date-night) · [Richmond dining guide](/richmond/best-restaurants) · [Fitzroy date night](/fitzroy/date-night)
 
+---
 
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
 
-Living in Abbotsford? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=abbotsford)
-
-### Featured Venues
-
-- **Lygon Street Nursery & Cafe (Farm Vigano)** at 100-110 Farm Rd, Abbotsford VIC 3067
-- **Dr Morse Bar & Eatery** at 274 Johnston St, Abbotsford VIC 3067
-- **Retreat Hotel Abbotsford** at 226 Nicholson St, Abbotsford VIC 3067
-- **Lune Croissanterie** at 119 Rose St, Fitzroy/Abbotsford border, VIC 3065
-- **Dr. Morse Bar & Eatery** at 274 Johnston St, Abbotsford, VIC 3067
-- **Three Bags Full** at 60 Nicholson St, Abbotsford, VIC 3067
-- **Dr. Morse Bar & Eatery** at 274 Johnston St, Abbotsford VIC 3067
-- **Lentil As Anything (Abbotsford Convent)** at 1 St Heliers St, Abbotsford VIC 3067
-- **Bodriggy Brewing Company** at 245 Johnston St, Abbotsford VIC 3067
-- **Ichi Ni Nana Izakaya** at 127 Brunswick St, Fitzroy, VIC 3065
-
-### Key Highlights
-
-- Abbotsford Convent arts precinct
-- Collingwood Children's Farm
-- Victoria Street's authentic Vietnamese eateries
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/richmond/](/richmond/)
-- [/abbotsford/](/abbotsford/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

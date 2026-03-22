@@ -1,16 +1,15 @@
 ---
 title: "Cost of Living in Kensington 2026: The Real Numbers"
+description: "Cost of Living in Kensington 2026: The Real Numbers. Updated for 2026 with real local picks and honest advice for Kensington in Melbourne inner west."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 cover_image: "/images/kensington/cost-of-living.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
+cover_image_alt: "Cost Of Living in Kensington Melbourne"
+suburb: "kensington"
 tags: ["kensington", "cost-of-living", "property"]
-categories: ["property"]
-description: "Cost of Living in Kensington 2026: The Real Numbers"
 ---
-
 **Updated 16 March 2026 | Marcus Cole reporting**
-
 
 
 Kensington is one of those suburbs where everyone has an ..."
@@ -71,9 +70,9 @@ A household of two should expect $180–$220/week, which tracks with the Victori
 **Local tip:** The Asian grocer on Racecourse Road does rice, noodles, sauces, and frozen goods at prices that'll save you 30–40% compared to the supermarket. If you're cooking with any Asian pantry staples, this is not optional — it's essential.
 
 
-## Transport: The Myki Reality
+## [Transport](/kensington/transport-guide/): The Myki Reality
 
-Kensington is genuinely well-served for public transport, which is lucky because driving here is a special kind of punishment — the parking situation near the station is what I'd politely call "character-building."
+Kensington is genuinely well-served for [public transport](/kensington/transport-guide/), which is lucky because driving here is a special kind of punishment — the parking situation near the station is what I'd politely call "character-building."
 
 **Myki costs (as of 1 January 2026):**
 
@@ -84,7 +83,7 @@ Kensington is genuinely well-served for public transport, which is lucky because
 
 The 57 tram runs through Kensington along Epsom Road and Macaulay Road, connecting you to the CBD in about 20 minutes on a good day. The Flemington Bridge train station sits right on the border and gets you to Southern Cross in under 15 minutes.
 
-If you're relying solely on public transport, budget $200–$220/month. If you drive to work and park in the CBD, you're looking at $25–$35/day for parking plus fuel at about $1.85/litre. A car owner in Melbourne spends, on average, about $27,800/year on transport all-up — that includes rego, insurance, fuel, and tolls. CityLink tolls alone can hit $12 for a single trip, so if your commute involves the tollway, factor that in hard.
+If you're relying solely on public transport, budget $200–$220/month. If you drive to work and park in the CBD, you're looking at $25–$35/day for parking plus fuel at about $1.85/litre. A car owner in Melbourne spends, on average, about $27,800/year on transport all-up — that includes rego, insurance, fuel, and tolls. CityLink tolls alone can hit $12 for a single trip, so if your [commute](/kensington/transport-guide/) involves the tollway, factor that in hard.
 
 **The cycling option:** Kensington to the CBD is flat, about 5km, and separated bike lanes exist on most of the route along Epsom Road and Moonee Ponds Trail. A decent commuter bike costs $500–$800 upfront and saves you $200+/month in Myki fares. It's the best financial decision most Kensington residents could make, and yet almost nobody does it.
 
@@ -102,7 +101,7 @@ Kensington's dining scene is modest compared to neighbouring Footscray (which ha
 - Pint of craft beer: $12–$14
 - Glass of wine (mid-range): $12–$16
 
-The smart money in Kensington is walking the 10 minutes to Flemington for Friday night dinner — you get the best of the Vietnamese strip on Racecourse Road without the Richmond traffic. A bowl of pho at one of the spots near the Flemington bridge runs about $16 and will keep you full until Sunday. Footscray's Hopkins Street is similarly close and arguably better for a food crawl — the Ethiopian restaurants there remain criminally undervalued.
+The smart money in Kensington is walking the 10 minutes to Flemington for Friday night dinner — you get the best of the Vietnamese strip on Racecourse Road without the Richmond traffic. A bowl of pho at one of the spots near the Flemington bridge runs about $16 and will keep you full until Sunday. Footscray's Hopkins Street is similarly close and arguably better for a food crawl — the Ethiopian [restaurants](/kensington/best-restaurants/) there remain criminally undervalued.
 
 **Monthly dining budget (single person, eating out 3–4 times/week):**
 
@@ -225,38 +224,22 @@ Just don't call it "up-and-coming" to a local. It's been "coming" for 15 years a
 - [Cost of Living in Footscray 2026](/footscray/cost-of-living)
 - [Cost of Living in North Melbourne 2026](/north-melbourne/cost-of-living)
 
-### Featured Venues
+---
 
-- **The Premises** at 202 Bellair St, Kensington VIC 3031
-- **Locanda Kensington** at 506 Macaulay Rd, Kensington VIC 3031
-- **Hardimans Hotel** at 521 Macaulay Rd, Kensington VIC 3031
-- **The Premises** at 202 Bellair St, Kensington VIC 3031
-- **La Tortilleria** at 72 Stubbs St, Kensington VIC 3031
-- **Loco Coffee** at 555 Macaulay Rd, Kensington VIC 3031
-- **IGA Kensington (Hot Food Counter)** at 48-50 Bellair St, Kensington VIC 3031
-- **Laksa King** at 6-12 Pin Oak Crescent, Flemington VIC 3031
-- **Kensington Stockyard Food & Coffee** at 500 Macaulay Rd, Kensington VIC 3031
-- **Laksa King** at 6-12 Pin Oak Crescent, Flemington, VIC 3031
+## Explore More of Kensington
 
-### Key Highlights
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
 
-- Macaulay Road shopping village
-- J.J. Holland Park
-- Proximity to the Maribyrnong River trail
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/footscray/](/footscray/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/richmond/](/richmond/)
-- [/property/](/property/)
-- [/cost-of-living-melbourne/](/cost-of-living-melbourne/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

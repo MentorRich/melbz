@@ -4,16 +4,22 @@ description: "How expensive is Croydon North? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "croydon-north"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Croydon North Melbourne"
   - "how expensive is Croydon North"
   - "is Croydon North expensive to live in"
   - "Croydon North rent"
+tags:
+  - "croydon-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Croydon North — no sugar-coating, no made-up figures.
+Croydon North living costs reflect its position in Melbourne property landscape. Here are the numbers that matter.
 
 Read our full [Croydon North suburb guide](/croydon-north/) for the bigger picture.
 

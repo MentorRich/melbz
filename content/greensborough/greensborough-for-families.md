@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Greensborough? Parks, schools, safety,
 date: 2026-03-21
 suburb: "greensborough"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Greensborough good for families"
   - "Greensborough family friendly"
   - "raising kids in Greensborough"
+tags:
+  - "greensborough"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Greensborough with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

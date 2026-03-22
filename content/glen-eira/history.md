@@ -4,16 +4,22 @@ description: "The story of Glen Eira: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "glen-eira"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Glen Eira Melbourne history"
   - "how has Glen Eira changed"
   - "Glen Eira gentrification"
   - "Glen Eira then and now"
+tags:
+  - "glen-eira"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Glen Eira's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Glen Eira was not always the place you see today. Its story starts in the gold rush era, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Glen Eira suburb guide](/glen-eira/) for the current picture.
 

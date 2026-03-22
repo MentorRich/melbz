@@ -4,13 +4,18 @@ description: "The insider's guide to Chelsea's different pockets, streets, and a
 date: 2026-03-21
 suburb: "chelsea"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Chelsea neighbourhood guide"
   - "best streets in Chelsea"
   - "Chelsea areas"
   - "Chelsea pockets Melbourne"
+tags:
+  - "chelsea"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Chelsea isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

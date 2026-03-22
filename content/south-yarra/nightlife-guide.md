@@ -1,17 +1,15 @@
 ---
-title: "Nightlife Guide in South Yarra — 2026 Local Guide"
+title: "South Yarra Nightlife Guide 2026"
+description: "Nine tested venues for after-dark South Yarra. From Beverly's rooftop cocktails to Chasers till 7am, Leonards' bourbon fires, and Chapel Street pubs."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
 cover_image: "/images/south-yarra/nightlife-guide.jpg"
+cover_image_alt: "South Yarra Melbourne nightlife Chapel Street"
+suburb: "south-yarra"
+tags: ["melbourne", "south-yarra", "nightlife", "bars"]
 ---
 
-suburb: "south-yarra"
-vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the nightlife guide in South Yarra. Our verified 2026 guide covers the best spots for locals."
-tags: ["south-yarra"]
-categories: ["nightlife"]
 # Nightlife Guide in South Yarra: Where to Go After Dark in 2026
 
 *Updated 17 March 2026 | Ethan Cole reporting*
@@ -201,7 +199,7 @@ South Yarra is one of the best-connected suburbs for nightlife:
 
 - **Train:** South Yarra Station (Pakenham, Cranbourne, Sandringham, Frankston lines) is a 5-minute walk to the start of Chapel Street
 - **Tram:** Route 78 along Chapel Street (stops right in the middle of the strip)
-- **Tram:** Route 58 along Toorak Road
+- **Tram:** Route 8 along Toorak Road
 - **Driving:** Parking is limited and parking inspectors are enthusiastic. Use a ride-share.
 
 For cross-border bar-hopping:
@@ -248,17 +246,17 @@ South Yarra's nightlife in 2026 is Chapel Street doing what Chapel Street does b
 The strip has matured. The venues that survived the post-COVID cull are the ones that actually deliver a good time rather than just good marketing. If you're new to South Yarra nightlife, start at Beverly for the views and work your way down Chapel Street from there. If you're a local, you already know — we're just here to confirm your taste.
 
 
-*Living in South Yarra? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=south-yarra)*
+## FAQ
 
+**What's the best rooftop bar in South Yarra?**
+Beverly at Level 24, 627 Chapel Street. 270-degree skyline views, natural wine list, espresso martini that tastes like actual coffee.
 
-*Ethan Cole is a nightlife and lifestyle writer at MELBZ. He has been covering Melbourne's after-dark scene for six years and firmly believes the best nights out start with "let's just have one drink." Follow MELBZ [on Instagram](https://instagram.com/melbz) for real-time venue updates.*
+**What time do clubs close in South Yarra?**
+Most bars close 1am. Chasers runs until 7am Friday-Saturday. LUX and Circus close around 3am.
 
-## Related Articles
+**Is there a cover charge for Chapel Street nightlife?**
+Pubs and bars are generally free. Clubs charge $15-30 depending on the night. Beverly and Two Wrongs are free with bookings.
 
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/nightlife/](/nightlife/)
+---
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**More South Yarra:** [Best Bars](/south-yarra/best-bars/) | [Best Pubs](/south-yarra/best-pubs/) | [Late Night Food](/south-yarra/late-night-food/)

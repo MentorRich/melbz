@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Sunshine West? Parks, schools, safety,
 date: 2026-03-21
 suburb: "sunshine-west"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Sunshine West good for families"
   - "Sunshine West family friendly"
   - "raising kids in Sunshine West"
+tags:
+  - "sunshine-west"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Sunshine West with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

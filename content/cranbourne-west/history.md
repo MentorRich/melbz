@@ -4,16 +4,22 @@ description: "The story of Cranbourne West: from its origins to today. How this 
 date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Cranbourne West Melbourne history"
   - "how has Cranbourne West changed"
   - "Cranbourne West gentrification"
   - "Cranbourne West then and now"
+tags:
+  - "cranbourne-west"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Cranbourne West's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Cranbourne West is rooted in immigration and community.
 
 See our full [Cranbourne West suburb guide](/cranbourne-west/) for the current picture.
 

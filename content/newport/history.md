@@ -4,16 +4,22 @@ description: "The story of Newport: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "newport"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Newport Melbourne history"
   - "how has Newport changed"
   - "Newport gentrification"
   - "Newport then and now"
+tags:
+  - "newport"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Newport's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Newport and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Newport suburb guide](/newport/) for the current picture.
 

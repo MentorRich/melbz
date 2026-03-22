@@ -4,13 +4,19 @@ description: "Your weekend in Malvern sorted — from morning coffee to Saturday
 date: 2026-03-21
 suburb: "malvern"
 article_type: "weekend"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "what to do Malvern this weekend"
   - "Malvern weekend"
   - "things to do Malvern Saturday"
   - "Malvern Sunday plans"
+tags:
+  - "malvern"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Malvern does weekends well. Whether you're the type who plans every hour or pref
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Malvern's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/malvern/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Malvern's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Malvern starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Malvern starts slower. The [cafes](/malvern/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Malvern and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Malvern does weekends well. Whether you're the type who plans every hour or pref
 ---
 
 **More on Malvern:** [Malvern Suburb Guide](/malvern/) · [Malvern Things to Do](/malvern/things-to-do/) · [Malvern Best Restaurants](/malvern/best-restaurants/)
+
+---
+
+## Explore More of Malvern
+
+- [Malvern History](/malvern/history/)
+- [Malvern Rent Guide](/malvern/rent-guide/)
+- [Malvern Things To Do](/malvern/things-to-do/)
+- [Malvern Cost of Living](/malvern/cost-of-living/)
+- [Malvern Young Professionals Guide](/malvern/young-professionals/)
+- [Malvern Transport Guide](/malvern/transport-guide/)
+- [Malvern Best Cafes](/malvern/best-cafes/)
+- [Malvern Best Restaurants](/malvern/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

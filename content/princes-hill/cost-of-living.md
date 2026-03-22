@@ -4,16 +4,22 @@ description: "How expensive is Princes Hill? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "princes-hill"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Princes Hill Melbourne"
   - "how expensive is Princes Hill"
   - "is Princes Hill expensive to live in"
   - "Princes Hill rent"
+tags:
+  - "princes-hill"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Princes Hill — no sugar-coating, no made-up figures.
+Let us talk money in Princes Hill. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Princes Hill suburb guide](/princes-hill/) for the bigger picture.
 

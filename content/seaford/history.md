@@ -4,16 +4,22 @@ description: "The story of Seaford: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "seaford"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Seaford Melbourne history"
   - "how has Seaford changed"
   - "Seaford gentrification"
   - "Seaford then and now"
+tags:
+  - "seaford"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Seaford's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+The history of Seaford shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Seaford suburb guide](/seaford/) for the current picture.
 

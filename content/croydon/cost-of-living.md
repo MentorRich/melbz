@@ -4,16 +4,22 @@ description: "How expensive is Croydon? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "croydon"
 article_type: "cost-of-living"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Croydon Melbourne"
   - "how expensive is Croydon"
   - "is Croydon expensive to live in"
   - "Croydon rent"
+tags:
+  - "croydon"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Croydon — no sugar-coating, no made-up figures.
+Croydon is not the cheapest option, but it might offer the best value - depending on what you prioritise.
 
 Read our full [Croydon suburb guide](/croydon/) for the bigger picture.
 

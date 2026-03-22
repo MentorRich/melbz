@@ -1,16 +1,16 @@
 ---
-title: "Lower Plenty Melbourne — Everything You Need to Know"
+title: "Lower Plenty Melbourne — what you need"
 description: "The complete guide to Lower Plenty. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Lower Plenty Melbourne"
   - "what is Lower Plenty like"
   - "lower-plenty suburb"
   - "living in Lower Plenty"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Riverside bushland, large blocks, and a truly semi-rural pocket within 20km of the city.

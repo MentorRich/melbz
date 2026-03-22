@@ -4,16 +4,22 @@ description: "The story of Hampton Park: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "hampton-park"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Hampton Park Melbourne history"
   - "how has Hampton Park changed"
   - "Hampton Park gentrification"
   - "Hampton Park then and now"
+tags:
+  - "hampton-park"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Hampton Park's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Hampton Park was not always the place you see today. Its story starts as farming land on Melbourne's fringe, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Hampton Park suburb guide](/hampton-park/) for the current picture.
 

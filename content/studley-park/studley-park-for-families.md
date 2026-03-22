@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Studley Park? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "studley-park"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Studley Park good for families"
   - "Studley Park family friendly"
   - "raising kids in Studley Park"
+tags:
+  - "studley-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Studley Park with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

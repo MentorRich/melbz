@@ -1,16 +1,16 @@
 ---
-title: "Carnegie Melbourne — Everything You Need to Know"
+title: "Carnegie Melbourne — what you need"
 description: "The complete guide to Carnegie. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "carnegie"
 article_type: "profile"
 author: "Sarah Chen"
-author_image: "/images/authors/sam.jpg"
 keywords:
   - "Carnegie Melbourne"
   - "what is Carnegie like"
   - "carnegie suburb"
   - "living in Carnegie"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Koornang Road food strip, level crossing removal, and one of south-east Melbourne's most improved suburbs.

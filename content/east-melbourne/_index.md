@@ -1,16 +1,16 @@
 ---
-title: "East Melbourne Melbourne — Everything You Need to Know"
+title: "East Melbourne Melbourne — what you need"
 description: "The complete guide to East Melbourne. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "East Melbourne Melbourne"
   - "what is East Melbourne like"
   - "east-melbourne suburb"
   - "living in East Melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Tree-lined streets, heritage terraces, and MCG on the doorstep. Old money Melbourne.

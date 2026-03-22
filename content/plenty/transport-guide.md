@@ -4,15 +4,22 @@ description: "Public transport in Plenty: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "plenty"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Plenty Melbourne"
   - "commute from Plenty to city"
   - "Plenty train station"
+tags:
+  - "plenty"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Plenty — what works, what's annoying, and how long things actually take.
+Plenty transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Plenty suburb guide](/plenty/) for the complete picture.
 

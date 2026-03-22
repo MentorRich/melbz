@@ -1,15 +1,15 @@
 ---
 title: "Richmond Cost of Living 2026: Real Prices, Real Talk"
-cover_image: "/images/richmond/cost-of-living.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["richmond", "cost-of-living", "property"]
-categories: ["property"]
-description: "Richmond Cost of Living 2026: Real Prices, Real Talk"
+description: "Richmond cost of living breakdown for 2026. Rent, groceries, transport, and weekly budgets with real numbers — not lifestyle-brochure fluff."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/shared/cafe-street.jpg"
+cover_image_alt: "Richmond Melbourne streetscape with shops and housing"
+suburb: "richmond"
+tags: ["melbourne", "richmond", "cost-of-living"]
 ---
 
-Richmond. The suburb where a $7 flat white sits three blocks from a $1.80 lamington at the Richmond Mil..."
 # Richmond Cost of Living 2026: Real Prices, Real Talk
 
 Richmond. The suburb where a $7 flat white sits three blocks from a $1.80 lamington at the Richmond Milk Bar. Where a $1.6 million terrace sits next to a housing commission tower. Where you can watch the footy for free from your balcony on game day — then cop a $45 Uber surge trying to leave.
@@ -53,7 +53,7 @@ Here's what you're actually looking at:
 | 2-bed house | $700–$900 | $3,035–$3,896 |
 | 3-bed house | $900–$1,200 | $3,896–$5,196 |
 
-The sweet spot for value? Units along the north side —靠近 Victoria Street and Burnley Street. You get access to the best cheap eats in Melbourne (Vietnamese, Chinese, Thai — the Victoria Street strip is genuinely world-class for food value), and you're a 10-minute walk to the 109 tram into the CBD.
+The sweet spot for value? Units along the north side —near Victoria Street and Burnley Street. You get access to the best cheap eats in Melbourne (Vietnamese, Chinese, Thai — the Victoria Street strip is genuinely outstanding for food value), and you're a 10-minute walk to the 109 tram into the CBD.
 
 ### Buying in Richmond
 
@@ -263,40 +263,21 @@ Richmond's cost of living in 2026 is the price you pay for being in the middle o
 
 *Know a cost we missed? Spotted a price change? Let us know.*
 
-*MELBZ — We Know Your Suburb Better Than You Do.*
+## FAQ
 
-### Featured Venues
+**How much does it cost to rent in Richmond?**
+A one-bed unit runs $480–$550/week. A two-bed unit is $600–$750/week. Three-bed houses start at $900/week and go up to $1,200 depending on condition and location.
 
-- **Minamishima** at 4 Lord St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Etta** at 60 Lygon St, Brunswick East (Richmond satellite location: 305 Lygon St, Richmond VIC 3121)
-- **Top Paddock** at 658 Church St, Richmond VIC 3121
-- **Feast of Merit** at 117 Swan St, Richmond VIC 3121
-- **Mountain View Hotel (Cafe Section)** at 70 Bridge Rd, Richmond VIC 3121
-- **I Love Pho 264** at 264 Victoria St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Feast of Merit** at 314 Swan St, Richmond VIC 3121
-- **Ichi Ni** at 12/131-133 The Esplanade, St Kilda (Richmond border/nearby hub), VIC 3182
+**Can you live in Richmond without a car?**
+Yes — Richmond is one of the best suburbs in Melbourne for car-free living. Richmond Station connects to five train lines, trams run along Bridge Road, Swan Street, and Victoria Street, and the Yarra River cycling trails reach the CBD in under 15 minutes. You'll save $8,000–$15,000/year compared to car-dependent suburbs.
 
-### Key Highlights
+**Is Richmond cheaper than South Yarra?**
+Yes. Rents are typically $50–$100/week less for comparable apartments. Groceries are significantly cheaper if you shop at Victoria Street's Asian grocers. The food scene offers better value at the same quality level.
 
-- Swan Street dining and live music
-- Bridge Road shopping precinct
-- Melbourne Cricket Ground (MCG)
+**More Richmond guides:** [Honest Guide](/richmond/honest-guide/) | [Family Guide](/richmond/family-guide/) | [Richmond Overview](/richmond/)
 
-### Suburb Vibe
+**Compare nearby:** [Collingwood Cost of Living](/collingwood/cost-of-living/) | [Cremorne Cost of Living](/cremorne/cost-of-living/) | [South Yarra Cost of Living](/south-yarra/cost-of-living/)
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
+---
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+*This guide was researched and written by the MELBZ team in March 2026. Prices verified from public sources and personal research. No sponsorship or compensation received.*

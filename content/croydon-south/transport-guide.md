@@ -4,15 +4,22 @@ description: "Public transport in Croydon South: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "croydon-south"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Croydon South Melbourne"
   - "commute from Croydon South to city"
   - "Croydon South train station"
+tags:
+  - "croydon-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Croydon South — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Croydon South. Let us cut through the fluff.
 
 Check out our full [Croydon South suburb guide](/croydon-south/) for the complete picture.
 

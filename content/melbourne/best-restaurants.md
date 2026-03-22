@@ -1,17 +1,16 @@
 ---
 title: "Best Restaurants in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-restaurants.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "jules"
-author_image: "/images/authors/jules.jpg"
+author: "Jules Marchetti"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best restaurants in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually eat dinner — from $20 plates to splurge-worthy degustations."
 tags: ["melbourne"]
 categories: ["best"]
+---
+
 # Best Restaurants in Melbourne — 2026 Guide
 
 Melbourne doesn't have a single food identity — it has about forty, all competing for your attention and your wallet. Italian on Lygon Street, Vietnamese in Richmond, Greek in Oakleigh, Ethiopian in Footscray, fine dining on Collins Street, and enough laneway restaurants to keep you eating out every night for a year without repeating a venue. That's not an exaggeration. Someone's done the maths and it checks out.
@@ -218,10 +217,9 @@ Melbourne dining in 2026 is not cheap. A couple eating at most of the restaurant
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/footscray/](/footscray/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Footscray](/footscray/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

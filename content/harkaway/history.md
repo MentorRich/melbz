@@ -4,16 +4,22 @@ description: "The story of Harkaway: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "harkaway"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Harkaway Melbourne history"
   - "how has Harkaway changed"
   - "Harkaway gentrification"
   - "Harkaway then and now"
+tags:
+  - "harkaway"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Harkaway's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Harkaway has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Harkaway suburb guide](/harkaway/) for the current picture.
 

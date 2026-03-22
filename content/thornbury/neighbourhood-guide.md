@@ -1,17 +1,14 @@
 ---
 title: "Neighbourhood Guide: Thornbury — Your 2026 Local's Handbook"
+description: "Your complete Thornbury neighbourhood guide for 2026. Streets to know, transport via Thornbury station and tram 86, parking, safety, and local living."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Lee"
 cover_image: "/images/thornbury/neighbourhood-guide.jpg"
----
-
+cover_image_alt: "Thornbury Melbourne neighbourhood guide streetscape"
 suburb: "thornbury"
-vertical: "lifestyle"
-author: "marcusl"
-author_image: "/images/authors/marcus.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Your complete Thornbury neighbourhood guide for 2026 — streets to know, transport, parking, safety, and how to live like a local. Not a tourist tack."
-tags: ["thornbury"]
-categories: ["neighbourhood"]
+tags: ["melbourne", "thornbury", "neighbourhood-guide", "living"]
+---
 # Neighbourhood Guide: Thornbury — Your 2026 Local's Handbook
 
 Let's get this out of the way immediately: Thornbury is not the "next" anything. It's not the next Fitzroy, not the next Brunswick, not the next Collingwood. Thornbury is Thornbury, and if you show up expecting somewhere else, you'll miss the point entirely. This is a suburb built by Greek and Italian immigrants after WWII, now home to a mix of established families, young professionals, and artists who've been here long enough to know better than to brag about it. Here's how to navigate it like you belong.
@@ -25,7 +22,7 @@ Thornbury sits in Melbourne's inner north, south of [Preston](/preston), north o
 
 - **North:** Bell St (border with Reservoir/Preston)
 - **East:** Plenty Rd (border with Preston)
-- **South:**阳关 St (border with Northcote)
+- **South:** Dundas St / Murray Rd (border with Northcote)
 - **West:** Merri Creek (border with Coburg)
 
 The action is concentrated along High Street between Darebin Road and Dundas Street — a 400-metre strip with more quality restaurants, bars, and cafes than most suburbs twice its size. Beyond that, Thornbury is residential: single-front weatherboards, modest brick units, and pockets of industrial backstreets where the breweries hide.
@@ -140,7 +137,7 @@ Thornbury's personality comes from its history: post-war Greek and Italian immig
 - "Thornbury Community Noticeboard" — hyperlocal events, lost cats, garage sales.
 - "Thornbury Food & Drink" — restaurant recommendations, new opening announcements.
 
-**Council:** City of Darebin — responsible for planning, permits,垃圾桶 collection. Website: darebin.vic.gov.au
+**Council:** City of Darebin — responsible for planning, permits, waste collection. Website: darebin.vic.gov.au
 
 **News:** Local news coverage is minimal — follow individual venues and community Facebook groups for what's happening.
 
@@ -184,38 +181,3 @@ Thornbury isn't trying to impress you. It's a suburb that knows itself — Greek
 
 **What We Skipped and Why:** We left out suburban infrastructure details like waste collection days and council permit processes — those belong on the Darebin Council website, not in a local's guide. We also didn't look into into individual street histories beyond the essentials — if you want that level of detail, check the Darebin historical society archives. This is a living guide, not a Wikipedia page.
 
-### Featured Venues
-
-- **Umbra** at 769 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
-- **Jerry Joy** at 847 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Umami** at 778 High St, Thornbury VIC 3071
-- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
-- **Umami** at 774 High St, Thornbury VIC 3071
-
-### Key Highlights
-
-- High Street's independent cafes and vintage stores
-- The iconic Thornbury Theatre
-- Penders Park and Merri Creek trail access
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/northcote/](/northcote/)
-- [/collingwood/](/collingwood/)
-- [/thornbury/](/thornbury/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

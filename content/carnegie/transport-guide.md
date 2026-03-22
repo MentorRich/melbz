@@ -3,14 +3,13 @@ title: "Transport in Carnegie 2026: Trains, Trams & the Commute Reality"
 slug: "transport-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 suburb: "carnegie"
 suburbs: ["carnegie"]
 vertical: lifestyle
 tags: ["carnegie", "transport", "commute", "trains", "trams"]
 description: "How to get around Carnegie in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/7948326/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Carnegie Melbourne transport"
 vibe_score: 72
 ---
@@ -51,4 +50,23 @@ For the full picture of living here, check our [Living in Carnegie guide](/carne
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Carnegie
+
+- [Carnegie History](/carnegie/history/)
+- [Carnegie Cost of Living](/carnegie/cost-of-living/)
+- [Carnegie Young Professionals Guide](/carnegie/young-professionals/)
+- [Carnegie Nightlife Guide](/carnegie/nightlife-guide/)
+- [Carnegie Family Guide](/carnegie/family-guide/)
+- [Carnegie Honest Guide](/carnegie/honest-guide/)
+- [Carnegie Carnegie For Retirees](/carnegie/carnegie-for-retirees/)
+
+### Nearby Suburbs Worth Checking
+
+- [Carlton Suburb Guide](/carlton/)
+- [Carlton North Suburb Guide](/carlton-north/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)
+- [Carrum Suburb Guide](/carrum/)

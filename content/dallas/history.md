@@ -4,16 +4,22 @@ description: "The story of Dallas: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "dallas"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Dallas Melbourne history"
   - "how has Dallas changed"
   - "Dallas gentrification"
   - "Dallas then and now"
+tags:
+  - "dallas"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Dallas's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Dallas is not just dates and facts - it is the DNA of the current personality of this suburb.
 
 See our full [Dallas suburb guide](/dallas/) for the current picture.
 

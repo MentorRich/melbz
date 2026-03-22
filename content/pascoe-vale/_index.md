@@ -1,16 +1,16 @@
 ---
-title: "Pascoe Vale Melbourne — Everything You Need to Know"
+title: "Pascoe Vale Melbourne — what you need"
 description: "The complete guide to Pascoe Vale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "pascoe-vale"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Pascoe Vale Melbourne"
   - "what is Pascoe Vale like"
   - "pascoe-vale suburb"
   - "living in Pascoe Vale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Growing cafe scene on Cumberland Road, family homes, and improving infrastructure.

@@ -4,16 +4,22 @@ description: "The story of Aspendale Gardens: from its origins to today. How thi
 date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Aspendale Gardens Melbourne history"
   - "how has Aspendale Gardens changed"
   - "Aspendale Gardens gentrification"
   - "Aspendale Gardens then and now"
+tags:
+  - "aspendale-gardens"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Aspendale Gardens's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Aspendale Gardens and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Aspendale Gardens suburb guide](/aspendale-gardens/) for the current picture.
 

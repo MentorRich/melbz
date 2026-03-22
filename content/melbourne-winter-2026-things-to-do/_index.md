@@ -3,13 +3,13 @@ title: "Melbourne Winter 2026 — Things to Do When It's Cold"
 description: "Winter in Melbourne doesn't mean staying home. The best indoor activities, warm bars, and winter events."
 date: 2026-03-21
 article_type: "trending"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "melbourne winter things to do"
   - "winter activities melbourne"
   - "indoor things melbourne"
   - "winter 2026 melbourne events"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Winter in Melbourne doesn't mean staying home. The best indoor activities, warm bars, and winter events.

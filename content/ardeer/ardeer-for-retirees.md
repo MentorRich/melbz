@@ -4,12 +4,16 @@ description: "Considering retirement in Ardeer? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "ardeer"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Ardeer retirees Melbourne"
   - "retiring in Ardeer"
   - "quiet suburbs Melbourne"
+tags:
+  - "ardeer"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Ardeer? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

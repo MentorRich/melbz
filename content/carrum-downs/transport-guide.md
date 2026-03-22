@@ -4,15 +4,22 @@ description: "Public transport in Carrum Downs: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "carrum-downs"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Carrum Downs Melbourne"
   - "commute from Carrum Downs to city"
   - "Carrum Downs train station"
+tags:
+  - "carrum-downs"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Carrum Downs — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Carrum Downs transport links. Here is the reality.
 
 Check out our full [Carrum Downs suburb guide](/carrum-downs/) for the complete picture.
 

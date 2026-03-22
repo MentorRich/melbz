@@ -4,15 +4,22 @@ description: "Public transport in Caulfield North: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "caulfield-north"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Caulfield North Melbourne"
   - "commute from Caulfield North to city"
   - "Caulfield North train station"
+tags:
+  - "caulfield-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Caulfield North — what works, what's annoying, and how long things actually take.
+Getting around Caulfield North comes down to bus routes and bike paths. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Caulfield North suburb guide](/caulfield-north/) for the complete picture.
 

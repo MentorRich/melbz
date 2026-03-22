@@ -1,16 +1,16 @@
 ---
-title: "Oakleigh South Melbourne — Everything You Need to Know"
+title: "Oakleigh South Melbourne — what you need"
 description: "The complete guide to Oakleigh South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Oakleigh South Melbourne"
   - "what is Oakleigh South like"
   - "oakleigh-south suburb"
   - "living in Oakleigh South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet residential streets south of Oakleigh with easy access to Moorabbin transport.

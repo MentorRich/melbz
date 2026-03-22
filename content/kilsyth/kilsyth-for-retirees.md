@@ -4,12 +4,16 @@ description: "Considering retirement in Kilsyth? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "kilsyth"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Kilsyth retirees Melbourne"
   - "retiring in Kilsyth"
   - "quiet suburbs Melbourne"
+tags:
+  - "kilsyth"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Kilsyth? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

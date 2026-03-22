@@ -3,14 +3,13 @@ title: "Ivanhoe for Families 2026: Schools, Parks & the Parent Verdict"
 slug: "family-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: kate
-author_image: "/images/authors/kate.jpg"
+author: "Kate Sullivan"
 suburb: "ivanhoe"
 suburbs: ["ivanhoe"]
 vertical: lifestyle
 tags: ["ivanhoe", "family-guide", "schools", "parks", "families"]
 description: "Is Ivanhoe good for families? Schools, parks, safety, activities and the honest parent review for 2026."
-cover_image: "https://images.pexels.com/photos/7755553/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/parks-gardens.jpg"
 cover_alt: "Ivanhoe family friendly parks Melbourne"
 vibe_score: 73
 ---
@@ -49,9 +48,9 @@ Most cafes in Ivanhoe are family-tolerant if not explicitly family-friendly. You
 
 Weekends in Ivanhoe have genuine options. Local markets, community events, library programs, sporting clubs, and enough parks to rotate for variety. The council runs seasonal programs worth checking.
 
-## The Commute Factor
+## The [Commute](/ivanhoe/transport-guide/) Factor
 
-The commute from Ivanhoe matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the transport schedule against your actual school and work locations.
+The commute from Ivanhoe matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the [transport](/ivanhoe/transport-guide/) schedule against your actual school and work locations.
 
 See our [Ivanhoe Transport Guide](/ivanhoe/transport-guide/) for the full breakdown.
 
@@ -67,4 +66,22 @@ Ivanhoe is a genuinely excellent family suburb. Strong schools, safe streets, an
 
 ---
 
-*Are you a Ivanhoe parent? Tell us what we missed — [hq@melbz101](mailto:hq@melbz101) or DM [@melbz101](https://instagram.com/melbz101).*
+*Are you a Ivanhoe parent? Tell us what we missed — [hq@melbz.com.au](mailto:hq@melbz.com.au) or DM [@melbz101](https://instagram.com/melbz101).*
+
+---
+
+## Explore More of Ivanhoe
+
+- [Ivanhoe History](/ivanhoe/history/)
+- [Ivanhoe Cost of Living](/ivanhoe/cost-of-living/)
+- [Ivanhoe Young Professionals Guide](/ivanhoe/young-professionals/)
+- [Ivanhoe Ivanhoe For Retirees](/ivanhoe/ivanhoe-for-retirees/)
+- [Ivanhoe Transport Guide](/ivanhoe/transport-guide/)
+- [Ivanhoe Honest Guide](/ivanhoe/honest-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Huntingdale Suburb Guide](/huntingdale/)
+- [Hurstbridge Suburb Guide](/hurstbridge/)
+- [Ivanhoe East Suburb Guide](/ivanhoe-east/)
+- [Jacana Suburb Guide](/jacana/)

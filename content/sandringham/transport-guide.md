@@ -4,15 +4,22 @@ description: "Public transport in Sandringham: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "sandringham"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Sandringham Melbourne"
   - "commute from Sandringham to city"
   - "Sandringham train station"
+tags:
+  - "sandringham"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Sandringham — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Sandringham, you need to know what the daily commute actually looks like.
 
 Check out our full [Sandringham suburb guide](/sandringham/) for the complete picture.
 

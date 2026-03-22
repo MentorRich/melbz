@@ -4,12 +4,16 @@ description: "Considering retirement in Briar Hill? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "briar-hill"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Briar Hill retirees Melbourne"
   - "retiring in Briar Hill"
   - "quiet suburbs Melbourne"
+tags:
+  - "briar-hill"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Briar Hill? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

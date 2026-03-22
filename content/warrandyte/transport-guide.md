@@ -4,15 +4,22 @@ description: "Public transport in Warrandyte: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "warrandyte"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Warrandyte Melbourne"
   - "commute from Warrandyte to city"
   - "Warrandyte train station"
+tags:
+  - "warrandyte"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Warrandyte — what works, what's annoying, and how long things actually take.
+Public transport in Warrandyte has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Warrandyte suburb guide](/warrandyte/) for the complete picture.
 

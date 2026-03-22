@@ -4,12 +4,19 @@ description: "Public transport in Williamstown: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "williamstown"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Williamstown Melbourne"
   - "commute from Williamstown to city"
   - "Williamstown train station"
+tags:
+  - "williamstown"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Transport can make or break a suburb. Here's the honest rundown on getting around Williamstown — what works, what's annoying, and how long things actually take.

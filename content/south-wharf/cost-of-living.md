@@ -4,16 +4,22 @@ description: "How expensive is South Wharf? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "south-wharf"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living South Wharf Melbourne"
   - "how expensive is South Wharf"
   - "is South Wharf expensive to live in"
   - "South Wharf rent"
+tags:
+  - "south-wharf"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in South Wharf — no sugar-coating, no made-up figures.
+The cost question in South Wharf is straightforward: it is creeping up year on year. Here is what your wallet actually needs to know.
 
 Read our full [South Wharf suburb guide](/south-wharf/) for the bigger picture.
 

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Maribyrnong? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "maribyrnong"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Maribyrnong good for families"
   - "Maribyrnong family friendly"
   - "raising kids in Maribyrnong"
+tags:
+  - "maribyrnong"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Maribyrnong with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

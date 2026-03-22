@@ -1,16 +1,16 @@
 ---
-title: "Travancore Melbourne — Everything You Need to Know"
+title: "Travancore Melbourne — what you need"
 description: "The complete guide to Travancore. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "travancore"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Travancore Melbourne"
   - "what is Travancore like"
   - "travancore suburb"
   - "living in Travancore"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 A tiny suburb wedged between Moonee Ponds and Flemington. Quiet, walkable, and often overlooked.

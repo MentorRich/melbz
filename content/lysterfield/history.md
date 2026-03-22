@@ -4,16 +4,22 @@ description: "The story of Lysterfield: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "lysterfield"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Lysterfield Melbourne history"
   - "how has Lysterfield changed"
   - "Lysterfield gentrification"
   - "Lysterfield then and now"
+tags:
+  - "lysterfield"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Lysterfield's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Lysterfield has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Lysterfield suburb guide](/lysterfield/) for the current picture.
 

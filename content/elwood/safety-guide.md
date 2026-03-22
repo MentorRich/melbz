@@ -4,13 +4,19 @@ description: "Is Elwood safe to live in? The honest breakdown of safety, what to
 date: 2026-03-21
 suburb: "elwood"
 article_type: "safety"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Elwood safe"
   - "Elwood safety"
   - "Elwood crime"
   - "is Elwood dangerous Melbourne"
+tags:
+  - "elwood"
+  - "safety"
+  - "crime"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -22,9 +28,9 @@ Read our full [Elwood suburb guide](/elwood/) for the complete picture.
 
 ## The Day-to-Day Experience
 
-Walking around Elwood during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around Elwood during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/elwood/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/elwood/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +54,7 @@ Crime statistics exist for every suburb, and Elwood's numbers are in line with c
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/elwood/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +74,23 @@ The lifestyle benefits of Elwood — community, walkability, access — outweigh
 ---
 
 **More on Elwood:** [Elwood Suburb Guide](/elwood/) · [Elwood Living Guide](/elwood/living-in-elwood/) · [Elwood for Families](/elwood/elwood-for-families/)
+
+---
+
+## Explore More of Elwood
+
+- [Elwood History](/elwood/history/)
+- [Elwood Rent Guide](/elwood/rent-guide/)
+- [Elwood Things To Do](/elwood/things-to-do/)
+- [Elwood Cost of Living](/elwood/cost-of-living/)
+- [Elwood Young Professionals Guide](/elwood/young-professionals/)
+- [Elwood Nightlife Guide](/elwood/nightlife-guide/)
+- [Elwood Transport Guide](/elwood/transport-guide/)
+- [Elwood Best Cafes](/elwood/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

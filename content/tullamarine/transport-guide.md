@@ -4,15 +4,22 @@ description: "Public transport in Tullamarine: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "tullamarine"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Tullamarine Melbourne"
   - "commute from Tullamarine to city"
   - "Tullamarine train station"
+tags:
+  - "tullamarine"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Tullamarine — what works, what's annoying, and how long things actually take.
+Real talk about getting around Tullamarine: what the timetable says vs what actually happens.
 
 Check out our full [Tullamarine suburb guide](/tullamarine/) for the complete picture.
 

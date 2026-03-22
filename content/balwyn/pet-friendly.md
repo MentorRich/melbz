@@ -4,13 +4,19 @@ description: "Raising a dog in Balwyn? Off-leash parks, pet-friendly cafes, vet 
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "lifestyle"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "dog friendly Balwyn"
   - "off leash park Balwyn"
   - "pet friendly cafes Balwyn"
   - "walking dog Balwyn"
+tags:
+  - "balwyn"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +34,7 @@ Balwyn has dedicated off-leash areas where your dog can actually run. The local 
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/balwyn/best-cafes/)
 
 Multiple cafes in Balwyn welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from Balwyn, including emergency after-hours o
 ---
 
 **More on Balwyn:** [Balwyn Suburb Guide](/balwyn/) · [Balwyn Things to Do](/balwyn/things-to-do/) · [Balwyn for Families](/balwyn/balwyn-for-families/)
+
+---
+
+## Explore More of Balwyn
+
+- [Balwyn History](/balwyn/history/)
+- [Balwyn Rent Guide](/balwyn/rent-guide/)
+- [Balwyn Balwyn For Retirees](/balwyn/balwyn-for-retirees/)
+- [Balwyn Balwyn For Young Professionals](/balwyn/balwyn-for-young-professionals/)
+- [Balwyn Things To Do](/balwyn/things-to-do/)
+- [Balwyn Cost of Living](/balwyn/cost-of-living/)
+- [Balwyn Neighbourhood Guide](/balwyn/neighbourhood-guide/)
+- [Balwyn Transport Guide](/balwyn/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

@@ -3,13 +3,13 @@ title: "Melbourne Property Market 2026 — What's Actually Happening"
 description: "Interest rates, auction results, suburbs to watch — the real state of Melbourne property right now."
 date: 2026-03-21
 article_type: "trending"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "melbourne property market 2026"
   - "melbourne house prices 2026"
   - "melbourne real estate market"
   - "buying melbourne 2026"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Interest rates, auction results, suburbs to watch — the real state of Melbourne property right now.

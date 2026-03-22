@@ -1,16 +1,16 @@
 ---
-title: "Skye Melbourne — Everything You Need to Know"
+title: "Skye Melbourne — what you need"
 description: "The complete guide to Skye. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "skye"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Skye Melbourne"
   - "what is Skye like"
   - "skye suburb"
   - "living in Skye"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small affordable pocket between Carrum Downs and Cranbourne with family homes.

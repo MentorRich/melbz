@@ -4,12 +4,18 @@ description: "Is Greensborough a good suburb for young professionals? Social sce
 date: 2026-03-21
 suburb: "greensborough"
 article_type: "young-professionals"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Greensborough young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Greensborough"
+tags:
+  - "greensborough"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Greensborough as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

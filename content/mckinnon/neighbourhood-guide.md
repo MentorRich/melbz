@@ -4,13 +4,18 @@ description: "The insider's guide to McKinnon's different pockets, streets, and 
 date: 2026-03-21
 suburb: "mckinnon"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "McKinnon neighbourhood guide"
   - "best streets in McKinnon"
   - "McKinnon areas"
   - "McKinnon pockets Melbourne"
+tags:
+  - "mckinnon"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 McKinnon isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

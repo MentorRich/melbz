@@ -4,16 +4,22 @@ description: "The story of St Kilda West: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "St Kilda West Melbourne history"
   - "how has St Kilda West changed"
   - "St Kilda West gentrification"
   - "St Kilda West then and now"
+tags:
+  - "st-kilda-west"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. St Kilda West's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for St Kilda West is more interesting than most.
 
 See our full [St Kilda West suburb guide](/st-kilda-west/) for the current picture.
 

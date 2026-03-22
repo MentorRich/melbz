@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Alphington? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "alphington"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Yemi Okafor"
 keywords:
   - "is Alphington good for families"
   - "Alphington family friendly"
   - "raising kids in Alphington"
+tags:
+  - "alphington"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Alphington with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

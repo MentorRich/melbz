@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Dandenong North? Parks, schools, safet
 date: 2026-03-21
 suburb: "dandenong-north"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Dandenong North good for families"
   - "Dandenong North family friendly"
   - "raising kids in Dandenong North"
+tags:
+  - "dandenong-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Dandenong North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

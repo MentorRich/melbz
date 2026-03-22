@@ -4,15 +4,22 @@ description: "Public transport in Tarneit: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "tarneit"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Tarneit Melbourne"
   - "commute from Tarneit to city"
   - "Tarneit train station"
+tags:
+  - "tarneit"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Tarneit — what works, what's annoying, and how long things actually take.
+The daily commute from Tarneit has a personality all its own. It is patchy but improving.
 
 Check out our full [Tarneit suburb guide](/tarneit/) for the complete picture.
 

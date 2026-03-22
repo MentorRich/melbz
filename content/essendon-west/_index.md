@@ -1,16 +1,16 @@
 ---
-title: "Essendon West Melbourne — Everything You Need to Know"
+title: "Essendon West Melbourne — what you need"
 description: "The complete guide to Essendon West. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "essendon-west"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Essendon West Melbourne"
   - "what is Essendon West like"
   - "essendon-west suburb"
   - "living in Essendon West"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small pocket near Maribyrnong River with quiet residential streets.

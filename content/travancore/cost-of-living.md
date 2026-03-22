@@ -4,16 +4,22 @@ description: "How expensive is Travancore? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "travancore"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Travancore Melbourne"
   - "how expensive is Travancore"
   - "is Travancore expensive to live in"
   - "Travancore rent"
+tags:
+  - "travancore"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Travancore — no sugar-coating, no made-up figures.
+If you are weighing up Travancore against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Travancore suburb guide](/travancore/) for the bigger picture.
 

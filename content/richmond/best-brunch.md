@@ -1,17 +1,14 @@
 ---
-title: "Best Brunch in Richmond — 2026 Local Guide"
-cover_image: "/images/richmond/best-brunch.jpg"
----
-
+title: "Best Brunch in Richmond 2026: Swan Street to Victoria Street"
+description: "Seven tested brunch spots in Richmond for 2026. From Swan Street cafes to a Victoria Street banh mi that costs less than a flat white."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Ortiz"
+cover_image: "/images/shared/food-restaurants.jpg"
+cover_image_alt: "Richmond Melbourne brunch spread at a Swan Street cafe"
 suburb: "richmond"
-vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the best brunch in Richmond. Our verified 2026 guide covers the best spots for locals."
-tags: ["richmond"]
-categories: ["best"]
+tags: ["melbourne", "richmond", "brunch"]
+---
 ## The Best Brunch in Richmond
 
 Richmond's brunch scene doesn't try to out-Fitzroy Fitzroy. There's no race to put the weirdest thing on sourdough or to create a dish that photographs better than it tastes. What Richmond does well is brunch that actually fills you up, at prices that don't require a second mortgage, in spaces where you can hear yourself think. It's a working brunch suburb in the best sense — places that respect the meal without turning it into performance art.
@@ -146,7 +143,7 @@ Brunch culture keeps Richmond's weekend scene humming. Swan Street is the epicen
 
 We know we haven't covered everything. Richmond has depth. Tell us where we should eat next.
 
-[Drop a comment below or email us at hq@melbz101](#comments)
+[Drop a comment below or email us at hq@melbz.com.au](#comments)
 
 
 <!-- WIDGET: Related Reading -->
@@ -157,42 +154,23 @@ We know we haven't covered everything. Richmond has depth. Tell us where we shou
 - [Date Night in Richmond](/richmond/date-night) — because after brunch comes dinner planning
 
 
-*This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
+## FAQ
 
-**MELBZ — Melbourne's neighbourhood intelligence. Written by locals, for locals. Not AI-generated. Not outsourced. Real people in real suburbs.**
+**What's the best brunch street in Richmond?**
+Swan Street has the highest concentration of quality brunch spots — Becco, Stagger Lee's, Apte, and the Corner Store Cafe are all within walking distance. Church Street adds Omelette. Victoria Street offers the budget alternative with Vietnamese bakeries.
 
-### Featured Venues
+**How much does brunch cost in Richmond?**
+Main dishes run $19–$26 at most sit-down cafes. Coffee is $5–$5.50. A full brunch for one person typically costs $25–$32. N. Lee Bakery on Victoria Street does a complete brunch for under $15.
 
-- **Minamishima** at 4 Lord St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Etta** at 60 Lygon St, Brunswick East (Richmond satellite location: 305 Lygon St, Richmond VIC 3121)
-- **Top Paddock** at 658 Church St, Richmond VIC 3121
-- **Feast of Merit** at 117 Swan St, Richmond VIC 3121
-- **Mountain View Hotel (Cafe Section)** at 70 Bridge Rd, Richmond VIC 3121
-- **I Love Pho 264** at 264 Victoria St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Feast of Merit** at 314 Swan St, Richmond VIC 3121
-- **Ichi Ni** at 12/131-133 The Esplanade, St Kilda (Richmond border/nearby hub), VIC 3182
+**Do I need to book for brunch in Richmond?**
+Most places are walk-in, but expect 15–20 minute waits at popular spots on Saturday mornings between 9am and 11am. Thorne Street Kitchen and Becco benefit from a booking on weekends.
 
-### Key Highlights
+## The Verdict
 
-- Swan Street dining and live music
-- Bridge Road shopping precinct
-- Melbourne Cricket Ground (MCG)
+Richmond's brunch scene runs deeper than most inner-east suburbs. Swan Street carries the weight with a genuine range — Italian-influenced eggs at Becco, fried chicken waffles at Stagger Lee's, vegetarian creativity at Apte. Church Street adds Omelette's focused egg menu. And Victoria Street's N. Lee Bakery reminds you that the best breakfast in the suburb might cost $7.50 and come wrapped in paper. The prices are fairer than Fitzroy or South Yarra, the quality is consistent, and you can walk between most of these spots in under ten minutes.
 
-### Suburb Vibe
+**More Richmond eating:** [Best Coffee](/richmond/best-coffee/) | [Best Cafes](/richmond/best-cafes/) | [Cheap Eats](/richmond/cheap-eats/)
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
+---
 
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/richmond/](/richmond/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+*This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business.*

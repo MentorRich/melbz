@@ -1,16 +1,16 @@
 ---
-title: "Mentone Melbourne — Everything You Need to Know"
+title: "Mentone Melbourne — what you need"
 description: "The complete guide to Mentone. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mentone"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Mentone Melbourne"
   - "what is Mentone like"
   - "mentone suburb"
   - "living in Mentone"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mentone Beach, the clock tower strip, and affordable bayside living compared to Brighton.

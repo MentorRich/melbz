@@ -4,15 +4,22 @@ description: "Public transport in Mill Park: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "mill-park"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Mill Park Melbourne"
   - "commute from Mill Park to city"
   - "Mill Park train station"
+tags:
+  - "mill-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Mill Park — what works, what's annoying, and how long things actually take.
+The daily commute from Mill Park has a personality all its own. It is reliable but boring.
 
 Check out our full [Mill Park suburb guide](/mill-park/) for the complete picture.
 

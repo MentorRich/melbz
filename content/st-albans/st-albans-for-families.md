@@ -4,12 +4,16 @@ description: "Thinking of raising kids in St Albans? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "st-albans"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is St Albans good for families"
   - "St Albans family friendly"
   - "raising kids in St Albans"
+tags:
+  - "st-albans"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to St Albans with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

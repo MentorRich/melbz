@@ -1,16 +1,16 @@
 ---
-title: "Craigieburn Melbourne — Everything You Need to Know"
+title: "Craigieburn Melbourne — what you need"
 description: "The complete guide to Craigieburn. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "craigieburn"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Craigieburn Melbourne"
   - "what is Craigieburn like"
   - "craigieburn suburb"
   - "living in Craigieburn"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Craigieburn Central, V/Line access, and one of Melbourne's fastest-growing northern suburbs.

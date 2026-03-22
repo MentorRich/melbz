@@ -1,16 +1,16 @@
 ---
-title: "Frankston South Melbourne — Everything You Need to Know"
+title: "Frankston South Melbourne — what you need"
 description: "The complete guide to Frankston South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "frankston-south"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Frankston South Melbourne"
   - "what is Frankston South like"
   - "frankston-south suburb"
   - "living in Frankston South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Sweetwater Creek, leafy hillside living, and the affluent side of Frankston.

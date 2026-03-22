@@ -4,12 +4,16 @@ description: "What's it really like living in Frankston South? Pros, cons, and t
 date: 2026-03-21
 suburb: "frankston-south"
 article_type: "living-in"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "living in Frankston South Melbourne"
   - "pros and cons of living in Frankston South"
   - "is Frankston South a good place to live"
+tags:
+  - "frankston-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Frankston South? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ Sweetwater Creek, leafy hillside living, and the affluent side of Frankston. Tha
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Frankston South delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** From morning coffee to Friday night dinner, Frankston South has you covered without needing to drive 20 minutes for a decent meal.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

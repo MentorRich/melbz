@@ -4,12 +4,16 @@ description: "What's it really like living in Sandringham? Pros, cons, and the s
 date: 2026-03-21
 suburb: "sandringham"
 article_type: "living-in"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "living in Sandringham Melbourne"
   - "pros and cons of living in Sandringham"
   - "is Sandringham a good place to live"
+tags:
+  - "sandringham"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Sandringham? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ End of the Sandringham line, beautiful beach, and a tight village community. Tha
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Sandringham delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** The dining options range from genuinely good to hidden gems that locals guard jealously. Sandringham eats well without the inner-city markup.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

@@ -1,22 +1,18 @@
 ---
 title: "Cheap Eats in Fitzroy North — 2026 Local Guide"
+description: "The best cheap eats in Fitzroy North for 2026. Greek bakeries, Turkish breakfasts, and Italian delis where you can eat well under twenty dollars on Brunswick Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Omar Hassan"
 cover_image: "/images/fitzroy-north/cheap-eats.jpg"
+cover_image_alt: "Affordable food on Brunswick Street Fitzroy North"
+suburb: "fitzroy-north"
+tags: ["fitzroy-north", "cheap-eats", "budget", "brunswick-street"]
 ---
 
-suburb: "fitzroy-north"
-vertical: "lifestyle"
-author: "omar"
-author_image: "/images/authors/omar.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the cheap eats in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
-tags: ["fitzroy-north"]
-categories: ["cheap"]
-## The Best Cheap Eats in Fitzroy North
+## The Best Cheap Eats in [Fitzroy](/fitzroy/) North
 
-This is your verified guide to the best cheap eats in Fitzroy North for 2026.
-
-Let's be honest: Fitzroy North can feel expensive. The $5.50 flat whites, the $28 brunch bowls, the $120,000 median house price — it's easy to get priced out of your own neighbourhood before you've even had lunch. But there's another side to this suburb, one that remembers that feeding people well shouldn't require a trust fund. It lives in the narrow coffee shops on Brunswick Street, the family-run delis, the Greek cafes that've been here since before gentrification was a word anyone used, and the places where the portions are generous and the prices remind you that Melbourne used to be affordable once.
+Let's be honest: Fitzroy North can feel expensive. The $5.50 flat whites, the $28 brunch bowls, the $120,000 median house price — it's easy to get priced out of your own neighbourhood before you've even had lunch. But there's another side to this suburb, one that remembers that feeding people well shouldn't require a trust fund. It lives in the narrow coffee shops on Brunswick Street, the family-run delis, the Greek [cafes](/fitzroy-north/best-cafes/) that've been here since before gentrification was a word anyone used, and the places where the portions are generous and the prices remind you that Melbourne used to be affordable once.
 
 This is a guide to eating well in Fitzroy North without needing to check your bank balance first. These are places where you can get a proper meal for under $20, a coffee and pastry for under $10, and still leave feeling like you've eaten something worth eating. Because good food shouldn't be a luxury — it should be a right.
 
@@ -188,43 +184,25 @@ Fitzroy North rewards:
 ## Cross-Links
 
 - Fitzroy's cheap eats scene: [Fitzroy's best cheap eats](/fitzroy/cheap-eats)
-- Carlton North's budget dining: [Carlton North's cheap eats](/carlton-north/cheap-eats)
+- [Carlton](/carlton/) North's budget dining: [Carlton North's cheap eats](/carlton-north/cheap-eats)
 - Brunswick East's value options: [Brunswick East's cheap eats](/brunswick-east/cheap-eats)
 
-Living in Fitzroy North? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=fitzroy-north)
+---
 
-### Featured Venues
+## Explore More of Fitzroy North
 
-- **Neighbourhood Wine** at 1 Reid St, Fitzroy North VIC 3068
-- **Piedimonte's (The Deli/Cafe)** at 123 Scotchmer St, Fitzroy North VIC 3068
-- **Just Italy** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Cavallero** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Morning Market** at 559 Barkly St, Fitzroy North VIC 3068
-- **Park Street** at 815 Nicholson St, Fitzroy North VIC 3068
-- **Piedimonte's Supermarket Deli** at 42-50 Wreckyn St, North Fitzroy VIC 3068
-- **North Fitzroy Arms Hotel** at 296 Rae St, North Fitzroy VIC 3068
-- **Pizza Meine Liebe** at 231 St Georges Rd, North Fitzroy VIC 3068
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+- [Fitzroy North Young Professionals Guide](/fitzroy-north/young-professionals/)
 
-### Key Highlights
+### Nearby Suburbs Worth Checking
 
-- Edinburgh Gardens
-- St Georges Road village shops
-- Capital City Trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
-- [/food/](/food/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

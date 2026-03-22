@@ -4,13 +4,19 @@ description: "Your weekend in Seddon sorted — from morning coffee to Saturday 
 date: 2026-03-21
 suburb: "seddon"
 article_type: "weekend"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "what to do Seddon this weekend"
   - "Seddon weekend"
   - "things to do Seddon Saturday"
   - "Seddon Sunday plans"
+tags:
+  - "seddon"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Seddon does weekends well. Whether you're the type who plans every hour or prefe
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Seddon's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/seddon/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Seddon's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Seddon starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Seddon starts slower. The [cafes](/seddon/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Seddon and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Seddon does weekends well. Whether you're the type who plans every hour or prefe
 ---
 
 **More on Seddon:** [Seddon Suburb Guide](/seddon/) · [Seddon Things to Do](/seddon/things-to-do/) · [Seddon Best Restaurants](/seddon/best-restaurants/)
+
+---
+
+## Explore More of Seddon
+
+- [Seddon History](/seddon/history/)
+- [Seddon Rent Guide](/seddon/rent-guide/)
+- [Seddon Things To Do](/seddon/things-to-do/)
+- [Seddon Cost of Living](/seddon/cost-of-living/)
+- [Seddon Young Professionals Guide](/seddon/young-professionals/)
+- [Seddon Transport Guide](/seddon/transport-guide/)
+- [Seddon Best Cafes](/seddon/best-cafes/)
+- [Seddon Best Restaurants](/seddon/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Footscray Suburb Guide](/footscray/)
+- [Yarraville Suburb Guide](/yarraville/)
+- [Williamstown Suburb Guide](/williamstown/)
+- [Newport Suburb Guide](/newport/)

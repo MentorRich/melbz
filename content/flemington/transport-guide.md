@@ -3,14 +3,13 @@ title: "Transport in Flemington 2026: Trains, Trams & the Commute Reality"
 slug: "transport-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 suburb: "flemington"
 suburbs: ["flemington"]
 vertical: lifestyle
 tags: ["flemington", "transport", "commute", "trains", "trams"]
 description: "How to get around Flemington in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/4770428/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Flemington Melbourne transport"
 vibe_score: 67
 ---
@@ -51,4 +50,24 @@ For the full picture of living here, check our [Living in Flemington guide](/fle
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Flemington
+
+- [Flemington History](/flemington/history/)
+- [Flemington Rent Guide](/flemington/rent-guide/)
+- [Flemington Things To Do](/flemington/things-to-do/)
+- [Flemington Cost of Living](/flemington/cost-of-living/)
+- [Flemington Young Professionals Guide](/flemington/young-professionals/)
+- [Flemington Nightlife Guide](/flemington/nightlife-guide/)
+- [Flemington Best Cafes](/flemington/best-cafes/)
+- [Flemington Best Restaurants](/flemington/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Fitzroy North Suburb Guide](/fitzroy-north/)
+- [Footscray Suburb Guide](/footscray/)
+- [Forest Hill Suburb Guide](/forest-hill/)

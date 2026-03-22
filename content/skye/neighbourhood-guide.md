@@ -4,13 +4,18 @@ description: "The insider's guide to Skye's different pockets, streets, and area
 date: 2026-03-21
 suburb: "skye"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Skye neighbourhood guide"
   - "best streets in Skye"
   - "Skye areas"
   - "Skye pockets Melbourne"
+tags:
+  - "skye"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Skye isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

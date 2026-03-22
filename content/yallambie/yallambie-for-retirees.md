@@ -4,12 +4,16 @@ description: "Considering retirement in Yallambie? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "yallambie"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Yallambie retirees Melbourne"
   - "retiring in Yallambie"
   - "quiet suburbs Melbourne"
+tags:
+  - "yallambie"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Yallambie? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,15 +4,22 @@ description: "Public transport in Malvern East: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "malvern-east"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Malvern East Melbourne"
   - "commute from Malvern East to city"
   - "Malvern East train station"
+tags:
+  - "malvern-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Malvern East — what works, what's annoying, and how long things actually take.
+Malvern East transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Malvern East suburb guide](/malvern-east/) for the complete picture.
 

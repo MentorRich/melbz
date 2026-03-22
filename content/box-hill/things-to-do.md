@@ -3,14 +3,14 @@ title: "Things to Do in Box Hill Melbourne"
 description: "What to do in Box Hill this weekend and beyond. Activities, events, and the stuff locals actually enjoy."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "activities"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
-  - "things to do Box Hill"
-  - "Box Hill activities"
-  - "what to do in Box Hill"
-  - "Box Hill weekend plans"
+author: "Grace Chen"
+tags:
+  - "box-hill"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -53,7 +53,7 @@ More than you think. Melbourne's second CBD — Asian food courts, apartment tow
 
 Melbourne weather means you need indoor plans. Box Hill has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/box-hill/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +69,23 @@ Melbourne weather means you need indoor plans. Box Hill has:
 ---
 
 **More on Box Hill:** [Box Hill Suburb Guide](/box-hill/) · [Box Hill Best Cafes](/box-hill/best-cafes/) · [Box Hill Neighbourhood Guide](/box-hill/neighbourhood-guide/)
+
+---
+
+## Explore More of Box Hill
+
+- [Box Hill History](/box-hill/history/)
+- [Box Hill Rent Guide](/box-hill/rent-guide/)
+- [Box Hill Box Hill For Families](/box-hill/box-hill-for-families/)
+- [Box Hill Box Hill For Retirees](/box-hill/box-hill-for-retirees/)
+- [Box Hill Cost of Living](/box-hill/cost-of-living/)
+- [Box Hill Neighbourhood Guide](/box-hill/neighbourhood-guide/)
+- [Box Hill Transport Guide](/box-hill/transport-guide/)
+- [Box Hill Best Cafes](/box-hill/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

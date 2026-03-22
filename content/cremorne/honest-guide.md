@@ -1,17 +1,16 @@
 ---
-title: "Cremorne Honest Guide 2026: Church Street Corporate Cool"
+title: "Cremorne Honest Guide 2026: Church Street and Corporate Cool"
+description: "The unfiltered guide to Cremorne in 2026. Melbourne's tech hub suburb with warehouse conversions, Church Street cafes, and a rapidly evolving identity worth watching."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jack Morrison"
 cover_image: "/images/cremorne/honest-guide.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+cover_image_alt: "Cremorne warehouse conversions and Church Street streetscape"
+suburb: "cremorne"
 tags: ["cremorne", "honest-guide", "lifestyle"]
-categories: ["lifestyle"]
-description: "Cremorne Honest Guide 2026: Church Street & Corporate Cool"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -108,39 +107,3 @@ Some things never change. And some things change so fast you'll wish they'd slow
 
 
 *Have a hot take about Cremorne we missed? Drop it in the comments. We read everything.*
-
-### Featured Venues
-
-- **Kong BBQ** at 599 Church St, Cremorne VIC 3121
-- **Noir** at 175 Swan St, Richmond/Cremorne VIC 3121
-- **Baby Pizza** at 631-633 Church St, Cremorne VIC 3121
-- **Top Paddock** at 658 Church St, Cremorne VIC 3121
-- **Feast of Merit** at 117 Swan St, Cremorne VIC 3121
-- **Denis the Menace** at 1/200 Punt Rd, Cremorne VIC 3121
-- **Kong BBQ** at 599 Church St, Cremorne VIC 3121
-- **Feast of Merit** at 117 Swan St, Cremorne VIC 3121
-- **Pizza Pizza Pizza** at 468 Swan St, Cremorne VIC 3121
-- **Kong BBQ** at 599 Church St, Cremorne VIC 3121
-
-### Key Highlights
-
-- Innovative tech and creative agency scene
-- Proximity to the Melbourne Cricket Ground (MCG)
-- Trendy warehouse-style cafes and hidden bars
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

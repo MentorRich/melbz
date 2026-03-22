@@ -4,16 +4,22 @@ description: "The story of Werribee: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "werribee"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Werribee Melbourne history"
   - "how has Werribee changed"
   - "Werribee gentrification"
   - "Werribee then and now"
+tags:
+  - "werribee"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Werribee's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Werribee is a classic Melbourne transformation story.
 
 See our full [Werribee suburb guide](/werribee/) for the current picture.
 

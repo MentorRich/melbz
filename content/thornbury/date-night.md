@@ -1,17 +1,15 @@
 ---
 title: "9 Best Date Night Spots in Thornbury for 2026"
+description: "Thornbury's best date night spots in 2026 from rooftop Negronis to woodfired pizza and bocce. Real romance without the city price tag or the queue."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Park"
 cover_image: "/images/thornbury/date-night.jpg"
+cover_image_alt: "Thornbury Melbourne date night dining scene"
+suburb: "thornbury"
+tags: ["melbourne", "thornbury", "date-night", "restaurants"]
 ---
 
-suburb: "thornbury"
-vertical: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Thornbury's best date night spots in 2026 — from rooftop Negronis to pizza and cocktails. Real romance without the city price tag."
-tags: ["thornbury"]
-categories: ["date"]
 # 9 Best Date Night Spots in Thornbury for 2026
 
 Thornbury's date night scene doesn't need to try too hard, which is exactly why it works. While [Northcote](/northcote) has the flash and [Brunswick](/brunswick) has the buzz, Thornbury offers something better: genuine romance without the price tag, the queue, or the pretence. Here's where to take your person for an evening that feels special without requiring a second mortgage.
@@ -146,37 +144,3 @@ Thornbury's date night scene doesn't need to try too hard — and that's exactly
 
 **What We Skipped and Why:** We left off a few places that are technically date-worthy but function more as casual eateries — if the vibe is more "quick dinner" than "romantic evening," it didn't make the cut. We also excluded venues that are primarily lunch-focused, because date night is about dinner and drinks, not midday meals. If you want a lunch date, check our [best restaurants guide](/thornbury/best-restaurants).
 
-### Featured Venues
-
-- **Umbra** at 769 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
-- **Jerry Joy** at 847 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Umami** at 778 High St, Thornbury VIC 3071
-- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
-- **Umami** at 774 High St, Thornbury VIC 3071
-
-### Key Highlights
-
-- High Street's independent cafes and vintage stores
-- The iconic Thornbury Theatre
-- Penders Park and Merri Creek trail access
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/northcote/](/northcote/)
-- [/thornbury/](/thornbury/)
-- [/thornbury/hub](/thornbury/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*

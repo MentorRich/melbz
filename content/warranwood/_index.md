@@ -1,16 +1,16 @@
 ---
-title: "Warranwood Melbourne — Everything You Need to Know"
+title: "Warranwood Melbourne — what you need"
 description: "The complete guide to Warranwood. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "warranwood"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Warranwood Melbourne"
   - "what is Warranwood like"
   - "warranwood suburb"
   - "living in Warranwood"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Leafy pocket near Croydon North with bush blocks and family streets.

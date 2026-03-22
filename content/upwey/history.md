@@ -4,16 +4,22 @@ description: "The story of Upwey: from its origins to today. How this Melbourne 
 date: 2026-03-21
 suburb: "upwey"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Upwey Melbourne history"
   - "how has Upwey changed"
   - "Upwey gentrification"
   - "Upwey then and now"
+tags:
+  - "upwey"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Upwey's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Upwey has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Upwey suburb guide](/upwey/) for the current picture.
 

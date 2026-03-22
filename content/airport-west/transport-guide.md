@@ -4,15 +4,22 @@ description: "Public transport in Airport West: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "airport-west"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Airport West Melbourne"
   - "commute from Airport West to city"
   - "Airport West train station"
+tags:
+  - "airport-west"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Airport West — what works, what's annoying, and how long things actually take.
+Airport West transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Airport West suburb guide](/airport-west/) for the complete picture.
 

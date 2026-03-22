@@ -4,16 +4,22 @@ description: "How expensive is Bayswater North? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "bayswater-north"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Bayswater North Melbourne"
   - "how expensive is Bayswater North"
   - "is Bayswater North expensive to live in"
   - "Bayswater North rent"
+tags:
+  - "bayswater-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Bayswater North — no sugar-coating, no made-up figures.
+Bayswater North is not the cheapest option, but it might offer the best value - depending on what you prioritise.
 
 Read our full [Bayswater North suburb guide](/bayswater-north/) for the bigger picture.
 

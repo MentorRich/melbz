@@ -1,16 +1,16 @@
 ---
-title: "Eaglemont Melbourne — Everything You Need to Know"
+title: "Eaglemont Melbourne — what you need"
 description: "The complete guide to Eaglemont. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "eaglemont"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Eaglemont Melbourne"
   - "what is Eaglemont like"
   - "eaglemont suburb"
   - "living in Eaglemont"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Historic Boyd home, architect-designed houses on hillsides, and a tiny community with big heritage.

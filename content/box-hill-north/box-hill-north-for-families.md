@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Box Hill North? Parks, schools, safety
 date: 2026-03-21
 suburb: "box-hill-north"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Box Hill North good for families"
   - "Box Hill North family friendly"
   - "raising kids in Box Hill North"
+tags:
+  - "box-hill-north"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Box Hill North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

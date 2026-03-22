@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Dandenong South? Parks, schools, safet
 date: 2026-03-21
 suburb: "dandenong-south"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Dandenong South good for families"
   - "Dandenong South family friendly"
   - "raising kids in Dandenong South"
+tags:
+  - "dandenong-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Dandenong South with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

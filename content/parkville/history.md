@@ -4,16 +4,22 @@ description: "The story of Parkville: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "parkville"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Parkville Melbourne history"
   - "how has Parkville changed"
   - "Parkville gentrification"
   - "Parkville then and now"
+tags:
+  - "parkville"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Parkville's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Parkville involve community battles over development.
 
 See our full [Parkville suburb guide](/parkville/) for the current picture.
 

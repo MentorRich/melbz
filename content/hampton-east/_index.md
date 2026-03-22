@@ -1,16 +1,16 @@
 ---
-title: "Hampton East Melbourne — Everything You Need to Know"
+title: "Hampton East Melbourne — what you need"
 description: "The complete guide to Hampton East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "hampton-east"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Hampton East Melbourne"
   - "what is Hampton East like"
   - "hampton-east suburb"
   - "living in Hampton East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet and purely residential — tucked behind Hampton with park access.

@@ -1,16 +1,16 @@
 ---
-title: "Kings Park Melbourne — Everything You Need to Know"
+title: "Kings Park Melbourne — what you need"
 description: "The complete guide to Kings Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "kings-park"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Kings Park Melbourne"
   - "what is Kings Park like"
   - "kings-park suburb"
   - "living in Kings Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Affordable western suburb with community centre and basic amenities.

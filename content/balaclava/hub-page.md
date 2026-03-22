@@ -1,12 +1,13 @@
 ---
 title: "Balaclava Melbourne Suburb Guide 2026: The Complete Picture"
 cover_image: "/images/balaclava/hub-page.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
 tags: ["balaclava", "suburb-guide"]
-categories: ["lifestyle"]
-description: "Balaclava Melbourne Suburb Guide 2026: The Complete Picture"
+description: "what you need about Balaclava in 2026. Carlisle Street strip, Sandringham line access, rent, dining, The Astor, and the local verdict."
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
+suburb: "balaclava"
 ---
 
 Seven kilometres south-east of the CBD, wedged between Caulfield and St Kilda East, Balaclava punches well above its weight for a suburb most Melburnians drive through without stopping. Carlisle Street — its commercial spine — is one of the most underrated food strips in the city, and the train ride to Flinders Street takes under 20 minutes. This is the full picture of Balaclava in 2026, warts and all.
@@ -276,38 +277,3 @@ Drop your take in the comments. We read every single one.
 
 *MELBZ.com.au — Melbourne's hyperlocal intelligence platform*
 
-### Featured Venues
-
-- **Ilona Staller** at 281 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Bibi** at 257 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Batch Espresso** at 333 Carlisle St, Balaclava VIC 3183
-- **Monarch Cakes** at 103 Acland St, St Kilda VIC 3182
-- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
-- **Bagelicious** at 174 Balaclava Rd, Caulfield North, VIC 3161
-- **Wallis & Social** at 285 Carlisle St, Balaclava, VIC 3183
-- **Ichi Ni Izakaya** at 12/100 The Esplanade, St Kilda, VIC 3182
-
-### Key Highlights
-
-- Carlisle Street cafe and dining scene
-- Proximity to St Kilda and the beach
-- Historic architecture and local markets
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/northcote/](/northcote/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/balaclava/](/balaclava/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

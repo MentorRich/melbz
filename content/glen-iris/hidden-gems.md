@@ -4,19 +4,24 @@ description: "The spots in Glen Iris that don't make the top 10 lists but locals
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "local-guide"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "hidden gems Glen Iris"
   - "secret spots Glen Iris"
   - "local tips Glen Iris"
   - "off beaten path Glen Iris Melbourne"
+tags:
+  - "glen-iris"
+  - "hidden-gems"
+  - "local-tips"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Why Glen Iris's Best Bits Are Hidden
 
-Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But Glen Iris's real character lives in the places most visitors never find.
+Every Melbourne suburb has a public face — the main strip, the popular [cafes](/glen-iris/best-cafes/), the spots Google tells you about. But Glen Iris's real character lives in the places most visitors never find.
 
 These aren't "hidden" because someone's keeping secrets. They're hidden because they don't advertise, they don't have social media strategies, and they rely entirely on word of mouth and repeat customers.
 
@@ -62,4 +67,24 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris History](/glen-iris/history/) · [Glen Iris Living Guide](/glen-iris/living-in-glen-iris/)
+**More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris History](/glen-iris/[history](/glen-iris/history/)/) · [Glen Iris Living Guide](/glen-iris/living-in-glen-iris/)
+
+---
+
+## Explore More of Glen Iris
+
+- [Glen Iris History](/glen-iris/history/)
+- [Glen Iris Rent Guide](/glen-iris/rent-guide/)
+- [Glen Iris Glen Iris For Retirees](/glen-iris/glen-iris-for-retirees/)
+- [Glen Iris Things To Do](/glen-iris/things-to-do/)
+- [Glen Iris Cost of Living](/glen-iris/cost-of-living/)
+- [Glen Iris Young Professionals Guide](/glen-iris/young-professionals/)
+- [Glen Iris Transport Guide](/glen-iris/transport-guide/)
+- [Glen Iris Best Cafes](/glen-iris/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

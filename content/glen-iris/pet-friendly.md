@@ -4,13 +4,19 @@ description: "Raising a dog in Glen Iris? Off-leash parks, pet-friendly cafes, v
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "lifestyle"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "dog friendly Glen Iris"
   - "off leash park Glen Iris"
   - "pet friendly cafes Glen Iris"
   - "walking dog Glen Iris"
+tags:
+  - "glen-iris"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +34,7 @@ Glen Iris has dedicated off-leash areas where your dog can actually run. The loc
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/glen-iris/best-cafes/)
 
 Multiple cafes in Glen Iris welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from Glen Iris, including emergency after-hour
 ---
 
 **More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris Things to Do](/glen-iris/things-to-do/) · [Glen Iris for Families](/glen-iris/glen-iris-for-families/)
+
+---
+
+## Explore More of Glen Iris
+
+- [Glen Iris History](/glen-iris/history/)
+- [Glen Iris Rent Guide](/glen-iris/rent-guide/)
+- [Glen Iris Glen Iris For Retirees](/glen-iris/glen-iris-for-retirees/)
+- [Glen Iris Things To Do](/glen-iris/things-to-do/)
+- [Glen Iris Cost of Living](/glen-iris/cost-of-living/)
+- [Glen Iris Young Professionals Guide](/glen-iris/young-professionals/)
+- [Glen Iris Transport Guide](/glen-iris/transport-guide/)
+- [Glen Iris Best Cafes](/glen-iris/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

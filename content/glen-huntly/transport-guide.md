@@ -4,15 +4,22 @@ description: "Public transport in Glen Huntly: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "glen-huntly"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Glen Huntly Melbourne"
   - "commute from Glen Huntly to city"
   - "Glen Huntly train station"
+tags:
+  - "glen-huntly"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Glen Huntly — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Glen Huntly. Let us cut through the fluff.
 
 Check out our full [Glen Huntly suburb guide](/glen-huntly/) for the complete picture.
 

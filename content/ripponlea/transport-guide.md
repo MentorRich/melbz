@@ -4,15 +4,22 @@ description: "Public transport in Ripponlea: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "ripponlea"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Ripponlea Melbourne"
   - "commute from Ripponlea to city"
   - "Ripponlea train station"
+tags:
+  - "ripponlea"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Ripponlea — what works, what's annoying, and how long things actually take.
+Getting around Ripponlea comes down to a mix of trains and buses. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Ripponlea suburb guide](/ripponlea/) for the complete picture.
 

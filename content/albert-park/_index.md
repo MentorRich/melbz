@@ -1,16 +1,16 @@
 ---
-title: "Albert Park Melbourne — Everything You Need to Know"
+title: "Albert Park Melbourne — what you need"
 description: "The complete guide to Albert Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "albert-park"
 article_type: "profile"
 author: "Lisa Nguyen"
-author_image: "/images/authors/charlie.jpg"
 keywords:
   - "Albert Park Melbourne"
   - "what is Albert Park like"
   - "albert-park suburb"
   - "living in Albert Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Albert Park Lake, F1 Grand Prix circuit, and village shops. Melbourne's most balanced suburb.

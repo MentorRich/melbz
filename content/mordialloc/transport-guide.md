@@ -4,15 +4,22 @@ description: "Public transport in Mordialloc: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "mordialloc"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Mordialloc Melbourne"
   - "commute from Mordialloc to city"
   - "Mordialloc train station"
+tags:
+  - "mordialloc"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Mordialloc — what works, what's annoying, and how long things actually take.
+Mordialloc transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Mordialloc suburb guide](/mordialloc/) for the complete picture.
 

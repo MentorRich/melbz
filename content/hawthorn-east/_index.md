@@ -1,16 +1,16 @@
 ---
-title: "Hawthorn East Melbourne — Everything You Need to Know"
+title: "Hawthorn East Melbourne — what you need"
 description: "The complete guide to Hawthorn East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "hawthorn-east"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Hawthorn East Melbourne"
   - "what is Hawthorn East like"
   - "hawthorn-east suburb"
   - "living in Hawthorn East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quieter extension of Hawthorn with Auburn Village shops and easy access to Camberwell Junction.

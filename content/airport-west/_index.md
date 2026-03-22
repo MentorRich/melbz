@@ -1,16 +1,16 @@
 ---
-title: "Airport West Melbourne — Everything You Need to Know"
+title: "Airport West Melbourne — what you need"
 description: "The complete guide to Airport West. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "airport-west"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Airport West Melbourne"
   - "what is Airport West like"
   - "airport-west suburb"
   - "living in Airport West"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Airport-adjacent with Westfield shops and affordable family homes.

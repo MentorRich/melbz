@@ -1,17 +1,16 @@
 ---
 title: "Best Cafes in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-cafes.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best cafes in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually eat — from breakfast institutions to neighbourhood gems."
 tags: ["melbourne"]
 categories: ["best"]
+---
+
 # Best Cafes in Melbourne — 2026 Guide
 
 Melbourne's cafe culture isn't a scene — it's an identity. This city doesn't just have good cafes; it has cafes that define neighbourhoods, create communities, and serve as the living rooms of their postcodes. In 2026, the standard is still absurdly high. You can walk into almost any cafe in the inner suburbs and get a better breakfast than most cities serve at their best restaurants. That's not hyperbole — it's the baseline.
@@ -226,10 +225,9 @@ Most CBD cafes are walkable from Flinders Street Station. For South Melbourne, t
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

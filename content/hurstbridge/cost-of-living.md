@@ -4,16 +4,22 @@ description: "How expensive is Hurstbridge? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "hurstbridge"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Hurstbridge Melbourne"
   - "how expensive is Hurstbridge"
   - "is Hurstbridge expensive to live in"
   - "Hurstbridge rent"
+tags:
+  - "hurstbridge"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Hurstbridge — no sugar-coating, no made-up figures.
+Let us talk money in Hurstbridge. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Hurstbridge suburb guide](/hurstbridge/) for the bigger picture.
 

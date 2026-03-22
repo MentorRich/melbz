@@ -4,15 +4,22 @@ description: "Public transport in Hawthorn East: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "hawthorn-east"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Hawthorn East Melbourne"
   - "commute from Hawthorn East to city"
   - "Hawthorn East train station"
+tags:
+  - "hawthorn-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Hawthorn East — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Hawthorn East. Let us cut through the fluff.
 
 Check out our full [Hawthorn East suburb guide](/hawthorn-east/) for the complete picture.
 

@@ -4,16 +4,22 @@ description: "The story of Keilor Downs: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Keilor Downs Melbourne history"
   - "how has Keilor Downs changed"
   - "Keilor Downs gentrification"
   - "Keilor Downs then and now"
+tags:
+  - "keilor-downs"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Keilor Downs's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Keilor Downs has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Keilor Downs suburb guide](/keilor-downs/) for the current picture.
 

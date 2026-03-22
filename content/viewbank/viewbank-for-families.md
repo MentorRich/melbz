@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Viewbank? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "viewbank"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Viewbank good for families"
   - "Viewbank family friendly"
   - "raising kids in Viewbank"
+tags:
+  - "viewbank"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Viewbank with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

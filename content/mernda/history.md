@@ -4,16 +4,22 @@ description: "The story of Mernda: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "mernda"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Mernda Melbourne history"
   - "how has Mernda changed"
   - "Mernda gentrification"
   - "Mernda then and now"
+tags:
+  - "mernda"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Mernda's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Mernda and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Mernda suburb guide](/mernda/) for the current picture.
 

@@ -4,15 +4,22 @@ description: "Public transport in Chelsea Heights: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Chelsea Heights Melbourne"
   - "commute from Chelsea Heights to city"
   - "Chelsea Heights train station"
+tags:
+  - "chelsea-heights"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Chelsea Heights — what works, what's annoying, and how long things actually take.
+The daily commute from Chelsea Heights has a personality all its own. It is better than its reputation.
 
 Check out our full [Chelsea Heights suburb guide](/chelsea-heights/) for the complete picture.
 

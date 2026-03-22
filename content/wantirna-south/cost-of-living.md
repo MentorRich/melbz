@@ -4,16 +4,22 @@ description: "How expensive is Wantirna South? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Wantirna South Melbourne"
   - "how expensive is Wantirna South"
   - "is Wantirna South expensive to live in"
   - "Wantirna South rent"
+tags:
+  - "wantirna-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Wantirna South — no sugar-coating, no made-up figures.
+The cost of living in Wantirna South surprises some people. Whether that is a good or bad surprise depends on your budget.
 
 Read our full [Wantirna South suburb guide](/wantirna-south/) for the bigger picture.
 

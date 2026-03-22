@@ -4,15 +4,22 @@ description: "Public transport in Spotswood: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "spotswood"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Spotswood Melbourne"
   - "commute from Spotswood to city"
   - "Spotswood train station"
+tags:
+  - "spotswood"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Spotswood — what works, what's annoying, and how long things actually take.
+The transport story in Spotswood is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Spotswood suburb guide](/spotswood/) for the complete picture.
 

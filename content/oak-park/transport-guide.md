@@ -4,15 +4,22 @@ description: "Public transport in Oak Park: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "oak-park"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Oak Park Melbourne"
   - "commute from Oak Park to city"
   - "Oak Park train station"
+tags:
+  - "oak-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Oak Park — what works, what's annoying, and how long things actually take.
+If you are car-dependent, Oak Park might surprise you. If you rely on PT, read this first.
 
 Check out our full [Oak Park suburb guide](/oak-park/) for the complete picture.
 

@@ -2,8 +2,7 @@
 title: "Melbourne This Weekend March 21-22 2026: Everything Happening"
 cover_image: "/images/melbourne/weekend-march-21-22.jpg"
 date: 2026-03-16
-author: isabella
-author_image: "/images/authors/isabella.jpg"
+author: "Isabella Greco"
 tags: ["melbourne", "weekend", "events"]
 categories: ["events"]
 description: "Melbourne This Weekend March 21-22 2026: Everything Happening"
@@ -215,10 +214,9 @@ Whatever you choose, Melbourne's got you covered this weekend. As it always does
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

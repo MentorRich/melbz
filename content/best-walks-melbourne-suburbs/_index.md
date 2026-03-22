@@ -3,13 +3,13 @@ title: "Best Walking Trails in Melbourne — Suburb by Suburb"
 description: "From creek trails to coastal paths to urban walks — the best walking options in Melbourne broken down by suburb."
 date: 2026-03-21
 article_type: "trending"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "best walks melbourne"
   - "walking trails melbourne suburbs"
   - "hiking melbourne suburbs"
   - "walking paths melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 From creek trails to coastal paths to urban walks — the best walking options in Melbourne broken down by suburb.

@@ -1,20 +1,16 @@
 ---
 title: "Date Night in Fitzroy North — 2026 Local Guide"
+description: "The best date night spots in Fitzroy North for 2026. From Neighbourhood Wine on Reid Street to Long Play cocktails, the inner north does romance without pretension."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Lin"
 cover_image: "/images/fitzroy-north/date-night.jpg"
+cover_image_alt: "Intimate restaurant dining in Fitzroy North"
+suburb: "fitzroy-north"
+tags: ["fitzroy-north", "date-night", "restaurants", "bars"]
 ---
 
-suburb: "fitzroy-north"
-vertical: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the date night in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
-tags: ["fitzroy-north"]
-categories: ["date"]
-## The Best Date Night in Fitzroy North
-
-This is your verified guide to the best date night spots in Fitzroy North for 2026.
+## The Best Date Night in [Fitzroy](/fitzroy/) North
 
 Let's address the elephant in the room: date night in Fitzroy North can be… challenging. The pressure to impress. The budget panic. The awkwardness of wondering whether your date actually likes you or is just being polite. The realisation midway through dinner that you've been talking about your Spotify Wrapped for 45 minutes and they haven't once checked their phone, which could mean either they're captivated or they're mentally drafting their exit strategy.
 
@@ -173,43 +169,25 @@ An exit strategy:
 ## Cross-Links
 
 - Fitzroy's date night scene: [Fitzroy's best date night](/fitzroy/date-night)
-- Carlton North's romantic spots: [Carlton North's date night](/carlton-north/date-night)
+- [Carlton](/carlton/) North's romantic spots: [Carlton North's date night](/carlton-north/date-night)
 - Brunswick East alternatives: [Brunswick East's date night](/brunswick-east/date-night)
 
-Living in Fitzroy North? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=fitzroy-north)
+---
 
-### Featured Venues
+## Explore More of Fitzroy North
 
-- **Neighbourhood Wine** at 1 Reid St, Fitzroy North VIC 3068
-- **Piedimonte's (The Deli/Cafe)** at 123 Scotchmer St, Fitzroy North VIC 3068
-- **Just Italy** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Cavallero** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Morning Market** at 559 Barkly St, Fitzroy North VIC 3068
-- **Park Street** at 815 Nicholson St, Fitzroy North VIC 3068
-- **Piedimonte's Supermarket Deli** at 42-50 Wreckyn St, North Fitzroy VIC 3068
-- **North Fitzroy Arms Hotel** at 296 Rae St, North Fitzroy VIC 3068
-- **Pizza Meine Liebe** at 231 St Georges Rd, North Fitzroy VIC 3068
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+- [Fitzroy North Young Professionals Guide](/fitzroy-north/young-professionals/)
 
-### Key Highlights
+### Nearby Suburbs Worth Checking
 
-- Edinburgh Gardens
-- St Georges Road village shops
-- Capital City Trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy-north/](/fitzroy-north/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

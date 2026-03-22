@@ -4,16 +4,22 @@ description: "How expensive is Kew East? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "kew-east"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Kew East Melbourne"
   - "how expensive is Kew East"
   - "is Kew East expensive to live in"
   - "Kew East rent"
+tags:
+  - "kew-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Kew East — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Kew East actually cost? No vague estimates - real numbers.
 
 Read our full [Kew East suburb guide](/kew-east/) for the bigger picture.
 

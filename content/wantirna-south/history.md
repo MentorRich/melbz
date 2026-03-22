@@ -4,16 +4,22 @@ description: "The story of Wantirna South: from its origins to today. How this M
 date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Wantirna South Melbourne history"
   - "how has Wantirna South changed"
   - "Wantirna South gentrification"
   - "Wantirna South then and now"
+tags:
+  - "wantirna-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Wantirna South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Wantirna South means understanding where it came from. The history explains the character.
 
 See our full [Wantirna South suburb guide](/wantirna-south/) for the current picture.
 

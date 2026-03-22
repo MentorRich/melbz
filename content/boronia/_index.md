@@ -1,16 +1,16 @@
 ---
-title: "Boronia Melbourne — Everything You Need to Know"
+title: "Boronia Melbourne — what you need"
 description: "The complete guide to Boronia. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "boronia"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Boronia Melbourne"
   - "what is Boronia like"
   - "boronia suburb"
   - "living in Boronia"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Boronia Mall, Dandenong Ranges access, and a practical outer-east suburb with train access.

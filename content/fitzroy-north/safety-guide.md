@@ -1,20 +1,16 @@
 ---
-title: "How Safe Is Fitzroy North Melbourne?"
-description: "Is Fitzroy North safe to live in? The honest breakdown of safety, what to be aware of, and how locals experience the suburb day-to-day."
-date: 2026-03-21
+title: "How Safe Is Fitzroy North Melbourne? — 2026 Safety Guide"
+description: "Is Fitzroy North safe to live in? Edinburgh Gardens after dark, Brunswick Street late nights, and what locals actually experience day-to-day in this inner suburb."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sharma"
+cover_image: "/images/fitzroy-north/safety-guide.jpg"
+cover_image_alt: "Well-lit Brunswick Street Fitzroy North in the evening"
 suburb: "fitzroy-north"
-article_type: "safety"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
-keywords:
-  - "is Fitzroy North safe"
-  - "Fitzroy North safety"
-  - "Fitzroy North crime"
-  - "is Fitzroy North dangerous Melbourne"
+tags: ["fitzroy-north", "safety", "living"]
 ---
 
-
-## Safety in Fitzroy North — The Honest Answer
+## Safety in [Fitzroy](/fitzroy/) North — The Honest Answer
 
 "Is Fitzroy North safe?" is probably in the top five questions people ask before moving here. The honest answer: generally yes, with the same caveats that apply to any Melbourne suburb.
 
@@ -22,9 +18,9 @@ Read our full [Fitzroy North suburb guide](/fitzroy-north/) for the complete pic
 
 ## The Day-to-Day Experience
 
-Walking around Fitzroy North during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around Fitzroy North during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/fitzroy-north/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/fitzroy-north/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +44,7 @@ Crime statistics exist for every suburb, and Fitzroy North's numbers are in line
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/fitzroy-north/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +64,23 @@ The lifestyle benefits of Fitzroy North — community, walkability, access — o
 ---
 
 **More on Fitzroy North:** [Fitzroy North Suburb Guide](/fitzroy-north/) · [Fitzroy North Living Guide](/fitzroy-north/living-in-fitzroy-north/) · [Fitzroy North for Families](/fitzroy-north/fitzroy-north-for-families/)
+
+---
+
+## Explore More of Fitzroy North
+
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

@@ -1,16 +1,16 @@
 ---
-title: "Sydenham Melbourne — Everything You Need to Know"
+title: "Sydenham Melbourne — what you need"
 description: "The complete guide to Sydenham. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "sydenham"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Sydenham Melbourne"
   - "what is Sydenham like"
   - "sydenham suburb"
   - "living in Sydenham"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Watergardens station, newer estates, and affordable family living in the north-west.

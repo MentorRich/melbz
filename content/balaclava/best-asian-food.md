@@ -1,16 +1,16 @@
 ---
 title: "Best Asian Food in Balaclava 2026: Japanese, Thai & More"
 cover_image: "/images/balaclava/best-asian-food.jpg"
-date: 2026-03-16
-author: yuki
-author_image: "/images/authors/yuki.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Yuki Tanaka"
 tags: ["balaclava", "asian", "food"]
-categories: ["food"]
-description: "Best Asian Food in Balaclava 2026: Japanese, Thai & More"
+description: "From a former Red Rooster turned modern Chinese bistro to Japanese izakayas on Carlisle Street, the best Asian food spots in Balaclava tested 2026."
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
+suburb: "balaclava"
 ---
 
 *Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
-
 
 
 Carlisle Street doesn't shout about its Asian food scene. It doesn't need to. Between the fish and chip shops and the sourdough bakeries, you'll find a quiet stretch of Japanese izakayas, Vietnamese pho canteens, a Korean-Japanese hybrid that shouldn't work but absolutely does, and a modern Chinese bistro housed in what used to be a Red Rooster. That's not a joke — the building was literally a Red Rooster before Moonhouse moved in.
@@ -136,7 +136,6 @@ This is the grab-and-go option on the list. Don't expect table service or cockta
 **The order:** BBQ pork roll with extra chilli, plus a lamb roll for the road.
 
 
-
 ## Venue Addresses & Details
 
 - **Ichi Ni Izakaya** — 12/100 The Esplanade, St Kilda, VIC 3182 ($$-$$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Request a table on the balcony for sunset views over the bay.*
@@ -150,7 +149,6 @@ These didn't quite make the main list but deserve a shout-out:
 
 - **Charlong** (2/124 Carlisle St, St Kilda) — Just across the Balaclava border but worth the walk. Former Rice Paper Scissors and Longsong head chef Alex Kaew does contemporary Thai rooted in four regional styles. Casual fine dining without the price tag.
 - **Nogga Cafe** — A Balaclava café that does Japanese-influenced brunch dishes worth trying if you're in the area for a weekend morning.
-
 
 
 ## Venue Addresses & Details
@@ -169,7 +167,6 @@ These didn't quite make the main list but deserve a shout-out:
 **Quan 88** — A Barkly Street Vietnamese spot with strong pho credentials, but Saigon Street Eats and Mopho Canteen already cover the pho category at a higher standard with more consistent execution.
 
 
-
 ## Venue Addresses & Details
 
 - **Ichi Ni Izakaya** — 12/100 The Esplanade, St Kilda, VIC 3182 ($$-$$$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Request a table on the balcony for sunset views over the bay.*
@@ -182,7 +179,6 @@ These didn't quite make the main list but deserve a shout-out:
 Balaclava's Asian food scene benefits from its location. [St Kilda](/st-kilda/) is walkable to the west, [Windsor](/windsor/) and its Chapel Street dining strip are a short tram ride north, and [Caulfield](/caulfield/) sits to the east with its own food pockets. Carlisle Street itself has become one of Melbourne's most interesting food corridors — the Asian restaurants sit comfortably alongside Spanish tapas bars, Turkish grills, and the best fish and chips shop in the inner south.
 
 The strip also hosts the Carlisle Street Market on select Saturdays, which draws local producers and adds a weekend buzz that spills into the surrounding restaurants. If you're planning a food-focused visit, a Saturday afternoon-to-evening crawl — market browsing followed by dinner at Park Bar or Moonhouse — is the way to do it.
-
 
 
 ## Venue Addresses & Details
@@ -201,7 +197,6 @@ The strip also hosts the Carlisle Street Market on select Saturdays, which draws
 | Mopho Canteen | Vietnamese | 197 Carlisle St | $20–40pp |
 | Saigon Street Eats | Vietnamese | 249 Carlisle St | $15–30pp |
 | Top Taste on Carlisle | Vietnamese Bakery | 109 Carlisle St | $1–15pp |
-
 
 
 ## Venue Addresses & Details
@@ -237,10 +232,9 @@ Save this article and send it to the friend who always says "you choose the rest
 - **Hinoki Japanese Pantry** — 277 Smith St, Fitzroy (Balaclava satellite reach) ($$). Open: Mon-Sun 10:00 AM - 7:00 PM. *Tip: Pick up their high-quality sashimi grade fish for an at-home dinner.*
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/balaclava/](/balaclava/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Balaclava](/balaclava/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

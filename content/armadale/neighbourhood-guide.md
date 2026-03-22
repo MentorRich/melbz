@@ -4,13 +4,18 @@ description: "The insider's guide to Armadale's different pockets, streets, and 
 date: 2026-03-21
 suburb: "armadale"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Armadale neighbourhood guide"
   - "best streets in Armadale"
   - "Armadale areas"
   - "Armadale pockets Melbourne"
+tags:
+  - "armadale"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Armadale isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

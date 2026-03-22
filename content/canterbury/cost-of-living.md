@@ -3,14 +3,13 @@ title: "Cost of Living in Canterbury 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "canterbury"
 suburbs: ["canterbury"]
 vertical: property
 tags: ["canterbury", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Canterbury in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/7119513/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Canterbury Melbourne cost of living"
 vibe_score: 75
 ---
@@ -36,7 +35,7 @@ This is where most of your money goes. Canterbury's rental market in 2026 looks 
 |---------|-------------|-------|
 | Rent (1-bed) | $2000 | Biggest line item by far |
 | Groceries | $320-$420 | Depends on Coles vs local market habits |
-| Transport (Myki) | $160-$200 | Zone 1-2 monthly cap |
+| [Transport](/canterbury/transport-guide/) (Myki) | $160-$200 | Zone 1-2 monthly cap |
 | Utilities (1-bed) | $180-$240 | Gas + electricity + water |
 | Internet | $70-$90 | NBN, decent speed |
 | Coffee habit | $80-$120 | 1-2 per day at local prices |
@@ -50,7 +49,7 @@ This is where most of your money goes. Canterbury's rental market in 2026 looks 
 
 **Eating out:** The average meal out in Canterbury runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/canterbury/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Canterbury, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Canterbury, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you [commute](/canterbury/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,23 @@ For more context on how this compares, check our [Living in Canterbury guide](/c
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Canterbury
+
+- [Canterbury History](/canterbury/history/)
+- [Canterbury Canterbury For Retirees](/canterbury/canterbury-for-retirees/)
+- [Canterbury Young Professionals Guide](/canterbury/young-professionals/)
+- [Canterbury Nightlife Guide](/canterbury/nightlife-guide/)
+- [Canterbury Transport Guide](/canterbury/transport-guide/)
+- [Canterbury Family Guide](/canterbury/family-guide/)
+- [Canterbury Honest Guide](/canterbury/honest-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

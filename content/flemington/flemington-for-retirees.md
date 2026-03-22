@@ -4,12 +4,16 @@ description: "Considering retirement in Flemington? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "flemington"
 article_type: "retirees"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Flemington retirees Melbourne"
   - "retiring in Flemington"
   - "quiet suburbs Melbourne"
+tags:
+  - "flemington"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Flemington? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,16 +4,22 @@ description: "The story of Albion: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "albion"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Albion Melbourne history"
   - "how has Albion changed"
   - "Albion gentrification"
   - "Albion then and now"
+tags:
+  - "albion"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Albion's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Albion was a quiet rural settlement. The transformation tells a quintessentially Melbourne story.
 
 See our full [Albion suburb guide](/albion/) for the current picture.
 

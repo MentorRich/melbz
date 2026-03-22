@@ -4,15 +4,22 @@ description: "Public transport in Taylors Lakes: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "taylors-lakes"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Taylors Lakes Melbourne"
   - "commute from Taylors Lakes to city"
   - "Taylors Lakes train station"
+tags:
+  - "taylors-lakes"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Taylors Lakes — what works, what's annoying, and how long things actually take.
+Public transport in Taylors Lakes has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Taylors Lakes suburb guide](/taylors-lakes/) for the complete picture.
 

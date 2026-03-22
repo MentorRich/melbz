@@ -4,16 +4,22 @@ description: "The story of Pakenham: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "pakenham"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Pakenham Melbourne history"
   - "how has Pakenham changed"
   - "Pakenham gentrification"
   - "Pakenham then and now"
+tags:
+  - "pakenham"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Pakenham's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Pakenham and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Pakenham suburb guide](/pakenham/) for the current picture.
 

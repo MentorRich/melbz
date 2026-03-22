@@ -4,15 +4,22 @@ description: "Public transport in Bundoora: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "bundoora"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Raj Patel"
 keywords:
   - "public transport Bundoora Melbourne"
   - "commute from Bundoora to city"
   - "Bundoora train station"
+tags:
+  - "bundoora"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Bundoora — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Bundoora. Let us cut through the fluff.
 
 Check out our full [Bundoora suburb guide](/bundoora/) for the complete picture.
 

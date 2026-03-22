@@ -4,15 +4,22 @@ description: "Public transport in Glenroy: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "glenroy"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Glenroy Melbourne"
   - "commute from Glenroy to city"
   - "Glenroy train station"
+tags:
+  - "glenroy"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Glenroy — what works, what's annoying, and how long things actually take.
+Your morning commute from Glenroy depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Glenroy suburb guide](/glenroy/) for the complete picture.
 

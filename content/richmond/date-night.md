@@ -1,20 +1,17 @@
 ---
-title: "Date Night in Richmond — 2026 Local Guide"
-cover_image: "/images/richmond/date-night.jpg"
----
-
+title: "Date Night in Richmond 2026: Six Spots From Cheap to Fancy"
+description: "Six tested date night spots in Richmond for 2026. Italian on Swan Street, Japanese on Bridge Road, banh mi walks on Victoria Street, and MCG evenings."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Liu"
+cover_image: "/images/shared/nightlife.jpg"
+cover_image_alt: "Richmond Melbourne evening dining scene on Swan Street"
 suburb: "richmond"
-vertical: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the best date night options in Richmond. Our verified 2026 guide covers the best spots for locals."
-tags: ["richmond"]
-categories: ["date"]
+tags: ["melbourne", "richmond", "date-night"]
+---
 ## The Best Date Night in Richmond
 
-Richmond is a surprisingly strong date night suburb. It's got the variety — you can go cheap and cheerful or full fine dining without leaving the postcode. It's got the atmosphere — Swan Street buzzes, Bridge Road has romance tucked between the shops, and the quieter side streets offer intimacy if you know where to look. And crucially, it's got escape routes. If the date's going badly, you're one train stop from the CBD and plausible deniability.
+Richmond is a surprisingly strong date night suburb. It's got the variety — you can go cheap and cheerful or full fine dining without leaving the postcode. It's got the atmosphere — Swan Street hums with energy, Bridge Road has romance tucked between the shops, and the quieter side streets offer intimacy if you know where to look. And crucially, it's got escape routes. If the date's going badly, you're one train stop from the CBD and plausible deniability.
 
 Here's where to take someone you actually like in 2026.
 
@@ -88,7 +85,7 @@ Sapore is a smaller, more intimate Italian spot that flies under the radar compa
 
 ## 6. Evening Itinerary — MCG or AAMI Park
 
-Not all date nights need to centre around food. Richmond is home to the MCG and AAMI Park, and catching a game or concert together is underrated as a date. The footy season runs March through September, cricket through summer, and there are concerts throughout the year.
+Not all date nights need to centre around food. The MCG and AAMI Park sit at Richmond's edge, and catching a game or concert together is underrated as a date. The footy season runs March through September, cricket through summer, and there are concerts throughout the year.
 
 **The move:** Grab tickets to whatever's on (AFL from $30, concerts from $80), grab a beer at The Precinct before, walk to the ground together, and debrief over food on Swan Street after.
 
@@ -138,7 +135,7 @@ Evening energy is up this week as the footy season warms up and Swan Street come
 
 Richmond locals always have a secret spot. Tell us where we should go next.
 
-[Drop a comment below or email us at hq@melbz101](#comments)
+[Drop a comment below or email us at hq@melbz.com.au](#comments)
 
 
 <!-- WIDGET: Related Reading -->
@@ -149,42 +146,23 @@ Richmond locals always have a secret spot. Tell us where we should go next.
 - [Neighbourhood Guide to Richmond](/richmond/neighbourhood-guide) — the full suburb picture
 
 
-*This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
+## FAQ
 
-**MELBZ — Melbourne's neighbourhood intelligence. Written by locals, for locals. Not AI-generated. Not outsourced. Real people in real suburbs.**
+**What's the best date night street in Richmond?**
+Swan Street has the most options — Becco and the Precinct Hotel are both there, and you can walk between bars and restaurants easily. Church Street is quieter and better for intimate dinners at Sapore.
 
-### Featured Venues
+**How much should I budget for a date night in Richmond?**
+It depends on the vibe. Victoria Street banh mi and a walk: $20–$40 for two. Mid-range dinner at the Precinct or Sapore: $80–$160 for two. Full Becco or Lantern by Wagaya experience: $120–$200 for two. MCG event plus dinner: $150–$300.
 
-- **Minamishima** at 4 Lord St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Etta** at 60 Lygon St, Brunswick East (Richmond satellite location: 305 Lygon St, Richmond VIC 3121)
-- **Top Paddock** at 658 Church St, Richmond VIC 3121
-- **Feast of Merit** at 117 Swan St, Richmond VIC 3121
-- **Mountain View Hotel (Cafe Section)** at 70 Bridge Rd, Richmond VIC 3121
-- **I Love Pho 264** at 264 Victoria St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Feast of Merit** at 314 Swan St, Richmond VIC 3121
-- **Ichi Ni** at 12/131-133 The Esplanade, St Kilda (Richmond border/nearby hub), VIC 3182
+**Is Richmond safe for walking at night?**
+Yes. Stick to the main streets — Swan, Bridge, Church, Victoria — and you'll be fine. The railway underpasses near Hoddle Street are best avoided after dark.
 
-### Key Highlights
+## The Verdict
 
-- Swan Street dining and live music
-- Bridge Road shopping precinct
-- Melbourne Cricket Ground (MCG)
+Richmond works for date nights across every budget and every stage. The $20 banh mi walk on Victoria Street is a genuine first-date option that shows personality. Becco and Lantern by Wagaya handle the "we're trying to impress each other" stage. Sapore on Church Street is where you go when you've been together long enough to want good food without the performance. And the MCG option adds something most suburbs can't offer — a shared experience that isn't just sitting across a table. The range is the strength.
 
-### Suburb Vibe
+**More Richmond guides:** [Best Restaurants](/richmond/best-restaurants/) | [Best Bars](/richmond/best-bars/) | [Honest Guide](/richmond/honest-guide/)
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
+---
 
-- [/collingwood/](/collingwood/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/richmond/](/richmond/)
-- [/richmond/](/richmond/)
-- [/richmond/hub](/richmond/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+*This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business.*

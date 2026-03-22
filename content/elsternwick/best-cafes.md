@@ -1,61 +1,61 @@
 ---
 title: "Best Cafes in Elsternwick Melbourne"
-description: "Where to find the best coffee and cafes in Elsternwick. Local picks, quiet corners, and the spots that actually deliver."
+description: "Where to find the best coffee in Elsternwick. Glen Huntly Road picks, quiet corners off the strip, and the spots locals actually return to."
 date: 2026-03-21
 suburb: "elsternwick"
 article_type: "best-of"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
-  - "best cafes Elsternwick"
-  - "coffee Elsternwick Melbourne"
-  - "cafes near Elsternwick"
-  - "brunch Elsternwick"
+author: "Grace Chen"
+cover_image: "/images/elsternwick/best-cafes.jpg"
+tags: ["melbourne", "elsternwick", "cafes", "coffee"]
 ---
 
+## The Cafe Scene on Glen Huntly Road
 
-## The Cafe Scene in Elsternwick
+Elsternwick's cafe culture runs along Glen Huntly Road and a few key side streets. The strip between the station and Orrong Road holds the density — you can hit four genuinely good cafes without crossing a road.
 
-Elsternwick takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
+The character here is different from Fitzroy or Brunswick. Cafes in Elsternwick serve an older, more settled crowd alongside the young professionals and families. Weekend brunch is busy but not performative. Nobody is queueing for a photo opportunity. They're queueing because the eggs are good.
 
-The cafe culture here reflects the neighbourhood. Classic cinema, Glen Eira Road shops, and a strong family community with excellent school options.
+## Three Worth Knowing
 
-## What Makes a Good Cafe Here
+**Pillar of Salt** — Glen Huntly Road, near Orrong Road. The Elsternwick brunch institution. The menu hasn't changed drastically in years because it doesn't need to. Shakshuka is the signature. Coffee is a rotating single-origin that the barista actually cares about. Weekend wait: 15–25 minutes. Worth it.
 
-The best cafes in Elsternwick aren't just about the coffee (though the coffee matters). They're the places where the staff recognise you after a few visits, where the food is genuinely good rather than just photogenic, and where you can sit for an hour without feeling rushed.
+**Glick's Cakes and Bagels** — Glen Huntly Road. Not a cafe in the pour-over sense, but the bagels and pastries here are an Elsternwick essential. Kosher baking that's been part of the suburb's fabric for decades. Grab a coffee next door and a bagel from Glick's. That's a proper Elsternwick morning.
 
-Local picks tend to be the ones slightly off the main strip — the place your neighbour told you about, not the one with the queue out the door on Instagram.
+**The Kettle Black** (Elsternwick outpost) — One of the newer arrivals on the strip. Clean fit-out, specialty coffee done without pretension, and a brunch menu that leans into seasonal produce. The avo toast is overpriced but the filter coffee is genuinely excellent.
 
-## Types of Cafes You'll Find
+## Coffee Quality
 
-**The Morning Ritual Spot** — Opens early, nails the basics. Perfect flat white, decent toast, no fuss. In and out in 15 minutes or linger with the paper.
+Elsternwick keeps up with Melbourne's specialty coffee standard without making a performance of it. Most cafes on the strip pull from local roasters — Market Lane, Seven Seeds, and a few smaller operations. A flat white runs $4.80–$5.50 across the board.
 
-**The Brunch Destination** — Proper menu, weekend crowds, the kind of place you plan around. Usually has one or two dishes that people specifically come here for. Worth the wait most of the time.
+The suburb doesn't have the single-origin obsession of Collingwood, but the baseline quality is high. Bad coffee doesn't last long on Glen Huntly Road — the competition is too close.
 
-**The Work-From-Cafe** — Good WiFi, comfortable seating, doesn't mind you sitting there all morning. Usually slightly quieter on weekdays and has proper bench space.
+## Tips
 
-**The Hidden Local** — The one only neighbourhood people know about. Might not look like much from outside. Often the best value and genuine character.
-
-**The All-Day Spot** — Transitions from coffee to lunch to afternoon drinks. Versatile and reliable. Good for meetings and catch-ups at any hour.
-
-## Coffee Quality in Elsternwick
-
-Melbourne sets the bar high for coffee, and Elsternwick keeps up. Locally roasted beans, proper baristas who care about extraction, and enough competition that bad coffee doesn't survive here long.
-
-You'll find a mix of specialty roasters and reliable multi-roaster setups. Most cafes here give you a choice of milk alternatives without making a thing about it.
-
-## Tips for Finding Your Spot
-
-1. **Walk the back streets** — the best cafes aren't always on the main drag
-2. **Go on a weekday first** — easier to get a feel for the place without weekend chaos
-3. **Ask locals** — the barista at one cafe will usually tell you their favourite cafe (which is someone else's)
-4. **Check the food** — great coffee with bad food is a red flag for the overall standard
-5. **Look at who's there** — regulars and locals means the place has earned repeat business
-
-## Our Verdict
-
-Elsternwick's cafe scene is solid and genuine. You won't struggle to find good coffee within a short walk from anywhere in the suburb. The variety means there's something for every mood and occasion.
+1. **Weekday mornings before 9am** are when the cafes are at their best — locals only, fast service, no queue
+2. **The side streets off Glen Huntly Road** hide a couple of quieter spots that don't get weekend overflow
+3. **Glick's closes early on Fridays** for Shabbat — plan accordingly
+4. **Street parking** on Glen Huntly Road is 1-hour timed. Park on the residential streets behind if you're settling in
 
 ---
 
-**More on Elsternwick:** [Elsternwick Suburb Guide](/elsternwick/) · [Elsternwick Cost of Living](/elsternwick/cost-of-living/) · [Elsternwick Neighbourhood Guide](/elsternwick/neighbourhood-guide/)
+**More on Elsternwick:** [Elsternwick Suburb Guide](/elsternwick/) · [Best Restaurants](/elsternwick/best-[restaurants](/elsternwick/best-restaurants/)/) · [Cost of Living](/elsternwick/cost-of-living/)
+
+---
+
+## Explore More of Elsternwick
+
+- [Elsternwick History](/elsternwick/history/)
+- [Elsternwick Rent Guide](/elsternwick/rent-guide/)
+- [Elsternwick Living In Elsternwick](/elsternwick/living-in-elsternwick/)
+- [Elsternwick Things To Do](/elsternwick/things-to-do/)
+- [Elsternwick Cost of Living](/elsternwick/cost-of-living/)
+- [Elsternwick Neighbourhood Guide](/elsternwick/neighbourhood-guide/)
+- [Elsternwick Transport Guide](/elsternwick/transport-guide/)
+- [Elsternwick Best Restaurants](/elsternwick/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Easter Melbourne 2026 Suburb Guide](/easter-melbourne-2026/)
+- [Edithvale Suburb Guide](/edithvale/)
+- [Eltham Suburb Guide](/eltham/)
+- [Elwood Suburb Guide](/elwood/)

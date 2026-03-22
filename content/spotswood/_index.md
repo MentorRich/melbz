@@ -1,16 +1,16 @@
 ---
-title: "Spotswood Melbourne — Everything You Need to Know"
+title: "Spotswood Melbourne — what you need"
 description: "The complete guide to Spotswood. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "spotswood"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Spotswood Melbourne"
   - "what is Spotswood like"
   - "spotswood suburb"
   - "living in Spotswood"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Scienceworks, craft breweries, and a small community with growing hipster credentials.

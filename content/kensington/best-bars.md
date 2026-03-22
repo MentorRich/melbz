@@ -1,19 +1,14 @@
 ---
 title: "Best Bars in Kensington Melbourne"
-description: "The bar scene in Kensington: where to drink, what the vibe is, and the local spots worth knowing about."
-date: 2026-03-21
+description: "The bar scene in Kensington: where to drink, what the vibe is, and the local spots worth knowing about. Updated for 2026 with real local picks and honest adv."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
+cover_image: "/images/kensington/best-bars.jpg"
+cover_image_alt: "Best Bars in Kensington Melbourne"
 suburb: "kensington"
-article_type: "nightlife"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
-keywords:
-  - "best bars Kensington"
-  - "bars in Kensington Melbourne"
-  - "nightlife Kensington"
-  - "where to drink Kensington"
+tags: ["kensington", "best-bars"]
 ---
-
-
 ## The Drinking Scene in Kensington
 
 Kensington has a bar scene that reflects the suburb — not short on places to drink, with a mix of dive bars, wine spots, and proper cocktail joints. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
@@ -55,4 +50,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington Best Restaurants](/kensington/best-restaurants/) · [Kensington for Young Professionals](/kensington/kensington-for-young-professionals/)
+**More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington Best Restaurants](/kensington/best-[restaurants](/kensington/best-restaurants/)/) · [Kensington for Young Professionals](/kensington/kensington-for-young-professionals/)
+
+---
+
+## Explore More of Kensington
+
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

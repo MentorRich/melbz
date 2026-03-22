@@ -4,15 +4,22 @@ description: "Public transport in Travancore: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "travancore"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Travancore Melbourne"
   - "commute from Travancore to city"
   - "Travancore train station"
+tags:
+  - "travancore"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Travancore — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Travancore, you need to know what the daily commute actually looks like.
 
 Check out our full [Travancore suburb guide](/travancore/) for the complete picture.
 

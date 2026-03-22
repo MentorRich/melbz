@@ -1,16 +1,16 @@
 ---
-title: "Deepdene Melbourne — Everything You Need to Know"
+title: "Deepdene Melbourne — what you need"
 description: "The complete guide to Deepdene. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "deepdene"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Deepdene Melbourne"
   - "what is Deepdene like"
   - "deepdene suburb"
   - "living in Deepdene"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 A tiny enclave between Camberwell and Balwyn — residential quiet with heritage character.

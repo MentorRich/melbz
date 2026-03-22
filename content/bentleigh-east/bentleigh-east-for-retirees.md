@@ -4,12 +4,16 @@ description: "Considering retirement in Bentleigh East? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "retirees"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Bentleigh East retirees Melbourne"
   - "retiring in Bentleigh East"
   - "quiet suburbs Melbourne"
+tags:
+  - "bentleigh-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Bentleigh East? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

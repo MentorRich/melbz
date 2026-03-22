@@ -4,16 +4,22 @@ description: "The story of Belgrave: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "belgrave"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Belgrave Melbourne history"
   - "how has Belgrave changed"
   - "Belgrave gentrification"
   - "Belgrave then and now"
+tags:
+  - "belgrave"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Belgrave's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Belgrave was working-class cottages and factories. The transformation tells a quintessentially Melbourne story.
 
 See our full [Belgrave suburb guide](/belgrave/) for the current picture.
 

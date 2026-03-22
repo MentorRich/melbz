@@ -4,15 +4,22 @@ description: "Public transport in Bellfield: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "bellfield"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Bellfield Melbourne"
   - "commute from Bellfield to city"
   - "Bellfield train station"
+tags:
+  - "bellfield"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Bellfield — what works, what's annoying, and how long things actually take.
+Bellfield sits south of the river, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Bellfield suburb guide](/bellfield/) for the complete picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Campbellfield Melbourne — Everything You Need to Know"
+title: "Campbellfield Melbourne — what you need"
 description: "The complete guide to Campbellfield. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "campbellfield"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Campbellfield Melbourne"
   - "what is Campbellfield like"
   - "campbellfield suburb"
   - "living in Campbellfield"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Industrial backbone of the north, transitioning with Sydney Road connectivity.

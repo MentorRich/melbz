@@ -1,16 +1,16 @@
 ---
-title: "Glen Huntly Melbourne — Everything You Need to Know"
+title: "Glen Huntly Melbourne — what you need"
 description: "The complete guide to Glen Huntly. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "glen-huntly"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Glen Huntly Melbourne"
   - "what is Glen Huntly like"
   - "glen-huntly suburb"
   - "living in Glen Huntly"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small village strip, tram access, and an affordable alternative to Elsternwick and Carnegie.

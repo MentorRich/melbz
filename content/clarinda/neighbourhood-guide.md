@@ -4,13 +4,18 @@ description: "The insider's guide to Clarinda's different pockets, streets, and 
 date: 2026-03-21
 suburb: "clarinda"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Clarinda neighbourhood guide"
   - "best streets in Clarinda"
   - "Clarinda areas"
   - "Clarinda pockets Melbourne"
+tags:
+  - "clarinda"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Clarinda isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

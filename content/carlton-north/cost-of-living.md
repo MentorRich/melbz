@@ -3,19 +3,18 @@ title: "Cost of Living in Carlton North 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "carlton-north"
 suburbs: ["carlton-north"]
 vertical: property
 tags: ["carlton-north", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Carlton North in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/6749652/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Carlton North Melbourne cost of living"
 vibe_score: 79
 ---
 
-Carlton North doesn't come cheap — but it doesn't have to break you either. Here's every dollar you'll spend living here in 2026, from rent to that third flat white you definitely don't need.
+[Carlton](/carlton/) North doesn't come cheap — but it doesn't have to break you either. Here's every dollar you'll spend living here in 2026, from rent to that third flat white you definitely don't need.
 
 ## Rent: The Big Number
 
@@ -36,7 +35,7 @@ This is where most of your money goes. Carlton North's rental market in 2026 loo
 |---------|-------------|-------|
 | Rent (1-bed) | $1728 | Biggest line item by far |
 | Groceries | $320-$420 | Depends on Coles vs local market habits |
-| Transport (Myki) | $160-$200 | Zone 1-2 monthly cap |
+| [Transport](/carlton-north/transport-guide/) (Myki) | $160-$200 | Zone 1-2 monthly cap |
 | Utilities (1-bed) | $180-$240 | Gas + electricity + water |
 | Internet | $70-$90 | NBN, decent speed |
 | Coffee habit | $80-$120 | 1-2 per day at local prices |
@@ -50,7 +49,7 @@ This is where most of your money goes. Carlton North's rental market in 2026 loo
 
 **Eating out:** The average meal out in Carlton North runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/carlton-north/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Carlton North, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Carlton North, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you [commute](/carlton-north/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,24 @@ For more context on how this compares, check our [Living in Carlton North guide]
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Carlton North
+
+- [Carlton North History](/carlton-north/history/)
+- [Carlton North Rent Guide](/carlton-north/rent-guide/)
+- [Carlton North Things To Do](/carlton-north/things-to-do/)
+- [Carlton North Young Professionals Guide](/carlton-north/young-professionals/)
+- [Carlton North Nightlife Guide](/carlton-north/nightlife-guide/)
+- [Carlton North Transport Guide](/carlton-north/transport-guide/)
+- [Carlton North Best Cafes](/carlton-north/best-cafes/)
+- [Carlton North Best Restaurants](/carlton-north/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Canterbury Suburb Guide](/canterbury/)
+- [Carlton Suburb Guide](/carlton/)
+- [Carnegie Suburb Guide](/carnegie/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)

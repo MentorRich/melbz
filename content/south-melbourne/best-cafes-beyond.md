@@ -1,17 +1,16 @@
 ---
 title: "Best Cafes in South Melbourne 2026: Beyond the Market"
 cover_image: "/images/south-melbourne/best-cafes-beyond.jpg"
-date: 2026-03-16
-author: eli
-author_image: "/images/authors/ines.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Eli Chen"
 tags: ["south-melbourne", "cafes", "food"]
-categories: ["food"]
-description: "Best Cafes in South Melbourne 2026: Beyond the Market"
+description: "Beyond the weekend market crowds, South Melbourne hides serious cafes on Coventry, Park, and Yarra Place. Six spots tested, all worth the detour."
+cover_image_alt: "South Melbourne street scene and local dining"
+suburb: "south-melbourne"
 ---
 
 **Updated 16 March 2026 | 6 places tested | Eli Chen reporting**
-
-
 
 
 *Updated 16 March 2026 | 6 places tested | Eli Chen reporting*
@@ -147,7 +146,7 @@ Driving? On-street parking exists but fills fast on weekends. The South Melbourn
 
 ## The Bottom Line
 
-South Melbourne's cafe scene is deeper than the market. The best spots are on the residential streets — Coventry, Palmerston, Park — where the kitchens are smaller, the baristas care more, and the food is made by people who chose this neighbourhood on purpose. Whether you're after warehouse-scale coffee worship at ST. ALi, a perfect sandwich at Hector's, or a quiet Japanese curry at Kuu, this suburb rewards the walker who looks beyond the obvious.
+South Melbourne's cafe scene is deeper than the market. The best spots are on the residential streets — Coventry, Palmerston, Park — where the kitchens are smaller, the baristas care more, and the food is made by people who chose this neighbourhood on purpose. If you'''re after warehouse-scale coffee worship at ST. ALi, a perfect sandwich at Hector's, or a quiet Japanese curry at Kuu, this suburb rewards the walker who looks beyond the obvious.
 
 Go early. Bring someone you like. Order the thing you haven't tried before.
 
@@ -158,10 +157,9 @@ Go early. Bring someone you like. Order the thing you haven't tried before.
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

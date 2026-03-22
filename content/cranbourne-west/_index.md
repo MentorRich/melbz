@@ -1,16 +1,16 @@
 ---
-title: "Cranbourne West Melbourne — Everything You Need to Know"
+title: "Cranbourne West Melbourne — what you need"
 description: "The complete guide to Cranbourne West. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Cranbourne West Melbourne"
   - "what is Cranbourne West like"
   - "cranbourne-west suburb"
   - "living in Cranbourne West"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Newer estates in the western extension of Cranbourne with growing retail.

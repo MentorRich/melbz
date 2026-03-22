@@ -1,16 +1,16 @@
 ---
-title: "Scoresby Melbourne — Everything You Need to Know"
+title: "Scoresby Melbourne — what you need"
 description: "The complete guide to Scoresby. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "scoresby"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Scoresby Melbourne"
   - "what is Scoresby like"
   - "scoresby suburb"
   - "living in Scoresby"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 EastLink access, Caribbean Park business hub, and family homes near Knox.

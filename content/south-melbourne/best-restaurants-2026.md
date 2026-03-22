@@ -1,24 +1,23 @@
 ---
 title: "Best Restaurants in South Melbourne 2026: Market & Beyond"
 cover_image: "/images/south-melbourne/best-restaurants-2026.jpg"
-date: 2026-03-16
-author: jules
-author_image: "/images/authors/jules.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jules Marchetti"
 tags: ["south-melbourne", "restaurants", "food"]
-categories: ["food"]
-description: "Best Restaurants in South Melbourne 2026: Market & Beyond"
+description: "Claypots Barbarossa seafood, the produce-driven lunch set at St Kilda Dispensary, and the South Melbourne restaurants worth crossing town for in 2026."
+cover_image_alt: "South Melbourne street scene and local dining"
+suburb: "south-melbourne"
 ---
 
 **Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting**
-
-
 
 
 *Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
 
 
 South Melbourne has alwa..."
-# Best Restaurants in South Melbourne 2026: Market & Beyond
+# Best [Restaurants](/south-melbourne/best-restaurants/) in South Melbourne 2026: Market & Beyond
 
 *Updated 16 March 2026 | 6 places tested | Jules Marchetti reporting*
 
@@ -33,7 +32,7 @@ I walked, ate, and revisited six spots over the past month to build this guide. 
 > *(Drop your answer in the comments — we'll feature the winning cuisine in next month's neighbourhood guide)*
 
 
-## 1. St Kilda Dispensary (Corner of Clarendon & St Kilda Road, South Melbourne)
+## 1. [St Kilda](/st-kilda/) Dispensary (Corner of Clarendon & St Kilda Road, South Melbourne)
 
 This one sits right on the border — technically South Melbourne, but its soul lives in the energy of nearby St Kilda. The St Kilda Dispensary has been running a smart, produce-driven menu since the team expanded from their original St Kilda East home.
 
@@ -43,7 +42,7 @@ The space is tight, with a no-reservations policy that keeps the energy up and t
 **Price range:** $30–$55 per main
 **Signature dish:** Smoked ocean trout with pickled daikon and horseradish cream
 **Go for:** The weekday lunch set. It's one of the best value meals in inner Melbourne.
-**Cross-link:** If you love the produce focus here, check our guide to the best restaurants in South Yarra for more farm-to-table options.
+**Cross-link:** If you love the produce focus here, check our guide to the best restaurants in [South Yarra](/south-yarra/) for more farm-to-table options.
 
 
 ## 2. Claypots Barbarossa (255 South Melbourne Market, Coventry Street)
@@ -161,38 +160,22 @@ It's a good time to eat in South Melbourne.
 
 *Prices correct as of March 2026. Bookings recommended for Mjølner and La Camera on weekends.*
 
-### Featured Venues
+---
 
-- **Lume** at 226 Coventry St, South Melbourne VIC 3205
-- **Chez Dre** at 285-287 Coventry St, South Melbourne VIC 3205
-- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
-- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
-- **Dead Man Espresso** at 35的市场 St, South Melbourne VIC 3205
-- **Code Black Coffee** at 119 Howard St, North Melbourne (South Melbourne Satellite Location)
-- **South Melbourne Market Dim Sims** at 322-326 Coventry St, South Melbourne VIC 3205
-- **Proper & Son** at Shop 11, South Melbourne Market, Coventry St, South Melbourne VIC 3205
-- **Bambu Asian Eating House** at 283 Clarendon St, South Melbourne VIC 3205
-- **Lulu's Char Koay Teow** at 1/105-107 Market St, South Melbourne VIC 3205
+## Explore More of South Melbourne
 
-### Key Highlights
+- [South Melbourne History](/south-melbourne/history/)
+- [South Melbourne Cheap Eats](/south-melbourne/cheap-eats/)
+- [South Melbourne Rent Guide](/south-melbourne/rent-guide/)
+- [South Melbourne Best Cafes Beyond](/south-melbourne/best-cafes-beyond/)
+- [South Melbourne Best Bars 2026](/south-melbourne/best-bars-2026/)
+- [South Melbourne South Melbourne For Retirees](/south-melbourne/south-melbourne-for-retirees/)
+- [South Melbourne Living Guide](/south-melbourne/living-guide/)
+- [South Melbourne Things To Do](/south-melbourne/things-to-do/)
 
-- South Melbourne Market
-- Clarendon Street shopping precinct
-- The Australian Centre for Contemporary Art
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

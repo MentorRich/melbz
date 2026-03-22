@@ -1,17 +1,15 @@
 ---
 title: "Cheap Eats Under $20 in Kensington 2026: Macaulay Road & Beyond"
+description: "Cheap Eats Under $20 in Kensington 2026: Macaulay Road & Beyond. Updated for 2026 with real local picks and honest advice for Kensington in Melbourne inner w."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
 cover_image: "/images/kensington/cheap-eats-v2.jpg"
-date: 2026-03-16
-author: priya
-author_image: "/images/authors/priya.jpg"
+cover_image_alt: "Cheap Eats V2 in Kensington Melbourne"
+suburb: "kensington"
 tags: ["kensington", "cheap-eats", "food"]
-categories: ["food"]
-description: "Cheap Eats Under $20 in Kensington 2026: Macaulay Road & Beyond"
 ---
-
 **Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
-
-
 
 
 *Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
@@ -166,40 +164,10 @@ Kensington doesn't need to be trendy. It just needs to keep doing what it's doin
 
 *Priya Sandhu is the food editor at MELBZ. She has eaten her way through every suburb in Melbourne's inner west and lived to tell the tale. Follow her on the MELBZ app for weekly cheap eats alerts and neighbourhood food drops.*
 
-*Have a cheap eats spot we missed? Drop a tip at hq@melbz101 or tag us on socials with #MELBZEats.*
+*Have a cheap eats spot we missed? Drop a tip at hq@melbz.com.au or tag us on socials with #MELBZEats.*
 
-### Featured Venues
+---
 
-- **The Premises** at 202 Bellair St, Kensington VIC 3031
-- **Locanda Kensington** at 506 Macaulay Rd, Kensington VIC 3031
-- **Hardimans Hotel** at 521 Macaulay Rd, Kensington VIC 3031
-- **The Premises** at 202 Bellair St, Kensington VIC 3031
-- **La Tortilleria** at 72 Stubbs St, Kensington VIC 3031
-- **Loco Coffee** at 555 Macaulay Rd, Kensington VIC 3031
-- **IGA Kensington (Hot Food Counter)** at 48-50 Bellair St, Kensington VIC 3031
-- **Laksa King** at 6-12 Pin Oak Crescent, Flemington VIC 3031
-- **Kensington Stockyard Food & Coffee** at 500 Macaulay Rd, Kensington VIC 3031
-- **Laksa King** at 6-12 Pin Oak Crescent, Flemington, VIC 3031
+**More Kensington guides:** [Kensington Suburb Guide](/kensington/) · [Best Restaurants](/kensington/best-restaurants/) · [Cost of Living](/kensington/cost-of-living/)
 
-### Key Highlights
-
-- Macaulay Road shopping village
-- J.J. Holland Park
-- Proximity to the Maribyrnong River trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/carlton/](/carlton/)
-- [/footscray/](/footscray/)
-- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
-- [/food/](/food/)
-- [/kensington/](/kensington/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**Nearby suburbs:** [Flemington](/flemington/) · [Footscray](/footscray/) · [North Melbourne](/north-melbourne/)

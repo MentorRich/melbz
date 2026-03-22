@@ -4,13 +4,18 @@ description: "The insider's guide to Cranbourne West's different pockets, street
 date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Cranbourne West neighbourhood guide"
   - "best streets in Cranbourne West"
   - "Cranbourne West areas"
   - "Cranbourne West pockets Melbourne"
+tags:
+  - "cranbourne-west"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Cranbourne West isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

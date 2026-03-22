@@ -2,8 +2,7 @@
 title: "Glen Iris Honest Guide 2026: Burke Road Real Opinions"
 cover_image: "/images/glen-iris/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["glen-iris", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Glen Iris Honest Guide 2026: Burke Road & Real Opinions"
@@ -153,10 +152,9 @@ But here's the honest truth that nobody says out loud: once people move to Glen 
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [South Yarra](/south-yarra/)
+- [Fitzroy](/fitzroy/)
+- [Footscray](/footscray/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

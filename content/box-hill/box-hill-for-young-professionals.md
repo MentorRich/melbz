@@ -3,13 +3,14 @@ title: "Box Hill for Young Professionals Melbourne"
 description: "Is Box Hill a good suburb for young professionals? Social scene, commute, renting, and the honest verdict."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "young-professionals"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-keywords:
-  - "Box Hill young professionals Melbourne"
-  - "best suburbs for young professionals Melbourne"
-  - "renting in Box Hill"
+author: "Maya Chen"
+tags:
+  - "box-hill"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Box Hill as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

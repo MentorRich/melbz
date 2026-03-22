@@ -4,12 +4,16 @@ description: "Considering retirement in Braeside? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "braeside"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Braeside retirees Melbourne"
   - "retiring in Braeside"
   - "quiet suburbs Melbourne"
+tags:
+  - "braeside"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Braeside? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,13 +4,18 @@ description: "The insider's guide to Wyndham Vale's different pockets, streets, 
 date: 2026-03-21
 suburb: "wyndham-vale"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Wyndham Vale neighbourhood guide"
   - "best streets in Wyndham Vale"
   - "Wyndham Vale areas"
   - "Wyndham Vale pockets Melbourne"
+tags:
+  - "wyndham-vale"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Wyndham Vale isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

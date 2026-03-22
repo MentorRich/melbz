@@ -4,12 +4,18 @@ description: "Is Truganina a good suburb for young professionals? Social scene, 
 date: 2026-03-21
 suburb: "truganina"
 article_type: "young-professionals"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Truganina young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Truganina"
+tags:
+  - "truganina"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Truganina as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

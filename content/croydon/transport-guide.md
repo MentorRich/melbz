@@ -4,15 +4,22 @@ description: "Public transport in Croydon: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "croydon"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Croydon Melbourne"
   - "commute from Croydon to city"
   - "Croydon train station"
+tags:
+  - "croydon"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Croydon — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Croydon. Let us cut through the fluff.
 
 Check out our full [Croydon suburb guide](/croydon/) for the complete picture.
 

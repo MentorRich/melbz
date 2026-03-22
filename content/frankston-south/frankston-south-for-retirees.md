@@ -4,12 +4,16 @@ description: "Considering retirement in Frankston South? Quiet streets, healthca
 date: 2026-03-21
 suburb: "frankston-south"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Frankston South retirees Melbourne"
   - "retiring in Frankston South"
   - "quiet suburbs Melbourne"
+tags:
+  - "frankston-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Frankston South? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

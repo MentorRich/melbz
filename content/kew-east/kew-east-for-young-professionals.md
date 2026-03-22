@@ -4,12 +4,18 @@ description: "Is Kew East a good suburb for young professionals? Social scene, c
 date: 2026-03-21
 suburb: "kew-east"
 article_type: "young-professionals"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Kew East young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Kew East"
+tags:
+  - "kew-east"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Kew East as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

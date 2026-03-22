@@ -1,85 +1,69 @@
 ---
 title: "Melbourne Nightlife Guide — Best Bars, Pubs and Live Music by Suburb"
 date: 2026-03-17
-author: lina
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 cover_image: "/images/melbourne/nightlife-hub.jpg"
 tags: ["nightlife", "bars", "pubs", "melbourne"]
 categories: ["lifestyle"]
----
-
 url: "/nightlife/"
 description: "Your guide to Melbourne's best bars, pubs, rooftop drinks and live music venues across 34+ suburbs."
+---
 
- Nightlife Guides by Suburb
+# Melbourne Nightlife Guide — Best Bars, Pubs and Live Music by Suburb
 
-We've compiled comprehensiv..."
-Your guide to Melbourne's best bars, pubs, rooftop drinks and live music venues across 34+ suburbs.
+Melbourne's nightlife doesn't follow a single script. Every suburb has its own after-dark personality — from the sticky-floored rock pubs of Collingwood to the wine bars tucked behind Brunswick bookshops, from St Kilda's beachside cocktail terraces to the rooftop venues watching the sun set over the CBD skyline.
+
+We've put together detailed nightlife guides for over 30 Melbourne suburbs, written by locals who actually drink there.
 
 ## Nightlife Guides by Suburb
 
-We've compiled comprehensive nightlife guides for over 30 Melbourne suburbs:
+| Suburb | Guide |
+|--------|-------|
+| St Kilda | [St Kilda Nightlife Guide](/st-kilda/nightlife-guide/) |
+| Fitzroy | [Fitzroy Nightlife Guide](/fitzroy/nightlife-guide/) |
+| Brunswick | [Brunswick Nightlife Guide](/brunswick/nightlife-guide/) |
+| Richmond | [Richmond Nightlife Guide](/richmond/nightlife-guide/) |
+| Carlton | [Carlton Nightlife Guide](/carlton/nightlife-guide/) |
+| Collingwood | [Collingwood Nightlife Guide](/collingwood/nightlife-guide/) |
+| Northcote | [Northcote Nightlife Guide](/northcote/nightlife-guide/) |
+| Thornbury | [Thornbury Nightlife Guide](/thornbury/nightlife-guide/) |
+| Preston | [Preston Nightlife Guide](/preston/nightlife-guide/) |
+| Footscray | [Footscray Nightlife Guide](/footscray/nightlife-guide/) |
+| South Yarra | [South Yarra Nightlife Guide](/south-yarra/nightlife-guide/) |
+| Prahran | [Prahran Nightlife Guide](/prahran/nightlife-guide/) |
+| Windsor | [Windsor Nightlife Guide](/windsor/nightlife-guide/) |
+| Hawthorn | [Hawthorn Nightlife Guide](/hawthorn/nightlife-guide/) |
+| Kew | [Kew Nightlife Guide](/kew/nightlife-guide/) |
+| Cremorne | [Cremorne Nightlife Guide](/cremorne/nightlife-guide/) |
+| Abbotsford | [Abbotsford Nightlife Guide](/abbotsford/nightlife-guide/) |
+| Fitzroy North | [Fitzroy North Nightlife Guide](/fitzroy-north/nightlife-guide/) |
+| Brunswick East | [Brunswick East Nightlife Guide](/brunswick-east/nightlife-guide/) |
+| Balaclava | [Balaclava Nightlife Guide](/balaclava/nightlife-guide/) |
+| Elwood | [Elwood Nightlife Guide](/elwood/nightlife-guide/) |
+| Albert Park | [Albert Park Nightlife Guide](/albert-park/nightlife-guide/) |
+| Port Melbourne | [Port Melbourne Nightlife Guide](/port-melbourne/nightlife-guide/) |
+| Brighton | [Brighton Nightlife Guide](/brighton/nightlife-guide/) |
+| Carnegie | [Carnegie Nightlife Guide](/carnegie/nightlife-guide/) |
+| Ascot Vale | [Ascot Vale Nightlife Guide](/ascot-vale/nightlife-guide/) |
+| Kensington | [Kensington Nightlife Guide](/kensington/nightlife-guide/) |
+| Coburg | [Coburg Nightlife Guide](/coburg/nightlife-guide/) |
+| Melbourne CBD | [Melbourne CBD Nightlife Guide](/melbourne/nightlife-guide/) |
 
-| Suburb | Link |
-|--------|------|
-| St Kilda | [/st-kilda/nightlife-guide/](/st-kilda/nightlife-guide/) |
-| Fitzroy | [/fitzroy/nightlife-guide/](/fitzroy/nightlife-guide/) |
-| Brunswick | [/brunswick/nightlife-guide/](/brunswick/nightlife-guide/) |
-| Richmond | [/richmond/nightlife-guide/](/richmond/nightlife-guide/) |
-| Carlton | [/carlton/nightlife-guide/](/carlton/nightlife-guide/) |
-| Collingwood | [/collingwood/nightlife-guide/](/collingwood/nightlife-guide/) |
-| Northcote | [/northcote/nightlife-guide/](/northcote/nightlife-guide/) |
-| Thornbury | [/thornbury/nightlife-guide/](/thornbury/nightlife-guide/) |
-| Preston | [/preston/nightlife-guide/](/preston/nightlife-guide/) |
-| Footscray | [/footscray/nightlife-guide/](/footscray/nightlife-guide/) |
-| South Yarra | [/south-yarra/nightlife-guide/](/south-yarra/nightlife-guide/) |
-| Prahran | [/prahran/nightlife-guide/](/prahran/nightlife-guide/) |
-| Windsor | [/windsor/nightlife-guide/](/windsor/nightlife-guide/) |
-| Hawthorn | [/hawthorn/nightlife-guide/](/hawthorn/nightlife-guide/) |
-| Kew | [/kew/nightlife-guide/](/kew/nightlife-guide/) |
-| Cremorne | [/cremorne/nightlife-guide/](/cremorne/nightlife-guide/) |
-| Abbotsford | [/abbotsford/nightlife-guide/](/abbotsford/nightlife-guide/) |
-| Fitzroy North | [/fitzroy-north/nightlife-guide/](/fitzroy-north/nightlife-guide/) |
-| Brunswick East | [/brunswick-east/nightlife-guide/](/brunswick-east/nightlife-guide/) |
-| Balaclava | [/balaclava/nightlife-guide/](/balaclava/nightlife-guide/) |
-| Elwood | [/elwood/nightlife-guide/](/elwood/nightlife-guide/) |
-| Albert Park | [/albert-park/nightlife-guide/](/albert-park/nightlife-guide/) |
-| Port Melbourne | [/port-melbourne/nightlife-guide/](/port-melbourne/nightlife-guide/) |
-| Brighton | [/brighton/nightlife-guide/](/brighton/nightlife-guide/) |
-| Carnegie | [/carnegie/nightlife-guide/](/carnegie/nightlife-guide/) |
-| Ascot Vale | [/ascot-vale/nightlife-guide/](/ascot-vale/nightlife-guide/) |
-| Kensington | [/kensington/nightlife-guide/](/kensington/nightlife-guide/) |
-| Coburg | [/coburg/nightlife-guide/](/coburg/nightlife-guide/) |
-| Melbourne CBD | [/melbourne/nightlife-guide/](/melbourne/nightlife-guide/) |
+## What Makes Each Suburb Different
 
-## What to Expect
+**Inner North (Fitzroy, Collingwood, Brunswick, Northcote):** Craft beer, live music, vinyl bars, and venues where the band might outnumber the audience on a Tuesday. Dress code: whatever you slept in.
 
-Melbourne's nightlife is incredibly diverse - from rooftop bars with bay views in St Kilda to hidden laneway bars in Fitzroy, from student pubs in Carlton to craft beer destinations in Brunswick.
+**South Side (St Kilda, South Yarra, Prahran, Windsor):** Cocktail bars, rooftop terraces, and places where the lighting budget exceeded the food budget. Chapel Street still has energy at 2am.
 
-Each suburb guide covers:
-- Best bars and pubs
-- Live music venues
-- Opening hours and transport
-- What to order and expect
-- Getting home safely
+**West (Footscray, Kensington, Seddon):** The fastest-growing bar scene in Melbourne. Former warehouses now serve natural wine. The late-night Vietnamese restaurants are still the real draw.
 
-Check back regularly as we add more suburbs and update existing guides with new openings and closures.
+**East (Hawthorn, Kew, Richmond):** More restrained, but don't sleep on the pubs. Bridge Road and Swan Street hold their own against anywhere inner-city.
 
-## Related Articles
+## Tips for Going Out in Melbourne
 
-- [/northcote/](/northcote/)
-- [/south-yarra/](/south-yarra/)
-- [/prahran/](/prahran/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
+- **Public transport runs late on weekends.** Night Network trains and trams operate Friday and Saturday nights. Check PTV for routes.
+- **Cash is mostly dead.** Almost everywhere takes card, but a few old-school pubs still prefer cash.
+- **Lockout laws don't exist here.** Unlike Sydney, Melbourne never implemented them. Venues close when they close.
+- **The laneway bars are real.** If a venue has no sign and you have to walk through an alley to find it, you're probably in the right place.
 
-*Find more Melbourne content at [melbz.com.au](/)*
-
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.
+Check back regularly — we add new suburbs and update existing guides as venues open (and close, because Melbourne).

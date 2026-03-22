@@ -1,17 +1,15 @@
 ---
 title: "Things To Do This Weekend in Cremorne — 2026 Local Guide"
+description: "Your Cremorne weekend planned. Warehouse cafe brunch, Yarra River walks, Church Street shopping, and after-work drinks in Melbourne's compact tech hub suburb."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Chen"
 cover_image: "/images/cremorne/things-to-do-this-weekend.jpg"
+cover_image_alt: "Weekend scene along the Yarra River path near Cremorne"
+suburb: "cremorne"
+tags: ["cremorne", "weekend", "things-to-do"]
 ---
 
-suburb: "cremorne"
-vertical: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Cremorne might be small, but weekends here are packed with great food, markets, and Yarra walks. Here's what to do in 3121 this weekend."
-tags: ["cremorne"]
-categories: ["things"]
 # Things To Do This Weekend in Cremorne — 3121 Weekend Guide
 
 Cremorne doesn't do weekends like other suburbs. There's no major market, no iconic park, no festival that shuts down the streets. What you get instead is a suburb that's built for the kind of weekend you actually want: good coffee, great food, walks along the Yarra, and a drink or two without the crowds of Chapel Street or the CBD.
@@ -161,10 +159,9 @@ It's a compact, walkable weekend that feels luxurious without requiring you to s
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/brunswick/](/brunswick/)
+- [South Yarra](/south-yarra/)
+- [Southbank](/southbank/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
+- [Brunswick](/brunswick/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

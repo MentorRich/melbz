@@ -4,12 +4,16 @@ description: "Thinking of raising kids in South Morang? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "south-morang"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is South Morang good for families"
   - "South Morang family friendly"
   - "raising kids in South Morang"
+tags:
+  - "south-morang"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to South Morang with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

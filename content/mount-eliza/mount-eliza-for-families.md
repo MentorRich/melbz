@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Mount Eliza? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Mount Eliza good for families"
   - "Mount Eliza family friendly"
   - "raising kids in Mount Eliza"
+tags:
+  - "mount-eliza"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Mount Eliza with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

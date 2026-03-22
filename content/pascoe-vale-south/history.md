@@ -4,16 +4,22 @@ description: "The story of Pascoe Vale South: from its origins to today. How thi
 date: 2026-03-21
 suburb: "pascoe-vale-south"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Pascoe Vale South Melbourne history"
   - "how has Pascoe Vale South changed"
   - "Pascoe Vale South gentrification"
   - "Pascoe Vale South then and now"
+tags:
+  - "pascoe-vale-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Pascoe Vale South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Pascoe Vale South has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Pascoe Vale South suburb guide](/pascoe-vale-south/) for the current picture.
 

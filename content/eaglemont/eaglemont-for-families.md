@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Eaglemont? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "eaglemont"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Eaglemont good for families"
   - "Eaglemont family friendly"
   - "raising kids in Eaglemont"
+tags:
+  - "eaglemont"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Eaglemont with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -1,21 +1,16 @@
 ---
-title: "Cremorne for Young Professionals 2026: Lifestyle, Cost & Nightlife"
-slug: "young-professionals"
-date: 2026-03-21
-updated: 2026-03-21
-author: dani
-author_image: "/images/authors/dani.jpg"
+title: "Cremorne for Young Professionals 2026: Lifestyle, Cost and Work-Life Balance"
+description: "Cremorne for young professionals in 2026. Work at SEEK or REA Group, walk to the office, brunch on Church Street, and whether tech-hub rent is worth paying."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
+cover_image: "/images/cremorne/young-professionals.jpg"
+cover_image_alt: "Cremorne tech hub offices and Church Street for young professionals"
 suburb: "cremorne"
-suburbs: ["cremorne"]
-vertical: lifestyle
-tags: ["cremorne", "young-professionals", "nightlife", "lifestyle"]
-description: "Cremorne for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent."
-cover_image: "https://images.pexels.com/photos/2292172/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Cremorne nightlife young professionals Melbourne"
-vibe_score: 77
+tags: ["cremorne", "young-professionals", "tech", "lifestyle"]
 ---
 
-You're in your mid-20s to early-30s, you earn decent money but not Toorak money, and you want a suburb that has actual things to do after 6pm. Is Cremorne it?
+Is Cremorne worth it for someone in their 20s or 30s building a career? The honest scorecard is below.
 
 ## The Young Professional Scorecard
 
@@ -68,4 +63,4 @@ Cremorne works for young professionals who prioritise lifestyle balance over a b
 
 ---
 
-*Living the young professional life in Cremorne? Tell us your experience — [hq@melbz101](mailto:hq@melbz101)*
+*Living the young professional life in Cremorne? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*

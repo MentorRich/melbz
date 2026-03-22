@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Bentleigh? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "bentleigh"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Bentleigh good for families"
   - "Bentleigh family friendly"
   - "raising kids in Bentleigh"
+tags:
+  - "bentleigh"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Bentleigh with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

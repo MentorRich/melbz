@@ -4,12 +4,16 @@ description: "Considering retirement in Laverton? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "laverton"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Laverton retirees Melbourne"
   - "retiring in Laverton"
   - "quiet suburbs Melbourne"
+tags:
+  - "laverton"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Laverton? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

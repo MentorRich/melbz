@@ -4,13 +4,18 @@ description: "The insider's guide to Seaford's different pockets, streets, and a
 date: 2026-03-21
 suburb: "seaford"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "Seaford neighbourhood guide"
   - "best streets in Seaford"
   - "Seaford areas"
   - "Seaford pockets Melbourne"
+tags:
+  - "seaford"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Seaford isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

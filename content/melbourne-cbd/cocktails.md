@@ -1,16 +1,16 @@
 ---
 title: "Best Cocktails in Melbourne CBD 2026: The Complete Guide"
-cover_image: "/images/melbourne-cbd/cocktails.jpg"
-date: 2026-03-16
-author: jess
-author_image: "/images/authors/jess.jpg"
-tags: ["melbourne-cbd", "cocktails", "bars"]
-categories: ["nightlife"]
-description: "Best Cocktails in Melbourne CBD 2026: The Complete Guide"
+cover_image: "/images/shared/nightlife.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Jess Harper"
+tags: ["melbourne", "melbourne-cbd", "cocktails", "bars"]
+description: "Eight Melbourne CBD cocktail bars tested for 2026. Eau De Vie on Little Collins, speakeasy laneway bars on Flinders Lane and rooftop drinks with city views."
 ---
 
 **Updated 16 March 2026 | 8 places tested | Jess Harper reporting**
-
 
 
 You can throw a rock in the CBD an..."
@@ -36,7 +36,7 @@ I spent three weeks working my way through CBD cocktail bars — some old reliab
 **What to expect:** Dark leather booths, low lighting, a cigar terrace out back, and bartenders who treat cocktail-making like surgery.
 **Price range:** $24–$32 for cocktails
 
-Eau de Vie has been around long enough that newer bars are now being built in its image, and that should tell you everything. Walking in on a Tuesday night felt like stepping into someone's private library — if that library had a world-class spirits collection and a bartender named Liam who could talk you through the history of mezcal while simultaneously building you a Paloma that ruins all other Palomas.
+Eau de Vie has been around long enough that newer bars are now being built in its image, and that should tell you everything. Walking in on a Tuesday night felt like stepping into someone's private library — if that library had a exceptional spirits collection and a bartender named Liam who could talk you through the [history](/melbourne-cbd/history/) of mezcal while simultaneously building you a Paloma that ruins all other Palomas.
 
 **Signature drink:** The Smoking Gun — mezcal, cherry liqueur, chocolate bitters, served under a glass cloche filled with applewood smoke. It arrives looking like a magic trick. It tastes even better than it looks. $28.
 
@@ -177,7 +177,7 @@ Melbourne CBD nightlife winds down between midnight and 1am for most bars, with 
 - **Night Network trams** run Friday and Saturday nights on select routes. The 96 (Carlton/South Melbourne) and 86 (Brunswick/North Coburg) are the most useful for late-night CBD escape routes.
 - **Flinders Street Station** is the safest well-lit meeting point for ride-share pickups. Avoid hailing Ubers from quiet laneways after midnight.
 - **If you or someone you're with needs help:** Call 000. The Melbourne General Hospital is at 300 Grattan Street, Carlton — a short ride from the CBD. For non-emergency health concerns, the 24-hour pharmacy at the corner of Swanston and Bourke Streets has been reliable.
-- **Drink spiking awareness:** If something tastes off, tell venue staff immediately. Most CBD bars now have drink-cover policies and will call transport for you. The Everleigh and Eau de Vie both have trained staff for this.
+- **Drink spiking awareness:** If something tastes off, tell venue staff immediately. Most CBD bars now have drink-cover policies and will call [transport](/melbourne-cbd/transport-guide/) for you. The Everleigh and Eau de Vie both have trained staff for this.
 
 
 ## What We Skipped and Why
@@ -186,7 +186,7 @@ Not every bar made the list. Here's the honest rundown:
 
 - **Laneway bars near Hardware Lane.** There are about fifteen of them. Most serve the same vodka-soda-with-lime crowd and charge $22 for the privilege. We visited four. None had a bartender who could tell us what was in the house special. Hard pass.
 
-- **Hotel lobby bars (Crown, Langham, Rialto).** The drinks are fine. The prices are not. $30+ for a gin and tonic is hard to justify when you're sitting under a chandelier that cost more than your rent. If expense accounts are buying, the Rialto's lobby bar is genuinely beautiful — but this guide is for people spending their own money.
+- **Hotel lobby bars (Crown, Langham, Rialto).** The drinks are fine. The prices are not. $30+ for a gin and tonic is hard to justify when you're sitting under a chandelier that cost more than your [rent](/melbourne-cbd/cost-of-living/). If expense accounts are buying, the Rialto's lobby bar is genuinely beautiful — but this guide is for people spending their own money.
 
 - **Rooftop bars (Naked in the Sky, Transit Rooftop).** The views are great. The cocktails are average. The mark-up is for the skyline, not the spirits. We'd rather send you to a ground-floor bar making better drinks for less.
 
@@ -240,38 +240,22 @@ Now get out there and drink well.
 
 *Prices and hours correct at time of publication. Venues change their menus seasonally — check their websites or call ahead for current offerings.*
 
-### Featured Venues
+---
 
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+## Explore More of Melbourne CBD
 
-### Key Highlights
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD Weekend Guide V2](/melbourne-cbd/weekend-guide-v2/)
+- [Melbourne CBD New To Cbd](/melbourne-cbd/new-to-cbd/)
 
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

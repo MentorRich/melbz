@@ -4,16 +4,22 @@ description: "How expensive is Heathmont? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "heathmont"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Heathmont Melbourne"
   - "how expensive is Heathmont"
   - "is Heathmont expensive to live in"
   - "Heathmont rent"
+tags:
+  - "heathmont"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Heathmont — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Heathmont actually cost? No vague estimates - real numbers.
 
 Read our full [Heathmont suburb guide](/heathmont/) for the bigger picture.
 

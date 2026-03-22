@@ -4,15 +4,22 @@ description: "Public transport in Doreen: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "doreen"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Doreen Melbourne"
   - "commute from Doreen to city"
   - "Doreen train station"
+tags:
+  - "doreen"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Doreen — what works, what's annoying, and how long things actually take.
+Doreen sits south of the river, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Doreen suburb guide](/doreen/) for the complete picture.
 

@@ -1,27 +1,16 @@
 ---
 title: "Prahran Honest Guide 2026: Market Vibes & Real Talk"
-cover_image: "/images/prahran/honest-guide.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
-tags: ["prahran", "honest-guide", "lifestyle"]
-categories: ["lifestyle"]
-description: "Prahran Honest Guide 2026: Market Vibes & Real Talk"
+description: "The honest guide to living in Prahran. Property market, food scene, transport, nightlife, and who this inner south-east Melbourne suburb suits."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jack Morrison"
+cover_image: "/images/shared/melbourne-suburb.jpg"
+cover_image_alt: "Prahran Melbourne streetscape honest guide"
+suburb: "prahran"
+tags: ["melbourne", "prahran", "honest-guide", "lifestyle"]
 ---
 
-**Updated 16 March 2026 | Jack Morrison reporting**
-
-
-
-
-*Updated 16 March 2026 | Jack Morrison reporting*
-
-
-Look, Prahran has a reputation problem. Depending ..."
-# Prahran Honest Guide 2026: Market Vibes & Real Talk
-
-*Updated 16 March 2026 | Jack Morrison reporting*
-
+*Updated March 2026 | Jack Morrison reporting*
 
 Look, Prahran has a reputation problem. Depending on who you ask, it's either the sexiest postcode in Melbourne's inner south or an overpriced stretch of Chapel Street where you pay Surry Hills prices for a shoebox with a shared laundry. The truth, as usual, lives somewhere in the middle — but slightly closer to the sexy end than the haters want to admit.
 
@@ -62,7 +51,7 @@ The food scene is excellent, though it operates in South Yarra's shadow which is
 
 Green space is decent. Prahran Park gives you a solid green lung with a playground, the bowling club, and enough space to actually throw a frisbee without hitting someone's Range Rover. You're also a short walk from the Yarra trails, which connect you all the way to the CBD if you're the sort of person who jogs along rivers for fun.
 
-Transport: The 78 tram runs down Chapel Street, the 6/72 trams run along Commercial Road, and Prahran station sits on the Sandringham line. You can be in Flinders Street in about 15 minutes on a good day, or about 25 minutes on a day when Metro Trains decides to "hold for operational reasons" which is code for "we don't know either, mate."
+Transport: The 78 tram runs down Chapel Street, the 72 tram runs along Commercial Road, the 6 tram along High Street, and Prahran station sits on the Sandringham line. You can be in Flinders Street in about 15 minutes on a good day, or about 25 minutes on a day when Metro Trains decides to "hold for operational reasons" which is code for "we don't know either, mate."
 
 **The less good stuff:**
 
@@ -132,40 +121,8 @@ It's not perfect. But it's honest about what it is — and that's more than most
 *Have a Prahran tip, correction, or hot take? We're listening. The best local intel comes from people who actually live here — not people who visited once in 2019 and wrote a blog post about it.*
 
 
-**Updated 16 March 2026 | Jack Morrison reporting**
+---
 
-### Featured Venues
+**More Prahran:** [Neighbourhood Guide](/prahran/neighbourhood-guide/) | [Cost of Living](/prahran/cost-of-living/) | [Best Restaurants](/prahran/best-restaurants/) | [Prahran Suburb Guide](/prahran/)
 
-- **Hawker Hall** at 98 Chapel St, Windsor, VIC 3181
-- **Entrecôte** at 142-144 Greville St, Prahran, VIC 3181
-- **Tokyo Tina** at 66A Chapel St, Windsor, VIC 3181
-- **Tall Timber** at 60 Commercial Rd, Prahran VIC 3181
-- **Journeyman** at 169 Chapel St, Prahran VIC 3181
-- **Oscar Cooper** at 160 Greville St, Prahran VIC 3181
-- **Dragon Hot Pot Prahran** at 180 Commercial Rd, Prahran VIC 3181
-- **Prahran Convenience Store (The Toastie Spot)** at 208 Commercial Rd, Prahran VIC 3181
-- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor VIC 3181
-- **Rice Paper Scissors** at 577 Chapel St, South Yarra, VIC 3141
-
-### Key Highlights
-
-- Prahran Market
-- Chapel Street shopping precinct
-- Grattan Gardens
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**Nearby:** [South Yarra](/south-yarra/) | [St Kilda](/st-kilda/) | [Fitzroy](/fitzroy/)

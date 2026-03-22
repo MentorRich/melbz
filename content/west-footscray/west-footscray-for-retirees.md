@@ -4,12 +4,16 @@ description: "Considering retirement in West Footscray? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "west-footscray"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "West Footscray retirees Melbourne"
   - "retiring in West Footscray"
   - "quiet suburbs Melbourne"
+tags:
+  - "west-footscray"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in West Footscray? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

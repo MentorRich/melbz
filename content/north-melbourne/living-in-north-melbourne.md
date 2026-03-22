@@ -4,12 +4,16 @@ description: "What's it really like living in North Melbourne? Pros, cons, and t
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "living-in"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "living in North Melbourne Melbourne"
   - "pros and cons of living in North Melbourne"
   - "is North Melbourne a good place to live"
+tags:
+  - "north-melbourne"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to North Melbourne? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ Working-class roots with a growing cafe scene. Close to everything, still relati
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, North Melbourne delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** The food scene covers the essentials and then some - good coffee, reliable dinner spots, and a few places that punch well above their weight.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

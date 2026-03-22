@@ -1,17 +1,16 @@
 ---
 title: "Best Coffee in Melbourne CBD 2026: The Complete Guide"
-cover_image: "/images/melbourne-cbd/best-coffee.jpg"
-date: 2026-03-16
-author: dani
-author_image: "/images/authors/dani.jpg"
-tags: ["melbourne-cbd", "coffee", "cafes"]
-categories: ["food"]
-description: "Best Coffee in Melbourne CBD 2026: The Complete Guide"
+cover_image: "/images/shared/cafe-street.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Dani Rossi"
+tags: ["melbourne", "melbourne-cbd", "coffee", "cafes"]
+description: "Eight CBD coffee spots tested in 2026. Patricia for black coffee perfection, Axil for all-day roasting, Brother Baba Budan for Seven Seeds on Little Bourke."
 ---
 
 **Updated 16 March 2026 | 15 places tested | Dani Rossi reporting**
-
-
 
 
 *Updated 16 March 2026 | 15 places tested | Dani Rossi reporting*
@@ -25,7 +24,7 @@ You already know Melbourne takes..."
 
 You already know Melbourne takes its coffee seriously. We don't need to establish that. What you actually need is someone to walk you through the CBD's current coffee scene without the fluff — real recommendations, real prices, and a straight answer on which spots are worth your 7am queue and which ones coast on Instagram.
 
-I spent three weeks hitting every specialty café in the CBD proper — from the Little Bourke Street corridor to the laneways behind Flinders Street Station. Fifteen places tested. Eight earned a spot in this guide. Some were average. One was actively bad (we'll get to that).
+I spent three weeks hitting every specialty café in the CBD proper — from the Little Bourke Street corridor to the laneways behind Flinders Street Station. Fifteen places tested. Eight earned a spot . Some were average. One was actively bad (we'll get to that).
 
 This is the 2026 list.
 
@@ -240,39 +239,3 @@ We tested 15 cafés for this guide. Eight made the cut. But the CBD is only one 
 **Dani Rossi** is MELBZ's Coffee Editor. She's been covering Melbourne's café scene since 2018 and has tested over 400 cafés across metro Melbourne. She takes her coffee black, her opinions strong, and her flat whites at 65°C (fight her). Follow her [MELBZ author page](/authors/dani-rossi) for weekly coffee drops.
 
 *Last reviewed by the MELBZ editorial team, March 2026. Prices and hours may change — check with each café before visiting. If we got something wrong, tell us. We fix things.*
-
-### Featured Venues
-
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-
-### Key Highlights
-
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
-
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/southbank/](/southbank/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

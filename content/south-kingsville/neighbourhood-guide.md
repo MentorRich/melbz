@@ -4,13 +4,18 @@ description: "The insider's guide to South Kingsville's different pockets, stree
 date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "South Kingsville neighbourhood guide"
   - "best streets in South Kingsville"
   - "South Kingsville areas"
   - "South Kingsville pockets Melbourne"
+tags:
+  - "south-kingsville"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 South Kingsville isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

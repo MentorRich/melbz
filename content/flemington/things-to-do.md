@@ -4,13 +4,19 @@ description: "What to do in Flemington this weekend and beyond. Activities, even
 date: 2026-03-21
 suburb: "flemington"
 article_type: "activities"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "things to do Flemington"
   - "Flemington activities"
   - "what to do in Flemington"
   - "Flemington weekend plans"
+tags:
+  - "flemington"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -53,7 +59,7 @@ More than you think. Home of the Melbourne Cup. Racecourse views, Flemington Roa
 
 Melbourne weather means you need indoor plans. Flemington has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/flemington/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Flemington has:
 ---
 
 **More on Flemington:** [Flemington Suburb Guide](/flemington/) · [Flemington Best Cafes](/flemington/best-cafes/) · [Flemington Neighbourhood Guide](/flemington/neighbourhood-guide/)
+
+---
+
+## Explore More of Flemington
+
+- [Flemington History](/flemington/history/)
+- [Flemington Rent Guide](/flemington/rent-guide/)
+- [Flemington Cost of Living](/flemington/cost-of-living/)
+- [Flemington Young Professionals Guide](/flemington/young-professionals/)
+- [Flemington Nightlife Guide](/flemington/nightlife-guide/)
+- [Flemington Transport Guide](/flemington/transport-guide/)
+- [Flemington Best Cafes](/flemington/best-cafes/)
+- [Flemington Best Restaurants](/flemington/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Fitzroy North Suburb Guide](/fitzroy-north/)
+- [Footscray Suburb Guide](/footscray/)
+- [Forest Hill Suburb Guide](/forest-hill/)

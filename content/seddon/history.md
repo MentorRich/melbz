@@ -4,16 +4,22 @@ description: "The story of Seddon: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "seddon"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Seddon Melbourne history"
   - "how has Seddon changed"
   - "Seddon gentrification"
   - "Seddon then and now"
+tags:
+  - "seddon"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Seddon's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Seddon has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Seddon suburb guide](/seddon/) for the current picture.
 

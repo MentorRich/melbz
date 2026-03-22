@@ -4,15 +4,22 @@ description: "Public transport in Albion: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "albion"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Albion Melbourne"
   - "commute from Albion to city"
   - "Albion train station"
+tags:
+  - "albion"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Albion — what works, what's annoying, and how long things actually take.
+Two words define transport in Albion: work in progress. Everything else is detail.
 
 Check out our full [Albion suburb guide](/albion/) for the complete picture.
 

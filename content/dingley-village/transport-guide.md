@@ -4,15 +4,22 @@ description: "Public transport in Dingley Village: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "dingley-village"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Dingley Village Melbourne"
   - "commute from Dingley Village to city"
   - "Dingley Village train station"
+tags:
+  - "dingley-village"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Dingley Village — what works, what's annoying, and how long things actually take.
+If you are car-dependent, Dingley Village might surprise you. If you rely on PT, read this first.
 
 Check out our full [Dingley Village suburb guide](/dingley-village/) for the complete picture.
 

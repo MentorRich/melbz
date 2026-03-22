@@ -3,13 +3,13 @@ title: "Australian Open — Melbourne Suburb Guide for Tennis Fans"
 description: "Heading to the Australian Open? Here's where to stay, eat, and drink — the suburb-by-suburb guide."
 date: 2026-03-21
 article_type: "trending"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "australian open suburbs guide"
   - "where to stay australian open"
   - "melbourne park suburb guide"
   - "australian open 2027 melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Heading to the Australian Open? Here's where to stay, eat, and drink — the suburb-by-suburb guide.

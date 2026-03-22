@@ -4,13 +4,18 @@ description: "The insider's guide to Strathmore's different pockets, streets, an
 date: 2026-03-21
 suburb: "strathmore"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "Strathmore neighbourhood guide"
   - "best streets in Strathmore"
   - "Strathmore areas"
   - "Strathmore pockets Melbourne"
+tags:
+  - "strathmore"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Strathmore isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

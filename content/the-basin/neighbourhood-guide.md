@@ -4,13 +4,18 @@ description: "The insider's guide to The Basin's different pockets, streets, and
 date: 2026-03-21
 suburb: "the-basin"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "The Basin neighbourhood guide"
   - "best streets in The Basin"
   - "The Basin areas"
   - "The Basin pockets Melbourne"
+tags:
+  - "the-basin"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 The Basin isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

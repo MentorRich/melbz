@@ -4,16 +4,22 @@ description: "The story of Ferntree Gully: from its origins to today. How this M
 date: 2026-03-21
 suburb: "ferntree-gully"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Ferntree Gully Melbourne history"
   - "how has Ferntree Gully changed"
   - "Ferntree Gully gentrification"
   - "Ferntree Gully then and now"
+tags:
+  - "ferntree-gully"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Ferntree Gully's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Ferntree Gully was a railway stop in open paddocks. The transformation tells a quintessentially Melbourne story.
 
 See our full [Ferntree Gully suburb guide](/ferntree-gully/) for the current picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Gardenvale? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "gardenvale"
 article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Gardenvale retirees Melbourne"
   - "retiring in Gardenvale"
   - "quiet suburbs Melbourne"
+tags:
+  - "gardenvale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Gardenvale? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

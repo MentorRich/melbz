@@ -4,16 +4,22 @@ description: "The story of Kingsville: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "kingsville"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Kingsville Melbourne history"
   - "how has Kingsville changed"
   - "Kingsville gentrification"
   - "Kingsville then and now"
+tags:
+  - "kingsville"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Kingsville's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Kingsville is a story of community resilience.
 
 See our full [Kingsville suburb guide](/kingsville/) for the current picture.
 

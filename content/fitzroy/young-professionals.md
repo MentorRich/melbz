@@ -3,15 +3,13 @@ title: "Fitzroy for Young Professionals 2026: Lifestyle, Cost & Nightlife"
 slug: "young-professionals"
 date: 2026-03-21
 updated: 2026-03-21
-author: dani
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 suburb: "fitzroy"
 suburbs: ["fitzroy"]
-vertical: lifestyle
 tags: ["fitzroy", "young-professionals", "nightlife", "lifestyle"]
 description: "Fitzroy for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent."
-cover_image: "https://images.pexels.com/photos/4124003/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Fitzroy nightlife young professionals Melbourne"
+cover_image: "/images/fitzroy/young-professionals.jpg"
+cover_image_alt: "Fitzroy street scene young professionals Melbourne evening"
 vibe_score: 94
 ---
 
@@ -54,7 +52,11 @@ Weekend brunch is a religion in Fitzroy. Saturday mornings mean queues at the to
 
 ## The Commute
 
-From Fitzroy to the CBD: 10-20 minutes by train or tram. Services run every 5-10 minutes during peak. This is one of the best-connected suburbs in Melbourne. For most young professionals, the commute from Fitzroy is a non-issue.
+Fitzroy has no train station — trams are your main public transport. Tram 11 runs along Brunswick Street and tram 86 runs along Smith Street, both heading straight into the CBD in about 15-20 minutes. Services run every 5-10 minutes during peak, so you rarely wait long.
+
+If you need a train line, the nearest stations are Parliament (roughly a 15-minute walk from central Fitzroy) and Clifton Hill (about a 10-minute walk from the Smith Street end). Most young professionals find trams handle the commute fine, or just cycle — Fitzroy to the CBD is a flat, easy ride.
+
+For the full picture, check our [Fitzroy transport guide](/fitzroy/transport-guide/).
 
 ## Is Fitzroy Worth It for Young Professionals?
 
@@ -68,4 +70,4 @@ Yes. Fitzroy is one of Melbourne's best suburbs for young professionals. The nig
 
 ---
 
-*Living the young professional life in Fitzroy? Tell us your experience — [hq@melbz101](mailto:hq@melbz101)*
+*Living the young professional life in Fitzroy? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*

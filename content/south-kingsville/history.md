@@ -4,16 +4,22 @@ description: "The story of South Kingsville: from its origins to today. How this
 date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "South Kingsville Melbourne history"
   - "how has South Kingsville changed"
   - "South Kingsville gentrification"
   - "South Kingsville then and now"
+tags:
+  - "south-kingsville"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. South Kingsville's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Understanding South Kingsville means understanding where it came from. The history explains the character.
 
 See our full [South Kingsville suburb guide](/south-kingsville/) for the current picture.
 

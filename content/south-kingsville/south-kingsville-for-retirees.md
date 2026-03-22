@@ -4,12 +4,16 @@ description: "Considering retirement in South Kingsville? Quiet streets, healthc
 date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "South Kingsville retirees Melbourne"
   - "retiring in South Kingsville"
   - "quiet suburbs Melbourne"
+tags:
+  - "south-kingsville"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in South Kingsville? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

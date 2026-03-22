@@ -4,15 +4,22 @@ description: "Public transport in Keilor Downs: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Keilor Downs Melbourne"
   - "commute from Keilor Downs to city"
   - "Keilor Downs train station"
+tags:
+  - "keilor-downs"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Keilor Downs — what works, what's annoying, and how long things actually take.
+Public transport in Keilor Downs has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Keilor Downs suburb guide](/keilor-downs/) for the complete picture.
 

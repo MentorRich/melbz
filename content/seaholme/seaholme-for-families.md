@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Seaholme? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "seaholme"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Seaholme good for families"
   - "Seaholme family friendly"
   - "raising kids in Seaholme"
+tags:
+  - "seaholme"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Seaholme with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

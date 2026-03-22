@@ -3,13 +3,13 @@ title: "New Year's Eve in Melbourne 2026 — Best Suburbs to Celebrate"
 description: "Where to ring in the new year in Melbourne. Fireworks views, bar recommendations, and the suburb guide to NYE."
 date: 2026-03-21
 article_type: "trending"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "nye melbourne 2026"
   - "new years eve melbourne"
   - "fireworks melbourne suburbs"
   - "best nye melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Where to ring in the new year in Melbourne. Fireworks views, bar recommendations, and the suburb guide to NYE.

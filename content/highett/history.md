@@ -4,16 +4,22 @@ description: "The story of Highett: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "highett"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Highett Melbourne history"
   - "how has Highett changed"
   - "Highett gentrification"
   - "Highett then and now"
+tags:
+  - "highett"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Highett's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Highett is a story of suburban evolution.
 
 See our full [Highett suburb guide](/highett/) for the current picture.
 

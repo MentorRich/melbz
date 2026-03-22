@@ -2,8 +2,7 @@
 cover_image: "/images/melbourne/confessions.jpg"
 title: "MELBZ Confessions — Anonymous & Named"
 date: 2026-03-17T08:30:00+10:00
-author: "MELBZ Team"
-author_image: "/images/authors/adam.jpg"
+author: "Dani Reyes"
 description: "Share your confession anonymously or with your name. Melbourne's juiciest secrets, told straight."
 tags: ["confessions", "community", "anonymous"]
 categories: ["Community"]
@@ -336,19 +335,10 @@ function reactConfession(button, emoji) {
 </script>
 ## Related Articles
 
-- [/st-kilda/](/st-kilda/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [St Kilda](/st-kilda/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*
 
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

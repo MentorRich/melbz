@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Dallas? Parks, schools, safety, and th
 date: 2026-03-21
 suburb: "dallas"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Dallas good for families"
   - "Dallas family friendly"
   - "raising kids in Dallas"
+tags:
+  - "dallas"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Dallas with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -3,13 +3,13 @@ title: "F1 Grand Prix Melbourne — Where to Stay and Eat by Suburb"
 description: "Melbourne Grand Prix guide: which suburbs are closest to Albert Park, where to eat, and where to stay."
 date: 2026-03-21
 article_type: "trending"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "melbourne grand prix 2026"
   - "f1 melbourne where to stay"
   - "grand prix suburbs melbourne"
   - "albert park f1 guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Melbourne Grand Prix guide: which suburbs are closest to Albert Park, where to eat, and where to stay.

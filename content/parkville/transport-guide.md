@@ -4,15 +4,22 @@ description: "Public transport in Parkville: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "parkville"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Parkville Melbourne"
   - "commute from Parkville to city"
   - "Parkville train station"
+tags:
+  - "parkville"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Parkville — what works, what's annoying, and how long things actually take.
+Your morning commute from Parkville depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Parkville suburb guide](/parkville/) for the complete picture.
 

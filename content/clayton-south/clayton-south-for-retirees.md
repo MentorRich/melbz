@@ -4,12 +4,16 @@ description: "Considering retirement in Clayton South? Quiet streets, healthcare
 date: 2026-03-21
 suburb: "clayton-south"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Clayton South retirees Melbourne"
   - "retiring in Clayton South"
   - "quiet suburbs Melbourne"
+tags:
+  - "clayton-south"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Clayton South? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

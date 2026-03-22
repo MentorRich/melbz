@@ -4,15 +4,22 @@ description: "Public transport in Rowville: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "rowville"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Rowville Melbourne"
   - "commute from Rowville to city"
   - "Rowville train station"
+tags:
+  - "rowville"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Rowville — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Rowville, you need to know what the daily commute actually looks like.
 
 Check out our full [Rowville suburb guide](/rowville/) for the complete picture.
 

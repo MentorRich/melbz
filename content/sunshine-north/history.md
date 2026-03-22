@@ -4,16 +4,22 @@ description: "The story of Sunshine North: from its origins to today. How this M
 date: 2026-03-21
 suburb: "sunshine-north"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Sunshine North Melbourne history"
   - "how has Sunshine North changed"
   - "Sunshine North gentrification"
   - "Sunshine North then and now"
+tags:
+  - "sunshine-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Sunshine North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Sunshine North has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Sunshine North suburb guide](/sunshine-north/) for the current picture.
 

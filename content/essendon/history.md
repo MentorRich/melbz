@@ -4,16 +4,22 @@ description: "The story of Essendon: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "essendon"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Essendon Melbourne history"
   - "how has Essendon changed"
   - "Essendon gentrification"
   - "Essendon then and now"
+tags:
+  - "essendon"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Essendon's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+History buffs and new residents alike should know the origin story of Essendon. It explains more than you would expect.
 
 See our full [Essendon suburb guide](/essendon/) for the current picture.
 

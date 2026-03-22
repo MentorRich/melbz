@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Deer Park? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "deer-park"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Deer Park good for families"
   - "Deer Park family friendly"
   - "raising kids in Deer Park"
+tags:
+  - "deer-park"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Deer Park with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

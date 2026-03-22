@@ -4,16 +4,22 @@ description: "The story of Lynbrook: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "lynbrook"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Lynbrook Melbourne history"
   - "how has Lynbrook changed"
   - "Lynbrook gentrification"
   - "Lynbrook then and now"
+tags:
+  - "lynbrook"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Lynbrook's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Lynbrook was not always the place you see today. Its story starts as a working-class neighbourhood, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Lynbrook suburb guide](/lynbrook/) for the current picture.
 

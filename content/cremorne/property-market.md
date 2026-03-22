@@ -1,18 +1,14 @@
 ---
-title: "Cremorne Property Market — Buying Guide"
-description: "Thinking of buying in Cremorne? What the market looks like, what to expect, and the honest view for buyers."
-date: 2026-03-21
+title: "Cremorne Property Market 2026 — Buying Guide"
+description: "Thinking of buying in Cremorne? Warehouse conversions on Cremorne Street, apartment prices on Church Street, and the honest view for buyers in Melbourne's tech hub."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/cremorne/property-market.jpg"
+cover_image_alt: "Warehouse conversion apartments in Cremorne"
 suburb: "cremorne"
-article_type: "property"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-keywords:
-  - "buying in Cremorne"
-  - "Cremorne property market"
-  - "Cremorne house prices"
-  - "real estate Cremorne Melbourne"
+tags: ["cremorne", "property", "buying", "real-estate"]
 ---
-
 
 ## The Cremorne Property Market — What You Need to Know
 
@@ -80,3 +76,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Cremorne:** [Cremorne Suburb Guide](/cremorne/) · [Cremorne Cost of Living](/cremorne/cost-of-living/) · [Cremorne Neighbourhood Guide](/cremorne/neighbourhood-guide/)
+
+---
+
+## Explore More of Cremorne
+
+- [Cremorne History](/cremorne/history/)
+- [Cremorne Things To Do This Weekend](/cremorne/things-to-do-this-weekend/)
+- [Cremorne Cheap Eats](/cremorne/cheap-eats/)
+- [Cremorne Rent Guide](/cremorne/rent-guide/)
+- [Cremorne Date Night Guide](/cremorne/date-night/)
+- [Cremorne Cremorne For Retirees](/cremorne/cremorne-for-retirees/)
+- [Cremorne New Openings](/cremorne/new-openings/)
+- [Cremorne Things To Do](/cremorne/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Cranbourne North Suburb Guide](/cranbourne-north/)
+- [Cranbourne West Suburb Guide](/cranbourne-west/)
+- [Croydon Suburb Guide](/croydon/)
+- [Croydon North Suburb Guide](/croydon-north/)

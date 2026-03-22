@@ -4,15 +4,22 @@ description: "Public transport in Kew East: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "kew-east"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Kew East Melbourne"
   - "commute from Kew East to city"
   - "Kew East train station"
+tags:
+  - "kew-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Kew East — what works, what's annoying, and how long things actually take.
+Real talk about getting around Kew East: what the timetable says vs what actually happens.
 
 Check out our full [Kew East suburb guide](/kew-east/) for the complete picture.
 

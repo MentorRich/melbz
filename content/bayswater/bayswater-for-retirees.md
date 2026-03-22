@@ -4,12 +4,16 @@ description: "Considering retirement in Bayswater? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "bayswater"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Bayswater retirees Melbourne"
   - "retiring in Bayswater"
   - "quiet suburbs Melbourne"
+tags:
+  - "bayswater"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/beach-bayside.jpg"
 ---
 
 Thinking about retiring in Bayswater? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

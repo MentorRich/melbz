@@ -2,16 +2,13 @@
 title: "Ivanhoe Honest Guide 2026: Upper Heidelberg Road & Real Opinions"
 cover_image: "/images/ivanhoe/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["ivanhoe", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Ivanhoe Honest Guide 2026: Upper Heidelberg Road & Real Opinions"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -133,10 +130,9 @@ If you're comparing it to Heidelberg, Heidelberg has more going on commercially 
 
 ## Related Articles
 
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Footscray](/footscray/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -4,16 +4,22 @@ description: "How expensive is Heidelberg West? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Heidelberg West Melbourne"
   - "how expensive is Heidelberg West"
   - "is Heidelberg West expensive to live in"
   - "Heidelberg West rent"
+tags:
+  - "heidelberg-west"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Heidelberg West — no sugar-coating, no made-up figures.
+Living costs in Heidelberg West have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Heidelberg West suburb guide](/heidelberg-west/) for the bigger picture.
 

@@ -4,13 +4,18 @@ description: "The insider's guide to Viewbank's different pockets, streets, and 
 date: 2026-03-21
 suburb: "viewbank"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Viewbank neighbourhood guide"
   - "best streets in Viewbank"
   - "Viewbank areas"
   - "Viewbank pockets Melbourne"
+tags:
+  - "viewbank"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Viewbank isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

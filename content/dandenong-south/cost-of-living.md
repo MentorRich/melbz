@@ -4,16 +4,22 @@ description: "How expensive is Dandenong South? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "dandenong-south"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Dandenong South Melbourne"
   - "how expensive is Dandenong South"
   - "is Dandenong South expensive to live in"
   - "Dandenong South rent"
+tags:
+  - "dandenong-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Dandenong South — no sugar-coating, no made-up figures.
+Everyone asks how expensive is Dandenong South. The real answer depends on your lifestyle. Here is the data.
 
 Read our full [Dandenong South suburb guide](/dandenong-south/) for the bigger picture.
 

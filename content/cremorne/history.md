@@ -1,19 +1,16 @@
 ---
-title: "Cremorne — History and How It's Changed"
-description: "The story of Cremorne: from its origins to today. How this Melbourne suburb evolved and where it's heading next."
-date: 2026-03-21
+title: "History of Cremorne — From Industrial Precinct to Melbourne's Tech Hub"
+description: "How Cremorne evolved from furniture warehouses and light industry to hosting SEEK, REA Group, and Uber. The real history of Melbourne's most rapidly changing suburb."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Lin"
+cover_image: "/images/cremorne/history.jpg"
+cover_image_alt: "Heritage warehouse building in Cremorne"
 suburb: "cremorne"
-article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
-  - "Cremorne Melbourne history"
-  - "how has Cremorne changed"
-  - "Cremorne gentrification"
-  - "Cremorne then and now"
+tags: ["cremorne", "history", "heritage"]
 ---
 
-Every Melbourne suburb has a story. Cremorne's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+The history of Cremorne shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Cremorne suburb guide](/cremorne/) for the current picture.
 

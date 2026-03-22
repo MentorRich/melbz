@@ -1,21 +1,16 @@
 ---
-title: "Fitzroy North for Young Professionals 2026: Lifestyle, Cost & Nightlife"
-slug: "young-professionals"
-date: 2026-03-21
-updated: 2026-03-21
-author: dani
-author_image: "/images/authors/dani.jpg"
+title: "Fitzroy North for Young Professionals 2026: Lifestyle, Cost and Nightlife"
+description: "Fitzroy North for young professionals in 2026. Brunswick Street pubs, the tram commute, Edinburgh Gardens weekends, and whether inner-north rent is worth it."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
+cover_image: "/images/fitzroy-north/young-professionals.jpg"
+cover_image_alt: "Fitzroy North Brunswick Street nightlife for young professionals"
 suburb: "fitzroy-north"
-suburbs: ["fitzroy-north"]
-vertical: lifestyle
 tags: ["fitzroy-north", "young-professionals", "nightlife", "lifestyle"]
-description: "Fitzroy North for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent."
-cover_image: "https://images.pexels.com/photos/3708950/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Fitzroy North nightlife young professionals Melbourne"
-vibe_score: 80
 ---
 
-You're in your mid-20s to early-30s, you earn decent money but not Toorak money, and you want a suburb that has actual things to do after 6pm. Is Fitzroy North it?
+Fitzroy North attracts a certain kind of young professional. Here is whether you fit the profile - and whether it fits yours.
 
 ## The Young Professional Scorecard
 
@@ -68,4 +63,4 @@ Fitzroy North works for young professionals who prioritise lifestyle balance ove
 
 ---
 
-*Living the young professional life in Fitzroy North? Tell us your experience — [hq@melbz101](mailto:hq@melbz101)*
+*Living the young professional life in Fitzroy North? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*

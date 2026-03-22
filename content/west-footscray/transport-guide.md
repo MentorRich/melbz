@@ -4,15 +4,22 @@ description: "Public transport in West Footscray: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "west-footscray"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport West Footscray Melbourne"
   - "commute from West Footscray to city"
   - "West Footscray train station"
+tags:
+  - "west-footscray"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around West Footscray — what works, what's annoying, and how long things actually take.
+West Footscray transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [West Footscray suburb guide](/west-footscray/) for the complete picture.
 

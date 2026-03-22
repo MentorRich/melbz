@@ -4,15 +4,22 @@ description: "Public transport in Rosanna: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "rosanna"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Rosanna Melbourne"
   - "commute from Rosanna to city"
   - "Rosanna train station"
+tags:
+  - "rosanna"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Rosanna — what works, what's annoying, and how long things actually take.
+Rosanna transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Rosanna suburb guide](/rosanna/) for the complete picture.
 

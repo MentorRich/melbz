@@ -1,16 +1,16 @@
 ---
-title: "Ashburton Melbourne — Everything You Need to Know"
+title: "Ashburton Melbourne — what you need"
 description: "The complete guide to Ashburton. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "ashburton"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Ashburton Melbourne"
   - "what is Ashburton like"
   - "ashburton suburb"
   - "living in Ashburton"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 High Street village, Alamein line terminus, and quiet family pocket near better-known neighbours.

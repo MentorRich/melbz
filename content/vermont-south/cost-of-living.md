@@ -4,16 +4,22 @@ description: "How expensive is Vermont South? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "vermont-south"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Vermont South Melbourne"
   - "how expensive is Vermont South"
   - "is Vermont South expensive to live in"
   - "Vermont South rent"
+tags:
+  - "vermont-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Vermont South — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Vermont South actually cost? No vague estimates - real numbers.
 
 Read our full [Vermont South suburb guide](/vermont-south/) for the bigger picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Kooyong? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "kooyong"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Kooyong retirees Melbourne"
   - "retiring in Kooyong"
   - "quiet suburbs Melbourne"
+tags:
+  - "kooyong"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Kooyong? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

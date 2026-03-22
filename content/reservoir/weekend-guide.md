@@ -4,13 +4,19 @@ description: "Your weekend in Reservoir sorted — from morning coffee to Saturd
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "weekend"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "what to do Reservoir this weekend"
   - "Reservoir weekend"
   - "things to do Reservoir Saturday"
   - "Reservoir Sunday plans"
+tags:
+  - "reservoir"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Reservoir does weekends well. Whether you're the type who plans every hour or pr
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Reservoir's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/reservoir/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Reservoir's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Reservoir starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Reservoir starts slower. The [cafes](/reservoir/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Reservoir and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Reservoir does weekends well. Whether you're the type who plans every hour or pr
 ---
 
 **More on Reservoir:** [Reservoir Suburb Guide](/reservoir/) · [Reservoir Things to Do](/reservoir/things-to-do/) · [Reservoir Best Restaurants](/reservoir/best-restaurants/)
+
+---
+
+## Explore More of Reservoir
+
+- [Reservoir History](/reservoir/history/)
+- [Reservoir Rent Guide](/reservoir/rent-guide/)
+- [Reservoir Things To Do](/reservoir/things-to-do/)
+- [Reservoir Cost of Living](/reservoir/cost-of-living/)
+- [Reservoir Reservoir For Families](/reservoir/reservoir-for-families/)
+- [Reservoir Neighbourhood Guide](/reservoir/neighbourhood-guide/)
+- [Reservoir Transport Guide](/reservoir/transport-guide/)
+- [Reservoir Best Cafes](/reservoir/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Preston Suburb Guide](/preston/)
+- [Thornbury Suburb Guide](/thornbury/)
+- [Coburg Suburb Guide](/coburg/)
+- [Pascoe Vale Suburb Guide](/pascoe-vale/)

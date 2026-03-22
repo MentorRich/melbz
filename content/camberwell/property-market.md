@@ -3,14 +3,14 @@ title: "Camberwell Property Market — Buying Guide"
 description: "Thinking of buying in Camberwell? What the market looks like, what to expect, and the honest view for buyers."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "property"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
-keywords:
-  - "buying in Camberwell"
-  - "Camberwell property market"
-  - "Camberwell house prices"
-  - "real estate Camberwell Melbourne"
+author: "Priya Sandhu"
+tags:
+  - "camberwell"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -80,3 +80,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) · [Camberwell Cost of Living](/camberwell/cost-of-living/) · [Camberwell Neighbourhood Guide](/camberwell/neighbourhood-guide/)
+
+---
+
+## Explore More of Camberwell
+
+- [Camberwell History](/camberwell/history/)
+- [Camberwell Camberwell For Retirees](/camberwell/camberwell-for-retirees/)
+- [Camberwell Rent Guide](/camberwell/rent-guide/)
+- [Camberwell Things To Do](/camberwell/things-to-do/)
+- [Camberwell Cost of Living](/camberwell/cost-of-living/)
+- [Camberwell Young Professionals Guide](/camberwell/young-professionals/)
+- [Camberwell Nightlife Guide](/camberwell/nightlife-guide/)
+- [Camberwell Transport Guide](/camberwell/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Glen Iris Suburb Guide](/glen-iris/)

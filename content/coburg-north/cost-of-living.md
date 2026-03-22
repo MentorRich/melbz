@@ -4,16 +4,22 @@ description: "How expensive is Coburg North? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "coburg-north"
 article_type: "cost-of-living"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Coburg North Melbourne"
   - "how expensive is Coburg North"
   - "is Coburg North expensive to live in"
   - "Coburg North rent"
+tags:
+  - "coburg-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Coburg North — no sugar-coating, no made-up figures.
+Before committing to Coburg North, run the numbers. Rent is just the start - here is the complete cost breakdown.
 
 Read our full [Coburg North suburb guide](/coburg-north/) for the bigger picture.
 

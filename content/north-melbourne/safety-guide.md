@@ -4,13 +4,19 @@ description: "Is North Melbourne safe to live in? The honest breakdown of safety
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "safety"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is North Melbourne safe"
   - "North Melbourne safety"
   - "North Melbourne crime"
   - "is North Melbourne dangerous Melbourne"
+tags:
+  - "north-melbourne"
+  - "safety"
+  - "crime"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -22,9 +28,9 @@ Read our full [North Melbourne suburb guide](/north-melbourne/) for the complete
 
 ## The Day-to-Day Experience
 
-Walking around North Melbourne during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around North Melbourne during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/north-melbourne/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/north-melbourne/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +54,7 @@ Crime statistics exist for every suburb, and North Melbourne's numbers are in li
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/north-melbourne/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +74,23 @@ The lifestyle benefits of North Melbourne — community, walkability, access —
 ---
 
 **More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne Living Guide](/north-melbourne/living-in-north-melbourne/) · [North Melbourne for Families](/north-melbourne/north-melbourne-for-families/)
+
+---
+
+## Explore More of North Melbourne
+
+- [North Melbourne History](/north-melbourne/history/)
+- [North Melbourne Rent Guide](/north-melbourne/rent-guide/)
+- [North Melbourne Things To Do](/north-melbourne/things-to-do/)
+- [North Melbourne Cost of Living](/north-melbourne/cost-of-living/)
+- [North Melbourne Neighbourhood Guide](/north-melbourne/neighbourhood-guide/)
+- [North Melbourne Transport Guide](/north-melbourne/transport-guide/)
+- [North Melbourne Best Cafes](/north-melbourne/best-cafes/)
+- [North Melbourne Best Restaurants](/north-melbourne/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

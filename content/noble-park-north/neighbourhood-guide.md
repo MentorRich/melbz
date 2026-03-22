@@ -4,13 +4,18 @@ description: "The insider's guide to Noble Park North's different pockets, stree
 date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Noble Park North neighbourhood guide"
   - "best streets in Noble Park North"
   - "Noble Park North areas"
   - "Noble Park North pockets Melbourne"
+tags:
+  - "noble-park-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Noble Park North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

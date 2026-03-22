@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Sandringham? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "sandringham"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Sandringham good for families"
   - "Sandringham family friendly"
   - "raising kids in Sandringham"
+tags:
+  - "sandringham"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Sandringham with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

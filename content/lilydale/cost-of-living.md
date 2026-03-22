@@ -4,16 +4,22 @@ description: "How expensive is Lilydale? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "lilydale"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Lilydale Melbourne"
   - "how expensive is Lilydale"
   - "is Lilydale expensive to live in"
   - "Lilydale rent"
+tags:
+  - "lilydale"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Lilydale — no sugar-coating, no made-up figures.
+Lilydale is not the cheapest option, but it might offer the best value - depending on what you prioritise.
 
 Read our full [Lilydale suburb guide](/lilydale/) for the bigger picture.
 

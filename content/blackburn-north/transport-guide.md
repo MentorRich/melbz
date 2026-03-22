@@ -4,15 +4,22 @@ description: "Public transport in Blackburn North: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "blackburn-north"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Blackburn North Melbourne"
   - "commute from Blackburn North to city"
   - "Blackburn North train station"
+tags:
+  - "blackburn-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Blackburn North — what works, what's annoying, and how long things actually take.
+Public transport in Blackburn North has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Blackburn North suburb guide](/blackburn-north/) for the complete picture.
 

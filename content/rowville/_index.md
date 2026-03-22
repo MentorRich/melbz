@@ -1,16 +1,16 @@
 ---
-title: "Rowville Melbourne — Everything You Need to Know"
+title: "Rowville Melbourne — what you need"
 description: "The complete guide to Rowville. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "rowville"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Rowville Melbourne"
   - "what is Rowville like"
   - "rowville suburb"
   - "living in Rowville"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Stud Park, family estates, and one of the outer south-east's biggest suburbs by population.

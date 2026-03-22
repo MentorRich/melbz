@@ -4,16 +4,22 @@ description: "How expensive is Sunshine North? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "sunshine-north"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Sunshine North Melbourne"
   - "how expensive is Sunshine North"
   - "is Sunshine North expensive to live in"
   - "Sunshine North rent"
+tags:
+  - "sunshine-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Sunshine North — no sugar-coating, no made-up figures.
+Everyone asks how expensive is Sunshine North. The real answer depends on your lifestyle. Here is the data.
 
 Read our full [Sunshine North suburb guide](/sunshine-north/) for the bigger picture.
 

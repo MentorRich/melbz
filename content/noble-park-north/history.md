@@ -4,16 +4,22 @@ description: "The story of Noble Park North: from its origins to today. How this
 date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Noble Park North Melbourne history"
   - "how has Noble Park North changed"
   - "Noble Park North gentrification"
   - "Noble Park North then and now"
+tags:
+  - "noble-park-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Noble Park North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Noble Park North is a classic Melbourne transformation story.
 
 See our full [Noble Park North suburb guide](/noble-park-north/) for the current picture.
 

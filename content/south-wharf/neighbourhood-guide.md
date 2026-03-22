@@ -4,13 +4,18 @@ description: "The insider's guide to South Wharf's different pockets, streets, a
 date: 2026-03-21
 suburb: "south-wharf"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "South Wharf neighbourhood guide"
   - "best streets in South Wharf"
   - "South Wharf areas"
   - "South Wharf pockets Melbourne"
+tags:
+  - "south-wharf"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 South Wharf isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,12 +4,16 @@ description: "Considering retirement in Ivanhoe? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "ivanhoe"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Ivanhoe retirees Melbourne"
   - "retiring in Ivanhoe"
   - "quiet suburbs Melbourne"
+tags:
+  - "ivanhoe"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Ivanhoe? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

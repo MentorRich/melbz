@@ -4,16 +4,22 @@ description: "The story of Viewbank: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "viewbank"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Viewbank Melbourne history"
   - "how has Viewbank changed"
   - "Viewbank gentrification"
   - "Viewbank then and now"
+tags:
+  - "viewbank"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Viewbank's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Viewbank has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Viewbank suburb guide](/viewbank/) for the current picture.
 

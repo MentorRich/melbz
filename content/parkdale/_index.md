@@ -1,16 +1,16 @@
 ---
-title: "Parkdale Melbourne — Everything You Need to Know"
+title: "Parkdale Melbourne — what you need"
 description: "The complete guide to Parkdale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "parkdale"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Parkdale Melbourne"
   - "what is Parkdale like"
   - "parkdale suburb"
   - "living in Parkdale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Under-the-radar bayside pocket with beach access and a quiet residential character.

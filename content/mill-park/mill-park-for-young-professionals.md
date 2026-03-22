@@ -4,12 +4,18 @@ description: "Is Mill Park a good suburb for young professionals? Social scene, 
 date: 2026-03-21
 suburb: "mill-park"
 article_type: "young-professionals"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Mill Park young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Mill Park"
+tags:
+  - "mill-park"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Mill Park as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

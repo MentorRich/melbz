@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Garden City? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "garden-city"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Garden City good for families"
   - "Garden City family friendly"
   - "raising kids in Garden City"
+tags:
+  - "garden-city"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Garden City with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

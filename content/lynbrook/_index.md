@@ -1,16 +1,16 @@
 ---
-title: "Lynbrook Melbourne — Everything You Need to Know"
+title: "Lynbrook Melbourne — what you need"
 description: "The complete guide to Lynbrook. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "lynbrook"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Lynbrook Melbourne"
   - "what is Lynbrook like"
   - "lynbrook suburb"
   - "living in Lynbrook"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Smaller pocket between Hampton Park and Cranbourne North with family estates.

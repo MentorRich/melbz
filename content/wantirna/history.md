@@ -4,16 +4,22 @@ description: "The story of Wantirna: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "wantirna"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Wantirna Melbourne history"
   - "how has Wantirna changed"
   - "Wantirna gentrification"
   - "Wantirna then and now"
+tags:
+  - "wantirna"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Wantirna's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Wantirna was industrial workshops. The transformation tells a quintessentially Melbourne story.
 
 See our full [Wantirna suburb guide](/wantirna/) for the current picture.
 

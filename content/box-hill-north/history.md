@@ -4,16 +4,22 @@ description: "The story of Box Hill North: from its origins to today. How this M
 date: 2026-03-21
 suburb: "box-hill-north"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Box Hill North Melbourne history"
   - "how has Box Hill North changed"
   - "Box Hill North gentrification"
   - "Box Hill North then and now"
+tags:
+  - "box-hill-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Box Hill North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Box Hill North means understanding where it came from. The history explains the character.
 
 See our full [Box Hill North suburb guide](/box-hill-north/) for the current picture.
 

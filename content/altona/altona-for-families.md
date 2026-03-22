@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Altona? Parks, schools, safety, and th
 date: 2026-03-21
 suburb: "altona"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Yemi Okafor"
 keywords:
   - "is Altona good for families"
   - "Altona family friendly"
   - "raising kids in Altona"
+tags:
+  - "altona"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Altona with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -1,16 +1,16 @@
 ---
-title: "Narre Warren South Melbourne — Everything You Need to Know"
+title: "Narre Warren South Melbourne — what you need"
 description: "The complete guide to Narre Warren South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Narre Warren South Melbourne"
   - "what is Narre Warren South like"
   - "narre-warren-south suburb"
   - "living in Narre Warren South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Family estates, Narre Warren South P-12, and quieter living south of the main centre.

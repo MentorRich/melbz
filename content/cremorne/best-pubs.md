@@ -1,17 +1,15 @@
 ---
 title: "Best Pubs in Cremorne — 2026 Local Guide"
+description: "The best pubs in Cremorne for 2026. From heritage Swan Street locals to converted warehouse beer halls, this small suburb has an honest pub scene worth knowing."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Jensen"
 cover_image: "/images/cremorne/best-pubs.jpg"
+cover_image_alt: "Cremorne pub with beer garden near Church Street"
+suburb: "cremorne"
+tags: ["cremorne", "pubs", "nightlife", "church-street"]
 ---
 
-suburb: "cremorne"
-vertical: "lifestyle"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Cremorne's pub scene is small but real — from heritage Swan Street locals to beer halls that have no business being this good."
-tags: ["cremorne"]
-categories: ["general"]
 # Best Pubs in Cremorne — 3121's Unlikely Pub Scene
 
 Here's the thing about Cremorne and pubs: this suburb wasn't built for pub culture. It was built for furniture warehouses, light industry, and the kind of commercial spaces where people worked, not drank. But somewhere between the tech offices moving in and the warehouse conversions going residential, Cremorne developed a pub scene that's small, scrappy, and honest.
@@ -116,10 +114,9 @@ These aren't destination pubs. They're neighbourhood pubs, and there's a world o
 
 ## Related Articles
 
-- [/carlton/](/carlton/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/best-pubs-melbourne/](/best-pubs-melbourne/)
-- [/nightlife/](/nightlife/)
+- [Carlton](/carlton/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Best Pubs Melbourne](/best-pubs-melbourne/)
+- [Nightlife](/nightlife/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

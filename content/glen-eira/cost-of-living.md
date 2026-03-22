@@ -4,16 +4,22 @@ description: "How expensive is Glen Eira? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "glen-eira"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Glen Eira Melbourne"
   - "how expensive is Glen Eira"
   - "is Glen Eira expensive to live in"
   - "Glen Eira rent"
+tags:
+  - "glen-eira"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Glen Eira — no sugar-coating, no made-up figures.
+Glen Eira sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Glen Eira suburb guide](/glen-eira/) for the bigger picture.
 

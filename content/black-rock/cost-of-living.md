@@ -4,16 +4,22 @@ description: "How expensive is Black Rock? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "black-rock"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Black Rock Melbourne"
   - "how expensive is Black Rock"
   - "is Black Rock expensive to live in"
   - "Black Rock rent"
+tags:
+  - "black-rock"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Black Rock — no sugar-coating, no made-up figures.
+The gap between the sticker price of Black Rock and actual living costs is worth understanding before you move.
 
 Read our full [Black Rock suburb guide](/black-rock/) for the bigger picture.
 

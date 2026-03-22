@@ -4,12 +4,16 @@ description: "Considering retirement in Carrum? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "carrum"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Yemi Okafor"
 keywords:
   - "Carrum retirees Melbourne"
   - "retiring in Carrum"
   - "quiet suburbs Melbourne"
+tags:
+  - "carrum"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Carrum? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

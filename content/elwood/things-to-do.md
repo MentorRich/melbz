@@ -4,19 +4,25 @@ description: "What to do in Elwood this weekend and beyond. Activities, events, 
 date: 2026-03-21
 suburb: "elwood"
 article_type: "activities"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "things to do Elwood"
   - "Elwood activities"
   - "what to do in Elwood"
   - "Elwood weekend plans"
+tags:
+  - "elwood"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
 ## What Is There to Do in Elwood?
 
-More than you think. Elwood Beach, Ormond Road village, and a relaxed bayside lifestyle without St Kilda's chaos. That energy translates into things to do on any day of the week, rain or shine.
+More than you think. Elwood Beach, Ormond Road village, and a relaxed bayside lifestyle without [St Kilda](/st-kilda/)'s chaos. That energy translates into things to do on any day of the week, rain or shine.
 
 ## Outdoor Activities
 
@@ -53,7 +59,7 @@ More than you think. Elwood Beach, Ormond Road village, and a relaxed bayside li
 
 Melbourne weather means you need indoor plans. Elwood has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/elwood/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Elwood has:
 ---
 
 **More on Elwood:** [Elwood Suburb Guide](/elwood/) · [Elwood Best Cafes](/elwood/best-cafes/) · [Elwood Neighbourhood Guide](/elwood/neighbourhood-guide/)
+
+---
+
+## Explore More of Elwood
+
+- [Elwood History](/elwood/history/)
+- [Elwood Rent Guide](/elwood/rent-guide/)
+- [Elwood Cost of Living](/elwood/cost-of-living/)
+- [Elwood Young Professionals Guide](/elwood/young-professionals/)
+- [Elwood Nightlife Guide](/elwood/nightlife-guide/)
+- [Elwood Transport Guide](/elwood/transport-guide/)
+- [Elwood Best Cafes](/elwood/best-cafes/)
+- [Elwood Best Restaurants](/elwood/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

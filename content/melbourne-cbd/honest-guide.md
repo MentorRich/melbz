@@ -1,12 +1,13 @@
 ---
 title: "Melbourne CBD Honest Guide 2026: What Nobody Tells You"
-cover_image: "/images/melbourne-cbd/honest-guide.jpg"
-date: 2026-03-16
-author: tyler
-author_image: "/images/authors/tyler.jpg"
-tags: ["melbourne-cbd", "honest-guide", "lifestyle"]
-categories: ["lifestyle"]
-description: "Melbourne CBD Honest Guide 2026: What Nobody Tells You"
+cover_image: "/images/shared/city-architecture.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Tyler James"
+tags: ["melbourne", "melbourne-cbd", "honest-guide", "lifestyle"]
+description: "The honest Melbourne CBD guide for 2026. What the tourism brochures skip, which laneways are worth your time and which spots charge twenty-two for a bad coffee."
 ---
 
 Here's the thing about Melbourne CBD. Everyone bangs on about it like it's the greatest chunk of real..."
@@ -70,7 +71,7 @@ Melbourne's laneway culture is the real deal — but it's the *other* laneways, 
 
 ### The Food
 
-Melbourne CBD's food scene is genuinely world-class, but you have to know where to look. The high-end stuff gets all the press — and look, **Chin Chin** is still a rite of passage even if it's been around forever. The queue is part of the experience, the flavours are loud, and the energy is chaotic. If you haven't been, go once. If you go a second time, you're either a tourist or in love.
+Melbourne CBD's food scene is genuinely excellent, but you have to know where to look. The high-end stuff gets all the press — and look, **Chin Chin** is still a rite of passage even if it's been around forever. The queue is part of the experience, the flavours are loud, and the energy is chaotic. If you haven't been, go once. If you go a second time, you're either a tourist or in love.
 
 For something less exhausting, the Little Bourke Street strip (between Swanston and Russell) still produces excellent yum cha and dumplings. You don't need a recommendation — walk in anywhere that's busy with actual Chinese families and you'll be fine. That's the whole review.
 
@@ -188,39 +189,3 @@ Or if you want the full food picture — because CBD dining is only part of the 
 *Have a CBD tip, complaint, or horror story? [Submit it to MELBZ confessions](/confessions/) — anonymity guaranteed, laughs guaranteed.*
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
-
-### Featured Venues
-
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-
-### Key Highlights
-
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
-
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/northcote/](/northcote/)
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -1,12 +1,13 @@
 ---
-title: "Best Pubs in South Yarra 2026: Heritage Hotels & Craft Beer"
+title: "Best Pubs in South Yarra 2026: Heritage Hotels and Craft Beer"
+description: "Six tested pubs in South Yarra from Temperance Hotel on Chapel Street to the Windsor Alehouse's nineteen craft taps. Heritage bones, modern beer."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Thompson"
 cover_image: "/images/south-yarra/best-pubs.jpg"
-date: 2026-03-16
-author: kai
-author_image: "/images/authors/kai.jpg"
-tags: ["south-yarra", "pubs", "nightlife"]
-categories: ["nightlife"]
-description: "South Yarra's Best Pubs 2026: From Dive Bars to Gastropubs."
+cover_image_alt: "South Yarra Melbourne pub beer garden"
+suburb: "south-yarra"
+tags: ["melbourne", "south-yarra", "pubs", "nightlife"]
 ---
 
  Best Pubs in South Yarra 2026: Heritage Hotels & Craft Beer
@@ -115,22 +116,22 @@ The beer list leans toward local craft, and the kitchen does a parma that regula
 
 Every "best pubs" list has gaps. Here's ours:
 
-- **The Esplanade Hotel (St Kilda):** Often lumped in with South Yarra because it's on Chapel Street, but it's firmly St Kilda — the beach is the giveaway. Brilliant pub, wrong suburb for this list. We cover it in our [St Kilda nightlife guide](/south-yarra/../stkilda/best-pubs).
+- **The Esplanade Hotel (St Kilda):** Brilliant pub, wrong suburb for this list. We cover it in our [St Kilda nightlife guide](/st-kilda/best-pubs/).
 
 - **505 Cellar:** Shares the same address as the Toorak Hotel (505 Malvern Rd) but operates as a separate late-night venue. It's more of a cocktail-and-DJ spot than a pub, so it didn't fit the brief. Worth a visit on Saturday night if that's your scene.
 
-- **Rising Sun Hotel (Richmond):** A beauty on Swan Street, but it's firmly Richmond territory. We've linked to it above as a cross-neighbourhood recommendation. See our [Richmond pub guide](/south-yarra/../richmond/best-pubs) for the full rundown.
+- **Rising Sun Hotel (Richmond):** A beauty on Swan Street, but it's firmly Richmond territory. See our [Richmond pub guide](/richmond/best-pubs/) for the full rundown.
 
 - **Barunga Bar (599 Chapel St):** This venue has changed hands multiple times and the current iteration focuses more on events and private functions than walk-in pub trade. We'll revisit if a new operator brings it back to its mid-century glory.
 
 
 ## Quick Cross-Links: Your Inner South Pub Crawl
 
-| Suburb | Must-Visit | Read More |
+| Suburb | Top Pick | Read More |
 |--------|-----------|-----------|
-| **Prahran** | Prahran Hotel, The Post Hotel | [Best Pubs in Prahran](/south-yarra/../prahran/best-pubs) |
-| **Richmond** | The Bridge Hotel, Rising Sun Hotel | [Best Pubs in Richmond](/south-yarra/../richmond/best-pubs) |
-| **Toorak** | Toorak Hotel, 505 Cellar | [Best Pubs in Toorak](/south-yarra/../toorak/best-pubs) |
+| **Prahran** | Prahran Hotel, The Post Hotel | [Best Pubs in Prahran](/prahran/best-pubs/) |
+| **Richmond** | The Bridge Hotel, Rising Sun Hotel | [Best Pubs in Richmond](/richmond/best-pubs/) |
+| **Toorak** | Toorak Hotel, 505 Cellar | [Best Pubs in Toorak](/toorak/best-pubs/) |
 
 
 ## The Verdict
@@ -142,12 +143,17 @@ The best thing about South Yarra pubs? They haven't tried to become something th
 
 *MELBZ Pubs — your guide to Melbourne's best bars, beer gardens, and local watering holes. Updated monthly. Got a pub we should review? [Tell us about it](/contact).*
 
-## Related Articles
+## FAQ
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/carlton/](/carlton/)
+**What's the best pub in South Yarra?**
+Temperance Hotel on Chapel Street for a genuine local feel. Imperial Hotel for rooftop cocktails with heritage bones.
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**Where can I get craft beer in South Yarra?**
+Windsor Alehouse (technically Windsor, 10-minute walk) has nineteen craft taps. Prahran Hotel has a strong local craft selection.
+
+**Do any South Yarra pubs do Sunday roasts?**
+Temperance Hotel does a Sunday roast that draws a crowd by 2pm. Toorak Hotel does a more upscale version.
+
+---
+
+**More South Yarra:** [Best Bars](/south-yarra/best-bars/) | [Nightlife Guide](/south-yarra/nightlife-guide/) | [Late Night Food](/south-yarra/late-night-food/)

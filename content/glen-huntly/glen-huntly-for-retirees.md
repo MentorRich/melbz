@@ -4,12 +4,16 @@ description: "Considering retirement in Glen Huntly? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "glen-huntly"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Glen Huntly retirees Melbourne"
   - "retiring in Glen Huntly"
   - "quiet suburbs Melbourne"
+tags:
+  - "glen-huntly"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Glen Huntly? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

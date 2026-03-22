@@ -4,13 +4,18 @@ description: "The insider's guide to Seaholme's different pockets, streets, and 
 date: 2026-03-21
 suburb: "seaholme"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Seaholme neighbourhood guide"
   - "best streets in Seaholme"
   - "Seaholme areas"
   - "Seaholme pockets Melbourne"
+tags:
+  - "seaholme"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Seaholme isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

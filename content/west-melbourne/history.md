@@ -4,16 +4,22 @@ description: "The story of West Melbourne: from its origins to today. How this M
 date: 2026-03-21
 suburb: "west-melbourne"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "West Melbourne Melbourne history"
   - "how has West Melbourne changed"
   - "West Melbourne gentrification"
   - "West Melbourne then and now"
+tags:
+  - "west-melbourne"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. West Melbourne's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of West Melbourne is a story of change and adaptation.
 
 See our full [West Melbourne suburb guide](/west-melbourne/) for the current picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Lilydale? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "lilydale"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Lilydale retirees Melbourne"
   - "retiring in Lilydale"
   - "quiet suburbs Melbourne"
+tags:
+  - "lilydale"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Lilydale? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

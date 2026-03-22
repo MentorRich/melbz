@@ -1,17 +1,15 @@
 ---
-title: "Nightlife Guide in Thornbury — Your 2026 Local's Handbook"
+title: "Nightlife Guide: Thornbury — Your 2026 Local's Handbook"
+description: "Thornbury nightlife for 2026 from craft beer temples to cocktail bars. Getting there via tram 86, staying safe, and the bar crawl you actually want."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
 cover_image: "/images/thornbury/nightlife-guide.jpg"
+cover_image_alt: "Thornbury Melbourne nightlife and bar scene on High Street"
+suburb: "thornbury"
+tags: ["melbourne", "thornbury", "nightlife", "bars"]
 ---
 
-suburb: "thornbury"
-vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Thornbury nightlife for 2026 — from beer temples to cocktail bars. Getting there, staying safe, and the crawl you actually want. No tourist traps."
-tags: ["thornbury"]
-categories: ["nightlife"]
 # Nightlife Guide in Thornbury — Your 2026 Local's Handbook
 
 Thornbury's nightlife isn't about megaclubs or VIP roulette — it's about a High Street strip that transforms after dark into a manageable, walkable series of watering holes where the drinks are good, the prices are honest, and you'll probably see someone you know. The 86 tram runs right past the good spots, the Bowen Street underground carpark is cheap and secure if you drive, and the vibe is generally welcoming. Here's how to do a Thornbury night right.
@@ -136,38 +134,3 @@ Thornbury nightlife is what happens when a suburb grows up without selling its s
 
 **What We Skipped and Why:** We left out hotel bars, strip clubs, and venues that are technically in Thornbury but function more as Northcote or Preston outskirts. If it's closer to another suburb's nightlife strip, it belongs in their guide. We also excluded venues that close before 9pm — this is a nightlife guide, not a "places that serve alcohol occasionally" guide.
 
-### Featured Venues
-
-- **Umbra** at 769 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
-- **Jerry Joy** at 847 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Umami** at 778 High St, Thornbury VIC 3071
-- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
-- **Umami** at 774 High St, Thornbury VIC 3071
-
-### Key Highlights
-
-- High Street's independent cafes and vintage stores
-- The iconic Thornbury Theatre
-- Penders Park and Merri Creek trail access
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/northcote/](/northcote/)
-- [/nightlife/](/nightlife/)
-- [/things-to-do/](/things-to-do/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

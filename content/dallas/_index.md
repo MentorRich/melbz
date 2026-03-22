@@ -1,16 +1,16 @@
 ---
-title: "Dallas Melbourne — Everything You Need to Know"
+title: "Dallas Melbourne — what you need"
 description: "The complete guide to Dallas. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "dallas"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Dallas Melbourne"
   - "what is Dallas like"
   - "dallas suburb"
   - "living in Dallas"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Affordable homes in the northern growth corridor with community centre and park access.

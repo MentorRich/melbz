@@ -4,16 +4,22 @@ description: "How expensive is South Kingsville? Rent, daily costs, and how this
 date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living South Kingsville Melbourne"
   - "how expensive is South Kingsville"
   - "is South Kingsville expensive to live in"
   - "South Kingsville rent"
+tags:
+  - "south-kingsville"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in South Kingsville — no sugar-coating, no made-up figures.
+Rent in South Kingsville tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [South Kingsville suburb guide](/south-kingsville/) for the bigger picture.
 

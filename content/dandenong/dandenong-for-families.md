@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Dandenong? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "dandenong"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Dandenong good for families"
   - "Dandenong family friendly"
   - "raising kids in Dandenong"
+tags:
+  - "dandenong"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Dandenong with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

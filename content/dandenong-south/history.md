@@ -4,16 +4,22 @@ description: "The story of Dandenong South: from its origins to today. How this 
 date: 2026-03-21
 suburb: "dandenong-south"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Dandenong South Melbourne history"
   - "how has Dandenong South changed"
   - "Dandenong South gentrification"
   - "Dandenong South then and now"
+tags:
+  - "dandenong-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Dandenong South's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+History buffs and new residents alike should know the origin story of Dandenong South. It explains more than you would expect.
 
 See our full [Dandenong South suburb guide](/dandenong-south/) for the current picture.
 

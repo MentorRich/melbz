@@ -4,13 +4,18 @@ description: "The insider's guide to Glen Huntly's different pockets, streets, a
 date: 2026-03-21
 suburb: "glen-huntly"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Glen Huntly neighbourhood guide"
   - "best streets in Glen Huntly"
   - "Glen Huntly areas"
   - "Glen Huntly pockets Melbourne"
+tags:
+  - "glen-huntly"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Glen Huntly isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

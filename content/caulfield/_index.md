@@ -1,16 +1,16 @@
 ---
-title: "Caulfield Melbourne — Everything You Need to Know"
+title: "Caulfield Melbourne — what you need"
 description: "The complete guide to Caulfield. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "caulfield"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Caulfield Melbourne"
   - "what is Caulfield like"
   - "caulfield suburb"
   - "living in Caulfield"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Caulfield Racecourse, Monash Uni campus, and a diverse community hub on the Frankston line.

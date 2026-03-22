@@ -4,15 +4,22 @@ description: "Public transport in Scoresby: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "scoresby"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Scoresby Melbourne"
   - "commute from Scoresby to city"
   - "Scoresby train station"
+tags:
+  - "scoresby"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Scoresby — what works, what's annoying, and how long things actually take.
+Getting around Scoresby comes down to a bus network that requires patience. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Scoresby suburb guide](/scoresby/) for the complete picture.
 

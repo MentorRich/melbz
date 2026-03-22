@@ -4,16 +4,22 @@ description: "How expensive is Bayswater? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "bayswater"
 article_type: "cost-of-living"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Bayswater Melbourne"
   - "how expensive is Bayswater"
   - "is Bayswater expensive to live in"
   - "Bayswater rent"
+tags:
+  - "bayswater"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Bayswater — no sugar-coating, no made-up figures.
+The cost of living in Bayswater surprises some people. Whether that is a good or bad surprise depends on your budget.
 
 Read our full [Bayswater suburb guide](/bayswater/) for the bigger picture.
 

@@ -4,13 +4,18 @@ description: "The insider's guide to Beaconsfield's different pockets, streets, 
 date: 2026-03-21
 suburb: "beaconsfield"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Beaconsfield neighbourhood guide"
   - "best streets in Beaconsfield"
   - "Beaconsfield areas"
   - "Beaconsfield pockets Melbourne"
+tags:
+  - "beaconsfield"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Beaconsfield isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

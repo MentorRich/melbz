@@ -1,16 +1,16 @@
 ---
-title: "Springvale Melbourne — Everything You Need to Know"
+title: "Springvale Melbourne — what you need"
 description: "The complete guide to Springvale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "springvale"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Springvale Melbourne"
   - "what is Springvale like"
   - "springvale suburb"
   - "living in Springvale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Melbourne's most diverse food strip. Vietnamese, Chinese, Afghan — the real multicultural essence of the south-east.

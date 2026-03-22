@@ -2,8 +2,7 @@
 title: "Live Music Guide to Melbourne 2026: Where to See Bands Right Now"
 cover_image: "/images/melbourne/live-music-guide.jpg"
 date: 2026-03-16
-author: dylan
-author_image: "/images/authors/dylan.jpg"
+author: "Dylan Carr"
 tags: ["melbourne", "live-music", "nightlife"]
 categories: ["nightlife"]
 description: "Live Music Guide to Melbourne 2026: Where to See Bands Right Now"
@@ -19,11 +18,9 @@ This is the guide for people who want to see live music this month, not just rea
 **Updated 16 March 2026 | 8 places tested | Dylan Kim reporting**
 
 
-
 ## 🎵 THE MOVE
 
 > **This week's move:** The Espy's Gershwin Room is hosting Fantastic Negrito on 15 March — literally tomorrow night if you're reading this on pub day. The man won a Grammy for Best Contemporary Blues Album and he's playing a 550-cap room in St Kilda. Tickets are still available. This is the kind of show that'll cost you $50 at a festival and here it's $45 standing in a room where you can see the whites of his eyes. Go.
-
 
 
 ## 1. The Corner Hotel
@@ -185,7 +182,6 @@ The front bar and bistro along Sydney Road does excellent pre-gig food without t
 **Insider tip:** Book a cabaret table if they're available. They cost slightly more than general admission and they are worth every cent — your own table, your own drinks, and the best sightline in the house.
 
 
-
 > **🚨 URGENCY BANNER: This weekend only**
 >
 > Fantastic Negrito (Grammy winner) at The Espy — 15 March
@@ -193,7 +189,6 @@ The front bar and bistro along Sydney Road does excellent pre-gig food without t
 > Brunswick Ballroom has three under-$30 shows in the next two weeks
 >
 > Melbourne gig season doesn't slow down in autumn. It gets better. The big summer festival crowd clears out and the rooms fill with people who are actually here for the music.
-
 
 
 ## What We Skipped and Why
@@ -248,10 +243,9 @@ For more on what's happening in Melbourne's nightlife scene, check out our [Melb
 
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/collingwood/](/collingwood/)
+- [Northcote](/northcote/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
+- [Fitzroy](/fitzroy/)
+- [Collingwood](/collingwood/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -4,15 +4,22 @@ description: "Public transport in Glen Waverley: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "glen-waverley"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Glen Waverley Melbourne"
   - "commute from Glen Waverley to city"
   - "Glen Waverley train station"
+tags:
+  - "glen-waverley"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Glen Waverley — what works, what's annoying, and how long things actually take.
+The transport story in Glen Waverley is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Glen Waverley suburb guide](/glen-waverley/) for the complete picture.
 

@@ -4,15 +4,22 @@ description: "Public transport in Brunswick West: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Brunswick West Melbourne"
   - "commute from Brunswick West to city"
   - "Brunswick West train station"
+tags:
+  - "brunswick-west"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Brunswick West — what works, what's annoying, and how long things actually take.
+The transport story in Brunswick West is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Brunswick West suburb guide](/brunswick-west/) for the complete picture.
 

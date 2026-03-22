@@ -4,15 +4,22 @@ description: "Public transport in Werribee: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "werribee"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Werribee Melbourne"
   - "commute from Werribee to city"
   - "Werribee train station"
+tags:
+  - "werribee"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Werribee — what works, what's annoying, and how long things actually take.
+Werribee transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Werribee suburb guide](/werribee/) for the complete picture.
 

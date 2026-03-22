@@ -4,15 +4,22 @@ description: "Public transport in Montmorency: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "montmorency"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Montmorency Melbourne"
   - "commute from Montmorency to city"
   - "Montmorency train station"
+tags:
+  - "montmorency"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Montmorency — what works, what's annoying, and how long things actually take.
+Two words define transport in Montmorency: improving slowly. Everything else is detail.
 
 Check out our full [Montmorency suburb guide](/montmorency/) for the complete picture.
 

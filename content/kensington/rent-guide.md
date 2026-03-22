@@ -1,22 +1,17 @@
 ---
 title: "Renting in Kensington Melbourne — What You Need to Know"
-description: "The honest rental guide for Kensington. What to expect, where to look, and how the rental market actually works here."
-date: 2026-03-21
+description: "The honest rental guide for Kensington. What to expect, where to look, and how the rental market actually works here. Updated for 2026 with real local picks ."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Tyler James"
+cover_image: "/images/kensington/rent-guide.jpg"
+cover_image_alt: "Rent Guide in Kensington Melbourne"
 suburb: "kensington"
-article_type: "housing"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
-keywords:
-  - "renting in Kensington"
-  - "Kensington rental market"
-  - "rent Kensington Melbourne"
-  - "apartments Kensington"
+tags: ["kensington", "rent-guide"]
 ---
-
-
 ## Renting in Kensington — The Real Story
 
-Looking to rent in Kensington? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
+Looking to [rent](/kensington/cost-of-living/) in Kensington? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
 
 See our full [Kensington Cost of Living](/kensington/cost-of-living/) guide for the broader picture.
 
@@ -38,7 +33,7 @@ That said, Kensington has a steady flow of rental stock. Properties come up regu
 
 ## How to Actually Get a Rental in Kensington
 
-1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental history. Pre-fill the Ignite or 2Apply forms.
+1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental [history](/kensington/history/). Pre-fill the Ignite or 2Apply forms.
 
 2. **Apply on the day of inspection** — Properties that sit for a week are rare. Same-day applications show you're serious.
 
@@ -69,3 +64,23 @@ The key is matching your budget to realistic expectations. A smaller, well-locat
 ---
 
 **More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington Cost of Living](/kensington/cost-of-living/) · [Kensington for Young Professionals](/kensington/kensington-for-young-professionals/)
+
+---
+
+## Explore More of Kensington
+
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+- [Kensington Late Night Food V2](/kensington/late-night-food-v2/)
+
+### Nearby Suburbs Worth Checking
+
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

@@ -4,15 +4,22 @@ description: "Public transport in Parkdale: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "parkdale"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Parkdale Melbourne"
   - "commute from Parkdale to city"
   - "Parkdale train station"
+tags:
+  - "parkdale"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Parkdale — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Parkdale. Let us cut through the fluff.
 
 Check out our full [Parkdale suburb guide](/parkdale/) for the complete picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Tarneit Melbourne — Everything You Need to Know"
+title: "Tarneit Melbourne — what you need"
 description: "The complete guide to Tarneit. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "tarneit"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Tarneit Melbourne"
   - "what is Tarneit like"
   - "tarneit suburb"
   - "living in Tarneit"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 One of Melbourne's fastest-growing suburbs. New estates, new schools, new everything.

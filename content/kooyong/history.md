@@ -4,16 +4,22 @@ description: "The story of Kooyong: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "kooyong"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Kooyong Melbourne history"
   - "how has Kooyong changed"
   - "Kooyong gentrification"
   - "Kooyong then and now"
+tags:
+  - "kooyong"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Kooyong's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+The history of Kooyong shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Kooyong suburb guide](/kooyong/) for the current picture.
 

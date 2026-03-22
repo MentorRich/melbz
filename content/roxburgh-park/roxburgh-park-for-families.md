@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Roxburgh Park? Parks, schools, safety,
 date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Roxburgh Park good for families"
   - "Roxburgh Park family friendly"
   - "raising kids in Roxburgh Park"
+tags:
+  - "roxburgh-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Roxburgh Park with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

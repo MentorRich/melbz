@@ -4,13 +4,19 @@ description: "Thinking of buying in Glen Iris? What the market looks like, what 
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "property"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "buying in Glen Iris"
   - "Glen Iris property market"
   - "Glen Iris house prices"
   - "real estate Glen Iris Melbourne"
+tags:
+  - "glen-iris"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -80,3 +86,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris Cost of Living](/glen-iris/cost-of-living/) · [Glen Iris Neighbourhood Guide](/glen-iris/neighbourhood-guide/)
+
+---
+
+## Explore More of Glen Iris
+
+- [Glen Iris History](/glen-iris/history/)
+- [Glen Iris Rent Guide](/glen-iris/rent-guide/)
+- [Glen Iris Glen Iris For Retirees](/glen-iris/glen-iris-for-retirees/)
+- [Glen Iris Things To Do](/glen-iris/things-to-do/)
+- [Glen Iris Cost of Living](/glen-iris/cost-of-living/)
+- [Glen Iris Young Professionals Guide](/glen-iris/young-professionals/)
+- [Glen Iris Transport Guide](/glen-iris/transport-guide/)
+- [Glen Iris Best Cafes](/glen-iris/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

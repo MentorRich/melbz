@@ -4,16 +4,22 @@ description: "How expensive is Lower Templestowe? Rent, daily costs, and how thi
 date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Lower Templestowe Melbourne"
   - "how expensive is Lower Templestowe"
   - "is Lower Templestowe expensive to live in"
   - "Lower Templestowe rent"
+tags:
+  - "templestowe-lower"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Lower Templestowe — no sugar-coating, no made-up figures.
+The gap between the sticker price of Templestowe Lower and actual living costs is worth understanding before you move.
 
 Read our full [Lower Templestowe suburb guide](/templestowe-lower/) for the bigger picture.
 

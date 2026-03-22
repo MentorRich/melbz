@@ -4,16 +4,22 @@ description: "How expensive is Chadstone? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "chadstone"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Chadstone Melbourne"
   - "how expensive is Chadstone"
   - "is Chadstone expensive to live in"
   - "Chadstone rent"
+tags:
+  - "chadstone"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Chadstone — no sugar-coating, no made-up figures.
+Living costs in Chadstone have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Chadstone suburb guide](/chadstone/) for the bigger picture.
 

@@ -4,13 +4,18 @@ description: "The insider's guide to Burwood's different pockets, streets, and a
 date: 2026-03-21
 suburb: "burwood"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Burwood neighbourhood guide"
   - "best streets in Burwood"
   - "Burwood areas"
   - "Burwood pockets Melbourne"
+tags:
+  - "burwood"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Burwood isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,16 +4,22 @@ description: "The story of Lalor: from its origins to today. How this Melbourne 
 date: 2026-03-21
 suburb: "lalor"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Lalor Melbourne history"
   - "how has Lalor changed"
   - "Lalor gentrification"
   - "Lalor then and now"
+tags:
+  - "lalor"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Lalor's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Lalor has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Lalor suburb guide](/lalor/) for the current picture.
 

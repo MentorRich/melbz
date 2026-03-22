@@ -4,15 +4,22 @@ description: "Public transport in Craigieburn: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "craigieburn"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Craigieburn Melbourne"
   - "commute from Craigieburn to city"
   - "Craigieburn train station"
+tags:
+  - "craigieburn"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Craigieburn — what works, what's annoying, and how long things actually take.
+Craigieburn transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Craigieburn suburb guide](/craigieburn/) for the complete picture.
 

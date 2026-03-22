@@ -4,12 +4,16 @@ description: "Considering retirement in Mount Eliza? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Mount Eliza retirees Melbourne"
   - "retiring in Mount Eliza"
   - "quiet suburbs Melbourne"
+tags:
+  - "mount-eliza"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Mount Eliza? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -1,17 +1,15 @@
 ---
 title: "Nightlife Guide in Kew — 2026 Local Guide"
 cover_image: "/images/kew/nightlife-guide.jpg"
----
-
 suburb: "kew"
-vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 date: 2026-03-17
 updated: 2026-03-17
-description: "Discover the nightlife guide in Kew. Our verified 2026 guide covers the best spots for locals."
+description: "The honest guide to going out in Kew after dark. Historic pubs, wine bars, rooftop sessions, and the reality of nightlife in Melbourne's leafy inner east."
 tags: ["kew"]
 categories: ["nightlife"]
+---
+
 ## The Best Nightlife Guide in Kew
 
 Kew has a reputation for being buttoned-up, and honestly, it's earned. This is the suburb of heritage mansions, tree-lined streets, and people who take their wine seriously. But beneath the polished surface, there's a genuine local scene: pubs that have been serving the community for over a century, bars that understand their affluent clientele, and a nightlife that rewards those who know where to look.
@@ -71,13 +69,13 @@ Kew is well-connected by tram and train, making it easy to navigate after a nigh
 
 **Tram 48** runs along High Street through Kew, connecting to the CBD and Northcote. Service frequency drops after 9pm; check PTV for exact times.
 
-**Tram 109** runs along Box Hill Road nearby, connecting to the CBD and Box Hill.
+**Tram 109** runs along Cotham Road and High Street, connecting to the CBD and Box Hill.
 
-**Train** from **Harrietville Station** (on the Belgrave line) is a 15-minute walk from Kew Junction. Services run to the CBD in about 20 minutes.
+**Train** — Kew does not have its own train station. The nearest is **Glenferrie station** in Hawthorn (Belgrave/Lilydale lines), a 15-minute walk from Kew Junction. Trains to the CBD take about 10-12 minutes from Glenferrie.
 
 **Rideshare** is reliable in Kew. An Uber from Kew to the CBD runs $20–$30 depending on traffic. Surge pricing hits after midnight on Saturdays.
 
-**Walking** is viable if you're heading to **Hawthorn** (about 20 minutes along Boroondara Park) or **Balwyn** (about 25 minutes along Whitehorse Road). The areas are well-lit and safe.
+**Walking** is viable if you're heading to **Hawthorn** (about 20 minutes along Cotham Road and Glenferrie Road). The streets are well-lit and safe.
 
 **Cycling** is a viable option for the adventurous. The terrain is flat, the roads are quiet, and most venues have bike storage.
 
@@ -100,47 +98,8 @@ Kew is well-connected by tram and train, making it easy to navigate after a nigh
 - [Nightlife Guide in Camberwell](/camberwell/nightlife-guide) — the eastern suburbs hub with bigger nightlife energy
 - [Nightlife Guide in Richmond](/richmond/nightlife-guide) — the border suburb with more diverse options
 
-> **📊 MELBZ POLL** — Kew's best night out starts at: Postmaster Hotel | Harp of Erin | Skinny Dog Hotel | Back Room Bar
-
-
 *Last verified March 2026. Opening hours and cover charges change — always check before you head out.*
 
+---
 
-**About this guide:** MELBZ is Melbourne's hyperlocal intelligence platform. Every venue is visited, every price is checked, every recommendation is earned. No sponsored content, no pay-to-play. If we list it, we'd go there ourselves.
-
-Living in Kew? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=kew)
-### Featured Venues
-
-- **Centonove** at 109 High St, Kew VIC 3101
-- **Skinny Dog Hotel** at 155 High St, Kew VIC 3101
-- **Hanoi Hannah Kew** at 186 High St, Kew VIC 3101
-- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
-- **Ora** at 143 Pakington St, Kew VIC 3101
-- **Short Straw** at 743 Glenferrie Rd, Hawthorn VIC 3122
-- **Hanoi Rose** at 178 High St, Kew VIC 3101
-- **Kew Kebab House** at 156 High St, Kew VIC 3101
-- **Crust Pizza Kew** at 184 High St, Kew VIC 3101
-- **Rice Paper Scissors Kew** at 196 High St, Kew VIC 3101
-
-### Key Highlights
-
-- Studley Park and Yarra Bend Park trails
-- Historic Raheen Mansion
-- High Street boutique shopping and cafes
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/northcote/](/northcote/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More on Kew:** [Kew Suburb Guide](/kew/) · [Best Bars in Kew](/kew/best-bars/) · [Kew Weekend Guide](/kew/weekend-guide/)

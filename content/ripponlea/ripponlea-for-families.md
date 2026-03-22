@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Ripponlea? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "ripponlea"
 article_type: "families"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "is Ripponlea good for families"
   - "Ripponlea family friendly"
   - "raising kids in Ripponlea"
+tags:
+  - "ripponlea"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Ripponlea with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

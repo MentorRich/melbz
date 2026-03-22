@@ -4,16 +4,22 @@ description: "How expensive is Fawkner? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "fawkner"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Fawkner Melbourne"
   - "how expensive is Fawkner"
   - "is Fawkner expensive to live in"
   - "Fawkner rent"
+tags:
+  - "fawkner"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Fawkner — no sugar-coating, no made-up figures.
+Fawkner sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Fawkner suburb guide](/fawkner/) for the bigger picture.
 

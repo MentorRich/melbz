@@ -4,12 +4,16 @@ description: "What's it really like living in Sunshine West? Pros, cons, and the
 date: 2026-03-21
 suburb: "sunshine-west"
 article_type: "living-in"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "living in Sunshine West Melbourne"
   - "pros and cons of living in Sunshine West"
   - "is Sunshine West a good place to live"
+tags:
+  - "sunshine-west"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Sunshine West? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ Western Ring Road access, growing retail, and one of the west's most affordable 
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Sunshine West delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** You will find enough variety to keep things interesting, from solid weeknight options to places worth booking ahead for.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

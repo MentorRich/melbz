@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Burwood East? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "burwood-east"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Burwood East good for families"
   - "Burwood East family friendly"
   - "raising kids in Burwood East"
+tags:
+  - "burwood-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Burwood East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,16 +4,22 @@ description: "How expensive is Mount Waverley? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Mount Waverley Melbourne"
   - "how expensive is Mount Waverley"
   - "is Mount Waverley expensive to live in"
   - "Mount Waverley rent"
+tags:
+  - "mount-waverley"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Mount Waverley — no sugar-coating, no made-up figures.
+Let us talk money in Mount Waverley. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Mount Waverley suburb guide](/mount-waverley/) for the bigger picture.
 

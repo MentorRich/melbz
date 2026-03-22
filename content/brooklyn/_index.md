@@ -1,16 +1,16 @@
 ---
-title: "Brooklyn Melbourne — Everything You Need to Know"
+title: "Brooklyn Melbourne — what you need"
 description: "The complete guide to Brooklyn. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "brooklyn"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Brooklyn Melbourne"
   - "what is Brooklyn like"
   - "brooklyn suburb"
   - "living in Brooklyn"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Industrial suburb transitioning. Close to the West Gate but not much walking around here yet.

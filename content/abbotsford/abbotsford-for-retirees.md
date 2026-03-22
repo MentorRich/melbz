@@ -1,17 +1,14 @@
 ---
 title: "Is Abbotsford Good for Retirees?"
-description: "Considering retirement in Abbotsford? Quiet streets, healthcare access, community feel, and the honest verdict for retirees."
-date: 2026-03-21
+description: "Considering retirement in Abbotsford? Quiet streets, healthcare access, community feel, and the honest verdict for retirees. Updated for 2026 with real local."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Tyler James"
+cover_image: "/images/abbotsford/abbotsford-for-retirees.jpg"
+cover_image_alt: "Abbotsford For Retirees in Abbotsford Melbourne"
 suburb: "abbotsford"
-article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
-keywords:
-  - "Abbotsford retirees Melbourne"
-  - "retiring in Abbotsford"
-  - "quiet suburbs Melbourne"
+tags: ["abbotsford", "abbotsford-for-retirees"]
 ---
-
 Thinking about retiring in Abbotsford? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.
 
 See our full [Abbotsford suburb guide](/abbotsford/) for the complete background.

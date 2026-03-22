@@ -4,15 +4,22 @@ description: "Public transport in Kingsville: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "kingsville"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Kingsville Melbourne"
   - "commute from Kingsville to city"
   - "Kingsville train station"
+tags:
+  - "kingsville"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Kingsville — what works, what's annoying, and how long things actually take.
+Real talk about getting around Kingsville: what the timetable says vs what actually happens.
 
 Check out our full [Kingsville suburb guide](/kingsville/) for the complete picture.
 

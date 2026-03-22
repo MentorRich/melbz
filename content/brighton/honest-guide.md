@@ -1,25 +1,14 @@
 ---
 title: "Brighton Honest Guide 2026: Church Street & The Beach Boxes"
+description: "The unfiltered truth about Brighton. Church Street shopping, the bathing boxes at Dendy Street Beach, the $2.8M median, and what it is really like to live here."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Yemi Okafor"
 cover_image: "/images/brighton/honest-guide.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
-tags: ["brighton", "honest-guide", "lifestyle"]
-categories: ["lifestyle"]
-description: "Brighton Honest Guide 2026: Church Street & The Beach Boxes"
+cover_image_alt: "Brighton Melbourne Church Street and beach bathing boxes"
+suburb: "brighton"
+tags: ["melbourne", "brighton", "honest-guide", "lifestyle"]
 ---
-
-**Updated 16 March 2026 | Jack Morrison reporting**
-
-
-
-Let's get this out of the way upfront: Brighton..."
-
-*Updated 16 March 2026 | Jack Morrison reporting*
-
-# Brighton Honest Guide 2026: Church Street & The Beach Boxes
-
-Updated 16 March 2026 | Jack Morrison reporting
 
 Let's get this out of the way upfront: Brighton is Melbourne's most photographed suburb and possibly its most misunderstood. You know the bathing boxes. Everyone does. They're on postcards, Instagram feeds, and every "Best of Melbourne" listicle written by someone who's visited once and left. But Brighton is more than 82 colourful sheds on the sand. It's also a postcode that'll run you $2.8 million median, a high street that's quietly excellent if you know where to look, and a community that's working harder than it lets on to keep its village feel alive while the rest of the bayside sprawl creeps closer.
 
@@ -59,7 +48,7 @@ Brighton's median house price sits around $2.8 million in early 2026, according 
 
 **Who actually lives here:** Brighton skews older and wealthier than Melbourne's median. The median age is 42. Families with school-age kids are well-represented, drawn by the Bayside schools — Brighton Grammar and Firbank are the big names, both within walking distance of the strip. There's a meaningful cohort of downsizers who sold their Toorak or Malvern houses and pocketed the difference. And there are young professionals, but they're usually renting or in units — the house-buying crowd here tends to have a decade or two of equity behind them.
 
-**The vibe** is best described as "quiet confidence." Brighton doesn't need to prove anything. It knows what it is — an affluent, safe, well-maintained bayside suburb with good schools and an excellent beachfront. That confidence can sometimes tip into complacency. The suburb is overwhelmingly white, which is changing slowly but noticeably, and there are fewer cultural amenities than you'd expect at this price point — one cinema (the Brighton Bay影), no dedicated live music venue, and a dining scene that's competent rather than exciting.
+**The vibe** is best described as "quiet confidence." Brighton doesn't need to prove anything. It knows what it is — an affluent, safe, well-maintained bayside suburb with good schools and an excellent beachfront. That confidence can sometimes tip into complacency. The suburb is overwhelmingly white, which is changing slowly but noticeably, and there are fewer cultural amenities than you'd expect at this price point — one cinema, no dedicated live music venue, and a dining scene that's competent rather than exciting.
 
 **Getting to the city** takes 25–30 minutes on the Sandringham line from Brighton Beach station. The train runs frequently during peak and the commute is painless if unremarkable. Driving into the CBD is a different story — Beach Road is a scenic crawl that can take 45 minutes or more when the bay trail is busy, and the Nepean Highway is a speed-limited gauntlet of traffic lights. Park at the station and take the train. Seriously.
 
@@ -81,8 +70,19 @@ We didn't cover Brighton's schools in detail because that's an entire separate a
 
 We didn't deep-dive the Royal Brighton Yacht Club because unless you're a member or planning to become one, the detail doesn't serve you. What you need to know: it exists, it's active, it's on the water, and if sailing is your thing, Brighton is a solid base for it.
 
-We also skipped a detailed nightlife section because Brighton doesn't have one. The pubs close early, there's no cocktail bar worth the name, and anyone telling you Brighton has a "happening scene" is either lying to sell you something or has never left the suburb. For a proper night out, head to Elwood or Hampton and come home to Brighton for the quiet satisfaction of a well-maintained nature strip.
+We also skipped a detailed nightlife section because Brighton's nightlife is limited. The pubs close early, and the suburb winds down by midnight. There are decent options — the Half Moon on Church Street, Antique Bar for cocktails on Bay Street, Mothers Milk for craft beer — but for a proper late night, head to [St Kilda](/st-kilda/nightlife-guide/) or [Elwood](/elwood/) and come home to Brighton for the quiet satisfaction of a well-maintained nature strip. See our full [Brighton nightlife guide](/brighton/nightlife-guide/) for the complete rundown.
 
+
+## FAQ
+
+**Is Brighton worth the money?**
+If you value beach access, strong schools, safety, and a village community feel — yes. If you need nightlife, cultural diversity, or affordability — look at neighbouring suburbs first.
+
+**How far is Brighton from the CBD?**
+About 11km south-east. The Sandringham line train takes 22-28 minutes from Brighton's three stations (Brighton Beach, Middle Brighton, North Brighton) to Flinders Street.
+
+**What is Church Street Brighton like?**
+A modest-length retail strip running from Nepean Highway toward the bay. Strong on coffee (Stoker, Bianco Latte), pub food (the Brighto), independent shops (bookshop, florist, greengrocer), and the kind of village atmosphere that bigger strips cannot replicate.
 
 ## The Honest Verdict
 
@@ -93,19 +93,6 @@ The bathing boxes are gorgeous and absurd in equal measure. Church Street is qui
 If you can afford it and you value peace over pulse, Brighton is a genuinely lovely place to live. Just don't expect it to surprise you very often.
 
 
-**Rate this article:** Was this guide useful? [👍](/feedback) [👎](/feedback)
+---
 
-**Rate your suburb:** [What's Brighton's Vibe Score this week? →](/suburb/brighton/vibe-score)
-
-**Know Brighton better than us?** [Submit a local tip →](/submit/tip)
-
-**Get your weekly Brighton briefing:** [Subscribe →](/newsletter/brighton)
-
-## Related Articles
-
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/south-yarra/](/south-yarra/)
-- [/brighton/](/brighton/)
-- [/brighton/hub](/brighton/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More on Brighton:** [Brighton Suburb Guide](/brighton/) | [Brighton for Families](/brighton/family-guide/) | [Cost of Living in Brighton](/brighton/cost-of-living/) | [Brighton Transport Guide](/brighton/transport-guide/)

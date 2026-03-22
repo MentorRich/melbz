@@ -1,16 +1,16 @@
 ---
-title: "Hampton Melbourne — Everything You Need to Know"
+title: "Hampton Melbourne — what you need"
 description: "The complete guide to Hampton. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "hampton"
 article_type: "profile"
 author: "Aisha Patel"
-author_image: "/images/authors/aisha.jpg"
 keywords:
   - "Hampton Melbourne"
   - "what is Hampton like"
   - "hampton suburb"
   - "living in Hampton"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hampton Street village, the beach, and a family-friendly vibe that rivals Brighton at lower cost.

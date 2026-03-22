@@ -4,16 +4,22 @@ description: "The story of Altona Meadows: from its origins to today. How this M
 date: 2026-03-21
 suburb: "altona-meadows"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Altona Meadows Melbourne history"
   - "how has Altona Meadows changed"
   - "Altona Meadows gentrification"
   - "Altona Meadows then and now"
+tags:
+  - "altona-meadows"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Altona Meadows's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Altona Meadows and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Altona Meadows suburb guide](/altona-meadows/) for the current picture.
 

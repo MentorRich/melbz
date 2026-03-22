@@ -4,15 +4,22 @@ description: "Public transport in Newport: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "newport"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Newport Melbourne"
   - "commute from Newport to city"
   - "Newport train station"
+tags:
+  - "newport"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Newport — what works, what's annoying, and how long things actually take.
+Newport transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Newport suburb guide](/newport/) for the complete picture.
 

@@ -3,14 +3,13 @@ title: "Port Melbourne for Families 2026: Schools, Parks & the Parent Verdict"
 slug: "family-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: kate
-author_image: "/images/authors/kate.jpg"
+author: "Kate Sullivan"
 suburb: "port-melbourne"
 suburbs: ["port-melbourne"]
 vertical: lifestyle
 tags: ["port-melbourne", "family-guide", "schools", "parks", "families"]
 description: "Is Port Melbourne good for families? Schools, parks, safety, activities and the honest parent review for 2026."
-cover_image: "https://images.pexels.com/photos/3203114/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/parks-gardens.jpg"
 cover_alt: "Port Melbourne family friendly parks Melbourne"
 vibe_score: 77
 ---
@@ -31,7 +30,7 @@ Thinking about raising kids in Port Melbourne? Here's what parents actually need
 
 ## Schools
 
-School options in Port Melbourne are adequate. You've got local primary schools within walking distance and secondary options accessible by a short commute. For the most competitive schools, some families look at neighbouring suburbs — but the local offerings do the job.
+School options in Port Melbourne are adequate. You've got local primary schools within walking distance and secondary options accessible by a short [commute](/port-melbourne/transport-guide/). For the most competitive schools, some families look at neighbouring suburbs — but the local offerings do the job.
 
 ## Parks & Green Spaces
 
@@ -43,7 +42,7 @@ Families feel safe here. The streets are well-lit, the community is active, and 
 
 ## Kid-Friendly Eating
 
-Most cafes in Port Melbourne are family-tolerant if not explicitly family-friendly. You'll find high chairs, kids' menus at the bigger spots, and at least a few places where a toddler meltdown won't get you death stares. The local bakeries are always a safe bet.
+Most [cafes](/port-melbourne/best-cafes/) in Port Melbourne are family-tolerant if not explicitly family-friendly. You'll find high chairs, kids' menus at the bigger spots, and at least a few places where a toddler meltdown won't get you death stares. The local bakeries are always a safe bet.
 
 ## Weekend Activities
 
@@ -51,7 +50,7 @@ Weekend activities in Port Melbourne require some planning. There's enough local
 
 ## The Commute Factor
 
-The commute from Port Melbourne matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the transport schedule against your actual school and work locations.
+The commute from Port Melbourne matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the [transport](/port-melbourne/transport-guide/) schedule against your actual school and work locations.
 
 See our [Port Melbourne Transport Guide](/port-melbourne/transport-guide/) for the full breakdown.
 
@@ -67,4 +66,24 @@ Port Melbourne works for families but it's not a default family suburb. You'll f
 
 ---
 
-*Are you a Port Melbourne parent? Tell us what we missed — [hq@melbz101](mailto:hq@melbz101) or DM [@melbz101](https://instagram.com/melbz101).*
+*Are you a Port Melbourne parent? Tell us what we missed — [hq@melbz.com.au](mailto:hq@melbz.com.au) or DM [@melbz101](https://instagram.com/melbz101).*
+
+---
+
+## Explore More of Port Melbourne
+
+- [Port Melbourne History](/port-melbourne/history/)
+- [Port Melbourne Rent Guide](/port-melbourne/rent-guide/)
+- [Port Melbourne Things To Do](/port-melbourne/things-to-do/)
+- [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/)
+- [Port Melbourne Young Professionals Guide](/port-melbourne/young-professionals/)
+- [Port Melbourne Nightlife Guide](/port-melbourne/nightlife-guide/)
+- [Port Melbourne Transport Guide](/port-melbourne/transport-guide/)
+- [Port Melbourne Best Cafes](/port-melbourne/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

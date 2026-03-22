@@ -1,22 +1,17 @@
 ---
 title: "Things to Do in Kensington Melbourne"
-description: "What to do in Kensington this weekend and beyond. Activities, events, and the stuff locals actually enjoy."
-date: 2026-03-21
+description: "What to do in Kensington this weekend and beyond. Activities, events, and the stuff locals actually enjoy. Updated for 2026 with real local picks and honest ."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Tyler James"
+cover_image: "/images/kensington/things-to-do.jpg"
+cover_image_alt: "Things To Do in Kensington Melbourne"
 suburb: "kensington"
-article_type: "activities"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
-keywords:
-  - "things to do Kensington"
-  - "Kensington activities"
-  - "what to do in Kensington"
-  - "Kensington weekend plans"
+tags: ["kensington", "things-to-do"]
 ---
-
-
 ## What Is There to Do in Kensington?
 
-More than you think. Warehouse conversions, Macaulay Road cafes, and the closest inner-west suburb to the city. That energy translates into things to do on any day of the week, rain or shine.
+More than you think. Warehouse conversions, Macaulay Road [cafes](/kensington/best-cafes/), and the closest inner-west suburb to the city. That energy translates into things to do on any day of the week, rain or shine.
 
 ## Outdoor Activities
 
@@ -69,3 +64,23 @@ Melbourne weather means you need indoor plans. Kensington has:
 ---
 
 **More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington Best Cafes](/kensington/best-cafes/) · [Kensington Neighbourhood Guide](/kensington/neighbourhood-guide/)
+
+---
+
+## Explore More of Kensington
+
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

@@ -1,16 +1,16 @@
 ---
-title: "Montmorency Melbourne — Everything You Need to Know"
+title: "Montmorency Melbourne — what you need"
 description: "The complete guide to Montmorency. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "montmorency"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Montmorency Melbourne"
   - "what is Montmorency like"
   - "montmorency suburb"
   - "living in Montmorency"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Were Street cafes, bushland feel, and a community that loves its semi-rural identity.

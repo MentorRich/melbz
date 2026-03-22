@@ -1,16 +1,16 @@
 ---
-title: "Edithvale Melbourne — Everything You Need to Know"
+title: "Edithvale Melbourne — what you need"
 description: "The complete guide to Edithvale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "edithvale"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Edithvale Melbourne"
   - "what is Edithvale like"
   - "edithvale suburb"
   - "living in Edithvale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Edithvale Beach, wetlands, and a quiet beachside community on the Frankston line.

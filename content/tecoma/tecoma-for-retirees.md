@@ -4,12 +4,16 @@ description: "Considering retirement in Tecoma? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "tecoma"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Tecoma retirees Melbourne"
   - "retiring in Tecoma"
   - "quiet suburbs Melbourne"
+tags:
+  - "tecoma"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Tecoma? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

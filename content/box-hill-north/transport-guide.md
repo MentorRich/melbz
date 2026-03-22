@@ -4,15 +4,22 @@ description: "Public transport in Box Hill North: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "box-hill-north"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Tom O'Brien"
 keywords:
   - "public transport Box Hill North Melbourne"
   - "commute from Box Hill North to city"
   - "Box Hill North train station"
+tags:
+  - "box-hill-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Box Hill North — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Box Hill North, you need to know what the daily commute actually looks like.
 
 Check out our full [Box Hill North suburb guide](/box-hill-north/) for the complete picture.
 

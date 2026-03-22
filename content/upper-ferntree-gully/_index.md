@@ -1,16 +1,16 @@
 ---
-title: "Upper Ferntree Gully Melbourne — Everything You Need to Know"
+title: "Upper Ferntree Gully Melbourne — what you need"
 description: "The complete guide to Upper Ferntree Gully. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Upper Ferntree Gully Melbourne"
   - "what is Upper Ferntree Gully like"
   - "upper-ferntree-gully suburb"
   - "living in Upper Ferntree Gully"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Gateway to the Dandenong Ranges. 1000 Steps, bushwalking, and hills living.

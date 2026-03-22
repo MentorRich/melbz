@@ -4,13 +4,19 @@ description: "Raising a dog in Cheltenham? Off-leash parks, pet-friendly cafes, 
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "lifestyle"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Yemi Okafor"
 keywords:
   - "dog friendly Cheltenham"
   - "off leash park Cheltenham"
   - "pet friendly cafes Cheltenham"
   - "walking dog Cheltenham"
+tags:
+  - "cheltenham"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +34,7 @@ Cheltenham has dedicated off-leash areas where your dog can actually run. The lo
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/cheltenham/best-cafes/)
 
 Multiple cafes in Cheltenham welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from Cheltenham, including emergency after-hou
 ---
 
 **More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham Things to Do](/cheltenham/things-to-do/) · [Cheltenham for Families](/cheltenham/cheltenham-for-families/)
+
+---
+
+## Explore More of Cheltenham
+
+- [Cheltenham History](/cheltenham/history/)
+- [Cheltenham Rent Guide](/cheltenham/rent-guide/)
+- [Cheltenham Things To Do](/cheltenham/things-to-do/)
+- [Cheltenham Cost of Living](/cheltenham/cost-of-living/)
+- [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+- [Cheltenham Living In Cheltenham](/cheltenham/living-in-cheltenham/)
+- [Cheltenham Transport Guide](/cheltenham/transport-guide/)
+- [Cheltenham Best Cafes](/cheltenham/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

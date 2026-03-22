@@ -1,16 +1,16 @@
 ---
-title: "Glen Waverley Melbourne — Everything You Need to Know"
+title: "Glen Waverley Melbourne — what you need"
 description: "The complete guide to Glen Waverley. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "glen-waverley"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Glen Waverley Melbourne"
   - "what is Glen Waverley like"
   - "glen-waverley suburb"
   - "living in Glen Waverley"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 The Glen Shopping Centre, Kingsway restaurant strip, and one of Melbourne's top school zones.

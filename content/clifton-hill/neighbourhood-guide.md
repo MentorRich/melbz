@@ -4,13 +4,18 @@ description: "The insider's guide to Clifton Hill's different pockets, streets, 
 date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Clifton Hill neighbourhood guide"
   - "best streets in Clifton Hill"
   - "Clifton Hill areas"
   - "Clifton Hill pockets Melbourne"
+tags:
+  - "clifton-hill"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Clifton Hill isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

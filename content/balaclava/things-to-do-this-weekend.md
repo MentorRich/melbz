@@ -1,17 +1,15 @@
 ---
 title: "Things To Do This Weekend in Balaclava — 2026 Local Guide"
 cover_image: "/images/balaclava/things-to-do-this-weekend.jpg"
+suburb: "balaclava"
+author: "Maya Chen"
+date: 2026-03-22
+lastmod: 2026-03-22
+description: "This weekend in Balaclava. Carlisle Street food crawl, The Astor Theatre screenings, cafe hopping near the station, and what is on right now in 3183."
+tags: ["balaclava"]
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
 ---
 
-suburb: "balaclava"
-vertical: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the things to do this weekend in Balaclava. Our verified 2026 guide covers the best spots for locals."
-tags: ["balaclava"]
-categories: ["things"]
 ## The Best Things To Do This Weekend in Balaclava
 
 Balaclava doesn't scream for attention the way its louder neighbours do — St Kilda flogs itself on Instagram, Elsternwick clings to brunch culture, and Caulfield brags about its racecourse. Balaclava just quietly delivers, weekend after weekend, along a single strip that punches well above its weight.
@@ -103,38 +101,3 @@ Getting home late on Saturday? Night Network trains run on the Sandringham line,
 
 Living in Balaclava? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=balaclava)
 
-### Featured Venues
-
-- **Ilona Staller** at 281 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Bibi** at 257 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Batch Espresso** at 333 Carlisle St, Balaclava VIC 3183
-- **Monarch Cakes** at 103 Acland St, St Kilda VIC 3182
-- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
-- **Bagelicious** at 174 Balaclava Rd, Caulfield North, VIC 3161
-- **Wallis & Social** at 285 Carlisle St, Balaclava, VIC 3183
-- **Ichi Ni Izakaya** at 12/100 The Esplanade, St Kilda, VIC 3182
-
-### Key Highlights
-
-- Carlisle Street cafe and dining scene
-- Proximity to St Kilda and the beach
-- Historic architecture and local markets
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
-- [/balaclava/](/balaclava/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

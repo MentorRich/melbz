@@ -1,16 +1,16 @@
 ---
-title: "Mount Waverley Melbourne — Everything You Need to Know"
+title: "Mount Waverley Melbourne — what you need"
 description: "The complete guide to Mount Waverley. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Mount Waverley Melbourne"
   - "what is Mount Waverley like"
   - "mount-waverley suburb"
   - "living in Mount Waverley"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Village shops, Pinewood Cinema, and families drawn by Mount Waverley Secondary College.

@@ -4,15 +4,22 @@ description: "Public transport in Williamstown North: trains, trams, buses, cycl
 date: 2026-03-21
 suburb: "williamstown-north"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Williamstown North Melbourne"
   - "commute from Williamstown North to city"
   - "Williamstown North train station"
+tags:
+  - "williamstown-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Williamstown North — what works, what's annoying, and how long things actually take.
+Public transport in Williamstown North has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Williamstown North suburb guide](/williamstown-north/) for the complete picture.
 

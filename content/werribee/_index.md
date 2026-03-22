@@ -1,16 +1,16 @@
 ---
-title: "Werribee Melbourne — Everything You Need to Know"
+title: "Werribee Melbourne — what you need"
 description: "The complete guide to Werribee. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "werribee"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Werribee Melbourne"
   - "what is Werribee like"
   - "werribee suburb"
   - "living in Werribee"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Werribee town centre, zoo, river trail, and the western growth corridor's main regional centre.

@@ -1,15 +1,13 @@
 ---
 title: "Is South Yarra Good for Retirees?"
-description: "Considering retirement in South Yarra? Quiet streets, healthcare access, community feel, and the honest verdict for retirees."
-date: 2026-03-21
+description: "Considering retirement in South Yarra? Quiet streets near Domain Road, healthcare access, community feel, and the honest verdict for retirees."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Webb"
+cover_image: "/images/south-yarra/south-yarra-for-retirees.jpg"
+cover_image_alt: "South Yarra Melbourne quiet residential street"
 suburb: "south-yarra"
-article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-keywords:
-  - "South Yarra retirees Melbourne"
-  - "retiring in South Yarra"
-  - "quiet suburbs Melbourne"
+tags: ["melbourne", "south-yarra", "retirees", "lifestyle"]
 ---
 
 Thinking about retiring in South Yarra? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,12 +4,16 @@ description: "Considering retirement in Mentone? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "mentone"
 article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Mentone retirees Melbourne"
   - "retiring in Mentone"
   - "quiet suburbs Melbourne"
+tags:
+  - "mentone"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Mentone? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

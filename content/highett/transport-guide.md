@@ -4,15 +4,22 @@ description: "Public transport in Highett: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "highett"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Highett Melbourne"
   - "commute from Highett to city"
   - "Highett train station"
+tags:
+  - "highett"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Highett — what works, what's annoying, and how long things actually take.
+The transport story in Highett is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Highett suburb guide](/highett/) for the complete picture.
 

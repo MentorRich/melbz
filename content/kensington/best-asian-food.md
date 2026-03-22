@@ -1,16 +1,15 @@
 ---
 title: "Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern & More"
+description: "Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern & More. Updated for 2026 with real local picks and honest advice for Kensington in Melbourne i."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Yuki Tanaka"
 cover_image: "/images/kensington/best-asian-food.jpg"
-date: 2026-03-16
-author: yuki
-author_image: "/images/authors/yuki.jpg"
+cover_image_alt: "Best Asian Food in Kensington Melbourne"
+suburb: "kensington"
 tags: ["kensington", "asian", "food"]
-categories: ["food"]
-description: "Best Asian Food in Kensington 2026: Vietnamese, Middle Eastern & More"
 ---
-
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
-
 
 
 Kensington doesn't ge..."
@@ -154,7 +153,7 @@ What you won't find in Kensington is a single dominant food identity — and tha
 If you're nearby in **North Melbourne**, you're within walking distance and the food scene there skews more toward modern Australian and Italian — worth comparing in our [North Melbourne food guide](/food/north-melbourne). And if you've got a car, **Flemington's** Racecourse Road has more Asian options beyond what we've listed here — see our [Flemington eats roundup](/food/flemington) for the full picture.
 
 
-*Have we missed your favourite Kensington Asian spot? Tell us on Instagram at [@melbzfood](https://instagram.com/melbz) or email hq@melbz101 — I eat everything you recommend, eventually.*
+*Have we missed your favourite Kensington Asian spot? Tell us on Instagram at [@melbzfood](https://instagram.com/melbz) or email hq@melbz.com.au — I eat everything you recommend, eventually.*
 
 *Prices listed are approximate and may vary. Always check with the restaurant for current hours and availability. This article was independently reviewed; no venue paid for inclusion.*
 
@@ -169,7 +168,7 @@ If you're nearby in **North Melbourne**, you're within walking distance and the 
 - [Best Vietnamese in Footscray 2026](/food/footscray/best-vietnamese) — The Hopkins Street deep dive
 - [Flemington's Best Eats Under $20](/food/flemington) — Racecourse Road on a budget
 - [North Melbourne Food Walking Guide](/food/north-melbourne) — 4km, 5 stops, one afternoon
-- [Suburb Vibe Score: Kensington](/suburbs/kensington) — Live scores, rent, transport, and lifestyle
+- [Suburb Vibe Score: Kensington](/kensington) — Live scores, rent, transport, and lifestyle
 
 
 ### 💬 Over to You
@@ -185,13 +184,3 @@ Kensington's Asian food scene punches well above its weight — but it changes f
 4. **9:30pm** — Roll home happy, approximately $90–$110 per person total
 
 *Not affiliated with any venue. Just a good Saturday night plan.*
-
-## Related Articles
-
-- [/footscray/](/footscray/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/richmond/](/richmond/)
-- [/kensington/](/kensington/)
-- [/kensington/hub](/kensington/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*

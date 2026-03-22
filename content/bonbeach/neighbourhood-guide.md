@@ -4,13 +4,18 @@ description: "The insider's guide to Bonbeach's different pockets, streets, and 
 date: 2026-03-21
 suburb: "bonbeach"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Bonbeach neighbourhood guide"
   - "best streets in Bonbeach"
   - "Bonbeach areas"
   - "Bonbeach pockets Melbourne"
+tags:
+  - "bonbeach"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Bonbeach isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

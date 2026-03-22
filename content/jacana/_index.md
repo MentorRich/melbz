@@ -1,16 +1,16 @@
 ---
-title: "Jacana Melbourne — Everything You Need to Know"
+title: "Jacana Melbourne — what you need"
 description: "The complete guide to Jacana. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "jacana"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Jacana Melbourne"
   - "what is Jacana like"
   - "jacana suburb"
   - "living in Jacana"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small pocket between Broadmeadows and Glenroy with its own train station and quiet streets.

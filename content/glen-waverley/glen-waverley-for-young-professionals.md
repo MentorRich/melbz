@@ -4,12 +4,18 @@ description: "Is Glen Waverley a good suburb for young professionals? Social sce
 date: 2026-03-21
 suburb: "glen-waverley"
 article_type: "young-professionals"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Glen Waverley young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Glen Waverley"
+tags:
+  - "glen-waverley"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Glen Waverley as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

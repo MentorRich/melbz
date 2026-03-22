@@ -4,13 +4,18 @@ description: "The insider's guide to Clayton South's different pockets, streets,
 date: 2026-03-21
 suburb: "clayton-south"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Clayton South neighbourhood guide"
   - "best streets in Clayton South"
   - "Clayton South areas"
   - "Clayton South pockets Melbourne"
+tags:
+  - "clayton-south"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Clayton South isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

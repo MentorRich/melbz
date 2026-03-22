@@ -1,25 +1,16 @@
 ---
-title: "Rent Prices in Hawthorn 2026: Glenferrie Road Beyond"
+title: "Rent Prices in Hawthorn 2026: Glenferrie Road and Beyond"
+description: "Hawthorn rent prices in 2026 — median rents for houses and apartments, how it compares to Kew, Richmond and Camberwell, and the salary reality check."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 cover_image: "/images/hawthorn/rent-report.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["hawthorn", "rent", "property"]
-categories: ["property"]
-description: "Rent Prices in Hawthorn 2026: Glenferrie Road & Beyond"
+cover_image_alt: "Hawthorn Melbourne rental apartments and houses"
+suburb: "hawthorn"
+tags: ["melbourne", "hawthorn", "rent", "property"]
 ---
 
-**Updated 16 March 2026 | Marcus Cole reporting**
-
-
-
-If you've been apartment hunting along Glenferrie Road..."
-
-*Updated 16 March 2026 | Marcus Cole reporting*
-
-# Rent Prices in Hawthorn 2026: Glenferrie Road & Beyond
-
-*Updated 16 March 2026 | Marcus Cole reporting*
+# Rent Prices in Hawthorn 2026: Glenferrie Road and Beyond
 
 If you've been apartment hunting along Glenferrie Road lately, you already know the deal. Hawthorn's rental market in 2026 is not messing around. What used to be the sensible inner-east alternative to Richmond's chaos or Kew's pedigree prices now sits firmly in premium territory — and the gap is narrowing fast.
 
@@ -66,7 +57,7 @@ Kew's median house rent sits around **$920 per week** for a 3-bedroom home, clim
 
 The Kew premium over Hawthorn is roughly **$70–$100 per week** for houses and **$20–$30** for units. That gap has narrowed from $120+ two years ago. The reason? More Kew stock is being renovated and re-listed at higher prices, while new Hawthorn developments are catching up on quality.
 
-Our [Kew suburb profile](/suburbs/kew) breaks down the full cost picture for that postcode.
+Our [Kew suburb profile](/kew) breaks down the full cost picture for that postcode.
 
 ### Richmond: The Opposite End of the Equation
 
@@ -80,7 +71,7 @@ Camberwell commands the highest rents in this comparison for houses. A 3-bedroom
 
 The Camberwell premium is most visible in the family home segment. The suburb's reputation for top public and private schools — particularly Camberwell High and the private school corridor along Riversdale Road — keeps family demand sky-high.
 
-Check our [Camberwell cost of living guide](/suburbs/camberwell) for a full breakdown of life in that postcode.
+Check our [Camberwell cost of living guide](/camberwell) for a full breakdown of life in that postcode.
 
 ### The Comparison at a Glance (3-Bedroom House, Median)
 
@@ -157,7 +148,7 @@ Not all of Hawthorn is priced identically. Here's the micro-geography of value:
 
 **Hawthorn East (Glenferrie–Toorak Road corridor):** Blurs into Malvern and Toorak. The prestige end, where rents can rival Kew.
 
-For more on what daily life costs beyond rent in this area, our [Hawthorn cost of living guide](/suburbs/hawthorn/cost-of-living) covers groceries, transport, dining, and everything else that eats into your paycheque.
+For more on what daily life costs beyond rent in this area, our [Hawthorn cost of living guide](/hawthorn/cost-of-living) covers groceries, transport, dining, and everything else that eats into your paycheque.
 
 
 ## What We Skipped and Why
@@ -184,40 +175,19 @@ For dual-income households earning above $120,000 combined, it's still workable.
 The rental market isn't going to get easier any time soon. With vacancy rates below 1.5% and annual growth running at 4–5%, the question isn't whether rents will rise in 2026 — it's by how much.
 
 
-**About the author:** Marcus Cole is the Property Editor at MELBZ, covering Melbourne's inner-east rental and property markets. Got a suburb you want covered? [Let us know.](/contact)
+## FAQ
 
-*Sources: Domain Rental Report Q4 2025, Homes Victoria March Quarter 2025, realestate.com.au market data, InvestorKit Melbourne Market Report 2026, Vmove Melbourne rental data.*
+**What's the cheapest rental option in Hawthorn?**
+Studios near Swinburne University start around $380/week. Share house rooms run $280-$350/week. The oldest apartment stock along Burwood Road offers the best value for whole-unit rentals.
 
-### Featured Venues
+**Is Hawthorn rent going up?**
+Yes. Annual growth is running at 4-5% across most segments, with 2-bedroom apartments seeing the sharpest increases at 5.3%. The combination of low vacancy rates (1.3%) and strong demand means rents are unlikely to plateau soon.
 
-- **Porgie + Mr Jones** at 291 Auburn Rd, Hawthorn VIC 3122
-- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
-- **San Lorenzo** at 468 Glenferrie Rd, Hawthorn VIC 3122
-- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
-- **Porgie + Mr Jones** at 291 Auburn Rd, Hawthorn VIC 3122
-- **Short Straw** at 743 Glenferrie Rd, Hawthorn VIC 3122
-- **Axil Coffee Roasters** at 322 Burwood Rd, Hawthorn VIC 3122
-- **Lanzhou Beef Noodle Bar** at 765 Glenferrie Rd, Hawthorn VIC 3122
-- **Crust Pizza Hawthorn** at 694 Glenferrie Rd, Hawthorn VIC 3122
-- **Porgie + Mr Jones** at 29 Chapel St, Hawthorn VIC 3122
+**Where should I look for the best value rental in Hawthorn?**
+Hawthorn South near the Camberwell border. Quieter streets, slightly lower rents, and access to Camberwell amenities without the Camberwell price tag. Avoid the Glenferrie Road premium unless walkability is your top priority.
 
-### Key Highlights
+*Sources: Domain Rental Report Q4 2025, Homes Victoria March Quarter 2025, realestate.com.au market data, InvestorKit Melbourne Market Report 2026.*
 
-- Glenferrie Road shopping and dining precinct
-- The historic Hawthorn Arts Centre
-- Stunning riverside parklands along the Yarra River
+---
 
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/richmond/](/richmond/)
-- [/hawthorn/](/hawthorn/)
-- [/hawthorn/hub](/hawthorn/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More on Hawthorn:** [Suburb Guide](/hawthorn/) | [Cost of Living](/hawthorn/cost-of-living/) | [Renting Guide](/hawthorn/rent-guide/) | [Property Market](/hawthorn/property-market/)

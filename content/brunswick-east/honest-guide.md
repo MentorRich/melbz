@@ -1,16 +1,16 @@
 ---
 title: "Brunswick East Honest Guide 2026: Lygon East & Real Opinions"
 cover_image: "/images/brunswick-east/honest-guide.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+date: 2026-03-22
+author: "Priya Sandhu"
+lastmod: 2026-03-22
+cover_image_alt: "Lygon Street Brunswick East with cafes and pedestrians"
+suburb: "brunswick-east"
 tags: ["brunswick-east", "honest-guide", "lifestyle"]
-categories: ["lifestyle"]
-description: "Brunswick East Honest Guide 2026: Lygon East & Real Opinions"
+description: "The unfiltered guide to Brunswick East in 2026. Lygon Street food, Merri Creek, no train station, rent reality, and the honest truth."
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
 
 
 Brunswick East is what happens when Brunswick ..."
@@ -211,10 +211,9 @@ Get the real talk on Brunswick East every Monday — new openings, Vibe Score ch
 - Culture: 8/10
 ## Related Articles
 
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [Southbank](/southbank/)
+- [Richmond](/richmond/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

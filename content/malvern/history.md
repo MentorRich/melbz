@@ -4,16 +4,22 @@ description: "The story of Malvern: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "malvern"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Malvern Melbourne history"
   - "how has Malvern changed"
   - "Malvern gentrification"
   - "Malvern then and now"
+tags:
+  - "malvern"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Malvern's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Malvern is a story of cultural diversity.
 
 See our full [Malvern suburb guide](/malvern/) for the current picture.
 

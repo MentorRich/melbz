@@ -1,16 +1,16 @@
 ---
-title: "Keilor Park Melbourne — Everything You Need to Know"
+title: "Keilor Park Melbourne — what you need"
 description: "The complete guide to Keilor Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "keilor-park"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Keilor Park Melbourne"
   - "what is Keilor Park like"
   - "keilor-park suburb"
   - "living in Keilor Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mixed industrial and residential near the airport corridor.

@@ -1,24 +1,23 @@
 ---
 title: "8 Best Coffee Spots in Brunswick East — Your 2026 Local Guide"
-cover_image: "/images/brunswick-east/best-coffee.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+cover_image: "/images/shared/coffee-cup.jpg"
+cover_image_alt: "Specialty coffee being prepared at a roaster on Lygon Street Brunswick East"
+tags:
+  - "brunswick-east"
+  - "coffee"
+  - "cafes"
+  - "melbourne"
 ---
 
-suburb: "brunswick-east"
-vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Brunswick East's coffee scene is quietly elite. Here are the 8 spots worth your Myki detour — from on-site roasters to warehouse sourdough temples."
-tags: ["brunswick-east"]
-categories: ["general"]
 # 8 Best Coffee Spots in Brunswick East — Your 2026 Local Guide
 
 Brunswick East doesn't shout about its coffee. It doesn't need to. While Fitzroy North crows about its third-wave joints and Carlton North leans on Lygon Street's Italian heritage, Brunswick East just keeps grinding — literally. The stretch of Lygon Street between Albert and Glenlyon has quietly become one of Melbourne's most reliable coffee corridors, and the side streets around Nicholson and Blyth are hiding some genuinely exceptional brews.
 
-**Last updated: 16 March 2026** | **Brunswick East Vibe Score: 78/100 🟢**
+**Last updated: 16 March 2026** | **Last updated: March 2026**
 
-Whether you're a local who's bored of your usual or you're coming in from [Brunswick](/brunswick) on the 96 tram, here are the eight coffee spots that make this suburb worth the trip.
+If you'''re a local who's bored of your usual or you're coming in from [Brunswick](/brunswick) on the 96 tram, here are the eight coffee spots that make this suburb worth the trip.
 
 
 ## 1. Core Roasters
@@ -117,14 +116,11 @@ Brunswick East's coffee scene is defined by one thing: places that care more abo
 
 **What about Brunswick and Carlton North?** Brunswick's coffee scene is broader but busier — Code Black, Wide Open Road, and Market Lane all have their devotees. Carlton North's Lygon Street strip leans more Italian and established. Brunswick East sits between them as the Goldilocks option: less crowded than either, with a quality-per-capita ratio that's arguably the best in the inner north.
 
-**Your Brunswick East Vibe Score this week: 78/100** — Solid and getting better. New openings at East Brunswick Village are pushing the suburb's food and drink credentials higher than ever. The old guard (A1, Smug Relish, El Mirage) keeps it grounded, while new arrivals like Sani and Suntop Plaza add genuine variety.
-
 
 *Know a spot we missed? Let us know.*
 *Related reads: [Best Brunch in Brunswick East](/brunswick-east/best-brunch) | [Best Pubs in Brunswick East](/brunswick-east/best-pubs) | [Brunswick East Nightlife Guide](/brunswick-east/nightlife-guide)*
 *Compare energy plans, internet, and insurance for your area at [CompareBlitz](https://compareblitz.com.au?suburb=brunswick-east)*
 
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
 ### Featured Venues
 
@@ -154,10 +150,9 @@ Brunswick East's coffee scene is defined by one thing: places that care more abo
 - Culture: 8/10
 ## Related Articles
 
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/brunswick-east/](/brunswick-east/)
-- [/brunswick-east/hub](/brunswick-east/hub)
+- [Brunswick](/brunswick/)
+- [Fitzroy](/fitzroy/)
+- [Carlton](/carlton/)
+- [Brunswick East](/brunswick-east/)
+- [Hub](/brunswick-east/hub)
 
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -1,138 +1,102 @@
 ---
-title: "Late Night Eats in Collingwood: Where to Eat After 10pm"
+title: "Late Night Eats in Collingwood — Where to Eat After 10pm"
+description: "The best late night food in Collingwood for 2026. From Easey Street burgers to Smith Street ramen, where locals eat after the bars wind down."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Liam Murphy"
 cover_image: "/images/collingwood/late-night-eats.jpg"
-date: 2026-03-18
-author: liam
-author_image: "/images/authors/liam.jpg"
-description: "Hungry after the bars close? The best late night food options in Collingwood for midnight snacks and post-drinks feasts."
-tags: ["collingwood", "late-night-eats"]
-categories: ["late"]
+cover_image_alt: "Late night food spread at a Collingwood restaurant"
+suburb: "collingwood"
+tags: ["collingwood", "late-night-eats", "food", "nightlife"]
 ---
 
-*Updated 18 March 2026 | Pizza & Italian Writer*
+# Late Night Eats in Collingwood — Where to Eat After 10pm
 
-# Late Night Eats in Collingwood: Where to Eat After 10pm
-As a pizza and Italian writer, I'm always on the lookout for the best late-night eats in Melbourne's suburbs. Collingwood, with its rich history and cultural significance, is a suburb that comes alive at night. Whether you're a local or just visiting, there's no shortage of delicious options to satisfy your late-night cravings. In this article, we'll explore the best places to eat after 10 pm in Collingwood.
+Collingwood is one of the few inner Melbourne suburbs where you can reliably eat well past 10pm on any night of the week. Smith Street, Johnston Street, and the surrounding backstreets keep kitchens open long after the rest of the inner north shuts its doors. Whether you have just stumbled out of a gig at the Gasometer or finished a late shift, these are the spots that feed Collingwood after dark.
 
+## The Go-To Late Night Spots
 
-## Venue Addresses & Details
+### Easey's — Burgers in a Train Carriage
 
-- **Easey's** — 3/48 Easey St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 11:00 PM. *Tip: Book a seat in the train carriage for the quintessential Collingwood experience.*
-- **Le Bon Ton** — 51 Gipps St, Collingwood VIC 3066 ($$$). Open: Fri-Sat until 1:00 AM. *Tip: The late-night fried chicken and bourbon selection are legendary.*
-- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Daily until 10:00 PM. *Tip: Try the peanut ramen; it's a local cult favorite.*
-- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 12:00 AM. *Tip: The 'Pork Lover' pizza is the go-to, and the cocktails are surprisingly sophisticated.*
-- **Bad Frankie** — 141 Greeves St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Order the sweet jaffles for a late-night dessert fix.*
-- **Naked for Satan** — 285 Brunswick St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Head straight to the rooftop for the best views of the Melbourne skyline.*
-## Introduction to Collingwood's Nightlife
-Collingwood is a suburb in Melbourne's inner city, known for its Italian heritage and love for good food. The suburb is home to a diverse range of restaurants, cafes, and bars, offering something for every taste and budget. When it comes to late-night eats, Collingwood has a lot to offer, from traditional Italian eateries to modern Australian restaurants.
+**Address:** 3/48 Easey St, Collingwood VIC 3066
 
+Easey's sits on a rooftop in a decommissioned train carriage, which sounds gimmicky until you eat the burgers. The menu runs through solid beef patties, loaded fries, and fried chicken, all served with Melbourne skyline views from the rooftop deck. Kitchen stays open until 11pm Friday and Saturday, 10pm other nights. The Easey Street location puts you one block off Smith Street, close enough to walk but far enough that the queue is manageable compared to the main strip.
 
-## Venue Addresses & Details
+**What to order:** The OG Easey burger with double patty and their seasoned fries.
 
-- **Easey's** — 3/48 Easey St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 11:00 PM. *Tip: Book a seat in the train carriage for the quintessential Collingwood experience.*
-- **Le Bon Ton** — 51 Gipps St, Collingwood VIC 3066 ($$$). Open: Fri-Sat until 1:00 AM. *Tip: The late-night fried chicken and bourbon selection are legendary.*
-- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Daily until 10:00 PM. *Tip: Try the peanut ramen; it's a local cult favorite.*
-- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 12:00 AM. *Tip: The 'Pork Lover' pizza is the go-to, and the cocktails are surprisingly sophisticated.*
-- **Bad Frankie** — 141 Greeves St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Order the sweet jaffles for a late-night dessert fix.*
-- **Naked for Satan** — 285 Brunswick St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Head straight to the rooftop for the best views of the Melbourne skyline.*
-## Top Late-Night Eats in Collingwood
+### Shop Ramen — Smith Street's Noodle Fix
 
-### 1. **Pizzeria Italiana**
-Address: 145 Smith Street, Collingwood VIC 3068
-Pizzeria Italiana is a Collingwood institution, serving up delicious Neapolitan-style pizzas late into the night. Their menu features a range of traditional pizzas, including the classic Margherita and the more adventurous Prosciutto e Funghi. With its cozy atmosphere and friendly service, Pizzeria Italiana is a must-visit for any pizza lover.
+**Address:** 329 Smith St, Collingwood VIC 3066
 
-### 2. **La Taqueria**
-Address: 211 Smith Street, Collingwood VIC 3068
-La Taqueria is a popular spot for Mexican-inspired food, and they're open late to satisfy your cravings. Their menu features a range of tacos, burritos, and other Mexican favorites, all made with fresh and delicious ingredients. Whether you're in the mood for something spicy or something mild, La Taqueria has got you covered.
+Shop Ramen keeps the lights on until 10pm daily, making it the reliable weeknight option when other kitchens have already closed. The peanut ramen has developed a genuine cult following among Collingwood locals. The space is small, the turnover is fast, and the broth is the kind of rich, deeply flavoured bowl that justifies standing in line on a cold Tuesday night. Sit at the bar facing the kitchen and watch the team work.
 
-### 3. **The Provincial Hotel**
-Address: 230 Johnston Street, Collingwood VIC 3068
-The Provincial Hotel is a Collingwood landmark, offering a range of food and drink options late into the night. Their menu features a range of pub-style favorites, including burgers, sandwiches, and pizzas. With its lively atmosphere and friendly service, The Provincial Hotel is a great spot to grab a bite to eat after 10 pm.
+**What to order:** The peanut ramen with an extra egg. Add the fried chicken karaage if you have been drinking.
 
-### 4. **Mamak**
-Address: 316-318 Smith Street, Collingwood VIC 3068
-Mamak is a popular spot for Malaysian cuisine, and they're open late to satisfy your cravings. Their menu features a range of traditional Malaysian dishes, including noodles, curries, and rice bowls. With its cozy atmosphere and friendly service, Mamak is a great spot to try something new and exciting.
+### Le Bon Ton — Bourbon and Fried Chicken Past Midnight
 
-### 5. **The Collingwood Children's Farm Cafe**
-Address: 69-71 Johnston Street, Collingwood VIC 3068
-The Collingwood Children's Farm Cafe is a great spot for a late-night breakfast or brunch. Their menu features a range of delicious breakfast favorites, including eggs, pancakes, and sandwiches. With its cozy atmosphere and friendly service, The Collingwood Children's Farm Cafe is a great spot to start your day or satisfy your late-night cravings.
+**Address:** 51 Gipps St, Collingwood VIC 3066
 
-### 6. **Grampians Hotel**
-Address: 124-126 Gertrude Street, Fitzroy VIC 3065 (just a short walk from Collingwood)
-The Grampians Hotel is a popular spot for food and drink, and they're open late to satisfy your cravings. Their menu features a range of pub-style favorites, including burgers, sandwiches, and pizzas. With its lively atmosphere and friendly service, The Grampians Hotel is a great spot to grab a bite to eat after 10 pm.
+Le Bon Ton on Gipps Street runs its kitchen until 1am on Friday and Saturday nights, which makes it one of Collingwood's genuinely late options. The Southern American menu centres on fried chicken, brisket, and ribs, backed by a bourbon list that runs deep. The atmosphere leans towards rowdy and fun, particularly past 11pm when the bar crowd filters in from Smith Street. The Gipps Street location is a short walk from Stomping Ground brewery, so the natural move is a beer at Stomping Ground followed by a feed here.
 
-### 7. **Papa's Boy**
-Address: 395-397 Smith Street, Collingwood VIC 3068
-Papa's Boy is a popular spot for burgers and other American-inspired food, and they're open late to satisfy your cravings. Their menu features a range of delicious burgers, sandwiches, and salads, all made with fresh and high-quality ingredients. With its cozy atmosphere and friendly service, Papa's Boy is a great spot to grab a bite to eat after 10 pm.
+**What to order:** The fried chicken bucket and a bourbon flight.
 
+### Lazerpig — Pizza Until Midnight
 
-## Venue Addresses & Details
+**Address:** 9-11 Peel St, Collingwood VIC 3066
 
-- **Easey's** — 3/48 Easey St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 11:00 PM. *Tip: Book a seat in the train carriage for the quintessential Collingwood experience.*
-- **Le Bon Ton** — 51 Gipps St, Collingwood VIC 3066 ($$$). Open: Fri-Sat until 1:00 AM. *Tip: The late-night fried chicken and bourbon selection are legendary.*
-- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Daily until 10:00 PM. *Tip: Try the peanut ramen; it's a local cult favorite.*
-- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 12:00 AM. *Tip: The 'Pork Lover' pizza is the go-to, and the cocktails are surprisingly sophisticated.*
-- **Bad Frankie** — 141 Greeves St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Order the sweet jaffles for a late-night dessert fix.*
-- **Naked for Satan** — 285 Brunswick St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Head straight to the rooftop for the best views of the Melbourne skyline.*
-## Conclusion
-Collingwood is a suburb that comes alive at night, with a range of delicious options to satisfy your late-night cravings. From traditional Italian eateries to modern Australian restaurants, there's something for every taste and budget. Whether you're a local or just visiting, we hope this guide has helped you discover the best late-night eats in Collingwood.
+Lazerpig serves pizza and cocktails on Peel Street until midnight on weekends. The pizzas are wood-fired and properly done, with the Pork Lover standing out as the menu's strongest option. The cocktail list is surprisingly good for a pizza joint, and the late-night crowd tends to be groups finishing their evening rather than starting it. Peel Street runs between Smith Street and Wellington Street, so you are right in the middle of the Collingwood grid.
 
+**What to order:** The Pork Lover pizza and a Negroni.
 
-## Venue Addresses & Details
+### The Gem Bar — Smith Street Stalwart
 
-- **Easey's** — 3/48 Easey St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 11:00 PM. *Tip: Book a seat in the train carriage for the quintessential Collingwood experience.*
-- **Le Bon Ton** — 51 Gipps St, Collingwood VIC 3066 ($$$). Open: Fri-Sat until 1:00 AM. *Tip: The late-night fried chicken and bourbon selection are legendary.*
-- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Daily until 10:00 PM. *Tip: Try the peanut ramen; it's a local cult favorite.*
-- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 12:00 AM. *Tip: The 'Pork Lover' pizza is the go-to, and the cocktails are surprisingly sophisticated.*
-- **Bad Frankie** — 141 Greeves St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Order the sweet jaffles for a late-night dessert fix.*
-- **Naked for Satan** — 285 Brunswick St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Head straight to the rooftop for the best views of the Melbourne skyline.*
-## More to Explore in Collingwood
-If you're looking for more to explore in Collingwood, be sure to check out our guides to the [best restaurants in Collingwood](/collingwood/restaurants/) and the [best cafes in Collingwood](/collingwood/cafes/). You can also learn more about the suburb's rich history and cultural significance on our [Collingwood](/collingwood/) page.
+**Address:** 241 Smith St, Collingwood VIC 3066
 
+The Gem Bar on Smith Street is one of those venues that just stays open. The kitchen serves Thai-inspired food alongside classic bar snacks until late, and the atmosphere is consistently relaxed regardless of the hour. It functions as a neighbourhood local that happens to feed you at 11pm without making a fuss about it. The front bar is good for a quick feed, while the back room suits larger groups settling in for the night.
 
-## Venue Addresses & Details
+**What to order:** The pad see ew or the salt and pepper squid.
 
-- **Easey's** — 3/48 Easey St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 11:00 PM. *Tip: Book a seat in the train carriage for the quintessential Collingwood experience.*
-- **Le Bon Ton** — 51 Gipps St, Collingwood VIC 3066 ($$$). Open: Fri-Sat until 1:00 AM. *Tip: The late-night fried chicken and bourbon selection are legendary.*
-- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Daily until 10:00 PM. *Tip: Try the peanut ramen; it's a local cult favorite.*
-- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 12:00 AM. *Tip: The 'Pork Lover' pizza is the go-to, and the cocktails are surprisingly sophisticated.*
-- **Bad Frankie** — 141 Greeves St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Order the sweet jaffles for a late-night dessert fix.*
-- **Naked for Satan** — 285 Brunswick St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Head straight to the rooftop for the best views of the Melbourne skyline.*
-## About the Author
-Liam is a pizza and Italian writer, dedicated to the art of the perfect crust and the heritage of Italian dining across Melbourne's suburbs. With years of experience writing about food and drink, Liam has developed a deep knowledge of Melbourne's culinary scene and is always on the lookout for the best places to eat and drink.
+## The Kebab and Banh Mi Circuit
 
+Johnston Street between Hoddle Street and Smith Street is Collingwood's late-night fast food corridor. Two or three kebab shops compete for the post-midnight crowd, and the Vietnamese bakeries along Smith Street serve banh mi for under $10 well into the evening. These are not destination dining spots. They are the places that exist because Collingwood has enough foot traffic at 1am to keep them viable. Follow the queue; the longest line usually signals the best food.
 
-## Venue Addresses & Details
+## How to Get Home After
 
-- **Easey's** — 3/48 Easey St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 11:00 PM. *Tip: Book a seat in the train carriage for the quintessential Collingwood experience.*
-- **Le Bon Ton** — 51 Gipps St, Collingwood VIC 3066 ($$$). Open: Fri-Sat until 1:00 AM. *Tip: The late-night fried chicken and bourbon selection are legendary.*
-- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Daily until 10:00 PM. *Tip: Try the peanut ramen; it's a local cult favorite.*
-- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 12:00 AM. *Tip: The 'Pork Lover' pizza is the go-to, and the cocktails are surprisingly sophisticated.*
-- **Bad Frankie** — 141 Greeves St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Order the sweet jaffles for a late-night dessert fix.*
-- **Naked for Satan** — 285 Brunswick St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Head straight to the rooftop for the best views of the Melbourne skyline.*
-## Related Articles
-* [The Best Restaurants in Melbourne](/best-restaurants-melbourne/)
-* [The Best Cafes in Melbourne](/best-cafes-melbourne/)
-* [A Guide to Melbourne's Suburbs](/melbourne/suburbs/)
+The 86 tram runs along Smith Street until approximately 1:30am on Friday and Saturday nights. Collingwood station on the Hurstbridge/Mernda line is a 10-minute walk from Smith Street. Rideshare pickups are easiest on Peel Street or Wellington Street rather than Smith Street itself, where congestion adds to surge pricing after midnight.
 
+## FAQ
 
+**What is open latest in Collingwood?**
+Le Bon Ton on Gipps Street keeps its kitchen running until 1am on weekends. The kebab shops on Johnston Street stay open even later, typically until 2-3am.
 
-## Venue Addresses & Details
+**Is it safe to walk around Collingwood late at night?**
+Smith Street and Johnston Street are well-lit and busy until late. Stick to main roads rather than cutting through laneways between Smith and Wellington streets after midnight.
 
-- **Easey's** — 3/48 Easey St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 11:00 PM. *Tip: Book a seat in the train carriage for the quintessential Collingwood experience.*
-- **Le Bon Ton** — 51 Gipps St, Collingwood VIC 3066 ($$$). Open: Fri-Sat until 1:00 AM. *Tip: The late-night fried chicken and bourbon selection are legendary.*
-- **Shop Ramen** — 329 Smith St, Collingwood VIC 3066 ($$). Open: Daily until 10:00 PM. *Tip: Try the peanut ramen; it's a local cult favorite.*
-- **Lazerpig** — 9-11 Peel St, Collingwood VIC 3066 ($$). Open: Fri-Sat until 12:00 AM. *Tip: The 'Pork Lover' pizza is the go-to, and the cocktails are surprisingly sophisticated.*
-- **Bad Frankie** — 141 Greeves St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Order the sweet jaffles for a late-night dessert fix.*
-- **Naked for Satan** — 285 Brunswick St, Fitzroy/Collingwood border VIC 3065 ($$). Open: Fri-Sat until 1:00 AM. *Tip: Head straight to the rooftop for the best views of the Melbourne skyline.*
-## Related Articles
+**Can I get delivery late at night in Collingwood?**
+Several Collingwood venues operate on delivery apps until 10-11pm. After that, options thin out considerably.
 
-- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
-- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
-- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
-- [Best Bars in Melbourne](/best-bars-melbourne)
-- [Cost of Living in Melbourne](/cost-of-living-melbourne)
-- [Transport Guide for Melbourne](/transport-guide-melbourne)
+## Verdict
 
-*Find more Melbourne suburb guides at [melbz.com.au](/)*
+Collingwood earns its reputation as one of Melbourne's best suburbs for eating late. The combination of Smith Street venues, Gipps Street options like Le Bon Ton and Stomping Ground, and the Easey Street rooftop scene means you can eat properly past 10pm most nights of the week. The inner north does not have many suburbs that can match this depth of late-night options within walking distance.
 
+**More on Collingwood:** [Collingwood [Nightlife](/collingwood/nightlife-guide/) Guide](/collingwood/nightlife-guide/) | [Best [Restaurants](/collingwood/best-restaurants/) in Collingwood](/collingwood/best-restaurants/) | [Collingwood Neighbourhood Guide](/collingwood/neighbourhood-guide/)
+
+---
+
+## Explore More of Collingwood
+
+- [Collingwood History](/collingwood/history/)
+- [Collingwood Things To Do This Weekend](/collingwood/things-to-do-this-weekend/)
+- [Collingwood Cheap Eats](/collingwood/cheap-eats/)
+- [Collingwood Rent Guide](/collingwood/rent-guide/)
+- [Collingwood Date Night Guide](/collingwood/date-night/)
+- [Collingwood New Openings](/collingwood/new-openings/)
+- [Collingwood Things To Do](/collingwood/things-to-do/)
+- [Collingwood Rent Report](/collingwood/rent-report/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

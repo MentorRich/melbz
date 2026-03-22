@@ -4,13 +4,18 @@ description: "The insider's guide to Black Rock's different pockets, streets, an
 date: 2026-03-21
 suburb: "black-rock"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Black Rock neighbourhood guide"
   - "best streets in Black Rock"
   - "Black Rock areas"
   - "Black Rock pockets Melbourne"
+tags:
+  - "black-rock"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Black Rock isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -3,17 +3,17 @@ title: "Box Hill — History and How It's Changed"
 description: "The story of Box Hill: from its origins to today. How this Melbourne suburb evolved and where it's heading next."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-keywords:
-  - "Box Hill Melbourne history"
-  - "how has Box Hill changed"
-  - "Box Hill gentrification"
-  - "Box Hill then and now"
+author: "Ethan Cole"
+tags:
+  - "box-hill"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Box Hill's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Understanding Box Hill means understanding where it came from. The history explains the character.
 
 See our full [Box Hill suburb guide](/box-hill/) for the current picture.
 

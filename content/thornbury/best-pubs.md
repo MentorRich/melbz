@@ -1,17 +1,15 @@
 ---
 title: "8 Best Pubs in Thornbury for a Proper Pour in 2026"
+description: "Thornbury's best pubs for 2026 from converted warehouses to the local bowls club. Real ales, proper parma, Yorkshire pies, and no pretension at all."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Nguyen"
 cover_image: "/images/thornbury/best-pubs.jpg"
+cover_image_alt: "Thornbury Melbourne pub scene with craft beer"
+suburb: "thornbury"
+tags: ["melbourne", "thornbury", "pubs", "nightlife"]
 ---
 
-suburb: "thornbury"
-vertical: "lifestyle"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Thornbury's best pubs for 2026 — from converted warehouses to local bowls clubs. Real ales, proper parma, and no pretension."
-tags: ["thornbury"]
-categories: ["general"]
 # 8 Best Pubs in Thornbury for a Proper Pour in 2026
 
 Thornbury doesn't do gastropubs with $32 schnitzels and a curated "heritage" beer list. What it does is better: neighbourhood watering holes where the beer's cold, the food's honest, and nobody's trying to reinvent the pub. Some of these places are genuinely old-school; others are newer takes on the format. All of them are places you can walk into alone on a Tuesday and leave having made a friend. That's the Thornbury pub test.
@@ -134,38 +132,3 @@ Thornbury's pub scene doesn't need gimmicks. You've got a bowls club with $5 sch
 
 **What We Skipped and Why:** We didn't include places that call themselves pubs but are really restaurants with a bar tab. Thornbury's real pub scene is about the drinking experience first, food second — except at Northern Git, where the pies are genuinely the draw. We also left out a few hotels on the strip that serve beer but don't have the community pub atmosphere. If you want a hotel bar experience, [Northcote](/northcote) has better options.
 
-### Featured Venues
-
-- **Umbra** at 769 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
-- **Jerry Joy** at 847 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Umami** at 778 High St, Thornbury VIC 3071
-- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
-- **Umami** at 774 High St, Thornbury VIC 3071
-
-### Key Highlights
-
-- High Street's independent cafes and vintage stores
-- The iconic Thornbury Theatre
-- Penders Park and Merri Creek trail access
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/northcote/](/northcote/)
-- [/best-pubs-melbourne/](/best-pubs-melbourne/)
-- [/nightlife/](/nightlife/)
-- [/thornbury/](/thornbury/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

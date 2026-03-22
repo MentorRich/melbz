@@ -4,15 +4,22 @@ description: "Public transport in Tottenham: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "tottenham"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Tottenham Melbourne"
   - "commute from Tottenham to city"
   - "Tottenham train station"
+tags:
+  - "tottenham"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Tottenham — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Tottenham. Let us cut through the fluff.
 
 Check out our full [Tottenham suburb guide](/tottenham/) for the complete picture.
 

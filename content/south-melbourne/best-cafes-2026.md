@@ -1,12 +1,13 @@
 ---
 title: "Best Cafes in South Melbourne 2026: Where to Get Your Fix"
 cover_image: "/images/south-melbourne/best-cafes-2026.jpg"
-date: 2026-03-16
-author: eli
-author_image: "/images/authors/ines.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Eli Chen"
 tags: ["south-melbourne", "cafes", "food"]
-categories: ["food"]
-description: "Best Cafes in South Melbourne 2026: Where to Get Your Fix"
+description: "St Ali on Yarra Place, The Kettle Black on Albert Road, and the South Melbourne cafes setting the standard for Melbourne coffee culture. Six tested."
+cover_image_alt: "South Melbourne street scene and local dining"
+suburb: "south-melbourne"
 ---
 
 South Melbourne doesn't try to impress you. That's what makes it impressive. While the inner-north..."
@@ -174,10 +175,9 @@ And if you're comparing suburbs, our [South Melbourne vs Albert Park showdown](/
 
 ## Related Articles
 
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/best-cafes-melbourne/](/best-cafes-melbourne/)
-- [/food/](/food/)
-- [/south-melbourne/](/south-melbourne/)
+- [Fitzroy](/fitzroy/)
+- [Carlton](/carlton/)
+- [Best Cafes Melbourne](/best-cafes-melbourne/)
+- [Food](/food/)
+- [South Melbourne](/south-melbourne/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

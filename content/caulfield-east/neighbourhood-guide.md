@@ -4,13 +4,18 @@ description: "The insider's guide to Caulfield East's different pockets, streets
 date: 2026-03-21
 suburb: "caulfield-east"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Caulfield East neighbourhood guide"
   - "best streets in Caulfield East"
   - "Caulfield East areas"
   - "Caulfield East pockets Melbourne"
+tags:
+  - "caulfield-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Caulfield East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,16 +4,22 @@ description: "The story of Narre Warren South: from its origins to today. How th
 date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Narre Warren South Melbourne history"
   - "how has Narre Warren South changed"
   - "Narre Warren South gentrification"
   - "Narre Warren South then and now"
+tags:
+  - "narre-warren-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Narre Warren South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Narre Warren South and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Narre Warren South suburb guide](/narre-warren-south/) for the current picture.
 

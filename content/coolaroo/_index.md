@@ -1,16 +1,16 @@
 ---
-title: "Coolaroo Melbourne — Everything You Need to Know"
+title: "Coolaroo Melbourne — what you need"
 description: "The complete guide to Coolaroo. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "coolaroo"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Coolaroo Melbourne"
   - "what is Coolaroo like"
   - "coolaroo suburb"
   - "living in Coolaroo"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Northern growth corridor suburb with the Regional Rail Link and growing amenities.

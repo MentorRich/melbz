@@ -4,16 +4,22 @@ description: "The story of Hillside: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "hillside"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Hillside Melbourne history"
   - "how has Hillside changed"
   - "Hillside gentrification"
   - "Hillside then and now"
+tags:
+  - "hillside"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Hillside's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Hillside is more interesting than most.
 
 See our full [Hillside suburb guide](/hillside/) for the current picture.
 

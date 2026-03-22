@@ -4,13 +4,19 @@ description: "Your weekend in Glen Iris sorted — from morning coffee to Saturd
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "weekend"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "what to do Glen Iris this weekend"
   - "Glen Iris weekend"
   - "things to do Glen Iris Saturday"
   - "Glen Iris Sunday plans"
+tags:
+  - "glen-iris"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Glen Iris does weekends well. Whether you're the type who plans every hour or pr
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Glen Iris's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/glen-iris/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Glen Iris's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Glen Iris starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Glen Iris starts slower. The [cafes](/glen-iris/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Glen Iris and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Glen Iris does weekends well. Whether you're the type who plans every hour or pr
 ---
 
 **More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris Things to Do](/glen-iris/things-to-do/) · [Glen Iris Best Restaurants](/glen-iris/best-restaurants/)
+
+---
+
+## Explore More of Glen Iris
+
+- [Glen Iris History](/glen-iris/history/)
+- [Glen Iris Rent Guide](/glen-iris/rent-guide/)
+- [Glen Iris Glen Iris For Retirees](/glen-iris/glen-iris-for-retirees/)
+- [Glen Iris Things To Do](/glen-iris/things-to-do/)
+- [Glen Iris Cost of Living](/glen-iris/cost-of-living/)
+- [Glen Iris Young Professionals Guide](/glen-iris/young-professionals/)
+- [Glen Iris Transport Guide](/glen-iris/transport-guide/)
+- [Glen Iris Best Cafes](/glen-iris/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

@@ -4,16 +4,22 @@ description: "How expensive is West Footscray? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "west-footscray"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living West Footscray Melbourne"
   - "how expensive is West Footscray"
   - "is West Footscray expensive to live in"
   - "West Footscray rent"
+tags:
+  - "west-footscray"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in West Footscray — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In West Footscray, here is exactly how far your dollar goes.
 
 Read our full [West Footscray suburb guide](/west-footscray/) for the bigger picture.
 

@@ -4,16 +4,22 @@ description: "How expensive is Maribyrnong? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "maribyrnong"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Maribyrnong Melbourne"
   - "how expensive is Maribyrnong"
   - "is Maribyrnong expensive to live in"
   - "Maribyrnong rent"
+tags:
+  - "maribyrnong"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Maribyrnong — no sugar-coating, no made-up figures.
+The cost of living in Maribyrnong surprises some people. Whether that is a good or bad surprise depends on your budget.
 
 Read our full [Maribyrnong suburb guide](/maribyrnong/) for the bigger picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "St Kilda West Melbourne — Everything You Need to Know"
+title: "St Kilda West Melbourne — what you need"
 description: "The complete guide to St Kilda West. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "St Kilda West Melbourne"
   - "what is St Kilda West like"
   - "st-kilda-west suburb"
   - "living in St Kilda West"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Melbourne's smallest and most exclusive beachside pocket. Massive homes, West Beach, pure quiet.

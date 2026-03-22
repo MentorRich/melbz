@@ -4,16 +4,22 @@ description: "The story of Yallambie: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "yallambie"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Yallambie Melbourne history"
   - "how has Yallambie changed"
   - "Yallambie gentrification"
   - "Yallambie then and now"
+tags:
+  - "yallambie"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Yallambie's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Yallambie was working-class cottages and factories. The transformation tells a quintessentially Melbourne story.
 
 See our full [Yallambie suburb guide](/yallambie/) for the current picture.
 

@@ -3,19 +3,18 @@ title: "Carnegie for Young Professionals 2026: Lifestyle, Cost & Nightlife"
 slug: "young-professionals"
 date: 2026-03-21
 updated: 2026-03-21
-author: dani
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 suburb: "carnegie"
 suburbs: ["carnegie"]
 vertical: lifestyle
 tags: ["carnegie", "young-professionals", "nightlife", "lifestyle"]
 description: "Carnegie for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent."
-cover_image: "https://images.pexels.com/photos/9451606/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/students.jpg"
 cover_alt: "Carnegie nightlife young professionals Melbourne"
 vibe_score: 72
 ---
 
-You're in your mid-20s to early-30s, you earn decent money but not Toorak money, and you want a suburb that has actual things to do after 6pm. Is Carnegie it?
+Career, social life, commute, rent. The four pillars of the young professional suburb decision. Here is the report card for Carnegie.
 
 ## The Young Professional Scorecard
 
@@ -68,4 +67,4 @@ Carnegie works for young professionals who prioritise transport and value over a
 
 ---
 
-*Living the young professional life in Carnegie? Tell us your experience — [hq@melbz101](mailto:hq@melbz101)*
+*Living the young professional life in Carnegie? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*

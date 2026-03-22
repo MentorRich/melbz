@@ -4,12 +4,16 @@ description: "Considering retirement in North Melbourne? Quiet streets, healthca
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "North Melbourne retirees Melbourne"
   - "retiring in North Melbourne"
   - "quiet suburbs Melbourne"
+tags:
+  - "north-melbourne"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in North Melbourne? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

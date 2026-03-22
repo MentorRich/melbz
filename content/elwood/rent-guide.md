@@ -4,19 +4,25 @@ description: "The honest rental guide for Elwood. What to expect, where to look,
 date: 2026-03-21
 suburb: "elwood"
 article_type: "housing"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "renting in Elwood"
   - "Elwood rental market"
   - "rent Elwood Melbourne"
   - "apartments Elwood"
+tags:
+  - "elwood"
+  - "rent"
+  - "property"
+  - "cost-of-living"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Renting in Elwood — The Real Story
 
-Looking to rent in Elwood? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
+Looking to [rent](/elwood/cost-of-living/) in Elwood? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
 
 See our full [Elwood Cost of Living](/elwood/cost-of-living/) guide for the broader picture.
 
@@ -38,7 +44,7 @@ That said, Elwood has a steady flow of rental stock. Properties come up regularl
 
 ## How to Actually Get a Rental in Elwood
 
-1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental history. Pre-fill the Ignite or 2Apply forms.
+1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental [history](/elwood/history/). Pre-fill the Ignite or 2Apply forms.
 
 2. **Apply on the day of inspection** — Properties that sit for a week are rare. Same-day applications show you're serious.
 
@@ -69,3 +75,23 @@ The key is matching your budget to realistic expectations. A smaller, well-locat
 ---
 
 **More on Elwood:** [Elwood Suburb Guide](/elwood/) · [Elwood Cost of Living](/elwood/cost-of-living/) · [Elwood for Young Professionals](/elwood/elwood-for-young-professionals/)
+
+---
+
+## Explore More of Elwood
+
+- [Elwood History](/elwood/history/)
+- [Elwood Things To Do](/elwood/things-to-do/)
+- [Elwood Cost of Living](/elwood/cost-of-living/)
+- [Elwood Young Professionals Guide](/elwood/young-professionals/)
+- [Elwood Nightlife Guide](/elwood/nightlife-guide/)
+- [Elwood Transport Guide](/elwood/transport-guide/)
+- [Elwood Best Cafes](/elwood/best-cafes/)
+- [Elwood Best Restaurants](/elwood/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

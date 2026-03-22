@@ -4,16 +4,22 @@ description: "How expensive is Sunshine? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "sunshine"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Sunshine Melbourne"
   - "how expensive is Sunshine"
   - "is Sunshine expensive to live in"
   - "Sunshine rent"
+tags:
+  - "sunshine"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Sunshine — no sugar-coating, no made-up figures.
+The cost question in Sunshine is straightforward: it is creeping up year on year. Here is what your wallet actually needs to know.
 
 Read our full [Sunshine suburb guide](/sunshine/) for the bigger picture.
 

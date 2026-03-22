@@ -1,19 +1,14 @@
 ---
-title: "Hidden Gems in Abbotsford Melbourne — What Most People Miss"
-description: "The spots in Abbotsford that don't make the top 10 lists but locals would fight to protect. Off the main strip, under the radar."
-date: 2026-03-21
+title: "Local Favourites in Abbotsford Melbourne — What Most People Miss"
+description: "The spots in Abbotsford that don't make the top 10 lists but locals would fight to protect. Off the main strip, under the radar. Updated for 2026 with real l."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Tan"
+cover_image: "/images/abbotsford/hidden-gems.jpg"
+cover_image_alt: "Local favourites and lesser-known spots in Abbotsford Melbourne"
 suburb: "abbotsford"
-article_type: "local-guide"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-keywords:
-  - "hidden gems Abbotsford"
-  - "secret spots Abbotsford"
-  - "local tips Abbotsford"
-  - "off beaten path Abbotsford Melbourne"
+tags: ["abbotsford", "hidden-gems"]
 ---
-
-
 ## Why Abbotsford's Best Bits Are Hidden
 
 Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But Abbotsford's real character lives in the places most visitors never find.
@@ -48,7 +43,7 @@ Some of Abbotsford's best eating isn't where you'd expect:
 - **Community notice boards** — yes, physical ones — that tell you more about the suburb's real life than any website
 - **The view** — there's usually a spot in every suburb where you get a perspective on Melbourne that surprises you
 
-## How to Find Your Own Hidden Gems
+## How to Find Your Own Local Favourites
 
 1. **Walk without a destination** — seriously, just wander. The grid will always get you back
 2. **Talk to the people who've been here longest** — the 15-year resident knows things Google doesn't
@@ -62,4 +57,6 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on Abbotsford:** [Abbotsford Suburb Guide](/abbotsford/) · [Abbotsford History](/abbotsford/history/) · [Abbotsford Living Guide](/abbotsford/living-in-abbotsford/)
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
+
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

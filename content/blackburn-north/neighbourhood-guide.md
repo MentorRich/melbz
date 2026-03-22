@@ -4,13 +4,18 @@ description: "The insider's guide to Blackburn North's different pockets, street
 date: 2026-03-21
 suburb: "blackburn-north"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Blackburn North neighbourhood guide"
   - "best streets in Blackburn North"
   - "Blackburn North areas"
   - "Blackburn North pockets Melbourne"
+tags:
+  - "blackburn-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Blackburn North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -1,16 +1,16 @@
 ---
-title: "Thomastown Melbourne — Everything You Need to Know"
+title: "Thomastown Melbourne — what you need"
 description: "The complete guide to Thomastown. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "thomastown"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Thomastown Melbourne"
   - "what is Thomastown like"
   - "thomastown suburb"
   - "living in Thomastown"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Diverse community on the South Morang line with improving infrastructure and retail.

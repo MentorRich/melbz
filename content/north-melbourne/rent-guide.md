@@ -4,19 +4,25 @@ description: "The honest rental guide for North Melbourne. What to expect, where
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "housing"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "renting in North Melbourne"
   - "North Melbourne rental market"
   - "rent North Melbourne Melbourne"
   - "apartments North Melbourne"
+tags:
+  - "north-melbourne"
+  - "rent"
+  - "property"
+  - "cost-of-living"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Renting in North Melbourne — The Real Story
 
-Looking to rent in North Melbourne? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
+Looking to [rent](/north-melbourne/cost-of-living/) in North Melbourne? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
 
 See our full [North Melbourne Cost of Living](/north-melbourne/cost-of-living/) guide for the broader picture.
 
@@ -38,7 +44,7 @@ That said, North Melbourne has a steady flow of rental stock. Properties come up
 
 ## How to Actually Get a Rental in North Melbourne
 
-1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental history. Pre-fill the Ignite or 2Apply forms.
+1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental [history](/north-melbourne/history/). Pre-fill the Ignite or 2Apply forms.
 
 2. **Apply on the day of inspection** — Properties that sit for a week are rare. Same-day applications show you're serious.
 
@@ -69,3 +75,23 @@ The key is matching your budget to realistic expectations. A smaller, well-locat
 ---
 
 **More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne Cost of Living](/north-melbourne/cost-of-living/) · [North Melbourne for Young Professionals](/north-melbourne/north-melbourne-for-young-professionals/)
+
+---
+
+## Explore More of North Melbourne
+
+- [North Melbourne History](/north-melbourne/history/)
+- [North Melbourne Things To Do](/north-melbourne/things-to-do/)
+- [North Melbourne Cost of Living](/north-melbourne/cost-of-living/)
+- [North Melbourne Neighbourhood Guide](/north-melbourne/neighbourhood-guide/)
+- [North Melbourne Transport Guide](/north-melbourne/transport-guide/)
+- [North Melbourne Best Cafes](/north-melbourne/best-cafes/)
+- [North Melbourne Best Restaurants](/north-melbourne/best-restaurants/)
+- [North Melbourne Weekend Guide](/north-melbourne/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

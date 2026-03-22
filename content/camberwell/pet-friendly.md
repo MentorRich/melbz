@@ -3,14 +3,14 @@ title: "Dog-Friendly Camberwell — Parks, Cafes and Walks"
 description: "Raising a dog in Camberwell? Off-leash parks, pet-friendly cafes, vet access, and what doggo life looks like in this suburb."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-keywords:
-  - "dog friendly Camberwell"
-  - "off leash park Camberwell"
-  - "pet friendly cafes Camberwell"
-  - "walking dog Camberwell"
+author: "Maya Chen"
+tags:
+  - "camberwell"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +28,7 @@ Camberwell has dedicated off-leash areas where your dog can actually run. The lo
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/camberwell/best-cafes/)
 
 Multiple cafes in Camberwell welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +68,23 @@ Veterinary clinics are accessible from Camberwell, including emergency after-hou
 ---
 
 **More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) · [Camberwell Things to Do](/camberwell/things-to-do/) · [Camberwell for Families](/camberwell/camberwell-for-families/)
+
+---
+
+## Explore More of Camberwell
+
+- [Camberwell History](/camberwell/history/)
+- [Camberwell Camberwell For Retirees](/camberwell/camberwell-for-retirees/)
+- [Camberwell Rent Guide](/camberwell/rent-guide/)
+- [Camberwell Things To Do](/camberwell/things-to-do/)
+- [Camberwell Cost of Living](/camberwell/cost-of-living/)
+- [Camberwell Young Professionals Guide](/camberwell/young-professionals/)
+- [Camberwell Nightlife Guide](/camberwell/nightlife-guide/)
+- [Camberwell Transport Guide](/camberwell/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Glen Iris Suburb Guide](/glen-iris/)

@@ -1,18 +1,14 @@
 ---
-title: "How Safe Is Cremorne Melbourne?"
-description: "Is Cremorne safe to live in? The honest breakdown of safety, what to be aware of, and how locals experience the suburb day-to-day."
-date: 2026-03-21
+title: "How Safe Is Cremorne Melbourne? — 2026 Safety Guide"
+description: "Is Cremorne safe to live in? Church Street daytime bustle, quiet warehouse laneways after dark, and what locals actually experience in this inner-south-east suburb."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Wei"
+cover_image: "/images/cremorne/safety-guide.jpg"
+cover_image_alt: "Well-lit Church Street Cremorne in the evening"
 suburb: "cremorne"
-article_type: "safety"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-keywords:
-  - "is Cremorne safe"
-  - "Cremorne safety"
-  - "Cremorne crime"
-  - "is Cremorne dangerous Melbourne"
+tags: ["cremorne", "safety", "living"]
 ---
-
 
 ## Safety in Cremorne — The Honest Answer
 
@@ -22,9 +18,9 @@ Read our full [Cremorne suburb guide](/cremorne/) for the complete picture.
 
 ## The Day-to-Day Experience
 
-Walking around Cremorne during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around Cremorne during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/cremorne/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/cremorne/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +44,7 @@ Crime statistics exist for every suburb, and Cremorne's numbers are in line with
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/cremorne/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +64,23 @@ The lifestyle benefits of Cremorne — community, walkability, access — outwei
 ---
 
 **More on Cremorne:** [Cremorne Suburb Guide](/cremorne/) · [Cremorne Living Guide](/cremorne/living-in-cremorne/) · [Cremorne for Families](/cremorne/cremorne-for-families/)
+
+---
+
+## Explore More of Cremorne
+
+- [Cremorne History](/cremorne/history/)
+- [Cremorne Things To Do This Weekend](/cremorne/things-to-do-this-weekend/)
+- [Cremorne Cheap Eats](/cremorne/cheap-eats/)
+- [Cremorne Rent Guide](/cremorne/rent-guide/)
+- [Cremorne Date Night Guide](/cremorne/date-night/)
+- [Cremorne Cremorne For Retirees](/cremorne/cremorne-for-retirees/)
+- [Cremorne New Openings](/cremorne/new-openings/)
+- [Cremorne Things To Do](/cremorne/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Cranbourne North Suburb Guide](/cranbourne-north/)
+- [Cranbourne West Suburb Guide](/cranbourne-west/)
+- [Croydon Suburb Guide](/croydon/)
+- [Croydon North Suburb Guide](/croydon-north/)

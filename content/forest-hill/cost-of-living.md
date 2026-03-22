@@ -4,16 +4,22 @@ description: "How expensive is Forest Hill? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "forest-hill"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Forest Hill Melbourne"
   - "how expensive is Forest Hill"
   - "is Forest Hill expensive to live in"
   - "Forest Hill rent"
+tags:
+  - "forest-hill"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Forest Hill — no sugar-coating, no made-up figures.
+The gap between the sticker price of Forest Hill and actual living costs is worth understanding before you move.
 
 Read our full [Forest Hill suburb guide](/forest-hill/) for the bigger picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Sunshine West? Quiet streets, healthcare
 date: 2026-03-21
 suburb: "sunshine-west"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Sunshine West retirees Melbourne"
   - "retiring in Sunshine West"
   - "quiet suburbs Melbourne"
+tags:
+  - "sunshine-west"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Sunshine West? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

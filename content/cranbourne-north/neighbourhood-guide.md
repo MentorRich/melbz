@@ -4,13 +4,18 @@ description: "The insider's guide to Cranbourne North's different pockets, stree
 date: 2026-03-21
 suburb: "cranbourne-north"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Cranbourne North neighbourhood guide"
   - "best streets in Cranbourne North"
   - "Cranbourne North areas"
   - "Cranbourne North pockets Melbourne"
+tags:
+  - "cranbourne-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Cranbourne North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

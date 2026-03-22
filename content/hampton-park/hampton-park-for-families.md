@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Hampton Park? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "hampton-park"
 article_type: "families"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "is Hampton Park good for families"
   - "Hampton Park family friendly"
   - "raising kids in Hampton Park"
+tags:
+  - "hampton-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Hampton Park with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

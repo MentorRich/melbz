@@ -4,13 +4,18 @@ description: "The insider's guide to Heidelberg West's different pockets, street
 date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Heidelberg West neighbourhood guide"
   - "best streets in Heidelberg West"
   - "Heidelberg West areas"
   - "Heidelberg West pockets Melbourne"
+tags:
+  - "heidelberg-west"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Heidelberg West isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

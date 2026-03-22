@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Yallambie? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "yallambie"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Yallambie good for families"
   - "Yallambie family friendly"
   - "raising kids in Yallambie"
+tags:
+  - "yallambie"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Yallambie with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

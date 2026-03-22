@@ -4,13 +4,20 @@ description: "Where to find the best coffee and cafes in Malvern. Local picks, q
 date: 2026-03-21
 suburb: "malvern"
 article_type: "best-of"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "best cafes Malvern"
   - "coffee Malvern Melbourne"
   - "cafes near Malvern"
   - "brunch Malvern"
+tags:
+  - "malvern"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
@@ -59,3 +66,23 @@ Malvern's cafe scene is refined and reliable. You won't struggle to find good co
 ---
 
 **More on Malvern:** [Malvern Suburb Guide](/malvern/) · [Malvern Cost of Living](/malvern/cost-of-living/) · [Malvern Neighbourhood Guide](/malvern/neighbourhood-guide/)
+
+---
+
+## Explore More of Malvern
+
+- [Malvern History](/malvern/history/)
+- [Malvern Rent Guide](/malvern/rent-guide/)
+- [Malvern Things To Do](/malvern/things-to-do/)
+- [Malvern Cost of Living](/malvern/cost-of-living/)
+- [Malvern Young Professionals Guide](/malvern/young-professionals/)
+- [Malvern Transport Guide](/malvern/transport-guide/)
+- [Malvern Best Restaurants](/malvern/best-restaurants/)
+- [Malvern Weekend Guide](/malvern/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

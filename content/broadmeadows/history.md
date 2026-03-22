@@ -4,16 +4,22 @@ description: "The story of Broadmeadows: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "broadmeadows"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Bec Taylor"
 keywords:
   - "Broadmeadows Melbourne history"
   - "how has Broadmeadows changed"
   - "Broadmeadows gentrification"
   - "Broadmeadows then and now"
+tags:
+  - "broadmeadows"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Broadmeadows's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Broadmeadows is rooted in immigration and community.
 
 See our full [Broadmeadows suburb guide](/broadmeadows/) for the current picture.
 

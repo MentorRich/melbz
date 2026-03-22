@@ -4,15 +4,22 @@ description: "Public transport in Vermont South: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "vermont-south"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Vermont South Melbourne"
   - "commute from Vermont South to city"
   - "Vermont South train station"
+tags:
+  - "vermont-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Vermont South — what works, what's annoying, and how long things actually take.
+Public transport in Vermont South has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Vermont South suburb guide](/vermont-south/) for the complete picture.
 

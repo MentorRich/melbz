@@ -4,12 +4,16 @@ description: "Considering retirement in Forest Hill? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "forest-hill"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Forest Hill retirees Melbourne"
   - "retiring in Forest Hill"
   - "quiet suburbs Melbourne"
+tags:
+  - "forest-hill"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Forest Hill? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

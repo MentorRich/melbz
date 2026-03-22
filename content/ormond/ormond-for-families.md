@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Ormond? Parks, schools, safety, and th
 date: 2026-03-21
 suburb: "ormond"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Ormond good for families"
   - "Ormond family friendly"
   - "raising kids in Ormond"
+tags:
+  - "ormond"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Ormond with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

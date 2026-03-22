@@ -4,15 +4,22 @@ description: "Public transport in Noble Park North: trains, trams, buses, cyclin
 date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Noble Park North Melbourne"
   - "commute from Noble Park North to city"
   - "Noble Park North train station"
+tags:
+  - "noble-park-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Noble Park North — what works, what's annoying, and how long things actually take.
+Two words define transport in Noble Park North: work in progress. Everything else is detail.
 
 Check out our full [Noble Park North suburb guide](/noble-park-north/) for the complete picture.
 

@@ -1,89 +1,55 @@
 ---
-title: "Rent Prices in Southbank 2026"
+title: "Rent Prices in Southbank 2026 — Current Data"
+description: "Current rent prices in Southbank for 2026. Studios from three-eighty, one-beds from five-fifty, two-beds from seven-fifty, and how prices vary by building."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 cover_image: "/images/southbank/rent-prices.jpg"
-date: 2026-03-18
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["southbank", "rent-prices"]
-categories: ["rent"]
-description: "Rent Prices in Southbank 2026"
+cover_image_alt: "Southbank apartment tower with river views"
+suburb: "southbank"
+tags: ["southbank", "rent-prices", "rental", "property", "riverside"]
 ---
 
-*description: "18 March 2026 | Property Editor"*
+## Rent Prices in Southbank 2026
 
+Southbank's rental market is exclusively apartments. Prices vary significantly by building age, floor level, view, and amenities.
 
-### Rent Trends in Southbank 2026
+## Current Median Rents
 
-The rental market in Southbank has evolved significantly over the past year. Understanding current trends helps renters and investors make informed decisions.
+| Property Type | Weekly Rent | Notes |
+|--------------|------------|-------|
+| Studio | $380-500 | Older builds, smaller floorplans (35-45sqm) |
+| 1-bed apartment | $550-750 | View and building quality drive the range |
+| 2-bed apartment | $750-900+ | River/CBD views push past $900 |
+| 3-bed apartment | $1,100+ | Rare in Southbank, premium pricing |
 
-**Median rents** in Southbank currently sit around market rate for the area, reflecting both the suburb's amenities and its proximity to the Melbourne CBD.
+## What Drives Price Differences
 
-**Property types** available for rent include:
-- Studio apartments: $300-400/week
-- One-bedroom units: $400-550/week
-- Two-bedroom apartments: $550-750/week
-- Two-bedroom houses: $700-900/week
+**Building age:** 1990s-era towers are cheaper but may have maintenance issues. Post-2010 buildings command premiums for better insulation, design, and amenities.
 
-**Suburb comparison** shows Southbank offers value compared to inner-city alternatives while maintaining excellent transport links and lifestyle amenities.
+**Floor level:** The difference between floor 5 and floor 50 can be $100-200/week. Higher floors get better views and less noise but more wind.
 
-**Future outlook** suggests steady demand for Southbank rentals, supported by ongoing development and the suburb's continuing appeal to Melbourne's diverse population.
-*Updated 18 March 2026 | Property Editor*
+**View:** River views and CBD-facing apartments cost more. Apartments facing other towers or **City Road** are priced lower.
 
-# Rent Prices in Southbank 2026
-March 18, 2026
+**Amenities:** Buildings with pools, gyms, and concierge charge higher rents (and higher body corporate for owners). This gets passed to renters.
 
-As Melbourne's premier arts and entertainment precinct, Southbank continues to attract renters who want to be at the heart of the action. With its sleek modern architecture, always crowded riverside promenade, and world-class attractions, it's no wonder that Southbank remains one of the most sought-after suburbs in Melbourne. But what can you expect to pay in rent, and where are the best places to live?
+## How Southbank Compares
 
-## An Insider's Guide to Southbank
+Southbank rents are comparable to the CBD and slightly above [South Melbourne](/south-melbourne/). For the same money in the inner north — [Fitzroy](/fitzroy/), [Collingwood](/collingwood/) — you'd get more character and community but less river views and walkability.
 
-Located directly across the Yarra River from Melbourne's CBD, Southbank offers a unique blend of urban convenience and riverside charm. From the iconic Eureka Skydeck to the packed Southbank Promenade, there's no shortage of things to see and do in this busy suburb.
+## FAQ
 
-## Rent Prices in Southbank
+**Are rents going up in Southbank?**
+Modest increases in line with Melbourne's broader rental market. The high volume of apartment stock keeps Southbank from extreme spikes.
 
-The median rent price for a one-bedroom apartment in Southbank is expected to be around $2,200-$2,500 per month in 2026, according to recent market trends. For a two-bedroom apartment, you can expect to pay around $3,000-$3,500 per month. Keep in mind that prices may vary depending on the location, amenities, and condition of the property.
+**What's the cheapest apartment in Southbank?**
+Studios in older buildings start around $380/week. These are typically 35-40sqm with limited natural light.
 
-## Top 5 Venues to Check Out in Southbank
+**Is it cheaper to rent on Kavanagh Street or Southbank Boulevard?**
+Kavanagh Street tends to be slightly cheaper — further from the Promenade tourist strip, quieter character. Southbank Boulevard has newer buildings with better amenities.
 
-Here are some of our top picks for venues to explore in Southbank:
+## The Verdict
 
-* **Arts Centre Melbourne**, 219 Exhibition St, Southbank VIC 3006 - This world-class arts centre is home to a range of performances, exhibitions, and events throughout the year. Catch a show at the Melbourne Theatre Company or explore the Australian Centre for the Moving Image. ($20-$50 per person)
-* **Eureka Skydeck**, 600 Collins St, Southbank VIC 3006 - Take in breathtaking views of Melbourne from the highest public vantage point in the Southern Hemisphere. Insider tip: book a spot on the Skydeck's Edge experience for a thrilling walk on the glass floor ($25-$35 per person)
-* **Southbank Promenade**, 2-14 Southbank Blvd, Southbank VIC 3006 - This packed on weekends on weekends riverside promenade is lined with restaurants, cafes, and bars, making it the perfect spot to grab a bite to eat or enjoy a night out. Try **The Promenade** at 6 Southbank Blvd for a delicious meal with a view ($20-$40 per person)
-* **Melbourne Star Observation Wheel**, 3-5 The Esplanade, Southbank VIC 3006 - Take a ride on Melbourne's giant observation wheel for panoramic views of the city. Insider tip: book a sunset ride for a romantic and memorable experience ($30-$50 per person)
-* **Australian Centre for the Moving Image**, 219 Exhibition St, Southbank VIC 3006 - Explore the history of film and television at this unique museum. Catch a screening or exhibition, and don't miss the interactive exhibits ($15-$25 per person)
+Southbank's rental market offers range — from $380 studios for budget-conscious singles to $900+ two-bedders with river views. The stock is plentiful, which keeps competition manageable. The key is matching your priorities (view, quiet, amenities) to the right building on the right street. Check our [full rent guide](/southbank/rent-guide/) for what to watch out for before signing.
 
-## Practical Advice for Renters
-
-If you're looking to rent in Southbank, here are some practical tips to keep in mind:
-
-* Start your search early to secure the best properties
-* Consider sharing with friends or housemates to split the cost
-* Look for apartments with amenities like gyms, pools, and secure parking
-* Research the local area and get to know the neighbourhood before signing a lease
-
-## Insider Knowledge
-
-As a local, I can tell you that Southbank is a suburb that truly has varied enough to please most. From its world-class attractions to its always busy nightlife, it's no wonder that Southbank remains one of Melbourne's most popular suburbs. Whether you're a young professional, a student, or just looking for a convenient place to live, Southbank is definitely worth considering.
-
-## Conclusion
-
-Southbank is a suburb that offers a unique blend of urban convenience and riverside charm. With its world-class attractions, buzzing nightlife, and range of amenities, it's no wonder that Southbank remains one of Melbourne's most sought-after suburbs. Whether you're looking to rent an apartment or just explore the area, we hope this guide has given you a better understanding of what Southbank has to offer.
-
-## Related Articles
-
-- [/southbank/](/southbank/)
-- [/property/](/property/)
-- [/rent-prices-melbourne/](/rent-prices-melbourne/)
-- [/southbank/](/southbank/)
-- [/southbank/hub](/southbank/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
-
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.
+**More on Southbank:** [Southbank Cost of Living](/southbank/cost-of-living/) · [Southbank Rent Guide](/southbank/rent-guide/) · [Southbank Property Market](/southbank/property-market/)

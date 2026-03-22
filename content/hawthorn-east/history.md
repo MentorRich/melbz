@@ -4,16 +4,22 @@ description: "The story of Hawthorn East: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "hawthorn-east"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Hawthorn East Melbourne history"
   - "how has Hawthorn East changed"
   - "Hawthorn East gentrification"
   - "Hawthorn East then and now"
+tags:
+  - "hawthorn-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Hawthorn East's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+The name Hawthorn East comes from its early settlers. But the real story is what happened after the suburb was named.
 
 See our full [Hawthorn East suburb guide](/hawthorn-east/) for the current picture.
 

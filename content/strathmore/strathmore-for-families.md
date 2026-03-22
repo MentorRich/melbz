@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Strathmore? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "strathmore"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Strathmore good for families"
   - "Strathmore family friendly"
   - "raising kids in Strathmore"
+tags:
+  - "strathmore"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Strathmore with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

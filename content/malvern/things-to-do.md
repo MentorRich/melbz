@@ -4,13 +4,19 @@ description: "What to do in Malvern this weekend and beyond. Activities, events,
 date: 2026-03-21
 suburb: "malvern"
 article_type: "activities"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "things to do Malvern"
   - "Malvern activities"
   - "what to do in Malvern"
   - "Malvern weekend plans"
+tags:
+  - "malvern"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -53,7 +59,7 @@ More than you think. Glenferrie Road shops, top schools, and established family 
 
 Melbourne weather means you need indoor plans. Malvern has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/malvern/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Malvern has:
 ---
 
 **More on Malvern:** [Malvern Suburb Guide](/malvern/) · [Malvern Best Cafes](/malvern/best-cafes/) · [Malvern Neighbourhood Guide](/malvern/neighbourhood-guide/)
+
+---
+
+## Explore More of Malvern
+
+- [Malvern History](/malvern/history/)
+- [Malvern Rent Guide](/malvern/rent-guide/)
+- [Malvern Cost of Living](/malvern/cost-of-living/)
+- [Malvern Young Professionals Guide](/malvern/young-professionals/)
+- [Malvern Transport Guide](/malvern/transport-guide/)
+- [Malvern Best Cafes](/malvern/best-cafes/)
+- [Malvern Best Restaurants](/malvern/best-restaurants/)
+- [Malvern Weekend Guide](/malvern/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

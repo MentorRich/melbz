@@ -4,13 +4,19 @@ description: "The bar scene in Elwood: where to drink, what the vibe is, and the
 date: 2026-03-21
 suburb: "elwood"
 article_type: "nightlife"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "best bars Elwood"
   - "bars in Elwood Melbourne"
   - "nightlife Elwood"
   - "where to drink Elwood"
+tags:
+  - "elwood"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 
@@ -55,4 +61,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Elwood:** [Elwood Suburb Guide](/elwood/) · [Elwood Best Restaurants](/elwood/best-restaurants/) · [Elwood for Young Professionals](/elwood/elwood-for-young-professionals/)
+**More on Elwood:** [Elwood Suburb Guide](/elwood/) · [Elwood Best Restaurants](/elwood/best-[restaurants](/elwood/best-restaurants/)/) · [Elwood for Young Professionals](/elwood/elwood-for-young-professionals/)
+
+---
+
+## Explore More of Elwood
+
+- [Elwood History](/elwood/history/)
+- [Elwood Rent Guide](/elwood/rent-guide/)
+- [Elwood Things To Do](/elwood/things-to-do/)
+- [Elwood Cost of Living](/elwood/cost-of-living/)
+- [Elwood Young Professionals Guide](/elwood/young-professionals/)
+- [Elwood Nightlife Guide](/elwood/nightlife-guide/)
+- [Elwood Transport Guide](/elwood/transport-guide/)
+- [Elwood Best Cafes](/elwood/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

@@ -4,13 +4,18 @@ description: "The insider's guide to Box Hill South's different pockets, streets
 date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Box Hill South neighbourhood guide"
   - "best streets in Box Hill South"
   - "Box Hill South areas"
   - "Box Hill South pockets Melbourne"
+tags:
+  - "box-hill-south"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Box Hill South isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

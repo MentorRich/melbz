@@ -4,13 +4,18 @@ description: "The insider's guide to Thomastown's different pockets, streets, an
 date: 2026-03-21
 suburb: "thomastown"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Thomastown neighbourhood guide"
   - "best streets in Thomastown"
   - "Thomastown areas"
   - "Thomastown pockets Melbourne"
+tags:
+  - "thomastown"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thomastown isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

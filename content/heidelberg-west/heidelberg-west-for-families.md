@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Heidelberg West? Parks, schools, safet
 date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Heidelberg West good for families"
   - "Heidelberg West family friendly"
   - "raising kids in Heidelberg West"
+tags:
+  - "heidelberg-west"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Heidelberg West with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

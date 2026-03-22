@@ -4,16 +4,22 @@ description: "The story of West Footscray: from its origins to today. How this M
 date: 2026-03-21
 suburb: "west-footscray"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "West Footscray Melbourne history"
   - "how has West Footscray changed"
   - "West Footscray gentrification"
   - "West Footscray then and now"
+tags:
+  - "west-footscray"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. West Footscray's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed West Footscray from quiet farmland to a buzzing residential suburb. Understanding that arc explains a lot.
 
 See our full [West Footscray suburb guide](/west-footscray/) for the current picture.
 

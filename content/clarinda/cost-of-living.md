@@ -4,16 +4,22 @@ description: "How expensive is Clarinda? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "clarinda"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Clarinda Melbourne"
   - "how expensive is Clarinda"
   - "is Clarinda expensive to live in"
   - "Clarinda rent"
+tags:
+  - "clarinda"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Clarinda — no sugar-coating, no made-up figures.
+Clarinda sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Clarinda suburb guide](/clarinda/) for the bigger picture.
 

@@ -4,13 +4,19 @@ description: "Where to eat in Seddon: the honest guide to the suburb's restauran
 date: 2026-03-21
 suburb: "seddon"
 article_type: "best-of"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "best restaurants Seddon"
   - "where to eat Seddon"
   - "dinner Seddon Melbourne"
   - "restaurants near Seddon"
+tags:
+  - "seddon"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
@@ -56,4 +62,24 @@ The mid-range is where Seddon shines — restaurants that care about quality but
 
 ---
 
-**More on Seddon:** [Seddon Suburb Guide](/seddon/) · [Seddon Best Cafes](/seddon/best-cafes/) · [Seddon Living Guide](/seddon/living-in-seddon/)
+**More on Seddon:** [Seddon Suburb Guide](/seddon/) · [Seddon Best Cafes](/seddon/best-[cafes](/seddon/best-cafes/)/) · [Seddon Living Guide](/seddon/living-in-seddon/)
+
+---
+
+## Explore More of Seddon
+
+- [Seddon History](/seddon/history/)
+- [Seddon Rent Guide](/seddon/rent-guide/)
+- [Seddon Things To Do](/seddon/things-to-do/)
+- [Seddon Cost of Living](/seddon/cost-of-living/)
+- [Seddon Young Professionals Guide](/seddon/young-professionals/)
+- [Seddon Transport Guide](/seddon/transport-guide/)
+- [Seddon Best Cafes](/seddon/best-cafes/)
+- [Seddon Weekend Guide](/seddon/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Footscray Suburb Guide](/footscray/)
+- [Yarraville Suburb Guide](/yarraville/)
+- [Williamstown Suburb Guide](/williamstown/)
+- [Newport Suburb Guide](/newport/)

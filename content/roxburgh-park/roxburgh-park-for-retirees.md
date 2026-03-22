@@ -4,12 +4,16 @@ description: "Considering retirement in Roxburgh Park? Quiet streets, healthcare
 date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Roxburgh Park retirees Melbourne"
   - "retiring in Roxburgh Park"
   - "quiet suburbs Melbourne"
+tags:
+  - "roxburgh-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Roxburgh Park? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

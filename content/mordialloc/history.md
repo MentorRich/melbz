@@ -4,16 +4,22 @@ description: "The story of Mordialloc: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "mordialloc"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Mordialloc Melbourne history"
   - "how has Mordialloc changed"
   - "Mordialloc gentrification"
   - "Mordialloc then and now"
+tags:
+  - "mordialloc"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Mordialloc's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+The history of Mordialloc is not just dates and facts - it is the DNA of the current personality of this suburb.
 
 See our full [Mordialloc suburb guide](/mordialloc/) for the current picture.
 

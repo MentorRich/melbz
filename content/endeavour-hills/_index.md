@@ -1,16 +1,16 @@
 ---
-title: "Endeavour Hills Melbourne — Everything You Need to Know"
+title: "Endeavour Hills Melbourne — what you need"
 description: "The complete guide to Endeavour Hills. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "endeavour-hills"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Endeavour Hills Melbourne"
   - "what is Endeavour Hills like"
   - "endeavour-hills suburb"
   - "living in Endeavour Hills"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hilly suburb with city views, family parks, and strong multicultural community.

@@ -1,24 +1,22 @@
 ---
 title: "Best Coffee in Coburg 2026: From Single-Origin to Local Gems"
-cover_image: "/images/coburg/best-coffee.jpg"
+description: "The best coffee in Coburg for 2026 — six verified cafes from Moreland Road to Pentridge. Specialty roasts, Turkish brews, and social enterprise beans."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
+cover_image: "/images/shared/coffee-cup.jpg"
+cover_image_alt: "Pour-over coffee being prepared at a specialty cafe on Sydney Road Coburg"
+suburb: "coburg"
+tags: ["coburg", "coffee", "cafes", "specialty-coffee"]
 ---
 
-suburb: "coburg"
-vertical: "food"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "The best coffee in Coburg for 2026 — 6 verified cafes from Moreland Road to Pentridge. Specialty roasts, house blends, and the spots where your flat white actually matters."
-tags: ["coburg"]
-categories: ["general"]
 # Best Coffee in Coburg 2026: From Single-Origin to Zaatar-Stained Fingers
 
 Coburg doesn't have the coffee reputation of [Brunswick](/brunswick/best-coffee/) — and honestly, that's part of the charm. You won't find queues around the block for a $7 oat latte with a hand-drawn fern on top. What you will find is a string of genuinely excellent cafes roasting their own beans, a Timorese social enterprise pouring some of the most intentional coffee in Melbourne, and a series of Middle Eastern bakeries where the Turkish coffee comes in a copper cup and hits completely different.
 
 I walked the full length of Sydney Road from Moreland Road to Bell Street, stopping at every cafe that takes its coffee seriously. Here are the six that earned a repeat visit.
 
-**Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
+**Last updated: March 2026**
 
 
 ## 1. Wild Timor Coffee
@@ -113,16 +111,17 @@ For the pure coffee experience, Wild Timor is the standout. For convenience and 
 
 [Don't sleep on Coburg North's cafe strip either](/coburg-north/best-cafes/) — there's some interesting new openings happening up near the Bell Street end.
 
-**Your Coburg Vibe Score this week: 72/100** — Coffee game is quietly excellent. No hype required.
+## FAQ
 
+**What's the best coffee in Coburg?**
+For specialty: Wild Timor Coffee. For consistency: Two Monks. For something completely different: Turkish coffee at Zaatar.
 
-*Know a coffee spot we missed? Let us know.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
+**Is Coburg coffee cheaper than Brunswick?**
+Roughly 50 cents cheaper per cup on average. A flat white runs $4.50-$5 vs $5-$6 in Brunswick.
 
-## Related Articles
+**Where can I buy good beans in Coburg?**
+Wild Timor sells their single-origin Timorese beans ($18/250g). True North sometimes has retail beans. Both are better value than most Melbourne roasters.
 
-- [/brunswick/](/brunswick/)
-- [/coburg/](/coburg/)
-- [/coburg/hub](/coburg/hub)
+---
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Coburg:** [Coburg Best Cafes](/coburg/best-cafes/) · [Coburg Best Brunch](/coburg/best-brunch/) · [Coburg Suburb Guide](/coburg/)

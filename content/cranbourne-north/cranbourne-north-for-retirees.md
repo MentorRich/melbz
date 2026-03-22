@@ -4,12 +4,16 @@ description: "Considering retirement in Cranbourne North? Quiet streets, healthc
 date: 2026-03-21
 suburb: "cranbourne-north"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Cranbourne North retirees Melbourne"
   - "retiring in Cranbourne North"
   - "quiet suburbs Melbourne"
+tags:
+  - "cranbourne-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Cranbourne North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

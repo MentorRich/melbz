@@ -4,16 +4,22 @@ description: "The story of Keilor East: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "keilor-east"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Keilor East Melbourne history"
   - "how has Keilor East changed"
   - "Keilor East gentrification"
   - "Keilor East then and now"
+tags:
+  - "keilor-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Keilor East's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Keilor East was not always the place you see today. Its story starts with the land boom of the 1880s, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Keilor East suburb guide](/keilor-east/) for the current picture.
 

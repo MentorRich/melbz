@@ -4,16 +4,22 @@ description: "The story of Airport West: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "airport-west"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Airport West Melbourne history"
   - "how has Airport West changed"
   - "Airport West gentrification"
   - "Airport West then and now"
+tags:
+  - "airport-west"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Airport West's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Airport West, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Airport West suburb guide](/airport-west/) for the current picture.
 

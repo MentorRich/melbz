@@ -4,16 +4,22 @@ description: "How expensive is Tullamarine? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "tullamarine"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Tullamarine Melbourne"
   - "how expensive is Tullamarine"
   - "is Tullamarine expensive to live in"
   - "Tullamarine rent"
+tags:
+  - "tullamarine"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Tullamarine — no sugar-coating, no made-up figures.
+Before committing to Tullamarine, run the numbers. Rent is just the start - here is the complete cost breakdown.
 
 Read our full [Tullamarine suburb guide](/tullamarine/) for the bigger picture.
 

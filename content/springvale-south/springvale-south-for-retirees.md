@@ -4,12 +4,16 @@ description: "Considering retirement in Springvale South? Quiet streets, healthc
 date: 2026-03-21
 suburb: "springvale-south"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Springvale South retirees Melbourne"
   - "retiring in Springvale South"
   - "quiet suburbs Melbourne"
+tags:
+  - "springvale-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Springvale South? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

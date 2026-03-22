@@ -4,13 +4,18 @@ description: "The insider's guide to Albion's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "albion"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Albion neighbourhood guide"
   - "best streets in Albion"
   - "Albion areas"
   - "Albion pockets Melbourne"
+tags:
+  - "albion"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Albion isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

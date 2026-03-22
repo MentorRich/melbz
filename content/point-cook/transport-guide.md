@@ -4,15 +4,22 @@ description: "Public transport in Point Cook: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "point-cook"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Point Cook Melbourne"
   - "commute from Point Cook to city"
   - "Point Cook train station"
+tags:
+  - "point-cook"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Point Cook — what works, what's annoying, and how long things actually take.
+Two words define transport in Point Cook: train-dependent. Everything else is detail.
 
 Check out our full [Point Cook suburb guide](/point-cook/) for the complete picture.
 

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Kew East? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "kew-east"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Kew East good for families"
   - "Kew East family friendly"
   - "raising kids in Kew East"
+tags:
+  - "kew-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Kew East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

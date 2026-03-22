@@ -4,16 +4,22 @@ description: "How expensive is Craigieburn? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "craigieburn"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Craigieburn Melbourne"
   - "how expensive is Craigieburn"
   - "is Craigieburn expensive to live in"
   - "Craigieburn rent"
+tags:
+  - "craigieburn"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Craigieburn — no sugar-coating, no made-up figures.
+Living costs in Craigieburn have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Craigieburn suburb guide](/craigieburn/) for the bigger picture.
 

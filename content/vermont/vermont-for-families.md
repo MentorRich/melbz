@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Vermont? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "vermont"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Vermont good for families"
   - "Vermont family friendly"
   - "raising kids in Vermont"
+tags:
+  - "vermont"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Vermont with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

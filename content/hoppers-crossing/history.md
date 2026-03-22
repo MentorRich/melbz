@@ -4,16 +4,22 @@ description: "The story of Hoppers Crossing: from its origins to today. How this
 date: 2026-03-21
 suburb: "hoppers-crossing"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Hoppers Crossing Melbourne history"
   - "how has Hoppers Crossing changed"
   - "Hoppers Crossing gentrification"
   - "Hoppers Crossing then and now"
+tags:
+  - "hoppers-crossing"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Hoppers Crossing's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Hoppers Crossing is a story of suburban evolution.
 
 See our full [Hoppers Crossing suburb guide](/hoppers-crossing/) for the current picture.
 

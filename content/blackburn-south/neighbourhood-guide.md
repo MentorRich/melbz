@@ -4,13 +4,18 @@ description: "The insider's guide to Blackburn South's different pockets, street
 date: 2026-03-21
 suburb: "blackburn-south"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Blackburn South neighbourhood guide"
   - "best streets in Blackburn South"
   - "Blackburn South areas"
   - "Blackburn South pockets Melbourne"
+tags:
+  - "blackburn-south"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Blackburn South isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -1,16 +1,16 @@
 ---
-title: "South Morang Melbourne — Everything You Need to Know"
+title: "South Morang Melbourne — what you need"
 description: "The complete guide to South Morang. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "south-morang"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "South Morang Melbourne"
   - "what is South Morang like"
   - "south-morang suburb"
   - "living in South Morang"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mernda line terminus has transformed this suburb. New estates, growing amenities.

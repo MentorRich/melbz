@@ -4,15 +4,22 @@ description: "Public transport in Noble Park: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "noble-park"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Noble Park Melbourne"
   - "commute from Noble Park to city"
   - "Noble Park train station"
+tags:
+  - "noble-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Noble Park — what works, what's annoying, and how long things actually take.
+Getting around Noble Park comes down to a bus network that requires patience. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Noble Park suburb guide](/noble-park/) for the complete picture.
 

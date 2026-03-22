@@ -1,17 +1,15 @@
 ---
 title: "Best Coffee in Cremorne — 2026 Local Guide"
+description: "The best coffee in Cremorne for 2026. Melbourne's most cafe-dense suburb means the standard is brutally high. Here are the roasters and baristas who set the pace."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
 cover_image: "/images/cremorne/best-coffee.jpg"
+cover_image_alt: "Specialty coffee cafe in a Cremorne warehouse conversion"
+suburb: "cremorne"
+tags: ["cremorne", "coffee", "cafes"]
 ---
 
-suburb: "cremorne"
-vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Melbourne's most cafe-dense suburb means the coffee standard in Cremorne is brutally high. Here's where to get the best brew in 3121."
-tags: ["cremorne"]
-categories: ["general"]
 # Best Coffee in Cremorne — A suburb that takes its brew personally
 
 There's a stat that says everything about Cremorne: this suburb of roughly 2,500 people topped the Domain Liveable Melbourne study for cafe density, beating the entire CBD. That's not a typo. A neighbourhood you can walk across in fifteen minutes has more cafes per capita than the Melbourne CBD, Southbank, and South Melbourne.
@@ -155,10 +153,9 @@ No matter where you go, you won't get a bad coffee in Cremorne. That's not a boa
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [South Yarra](/south-yarra/)
+- [Southbank](/southbank/)
+- [Richmond](/richmond/)
+- [Collingwood](/collingwood/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

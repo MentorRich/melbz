@@ -4,13 +4,19 @@ description: "Thinking of buying in Balwyn? What the market looks like, what to 
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "property"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "buying in Balwyn"
   - "Balwyn property market"
   - "Balwyn house prices"
   - "real estate Balwyn Melbourne"
+tags:
+  - "balwyn"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -80,3 +86,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Balwyn:** [Balwyn Suburb Guide](/balwyn/) · [Balwyn Cost of Living](/balwyn/cost-of-living/) · [Balwyn Neighbourhood Guide](/balwyn/neighbourhood-guide/)
+
+---
+
+## Explore More of Balwyn
+
+- [Balwyn History](/balwyn/history/)
+- [Balwyn Rent Guide](/balwyn/rent-guide/)
+- [Balwyn Balwyn For Retirees](/balwyn/balwyn-for-retirees/)
+- [Balwyn Balwyn For Young Professionals](/balwyn/balwyn-for-young-professionals/)
+- [Balwyn Things To Do](/balwyn/things-to-do/)
+- [Balwyn Cost of Living](/balwyn/cost-of-living/)
+- [Balwyn Neighbourhood Guide](/balwyn/neighbourhood-guide/)
+- [Balwyn Transport Guide](/balwyn/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

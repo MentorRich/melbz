@@ -1,64 +1,55 @@
 ---
-title: "What to Do in Brunswick East This Weekend"
-description: "Your weekend in Brunswick East sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner North."
-date: 2026-03-21
+title: "Your Weekend in Brunswick East 2026: Lygon Street to Merri Creek"
+description: "Your Brunswick East weekend sorted — morning coffee at Core Roasters to Saturday night at Howler. Lygon Street and beyond."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/shared/weekend-brunch.jpg"
+cover_image_alt: "Weekend brunch at a Brunswick East cafe on Lygon Street"
 suburb: "brunswick-east"
-article_type: "weekend"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-keywords:
-  - "what to do Brunswick East this weekend"
-  - "Brunswick East weekend"
-  - "things to do Brunswick East Saturday"
-  - "Brunswick East Sunday plans"
+tags: ["brunswick-east", "weekend", "inner-north"]
 ---
 
-
-## Your Weekend in Brunswick East
-
-Brunswick East does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
+Brunswick East does weekends well. Lygon Street, the Merri Creek, and CERES give you enough to fill two days.
 
 ## Saturday Morning
 
-**The Coffee Run** — Start at your neighbourhood cafe. Brunswick East's cafe culture means you've got options from "quick and efficient" to "settle in for two hours." Saturday morning flat whites hit differently when you're not rushing to work.
+**Coffee** — Start at **Core Roasters** (Lygon Street) for a pour-over ($5.50) or a flat white ($5). They roast on-site.
 
-**Market Check** — If there's a weekend market running near Brunswick East, it's worth the wander. Fresh produce, street food, and the kind of people-watching that makes weekend mornings worthwhile.
+**Brunch** — Walk to **Bellboy Cafe** (Lygon Street) for the house granola or the seasonal eggs dish. Arrive before 9:30am on weekends.
 
-**Park Time** — Brunswick East's green spaces fill up on Saturday mornings with runners, dog walkers, and families. Join the park regulars or find a quiet bench.
+**CERES Market** — If it's Saturday, the organic market at **CERES Community Park** (Roberts Street) is running. Fresh produce, local makers, community atmosphere.
 
 ## Saturday Afternoon
 
-**Lunch Locally** — Don't reach for Uber Eats. Walk to one of Brunswick East's lunch spots — try somewhere you haven't been before. The mid-afternoon lull means no queues and relaxed service.
+**Walk the Merri Creek** — Head east from Lygon Street to the trail. Walk north toward [Coburg](/coburg/) or south toward Fitzroy North. Flat, sealed, and gorgeous.
 
-**Explore the Neighbourhood** — Pick a street you haven't walked down yet. Every suburb has blocks you've driven past but never explored on foot. Saturday afternoon is perfect for this.
-
-**Shop the Independent Stores** — Support local. Brunswick East's independent shops are the ones that give the suburb its character. Browse without pressure, buy something you didn't know you needed.
+**Lunch** — **Addis Abeba** (Lygon Street) for Ethiopian injera platters. The vegetarian combination ($22) is enough for two.
 
 ## Saturday Night
 
-**Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Brunswick East's restaurant scene covers date night to casual with mates.
+**Drinks** — **Howler** (7-11 Dawson Street) for a beer in the garden and whatever band is playing. Or **Le Clec** for natural wines and mezze.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
-
-**Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Brunswick East's bottle shops have good selections and the staff usually have recommendations.
+**Dinner** — **Etta** (Lygon Street) for Italian-influenced fine dining. Book ahead for Saturday.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Brunswick East starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Morning** — **CERES Cafe** for a slow start among the community gardens. Or **Monk Bodhi Dharma** (Nicholson Street) for vegan brunch and house-roasted coffee.
 
-**Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Brunswick East and into the neighbouring suburb. Find a coffee stop halfway through.
+**Afternoon** — The **Lomond Hotel** (223 Nicholson Street) beer garden for Sunday session drinks. The heritage pub has been here since 1888.
 
-**Sunday Pub Session** — If Brunswick East's pubs do Sunday sessions, these are gold. Relaxed, possibly live music, definitely relaxed dress code. The best cure for Sunday evening dread.
+## FAQ
 
-**Prep for Monday** — We all have to do it. Grocery run through Brunswick East's shops, meal prep, and set the week up. At least you're doing it in a suburb with good options.
+**What's the best thing to do in Brunswick East on a Saturday?**
+CERES market in the morning, Merri Creek walk in the afternoon, Howler or Etta in the evening.
 
-## Monthly Rituals
+**How does Brunswick East's weekend compare to Brunswick's?**
+Brunswick is busier with more bars and live music options. Brunswick East is quieter, more cafe-focused, and has CERES and the creek as unique draws.
 
-- **Try a new restaurant** you haven't been to yet
-- **Walk a neighbourhood you usually drive through**
-- **Check local event listings** for one-off markets, exhibitions, or community events
-- **Have one completely unplanned day** — no bookings, no plans, just see what Brunswick East offers when you say yes to whatever comes up
+## The Verdict
+
+A Brunswick East weekend balances excellent food on Lygon Street with nature along the Merri Creek and community at CERES. The pace is slower than [Brunswick](/brunswick/) and less crowded than [Fitzroy](/fitzroy/). For a quality weekend without the hype, it's hard to beat.
 
 ---
 
-**More on Brunswick East:** [Brunswick East Suburb Guide](/brunswick-east/) · [Brunswick East Things to Do](/brunswick-east/things-to-do/) · [Brunswick East Best Restaurants](/brunswick-east/best-restaurants/)
+**More Brunswick East:** [Brunswick East Suburb Guide](/brunswick-east/) · [Brunswick East Best Restaurants](/brunswick-east/best-restaurants/) · [Brunswick East Best Bars](/brunswick-east/best-bars/)

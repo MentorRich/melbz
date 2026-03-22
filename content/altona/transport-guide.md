@@ -4,15 +4,22 @@ description: "Public transport in Altona: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "altona"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Altona Melbourne"
   - "commute from Altona to city"
   - "Altona train station"
+tags:
+  - "altona"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Altona — what works, what's annoying, and how long things actually take.
+Altona transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Altona suburb guide](/altona/) for the complete picture.
 

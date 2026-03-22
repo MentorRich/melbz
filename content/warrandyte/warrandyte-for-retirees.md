@@ -4,12 +4,16 @@ description: "Considering retirement in Warrandyte? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "warrandyte"
 article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Warrandyte retirees Melbourne"
   - "retiring in Warrandyte"
   - "quiet suburbs Melbourne"
+tags:
+  - "warrandyte"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Warrandyte? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

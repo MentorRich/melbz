@@ -4,19 +4,24 @@ description: "The spots in Elwood that don't make the top 10 lists but locals wo
 date: 2026-03-21
 suburb: "elwood"
 article_type: "local-guide"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "hidden gems Elwood"
   - "secret spots Elwood"
   - "local tips Elwood"
   - "off beaten path Elwood Melbourne"
+tags:
+  - "elwood"
+  - "hidden-gems"
+  - "local-tips"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Why Elwood's Best Bits Are Hidden
 
-Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But Elwood's real character lives in the places most visitors never find.
+Every Melbourne suburb has a public face — the main strip, the popular [cafes](/elwood/best-cafes/), the spots Google tells you about. But Elwood's real character lives in the places most visitors never find.
 
 These aren't "hidden" because someone's keeping secrets. They're hidden because they don't advertise, they don't have social media strategies, and they rely entirely on word of mouth and repeat customers.
 
@@ -62,4 +67,24 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on Elwood:** [Elwood Suburb Guide](/elwood/) · [Elwood History](/elwood/history/) · [Elwood Living Guide](/elwood/living-in-elwood/)
+**More on Elwood:** [Elwood Suburb Guide](/elwood/) · [Elwood History](/elwood/[history](/elwood/history/)/) · [Elwood Living Guide](/elwood/living-in-elwood/)
+
+---
+
+## Explore More of Elwood
+
+- [Elwood History](/elwood/history/)
+- [Elwood Rent Guide](/elwood/rent-guide/)
+- [Elwood Things To Do](/elwood/things-to-do/)
+- [Elwood Cost of Living](/elwood/cost-of-living/)
+- [Elwood Young Professionals Guide](/elwood/young-professionals/)
+- [Elwood Nightlife Guide](/elwood/nightlife-guide/)
+- [Elwood Transport Guide](/elwood/transport-guide/)
+- [Elwood Best Cafes](/elwood/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

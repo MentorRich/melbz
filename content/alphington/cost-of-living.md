@@ -4,16 +4,22 @@ description: "How expensive is Alphington? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "alphington"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Alphington Melbourne"
   - "how expensive is Alphington"
   - "is Alphington expensive to live in"
   - "Alphington rent"
+tags:
+  - "alphington"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Alphington — no sugar-coating, no made-up figures.
+Before committing to Alphington, run the numbers. Rent is just the start - here is the complete cost breakdown.
 
 Read our full [Alphington suburb guide](/alphington/) for the bigger picture.
 

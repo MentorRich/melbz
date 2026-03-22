@@ -1,121 +1,66 @@
 ---
-title: "Balaclava Hub Page"
+title: "Balaclava Hub: All Guides for Postcode 3183"
+description: "Your complete hub for Balaclava guides. Food on Carlisle Street, nightlife, property, train access on the Sandringham line, and things to do here."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 cover_image: "/images/balaclava/hub.jpg"
-date: 2026-03-18
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-description: "Your complete guide to Balaclava. Food, nightlife, property, transport, and things to do — everything you need to know."
-tags: ["balaclava", "hub"]
-categories: ["general"]
+cover_image_alt: "Balaclava station and Carlisle Street"
+suburb: "balaclava"
+tags: ["balaclava", "hub", "suburb-guide"]
 ---
 
-### Living in Balaclava
+Everything we have published about Balaclava (postcode 3183, City of Port Phillip), organised by category.
 
-Balaclava offers a unique Melbourne lifestyle that attracts residents from all walks of life. The suburb combines urban convenience with local character, making it a sought-after location for both young professionals and established families.
+## Living in Balaclava
 
-**Housing options** in Balaclava range from period apartments to modern developments. The area has seen significant investment in recent years, with new apartment buildings complementing the traditional housing stock.
+- [Balaclava Suburb Guide](/balaclava/) — The complete overview
+- [Neighbourhood Guide](/balaclava/neighbourhood-guide/) — Streets, pockets, and local secrets
+- [Honest Guide](/balaclava/honest-guide/) — The unfiltered truth about life in 3183
+- [Cost of Living](/balaclava/cost-of-living/) — Real 2026 numbers
+- [Transport Guide](/balaclava/transport-guide/) — Sandringham line, trams, cycling
 
-**Transport connections** are excellent, with tram routes, train stations, and bike paths providing easy access to Melbourne's CBD and surrounding suburbs.
+## Food and Drink
 
-**Local amenities** include grocery stores, medical centres, schools, and recreation facilities. The suburb's commercial strips offer diverse dining and retail options.
+- [Best Restaurants](/balaclava/best-restaurants/) — Carlisle Street dining guide
+- [Best Cafes](/balaclava/best-cafes/) — Coffee and brunch
+- [Best Coffee](/balaclava/best-coffee/) — Seven spots tested
+- [Best Asian Food](/balaclava/best-asian-food/) — Japanese, Thai, and more
+- [Best Pubs](/balaclava/best-pubs/) — Where locals drink
+- [Best Bars](/balaclava/best-bars/) — Wine bars and craft beer
+- [Cheap Eats](/balaclava/cheap-eats/) — Budget meals under $20
+- [Late Night Food](/balaclava/late-night-food/) — After dark on Carlisle Street
 
-**Community life** in Balaclava is active, with local events, markets, and gatherings bringing neighbours together throughout the year.
+## Property and Rent
 
-*Updated 18 March 2026 | Property Editor*
+- [Rent Report](/balaclava/rent-report/) — What you will pay in 2026
+- [Rent Prices](/balaclava/rent-prices/) — Breakdown by property type
+- [Rent Guide](/balaclava/rent-guide/) — How to find and win a rental
+- [Property Market](/balaclava/property-market/) — Buying guide
 
-# Balaclava, Melbourne
-![Cover Image](https://images.pexels.com/photos/2109341/pexels-photo-2109341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+## Lifestyle
 
-## Overview
+- [Things to Do](/balaclava/things-to-do/) — Activities and weekend plans
+- [Weekend Guide](/balaclava/weekend-guide/) — Saturday to Sunday itinerary
+- [For Young Professionals](/balaclava/young-professionals/) — Commute, cost, and lifestyle
+- [For Families](/balaclava/family-guide/) — Schools, parks, and parent verdict
+- [For Retirees](/balaclava/balaclava-for-retirees/) — Walkability and community
+- [Hidden Gems](/balaclava/hidden-gems/) — What most visitors miss
+- [Dog-Friendly](/balaclava/pet-friendly/) — Parks, cafes, and walks
+- [Safety Guide](/balaclava/safety-guide/) — Crime and safety overview
+- [History](/balaclava/history/) — From Crimean War names to today
 
-Balaclava is a unique inner-city suburb in Melbourne, known for its eclectic mix of historic charm, trendy cafes, and laid-back community atmosphere. Located just a short train ride from the CBD, Balaclava offers a blend of local culture, great food, and easy access to St Kilda and the beach.
+## FAQ
 
-### Key Highlights
+**Where is Balaclava?**
+8km south-east of the CBD, postcode 3183, City of Port Phillip. Bordered by St Kilda East, Caulfield, Elsternwick, and St Kilda.
 
-* **Carlisle Street**: The heart of Balaclava's cafe and dining scene, offering a range of restaurants, cafes, and bars.
-* **Proximity to St Kilda**: Easy access to St Kilda beach, historic sites, and entertainment options.
-* **Historic Architecture**: Balaclava features a mix of historic buildings and modern developments, adding to its unique character.
+**Does Balaclava have a train station?**
+Yes. Balaclava station on the Sandringham line. 17 minutes to Flinders Street.
 
-## Property and Affordability
+**What is Carlisle Street known for?**
+One of Melbourne's most multicultural food strips — Jewish bakeries, Eastern European delis, Asian restaurants, and modern Australian cafes.
 
-Balaclava is considered a premium inner-city suburb, with property prices reflecting its desirability. Rental affordability is under pressure due to low vacancy rates and high demand for apartments.
+## The Verdict
 
-### Rent Prices
-
-* 1-bedroom apartment: $520/week
-* 2-bedroom apartment: $680/week
-* 3-bedroom house: $950/week
-
-## Transport
-
-Balaclava is well-connected to Melbourne's transport network, with several options for getting around.
-
-### Train
-
-* **Balaclava Station**: Served by the Sandringham Line, with trains running every 10-15 minutes to the CBD.
-
-### Tram
-
-* **Routes**: 3/3a and 16, with stops on Carlisle Street and nearby.
-
-### Bus
-
-* **Routes**: 600, 606, 922, and 923, providing connections to surrounding suburbs.
-
-## Venues
-
-Balaclava is home to a range of restaurants, cafes, and bars, offering you'll find what you want.
-
-### Best Restaurants
-
-* **Ilona Staller**: Modern European cuisine in a cozy, neighborhood-focused setting. ([281 Carlisle St, Balaclava VIC 3183](https://www.google.com/maps/place/Ilona+Staller/@-37.8711246,144.9933056,15z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-37.8711246!4d144.9933056))
-* **Wall Two 80**: Casual cafe serving brunch and coffee. ([280 Carlisle St, Balaclava VIC 3183](https://www.google.com/maps/place/Wall+Two+80/@-37.870556,144.9922222,15z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-37.870556!4d144.9922222))
-
-### Best Cafes
-
-* **Batch Espresso**: Minimalist coffee shop serving high-quality coffee. ([291 Carlisle St, Balaclava VIC 3183](https://www.google.com/maps/place/Batch+Espresso/@-37.870556,144.9933056,15z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-37.870556!4d144.9933056))
-
-## Things to Do
-
-Balaclava offers a range of activities and attractions, from dining and shopping to art and culture.
-
-### Art Galleries
-
-* **Linden New Art**: Contemporary art space in a historic mansion. ([26 Acland St, St Kilda VIC 3182](https://www.google.com/maps/place/Linden+New+Art/@-37.8566667,144.9722222,15z/data=!4m5!3m4!1s0x0:0x0!8m2!3d-37.8566667!4d144.9722222))
-
-## Insider Tips
-
-* Explore the historic Jewish deli culture in Balaclava, with several options for traditional bagels and smoked meats.
-* Visit the nearby St Kilda beach and historic sites for a day out.
-* Take advantage of Balaclava's proximity to the CBD and surrounding suburbs for easy access to Melbourne's attractions.
-
-## Related Links
-
-* [/melbourne/](https://www.example.com/melbourne/): Explore Melbourne's suburbs and attractions.
-* [/best-restaurants-melbourne/](https://www.example.com/best-restaurants-melbourne/): Discover Melbourne's best restaurants and cafes.
-
-## Conclusion
-
-Balaclava is a unique and eclectic suburb in Melbourne, offering a blend of historic charm, great food, and easy access to St Kilda and the beach. Whether you're looking for a relaxed cafe atmosphere, a night out at a restaurant or bar, or a cultural experience, Balaclava has varied enough to please most.
-
-
-## Related Articles
-
-- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
-- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
-- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
-- [Best Bars in Melbourne](/best-bars-melbourne)
-- [Cost of Living in Melbourne](/cost-of-living-melbourne)
-- [Transport Guide for Melbourne](/transport-guide-melbourne)
-
-*Find more Melbourne suburb guides at [melbz.com.au](/)*
-
-
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.
+Balaclava is a compact, train-connected suburb with one of Melbourne's best food strips. Carlisle Street delivers multicultural dining at honest prices. The Sandringham line gets you to the CBD in 17 minutes. The Astor Theatre adds cultural weight. Rent is more affordable than neighbouring St Kilda. For full details, start with our [suburb guide](/balaclava/) or [honest guide](/balaclava/honest-guide/).

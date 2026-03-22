@@ -4,15 +4,22 @@ description: "Public transport in Gardenvale: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "gardenvale"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Gardenvale Melbourne"
   - "commute from Gardenvale to city"
   - "Gardenvale train station"
+tags:
+  - "gardenvale"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Gardenvale — what works, what's annoying, and how long things actually take.
+Gardenvale transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Gardenvale suburb guide](/gardenvale/) for the complete picture.
 

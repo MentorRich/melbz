@@ -4,12 +4,16 @@ description: "Considering retirement in Tottenham? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "tottenham"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Tottenham retirees Melbourne"
   - "retiring in Tottenham"
   - "quiet suburbs Melbourne"
+tags:
+  - "tottenham"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Tottenham? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

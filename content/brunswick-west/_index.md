@@ -1,16 +1,16 @@
 ---
-title: "Brunswick West Melbourne — Everything You Need to Know"
+title: "Brunswick West Melbourne — what you need"
 description: "The complete guide to Brunswick West. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Brunswick West Melbourne"
   - "what is Brunswick West like"
   - "brunswick-west suburb"
   - "living in Brunswick West"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 The more affordable Brunswick option with good parks, quiet streets, and easy city access.

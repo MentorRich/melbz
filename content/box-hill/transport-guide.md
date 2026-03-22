@@ -3,16 +3,18 @@ title: "Getting Around Box Hill — Transport Guide"
 description: "Public transport in Box Hill: trains, trams, buses, cycling, and how long it actually takes to get to the city."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
-keywords:
-  - "public transport Box Hill Melbourne"
-  - "commute from Box Hill to city"
-  - "Box Hill train station"
+author: "Tyler James"
+tags:
+  - "box-hill"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Box Hill — what works, what's annoying, and how long things actually take.
+Your morning commute from Box Hill depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Box Hill suburb guide](/box-hill/) for the complete picture.
 

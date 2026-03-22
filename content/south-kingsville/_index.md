@@ -1,16 +1,16 @@
 ---
-title: "South Kingsville Melbourne — Everything You Need to Know"
+title: "South Kingsville Melbourne — what you need"
 description: "The complete guide to South Kingsville. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "South Kingsville Melbourne"
   - "what is South Kingsville like"
   - "south-kingsville suburb"
   - "living in South Kingsville"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small, quiet pocket near the waterfront. Still finding its identity between industrial and residential.

@@ -3,13 +3,12 @@ title: "Is Camberwell Good for Retirees?"
 description: "Considering retirement in Camberwell? Quiet streets, healthcare access, community feel, and the honest verdict for retirees."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
-keywords:
-  - "Camberwell retirees Melbourne"
-  - "retiring in Camberwell"
-  - "quiet suburbs Melbourne"
+author: "Tyler James"
+tags:
+  - "camberwell"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Camberwell? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

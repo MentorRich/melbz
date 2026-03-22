@@ -4,16 +4,22 @@ description: "The story of Lower Plenty: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Lower Plenty Melbourne history"
   - "how has Lower Plenty changed"
   - "Lower Plenty gentrification"
   - "Lower Plenty then and now"
+tags:
+  - "lower-plenty"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Lower Plenty's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Lower Plenty was bushland and market gardens. The transformation tells a quintessentially Melbourne story.
 
 See our full [Lower Plenty suburb guide](/lower-plenty/) for the current picture.
 

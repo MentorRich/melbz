@@ -4,12 +4,16 @@ description: "Considering retirement in Hampton East? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "hampton-east"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Hampton East retirees Melbourne"
   - "retiring in Hampton East"
   - "quiet suburbs Melbourne"
+tags:
+  - "hampton-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Hampton East? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

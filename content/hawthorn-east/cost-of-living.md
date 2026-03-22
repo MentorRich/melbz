@@ -4,16 +4,22 @@ description: "How expensive is Hawthorn East? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "hawthorn-east"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Hawthorn East Melbourne"
   - "how expensive is Hawthorn East"
   - "is Hawthorn East expensive to live in"
   - "Hawthorn East rent"
+tags:
+  - "hawthorn-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Hawthorn East — no sugar-coating, no made-up figures.
+Your monthly burn rate in Hawthorn East depends on a few key factors. Here is an honest accounting.
 
 Read our full [Hawthorn East suburb guide](/hawthorn-east/) for the bigger picture.
 

@@ -4,16 +4,22 @@ description: "The story of Doncaster East: from its origins to today. How this M
 date: 2026-03-21
 suburb: "doncaster-east"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Doncaster East Melbourne history"
   - "how has Doncaster East changed"
   - "Doncaster East gentrification"
   - "Doncaster East then and now"
+tags:
+  - "doncaster-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Doncaster East's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Doncaster East comes from its early settlers. But the real story is what happened after the suburb was named.
 
 See our full [Doncaster East suburb guide](/doncaster-east/) for the current picture.
 

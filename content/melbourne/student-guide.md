@@ -1,29 +1,27 @@
 ---
-title: "Student Guide to Melbourne 2026: Everything You Need to Know"
+title: "Student Guide to Melbourne 2026: what you need"
 cover_image: "/images/melbourne/student-guide.jpg"
 date: 2026-03-16
-author: ravi
-author_image: "/images/authors/ravi.jpg"
+author: "Ravi Krishnan"
 tags: ["melbourne", "students", "budget"]
 categories: ["lifestyle"]
-description: "Student Guide to Melbourne 2026: Everything You Need to Know"
+description: "Student Guide to Melbourne 2026: what you need"
 ---
 
 **Updated 16 March 2026 | Ravi Patel reporting**
-
 
 
 You've got your offer letter, your student ID pho..."
 
 *Updated 16 March 2026 | Ravi Patel reporting*
 
-# Student Guide to Melbourne 2026: Everything You Need to Know
+# Student Guide to Melbourne 2026: what you need
 
 **Updated 16 March 2026 | Ravi Patel reporting**
 
 You've got your offer letter, your student ID photo that looks nothing like you, and exactly enough savings to last until you inevitably blow it all on late-night kebabs and Lygon Street pasta. Welcome to Melbourne — the city that will ruin your budget and steal your heart in the same weekend.
 
-Whether you're arriving from regional Victoria, interstate, or overseas, Melbourne as a student is a different beast entirely to Melbourne as a tourist. You need to know where to eat for under $10, which tram lines actually run on time (spoiler: none of them), where to study without spending $7 an hour on coffee, and which suburbs won't swallow your entire rent allowance in one fortnight.
+If you'''re arriving from regional Victoria, interstate, or overseas, Melbourne as a student is a different beast entirely to Melbourne as a tourist. You need to know where to eat for under $10, which tram lines actually run on time (spoiler: none of them), where to study without spending $7 an hour on coffee, and which suburbs won't swallow your entire rent allowance in one fortnight.
 
 This is everything I wish someone had handed me on day one.
 
@@ -202,10 +200,9 @@ Now go make this city yours.
 
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
+- [Northcote](/northcote/)
+- [Richmond](/richmond/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Footscray](/footscray/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

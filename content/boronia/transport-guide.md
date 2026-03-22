@@ -4,15 +4,22 @@ description: "Public transport in Boronia: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "boronia"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Boronia Melbourne"
   - "commute from Boronia to city"
   - "Boronia train station"
+tags:
+  - "boronia"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Boronia — what works, what's annoying, and how long things actually take.
+If you are car-dependent, Boronia might surprise you. If you rely on PT, read this first.
 
 Check out our full [Boronia suburb guide](/boronia/) for the complete picture.
 

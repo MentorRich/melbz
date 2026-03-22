@@ -4,12 +4,18 @@ description: "Is Lower Templestowe a good suburb for young professionals? Social
 date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "young-professionals"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Lower Templestowe young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Lower Templestowe"
+tags:
+  - "templestowe-lower"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Lower Templestowe as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Clayton? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "clayton"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Clayton good for families"
   - "Clayton family friendly"
   - "raising kids in Clayton"
+tags:
+  - "clayton"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Clayton with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

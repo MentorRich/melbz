@@ -1,12 +1,13 @@
 ---
 title: "New Openings in Balaclava 2026"
 cover_image: "/images/balaclava/new-openings.jpg"
-date: 2026-03-18
-author: priya
-author_image: "/images/authors/priya.jpg"
-description: "The newest restaurants, cafes, and bars that just opened in Balaclava. Fresh concepts and exciting new venues to try this year."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
+description: "The newest restaurants, cafes, and bars that just opened in Balaclava on Carlisle Street in 2026. Fresh concepts and venues worth trying this year."
 tags: ["balaclava", "new-openings"]
-categories: ["new"]
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
+suburb: "balaclava"
 ---
 
 *Updated 18 March 2026 | Food Editor*
@@ -63,7 +64,6 @@ Just on the border with Caulfield, Ember & Ash is a modern Australian grill with
 What strikes me about this new wave is its cohesion. These aren’t random openings; they feel like pieces of a puzzle, each one filling a specific niche while contributing to a more complete picture of the suburb. From the artisanal focus of **Hearth & Grain** to the late-night reliability of **Midnight Kebab**, and the contemplative space of **Kissa Tanaka**, there’s a new maturity here. The operators seem to understand their audience deeply—locals who care about provenance, craft, and experience.
 
 Balaclava has always had a strong culinary backbone, anchored by its long-standing institutions. This new generation isn’t here to replace them, but to build upon that foundation, adding layers of sophistication and specialization. It’s an exciting time to be eating here. I’d recommend starting with a morning coffee at **Roasting Room**, a late lunch at **The Lentil Collective**, and an evening sharing tins and natural wine at **Bar Sardine**. That’s a pretty perfect day of eating, and it’s all within a few blocks. For more guides across the city, check out our list of the [best restaurants in Melbourne](/best-restaurants-melbourne/).
-
 
 
 ## Venue Addresses & Details

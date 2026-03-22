@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Laverton? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "laverton"
 article_type: "families"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "is Laverton good for families"
   - "Laverton family friendly"
   - "raising kids in Laverton"
+tags:
+  - "laverton"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Laverton with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

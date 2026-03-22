@@ -1,16 +1,16 @@
 ---
-title: "Princes Hill Melbourne — Everything You Need to Know"
+title: "Princes Hill Melbourne — what you need"
 description: "The complete guide to Princes Hill. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "princes-hill"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Princes Hill Melbourne"
   - "what is Princes Hill like"
   - "princes-hill suburb"
   - "living in Princes Hill"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 A tiny, leafy pocket between Carlton North and Brunswick East. Princes Park on the doorstep.

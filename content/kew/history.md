@@ -1,79 +1,80 @@
 ---
-title: "Kew — History and How It's Changed"
-description: "The story of Kew: from its origins to today. How this Melbourne suburb evolved and where it's heading next."
+title: "History of Kew Melbourne — From Pastoral Land to Leafy Establishment"
+cover_image: "/images/kew/history.jpg"
+description: "The story of Kew: from Wurundjeri country to gold-rush mansions, the Willsmere asylum, and how this suburb became Melbourne's inner-east establishment."
 date: 2026-03-21
 suburb: "kew"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Kew Melbourne history"
   - "how has Kew changed"
-  - "Kew gentrification"
+  - "Kew heritage"
   - "Kew then and now"
+tags:
+  - "kew"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
 ---
 
-Every Melbourne suburb has a story. Kew's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+Kew's history explains why the suburb feels the way it does today — established, leafy, quietly confident that it has always been one of Melbourne's better addresses. That is not entirely wrong, but the full story has more texture.
 
-See our full [Kew suburb guide](/kew/) for the current picture.
+## Wurundjeri Country
 
-## What Kew Was Originally
+The land that is now Kew was Wurundjeri Woi-wurrung country for tens of thousands of years before European settlement. The Yarra River — Birrarung — was central to life here, providing food, water, and a travel corridor. Studley Park's bushland gives you some sense of what the pre-settlement landscape looked like, though the gum species composition has changed significantly.
 
-Before it was what you see today, Kew was always been one of Melbourne's more well-to-do addresses. The original residents built the suburb's foundation — the street grid, the housing stock, the community institutions that still exist in some form.
+## The Early Settlement
 
-Like most of Melbourne, Kew's history is inseparable from the broader story of a city that grew outward from the Yarra in waves. This suburb was settled when Melbourne needed it — whether for housing workers, accommodating families, or providing a retreat from the city centre.
+European settlers arrived in the 1840s, and the area was initially used for grazing and small-scale farming. The name "Kew" likely came from the Royal Botanic Gardens at Kew in London — an aspirational choice that tells you something about the settlers' self-image. The Kew municipality was established in 1860, and by the 1870s the suburb was attracting Melbourne's professional and merchant class. The proximity to the city via the Yarra and decent road connections made it a natural choice for those who wanted space without remoteness.
 
-The buildings that survive from this era tell the story. Heritage homes, the layout of the shopping strip, the positioning of parks and public spaces — all designed for a different time, adapted for the present.
+## The Gold Rush and Grand Homes
 
-## The Working Years
+The 1880s property boom transformed Kew. Wealthy Melburnians built the Italianate mansions and grand Victorian homes that still define Studley Park Road, Princess Street, and the streets radiating from the Yarra. Raheen, the imposing mansion at 82 Studley Park Road, was built in 1884 and has housed Catholic archbishops and media magnate Rupert Murdoch's family at different points. This era established Kew's architectural character — large homes on generous blocks with established gardens — a character the suburb has fiercely protected ever since.
 
-For much of the 20th century, Kew was defined by the people who worked here and the industries that employed them. The suburb had a particular economic identity — a character shaped by what people did for a living and how they spent their time.
+## The Willsmere Asylum
 
-The community institutions from this era — the pubs, the sports clubs, the church halls — were the social infrastructure. People knew their neighbours because they worked together, drank together, and raised their kids on the same streets.
+Kew's most significant and complex piece of history is the Kew Asylum (later Willsmere), a massive Victorian-era psychiatric institution that operated from 1871 to 1988. At its peak it housed over 1,000 patients. The heritage-listed building on Yarra Bend Road has been converted to residential apartments, but its history as a place of both care and considerable suffering is an essential part of understanding Kew. The grounds are now public parkland.
 
-Migration waves brought new communities, new food, new languages, and new energy. Melbourne has always been built by people arriving from somewhere else, and Kew absorbed each wave in its own way.
+## The Suburban Century
 
-## The Shift
+Through the early and mid-20th century, Kew consolidated as an upper-middle-class family suburb. The schools that drive today's property market — Trinity Grammar (founded 1903), Ruyton (1878), and others — established their reputations during this period. The shopping strip along High Street served daily needs. The tram network connected residents to the CBD. The suburb's character was set: leafy, conservative, family-oriented, and quietly affluent.
 
-Kew's transformation came when it has maintained its status while carefully modernising infrastructure and amenities. This wasn't overnight — it happened over a decade or two, gradually enough that long-term residents watched the change happen street by street.
+## Post-War to Present
 
-New cafes appeared where milk bars used to be. The pub got a renovation. A gallery opened in a former workshop. The rent started going up.
+Post-war migration brought some diversification, but Kew remained more homogeneous than suburbs further north and west. The real shifts have come in the past two decades: heritage overlays protecting the older housing stock, a dining scene on High Street that now includes Vietnamese and Japanese alongside the traditional Italian, and a new generation of families paying premium prices for the school zones and tree canopy their parents took for granted.
 
-This is the gentrification story that plays out across Melbourne, but every suburb experiences it differently. Kew's version has its own specific character — what was lost, what arrived, and how the community negotiated the transition.
+The closure and conversion of the Willsmere site in the 1990s added significant residential density on Kew's northern edge. Some newer apartment and townhouse developments along Cotham Road and Barkers Road have added further density, though Kew's heritage overlays limit the scale of change compared to more aggressively developed suburbs.
 
-## What Got Lost Along the Way
+## FAQ
 
-Every suburb transformation has a cost. The places that defined the old Kew — the local institutions, the affordable shops, the character of a suburb that didn't care about Instagram — some of that has gone.
+**What is the oldest building in Kew?** The Studley Park Boathouse has operated in some form since 1863. Raheen mansion dates to 1884. Several churches and public buildings along High Street date to the 1870s-1880s.
 
-Long-term residents often carry frustration about what was demolished, what closed, and who was priced out. These aren't abstract losses — they're specific buildings, specific businesses, specific people who couldn't stay.
+**Why is Kew so expensive?** A combination of established school catchments, heritage streetscapes, proximity to the CBD (7km), and limited new housing supply due to heritage overlays. The same factors that have made it desirable since the 1880s continue to drive demand.
 
-This is important to acknowledge honestly. Growth and improvement came at a cost, and the cost was borne unevenly.
-
-## What Arrived
-
-The flip side: Kew gained a lot. Better food options, improved infrastructure, safer streets, higher property values for existing owners, more diversity of things to do.
-
-The new arrivals brought energy and investment. The cafe scene, the restaurant culture, the cultural events — these weren't here before, and they've made the suburb genuinely more liveable for many residents.
-
-Whether the trade was worth it depends on who you ask.
-
-## Kew Today — Where It Sits Now
-
-Today, Kew is a suburb that carries its history visibly. The old buildings alongside the new ones. The established residents alongside the newcomers. The traditional shops next to the trendy ones.
-
-This isn't a pretend version of itself — it's a real suburb with layers. Walk through Kew and you're walking through decades of Melbourne's story, compressed into a few streets.
-
-## Where Is Kew Heading?
-
-Kew's trajectory is clear: continued demand, continued development, continued evolution. New apartment developments are adding density. Infrastructure investment is improving transport and public spaces.
-
-The suburb will look different again in ten years. Whether that's good or bad depends on how it's managed and whether the things that make Kew worth living in are preserved alongside the growth.
+**What happened to the Kew Asylum?** The Willsmere Asylum operated from 1871 to 1988. The heritage building was converted to residential apartments in the 1990s-2000s. The surrounding grounds became public parkland.
 
 ---
 
-**More on Kew:**
-- [Kew Neighbourhood Guide](/kew/neighbourhood-guide/)
-- [Kew Living Guide](/kew/living-in-kew/)
-- [Kew for Families](/kew/kew-for-families/)
+**More on Kew:** [Kew Suburb Guide](/kew/) · [Hidden Gems in Kew](/kew/hidden-gems/) · [Kew for Families](/kew/family-guide/)
 
-**Nearby suburbs:** [Hawthorn](/hawthorn/) · [Kew East](/kew-east/) · [Balwyn](/balwyn/) · [Studley Park](/studley-park/)
+---
+
+## Explore More of Kew
+
+- [Kew Rent Guide](/kew/rent-guide/)
+- [Kew Kew For Retirees](/kew/kew-for-retirees/)
+- [Kew Things To Do](/kew/things-to-do/)
+- [Kew Cost of Living](/kew/cost-of-living/)
+- [Kew Young Professionals Guide](/kew/young-professionals/)
+- [Kew Nightlife Guide](/kew/nightlife-guide/)
+- [Kew Transport Guide](/kew/transport-guide/)
+- [Kew Best Cafes](/kew/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Camberwell Suburb Guide](/camberwell/)
+- [Glen Iris Suburb Guide](/glen-iris/)

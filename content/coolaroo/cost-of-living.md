@@ -4,16 +4,22 @@ description: "How expensive is Coolaroo? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "coolaroo"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Coolaroo Melbourne"
   - "how expensive is Coolaroo"
   - "is Coolaroo expensive to live in"
   - "Coolaroo rent"
+tags:
+  - "coolaroo"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Coolaroo — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Coolaroo actually cost? No vague estimates - real numbers.
 
 Read our full [Coolaroo suburb guide](/coolaroo/) for the bigger picture.
 

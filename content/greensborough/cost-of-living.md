@@ -4,16 +4,22 @@ description: "How expensive is Greensborough? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "greensborough"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Greensborough Melbourne"
   - "how expensive is Greensborough"
   - "is Greensborough expensive to live in"
   - "Greensborough rent"
+tags:
+  - "greensborough"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Greensborough — no sugar-coating, no made-up figures.
+If you are weighing up Greensborough against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Greensborough suburb guide](/greensborough/) for the bigger picture.
 

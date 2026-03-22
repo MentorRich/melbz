@@ -4,13 +4,18 @@ description: "The insider's guide to Deer Park's different pockets, streets, and
 date: 2026-03-21
 suburb: "deer-park"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Deer Park neighbourhood guide"
   - "best streets in Deer Park"
   - "Deer Park areas"
   - "Deer Park pockets Melbourne"
+tags:
+  - "deer-park"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Deer Park isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

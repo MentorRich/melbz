@@ -2,14 +2,13 @@
 title: "Best Cafes in Fitzroy 2026"
 cover_image: "/images/fitroy/best-cafes.jpg"
 date: 2026-03-16
-author: priya
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 tags: ["fitzroy", "cafes", "coffee"]
 categories: ["food"]
 description: "Best Cafes in Fitzroy 2026"
 ---
 
-Fitzroy has more cafés per square kilometre than any other Melbourne suburb, and most of them are average. I've spent the last th..."
+[Fitzroy](/fitzroy/) has more cafés per square kilometre than any other Melbourne suburb, and most of them are average. I've spent the last th..."
 # Best Cafes in Fitzroy 2026
 
 Fitzroy has more cafés per square kilometre than any other Melbourne suburb, and most of them are average. I've spent the last three months crawling through every overpriced flat white and mediocre avo toast on Brunswick, Gertrude, and Smith Streets so you don't have to waste a Saturday morning on a dud.
@@ -192,10 +191,9 @@ Here's the thing: our [Best Restaurants in Fitzroy 2026 guide](https://melbz.com
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
+- [South Yarra](/south-yarra/)
+- [St Kilda](/st-kilda/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

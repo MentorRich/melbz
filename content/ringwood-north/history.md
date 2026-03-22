@@ -4,16 +4,22 @@ description: "The story of Ringwood North: from its origins to today. How this M
 date: 2026-03-21
 suburb: "ringwood-north"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Ringwood North Melbourne history"
   - "how has Ringwood North changed"
   - "Ringwood North gentrification"
   - "Ringwood North then and now"
+tags:
+  - "ringwood-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Ringwood North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Ringwood North comes from a local landmark. But the real story is what happened after the suburb was named.
 
 See our full [Ringwood North suburb guide](/ringwood-north/) for the current picture.
 

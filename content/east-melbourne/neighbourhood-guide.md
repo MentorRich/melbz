@@ -4,13 +4,18 @@ description: "The insider's guide to East Melbourne's different pockets, streets
 date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "East Melbourne neighbourhood guide"
   - "best streets in East Melbourne"
   - "East Melbourne areas"
   - "East Melbourne pockets Melbourne"
+tags:
+  - "east-melbourne"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 East Melbourne isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

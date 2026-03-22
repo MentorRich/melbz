@@ -4,15 +4,22 @@ description: "Public transport in Campbellfield: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "campbellfield"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Campbellfield Melbourne"
   - "commute from Campbellfield to city"
   - "Campbellfield train station"
+tags:
+  - "campbellfield"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Campbellfield — what works, what's annoying, and how long things actually take.
+Living in Campbellfield means adapting to its transport quirks. Every suburb has them - here are the ones for Campbellfield.
 
 Check out our full [Campbellfield suburb guide](/campbellfield/) for the complete picture.
 

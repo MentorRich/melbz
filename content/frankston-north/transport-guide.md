@@ -4,15 +4,22 @@ description: "Public transport in Frankston North: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "frankston-north"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Frankston North Melbourne"
   - "commute from Frankston North to city"
   - "Frankston North train station"
+tags:
+  - "frankston-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Frankston North — what works, what's annoying, and how long things actually take.
+Getting around Frankston North comes down to proximity to a major station. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Frankston North suburb guide](/frankston-north/) for the complete picture.
 

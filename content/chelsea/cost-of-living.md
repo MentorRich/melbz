@@ -4,16 +4,22 @@ description: "How expensive is Chelsea? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "chelsea"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Chelsea Melbourne"
   - "how expensive is Chelsea"
   - "is Chelsea expensive to live in"
   - "Chelsea rent"
+tags:
+  - "chelsea"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Chelsea — no sugar-coating, no made-up figures.
+The gap between the sticker price of Chelsea and actual living costs is worth understanding before you move.
 
 Read our full [Chelsea suburb guide](/chelsea/) for the bigger picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Warrandyte Melbourne — Everything You Need to Know"
+title: "Warrandyte Melbourne — what you need"
 description: "The complete guide to Warrandyte. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "warrandyte"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Warrandyte Melbourne"
   - "what is Warrandyte like"
   - "warrandyte suburb"
   - "living in Warrandyte"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Yarra River bushland, artists' community, and the most bush-feels suburb within commuting distance.

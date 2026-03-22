@@ -4,16 +4,22 @@ description: "The story of Williamstown North: from its origins to today. How th
 date: 2026-03-21
 suburb: "williamstown-north"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Williamstown North Melbourne history"
   - "how has Williamstown North changed"
   - "Williamstown North gentrification"
   - "Williamstown North then and now"
+tags:
+  - "williamstown-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Williamstown North's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Williamstown North involve community battles over development.
 
 See our full [Williamstown North suburb guide](/williamstown-north/) for the current picture.
 

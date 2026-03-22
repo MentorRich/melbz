@@ -1,79 +1,85 @@
 ---
 title: "Getting Around Toorak — Transport Guide"
-description: "Public transport in Toorak: trains, trams, buses, cycling, and how long it actually takes to get to the city."
-date: 2026-03-21
+description: "Public transport in Toorak: Toorak station on the Glen Waverley line, tram 8 and 58 on Toorak Road, cycling paths, and CBD commute times."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Park"
+cover_image: "/images/toorak/transport-guide.jpg"
+cover_image_alt: "Toorak Road tram stop with heritage buildings and tree-lined streetscape"
 suburb: "toorak"
-article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-keywords:
+tags:
   - "public transport Toorak Melbourne"
   - "commute from Toorak to city"
   - "Toorak train station"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Toorak — what works, what's annoying, and how long things actually take.
+Toorak sits 5km south-east of the CBD in the City of Stonnington, and its transport connections are strong by Melbourne standards. You can reach Flinders Street Station in about 12 minutes by train, and the tram network provides alternatives along Toorak Road. A car is useful but not essential.
 
 Check out our full [Toorak suburb guide](/toorak/) for the complete picture.
 
-## Getting Around Toorak — The Quick Version
+## Train — Toorak Station (Glen Waverley Line)
 
-Public transport in Toorak is excellent. You can get to the city in roughly under 20 minutes during peak hours. A car is useful but not essential for most daily needs.
+Toorak station is on the Glen Waverley line, located on Grange Road near Toorak Road. Trains to Flinders Street run roughly every 10 minutes during peak and every 15–20 minutes off-peak. The journey to the city takes about 12 minutes, making this one of the faster inner-suburban commutes.
 
-## Train Access
+The station serves the western half of the suburb well. If you live closer to the Glenferrie Road end (eastern Toorak), Kooyong station on the same line is marginally closer.
 
-Toorak has convenient train station access.
+Weekend services run less frequently — every 20 minutes — but are reliable enough for most plans.
 
-Services run regularly during peak hours and taper off in the evenings. Weekend services are less frequent but still usable for most plans.
+## Tram Routes
 
-Getting to the city by train is Toorak's strongest PT link. During morning peak, trains come frequently enough that you don't really check the timetable — you just show up and one arrives.
+### Tram 8 — Toorak Road
 
-## Tram Access
+Tram 8 runs along Toorak Road connecting Toorak Village to the CBD via Domain Interchange and St Kilda Road. It's the most useful tram for daily commuting and reaches the city in about 20–25 minutes depending on traffic and stops. Frequency is every 8–10 minutes during peak.
 
-Toorak has tram services running through or near the suburb. Trams connect you to the city and to neighbouring suburbs without needing to get to a train station first.
+### Tram 58 — Toorak Road
 
-The tram is particularly handy for shorter trips — hopping to the next suburb for dinner, or getting into the city when you don't feel like dealing with the train schedule.
+Tram 58 also services Toorak Road, running from Toorak to the CBD. It follows a similar route through South Yarra and into the city. Between the two tram routes, you're rarely waiting more than 5–7 minutes for a tram on Toorak Road during peak hours.
 
-Frequency is reasonable during peak hours and drops back in the evenings and weekends, as with most Melbourne tram routes.
+The trams are particularly handy for reaching [South Yarra](/south-yarra/) — a short ride west — and for getting to the Botanical Gardens and South Melbourne without changing.
 
+## Driving and Key Roads
 
-## Bus Routes
+**Toorak Road** is the main east-west artery and connects to South Yarra, Armadale, and beyond. Peak-hour traffic can be slow, especially between Punt Road and Chapel Street.
 
-Buses in Toorak serve as connectors — linking residential streets to train stations, shopping centres, and neighbouring suburbs that aren't directly on a train line.
+**Kooyong Road** runs north-south through the suburb and provides access to the Monash Freeway heading east.
 
-Bus routes complement the strong train and tram network. They fill in gaps for areas between rail lines.
+**Canterbury Road** is the quieter parallel route to Toorak Road — locals use it to avoid the main road congestion.
 
-Frequency varies. Main routes during peak hours are reasonable. Off-peak and weekends, plan ahead or have a backup plan.
+**Parking** in the village is time-restricted during business hours. Side streets off Toorak Road have resident permit zones. If you live in an apartment without a car space, check the street parking situation carefully before signing.
 
-## Commute to the City — How Long Does It Actually Take?
+## Cycling
 
-Realistically, expect under 20 minutes door-to-door during peak hours, depending on which part of Toorak you live in and where in the city you're headed.
+Toorak is flat enough for comfortable cycling, and the back streets south of Toorak Road are quiet enough for confident commuters. The Main Yarra Trail runs along the northern edge of the suburb (following the Yarra River) and connects west to the Botanical Gardens and CBD, or east toward Hawthorn and Kew. It's one of Melbourne's best cycling commute routes — separated from traffic for most of its length.
 
-That includes walking to the stop, waiting, travelling, and walking at the other end. On a good day it's faster. On a bad day (signal faults, track works), add 20 minutes and a healthy dose of frustration.
+## Commute Times (Realistic)
 
-**Train:** The most reliable option for city-bound commuting.
-**Driving:** Depends entirely on traffic. Can be faster off-peak, absolute pain during peak.
-**Cycling:** Viable if you're within a reasonable distance and the route doesn't involve a death wish at major intersections.
+| Destination | Train | Tram | Driving (peak) |
+|-------------|-------|------|-----------------|
+| Flinders Street | 12 min | 20–25 min | 15–30 min |
+| South Yarra | 3 min | 5–8 min | 5 min |
+| Richmond | 8 min | — | 10 min |
+| Monash Uni (Clayton) | 35 min | — | 25–40 min |
 
-## Driving and Parking
+## FAQ
 
-Parking in central {name} ranges from annoying to genuinely irritating, especially on weekends and evenings. Residential permits help but don't solve everything. If you live here with a car, you'll quickly develop opinions about parking.
+**Does Toorak have a train station?**
+Yes. Toorak station on the Glen Waverley line, located on Grange Road. Kooyong station is also close for the eastern end of the suburb.
 
-## Walking and Cycling
+**Which tram goes to Toorak?**
+Trams 8 and 58 both run along Toorak Road.
 
-Toorak is very walkable — you can handle most daily errands on foot without feeling like you're going on a hike.
+**Can you live in Toorak without a car?**
+Yes, comfortably. Train, two tram routes, and walkable village shops cover most daily needs. A car helps for weekend trips and supermarket runs.
 
-Cycling infrastructure is strong — bike lanes on main roads and shared paths through parks make it a legitimate daily transport option.
+## Verdict
 
-## PT Verdict — Is Toorak Well Connected?
-
-Toorak scores well for public transport. You can comfortably live here without a car for daily needs, though a car adds convenience for weekend plans and anything off the PT grid.
+Toorak's transport is among the better inner-suburban options. The Glen Waverley line is reliable, dual tram routes on Toorak Road provide redundancy, and the Main Yarra Trail adds a genuine cycling option. The main annoyance is Toorak Road traffic during peak — but that's a driving problem, not a PT one.
 
 ---
 
 **More on Toorak:**
 - [Toorak Cost of Living](/toorak/cost-of-living/)
-- [Toorak Living Guide](/toorak/living-in-toorak/)
+- [Living in Toorak](/toorak/living-in-toorak/)
 - [Toorak Neighbourhood Guide](/toorak/neighbourhood-guide/)
 
-**Nearby suburbs:** [South Yarra](/south-yarra/) · [Armadale](/armadale/) · [Hawthorn](/hawthorn/) · [Malvern](/malvern/)
+**Nearby suburbs:** [South Yarra](/south-yarra/) · [Hawthorn](/hawthorn/) · [Prahran](/prahran/) · [Richmond](/richmond/)

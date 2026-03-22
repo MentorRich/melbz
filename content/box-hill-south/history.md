@@ -4,16 +4,22 @@ description: "The story of Box Hill South: from its origins to today. How this M
 date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Box Hill South Melbourne history"
   - "how has Box Hill South changed"
   - "Box Hill South gentrification"
   - "Box Hill South then and now"
+tags:
+  - "box-hill-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Box Hill South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Box Hill South has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Box Hill South suburb guide](/box-hill-south/) for the current picture.
 

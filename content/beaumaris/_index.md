@@ -1,16 +1,16 @@
 ---
-title: "Beaumaris Melbourne — Everything You Need to Know"
+title: "Beaumaris Melbourne — what you need"
 description: "The complete guide to Beaumaris. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "beaumaris"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Beaumaris Melbourne"
   - "what is Beaumaris like"
   - "beaumaris suburb"
   - "living in Beaumaris"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mid-century modern homes, beach access, and a quiet coastal lifestyle south of Sandringham.

@@ -4,15 +4,22 @@ description: "Public transport in Fawkner: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "fawkner"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Fawkner Melbourne"
   - "commute from Fawkner to city"
   - "Fawkner train station"
+tags:
+  - "fawkner"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Fawkner — what works, what's annoying, and how long things actually take.
+Real talk about getting around Fawkner: what the timetable says vs what actually happens.
 
 Check out our full [Fawkner suburb guide](/fawkner/) for the complete picture.
 

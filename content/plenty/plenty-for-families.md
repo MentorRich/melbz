@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Plenty? Parks, schools, safety, and th
 date: 2026-03-21
 suburb: "plenty"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Plenty good for families"
   - "Plenty family friendly"
   - "raising kids in Plenty"
+tags:
+  - "plenty"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Plenty with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -1,16 +1,16 @@
 ---
-title: "West Footscray Melbourne — Everything You Need to Know"
+title: "West Footscray Melbourne — what you need"
 description: "The complete guide to West Footscray. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "west-footscray"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "West Footscray Melbourne"
   - "what is West Footscray like"
   - "west-footscray suburb"
   - "living in West Footscray"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 The affordable option near Footscray with warehouse potential and improving cafes.

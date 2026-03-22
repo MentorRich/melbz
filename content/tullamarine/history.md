@@ -4,16 +4,22 @@ description: "The story of Tullamarine: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "tullamarine"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Tullamarine Melbourne history"
   - "how has Tullamarine changed"
   - "Tullamarine gentrification"
   - "Tullamarine then and now"
+tags:
+  - "tullamarine"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Tullamarine's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Tullamarine was a quiet rural settlement. The transformation tells a quintessentially Melbourne story.
 
 See our full [Tullamarine suburb guide](/tullamarine/) for the current picture.
 

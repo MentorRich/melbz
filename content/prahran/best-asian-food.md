@@ -1,25 +1,16 @@
 ---
 title: "Best Asian Food in Prahran 2026: Greville & Chapel"
-cover_image: "/images/prahran/best-asian-food.jpg"
-date: 2026-03-16
-author: yuki
-author_image: "/images/authors/yuki.jpg"
-tags: ["prahran", "asian", "food"]
-categories: ["food"]
-description: "Best Asian Food in Prahran 2026: Greville & Chapel"
+description: "The best Asian food in Prahran for 2026. Six tested spots across Greville Street and Chapel Street covering Vietnamese, Japanese, Thai, Korean, and more."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Yuki Tanaka"
+cover_image: "/images/shared/melbourne-asian-food.jpg"
+cover_image_alt: "Prahran Melbourne Asian food dining scene"
+suburb: "prahran"
+tags: ["melbourne", "prahran", "asian-food", "restaurants"]
 ---
 
-**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
-
-
-
-Prahran doesn't get the same love as Ric..."
-
-*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
-
-# Best Asian Food in Prahran 2026: Greville & Chapel
-
-**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
+*Updated March 2026 | 6 places tested | Yuki Tanaka reporting*
 
 Prahran doesn't get the same love as Richmond for Vietnamese or Box Hill for dumplings. And honestly? That suits the locals just fine. What Prahran has — tucked between Greville Street's indie shops and Chapel Street's long strip of restaurants — is a tight, surprisingly deep Asian food scene that punches well above its postcode weight.
 
@@ -134,14 +125,6 @@ Their noodle soups ($16–$19) are the winter option — the beef brisket noodle
 **Insider tip:** Cash is still king here for the dumpling prices, though they do take card now. The fried dumplings are better than the steamed — the crispy bottom is where it's at. Get there before 12:30pm to avoid the lunch rush.
 
 
-
-## Venue Addresses & Details
-
-- **Rice Paper Scissors** — 577 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
-- **David's** — 4 Cecil Pl, Prahran, VIC 3181 ($$$). Open: Tue-Sun 12:00 PM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: The 'all you can eat' yum cha on weekends is a local institution.*
-- **Hawker Hall** — 98 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Grab a seat at the bar if you're dining solo; the service is faster.*
-- **Mr. Miyagi** — 99 Chapel St, Windsor, VIC 3181 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: You cannot leave without trying the nori taco.*
-- **Shujinko** — 156 Chapel St, Windsor, VIC 3181 ($). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: The spicy Kara Ramen is the best cure for a night out on Chapel Street.*
 ## What We Skipped and Why
 
 Every suburb listicle has places people expect to see. Here's why certain Prahran restaurants didn't make our six:
@@ -153,33 +136,17 @@ Every suburb listicle has places people expect to see. Here's why certain Prahra
 **Any place I couldn't visit twice.** If I only ate somewhere once, it doesn't get a spot here. The six places above all got at least two visits over three weeks — that's the minimum to judge consistency, which is the thing that actually matters more than any single great meal.
 
 
-
-## Venue Addresses & Details
-
-- **Rice Paper Scissors** — 577 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
-- **David's** — 4 Cecil Pl, Prahran, VIC 3181 ($$$). Open: Tue-Sun 12:00 PM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: The 'all you can eat' yum cha on weekends is a local institution.*
-- **Hawker Hall** — 98 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Grab a seat at the bar if you're dining solo; the service is faster.*
-- **Mr. Miyagi** — 99 Chapel St, Windsor, VIC 3181 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: You cannot leave without trying the nori taco.*
-- **Shujinko** — 156 Chapel St, Windsor, VIC 3181 ($). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: The spicy Kara Ramen is the best cure for a night out on Chapel Street.*
 ## Getting There and Getting Home
 
 Prahran's Asian food strip along Greville Street is a 5-minute walk from **Prahran Station** (Sandringham line). Chapel Street venues are reachable from either Prahran or **Windsor Station** — they're roughly equidistant.
 
-If you're coming from the city, the **Tram 78** runs down Chapel Street and stops right in the action. The **Tram 58** runs along Commercial Road if you're heading to Huong Viet.
+If you are coming from the city, the **tram 78** runs down Chapel Street and stops right in the action. The **tram 72** runs along Commercial Road if you are heading to Huong Viet.
 
 **Late-night transport:** After 10pm, your options thin out. Tram services wind down. Uber and Didi are your friends, with pickup from the main Chapel Street/Chapel Street intersection working best. There's a well-lit taxi rank outside Prahran Square if you'd rather not wait for a rideshare.
 
 **Parking:** If you're driving, Prahran Square has an underground car park ($4.50/hr). Street parking on Greville is metered and tight after 5pm. Side streets off Greville near the Prahran High School end are your best bet for free parking after 6pm.
 
 
-
-## Venue Addresses & Details
-
-- **Rice Paper Scissors** — 577 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
-- **David's** — 4 Cecil Pl, Prahran, VIC 3181 ($$$). Open: Tue-Sun 12:00 PM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: The 'all you can eat' yum cha on weekends is a local institution.*
-- **Hawker Hall** — 98 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Grab a seat at the bar if you're dining solo; the service is faster.*
-- **Mr. Miyagi** — 99 Chapel St, Windsor, VIC 3181 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: You cannot leave without trying the nori taco.*
-- **Shujinko** — 156 Chapel St, Windsor, VIC 3181 ($). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: The spicy Kara Ramen is the best cure for a night out on Chapel Street.*
 ## The Neighbourhood Play
 
 Prahran's Asian food scene sits in a sweet spot between the high-end dining of [South Yarra](/south-yarra) and the eclectic strip of [Windsor](/windsor) on Chapel's other side. If you're planning a bigger food crawl, the smart move is to start with dumplings and pho in Prahran for lunch, then walk south along Chapel Street into Windsor for afternoon drinks, then loop back for Thai or Korean for dinner.
@@ -189,14 +156,6 @@ The [Armadale](/armadale) dining scene is also worth exploring if you want somet
 Prahran's vibe score has been climbing steadily this year, and the food scene is a big part of why. The Greville Street strip in particular feels like it's found its rhythm — enough variety to eat somewhere new every week for a month, but not so much that any single place coasts on volume.
 
 
-
-## Venue Addresses & Details
-
-- **Rice Paper Scissors** — 577 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
-- **David's** — 4 Cecil Pl, Prahran, VIC 3181 ($$$). Open: Tue-Sun 12:00 PM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: The 'all you can eat' yum cha on weekends is a local institution.*
-- **Hawker Hall** — 98 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Grab a seat at the bar if you're dining solo; the service is faster.*
-- **Mr. Miyagi** — 99 Chapel St, Windsor, VIC 3181 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: You cannot leave without trying the nori taco.*
-- **Shujinko** — 156 Chapel St, Windsor, VIC 3181 ($). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: The spicy Kara Ramen is the best cure for a night out on Chapel Street.*
 ## The Bottom Line
 
 Prahran won't replace Richmond for Vietnamese or Box Hill for dumplings, and it doesn't try to. What it offers is a walkable, genuinely good collection of Asian restaurants that cover the major bases — Vietnamese, Japanese, Korean, Thai, Malaysian, and Chinese — without ever feeling like you're in a tourist corridor.
@@ -206,24 +165,19 @@ The sweet spot? Dumplings Plus for a $12 lunch that fills you up, Song Kitchen f
 
 *Have we missed your Prahran Asian food spot? Tell us about it — we're always eating, always updating.*
 
-**Was this article helpful?** 👍 👎
 
-[Rate your suburb's food scene](/rate) | [Subscribe to the Prahran weekly briefing](/subscribe)
+## FAQ
 
+**What is the best Asian restaurant in Prahran?**
+Huong Viet for Vietnamese, Sushi Monger for Japanese, Song Kitchen for Thai. Each excels in its cuisine.
 
-## Venue Addresses & Details
+**Is there cheap Asian food in Prahran?**
+Yes. Dumplings Plus on Greville Street has pork and chive dumplings for $12. Huong Viet's banh mi is $9.50.
 
-- **Rice Paper Scissors** — 577 Chapel St, South Yarra, VIC 3141 ($$). Open: Mon-Sun 12:00 PM - 10:00 PM. *Tip: Order the betel leaf wraps and arrive early as they don't take bookings for small groups.*
-- **David's** — 4 Cecil Pl, Prahran, VIC 3181 ($$$). Open: Tue-Sun 12:00 PM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: The 'all you can eat' yum cha on weekends is a local institution.*
-- **Hawker Hall** — 98 Chapel St, Windsor, VIC 3181 ($$). Open: Mon-Sun 12:00 PM - 11:00 PM. *Tip: Grab a seat at the bar if you're dining solo; the service is faster.*
-- **Mr. Miyagi** — 99 Chapel St, Windsor, VIC 3181 ($$$). Open: Tue-Sun 5:00 PM - 11:00 PM. *Tip: You cannot leave without trying the nori taco.*
-- **Shujinko** — 156 Chapel St, Windsor, VIC 3181 ($). Open: Mon-Sun 11:00 AM - 12:00 AM. *Tip: The spicy Kara Ramen is the best cure for a night out on Chapel Street.*
-## Related Articles
+## The Verdict
 
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/prahran/](/prahran/)
+Prahran offers a walkable, genuinely good collection of Asian restaurants covering the major cuisines without ever feeling like a tourist corridor. The sweet spot: Dumplings Plus for a $12 lunch, Song Kitchen for a $35 dinner, and Dodee for Wednesday half-price chicken.
 
-*Find more Melbourne content at [melbz.com.au](/)*
+---
+
+**More Prahran:** [Best Restaurants](/prahran/best-restaurants/) | [Cheap Eats](/prahran/cheap-eats/) | [Prahran Suburb Guide](/prahran/)

@@ -1,82 +1,79 @@
 ---
-title: "Yarraville Property Market — Buying Guide"
-description: "Thinking of buying in Yarraville? What the market looks like, what to expect, and the honest view for buyers."
-date: 2026-03-21
+title: "Yarraville Property Market 2026 — Buying Guide"
+description: "Thinking of buying in Yarraville? Median house prices, auction tips, Anderson Street premium, heritage homes, and the honest view for buyers in 2026."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Chen"
+cover_image: "/images/yarraville/property-market.jpg"
+cover_image_alt: "Yarraville Melbourne heritage homes and property market"
 suburb: "yarraville"
-article_type: "property"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-keywords:
-  - "buying in Yarraville"
-  - "Yarraville property market"
-  - "Yarraville house prices"
-  - "real estate Yarraville Melbourne"
+tags: ["melbourne", "yarraville", "property", "real-estate", "buying"]
 ---
 
-
-## The Yarraville Property Market — What You Need to Know
-
-Buying in Yarraville is a significant financial decision. Here's the reality of the market — not a sales pitch, not doom and gloom, just the facts and context you need to make a smart move.
-
-See our [Yarraville Cost of Living](/yarraville/cost-of-living/) guide for the broader picture.
+Buying in Yarraville is a significant financial decision. The median house price hit around $1.05 million in early 2026, placing this inner west village firmly in established-suburb territory. Here is the reality of the market — not a sales pitch, just the facts and context you need.
 
 ## What Kind of Property Can You Buy?
 
-Yarraville's housing stock includes:
+**Apartments** — The entry point for most first-time buyers. New builds and established units along Anderson Street and the surrounding blocks. Quality varies enormously — inspect thoroughly and check body corporate fees.
 
-- **Apartments** — New builds and established units. The entry point for most first-time buyers in Yarraville. Quality varies enormously — inspect thoroughly.
+**Townhouses** — Middle ground between apartments and houses. Usually newer construction on Murray Street and the residential infill sites. Better for young families who want outdoor space without a full house price tag.
 
-- **Townhouses** — Middle ground between apartments and houses. Better for families, usually newer construction, and often come with a small outdoor space.
+**Freestanding Houses** — The premium end. Older stock dominates — Victorian and Edwardian cottages, post-war fibro homes, and the occasional knockdown-rebuild. Land value on streets near Anderson Street and Yarraville Gardens drives the price.
 
-- **Freestanding Houses** — The premium end. Older stock dominates, and many have been renovated or extended. Land value drives the price here.
+**Heritage Properties** — Yarraville has genuine character homes, particularly on the streets between Anderson and Ballarat Street. These attract renovation-minded buyers. They can be money pits or goldmines depending on your skill, budget, and appetite for heritage overlays.
 
-- **Heritage Properties** — Yarraville has character homes that attract renovation-minded buyers. These can be money pits or goldmines depending on your skill and budget.
+## The Street Premium
 
-## Market Conditions
+Not all Yarraville streets are equal:
 
-Like all Melbourne property markets, Yarraville has cycles. The current conditions reflect broader interest rate movements, population growth, and the suburb's ongoing appeal.
+- **Anderson Street proximity** — Walking distance to the village strip commands a premium. The closer to the cafes, Sun Theatre, and Yarraville station, the higher the price.
+- **Yarraville Gardens vicinity** — Properties overlooking or near the Gardens hold value well. Families pay extra for green space access.
+- **Murray Street and Ballarat Street** — Solid residential streets with a mix of heritage and newer stock. Good value relative to the Anderson Street premium.
+- **Somerville Road edge** — Cheaper for a reason. Traffic and some industrial remnants. Inspect at peak traffic times before committing.
 
-What's consistent: Yarraville's reputation as a desirable suburb underpins demand. Properties in good locations within the suburb hold their value over time.
+## Who Is Buying in Yarraville?
 
-## Who's Buying in Yarraville?
-
-- **First-home buyers** looking at apartments and smaller properties
-- **Upgraders** moving from apartments to townhouses or houses
-- **Investors** seeking rental yield in a high-demand suburb
-- **Downsizers** moving from larger homes in outer suburbs to well-located units
-- **Renovators** targeting older homes with potential
+- **First-home buyers** targeting apartments and smaller townhouses
+- **Young families** upgrading from apartments to houses with backyards
+- **Investors** seeking rental yield in a high-demand inner-west suburb
+- **Downsizers** moving from outer suburban houses to well-located Yarraville units
+- **Renovators** targeting heritage homes with potential
 
 ## Auction Day Reality
 
-Melbourne runs on auctions, and Yarraville is no different. Saturday mornings you'll see the crowd gathered on footpaths outside properties with varying levels of poker faces.
+Melbourne runs on auctions, and Yarraville Saturdays are no different. The crowd gathered on Anderson Street footpaths, the auctioneer working the bidding, and the poker faces hiding spreadsheet anxiety.
 
 **Tips for auction success:**
 1. Set a hard limit before auction day. Do not go past it.
-2. Attend several auctions as an observer before bidding for real.
-3. Have finance pre-approved — unconditional if possible.
-4. Get a building inspection done before auction (you can't make it conditional after).
-5. Understand the reserve price system — the vendor sets a minimum, and it may not be realistic.
+2. Attend several Yarraville auctions as an observer before bidding
+3. Have finance pre-approved — unconditional if possible
+4. Get a building inspection done before auction (you cannot make it conditional after)
+5. Understand the reserve price system — the vendor's minimum may not be realistic
 
-## Common Mistakes Buyers Make in Yarraville
+## Common Mistakes Buyers Make
 
-- **Falling in love before due diligence** — The charm of Yarraville's streets can override rational analysis
-- **Underestimating renovation costs** — Older properties hide expensive problems
-- **Ignoring body corporate fees** — For apartments, these add significantly to your ongoing costs
-- **Buying on a main road** — Cheaper for a reason — noise and re-sale difficulty
-- **Not researching future development** — Check council plans for nearby construction
+- **Falling in love with the village** — Anderson Street's charm can override rational price analysis
+- **Underestimating renovation costs** — Heritage homes in Yarraville hide expensive problems behind pretty facades
+- **Ignoring body corporate fees** — Apartment buyers often undercount ongoing costs
+- **Buying near the freeway without noise testing** — Cheaper prices near Somerville Road exist for a reason
+- **Not checking City of Maribyrnong council development plans** — Future construction can affect your investment
 
-## Is Yarraville a Good Investment?
+## FAQ
 
-Yarraville's long-term track record is strong — the suburb has consistently appreciated and attracts quality tenants for investors. 
+**What is the median house price in Yarraville?**
+Around $1.05 million in early 2026. Apartments start significantly lower; premium heritage homes go well above.
 
-The suburb's fundamentals — location, community, amenities — underpin ongoing demand. That doesn't mean short-term fluctuations won't happen, but the long view is positive.
+**Is Yarraville a good investment?**
+The suburb's long-term track record is strong — consistent appreciation, high rental demand, and fundamentals (location, community, Werribee line access) that underpin ongoing value. Short-term fluctuations happen, but the long view is positive.
 
-## Verdict
+**How does Yarraville compare to Seddon for property?**
+[Seddon](/seddon/) is slightly further along the gentrification curve with comparable pricing. Yarraville tends to offer more variety in housing stock and a stronger village identity. [Footscray](/footscray/) offers more affordable entry points with higher growth potential.
 
-Buying in Yarraville makes sense if the suburb's lifestyle aligns with your life and budget. Don't buy here just because it's popular — buy because you want to live here (or because the rental fundamentals support an investment).
+**Should I buy near the freeway?**
+Properties on Yarraville's western edge near Somerville Road and the freeway are cheaper, but noise is a genuine issue. Always inspect at peak traffic times — 6am on a Wednesday tells you more than Saturday at noon.
 
-Do your research, know your numbers, and don't let auction-day pressure override your financial limits.
+## The Verdict
 
----
+Buying in Yarraville makes sense if the village lifestyle on Anderson Street, the Werribee line commute from Yarraville station, Yarraville Gardens, and the community character align with your life and budget. The $1.05 million median reflects genuine demand from buyers who have done their research. Do your numbers, attend [auctions](/yarraville/honest-guide/) as an observer first, and do not let Saturday charm override Tuesday reality.
 
-**More on Yarraville:** [Yarraville Suburb Guide](/yarraville/) · [Yarraville Cost of Living](/yarraville/cost-of-living/) · [Yarraville Neighbourhood Guide](/yarraville/neighbourhood-guide/)
+**More on Yarraville:** [Yarraville Suburb Guide](/yarraville/) | [Cost of Living](/yarraville/cost-of-living/) | [Rent Guide](/yarraville/rent-guide/)

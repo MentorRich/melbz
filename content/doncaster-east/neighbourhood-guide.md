@@ -4,13 +4,18 @@ description: "The insider's guide to Doncaster East's different pockets, streets
 date: 2026-03-21
 suburb: "doncaster-east"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Doncaster East neighbourhood guide"
   - "best streets in Doncaster East"
   - "Doncaster East areas"
   - "Doncaster East pockets Melbourne"
+tags:
+  - "doncaster-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Doncaster East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

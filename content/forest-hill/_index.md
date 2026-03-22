@@ -1,16 +1,16 @@
 ---
-title: "Forest Hill Melbourne — Everything You Need to Know"
+title: "Forest Hill Melbourne — what you need"
 description: "The complete guide to Forest Hill. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "forest-hill"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Forest Hill Melbourne"
   - "what is Forest Hill like"
   - "forest-hill suburb"
   - "living in Forest Hill"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Forest Hill Chase, family estates, and good schools in the outer east.

@@ -1,15 +1,15 @@
 ---
 title: "Rent Prices in Coburg 2026: What You'll Pay"
-cover_image: "/images/coburg/rent-report.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["coburg", "rent", "property"]
-categories: ["property"]
-description: "Rent Prices in Coburg 2026: What You'll Pay"
+description: "Rent prices in Coburg for 2026 — median rents by bedroom count, Upfield line suburb comparisons, and the salary you actually need for Sydney Road."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/shared/rental-property.jpg"
+cover_image_alt: "Row of residential properties on a quiet street near Coburg station"
+suburb: "coburg"
+tags: ["coburg", "rent", "property", "housing"]
 ---
 
-Coburg is one of those inner-north suburbs where you can still almost call it affordable — if you squint and com..."
 # Rent Prices in Coburg 2026: What You'll Pay
 
 Coburg is one of those inner-north suburbs where you can still *almost* call it affordable — if you squint and compare it to Brunswick. But let's not pretend the rental market here hasn't tightened considerably. If you're eyeing a move to the 3058, you need real numbers, not vibes. Here's exactly what you'll pay for every bedroom count, how Coburg stacks up against its neighbours, and what salary you actually need to live here without eating two-minute noodles five nights a week.
@@ -48,7 +48,7 @@ This is the bracket where couples, share-house pairs, and young families are all
 
 The older two-bed flats along the Bell Street corridor and around这片zone between Moreland Road and Pentridge are your best bet for the lower end. A few still hover near $520, but they go fast. I've seen well-priced two-bed units in the Pentridge area receive 15+ applications within 48 hours of listing.
 
-**Insider tip:** The two-bedroom townhouse-style properties in the side streets off Sydney Road (think Nicholson, Glencairn, and Murray) often come with small backyards and street parking. They rent slightly above median ($580–$630) but offer far more space per dollar than a comparable unit in [Brunswick](/melbz/brunswick). Worth the extra $20–40/week if you have a dog or need room for a home office.
+**Insider tip:** The two-bedroom townhouse-style properties in the side streets off Sydney Road (think Nicholson, Glencairn, and Murray) often come with small backyards and street parking. They rent slightly above median ($580–$630) but offer far more space per dollar than a comparable unit in [Brunswick](/brunswick/). Worth the extra $20–40/week if you have a dog or need room for a home office.
 
 
 ## 3-Bedroom: Houses vs. Units
@@ -84,13 +84,13 @@ This is the part you really need to see. Coburg doesn't exist in a vacuum — it
 
 Brunswick is the obvious comparison — same postcode prefix, similar vibe, but Brunswick has cachet that Coburg is still building. You'll pay roughly **$30/week more** for a house in Brunswick and a negligible difference for units ($2/week, which is basically statistical noise).
 
-The premium comes down to proximity to the 1 and 8 tram routes, Sydney Road's strip of cafes and bars, and the fact that Brunswick has been "trendy" for longer. Whether that's worth $1,560/year is your call. The [Brunswick](/melbz/brunswick) food and bar scene is objectively stronger — but Coburg's catching up fast, especially along the section of Sydney Road south of Bell Street.
+The premium comes down to proximity to the 1 and 8 tram routes, Sydney Road's strip of cafes and bars, and the fact that Brunswick has been "trendy" for longer. Whether that's worth $1,560/year is your call. The [Brunswick](/brunswick/) food and bar scene is objectively stronger — but Coburg's catching up fast, especially along the section of Sydney Road south of Bell Street.
 
 ### Coburg vs. Brunswick East
 
 Brunswick East is the confusing middle child. It rents houses at **$720/week** (slightly more than Coburg) but units at just **$500/week** — significantly less than Coburg's $578. That unit discount exists because Brunswick East's apartment stock skews older and smaller, and the suburb lacks the direct train access that Coburg Station provides.
 
-If you're renting a unit and you don't care about trains, Brunswick East might save you $78/week ($4,056/year). But if you need the Upfield line to get to the city, [Brunswick East](/melbz/brunswick-east) doesn't give you that.
+If you're renting a unit and you don't care about trains, Brunswick East might save you $78/week ($4,056/year). But if you need the Upfield line to get to the city, [Brunswick East](/brunswick-east/) doesn't give you that.
 
 ### Coburg vs. Preston
 
@@ -98,7 +98,7 @@ Here's where it gets interesting. Preston is **$50/week cheaper** for houses ($6
 
 Preston offers more space for less money. It's got a thriving High Street scene, the Preston Market, better parking, and generally bigger blocks. What it doesn't have is the same density of train stations (Coburg has Coburg and Coburg North on the Upfield line; Preston has Preston and Regent, but service frequency differs) or the same buzz along its restaurant strip.
 
-The honest verdict? If budget is your primary concern, [Preston](/melbz/preston) wins. If you want to be closer to the city and value train access, Coburg has the edge.
+The honest verdict? If budget is your primary concern, [Preston](/preston/) wins. If you want to be closer to the city and value train access, Coburg has the edge.
 
 
 ## What You'd Need to Earn
@@ -164,25 +164,27 @@ Coburg in 2026 sits in an interesting sweet spot. It's **$30/week cheaper than B
 
 For single professionals and couples, a one or two-bedroom unit in Coburg remains one of the better-value propositions in the inner north — you get train access, an improving dining scene, and proximity to the city without paying the Brunswick premium.
 
-For families, the three-bedroom house market is tight everywhere in this corridor. At $700/week, Coburg is roughly in line with what you'd pay in [Preston](/melbz/preston) for something comparable, though Preston gives you more backyard for the dollar.
+For families, the three-bedroom house market is tight everywhere in this corridor. At $700/week, Coburg is roughly in line with what you'd pay in [Preston](/preston/) for something comparable, though Preston gives you more backyard for the dollar.
 
 The honest truth: nobody moves to the inner north to save money. You move here for the walkability, the food, the culture, and the 25-minute train to Flinders Street. Coburg delivers all of those at a slight discount to its flashier neighbours. Whether that discount is enough depends on your budget and your priorities.
 
 
-*Your [Coburg](/melbz/coburg) Vibe Score this week: check the live score on our suburb page.*
+*Your [Coburg](/coburg/) Vibe Score this week: check the live score on our suburb page.*
 
 
 **Disclaimer:** Rent data sourced from YIP (Your Investment Property Magazine), htAG Property Analytics, Homes Victoria Rental Report (September Quarter 2025), Domain.com.au market forecasts, and ConnectMarket Melbourne Rent Trends. All figures represent medians and ranges as of early 2026. Individual rental prices vary based on property condition, location within the suburb, and market conditions at time of listing. Always verify current prices on realestate.com.au or domain.com.au before making rental decisions. Rental support services are available via Consumer Affairs Victoria (1300 558 181).
 
-*Know what's happening in your suburb? [Submit a tip](/tips) to MELBZ.*
+## FAQ
 
-*MELBZ — We Know Your Suburb Better Than You Do.*
+**What's the average rent in Coburg?**
+Houses: $700/week median. Units: $578/week median. One-bedrooms: $420-$500/week.
 
-## Related Articles
+**Is Coburg cheaper than Brunswick to rent?**
+For houses, roughly $30/week cheaper. For units, essentially the same ($2/week difference).
 
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/coburg/](/coburg/)
-- [/coburg/hub](/coburg/hub)
+**What salary do I need to rent in Coburg?**
+For a one-bed at $450/week: about $78,000 gross. For a three-bed house at $700/week: about $121,000 household income.
 
-*Find more Melbourne content at [melbz.com.au](/)*
+---
+
+**More Coburg:** [Coburg Cost of Living](/coburg/cost-of-living/) · [Coburg Suburb Guide](/coburg/) · [Coburg for Young Professionals](/coburg/young-professionals/)

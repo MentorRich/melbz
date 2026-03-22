@@ -1,59 +1,96 @@
 ---
-title: "Best Restaurants in Prahran Melbourne"
-description: "Where to eat in Prahran: the honest guide to the suburb's restaurant scene, from weeknight dinners to special occasions."
-date: 2026-03-21
+title: "Best Restaurants in Prahran 2026 — Where to Eat This Year"
+description: "The best restaurants in Prahran for 2026. French bistros, Thai on Greville Street, Italian pasta joints, and pub dining across the suburb."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Ortiz"
+cover_image: "/images/shared/melbourne-dining.jpg"
+cover_image_alt: "Prahran Melbourne restaurant dining scene"
 suburb: "prahran"
-article_type: "best-of"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-keywords:
-  - "best restaurants Prahran"
-  - "where to eat Prahran"
-  - "dinner Prahran Melbourne"
-  - "restaurants near Prahran"
+tags: ["melbourne", "prahran", "restaurants", "dining"]
 ---
 
+Prahran's restaurant scene benefits from Chapel Street foot traffic and Greville Street's indie energy. The dining runs from French bistro to Thai street food to Italian pasta, with enough variety that you could eat out every night for a month without repeating. Here are the restaurants worth booking in 2026.
 
-## Eating Out in Prahran
+## 1. Entrecote — French Bistro Done Right
 
-Prahran's restaurant scene reflects the suburb's personality. Greville Street vintage shops, Chapel Street's southern end, and Prahran Market. That translates into a food culture that's eclectic and adventurous.
+**Where:** 131-133 Greville Street, Prahran
+**Price:** $60-$90 per person with wine
+**Best for:** Date night, long lunch, special occasions
 
-You've got options from casual weeknight dinners to proper sit-down spots you save for birthdays. The range is what makes it work — you don't need to leave the suburb for good food.
+Entrecote is Prahran's anchor restaurant. The French-inspired menu centres on steak frites: properly sourced steak, hand-cut chips, and a green herb sauce that justifies the queue. The wine list goes well beyond safe choices, and the Greville Street courtyard is one of the best outdoor dining spots in the inner south. Book ahead for weekends.
 
-## What Kind of Food Can You Find?
+## 2. Colonel Tan's — Thai Inside a Nightclub
 
-The cuisine options depend on what Prahran's community looks like, and right now it's a solid mix:
+**Where:** Level 1, 229 Chapel Street, Prahran (inside Revolver Upstairs)
+**Price:** Mains $18-$28
+**Best for:** Weeknight dinner, pre-night-out, adventurous eaters
 
-**Italian** — Melbourne does Italian well, and Prahran is no exception. From proper pasta joints to pizza that actually tastes like something.
+A Thai restaurant inside Melbourne's most legendary nightclub sounds mad, but chef Karen Batson runs a tight menu of bold dishes that are far better than the location suggests. The pad thai ($19) is legitimately good, the green curry ($22) has actual heat, and the sharing plates are designed for exactly the kind of "you try this, I'll try that" dynamic that makes dinner interesting.
 
-**Asian** — Thai, Vietnamese, Japanese, Chinese — the variety depends on the suburb's demographic mix, but you'll find options that range from quick and affordable to genuinely impressive.
+## 3. Chez Olivier — The Parisian Escape
 
-**Modern Australian** — The catch-all that actually means "good food made by creative chefs who source well." Several of Prahran's best spots fall into this category.
+**Where:** Greville Street, Prahran
+**Price:** Mains $28-$35, set menu $55 per person
+**Best for:** Intimate dinner, wine lovers, anniversary
 
-**Pub Food Done Right** — The local pub that's upgraded beyond parma and chips (though those are still available). Proper kitchen, decent wine list, and food that surprises you.
+Chez Olivier is a Parisian-style bistro doing unapologetically French food: duck confit ($32), bouillabaisse ($28), creme brulee ($14). The wine list leans heavily into French regions with plenty by the glass ($14-$18). Maybe 30 seats, white tablecloths, soft lighting. The Friday and Saturday set menu at $55 per person for three courses with a glass of wine is one of Prahran's best dining deals.
 
-**Quick and Good** — Takeaway, kebabs, fish and chips, burger joints. Not flashy but essential for those nights when you don't feel like cooking but don't want to sit down either.
+## 4. Prahran Hotel — Pub Dining With Heritage
 
-## Weeknight vs Weekend Dining
+**Where:** 398 Commercial Road, Prahran
+**Price:** Mains $18-$28
+**Best for:** Casual dinner, family-friendly, parma night
 
-**Weeknights** are your sweet spot in Prahran. Walk-in friendly, quieter, and you get the kitchen's attention. Tuesday to Thursday is when locals eat out casually.
+The Prahran Hotel has been pouring since the mid-1800s. The food covers pub classics done well: burgers ($18-$22), schnitzels ($20), and a parma ($24) that holds its own against anywhere in the inner south. Three distinct spaces mean three different experiences: public bar for footy and cheap drinks, dining area for table service, and the Garden Bar for after-work drinks.
 
-**Weekends** bring the crowds, especially Friday and Saturday nights. Book ahead for anywhere decent, or go early (6pm) to beat the rush. Sunday dinner is an underrated option — quieter than Saturday with the same quality.
+## 5. Osteria Renata — Italian With Heart
 
-## Price Range
+**Where:** Prahran
+**Price:** Pasta $22-$28, mains $26-$34
+**Best for:** Date night, pasta cravings, Italian wine
 
-Prahran's restaurants cover a genuine range. You can have a solid dinner for a reasonable amount, or splurge on the suburb's best without Melbourne CBD prices.
+Osteria Renata covers modern Italian with handmade pastas, seasonal risottos ($24), and a tiramisu ($16) worth saving room for regardless of how full you are. The wine list is Italian-heavy with approachable options. The room is warm: terracotta tones, candlelight, and a layout that gives each table privacy. Busy enough to feel alive, quiet enough for conversation.
 
-The mid-range is where Prahran shines — restaurants that care about quality but don't gouge on price. That's the sweet spot here.
+## Getting There
 
-## Tips for Eating in Prahran
+Prahran's restaurants cluster along Chapel Street, Greville Street, and Commercial Road. Prahran station (Sandringham line) is central to all of them. Tram 78 runs along Chapel Street, tram 72 along Commercial Road. For parking, the side streets between Greville and Commercial Road are your best bet.
 
-1. **Ask the locals** — the best restaurant is often the one without the marketing budget
-2. **Weeknight date nights** — better experience, easier bookings, sometimes cheaper
-3. **Try the specials** — chefs put their energy into specials, and it shows
-4. **Don't judge by decor** — some of the best food comes from the least fancy-looking places
-5. **Support the independents** — chain restaurants exist but the soul of Prahran's food scene is the owner-operators
+## FAQ
+
+**What is the best restaurant in Prahran?**
+Entrecote on Greville Street for overall dining experience. Colonel Tan's for something unexpected and genuinely excellent.
+
+**Can you eat well in Prahran on a budget?**
+Yes. Pub dining at the Prahran Hotel runs $18-$28 for mains. See our [cheap eats guide](/prahran/cheap-eats/) for options under $20.
+
+**Do Prahran restaurants take bookings?**
+Most sit-down restaurants do. Popular spots like Entrecote and Chez Olivier strongly recommend booking for Friday and Saturday nights.
+
+## The Verdict
+
+Prahran's restaurant scene is genuinely strong. The mid-range is where the suburb shines: restaurants that care about quality without CBD gouging. Whether it is French bistro, Thai, Italian, or pub dining, the variety means every mood and budget is covered.
 
 ---
 
-**More on Prahran:** [Prahran Suburb Guide](/prahran/) · [Prahran Best Cafes](/prahran/best-cafes/) · [Prahran Living Guide](/prahran/living-in-prahran/)
+**More Prahran:** [Best Cafes](/prahran/best-[cafes](/prahran/best-cafes/)/) | [Cheap Eats](/prahran/cheap-eats/) | [Date Night](/prahran/date-night/) | [Prahran Suburb Guide](/prahran/)
+
+---
+
+## Explore More of Prahran
+
+- [Prahran History](/prahran/history/)
+- [Prahran Late Night Eats](/prahran/late-night-eats/)
+- [Prahran Things To Do This Weekend](/prahran/things-to-do-this-weekend/)
+- [Prahran Cheap Eats](/prahran/cheap-eats/)
+- [Prahran Rent Guide](/prahran/rent-guide/)
+- [Prahran Prahran For Retirees](/prahran/prahran-for-retirees/)
+- [Prahran Date Night Guide](/prahran/date-night/)
+- [Prahran Food Crawl](/prahran/food-crawl/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)
+- [Albert Park Suburb Guide](/albert-park/)

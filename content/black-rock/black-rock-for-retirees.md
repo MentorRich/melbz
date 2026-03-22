@@ -4,12 +4,16 @@ description: "Considering retirement in Black Rock? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "black-rock"
 article_type: "retirees"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Black Rock retirees Melbourne"
   - "retiring in Black Rock"
   - "quiet suburbs Melbourne"
+tags:
+  - "black-rock"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Black Rock? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

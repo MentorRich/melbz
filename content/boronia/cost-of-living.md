@@ -4,16 +4,22 @@ description: "How expensive is Boronia? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "boronia"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Boronia Melbourne"
   - "how expensive is Boronia"
   - "is Boronia expensive to live in"
   - "Boronia rent"
+tags:
+  - "boronia"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Boronia — no sugar-coating, no made-up figures.
+The cost question in Boronia is straightforward: it is creeping up year on year. Here is what your wallet actually needs to know.
 
 Read our full [Boronia suburb guide](/boronia/) for the bigger picture.
 

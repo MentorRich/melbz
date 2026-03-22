@@ -4,16 +4,22 @@ description: "How expensive is Cranbourne West? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Cranbourne West Melbourne"
   - "how expensive is Cranbourne West"
   - "is Cranbourne West expensive to live in"
   - "Cranbourne West rent"
+tags:
+  - "cranbourne-west"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Cranbourne West — no sugar-coating, no made-up figures.
+Your monthly burn rate in Cranbourne West depends on a few key factors. Here is an honest accounting.
 
 Read our full [Cranbourne West suburb guide](/cranbourne-west/) for the bigger picture.
 

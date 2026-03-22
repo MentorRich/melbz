@@ -1,97 +1,38 @@
 ---
-title: "Kew Melbourne — Everything You Need to Know"
-description: "The complete guide to Kew. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
-date: 2026-03-21
-suburb: "kew"
-article_type: "profile"
-author: "Lisa Nguyen"
-author_image: "/images/authors/charlie.jpg"
-keywords:
-  - "Kew Melbourne"
-  - "what is Kew like"
-  - "kew suburb"
-  - "living in Kew"
+title: "Kew"
+cover_image: "/images/shared/parks-gardens.jpg"
+description: "Kew is Melbourne's leafy inner-east establishment — Studley Park trails along the Yarra, High Street cafes and dining, heritage homes behind elm canopies, and school catchments that drive half the property market."
+author: "Jules Marchetti"
 ---
 
-Established family suburb with Studley Park bushland, High Street cafes, and top schools.
+Kew sits 7km east of the CBD in the City of Boroondara, postcode 3101, and it operates on a simple premise: excellent schools, wide tree-lined streets, and proximity to the Yarra River trails. That combination has made it one of Melbourne's most consistently sought-after family suburbs for over a century.
 
-If you're thinking about living in Kew, visiting for the first time, or just trying to work out if this place is worth your Saturday afternoon — here's the honest rundown.
+The bones are Victorian and Edwardian: grand homes along Studley Park Road, Federation-era terraces on Denmark Street, inter-war brick houses filling the grid between Cotham Road and Barkers Road. The streetscape is defined by mature elms and planes that form a canopy thick enough to block the sky on a summer afternoon. This is not an accident — Kew has protected its tree cover more aggressively than almost any other Melbourne suburb.
 
-## Where Is Kew?
+High Street is the commercial spine, running east-west through the suburb with cafes, restaurants, bottle shops, and the everyday retail that keeps a suburb functioning. Kew Junction, where High Street meets Cotham Road and Denmark Street, is the civic centre — Coles, medical centres, the library, and a cluster of dining options that have quietly improved over the past five years.
 
-Kew sits in Melbourne's Inner East region. It's the kind of suburb where you can feel the neighbourhood's personality the minute you step off public transport. Getting to the city from here isn't a drama — you've got options depending on where exactly you are in the suburb.
+## What to eat and drink in Kew
 
-The suburb borders Hawthorn, Kew East, Balwyn. That matters because your nearby options for food, coffee, and weekend plans extend well beyond Kew's own postcode boundaries.
+High Street delivers the goods without pretending to be a food destination. Centonove at 109 High Street does proper Italian — handmade pasta, a serious wine list, and the kind of service that remembers your last order. Hanoi Hannah at 186 High Street brings contemporary Vietnamese to the eastern suburbs with rice paper rolls, pho, and a cocktail list that works. The Postmaster Hotel, housed in the old Kew Post Office building, is the suburb's flagship pub — front bar for a pot of Carlton, the Grossi-run restaurant for Italian-influenced dining, and a rooftop aperitivo bar for Friday afternoon spritzes.
 
-## What's Kew Actually Like?
+For the full breakdown, see our [guide to Kew's best restaurants](/kew/best-restaurants/).
 
-Established family suburb with Studley Park bushland, High Street cafes, and top schools.
+## Living in Kew — what it actually costs
 
-Every suburb has a specific energy. Kew has its own thing going on — it's not trying to be everywhere else. The streets have character, the locals know their spots, and there's a pace of life here that either suits you or doesn't.
+A one-bedroom apartment in Kew runs $420-$480 per week in 2026. A two-bedroom apartment is $550-$620. A three-bedroom house pushes $700-$800. Buying is the real conversation — the median house price sits well above $2 million, with Studley Park and school-zone pockets regularly clearing $3 million. You are paying for the postcode, the trees, and the catchments.
 
-Walk around on a Saturday morning and you'll pick up the vibe pretty quickly. The cafes tell you a lot — are they packed with young couples or families with prams? That gives you a read on who lives here.
+### Getting around
 
-## Who Lives in Kew?
+Kew has no dedicated train station — that is the single biggest transport gap. The nearest station is Glenferrie in Hawthorn, a 15-minute walk or short tram ride from Kew Junction. Tram 48 runs along Cotham Road to the CBD in about 25-30 minutes. Tram 109 runs along Cotham Road and High Street connecting to Box Hill and the city. Most residents drive or use trams as the primary commute option. The Eastern Freeway entrance is nearby, which helps for weekend trips to the Yarra Valley and hurts for weekday peak-hour commutes.
 
-Kew draws a particular crowd. The demographics lean towards the kind of people who value what this suburb specifically offers. You'll find a mix — and it's the mix that makes it work.
+### Is Kew good for families?
 
-The community here has its own institutions, its own rhythms, its own complaints about parking. Like every Melbourne suburb, it's evolved over the past couple of decades and the people who live here now aren't necessarily the same crowd from fifteen years ago.
+This is the question that drives half of Kew's property market. The answer is yes — emphatically. Kew High School has a strong reputation, and the suburb sits within reach of Trinity Grammar, Ruyton Girls' School, Strathcona, Xavier College, and Preshil. Studley Park and Yarra Bend Park provide serious green space with walking trails, playgrounds, and the kind of open grass that handles cricket, dogs, and picnics simultaneously. Saturday mornings here run on school sport, park time, and brunch at one of the High Street cafes.
 
-## Housing in Kew
+## Keep exploring
 
-The housing stock in Kew tells the story of how the suburb has evolved. You'll find a mix of older homes that have been here for decades alongside newer build quality — townhouses, apartments, and the occasional knockdown-rebuild that sticks out on the street.
-
-If you're renting, there's decent variety depending on your budget. Share houses exist for those starting out. Units and apartments work for professionals. Families will need to hunt a bit harder for standalone homes with a backyard, but they're out there.
-
-## Getting Around Kew
-
-Transport from Kew is solid enough to make it work without a car for most people, though having a car definitely helps for some errands and weekend plans.
-
-**Read the full breakdown:** [Kew Transport Guide](/kew/transport-guide/)
-
-Quick version: you can get to the city reasonably easy. The tram and train network serves this area, and cycling infrastructure has been improving steadily.
-
-## Eating and Drinking in Kew
-
-The food scene in Kew reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and seasonal markets and community events year-round without needing to leave the suburb every time you want a decent meal.
-
-Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
-
-## Is Kew Right for You?
-
-**You'll love Kew if:**
-- You want a suburb with genuine character and community
-- You value proximity to Melbourne's best without paying absolute top dollar
-- You like having your local spots — the cafe you don't need to think about, the pub you default to
-- You appreciate a neighbourhood that's evolved naturally rather than been manufactured
-
-**It might not be for you if:**
-- You need absolute silence and a massive backyard
-- Budget is extremely tight — some areas of Kew have crept up in cost
-- You want everything brand new and shiny
-- You're not comfortable with a suburb that has a strong identity you need to adapt to
-
-## Living Here — The Deep Dive
-
-Want more detail? We've covered every angle:
-
-- **[Living in Kew — The Honest Guide](/kew/living-in-kew/)** — Pros, cons, and the unfiltered truth
-- **[Is Kew Good for Families?](/kew/kew-for-families/)** — Schools, parks, safety, the works
-- **[Is Kew Good for Young Professionals?](/kew/kew-for-young-professionals/)** — Social scene, commute, renting
-- **[Is Kew Good for Retirees?](/kew/kew-for-retirees/)** — Quiet streets, healthcare, community
-- **[Cost of Living in Kew](/kew/cost-of-living/)** — Rent, daily costs, and how it compares
-- **[Getting Around Kew](/kew/transport-guide/)** — Trains, trams, bikes, driving
-- **[Kew Neighbourhood Guide](/kew/neighbourhood-guide/)** — Streets, pockets, and where to be
-- **[History of Kew](/kew/history/)** — How this suburb became what it is today
-
-## Suburbs Near Kew
-
-- **[Hawthorn](/hawthorn/)** — Glenferrie Road shops, Swinburne Uni, and some of Melbourne's finest heritage ho
-- **[Kew East](/kew-east/)** — Tree-lined residential streets near Willsmere with easy Eastern Freeway access.
-- **[Balwyn](/balwyn/)** — Family-oriented suburb with strong Chinese-Australian community, top schools, an
-- **[Studley Park](/studley-park/)** — Yarra Bend parkland pocket with stunning river views and heritage homes.
-
+Kew connects naturally to its neighbours. Walk south across Barkers Road into [Hawthorn](/hawthorn/) for Glenferrie Road's shops, Swinburne Uni, and train access. Head east for quieter, more affordable Kew East with its own village feel. North across the Yarra takes you toward Alphington and [Fairfield](/fairfield/) along the river trails. West along Cotham Road brings you toward [Richmond](/richmond/) and the inner-city buzz that Kew deliberately keeps at arm's length.
 
 ---
 
-*Got something to add about Kew? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+*Got something to add about Kew? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*

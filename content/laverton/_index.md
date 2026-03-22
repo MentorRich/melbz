@@ -1,16 +1,16 @@
 ---
-title: "Laverton Melbourne — Everything You Need to Know"
+title: "Laverton Melbourne — what you need"
 description: "The complete guide to Laverton. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "laverton"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Laverton Melbourne"
   - "what is Laverton like"
   - "laverton suburb"
   - "living in Laverton"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Train junction suburb with RAAF Williams base and redevelopment potential.

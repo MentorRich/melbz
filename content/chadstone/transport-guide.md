@@ -4,15 +4,22 @@ description: "Public transport in Chadstone: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "chadstone"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Chadstone Melbourne"
   - "commute from Chadstone to city"
   - "Chadstone train station"
+tags:
+  - "chadstone"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Chadstone — what works, what's annoying, and how long things actually take.
+Chadstone transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Chadstone suburb guide](/chadstone/) for the complete picture.
 

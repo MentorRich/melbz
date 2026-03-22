@@ -2,8 +2,7 @@
 title: "Ascot Vale Nightlife Guide 2026: Pubs, Bars & Local Gems"
 cover_image: "/images/ascot-vale/nightlife-guide.jpg"
 date: 2026-03-18
-author: lina
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 tags: ["ascot-vale", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Ascot Vale Nightlife Guide 2026: Pubs, Bars & Local Gems"
@@ -88,10 +87,9 @@ After exploring Ascot Vale, consider visiting **[Flemington](/flemington/nightli
 *This guide is part of MELBZ's comprehensive Melbourne nightlife coverage. For more suburb guides, explore our complete collection at melbz.com.au.*
 ## Related Articles
 
-- [/footscray/](/footscray/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/nightlife/](/nightlife/)
-- [/things-to-do/](/things-to-do/)
-- [/ascot-vale/](/ascot-vale/)
+- [Footscray](/footscray/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Nightlife](/nightlife/)
+- [Things To Do](/things-to-do/)
+- [Ascot Vale](/ascot-vale/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Wantirna South? Parks, schools, safety
 date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Wantirna South good for families"
   - "Wantirna South family friendly"
   - "raising kids in Wantirna South"
+tags:
+  - "wantirna-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Wantirna South with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

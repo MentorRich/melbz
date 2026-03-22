@@ -4,16 +4,22 @@ description: "How expensive is Patterson Lakes? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Patterson Lakes Melbourne"
   - "how expensive is Patterson Lakes"
   - "is Patterson Lakes expensive to live in"
   - "Patterson Lakes rent"
+tags:
+  - "patterson-lakes"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Patterson Lakes — no sugar-coating, no made-up figures.
+The gap between the sticker price of Patterson Lakes and actual living costs is worth understanding before you move.
 
 Read our full [Patterson Lakes suburb guide](/patterson-lakes/) for the bigger picture.
 

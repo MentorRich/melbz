@@ -4,16 +4,22 @@ description: "How expensive is Airport West? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "airport-west"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Airport West Melbourne"
   - "how expensive is Airport West"
   - "is Airport West expensive to live in"
   - "Airport West rent"
+tags:
+  - "airport-west"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Airport West — no sugar-coating, no made-up figures.
+Everyone asks how expensive is Airport West. The real answer depends on your lifestyle. Here is the data.
 
 Read our full [Airport West suburb guide](/airport-west/) for the bigger picture.
 

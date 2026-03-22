@@ -4,17 +4,23 @@ description: "Raising a dog in Carlton North? Off-leash parks, pet-friendly cafe
 date: 2026-03-21
 suburb: "carlton-north"
 article_type: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "dog friendly Carlton North"
   - "off leash park Carlton North"
   - "pet friendly cafes Carlton North"
   - "walking dog Carlton North"
+tags:
+  - "carlton-north"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
-## Being a Dog Owner in Carlton North
+## Being a Dog Owner in [Carlton](/carlton/) North
 
 Melbourne is a dog city, and Carlton North holds its own for four-legged residents. Whether you've got a cattle dog that needs actual exercise or a French Bulldog that considers a 10-minute waddle an expedition, this suburb has something for you.
 
@@ -28,7 +34,7 @@ Carlton North has dedicated off-leash areas where your dog can actually run. The
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/carlton-north/best-cafes/)
 
 Multiple cafes in Carlton North welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from Carlton North, including emergency after-
 ---
 
 **More on Carlton North:** [Carlton North Suburb Guide](/carlton-north/) · [Carlton North Things to Do](/carlton-north/things-to-do/) · [Carlton North for Families](/carlton-north/carlton-north-for-families/)
+
+---
+
+## Explore More of Carlton North
+
+- [Carlton North History](/carlton-north/history/)
+- [Carlton North Rent Guide](/carlton-north/rent-guide/)
+- [Carlton North Things To Do](/carlton-north/things-to-do/)
+- [Carlton North Cost of Living](/carlton-north/cost-of-living/)
+- [Carlton North Young Professionals Guide](/carlton-north/young-professionals/)
+- [Carlton North Nightlife Guide](/carlton-north/nightlife-guide/)
+- [Carlton North Transport Guide](/carlton-north/transport-guide/)
+- [Carlton North Best Cafes](/carlton-north/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Canterbury Suburb Guide](/canterbury/)
+- [Carlton Suburb Guide](/carlton/)
+- [Carnegie Suburb Guide](/carnegie/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)

@@ -4,15 +4,22 @@ description: "Public transport in Strathmore: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "strathmore"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Strathmore Melbourne"
   - "commute from Strathmore to city"
   - "Strathmore train station"
+tags:
+  - "strathmore"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Strathmore — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Strathmore. Let us cut through the fluff.
 
 Check out our full [Strathmore suburb guide](/strathmore/) for the complete picture.
 

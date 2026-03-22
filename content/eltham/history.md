@@ -4,16 +4,22 @@ description: "The story of Eltham: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "eltham"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Eltham Melbourne history"
   - "how has Eltham changed"
   - "Eltham gentrification"
   - "Eltham then and now"
+tags:
+  - "eltham"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Eltham's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Eltham is tied to Melbourne's industrial past.
 
 See our full [Eltham suburb guide](/eltham/) for the current picture.
 

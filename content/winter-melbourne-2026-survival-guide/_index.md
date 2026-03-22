@@ -3,13 +3,13 @@ title: "Surviving Melbourne Winter — The Suburb Guide"
 description: "Melbourne winters are cold and grey. Which suburbs make it bearable? Warm bars, indoor activities, and suburbs with soul."
 date: 2026-03-21
 article_type: "trending"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "melbourne winter guide"
   - "surviving winter melbourne"
   - "warm bars melbourne"
   - "indoor activities melbourne winter"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Melbourne winters are cold and grey. Which suburbs make it bearable? Warm bars, indoor activities, and suburbs with soul.

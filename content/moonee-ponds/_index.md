@@ -1,16 +1,16 @@
 ---
-title: "Moonee Ponds Melbourne — Everything You Need to Know"
+title: "Moonee Ponds Melbourne — what you need"
 description: "The complete guide to Moonee Ponds. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "profile"
 author: "Aisha Patel"
-author_image: "/images/authors/aisha.jpg"
 keywords:
   - "Moonee Ponds Melbourne"
   - "what is Moonee Ponds like"
   - "moonee-ponds suburb"
   - "living in Moonee Ponds"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Puckle Street village, Queens Park, and a strong community that loves its local identity.

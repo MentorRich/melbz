@@ -4,13 +4,18 @@ description: "The insider's guide to Mulgrave's different pockets, streets, and 
 date: 2026-03-21
 suburb: "mulgrave"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Mulgrave neighbourhood guide"
   - "best streets in Mulgrave"
   - "Mulgrave areas"
   - "Mulgrave pockets Melbourne"
+tags:
+  - "mulgrave"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mulgrave isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

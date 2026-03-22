@@ -3,14 +3,14 @@ title: "What to Do in Camberwell This Weekend"
 description: "Your weekend in Camberwell sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner East."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "weekend"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-keywords:
-  - "what to do Camberwell this weekend"
-  - "Camberwell weekend"
-  - "things to do Camberwell Saturday"
-  - "Camberwell Sunday plans"
+author: "Dani Reyes"
+tags:
+  - "camberwell"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +38,13 @@ Camberwell does weekends well. Whether you're the type who plans every hour or p
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Camberwell's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/camberwell/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Camberwell's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Camberwell starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Camberwell starts slower. The [cafes](/camberwell/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Camberwell and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +62,23 @@ Camberwell does weekends well. Whether you're the type who plans every hour or p
 ---
 
 **More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) · [Camberwell Things to Do](/camberwell/things-to-do/) · [Camberwell Best Restaurants](/camberwell/best-restaurants/)
+
+---
+
+## Explore More of Camberwell
+
+- [Camberwell History](/camberwell/history/)
+- [Camberwell Camberwell For Retirees](/camberwell/camberwell-for-retirees/)
+- [Camberwell Rent Guide](/camberwell/rent-guide/)
+- [Camberwell Things To Do](/camberwell/things-to-do/)
+- [Camberwell Cost of Living](/camberwell/cost-of-living/)
+- [Camberwell Young Professionals Guide](/camberwell/young-professionals/)
+- [Camberwell Nightlife Guide](/camberwell/nightlife-guide/)
+- [Camberwell Transport Guide](/camberwell/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Glen Iris Suburb Guide](/glen-iris/)

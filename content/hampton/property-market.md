@@ -4,13 +4,19 @@ description: "Thinking of buying in Hampton? What the market looks like, what to
 date: 2026-03-21
 suburb: "hampton"
 article_type: "property"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "buying in Hampton"
   - "Hampton property market"
   - "Hampton house prices"
   - "real estate Hampton Melbourne"
+tags:
+  - "hampton"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -80,3 +86,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Hampton:** [Hampton Suburb Guide](/hampton/) · [Hampton Cost of Living](/hampton/cost-of-living/) · [Hampton Neighbourhood Guide](/hampton/neighbourhood-guide/)
+
+---
+
+## Explore More of Hampton
+
+- [Hampton History](/hampton/history/)
+- [Hampton Rent Guide](/hampton/rent-guide/)
+- [Hampton Things To Do](/hampton/things-to-do/)
+- [Hampton Cost of Living](/hampton/cost-of-living/)
+- [Hampton Young Professionals Guide](/hampton/young-professionals/)
+- [Hampton Transport Guide](/hampton/transport-guide/)
+- [Hampton Best Cafes](/hampton/best-cafes/)
+- [Hampton Best Restaurants](/hampton/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

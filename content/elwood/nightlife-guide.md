@@ -1,17 +1,16 @@
 ---
 title: "Nightlife Guide in Elwood — 2026 Local Guide"
 cover_image: "/images/elwood/nightlife-guide.jpg"
----
-
 suburb: "elwood"
 vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 date: 2026-03-17
 updated: 2026-03-17
 description: "The complete Elwood nightlife guide for 2026 — from local pubs and neighbourhood bars to the local picks along Ormond Road and the bayside scene."
 tags: ["elwood"]
 categories: ["nightlife"]
+---
+
 # Elwood Nightlife Guide 2026 — Bayside Living After Dark
 
 Elwood doesn't have the nightlife reputation of its neighbours St Kilda and Brighton. And honestly, the locals prefer it that way. This bayside suburb has a different rhythm after dark — slower, more local, focused on quality over quantity. The drinking options here are spread across the Ormond Road strip, with a handful of genuine local pubs that have been serving the community for generations. There's no pretension in Elwood. No velvet ropes. No door policies that require you to be on a list. Just good pubs, decent drinks, and the kind of atmosphere that comes from a suburb that's comfortable in its own skin.
@@ -93,7 +92,7 @@ For those wanting to continue past midnight, St Kilda is a short walk or taxi ri
 
 ## What We Skipped and Why
 
-**Wedding and function venues:** Elwood has several venues that primarily operate as function spaces for private events. These aren't designed for casual nightlife and don't belong in this guide.
+**Wedding and function venues:** Elwood has several venues that primarily operate as function spaces for private events. These aren't designed for casual nightlife and don't belong .
 
 **Chain restaurants:** The franchise venues along the main roads don't offer anything you'd find anywhere else in Melbourne and weren't worth including.
 
@@ -120,10 +119,8 @@ For those wanting to continue past midnight, St Kilda is a short walk or taxi ri
 *Also see: [Best Pubs in Elwood](/elwood/best-pubs) · [Best Bars in Elwood](/elwood/best-bars) · [Beachside Day Out](/elwood/best-restaurants) · [St Kilda Night Out](/st-kilda/nightlife-guide) · [Brighton Evening](/brighton/nightlife-guide)*
 ## Related Articles
 
-- [/balaclava/](/balaclava/)
-- [/st-kilda/](/st-kilda/)
-- [/nightlife/](/nightlife/)
-- [/things-to-do/](/things-to-do/)
-- [/elwood/](/elwood/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Balaclava](/balaclava/)
+- [St Kilda](/st-kilda/)
+- [Nightlife](/nightlife/)
+- [Things To Do](/things-to-do/)
+- [Elwood](/elwood/)

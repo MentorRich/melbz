@@ -1,16 +1,16 @@
 ---
-title: "Tecoma Melbourne — Everything You Need to Know"
+title: "Tecoma Melbourne — what you need"
 description: "The complete guide to Tecoma. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "tecoma"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Tecoma Melbourne"
   - "what is Tecoma like"
   - "tecoma suburb"
   - "living in Tecoma"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small Dandenong Ranges village with Belgrave line access and bush surroundings.

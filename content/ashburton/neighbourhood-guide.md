@@ -4,13 +4,18 @@ description: "The insider's guide to Ashburton's different pockets, streets, and
 date: 2026-03-21
 suburb: "ashburton"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Nadia Keane"
 keywords:
   - "Ashburton neighbourhood guide"
   - "best streets in Ashburton"
   - "Ashburton areas"
   - "Ashburton pockets Melbourne"
+tags:
+  - "ashburton"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Ashburton isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

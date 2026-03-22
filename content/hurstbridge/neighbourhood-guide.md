@@ -4,13 +4,18 @@ description: "The insider's guide to Hurstbridge's different pockets, streets, a
 date: 2026-03-21
 suburb: "hurstbridge"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Hurstbridge neighbourhood guide"
   - "best streets in Hurstbridge"
   - "Hurstbridge areas"
   - "Hurstbridge pockets Melbourne"
+tags:
+  - "hurstbridge"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hurstbridge isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

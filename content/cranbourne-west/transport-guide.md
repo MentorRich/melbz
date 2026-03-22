@@ -4,15 +4,22 @@ description: "Public transport in Cranbourne West: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Cranbourne West Melbourne"
   - "commute from Cranbourne West to city"
   - "Cranbourne West train station"
+tags:
+  - "cranbourne-west"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Cranbourne West — what works, what's annoying, and how long things actually take.
+Cranbourne West transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Cranbourne West suburb guide](/cranbourne-west/) for the complete picture.
 

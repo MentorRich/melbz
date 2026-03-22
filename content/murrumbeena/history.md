@@ -4,16 +4,22 @@ description: "The story of Murrumbeena: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "murrumbeena"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Murrumbeena Melbourne history"
   - "how has Murrumbeena changed"
   - "Murrumbeena gentrification"
   - "Murrumbeena then and now"
+tags:
+  - "murrumbeena"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Murrumbeena's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Murrumbeena means understanding where it came from. The history explains the character.
 
 See our full [Murrumbeena suburb guide](/murrumbeena/) for the current picture.
 

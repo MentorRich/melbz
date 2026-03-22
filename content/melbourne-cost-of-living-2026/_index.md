@@ -3,13 +3,13 @@ title: "Melbourne Cost of Living 2026 — What Everything Actually Costs"
 description: "From rent to coffee to groceries — the real cost of living in Melbourne right now. No sugar-coating."
 date: 2026-03-21
 article_type: "trending"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "melbourne cost of living 2026"
   - "how expensive is melbourne"
   - "cost of living australia melbourne"
   - "melbourne expenses"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 From rent to coffee to groceries — the real cost of living in Melbourne right now. No sugar-coating.

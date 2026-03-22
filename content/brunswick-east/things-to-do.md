@@ -1,71 +1,69 @@
 ---
-title: "Things to Do in Brunswick East Melbourne"
-description: "What to do in Brunswick East this weekend and beyond. Activities, events, and the stuff locals actually enjoy."
-date: 2026-03-21
+title: "Things to Do in Brunswick East 2026: Lygon Street, CERES and the Creek"
+description: "What to do in Brunswick East — CERES Community Park, Merri Creek Trail cycling, Lygon Street food crawls, and Howler live music."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
+cover_image: "/images/shared/things-to-do.jpg"
+cover_image_alt: "People at CERES Community Environment Park in Brunswick East"
 suburb: "brunswick-east"
-article_type: "activities"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-keywords:
-  - "things to do Brunswick East"
-  - "Brunswick East activities"
-  - "what to do in Brunswick East"
-  - "Brunswick East weekend plans"
+tags: ["brunswick-east", "things-to-do", "inner-north"]
 ---
 
-
-## What Is There to Do in Brunswick East?
-
-More than you think. Lygon Street's hipster end meets Merri Creek trails. Quieter than Brunswick, just as interesting. That energy translates into things to do on any day of the week, rain or shine.
+Brunswick East has more going on than people give it credit for.
 
 ## Outdoor Activities
 
-**Parks and Green Spaces** — Brunswick East has parks that locals use daily, not just on weekends. Morning walks, afternoon picnics, weekend sport. The parks here are genuine community spaces.
+**Merri Creek Trail** — The standout. Sealed path along the eastern edge for walking, running, and cycling. Connects to [Northcote](/northcote/), [Coburg](/coburg/), and the CBD.
 
-**Walking and Cycling** — The suburb and surrounds have paths for both. From casual strolls to proper exercise routes, you can get your steps in without leaving the neighbourhood.
+**CERES Community Environment Park** (Roberts Street) — Community gardens, organic market, education programs, nature play areas, and a cafe. One of Melbourne's most important urban sustainability centres.
 
-**Weekend Sport** — Cricket in summer, footy in winter, and year-round fitness groups in the parks. Brunswick East's sports community is active and welcoming to newcomers.
+**Fleming Park** — Local park with playground and open green space.
 
 ## Food and Drink Experiences
 
-**Cafe Hopping** — Melbourne's favourite pastime works brilliantly in Brunswick East. Start at one end of the main strip and work your way through.
+**The Lygon Street Food Crawl** — Start at Albert Street, walk north. Core Roasters for coffee, Bellboy for brunch, Addis Abeba for Ethiopian, and Etta for dinner. Budget: under $80 for a full day of exceptional eating.
 
-**Market Days** — Local markets (when they run) are worth circling on the calendar. Fresh produce, artisan food, and community atmosphere.
-
-**Restaurant Discovery** — Trying somewhere new each week is easy in Brunswick East with the variety of options.
+**CERES Saturday Market** — Organic produce, local makers, and community atmosphere. One of Melbourne's best farmers markets.
 
 ## Culture and Creative
 
-**Galleries and Art Spaces** — Depending on Brunswick East's creative scene, there are spaces exhibiting local artists and hosting events.
+**Howler** (7-11 Dawson Street) — Live music venue, bar, and beer garden in a converted warehouse. Gigs several nights a week across genres.
 
-**Live Music** — Pubs and bars that book live acts give the suburb its soundtrack. Check what's on this week — there's usually something.
+**Brunswick East Library** — Community programs, quiet workspace, kids' activities.
 
-**Community Events** — Council events, neighbourhood festivals, seasonal celebrations. These are the things that turn residents into a community.
+## FAQ
 
-## Family-Friendly Activities
+**What's the best thing to do in Brunswick East?**
+CERES on a Saturday morning, the Merri Creek Trail any morning, and Howler on a Friday night.
 
-- **Playgrounds** — Well-maintained options within walking distance
-- **Library programs** — Kids' readings, holiday activities, community workshops
-- **Swimming** — Pool access either locally or within a short drive
-- **Nature walks** — Paths suitable for prams and small legs
+**Is there live music in Brunswick East?**
+Yes — Howler is one of Melbourne's best small live music venues. The Lomond Hotel also hosts occasional live acts.
 
-## Rainy Day Options
+## The Verdict
 
-Melbourne weather means you need indoor plans. Brunswick East has:
-- **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
-- **Library** — Free WiFi, quiet space, community hub
-- **Shopping** — Browse the local shops, especially the independent ones,
-
-## Free Things to Do
-
-1. Walk through the parks and garden areas
-2. Browse local galleries on free entry days
-3. People-watch from a bench on the main strip
-4. Explore the neighbourhood streets — the architecture tells stories
-5. Join a free community fitness group
-6. Visit the library for events, books, and quiet time
+Brunswick East's activities are anchored by three assets: the Merri Creek Trail for nature, CERES for community and sustainability, and Lygon Street for food and bars. Add Howler's live music and you've got a suburb that keeps weekends interesting.
 
 ---
 
-**More on Brunswick East:** [Brunswick East Suburb Guide](/brunswick-east/) · [Brunswick East Best Cafes](/brunswick-east/best-cafes/) · [Brunswick East Neighbourhood Guide](/brunswick-east/neighbourhood-guide/)
+**More Brunswick East:** [Brunswick East Weekend Guide](/brunswick-east/things-to-do-this-weekend/) · [Brunswick East Best Cafes](/brunswick-east/best-[cafes](/brunswick-east/best-cafes/)/) · [Brunswick East Suburb Guide](/brunswick-east/)
+
+---
+
+## Explore More of Brunswick East
+
+- [Brunswick East History](/brunswick-east/history/)
+- [Brunswick East Things To Do This Weekend](/brunswick-east/things-to-do-this-weekend/)
+- [Brunswick East Cheap Eats](/brunswick-east/cheap-eats/)
+- [Brunswick East Rent Guide](/brunswick-east/rent-guide/)
+- [Brunswick East Date Night Guide](/brunswick-east/date-night/)
+- [Brunswick East New Openings](/brunswick-east/new-openings/)
+- [Brunswick East Rent Report](/brunswick-east/rent-report/)
+- [Brunswick East Cost of Living](/brunswick-east/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

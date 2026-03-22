@@ -4,13 +4,18 @@ description: "The insider's guide to Endeavour Hills's different pockets, street
 date: 2026-03-21
 suburb: "endeavour-hills"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Endeavour Hills neighbourhood guide"
   - "best streets in Endeavour Hills"
   - "Endeavour Hills areas"
   - "Endeavour Hills pockets Melbourne"
+tags:
+  - "endeavour-hills"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Endeavour Hills isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

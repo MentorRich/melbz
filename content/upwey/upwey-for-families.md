@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Upwey? Parks, schools, safety, and the
 date: 2026-03-21
 suburb: "upwey"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Upwey good for families"
   - "Upwey family friendly"
   - "raising kids in Upwey"
+tags:
+  - "upwey"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Upwey with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

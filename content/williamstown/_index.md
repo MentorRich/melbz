@@ -1,16 +1,16 @@
 ---
-title: "Williamstown Melbourne — Everything You Need to Know"
+title: "Williamstown Melbourne — what you need"
 description: "The complete guide to Williamstown. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "williamstown"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Williamstown Melbourne"
   - "what is Williamstown like"
   - "williamstown suburb"
   - "living in Williamstown"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Historic maritime village — Nelson Place restaurants, Williamstown Beach, and ferry views of the city.

@@ -4,16 +4,22 @@ description: "How expensive is Caulfield North? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "caulfield-north"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Caulfield North Melbourne"
   - "how expensive is Caulfield North"
   - "is Caulfield North expensive to live in"
   - "Caulfield North rent"
+tags:
+  - "caulfield-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Caulfield North — no sugar-coating, no made-up figures.
+Your monthly burn rate in Caulfield North depends on a few key factors. Here is an honest accounting.
 
 Read our full [Caulfield North suburb guide](/caulfield-north/) for the bigger picture.
 

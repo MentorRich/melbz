@@ -4,16 +4,22 @@ description: "The story of Springvale South: from its origins to today. How this
 date: 2026-03-21
 suburb: "springvale-south"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Springvale South Melbourne history"
   - "how has Springvale South changed"
   - "Springvale South gentrification"
   - "Springvale South then and now"
+tags:
+  - "springvale-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Springvale South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Springvale South comes from a local landmark. But the real story is what happened after the suburb was named.
 
 See our full [Springvale South suburb guide](/springvale-south/) for the current picture.
 

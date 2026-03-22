@@ -4,13 +4,18 @@ description: "The insider's guide to Craigieburn's different pockets, streets, a
 date: 2026-03-21
 suburb: "craigieburn"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Craigieburn neighbourhood guide"
   - "best streets in Craigieburn"
   - "Craigieburn areas"
   - "Craigieburn pockets Melbourne"
+tags:
+  - "craigieburn"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Craigieburn isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

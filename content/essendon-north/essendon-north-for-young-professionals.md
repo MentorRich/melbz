@@ -4,12 +4,18 @@ description: "Is Essendon North a good suburb for young professionals? Social sc
 date: 2026-03-21
 suburb: "essendon-north"
 article_type: "young-professionals"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Essendon North young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Essendon North"
+tags:
+  - "essendon-north"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Essendon North as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

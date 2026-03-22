@@ -4,15 +4,22 @@ description: "Public transport in Bonbeach: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "bonbeach"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Bonbeach Melbourne"
   - "commute from Bonbeach to city"
   - "Bonbeach train station"
+tags:
+  - "bonbeach"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Bonbeach — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Bonbeach transport links. Here is the reality.
 
 Check out our full [Bonbeach suburb guide](/bonbeach/) for the complete picture.
 

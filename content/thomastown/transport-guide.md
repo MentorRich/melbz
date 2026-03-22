@@ -4,15 +4,22 @@ description: "Public transport in Thomastown: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "thomastown"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Thomastown Melbourne"
   - "commute from Thomastown to city"
   - "Thomastown train station"
+tags:
+  - "thomastown"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Thomastown — what works, what's annoying, and how long things actually take.
+Thomastown transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Thomastown suburb guide](/thomastown/) for the complete picture.
 

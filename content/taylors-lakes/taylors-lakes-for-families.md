@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Taylors Lakes? Parks, schools, safety,
 date: 2026-03-21
 suburb: "taylors-lakes"
 article_type: "families"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "is Taylors Lakes good for families"
   - "Taylors Lakes family friendly"
   - "raising kids in Taylors Lakes"
+tags:
+  - "taylors-lakes"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Taylors Lakes with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

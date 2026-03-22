@@ -3,14 +3,13 @@ title: "Cost of Living in Hampton 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "hampton"
 suburbs: ["hampton"]
 vertical: property
 tags: ["hampton", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Hampton in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/3949033/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Hampton Melbourne cost of living"
 vibe_score: 78
 ---
@@ -36,7 +35,7 @@ This is where most of your money goes. Hampton's rental market in 2026 looks lik
 |---------|-------------|-------|
 | Rent (1-bed) | $1819 | Biggest line item by far |
 | Groceries | $320-$420 | Depends on Coles vs local market habits |
-| Transport (Myki) | $160-$200 | Zone 1-2 monthly cap |
+| [Transport](/hampton/transport-guide/) (Myki) | $160-$200 | Zone 1-2 monthly cap |
 | Utilities (1-bed) | $180-$240 | Gas + electricity + water |
 | Internet | $70-$90 | NBN, decent speed |
 | Coffee habit | $80-$120 | 1-2 per day at local prices |
@@ -50,7 +49,7 @@ This is where most of your money goes. Hampton's rental market in 2026 looks lik
 
 **Eating out:** The average meal out in Hampton runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/hampton/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Hampton, you're on the Zone 1/2 border, so check the exact station — it can make a $5/day difference. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Hampton, you're on the Zone 1/2 border, so check the exact station — it can make a $5/day difference. An annual Myki pass is the smart move if you [commute](/hampton/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,24 @@ For more context on how this compares, check our [Living in Hampton guide](/hamp
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Hampton
+
+- [Hampton History](/hampton/history/)
+- [Hampton Rent Guide](/hampton/rent-guide/)
+- [Hampton Things To Do](/hampton/things-to-do/)
+- [Hampton Young Professionals Guide](/hampton/young-professionals/)
+- [Hampton Transport Guide](/hampton/transport-guide/)
+- [Hampton Best Cafes](/hampton/best-cafes/)
+- [Hampton Best Restaurants](/hampton/best-restaurants/)
+- [Hampton Weekend Guide](/hampton/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

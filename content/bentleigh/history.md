@@ -4,16 +4,22 @@ description: "The story of Bentleigh: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "bentleigh"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Bentleigh Melbourne history"
   - "how has Bentleigh changed"
   - "Bentleigh gentrification"
   - "Bentleigh then and now"
+tags:
+  - "bentleigh"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Bentleigh's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Bentleigh is a story of cultural diversity.
 
 See our full [Bentleigh suburb guide](/bentleigh/) for the current picture.
 

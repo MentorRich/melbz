@@ -1,16 +1,16 @@
 ---
-title: "Studley Park Melbourne — Everything You Need to Know"
+title: "Studley Park Melbourne — what you need"
 description: "The complete guide to Studley Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "studley-park"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Studley Park Melbourne"
   - "what is Studley Park like"
   - "studley-park suburb"
   - "living in Studley Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Yarra Bend parkland pocket with stunning river views and heritage homes.

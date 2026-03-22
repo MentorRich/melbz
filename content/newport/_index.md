@@ -1,16 +1,16 @@
 ---
-title: "Newport Melbourne — Everything You Need to Know"
+title: "Newport Melbourne — what you need"
 description: "The complete guide to Newport. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "newport"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Newport Melbourne"
   - "what is Newport like"
   - "newport suburb"
   - "living in Newport"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mason Street shops, express trains to the city, and a growing cafe scene rivalling Yarraville.

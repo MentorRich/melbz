@@ -4,12 +4,16 @@ description: "Considering retirement in Wyndham Vale? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "wyndham-vale"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Wyndham Vale retirees Melbourne"
   - "retiring in Wyndham Vale"
   - "quiet suburbs Melbourne"
+tags:
+  - "wyndham-vale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Wyndham Vale? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

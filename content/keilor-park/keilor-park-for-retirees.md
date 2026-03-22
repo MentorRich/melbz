@@ -4,12 +4,16 @@ description: "Considering retirement in Keilor Park? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "keilor-park"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Keilor Park retirees Melbourne"
   - "retiring in Keilor Park"
   - "quiet suburbs Melbourne"
+tags:
+  - "keilor-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Keilor Park? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,16 +4,22 @@ description: "How expensive is Wheelers Hill? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "wheelers-hill"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Wheelers Hill Melbourne"
   - "how expensive is Wheelers Hill"
   - "is Wheelers Hill expensive to live in"
   - "Wheelers Hill rent"
+tags:
+  - "wheelers-hill"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Wheelers Hill — no sugar-coating, no made-up figures.
+The cost of living in Wheelers Hill surprises some people. Whether that is a good or bad surprise depends on your budget.
 
 Read our full [Wheelers Hill suburb guide](/wheelers-hill/) for the bigger picture.
 

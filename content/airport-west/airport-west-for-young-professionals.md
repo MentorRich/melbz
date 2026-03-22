@@ -4,12 +4,18 @@ description: "Is Airport West a good suburb for young professionals? Social scen
 date: 2026-03-21
 suburb: "airport-west"
 article_type: "young-professionals"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Airport West young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Airport West"
+tags:
+  - "airport-west"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Airport West as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

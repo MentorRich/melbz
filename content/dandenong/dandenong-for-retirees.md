@@ -4,12 +4,16 @@ description: "Considering retirement in Dandenong? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "dandenong"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Dandenong retirees Melbourne"
   - "retiring in Dandenong"
   - "quiet suburbs Melbourne"
+tags:
+  - "dandenong"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Dandenong? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

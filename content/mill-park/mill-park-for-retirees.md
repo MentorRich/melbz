@@ -4,12 +4,16 @@ description: "Considering retirement in Mill Park? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "mill-park"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Mill Park retirees Melbourne"
   - "retiring in Mill Park"
   - "quiet suburbs Melbourne"
+tags:
+  - "mill-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Mill Park? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

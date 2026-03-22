@@ -1,17 +1,16 @@
 ---
 title: "Best Brunch in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-brunch.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best brunch in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually eat on weekends — from classic eggs to things you won't find anywhere else."
 tags: ["melbourne"]
 categories: ["best"]
+---
+
 # Best Brunch in Melbourne — 2026 Guide
 
 Melbourne takes brunch more seriously than most cities take anything. It's not just a meal here — it's a weekend ritual, a social event, and for many Melburnians, the reason Saturday mornings exist. The city's brunch scene has evolved far beyond eggs benedict and orange juice, and in 2026, the range is genuinely staggering: you can get a $15 plate of shakshuka from a Middle Eastern kitchen, a $35 degustation-style brunch from a fine dining offshoot, or something in between that'll keep you going through a long Saturday without requiring a second mortgage.
@@ -204,10 +203,9 @@ If budget is tight, hit the cafes early: many offer discounted coffee before 8am
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Fitzroy](/fitzroy/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

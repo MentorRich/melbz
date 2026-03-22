@@ -1,16 +1,16 @@
 ---
-title: "Mernda Melbourne — Everything You Need to Know"
+title: "Mernda Melbourne — what you need"
 description: "The complete guide to Mernda. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mernda"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Mernda Melbourne"
   - "what is Mernda like"
   - "mernda suburb"
   - "living in Mernda"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 New train station, master-planned estates, and Melbourne's northern growth frontier.

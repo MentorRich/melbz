@@ -4,13 +4,18 @@ description: "The insider's guide to Hoppers Crossing's different pockets, stree
 date: 2026-03-21
 suburb: "hoppers-crossing"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Hoppers Crossing neighbourhood guide"
   - "best streets in Hoppers Crossing"
   - "Hoppers Crossing areas"
   - "Hoppers Crossing pockets Melbourne"
+tags:
+  - "hoppers-crossing"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hoppers Crossing isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

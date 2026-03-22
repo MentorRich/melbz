@@ -1,138 +1,107 @@
 ---
-title: "Best Coffee in Collingwood — 2026 Local Guide"
+title: "Best Coffee in Collingwood Melbourne 2026"
+description: "The best coffee spots in Collingwood for 2026. From Proud Mary's global ranking to pour-over specialists and Italian espresso bars on Smith Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reeves"
 cover_image: "/images/collingwood/best-coffee.jpg"
+cover_image_alt: "Collingwood Melbourne coffee shop scene"
+suburb: "collingwood"
+tags: ["melbourne", "collingwood", "coffee"]
 ---
 
-suburb: "collingwood"
-vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "The 8 best coffee spots in Collingwood for 2026 — from world-ranked roasters to hole-in-the-wall legends on Smith Street."
-tags: ["collingwood"]
-categories: ["general"]
-# Best Coffee in Collingwood — 8 Spots Worth Walking For (2026)
+# Best Coffee in Collingwood — Where to Get Your Fix in 2026
 
-Collingwood doesn't just drink coffee — it evangelises it. This is the suburb where Proud Mary ranked 27th in the world's top 100 coffee shops for 2026, where roasters set up shop in former warehouses because the rent's cheaper than Fitzroy and the industrial ceilings look better on Instagram. If you're hunting Melbourne's best flat white, you'll find more of them per square kilometre here than almost anywhere else in the city. The catch? You'll queue on weekends. Worth it.
+Collingwood has more serious coffee per square kilometre than most suburbs know what to do with. Proud Mary placed 27th on the World's 100 Best Coffee Shops list for 2026. Aunty Peg's runs a pour-over-only operation that refuses to serve milk. And the Italian espresso bars on Smith Street still pour a proper macchiato without any ceremony. The suburb sits east of [Fitzroy](/fitzroy/) and shares Smith Street's coffee culture, but the best spots tend to sit one block off the main strip — on Nelson Street, Wellington Street, and the quieter residential blocks where roasters have claimed old warehouse spaces.
 
-**Last updated: 17 March 2026** | **Collingwood Vibe Score: 83/100 ⚡️**
+Here are the spots that justify Collingwood's coffee reputation.
 
+## 1. Proud Mary — 27th in the World
 
-## 1. Proud Mary — The One That Made the World List
+Proud Mary on Nelson Street has been Collingwood's flagship since 2009, and the 2026 ranking cements it. The warehouse space is big and communal — long tables, high ceilings, and a coffee bar where you can watch pour-overs like theatre. They roast in-house through their Collective Coffee Roasters operation and rotate single-origin options regularly. The flat white is exceptional, but the single-origin filter is where the real depth sits. The brunch menu is equally serious, so you can make a full morning of it.
 
-**The vibe:** A packed on weekends warehouse on Nelson Street that feels like walking into a coffee convention. The tables are communal, the menu is enormous, and the baristas move with the kind of precision you'd expect from somewhere that just placed 27th in the World's 100 Best Coffee Shops 2026.
-
-Proud Mary has been Collingwood's flagship cafe since 2009, and it's only gotten more ambitious. The all-day brunch menu is genuinely massive — we're talking everything from house-cured salmon to a Full Breakfast board that could feed a family of four. But the coffee is the main event. They roast in-house, offer a rotating single-origin menu, and if you sit at the bar you can watch the pour-over ritual like it's theatre.
-
-**Order this:** The Full Breakfast board ($32) and a single-origin flat white ($5)
 **Address:** 60 Nelson Street, Collingwood VIC 3066
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
-**Insider tip:** Skip the weekend queue by arriving before 8:30am on Saturday. Weekdays are fine anytime — the room doesn't peak until 9:15am.
+**What to order:** Single-origin flat white ($5) or a pour-over from the rotating menu
 
+## 2. Aunty Peg's — Pour-Over, No Milk, No Discussion
 
-## 2. Aunty Peg's — The Purist's Temple
+Aunty Peg's on Wellington Street is Proud Mary's sister venue, stripped back to essentials. Fifteen seats, bare concrete, white walls, and black coffee only. No lattes, no cappuccinos, no oat milk — just pour-over from beans roasted through their Collective Roasting Solutions operation. The baristas walk you through each origin on the grinder, and the three-cup flight lets you taste differences side by side. If you drink your coffee black and want to understand why, this is the room.
 
-**The vibe:** White walls, bare concrete, and coffee served without milk — because when the beans are this good, milk is just noise. Aunty Peg's is the sister venue of Proud Mary, but where PM goes big, Aunty Peg's goes deep. This is a pour-over-only space. No lattes. No cappuccinos. Just black coffee, done properly, with beans from their own Collective Roasting Solutions operation.
-
-It's tiny — maybe 15 seats — and the baristas will walk you through whatever single-origin is on the grinder that day. Think of it as a coffee classroom where you're the student and the test is simply paying attention.
-
-**Order this:** The pour-over flight ($14) — three different origins side by side
 **Address:** 200 Wellington Street, Collingwood VIC 3066
 **Hours:** Mon–Fri 7:30am–2:30pm, Sat 8am–2:30pm
-**Insider tip:** They sometimes run cupping sessions on weekday mornings. Ask at the counter — it's free if you're buying a coffee.
+**What to order:** The pour-over flight ($14) — three different origins
 
+## 3. Alimentari Delicatessen & Cafe — Italian Espresso Done Right
 
-## 3. Acoffee — The Minimalists
+Alimentari on Smith Street doesn't chase coffee trends. The espresso is Italian-style: short, strong, extracted fast, and served without fanfare. The barista knows the regulars by name, the cornetti are still warm at 8am, and the deli shelves behind you are stacked with imported olive oils and tinned fish. This is the morning ritual cafe — the place you visit five days a week because the macchiato is always the same and the pastry is always fresh. No pour-over flights, no tasting notes printed on the receipt. Just good coffee.
 
-**The vibe:** Acoffee is what happens when an architect and a coffee nerd have a baby. The Collingwood original is a stark, beautiful space on Peel Street where the fit-out is as considered as the extraction times. Bare white walls, one coffee on the menu at a time, and zero fuss. They just opened a second location in the CBD at Hyde Melbourne Place, but the Peel Street original is where you feel the philosophy.
-
-They rotate through a single coffee at any given time — you don't choose the bean, you trust the bean. It sounds prescriptive, but it works. Every cup is dialed in to perfection because they're not splitting attention across twelve different options.
-
-**Order this:** Whatever's on. It's $5. Trust them.
-**Address:** 35 Peel Street, Collingwood VIC 3066
-**Hours:** Mon–Fri 7:30am–3pm, Sat 8am–3pm
-**Insider tip:** There's no food menu to speak of. Eat before you come. This is a coffee-only visit and it's better that way.
-
-
-## 4. Terror Twilight — The Corner Plot That Does Everything Right
-
-**The vibe:** Named after a Pavement album (yes, the 90s indie band), Terror Twilight occupies a sunlit corner on Johnston Street where Collingwood starts bleeding into Abbotsford. The space is bright, the crowd is mixed — young families next to tradies next to freelancers on their third oat latte — and the food menu is legitimately excellent, not just an afterthought to the coffee.
-
-The zucchini fritters are famous for good reason. So are the poached eggs, which arrive with the kind of precision that suggests someone in that kitchen actually cares about yolk consistency. The coffee is solid — not single-origin-obsessed like Aunty Peg's, but consistently good and well-priced.
-
-**Order this:** Zucchini fritters with poached eggs and house relish ($19) and a latte ($5)
-**Address:** 55 Johnston Street, Collingwood VIC 3066
-**Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
-**Insider tip:** The corner table by the window is prime real estate on Saturday mornings. Get there by 9am or accept a wait. Also — if you're walking from Fitzroy, it's a 5-minute stroll down Johnston Street.
-
-
-## 5. Secondipity Roasters — The Under-the-Radar Pick
-
-**The vibe:** Secondipity is the cafe that locals recommend when they're tired of recommending Proud Mary. Tucked away from the main strips, it's a small roastery-cafe where the beans are roasted on-site and the menu is tight. The vibe is low-key — no queues, no Instagram crowds, just good coffee and a short, sharp food menu that takes no shortcuts.
-
-The space has that proper Collingwood industrial feel — exposed brick, steel beams, a concrete floor that's seen decades of use — but it's warmed up with good lighting and a genuinely friendly team who remember regulars.
-
-**Order this:** The brekkie roll ($14) and a long black ($4.50)
-**Address:** 71 Gipps Street, Collingwood VIC 3066
-**Hours:** Mon–Fri 7am–2:30pm, Sat 8am–2pm
-**Insider tip:** They sell retail bags of their house blends and single origins at the counter. The Ethiopian natural is exceptional — buy a bag and thank me later.
-
-
-## 6. Admiral Cheng-Ho — The Six-Grinder Monster
-
-**The vibe:** Admiral Cheng-Ho sits right at the Johnston Street entrance to Collingwood and boasts a frankly absurd six-coffee-grinder setup at the front counter. This is a Disciple Roasters outpost — the same crew behind Monk's various Melbourne spots — and they take their coffee seriously enough to justify the hardware. The cafe is spacious, colourful, and has a slightly chaotic energy that somehow works.
-
-The food menu leans into indulgent brunch territory — think thick-cut toast, house-made granola, and eggs done every conceivable way. But the coffee is the anchor. You can taste the difference between the six grinders, which is either a blessing or a dangerous enabler for your caffeine addiction.
-
-**Order this:** The big breakfast ($24) and a batch brew from whichever grinder catches your eye ($4.50)
-**Address:** 304 Johnston Street, Collingwood VIC 3066
-**Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
-**Insider tip:** If you're coming from the city, it's the last stop before the Abbotsford border. Park on the Abbotsford side of Hoddle Street and walk 2 minutes — parking's way easier.
-
-
-## 7. Alimentari Delicatessen & Cafe — The Italian Job
-
-**The vibe:** Alimentari is part deli, part cafe, part Italian grandmother's pantry. The Smith Street location is perpetually busy — people popping in for a quick espresso at the bar, others settling in for a proper breakfast with house-made pastries and the kind of panini that make you understand why Italians are so passionate about bread. The shelves are stacked with imported goods: olive oils, tinned fish, pasta, and cheeses you won't find at Coles.
-
-The coffee is classic Italian-style — short, strong, no-nonsense. It's not third-wave single-origin territory, and it doesn't try to be. This is a morning ritual cafe, the sort of place where the barista knows the regulars by name and the cornetti are still warm at 8am.
-
-**Order this:** A cornetto with ricotta ($6) and a macchiato ($4)
 **Address:** 302 Smith Street, Collingwood VIC 3066
 **Hours:** Mon–Sat 7:30am–4pm, Sun 8am–3pm
-**Insider tip:** The take-home pasta and sauces are genuinely excellent for weeknight dinners. The 'nduja ($12) is dangerously addictive. Not a coffee tip, but sometimes you need to hear it.
+**What to order:** A macchiato ($4) and a cornetto with ricotta ($6)
 
+## 4. Terror Twilight — The Reliable All-Rounder
 
-## 8. Addict Food & Coffee — The Quiet Achiever
+Terror Twilight on the corner of Johnston Street doesn't obsess over coffee the way Proud Mary and Aunty Peg's do, but it does it well. The flat white is properly extracted, well-priced, and consistent across every visit. The real strength here is the full cafe experience: sunny corner position, a food menu that stars the zucchini fritters, and a crowd that's genuinely mixed — families, tradies, freelancers. You come for the coffee and stay because the room feels right. The corner window table is prime real estate on Saturday mornings.
 
-**The vibe:** Addict is the cafe that keeps winning awards without ever making a fuss about it. The food is consistently excellent — creative brunch dishes that go beyond the standard smashed avo — and the coffee program is equally polished. The space on Faraday Street is small and minimalist, with a few outdoor tables that catch the morning sun perfectly.
+**Address:** 55 Johnston Street, Collingwood VIC 3066
+**Hours:** Mon–Fri 7:30am–3pm, Sat–Sun 8am–3:30pm
+**What to order:** A latte ($5) and the zucchini fritters ($19)
 
-What sets Addict apart is consistency. Visit once and it's good. Visit five times and it's still good, every single time. That's rarer than you'd think in a suburb with this many cafes competing for attention.
+## 5. Lune Croissanterie — The Coffee You Didn't Plan On
 
-**Order this:** The French toast with seasonal fruit ($21) and a piccolo ($4.50)
-**Address:** 106 Faraday Street, Collingwood VIC 3066
-**Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
-**Insider tip:** Faraday Street is one block off Lygon Street — but the Collingwood Lygon Street, not the Carlton one. Less touristy, more local. If you're combining visits, Terror Twilight is a 10-minute walk east.
+Lune on Rose Street draws crowds for the pastries, but the coffee counter has quietly become a solid stop in its own right. The espresso is clean and well-extracted, served to complement the croissants rather than compete with them. The twice-baked almond croissant paired with a long black is one of the better morning combinations in the suburb. The cafe sits right on the Collingwood-Fitzroy border, and the glass-walled kitchen lets you watch the pastry production while you wait.
 
+**Address:** 119 Rose Street, Collingwood VIC 3066
+**Hours:** Tue–Sat from 7:30am (until sold out)
+**What to order:** A long black ($4.50) and the twice-baked almond croissant
 
-## The Bottom Line
+## 6. Stomping Ground — Coffee at the Brewery
 
-Collingwood's coffee scene in 2026 is world-class, and we're not just saying that — Proud Mary literally made the world's top 30 this year. If you only visit one spot, make it Proud Mary for the full experience. But honestly, the real magic is in the variety: minimalist pour-overs at Aunty Peg's, Italian corner cafe vibes at Alimentari, and six-grinder chaos at Admiral Cheng-Ho. No two Collingwood coffee experiences are the same, and that's exactly the point.
+Stomping Ground on Gipps Street is a brewery first, but the morning coffee program serves the neighbourhood before the taps open. The warehouse space is large enough that a morning flat white feels relaxed rather than hectic, and the Gipps Street location is quieter than Smith Street. The coffee is good without being specialty-obsessed — a solid flat white from a well-maintained machine. On weekends, this transitions into brunch territory where coffee and beer coexist without judgment.
 
-**Your Collingwood Vibe Score this week: 83/100 ⚡️** — The coffee alone justifies three points.
+**Address:** 100 Gipps Street, Collingwood VIC 3066
+**Hours:** Check website for current cafe hours
+**What to order:** A flat white ($5) in the beer garden before the afternoon crowd arrives
 
+---
 
-*Related reads: [Best Brunch in Collingwood](/suburbs/collingwood/best-brunch) · [Best Cafes in Collingwood](/suburbs/collingwood/best-cafes) · [Fitzroy Coffee Guide](/suburbs/fitzroy/best-coffee) · [Richmond Coffee Scene](/suburbs/richmond/best-coffee)*
+## FAQ
 
-*Know a spot we missed? Let us know.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
+**Where's the best flat white in Collingwood?** Proud Mary on Nelson Street for the specialty version, Alimentari on Smith Street for Italian-style, Terror Twilight on Johnston Street for reliable and well-priced.
 
-## Related Articles
+**Is Collingwood good for specialty coffee?** Very. Proud Mary ranked 27th globally in 2026 and Aunty Peg's is one of Melbourne's few pour-over-only venues. Between those two and the general standard across the suburb, Collingwood sits in Melbourne's top tier for specialty coffee.
 
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+**What if I just want a quick coffee?** Alimentari on Smith Street. In and out in three minutes with a proper macchiato and a warm cornetto. No ceremony, no queue (most mornings), no nonsense.
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**How does Collingwood compare to Fitzroy for coffee?** They share Smith Street and several key roasters, so the standard is comparable. Collingwood's advantage is Proud Mary and Aunty Peg's sitting on quiet side streets rather than on the busy main strip. Fitzroy has more options on [Brunswick](/brunswick/) Street. See the [Fitzroy coffee guide](/fitzroy/best-coffee/) for a direct comparison.
+
+**Can I buy beans to take home?** Proud Mary and Aunty Peg's both sell retail bags from their Collective Roasting Solutions range. Alimentari stocks Italian-import blends. Stomping Ground doesn't roast coffee, but the Gipps Street precinct has other roasters within walking distance.
+
+## Our Verdict
+
+Collingwood's coffee scene runs deeper than most suburbs because it has genuine variety. Proud Mary and Aunty Peg's cover the specialty end with global-level credentials. Alimentari anchors the Italian tradition. Terror Twilight does the neighbourhood cafe thing properly. And Stomping Ground proves that even a brewery can pour a decent flat white when the setting is right. The suburb is small enough to walk between all six in an hour, which means you can find your favourite by trying them all in a single week. For the full cafe and food picture, see our [best [cafes](/collingwood/best-cafes/) in Collingwood](/collingwood/best-cafes/) and [best brunch](/collingwood/best-brunch/) guides. The [Collingwood suburb guide](/collingwood/) has everything else.
+
+---
+
+*Know a spot we missed? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+
+---
+
+## Explore More of Collingwood
+
+- [Collingwood History](/collingwood/history/)
+- [Collingwood Late Night Eats](/collingwood/late-night-eats/)
+- [Collingwood Things To Do This Weekend](/collingwood/things-to-do-this-weekend/)
+- [Collingwood Cheap Eats](/collingwood/cheap-eats/)
+- [Collingwood Rent Guide](/collingwood/rent-guide/)
+- [Collingwood Date Night Guide](/collingwood/date-night/)
+- [Collingwood New Openings](/collingwood/new-openings/)
+- [Collingwood Things To Do](/collingwood/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

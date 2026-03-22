@@ -4,16 +4,22 @@ description: "How expensive is Wantirna? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "wantirna"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Wantirna Melbourne"
   - "how expensive is Wantirna"
   - "is Wantirna expensive to live in"
   - "Wantirna rent"
+tags:
+  - "wantirna"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Wantirna — no sugar-coating, no made-up figures.
+Wantirna sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Wantirna suburb guide](/wantirna/) for the bigger picture.
 

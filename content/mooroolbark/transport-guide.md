@@ -4,15 +4,22 @@ description: "Public transport in Mooroolbark: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "mooroolbark"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Mooroolbark Melbourne"
   - "commute from Mooroolbark to city"
   - "Mooroolbark train station"
+tags:
+  - "mooroolbark"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Mooroolbark — what works, what's annoying, and how long things actually take.
+Mooroolbark sits within cycling distance of the CBD, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Mooroolbark suburb guide](/mooroolbark/) for the complete picture.
 

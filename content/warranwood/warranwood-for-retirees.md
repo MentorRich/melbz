@@ -4,12 +4,16 @@ description: "Considering retirement in Warranwood? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "warranwood"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Warranwood retirees Melbourne"
   - "retiring in Warranwood"
   - "quiet suburbs Melbourne"
+tags:
+  - "warranwood"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Warranwood? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,16 +4,22 @@ description: "How expensive is Box Hill South? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Box Hill South Melbourne"
   - "how expensive is Box Hill South"
   - "is Box Hill South expensive to live in"
   - "Box Hill South rent"
+tags:
+  - "box-hill-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Box Hill South — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Box Hill South actually cost? No vague estimates - real numbers.
 
 Read our full [Box Hill South suburb guide](/box-hill-south/) for the bigger picture.
 

@@ -4,13 +4,19 @@ description: "Raising a dog in Hampton? Off-leash parks, pet-friendly cafes, vet
 date: 2026-03-21
 suburb: "hampton"
 article_type: "lifestyle"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "dog friendly Hampton"
   - "off leash park Hampton"
   - "pet friendly cafes Hampton"
   - "walking dog Hampton"
+tags:
+  - "hampton"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +34,7 @@ Hampton has dedicated off-leash areas where your dog can actually run. The local
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/hampton/best-cafes/)
 
 Multiple cafes in Hampton welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from Hampton, including emergency after-hours 
 ---
 
 **More on Hampton:** [Hampton Suburb Guide](/hampton/) · [Hampton Things to Do](/hampton/things-to-do/) · [Hampton for Families](/hampton/hampton-for-families/)
+
+---
+
+## Explore More of Hampton
+
+- [Hampton History](/hampton/history/)
+- [Hampton Rent Guide](/hampton/rent-guide/)
+- [Hampton Things To Do](/hampton/things-to-do/)
+- [Hampton Cost of Living](/hampton/cost-of-living/)
+- [Hampton Young Professionals Guide](/hampton/young-professionals/)
+- [Hampton Transport Guide](/hampton/transport-guide/)
+- [Hampton Best Cafes](/hampton/best-cafes/)
+- [Hampton Best Restaurants](/hampton/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

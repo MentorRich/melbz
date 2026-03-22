@@ -1,16 +1,16 @@
 ---
-title: "Keilor Downs Melbourne — Everything You Need to Know"
+title: "Keilor Downs Melbourne — what you need"
 description: "The complete guide to Keilor Downs. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Keilor Downs Melbourne"
   - "what is Keilor Downs like"
   - "keilor-downs suburb"
   - "living in Keilor Downs"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Watergardens proximity, established family estates, and multicultural community.

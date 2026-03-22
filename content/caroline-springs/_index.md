@@ -1,16 +1,16 @@
 ---
-title: "Caroline Springs Melbourne — Everything You Need to Know"
+title: "Caroline Springs Melbourne — what you need"
 description: "The complete guide to Caroline Springs. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "caroline-springs"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Caroline Springs Melbourne"
   - "what is Caroline Springs like"
   - "caroline-springs suburb"
   - "living in Caroline Springs"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Lake and town centre development with strong schools and family-focused master planning.

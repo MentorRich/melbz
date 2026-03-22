@@ -1,58 +1,88 @@
 ---
-title: "Best Bars in Southbank Melbourne"
-description: "The bar scene in Southbank: where to drink, what the vibe is, and the local spots worth knowing about."
-date: 2026-03-21
+title: "Best Bars in Southbank — 2026 Local Guide"
+description: "The best bars in Southbank for 2026. Lui Bar at Eureka Tower, Ponyfish Island under the bridge, Hopscotch on Riverside Quay, and the riverside scene."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Tan"
+cover_image: "/images/southbank/best-bars.jpg"
+cover_image_alt: "Riverside bar in Southbank with Melbourne CBD skyline views"
 suburb: "southbank"
-article_type: "nightlife"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-keywords:
-  - "best bars Southbank"
-  - "bars in Southbank Melbourne"
-  - "nightlife Southbank"
-  - "where to drink Southbank"
+tags: ["southbank", "bars", "nightlife", "drinks", "riverside"]
 ---
-
 
 ## The Drinking Scene in Southbank
 
-Southbank has a bar scene that reflects the suburb — straightforward — good pubs, decent bars, and no pretence. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
+Southbank's bar scene is nothing like your average Melbourne suburb. There are no dive bars, no locals-only pubs, no $7 pots. This is Melbourne's premium entertainment district — the drinks are expensive, the views are spectacular, and every venue knows exactly what it's selling: location, location, location.
 
-## Types of Bars in Southbank
+That said, if you accept the Southbank price tag, there are genuinely excellent places to drink here.
 
-**The Local Pub** — Every suburb needs one (or three). Southbank's pubs range from proper old-school locals to renovated versions that keep the character while adding a better tap list.
+## Lui Bar — Level 55, Eureka Tower
 
-**Wine Bars** — Small, intimate, usually with a great by-the-glass selection. The kind of place where the bar staff know what they're pouring and can actually help you choose.
+**Best for:** The view that justifies the cocktail price
 
-**Cocktail Spots** — Not as many as Fitzroy or Collingwood, but Southbank has options that hold their own. Smaller, more personal, and you're not paying CBD prices.
+Lui Bar sits at the top of Eureka Tower on Riverside Quay, and the views are genuinely breathtaking — floor-to-ceiling windows looking out over the entire Melbourne skyline. The cocktail list is sophisticated and well-executed. Expect $25-30 per cocktail. The wine list is extensive. This is where you bring someone you want to impress.
 
-**Beer Gardens** — Weather-dependent but essential for Melbourne summers. Some of Southbank's best drinking happens outdoors when the weather cooperates.
+Book ahead. Dress code applies. Not a casual Friday night spot.
 
-**The All-Rounder** — The bar that works for everything: after-work drinks, catch-ups, first dates, Saturday nights. Reliable, never amazing, always good enough.
+## Ponyfish Island — Under the Pedestrian Bridge
 
-## When to Go
+**Best for:** The most unique bar location in Melbourne
 
-**After work (5-7pm)** — The sweet spot for most Southbank bars. Happy hour-ish, relaxed, locals unwinding.
+Ponyfish Island is literally on a platform underneath the Southgate pedestrian bridge, floating on the Yarra. It's tiny, it's quirky, and the views in both directions — CBD to the north, Arts Centre to the south — are stunning. The drinks list is straightforward (beer, wine, basic cocktails), the prices are reasonable by Southbank standards, and the atmosphere is unlike anywhere else.
 
-**Friday night** — The main strip fills up. Get in by 6pm or expect to wait. The energy is good though.
+Open until 1am. Gets busy on warm evenings — arrive early or accept standing room.
 
-**Saturday** — Peak social time. Bars are full, atmosphere is high, expect queues at popular spots.
+## Hopscotch — Riverside Quay
 
-**Sunday session** — Underrated. Some of Southbank's bars do Sunday sessions that are genuinely great — more relaxed, often live music or DJs, and no Sunday scaries.
+**Best for:** Craft beer with a riverside view
 
-## What Makes Southbank Different
+Hopscotch at 4 Riverside Quay has an extensive craft beer selection and a whisky list that goes deep. The outdoor seating along the river is prime real estate on a warm evening. Food is pub-level (burgers, share plates) but decent. Schooners of local craft run $13-16.
 
-Southbank isn't trying to out-cool the inner-city bar hubs. The bars here work because they serve the locals first — they're places you'd go weekly, not Instagram destinations you visit once.
+## Arbory Afloat — Flinders Walk (Southbank border)
 
-That gives the suburb's bar scene an authenticity that more hyped areas often lack. The vibe is real because the people are regulars, not tourists.
+**Best for:** Floating bar with summer festival vibes
 
-## Tips
+Technically straddling the Southbank/CBD border on the Yarra, Arbory Afloat is a seasonal floating bar with a holiday-resort aesthetic. Tiki-style drinks, share plates, and a vibe that makes you forget you're in the middle of a city. Seasonal — check if it's open before heading down.
 
-1. **Support the neighbourhood bar** — they're the ones that make the suburb
-2. **Try the local brewery tap** — if Southbank has one, it's usually worth a visit
-3. **Weeknights are underrated** — fewer people, better service, same drinks
-4. **Ask the bartender** — they know what's good and what's not worth ordering
+## Crown Entertainment Complex
+
+**Best for:** Late-night options when everything else has closed
+
+Crown houses multiple bars and lounges across its complex on **Clarendon Street** and **Whiteman Street**. The quality varies wildly — from genuinely excellent cocktail bars to generic hotel lounges. The advantage is they stay open later than almost anything else in Southbank.
+
+## FAQ
+
+**What's the best bar in Southbank for a date?**
+Lui Bar at Eureka Tower for the view and cocktails. Ponyfish Island for something unique and conversation-friendly.
+
+**Are Southbank bars expensive?**
+Yes. Expect $13-16 for craft beer, $20-30 for cocktails. You're paying for riverside location and CBD-adjacent convenience.
+
+**What time do Southbank bars close?**
+Most close 12am-1am. Crown venues stay open later. Ponyfish Island runs until 1am.
+
+## The Verdict
+
+Southbank's bar scene is premium, view-driven, and unapologetically expensive. You won't find dive bars or local pubs — that's not what this suburb does. But Lui Bar's skyline views, Ponyfish Island's unique location, and Hopscotch's riverside craft beer selection are genuinely worth the price tag for the right occasion. For everyday drinking, walk across the river to the [CBD](/melbourne-cbd/) or catch tram 96 to [St Kilda](/st-kilda/).
+
+**More on Southbank:** [Southbank Suburb Guide](/southbank/) · [Southbank Nightlife](/southbank/[nightlife](/southbank/nightlife-guide/)-guide/) · [Southbank Best Restaurants](/southbank/best-[restaurants](/southbank/best-restaurants/)/)
 
 ---
 
-**More on Southbank:** [Southbank Suburb Guide](/southbank/) · [Southbank Best Restaurants](/southbank/best-restaurants/) · [Southbank for Young Professionals](/southbank/southbank-for-young-professionals/)
+## Explore More of Southbank
+
+- [Southbank History](/southbank/history/)
+- [Southbank Late Night Eats](/southbank/late-night-eats/)
+- [Southbank Rent Guide](/southbank/rent-guide/)
+- [Southbank Southbank For Retirees](/southbank/southbank-for-retirees/)
+- [Southbank New Openings](/southbank/new-openings/)
+- [Southbank Things To Do](/southbank/things-to-do/)
+- [Southbank Cost of Living](/southbank/cost-of-living/)
+- [Southbank Young Professionals Guide](/southbank/young-professionals/)
+
+### Nearby Suburbs Worth Checking
+
+- [Melbourne CBD Suburb Guide](/melbourne-cbd/)
+- [Docklands Suburb Guide](/docklands/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

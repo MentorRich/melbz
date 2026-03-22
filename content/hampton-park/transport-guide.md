@@ -4,15 +4,22 @@ description: "Public transport in Hampton Park: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "hampton-park"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Hampton Park Melbourne"
   - "commute from Hampton Park to city"
   - "Hampton Park train station"
+tags:
+  - "hampton-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Hampton Park — what works, what's annoying, and how long things actually take.
+Two words define transport in Hampton Park: car-first. Everything else is detail.
 
 Check out our full [Hampton Park suburb guide](/hampton-park/) for the complete picture.
 

@@ -4,16 +4,22 @@ description: "How expensive is Mitcham? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "mitcham"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Mitcham Melbourne"
   - "how expensive is Mitcham"
   - "is Mitcham expensive to live in"
   - "Mitcham rent"
+tags:
+  - "mitcham"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Mitcham — no sugar-coating, no made-up figures.
+The cost question in Mitcham is straightforward: it is cheaper than you would think. Here is what your wallet actually needs to know.
 
 Read our full [Mitcham suburb guide](/mitcham/) for the bigger picture.
 

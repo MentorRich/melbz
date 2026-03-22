@@ -1,16 +1,16 @@
 ---
-title: "Doncaster East Melbourne — Everything You Need to Know"
+title: "Doncaster East Melbourne — what you need"
 description: "The complete guide to Doncaster East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "doncaster-east"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Doncaster East Melbourne"
   - "what is Doncaster East like"
   - "doncaster-east suburb"
   - "living in Doncaster East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 The Pines Shopping Centre, family parks, and a more suburban extension of Doncaster.

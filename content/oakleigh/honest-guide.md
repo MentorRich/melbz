@@ -2,8 +2,7 @@
 title: "Oakleigh Honest Guide 2026: Eaton Mall & The Greek Strip"
 cover_image: "/images/oakleigh/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["oakleigh", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Oakleigh Honest Guide 2026: Eaton Mall & The Greek Strip"
@@ -124,10 +123,9 @@ Get in before the brunch bros do.
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

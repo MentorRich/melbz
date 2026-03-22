@@ -4,13 +4,18 @@ description: "The insider's guide to Murrumbeena's different pockets, streets, a
 date: 2026-03-21
 suburb: "murrumbeena"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Murrumbeena neighbourhood guide"
   - "best streets in Murrumbeena"
   - "Murrumbeena areas"
   - "Murrumbeena pockets Melbourne"
+tags:
+  - "murrumbeena"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Murrumbeena isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

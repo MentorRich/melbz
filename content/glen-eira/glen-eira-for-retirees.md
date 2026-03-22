@@ -4,12 +4,16 @@ description: "Considering retirement in Glen Eira? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "glen-eira"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Glen Eira retirees Melbourne"
   - "retiring in Glen Eira"
   - "quiet suburbs Melbourne"
+tags:
+  - "glen-eira"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Glen Eira? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

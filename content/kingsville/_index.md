@@ -1,16 +1,16 @@
 ---
-title: "Kingsville Melbourne — Everything You Need to Know"
+title: "Kingsville Melbourne — what you need"
 description: "The complete guide to Kingsville. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "kingsville"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Kingsville Melbourne"
   - "what is Kingsville like"
   - "kingsville suburb"
   - "living in Kingsville"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Tiny community between Seddon and Yarraville. Quiet streets and proximity to village life.

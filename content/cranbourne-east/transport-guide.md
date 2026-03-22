@@ -4,15 +4,22 @@ description: "Public transport in Cranbourne East: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Cranbourne East Melbourne"
   - "commute from Cranbourne East to city"
   - "Cranbourne East train station"
+tags:
+  - "cranbourne-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Cranbourne East — what works, what's annoying, and how long things actually take.
+The daily commute from Cranbourne East has a personality all its own. It is reliable but boring.
 
 Check out our full [Cranbourne East suburb guide](/cranbourne-east/) for the complete picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Coburg North Melbourne — Everything You Need to Know"
+title: "Coburg North Melbourne — what you need"
 description: "The complete guide to Coburg North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "coburg-north"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Coburg North Melbourne"
   - "what is Coburg North like"
   - "coburg-north suburb"
   - "living in Coburg North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quieter, more suburban extension of Coburg with bigger blocks and Merri Creek parkland.

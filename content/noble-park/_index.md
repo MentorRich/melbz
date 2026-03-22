@@ -1,16 +1,16 @@
 ---
-title: "Noble Park Melbourne — Everything You Need to Know"
+title: "Noble Park Melbourne — what you need"
 description: "The complete guide to Noble Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "noble-park"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Noble Park Melbourne"
   - "what is Noble Park like"
   - "noble-park suburb"
   - "living in Noble Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Ross Reserve, station upgrade, and a diverse community riding the Dandenong corridor growth.

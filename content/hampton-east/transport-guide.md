@@ -4,15 +4,22 @@ description: "Public transport in Hampton East: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "hampton-east"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Hampton East Melbourne"
   - "commute from Hampton East to city"
   - "Hampton East train station"
+tags:
+  - "hampton-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Hampton East — what works, what's annoying, and how long things actually take.
+Getting around Hampton East comes down to train connections through the loop. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Hampton East suburb guide](/hampton-east/) for the complete picture.
 

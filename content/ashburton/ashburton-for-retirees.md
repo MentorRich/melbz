@@ -4,12 +4,16 @@ description: "Considering retirement in Ashburton? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "ashburton"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Ashburton retirees Melbourne"
   - "retiring in Ashburton"
   - "quiet suburbs Melbourne"
+tags:
+  - "ashburton"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Ashburton? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

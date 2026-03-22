@@ -4,13 +4,18 @@ description: "The insider's guide to Highett's different pockets, streets, and a
 date: 2026-03-21
 suburb: "highett"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Highett neighbourhood guide"
   - "best streets in Highett"
   - "Highett areas"
   - "Highett pockets Melbourne"
+tags:
+  - "highett"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Highett isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

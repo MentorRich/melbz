@@ -4,16 +4,22 @@ description: "The story of Coolaroo: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "coolaroo"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Coolaroo Melbourne history"
   - "how has Coolaroo changed"
   - "Coolaroo gentrification"
   - "Coolaroo then and now"
+tags:
+  - "coolaroo"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Coolaroo's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Coolaroo has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Coolaroo suburb guide](/coolaroo/) for the current picture.
 

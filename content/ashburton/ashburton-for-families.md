@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Ashburton? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "ashburton"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Ashburton good for families"
   - "Ashburton family friendly"
   - "raising kids in Ashburton"
+tags:
+  - "ashburton"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Ashburton with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

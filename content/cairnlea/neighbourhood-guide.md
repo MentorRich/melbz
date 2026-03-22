@@ -4,13 +4,18 @@ description: "The insider's guide to Cairnlea's different pockets, streets, and 
 date: 2026-03-21
 suburb: "cairnlea"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Cairnlea neighbourhood guide"
   - "best streets in Cairnlea"
   - "Cairnlea areas"
   - "Cairnlea pockets Melbourne"
+tags:
+  - "cairnlea"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Cairnlea isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

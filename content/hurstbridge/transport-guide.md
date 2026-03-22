@@ -4,15 +4,22 @@ description: "Public transport in Hurstbridge: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "hurstbridge"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Hurstbridge Melbourne"
   - "commute from Hurstbridge to city"
   - "Hurstbridge train station"
+tags:
+  - "hurstbridge"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Hurstbridge — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Hurstbridge transport links. Here is the reality.
 
 Check out our full [Hurstbridge suburb guide](/hurstbridge/) for the complete picture.
 

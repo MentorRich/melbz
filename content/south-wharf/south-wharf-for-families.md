@@ -4,12 +4,16 @@ description: "Thinking of raising kids in South Wharf? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "south-wharf"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "is South Wharf good for families"
   - "South Wharf family friendly"
   - "raising kids in South Wharf"
+tags:
+  - "south-wharf"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to South Wharf with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

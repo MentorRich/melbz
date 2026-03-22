@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Ashwood? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "ashwood"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Ashwood good for families"
   - "Ashwood family friendly"
   - "raising kids in Ashwood"
+tags:
+  - "ashwood"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Ashwood with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

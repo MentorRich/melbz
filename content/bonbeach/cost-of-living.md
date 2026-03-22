@@ -4,16 +4,22 @@ description: "How expensive is Bonbeach? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "bonbeach"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Bonbeach Melbourne"
   - "how expensive is Bonbeach"
   - "is Bonbeach expensive to live in"
   - "Bonbeach rent"
+tags:
+  - "bonbeach"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Bonbeach — no sugar-coating, no made-up figures.
+The gap between the sticker price of Bonbeach and actual living costs is worth understanding before you move.
 
 Read our full [Bonbeach suburb guide](/bonbeach/) for the bigger picture.
 

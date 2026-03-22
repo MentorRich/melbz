@@ -4,16 +4,22 @@ description: "The story of Seaholme: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "seaholme"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Seaholme Melbourne history"
   - "how has Seaholme changed"
   - "Seaholme gentrification"
   - "Seaholme then and now"
+tags:
+  - "seaholme"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Seaholme's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Seaholme, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Seaholme suburb guide](/seaholme/) for the current picture.
 

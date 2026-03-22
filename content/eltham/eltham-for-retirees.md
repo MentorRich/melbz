@@ -4,12 +4,16 @@ description: "Considering retirement in Eltham? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "eltham"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Eltham retirees Melbourne"
   - "retiring in Eltham"
   - "quiet suburbs Melbourne"
+tags:
+  - "eltham"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Eltham? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

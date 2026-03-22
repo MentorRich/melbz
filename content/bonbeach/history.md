@@ -4,16 +4,22 @@ description: "The story of Bonbeach: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "bonbeach"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Bonbeach Melbourne history"
   - "how has Bonbeach changed"
   - "Bonbeach gentrification"
   - "Bonbeach then and now"
+tags:
+  - "bonbeach"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Bonbeach's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Bonbeach involve community battles over development.
 
 See our full [Bonbeach suburb guide](/bonbeach/) for the current picture.
 

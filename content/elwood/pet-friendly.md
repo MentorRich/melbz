@@ -4,13 +4,19 @@ description: "Raising a dog in Elwood? Off-leash parks, pet-friendly cafes, vet 
 date: 2026-03-21
 suburb: "elwood"
 article_type: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "dog friendly Elwood"
   - "off leash park Elwood"
   - "pet friendly cafes Elwood"
   - "walking dog Elwood"
+tags:
+  - "elwood"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +34,7 @@ Elwood has dedicated off-leash areas where your dog can actually run. The local 
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/elwood/best-cafes/)
 
 Multiple cafes in Elwood welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from Elwood, including emergency after-hours o
 ---
 
 **More on Elwood:** [Elwood Suburb Guide](/elwood/) · [Elwood Things to Do](/elwood/things-to-do/) · [Elwood for Families](/elwood/elwood-for-families/)
+
+---
+
+## Explore More of Elwood
+
+- [Elwood History](/elwood/history/)
+- [Elwood Rent Guide](/elwood/rent-guide/)
+- [Elwood Things To Do](/elwood/things-to-do/)
+- [Elwood Cost of Living](/elwood/cost-of-living/)
+- [Elwood Young Professionals Guide](/elwood/young-professionals/)
+- [Elwood Nightlife Guide](/elwood/nightlife-guide/)
+- [Elwood Transport Guide](/elwood/transport-guide/)
+- [Elwood Best Cafes](/elwood/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

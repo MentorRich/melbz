@@ -4,16 +4,22 @@ description: "How expensive is Studley Park? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "studley-park"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Studley Park Melbourne"
   - "how expensive is Studley Park"
   - "is Studley Park expensive to live in"
   - "Studley Park rent"
+tags:
+  - "studley-park"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Studley Park — no sugar-coating, no made-up figures.
+The cost question in Studley Park is straightforward: it is cheaper than you would think. Here is what your wallet actually needs to know.
 
 Read our full [Studley Park suburb guide](/studley-park/) for the bigger picture.
 

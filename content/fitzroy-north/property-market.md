@@ -1,20 +1,16 @@
 ---
-title: "Fitzroy North Property Market — Buying Guide"
-description: "Thinking of buying in Fitzroy North? What the market looks like, what to expect, and the honest view for buyers."
-date: 2026-03-21
+title: "Fitzroy North Property Market 2026 — Buying Guide"
+description: "Thinking of buying in Fitzroy North? Victorian terraces near Edinburgh Gardens, apartment prices on Brunswick Street, and the honest view for buyers in 2026."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Lin"
+cover_image: "/images/fitzroy-north/property-market.jpg"
+cover_image_alt: "Victorian terrace homes on a Fitzroy North residential street"
 suburb: "fitzroy-north"
-article_type: "property"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
-  - "buying in Fitzroy North"
-  - "Fitzroy North property market"
-  - "Fitzroy North house prices"
-  - "real estate Fitzroy North Melbourne"
+tags: ["fitzroy-north", "property", "buying", "real-estate"]
 ---
 
-
-## The Fitzroy North Property Market — What You Need to Know
+## The [Fitzroy](/fitzroy/) North Property Market — What You Need to Know
 
 Buying in Fitzroy North is a significant financial decision. Here's the reality of the market — not a sales pitch, not doom and gloom, just the facts and context you need to make a smart move.
 
@@ -80,3 +76,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Fitzroy North:** [Fitzroy North Suburb Guide](/fitzroy-north/) · [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/) · [Fitzroy North Neighbourhood Guide](/fitzroy-north/neighbourhood-guide/)
+
+---
+
+## Explore More of Fitzroy North
+
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

@@ -4,16 +4,22 @@ description: "How expensive is Seaholme? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "seaholme"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Seaholme Melbourne"
   - "how expensive is Seaholme"
   - "is Seaholme expensive to live in"
   - "Seaholme rent"
+tags:
+  - "seaholme"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Seaholme — no sugar-coating, no made-up figures.
+If you are weighing up Seaholme against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Seaholme suburb guide](/seaholme/) for the bigger picture.
 

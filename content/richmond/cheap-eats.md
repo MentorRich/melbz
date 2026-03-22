@@ -1,25 +1,16 @@
 ---
 title: "Cheap Eats Under $20 in Richmond 2026: Victoria Street & Beyond"
-cover_image: "/images/richmond/cheap-eats.jpg"
-date: 2026-03-16
-author: priya
-author_image: "/images/authors/priya.jpg"
-tags: ["richmond", "cheap-eats", "food"]
-categories: ["food"]
-description: "Cheap Eats Under $20 in Richmond 2026: Victoria Street & Beyond"
+description: "Six tested cheap eats in Richmond under $20. Victoria Street banh mi, pho, bun bo hue, and Bridge Road's quiet achiever — real prices, real picks."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
+cover_image: "/images/shared/food-restaurants.jpg"
+cover_image_alt: "Richmond Melbourne cheap eats on Victoria Street"
+suburb: "richmond"
+tags: ["melbourne", "richmond", "cheap-eats"]
 ---
 
-**Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
-
-
-
-Richmond has always been M..."
-
-*Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting*
-
-# Cheap Eats Under $20 in Richmond 2026: Victoria Street & Beyond
-
-**Updated 16 March 2026 | 6 places tested | Priya Sandhu reporting**
+*Updated March 2026 | 6 places tested | Priya Sandhu reporting*
 
 Richmond has always been Melbourne's worst-kept secret for budget-friendly eating. Victoria Street — or Little Saigon, as the locals properly call it — remains one of the last pockets of the inner east where a tenner still buys you a genuinely excellent meal. But the strip has shifted in the past year. Some old favourites have tightened portions, a couple of new spots have appeared, and prices have crept up everywhere (thanks, cost of living). So we walked the length of Victoria Street, ducked down Bridge Road, and ate our way through the best cheap eats Richmond has to offer. Every place on this list kept us under twenty bucks.
 
@@ -170,40 +161,25 @@ Prices were verified in March 2026 and may change. Some restaurants adjust seaso
 
 **Priya Sandhu is the Food Editor at MELBZ. She has been eating her way through Melbourne's inner suburbs since 2019 and has strong opinions about bread-to-filling ratios.**
 
-*Have a cheap eat we missed? Tell us on Instagram [@melbz101](https://instagram.com/melbzcomau) or email hq@melbz101.*
+*Have a cheap eat we missed? Tell us on Instagram [@melbz101](https://instagram.com/melbzcomau) or email hq@melbz.com.au.*
 
-### Featured Venues
+## FAQ
 
-- **Minamishima** at 4 Lord St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Etta** at 60 Lygon St, Brunswick East (Richmond satellite location: 305 Lygon St, Richmond VIC 3121)
-- **Top Paddock** at 658 Church St, Richmond VIC 3121
-- **Feast of Merit** at 117 Swan St, Richmond VIC 3121
-- **Mountain View Hotel (Cafe Section)** at 70 Bridge Rd, Richmond VIC 3121
-- **I Love Pho 264** at 264 Victoria St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Feast of Merit** at 314 Swan St, Richmond VIC 3121
-- **Ichi Ni** at 12/131-133 The Esplanade, St Kilda (Richmond border/nearby hub), VIC 3182
+**What's the cheapest meal in Richmond?**
+A banh mi from Nhu Lan Bakery or Phuoc Hung Bakery on Victoria Street starts at $9–$9.50. Add a Vietnamese iced coffee for $4–$4.50 and you're out the door for under $14.
 
-### Key Highlights
+**Is Victoria Street still cheap in 2026?**
+Mostly yes. Prices have crept up — a bowl of pho that was $12 two years ago is now $14–$16.50 — but it remains significantly cheaper than comparable dining in Fitzroy, South Yarra, or the CBD. A full meal for two rarely tops $40 at the traditional restaurants.
 
-- Swan Street dining and live music
-- Bridge Road shopping precinct
-- Melbourne Cricket Ground (MCG)
+**Can I eat well in Richmond on a student budget?**
+Absolutely. Victoria Street was built for it. Stick to the traditional Vietnamese restaurants and bakeries and you can eat three meals a day for under $30. The Asian grocers on the strip also sell fresh produce at 30–50% less than supermarket prices.
 
-### Suburb Vibe
+## The Verdict
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
+Victoria Street in Richmond remains the best-value food strip in inner Melbourne, and it is not particularly close. The banh mi bakeries, the pho houses, and the traditional Vietnamese canteens deliver quality that would cost two to three times as much in trendier postcodes. Bridge Road adds Mister Minh as a quieter alternative. The real story is consistency — places like Nhu Lan, I Love Pho 264, and Thy Thy Counter & Canteen have maintained their standards while keeping prices fair. If your budget is tight and your standards are high, Richmond is where you eat.
 
-- [/collingwood/](/collingwood/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
-- [/food/](/food/)
+**More Richmond eating:** [Best Asian Food](/richmond/best-asian-food/) | [Best Restaurants](/richmond/best-restaurants/) | [Cost of Living](/richmond/cost-of-living/)
 
-*Find more Melbourne content at [melbz.com.au](/)*
+---
+
+*This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business.*

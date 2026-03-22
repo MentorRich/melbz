@@ -4,13 +4,18 @@ description: "The insider's guide to North Melbourne's different pockets, street
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "North Melbourne neighbourhood guide"
   - "best streets in North Melbourne"
   - "North Melbourne areas"
   - "North Melbourne pockets Melbourne"
+tags:
+  - "north-melbourne"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 North Melbourne isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

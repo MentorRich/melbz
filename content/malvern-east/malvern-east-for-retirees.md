@@ -4,12 +4,16 @@ description: "Considering retirement in Malvern East? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "malvern-east"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Malvern East retirees Melbourne"
   - "retiring in Malvern East"
   - "quiet suburbs Melbourne"
+tags:
+  - "malvern-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Malvern East? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

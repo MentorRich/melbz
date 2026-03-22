@@ -4,15 +4,22 @@ description: "Public transport in Blackburn: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "blackburn"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Blackburn Melbourne"
   - "commute from Blackburn to city"
   - "Blackburn train station"
+tags:
+  - "blackburn"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Blackburn — what works, what's annoying, and how long things actually take.
+Two words define transport in Blackburn: car-first. Everything else is detail.
 
 Check out our full [Blackburn suburb guide](/blackburn/) for the complete picture.
 

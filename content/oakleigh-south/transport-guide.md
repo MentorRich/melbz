@@ -4,15 +4,22 @@ description: "Public transport in Oakleigh South: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Oakleigh South Melbourne"
   - "commute from Oakleigh South to city"
   - "Oakleigh South train station"
+tags:
+  - "oakleigh-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Oakleigh South — what works, what's annoying, and how long things actually take.
+Two words define transport in Oakleigh South: car-first. Everything else is detail.
 
 Check out our full [Oakleigh South suburb guide](/oakleigh-south/) for the complete picture.
 

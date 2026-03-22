@@ -4,16 +4,22 @@ description: "How expensive is Niddrie? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "niddrie"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Niddrie Melbourne"
   - "how expensive is Niddrie"
   - "is Niddrie expensive to live in"
   - "Niddrie rent"
+tags:
+  - "niddrie"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Niddrie — no sugar-coating, no made-up figures.
+Rent in Niddrie tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Niddrie suburb guide](/niddrie/) for the bigger picture.
 

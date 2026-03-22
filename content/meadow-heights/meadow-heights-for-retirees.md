@@ -4,12 +4,16 @@ description: "Considering retirement in Meadow Heights? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Meadow Heights retirees Melbourne"
   - "retiring in Meadow Heights"
   - "quiet suburbs Melbourne"
+tags:
+  - "meadow-heights"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Meadow Heights? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

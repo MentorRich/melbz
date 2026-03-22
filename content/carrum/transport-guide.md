@@ -4,15 +4,22 @@ description: "Public transport in Carrum: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "carrum"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Carrum Melbourne"
   - "commute from Carrum to city"
   - "Carrum train station"
+tags:
+  - "carrum"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Carrum — what works, what's annoying, and how long things actually take.
+Carrum transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Carrum suburb guide](/carrum/) for the complete picture.
 

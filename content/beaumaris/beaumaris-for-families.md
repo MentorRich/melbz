@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Beaumaris? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "beaumaris"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Beaumaris good for families"
   - "Beaumaris family friendly"
   - "raising kids in Beaumaris"
+tags:
+  - "beaumaris"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Beaumaris with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

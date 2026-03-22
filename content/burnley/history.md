@@ -4,16 +4,22 @@ description: "The story of Burnley: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "burnley"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Burnley Melbourne history"
   - "how has Burnley changed"
   - "Burnley gentrification"
   - "Burnley then and now"
+tags:
+  - "burnley"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Burnley's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+The name Burnley comes from its early settlers. But the real story is what happened after the suburb was named.
 
 See our full [Burnley suburb guide](/burnley/) for the current picture.
 

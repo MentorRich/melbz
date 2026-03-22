@@ -1,17 +1,14 @@
 ---
 title: "Date Night in Coburg 2026: Where Romance Meets Sydney Road"
-cover_image: "/images/coburg/date-night.jpg"
----
-
+description: "The best date night spots in Coburg for 2026 — six verified restaurants and bars for romantic dinners, first dates, and special occasions."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Chen"
+cover_image: "/images/shared/date-night.jpg"
+cover_image_alt: "Candlelit dinner table at a restaurant in the Pentridge precinct Coburg"
 suburb: "coburg"
-vertical: "food"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "The best date night spots in Coburg for 2026 — 6 verified restaurants and bars for romantic dinners, first dates, and everything in between."
-tags: ["coburg"]
-categories: ["date"]
+tags: ["coburg", "date-night", "restaurants", "bars"]
+---
 # Date Night in Coburg 2026: Where Romance Meets Sydney Road
 
 Here's what nobody tells you about Coburg and date night: it's actually one of the best spots in Melbourne for it. Not because it's trying to be — there are no rooftop candlelit dinners overlooking the Yarra, no tasting menus with 14 courses and a wine pairing that costs more than your weekly groceries. What Coburg offers is something better: restaurants where the food is genuinely excellent, the atmosphere is warm without being try-hard, and you won't blow a week's pay before the entrees arrive.
@@ -20,7 +17,7 @@ If you're tired of the [Brunswick date night circuit](/brunswick/date-night/) or
 
 Here are six spots that'll make your date night in Coburg memorable for the right reasons.
 
-**Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
+**Last updated: March 2026**
 
 
 ## 1. North & Common
@@ -115,17 +112,17 @@ For a special occasion, North & Common at Pentridge is the clear winner. For a c
 
 The inner-north date-night landscape is competitive: [Brunswick's date night scene](/brunswick/date-night/) has more venues and more variety, [Preston's romantic restaurants](/preston/date-night/) are carving out a niche, and [Coburg North](/coburg-north/date-night/) is building something interesting too. But Coburg proper has the best balance of quality, character, and value.
 
-**Your Coburg Vibe Score this week: 72/100** — Date night sorted. No pretension required.
+## FAQ
 
+**What's the best date restaurant in Coburg?**
+North & Common for a special occasion. Rosa for an intimate Italian dinner. Antalya for sharing plates.
 
-*Know a date-night spot we missed? Let us know.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
+**Is Coburg good for first dates?**
+Yes — Gemini and Strangeloves are ideal. Bar format means lower pressure than a sit-down restaurant, but the food is good enough to extend the evening.
 
-## Related Articles
+**How much does a date night in Coburg cost?**
+A full dinner with wine at Rosa runs under $60pp. A casual night at Gemini with cocktails and share plates is around $50pp. Both are notably cheaper than equivalent quality in [Brunswick](/brunswick/) or the [CBD](/melbourne-cbd/).
 
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/coburg/](/coburg/)
-- [/coburg/hub](/coburg/hub)
+---
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Coburg:** [Coburg Best Restaurants](/coburg/best-restaurants/) · [Coburg Best Bars](/coburg/best-bars/) · [Coburg Suburb Guide](/coburg/)

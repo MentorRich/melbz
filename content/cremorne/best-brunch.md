@@ -1,22 +1,20 @@
 ---
 title: "Best Brunch in Cremorne — 2026 Local Guide"
+description: "The best brunch in Cremorne for 2026. From warehouse cafe conversions to Church Street stalwarts, these are the spots the 3121 tech crowd eats at on weekends."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
 cover_image: "/images/cremorne/best-brunch.jpg"
+cover_image_alt: "Weekend brunch scene at a Cremorne warehouse cafe"
+suburb: "cremorne"
+tags: ["cremorne", "brunch", "cafes", "church-street"]
 ---
 
-suburb: "cremorne"
-vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Cremorne has more brunch spots per square kilometre than anywhere in Melbourne. Here's where the 3121 crowd actually eats on weekends."
-tags: ["cremorne"]
-categories: ["best"]
 # Best Brunch in Cremorne — 2026 Local Guide
 
 Here's something that surprises people: Cremorne ranked number one in Melbourne for cafe density in the Domain Liveable Melbourne study, beating the CBD, Southbank, and South Melbourne. For a suburb you can walk across in fifteen minutes, that's absurd. And it means the brunch game here is stupidly competitive — only the good survive.
 
-Cremorne's brunch scene is shaped by two forces: the tech workers who need coffee at their desks by 7am, and the weekend crowd who've figured out that skipping the Chapel Street madness for a quieter, more interesting suburb is the move. Whether you're after sourdough that could change your life or a full English that fixes your Saturday, these are the spots worth waking up for.
+Cremorne's brunch scene is shaped by two forces: the tech workers who need coffee at their desks by 7am, and the weekend crowd who've figured out that skipping the Chapel Street madness for a quieter, more interesting suburb is the move. If you'''re after sourdough that could change your life or a full English that fixes your Saturday, these are the spots worth waking up for.
 
 **Last updated: 17 March 2026** | **Cremorne Vibe Score: 79/100 🏙️ Corporate Cool with Edge**
 
@@ -138,10 +136,9 @@ And if someone tells you Cremorne is "just offices," take them to any of these o
 
 ## Related Articles
 
-- [/collingwood/](/collingwood/)
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/cremorne/](/cremorne/)
+- [Collingwood](/collingwood/)
+- [South Yarra](/south-yarra/)
+- [Southbank](/southbank/)
+- [Richmond](/richmond/)
+- [Cremorne](/cremorne/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -4,15 +4,22 @@ description: "Public transport in Keilor East: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "keilor-east"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Keilor East Melbourne"
   - "commute from Keilor East to city"
   - "Keilor East train station"
+tags:
+  - "keilor-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Keilor East — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Keilor East transport links. Here is the reality.
 
 Check out our full [Keilor East suburb guide](/keilor-east/) for the complete picture.
 

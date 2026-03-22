@@ -4,15 +4,22 @@ description: "Public transport in Roxburgh Park: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Roxburgh Park Melbourne"
   - "commute from Roxburgh Park to city"
   - "Roxburgh Park train station"
+tags:
+  - "roxburgh-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Roxburgh Park — what works, what's annoying, and how long things actually take.
+Your morning commute from Roxburgh Park depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Roxburgh Park suburb guide](/roxburgh-park/) for the complete picture.
 

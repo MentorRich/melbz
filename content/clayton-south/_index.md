@@ -1,16 +1,16 @@
 ---
-title: "Clayton South Melbourne — Everything You Need to Know"
+title: "Clayton South Melbourne — what you need"
 description: "The complete guide to Clayton South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "clayton-south"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Clayton South Melbourne"
   - "what is Clayton South like"
   - "clayton-south suburb"
   - "living in Clayton South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Parkland access, quiet residential streets, and affordable living near Monash.

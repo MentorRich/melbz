@@ -1,16 +1,16 @@
 ---
-title: "Mont Albert Melbourne — Everything You Need to Know"
+title: "Mont Albert Melbourne — what you need"
 description: "The complete guide to Mont Albert. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mont-albert"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Mont Albert Melbourne"
   - "what is Mont Albert like"
   - "mont-albert suburb"
   - "living in Mont Albert"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet residential streets and Hamilton Street shops. Classic eastern suburbs family living.

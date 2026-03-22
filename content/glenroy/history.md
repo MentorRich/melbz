@@ -4,16 +4,22 @@ description: "The story of Glenroy: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "glenroy"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Glenroy Melbourne history"
   - "how has Glenroy changed"
   - "Glenroy gentrification"
   - "Glenroy then and now"
+tags:
+  - "glenroy"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Glenroy's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Glenroy and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Glenroy suburb guide](/glenroy/) for the current picture.
 

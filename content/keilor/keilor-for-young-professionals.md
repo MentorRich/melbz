@@ -4,12 +4,18 @@ description: "Is Keilor a good suburb for young professionals? Social scene, com
 date: 2026-03-21
 suburb: "keilor"
 article_type: "young-professionals"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Keilor young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Keilor"
+tags:
+  - "keilor"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Keilor as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

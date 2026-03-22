@@ -4,13 +4,18 @@ description: "The insider's guide to Frankston's different pockets, streets, and
 date: 2026-03-21
 suburb: "frankston"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Frankston neighbourhood guide"
   - "best streets in Frankston"
   - "Frankston areas"
   - "Frankston pockets Melbourne"
+tags:
+  - "frankston"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Frankston isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,16 +4,22 @@ description: "How expensive is Briar Hill? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "briar-hill"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Briar Hill Melbourne"
   - "how expensive is Briar Hill"
   - "is Briar Hill expensive to live in"
   - "Briar Hill rent"
+tags:
+  - "briar-hill"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Briar Hill — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Briar Hill, here is exactly how far your dollar goes.
 
 Read our full [Briar Hill suburb guide](/briar-hill/) for the bigger picture.
 

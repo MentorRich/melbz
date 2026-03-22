@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Dingley Village? Parks, schools, safet
 date: 2026-03-21
 suburb: "dingley-village"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Dingley Village good for families"
   - "Dingley Village family friendly"
   - "raising kids in Dingley Village"
+tags:
+  - "dingley-village"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Dingley Village with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

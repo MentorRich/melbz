@@ -3,14 +3,14 @@ title: "Dog-Friendly Box Hill — Parks, Cafes and Walks"
 description: "Raising a dog in Box Hill? Off-leash parks, pet-friendly cafes, vet access, and what doggo life looks like in this suburb."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-keywords:
-  - "dog friendly Box Hill"
-  - "off leash park Box Hill"
-  - "pet friendly cafes Box Hill"
-  - "walking dog Box Hill"
+author: "Dani Reyes"
+tags:
+  - "box-hill"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +28,7 @@ Box Hill has dedicated off-leash areas where your dog can actually run. The loca
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/box-hill/best-cafes/)
 
 Multiple cafes in Box Hill welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +68,23 @@ Veterinary clinics are accessible from Box Hill, including emergency after-hours
 ---
 
 **More on Box Hill:** [Box Hill Suburb Guide](/box-hill/) · [Box Hill Things to Do](/box-hill/things-to-do/) · [Box Hill for Families](/box-hill/box-hill-for-families/)
+
+---
+
+## Explore More of Box Hill
+
+- [Box Hill History](/box-hill/history/)
+- [Box Hill Rent Guide](/box-hill/rent-guide/)
+- [Box Hill Box Hill For Families](/box-hill/box-hill-for-families/)
+- [Box Hill Things To Do](/box-hill/things-to-do/)
+- [Box Hill Box Hill For Retirees](/box-hill/box-hill-for-retirees/)
+- [Box Hill Cost of Living](/box-hill/cost-of-living/)
+- [Box Hill Neighbourhood Guide](/box-hill/neighbourhood-guide/)
+- [Box Hill Transport Guide](/box-hill/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

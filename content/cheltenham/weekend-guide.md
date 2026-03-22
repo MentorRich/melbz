@@ -4,13 +4,19 @@ description: "Your weekend in Cheltenham sorted — from morning coffee to Satur
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "weekend"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "what to do Cheltenham this weekend"
   - "Cheltenham weekend"
   - "things to do Cheltenham Saturday"
   - "Cheltenham Sunday plans"
+tags:
+  - "cheltenham"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Cheltenham does weekends well. Whether you're the type who plans every hour or p
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Cheltenham's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/cheltenham/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Cheltenham's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Cheltenham starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Cheltenham starts slower. The [cafes](/cheltenham/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Cheltenham and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Cheltenham does weekends well. Whether you're the type who plans every hour or p
 ---
 
 **More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham Things to Do](/cheltenham/things-to-do/) · [Cheltenham Best Restaurants](/cheltenham/best-restaurants/)
+
+---
+
+## Explore More of Cheltenham
+
+- [Cheltenham History](/cheltenham/history/)
+- [Cheltenham Rent Guide](/cheltenham/rent-guide/)
+- [Cheltenham Things To Do](/cheltenham/things-to-do/)
+- [Cheltenham Cost of Living](/cheltenham/cost-of-living/)
+- [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+- [Cheltenham Living In Cheltenham](/cheltenham/living-in-cheltenham/)
+- [Cheltenham Transport Guide](/cheltenham/transport-guide/)
+- [Cheltenham Best Cafes](/cheltenham/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

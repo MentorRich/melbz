@@ -1,16 +1,16 @@
 ---
 title: "Rent Prices in South Melbourne 2026: What You'll Pay"
 cover_image: "/images/south-melbourne/rent-report.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 tags: ["south-melbourne", "rent", "property"]
-categories: ["property"]
-description: "Rent Prices in South Melbourne 2026: What You'll Pay"
+description: "What you will actually pay to rent in South Melbourne in 2026. One-beds from four-fifty a week, two-beds from five-eighty, and how it compares nearby."
+cover_image_alt: "South Melbourne street scene and local dining"
+suburb: "south-melbourne"
 ---
 
 **Updated 16 March 2026 | Marcus Cole reporting**
-
 
 
 South Melbourne has always been the suburb that outperfo..."
@@ -160,38 +160,3 @@ South Melbourne won't wow you on a Saturday afternoon stroll the way Fitzroy mig
 
 *Data sourced from Homes Victoria Rental Report (September Quarter 2025), Domain House Price Report (December 2025), REIV Quarterly Data, InvestorKit Melbourne Market Report (March 2026), RateChallenge South Melbourne Property Report (January 2026), and current listing analysis. Figures represent median asking rents and market ranges as of March 2026. Individual results vary by property condition, lease terms, and exact location.*
 
-### Featured Venues
-
-- **Lume** at 226 Coventry St, South Melbourne VIC 3205
-- **Chez Dre** at 285-287 Coventry St, South Melbourne VIC 3205
-- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
-- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
-- **Dead Man Espresso** at 35的市场 St, South Melbourne VIC 3205
-- **Code Black Coffee** at 119 Howard St, North Melbourne (South Melbourne Satellite Location)
-- **South Melbourne Market Dim Sims** at 322-326 Coventry St, South Melbourne VIC 3205
-- **Proper & Son** at Shop 11, South Melbourne Market, Coventry St, South Melbourne VIC 3205
-- **Bambu Asian Eating House** at 283 Clarendon St, South Melbourne VIC 3205
-- **Lulu's Char Koay Teow** at 1/105-107 Market St, South Melbourne VIC 3205
-
-### Key Highlights
-
-- South Melbourne Market
-- Clarendon Street shopping precinct
-- The Australian Centre for Contemporary Art
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

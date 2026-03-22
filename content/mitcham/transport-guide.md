@@ -4,15 +4,22 @@ description: "Public transport in Mitcham: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "mitcham"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Mitcham Melbourne"
   - "commute from Mitcham to city"
   - "Mitcham train station"
+tags:
+  - "mitcham"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Mitcham — what works, what's annoying, and how long things actually take.
+Mitcham sits south of the river, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Mitcham suburb guide](/mitcham/) for the complete picture.
 

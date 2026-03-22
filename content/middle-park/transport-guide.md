@@ -4,15 +4,22 @@ description: "Public transport in Middle Park: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "middle-park"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Middle Park Melbourne"
   - "commute from Middle Park to city"
   - "Middle Park train station"
+tags:
+  - "middle-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Middle Park — what works, what's annoying, and how long things actually take.
+Real talk about getting around Middle Park: what the timetable says vs what actually happens.
 
 Check out our full [Middle Park suburb guide](/middle-park/) for the complete picture.
 

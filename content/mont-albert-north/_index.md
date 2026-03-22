@@ -1,16 +1,16 @@
 ---
-title: "Mont Albert North Melbourne — Everything You Need to Know"
+title: "Mont Albert North Melbourne — what you need"
 description: "The complete guide to Mont Albert North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Mont Albert North Melbourne"
   - "what is Mont Albert North like"
   - "mont-albert-north suburb"
   - "living in Mont Albert North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Suburban quiet between Mont Albert and Box Hill North. Big blocks, family streets.

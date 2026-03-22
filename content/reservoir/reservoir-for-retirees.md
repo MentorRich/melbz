@@ -4,12 +4,16 @@ description: "Considering retirement in Reservoir? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Reservoir retirees Melbourne"
   - "retiring in Reservoir"
   - "quiet suburbs Melbourne"
+tags:
+  - "reservoir"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Reservoir? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

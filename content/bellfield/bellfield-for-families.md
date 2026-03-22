@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Bellfield? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "bellfield"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Bellfield good for families"
   - "Bellfield family friendly"
   - "raising kids in Bellfield"
+tags:
+  - "bellfield"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Bellfield with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

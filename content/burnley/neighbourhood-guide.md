@@ -4,13 +4,18 @@ description: "The insider's guide to Burnley's different pockets, streets, and a
 date: 2026-03-21
 suburb: "burnley"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Burnley neighbourhood guide"
   - "best streets in Burnley"
   - "Burnley areas"
   - "Burnley pockets Melbourne"
+tags:
+  - "burnley"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Burnley isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

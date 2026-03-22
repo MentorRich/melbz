@@ -1,16 +1,16 @@
 ---
-title: "Burwood East Melbourne — Everything You Need to Know"
+title: "Burwood East Melbourne — what you need"
 description: "The complete guide to Burwood East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "burwood-east"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Burwood East Melbourne"
   - "what is Burwood East like"
   - "burwood-east suburb"
   - "living in Burwood East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Burwood East Village, Blackburn Lake, and family homes with eastern suburbs convenience.

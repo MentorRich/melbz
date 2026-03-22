@@ -1,16 +1,16 @@
 ---
 title: "Cost of Living in Melbourne CBD 2026: The Real Numbers"
-cover_image: "/images/melbourne-cbd/cost-of-living-v2.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["melbourne-cbd", "cost-of-living", "property"]
-categories: ["property"]
-description: "Cost of Living in Melbourne CBD 2026: The Real Numbers"
+cover_image: "/images/shared/city-architecture.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Marcus Cole"
+tags: ["melbourne", "melbourne-cbd", "cost-of-living", "property"]
+description: "Melbourne CBD cost of living data for 2026. Rent comparisons with Southbank and Carlton, grocery budgets, transport costs and monthly spending breakdowns."
 ---
 
 **Updated 16 March 2026 | Marcus Cole reporting**
-
 
 
 Living in the CBD isn't cheap. Nobody moved here think..."
@@ -229,7 +229,7 @@ For comparison, the same lifestyle in Carlton would run approximately **$2,800â€
 
 ## The Verdict
 
-The CBD in 2026 is expensive, but it's expensive in a way that comes with genuine tradeoffs. You're paying a premium for zero commute, world-class dining within walking distance, and the feeling of living in the actual centre of the city rather than watching it from across the river.
+The CBD in 2026 is expensive, but it's expensive in a way that comes with genuine tradeoffs. You're paying a premium for zero commute, exceptional dining within walking distance, and the feeling of living in the actual centre of the city rather than watching it from across the river.
 
 If budget is your primary concern, **Carlton** gives you 80% of the CBD experience at 70% of the cost. **Southbank** is a middle ground â€” slightly cheaper rent, river views, but fewer neighbourhood amenities. **Docklands** is the value play if you're a new-build apartment person who doesn't mind eating dinner at the same three restaurants.
 
@@ -290,39 +290,3 @@ Know a budget hack for CBD living we missed? Spotted an error in our numbers? We
 *Marcus Cole is MELBZ's Property Editor. He's lived in the CBD, Southbank, and Carlton, and has strong opinions about which one was the best decision (it was Carlton). Follow him for honest property breakdowns across inner Melbourne.*
 
 *This article was last updated on 16 March 2026. Prices reflect current market conditions and may change. Always verify rental prices on Domain.com.au or realestate.com.au before making decisions.*
-
-### Featured Venues
-
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-
-### Key Highlights
-
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
-
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/carlton/](/carlton/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/property/](/property/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

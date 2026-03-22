@@ -4,15 +4,22 @@ description: "Public transport in Springvale: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "springvale"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Springvale Melbourne"
   - "commute from Springvale to city"
   - "Springvale train station"
+tags:
+  - "springvale"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Springvale — what works, what's annoying, and how long things actually take.
+The daily commute from Springvale has a personality all its own. It is better than its reputation.
 
 Check out our full [Springvale suburb guide](/springvale/) for the complete picture.
 

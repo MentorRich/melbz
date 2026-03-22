@@ -4,13 +4,20 @@ description: "Where to find the best coffee and cafes in North Melbourne. Local 
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "best-of"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "best cafes North Melbourne"
   - "coffee North Melbourne Melbourne"
   - "cafes near North Melbourne"
   - "brunch North Melbourne"
+tags:
+  - "north-melbourne"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
@@ -59,3 +66,23 @@ North Melbourne's cafe scene is strong and growing. You won't struggle to find g
 ---
 
 **More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne Cost of Living](/north-melbourne/cost-of-living/) · [North Melbourne Neighbourhood Guide](/north-melbourne/neighbourhood-guide/)
+
+---
+
+## Explore More of North Melbourne
+
+- [North Melbourne History](/north-melbourne/history/)
+- [North Melbourne Rent Guide](/north-melbourne/rent-guide/)
+- [North Melbourne Things To Do](/north-melbourne/things-to-do/)
+- [North Melbourne Cost of Living](/north-melbourne/cost-of-living/)
+- [North Melbourne Neighbourhood Guide](/north-melbourne/neighbourhood-guide/)
+- [North Melbourne Transport Guide](/north-melbourne/transport-guide/)
+- [North Melbourne Best Restaurants](/north-melbourne/best-restaurants/)
+- [North Melbourne Weekend Guide](/north-melbourne/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

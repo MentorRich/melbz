@@ -1,19 +1,14 @@
 ---
 title: "Kensington Property Market — Buying Guide"
-description: "Thinking of buying in Kensington? What the market looks like, what to expect, and the honest view for buyers."
-date: 2026-03-21
+description: "Thinking of buying in Kensington? What the market looks like, what to expect, and the honest view for buyers. Updated for 2026 with real local picks and hone."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/kensington/property-market.jpg"
+cover_image_alt: "Property Market in Kensington Melbourne"
 suburb: "kensington"
-article_type: "property"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
-keywords:
-  - "buying in Kensington"
-  - "Kensington property market"
-  - "Kensington house prices"
-  - "real estate Kensington Melbourne"
+tags: ["kensington", "property-market"]
 ---
-
-
 ## The Kensington Property Market — What You Need to Know
 
 Buying in Kensington is a significant financial decision. Here's the reality of the market — not a sales pitch, not doom and gloom, just the facts and context you need to make a smart move.
@@ -80,3 +75,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington Cost of Living](/kensington/cost-of-living/) · [Kensington Neighbourhood Guide](/kensington/neighbourhood-guide/)
+
+---
+
+## Explore More of Kensington
+
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

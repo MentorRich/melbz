@@ -1,16 +1,16 @@
 ---
-title: "Keilor Melbourne — Everything You Need to Know"
+title: "Keilor Melbourne — what you need"
 description: "The complete guide to Keilor. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "keilor"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Keilor Melbourne"
   - "what is Keilor like"
   - "keilor suburb"
   - "living in Keilor"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Keilor Village heritage precinct on the Maribyrnong River. Old Melbourne with character.

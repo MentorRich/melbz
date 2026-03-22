@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Wattle Glen? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Wattle Glen good for families"
   - "Wattle Glen family friendly"
   - "raising kids in Wattle Glen"
+tags:
+  - "wattle-glen"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Wattle Glen with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

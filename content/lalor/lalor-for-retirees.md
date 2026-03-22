@@ -4,12 +4,16 @@ description: "Considering retirement in Lalor? Quiet streets, healthcare access,
 date: 2026-03-21
 suburb: "lalor"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Lalor retirees Melbourne"
   - "retiring in Lalor"
   - "quiet suburbs Melbourne"
+tags:
+  - "lalor"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Lalor? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,12 +4,16 @@ description: "Considering retirement in Sydenham? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "sydenham"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Sydenham retirees Melbourne"
   - "retiring in Sydenham"
   - "quiet suburbs Melbourne"
+tags:
+  - "sydenham"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Sydenham? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

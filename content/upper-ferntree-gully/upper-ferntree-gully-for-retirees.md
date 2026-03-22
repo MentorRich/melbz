@@ -4,12 +4,16 @@ description: "Considering retirement in Upper Ferntree Gully? Quiet streets, hea
 date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Upper Ferntree Gully retirees Melbourne"
   - "retiring in Upper Ferntree Gully"
   - "quiet suburbs Melbourne"
+tags:
+  - "upper-ferntree-gully"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Upper Ferntree Gully? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

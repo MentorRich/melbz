@@ -4,13 +4,18 @@ description: "The insider's guide to Middle Park's different pockets, streets, a
 date: 2026-03-21
 suburb: "middle-park"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Middle Park neighbourhood guide"
   - "best streets in Middle Park"
   - "Middle Park areas"
   - "Middle Park pockets Melbourne"
+tags:
+  - "middle-park"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Middle Park isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

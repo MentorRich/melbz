@@ -4,16 +4,22 @@ description: "How expensive is Doncaster? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "doncaster"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Doncaster Melbourne"
   - "how expensive is Doncaster"
   - "is Doncaster expensive to live in"
   - "Doncaster rent"
+tags:
+  - "doncaster"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Doncaster — no sugar-coating, no made-up figures.
+The gap between the sticker price of Doncaster and actual living costs is worth understanding before you move.
 
 Read our full [Doncaster suburb guide](/doncaster/) for the bigger picture.
 

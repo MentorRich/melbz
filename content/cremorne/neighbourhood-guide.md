@@ -1,17 +1,15 @@
 ---
-title: "Neighbourhood Guide in Cremorne — 2026 Local Guide"
+title: "Cremorne Neighbourhood Guide — 2026 Local Guide"
+description: "Cremorne broken down by micro-area. The Church Street tech corridor, Cremorne Street warehouse conversions, Balmain Street cafes, and the Yarra River path mapped."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Leung"
 cover_image: "/images/cremorne/neighbourhood-guide.jpg"
+cover_image_alt: "Cremorne warehouse conversions and Church Street streetscape"
+suburb: "cremorne"
+tags: ["cremorne", "neighbourhood-guide", "church-street"]
 ---
 
-suburb: "cremorne"
-vertical: "lifestyle"
-author: "marcusl"
-author_image: "/images/authors/marcus.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Cremorne is Melbourne's most confusing suburb with the best coffee. This is your guide to the real identity of 3121."
-tags: ["cremorne"]
-categories: ["neighbourhood"]
 # Cremorne Neighbourhood Guide — Corporate Cool with Edge
 
 Let's settle this right now: Cremorne is Melbourne's most confusing suburb, and it absolutely knows it.
@@ -189,10 +187,9 @@ You'll either love Cremorne or you'll walk through it once and never return. Bot
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
+- [South Yarra](/south-yarra/)
+- [Southbank](/southbank/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
+- [Fitzroy](/fitzroy/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

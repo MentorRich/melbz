@@ -4,13 +4,19 @@ description: "Raising a dog in Port Melbourne? Off-leash parks, pet-friendly caf
 date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "lifestyle"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "dog friendly Port Melbourne"
   - "off leash park Port Melbourne"
   - "pet friendly cafes Port Melbourne"
   - "walking dog Port Melbourne"
+tags:
+  - "port-melbourne"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +34,7 @@ Port Melbourne has dedicated off-leash areas where your dog can actually run. Th
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/port-melbourne/best-cafes/)
 
 Multiple cafes in Port Melbourne welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from Port Melbourne, including emergency after
 ---
 
 **More on Port Melbourne:** [Port Melbourne Suburb Guide](/port-melbourne/) · [Port Melbourne Things to Do](/port-melbourne/things-to-do/) · [Port Melbourne for Families](/port-melbourne/port-melbourne-for-families/)
+
+---
+
+## Explore More of Port Melbourne
+
+- [Port Melbourne History](/port-melbourne/history/)
+- [Port Melbourne Rent Guide](/port-melbourne/rent-guide/)
+- [Port Melbourne Things To Do](/port-melbourne/things-to-do/)
+- [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/)
+- [Port Melbourne Young Professionals Guide](/port-melbourne/young-professionals/)
+- [Port Melbourne Nightlife Guide](/port-melbourne/nightlife-guide/)
+- [Port Melbourne Transport Guide](/port-melbourne/transport-guide/)
+- [Port Melbourne Best Cafes](/port-melbourne/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

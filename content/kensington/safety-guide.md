@@ -1,19 +1,14 @@
 ---
 title: "How Safe Is Kensington Melbourne?"
-description: "Is Kensington safe to live in? The honest breakdown of safety, what to be aware of, and how locals experience the suburb day-to-day."
-date: 2026-03-21
+description: "Is Kensington safe to live in? The honest breakdown of safety, what to be aware of, and how locals experience the suburb day-to-day. Updated for 2026 with re."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Thompson"
+cover_image: "/images/kensington/safety-guide.jpg"
+cover_image_alt: "Safety Guide in Kensington Melbourne"
 suburb: "kensington"
-article_type: "safety"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-keywords:
-  - "is Kensington safe"
-  - "Kensington safety"
-  - "Kensington crime"
-  - "is Kensington dangerous Melbourne"
+tags: ["kensington", "safety-guide"]
 ---
-
-
 ## Safety in Kensington — The Honest Answer
 
 "Is Kensington safe?" is probably in the top five questions people ask before moving here. The honest answer: generally yes, with the same caveats that apply to any Melbourne suburb.
@@ -22,9 +17,9 @@ Read our full [Kensington suburb guide](/kensington/) for the complete picture.
 
 ## The Day-to-Day Experience
 
-Walking around Kensington during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around Kensington during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/kensington/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/kensington/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +43,7 @@ Crime statistics exist for every suburb, and Kensington's numbers are in line wi
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/kensington/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +63,23 @@ The lifestyle benefits of Kensington — community, walkability, access — outw
 ---
 
 **More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington Living Guide](/kensington/living-in-kensington/) · [Kensington for Families](/kensington/kensington-for-families/)
+
+---
+
+## Explore More of Kensington
+
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

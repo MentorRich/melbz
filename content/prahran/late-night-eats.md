@@ -1,119 +1,96 @@
 ---
-title: "Late Night Eats in Prahran: Where to Eat After 10pm"
-cover_image: "/images/prahran/late-night-eats.jpg"
-date: 2026-03-18
-author: liam
-author_image: "/images/authors/liam.jpg"
-description: "Hungry after the bars close? The best late night food options in Prahran for midnight snacks and post-drinks feasts."
-tags: ["prahran", "late-night-eats"]
-categories: ["late"]
+title: "Late Night Eats in Prahran 2026 — Where to Eat After 10pm"
+description: "Hungry after the bars close in Prahran? The best late night food options on Chapel Street and Commercial Road for post-drinks feasts."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Liam Torres"
+cover_image: "/images/shared/melbourne-night.jpg"
+cover_image_alt: "Prahran Melbourne Chapel Street late night dining scene"
+suburb: "prahran"
+tags: ["melbourne", "prahran", "late-night-eats", "food"]
 ---
 
-*Updated 18 March 2026 | Pizza & Italian Writer*
+Prahran's [nightlife](/prahran/nightlife-guide/) means the suburb needs late-night food, and Chapel Street delivers. Whether you are stumbling out of Revolver at 3am or finishing a civilised dinner and wanting dessert at 11pm, here is where to eat after 10pm in Prahran.
 
-# Late Night Eats in Prahran: Where to Eat After 10pm
-March 18, 2026
+## 1. Colonel Tan's at Revolver Upstairs
 
-As a dedicated aficionado of the perfect crust and the heritage of Italian dining across Melbourne's suburbs, I'm excited to share my insights on the best late-night eats in Prahran. This eclectic suburb has a rich history, and its food scene is no exception. When the sun goes down, Prahran transforms into a haven for foodies, with a variety of eateries serving up delicious meals until the early hours of the morning.
+**Where:** Level 1, 229 Chapel Street, Prahran
+**Open:** Until late (matches Revolver's hours)
+**Price:** Mains $18-$28
 
+The most logical late-night move in Prahran. Chef Karen Batson's Thai menu is genuinely excellent, not just "good for a nightclub." The pad thai ($19) is properly wok-fried, the green curry ($22) has real heat, and the sharing plates are built for post-dance-floor refuelling. You are already in the building; you might as well eat.
 
-## Venue Addresses & Details
+## 2. Prahran Convenience Store
 
-- **Prahran Convenience** — 226 Commercial Rd, Prahran VIC 3181 ($). Open: Open 24 hours. *Tip: The go-to spot for post-clubbing hydration and snacks when everything else is shuttered.*
-- **Lucky Coq** — 179 Chapel St, Windsor VIC 3181 ($). Open: Until 1:00 AM Fri-Sat. *Tip: Check the daily specials; their $5 pizza deals are legendary for late-night budget dining.*
-- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor VIC 3181 ($$). Open: Until 1:00 AM Fri-Sat. *Tip: Order the pierogi and a shot of house-infused vodka to warm up before heading home.*
-- **HuTong Dumpling Bar** — 162 Commercial Rd, Prahran VIC 3181 ($$). Open: Until 10:30 PM daily (later on weekends). *Tip: The Xiao Long Bao are a must-order; perfect for a late-night savory fix.*
-- **Phat Milk** — 208 Commercial Rd, Prahran VIC 3181 ($). Open: Until 11:00 PM daily. *Tip: The loaded fries are substantial enough to share between two people.*
-- **The European** — 161 High St, Prahran VIC 3181 ($$). Open: Until 12:00 AM Fri-Sat. *Tip: Great for a slightly more 'grown-up' late-night bite compared to the Chapel Street chaos.*
-## Introduction to Prahran's Late-Night Food Scene
+**Where:** 226 Commercial Road, Prahran
+**Open:** 24 hours
+**Price:** Under $10
 
-Prahran, located just 5 kilometers southwest of Melbourne's CBD, is a hub for food enthusiasts. Its diverse culinary landscape offers a range of options to satisfy any late-night craving. From Italian eateries to Asian fusion restaurants, Prahran has you'll find what you want.
+The 3am institution. When everything else has closed and you need hydration, snacks, or a toastie to absorb the evening's decisions, Prahran Convenience is there. The late-night toasties are a genuine rite of passage for anyone finishing a night out on Chapel Street. No pretension, just survival food.
 
+## 3. Lucky Coq
 
-## Venue Addresses & Details
+**Where:** 179 Chapel Street, [Windsor](/windsor/) (on the Prahran border)
+**Open:** Until 1am Friday-Saturday
+**Price:** Pizza from $5
 
-- **Prahran Convenience** — 226 Commercial Rd, Prahran VIC 3181 ($). Open: Open 24 hours. *Tip: The go-to spot for post-clubbing hydration and snacks when everything else is shuttered.*
-- **Lucky Coq** — 179 Chapel St, Windsor VIC 3181 ($). Open: Until 1:00 AM Fri-Sat. *Tip: Check the daily specials; their $5 pizza deals are legendary for late-night budget dining.*
-- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor VIC 3181 ($$). Open: Until 1:00 AM Fri-Sat. *Tip: Order the pierogi and a shot of house-infused vodka to warm up before heading home.*
-- **HuTong Dumpling Bar** — 162 Commercial Rd, Prahran VIC 3181 ($$). Open: Until 10:30 PM daily (later on weekends). *Tip: The Xiao Long Bao are a must-order; perfect for a late-night savory fix.*
-- **Phat Milk** — 208 Commercial Rd, Prahran VIC 3181 ($). Open: Until 11:00 PM daily. *Tip: The loaded fries are substantial enough to share between two people.*
-- **The European** — 161 High St, Prahran VIC 3181 ($$). Open: Until 12:00 AM Fri-Sat. *Tip: Great for a slightly more 'grown-up' late-night bite compared to the Chapel Street chaos.*
-## Top Late-Night Eats in Prahran
+Budget-friendly pizza that has fuelled Chapel Street nights for years. The $5 pizza deals are legendary for late-night dining. It is not artisan. It is not wood-fired. It is exactly what you want at midnight after four hours of dancing.
 
-### 1. Tipo 00
-Address: 416 Little Bourke Street, Prahran VIC 3182
-Tipo 00 is a popular spot for Italian food lovers. This stylish restaurant serves up authentic Italian cuisine, including their famous pasta dishes and wood-fired pizzas. Their kitchen is open until 10:30 pm on weekdays and 11 pm on weekends, making it an ideal spot for a late-night meal.
+## 4. Borsch, Vodka & Tears
 
-### 2. The Everleigh
-Address: 17-21 Rankins Lane, Prahran VIC 3182
-The Everleigh is a modern Australian restaurant with a focus on seasonal produce. Their menu changes regularly, but they're known for their creative cocktails and delicious small plates. The Everleigh is open until 11 pm on weekdays and 12 am on weekends.
+**Where:** 173 Chapel Street, Windsor (Prahran border)
+**Open:** Until 1am Friday-Saturday
+**Price:** Mains $16-$24
 
-### 3. On The Bab
-Address: 82-84 Greville Street, Prahran VIC 3182
-On The Bab is a Prahran institution, serving up Middle Eastern-inspired cuisine since 2009. Their menu features a range of small plates, including delicious falafel and shawarma. They're open until 11 pm on weekdays and 12 am on weekends.
+If your late night calls for something with more substance, the pierogi and infused vodkas at Borsch are a genuinely excellent combination. The beetroot soup warms you up, the vodka flight provides entertainment, and the whole experience is better than whatever kebab you were considering.
 
-### 4. Hanoi Street
-Address: 1-3 Rankins Lane, Prahran VIC 3182
-Hanoi Street is a popular spot for Asian fusion cuisine. Their menu features a range of dishes, including Vietnamese, Thai, and Chinese-inspired options. They're open until 10:30 pm on weekdays and 11 pm on weekends.
+## 5. Midnight Sun (New 2026)
 
-### 5. La Tana
-Address: 44-46 Greville Street, Prahran VIC 3182
-La Tana is a stylish Italian restaurant with a focus on seasonal produce. Their menu features a range of pasta dishes, pizzas, and risottos. They're open until 10:30 pm on weekdays and 11 pm on weekends.
+**Where:** 320 Malvern Road, Prahran
+**Open:** Late (check current hours)
+**Price:** Bar snacks $8-$18
 
-### 6. The Grange
-Address: 21-23 Grange Road, Prahran VIC 3182
-The Grange is a popular spot for a late-night meal, serving up classic Australian cuisine with a modern twist. Their menu features a range of dishes, including burgers, steaks, and pasta. They're open until 10:30 pm on weekdays and 11 pm on weekends.
+The new late-night izakaya serving Japanese bar snacks designed for sharing: karaage chicken, prawn and chive gyoza, and a sake selection that rewards exploration. The amber-lit interior and city pop soundtrack make it a proper destination rather than just a food stop.
 
-### 7. Prahran Market Cafe
-Address: 180-182 Greville Street, Prahran VIC 3182
-The Prahran Market Cafe is a 24-hour eatery located in the heart of Prahran's market. They serve up a range of breakfast, lunch, and dinner options, including delicious coffee and pastries. This is a great spot to grab a late-night snack or meal.
+## Getting Home After Eating
 
+The 78 tram runs along Chapel Street until around 1am. Night Network buses cover the route on Friday and Saturday nights. Ride-share pick-up zones near **Prahran station** (Sandringham line) are safer and faster than trying to get picked up mid-strip. Do not drive.
 
-## Venue Addresses & Details
+## FAQ
 
-- **Prahran Convenience** — 226 Commercial Rd, Prahran VIC 3181 ($). Open: Open 24 hours. *Tip: The go-to spot for post-clubbing hydration and snacks when everything else is shuttered.*
-- **Lucky Coq** — 179 Chapel St, Windsor VIC 3181 ($). Open: Until 1:00 AM Fri-Sat. *Tip: Check the daily specials; their $5 pizza deals are legendary for late-night budget dining.*
-- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor VIC 3181 ($$). Open: Until 1:00 AM Fri-Sat. *Tip: Order the pierogi and a shot of house-infused vodka to warm up before heading home.*
-- **HuTong Dumpling Bar** — 162 Commercial Rd, Prahran VIC 3181 ($$). Open: Until 10:30 PM daily (later on weekends). *Tip: The Xiao Long Bao are a must-order; perfect for a late-night savory fix.*
-- **Phat Milk** — 208 Commercial Rd, Prahran VIC 3181 ($). Open: Until 11:00 PM daily. *Tip: The loaded fries are substantial enough to share between two people.*
-- **The European** — 161 High St, Prahran VIC 3181 ($$). Open: Until 12:00 AM Fri-Sat. *Tip: Great for a slightly more 'grown-up' late-night bite compared to the Chapel Street chaos.*
-## Exploring Prahran's Food Scene
+**What is open late in Prahran?**
+Prahran Convenience Store is 24 hours. Colonel Tan's runs late with Revolver. Lucky Coq and Borsch serve until 1am on weekends.
 
-Prahran is a suburb with a rich history and a thriving food scene. From its [Italian restaurants](/best-restaurants-melbourne/) to its [cafes](/best-cafes-melbourne/), there's something for every food lover. If you're looking for more great eats in Prahran, be sure to check out our guide to the [best restaurants in Prahran](/prahran/).
+**Where is the best late-night pizza near Prahran?**
+Lucky Coq at 179 Chapel Street (Windsor border) for budget pizza. The $5 deals are hard to beat at midnight.
 
+**Is there anything open after 2am in Prahran?**
+Prahran Convenience Store (24 hours) and Colonel Tan's inside Revolver when the club is running. Options thin out significantly after 2am.
 
-## Venue Addresses & Details
+## The Verdict
 
-- **Prahran Convenience** — 226 Commercial Rd, Prahran VIC 3181 ($). Open: Open 24 hours. *Tip: The go-to spot for post-clubbing hydration and snacks when everything else is shuttered.*
-- **Lucky Coq** — 179 Chapel St, Windsor VIC 3181 ($). Open: Until 1:00 AM Fri-Sat. *Tip: Check the daily specials; their $5 pizza deals are legendary for late-night budget dining.*
-- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor VIC 3181 ($$). Open: Until 1:00 AM Fri-Sat. *Tip: Order the pierogi and a shot of house-infused vodka to warm up before heading home.*
-- **HuTong Dumpling Bar** — 162 Commercial Rd, Prahran VIC 3181 ($$). Open: Until 10:30 PM daily (later on weekends). *Tip: The Xiao Long Bao are a must-order; perfect for a late-night savory fix.*
-- **Phat Milk** — 208 Commercial Rd, Prahran VIC 3181 ($). Open: Until 11:00 PM daily. *Tip: The loaded fries are substantial enough to share between two people.*
-- **The European** — 161 High St, Prahran VIC 3181 ($$). Open: Until 12:00 AM Fri-Sat. *Tip: Great for a slightly more 'grown-up' late-night bite compared to the Chapel Street chaos.*
-## Conclusion
+Prahran's late-night food scene is Chapel Street-centric and ranges from 24-hour convenience to genuinely good Thai at Revolver. The options are enough to cover most post-midnight situations, though they thin out rapidly after 2am. Plan accordingly: eat before you are desperate.
 
-Prahran's late-night food scene is a haven for foodies, with a range of eateries serving up delicious meals until the early hours of the morning. Whether you're in the mood for Italian, Asian fusion, or classic Australian cuisine, there's varied enough to please most in Prahran. So next time you're in Prahran after 10 pm, be sure to check out one of these great eateries.
+---
 
-For more information on Melbourne's suburbs and food scene, be sure to check out our guides to [Melbourne's suburbs](/melbourne/) and [the best restaurants in Melbourne](/best-restaurants-melbourne/).
+**More Prahran:** [Nightlife Guide](/prahran/nightlife-guide/) | [Best Bars](/prahran/best-bars/) | [Cheap Eats](/prahran/cheap-eats/) | [Prahran Suburb Guide](/prahran/)
 
+---
 
+## Explore More of Prahran
 
-## Venue Addresses & Details
+- [Prahran History](/prahran/history/)
+- [Prahran Things To Do This Weekend](/prahran/things-to-do-this-weekend/)
+- [Prahran Cheap Eats](/prahran/cheap-eats/)
+- [Prahran Rent Guide](/prahran/rent-guide/)
+- [Prahran Prahran For Retirees](/prahran/prahran-for-retirees/)
+- [Prahran Date Night Guide](/prahran/date-night/)
+- [Prahran Food Crawl](/prahran/food-crawl/)
+- [Prahran New Openings](/prahran/new-openings/)
 
-- **Prahran Convenience** — 226 Commercial Rd, Prahran VIC 3181 ($). Open: Open 24 hours. *Tip: The go-to spot for post-clubbing hydration and snacks when everything else is shuttered.*
-- **Lucky Coq** — 179 Chapel St, Windsor VIC 3181 ($). Open: Until 1:00 AM Fri-Sat. *Tip: Check the daily specials; their $5 pizza deals are legendary for late-night budget dining.*
-- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor VIC 3181 ($$). Open: Until 1:00 AM Fri-Sat. *Tip: Order the pierogi and a shot of house-infused vodka to warm up before heading home.*
-- **HuTong Dumpling Bar** — 162 Commercial Rd, Prahran VIC 3181 ($$). Open: Until 10:30 PM daily (later on weekends). *Tip: The Xiao Long Bao are a must-order; perfect for a late-night savory fix.*
-- **Phat Milk** — 208 Commercial Rd, Prahran VIC 3181 ($). Open: Until 11:00 PM daily. *Tip: The loaded fries are substantial enough to share between two people.*
-- **The European** — 161 High St, Prahran VIC 3181 ($$). Open: Until 12:00 AM Fri-Sat. *Tip: Great for a slightly more 'grown-up' late-night bite compared to the Chapel Street chaos.*
-## Related Articles
+### Nearby Suburbs Worth Checking
 
-- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
-- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
-- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
-- [Best Bars in Melbourne](/best-bars-melbourne)
-- [Cost of Living in Melbourne](/cost-of-living-melbourne)
-- [Transport Guide for Melbourne](/transport-guide-melbourne)
-
-*Find more Melbourne suburb guides at [melbz.com.au](/)*
-
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)
+- [Albert Park Suburb Guide](/albert-park/)

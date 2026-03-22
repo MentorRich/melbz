@@ -4,15 +4,22 @@ description: "Public transport in Bentleigh East: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Bentleigh East Melbourne"
   - "commute from Bentleigh East to city"
   - "Bentleigh East train station"
+tags:
+  - "bentleigh-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Bentleigh East — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Bentleigh East. Let us cut through the fluff.
 
 Check out our full [Bentleigh East suburb guide](/bentleigh-east/) for the complete picture.
 

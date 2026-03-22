@@ -4,16 +4,22 @@ description: "The story of Epping: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "epping"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Epping Melbourne history"
   - "how has Epping changed"
   - "Epping gentrification"
   - "Epping then and now"
+tags:
+  - "epping"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Epping's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Epping is a story of cultural diversity.
 
 See our full [Epping suburb guide](/epping/) for the current picture.
 

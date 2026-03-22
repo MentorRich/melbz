@@ -1,17 +1,14 @@
 ---
 title: "Neighbourhood Guide to Fitzroy — 2026 Local Guide"
+description: "The full guide to living in Fitzroy Melbourne. Streets, transport, schools, safety, costs and what daily life actually looks like in 2026."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Liu"
 cover_image: "/images/fitzroy/neighbourhood-guide.jpg"
----
-
+cover_image_alt: "Fitzroy Melbourne Brunswick Street neighbourhood"
 suburb: "fitzroy"
-vertical: "lifestyle"
-author: "marcusl"
-author_image: "/images/authors/marcus.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the neighbourhood guide to Fitzroy. Our verified 2026 guide covers everything locals need to know."
-tags: ["fitzroy"]
-categories: ["neighbourhood"]
+tags: ["melbourne", "fitzroy", "neighbourhood-guide", "living-in"]
+---
 ## Neighbourhood Guide to Fitzroy
 
 Fitzroy is Melbourne's oldest suburb. Founded in 1839, it was the city's first to be designated — before Melbourne's CBD even had a proper grid. That history shows. The streets are narrow, the buildings are low, the warehouses are converted, and the culture runs deep. It's been working-class, it's been migrant, it's been countercultural, and now it's expensive. But it's still, somehow, the most Melbourne suburb in Melbourne.
@@ -65,7 +62,7 @@ Fitzroy residents skew young — late 20s to early 40s. You'll find a mix of ren
 
 ### What It Feels Like
 
-Fitzroy feels busy. Even on a Tuesday evening, there are people on the street, lights on in restaurants, music drifting from bars. It's a walking suburb — most people don't drive unless they have to, because parking is a nightmare and everything is within 20 minutes on foot. The tram (#86 to the CBD, #96 to St Kilda) runs down Brunswick and Smith Streets and is the default transport option.
+Fitzroy feels busy. Even on a Tuesday evening, there are people on the street, lights on in restaurants, music drifting from bars. It's a walking suburb — most people don't drive unless they have to, because parking is a nightmare and everything is within 20 minutes on foot. Trams run down Brunswick Street (#11, #112) and Smith Street (#86) and are the default transport option.
 
 The architecture is distinctive — Victorian terraces, converted warehouses, modern infill that's sometimes great and sometimes terrible. The streets are tree-lined in places, industrial in others. It doesn't have the uniform charm of Carlton or the leafy calm of Northcote — it has character, which is better.
 
@@ -88,8 +85,9 @@ The architecture is distinctive — Victorian terraces, converted warehouses, mo
 ## GETTING AROUND
 
 ### Trams
-- **#86:** Degraves Street (CBD) → Brunswick Street → Smith Street → Northcote. The Fitzroy lifeline.
-- **#96:** St Kilda → CBD → Nicholson Street. Runs along Fitzroy's western edge.
+- **#11:** West Preston → Brunswick Street → CBD. Runs the full length of Brunswick Street through Fitzroy.
+- **#86:** Bundoora → Smith Street → Docklands. Runs along Smith Street on Fitzroy's eastern edge.
+- **#112:** West Preston → Brunswick Street → St Kilda. Another Brunswick Street option heading south.
 - **Tram fare:** Free within the CBD Free Tram Zone (which starts at the southern edge of Fitzroy). Outside the zone, Myki is required. Adult fare: $5.30 daily cap.
 
 ### Buses
@@ -130,84 +128,13 @@ Fitzroy Police Station is at 292 Smith Street. Open 24/7. Non-emergency: 131 444
 **Pet services, doctors, dentists:** We'll cover these in a dedicated "Living In" guide. This is the big picture.
 
 
-## Cross-Suburb Guides
+## Nearby Suburb Guides
 
-- [Neighbourhood Guide to Collingwood](/fitzroy/neighbourhood-guide) — Fitzroy's fraternal twin
-- [Neighbourhood Guide to Carlton](/fitzroy/neighbourhood-guide) — the Italian quarter
-- [Neighbourhood Guide to Fitzroy North](/fitzroy/neighbourhood-guide) — the quieter half
+- [Collingwood Neighbourhood Guide](/collingwood/neighbourhood-guide/) — Fitzroy's fraternal twin
+- [Carlton Neighbourhood Guide](/carlton/) — the Italian quarter
+- [Fitzroy North](/fitzroy-north/) — the quieter half
+- [Northcote](/northcote/) — where Fitzroy people move when they want a backyard
 
+---
 
-<!-- WIDGET: Poll -->
-**🗳️ Why did you move to (or choose not to move to) Fitzroy?**
-- The food and coffee scene
-- Walkability and proximity to the city
-- The community and culture
-- Too noisy / too expensive
-- Somewhere else entirely — tell us in the comments
-
-[Vote in our weekly suburb poll →](/poll/fitzroy-why-live-here)
-
-
-<!-- WIDGET: Suburb Vibe Score -->
-**📊 Fitzroy Vibe Score This Week: 91/100**
-
-Fitzroy consistently scores in Melbourne's top 10 for walkability, food culture, and community feel. Noise and cost bring the score down slightly.
-
-[See the full Vibe Score breakdown →](/fitzroy/vibe-score)
-
-
-<!-- WIDGET: Comment Prompt -->
-**💬 What's the one thing about living in Fitzroy that nobody tells you?**
-
-Good or bad. We want the real stuff that doesn't make it into guides.
-
-[Drop a comment below or email us at hq@melbz101](#comments)
-
-
-<!-- WIDGET: Related Reading -->
-**📖 More from Fitzroy**
-
-- [Best Coffee in Fitzroy](/fitzroy/best-coffee) — your daily fuel sorted
-- [Best Restaurants in Fitzroy](/fitzroy/best-restaurants) — where to eat well
-- [Things To Do This Weekend in Fitzroy](/fitzroy/things-to-do-this-weekend) — your weekend plan
-
-
-*This guide was researched and written by the MELBZ team in March 2026. We visited every area discussed, spoke with local residents and business owners, and received no sponsorship or compensation. Data points are sourced from Domain, realestate.com.au, and the City of Yarra. If something's wrong, tell us — we fix things fast.*
-
-**MELBZ — Melbourne's neighbourhood intelligence. Written by locals, for locals. Not AI-generated. Not outsourced. Real people in real suburbs.**
-
-### Featured Venues
-
-- **Marion** at 53 Gertrude St, Fitzroy VIC 3065
-- **Cutler & Co.** at 55-57 Gertrude St, Fitzroy VIC 3065
-- **Poodle Bar & Bistro** at 81-83 Gertrude St, Fitzroy VIC 3065
-- **Proud Mary Coffee** at 172 Oxford St, Collingwood, VIC 3066
-- **Archie's All Day** at 189 Gertrude St, Fitzroy, VIC 3065
-- **Industry Beans Fitzroy** at 3/62 Rose St, Fitzroy, VIC 3065
-- **Vegie Bar** at 380 Brunswick St, Fitzroy VIC 3065
-- **Naked for Satan** at 285 Brunswick St, Fitzroy VIC 3065
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy VIC 3065
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy VIC 3065
-
-### Key Highlights
-
-- Brunswick Street shopping and dining
-- The Royal Exhibition Building and Carlton Gardens
-- Independent art galleries and street art tours
-
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 9/10
-- Affordability: 5/10
-- Transport: 9/10
-- Culture: 10/10
-## Related Articles
-
-- [/northcote/](/northcote/)
-- [/st-kilda/](/st-kilda/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More on Fitzroy:** [Best Coffee](/fitzroy/best-coffee/) | [Best Restaurants](/fitzroy/best-restaurants/) | [Things to Do](/fitzroy/things-to-do/) | [Cost of Living](/fitzroy/cost-of-living/)

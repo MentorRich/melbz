@@ -4,16 +4,22 @@ description: "How expensive is Park Orchards? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "park-orchards"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Park Orchards Melbourne"
   - "how expensive is Park Orchards"
   - "is Park Orchards expensive to live in"
   - "Park Orchards rent"
+tags:
+  - "park-orchards"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Park Orchards — no sugar-coating, no made-up figures.
+The cost question in Park Orchards is straightforward: rent has jumped but groceries are reasonable. Here is what your wallet actually needs to know.
 
 Read our full [Park Orchards suburb guide](/park-orchards/) for the bigger picture.
 

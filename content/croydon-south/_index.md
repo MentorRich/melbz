@@ -1,16 +1,16 @@
 ---
-title: "Croydon South Melbourne — Everything You Need to Know"
+title: "Croydon South Melbourne — what you need"
 description: "The complete guide to Croydon South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "croydon-south"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Croydon South Melbourne"
   - "what is Croydon South like"
   - "croydon-south suburb"
   - "living in Croydon South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small pocket south of Croydon centre with quiet residential streets.

@@ -1,32 +1,19 @@
 ---
 title: "AITMA: 5 Melbourne Dilemmas That Will Divide Your Group Chat"
+date: 2026-03-18
+author: "Jules Marchetti"
+author_role: "Nightlife & Culture Editor"
 cover_image: "/images/aitma/aitma-001.jpg"
----
-
+cover_alt: "Group of friends laughing together in Melbourne — every scenario here will divide your group chat"
 suburb: melbourne
 vertical: culture
-author: "jules"
-author_role: "Nightlife & Culture Editor"
-author_image: "/images/authors/lina.jpg"
+tags: ["aitma"]
+categories: ["general"]
 updated: 2026-03-14
 description: "Am I The Melbourne A-Hole? 5 real scenarios from Melbourne life. You vote. No mercy."
 keywords: ["AITMA", "am I the melbourne a-hole", "melbourne debate", "melbourne funny", "melbourne vote"]
-cover_alt: "Group of friends laughing together in Melbourne — every scenario here will divide your group chat"
-date: 2026-03-18
-tags: ["aitma"]
-categories: ["general"]
+---
 
-### More to Explore in Aitma
-
-Melbourne's inner suburbs offer endless opportunities for discovery. Beyond the well-known venues and attractions, Aitma harbours hidden corners and local favourites that reward exploration.
-
-**Early morning** in Aitma sees the suburb come alive with coffee culture. Local cafes open early, serving Melbourne's famous flat whites to early risers and shift workers alike.
-
-**Midday** brings a different energy, with business people, shoppers, and locals filling the commercial strips. The lunch trade is competitive, with venues offering everything from quick sandwiches to extended dining experiences.
-
-**Evening** transforms Aitma into a destination for dinner, drinks, and entertainment. The suburb's bars and restaurants attract both locals and visitors seeking quality options away from the usual tourist traps.
-
-**Weekends** see Aitma at its best, with markets, festivals, and community events bringing the suburb to life. The weekend brunch culture is strong, with popular venues filling up quickly during peak hours.
 **Am I The Melbourne A-Hole?** Five real Melbourne scenarios. You vote. No mercy.
 
 
@@ -97,25 +84,26 @@ We're both liars. But am I the worse one?
 🗳️ **YOU DECIDE**
 
 
-**Got an AITMA scenario?** Send it to hq@melbz101. We'll publish it (anonymously) and let Melbourne judge you.
+**Got an AITMA scenario?** Send it to hq@melbz.com.au. We'll publish it (anonymously) and let Melbourne judge you.
 
 *New AITMA every Wednesday and Saturday. [Get the Monday brief](/newsletter/) to never miss a verdict.*
 
-## Related Articles
+---
 
-- [/south-yarra/](/south-yarra/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+## Explore More of Melbourne
 
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Melbourne Student Guide](/melbourne/student-guide/)
+- [Melbourne Things To Do This Weekend](/melbourne/things-to-do-this-weekend/)
+- [Melbourne Cheap Eats](/melbourne/cheap-eats/)
+- [Melbourne Dating Diaries](/melbourne/dating-diaries/)
+- [Melbourne Date Night Guide](/melbourne/date-night/)
+- [Melbourne New Openings](/melbourne/new-openings/)
+- [Melbourne Dog Friendly Guide](/melbourne/dog-friendly-guide/)
+- [Melbourne Cost of Living](/melbourne/cost-of-living/)
 
-### More to Explore
+### Nearby Suburbs Worth Checking
 
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.
+- [Mckinnon Suburb Guide](/mckinnon/)
+- [Meadow Heights Suburb Guide](/meadow-heights/)
+- [Melbourne Apartment Vs House Guide Suburb Guide](/melbourne-apartment-vs-house-guide/)
+- [Melbourne Cafe Culture Best Suburbs Suburb Guide](/melbourne-cafe-culture-best-suburbs/)

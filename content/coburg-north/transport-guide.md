@@ -4,15 +4,22 @@ description: "Public transport in Coburg North: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "coburg-north"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Coburg North Melbourne"
   - "commute from Coburg North to city"
   - "Coburg North train station"
+tags:
+  - "coburg-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Coburg North — what works, what's annoying, and how long things actually take.
+Living in Coburg North means adapting to its transport quirks. Every suburb has them - here are the ones for Coburg North.
 
 Check out our full [Coburg North suburb guide](/coburg-north/) for the complete picture.
 

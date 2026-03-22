@@ -4,16 +4,22 @@ description: "The story of Noble Park: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "noble-park"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Noble Park Melbourne history"
   - "how has Noble Park changed"
   - "Noble Park gentrification"
   - "Noble Park then and now"
+tags:
+  - "noble-park"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Noble Park's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Noble Park involve community battles over development.
 
 See our full [Noble Park suburb guide](/noble-park/) for the current picture.
 

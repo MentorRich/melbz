@@ -4,15 +4,22 @@ description: "Public transport in The Basin: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "the-basin"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport The Basin Melbourne"
   - "commute from The Basin to city"
   - "The Basin train station"
+tags:
+  - "the-basin"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around The Basin — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering The Basin. Let us cut through the fluff.
 
 Check out our full [The Basin suburb guide](/the-basin/) for the complete picture.
 

@@ -1,18 +1,14 @@
 ---
-title: "What to Do in Cremorne This Weekend"
-description: "Your weekend in Cremorne sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner East."
-date: 2026-03-21
+title: "What to Do in Cremorne This Weekend — 2026 Guide"
+description: "Your weekend in Cremorne sorted. Warehouse cafe brunch, Yarra River walking trail, Church Street browsing, and afternoon drinks in Melbourne's compact tech suburb."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sharma"
+cover_image: "/images/cremorne/weekend-guide.jpg"
+cover_image_alt: "Weekend brunch scene at a Cremorne warehouse cafe"
 suburb: "cremorne"
-article_type: "weekend"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
-keywords:
-  - "what to do Cremorne this weekend"
-  - "Cremorne weekend"
-  - "things to do Cremorne Saturday"
-  - "Cremorne Sunday plans"
+tags: ["cremorne", "weekend", "things-to-do"]
 ---
-
 
 ## Your Weekend in Cremorne
 
@@ -38,13 +34,13 @@ Cremorne does weekends well. Whether you're the type who plans every hour or pre
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Cremorne's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/cremorne/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Cremorne's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Cremorne starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Cremorne starts slower. The [cafes](/cremorne/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Cremorne and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +58,23 @@ Cremorne does weekends well. Whether you're the type who plans every hour or pre
 ---
 
 **More on Cremorne:** [Cremorne Suburb Guide](/cremorne/) · [Cremorne Things to Do](/cremorne/things-to-do/) · [Cremorne Best Restaurants](/cremorne/best-restaurants/)
+
+---
+
+## Explore More of Cremorne
+
+- [Cremorne History](/cremorne/history/)
+- [Cremorne Things To Do This Weekend](/cremorne/things-to-do-this-weekend/)
+- [Cremorne Cheap Eats](/cremorne/cheap-eats/)
+- [Cremorne Rent Guide](/cremorne/rent-guide/)
+- [Cremorne Date Night Guide](/cremorne/date-night/)
+- [Cremorne Cremorne For Retirees](/cremorne/cremorne-for-retirees/)
+- [Cremorne New Openings](/cremorne/new-openings/)
+- [Cremorne Things To Do](/cremorne/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Cranbourne North Suburb Guide](/cranbourne-north/)
+- [Cranbourne West Suburb Guide](/cranbourne-west/)
+- [Croydon Suburb Guide](/croydon/)
+- [Croydon North Suburb Guide](/croydon-north/)

@@ -4,12 +4,16 @@ description: "Considering retirement in Albert Park? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "albert-park"
 article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Albert Park retirees Melbourne"
   - "retiring in Albert Park"
   - "quiet suburbs Melbourne"
+tags:
+  - "albert-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Albert Park? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

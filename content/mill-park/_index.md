@@ -1,16 +1,16 @@
 ---
-title: "Mill Park Melbourne — Everything You Need to Know"
+title: "Mill Park Melbourne — what you need"
 description: "The complete guide to Mill Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mill-park"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Mill Park Melbourne"
   - "what is Mill Park like"
   - "mill-park suburb"
   - "living in Mill Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Plenty Valley's family hub. Westfield Plenty Valley, newer estates, and good PT.

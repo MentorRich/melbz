@@ -1,17 +1,14 @@
 ---
-title: "Nightlife Guide in Prahran — 2026 Local Guide"
-cover_image: "/images/prahran/nightlife-guide.jpg"
----
-
+title: "Nightlife Guide for Prahran 2026 — Local Guide"
+description: "The complete nightlife guide for Prahran in 2026. From Revolver Upstairs to Greville Street indie bars, clubs, and getting home safe."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/shared/melbourne-nightlife.jpg"
+cover_image_alt: "Prahran Melbourne Chapel Street nightlife scene"
 suburb: "prahran"
-vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the nightlife guide in Prahran. Our verified 2026 guide covers the best spots for locals."
-tags: ["prahran"]
-categories: ["nightlife"]
+tags: ["melbourne", "prahran", "nightlife", "bars"]
+---
 ## The Nightlife Guide to Prahran
 
 Prahran's nightlife runs on a split personality. On one side, you've got Greville Street's indie bars and live music venues where the evening winds down around midnight. On the other, there's Chapel Street's never-say-die club culture where the night doesn't really start until 1am and doesn't end until someone turns the lights on. This guide covers both — because a proper Prahran night out usually involves at least one of each.
@@ -98,11 +95,11 @@ Entry is usually $15–$25, and drinks are standard Chapel Street pricing ($12�
 
 Prahran's nightlife is concentrated along Chapel Street and Greville Street. Here's what you need to know to get home in one piece:
 
-- **Chapel Street late-night strip:** The stretch between Greville Street and High Street gets rowdy after midnight. Stick to well-lit areas. The Prahran end of Chapel Street (towards Commercial Road) is generally calmer than the Windsor end.
-- **Trams:** The 78 tram runs along Chapel Street until approximately 1am on weekends. Night Network buses cover the route after that. The 109 along Commercial Road has similar timings.
+- **Chapel Street late-night strip:** The stretch between Greville Street and High Street gets rowdy after midnight. Stick to well-lit areas. The Prahran end of Chapel Street (towards Commercial Road) is generally calmer than the [Windsor](/windsor/) end.
+- **Trams:** The 78 tram runs along Chapel Street until approximately 1am on weekends. Night Network buses cover the route after that. The 72 tram along Commercial Road has similar timings.
 - **Ride-share pick-up:** Use the designated pick-up zones on Chapel Street near Prahran Station. Do NOT try to get picked up in the middle of the strip after midnight — the traffic is chaos and your driver will cancel.
 - **Prahran Station area:** The station forecourt and surrounding streets are generally well-lit and patrolled on busy nights.
-- **Police:** Glen Eira Police Station at 360 Punt Road, South Yarra (open 24 hours).
+- **Police:** Glen Eira Police Station at 360 Punt Road, [South Yarra](/south-yarra/) (open 24 hours).
 - **Emergency:** Call 000. If someone's been spiked or is in distress, tell venue security immediately — most Prahran clubs have trained staff and protocols.
 - **Looking after each other:** Melbourne's nightlife culture is getting better at this, but it's worth saying — if a friend's had too much, get them water, sit them down, and make sure they get home safely. Don't just leave them on a bench with a kebab and a prayer.
 
@@ -111,48 +108,46 @@ Prahran's nightlife is concentrated along Chapel Street and Greville Street. Her
 
 - **Centrefold Lounge** — Adult entertainment venue. Not something we cover in a general nightlife guide.
 - **56 Bricks** — Currently operating irregularly. We'll revisit when their schedule stabilises.
-- **The Esplanade Hotel** — Technically in Melbourne (St Kilda), not Prahran. Wrong suburb.
+- **The Esplanade Hotel** — Technically in Melbourne ([St Kilda](/st-kilda/)), not Prahran. Wrong suburb.
 
 We only list venues we've personally visited and can vouch for. Prices and entry fees are verified for early 2026 but will vary depending on the night and event. Always check the venue's social media or website before heading out.
 
 
-**Living in Prahran?** [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=prahran)
+## FAQ
 
+**What is the best nightclub in Prahran?**
+Revolver Upstairs is the most iconic. The Emerson for rooftop energy. Love Machine for a big group night out.
 
-*MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran after-dark coverage, see our [best pubs guide](/prahran/best-pubs) or [date night picks](/prahran/date-night). If you're exploring beyond Prahran, check our [South Yarra nightlife guide](/south-yarra/nightlife-guide) or [Windsor nightlife roundup](/windsor/nightlife-guide).*
+**What time do Prahran clubs close?**
+Most clubs run until 3-5am on weekends. Revolver's Saturday session famously stretches until Sunday morning.
 
-### Featured Venues
+**Is Prahran nightlife safe?**
+Generally yes. Stick to well-lit areas on Chapel Street, use the ride-share zones near Prahran station, and look after your mates. See our [safety guide](/prahran/safety-guide/) for details.
 
-- **Hawker Hall** at 98 Chapel St, Windsor, VIC 3181
-- **Entrecôte** at 142-144 Greville St, Prahran, VIC 3181
-- **Tokyo Tina** at 66A Chapel St, Windsor, VIC 3181
-- **Tall Timber** at 60 Commercial Rd, Prahran VIC 3181
-- **Journeyman** at 169 Chapel St, Prahran VIC 3181
-- **Oscar Cooper** at 160 Greville St, Prahran VIC 3181
-- **Dragon Hot Pot Prahran** at 180 Commercial Rd, Prahran VIC 3181
-- **Prahran Convenience Store (The Toastie Spot)** at 208 Commercial Rd, Prahran VIC 3181
-- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor VIC 3181
-- **Rice Paper Scissors** at 577 Chapel St, South Yarra, VIC 3141
+## The Verdict
 
-### Key Highlights
+Prahran's nightlife runs the full range: indie bars for quiet drinks, proper nightclubs for 4am finishes, and everything in between. The Chapel Street and Greville Street strips are different in character but connected by foot, meaning a Prahran night out can evolve naturally from cocktails to dinner to dancing without needing to plan or travel.
 
-- Prahran Market
-- Chapel Street shopping precinct
-- Grattan Gardens
+---
 
-### Suburb Vibe
+**More Prahran:** [Best Bars](/prahran/best-bars/) | [Best Pubs](/prahran/best-pubs/) | [Date Night](/prahran/date-night/) | [Prahran Suburb Guide](/prahran/)
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
+---
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/nightlife/](/nightlife/)
-- [/things-to-do/](/things-to-do/)
+## Explore More of Prahran
 
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Prahran History](/prahran/history/)
+- [Prahran Late Night Eats](/prahran/late-night-eats/)
+- [Prahran Things To Do This Weekend](/prahran/things-to-do-this-weekend/)
+- [Prahran Cheap Eats](/prahran/cheap-eats/)
+- [Prahran Rent Guide](/prahran/rent-guide/)
+- [Prahran Prahran For Retirees](/prahran/prahran-for-retirees/)
+- [Prahran Date Night Guide](/prahran/date-night/)
+- [Prahran Food Crawl](/prahran/food-crawl/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)
+- [Albert Park Suburb Guide](/albert-park/)

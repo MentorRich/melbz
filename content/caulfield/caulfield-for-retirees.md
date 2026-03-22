@@ -4,12 +4,16 @@ description: "Considering retirement in Caulfield? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "caulfield"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Caulfield retirees Melbourne"
   - "retiring in Caulfield"
   - "quiet suburbs Melbourne"
+tags:
+  - "caulfield"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Caulfield? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,16 +4,22 @@ description: "How expensive is Malvern East? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "malvern-east"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Malvern East Melbourne"
   - "how expensive is Malvern East"
   - "is Malvern East expensive to live in"
   - "Malvern East rent"
+tags:
+  - "malvern-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Malvern East — no sugar-coating, no made-up figures.
+Malvern East living costs reflect its position in Melbourne property landscape. Here are the numbers that matter.
 
 Read our full [Malvern East suburb guide](/malvern-east/) for the bigger picture.
 

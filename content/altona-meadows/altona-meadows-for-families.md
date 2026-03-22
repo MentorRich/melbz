@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Altona Meadows? Parks, schools, safety
 date: 2026-03-21
 suburb: "altona-meadows"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Altona Meadows good for families"
   - "Altona Meadows family friendly"
   - "raising kids in Altona Meadows"
+tags:
+  - "altona-meadows"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Altona Meadows with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

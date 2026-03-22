@@ -4,12 +4,16 @@ description: "Thinking of raising kids in West Footscray? Parks, schools, safety
 date: 2026-03-21
 suburb: "west-footscray"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is West Footscray good for families"
   - "West Footscray family friendly"
   - "raising kids in West Footscray"
+tags:
+  - "west-footscray"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to West Footscray with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

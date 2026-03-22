@@ -3,14 +3,13 @@ title: "Transport in Port Melbourne 2026: Trains, Trams & the Commute Reality"
 slug: "transport-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 suburb: "port-melbourne"
 suburbs: ["port-melbourne"]
 vertical: lifestyle
 tags: ["port-melbourne", "transport", "commute", "trains", "trams"]
 description: "How to get around Port Melbourne in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/5182225/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Port Melbourne Melbourne transport"
 vibe_score: 77
 ---
@@ -51,4 +50,24 @@ For the full picture of living here, check our [Living in Port Melbourne guide](
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Port Melbourne
+
+- [Port Melbourne History](/port-melbourne/history/)
+- [Port Melbourne Rent Guide](/port-melbourne/rent-guide/)
+- [Port Melbourne Things To Do](/port-melbourne/things-to-do/)
+- [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/)
+- [Port Melbourne Young Professionals Guide](/port-melbourne/young-professionals/)
+- [Port Melbourne Nightlife Guide](/port-melbourne/nightlife-guide/)
+- [Port Melbourne Best Cafes](/port-melbourne/best-cafes/)
+- [Port Melbourne Best Restaurants](/port-melbourne/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

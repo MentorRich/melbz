@@ -4,16 +4,22 @@ description: "How expensive is Clayton? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "clayton"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Clayton Melbourne"
   - "how expensive is Clayton"
   - "is Clayton expensive to live in"
   - "Clayton rent"
+tags:
+  - "clayton"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Clayton — no sugar-coating, no made-up figures.
+Everyone asks how expensive is Clayton. The real answer depends on your lifestyle. Here is the data.
 
 Read our full [Clayton suburb guide](/clayton/) for the bigger picture.
 

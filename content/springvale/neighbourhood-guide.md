@@ -4,13 +4,18 @@ description: "The insider's guide to Springvale's different pockets, streets, an
 date: 2026-03-21
 suburb: "springvale"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Springvale neighbourhood guide"
   - "best streets in Springvale"
   - "Springvale areas"
   - "Springvale pockets Melbourne"
+tags:
+  - "springvale"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Springvale isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

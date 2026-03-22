@@ -3,14 +3,13 @@ title: "Cost of Living in Seddon 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "seddon"
 suburbs: ["seddon"]
 vertical: property
 tags: ["seddon", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Seddon in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/8554121/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Seddon Melbourne cost of living"
 vibe_score: 76
 ---
@@ -28,7 +27,7 @@ This is where most of your money goes. Seddon's rental market in 2026 looks like
 | 3-bed house | $612 | $31,824 | 15% below |
 | Share house (per room) | $195 | $10,140 | 15% below |
 
-**Pro tip:** If you're flexible on the exact street, prices can vary 15-20% within Seddon alone. The streets closer to transport and the main commercial strip command premium.
+**Pro tip:** If you're flexible on the exact street, prices can vary 15-20% within Seddon alone. The streets closer to [transport](/seddon/transport-guide/) and the main commercial strip command premium.
 
 ## Monthly Living Costs Breakdown
 
@@ -50,7 +49,7 @@ This is where most of your money goes. Seddon's rental market in 2026 looks like
 
 **Eating out:** The average meal out in Seddon runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/seddon/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Seddon, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Seddon, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you [commute](/seddon/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,24 @@ For more context on how this compares, check our [Living in Seddon guide](/seddo
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Seddon
+
+- [Seddon History](/seddon/history/)
+- [Seddon Rent Guide](/seddon/rent-guide/)
+- [Seddon Things To Do](/seddon/things-to-do/)
+- [Seddon Young Professionals Guide](/seddon/young-professionals/)
+- [Seddon Transport Guide](/seddon/transport-guide/)
+- [Seddon Best Cafes](/seddon/best-cafes/)
+- [Seddon Best Restaurants](/seddon/best-restaurants/)
+- [Seddon Weekend Guide](/seddon/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Footscray Suburb Guide](/footscray/)
+- [Yarraville Suburb Guide](/yarraville/)
+- [Williamstown Suburb Guide](/williamstown/)
+- [Newport Suburb Guide](/newport/)

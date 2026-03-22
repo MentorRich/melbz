@@ -1,16 +1,16 @@
 ---
-title: "Ascot Vale Melbourne — Everything You Need to Know"
+title: "Ascot Vale Melbourne — what you need"
 description: "The complete guide to Ascot Vale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "ascot-vale"
 article_type: "profile"
 author: "Dave Wilson"
-author_image: "/images/authors/nina.jpg"
 keywords:
   - "Ascot Vale Melbourne"
   - "what is Ascot Vale like"
   - "ascot-vale suburb"
   - "living in Ascot Vale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Union Road village, Maribyrnong River trails, and good family living near the city.

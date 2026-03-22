@@ -4,12 +4,16 @@ description: "Considering retirement in South Morang? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "south-morang"
 article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "South Morang retirees Melbourne"
   - "retiring in South Morang"
   - "quiet suburbs Melbourne"
+tags:
+  - "south-morang"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in South Morang? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

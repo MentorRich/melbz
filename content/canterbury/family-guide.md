@@ -3,14 +3,13 @@ title: "Canterbury for Families 2026: Schools, Parks & the Parent Verdict"
 slug: "family-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: kate
-author_image: "/images/authors/kate.jpg"
+author: "Kate Sullivan"
 suburb: "canterbury"
 suburbs: ["canterbury"]
 vertical: lifestyle
 tags: ["canterbury", "family-guide", "schools", "parks", "families"]
 description: "Is Canterbury good for families? Schools, parks, safety, activities and the honest parent review for 2026."
-cover_image: "https://images.pexels.com/photos/4468409/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/parks-gardens.jpg"
 cover_alt: "Canterbury family friendly parks Melbourne"
 vibe_score: 75
 ---
@@ -49,9 +48,9 @@ Most cafes in Canterbury are family-tolerant if not explicitly family-friendly. 
 
 Weekends in Canterbury have genuine options. Local markets, community events, library programs, sporting clubs, and enough parks to rotate for variety. The council runs seasonal programs worth checking.
 
-## The Commute Factor
+## The [Commute](/canterbury/transport-guide/) Factor
 
-The commute from Canterbury matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the transport schedule against your actual school and work locations.
+The commute from Canterbury matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the [transport](/canterbury/transport-guide/) schedule against your actual school and work locations.
 
 See our [Canterbury Transport Guide](/canterbury/transport-guide/) for the full breakdown.
 
@@ -67,4 +66,23 @@ Canterbury is a genuinely excellent family suburb. Strong schools, safe streets,
 
 ---
 
-*Are you a Canterbury parent? Tell us what we missed — [hq@melbz101](mailto:hq@melbz101) or DM [@melbz101](https://instagram.com/melbz101).*
+*Are you a Canterbury parent? Tell us what we missed — [hq@melbz.com.au](mailto:hq@melbz.com.au) or DM [@melbz101](https://instagram.com/melbz101).*
+
+---
+
+## Explore More of Canterbury
+
+- [Canterbury History](/canterbury/history/)
+- [Canterbury Canterbury For Retirees](/canterbury/canterbury-for-retirees/)
+- [Canterbury Cost of Living](/canterbury/cost-of-living/)
+- [Canterbury Young Professionals Guide](/canterbury/young-professionals/)
+- [Canterbury Nightlife Guide](/canterbury/nightlife-guide/)
+- [Canterbury Transport Guide](/canterbury/transport-guide/)
+- [Canterbury Honest Guide](/canterbury/honest-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

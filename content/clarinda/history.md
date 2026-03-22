@@ -4,16 +4,22 @@ description: "The story of Clarinda: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "clarinda"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Clarinda Melbourne history"
   - "how has Clarinda changed"
   - "Clarinda gentrification"
   - "Clarinda then and now"
+tags:
+  - "clarinda"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Clarinda's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Clarinda is tied to Melbourne's industrial past.
 
 See our full [Clarinda suburb guide](/clarinda/) for the current picture.
 

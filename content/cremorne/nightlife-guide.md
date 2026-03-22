@@ -1,17 +1,15 @@
 ---
-title: "Nightlife Guide in Cremorne — 2026 Local Guide"
+title: "Nightlife Guide to Cremorne — 2026 Local Guide"
+description: "Cremorne after dark in 2026. Not a nightlife suburb by design, but the after-work drinks scene on Church Street and Cremorne Street is small and perfectly formed."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
 cover_image: "/images/cremorne/nightlife-guide.jpg"
+cover_image_alt: "Cremorne Church Street evening bar scene"
+suburb: "cremorne"
+tags: ["cremorne", "nightlife", "bars"]
 ---
 
-suburb: "cremorne"
-vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Cremorne's nightlife is small but perfectly formed for after-work drinks and early evenings. Here's where to go when the sun goes down in 3121."
-tags: ["cremorne"]
-categories: ["nightlife"]
 # Nightlife in Cremorne — Where 3121 Goes After Hours
 
 Let's be clear about something upfront: Cremorne is not a nightlife suburb.
@@ -174,10 +172,9 @@ You won't be coming to Cremorne for a night that lasts until dawn. You'll be com
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

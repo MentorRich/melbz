@@ -4,16 +4,22 @@ description: "The story of Ashburton: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "ashburton"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Ashburton Melbourne history"
   - "how has Ashburton changed"
   - "Ashburton gentrification"
   - "Ashburton then and now"
+tags:
+  - "ashburton"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Ashburton's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Ashburton involve post-war migration and renewal.
 
 See our full [Ashburton suburb guide](/ashburton/) for the current picture.
 

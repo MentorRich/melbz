@@ -1,19 +1,15 @@
 ---
 title: "Kensington — History and How It's Changed"
-description: "The story of Kensington: from its origins to today. How this Melbourne suburb evolved and where it's heading next."
-date: 2026-03-21
+description: "The story of Kensington: from its origins to today. How this Melbourne suburb evolved and where it's heading next. Updated for 2026 with real local picks and."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Chen"
+cover_image: "/images/kensington/history.jpg"
+cover_image_alt: "History in Kensington Melbourne"
 suburb: "kensington"
-article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-keywords:
-  - "Kensington Melbourne history"
-  - "how has Kensington changed"
-  - "Kensington gentrification"
-  - "Kensington then and now"
+tags: ["kensington", "history"]
 ---
-
-Every Melbourne suburb has a story. Kensington's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Kensington, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Kensington suburb guide](/kensington/) for the current picture.
 

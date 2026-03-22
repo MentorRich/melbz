@@ -4,16 +4,22 @@ description: "The story of Montrose: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "montrose"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Montrose Melbourne history"
   - "how has Montrose changed"
   - "Montrose gentrification"
   - "Montrose then and now"
+tags:
+  - "montrose"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Montrose's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Montrose and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Montrose suburb guide](/montrose/) for the current picture.
 

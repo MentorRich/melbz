@@ -4,15 +4,22 @@ description: "Public transport in Narre Warren South: trains, trams, buses, cycl
 date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Narre Warren South Melbourne"
   - "commute from Narre Warren South to city"
   - "Narre Warren South train station"
+tags:
+  - "narre-warren-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Narre Warren South — what works, what's annoying, and how long things actually take.
+Getting around Narre Warren South comes down to one key train line. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Narre Warren South suburb guide](/narre-warren-south/) for the complete picture.
 

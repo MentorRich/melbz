@@ -4,13 +4,19 @@ description: "The bar scene in Glen Iris: where to drink, what the vibe is, and 
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "nightlife"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "best bars Glen Iris"
   - "bars in Glen Iris Melbourne"
   - "nightlife Glen Iris"
   - "where to drink Glen Iris"
+tags:
+  - "glen-iris"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 
@@ -55,4 +61,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris Best Restaurants](/glen-iris/best-restaurants/) · [Glen Iris for Young Professionals](/glen-iris/glen-iris-for-young-professionals/)
+**More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris Best Restaurants](/glen-iris/best-[restaurants](/glen-iris/best-restaurants/)/) · [Glen Iris for Young Professionals](/glen-iris/glen-iris-for-young-professionals/)
+
+---
+
+## Explore More of Glen Iris
+
+- [Glen Iris History](/glen-iris/history/)
+- [Glen Iris Rent Guide](/glen-iris/rent-guide/)
+- [Glen Iris Glen Iris For Retirees](/glen-iris/glen-iris-for-retirees/)
+- [Glen Iris Things To Do](/glen-iris/things-to-do/)
+- [Glen Iris Cost of Living](/glen-iris/cost-of-living/)
+- [Glen Iris Young Professionals Guide](/glen-iris/young-professionals/)
+- [Glen Iris Transport Guide](/glen-iris/transport-guide/)
+- [Glen Iris Best Cafes](/glen-iris/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

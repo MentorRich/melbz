@@ -1,16 +1,16 @@
 ---
-title: "Gardenvale Melbourne — Everything You Need to Know"
+title: "Gardenvale Melbourne — what you need"
 description: "The complete guide to Gardenvale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "gardenvale"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Gardenvale Melbourne"
   - "what is Gardenvale like"
   - "gardenvale suburb"
   - "living in Gardenvale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small, quiet pocket between Brighton East and Elsternwick. Purely residential and family-focused.

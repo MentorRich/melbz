@@ -4,13 +4,19 @@ description: "Where to eat in Malvern: the honest guide to the suburb's restaura
 date: 2026-03-21
 suburb: "malvern"
 article_type: "best-of"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "best restaurants Malvern"
   - "where to eat Malvern"
   - "dinner Malvern Melbourne"
   - "restaurants near Malvern"
+tags:
+  - "malvern"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
@@ -56,4 +62,24 @@ The mid-range is where Malvern shines — restaurants that care about quality bu
 
 ---
 
-**More on Malvern:** [Malvern Suburb Guide](/malvern/) · [Malvern Best Cafes](/malvern/best-cafes/) · [Malvern Living Guide](/malvern/living-in-malvern/)
+**More on Malvern:** [Malvern Suburb Guide](/malvern/) · [Malvern Best Cafes](/malvern/best-[cafes](/malvern/best-cafes/)/) · [Malvern Living Guide](/malvern/living-in-malvern/)
+
+---
+
+## Explore More of Malvern
+
+- [Malvern History](/malvern/history/)
+- [Malvern Rent Guide](/malvern/rent-guide/)
+- [Malvern Things To Do](/malvern/things-to-do/)
+- [Malvern Cost of Living](/malvern/cost-of-living/)
+- [Malvern Young Professionals Guide](/malvern/young-professionals/)
+- [Malvern Transport Guide](/malvern/transport-guide/)
+- [Malvern Best Cafes](/malvern/best-cafes/)
+- [Malvern Weekend Guide](/malvern/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

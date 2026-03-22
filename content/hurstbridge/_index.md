@@ -1,16 +1,16 @@
 ---
-title: "Hurstbridge Melbourne — Everything You Need to Know"
+title: "Hurstbridge Melbourne — what you need"
 description: "The complete guide to Hurstbridge. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "hurstbridge"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Hurstbridge Melbourne"
   - "what is Hurstbridge like"
   - "hurstbridge suburb"
   - "living in Hurstbridge"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 End of the Hurstbridge line. Rural village with winery access and complete tree change.

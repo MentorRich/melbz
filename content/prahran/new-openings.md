@@ -1,12 +1,13 @@
 ---
 title: "New Openings in Prahran 2026"
-cover_image: "/images/prahran/new-openings.jpg"
-date: 2026-03-18
-author: priya
-author_image: "/images/authors/priya.jpg"
-description: "The newest restaurants, cafes, and bars that just opened in Prahran. Fresh concepts and exciting new venues to try this year."
-tags: ["prahran", "new-openings"]
-categories: ["new"]
+description: "The newest restaurants, cafes, and bars that opened in Prahran this year. Fresh concepts across Greville Street, Chapel Street, and High Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sharma"
+cover_image: "/images/shared/melbourne-dining.jpg"
+cover_image_alt: "Prahran Melbourne new restaurant opening"
+suburb: "prahran"
+tags: ["melbourne", "prahran", "new-openings", "restaurants"]
 ---
 
 *Updated 18 March 2026 | Food Editor*
@@ -53,22 +54,19 @@ This is a suburb in thoughtful conversation with its past and its future. And as
 *For more guides to Melbourne's ever-evolving neighbourhoods, explore our guides to the [best restaurants](/best-restaurants-melbourne/) and [best cafes](/best-cafes-melbourne/) across the city.*
 
 
+## FAQ
 
-## Venue Addresses & Details
+**What new restaurants have opened in Prahran in 2026?**
+Key openings include Hearth & Grain bakery on Greville Street, Bar Silex natural wine bar on Izett Street, Mylk & Vine plant-based dining on High Street, and Midnight Sun izakaya on Malvern Road.
 
-- **Lumina Rooftop Bar** — 122 Greville Street, Prahran, VIC 3181 ($$$). Open: Tue-Sun 4pm-1am. *Tip: Book the corner booth facing the CBD skyline at sunset.*
-- **Osteria Nera** — 245 Chapel Street, Prahran, VIC 3181 ($$). Open: Mon-Sun 12pm-10pm. *Tip: The handmade pappardelle with wild boar ragu is not on the printed menu; ask your server.*
-- **Koji Kitchen & Sake** — 188 Commercial Road, Prahran, VIC 3181 ($$$). Open: Wed-Sun 6pm-11pm. *Tip: Sit at the chef's counter to watch the fermentation process of their house-made miso.*
-- **Bloom & Brew** — 45 High Street, Prahran, VIC 3181 ($). Open: Mon-Fri 7am-4pm, Sat-Sun 8am-4pm. *Tip: The lavender-infused cold brew is the perfect pick-me-up for a morning stroll.*
-- **The Velvet Vault** — 99 Chapel Street, Prahran, VIC 3181 ($$$). Open: Thu-Sat 8pm-3am. *Tip: Look for the unmarked brass door next to the vintage clothing store.*
-## Related Articles
+**Are the new Prahran openings worth visiting?**
+Yes. This wave of openings adds genuine depth to Prahran's food scene: heritage grain bakery, natural wine, plant-based dining, and late-night Japanese. Each fills a gap the suburb previously lacked.
 
-- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
-- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
-- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
-- [Best Bars in Melbourne](/best-bars-melbourne)
-- [Cost of Living in Melbourne](/cost-of-living-melbourne)
-- [Transport Guide for Melbourne](/transport-guide-melbourne)
+## The Verdict
 
-*Find more Melbourne suburb guides at [melbz.com.au](/)*
+Prahran's 2026 openings are confident and specialised. These are not trend-chasers but specialists adding layers to the suburb's identity. They speak to a desire for authenticity and considered spaces. Come hungry, come curious.
+
+---
+
+**More Prahran:** [Best Restaurants](/prahran/best-restaurants/) | [Best Cafes](/prahran/best-cafes/) | [Food Crawl](/prahran/food-crawl/) | [Prahran Suburb Guide](/prahran/)
 

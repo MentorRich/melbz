@@ -4,15 +4,22 @@ description: "Public transport in Clayton: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "clayton"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Clayton Melbourne"
   - "commute from Clayton to city"
   - "Clayton train station"
+tags:
+  - "clayton"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Clayton — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Clayton, you need to know what the daily commute actually looks like.
 
 Check out our full [Clayton suburb guide](/clayton/) for the complete picture.
 

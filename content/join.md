@@ -1,9 +1,8 @@
 ---
-cover_image: "https://images.pexels.com/photos/32862266/pexels-photo-32862266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+cover_image: "/images/shared/city-architecture.jpg"
 title: "Join MELBZ — Your Suburb, Your Voice"
 date: 2026-03-17T08:30:00+10:00
-author: "MELBZ Team"
-author_image: "/images/authors/adam.jpg"
+author: "Marcus Cole"
 description: "Join MELBZ and become part of your suburb's community. Share confessions, debate flat white prices, and discover what's happening near you."
 tags: ["community", "join", "signup"]
 categories: ["Community"]
@@ -76,7 +75,7 @@ layout: "custom"
       
       <div class="form-group">
         <label for="email">Your email (for magic links)</label>
-        <input type="email" id="email" name="email" placeholder="hq@melbz101" required>
+        <input type="email" id="email" name="email" placeholder="hq@melbz.com.au" required>
         <span class="hint">We'll send you a magic link to sign in — no passwords yet</span>
       </div>
       
@@ -335,19 +334,10 @@ layout: "custom"
 </script>
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/south-yarra/](/south-yarra/)
-- [/prahran/](/prahran/)
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
+- [Northcote](/northcote/)
+- [South Yarra](/south-yarra/)
+- [Prahran](/prahran/)
+- [Southbank](/southbank/)
+- [Richmond](/richmond/)
 
-*Find more Melbourne content at [melbz.com.au](/)*
 
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

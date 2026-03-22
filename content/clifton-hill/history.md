@@ -4,16 +4,22 @@ description: "The story of Clifton Hill: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Clifton Hill Melbourne history"
   - "how has Clifton Hill changed"
   - "Clifton Hill gentrification"
   - "Clifton Hill then and now"
+tags:
+  - "clifton-hill"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Clifton Hill's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Clifton Hill is rooted in immigration and community.
 
 See our full [Clifton Hill suburb guide](/clifton-hill/) for the current picture.
 

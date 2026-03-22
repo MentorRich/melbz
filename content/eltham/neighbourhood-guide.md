@@ -4,13 +4,18 @@ description: "The insider's guide to Eltham's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "eltham"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "Eltham neighbourhood guide"
   - "best streets in Eltham"
   - "Eltham areas"
   - "Eltham pockets Melbourne"
+tags:
+  - "eltham"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Eltham isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

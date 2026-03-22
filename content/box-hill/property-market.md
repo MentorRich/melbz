@@ -3,14 +3,14 @@ title: "Box Hill Property Market — Buying Guide"
 description: "Thinking of buying in Box Hill? What the market looks like, what to expect, and the honest view for buyers."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "property"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-keywords:
-  - "buying in Box Hill"
-  - "Box Hill property market"
-  - "Box Hill house prices"
-  - "real estate Box Hill Melbourne"
+author: "Dani Reyes"
+tags:
+  - "box-hill"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -80,3 +80,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Box Hill:** [Box Hill Suburb Guide](/box-hill/) · [Box Hill Cost of Living](/box-hill/cost-of-living/) · [Box Hill Neighbourhood Guide](/box-hill/neighbourhood-guide/)
+
+---
+
+## Explore More of Box Hill
+
+- [Box Hill History](/box-hill/history/)
+- [Box Hill Rent Guide](/box-hill/rent-guide/)
+- [Box Hill Box Hill For Families](/box-hill/box-hill-for-families/)
+- [Box Hill Things To Do](/box-hill/things-to-do/)
+- [Box Hill Box Hill For Retirees](/box-hill/box-hill-for-retirees/)
+- [Box Hill Cost of Living](/box-hill/cost-of-living/)
+- [Box Hill Neighbourhood Guide](/box-hill/neighbourhood-guide/)
+- [Box Hill Transport Guide](/box-hill/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

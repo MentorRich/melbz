@@ -4,13 +4,18 @@ description: "The insider's guide to Croydon North's different pockets, streets,
 date: 2026-03-21
 suburb: "croydon-north"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Croydon North neighbourhood guide"
   - "best streets in Croydon North"
   - "Croydon North areas"
   - "Croydon North pockets Melbourne"
+tags:
+  - "croydon-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Croydon North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

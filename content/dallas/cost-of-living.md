@@ -4,16 +4,22 @@ description: "How expensive is Dallas? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "dallas"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Dallas Melbourne"
   - "how expensive is Dallas"
   - "is Dallas expensive to live in"
   - "Dallas rent"
+tags:
+  - "dallas"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Dallas — no sugar-coating, no made-up figures.
+Living costs in Dallas have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Dallas suburb guide](/dallas/) for the bigger picture.
 

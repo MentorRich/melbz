@@ -4,12 +4,16 @@ description: "Considering retirement in Mulgrave? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "mulgrave"
 article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Mulgrave retirees Melbourne"
   - "retiring in Mulgrave"
   - "quiet suburbs Melbourne"
+tags:
+  - "mulgrave"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Mulgrave? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

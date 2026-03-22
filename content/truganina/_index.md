@@ -1,16 +1,16 @@
 ---
-title: "Truganina Melbourne — Everything You Need to Know"
+title: "Truganina Melbourne — what you need"
 description: "The complete guide to Truganina. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "truganina"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Truganina Melbourne"
   - "what is Truganina like"
   - "truganina suburb"
   - "living in Truganina"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Southern Wyndham growth with massive new estates and growing community infrastructure.

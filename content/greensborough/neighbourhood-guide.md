@@ -4,13 +4,18 @@ description: "The insider's guide to Greensborough's different pockets, streets,
 date: 2026-03-21
 suburb: "greensborough"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Greensborough neighbourhood guide"
   - "best streets in Greensborough"
   - "Greensborough areas"
   - "Greensborough pockets Melbourne"
+tags:
+  - "greensborough"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Greensborough isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

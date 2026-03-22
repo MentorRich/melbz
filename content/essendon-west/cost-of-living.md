@@ -4,16 +4,22 @@ description: "How expensive is Essendon West? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "essendon-west"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Essendon West Melbourne"
   - "how expensive is Essendon West"
   - "is Essendon West expensive to live in"
   - "Essendon West rent"
+tags:
+  - "essendon-west"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Essendon West — no sugar-coating, no made-up figures.
+Living costs in Essendon West have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Essendon West suburb guide](/essendon-west/) for the bigger picture.
 

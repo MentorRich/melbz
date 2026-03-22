@@ -1,96 +1,38 @@
 ---
-title: "Docklands Melbourne — Everything You Need to Know"
-description: "The complete guide to Docklands. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
-date: 2026-03-21
-suburb: "docklands"
-article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
-keywords:
-  - "Docklands Melbourne"
-  - "what is Docklands like"
-  - "docklands suburb"
-  - "living in Docklands"
+title: "Docklands"
+cover_image: "/images/shared/city-architecture.jpg"
+description: "Docklands is Melbourne's waterfront experiment — Marvel Stadium on game day, harbour apartments with views that justify the body corporate, Costco runs, and a suburb that's still figuring out what it wants to be when it grows up. Give it another decade."
+author: "Jules Marchetti"
 ---
 
-Melbourne's waterfront precinct — Marvel Stadium, harbour views, and corporate towers.
+Docklands sits immediately west of Melbourne's CBD, postcode 3008, in the City of Melbourne. It's 2 kilometres from the GPO — you can walk to Southern Cross Station in 10 minutes — but it feels further because the precinct was built from scratch on former rail yards and port infrastructure. There's no heritage shopping strip, no century-old pub, no established neighbourhood feel. What there is: waterfront apartments, Marvel Stadium, The District Docklands shopping centre, a Costco, and the persistent sense that this suburb is about 60% finished.
 
-If you're thinking about living in Docklands, visiting for the first time, or just trying to work out if this place is worth your Saturday afternoon — here's the honest rundown.
+The development started in the late 1990s and has been rolling out in stages since. NewQuay, Harbour Town (now The District), Victoria Harbour, Yarra's Edge — each pocket was master-planned by different developers, which is why Docklands feels like several suburbs stitched together rather than one coherent place.
 
-## Where Is Docklands?
+The residents are mostly apartment dwellers: CBD workers who wanted harbour views, international students, investors who bought off-the-plan, and a growing number of families who discovered the waterfront lifestyle works surprisingly well with kids. The community is newer and less established than most Melbourne suburbs, but it exists — particularly among the long-term residents who've watched the precinct evolve.
 
-Docklands sits in Melbourne's City region. It's the kind of suburb where you can feel the neighbourhood's personality the minute you step off public transport. Getting to the city from here isn't a drama — you've got options depending on where exactly you are in the suburb.
+## What to eat and drink in Docklands
 
-The suburb borders Melbourne CBD, West Melbourne, North Melbourne. That matters because your nearby options for food, coffee, and weekend plans extend well beyond Docklands's own postcode boundaries.
+The food scene has improved dramatically since the early days of franchise-only waterfront dining. Cargo Hall on the harbour does modern Australian with actual ambition. Berth on NewQuay Promenade handles seafood and steaks with waterfront views that almost justify the price. Saluministi at The District does deli-counter Italian that CBD workers walk across the bridge for.
 
-## What's Docklands Actually Like?
+The cafe scene is thinner than most Melbourne suburbs — Docklands was built for apartments and offices, not cafe strips — but what exists is solid. Hardware Societe at The District is the standout. The NewQuay precinct has a few reliable morning options.
 
-Melbourne's waterfront precinct — Marvel Stadium, harbour views, and corporate towers.
+For the full breakdown, see our [guide to Docklands' best restaurants](/docklands/best-restaurants/).
 
-Every suburb has a specific energy. Docklands has its own thing going on — it's not trying to be everywhere else. The streets have character, the locals know their spots, and there's a pace of life here that either suits you or doesn't.
+## Living in Docklands — what it actually costs
 
-Walk around on a Saturday morning and you'll pick up the vibe pretty quickly. The cafes tell you a lot — are they packed with young couples or families with prams? That gives you a read on who lives here.
+A one-bedroom apartment runs $380–$480 per week in 2026. Two-bedrooms sit at $500–$700, depending on views and which tower. The body corporate fees are the hidden cost — $4,000–$8,000 per year is standard, and some of the older towers with pools and gyms push higher.
 
-## Who Lives in Docklands?
+Buying is where Docklands gets interesting. Median apartment prices hover around $550K–$650K, which is significantly below equivalent CBD apartments. Some early investors are still underwater from off-the-plan purchases in the 2010s. For current buyers, that means genuine value — if you can stomach the body corp and the knowledge that capital growth has been slower than the Melbourne average.
 
-Docklands draws a particular crowd. The demographics lean towards the kind of people who value what this suburb specifically offers. You'll find a mix — and it's the mix that makes it work.
+### Getting around
 
-The community here has its own institutions, its own rhythms, its own complaints about parking. Like every Melbourne suburb, it's evolved over the past couple of decades and the people who live here now aren't necessarily the same crowd from fifteen years ago.
+No dedicated train station — Southern Cross is the nearest, a 10–15 minute walk depending on which pocket you're in. Tram 86 runs along Bourke Street's Docklands extension. Tram 70 runs along the harbour to Flinders Street. The free City Circle tram loops through. Most Docklands residents walk to the CBD or use the trams — the precinct was designed for car-free living, and it works for that.
 
-## Housing in Docklands
+### Is Docklands good for families?
 
-The housing stock in Docklands tells the story of how the suburb has evolved. You'll find a mix of older homes that have been here for decades alongside newer build quality — townhouses, apartments, and the occasional knockdown-rebuild that sticks out on the street.
+Better than you'd think. The waterfront promenades work as playgrounds. Ron Barassi Snr Park has proper sporting facilities. The library at The District is modern and well-used. Schools require travel — Docklands Primary on Footscray Road is the local government option, but many families send kids to schools in North Melbourne, West Melbourne, or the CBD. The main limitation is the lack of a village feel — there's no local milk bar, no corner park where kids ride bikes independently. It's apartment-block living, and that suits some families and doesn't suit others.
 
-If you're renting, there's decent variety depending on your budget. Share houses exist for those starting out. Units and apartments work for professionals. Families will need to hunt a bit harder for standalone homes with a backyard, but they're out there.
+## Keep exploring
 
-## Getting Around Docklands
-
-Transport from Docklands is solid enough to make it work without a car for most people, though having a car definitely helps for some errands and weekend plans.
-
-**Read the full breakdown:** [Docklands Transport Guide](/docklands/transport-guide/)
-
-Quick version: you can get to the city reasonably easy. The tram and train network serves this area, and cycling infrastructure has been improving steadily.
-
-## Eating and Drinking in Docklands
-
-The food scene in Docklands reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and a local scene that rewards the curious without needing to leave the suburb every time you want a decent meal.
-
-Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
-
-## Is Docklands Right for You?
-
-**You'll love Docklands if:**
-- You want a suburb with genuine character and community
-- You value proximity to Melbourne's best without paying absolute top dollar
-- You like having your local spots — the cafe you don't need to think about, the pub you default to
-- You appreciate a neighbourhood that's evolved naturally rather than been manufactured
-
-**It might not be for you if:**
-- You need absolute silence and a massive backyard
-- Budget is extremely tight — some areas of Docklands have crept up in cost
-- You want everything brand new and shiny
-- You're not comfortable with a suburb that has a strong identity you need to adapt to
-
-## Living Here — The Deep Dive
-
-Want more detail? We've covered every angle:
-
-- **[Living in Docklands — The Honest Guide](/docklands/living-in-docklands/)** — Pros, cons, and the unfiltered truth
-- **[Is Docklands Good for Families?](/docklands/docklands-for-families/)** — Schools, parks, safety, the works
-- **[Is Docklands Good for Young Professionals?](/docklands/docklands-for-young-professionals/)** — Social scene, commute, renting
-- **[Is Docklands Good for Retirees?](/docklands/docklands-for-retirees/)** — Quiet streets, healthcare, community
-- **[Cost of Living in Docklands](/docklands/cost-of-living/)** — Rent, daily costs, and how it compares
-- **[Getting Around Docklands](/docklands/transport-guide/)** — Trains, trams, bikes, driving
-- **[Docklands Neighbourhood Guide](/docklands/neighbourhood-guide/)** — Streets, pockets, and where to be
-- **[History of Docklands](/docklands/history/)** — How this suburb became what it is today
-
-## Suburbs Near Docklands
-
-- **[Melbourne CBD](/melbourne-cbd/)** — The heart of Melbourne — office towers, laneways, rooftop bars, and the constant
-- **[West Melbourne](/west-melbourne/)** — A suburb in transition — warehouses turning into apartments, with the city liter
-- **[North Melbourne](/north-melbourne/)** — Working-class roots with a growing cafe scene. Close to everything, still relati
-
-
----
-
-*Got something to add about Docklands? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+Docklands connects to the CBD via the Bourke Street and Collins Street bridges — walk east and you're in the city within 10 minutes. North across Footscray Road is [West Melbourne](/west-melbourne/), which is undergoing its own transformation. South across the Yarra is [Southbank](/southbank/), with the arts precinct and Crown. The harbour itself connects to [Port Melbourne](/port-melbourne/) via the waterfront path.

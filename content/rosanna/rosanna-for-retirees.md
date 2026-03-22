@@ -4,12 +4,16 @@ description: "Considering retirement in Rosanna? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "rosanna"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Rosanna retirees Melbourne"
   - "retiring in Rosanna"
   - "quiet suburbs Melbourne"
+tags:
+  - "rosanna"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Rosanna? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

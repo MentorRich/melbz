@@ -4,16 +4,22 @@ description: "How expensive is Ferntree Gully? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "ferntree-gully"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Ferntree Gully Melbourne"
   - "how expensive is Ferntree Gully"
   - "is Ferntree Gully expensive to live in"
   - "Ferntree Gully rent"
+tags:
+  - "ferntree-gully"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Ferntree Gully — no sugar-coating, no made-up figures.
+The gap between the sticker price of Ferntree Gully and actual living costs is worth understanding before you move.
 
 Read our full [Ferntree Gully suburb guide](/ferntree-gully/) for the bigger picture.
 

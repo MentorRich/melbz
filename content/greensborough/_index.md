@@ -1,16 +1,16 @@
 ---
-title: "Greensborough Melbourne — Everything You Need to Know"
+title: "Greensborough Melbourne — what you need"
 description: "The complete guide to Greensborough. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "greensborough"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Greensborough Melbourne"
   - "what is Greensborough like"
   - "greensborough suburb"
   - "living in Greensborough"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Greensborough Plaza, Plenty River, and the gateway between suburban Melbourne and the bush.

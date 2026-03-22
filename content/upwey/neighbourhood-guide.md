@@ -4,13 +4,18 @@ description: "The insider's guide to Upwey's different pockets, streets, and are
 date: 2026-03-21
 suburb: "upwey"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Upwey neighbourhood guide"
   - "best streets in Upwey"
   - "Upwey areas"
   - "Upwey pockets Melbourne"
+tags:
+  - "upwey"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Upwey isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

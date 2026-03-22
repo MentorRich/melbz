@@ -1,24 +1,21 @@
 ---
 title: "New Openings in Coburg 2026: What Just Landed on Sydney Road"
-cover_image: "/images/coburg/new-openings.jpg"
----
-
+description: "The latest new openings in Coburg for 2026 — new restaurants, cafes, bars and shops on Sydney Road and the Pentridge precinct. Beit Siti and Gemini."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Tan"
+cover_image: "/images/shared/new-opening.jpg"
+cover_image_alt: "New restaurant opening on Sydney Road in Coburg"
 suburb: "coburg"
-vertical: "food"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "The latest new openings in Coburg for 2026 — new restaurants, cafes, bars, and shops that just arrived on Sydney Road and the Pentridge precinct."
-tags: ["coburg"]
-categories: ["new"]
+tags: ["coburg", "new-openings", "restaurants", "bars"]
+---
 # New Openings in Coburg 2026: What Just Landed on Sydney Road
 
 Coburg is having a moment. While everyone's been watching Brunswick's endless cafe turnover and Preston's foodie renaissance, the strip between them has been quietly attracting a wave of new venues that are reshaping what Sydney Road offers. The Pentridge precinct development keeps delivering, side streets are popping with independent operators, and the old guard — the Turkish bakeries, the family-run Italian spots — are holding firm while new blood flows in.
 
 Here's what's new, what's worth visiting, and what you need to know about Coburg's latest openings in 2026.
 
-**Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
+**Last updated: March 2026**
 
 
 ## Beit Siti
@@ -111,13 +108,17 @@ The inner-north opening landscape is competitive: [Brunswick's new openings](/br
 **Your Coburg Vibe Score this week: 72/100** — New energy, old soul.
 
 
-*Know an opening we missed? Let us know.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
+## FAQ
 
-## Related Articles
+**What's the best new restaurant in Coburg?**
+Beit Siti's Palestinian sofra is the standout — one of the most talked-about new openings in Melbourne, not just Coburg.
 
-- [/brunswick/](/brunswick/)
-- [/coburg/](/coburg/)
-- [/coburg/hub](/coburg/hub)
+**What's new at Pentridge?**
+A craft brewery taproom, a ceramics studio, and a wine bar in heritage buildings have all opened in 2025-2026.
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**Is Coburg getting more restaurants?**
+Yes. Lower rents than [Brunswick](/brunswick/) are attracting new operators to Sydney Road, and the Pentridge precinct still has vacant heritage tenancies being filled.
+
+---
+
+**More Coburg:** [Coburg Best Restaurants](/coburg/best-restaurants/) · [Coburg Best Bars](/coburg/best-bars/) · [Coburg Suburb Guide](/coburg/)

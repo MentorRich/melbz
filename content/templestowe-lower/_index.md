@@ -1,16 +1,16 @@
 ---
-title: "Lower Templestowe Melbourne — Everything You Need to Know"
+title: "Lower Templestowe Melbourne — what you need"
 description: "The complete guide to Lower Templestowe. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "templestowe-lower"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Lower Templestowe Melbourne"
   - "what is Lower Templestowe like"
   - "templestowe-lower suburb"
   - "living in Lower Templestowe"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Manningham Road shops, growing apartment scene, and easier access than upper Templestowe.

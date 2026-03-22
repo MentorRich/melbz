@@ -1,17 +1,16 @@
 ---
 title: "Nightlife Guide in Carnegie — 2026 Local Guide"
 cover_image: "/images/carnegie/nightlife-guide.jpg"
----
-
 suburb: "carnegie"
 vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Discover the nightlife in Carnegie. Our verified 2026 guide covers the best spots for locals."
 tags: ["carnegie"]
 categories: ["nightlife"]
+---
+
 ## Nightlife Guide in Carnegie
 
 Carnegie is multicultural Melbourne distilled into one convenient suburb. You want Greek, Lebanese, Chinese, Japanese, Italian, Indian? Carnegie's got it, often on the same block. The nightlife reflects this diversity — it's not about trendy bars and cocktails, it's about community pubs, late-night eateries, and venues that have been serving the same local crowds for years.
@@ -199,7 +198,7 @@ Carnegie scores high on diversity and late-night options. The multicultural food
 
 The pub, the taverna, the late-night feed. Share the route you take when you're out in Carnegie.
 
-[Drop a comment below or email us at hq@melbz101](#comments)
+[Drop a comment below or email us at hq@melbz.com.au](#comments)
 
 
 <!-- WIDGET: Related Reading -->
@@ -215,10 +214,8 @@ The pub, the taverna, the late-night feed. Share the route you take when you're 
 **MELBZ — Melbourne's neighbourhood intelligence. Written by locals, for locals. Not AI-generated. Not outsourced. Real people in real suburbs.**
 ## Related Articles
 
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/st-kilda/](/st-kilda/)
-- [/nightlife/](/nightlife/)
-- [/things-to-do/](/things-to-do/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Fitzroy](/fitzroy/)
+- [Carlton](/carlton/)
+- [St Kilda](/st-kilda/)
+- [Nightlife](/nightlife/)
+- [Things To Do](/things-to-do/)

@@ -1,17 +1,16 @@
 ---
 title: "Melbourne CBD Suburb Guide 2026: Hub Page"
-cover_image: "/images/melbourne-cbd/hub-page-v2.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
-tags: ["melbourne-cbd", "suburb-guide"]
-categories: ["lifestyle"]
-description: "Melbourne CBD Suburb Guide 2026"
+cover_image: "/images/shared/city-architecture.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Jack Morrison"
+tags: ["melbourne", "melbourne-cbd", "suburb-guide"]
+description: "Melbourne CBD suburb guide 2026. Laneway culture, rooftop bars, Chinatown dining, Free Tram Zone transport and apartment living in postcode 3000."
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -23,7 +22,7 @@ Melbourne's CBD is 2.6 square kilometres of controlled chaos. It's whe..."
 *Updated 16 March 2026 | Jack Morrison reporting*
 
 
-Melbourne's CBD is 2.6 square kilometres of controlled chaos. It's where a $7 oat milk flat white and a $4.50 classic coexist within three doors of each other. Where the same intersection that hosts a $400-a-plate degustation on Friday night becomes a patchwork of homeless sleeping bags by 3am. Where you'll wait 45 minutes for a table at a brunch spot with no sign out front, then walk past three empty restaurants that somehow can't survive.
+Melbourne's CBD is 2.6 square kilometres of controlled chaos. It's where a $7 oat milk flat white and a $4.50 classic coexist within three doors of each other. Where the same intersection that hosts a $400-a-plate degustation on Friday night becomes a patchwork of homeless sleeping bags by 3am. Where you'll wait 45 minutes for a table at a brunch spot with no sign out front, then walk past three empty [restaurants](/melbourne-cbd/best-restaurants/) that somehow can't survive.
 
 The CBD isn't one thing. It's a collection of micro-neighbourhoods crammed inside a Hoddle Grid that was drawn up in 1837 by a bloke who'd never seen the place. And 189 years later, we're still arguing about which street is which end.
 
@@ -43,13 +42,13 @@ The CBD's energy is uneven, and that's what makes it interesting. Bourke Street 
 The RMIT end of town (near Swanston and Bowen) has a younger, more student energy. The Collins Street end (between Elizabeth and Queen) is still the closest thing Melbourne has to a "power corridor." And the Flinders Street end, near the station and Federation Square, is tourist ground zero.
 
 
-## Transport
+## [Transport](/melbourne-cbd/transport-guide/)
 
-Let's be honest: the CBD is the best-connected suburb in Melbourne for public transport, and simultaneously the one where public transport will test your will to live.
+Let's be honest: the CBD is the best-connected suburb in Melbourne for [public transport](/melbourne-cbd/transport-guide/), and simultaneously the one where public transport will test your will to live.
 
 ### Train Stations
 
-**Flinders Street Station** is the landmark, the meeting point, the clock, the meme. "I'll meet you under the clocks" is Melbourne's most universal instruction. It's gorgeous in that faded-Victorian way, the copper dome going green, the steps crowded with buskers and the terminally confused. It runs the Belgrave, Lilydale, Glen Waverley, Alamein, Sandringham, Craigieburn, Upfield, and Werribee/Williamstown lines. It's also the site of every Melbourne person's worst commute story — the delays, the overcrowding, the time someone's kebab fell on your shoe.
+**Flinders Street Station** is the landmark, the meeting point, the clock, the meme. "I'll meet you under the clocks" is Melbourne's most universal instruction. It's gorgeous in that faded-Victorian way, the copper dome going green, the steps crowded with buskers and the terminally confused. It runs the Belgrave, Lilydale, Glen Waverley, Alamein, Sandringham, Craigieburn, Upfield, and Werribee/Williamstown lines. It's also the site of every Melbourne person's worst [commute](/melbourne-cbd/transport-guide/) story — the delays, the overcrowding, the time someone's kebab fell on your shoe.
 
 **Southern Cross Station** is the other end of the CBD (Spencer Street, western edge). It's the newer, flashier station — rebuilt in 2005 with that wavy roof that looks like a roller coaster designed by someone who'd had a few. It services the Werribee, Williamstown, Craigieburn, Sunbury, and regional V/Line services (Geelong, Ballarat, Bendigo, Traralgon). If you're heading to the airport on the SkyBus, Southern Cross is your hub.
 
@@ -57,7 +56,7 @@ The distance between Flinders Street and Southern Cross is about 15 minutes on f
 
 ### Trams
 
-The CBD is inside the Free Tram Zone, which means you can hop on and off any tram within the grid (bounded by Spring Street, Flinders Street, and Docklands) without tapping your Myki. This is genuinely brilliant and one of the best things about working in the CBD. The downside? Everyone knows this, which means the trams inside the zone are packed.
+The CBD is inside the Free Tram Zone, which means you can hop on and off any tram within the grid (bounded by Spring Street, Flinders Street, and [Docklands](/docklands/)) without tapping your Myki. This is genuinely brilliant and one of the best things about working in the CBD. The downside? Everyone knows this, which means the trams inside the zone are packed.
 
 Key routes through the CBD:
 
@@ -77,7 +76,7 @@ The CBD restaurant scene in 2026 is split into two economies:
 
 **The Real Economy** — Degraves Street, Centre Place, the9:
 
-**The Real Economy** — Degraves Street, Centre Place, and the laneways where CBD workers actually eat. Degraves and Centre Place remain the CBD's beating lunch heart. Grab a banh mi from N. Lee Bakery on Degraves ($10–$12, always fresh), or sit down at one of the European-style cafes for an eggs Benedict that'll run you $19–$24.
+**The Real Economy** — Degraves Street, Centre Place, and the laneways where CBD workers actually eat. Degraves and Centre Place remain the CBD's beating lunch heart. Grab a banh mi from N. Lee Bakery on Degraves ($10–$12, always fresh), or sit down at one of the European-style [cafes](/melbourne-cbd/best-cafes/) for an eggs Benedict that'll run you $19–$24.
 
 The real gem is the food courts in the office buildings. The one at 271 Collins Street (the former Melbourne GPO building) has a Vietnamese place that does a $12 pho that would pass in Footscray — that's high praise. The food court at 333 Collins is another local secret: decent dumplings, acceptable pad thai, and nobody looking at you for eating lunch at your desk.
 
@@ -115,7 +114,7 @@ CBD nightlife in 2026 is a different beast depending on the night.
 
 The CBD is the gateway to Melbourne's arts scene, even if the real action has spread south and north.
 
-**Federation Square** hosts free events, projections, and the kind of public programming that makes tourists stop and locals feel briefly patriotic about their city. ACMI (Australian Centre for the Moving Image) is free to enter and consistently has excellent exhibitions. The Ian Potter Centre (NGV Australia) at Fed Square has a permanent collection that's genuinely world-class and only $0 to enter.
+**Federation Square** hosts free events, projections, and the kind of public programming that makes tourists stop and locals feel briefly patriotic about their city. ACMI (Australian Centre for the Moving Image) is free to enter and consistently has excellent exhibitions. The Ian Potter Centre (NGV Australia) at Fed Square has a permanent collection that's genuinely exceptional and only $0 to enter.
 
 **The Arts Centre** on St Kilda Road has the Spire, that iconic needle pointing at the sky. It hosts theatre, dance, comedy, and the Melbourne Symphony Orchestra. Ticket prices range from $40 for a Tuesday night chamber concert to $180+ for a big-name show.
 
@@ -203,38 +202,22 @@ The trick to the CBD is treating it like a friend with a complicated personality
 
 *Updated 16 March 2026 | Jack Morrison reporting*
 
-### Featured Venues
+---
 
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+## Explore More of Melbourne CBD
 
-### Key Highlights
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Cocktails](/melbourne-cbd/cocktails/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD Weekend Guide V2](/melbourne-cbd/weekend-guide-v2/)
 
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/northcote/](/northcote/)
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

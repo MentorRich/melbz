@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Sunshine? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "sunshine"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Sunshine good for families"
   - "Sunshine family friendly"
   - "raising kids in Sunshine"
+tags:
+  - "sunshine"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Sunshine with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

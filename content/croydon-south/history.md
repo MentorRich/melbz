@@ -4,16 +4,22 @@ description: "The story of Croydon South: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "croydon-south"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Croydon South Melbourne history"
   - "how has Croydon South changed"
   - "Croydon South gentrification"
   - "Croydon South then and now"
+tags:
+  - "croydon-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Croydon South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Croydon South, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Croydon South suburb guide](/croydon-south/) for the current picture.
 

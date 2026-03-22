@@ -4,16 +4,22 @@ description: "How expensive is Keilor East? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "keilor-east"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Keilor East Melbourne"
   - "how expensive is Keilor East"
   - "is Keilor East expensive to live in"
   - "Keilor East rent"
+tags:
+  - "keilor-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Keilor East — no sugar-coating, no made-up figures.
+Keilor East living costs reflect its position in Melbourne property landscape. Here are the numbers that matter.
 
 Read our full [Keilor East suburb guide](/keilor-east/) for the bigger picture.
 

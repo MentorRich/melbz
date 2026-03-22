@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Narre Warren South? Parks, schools, sa
 date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Narre Warren South good for families"
   - "Narre Warren South family friendly"
   - "raising kids in Narre Warren South"
+tags:
+  - "narre-warren-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Narre Warren South with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

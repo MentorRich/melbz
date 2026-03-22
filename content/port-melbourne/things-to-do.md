@@ -4,13 +4,19 @@ description: "What to do in Port Melbourne this weekend and beyond. Activities, 
 date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "activities"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "things to do Port Melbourne"
   - "Port Melbourne activities"
   - "what to do in Port Melbourne"
   - "Port Melbourne weekend plans"
+tags:
+  - "port-melbourne"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -53,7 +59,7 @@ More than you think. Bay Trail running, Station Pier views, and a growing apartm
 
 Melbourne weather means you need indoor plans. Port Melbourne has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/port-melbourne/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Port Melbourne has:
 ---
 
 **More on Port Melbourne:** [Port Melbourne Suburb Guide](/port-melbourne/) · [Port Melbourne Best Cafes](/port-melbourne/best-cafes/) · [Port Melbourne Neighbourhood Guide](/port-melbourne/neighbourhood-guide/)
+
+---
+
+## Explore More of Port Melbourne
+
+- [Port Melbourne History](/port-melbourne/history/)
+- [Port Melbourne Rent Guide](/port-melbourne/rent-guide/)
+- [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/)
+- [Port Melbourne Young Professionals Guide](/port-melbourne/young-professionals/)
+- [Port Melbourne Nightlife Guide](/port-melbourne/nightlife-guide/)
+- [Port Melbourne Transport Guide](/port-melbourne/transport-guide/)
+- [Port Melbourne Best Cafes](/port-melbourne/best-cafes/)
+- [Port Melbourne Best Restaurants](/port-melbourne/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

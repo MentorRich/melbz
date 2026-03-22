@@ -1,64 +1,78 @@
 ---
-title: "What to Do in St Kilda East This Weekend"
-description: "Your weekend in St Kilda East sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Bayside."
+title: "Your Weekend in St Kilda East: Saturday and Sunday Sorted"
+description: "How to spend a weekend in St Kilda East — from Saturday morning bagels to Sunday foreshore walks. Real venues, real plans, updated 2026."
 date: 2026-03-21
 suburb: "st-kilda-east"
 article_type: "weekend"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
+cover_image: "/images/st-kilda-east/weekend-guide.jpg"
 keywords:
   - "what to do St Kilda East this weekend"
   - "St Kilda East weekend"
   - "things to do St Kilda East Saturday"
   - "St Kilda East Sunday plans"
+tags:
+  - "st-kilda-east"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
 ---
 
-
-## Your Weekend in St Kilda East
-
-St Kilda East does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
+[St Kilda](/st-kilda/) East weekends run on a reliable loop: coffee, walk, food, more coffee, then either drinks or a quiet night in. The suburb's advantage is proximity — the beach, Carlisle Street, Chapel Street, and the foreshore are all within walking distance, so you can build a full weekend without starting a car.
 
 ## Saturday Morning
 
-**The Coffee Run** — Start at your neighbourhood cafe. St Kilda East's cafe culture means you've got options from "quick and efficient" to "settle in for two hours." Saturday morning flat whites hit differently when you're not rushing to work.
+**8am:** Start at Wall Two 80 on Hotham Street for a flat white ($5) and shakshuka ($21) in the courtyard. Weekday-quiet crowds, morning sun, no rush.
 
-**Market Check** — If there's a weekend market running near St Kilda East, it's worth the wander. Fresh produce, street food, and the kind of people-watching that makes weekend mornings worthwhile.
+**9:30am:** Walk north to Glick's Bagels on Carlisle Street. Buy a dozen plain ($14) and whatever's in the back display case — the rugelach ($3.50 each) and babka sell out by 10am, so don't linger.
 
-**Park Time** — St Kilda East's green spaces fill up on Saturday mornings with runners, dog walkers, and families. Join the park regulars or find a quiet bench.
+**10am:** Alma Park. Walk the loop, let the dog run if you've got one, or find a bench with morning sun and read. The park fills up by 11am on warm days.
 
 ## Saturday Afternoon
 
-**Lunch Locally** — Don't reach for Uber Eats. Walk to one of St Kilda East's lunch spots — try somewhere you haven't been before. The mid-afternoon lull means no queues and relaxed service.
+**12:30pm:** Lunch on Carlisle Street in Balaclava. The strip has evolved into one of Melbourne's best local food streets — pick something you haven't tried before. The dumpling spots and bakeries are reliably good.
 
-**Explore the Neighbourhood** — Pick a street you haven't walked down yet. Every suburb has blocks you've driven past but never explored on foot. Saturday afternoon is perfect for this.
-
-**Shop the Independent Stores** — Support local. St Kilda East's independent shops are the ones that give the suburb its character. Browse without pressure, buy something you didn't know you needed.
+**2pm:** Walk the back streets you haven't explored yet. Blessington Street and Crimea Street have Edwardian houses with front gardens worth seeing. Or walk west to Chapel Street in Windsor for a browse through the independent shops.
 
 ## Saturday Night
 
-**Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. St Kilda East's restaurant scene covers date night to casual with mates.
+**6pm:** Early dinner at the Balaclava Hotel — parma ($24) and a pot of Melbourne Bitter ($8) in the beer garden. Or walk to Scheherazade on Acland Street for Eastern European comfort food — borscht, blintzes, the works.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**8pm:** The Local Taphouse on St Kilda Road for a craft beer or two. Twenty rotating taps, good bar food, and enough noise to feel like a night out without the chaos of Fitzroy Street.
 
-**Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. St Kilda East's bottle shops have good selections and the staff usually have recommendations.
+**Low-key alternative:** Bottle shop on Carlisle Street, cheese from the Russian deli, couch.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in St Kilda East starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**9am:** Slow start. Coffee from Inkerman Espresso ($4.50), then the foreshore walk — west to the Esplanade, along to the St Kilda Pier, watch the boats, loop back via Fitzroy Street. About an hour at an easy pace.
 
-**Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through St Kilda East and into the neighbouring suburb. Find a coffee stop halfway through.
+**11am:** The St Kilda Esplanade Market (Sundays, weather permitting) has local art, jewellery, and occasional food stalls. Browse for 30 minutes, buy nothing or everything.
 
-**Sunday Pub Session** — If St Kilda East's pubs do Sunday sessions, these are gold. Relaxed, possibly live music, definitely relaxed dress code. The best cure for Sunday evening dread.
+**1pm:** Sunday pub session at the Balaclava Hotel if the beer garden is catching sun. Or walk to Acland Street for cake at Monarch Cakes — the poppy seed strudel ($7.50) and an espresso is a perfect Sunday afternoon.
 
-**Prep for Monday** — We all have to do it. Grocery run through St Kilda East's shops, meal prep, and set the week up. At least you're doing it in a suburb with good options.
-
-## Monthly Rituals
-
-- **Try a new restaurant** you haven't been to yet
-- **Walk a neighbourhood you usually drive through**
-- **Check local event listings** for one-off markets, exhibitions, or community events
-- **Have one completely unplanned day** — no bookings, no plans, just see what St Kilda East offers when you say yes to whatever comes up
+**4pm:** Grocery run on Carlisle Street. The kosher delis and European shops make weekday cooking genuinely enjoyable. Prep the week, set the washing machine going, accept that Monday is coming.
 
 ---
 
-**More on St Kilda East:** [St Kilda East Suburb Guide](/st-kilda-east/) · [St Kilda East Things to Do](/st-kilda-east/things-to-do/) · [St Kilda East Best Restaurants](/st-kilda-east/best-restaurants/)
+**More from St Kilda East:** [Neighbourhood Guide](/st-kilda-east/) · [Things to Do](/st-kilda-east/things-to-do/) · [Best Restaurants](/st-kilda-east/best-[restaurants](/st-kilda-east/best-restaurants/)/)
+
+---
+
+## Explore More of St Kilda East
+
+- [St Kilda East History](/st-kilda-east/history/)
+- [St Kilda East Rent Guide](/st-kilda-east/rent-guide/)
+- [St Kilda East St Kilda East For Retirees](/st-kilda-east/st-kilda-east-for-retirees/)
+- [St Kilda East Things To Do](/st-kilda-east/things-to-do/)
+- [St Kilda East Cost of Living](/st-kilda-east/cost-of-living/)
+- [St Kilda East Young Professionals Guide](/st-kilda-east/young-professionals/)
+- [St Kilda East Transport Guide](/st-kilda-east/transport-guide/)
+- [St Kilda East Best Cafes](/st-kilda-east/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [St Albans Suburb Guide](/st-albans/)
+- [St Kilda Suburb Guide](/st-kilda/)
+- [St Kilda West Suburb Guide](/st-kilda-west/)
+- [Strathmore Suburb Guide](/strathmore/)

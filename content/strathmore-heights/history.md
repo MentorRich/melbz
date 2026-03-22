@@ -4,16 +4,22 @@ description: "The story of Strathmore Heights: from its origins to today. How th
 date: 2026-03-21
 suburb: "strathmore-heights"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Strathmore Heights Melbourne history"
   - "how has Strathmore Heights changed"
   - "Strathmore Heights gentrification"
   - "Strathmore Heights then and now"
+tags:
+  - "strathmore-heights"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Strathmore Heights's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Strathmore Heights means understanding where it came from. The history explains the character.
 
 See our full [Strathmore Heights suburb guide](/strathmore-heights/) for the current picture.
 

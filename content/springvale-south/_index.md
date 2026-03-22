@@ -1,16 +1,16 @@
 ---
-title: "Springvale South Melbourne — Everything You Need to Know"
+title: "Springvale South Melbourne — what you need"
 description: "The complete guide to Springvale South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "springvale-south"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Springvale South Melbourne"
   - "what is Springvale South like"
   - "springvale-south suburb"
   - "living in Springvale South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quieter residential extension of Springvale with local parks and affordable family homes.

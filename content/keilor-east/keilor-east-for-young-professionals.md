@@ -4,12 +4,18 @@ description: "Is Keilor East a good suburb for young professionals? Social scene
 date: 2026-03-21
 suburb: "keilor-east"
 article_type: "young-professionals"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Keilor East young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Keilor East"
+tags:
+  - "keilor-east"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Keilor East as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

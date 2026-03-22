@@ -1,17 +1,14 @@
 ---
-title: "Date Night in Prahran — 2026 Local Guide"
-cover_image: "/images/prahran/date-night.jpg"
----
-
+title: "Date Night in Prahran 2026 — Local Guide"
+description: "The best date night spots in Prahran for 2026. French bistros, wine bars, low-pressure coffee dates, and where to go on Greville Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Chen"
+cover_image: "/images/shared/melbourne-dining.jpg"
+cover_image_alt: "Prahran Melbourne date night restaurant scene"
 suburb: "prahran"
-vertical: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the date night in Prahran. Our verified 2026 guide covers the best spots for locals."
-tags: ["prahran"]
-categories: ["date"]
+tags: ["melbourne", "prahran", "date-night", "restaurants"]
+---
 ## The Best Date Night in Prahran
 
 A good date night in Prahran doesn't require a taxi to the CBD or a second mortgage. This suburb has quietly built one of the inner south's strongest dining-and-drinking scenes, with venues that range from candlelit French bistros to late-night jazz bars — all within walking distance of each other. Whether it's a first date where you need an easy exit strategy or a long-term partner dinner where you actually want to talk, here's how to do date night in Prahran in 2026.
@@ -104,43 +101,21 @@ Prahran sits perfectly between two other excellent date-night suburbs. [South Ya
 Every venue on this list has been personally visited by the MELBZ team. Prices are verified for early 2026.
 
 
-**Living in Prahran?** [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=prahran)
+## FAQ
 
+**What is the best date night restaurant in Prahran?**
+Entrecote on Greville Street for the sure thing. Chez Olivier for something intimate and French. Colonel Tan's for an unconventional pick.
 
-*MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran guides, see our [best coffee guide](/prahran/best-coffee), [neighbourhood guide](/prahran/neighbourhood-guide), or [weekend plans](/prahran/things-to-do-this-weekend).*
+**How much should I budget for a date night in Prahran?**
+Casual (coffee/wine bar): $30-$50 per person. Mid-range (bistro): $50-$80. Splurge (restaurant with wine): $80-$120.
 
-### Featured Venues
+**Where is the best first date spot in Prahran?**
+Pardon Coffee on Greville Street for low-pressure daytime. Alp's Wine House for evening drinks with flexibility to extend or exit.
 
-- **Hawker Hall** at 98 Chapel St, Windsor, VIC 3181
-- **Entrecôte** at 142-144 Greville St, Prahran, VIC 3181
-- **Tokyo Tina** at 66A Chapel St, Windsor, VIC 3181
-- **Tall Timber** at 60 Commercial Rd, Prahran VIC 3181
-- **Journeyman** at 169 Chapel St, Prahran VIC 3181
-- **Oscar Cooper** at 160 Greville St, Prahran VIC 3181
-- **Dragon Hot Pot Prahran** at 180 Commercial Rd, Prahran VIC 3181
-- **Prahran Convenience Store (The Toastie Spot)** at 208 Commercial Rd, Prahran VIC 3181
-- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor VIC 3181
-- **Rice Paper Scissors** at 577 Chapel St, South Yarra, VIC 3141
+## The Verdict
 
-### Key Highlights
+Prahran's date night scene covers every stage of a relationship: low-pressure first dates at coffee shops, mid-relationship dinners at bistros, and anniversary-level dining at French restaurants. The walkability means you can transition between venues without worrying about transport, and the Greville Street strip makes the whole evening feel intentional.
 
-- Prahran Market
-- Chapel Street shopping precinct
-- Grattan Gardens
+---
 
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/prahran/](/prahran/)
-- [/prahran/hub](/prahran/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Prahran:** [Best Restaurants](/prahran/best-restaurants/) | [Best Bars](/prahran/best-bars/) | [Nightlife Guide](/prahran/nightlife-guide/) | [Prahran Suburb Guide](/prahran/)

@@ -4,15 +4,22 @@ description: "Public transport in Burwood: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "burwood"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Raj Patel"
 keywords:
   - "public transport Burwood Melbourne"
   - "commute from Burwood to city"
   - "Burwood train station"
+tags:
+  - "burwood"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Burwood — what works, what's annoying, and how long things actually take.
+Getting around Burwood comes down to proximity to a major station. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Burwood suburb guide](/burwood/) for the complete picture.
 

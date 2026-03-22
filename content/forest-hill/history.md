@@ -4,16 +4,22 @@ description: "The story of Forest Hill: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "forest-hill"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Forest Hill Melbourne history"
   - "how has Forest Hill changed"
   - "Forest Hill gentrification"
   - "Forest Hill then and now"
+tags:
+  - "forest-hill"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Forest Hill's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Forest Hill was not always the place you see today. Its story starts as a working-class neighbourhood, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Forest Hill suburb guide](/forest-hill/) for the current picture.
 

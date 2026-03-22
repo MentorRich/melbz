@@ -4,16 +4,22 @@ description: "The story of Alphington: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "alphington"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Alphington Melbourne history"
   - "how has Alphington changed"
   - "Alphington gentrification"
   - "Alphington then and now"
+tags:
+  - "alphington"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Alphington's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+History buffs and new residents alike should know the origin story of Alphington. It explains more than you would expect.
 
 See our full [Alphington suburb guide](/alphington/) for the current picture.
 

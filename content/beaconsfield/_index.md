@@ -1,16 +1,16 @@
 ---
-title: "Beaconsfield Melbourne — Everything You Need to Know"
+title: "Beaconsfield Melbourne — what you need"
 description: "The complete guide to Beaconsfield. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "beaconsfield"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Beaconsfield Melbourne"
   - "what is Beaconsfield like"
   - "beaconsfield suburb"
   - "living in Beaconsfield"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Country feel within the suburban boundary. Upper Beaconsfield hills access and family living.

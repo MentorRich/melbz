@@ -4,13 +4,18 @@ description: "The insider's guide to Patterson Lakes's different pockets, street
 date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Patterson Lakes neighbourhood guide"
   - "best streets in Patterson Lakes"
   - "Patterson Lakes areas"
   - "Patterson Lakes pockets Melbourne"
+tags:
+  - "patterson-lakes"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Patterson Lakes isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

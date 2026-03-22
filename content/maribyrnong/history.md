@@ -4,16 +4,22 @@ description: "The story of Maribyrnong: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "maribyrnong"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Maribyrnong Melbourne history"
   - "how has Maribyrnong changed"
   - "Maribyrnong gentrification"
   - "Maribyrnong then and now"
+tags:
+  - "maribyrnong"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Maribyrnong's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Maribyrnong from an industrial hub to a sought-after neighbourhood. Understanding that arc explains a lot.
 
 See our full [Maribyrnong suburb guide](/maribyrnong/) for the current picture.
 

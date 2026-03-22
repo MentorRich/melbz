@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Springvale? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "springvale"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Springvale good for families"
   - "Springvale family friendly"
   - "raising kids in Springvale"
+tags:
+  - "springvale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Springvale with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

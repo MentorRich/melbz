@@ -4,17 +4,23 @@ description: "Where to eat in Balwyn North: the honest guide to the suburb's res
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "best-of"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "best restaurants Balwyn North"
   - "where to eat Balwyn North"
   - "dinner Balwyn North Melbourne"
   - "restaurants near Balwyn North"
+tags:
+  - "balwyn-north"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
-## Eating Out in Balwyn North
+## Eating Out in [Balwyn](/balwyn/) North
 
 Balwyn North's restaurant scene reflects the suburb's personality. School-focused families, larger blocks, and Greythorn shopping strip. That translates into a food culture that's unpretentious and honestly good.
 
@@ -56,4 +62,24 @@ The mid-range is where Balwyn North shines — restaurants that care about quali
 
 ---
 
-**More on Balwyn North:** [Balwyn North Suburb Guide](/balwyn-north/) · [Balwyn North Best Cafes](/balwyn-north/best-cafes/) · [Balwyn North Living Guide](/balwyn-north/living-in-balwyn-north/)
+**More on Balwyn North:** [Balwyn North Suburb Guide](/balwyn-north/) · [Balwyn North Best Cafes](/balwyn-north/best-[cafes](/balwyn-north/best-cafes/)/) · [Balwyn North Living Guide](/balwyn-north/living-in-balwyn-north/)
+
+---
+
+## Explore More of Balwyn North
+
+- [Balwyn North History](/balwyn-north/history/)
+- [Balwyn North Rent Guide](/balwyn-north/rent-guide/)
+- [Balwyn North Living In Balwyn North](/balwyn-north/living-in-balwyn-north/)
+- [Balwyn North Things To Do](/balwyn-north/things-to-do/)
+- [Balwyn North Cost of Living](/balwyn-north/cost-of-living/)
+- [Balwyn North Neighbourhood Guide](/balwyn-north/neighbourhood-guide/)
+- [Balwyn North Transport Guide](/balwyn-north/transport-guide/)
+- [Balwyn North Best Cafes](/balwyn-north/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Balaclava Suburb Guide](/balaclava/)
+- [Balwyn Suburb Guide](/balwyn/)
+- [Bayswater Suburb Guide](/bayswater/)
+- [Bayswater North Suburb Guide](/bayswater-north/)

@@ -2,16 +2,13 @@
 title: "Cost of Living in Melbourne 2026: The Real Numbers"
 cover_image: "/images/melbourne/cost-of-living.jpg"
 date: 2026-03-16
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 tags: ["melbourne", "cost-of-living", "money"]
 categories: ["property"]
 description: "Cost of Living in Melbourne 2026: The Real Numbers"
 ---
 
 **Updated 16 March 2026 | Alex Petrova reporting**
-
-
 
 
 *Updated 16 March 2026 | Alex Petrova reporting*
@@ -306,10 +303,9 @@ The smart play: pick an affordable suburb with good transport links, cook more t
 
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/south-yarra/](/south-yarra/)
-- [/prahran/](/prahran/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
+- [Northcote](/northcote/)
+- [South Yarra](/south-yarra/)
+- [Prahran](/prahran/)
+- [Richmond](/richmond/)
+- [Collingwood](/collingwood/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

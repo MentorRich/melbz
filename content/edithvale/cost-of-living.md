@@ -4,16 +4,22 @@ description: "How expensive is Edithvale? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "edithvale"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Edithvale Melbourne"
   - "how expensive is Edithvale"
   - "is Edithvale expensive to live in"
   - "Edithvale rent"
+tags:
+  - "edithvale"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Edithvale — no sugar-coating, no made-up figures.
+If you are weighing up Edithvale against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Edithvale suburb guide](/edithvale/) for the bigger picture.
 

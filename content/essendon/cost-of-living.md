@@ -3,14 +3,13 @@ title: "Cost of Living in Essendon 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "essendon"
 suburbs: ["essendon"]
 vertical: property
 tags: ["essendon", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Essendon in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/4550094/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Essendon Melbourne cost of living"
 vibe_score: 72
 ---
@@ -36,7 +35,7 @@ This is where most of your money goes. Essendon's rental market in 2026 looks li
 |---------|-------------|-------|
 | Rent (1-bed) | $1546 | Biggest line item by far |
 | Groceries | $320-$420 | Depends on Coles vs local market habits |
-| Transport (Myki) | $160-$200 | Zone 1-2 monthly cap |
+| [Transport](/essendon/transport-guide/) (Myki) | $160-$200 | Zone 1-2 monthly cap |
 | Utilities (1-bed) | $180-$240 | Gas + electricity + water |
 | Internet | $70-$90 | NBN, decent speed |
 | Coffee habit | $80-$120 | 1-2 per day at local prices |
@@ -50,7 +49,7 @@ This is where most of your money goes. Essendon's rental market in 2026 looks li
 
 **Eating out:** The average meal out in Essendon runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/essendon/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Essendon, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Essendon, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you [commute](/essendon/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,24 @@ For more context on how this compares, check our [Living in Essendon guide](/ess
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Essendon
+
+- [Essendon History](/essendon/history/)
+- [Essendon Rent Guide](/essendon/rent-guide/)
+- [Essendon Things To Do](/essendon/things-to-do/)
+- [Essendon Essendon For Retirees](/essendon/essendon-for-retirees/)
+- [Essendon Young Professionals Guide](/essendon/young-professionals/)
+- [Essendon Nightlife Guide](/essendon/nightlife-guide/)
+- [Essendon Transport Guide](/essendon/transport-guide/)
+- [Essendon Best Cafes](/essendon/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Endeavour Hills Suburb Guide](/endeavour-hills/)
+- [Epping Suburb Guide](/epping/)
+- [Essendon North Suburb Guide](/essendon-north/)
+- [Essendon West Suburb Guide](/essendon-west/)

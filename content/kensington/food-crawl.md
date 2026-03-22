@@ -1,20 +1,20 @@
 ---
 title: "Kensington Food Crawl 2026: The Best Day Out"
+description: "Kensington Food Crawl 2026: The Best Day Out. Updated for 2026 with real local picks and honest advice for Kensington in Melbourne inner west. Updated for 20."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Adam Nowak"
 cover_image: "/images/kensington/food-crawl.jpg"
-date: 2026-03-16
-author: adam
-author_image: "/images/authors/adam.jpg"
+cover_image_alt: "Food Crawl in Kensington Melbourne"
+suburb: "kensington"
 tags: ["kensington", "food-crawl", "food"]
-categories: ["food"]
-description: "Kensington Food Crawl 2026: The Best Day Out"
 ---
-
 Kensington doesn't scream about its food scene. It doesn't need to. Tucked between Flemington's racecourse gran..."
 # Kensington Food Crawl 2026: The Best Day Out
 
 Kensington doesn't scream about its food scene. It doesn't need to. Tucked between Flemington's racecourse grandeur and Footscray's Vietnamese backbone, this pocket of inner-west Melbourne has been quietly stacking venues that would headline in flashier suburbs. The difference here is the neighbours actually eat at them — not influencers shooting content for 45 minutes before leaving.
 
-A proper Kensington food crawl takes you from Bellair Street's cafe strip through Macaulay Road's warehouse-converted restaurants and down to Stubbs Street's industrial-fringe eateries. You'll cover roughly 1.5 kilometres on foot. Start early, bring stretchy pants.
+A proper Kensington food crawl takes you from Bellair Street's cafe strip through Macaulay Road's warehouse-converted [restaurants](/kensington/best-restaurants/) and down to Stubbs Street's industrial-fringe eateries. You'll cover roughly 1.5 kilometres on foot. Start early, bring stretchy pants.
 
 **Updated 16 March 2026 | Adam Nowak reporting**
 
@@ -76,7 +76,7 @@ By 3pm you're hovering between full and wrecked. This is snack territory — som
 
 **Karelay Patisserie** on Bellair Street does proper French-Australian pastries — not the Instagram-decorated monstrosities, but real croissants, tarts, and slices made with butter and skill. A ham and cheese croissant ($7) and a coffee will set you back about $12 and reset your system for dinner.
 
-Then walk five minutes to **Rumble Coffee Roasters** on Macaulay Road. This is where a lot of Melbourne's best cafes get their beans. The roastery operates out of a red-brick warehouse and they've got a tiny espresso bar out front. They're a certified B Corp, roast on-site, and the single-origin pour-over ($6) is a different league from the standard flat white. You'll watch them weigh, grind, and pull shots with a level of attention that borders on obsessive.
+Then walk five minutes to **Rumble Coffee Roasters** on Macaulay Road. This is where a lot of Melbourne's best [cafes](/kensington/best-cafes/) get their beans. The roastery operates out of a red-brick warehouse and they've got a tiny espresso bar out front. They're a certified B Corp, roast on-site, and the single-origin pour-over ($6) is a different league from the standard flat white. You'll watch them weigh, grind, and pull shots with a level of attention that borders on obsessive.
 
 **Order this:** One flat white at each. Compare. That's the crawl.
 
@@ -154,40 +154,23 @@ If you only do three stops, make it The Premises for breakfast, La Tortilleria f
 
 
 *Know a Kensington venue we missed? Drop us a tip.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
-### Featured Venues
+---
 
-- **The Premises** at 202 Bellair St, Kensington VIC 3031
-- **Locanda Kensington** at 506 Macaulay Rd, Kensington VIC 3031
-- **Hardimans Hotel** at 521 Macaulay Rd, Kensington VIC 3031
-- **The Premises** at 202 Bellair St, Kensington VIC 3031
-- **La Tortilleria** at 72 Stubbs St, Kensington VIC 3031
-- **Loco Coffee** at 555 Macaulay Rd, Kensington VIC 3031
-- **IGA Kensington (Hot Food Counter)** at 48-50 Bellair St, Kensington VIC 3031
-- **Laksa King** at 6-12 Pin Oak Crescent, Flemington VIC 3031
-- **Kensington Stockyard Food & Coffee** at 500 Macaulay Rd, Kensington VIC 3031
-- **Laksa King** at 6-12 Pin Oak Crescent, Flemington, VIC 3031
+## Explore More of Kensington
 
-### Key Highlights
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+- [Kensington Late Night Food V2](/kensington/late-night-food-v2/)
 
-- Macaulay Road shopping village
-- J.J. Holland Park
-- Proximity to the Maribyrnong River trail
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-- [/south-yarra/](/south-yarra/)
-- [/kensington/](/kensington/)
-- [/kensington/hub](/kensington/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

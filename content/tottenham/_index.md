@@ -1,16 +1,16 @@
 ---
-title: "Tottenham Melbourne — Everything You Need to Know"
+title: "Tottenham Melbourne — what you need"
 description: "The complete guide to Tottenham. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "tottenham"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Tottenham Melbourne"
   - "what is Tottenham like"
   - "tottenham suburb"
   - "living in Tottenham"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Primarily industrial with pockets of residential. Rail yards and freight hub.

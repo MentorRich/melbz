@@ -4,13 +4,18 @@ description: "The insider's guide to Airport West's different pockets, streets, 
 date: 2026-03-21
 suburb: "airport-west"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "Airport West neighbourhood guide"
   - "best streets in Airport West"
   - "Airport West areas"
   - "Airport West pockets Melbourne"
+tags:
+  - "airport-west"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Airport West isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

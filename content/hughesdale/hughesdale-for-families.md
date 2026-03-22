@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Hughesdale? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "hughesdale"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Hughesdale good for families"
   - "Hughesdale family friendly"
   - "raising kids in Hughesdale"
+tags:
+  - "hughesdale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Hughesdale with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

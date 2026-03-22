@@ -2,16 +2,13 @@
 title: "Best Pizza in Melbourne 2026: The Definitive Rankings"
 cover_image: "/images/melbourne/best-pizza.jpg"
 date: 2026-03-16
-author: liam
-author_image: "/images/authors/liam.jpg"
+author: "Liam Murphy"
 tags: ["melbourne", "pizza", "food"]
 categories: ["food"]
 description: "Best Pizza in Melbourne 2026: The Definitive Rankings"
 ---
 
 **Updated 16 March 2026 | 12 places tested | Liam Murphy reporting**
-
-
 
 
 *Updated 16 March 2026 | 12 places tested | Liam Murphy reporting*
@@ -213,7 +210,6 @@ We know you have opinions. We know they're strong. Tell us:
 Cast your vote below and we'll publish the full results next week.
 
 
-
 ## 🔥 FIGHT US: Is New York Pizza Better Than Neapolitan?
 
 The MELBZ team is split. Liam says Neapolitan, always. Priya says New York style has more personality. Marcus thinks Detroit is the real answer and we're all cowards.
@@ -269,10 +265,9 @@ Did we get it right? Did we miss your favourite? Let us know:
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

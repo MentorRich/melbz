@@ -4,16 +4,22 @@ description: "The story of Patterson Lakes: from its origins to today. How this 
 date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Patterson Lakes Melbourne history"
   - "how has Patterson Lakes changed"
   - "Patterson Lakes gentrification"
   - "Patterson Lakes then and now"
+tags:
+  - "patterson-lakes"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Patterson Lakes's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Patterson Lakes has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Patterson Lakes suburb guide](/patterson-lakes/) for the current picture.
 

@@ -3,13 +3,13 @@ title: "Melbourne Summer Guide 2026 — Beaches, Bars, Events"
 description: "Your summer in Melbourne sorted. Beach suburbs, rooftop bars, outdoor events, and the best ways to enjoy the warm months."
 date: 2026-03-21
 article_type: "trending"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "melbourne summer 2026"
   - "beach suburbs melbourne"
   - "summer things to do melbourne"
   - "outdoor events melbourne summer"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Your summer in Melbourne sorted. Beach suburbs, rooftop bars, outdoor events, and the best ways to enjoy the warm months.

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in McKinnon? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "mckinnon"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is McKinnon good for families"
   - "McKinnon family friendly"
   - "raising kids in McKinnon"
+tags:
+  - "mckinnon"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to McKinnon with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

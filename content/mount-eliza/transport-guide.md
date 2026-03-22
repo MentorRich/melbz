@@ -4,15 +4,22 @@ description: "Public transport in Mount Eliza: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Mount Eliza Melbourne"
   - "commute from Mount Eliza to city"
   - "Mount Eliza train station"
+tags:
+  - "mount-eliza"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Mount Eliza — what works, what's annoying, and how long things actually take.
+Mount Eliza transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Mount Eliza suburb guide](/mount-eliza/) for the complete picture.
 

@@ -1,17 +1,14 @@
 ---
 title: "Neighbourhood Guide to Balaclava — 2026 Local Guide"
 cover_image: "/images/balaclava/neighbourhood-guide.jpg"
----
-
 suburb: "balaclava"
-vertical: "lifestyle"
-author: "marcusl"
-author_image: "/images/authors/marcus.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the neighbourhood guide to Balaclava. Our verified 2026 guide covers the best spots for locals."
+author: "Marcus Liu"
+date: 2026-03-22
+lastmod: 2026-03-22
+description: "The full neighbourhood guide to Balaclava. Carlisle Street strip, residential pockets near Hotham and Inkerman, station precinct, and local secrets."
 tags: ["balaclava"]
-categories: ["neighbourhood"]
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
+---
 ## The Neighbourhood Guide to Balaclava
 
 Balaclava is Melbourne's best-kept-not-quite-secret suburb. It sits tucked between St Kilda East, Caulfield, and Elsternwick — too small to dominate a conversation, too good to ignore once you've found it. The whole suburb is roughly 600 metres of Carlisle Street, a Sandringham line train station, and a patchwork of residential streets that range from grand Victorian terraces to mid-century flats to the occasional brutalist apartment block that's aged better than it deserved.
@@ -156,38 +153,3 @@ The overall impression is of a suburb that knows exactly what it is and doesn't 
 
 Living in Balaclava? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=balaclava)
 
-### Featured Venues
-
-- **Ilona Staller** at 281 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Bibi** at 257 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Batch Espresso** at 333 Carlisle St, Balaclava VIC 3183
-- **Monarch Cakes** at 103 Acland St, St Kilda VIC 3182
-- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
-- **Bagelicious** at 174 Balaclava Rd, Caulfield North, VIC 3161
-- **Wallis & Social** at 285 Carlisle St, Balaclava, VIC 3183
-- **Ichi Ni Izakaya** at 12/100 The Esplanade, St Kilda, VIC 3182
-
-### Key Highlights
-
-- Carlisle Street cafe and dining scene
-- Proximity to St Kilda and the beach
-- Historic architecture and local markets
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/balaclava/](/balaclava/)
-- [/st-kilda/](/st-kilda/)
-- [/balaclava/](/balaclava/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

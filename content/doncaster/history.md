@@ -4,16 +4,22 @@ description: "The story of Doncaster: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "doncaster"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Doncaster Melbourne history"
   - "how has Doncaster changed"
   - "Doncaster gentrification"
   - "Doncaster then and now"
+tags:
+  - "doncaster"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Doncaster's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Doncaster comes from an Indigenous word. But the real story is what happened after the suburb was named.
 
 See our full [Doncaster suburb guide](/doncaster/) for the current picture.
 

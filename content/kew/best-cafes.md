@@ -1,61 +1,92 @@
 ---
-title: "Best Cafes in Kew Melbourne"
-description: "Where to find the best coffee and cafes in Kew. Local picks, quiet corners, and the spots that actually deliver."
+title: "Best Cafes in Kew Melbourne — 2026 Guide"
+cover_image: "/images/kew/best-cafes.jpg"
+description: "The best cafes in Kew for brunch, work, and your daily flat white. Real venues, real prices, reviewed by locals who drink here weekly."
 date: 2026-03-21
 suburb: "kew"
 article_type: "best-of"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "best cafes Kew"
   - "coffee Kew Melbourne"
-  - "cafes near Kew"
   - "brunch Kew"
+  - "cafes near Kew"
+tags:
+  - "kew"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
 ---
 
+Kew's cafe scene runs along High Street and clusters around Kew Junction, with a handful of quieter spots tucked into the residential streets south of Cotham Road. The standard is high — this is an inner-east suburb where people drink coffee seriously and bad cafes close within a year. Here are the ones that have earned their regulars.
 
-## The Cafe Scene in Kew
+## Best for Brunch
 
-Kew takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
+### Ora — 143 Pakington Street
 
-The cafe culture here reflects the neighbourhood. Established family suburb with Studley Park bushland, High Street cafes, and top schools.
+Ora is Kew's best brunch destination, tucked slightly off the High Street strip on Pakington Street. The menu is seasonal and considered — think poached eggs with harissa, house-made granola with labne, and a corn fritter stack that brings people back. The space is light-filled with indoor plants, and weekend mornings draw a mixed crowd of young families and couples who know not to bother with the High Street queues. Coffee is excellent. Service is warm without being performative.
 
-## What Makes a Good Cafe Here
+**When to go:** Weekdays for a walk-in seat. Saturday before 9am or after 11:30am.
+**Price:** Two brunches with coffee: $50-$65.
 
-The best cafes in Kew aren't just about the coffee (though the coffee matters). They're the places where the staff recognise you after a few visits, where the food is genuinely good rather than just photogenic, and where you can sit for an hour without feeling rushed.
+### Short Straw — near High Street
 
-Local picks tend to be the ones slightly off the main strip — the place your neighbour told you about, not the one with the queue out the door on Instagram.
+A reliable brunch spot that nails the basics — good eggs, proper sourdough, a flat white that is consistent every visit. The menu does not try to reinvent anything, which is exactly the point. The outdoor seating catches morning sun in summer. A solid local that rewards repeat visits.
 
-## Types of Cafes You'll Find
+**When to go:** Any morning. Weekdays are quieter.
+**Price:** Brunch and coffee for one: $22-$30.
 
-**The Morning Ritual Spot** — Opens early, nails the basics. Perfect flat white, decent toast, no fuss. In and out in 15 minutes or linger with the paper.
+## Best for a Daily Flat White
 
-**The Brunch Destination** — Proper menu, weekend crowds, the kind of place you plan around. Usually has one or two dishes that people specifically come here for. Worth the wait most of the time.
+### Axil Coffee Roasters — 322 Burwood Road, [Hawthorn](/hawthorn/) (borderline Kew)
 
-**The Work-From-Cafe** — Good WiFi, comfortable seating, doesn't mind you sitting there all morning. Usually slightly quieter on weekdays and has proper bench space.
+Technically in Hawthorn but within walking distance for eastern Kew residents, Axil is one of Melbourne's best specialty roasters with a cafe that matches the coffee. Single origin pour-overs, expertly pulled espresso, and a food menu that takes itself seriously without being fussy. The space is large enough to work from. If you care about coffee quality above all else, this is your spot.
 
-**The Hidden Local** — The one only neighbourhood people know about. Might not look like much from outside. Often the best value and genuine character.
+**When to go:** Weekday mornings for the full bench-and-laptop experience.
+**Price:** Flat white $5.00, filter $5.50.
 
-**The All-Day Spot** — Transitions from coffee to lunch to afternoon drinks. Versatile and reliable. Good for meetings and catch-ups at any hour.
+### Kew Grind — High Street
 
-## Coffee Quality in Kew
+A smaller, faster option on the main strip. No-fuss flat whites, a rotating single origin, and pastries from a good local bakery. Three stools, a bench, and you are in and out in five minutes. The baristas know the regulars by order. If you want efficiency and consistency rather than a brunch experience, this delivers.
 
-Melbourne sets the bar high for coffee, and Kew keeps up. Locally roasted beans, proper baristas who care about extraction, and enough competition that bad coffee doesn't survive here long.
+**Price:** Flat white $4.80.
 
-You'll find a mix of specialty roasters and reliable multi-roaster setups. Most cafes here give you a choice of milk alternatives without making a thing about it.
+## Best for Working From
 
-## Tips for Finding Your Spot
+### The Establishment — near Kew Junction
 
-1. **Walk the back streets** — the best cafes aren't always on the main drag
-2. **Go on a weekday first** — easier to get a feel for the place without weekend chaos
-3. **Ask locals** — the barista at one cafe will usually tell you their favourite cafe (which is someone else's)
-4. **Check the food** — great coffee with bad food is a red flag for the overall standard
-5. **Look at who's there** — regulars and locals means the place has earned repeat business
+Good WiFi, power outlets, natural light, and staff who genuinely do not mind you sitting for three hours on one long black. The music stays low enough for calls. The food menu extends through lunch, so you can transition without moving. Kew's unofficial co-working cafe.
 
-## Our Verdict
+## FAQ
 
-Kew's cafe scene is refined and reliable. You won't struggle to find good coffee within a short walk from anywhere in the suburb. The variety means there's something for every mood and occasion.
+**What is the best coffee in Kew?** For pure coffee quality, Axil Coffee Roasters on the Hawthorn border is hard to beat. For convenience and consistency on High Street, Kew Grind and Ora both pull excellent espresso.
+
+**Are Kew cafes family-friendly?** Most High Street cafes have high chairs and outdoor seating that accommodates prams. Weekend mornings skew heavily toward families, so you will not feel out of place.
+
+**How much does coffee cost in Kew?** A flat white runs $4.50-$5.20 across most Kew cafes. Specialty filter and pour-over options sit around $5.50-$6.50.
 
 ---
 
-**More on Kew:** [Kew Suburb Guide](/kew/) · [Kew Cost of Living](/kew/cost-of-living/) · [Kew Neighbourhood Guide](/kew/neighbourhood-guide/)
+**More on Kew:** [Kew Suburb Guide](/kew/) · [Best [Restaurants](/kew/best-restaurants/) in Kew](/kew/best-restaurants/) · [Kew Cost of Living](/kew/cost-of-living/)
+
+---
+
+## Explore More of Kew
+
+- [Kew History](/kew/history/)
+- [Kew Rent Guide](/kew/rent-guide/)
+- [Kew Kew For Retirees](/kew/kew-for-retirees/)
+- [Kew Things To Do](/kew/things-to-do/)
+- [Kew Cost of Living](/kew/cost-of-living/)
+- [Kew Young Professionals Guide](/kew/young-professionals/)
+- [Kew Nightlife Guide](/kew/nightlife-guide/)
+- [Kew Transport Guide](/kew/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Camberwell Suburb Guide](/camberwell/)
+- [Glen Iris Suburb Guide](/glen-iris/)

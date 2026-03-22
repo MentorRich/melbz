@@ -4,16 +4,22 @@ description: "The story of Fawkner: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "fawkner"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Fawkner Melbourne history"
   - "how has Fawkner changed"
   - "Fawkner gentrification"
   - "Fawkner then and now"
+tags:
+  - "fawkner"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Fawkner's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Fawkner has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Fawkner suburb guide](/fawkner/) for the current picture.
 

@@ -4,12 +4,18 @@ description: "Is Spotswood a good suburb for young professionals? Social scene, 
 date: 2026-03-21
 suburb: "spotswood"
 article_type: "young-professionals"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Spotswood young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Spotswood"
+tags:
+  - "spotswood"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Spotswood as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

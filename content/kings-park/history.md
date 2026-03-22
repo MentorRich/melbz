@@ -4,16 +4,22 @@ description: "The story of Kings Park: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "kings-park"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Kings Park Melbourne history"
   - "how has Kings Park changed"
   - "Kings Park gentrification"
   - "Kings Park then and now"
+tags:
+  - "kings-park"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Kings Park's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Kings Park, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Kings Park suburb guide](/kings-park/) for the current picture.
 

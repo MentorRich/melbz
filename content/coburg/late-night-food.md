@@ -1,23 +1,15 @@
 ---
 title: "Late Night Food in Coburg 2026: Where to Eat After Dark"
-cover_image: "/images/coburg/late-night-food.jpg"
-date: 2026-03-16
-author: ethan
-author_image: "/images/authors/ethan.jpg"
-tags: ["coburg", "late-night", "food"]
-categories: ["food"]
-description: "Late Night Food in Coburg 2026: Where to Eat After Dark"
+description: "Late-night food in Coburg for 2026 — six tested spots open after 10pm on Sydney Road. Kebabs, pizza, fried chicken, and the 24-hour grail."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/shared/late-night-food.jpg"
+cover_image_alt: "Late night kebab shop on Sydney Road Coburg with fluorescent lighting"
+suburb: "coburg"
+tags: ["coburg", "late-night", "food", "after-dark"]
 ---
 
-**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
-
-
-
-
-*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
-
-
-Coburg has always been Melbour..."
 # Late Night Food in Coburg 2026: Where to Eat After Dark
 
 *Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
@@ -116,7 +108,7 @@ I know — including Nando's in a late-night food guide feels like cheating. But
 
 The butterfly-cut flame-grilled chicken has been marinating for 24 hours before it hits the grill, and the heat levels (from mild to extra hot) give you options. The chips, the corn on the cob, and the coleslaw are all solid sides. It's not adventurous eating, but it is consistent eating, and sometimes that's exactly what you need at 9:45pm on a Wednesday.
 
-The Bell Street location is easy to reach by car with parking in the shopping centre, and delivery via Uber Eats extends the reach into surrounding suburbs including Brunswick East and [Preston](https://melbz.com.au/preston). If you're south of Moreland Road and craving something quick, this is a dependable pick.
+The Bell Street location is easy to reach by car with parking in the shopping centre, and delivery via Uber Eats extends the reach into surrounding suburbs including Brunswick East and [Preston](/preston/). If you're south of Moreland Road and craving something quick, this is a dependable pick.
 
 **The verdict:** Not exciting, never disappointing. The 10pm close makes it a viable weeknight option when the proper late-night spots haven't opened yet. Best for families and comfort-food moments.
 
@@ -129,9 +121,9 @@ Every late-night food guide has a shortlist of places that don't quite make the 
 
 **Supper Inn and other CBD spots** — If you're willing to head into the city, places like Supper Inn (kitchen open until 2:30am), Bowltiful Lanzhou Beef Noodles (until 2am), and Bar Margaux (kitchen until 1am Fri–Sat) are outstanding. But they're 25 minutes away by car and a world away by Uber surge pricing. This guide sticks to your neighbourhood.
 
-**Brunswick's late-night strip** — Our neighbours down the road in [Brunswick](https://melbz.com.au/brunswick) have a deeper bench of late-night dining, particularly along Sydney Road and Lygon Street in [Brunswick East](https://melbz.com.au/brunswick-east). If Coburg doesn't satisfy your craving on a given night, the 10-minute drive south opens up dozens of additional options.
+**Brunswick's late-night strip** — Our neighbours down the road in [Brunswick](/brunswick/) have a deeper bench of late-night dining, particularly along Sydney Road and Lygon Street in [Brunswick East](/brunswick/-east). If Coburg doesn't satisfy your craving on a given night, the 10-minute drive south opens up dozens of additional options.
 
-**Preston Market stalls** — [Preston](https://melbz.com.au/preston) Market is legendary for daytime cheap eats, but most stalls close by 3pm on weekdays and 5pm on Saturdays. A few restaurants on High Street in Preston stay open later, but that's a separate guide.
+**Preston Market stalls** — [Preston](/preston/) Market is legendary for daytime cheap eats, but most stalls close by 3pm on weekdays and 5pm on Saturdays. A few restaurants on High Street in Preston stay open later, but that's a separate guide.
 
 **Any venue with inconsistent or unverifiable late-night hours** — If we couldn't confirm that a kitchen was reliably open past 10pm, we left it out rather than send you to a dark shopfront. Hours in Coburg shift seasonally, so always check Google or call ahead for the late-night spots listed above.
 
@@ -140,9 +132,9 @@ Every late-night food guide has a shortlist of places that don't quite make the 
 
 One of Coburg's advantages is its position in the inner north's food corridor. You're never more than 15 minutes from serious late-night eating in any direction:
 
-- **[Brunswick](https://melbz.com.au/brunswick):** Lygon Street and Sydney Road both offer extended-hours Italian, Lebanese, and Vietnamese. A 5-minute drive south.
-- **[Brunswick East](https://melbz.com.au/brunswick-east):** Home to some of Melbourne's best Thai and Vietnamese restaurants, several of which serve dinner until 11pm or midnight.
-- **[Preston](https://melbz.com.au/preston):** High Street Preston has a growing roster of late-night dining, particularly Turkish and Middle Eastern. The Preston area also delivers strong value for money.
+- **[Brunswick](/brunswick/):** Lygon Street and Sydney Road both offer extended-hours Italian, Lebanese, and Vietnamese. A 5-minute drive south.
+- **[Brunswick East](/brunswick/-east):** Home to some of Melbourne's best Thai and Vietnamese restaurants, several of which serve dinner until 11pm or midnight.
+- **[Preston](/preston/):** High Street Preston has a growing roster of late-night dining, particularly Turkish and Middle Eastern. The Preston area also delivers strong value for money.
 
 The tram line down Sydney Road connects you from Coburg all the way to the CBD, which means you don't even need a car to access the full northside late-night circuit.
 
@@ -154,22 +146,17 @@ Coburg isn't trying to be Melbourne's late-night food capital. It doesn't have t
 If you're north of Moreland Road after 10pm, you're covered.
 
 
-*Ethan Cross is the Late Night Editor at MELBZ. He has been eating after midnight in Melbourne's northern suburbs for more than a decade and has no plans to stop. Got a tip for a late-night spot we've missed? Drop it in the comments or find us on socials.*
+## FAQ
 
+**What's open 24 hours in Coburg?**
+Fat Chef Coburg North (11/180 Gaffney Street) is genuinely open 24/7.
 
-**Related MELBZ reading:**
-- [Best Late-Night Food in Brunswick 2026](https://melbz.com.au/brunswick/late-night-food)
-- [Where to Eat in Preston After Dark](https://melbz.com.au/preston/late-night-food)
-- [Brunswick East's Best Vietnamese Restaurants](https://melbz.com.au/brunswick-east/vietnamese)
-- [Coburg's Best Coffee Spots](https://melbz.com.au/coburg/coffee)
-- [The Complete Food Guide to Sydney Road](https://melbz.com.au/sydney-road-food-guide)
+**Where's the best late-night kebab in Coburg?**
+Al Kababjii on Sydney Road. Charcoal-grilled meats and proper wraps. Open late Thu-Sun.
 
-## Related Articles
+**What time do most Coburg restaurants close?**
+Most close by 9-10pm. For genuine late-night eating, your options are Fat Chef, Coburg Pizza, Al Kababjii, and the kebab shops.
 
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/coburg/](/coburg/)
+---
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Coburg:** [Coburg Best Restaurants](/coburg/best-restaurants/) · [Coburg Best Pubs](/coburg/best-pubs/) · [Coburg Suburb Guide](/coburg/)

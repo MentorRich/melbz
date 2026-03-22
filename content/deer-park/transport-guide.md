@@ -4,15 +4,22 @@ description: "Public transport in Deer Park: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "deer-park"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Deer Park Melbourne"
   - "commute from Deer Park to city"
   - "Deer Park train station"
+tags:
+  - "deer-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Deer Park — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Deer Park transport links. Here is the reality.
 
 Check out our full [Deer Park suburb guide](/deer-park/) for the complete picture.
 

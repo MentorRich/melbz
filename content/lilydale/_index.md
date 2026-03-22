@@ -1,16 +1,16 @@
 ---
-title: "Lilydale Melbourne — Everything You Need to Know"
+title: "Lilydale Melbourne — what you need"
 description: "The complete guide to Lilydale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "lilydale"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Lilydale Melbourne"
   - "what is Lilydale like"
   - "lilydale suburb"
   - "living in Lilydale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 End of the Lilydale line. Town centre, lake, and Yarra Valley wine country on the doorstep.

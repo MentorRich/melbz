@@ -1,24 +1,24 @@
 ---
 title: "7 Best Pubs in Brunswick East — Your 2026 Local Guide"
-cover_image: "/images/brunswick-east/best-pubs.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+cover_image: "/images/shared/pub-bar.jpg"
+cover_image_alt: "Beer garden at the Lomond Hotel pub on Nicholson Street Brunswick East"
+tags:
+  - "brunswick-east"
+  - "pubs"
+  - "beer"
+  - "nightlife"
+  - "melbourne"
 ---
 
-suburb: "brunswick-east"
-vertical: "lifestyle"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "From a restored 1880s rock-and-roll hotel to a heritage bank turned all-day pub — here are the 7 Brunswick East pubs worth your time and your $10 pint."
-tags: ["brunswick-east"]
-categories: ["general"]
 # 7 Best Pubs in Brunswick East — Your 2026 Local Guide
 
-Brunswick East has never been a "pub suburb" in the way that [Brunswick](/brunswick) is — with its Sydney Road strip of grand old locals and the Retreat's massive beer garden. But that's been changing. The Lygon Street corridor through Brunswick East now boasts a genuinely impressive collection of pubs, from heritage-restored hotels to all-day dining halls, and the East Brunswick Village development has added a brewery that would hold its own anywhere in Melbourne.
+Brunswick East has never been a "pub suburb" in the way that [Brunswick](/brunswick) is — with its Sydney Road strip of grand old locals and the Retreat's massive beer garden. But that's been changing. The Lygon Street corridor through Brunswick East now has a genuinely impressive collection of pubs, from heritage-restored hotels to all-day dining halls, and the East Brunswick Village development has added a brewery that would hold its own anywhere in Melbourne.
 
 What makes Brunswick East's pub scene different? It's less crowded than Brunswick, less pretentious than Fitzroy, and more interesting than Carlton North. The pubs here feel like they belong to the people who live here — not to a tourist brochure.
 
-**Last updated: 16 March 2026** | **Brunswick East Vibe Score: 78/100 🟢**
+**Last updated: 16 March 2026** | **Last updated: March 2026**
 
 Here are the seven pubs that make this suburb worth a visit, even if you don't live here.
 
@@ -129,14 +129,11 @@ Brunswick East pubs aren't trying to be everything — they're trying to be the 
 
 **If you only visit one pub:** Bridge Road Brewers for the scale and the beer, East Brunswick Hotel for the history and the music, Teller for the everyday "this is my local" feel.
 
-**Your Brunswick East Vibe Score this week: 78/100** — The pub scene is maturing fast. East Brunswick Village has changed the game, and the heritage pubs are getting the love they deserve.
-
 
 *Know a spot we missed? Let us know.*
 *Related reads: [Brunswick East Nightlife Guide](/brunswick-east/nightlife-guide) | [Best Coffee in Brunswick East](/brunswick-east/best-coffee) | [Best Brunch in Brunswick East](/brunswick-east/best-brunch)*
 *Compare energy plans, internet, and insurance for your area at [CompareBlitz](https://compareblitz.com.au?suburb=brunswick-east)*
 
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
 ### Featured Venues
 
@@ -166,10 +163,9 @@ Brunswick East pubs aren't trying to be everything — they're trying to be the 
 - Culture: 8/10
 ## Related Articles
 
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/carlton/](/carlton/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

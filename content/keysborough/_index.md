@@ -1,16 +1,16 @@
 ---
-title: "Keysborough Melbourne — Everything You Need to Know"
+title: "Keysborough Melbourne — what you need"
 description: "The complete guide to Keysborough. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "keysborough"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Keysborough Melbourne"
   - "what is Keysborough like"
   - "keysborough suburb"
   - "living in Keysborough"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Parkmore Shopping Centre, family estates, and growing amenities in the south-east corridor.

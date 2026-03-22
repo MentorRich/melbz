@@ -4,19 +4,25 @@ description: "What to do in Glen Iris this weekend and beyond. Activities, event
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "activities"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "things to do Glen Iris"
   - "Glen Iris activities"
   - "what to do in Glen Iris"
   - "Glen Iris weekend plans"
+tags:
+  - "glen-iris"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
 ## What Is There to Do in Glen Iris?
 
-More than you think. Gardiner's Creek trail, family homes, and a leafy pocket between Camberwell and Malvern. That energy translates into things to do on any day of the week, rain or shine.
+More than you think. Gardiner's Creek trail, family homes, and a leafy pocket between [Camberwell](/camberwell/) and Malvern. That energy translates into things to do on any day of the week, rain or shine.
 
 ## Outdoor Activities
 
@@ -53,7 +59,7 @@ More than you think. Gardiner's Creek trail, family homes, and a leafy pocket be
 
 Melbourne weather means you need indoor plans. Glen Iris has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/glen-iris/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Glen Iris has:
 ---
 
 **More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris Best Cafes](/glen-iris/best-cafes/) · [Glen Iris Neighbourhood Guide](/glen-iris/neighbourhood-guide/)
+
+---
+
+## Explore More of Glen Iris
+
+- [Glen Iris History](/glen-iris/history/)
+- [Glen Iris Rent Guide](/glen-iris/rent-guide/)
+- [Glen Iris Glen Iris For Retirees](/glen-iris/glen-iris-for-retirees/)
+- [Glen Iris Cost of Living](/glen-iris/cost-of-living/)
+- [Glen Iris Young Professionals Guide](/glen-iris/young-professionals/)
+- [Glen Iris Transport Guide](/glen-iris/transport-guide/)
+- [Glen Iris Best Cafes](/glen-iris/best-cafes/)
+- [Glen Iris Best Restaurants](/glen-iris/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

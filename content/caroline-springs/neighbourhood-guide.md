@@ -4,13 +4,18 @@ description: "The insider's guide to Caroline Springs's different pockets, stree
 date: 2026-03-21
 suburb: "caroline-springs"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Caroline Springs neighbourhood guide"
   - "best streets in Caroline Springs"
   - "Caroline Springs areas"
   - "Caroline Springs pockets Melbourne"
+tags:
+  - "caroline-springs"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Caroline Springs isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

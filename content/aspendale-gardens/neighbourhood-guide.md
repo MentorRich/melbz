@@ -4,13 +4,18 @@ description: "The insider's guide to Aspendale Gardens's different pockets, stre
 date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "Aspendale Gardens neighbourhood guide"
   - "best streets in Aspendale Gardens"
   - "Aspendale Gardens areas"
   - "Aspendale Gardens pockets Melbourne"
+tags:
+  - "aspendale-gardens"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Aspendale Gardens isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

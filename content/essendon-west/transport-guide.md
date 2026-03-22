@@ -4,15 +4,22 @@ description: "Public transport in Essendon West: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "essendon-west"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Essendon West Melbourne"
   - "commute from Essendon West to city"
   - "Essendon West train station"
+tags:
+  - "essendon-west"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Essendon West — what works, what's annoying, and how long things actually take.
+Your morning commute from Essendon West depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Essendon West suburb guide](/essendon-west/) for the complete picture.
 

@@ -4,19 +4,25 @@ description: "Where to eat in Hampton: the honest guide to the suburb's restaura
 date: 2026-03-21
 suburb: "hampton"
 article_type: "best-of"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "best restaurants Hampton"
   - "where to eat Hampton"
   - "dinner Hampton Melbourne"
   - "restaurants near Hampton"
+tags:
+  - "hampton"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
 ## Eating Out in Hampton
 
-Hampton's restaurant scene reflects the suburb's personality. Hampton Street village, the beach, and a family-friendly vibe that rivals Brighton at lower cost. That translates into a food culture that's casual but quality, with seafood and Mediterranean influences.
+Hampton's restaurant scene reflects the suburb's personality. Hampton Street village, the beach, and a family-friendly vibe that rivals [Brighton](/brighton/) at lower cost. That translates into a food culture that's casual but quality, with seafood and Mediterranean influences.
 
 You've got options from casual weeknight dinners to proper sit-down spots you save for birthdays. The range is what makes it work — you don't need to leave the suburb for good food.
 
@@ -56,4 +62,24 @@ The mid-range is where Hampton shines — restaurants that care about quality bu
 
 ---
 
-**More on Hampton:** [Hampton Suburb Guide](/hampton/) · [Hampton Best Cafes](/hampton/best-cafes/) · [Hampton Living Guide](/hampton/living-in-hampton/)
+**More on Hampton:** [Hampton Suburb Guide](/hampton/) · [Hampton Best Cafes](/hampton/best-[cafes](/hampton/best-cafes/)/) · [Hampton Living Guide](/hampton/living-in-hampton/)
+
+---
+
+## Explore More of Hampton
+
+- [Hampton History](/hampton/history/)
+- [Hampton Rent Guide](/hampton/rent-guide/)
+- [Hampton Things To Do](/hampton/things-to-do/)
+- [Hampton Cost of Living](/hampton/cost-of-living/)
+- [Hampton Young Professionals Guide](/hampton/young-professionals/)
+- [Hampton Transport Guide](/hampton/transport-guide/)
+- [Hampton Best Cafes](/hampton/best-cafes/)
+- [Hampton Weekend Guide](/hampton/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

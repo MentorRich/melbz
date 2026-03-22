@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Glen Eira? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "glen-eira"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Glen Eira good for families"
   - "Glen Eira family friendly"
   - "raising kids in Glen Eira"
+tags:
+  - "glen-eira"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Glen Eira with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

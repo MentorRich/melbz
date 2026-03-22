@@ -4,12 +4,16 @@ description: "Thinking of raising kids in South Kingsville? Parks, schools, safe
 date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is South Kingsville good for families"
   - "South Kingsville family friendly"
   - "raising kids in South Kingsville"
+tags:
+  - "south-kingsville"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to South Kingsville with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

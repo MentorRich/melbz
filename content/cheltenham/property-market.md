@@ -4,13 +4,19 @@ description: "Thinking of buying in Cheltenham? What the market looks like, what
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "property"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "buying in Cheltenham"
   - "Cheltenham property market"
   - "Cheltenham house prices"
   - "real estate Cheltenham Melbourne"
+tags:
+  - "cheltenham"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -80,3 +86,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham Cost of Living](/cheltenham/cost-of-living/) · [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+
+---
+
+## Explore More of Cheltenham
+
+- [Cheltenham History](/cheltenham/history/)
+- [Cheltenham Rent Guide](/cheltenham/rent-guide/)
+- [Cheltenham Things To Do](/cheltenham/things-to-do/)
+- [Cheltenham Cost of Living](/cheltenham/cost-of-living/)
+- [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+- [Cheltenham Living In Cheltenham](/cheltenham/living-in-cheltenham/)
+- [Cheltenham Transport Guide](/cheltenham/transport-guide/)
+- [Cheltenham Best Cafes](/cheltenham/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

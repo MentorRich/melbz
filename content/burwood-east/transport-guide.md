@@ -4,15 +4,22 @@ description: "Public transport in Burwood East: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "burwood-east"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Burwood East Melbourne"
   - "commute from Burwood East to city"
   - "Burwood East train station"
+tags:
+  - "burwood-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Burwood East — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Burwood East. Let us cut through the fluff.
 
 Check out our full [Burwood East suburb guide](/burwood-east/) for the complete picture.
 

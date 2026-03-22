@@ -1,12 +1,13 @@
 ---
 title: "Best Vegan and Vegetarian in Melbourne 2026: The Ultimate Guide"
-cover_image: "/images/melbourne-cbd/best-vegan.jpg"
-date: 2026-03-16
-author: nadia
-author_image: "/images/authors/nadia.jpg"
-tags: ["melbourne", "vegan", "vegetarian", "food"]
-categories: ["food"]
-description: "Best Vegan and Vegetarian in Melbourne 2026: The Ultimate Guide"
+cover_image: "/images/shared/food-restaurants.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Nadia Keane"
+tags: ["melbourne", "melbourne-cbd", "vegan", "vegetarian", "food"]
+description: "Nine vegan and vegetarian restaurants across Melbourne tested for 2026. Smith and Daughters in Fitzroy, SHU Sichuan in Collingwood and CBD plant-based dining."
 ---
 
 *description: "16 March 2026 | 12 places tested | Nadia Keane reporting"*
@@ -18,7 +19,7 @@ Updated 16 March 2026 | 12 places tested | Nadia Keane reporting
 
 Melbourne doesn't do plant-based dining as an afterthought. It does it as the main event. From hatted fine dining that happens to be fully vegan to hole-in-the-wall dumpling joints you'd walk past if you weren't looking, this city has spent decades building a vegan and vegetarian scene that the rest of the country envies.
 
-I spent the last three weeks eating my way through 12 vegan and vegetarian restaurants across the inner suburbs — some I'd been going to for years, others brand new on the scene. Here's what made the cut, what surprised me, and what honestly wasn't worth the trip.
+I spent the last three weeks eating my way through 12 vegan and vegetarian [restaurants](/melbourne-cbd/best-restaurants/) across the inner suburbs — some I'd been going to for years, others brand new on the scene. Here's what made the cut, what surprised me, and what honestly wasn't worth the trip.
 
 
 ## 1. Smith & Daughters — The One That Started a Movement
@@ -142,7 +143,7 @@ Transformer sits in that sweet spot between casual and fine dining. It's polishe
 
 ## What We Skipped and Why
 
-Not every vegan or vegetarian restaurant in Melbourne deserves a spot in this guide. Here's what didn't make the cut and why:
+Not every vegan or vegetarian restaurant in Melbourne deserves a spot . Here's what didn't make the cut and why:
 
 **Lentil As Anything** — The pay-what-you-feel vegetarian restaurant was a beloved Melbourne institution, but it closed its doors in February 2022 and hasn't reopened. If it returns, we'll reassess.
 
@@ -177,7 +178,7 @@ The common thread across every venue we tested? Pride. These kitchens aren't ser
 
 Planning a Melbourne food crawl? Check our [Best Brunch Spots in Melbourne 2026](/melbourne-cbd/best-brunch) for where to fuel up before you start. Hungry after a big day out? Our [Best Cheap Eats in Melbourne CBD](/melbourne-cbd/cheap-eats) covers the best sub-$15 feeds in the city. And if you're mapping out a full weekend, our [Melbourne Weekend Itinerary Guide](/melbourne-cbd/weekend-guide) puts it all together.
 
-New to Melbourne? Our [Moving to Melbourne: What Nobody Tells You](/melbourne-cbd/moving-to-melbourne) guide covers suburbs, transport, and where the good coffee actually is.
+New to Melbourne? Our [Moving to Melbourne: What Nobody Tells You](/melbourne-cbd/moving-to-melbourne) guide covers suburbs, [transport](/melbourne-cbd/transport-guide/), and where the good coffee actually is.
 
 
 > **❤️ REACT**
@@ -188,12 +189,22 @@ New to Melbourne? Our [Moving to Melbourne: What Nobody Tells You](/melbourne-cb
 
 *Prices and menus accurate as of March 2026. Always check the venue's website before booking, as hours and menus change seasonally. This guide was independently researched and written — no venues paid for inclusion.*
 
-## Related Articles
+---
 
-- [/st-kilda/](/st-kilda/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+## Explore More of Melbourne CBD
 
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Cocktails](/melbourne-cbd/cocktails/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD Weekend Guide V2](/melbourne-cbd/weekend-guide-v2/)
+
+### Nearby Suburbs Worth Checking
+
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

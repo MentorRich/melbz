@@ -4,13 +4,18 @@ description: "The insider's guide to Alphington's different pockets, streets, an
 date: 2026-03-21
 suburb: "alphington"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Alphington neighbourhood guide"
   - "best streets in Alphington"
   - "Alphington areas"
   - "Alphington pockets Melbourne"
+tags:
+  - "alphington"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Alphington isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

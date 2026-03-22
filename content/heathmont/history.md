@@ -4,16 +4,22 @@ description: "The story of Heathmont: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "heathmont"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Heathmont Melbourne history"
   - "how has Heathmont changed"
   - "Heathmont gentrification"
   - "Heathmont then and now"
+tags:
+  - "heathmont"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Heathmont's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Heathmont was a quiet rural settlement. The transformation tells a quintessentially Melbourne story.
 
 See our full [Heathmont suburb guide](/heathmont/) for the current picture.
 

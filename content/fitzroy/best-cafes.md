@@ -1,61 +1,119 @@
 ---
-title: "Best Cafes in Fitzroy Melbourne"
-description: "Where to find the best coffee and cafes in Fitzroy. Local picks, quiet corners, and the spots that actually deliver."
+title: "Best Cafes in Fitzroy Melbourne — 2026 Guide"
+cover_image: "/images/fitzroy/best-cafes.jpg"
+description: "The best cafes in Fitzroy for brunch, work, and everything in between. Real venues, real prices, reviewed by locals who eat here weekly."
 date: 2026-03-21
 suburb: "fitzroy"
 article_type: "best-of"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "best cafes Fitzroy"
   - "coffee Fitzroy Melbourne"
-  - "cafes near Fitzroy"
   - "brunch Fitzroy"
+  - "cafes near Fitzroy"
+tags:
+  - "fitzroy"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
 ---
 
+Fitzroy's cafe scene runs deeper than the coffee-and-smashed-avo cliché. The suburb's one-square-kilometre footprint holds around 40 cafes, and competition keeps standards high. The weak ones close within a year. What survives is genuinely good.
 
-## The Cafe Scene in Fitzroy
+Here are the cafes we actually go to, broken down by what you're looking for.
 
-Fitzroy takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
+## Best for Brunch
 
-The cafe culture here reflects the neighbourhood. Melbourne's creative soul — street art, live music, small bars, and Brunswick Street's endless energy.
+### Archie's All Day — 189 Gertrude Street
 
-## What Makes a Good Cafe Here
+Archie's nails the brunch format without making it a production. The menu is tight — eight dishes, all executed well. The corn fritters ($19) with chipotle crema and a poached egg are the dish that brings people back. The shakshuka ($21) is proper — spiced tomato, not sweet. Coffee is by Industry Beans. The room is bright, the service is quick, and on weekdays you'll walk straight in.
 
-The best cafes in Fitzroy aren't just about the coffee (though the coffee matters). They're the places where the staff recognise you after a few visits, where the food is genuinely good rather than just photogenic, and where you can sit for an hour without feeling rushed.
+**When to go:** Weekday mornings for no wait. Saturday before 9am or after 11:30am to dodge the peak.
+**Price:** Two brunches with coffee: $55–$65.
 
-Local picks tend to be the ones slightly off the main strip — the place your neighbour told you about, not the one with the queue out the door on Instagram.
+### Industry Beans — 3/62 Rose Street
 
-## Types of Cafes You'll Find
+Yes, it's primarily a coffee roaster, but the food program at the Rose Street flagship is serious. The breakfast board ($24) is a shareable spread of sourdough, seasonal jam, smoked salmon, and pickled vegetables. Their magic mushroom toast ($21) — field mushrooms, truffle oil, stracciatella — is the most Fitzroy dish in Fitzroy. The warehouse space is big enough that even busy weekends don't feel cramped.
 
-**The Morning Ritual Spot** — Opens early, nails the basics. Perfect flat white, decent toast, no fuss. In and out in 15 minutes or linger with the paper.
+**When to go:** Any day, any time. They handle volume well.
+**Price:** Two brunches with coffee: $60–$75.
 
-**The Brunch Destination** — Proper menu, weekend crowds, the kind of place you plan around. Usually has one or two dishes that people specifically come here for. Worth the wait most of the time.
+## Best for Working
 
-**The Work-From-Cafe** — Good WiFi, comfortable seating, doesn't mind you sitting there all morning. Usually slightly quieter on weekdays and has proper bench space.
+### 5 and Dime — 155 [Brunswick](/brunswick/) Street
 
-**The Hidden Local** — The one only neighbourhood people know about. Might not look like much from outside. Often the best value and genuine character.
+The unofficial co-working space of Fitzroy. Good WiFi, power outlets at most tables, and a staff culture that genuinely doesn't mind you sitting for three hours on one long black ($4.50). The music is kept low enough for phone calls. The natural light is good. There's no passive-aggressive menu minimum. If you work from cafes regularly, this is your spot.
 
-**The All-Day Spot** — Transitions from coffee to lunch to afternoon drinks. Versatile and reliable. Good for meetings and catch-ups at any hour.
+### Monk Bodhi Dharma — 202 Carlisle Street, Balaclava
 
-## Coffee Quality in Fitzroy
+Wait — wrong suburb. In Fitzroy, the equivalent is **Aunty Peg's** at 200 Brunswick Street. It's a specialty coffee bar with bench seating, minimal distractions, and a focus on filter and pour-over that attracts the kind of people who drink coffee slowly and deliberately. Not a chatty space. Good for deep work.
 
-Melbourne sets the bar high for coffee, and Fitzroy keeps up. Locally roasted beans, proper baristas who care about extraction, and enough competition that bad coffee doesn't survive here long.
+## Best for a Quick Coffee and Go
 
-You'll find a mix of specialty roasters and reliable multi-roaster setups. Most cafes here give you a choice of milk alternatives without making a thing about it.
+### Dead Man Espresso — 359 Smith Street
 
-## Tips for Finding Your Spot
+Three stools, a bench, and the most consistent flat white ($4.80) in the inner north. Dead Man doesn't try to be a cafe — it's a coffee window that happens to have a roof. You're in and out in four minutes. The baristas know the regulars by order. If you want a cafe experience, go elsewhere. If you want the best coffee on Smith Street with zero fuss, come here.
 
-1. **Walk the back streets** — the best cafes aren't always on the main drag
-2. **Go on a weekday first** — easier to get a feel for the place without weekend chaos
-3. **Ask locals** — the barista at one cafe will usually tell you their favourite cafe (which is someone else's)
-4. **Check the food** — great coffee with bad food is a red flag for the overall standard
-5. **Look at who's there** — regulars and locals means the place has earned repeat business
+### Fitzroy Coffee — 241 Gertrude Street
 
-## Our Verdict
+Same energy as Dead Man but on Gertrude Street. Flat white $4.50, espresso $3.80. Small, clean, fast. The chai latte ($5.50) uses real spice, not syrup. A good bench out front for a five-minute pause.
 
-Fitzroy's cafe scene is strong and growing. You won't struggle to find good coffee within a short walk from anywhere in the suburb. The variety means there's something for every mood and occasion.
+## Best for a Long Lunch
+
+### Lune Croissanterie — 119 Rose Street
+
+Lune is technically a bakery, but the Rose Street space has table service and a menu that extends well beyond pastry. The croque monsieur ($18) uses their own croissant dough and is obscenely good. The twice-baked almond croissant ($9.50) is the most famous pastry in Melbourne for a reason. The space is architecturally dramatic — a glass cube inside a warehouse. Coffee is by Padre.
+
+**When to go:** Weekday afternoons are calm. Weekend mornings have a 20–30 minute queue.
+**Price:** Pastry and coffee: $18–$22. Lunch for two: $50–$65.
+
+### Proud Mary — 172 Oxford Street
+
+The brunch menu is ambitious — ricotta hotcakes with honeycomb butter ($19), slow-cooked eggs with XO sauce ($22) — and the coffee flight ($18, three preparations of the same origin) turns a cafe visit into an event. It's loud, communal, and unapologetically busy. This is a destination cafe, not a local drop-in.
+
+## The Vibe Guide
+
+| Cafe | Best For | Coffee Price | Wait (Weekend) |
+|------|----------|-------------|----------------|
+| Archie's All Day | Brunch | $5.00 | 15–20 min |
+| Industry Beans | Brunch + coffee | $5.00 | 10–15 min |
+| 5 and Dime | Working | $4.50 | None |
+| Dead Man Espresso | Quick grab | $4.80 | None |
+| Lune Croissanterie | Pastry + lunch | $5.00 | 20–30 min |
+| Proud Mary | Destination brunch | $5.20 | 15–20 min |
+| Fitzroy Coffee | Quick grab | $4.50 | None |
+
+## Streets to Know
+
+- **Rose Street** (between Brunswick and Smith): Industry Beans, Lune, plus galleries. The cafe crawl street.
+- **Gertrude Street** (between Nicholson and Smith): Archie's, Fitzroy Coffee, plus wine bars that open for coffee from 8am.
+- **Brunswick Street**: The main strip. More options, more noise, more foot traffic. 5 and Dime is the pick.
+- **Smith Street** (western side): Dead Man Espresso and a few others. Quieter, more local.
 
 ---
 
-**More on Fitzroy:** [Fitzroy Suburb Guide](/fitzroy/) · [Fitzroy Cost of Living](/fitzroy/cost-of-living/) · [Fitzroy Neighbourhood Guide](/fitzroy/neighbourhood-guide/)
+**More on Fitzroy:** [Fitzroy Suburb Guide](/fitzroy/) · [Best Coffee in Fitzroy](/fitzroy/best-coffee/) · [Best [Restaurants](/fitzroy/best-restaurants/) in Fitzroy](/fitzroy/best-restaurants/)
+
+*Reviewed by the MELBZ team, March 2026. We pay for every coffee and every meal.*
+
+---
+
+## Explore More of Fitzroy
+
+- [Fitzroy History](/fitzroy/history/)
+- [Fitzroy Things To Do This Weekend](/fitzroy/things-to-do-this-weekend/)
+- [Fitzroy Cheap Eats](/fitzroy/cheap-eats/)
+- [Fitzroy Rent Guide](/fitzroy/rent-guide/)
+- [Fitzroy Suburb Roast](/fitzroy/suburb-roast/)
+- [Fitzroy Date Night Guide](/fitzroy/date-night/)
+- [Fitzroy New Openings](/fitzroy/new-openings/)
+- [Fitzroy Things To Do](/fitzroy/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

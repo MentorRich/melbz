@@ -4,12 +4,16 @@ description: "Considering retirement in Noble Park North? Quiet streets, healthc
 date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Noble Park North retirees Melbourne"
   - "retiring in Noble Park North"
   - "quiet suburbs Melbourne"
+tags:
+  - "noble-park-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Noble Park North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

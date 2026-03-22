@@ -1,17 +1,14 @@
 ---
 title: "Cheap Eats in Coburg 2026: Sydney Road Under $15"
-cover_image: "/images/coburg/cheap-eats.jpg"
----
-
+description: "The best cheap eats in Coburg for 2026 — eight verified spots under $15 on Sydney Road. Lahmacun, dumplings, falafel, banh mi, and bakery finds."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Omar Hassan"
+cover_image: "/images/shared/cheap-eats.jpg"
+cover_image_alt: "Lahmacun roll and Turkish coffee at A1 Bakery on Sydney Road Coburg"
 suburb: "coburg"
-vertical: "food"
-author: "omar"
-author_image: "/images/authors/omar.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "The best cheap eats in Coburg for 2026 — 8 verified spots under $15 on Sydney Road and beyond. Kebabs, dumplings, falafel, and bakery steals."
-tags: ["coburg"]
-categories: ["cheap"]
+tags: ["coburg", "cheap-eats", "food", "budget"]
+---
 # Cheap Eats in Coburg 2026: Sydney Road Under $15
 
 Here's the thing about Coburg and cheap food: it's not a trend, it's the baseline. Sydney Road has been feeding people well and cheaply for decades — long before "affordable dining" became a clickbait category. Turkish bakeries that charge $7 for a filling the size of a small child. Lebanese spots where a plate of hummus and bread is an entire meal. Vietnamese joints doing pho for under $13. This strip doesn't do overpriced.
@@ -20,7 +17,7 @@ If you're coming from [Brunswick's cheap eats scene](/brunswick/cheap-eats/), yo
 
 Here are eight spots where you can eat properly for under $15. Most under $10.
 
-**Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
+**Last updated: March 2026**
 
 
 ## 1. A1 Bakery
@@ -145,18 +142,17 @@ If you're comparing to [Brunswick's cheap eats](/brunswick/cheap-eats/) or [Pres
 
 Also worth checking: [Coburg North's growing food scene](/coburg-north/cheap-eats/) up near the industrial estate — some interesting new spots opening up there.
 
-**Your Coburg Vibe Score this week: 72/100** — Feeds you well for under $15. Always has.
+## FAQ
 
+**What's the cheapest meal on Sydney Road?**
+A1 Bakery's $5 lahmacun roll is the best value meal in the inner north. Zaatar's $7 pies are a close second.
 
-*Know a cheap eat we missed? Let us know.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
+**Is Coburg cheaper to eat out than Brunswick?**
+Yes — across the board. Bakery items, kebabs, and cafe meals all run 10-20% cheaper than equivalent quality in Brunswick.
 
-## Related Articles
+**Where's the best falafel in Coburg?**
+Melbourne Kebab Station's falafel plate ($11) is the standout — golden, crunchy outside, fluffy inside, with house-made tahini sauce.
 
-- [/brunswick/](/brunswick/)
-- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
-- [/food/](/food/)
-- [/coburg/](/coburg/)
-- [/coburg/hub](/coburg/hub)
+---
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Coburg:** [Coburg Best Restaurants](/coburg/best-restaurants/) · [Coburg Best Asian Food](/coburg/best-asian-food/) · [Coburg Suburb Guide](/coburg/)

@@ -4,13 +4,18 @@ description: "The insider's guide to Ashwood's different pockets, streets, and a
 date: 2026-03-21
 suburb: "ashwood"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Ashwood neighbourhood guide"
   - "best streets in Ashwood"
   - "Ashwood areas"
   - "Ashwood pockets Melbourne"
+tags:
+  - "ashwood"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Ashwood isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

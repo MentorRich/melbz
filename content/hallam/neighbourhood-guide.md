@@ -4,13 +4,18 @@ description: "The insider's guide to Hallam's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "hallam"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Hallam neighbourhood guide"
   - "best streets in Hallam"
   - "Hallam areas"
   - "Hallam pockets Melbourne"
+tags:
+  - "hallam"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hallam isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

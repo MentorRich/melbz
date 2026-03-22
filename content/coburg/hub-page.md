@@ -1,27 +1,18 @@
 ---
 title: "Coburg Melbourne Suburb Guide 2026: The Complete Picture"
-cover_image: "/images/coburg/hub-page.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
-tags: ["coburg", "suburb-guide"]
-categories: ["lifestyle"]
-description: "Coburg Melbourne Suburb Guide 2026: The Complete Picture"
+description: "The complete hub guide to Coburg in 2026. Rent prices, transport on the Upfield line, Sydney Road food, Pentridge precinct, and living costs."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/shared/suburb-overview.jpg"
+cover_image_alt: "Aerial view of Coburg showing Sydney Road and the Pentridge precinct"
+suburb: "coburg"
+tags: ["coburg", "suburb-guide", "living", "inner-north"]
 ---
-
-**Updated 16 March 2026 | Jack Morrison reporting**
-
-
-
-Coburg sits 11 kilometres north of the CBD, stradd..."
-
-*Updated 16 March 2026 | Jack Morrison reporting*
 
 # Coburg Melbourne Suburb Guide 2026: The Complete Picture
 
-**Updated 16 March 2026 | Jack Morrison reporting**
-
-Coburg sits 11 kilometres north of the CBD, straddling the border between the old City of Moreland — now Merri-Bek — and the City of Darebin on its eastern edge. It's the suburb that Brunswick people eye off when rents get too steep and they start thinking, "Maybe I should move a few stops up the line." And honestly? They're not wrong to consider it.
+Coburg sits 9 kilometres north of the CBD, straddling the border between the old City of Moreland — now Merri-Bek — and the City of Darebin on its eastern edge. It's the suburb that Brunswick people eye off when rents get too steep and they start thinking, "Maybe I should move a few stops up the line." And honestly? They're not wrong to consider it.
 
 With a population of roughly 27,000 (the 2021 Census put it at 26,574, and the apartment pipeline since then has only pushed that higher), Coburg is big enough to have its own personality but small enough that you'll recognise faces at the supermarket. The median age is 35 — young families, Greek and Italian nonnas who've been here for decades, Lebanese-Australian families with deep roots along Sydney Road, and the newer wave of professionals and students priced out of Brunswick and Fitzroy.
 
@@ -58,7 +49,7 @@ Gross rental yield for houses is sitting around **2.87%**, which tells you this 
 
 Coburg is well served by public transport, which is a major draw for renters and commuters.
 
-**Trains:** The Upfield line runs through the suburb with two stations — Coburg and Batman. The train to Flinders Street takes roughly 25 minutes via the City Loop, making it a straightforward commute for CBD workers. Frequency is decent during peak hours but can thin out on weekends. If you've ever waited 20 minutes for an Upfield line train on a Sunday afternoon, you know the pain.
+**Trains:** The Upfield line runs through the suburb with three stations — Coburg, Moreland, and Batman. The train to Flinders Street takes roughly 25 minutes via the City Loop, making it a straightforward commute for CBD workers. Frequency is decent during peak hours but can thin out on weekends. If you've ever waited 20 minutes for an Upfield line train on a Sunday afternoon, you know the pain.
 
 **Trams:** Route 19 runs along Sydney Road — the main corridor — all the way down to the CBD. It's not the fastest tram in the network (the 86 holds that crown of unreliability), but it's direct and frequent enough for daily use. Infrastructure Victoria has proposed extending Route 58 from Melville Road in Brunswick East through to Batman Station, which would give Coburg North proper tram access for the first time. Don't hold your breath on timing though — these proposals move at the speed of government.
 
@@ -158,40 +149,19 @@ If you're a renter priced out of [Brunswick](/brunswick) or [Brunswick East](/br
 > **Widget: Moving to Coburg?** What's the one question you need answered before you sign a lease? Ask below and our editors or local residents will answer.
 
 
-*Melbourne's suburbs aren't just postcodes — they're personalities. The MELBZ suburb guide gives you the complete picture, not the tourism brochure. Got a correction or something we should add? Hit us up at the usual address.*
+## FAQ
 
-### Featured Venues
+**How far is Coburg from the CBD?**
+About 9 kilometres. The train from Coburg station takes 20-25 minutes to Flinders Street.
 
-- **Post Office Hotel** at 229-231 Sydney Rd, Coburg VIC 3058
-- **Half Moon Cafe** at 134 Sydney Rd, Coburg VIC 3058
-- **Zeytin** at 128 Sydney Rd, Coburg VIC 3058
-- **Code Black Coffee** at 15-17 Weston St, Brunswick VIC 3056
-- **Post Office Hotel** at 229-231 Sydney Rd, Coburg VIC 3058
-- **True North** at 2A Munro St, Coburg VIC 3058
-- **Half Moon Cafe** at 134 Sydney Rd, Coburg VIC 3058
-- **New Somali Kitchen** at 322 Sydney Rd, Coburg VIC 3058
-- **Coburg Kebab House** at 400 Sydney Rd, Coburg VIC 3058
-- **Half Moon Cafe** at 154 Sydney Rd, Coburg VIC 3058
+**What council is Coburg in?**
+City of Merri-bek (formerly Moreland). Postcode: 3058.
 
-### Key Highlights
+**Is Coburg a good suburb to live in?**
+Yes — if you value multicultural food, the Merri Creek, solid transport connections, and inner-north living at a discount to Brunswick prices.
 
-- Coburg Lake Reserve
-- Pentridge Prison heritage site
-- Sydney Road shopping and dining strip
+---
 
-### Suburb Vibe
+*Got a correction or something we should add? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/northcote/](/northcote/)
-- [/south-yarra/](/south-yarra/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Coburg:** [Coburg Honest Guide](/coburg/honest-guide/) · [Coburg Cost of Living](/coburg/cost-of-living/) · [Coburg Neighbourhood Guide](/coburg/neighbourhood-guide/)

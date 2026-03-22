@@ -1,16 +1,16 @@
 ---
-title: "Altona North Melbourne — Everything You Need to Know"
+title: "Altona North Melbourne — what you need"
 description: "The complete guide to Altona North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "altona-north"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Altona North Melbourne"
   - "what is Altona North like"
   - "altona-north suburb"
   - "living in Altona North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Industrial edges giving way to housing development and improving amenities.

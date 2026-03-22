@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Wheelers Hill? Parks, schools, safety,
 date: 2026-03-21
 suburb: "wheelers-hill"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Wheelers Hill good for families"
   - "Wheelers Hill family friendly"
   - "raising kids in Wheelers Hill"
+tags:
+  - "wheelers-hill"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Wheelers Hill with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

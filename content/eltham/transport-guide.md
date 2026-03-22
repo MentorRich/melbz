@@ -4,15 +4,22 @@ description: "Public transport in Eltham: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "eltham"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Eltham Melbourne"
   - "commute from Eltham to city"
   - "Eltham train station"
+tags:
+  - "eltham"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Eltham — what works, what's annoying, and how long things actually take.
+Eltham sits just beyond the inner ring, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Eltham suburb guide](/eltham/) for the complete picture.
 

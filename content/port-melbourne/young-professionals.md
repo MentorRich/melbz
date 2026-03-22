@@ -3,19 +3,18 @@ title: "Port Melbourne for Young Professionals 2026: Lifestyle, Cost & Nightlife
 slug: "young-professionals"
 date: 2026-03-21
 updated: 2026-03-21
-author: dani
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 suburb: "port-melbourne"
 suburbs: ["port-melbourne"]
 vertical: lifestyle
 tags: ["port-melbourne", "young-professionals", "nightlife", "lifestyle"]
 description: "Port Melbourne for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent."
-cover_image: "https://images.pexels.com/photos/2612258/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/students.jpg"
 cover_alt: "Port Melbourne nightlife young professionals Melbourne"
 vibe_score: 77
 ---
 
-You're in your mid-20s to early-30s, you earn decent money but not Toorak money, and you want a suburb that has actual things to do after 6pm. Is Port Melbourne it?
+Young professionals in Port Melbourne tend to love some things and tolerate others. Here is the breakdown by category.
 
 ## The Young Professional Scorecard
 
@@ -68,4 +67,4 @@ Port Melbourne works for young professionals who prioritise lifestyle balance ov
 
 ---
 
-*Living the young professional life in Port Melbourne? Tell us your experience — [hq@melbz101](mailto:hq@melbz101)*
+*Living the young professional life in Port Melbourne? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*

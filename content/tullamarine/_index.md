@@ -1,16 +1,16 @@
 ---
-title: "Tullamarine Melbourne — Everything You Need to Know"
+title: "Tullamarine Melbourne — what you need"
 description: "The complete guide to Tullamarine. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "tullamarine"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Tullamarine Melbourne"
   - "what is Tullamarine like"
   - "tullamarine suburb"
   - "living in Tullamarine"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Airport suburb. Mostly logistics and accommodation, some residential pockets.

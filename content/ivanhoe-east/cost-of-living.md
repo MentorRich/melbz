@@ -4,16 +4,22 @@ description: "How expensive is Ivanhoe East? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Ivanhoe East Melbourne"
   - "how expensive is Ivanhoe East"
   - "is Ivanhoe East expensive to live in"
   - "Ivanhoe East rent"
+tags:
+  - "ivanhoe-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Ivanhoe East — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Ivanhoe East actually cost? No vague estimates - real numbers.
 
 Read our full [Ivanhoe East suburb guide](/ivanhoe-east/) for the bigger picture.
 

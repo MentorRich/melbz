@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Glen Waverley? Parks, schools, safety,
 date: 2026-03-21
 suburb: "glen-waverley"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Glen Waverley good for families"
   - "Glen Waverley family friendly"
   - "raising kids in Glen Waverley"
+tags:
+  - "glen-waverley"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Glen Waverley with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

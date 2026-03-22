@@ -1,144 +1,123 @@
 ---
-title: "Best Asian Food in St Kilda 2026: Fitzroy Street & Beyond"
+title: "Best Asian Food in St Kilda 2026 — Fitzroy Street and Beyond"
+description: "The best Asian restaurants in St Kilda for 2026. Chinese, Indian, Thai, pan-Asian and vegan picks across Fitzroy Street, Acland Street and Carlisle Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Yuki Tanaka"
 cover_image: "/images/st-kilda/best-asian-food.jpg"
-date: 2026-03-16
-author: yuki
-author_image: "/images/authors/yuki.jpg"
-tags: ["st-kilda", "asian", "food"]
-categories: ["food"]
-description: "Best Asian Food in St Kilda 2026: Fitzroy Street & Beyond"
+cover_image_alt: "Asian dishes on a table at a St Kilda restaurant"
+suburb: "st-kilda"
+tags: ["st-kilda", "asian-food", "restaurants", "fitzroy-street"]
 ---
 
-St Kilda doesn't do subtle with its Asian food. This is a suburb where Cantonese roast duck shares..."
-# Best Asian Food in St Kilda 2026: Fitzroy Street & Beyond
+St Kilda's Asian food scene is genuinely underrated. While everyone fights over dumplings on Swanston Street and queues in Box Hill, Fitzroy Street has quietly built a lineup that covers Chinese, Indian, Thai, pan-Asian and vegan Asian within walking distance. The beachside postcode disguises a suburb where serious cooking is happening at prices that do not require a second mortgage.
 
-St Kilda doesn't do subtle with its Asian food. This is a suburb where Cantonese roast duck shares a strip with hawker-style pan-Asian cocktails, where dumpling joints have been hand-pleating since 2012, and where a hipster Indian restaurant inside a heritage hotel is somehow one of the best things on the southside. Whether you're rolling off the 96 tram or wandering back from the beach, the Asian dining here punches well above its beachside postcode.
-
-We ate our way from Fitzroy Street to Acland Street and a few side streets in between. Here's where your money should go.
-
-**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
-
+We ate our way from Fitzroy Street to Acland Street and several side streets in between. Six places tested. Here is where your money should go.
 
 ## 1. Mahjong Restaurant
-**The vibe:** Cantonese elegance meets Fitzroy Street energy — think white tablecloths and a park view, not a suburban yum cha hall.
 
-Mahjong has been holding it down on Fitzroy Street for nearly 15 years, and honestly, the fact it still feels this fresh is a minor miracle. The menu covers China's regional greatest hits: Szechuan peppercorn dishes that numb your lips properly, silky hand-pulled noodles nodding to Xi'an, and lighter Cantonese plates that let the ingredients do the talking. The yum cha service on weekends is the real draw — expect char siu bao, cheung fun, and har gow that rival what you'd find on the CBD's Little Bourke Street, but with an actual park outlook instead of fluorescent lighting.
+Cantonese elegance meets Fitzroy Street energy. White tablecloths and a park view, not a suburban yum cha hall. Mahjong has been holding it down on Fitzroy Street for nearly 15 years and the fact it still feels this fresh is a minor miracle. The menu covers China's regional highlights: Szechuan peppercorn dishes that numb your lips properly, silky noodles nodding to Xi'an, and lighter Cantonese plates that let the ingredients do the talking.
 
-The chilli wontons are criminally good. So is the Cantonese roast duck — order it half, regret not ordering whole.
+The weekend yum cha service is the real draw. Char siu bao, cheung fun and har gow that rival what you find on Little Bourke Street, but with a park outlook instead of fluorescent lighting. The chilli wontons are criminally good. The Cantonese roast duck deserves the whole bird, not the half you will order and regret.
 
-**Order this:** Roast duck (half, $28) and the Szechuan chilli wontons ($16)
+**Order this:** Roast duck half at 28 dollars and the Szechuan chilli wontons at 16 dollars.
 **Address:** 165 Fitzroy Street, St Kilda VIC 3182
-**Hours:** Tue–Sun, 12pm–10pm. Closed Monday.
-**Insider tip:** Book for a window table overlooking Albert Park Lake. At sunset with a Tsingtao in hand, you'll forget you're ten minutes from Chapel Street.
-
+**Hours:** Tuesday to Sunday, midday to 10pm. Closed Monday.
 
 ## 2. Bang Bang St Kilda
-**The vibe:** Hawker market energy in a slick, 60-seat dining room — like someone dropped a Singapore food court into the Paris end of Fitzroy Street.
 
-Bang Bang arrived in St Kilda in March 2025 and immediately became the "where should we go?" answer for half the suburb. Born from the Mordialloc and Hampton originals, the St Kilda outpost goes hardest. The pan-Asian menu draws from Japanese, Korean, Thai, and Indian street food traditions, then wraps it all in a cocktail-forward, date-night-ready package. Feed Me options run from $57 (small plates) to $92 (the full spread including oysters and a cocktail), making group dining genuinely easy — nobody has to argue about ordering.
+Hawker market energy in a slick 60-seat dining room. Bang Bang arrived in St Kilda in March 2025 from the Mordialloc and Hampton originals and immediately became the default answer to "where should we go?" The pan-Asian menu draws from Japanese, Korean, Thai and Indian street food traditions, wrapped in a cocktail-forward date-night package.
 
-The karaage chicken is properly crunchy, the Korean fried cauliflower disappears fast, and the cocktails are dangerously easy to drink on an empty stomach.
+The Feed Me options run from 57 dollars for small plates to 92 for the full spread including oysters and a cocktail. The karaage chicken is properly crunchy, the Korean fried cauliflower disappears fast, and the cocktails are dangerously easy on an empty stomach.
 
-**Order this:** Feed Me menu ($65/person) — let the kitchen decide
+**Order this:** Feed Me menu at 65 dollars per person.
 **Address:** Fitzroy Street, St Kilda VIC 3182
-**Hours:** Mon–Thu 5pm–10pm, Fri–Sun 12pm–10pm
-**Insider tip:** Sit at the bar for the best banter with the bartenders. First Table does 50% off lunch if you book the early slot — genuinely half price.
-
+**Hours:** Monday to Thursday 5pm to 10pm, Friday to Sunday midday to 10pm.
 
 ## 3. Babu Ji
-**The vibe:** Bollywood films projected on the wall, craft beer on tap, and the kind of Indian food that makes you question every takeaway curry you've ever ordered.
 
-Babu Ji sits tucked into the side wing of the George Hotel on Grey Street — the kind of location you'd walk past ten times before noticing, then kick yourself for not finding sooner. Chef Sumeet Waraich grew up in a village outside Punjab, taught by his grandmother, and the menu is a direct line to her kitchen. This isn't butter chicken and naan-and-forget-it. The yoghurt kebabs are delicate, the fish curry uses a lighter hand than most Melbourne Indian joints, and the samosa plate is the size of a small country.
+Bollywood films projected on the wall, craft beer on tap, and the kind of Indian food that makes you question every takeaway curry you have ever ordered. Babu Ji sits tucked into the side wing of the George Hotel on Grey Street, the kind of location you would walk past ten times before noticing. Chef Sumeet Waraich grew up in a village outside Punjab, taught by his grandmother, and the menu is a direct line to her kitchen.
 
-The Instagram tagline says "hipster Indian" and they're not wrong — but the food is dead serious.
+This is not butter chicken and naan-and-forget-it. The yoghurt kebabs are delicate, the fish curry uses a lighter hand than most Melbourne Indian joints, and the samosa plate is the size of a small country.
 
-**Order this:** Yoghurt Kebab ($14) and Fish Curry ($26)
-**Address:** 4–6 Grey Street, St Kilda VIC 3182
-**Hours:** Mon–Wed 6pm–9pm, Thu–Sat 6pm–10pm. Closed Sundays.
-**Insider tip:** The George Hotel has free street parking on Grey Street after 6pm — a genuine rarity this close to Fitzroy Street. Arrive by 6:15 and you'll snag a spot.
-
+**Order this:** Yoghurt kebab at 14 dollars and fish curry at 26 dollars.
+**Address:** 4 to 6 Grey Street, St Kilda VIC 3182
+**Hours:** Monday to Wednesday 6pm to 9pm, Thursday to Saturday 6pm to 10pm. Closed Sunday.
 
 ## 4. I Love Dumplings
-**The vibe:** No-frills, fast, and absolutely stuffed with dumplings. This is $15-wallet-happiness territory.
 
-Since 2012, I Love Dumplings has been doing exactly what the name promises. The St Kilda outpost (one of seven across Melbourne) sits on Fitzroy Street and churns out handmade dumplings, wontons, steamed buns, and noodles from across China's regions. The pork and chive dumplings are the benchmark — thin-skinned, juicy, and $13 for a generous plate. The prawn dumplings are "devine" according to roughly every TripAdvisor review ever written, and the laksa is a sleeper hit for when the beach wind picks up and you need something warming.
+No-frills, fast, and absolutely stuffed with dumplings. Since 2012, I Love Dumplings has been doing exactly what the name promises. The St Kilda outpost on Fitzroy Street churns out handmade dumplings, wontons, steamed buns and noodles from across China's regions.
 
-This isn't fine dining. It's the place you duck into when you've spent too much on Acland Street gelato and still want a proper meal.
+The pork and chive dumplings are the benchmark: thin-skinned, juicy, and 13 dollars for a generous plate. The laksa is a sleeper hit when the beach wind picks up. This is not fine dining. It is the place you duck into when you have spent too much on Acland Street gelato and still want a proper meal.
 
-**Order this:** Pork and chive dumplings ($13) and the Laksa ($16)
+**Order this:** Pork and chive dumplings at 13 dollars and the laksa at 16 dollars.
 **Address:** 2/29 Fitzroy Street, St Kilda VIC 3182
-**Hours:** Daily, 11am–10pm
-**Insider tip:** The $15 dine-in lunch set is still one of the best value meals on Fitzroy Street. Includes dumplings and a noodle dish — order it before 2pm when the tourists are still at the beach.
-
+**Hours:** Daily, 11am to 10pm.
 
 ## 5. Derby Thai St Kilda
-**The vibe:** Unpretentious, reliable Thai comfort food in a casual room. The kind of place that doesn't need to try hard because the green curry does the work.
 
-Derby Thai is the neighbourhood Thai restaurant St Kilda deserves — not flashy, not trying to be the next Instagram sensation, just genuinely good curries and wok dishes at prices that don't make you check your bank balance. The green curry is the standout: properly creamy with kaffir lime leaves that actually taste like kaffir lime leaves, not the sad dried version you get at lesser joints. The pad Thai is solid if not groundbreaking, and the spring rolls are the crisp, not greasy kind.
+Unpretentious, reliable Thai comfort food. Derby Thai is the neighbourhood Thai restaurant St Kilda deserves. Not flashy, not trying to be the next thing anyone writes about. The green curry has actual heat and the kaffir lime leaves actually taste like kaffir lime leaves, not the sad dried version. The pad thai is solid, the spring rolls are crisp not greasy, and the portions are generous.
 
-Open until 10pm on weeknights, it's also one of the few Asian spots on Fitzroy Street that works for a late dinner after a gig at the Esplanade Hotel.
+Open until 10pm on weeknights, it is one of the few Asian spots on Fitzroy Street that works for a late dinner after a gig at The Espy.
 
-**Order this:** Green curry ($22) and Tom Yum soup ($16)
+**Order this:** Green curry at 22 dollars and tom yum soup at 16 dollars.
 **Address:** 2/52 Fitzroy Street, St Kilda VIC 3182
-**Hours:** Mon–Fri 11am–10pm, Sat–Sun 12pm–10pm
-**Insider tip:** They do solid takeaway — order via DoorDash or call ahead and walk in to grab it. The curry travels well and reheats better than it has any right to.
-
+**Hours:** Monday to Friday 11am to 10pm, Saturday to Sunday midday to 10pm.
 
 ## 6. Sister of Soul
-**The vibe:** Plant-based eating with an Asian heart — this Acland Street staple proves vegan doesn't mean boring.
 
-Sister of Soul has been on Acland Street since 2013, and if you're expecting sad salads, think again. The menu leans heavily into Asian flavours: Japanese okonomiyaki, Indonesian nasi goreng, Thai-inspired bowls, and enough spice to wake up your taste buds on a grey Melbourne arvo. Everything is vegetarian, most is vegan, and they've got gluten-free and no-garlic/no-onion options — which shouldn't be a big deal, but try finding that at most restaurants.
+Plant-based eating with an Asian heart. Sister of Soul has been on Acland Street since 2013, and if you are expecting sad salads, think again. The menu leans heavily into Asian flavours: Japanese okonomiyaki, Indonesian nasi goreng, Thai-inspired bowls and enough spice to wake up your taste buds on a grey Melbourne afternoon.
 
-The okonomiyaki is the dish that keeps vegans coming back. It's savoury, it's filling, and it doesn't taste like it's apologising for not being the real thing.
+Everything is vegetarian, most is vegan, and they have gluten-free options. The okonomiyaki is the dish that keeps vegans coming back. It is savoury, filling, and does not taste like it is apologising for not being the real thing.
 
-**Order this:** Okonomiyaki ($19) and a Thai coconut curry bowl ($21)
+**Order this:** Okonomiyaki at 19 dollars and a Thai coconut curry bowl at 21 dollars.
 **Address:** 73 Acland Street, St Kilda VIC 3182
-**Hours:** Daily, 9:30am–9:30pm
-**Insider tip:** The breakfast menu runs all day on weekends. The vegan eggs benedict with cashew hollandaise sounds wrong and tastes right. Pair it with a flat white — their coffee is surprisingly good for a restaurant this size.
-
-
-## The Bottom Line
-
-St Kilda's Asian food scene is genuinely underrated. While everyone's fighting over dumplings on Swanston Street and queuing for dumplings in Box Hill, Fitzroy Street has quietly built a lineup that covers Chinese, Indian, Thai, pan-Asian, and vegan Asian — all within walking distance of each other. If you only try one place, make it **Mahjong** for the yum cha. If you're on a budget, **I Love Dumplings** at lunch is unbeatable value. And if you want the full "treat yourself" experience, **Bang Bang's** Feed Me menu is the move.
-
+**Hours:** Daily, 9:30am to 9:30pm.
 
 ## What We Skipped and Why
 
-Not everything made the cut. Here's our honest list:
+**Hanoi Hannah** in [Windsor](/windsor/) is excellent but not St Kilda proper. We are keeping geographic boundaries honest.
 
-**Hanoi Hannah** — We love it, but the original is in Windsor (High Street, Prahran), not St Kilda proper. We're keeping it in our pocket for a southside Vietnamese roundup instead of stretching the boundaries here.
+**Pho 55** in Balaclava is a solid pho joint but just outside our remit. A 10-minute walk from the Carlisle Street junction and worth the trip if pho is what you want.
 
-**Pho 55** — A solid Balaclava pho joint, but just outside our geographic remit. If you're after pho near St Kilda, it's a 10-minute walk from the junction along Carlisle Street and worth the trip. Cross-link: [Best Cheap Eats in Balaclava](/balaclava/cheap-eats)
+**Acland Street pizza places** are the wrong article and the wrong vibe. Italian is a separate conversation.
 
-**Any of the Acland Street pizza places** — Wrong article, wrong vibe. Italian next time.
+## Frequently Asked Questions
 
-**Cha Ching** — Mentioned on OpenTable as a standout Chinese option, but we couldn't verify current opening hours at time of writing. We'll circle back.
+### Where is the best yum cha in St Kilda?
 
+Mahjong on Fitzroy Street. Weekend service with proper char siu bao and har gow, and you get a park view instead of fluorescent lighting. Book a window table.
 
-## Nearby Neighbourhoods Worth the Tram Ride
+### Is there good cheap Asian food in St Kilda?
 
-- [Best Vietnamese in South Melbourne](/south-melbourne/best-vietnamese) — Little Peddler is doing excellent things on Clarendon Street
-- [Cheap Eats in Elwood](/elwood/cheap-eats) — Ms Elwood and a few hidden spots along Ormond Road
-- [Balaclava Food Guide](/balaclava/best-food) — Carlisle Street is the unsung hero of southside eating
+I Love Dumplings on Fitzroy Street is the answer. The 15-dollar dine-in lunch set with dumplings and a noodle dish is one of the best value meals in the suburb. Derby Thai's weekday lunch specials are also strong.
 
+### Which Asian restaurant is best for a date night?
 
-*Your St Kilda Vibe Score this week: 81/100 — Beach season is winding down but the restaurants are heating up.*
+Bang Bang. The Feed Me menu removes all ordering anxiety, the cocktails are excellent, and the room has energy without being overwhelming. Book the corner booth.
 
+## The Verdict
 
-Was this article helpful? 👍 👎
+St Kilda's Asian food covers Chinese, Indian, Thai, pan-Asian and vegan Asian all within walking distance. If you only try one place, make it Mahjong for the yum cha. If you are on a budget, I Love Dumplings at lunch is unbeatable value. And if you want the full treat-yourself experience, Bang Bang's Feed Me menu is the move.
 
-**Rate your suburb:** [melbz.com.au/rate](/rate)
+For more eating in this suburb, check our [St Kilda cheap eats guide](/st-kilda/cheap-eats/) for the best under-20-dollar meals, or the [best [restaurants](/st-kilda/best-restaurants/) guide](/st-kilda/best-restaurants/) for the wider dining scene. If drinks are the priority, [best bars](/st-kilda/best-bars/) covers where to go next.
 
-*Know a spot we missed? [Submit a tip](/tips).*
+---
 
-MELBZ — We Know Your Suburb Better Than You Do.
+## Explore More of St Kilda
 
-## Related Articles
+- [St Kilda History](/st-kilda/history/)
+- [St Kilda Things To Do This Weekend](/st-kilda/things-to-do-this-weekend/)
+- [St Kilda Cocktails](/st-kilda/cocktails/)
+- [St Kilda Cheap Eats](/st-kilda/cheap-eats/)
+- [St Kilda Rent Guide](/st-kilda/rent-guide/)
+- [St Kilda Date Night Guide](/st-kilda/date-night/)
+- [St Kilda New Openings](/st-kilda/new-openings/)
+- [St Kilda St Kilda For Retirees](/st-kilda/st-kilda-for-retirees/)
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/balaclava/](/balaclava/)
+### Nearby Suburbs Worth Checking
 
-*Find more Melbourne content at [melbz.com.au](/)*
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [Albert Park Suburb Guide](/albert-park/)

@@ -1,171 +1,109 @@
 ---
 title: "Brunswick: The Suburb Roast — Every Hot Take, No Apologies"
+description: "The official roast of Brunswick. Sydney Road's tram problem, the brunch inflation crisis, the five species of Brunswegian, and why we love it anyway."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Tyler James"
 cover_image: "/images/brunswick/suburb-roast.jpg"
-date: 2026-03-16
-author: tyler
-author_image: "/images/authors/tyler.jpg"
-tags: ["brunswick", "roast", "opinions"]
-categories: ["editorial"]
-description: "Brunswick: The Suburb Roast — Every Hot Take, No Apologies"
+cover_image_alt: "Sydney Road Brunswick Melbourne street scene"
+suburb: "brunswick"
+tags: ["brunswick", "roast", "opinions", "editorial", "humour"]
 ---
-
-**Updated 16 March 2026 | Tyler James repor..."**
-
-
-
-*Updated 16 March 2026 | Tyler James repor..."*
 
 # Brunswick: The Suburb Roast — Every Hot Take, No Apologies
 
-**BRUNSWICK VIBE SCORE: 82/100 ⚡️ BUZZING (+1 this week)**
-
-*Updated 16 March 2026 | Tyler James reporting*
-
-
-Brunswick. The suburb that thinks it invented Melbourne. The postcode that looks at Fitzroy, says "cute," and genuinely believes it's the cooler older sibling. Let's get one thing straight before we start: Brunswick is genuinely good. That's what makes roasting it so satisfying — because the people who live there are *insufferable* about how good it is.
+Brunswick. The suburb that thinks it invented Melbourne. The postcode that looks at Fitzroy, says "cute," and genuinely believes it is the cooler older sibling. Let us get one thing straight before we start: Brunswick is genuinely good. That is what makes roasting it so satisfying — because the people who live there are insufferable about how good it is.
 
 If Sydney Road is the spine of Brunswick, then the chip on the shoulder of every Brunswegian is the vertebrae. This suburb has an identity crisis wrapped in a lumberjack shirt. Is it working-class Italian? Is it hipster creative haven? Is it student-adjacent? The answer is yes, and the resulting traffic jam of identities on any given Saturday morning is something only a seasoned urban sociologist or a very patient barista can navigate.
 
+
 ## The Sydney Road Situation
 
-Let's address the tram elephant in the room. Sydney Road is 5.2 kilometres of beautiful, chaotic, contradictory retail therapy. You can buy organic sourdough from a baker who looks like he left a corporate job to "follow his passion," walk twenty metres, and buy a $5 kebab from a guy who's been doing it since before the word "artisan" existed. The beauty of Sydney Road is that neither of these people respects the other's life choices, and both are right.
+Let us address the tram elephant in the room. Sydney Road is 5.2 kilometres of beautiful, chaotic, contradictory retail therapy. You can buy organic sourdough from a baker who looks like he left a corporate job to "follow his passion," walk twenty metres, and buy a $5 kebab from a guy who has been doing it since before the word "artisan" existed. The beauty of Sydney Road is that neither of these people respects the other's life choices, and both are right.
 
-The tram — that rattling, screeching, always-five-minutes-late 19 — is not public transport. It's a shared experience of communal suffering that Brunswegians have romanticised into a lifestyle feature. "Oh, I love the tram," they say, while standing in the rain at 8:47am wondering why the next one is delayed by "operational requirements." Translation: someone pressed the wrong button at Moreland.
+The tram — that rattling, screeching, always-five-minutes-late 19 — is not public transport. It is a shared experience of communal suffering that Brunswegians have romanticised into a lifestyle feature. "Oh, I love the tram," they say, while standing in the rain at 8:47am wondering why the next one is delayed by "operational requirements."
 
-Sydney Road's retail mix tells you everything about Brunswick. You've got a vinyl record shop next to a Turkish bakery next to a shop that sells handmade ceramics next to a servo that's been there since 1987 and refuses to leave. It's the retail equivalent of a group chat where everyone talks and nobody listens, and somehow it works.
+Sydney Road's retail mix tells you everything about Brunswick. You have got a vinyl record shop next to a Turkish bakery next to a shop that sells handmade ceramics next to a servo that has been there since 1987 and refuses to leave. It is the retail equivalent of a group chat where everyone talks and nobody listens, and somehow it works.
+
 
 ## The People of Brunswick
 
-Brunswick's population can be categorised into five distinct species, and if you've spent more than an afternoon on Lygon Street, you'll recognise all of them.
+Brunswick's population can be categorised into five distinct species, and if you have spent more than an afternoon on Lygon Street, you will recognise all of them.
 
-**The Original Italians.** The nonnas and nonnos who've been here since the 1960s and are deeply confused by the bloke next door who charges $18 for a coffee and calls it "single origin." They remember when Brunswick was cheap and safe and you could park your car without worrying about it being "curated" by someone with a man bun. They are the backbone of this suburb and they are *tired*.
+**The Original Italians.** The nonnas and nonnos who have been here since the 1960s and are deeply confused by the bloke next door who charges $18 for a coffee and calls it "single origin." They remember when Brunswick was cheap and safe and you could park your car without worrying about it being "curated" by someone with a man bun. They are the backbone of this suburb and they are tired.
 
 **The Arts Students.** RMIT and Melbourne Uni adjacents who chose Brunswick over Carlton because rent in Carlton would require an actual income. They live in share houses of varying structural integrity, attend gallery openings for the free wine, and will argue about gentrification while wearing $200 sneakers they bought on Depop.
 
-**The Young Professionals Who Think They're Creative.** They work in marketing or "digital strategy" or "content," they have a medium-sized dog with a human name like Gerald, and they moved to Brunswick from the inner east because someone at a party said it was "the new Fitzroy." It's not. Fitzroy is still Fitzroy. Brunswick is Brunswick. Stop comparing them.
+**The Young Professionals Who Think They Are Creative.** They work in marketing or "digital strategy" or "content," they have a medium-sized dog with a human name like Gerald, and they moved to Brunswick from the inner east because someone at a party said it was "the new Fitzroy." It is not. Fitzroy is still Fitzroy. Brunswick is Brunswick. Stop comparing them.
 
-**The Actual Creatives.** The musicians, artists, and writers who genuinely make this suburb interesting. They live in studios above shops on Sydney Road, they play gigs at The Spotted Mallard or Retreat Hotel, and they can't afford to live here much longer. This is the tragedy that nobody talks about at the cheese and wine nights.
+**The Actual Creatives.** The musicians, artists, and writers who genuinely make this suburb interesting. They live in studios above shops on Sydney Road, they play gigs at Spotted Mallard or The Retreat Hotel, and they cannot afford to live here much longer. This is the tragedy that nobody talks about at the cheese and wine nights.
 
 **The International Students.** A massive, underappreciated community who keep half of Brunswick's food scene alive. Without them, half those Vietnamese, Chinese, and Indian restaurants would fold. They study, they work, they eat well, and they deserve more respect than the suburb gives them.
 
-> **🗳️ VOTE: Which Brunswick species are you?**
-> 🇮🇹 OG Italian family
-> 🎨 Arts student surviving on instant coffee
-> 💼 "Creative" professional (you work in marketing)
-> 🎸 Actual creative (can't afford rent anymore)
-> 📚 International student (keeping the food scene alive)
-> **Cast your vote → [FIGHT US](/fight-us)**
 
 ## The Food Scene: Genuinely Elite
 
-Here's where the roasting gets complicated, because Brunswick's food scene is actually outstanding. And the people who live there know it. They know it so hard it's insufferable.
+Here is where the roasting gets complicated, because Brunswick's food scene is actually outstanding. And the people who live there know it. They know it so hard it is insufferable.
 
-You've got the Italian corridor along Lygon Street — Tiamo, Brunetti, DOC Pizza — where the food is legitimately excellent and the service style is "we'll get to you when we get to you, sit down, eat, stop complaining." This is the correct approach to hospitality and I will die on this hill.
+You have got the Italian corridor along Lygon Street — 400 Gradi, Bar Idda, the delis and cafes — where the food is legitimately excellent and the service style is "we will get to you when we get to you, sit down, eat, stop complaining."
 
-Then there's the multicultural explosion along and off Sydney Road. The Turkish restaurants are world-class. The Lebanese joints will ruin you for any other kebab in Melbourne. The Vietnamese pho places are doing god's work at 11pm on a Wednesday. Brunswick's food scene isn't trying to be fine dining. It's trying to be delicious, and it succeeds at a rate that embarrasses suburbs twice its price point.
+Then there is the multicultural explosion along Sydney Road. A1 Bakery (643-645 Sydney Road) is the iconic Lebanese bakery that feeds half the inner north. The Turkish restaurants like Alasya (555 Sydney Road) are world-class. The Vietnamese pho places are doing proper work at 11pm on a Wednesday. Brunswick's food scene is not trying to be fine dining. It is trying to be delicious, and it succeeds at a rate that embarrasses suburbs twice its price point.
 
-But let's talk about the brunch situation. Every second storefront is a brunch spot where the menu has at least one item described as "deconstructed" or "house-smoked" or "free-range duck egg on artisanal sourdough with heirloom tomatoes." Mate, the tomatoes are from Woolworths. We all know it. Just serve me eggs and stop performing.
+But the brunch situation. Every second storefront is a brunch spot where the menu has at least one item described as "deconstructed" or "house-smoked" or "free-range duck egg on artisanal sourdough with heirloom tomatoes." The tomatoes are from Woolworths. We all know it. Just serve the eggs and stop performing.
 
-## The Rent Situation (It's Bad)
 
-The median house rent in Brunswick has officially entered the "who can actually afford this?" zone. One-bedroom apartments that were $350 a week five years ago are now pushing $500+, and studio flats with a kitchenette the size of a filing cabinet are going for prices that would make a Port Melbourne agent blush.
+## The Rent Situation
 
-Brunswick's rental crisis is the suburb's dirty secret. The same people who extol its virtues — the food, the culture, the "eclectic character" — are the ones pricing out the very communities that created those things. The Italian families who built Lygon Street's food culture? Their grandkids can't afford to live near it. The artists who gave Brunswick its edge? They've moved to Reservoir and Thomastown and wondering why their new suburb doesn't have a decent coffee shop within walking distance.
+The median house rent in Brunswick has entered the "who can actually afford this?" zone. One-bedroom apartments that were $350 a week five years ago are now pushing $500+, and studio flats with a kitchenette the size of a filing cabinet are going for prices that would make a Port Melbourne agent blush.
 
-This isn't just a Brunswick problem — it's a Melbourne problem wearing a Brunswick moustache. But the suburb that prides itself on being alternative and inclusive has some serious soul-searching to do when a two-bedroom weatherboard costs more than a mortgage in Geelong.
+Brunswick's rental crisis is the suburb's dirty secret. The same people who extol its virtues — the food, the culture, the "eclectic character" — are the ones pricing out the very communities that created those things. The Italian families who built Lygon Street's food culture? Their grandkids cannot afford to live near it. The artists who gave Brunswick its edge? They have moved to Reservoir and Thomastown. Brunswick peaked around 2015, and while it is still proud of that era — deservedly so — the economics that made it possible have changed.
 
-> **💬 CONFESSION BOX: Tell us anonymously**
-> *"I moved to Brunswick for the culture and now I am the gentrification."*
-> Got a confession? **Submit it here → [MELBZ Confession Box](/confessions)**
+This is not just a Brunswick problem — it is a Melbourne problem wearing a Brunswick moustache.
 
-## The Culture Wars: North vs. South
 
-Brunswick is split, and I don't mean geographically. There's a cold war between North Brunswick and South Brunswick, and nobody will say it out loud but everyone feels it.
+## The Culture Wars: North vs South
 
-South Brunswick, closer to the city, is where the money is. It's where the new apartment blocks go up, where the cafés have waiting lists, and where people say "Brunswick" and mean "Brunswick Street, which isn't even in Brunswick but whatever."
+Brunswick is split, and nobody will say it out loud but everyone feels it.
 
-North Brunswick, toward Moreland and Coburg, is where the real Brunswick energy lives. It's rougher around the edges, more diverse, more affordable (barely), and more honest. The further north you go, the less performative everything gets. People here don't brunch — they eat breakfast. It's a subtle but critical distinction.
+South Brunswick, closer to the city, is where the money is. It is where the new apartment blocks go up, where the cafes have waiting lists, and where people say "Brunswick" and mean the gentrified version.
 
-This north-south tension is what makes Brunswick dynamic. It's a suburb in constant conversation with itself, arguing about what it wants to be while simultaneously being exactly what it is.
+North Brunswick, toward Moreland Road and Coburg, is where the real Brunswick energy lives. It is rougher around the edges, more diverse, more affordable (barely), and more honest. The further north you go, the less performative everything gets. People here do not brunch — they eat breakfast. It is a subtle but critical distinction.
+
 
 ## The Bike Lane Situation
 
-Brunswick is a cycling suburb, and if you don't own a bike, you are legally required to feel guilty about it. The bike lanes on Sydney Road are either a triumph of urban planning or a war zone, depending on whether you're on the bike or in a car trying to navigate them.
+Brunswick is a cycling suburb, and if you do not own a bike, you are legally required to feel guilty about it. Every Brunswegian has a bike. It is either a vintage racer they found at a market, a $3,000 commuter bike they justify by saying "it replaces my car," or a fixie with no brakes that they ride through red lights while looking judgemental.
 
-Every Brunswegian has a bike. It's either a vintage racer they found at a markets, a $3,000 commuter bike they justify by saying "it replaces my car," or a fixie with no brakes that they ride through red lights while looking judgemental. The bike is not transport in Brunswick. It's a statement. The statement is: "I am better than you and also more environmentally conscious, and these two things are the same thing."
+The Upfield Bike Path is genuinely excellent — flat, direct, and it gets you to the CBD in 15-20 minutes. Sydney Road itself is a cycling nightmare: tram tracks, dooring risk, and no proper bike lane. The smart cyclists use Blyth Street or Phoenix Street as parallel alternatives.
+
 
 ## Why We Love It (Despite Everything)
 
-Here's the thing — and I say this as someone who has just spent 1,200 words taking the piss — Brunswick is bloody brilliant. It's one of the few Melbourne suburbs that has genuine character, not manufactured character. The mix of cultures, the food that hasn't been sanitised for Instagram, the live music scene that actually exists, the people who care about their suburb even when that caring manifests as a passive-aggressive letter to the local council about bicycle parking.
+Here is the thing — and I say this as someone who has just spent over a thousand words taking the piss — Brunswick is bloody brilliant. It is one of the few Melbourne suburbs that has genuine character, not manufactured character. The mix of cultures, the food that has not been sanitised for Instagram, the live music scene that actually exists, the people who care about their suburb even when that caring manifests as a passive-aggressive letter to Merri-bek Council about bicycle parking.
 
-Brunswick earns its 82 on the Vibe Score because the energy here is real. It's not curated by a property developer or a tourism board. It's the accumulated chaos of decades of Italian migration, student life, creative culture, and working-class grit, all smashed together on a single long road with a tram running down the middle.
+The rent is too high. The brunch menus are too precious. The tram is always late. And the people will tell you about all three over a $7 coffee that is absolutely worth it.
 
-The rent is too high. The brunch menus are too precious. The tram is always late. And the people will tell you about all three over a $7 coffee that's absolutely worth it.
-
-Brunswick doesn't need your approval. It never has. That's the most Brunswick thing about it.
-
-> **🥊 FIGHT US: What's your hottest Brunswick take?**
-> Drop your most controversial opinion about Brunswick in the comments. We'll feature the best ones in next week's Roast Roundup. No hot take too spicy. No opinion too unhinged.
-> **→ [FIGHT US](/fight-us)**
+Brunswick does not need your approval. It never has. That is the most Brunswick thing about it.
 
 
-## Related Roasts
+## FAQ
 
-- **[Fitzroy: The Suburb Roast](/fitzroy/suburb-roast)** — The only suburb that thinks it's cooler than Brunswick. They might be right.
-- **[Carlton: The Suburb Roast](/carlton/suburb-roast)** — Brunswick's more expensive cousin who went to private school.
-- **[Northcote: The Suburb Roast](/northcote/suburb-roast)** — What happens when Brunswick people get priced out and move one suburb north.
+**Is Brunswick actually good or just overhyped?**
+Both. The food, music, and community are genuinely excellent. The self-regard is equally genuine and frequently exhausting.
 
+**What is the most annoying thing about Brunswick?**
+The parking. Then the rent. Then the people who defend the parking and rent situation by saying "but the vibes make it worth it."
 
-**More from the MELBZ Suburb Roast Series → [All Roasts](/roasts)**
-
-*Got a suburb you want roasted? Tell us. We're not afraid. Well, maybe of Footscray.*
-
-
-*Tyler James is the Roast Editor at MELBZ. He has lived in four of the suburbs he's roasted and been kicked out of two. Follow MELBZ on [Instagram](https://instagram.com/melbzcomau) and [TikTok](https://tiktok.com/@melbz101) for daily suburb chaos.*
-
-> **📊 REACTION BAR: How did this roast land?**
-> 🔥 Spot on | 😤 Unfair | 😂 Accurate and hilarious | 🤡 You know nothing | ❤️ Love my suburb
-> **React below →**
-
-> **🎯 CROSS-SUBURB JAB:**
-> *Hey Carlton — your rent is higher and your food is worse. Just wanted to remind you. 🫡*
-> **See Carlton's response → [Carlton Roast](/carlton/suburb-roast)**
+**Is Brunswick still cool?**
+It peaked around 2015 and it is still proud of it, deservedly so. The foundation from that era — the venues, the food, the community — remains strong. Whether "cool" is the right word in 2026 is a conversation best had over a $7 single-origin flat white on Sydney Road.
 
 
-*© MELBZ — Melbourne's Hyperlocal Intelligence Platform. We know your suburb better than you do.*
+## The Verdict
 
-### Featured Venues
+Brunswick earns its reputation because the energy here is real. It is not curated by a property developer or a tourism board. It is the accumulated chaos of decades of Italian migration, student life, creative culture, and working-class grit, all smashed together on a single long road with a tram running down the middle.
 
-- **Bar Idda** at 132 Lygon St, Brunswick East VIC 3057
-- **Rumi** at 116 Lygon St, Brunswick East VIC 3057
-- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
-- **Code Black Coffee** at 15-17 Weston St, Brunswick VIC 3056
-- **Wide Open Road** at 274 Barkly St, Brunswick VIC 3056
-- **Padre Coffee Brunswick East** at 438 Lygon St, Brunswick East VIC 3057
-- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
-- **Tsubaki Cafe** at 218 Sydney Rd, Brunswick VIC 3056
-- **A1 Bakery** at 643-645 Sydney Rd, Brunswick VIC 3056
-- **Very Good Falafel** at 629 Sydney Rd, Brunswick VIC 3056
+---
 
-### Key Highlights
+**Related Roasts:** [Fitzroy: The Suburb Roast](/fitzroy/suburb-roast/) | [Carlton: The Suburb Roast](/carlton/suburb-roast/) | [Northcote: The Suburb Roast](/northcote/suburb-roast/)
 
-- Sydney Road shopping strip
-- Brunswick Baths
-- Ceremony and live music venues
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/northcote/](/northcote/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-- [/brunswick/](/brunswick/)
-- [/carlton/](/carlton/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More on Brunswick:** [Brunswick Neighbourhood Guide](/brunswick/neighbourhood-guide/) | [Nightlife Guide](/brunswick/nightlife-guide/) | [Living in Brunswick](/brunswick/living-guide/)

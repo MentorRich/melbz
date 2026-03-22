@@ -4,15 +4,22 @@ description: "Public transport in Narre Warren North: trains, trams, buses, cycl
 date: 2026-03-21
 suburb: "narre-warren-north"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Narre Warren North Melbourne"
   - "commute from Narre Warren North to city"
   - "Narre Warren North train station"
+tags:
+  - "narre-warren-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Narre Warren North — what works, what's annoying, and how long things actually take.
+Your morning commute from Narre Warren North depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Narre Warren North suburb guide](/narre-warren-north/) for the complete picture.
 

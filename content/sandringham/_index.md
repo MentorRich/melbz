@@ -1,16 +1,16 @@
 ---
-title: "Sandringham Melbourne — Everything You Need to Know"
+title: "Sandringham Melbourne — what you need"
 description: "The complete guide to Sandringham. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "sandringham"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Sandringham Melbourne"
   - "what is Sandringham like"
   - "sandringham suburb"
   - "living in Sandringham"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 End of the Sandringham line, beautiful beach, and a tight village community.

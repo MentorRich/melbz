@@ -4,16 +4,22 @@ description: "The story of Mentone: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "mentone"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Mentone Melbourne history"
   - "how has Mentone changed"
   - "Mentone gentrification"
   - "Mentone then and now"
+tags:
+  - "mentone"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Mentone's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+The history of Mentone shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Mentone suburb guide](/mentone/) for the current picture.
 

@@ -4,15 +4,22 @@ description: "Public transport in Hallam: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "hallam"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Hallam Melbourne"
   - "commute from Hallam to city"
   - "Hallam train station"
+tags:
+  - "hallam"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Hallam — what works, what's annoying, and how long things actually take.
+Your morning commute from Hallam depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Hallam suburb guide](/hallam/) for the complete picture.
 

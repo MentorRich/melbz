@@ -1,29 +1,22 @@
 ---
-title: "Late Night Food in St Kilda 2026: After the Pier Closes"
+title: "Late-Night Food in St Kilda: Where to Eat After Midnight"
+description: "Six tested late-night spots in St Kilda from kebabs on Fitzroy Street to dumplings inside the Espy. Verified prices and hours for 2026."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cross"
 cover_image: "/images/st-kilda/late-night-food.jpg"
-date: 2026-03-16
-author: ethan
-author_image: "/images/authors/ethan.jpg"
-tags: ["st-kilda", "late-night", "food"]
-categories: ["food"]
-description: "Late Night Food in St Kilda 2026: After the Pier Closes"
+cover_image_alt: "Late-night dining on Fitzroy Street St Kilda with neon lights"
+suburb: "st-kilda"
+tags: ["st-kilda", "late-night-food", "restaurants", "fitzroy-street"]
 ---
 
-**Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
+*Updated March 2026 | 6 places tested | Ethan Cross reporting*
 
+# Late-Night Food in St Kilda: Where to Eat After Midnight
 
+The sun goes down over St Kilda Beach, the Luna Park mouth grins at nobody, and suddenly you're starving. It's 11pm on a Friday and the only thing standing between you and regret is finding decent food after the last tram rattles away down Fitzroy Street.
 
-The sun goes down over St Kilda Bea..."
-
-*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
-
-# Late Night Food in St Kilda 2026: After the Pier Closes
-
-*Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
-
-The sun goes down over St Kilda Beach, the Luna Park mouth grins at nobody, and suddenly you're starving. It's 11pm on a Friday and the only thing standing between you and regret is finding decent food after the last tram rattles away down Carlisle Street.
-
-Here's the thing about St Kilda after dark — it's not the CBD. You're not drowning in 24-hour dumpling houses and late-night ramen joints. But what this beachside suburb lacks in sheer volume, it makes up for in character. The Fitzroy Street strip still hums well past midnight. The Espy keeps five levels of food and drink rolling until the small hours. And scattered across the backstreets between Acland and Barkly, there are spots that have been feeding post-club crowds since before some of those clubbers were born.
+Here's the thing about St Kilda after dark — it's not the CBD. You're not drowning in 24-hour dumpling houses and late-night ramen joints. But what this beachside suburb lacks in sheer volume, it makes up for in character. The Fitzroy Street strip still hums well past midnight. The Espy keeps multiple levels of food and drink rolling until the small hours. And scattered across the backstreets between Acland and Barkly, there are spots that have been feeding post-gig crowds since before some of those punters were born.
 
 We hit six spots across three Friday and Saturday nights in February and early March 2026. Arrived hungry, left full, and took notes. Here's what's worth your late-night dollar.
 
@@ -49,7 +42,7 @@ The kitchen runs until last orders around 11:30pm most nights, sometimes later o
 **Address:** 167A Fitzroy Street, St Kilda VIC 3182
 **Hours:** Daily, until approximately 3am (later on weekends)
 **Price range:** $8–$18 per meal
-**Best for:** The post-club walk home, solo or paired
+**Best for:** The post-gig walk home, solo or paired
 
 Fitzroy Street wouldn't be Fitzroy Street without the kebab shops, and Kebab Hut has been doing reliable Turkish food on the strip for years. It's not reinventing the wheel — it's a window-service operation with a vertical spit and a flat grill — but at 1:30am when you've just left a gig at the Espy or bailed from a bar on Acland Street, it's exactly what you need.
 
@@ -72,7 +65,7 @@ Mya Tiger sits above Louey's in the same building — a Cantonese restaurant ins
 
 The dumpling selection is the standout. Har gow ($16) arrives translucent and plump, and the pork and prawn wontons in chilli oil ($18) have enough kick to sober you up. The Peking duck ($38 for half) is a splurge, but if you're here with a group splitting a banquet, the per-head cost drops fast.
 
-The kitchen officially wraps up around 10:30pm on most nights, which makes Mya Tiger more of a "late dinner" than a "midnight meal" spot. But the cocktail bar stays open later, and you can sometimes still snag dumplings if the kitchen hasn't fully closed down.
+The kitchen officially wraps up around 10:30pm on most nights, which makes Mya Tiger more of a "late dinner" than a "midnight meal" spot. But the cocktail bar stays open later, and you can sometimes still get dumplings if the kitchen hasn't fully closed down.
 
 If you're planning ahead, their yum cha service (weekends) is genuinely excellent and draws crowds from across Melbourne.
 
@@ -119,37 +112,15 @@ This isn't gourmet pizza. It's not trying to be. But it's reliable, it's open, a
 **Price range:** $15–$28 per main
 **Best for:** A sit-down curry when you're not quite ready to call it a night
 
-Indian Mahal sits just off the main Fitzroy Street strip, closer to the Balaclava end of Carlisle Street. It's the kind of place that serves as a neighbourhood institution — families at one table, a couple recovering from a comedy show at the next, and someone who clearly just wandered in from the direction of St Kilda Beach.
+Indian Mahal sits closer to the Balaclava end of Carlisle Street. It's the kind of place that serves as a neighbourhood institution — families at one table, a couple recovering from a comedy show at the next, and someone who clearly just wandered in from the direction of St Kilda Beach.
 
-The lamb rogan josh ($24) is rich without being heavy, and the naan bread ($4) has the blistered, slightly charred quality that separates good Indian restaurants from the reheated-takeaway tier. Butter chicken ($22) is crowd-pleasing as expected, and the palak paneer ($18) is the vegetarian pick worth ordering even if you eat meat.
+The lamb rogan josh ($24) is rich without being heavy, and the naan bread ($4) has the blistered, slightly charred quality that separates good Indian [restaurants](/st-kilda/best-restaurants/) from the reheated-takeaway tier. Butter chicken ($22) is crowd-pleasing as expected, and the palak paneer ($18) is the vegetarian pick worth ordering even if you eat meat.
 
 The kitchen runs until about 11:30pm most nights, with some flexibility on weekends. It's not a 2am joint, but for a proper sit-down meal before heading home, it fills a gap that kebab shops and pizza joints don't.
 
 Prices are reasonable by St Kilda standards, and portions are generous enough that you'll likely walk out with tomorrow's lunch packed up.
 
 **Verdict:** The best sit-down curry option in the St Kilda area. Arrive before 11pm for the full menu.
-
-## What We Skipped and Why
-
-Every late-night food list has gaps. Here's ours:
-
-**McDonald's and Hungry Jack's** — Yes, they exist in the area. No, we're not reviewing them. You know exactly what a Big Mac tastes like at 1am and our article doesn't change that calculation.
-
-**Food delivery apps** — Zests Pizza, Papalino's, and several Indian spots deliver to St Kilda late at night through Uber Eats and Menulog. But we focused on places where you can walk in, sit down, and eat. Delivery is its own article.
-
-**Acland Street cake shops** — Monarch Cakes and Acland Cake Shop are iconic, but they close by 9pm in most cases. Not late-night, no matter how much we wish they were.
-
-**New pop-ups and one-night specials** — St Kilda has a rotating cast of pop-up food events, especially in summer. By the time you read this, some will be gone and others will have appeared. We stuck to established venues.
-
-**South Melbourne Market food stalls** — A handful of stalls near the market precinct stay open late on weekends, but we kept this article focused on St Kilda proper. If you want the South Melbourne dim sim conversation, we've got a [separate guide for that](/south-melbourne/dim-sims).
-
-## The Bigger Picture: St Kilda After Dark
-
-St Kilda's late-night food scene sits in an interesting spot in 2026. The suburb has always been Melbourne's seaside party district, but the food offering hasn't quite kept pace with the nightlife. You've got The Espy complex doing heavy lifting with multiple venues in one building, a strong Fitzroy Street kebab strip, and scattered standalone spots filling the gaps.
-
-Compared to [what Elwood offers on its Ormond Road strip](/elwood/late-night-eats), St Kilda is louder and more varied. Balaclava's Carlisle Street has more everyday dining but winds down earlier. For pure late-night options, St Kilda still leads the bayside suburbs.
-
-The council's push to revitalise Fitzroy Street has brought new foot traffic and new venues over the past two years. Whether that translates into more late-night food options remains to be seen — for now, the six spots above cover most moods and budgets.
 
 ## Quick Reference
 
@@ -162,21 +133,39 @@ The council's push to revitalise Fitzroy Street has brought new foot traffic and
 | St Kilda Pizza House | ~2am | $ | Classic takeaway pizza |
 | Indian Mahal | ~12am | $$ | Sit-down curry house |
 
-## 🗳️ POLL: What's your go-to St Kilda late-night feed?
+## FAQ
 
-*We're curious — when the clock hits midnight and hunger strikes, where do you end up? Drop your vote and see what other Melburnians are choosing.*
+**What's open latest in St Kilda?**
+Kebab Hut and Pars Kebab on Fitzroy Street both push past 2am most nights. On weekends, Kebab Hut occasionally stays open until 4am. Everything else closes by midnight or shortly after.
 
+**Is late-night food in St Kilda safe?**
+Fitzroy Street is well-lit and populated until late. The kebab strip between The Esplanade and Carlisle Street sees steady foot traffic. Standard late-night awareness applies — stick to the main strip rather than cutting through quieter side streets.
 
-**Read next:** [Elwood's Best Late-Night Eats](/elwood/late-night-eats) · [Balaclava's Food Scene Under the Radar](/balaclava/food-guide) · [South Melbourne Dim Sims: The Definitive Guide](/south-melbourne/dim-sims)
+**Any 24-hour options?**
+Not in St Kilda proper. If you need food at 4am, you're looking at delivery apps or heading toward the CBD. The tram 96 runs a Night Network service on weekends.
 
-*Have a late-night spot we missed? Tell us at [hq@melbz101](mailto:hq@melbz101) — we'll test it and add it to the list.*
+## The Verdict
 
-## Related Articles
+St Kilda's late-night food scene in 2026 punches above what you'd expect from a beachside suburb. The Espy complex does heavy lifting with Louey's and Mya Tiger, Fitzroy Street's kebab strip handles the post-2am crowd, and scattered standalone spots fill the gaps. It's not the CBD's 3am dumpling abundance, but it's genuine, tested, and reliably open when you need it.
 
-- [/fitzroy/](/fitzroy/)
-- [/balaclava/](/balaclava/)
-- [/st-kilda/](/st-kilda/)
-- [/st-kilda/](/st-kilda/)
-- [/st-kilda/hub](/st-kilda/hub)
+**Read next:** [St Kilda [Nightlife](/st-kilda/nightlife-guide/) Guide](/st-kilda/nightlife-guide/) | [St Kilda Neighbourhood Guide](/st-kilda/neighbourhood-guide/) | [St Kilda New Openings](/st-kilda/new-openings/)
 
-*Find more Melbourne content at [melbz.com.au](/)*
+---
+
+## Explore More of St Kilda
+
+- [St Kilda History](/st-kilda/history/)
+- [St Kilda Things To Do This Weekend](/st-kilda/things-to-do-this-weekend/)
+- [St Kilda Cocktails](/st-kilda/cocktails/)
+- [St Kilda Cheap Eats](/st-kilda/cheap-eats/)
+- [St Kilda Rent Guide](/st-kilda/rent-guide/)
+- [St Kilda Date Night Guide](/st-kilda/date-night/)
+- [St Kilda New Openings](/st-kilda/new-openings/)
+- [St Kilda St Kilda For Retirees](/st-kilda/st-kilda-for-retirees/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [Albert Park Suburb Guide](/albert-park/)

@@ -4,13 +4,18 @@ description: "The insider's guide to Mentone's different pockets, streets, and a
 date: 2026-03-21
 suburb: "mentone"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Mentone neighbourhood guide"
   - "best streets in Mentone"
   - "Mentone areas"
   - "Mentone pockets Melbourne"
+tags:
+  - "mentone"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mentone isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

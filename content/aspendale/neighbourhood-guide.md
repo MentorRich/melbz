@@ -4,13 +4,18 @@ description: "The insider's guide to Aspendale's different pockets, streets, and
 date: 2026-03-21
 suburb: "aspendale"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Aspendale neighbourhood guide"
   - "best streets in Aspendale"
   - "Aspendale areas"
   - "Aspendale pockets Melbourne"
+tags:
+  - "aspendale"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Aspendale isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -1,16 +1,15 @@
 ---
 title: "Best Pubs in Kensington 2026: Local Watering Holes"
+description: "Best Pubs in Kensington 2026: Local Watering Holes. Updated for 2026 with real local picks and honest advice for Kensington in Melbourne inner west."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Lina Nguyen"
 cover_image: "/images/kensington/best-pubs.jpg"
-date: 2026-03-16
-author: lina
-author_image: "/images/authors/lina.jpg"
+cover_image_alt: "Best Pubs in Kensington Melbourne"
+suburb: "kensington"
 tags: ["kensington", "pubs", "nightlife"]
-categories: ["nightlife"]
-description: "Best Pubs in Kensington 2026: Local Watering Holes"
 ---
-
 **Updated 16 March 2026 | 6 places tested | Lina Nguyen reporting**
-
 
 
 Kensington doesn't shout about its pub s..."
@@ -96,7 +95,7 @@ Every neighbourhood needs an RSL that doesn't try to be anything it's not. Kensi
 
 **The vibe:** Unhurried and unpretentious. The RSL attracts a cross-generational crowd — veterans, young families, Kensington workers ducking in for a quiet schooner. There are no pokies, no DJs, no Instagram walls. Just a bar, a pool table, and good company. If you're after a low-key Tuesday night with zero pretence, this is your spot.
 
-**Beer selection:** Straightforward pub taps — your XXXX Gold, Carlton Draught, and a rotating guest. Don't come expecting hazy IPAs from a microbrewery in Daylesford. Come expecting a cold beer at a price that won't make you flinch.
+**Beer selection:** Straightforward pub taps — your X Gold, Carlton Draught, and a rotating guest. Don't come expecting hazy IPAs from a microbrewery in Daylesford. Come expecting a cold beer at a price that won't make you flinch.
 
 **Food:** Simple counter meals and snack fare. Think steak sangers, chicken parma, and the kind of hearty, unpretentious food that goes with a quiet afternoon pint. The RSL does what it does honestly.
 
@@ -120,13 +119,13 @@ Technically just outside Kensington's postcode, but a ten-minute walk from Macau
 
 ## What We Skipped and Why
 
-**Flemington Racecourse precinct bars** — These pop up and vanish with the racing calendar. We're covering permanent venues only. Check our [Flemington race day guide](/suburbs/flemington) when carnival season hits.
+**Flemington Racecourse precinct bars** — These pop up and vanish with the racing calendar. We're covering permanent venues only. Check our [Flemington race day guide](/flemington) when carnival season hits.
 
-**The Standard Hotel (Frigate Street)** — A solid Fitzroy pub, but outside our Kensington radius. We'll cover it when we do our [Fitzroy pub crawl](/suburbs/fitroy) later this year.
+**The Standard Hotel (Frigate Street)** — A solid Fitzroy pub, but outside our Kensington radius. We'll cover it when we do our [Fitzroy pub crawl](/fitroy) later this year.
 
 **CBD-adjacent pubs on Dynon Road** — Several warehouse-adjacent bars near the freight yards have come and gone in the last two years. None have stuck long enough to earn a spot. We'll revisit in our 2027 roundup.
 
-**North Melbourne pubs** — Arden and Macaulay hotels fall technically into North Melbourne territory. We'll cover those in our [North Melbourne nightlife](/suburbs/north-melbourne) guide.
+**North Melbourne pubs** — Arden and Macaulay hotels fall technically into North Melbourne territory. We'll cover those in our [North Melbourne nightlife](/north-melbourne) guide.
 
 
 ## The Verdict
@@ -152,14 +151,4 @@ Kensington doesn't need to shout. It just needs you to show up.
 
 *Love your local? Hate that we included one of these? [Drop us a confession](/confess) or tag us on Instagram @melbz101. We read everything.*
 
-*Planning a pub crawl with mates? Our [Flemington guide](/suburbs/flemington), [North Melbourne nightlife](/suburbs/north-melbourne) and [Fitzroy after dark](/suburbs/fitroy) cover the neighbouring strips. For suburb-level pricing and liveability data, check our [Kensington suburb profile](/suburbs/kensington).*
-
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/best-pubs-melbourne/](/best-pubs-melbourne/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+*Planning a pub crawl with mates? Our [Flemington guide](/flemington), [North Melbourne nightlife](/north-melbourne) and [Fitzroy after dark](/fitroy) cover the neighbouring strips. For suburb-level pricing and liveability data, check our [Kensington suburb profile](/kensington).*

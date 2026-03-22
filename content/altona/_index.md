@@ -1,16 +1,16 @@
 ---
-title: "Altona Melbourne — Everything You Need to Know"
+title: "Altona Melbourne — what you need"
 description: "The complete guide to Altona. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "altona"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Altona Melbourne"
   - "what is Altona like"
   - "altona suburb"
   - "living in Altona"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Altona Beach, Pier Street village, and affordable bayside living in Melbourne's west.

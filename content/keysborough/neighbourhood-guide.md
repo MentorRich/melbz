@@ -4,13 +4,18 @@ description: "The insider's guide to Keysborough's different pockets, streets, a
 date: 2026-03-21
 suburb: "keysborough"
 article_type: "neighbourhood"
-author: "dani"
-author_image: "/images/authors/dani.jpg" 
+author: "Dani Reyes"
 keywords:
   - "Keysborough neighbourhood guide"
   - "best streets in Keysborough"
   - "Keysborough areas"
   - "Keysborough pockets Melbourne"
+tags:
+  - "keysborough"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Keysborough isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

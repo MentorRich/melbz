@@ -1,26 +1,22 @@
 ---
 title: "Best Coffee in Fitzroy North — 2026 Local Guide"
+description: "The best coffee in Fitzroy North for 2026. From Code Black's in-house roasts to Loretta's batch brew, these are the cafes pulling the best shots on Brunswick Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
 cover_image: "/images/fitzroy-north/best-coffee.jpg"
+cover_image_alt: "Specialty coffee cafe on Brunswick Street Fitzroy North"
+suburb: "fitzroy-north"
+tags: ["fitzroy-north", "coffee", "cafes"]
 ---
 
-suburb: "fitzroy-north"
-vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the best coffee in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
-tags: ["fitzroy-north"]
-categories: ["general"]
-## The Best Coffee in Fitzroy North
-
-This is your verified guide to the best coffee in Fitzroy North for 2026.
+## The Best Coffee in [Fitzroy](/fitzroy/) North
 
 Let's get one thing straight: if you're in Fitzroy North and you're still drinking $2 instant from Coles, you're living wrong. Not in a snobby way — in a "there are at least seven places within walking distance pulling genuinely excellent espresso and charging less than a Sydney CBD flat white" way. The inner north takes its coffee seriously, and Fitzroy North is no exception.
 
 But here's the thing about coffee in this suburb — it's not just about the bean or the machine. It's about the ritual. The barista who knows your order. The corner spot where you can watch Brunswick Street wake up while your flat white cools just enough to drink. The place where "just a quick coffee" turns into a 45-minute conversation about whether the neighbourhood has changed too much or not enough.
 
-Whether you're after a precise, competition-worthy pour or just a solid $4.50 flat white that doesn't taste like regret, here's where to get it in Fitzroy North.
+If you'''re after a precise, competition-worthy pour or just a solid $4.50 flat white that doesn't taste like regret, here's where to get it in Fitzroy North.
 
 
 ### 1. Code Black Coffee
@@ -86,7 +82,7 @@ The café space during the day is calm and inviting, with window seats that face
 
 The Delphi is best known as a tavern, but its café operation deserves recognition. The coffee here ($4.50 for a flat white) is reliable and well-made — not competition-level, but consistently good and served with the kind of warmth that only a neighbourhood joint can deliver.
 
-What sets the Delphi apart is the combination of coffee and food. While most Fitzroy North cafes offer pastries and toast, the Delphi brings Greek-influenced breakfast options: think spanakopita alongside your morning flat white, or a breakfast gyro that makes the standard bacon-and-egg roll feel uninspired. The koulouri (sesame bread rings) with coffee is a morning combo that more people should know about.
+What sets the Delphi apart is the combination of coffee and food. While most Fitzroy North [cafes](/fitzroy-north/best-cafes/) offer pastries and toast, the Delphi brings Greek-influenced breakfast options: think spanakopita alongside your morning flat white, or a breakfast gyro that makes the standard bacon-and-egg roll feel uninspired. The koulouri (sesame bread rings) with coffee is a morning combo that more people should know about.
 
 The space is classic neighbourhood café — nothing flashy, comfortable seating, and the kind of low background hum that makes solo coffee feel social without requiring conversation.
 
@@ -95,7 +91,7 @@ The space is classic neighbourhood café — nothing flashy, comfortable seating
 
 ### 6. Dead Man Espresso (Border Spot)
 
-**Address:** 324 Sackville Street, Collingwood (near Fitzroy North border)
+**Address:** 324 Sackville Street, [Collingwood](/collingwood/) (near Fitzroy North border)
 **Best for:** Serious espresso, no-nonsense atmosphere, early risers
 
 Dead Man Espresso sits right on the Fitzroy North–Collingwood boundary and serves some of the sharpest espresso in the inner north. This is a place for people who take their coffee seriously but not themselves seriously — the name is tongue-in-cheek, the space is no-frills, and the coffee is exceptional.
@@ -140,43 +136,25 @@ The beauty of Fitzroy North's coffee scene is that it's all walkable. You could 
 ## Cross-Links
 
 - Extending your coffee crawl? Check out [Fitzroy's best coffee](/fitzroy/best-coffee) for the full inner-city circuit
-- Carlton North has its own specialty scene — see [Carlton North's best coffee](/carlton-north/best-coffee)
+- [Carlton](/carlton/) North has its own specialty scene — see [Carlton North's best coffee](/carlton-north/best-coffee)
 - Over towards the north-west? [Brunswick East's coffee game is strong too](/brunswick-east/best-coffee)
 
-Living in Fitzroy North? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=fitzroy-north)
+---
 
-### Featured Venues
+## Explore More of Fitzroy North
 
-- **Neighbourhood Wine** at 1 Reid St, Fitzroy North VIC 3068
-- **Piedimonte's (The Deli/Cafe)** at 123 Scotchmer St, Fitzroy North VIC 3068
-- **Just Italy** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Cavallero** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Morning Market** at 559 Barkly St, Fitzroy North VIC 3068
-- **Park Street** at 815 Nicholson St, Fitzroy North VIC 3068
-- **Piedimonte's Supermarket Deli** at 42-50 Wreckyn St, North Fitzroy VIC 3068
-- **North Fitzroy Arms Hotel** at 296 Rae St, North Fitzroy VIC 3068
-- **Pizza Meine Liebe** at 231 St Georges Rd, North Fitzroy VIC 3068
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
 
-### Key Highlights
+### Nearby Suburbs Worth Checking
 
-- Edinburgh Gardens
-- St Georges Road village shops
-- Capital City Trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

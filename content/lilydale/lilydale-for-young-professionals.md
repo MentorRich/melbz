@@ -4,12 +4,18 @@ description: "Is Lilydale a good suburb for young professionals? Social scene, c
 date: 2026-03-21
 suburb: "lilydale"
 article_type: "young-professionals"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Lilydale young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Lilydale"
+tags:
+  - "lilydale"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Lilydale as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

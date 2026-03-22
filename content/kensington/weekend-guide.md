@@ -1,19 +1,14 @@
 ---
 title: "What to Do in Kensington This Weekend"
-description: "Your weekend in Kensington sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner West."
-date: 2026-03-21
+description: "Your weekend in Kensington sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner West. Updated for 2026 with real ."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/kensington/weekend-guide.jpg"
+cover_image_alt: "Weekend Guide in Kensington Melbourne"
 suburb: "kensington"
-article_type: "weekend"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-keywords:
-  - "what to do Kensington this weekend"
-  - "Kensington weekend"
-  - "things to do Kensington Saturday"
-  - "Kensington Sunday plans"
+tags: ["kensington", "weekend-guide"]
 ---
-
-
 ## Your Weekend in Kensington
 
 Kensington does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
@@ -38,13 +33,13 @@ Kensington does weekends well. Whether you're the type who plans every hour or p
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Kensington's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/kensington/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Kensington's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Kensington starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Kensington starts slower. The [cafes](/kensington/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Kensington and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +57,23 @@ Kensington does weekends well. Whether you're the type who plans every hour or p
 ---
 
 **More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington Things to Do](/kensington/things-to-do/) · [Kensington Best Restaurants](/kensington/best-restaurants/)
+
+---
+
+## Explore More of Kensington
+
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

@@ -4,16 +4,22 @@ description: "The story of Officer: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "officer"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Officer Melbourne history"
   - "how has Officer changed"
   - "Officer gentrification"
   - "Officer then and now"
+tags:
+  - "officer"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Officer's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Officer, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Officer suburb guide](/officer/) for the current picture.
 

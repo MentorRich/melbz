@@ -1,16 +1,16 @@
 ---
-title: "Burwood Melbourne — Everything You Need to Know"
+title: "Burwood Melbourne — what you need"
 description: "The complete guide to Burwood. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "burwood"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Burwood Melbourne"
   - "what is Burwood like"
   - "burwood suburb"
   - "living in Burwood"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Deakin Uni campus, Burwood Highway shops, and a student mix with established families.

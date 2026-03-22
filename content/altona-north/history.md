@@ -4,16 +4,22 @@ description: "The story of Altona North: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "altona-north"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Altona North Melbourne history"
   - "how has Altona North changed"
   - "Altona North gentrification"
   - "Altona North then and now"
+tags:
+  - "altona-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Altona North's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Altona North involve community battles over development.
 
 See our full [Altona North suburb guide](/altona-north/) for the current picture.
 

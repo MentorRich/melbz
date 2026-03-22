@@ -4,15 +4,22 @@ description: "Public transport in Aspendale Gardens: trains, trams, buses, cycli
 date: 2026-03-21
 suburb: "aspendale-gardens"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Aspendale Gardens Melbourne"
   - "commute from Aspendale Gardens to city"
   - "Aspendale Gardens train station"
+tags:
+  - "aspendale-gardens"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Aspendale Gardens — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Aspendale Gardens transport links. Here is the reality.
 
 Check out our full [Aspendale Gardens suburb guide](/aspendale-gardens/) for the complete picture.
 

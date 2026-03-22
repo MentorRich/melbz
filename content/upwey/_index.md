@@ -1,16 +1,16 @@
 ---
-title: "Upwey Melbourne — Everything You Need to Know"
+title: "Upwey Melbourne — what you need"
 description: "The complete guide to Upwey. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "upwey"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Upwey Melbourne"
   - "what is Upwey like"
   - "upwey suburb"
   - "living in Upwey"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Upwey village shops, bush walking trails, and Belgrave line access.

@@ -4,13 +4,20 @@ description: "Where to find the best coffee and cafes in Seddon. Local picks, qu
 date: 2026-03-21
 suburb: "seddon"
 article_type: "best-of"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "best cafes Seddon"
   - "coffee Seddon Melbourne"
   - "cafes near Seddon"
   - "brunch Seddon"
+tags:
+  - "seddon"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
@@ -59,3 +66,23 @@ Seddon's cafe scene is strong and growing. You won't struggle to find good coffe
 ---
 
 **More on Seddon:** [Seddon Suburb Guide](/seddon/) · [Seddon Cost of Living](/seddon/cost-of-living/) · [Seddon Neighbourhood Guide](/seddon/neighbourhood-guide/)
+
+---
+
+## Explore More of Seddon
+
+- [Seddon History](/seddon/history/)
+- [Seddon Rent Guide](/seddon/rent-guide/)
+- [Seddon Things To Do](/seddon/things-to-do/)
+- [Seddon Cost of Living](/seddon/cost-of-living/)
+- [Seddon Young Professionals Guide](/seddon/young-professionals/)
+- [Seddon Transport Guide](/seddon/transport-guide/)
+- [Seddon Best Restaurants](/seddon/best-restaurants/)
+- [Seddon Weekend Guide](/seddon/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Footscray Suburb Guide](/footscray/)
+- [Yarraville Suburb Guide](/yarraville/)
+- [Williamstown Suburb Guide](/williamstown/)
+- [Newport Suburb Guide](/newport/)

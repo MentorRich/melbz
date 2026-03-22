@@ -4,13 +4,18 @@ description: "The insider's guide to Pascoe Vale's different pockets, streets, a
 date: 2026-03-21
 suburb: "pascoe-vale"
 article_type: "neighbourhood"
-author: "dani"
-author_image: "/images/authors/dani.jpg" 
+author: "Dani Reyes"
 keywords:
   - "Pascoe Vale neighbourhood guide"
   - "best streets in Pascoe Vale"
   - "Pascoe Vale areas"
   - "Pascoe Vale pockets Melbourne"
+tags:
+  - "pascoe-vale"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Pascoe Vale isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

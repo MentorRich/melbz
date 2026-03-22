@@ -4,15 +4,22 @@ description: "Public transport in Studley Park: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "studley-park"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Studley Park Melbourne"
   - "commute from Studley Park to city"
   - "Studley Park train station"
+tags:
+  - "studley-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Studley Park — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Studley Park, you need to know what the daily commute actually looks like.
 
 Check out our full [Studley Park suburb guide](/studley-park/) for the complete picture.
 

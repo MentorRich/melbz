@@ -1,19 +1,16 @@
 ---
-title: "Fitzroy North — History and How It's Changed"
-description: "The story of Fitzroy North: from its origins to today. How this Melbourne suburb evolved and where it's heading next."
-date: 2026-03-21
+title: "History of Fitzroy North — From Working-Class Suburb to Inner-North Village"
+description: "How Fitzroy North evolved from a working-class Victorian suburb to a gentrified inner-north village with Edinburgh Gardens at its heart. The real history told honestly."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Jensen"
+cover_image: "/images/fitzroy-north/history.jpg"
+cover_image_alt: "Victorian terraces on a Fitzroy North residential street"
 suburb: "fitzroy-north"
-article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-keywords:
-  - "Fitzroy North Melbourne history"
-  - "how has Fitzroy North changed"
-  - "Fitzroy North gentrification"
-  - "Fitzroy North then and now"
+tags: ["fitzroy-north", "history", "heritage"]
 ---
 
-Every Melbourne suburb has a story. Fitzroy North's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Fitzroy North is rooted in immigration and community.
 
 See our full [Fitzroy North suburb guide](/fitzroy-north/) for the current picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Bentleigh Melbourne — Everything You Need to Know"
+title: "Bentleigh Melbourne — what you need"
 description: "The complete guide to Bentleigh. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "bentleigh"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Tom O'Brien"
 keywords:
   - "Bentleigh Melbourne"
   - "what is Bentleigh like"
   - "bentleigh suburb"
   - "living in Bentleigh"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Centre Road shopping, Sunday market, and an unpretentious family suburb with strong schools.

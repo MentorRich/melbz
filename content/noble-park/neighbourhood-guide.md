@@ -4,13 +4,18 @@ description: "The insider's guide to Noble Park's different pockets, streets, an
 date: 2026-03-21
 suburb: "noble-park"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Noble Park neighbourhood guide"
   - "best streets in Noble Park"
   - "Noble Park areas"
   - "Noble Park pockets Melbourne"
+tags:
+  - "noble-park"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Noble Park isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

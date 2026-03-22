@@ -1,16 +1,16 @@
 ---
-title: "Parkville Melbourne — Everything You Need to Know"
+title: "Parkville Melbourne — what you need"
 description: "The complete guide to Parkville. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "parkville"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Parkville Melbourne"
   - "what is Parkville like"
   - "parkville suburb"
   - "living in Parkville"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Melbourne Uni, Royal Park, and heritage homes. Parkville feels like its own village inside the city.

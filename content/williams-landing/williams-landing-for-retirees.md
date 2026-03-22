@@ -4,12 +4,16 @@ description: "Considering retirement in Williams Landing? Quiet streets, healthc
 date: 2026-03-21
 suburb: "williams-landing"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Williams Landing retirees Melbourne"
   - "retiring in Williams Landing"
   - "quiet suburbs Melbourne"
+tags:
+  - "williams-landing"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Williams Landing? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

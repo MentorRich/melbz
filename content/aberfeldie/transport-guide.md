@@ -4,15 +4,22 @@ description: "Public transport in Aberfeldie: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "aberfeldie"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Raj Patel"
 keywords:
   - "public transport Aberfeldie Melbourne"
   - "commute from Aberfeldie to city"
   - "Aberfeldie train station"
+tags:
+  - "aberfeldie"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Aberfeldie — what works, what's annoying, and how long things actually take.
+Public transport in Aberfeldie has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Aberfeldie suburb guide](/aberfeldie/) for the complete picture.
 

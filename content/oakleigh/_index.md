@@ -1,16 +1,16 @@
 ---
-title: "Oakleigh Melbourne — Everything You Need to Know"
+title: "Oakleigh Melbourne — what you need"
 description: "The complete guide to Oakleigh. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "oakleigh"
 article_type: "profile"
 author: "Aisha Patel"
-author_image: "/images/authors/aisha.jpg"
 keywords:
   - "Oakleigh Melbourne"
   - "what is Oakleigh like"
   - "oakleigh suburb"
   - "living in Oakleigh"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Melbourne's Greek heart. Eaton Mall souvlaki, bakeries, and a community that fiercely loves its identity.

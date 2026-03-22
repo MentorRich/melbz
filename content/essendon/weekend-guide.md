@@ -4,13 +4,19 @@ description: "Your weekend in Essendon sorted — from morning coffee to Saturda
 date: 2026-03-21
 suburb: "essendon"
 article_type: "weekend"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "what to do Essendon this weekend"
   - "Essendon weekend"
   - "things to do Essendon Saturday"
   - "Essendon Sunday plans"
+tags:
+  - "essendon"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Essendon does weekends well. Whether you're the type who plans every hour or pre
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Essendon's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/essendon/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Essendon's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Essendon starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Essendon starts slower. The [cafes](/essendon/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Essendon and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Essendon does weekends well. Whether you're the type who plans every hour or pre
 ---
 
 **More on Essendon:** [Essendon Suburb Guide](/essendon/) · [Essendon Things to Do](/essendon/things-to-do/) · [Essendon Best Restaurants](/essendon/best-restaurants/)
+
+---
+
+## Explore More of Essendon
+
+- [Essendon History](/essendon/history/)
+- [Essendon Rent Guide](/essendon/rent-guide/)
+- [Essendon Things To Do](/essendon/things-to-do/)
+- [Essendon Essendon For Retirees](/essendon/essendon-for-retirees/)
+- [Essendon Cost of Living](/essendon/cost-of-living/)
+- [Essendon Young Professionals Guide](/essendon/young-professionals/)
+- [Essendon Nightlife Guide](/essendon/nightlife-guide/)
+- [Essendon Transport Guide](/essendon/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Endeavour Hills Suburb Guide](/endeavour-hills/)
+- [Epping Suburb Guide](/epping/)
+- [Essendon North Suburb Guide](/essendon-north/)
+- [Essendon West Suburb Guide](/essendon-west/)

@@ -1,58 +1,56 @@
 ---
 title: "Best Bars in Elsternwick Melbourne"
-description: "The bar scene in Elsternwick: where to drink, what the vibe is, and the local spots worth knowing about."
+description: "The bar scene in Elsternwick — pubs on Glen Huntly Road, wine bars off the strip, and where locals actually drink."
 date: 2026-03-21
 suburb: "elsternwick"
 article_type: "nightlife"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
-  - "best bars Elsternwick"
-  - "bars in Elsternwick Melbourne"
-  - "nightlife Elsternwick"
-  - "where to drink Elsternwick"
+author: "Grace Chen"
+cover_image: "/images/shared/nightlife.jpg"
+tags: ["melbourne", "elsternwick", "bars", "nightlife"]
 ---
-
 
 ## The Drinking Scene in Elsternwick
 
-Elsternwick has a bar scene that reflects the suburb — straightforward — good pubs, decent bars, and no pretence. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
+Elsternwick's bar scene is honest rather than exciting. This isn't Fitzroy or Collingwood — there's no cocktail bar with a hidden entrance or a natural wine bar that only serves orange. What Elsternwick has is pubs that work, a couple of wine-forward spots that have emerged in the last few years, and a drinking culture built around regulars rather than visitors.
 
-## Types of Bars in Elsternwick
+## Three Worth Knowing
 
-**The Local Pub** — Every suburb needs one (or three). Elsternwick's pubs range from proper old-school locals to renovated versions that keep the character while adding a better tap list.
+**The Elsternwick Hotel** — Glen Huntly Road. The suburb's anchor pub. Counter meals, cold beer, and a public bar that hasn't been gastro-pubbed into oblivion. Friday afternoon here is where the week ends for most locals. The beer garden out back is the best outdoor drinking spot in the suburb when the weather cooperates.
 
-**Wine Bars** — Small, intimate, usually with a great by-the-glass selection. The kind of place where the bar staff know what they're pouring and can actually help you choose.
+**Ripponlea Food and Wine** — Technically a restaurant, but the bar section operates independently enough to count. Natural wines by the glass, a short cocktail list that changes seasonally, and a vibe that's closer to a wine bar than anything else on the Glen Huntly Road strip. Thursday and Friday evenings are the sweet spot.
 
-**Cocktail Spots** — Not as many as Fitzroy or Collingwood, but Elsternwick has options that hold their own. Smaller, more personal, and you're not paying CBD prices.
+**The Brightonian** — Just across the border in Brighton, but Elsternwick locals have claimed it. Craft beer focus, decent pub food, and a rooftop area that draws the after-work crowd from both postcodes. A 10-minute walk from Elsternwick station.
 
-**Beer Gardens** — Weather-dependent but essential for Melbourne summers. Some of Elsternwick's best drinking happens outdoors when the weather cooperates.
+## The Reality
 
-**The All-Rounder** — The bar that works for everything: after-work drinks, catch-ups, first dates, Saturday nights. Reliable, never amazing, always good enough.
+Elsternwick's nightlife wraps up earlier than inner-city suburbs. Most venues wind down by midnight, and the strip is quiet by 1am. If you want 3am drinks, you're catching a train to the city or an Uber to St Kilda.
+
+This suits the suburb. Elsternwick's drinking culture is about the local you visit weekly, not the destination bar you travel to once. The regulars at the Elsternwick Hotel have been coming for years. That kind of consistency creates atmosphere that no fit-out can manufacture.
 
 ## When to Go
 
-**After work (5-7pm)** — The sweet spot for most Elsternwick bars. Happy hour-ish, relaxed, locals unwinding.
-
-**Friday night** — The main strip fills up. Get in by 6pm or expect to wait. The energy is good though.
-
-**Saturday** — Peak social time. Bars are full, atmosphere is high, expect queues at popular spots.
-
-**Sunday session** — Underrated. Some of Elsternwick's bars do Sunday sessions that are genuinely great — more relaxed, often live music or DJs, and no Sunday scaries.
-
-## What Makes Elsternwick Different
-
-Elsternwick isn't trying to out-cool the inner-city bar hubs. The bars here work because they serve the locals first — they're places you'd go weekly, not Instagram destinations you visit once.
-
-That gives the suburb's bar scene an authenticity that more hyped areas often lack. The vibe is real because the people are regulars, not tourists.
-
-## Tips
-
-1. **Support the neighbourhood bar** — they're the ones that make the suburb
-2. **Try the local brewery tap** — if Elsternwick has one, it's usually worth a visit
-3. **Weeknights are underrated** — fewer people, better service, same drinks
-4. **Ask the bartender** — they know what's good and what's not worth ordering
+**Thursday after work** is the local's night — the strip has energy without weekend chaos. **Saturday afternoon** sessions in beer gardens are peak Elsternwick. **Sunday** is for the quiet pub lunch with a couple of pots.
 
 ---
 
-**More on Elsternwick:** [Elsternwick Suburb Guide](/elsternwick/) · [Elsternwick Best Restaurants](/elsternwick/best-restaurants/) · [Elsternwick for Young Professionals](/elsternwick/elsternwick-for-young-professionals/)
+**More on Elsternwick:** [Elsternwick Suburb Guide](/elsternwick/) · [Best Restaurants](/elsternwick/best-[restaurants](/elsternwick/best-restaurants/)/) · [Things to Do](/elsternwick/things-to-do/)
+
+---
+
+## Explore More of Elsternwick
+
+- [Elsternwick History](/elsternwick/history/)
+- [Elsternwick Rent Guide](/elsternwick/rent-guide/)
+- [Elsternwick Living In Elsternwick](/elsternwick/living-in-elsternwick/)
+- [Elsternwick Things To Do](/elsternwick/things-to-do/)
+- [Elsternwick Cost of Living](/elsternwick/cost-of-living/)
+- [Elsternwick Neighbourhood Guide](/elsternwick/neighbourhood-guide/)
+- [Elsternwick Transport Guide](/elsternwick/transport-guide/)
+- [Elsternwick Best Cafes](/elsternwick/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Easter Melbourne 2026 Suburb Guide](/easter-melbourne-2026/)
+- [Edithvale Suburb Guide](/edithvale/)
+- [Eltham Suburb Guide](/eltham/)
+- [Elwood Suburb Guide](/elwood/)

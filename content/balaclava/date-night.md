@@ -1,17 +1,15 @@
 ---
 title: "Date Night in Balaclava — 2026 Local Guide"
 cover_image: "/images/balaclava/date-night.jpg"
+suburb: "balaclava"
+author: "Grace Chen"
+date: 2026-03-22
+lastmod: 2026-03-22
+description: "Date night in Balaclava 2026. Carlisle Street restaurants, wine bars, and a post-dinner walk past The Astor Theatre on Dandenong Road for couples."
+tags: ["balaclava"]
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
 ---
 
-suburb: "balaclava"
-vertical: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the date night in Balaclava. Our verified 2026 guide covers the best spots for locals."
-tags: ["balaclava"]
-categories: ["date"]
 ## The Best Date Night in Balaclava
 
 Here's the thing about Balaclava for date night: it doesn't try to impress you. There's no $200 degustation with liquid nitrogen and a view of the Yarra. There's no Instagram wall outside the front door. What there IS, is a strip of genuinely good restaurants, low-key bars, and enough conversation-starting characters to make any date feel like an adventure rather than an interview.
@@ -121,38 +119,3 @@ If Balaclava doesn't quite scratch the itch, these neighbouring suburbs are a sh
 
 Living in Balaclava? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=balaclava)
 
-### Featured Venues
-
-- **Ilona Staller** at 281 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Bibi** at 257 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Batch Espresso** at 333 Carlisle St, Balaclava VIC 3183
-- **Monarch Cakes** at 103 Acland St, St Kilda VIC 3182
-- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
-- **Bagelicious** at 174 Balaclava Rd, Caulfield North, VIC 3161
-- **Wallis & Social** at 285 Carlisle St, Balaclava, VIC 3183
-- **Ichi Ni Izakaya** at 12/100 The Esplanade, St Kilda, VIC 3182
-
-### Key Highlights
-
-- Carlisle Street cafe and dining scene
-- Proximity to St Kilda and the beach
-- Historic architecture and local markets
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

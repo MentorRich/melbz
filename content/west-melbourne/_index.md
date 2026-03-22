@@ -1,16 +1,16 @@
 ---
-title: "West Melbourne Melbourne — Everything You Need to Know"
+title: "West Melbourne Melbourne — what you need"
 description: "The complete guide to West Melbourne. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "west-melbourne"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "West Melbourne Melbourne"
   - "what is West Melbourne like"
   - "west-melbourne suburb"
   - "living in West Melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 A suburb in transition — warehouses turning into apartments, with the city literally next door.

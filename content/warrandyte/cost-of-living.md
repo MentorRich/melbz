@@ -4,16 +4,22 @@ description: "How expensive is Warrandyte? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "warrandyte"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Warrandyte Melbourne"
   - "how expensive is Warrandyte"
   - "is Warrandyte expensive to live in"
   - "Warrandyte rent"
+tags:
+  - "warrandyte"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Warrandyte — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Warrandyte, here is exactly how far your dollar goes.
 
 Read our full [Warrandyte suburb guide](/warrandyte/) for the bigger picture.
 

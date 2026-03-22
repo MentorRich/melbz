@@ -4,16 +4,22 @@ description: "The story of Moorabbin: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "moorabbin"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Moorabbin Melbourne history"
   - "how has Moorabbin changed"
   - "Moorabbin gentrification"
   - "Moorabbin then and now"
+tags:
+  - "moorabbin"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Moorabbin's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Moorabbin was a railway stop in open paddocks. The transformation tells a quintessentially Melbourne story.
 
 See our full [Moorabbin suburb guide](/moorabbin/) for the current picture.
 

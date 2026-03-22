@@ -1,23 +1,23 @@
 ---
 title: "Rent Prices in Melbourne CBD 2026: What You'll Actually Pay"
-cover_image: "/images/melbourne-cbd/rent-report.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["melbourne-cbd", "rent", "property"]
-categories: ["property"]
-description: "Rent Prices in Melbourne CBD 2026: What You'll Actually Pay"
+cover_image: "/images/shared/city-architecture.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Marcus Cole"
+tags: ["melbourne", "melbourne-cbd", "rent", "property"]
+description: "Melbourne CBD rent prices for 2026 with real data. One-bedroom apartments from four-eighty per week, studio pricing and share house costs in postcode 3000."
 ---
 
 **Updated 16 March 2026 | Marcus Cole reporting**
-
 
 
 Melbourne's CBD rental market in 2026 is behaving..."
 
 *Updated 16 March 2026 | Marcus Cole reporting*
 
-# Rent Prices in Melbourne CBD 2026: What You'll Actually Pay
+# [Rent](/melbourne-cbd/cost-of-living/) Prices in Melbourne CBD 2026: What You'll Actually Pay
 
 *Updated 16 March 2026 | Marcus Cole reporting*
 
@@ -34,13 +34,13 @@ Melbourne's CBD is overwhelmingly an apartment market. You're not finding a thre
 
 ### Studio Apartments
 
-The CBD studio market is the entry point for most single renters. Expect to pay **$380–$470 per week** for a studio between 25–35 square metres. Older stock on the edges of the CBD (think Little Lonsdale or the western end of the CBD grid) sits at the lower end. Newer builds near Elizabeth Street or Southbank-adjacent towers push toward the top of that range.
+The CBD studio market is the entry point for most single renters. Expect to pay **$380–$470 per week** for a studio between 25–35 square metres. Older stock on the edges of the CBD (think Little Lonsdale or the western end of the CBD grid) sits at the lower end. Newer builds near Elizabeth Street or [Southbank](/southbank/)-adjacent towers push toward the top of that range.
 
 Studios under $400 still exist, but they're shrinking. The ones at that price point often have shared facilities, no laundry, or are in buildings with deferred maintenance.
 
 ### One-Bedroom Apartments
 
-This is the bread and butter of CBD renting. One-bedrooms range from **$450–$620 per week** depending on age, floor level, and proximity to transport.
+This is the bread and butter of CBD renting. One-bedrooms range from **$450–$620 per week** depending on age, floor level, and proximity to [transport](/melbourne-cbd/transport-guide/).
 
 A newer one-bedroom in a tower like Aurora Melbourne Central or the Spencer Street corridor typically lands around $520–$580. Older stock in the CBD's northern half — near Queen Victoria Market — comes in at $450–$500, though these are increasingly being snapped up by investors converting them to short-stay accommodation.
 
@@ -52,7 +52,7 @@ Two-bedrooms are where the CBD starts to feel expensive. Current asking rents si
 
 Premium towers with harbour or park views — Eureka Tower, The尖 (Prima), or newer Collins Street developments — command $750–$850+. Standard two-bedrooms in mid-tier buildings run $650–$720. If you want two bathrooms in your two-bedroom, budget for $720+ as a baseline.
 
-This is where the CBD competes directly with Southbank and Docklands, where two-bedroom prices often match or exceed the CBD for newer stock.
+This is where the CBD competes directly with Southbank and [Docklands](/docklands/), where two-bedroom prices often match or exceed the CBD for newer stock.
 
 ### Three-Bedroom Apartments
 
@@ -91,7 +91,7 @@ Docklands is the comparison nobody expected five years ago, but it's now a legit
 
 Docklands two-bedrooms command **$680–$900 per week** — matching or exceeding CBD equivalents in newer towers. The catch is that Docklands' offering is almost entirely new-build stock with premium amenities (gyms, pools, concierge services), which inflates the median price.
 
-One-bedrooms in Docklands sit at **$500–$650**, overlapping almost entirely with CBD pricing. The suburb's reputation for feeling "soulless" has historically kept a discount, but that discount is narrowing as the area matures and more restaurants and retail open.
+One-bedrooms in Docklands sit at **$500–$650**, overlapping almost entirely with CBD pricing. The suburb's reputation for feeling "soulless" has historically kept a discount, but that discount is narrowing as the area matures and more [restaurants](/melbourne-cbd/best-restaurants/) and retail open.
 
 Docklands makes sense if you want modern finishes and building amenities without compromising on inner-city location. It makes less sense if you value street-level activity, diverse dining, and the organic chaos that makes the CBD interesting.
 
@@ -168,7 +168,7 @@ A few forces are pushing against each other in the CBD market right now.
 
 ## The Free Tram Zone Factor
 
-One thing that genuinely sets CBD renting apart from the inner suburbs is the Free Tram Zone. If you live within the CBD's Free Tram Zone boundaries, your daily commute cost drops to zero. That's $1,500–$2,000 per year you're not spending on myki fares — money that partially offsets the rent premium you're paying over Carlton or Southbank.
+One thing that genuinely sets CBD renting apart from the inner suburbs is the Free Tram Zone. If you live within the CBD's Free Tram Zone boundaries, your daily [commute](/melbourne-cbd/transport-guide/) cost drops to zero. That's $1,500–$2,000 per year you're not spending on myki fares — money that partially offsets the rent premium you're paying over Carlton or Southbank.
 
 For renters working in the CBD or Docklands, the tram savings are real. For those commuting to the outer suburbs or other CBDs, the premium is harder to justify.
 
@@ -209,38 +209,22 @@ The market isn't in crisis — it's in equilibrium at an uncomfortable price poi
 
 **Sources:** Domain House Price Report (December 2025), SQM Research asking rents, Cotality March 2026 Housing Report, Urban Property Australia Q1 2025 Inner-City Apartment Report, SBS News (March 2026), CBRE Australia Apartment Market Outlook, SQM Research vacancy rate data.
 
-### Featured Venues
+---
 
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+## Explore More of Melbourne CBD
 
-### Key Highlights
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Cocktails](/melbourne-cbd/cocktails/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD Weekend Guide V2](/melbourne-cbd/weekend-guide-v2/)
 
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/southbank/](/southbank/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

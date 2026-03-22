@@ -1,16 +1,16 @@
 ---
-title: "Aberfeldie Melbourne — Everything You Need to Know"
+title: "Aberfeldie Melbourne — what you need"
 description: "The complete guide to Aberfeldie. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "aberfeldie"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Aberfeldie Melbourne"
   - "what is Aberfeldie like"
   - "aberfeldie suburb"
   - "living in Aberfeldie"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small, quiet enclave near Maribyrnong River. Heritage homes and a village feel.

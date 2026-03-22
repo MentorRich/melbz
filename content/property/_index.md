@@ -2,7 +2,8 @@
 title: "Melbourne Property and Real Estate - Suburb Intelligence"
 description: "Property insights, cost of living, and suburb comparisons across Melbourne."
 date: 2026-03-21
-author: "MELBZ Editorial Team"
+author: "Ethan Cole"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Property intel is baked into every suburb guide on MELBZ. Rental medians, cost-of-living breakdowns, and honest takes on whether the price tag matches the vibe.

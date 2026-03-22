@@ -4,15 +4,22 @@ description: "Public transport in Black Rock: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "black-rock"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Black Rock Melbourne"
   - "commute from Black Rock to city"
   - "Black Rock train station"
+tags:
+  - "black-rock"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Black Rock — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Black Rock. Let us cut through the fluff.
 
 Check out our full [Black Rock suburb guide](/black-rock/) for the complete picture.
 

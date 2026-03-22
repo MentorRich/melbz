@@ -4,13 +4,19 @@ description: "Raising a dog in Flemington? Off-leash parks, pet-friendly cafes, 
 date: 2026-03-21
 suburb: "flemington"
 article_type: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "dog friendly Flemington"
   - "off leash park Flemington"
   - "pet friendly cafes Flemington"
   - "walking dog Flemington"
+tags:
+  - "flemington"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +34,7 @@ Flemington has dedicated off-leash areas where your dog can actually run. The lo
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/flemington/best-cafes/)
 
 Multiple cafes in Flemington welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from Flemington, including emergency after-hou
 ---
 
 **More on Flemington:** [Flemington Suburb Guide](/flemington/) · [Flemington Things to Do](/flemington/things-to-do/) · [Flemington for Families](/flemington/flemington-for-families/)
+
+---
+
+## Explore More of Flemington
+
+- [Flemington History](/flemington/history/)
+- [Flemington Rent Guide](/flemington/rent-guide/)
+- [Flemington Things To Do](/flemington/things-to-do/)
+- [Flemington Cost of Living](/flemington/cost-of-living/)
+- [Flemington Young Professionals Guide](/flemington/young-professionals/)
+- [Flemington Nightlife Guide](/flemington/nightlife-guide/)
+- [Flemington Transport Guide](/flemington/transport-guide/)
+- [Flemington Best Cafes](/flemington/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Fitzroy North Suburb Guide](/fitzroy-north/)
+- [Footscray Suburb Guide](/footscray/)
+- [Forest Hill Suburb Guide](/forest-hill/)

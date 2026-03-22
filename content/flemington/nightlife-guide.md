@@ -2,8 +2,7 @@
 title: "Flemington Nightlife Guide 2026: Pubs, Bars & Local Spots"
 cover_image: "/images/flemington/nightlife-guide.jpg"
 date: 2026-03-18
-author: lina
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 tags: ["flemington", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Flemington Nightlife Guide 2026: Pubs, Bars & Local Spots"
@@ -77,7 +76,7 @@ We deliberately bypassed venues that exist primarily to serve racecourse crowds 
 
 The various temporary bars and pop-ups that appear around race meetings have been excluded because they don't represent the ongoing nightlife experience available in Flemington. If you're attending a race meeting, you'll have access to these venues as part of the event experience, but they're not destinations in their own right.
 
-The small bars and cafes that have attempted to open in Flemington over the years but haven't sustained operations have been skipped. This suburb has seen several attempts to create a more diverse nightlife scene that haven't succeeded, suggesting that the market supports traditional pubs rather than more experimental venues.
+The small bars and [cafes](/flemington/best-cafes/) that have attempted to open in Flemington over the years but haven't sustained operations have been skipped. This suburb has seen several attempts to create a more diverse nightlife scene that haven't succeeded, suggesting that the market supports traditional pubs rather than more experimental venues.
 
 Chain venues with minimal local character—the kinds of identical hotel chains you'll find in any Melbourne suburb—have been skipped in favour of the independent venues that give Flemington its identity. These generic options exist, but they don't warrant recommendation when genuine local pubs are available.
 
@@ -85,19 +84,19 @@ The late-night venues that have attempted to establish themselves in Flemington 
 
 ## Getting There and Home
 
-Flemington is well-served by public transport, with the racecourse station on the Flemington line providing direct access from Flinders Street Station. Several tram routes also pass through the area, connecting Flemington to the CBD and western suburbs.
+Flemington is well-served by public [transport](/flemington/transport-guide/), with the racecourse station on the Flemington line providing direct access from Flinders Street Station. Several tram routes also pass through the area, connecting Flemington to the CBD and western suburbs.
 
 The 57 tram runs along Racecourse Road, making most of Flemington's venues easily accessible without needing a car. This is particularly convenient for those who want to enjoy a few drinks without worrying about parking or driving.
 
 Parking in Flemington varies depending on the time and location. During race meetings, parking becomes extremely difficult and expensive—the surrounding streets become competitive, and many venues rely on the racecourse carpark. During normal periods, street parking is more readily available, though the residential nature of the area means you'll need to walk a short distance from main streets.
 
-Rideshare pricing to Flemington is moderate—the suburb sits far enough from the CBD that prices aren't cheap, but the direct train connection means you don't need to rely on cars if public transport suits better.
+Rideshare pricing to Flemington is moderate—the suburb sits far enough from the CBD that prices aren't cheap, but the direct train connection means you don't need to rely on cars if [public transport](/flemington/transport-guide/) suits better.
 
 ## Neighbouring Suburbs Worth Exploring
 
 Ascot Vale, immediately to the north, shares Flemington's residential character and offers additional pub options. The Ascot Vale Hotel and surrounding venues extend what's available in the broader area.
 
-For those looking for more intense nightlife experiences, Footscray to the west offers a dramatically different scene—one of Melbourne's most diverse and interesting nightlife precincts. The various Vietnamese restaurants and bars along Hopkins Street create an evening experience unlike anything Flemington offers.
+For those looking for more intense nightlife experiences, [Footscray](/footscray/) to the west offers a dramatically different scene—one of Melbourne's most diverse and interesting nightlife precincts. The various Vietnamese [restaurants](/flemington/best-restaurants/) and bars along Hopkins Street create an evening experience unlike anything Flemington offers.
 
 Newmarket and Kensington, further north along the Flemington line, have their own small collections of venues that serve local communities without trying to be destinations.
 
@@ -107,10 +106,9 @@ Newmarket and Kensington, further north along the Flemington line, have their ow
 **Contributors:** MELBZ Team
 ## Related Articles
 
-- [/footscray/](/footscray/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/nightlife/](/nightlife/)
-- [/things-to-do/](/things-to-do/)
-- [/flemington/](/flemington/)
+- [Footscray](/footscray/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Nightlife](/nightlife/)
+- [Things To Do](/things-to-do/)
+- [Flemington](/flemington/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

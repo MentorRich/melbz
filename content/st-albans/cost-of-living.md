@@ -4,16 +4,22 @@ description: "How expensive is St Albans? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "st-albans"
 article_type: "cost-of-living"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living St Albans Melbourne"
   - "how expensive is St Albans"
   - "is St Albans expensive to live in"
   - "St Albans rent"
+tags:
+  - "st-albans"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in St Albans — no sugar-coating, no made-up figures.
+Living costs in St Albans have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [St Albans suburb guide](/st-albans/) for the bigger picture.
 

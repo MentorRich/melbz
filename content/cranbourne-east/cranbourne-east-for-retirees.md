@@ -4,12 +4,16 @@ description: "Considering retirement in Cranbourne East? Quiet streets, healthca
 date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Cranbourne East retirees Melbourne"
   - "retiring in Cranbourne East"
   - "quiet suburbs Melbourne"
+tags:
+  - "cranbourne-east"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Cranbourne East? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

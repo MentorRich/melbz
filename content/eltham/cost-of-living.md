@@ -4,16 +4,22 @@ description: "How expensive is Eltham? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "eltham"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Eltham Melbourne"
   - "how expensive is Eltham"
   - "is Eltham expensive to live in"
   - "Eltham rent"
+tags:
+  - "eltham"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Eltham — no sugar-coating, no made-up figures.
+The gap between the sticker price of Eltham and actual living costs is worth understanding before you move.
 
 Read our full [Eltham suburb guide](/eltham/) for the bigger picture.
 

@@ -4,16 +4,22 @@ description: "The story of Watsonia: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "watsonia"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Watsonia Melbourne history"
   - "how has Watsonia changed"
   - "Watsonia gentrification"
   - "Watsonia then and now"
+tags:
+  - "watsonia"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Watsonia's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Watsonia, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Watsonia suburb guide](/watsonia/) for the current picture.
 

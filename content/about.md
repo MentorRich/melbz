@@ -2,11 +2,11 @@
 title: "About MELBZ"
 description: "MELBZ is Melbourne's hyperlocal intelligence platform. Built by Axior Labs, founded by Ebiau Daniel. 321 suburbs, thousands of venues, powered by AI and local knowledge."
 date: 2026-03-17
-author: "MELBZ Editorial Team"
-author_image: "/images/authors/dani.jpg"
+author: "Marcus Cole"
 noAds: true
 tags: ["about"]
 categories: ["general"]
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 # About MELBZ

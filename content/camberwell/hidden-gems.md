@@ -3,20 +3,19 @@ title: "Hidden Gems in Camberwell Melbourne — What Most People Miss"
 description: "The spots in Camberwell that don't make the top 10 lists but locals would fight to protect. Off the main strip, under the radar."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "local-guide"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
-keywords:
-  - "hidden gems Camberwell"
-  - "secret spots Camberwell"
-  - "local tips Camberwell"
-  - "off beaten path Camberwell Melbourne"
+author: "Priya Sandhu"
+tags:
+  - "camberwell"
+  - "hidden-gems"
+  - "local-tips"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Why Camberwell's Best Bits Are Hidden
 
-Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But Camberwell's real character lives in the places most visitors never find.
+Every Melbourne suburb has a public face — the main strip, the popular [cafes](/camberwell/best-cafes/), the spots Google tells you about. But Camberwell's real character lives in the places most visitors never find.
 
 These aren't "hidden" because someone's keeping secrets. They're hidden because they don't advertise, they don't have social media strategies, and they rely entirely on word of mouth and repeat customers.
 
@@ -62,4 +61,24 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) · [Camberwell History](/camberwell/history/) · [Camberwell Living Guide](/camberwell/living-in-camberwell/)
+**More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) · [Camberwell History](/camberwell/[history](/camberwell/history/)/) · [Camberwell Living Guide](/camberwell/living-in-camberwell/)
+
+---
+
+## Explore More of Camberwell
+
+- [Camberwell History](/camberwell/history/)
+- [Camberwell Camberwell For Retirees](/camberwell/camberwell-for-retirees/)
+- [Camberwell Rent Guide](/camberwell/rent-guide/)
+- [Camberwell Things To Do](/camberwell/things-to-do/)
+- [Camberwell Cost of Living](/camberwell/cost-of-living/)
+- [Camberwell Young Professionals Guide](/camberwell/young-professionals/)
+- [Camberwell Nightlife Guide](/camberwell/nightlife-guide/)
+- [Camberwell Transport Guide](/camberwell/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Glen Iris Suburb Guide](/glen-iris/)

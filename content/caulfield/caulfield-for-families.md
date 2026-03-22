@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Caulfield? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "caulfield"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Caulfield good for families"
   - "Caulfield family friendly"
   - "raising kids in Caulfield"
+tags:
+  - "caulfield"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Caulfield with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

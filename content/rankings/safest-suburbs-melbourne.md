@@ -3,12 +3,11 @@ title: "Safest Melbourne Suburbs 2026"
 slug: "safest-suburbs-melbourne"
 date: 2026-03-21
 updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 vertical: lifestyle
 tags: ["rankings", "safety", "safe-suburbs", "best-suburbs"]
 description: "Which Melbourne suburbs feel safest? Every suburb graded on safety perception, street lighting, and community activity."
-cover_image: "https://images.pexels.com/photos/1764702/pexels-photo-1764702.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Melbourne suburbs ranking"
 ---
 
@@ -71,7 +70,7 @@ Rankings based on our [Vibe Score methodology](/vibe-score/) — updated quarter
 
 Every suburb's safety grade is part of the broader [Vibe Score system](/vibe-score/). It's based on real data, local knowledge, and editorial assessment by our team of 50 Melbourne writers.
 
-**Disagree with a ranking?** Good. That's the point. Email [hq@melbz101](mailto:hq@melbz101) with your argument.
+**Disagree with a ranking?** Good. That's the point. Email [hq@melbz.com.au](mailto:hq@melbz.com.au) with your argument.
 
 ---
 

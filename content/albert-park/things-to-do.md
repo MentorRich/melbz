@@ -4,13 +4,19 @@ description: "What to do in Albert Park this weekend and beyond. Activities, eve
 date: 2026-03-21
 suburb: "albert-park"
 article_type: "activities"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "things to do Albert Park"
   - "Albert Park activities"
   - "what to do in Albert Park"
   - "Albert Park weekend plans"
+tags:
+  - "albert-park"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -53,7 +59,7 @@ More than you think. Albert Park Lake, F1 Grand Prix circuit, and village shops.
 
 Melbourne weather means you need indoor plans. Albert Park has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/albert-park/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Albert Park has:
 ---
 
 **More on Albert Park:** [Albert Park Suburb Guide](/albert-park/) · [Albert Park Best Cafes](/albert-park/best-cafes/) · [Albert Park Neighbourhood Guide](/albert-park/neighbourhood-guide/)
+
+---
+
+## Explore More of Albert Park
+
+- [Albert Park History](/albert-park/history/)
+- [Albert Park Rent Guide](/albert-park/rent-guide/)
+- [Albert Park Cost of Living](/albert-park/cost-of-living/)
+- [Albert Park Young Professionals Guide](/albert-park/young-professionals/)
+- [Albert Park Nightlife Guide](/albert-park/nightlife-guide/)
+- [Albert Park Transport Guide](/albert-park/transport-guide/)
+- [Albert Park Best Cafes](/albert-park/best-cafes/)
+- [Albert Park Best Restaurants](/albert-park/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

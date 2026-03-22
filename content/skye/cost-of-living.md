@@ -4,16 +4,22 @@ description: "How expensive is Skye? Rent, daily costs, and how this Melbourne s
 date: 2026-03-21
 suburb: "skye"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Skye Melbourne"
   - "how expensive is Skye"
   - "is Skye expensive to live in"
   - "Skye rent"
+tags:
+  - "skye"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Skye — no sugar-coating, no made-up figures.
+Everyone asks how expensive is Skye. The real answer depends on your lifestyle. Here is the data.
 
 Read our full [Skye suburb guide](/skye/) for the bigger picture.
 

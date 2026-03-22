@@ -1,16 +1,16 @@
 ---
-title: "Armadale Melbourne — Everything You Need to Know"
+title: "Armadale Melbourne — what you need"
 description: "The complete guide to Armadale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "armadale"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Armadale Melbourne"
   - "what is Armadale like"
   - "armadale suburb"
   - "living in Armadale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 High Street boutiques, tree-lined avenues, and a quieter alternative to South Yarra's energy.

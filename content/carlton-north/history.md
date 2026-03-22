@@ -4,16 +4,22 @@ description: "The story of Carlton North: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "carlton-north"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Carlton North Melbourne history"
   - "how has Carlton North changed"
   - "Carlton North gentrification"
   - "Carlton North then and now"
+tags:
+  - "carlton-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Carlton North's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Carlton North from quiet farmland to a buzzing residential suburb. Understanding that arc explains a lot.
 
 See our full [Carlton North suburb guide](/carlton-north/) for the current picture.
 

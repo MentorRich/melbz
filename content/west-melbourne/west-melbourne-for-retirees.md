@@ -4,12 +4,16 @@ description: "Considering retirement in West Melbourne? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "west-melbourne"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "West Melbourne retirees Melbourne"
   - "retiring in West Melbourne"
   - "quiet suburbs Melbourne"
+tags:
+  - "west-melbourne"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in West Melbourne? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

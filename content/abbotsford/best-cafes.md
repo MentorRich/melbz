@@ -1,19 +1,14 @@
 ---
 title: "Best Cafes in Abbotsford Melbourne"
-description: "Where to find the best coffee and cafes in Abbotsford. Local picks, quiet corners, and the spots that actually deliver."
-date: 2026-03-21
+description: "Where to find the best coffee and cafes in Abbotsford. Local picks, quiet corners, and the spots that actually deliver. Updated for 2026 with real local pick."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Thompson"
+cover_image: "/images/abbotsford/best-cafes.jpg"
+cover_image_alt: "Best Cafes in Abbotsford Melbourne"
 suburb: "abbotsford"
-article_type: "best-of"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-keywords:
-  - "best cafes Abbotsford"
-  - "coffee Abbotsford Melbourne"
-  - "cafes near Abbotsford"
-  - "brunch Abbotsford"
+tags: ["abbotsford", "best-cafes"]
 ---
-
-
 ## The Cafe Scene in Abbotsford
 
 Abbotsford takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
@@ -58,4 +53,6 @@ Abbotsford's cafe scene is strong and growing. You won't struggle to find good c
 
 ---
 
-**More on Abbotsford:** [Abbotsford Suburb Guide](/abbotsford/) · [Abbotsford Cost of Living](/abbotsford/cost-of-living/) · [Abbotsford Neighbourhood Guide](/abbotsford/neighbourhood-guide/)
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
+
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

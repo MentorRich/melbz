@@ -4,15 +4,22 @@ description: "Public transport in Moorabbin: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "moorabbin"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Moorabbin Melbourne"
   - "commute from Moorabbin to city"
   - "Moorabbin train station"
+tags:
+  - "moorabbin"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Moorabbin — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Moorabbin. Let us cut through the fluff.
 
 Check out our full [Moorabbin suburb guide](/moorabbin/) for the complete picture.
 

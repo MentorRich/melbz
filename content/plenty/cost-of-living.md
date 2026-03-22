@@ -4,16 +4,22 @@ description: "How expensive is Plenty? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "plenty"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Plenty Melbourne"
   - "how expensive is Plenty"
   - "is Plenty expensive to live in"
   - "Plenty rent"
+tags:
+  - "plenty"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Plenty — no sugar-coating, no made-up figures.
+The cost question in Plenty is straightforward: it is cheaper than you would think. Here is what your wallet actually needs to know.
 
 Read our full [Plenty suburb guide](/plenty/) for the bigger picture.
 

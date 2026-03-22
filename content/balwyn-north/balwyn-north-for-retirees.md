@@ -4,12 +4,16 @@ description: "Considering retirement in Balwyn North? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Balwyn North retirees Melbourne"
   - "retiring in Balwyn North"
   - "quiet suburbs Melbourne"
+tags:
+  - "balwyn-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Balwyn North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

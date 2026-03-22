@@ -1,18 +1,14 @@
 ---
 title: "Dog-Friendly Cremorne — Parks, Cafes and Walks"
-description: "Raising a dog in Cremorne? Off-leash parks, pet-friendly cafes, vet access, and what doggo life looks like in this suburb."
-date: 2026-03-21
+description: "Raising a dog in Cremorne? Yarra River off-leash walking paths, dog-friendly warehouse cafes, and the best routes along the river trail for every breed."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Lin"
+cover_image: "/images/cremorne/pet-friendly.jpg"
+cover_image_alt: "Dog walking along the Yarra River path near Cremorne"
 suburb: "cremorne"
-article_type: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
-  - "dog friendly Cremorne"
-  - "off leash park Cremorne"
-  - "pet friendly cafes Cremorne"
-  - "walking dog Cremorne"
+tags: ["cremorne", "pet-friendly", "dogs", "yarra-river"]
 ---
-
 
 ## Being a Dog Owner in Cremorne
 
@@ -28,7 +24,7 @@ Cremorne has dedicated off-leash areas where your dog can actually run. The loca
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/cremorne/best-cafes/)
 
 Multiple cafes in Cremorne welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +64,23 @@ Veterinary clinics are accessible from Cremorne, including emergency after-hours
 ---
 
 **More on Cremorne:** [Cremorne Suburb Guide](/cremorne/) · [Cremorne Things to Do](/cremorne/things-to-do/) · [Cremorne for Families](/cremorne/cremorne-for-families/)
+
+---
+
+## Explore More of Cremorne
+
+- [Cremorne History](/cremorne/history/)
+- [Cremorne Things To Do This Weekend](/cremorne/things-to-do-this-weekend/)
+- [Cremorne Cheap Eats](/cremorne/cheap-eats/)
+- [Cremorne Rent Guide](/cremorne/rent-guide/)
+- [Cremorne Date Night Guide](/cremorne/date-night/)
+- [Cremorne Cremorne For Retirees](/cremorne/cremorne-for-retirees/)
+- [Cremorne New Openings](/cremorne/new-openings/)
+- [Cremorne Things To Do](/cremorne/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Cranbourne North Suburb Guide](/cranbourne-north/)
+- [Cranbourne West Suburb Guide](/cranbourne-west/)
+- [Croydon Suburb Guide](/croydon/)
+- [Croydon North Suburb Guide](/croydon-north/)

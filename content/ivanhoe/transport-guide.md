@@ -3,14 +3,13 @@ title: "Transport in Ivanhoe 2026: Trains, Trams & the Commute Reality"
 slug: "transport-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 suburb: "ivanhoe"
 suburbs: ["ivanhoe"]
 vertical: lifestyle
 tags: ["ivanhoe", "transport", "commute", "trains", "trams"]
 description: "How to get around Ivanhoe in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/7019058/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Ivanhoe Melbourne transport"
 vibe_score: 73
 ---
@@ -51,4 +50,22 @@ For the full picture of living here, check our [Living in Ivanhoe guide](/ivanho
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Ivanhoe
+
+- [Ivanhoe History](/ivanhoe/history/)
+- [Ivanhoe Cost of Living](/ivanhoe/cost-of-living/)
+- [Ivanhoe Young Professionals Guide](/ivanhoe/young-professionals/)
+- [Ivanhoe Ivanhoe For Retirees](/ivanhoe/ivanhoe-for-retirees/)
+- [Ivanhoe Family Guide](/ivanhoe/family-guide/)
+- [Ivanhoe Honest Guide](/ivanhoe/honest-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Huntingdale Suburb Guide](/huntingdale/)
+- [Hurstbridge Suburb Guide](/hurstbridge/)
+- [Ivanhoe East Suburb Guide](/ivanhoe-east/)
+- [Jacana Suburb Guide](/jacana/)

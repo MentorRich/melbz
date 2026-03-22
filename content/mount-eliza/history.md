@@ -4,16 +4,22 @@ description: "The story of Mount Eliza: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Mount Eliza Melbourne history"
   - "how has Mount Eliza changed"
   - "Mount Eliza gentrification"
   - "Mount Eliza then and now"
+tags:
+  - "mount-eliza"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Mount Eliza's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+The history of Mount Eliza shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Mount Eliza suburb guide](/mount-eliza/) for the current picture.
 

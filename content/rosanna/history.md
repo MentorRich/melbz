@@ -4,16 +4,22 @@ description: "The story of Rosanna: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "rosanna"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Rosanna Melbourne history"
   - "how has Rosanna changed"
   - "Rosanna gentrification"
   - "Rosanna then and now"
+tags:
+  - "rosanna"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Rosanna's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Rosanna was not always the place you see today. Its story starts with the land boom of the 1880s, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Rosanna suburb guide](/rosanna/) for the current picture.
 

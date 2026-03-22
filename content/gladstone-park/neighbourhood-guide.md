@@ -4,13 +4,18 @@ description: "The insider's guide to Gladstone Park's different pockets, streets
 date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Gladstone Park neighbourhood guide"
   - "best streets in Gladstone Park"
   - "Gladstone Park areas"
   - "Gladstone Park pockets Melbourne"
+tags:
+  - "gladstone-park"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Gladstone Park isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

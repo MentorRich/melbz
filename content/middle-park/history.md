@@ -4,16 +4,22 @@ description: "The story of Middle Park: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "middle-park"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Middle Park Melbourne history"
   - "how has Middle Park changed"
   - "Middle Park gentrification"
   - "Middle Park then and now"
+tags:
+  - "middle-park"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Middle Park's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Middle Park and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Middle Park suburb guide](/middle-park/) for the current picture.
 

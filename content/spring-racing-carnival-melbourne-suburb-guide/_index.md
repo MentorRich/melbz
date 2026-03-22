@@ -3,13 +3,13 @@ title: "Melbourne Cup Carnival — The Suburb Guide"
 description: "Spring racing season transforms Melbourne. Where to stay, where to party, and which suburbs come alive."
 date: 2026-03-21
 article_type: "trending"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "melbourne cup suburban guide"
   - "spring racing carnival melbourne"
   - "where to stay melbourne cup"
   - "flemington race day"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Spring racing season transforms Melbourne. Where to stay, where to party, and which suburbs come alive.

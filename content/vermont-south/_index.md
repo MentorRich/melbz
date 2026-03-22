@@ -1,16 +1,16 @@
 ---
-title: "Vermont South Melbourne — Everything You Need to Know"
+title: "Vermont South Melbourne — what you need"
 description: "The complete guide to Vermont South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "vermont-south"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Vermont South Melbourne"
   - "what is Vermont South like"
   - "vermont-south suburb"
   - "living in Vermont South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Family estates, Vermont South Shopping Centre, and proximity to Knox and Eastland.

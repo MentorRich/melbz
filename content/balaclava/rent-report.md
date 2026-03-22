@@ -1,17 +1,16 @@
 ---
 title: "Rent Prices in Balaclava 2026: What You'll Pay"
 cover_image: "/images/balaclava/rent-report.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 tags: ["balaclava", "rent", "property"]
-categories: ["property"]
-description: "Rent Prices in Balaclava 2026: What You'll Pay"
+description: "What you will actually pay to rent in Balaclava in 2026. Apartments from three-eighty a week, houses from seven hundred, and the suburb comparison."
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
+suburb: "balaclava"
 ---
 
 **Updated 16 March 2026 | Marcus Cole reporting**
-
-
 
 
 *Updated 16 March 2026 | Marcus Cole reporting*
@@ -143,7 +142,7 @@ Three things are pushing Balaclava rents in 2026, and none of them are particula
 
 **Second, Carlisle Street.** The strip between Hotham and Elwood has quietly become one of Melbourne's best local food streets. Not in a "foodie destination" way — in a "this is where locals eat every day and it's actually good" way. The presence of affordable, quality food reduces the lifestyle cost of living here, which makes the suburb more attractive to renters who track total cost of living, not just rent.
 
-**Third, Port Phillip Council planning.** New development in Balaclava has been limited — the council has maintained height restrictions that prevent the kind of high-rise apartment boom you see in places like South Melbourne or St Kilda. Less new stock means less downward pressure on rents. Whether that's a good thing depends on whether you're a renter or a landlord. It's both.
+**Third, Port Phillip Council planning.** New development in Balaclava has been limited — the council has maintained height restrictions that prevent the kind of high-rise apartment boom you see in places like South Melbourne or St Kilda. Less new stock means less downward pressure on rents. Whether that's a good thing depends on If you'''re a renter or a landlord. It's both.
 
 ## The Salary Question
 
@@ -217,38 +216,3 @@ Rate the following out of 5:
 
 [Subscribe to the Balaclava Briefing →](/subscribe/balaclava)
 
-### Featured Venues
-
-- **Ilona Staller** at 281 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Bibi** at 257 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Batch Espresso** at 333 Carlisle St, Balaclava VIC 3183
-- **Monarch Cakes** at 103 Acland St, St Kilda VIC 3182
-- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
-- **Bagelicious** at 174 Balaclava Rd, Caulfield North, VIC 3161
-- **Wallis & Social** at 285 Carlisle St, Balaclava, VIC 3183
-- **Ichi Ni Izakaya** at 12/100 The Esplanade, St Kilda, VIC 3182
-
-### Key Highlights
-
-- Carlisle Street cafe and dining scene
-- Proximity to St Kilda and the beach
-- Historic architecture and local markets
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/balaclava/](/balaclava/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

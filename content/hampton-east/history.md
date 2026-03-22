@@ -4,16 +4,22 @@ description: "The story of Hampton East: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "hampton-east"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Hampton East Melbourne history"
   - "how has Hampton East changed"
   - "Hampton East gentrification"
   - "Hampton East then and now"
+tags:
+  - "hampton-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Hampton East's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Hampton East has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Hampton East suburb guide](/hampton-east/) for the current picture.
 

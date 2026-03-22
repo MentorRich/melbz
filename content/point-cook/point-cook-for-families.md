@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Point Cook? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "point-cook"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Point Cook good for families"
   - "Point Cook family friendly"
   - "raising kids in Point Cook"
+tags:
+  - "point-cook"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Point Cook with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

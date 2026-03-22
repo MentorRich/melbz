@@ -4,15 +4,22 @@ description: "Public transport in Lower Plenty: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Lower Plenty Melbourne"
   - "commute from Lower Plenty to city"
   - "Lower Plenty train station"
+tags:
+  - "lower-plenty"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Lower Plenty — what works, what's annoying, and how long things actually take.
+Two words define transport in Lower Plenty: surprisingly walkable. Everything else is detail.
 
 Check out our full [Lower Plenty suburb guide](/lower-plenty/) for the complete picture.
 

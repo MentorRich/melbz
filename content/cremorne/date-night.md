@@ -1,17 +1,15 @@
 ---
 title: "Date Night in Cremorne — 2026 Local Guide"
+description: "The best date night spots in Cremorne for 2026. Small suburb, perfectly formed options. Church Street intimacy without Chapel Street crowds or CBD price tags."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Grace Lin"
 cover_image: "/images/cremorne/date-night.jpg"
+cover_image_alt: "Intimate restaurant dining on Church Street Cremorne"
+suburb: "cremorne"
+tags: ["cremorne", "date-night", "restaurants", "bars"]
 ---
 
-suburb: "cremorne"
-vertical: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Cremorne's date night scene is small but perfectly formed. Here's where to go when you want romance without the Chapel Street crowds."
-tags: ["cremorne"]
-categories: ["date"]
 # Date Night in Cremorne — Where 3121 Gets Romantic
 
 Here's the thing about date night in Cremorne: it's not South Yarra. It's not Richmond. It's not the CBD. And that's exactly why it works.
@@ -122,39 +120,3 @@ In Cremorne, date night isn't about having fifteen options. It's about having th
 *Also check: [Date Night in Richmond](/richmond/date-night) · [Date Night in South Yarra](/south-yarra/date-night) · [Date Night in South Melbourne](/south-melbourne/date-night)*
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
-
-### Featured Venues
-
-- **Kong BBQ** at 599 Church St, Cremorne VIC 3121
-- **Noir** at 175 Swan St, Richmond/Cremorne VIC 3121
-- **Baby Pizza** at 631-633 Church St, Cremorne VIC 3121
-- **Top Paddock** at 658 Church St, Cremorne VIC 3121
-- **Feast of Merit** at 117 Swan St, Cremorne VIC 3121
-- **Denis the Menace** at 1/200 Punt Rd, Cremorne VIC 3121
-- **Kong BBQ** at 599 Church St, Cremorne VIC 3121
-- **Feast of Merit** at 117 Swan St, Cremorne VIC 3121
-- **Pizza Pizza Pizza** at 468 Swan St, Cremorne VIC 3121
-- **Kong BBQ** at 599 Church St, Cremorne VIC 3121
-
-### Key Highlights
-
-- Innovative tech and creative agency scene
-- Proximity to the Melbourne Cricket Ground (MCG)
-- Trendy warehouse-style cafes and hidden bars
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/cremorne/](/cremorne/)
-- [/cremorne/hub](/cremorne/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*

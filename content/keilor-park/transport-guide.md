@@ -4,15 +4,22 @@ description: "Public transport in Keilor Park: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "keilor-park"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Keilor Park Melbourne"
   - "commute from Keilor Park to city"
   - "Keilor Park train station"
+tags:
+  - "keilor-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Keilor Park — what works, what's annoying, and how long things actually take.
+The daily commute from Keilor Park has a personality all its own. It is practical.
 
 Check out our full [Keilor Park suburb guide](/keilor-park/) for the complete picture.
 

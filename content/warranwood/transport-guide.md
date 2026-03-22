@@ -4,15 +4,22 @@ description: "Public transport in Warranwood: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "warranwood"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Warranwood Melbourne"
   - "commute from Warranwood to city"
   - "Warranwood train station"
+tags:
+  - "warranwood"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Warranwood — what works, what's annoying, and how long things actually take.
+Public transport in Warranwood has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Warranwood suburb guide](/warranwood/) for the complete picture.
 

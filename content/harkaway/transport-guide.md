@@ -4,15 +4,22 @@ description: "Public transport in Harkaway: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "harkaway"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Harkaway Melbourne"
   - "commute from Harkaway to city"
   - "Harkaway train station"
+tags:
+  - "harkaway"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Harkaway — what works, what's annoying, and how long things actually take.
+Harkaway sits along the bayside stretch, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Harkaway suburb guide](/harkaway/) for the complete picture.
 

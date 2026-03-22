@@ -4,13 +4,18 @@ description: "The insider's guide to Heathmont's different pockets, streets, and
 date: 2026-03-21
 suburb: "heathmont"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Heathmont neighbourhood guide"
   - "best streets in Heathmont"
   - "Heathmont areas"
   - "Heathmont pockets Melbourne"
+tags:
+  - "heathmont"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Heathmont isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

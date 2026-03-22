@@ -4,17 +4,23 @@ description: "Where to eat in Carlton North: the honest guide to the suburb's re
 date: 2026-03-21
 suburb: "carlton-north"
 article_type: "best-of"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "best restaurants Carlton North"
   - "where to eat Carlton North"
   - "dinner Carlton North Melbourne"
   - "restaurants near Carlton North"
+tags:
+  - "carlton-north"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
-## Eating Out in Carlton North
+## Eating Out in [Carlton](/carlton/) North
 
 Carlton North's restaurant scene reflects the suburb's personality. Quieter sibling of Carlton with Rathdowne Village charm and leafy residential streets. That translates into a food culture that's eclectic and adventurous.
 
@@ -56,4 +62,24 @@ The mid-range is where Carlton North shines — restaurants that care about qual
 
 ---
 
-**More on Carlton North:** [Carlton North Suburb Guide](/carlton-north/) · [Carlton North Best Cafes](/carlton-north/best-cafes/) · [Carlton North Living Guide](/carlton-north/living-in-carlton-north/)
+**More on Carlton North:** [Carlton North Suburb Guide](/carlton-north/) · [Carlton North Best Cafes](/carlton-north/best-[cafes](/carlton-north/best-cafes/)/) · [Carlton North Living Guide](/carlton-north/living-in-carlton-north/)
+
+---
+
+## Explore More of Carlton North
+
+- [Carlton North History](/carlton-north/history/)
+- [Carlton North Rent Guide](/carlton-north/rent-guide/)
+- [Carlton North Things To Do](/carlton-north/things-to-do/)
+- [Carlton North Cost of Living](/carlton-north/cost-of-living/)
+- [Carlton North Young Professionals Guide](/carlton-north/young-professionals/)
+- [Carlton North Nightlife Guide](/carlton-north/nightlife-guide/)
+- [Carlton North Transport Guide](/carlton-north/transport-guide/)
+- [Carlton North Best Cafes](/carlton-north/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Canterbury Suburb Guide](/canterbury/)
+- [Carlton Suburb Guide](/carlton/)
+- [Carnegie Suburb Guide](/carnegie/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)

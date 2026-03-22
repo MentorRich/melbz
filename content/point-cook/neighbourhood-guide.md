@@ -4,13 +4,18 @@ description: "The insider's guide to Point Cook's different pockets, streets, an
 date: 2026-03-21
 suburb: "point-cook"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Point Cook neighbourhood guide"
   - "best streets in Point Cook"
   - "Point Cook areas"
   - "Point Cook pockets Melbourne"
+tags:
+  - "point-cook"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Point Cook isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

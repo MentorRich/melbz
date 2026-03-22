@@ -4,13 +4,19 @@ description: "The story of Williamstown: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "williamstown"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Williamstown Melbourne history"
   - "how has Williamstown changed"
   - "Williamstown gentrification"
   - "Williamstown then and now"
+tags:
+  - "williamstown"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Every Melbourne suburb has a story. Williamstown's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.

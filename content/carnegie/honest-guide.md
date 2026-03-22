@@ -2,16 +2,13 @@
 title: "Carnegie Honest Guide 2026: Koornang Road & Real Opinions"
 cover_image: "/images/carnegie/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Priya Sandhu"
 tags: ["carnegie", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Carnegie Honest Guide 2026: Koornang Road & Real Opinions"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -145,10 +142,9 @@ Carnegie is Melbourne's best-kept open secret. And if you've read this far, you 
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

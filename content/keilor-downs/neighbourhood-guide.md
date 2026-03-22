@@ -4,13 +4,18 @@ description: "The insider's guide to Keilor Downs's different pockets, streets, 
 date: 2026-03-21
 suburb: "keilor-downs"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Keilor Downs neighbourhood guide"
   - "best streets in Keilor Downs"
   - "Keilor Downs areas"
   - "Keilor Downs pockets Melbourne"
+tags:
+  - "keilor-downs"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Keilor Downs isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

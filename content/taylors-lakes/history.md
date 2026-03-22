@@ -4,16 +4,22 @@ description: "The story of Taylors Lakes: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "taylors-lakes"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Taylors Lakes Melbourne history"
   - "how has Taylors Lakes changed"
   - "Taylors Lakes gentrification"
   - "Taylors Lakes then and now"
+tags:
+  - "taylors-lakes"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Taylors Lakes's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Taylors Lakes is tied to Melbourne's industrial past.
 
 See our full [Taylors Lakes suburb guide](/taylors-lakes/) for the current picture.
 

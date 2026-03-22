@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Lysterfield? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "lysterfield"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Lysterfield good for families"
   - "Lysterfield family friendly"
   - "raising kids in Lysterfield"
+tags:
+  - "lysterfield"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Lysterfield with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

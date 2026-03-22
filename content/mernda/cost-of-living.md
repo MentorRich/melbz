@@ -4,16 +4,22 @@ description: "How expensive is Mernda? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "mernda"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Mernda Melbourne"
   - "how expensive is Mernda"
   - "is Mernda expensive to live in"
   - "Mernda rent"
+tags:
+  - "mernda"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Mernda — no sugar-coating, no made-up figures.
+Mernda sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Mernda suburb guide](/mernda/) for the bigger picture.
 

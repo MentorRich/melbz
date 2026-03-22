@@ -4,12 +4,16 @@ description: "Considering retirement in Watsonia? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "watsonia"
 article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Watsonia retirees Melbourne"
   - "retiring in Watsonia"
   - "quiet suburbs Melbourne"
+tags:
+  - "watsonia"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Watsonia? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

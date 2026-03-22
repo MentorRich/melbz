@@ -1,15 +1,13 @@
 ---
-title: "Is Fitzroy North Good for Retirees?"
-description: "Considering retirement in Fitzroy North? Quiet streets, healthcare access, community feel, and the honest verdict for retirees."
-date: 2026-03-21
+title: "Is Fitzroy North Good for Retirees? — 2026 Guide"
+description: "Considering retirement in Fitzroy North? Edinburgh Gardens walking paths, healthcare access, St Georges Road village, and the honest verdict for retirees in 2026."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jack Morrison"
+cover_image: "/images/fitzroy-north/fitzroy-north-for-retirees.jpg"
+cover_image_alt: "Edinburgh Gardens Fitzroy North walking paths and green space"
 suburb: "fitzroy-north"
-article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
-keywords:
-  - "Fitzroy North retirees Melbourne"
-  - "retiring in Fitzroy North"
-  - "quiet suburbs Melbourne"
+tags: ["fitzroy-north", "retirees", "lifestyle", "healthcare"]
 ---
 
 Thinking about retiring in Fitzroy North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

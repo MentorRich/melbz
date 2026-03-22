@@ -4,16 +4,22 @@ description: "The story of Frankston South: from its origins to today. How this 
 date: 2026-03-21
 suburb: "frankston-south"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Frankston South Melbourne history"
   - "how has Frankston South changed"
   - "Frankston South gentrification"
   - "Frankston South then and now"
+tags:
+  - "frankston-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Frankston South's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Frankston South is a story of community resilience.
 
 See our full [Frankston South suburb guide](/frankston-south/) for the current picture.
 

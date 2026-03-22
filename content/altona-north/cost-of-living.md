@@ -4,16 +4,22 @@ description: "How expensive is Altona North? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "altona-north"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Altona North Melbourne"
   - "how expensive is Altona North"
   - "is Altona North expensive to live in"
   - "Altona North rent"
+tags:
+  - "altona-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Altona North — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Altona North actually cost? No vague estimates - real numbers.
 
 Read our full [Altona North suburb guide](/altona-north/) for the bigger picture.
 

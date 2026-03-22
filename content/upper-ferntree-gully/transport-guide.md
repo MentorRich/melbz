@@ -4,15 +4,22 @@ description: "Public transport in Upper Ferntree Gully: trains, trams, buses, cy
 date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Upper Ferntree Gully Melbourne"
   - "commute from Upper Ferntree Gully to city"
   - "Upper Ferntree Gully train station"
+tags:
+  - "upper-ferntree-gully"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Upper Ferntree Gully — what works, what's annoying, and how long things actually take.
+Getting around Upper Ferntree Gully comes down to a bus network that requires patience. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Upper Ferntree Gully suburb guide](/upper-ferntree-gully/) for the complete picture.
 

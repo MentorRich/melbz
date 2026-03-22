@@ -4,15 +4,22 @@ description: "Public transport in Doncaster: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "doncaster"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Doncaster Melbourne"
   - "commute from Doncaster to city"
   - "Doncaster train station"
+tags:
+  - "doncaster"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Doncaster — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Doncaster. Let us cut through the fluff.
 
 Check out our full [Doncaster suburb guide](/doncaster/) for the complete picture.
 

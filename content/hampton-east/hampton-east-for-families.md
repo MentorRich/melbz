@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Hampton East? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "hampton-east"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Hampton East good for families"
   - "Hampton East family friendly"
   - "raising kids in Hampton East"
+tags:
+  - "hampton-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Hampton East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

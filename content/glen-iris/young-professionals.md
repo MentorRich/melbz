@@ -3,19 +3,18 @@ title: "Glen Iris for Young Professionals 2026: Lifestyle, Cost & Nightlife"
 slug: "young-professionals"
 date: 2026-03-21
 updated: 2026-03-21
-author: dani
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 suburb: "glen-iris"
 suburbs: ["glen-iris"]
 vertical: lifestyle
 tags: ["glen-iris", "young-professionals", "nightlife", "lifestyle"]
 description: "Glen Iris for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent."
-cover_image: "https://images.pexels.com/photos/8883413/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/students.jpg"
 cover_alt: "Glen Iris nightlife young professionals Melbourne"
 vibe_score: 74
 ---
 
-You're in your mid-20s to early-30s, you earn decent money but not Toorak money, and you want a suburb that has actual things to do after 6pm. Is Glen Iris it?
+Finding the right suburb in your 20s and 30s is about trade-offs. Here is what Glen Iris offers - and what it does not.
 
 ## The Young Professional Scorecard
 
@@ -68,4 +67,4 @@ Glen Iris works for young professionals who prioritise lifestyle balance over a 
 
 ---
 
-*Living the young professional life in Glen Iris? Tell us your experience — [hq@melbz101](mailto:hq@melbz101)*
+*Living the young professional life in Glen Iris? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*

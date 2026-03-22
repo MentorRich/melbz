@@ -4,13 +4,18 @@ description: "The insider's guide to Lysterfield's different pockets, streets, a
 date: 2026-03-21
 suburb: "lysterfield"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Lysterfield neighbourhood guide"
   - "best streets in Lysterfield"
   - "Lysterfield areas"
   - "Lysterfield pockets Melbourne"
+tags:
+  - "lysterfield"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Lysterfield isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

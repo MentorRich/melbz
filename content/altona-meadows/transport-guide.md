@@ -4,15 +4,22 @@ description: "Public transport in Altona Meadows: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "altona-meadows"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Altona Meadows Melbourne"
   - "commute from Altona Meadows to city"
   - "Altona Meadows train station"
+tags:
+  - "altona-meadows"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Altona Meadows — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Altona Meadows. Let us cut through the fluff.
 
 Check out our full [Altona Meadows suburb guide](/altona-meadows/) for the complete picture.
 

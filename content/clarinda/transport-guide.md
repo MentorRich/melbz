@@ -4,15 +4,22 @@ description: "Public transport in Clarinda: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "clarinda"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Clarinda Melbourne"
   - "commute from Clarinda to city"
   - "Clarinda train station"
+tags:
+  - "clarinda"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Clarinda — what works, what's annoying, and how long things actually take.
+Clarinda sits just beyond the inner ring, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Clarinda suburb guide](/clarinda/) for the complete picture.
 

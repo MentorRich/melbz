@@ -4,16 +4,22 @@ description: "How expensive is Eaglemont? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "eaglemont"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Eaglemont Melbourne"
   - "how expensive is Eaglemont"
   - "is Eaglemont expensive to live in"
   - "Eaglemont rent"
+tags:
+  - "eaglemont"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Eaglemont — no sugar-coating, no made-up figures.
+Everyone asks how expensive is Eaglemont. The real answer depends on your lifestyle. Here is the data.
 
 Read our full [Eaglemont suburb guide](/eaglemont/) for the bigger picture.
 

@@ -4,13 +4,19 @@ description: "Raising a dog in Seddon? Off-leash parks, pet-friendly cafes, vet 
 date: 2026-03-21
 suburb: "seddon"
 article_type: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "dog friendly Seddon"
   - "off leash park Seddon"
   - "pet friendly cafes Seddon"
   - "walking dog Seddon"
+tags:
+  - "seddon"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +34,7 @@ Seddon has dedicated off-leash areas where your dog can actually run. The local 
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/seddon/best-cafes/)
 
 Multiple cafes in Seddon welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from Seddon, including emergency after-hours o
 ---
 
 **More on Seddon:** [Seddon Suburb Guide](/seddon/) · [Seddon Things to Do](/seddon/things-to-do/) · [Seddon for Families](/seddon/seddon-for-families/)
+
+---
+
+## Explore More of Seddon
+
+- [Seddon History](/seddon/history/)
+- [Seddon Rent Guide](/seddon/rent-guide/)
+- [Seddon Things To Do](/seddon/things-to-do/)
+- [Seddon Cost of Living](/seddon/cost-of-living/)
+- [Seddon Young Professionals Guide](/seddon/young-professionals/)
+- [Seddon Transport Guide](/seddon/transport-guide/)
+- [Seddon Best Cafes](/seddon/best-cafes/)
+- [Seddon Best Restaurants](/seddon/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Footscray Suburb Guide](/footscray/)
+- [Yarraville Suburb Guide](/yarraville/)
+- [Williamstown Suburb Guide](/williamstown/)
+- [Newport Suburb Guide](/newport/)

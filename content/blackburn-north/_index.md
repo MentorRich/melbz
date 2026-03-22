@@ -1,16 +1,16 @@
 ---
-title: "Blackburn North Melbourne — Everything You Need to Know"
+title: "Blackburn North Melbourne — what you need"
 description: "The complete guide to Blackburn North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "blackburn-north"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Blackburn North Melbourne"
   - "what is Blackburn North like"
   - "blackburn-north suburb"
   - "living in Blackburn North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Eastern Freeway access, residential quiet, and family streets near Blackburn proper.

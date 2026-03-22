@@ -4,15 +4,22 @@ description: "Public transport in Pascoe Vale South: trains, trams, buses, cycli
 date: 2026-03-21
 suburb: "pascoe-vale-south"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Pascoe Vale South Melbourne"
   - "commute from Pascoe Vale South to city"
   - "Pascoe Vale South train station"
+tags:
+  - "pascoe-vale-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Pascoe Vale South — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Pascoe Vale South. Let us cut through the fluff.
 
 Check out our full [Pascoe Vale South suburb guide](/pascoe-vale-south/) for the complete picture.
 

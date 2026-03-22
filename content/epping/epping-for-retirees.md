@@ -4,12 +4,16 @@ description: "Considering retirement in Epping? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "epping"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Epping retirees Melbourne"
   - "retiring in Epping"
   - "quiet suburbs Melbourne"
+tags:
+  - "epping"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Epping? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

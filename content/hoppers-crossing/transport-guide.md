@@ -4,15 +4,22 @@ description: "Public transport in Hoppers Crossing: trains, trams, buses, cyclin
 date: 2026-03-21
 suburb: "hoppers-crossing"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Hoppers Crossing Melbourne"
   - "commute from Hoppers Crossing to city"
   - "Hoppers Crossing train station"
+tags:
+  - "hoppers-crossing"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Hoppers Crossing — what works, what's annoying, and how long things actually take.
+The transport story in Hoppers Crossing is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Hoppers Crossing suburb guide](/hoppers-crossing/) for the complete picture.
 

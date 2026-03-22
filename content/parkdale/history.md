@@ -4,16 +4,22 @@ description: "The story of Parkdale: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "parkdale"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Parkdale Melbourne history"
   - "how has Parkdale changed"
   - "Parkdale gentrification"
   - "Parkdale then and now"
+tags:
+  - "parkdale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Parkdale's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+Understanding Parkdale means understanding where it came from. The history explains the character.
 
 See our full [Parkdale suburb guide](/parkdale/) for the current picture.
 

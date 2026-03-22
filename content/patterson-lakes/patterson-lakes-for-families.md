@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Patterson Lakes? Parks, schools, safet
 date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Patterson Lakes good for families"
   - "Patterson Lakes family friendly"
   - "raising kids in Patterson Lakes"
+tags:
+  - "patterson-lakes"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Patterson Lakes with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

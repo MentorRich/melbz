@@ -4,12 +4,16 @@ description: "Considering retirement in Altona? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "altona"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Altona retirees Melbourne"
   - "retiring in Altona"
   - "quiet suburbs Melbourne"
+tags:
+  - "altona"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Altona? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

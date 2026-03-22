@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Box Hill South? Parks, schools, safety
 date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Box Hill South good for families"
   - "Box Hill South family friendly"
   - "raising kids in Box Hill South"
+tags:
+  - "box-hill-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Box Hill South with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

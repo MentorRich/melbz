@@ -4,15 +4,22 @@ description: "Public transport in Heidelberg West: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Heidelberg West Melbourne"
   - "commute from Heidelberg West to city"
   - "Heidelberg West train station"
+tags:
+  - "heidelberg-west"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Heidelberg West — what works, what's annoying, and how long things actually take.
+Your morning commute from Heidelberg West depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Heidelberg West suburb guide](/heidelberg-west/) for the complete picture.
 

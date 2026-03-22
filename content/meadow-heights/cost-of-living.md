@@ -4,16 +4,22 @@ description: "How expensive is Meadow Heights? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Meadow Heights Melbourne"
   - "how expensive is Meadow Heights"
   - "is Meadow Heights expensive to live in"
   - "Meadow Heights rent"
+tags:
+  - "meadow-heights"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Meadow Heights — no sugar-coating, no made-up figures.
+The cost question in Meadow Heights is straightforward: it is creeping up year on year. Here is what your wallet actually needs to know.
 
 Read our full [Meadow Heights suburb guide](/meadow-heights/) for the bigger picture.
 

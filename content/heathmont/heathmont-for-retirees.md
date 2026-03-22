@@ -4,12 +4,16 @@ description: "Considering retirement in Heathmont? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "heathmont"
 article_type: "retirees"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Heathmont retirees Melbourne"
   - "retiring in Heathmont"
   - "quiet suburbs Melbourne"
+tags:
+  - "heathmont"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 Thinking about retiring in Heathmont? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

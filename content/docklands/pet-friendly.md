@@ -1,70 +1,59 @@
 ---
-title: "Dog-Friendly Docklands — Parks, Cafes and Walks"
-description: "Raising a dog in Docklands? Off-leash parks, pet-friendly cafes, vet access, and what doggo life looks like in this suburb."
+title: "Dog-Friendly Docklands — Parks, Walks and Waterfront Life"
+description: "Dog life in Docklands — Ron Barassi Snr Park, waterfront promenade walks, apartment dog policies, and what harbour dog ownership looks like."
 date: 2026-03-21
 suburb: "docklands"
 article_type: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
-  - "dog friendly Docklands"
-  - "off leash park Docklands"
-  - "pet friendly cafes Docklands"
-  - "walking dog Docklands"
+author: "Grace Chen"
+cover_image: "/images/docklands/pet-friendly.jpg"
+tags: ["melbourne", "docklands", "pets", "dogs"]
 ---
-
 
 ## Being a Dog Owner in Docklands
 
-Melbourne is a dog city, and Docklands holds its own for four-legged residents. Whether you've got a cattle dog that needs actual exercise or a French Bulldog that considers a 10-minute waddle an expedition, this suburb has something for you.
+Docklands is surprisingly workable for dogs — with caveats. The waterfront promenades provide excellent walking routes. Ron Barassi Snr Park has off-leash areas. The precinct is flat and accessible. The challenges: apartment living means no backyard, body corporate pet policies vary by building, and the wind off the harbour can make some walks unpleasant.
 
-## Off-Leash Parks and Spaces
+## Off-Leash Areas
 
-Docklands has dedicated off-leash areas where your dog can actually run. The local parks have designated off-leash zones (usually with time restrictions — check the signage).
+**Ron Barassi Snr Park** — The precinct's main off-leash area with designated hours (check City of Melbourne signage). The park is large enough for a proper run, and the growing dog community means morning socialisation is becoming a thing.
 
-**What to expect:**
-- Morning and afternoon are prime dog socialisation hours
-- You'll start recognising the regular dogs before you learn their owners' names
-- Some parks have better fencing than others — know your dog's recall before going fully off-leash
-- There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
-
-## Dog-Friendly Cafes
-
-Multiple cafes in Docklands welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
-
-**Tips:**
-- Outdoor seating areas are your best bet
-- Go during quieter periods if your dog is new to cafe culture
-- A well-behaved dog gets you faster service (staff love dogs)
-- Tie-up points exist at most main strip cafes
+The waterfront promenades are on-leash but provide the best daily walking routes in the suburb. The NewQuay to Yarra's Edge loop is flat, wide, and scenic.
 
 ## Walking Routes
 
-The walking options around Docklands suit dogs of all energy levels:
+- **NewQuay Harbour Loop** — 30 minutes, flat, waterfront. The daily standard for Docklands dog owners.
+- **Full waterfront circuit** — NewQuay to Yarra's Edge and back. 45 minutes. The best harbour walk in Melbourne.
+- **Ron Barassi Snr Park** — Off-leash exercise, then a leashed walk through Victoria Harbour back home.
+- **Capital City Trail connection** — Links Docklands to the broader Melbourne cycling and walking network. Good for weekend adventure walks.
 
-- **Short neighbourhood loop** — 20-30 minutes through residential streets. Good for daily maintenance walks.
-- **Park circuit** — Follow the paths through the local park system. Flat, safe, and usually encounters other dogs for socialising.
-- **Extended walk** — Connect through to neighbouring suburbs via trails and footpaths. Good for weekend energy burns.
+## Apartment Dog Policies
 
-## Vet Access
+This is the crucial Docklands consideration. Each building's body corporate sets its own pet policy. Some towers welcome dogs of all sizes. Others have size or breed restrictions. A few prohibit pets entirely. **Check the body corporate rules before signing a lease or buying.** This is non-negotiable.
 
-Veterinary clinics are accessible from Docklands, including emergency after-hours options within a reasonable drive. Having a vet you trust nearby is one of the underrated factors in choosing where to live with pets.
+## Dog-Friendly [Cafes](/docklands/best-cafes/)
 
-## What Dog Owners Love About Docklands
-
-- Genuine dog community — daily park friends
-- Cafe culture that includes dogs
-- Good walking paths without needing to drive somewhere
-- Enough green space for daily exercise
-- Friendly neighbours who don't mind dogs
-
-## What Could Be Better
-
-- Off-leash areas could be bigger in some parks
-- Peak times get crowded with dogs — early morning is quieter
-- Some rental properties have strict pet policies
-- Not every cafe is equally dog-friendly — learn which ones are genuine about it
+Several NewQuay waterfront cafes welcome dogs in outdoor seating areas. The Quarter is reliably dog-friendly. The waterfront orientation means most outdoor seating is spacious enough for dogs without blocking foot traffic.
 
 ---
 
-**More on Docklands:** [Docklands Suburb Guide](/docklands/) · [Docklands Things to Do](/docklands/things-to-do/) · [Docklands for Families](/docklands/docklands-for-families/)
+**More on Docklands:** [Docklands Suburb Guide](/docklands/) · [Things to Do](/docklands/things-to-do/) · [For Families](/docklands/docklands-for-families/)
+
+---
+
+## Explore More of Docklands
+
+- [Docklands History](/docklands/history/)
+- [Docklands Rent Guide](/docklands/rent-guide/)
+- [Docklands Docklands For Young Professionals](/docklands/docklands-for-young-professionals/)
+- [Docklands Docklands For Retirees](/docklands/docklands-for-retirees/)
+- [Docklands Living In Docklands](/docklands/living-in-docklands/)
+- [Docklands Things To Do](/docklands/things-to-do/)
+- [Docklands Cost of Living](/docklands/cost-of-living/)
+- [Docklands Neighbourhood Guide](/docklands/neighbourhood-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Melbourne CBD Suburb Guide](/melbourne-cbd/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

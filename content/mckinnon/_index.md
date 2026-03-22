@@ -1,16 +1,16 @@
 ---
-title: "McKinnon Melbourne — Everything You Need to Know"
+title: "McKinnon Melbourne — what you need"
 description: "The complete guide to McKinnon. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mckinnon"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "McKinnon Melbourne"
   - "what is McKinnon like"
   - "mckinnon suburb"
   - "living in McKinnon"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Famed school zone, quiet and residential with good train access and community feel.

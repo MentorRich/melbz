@@ -4,13 +4,18 @@ description: "The insider's guide to Doreen's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "doreen"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Doreen neighbourhood guide"
   - "best streets in Doreen"
   - "Doreen areas"
   - "Doreen pockets Melbourne"
+tags:
+  - "doreen"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Doreen isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

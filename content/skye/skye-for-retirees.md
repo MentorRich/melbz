@@ -4,12 +4,16 @@ description: "Considering retirement in Skye? Quiet streets, healthcare access, 
 date: 2026-03-21
 suburb: "skye"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Skye retirees Melbourne"
   - "retiring in Skye"
   - "quiet suburbs Melbourne"
+tags:
+  - "skye"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Skye? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,16 +4,22 @@ description: "The story of Elwood: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "elwood"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Elwood Melbourne history"
   - "how has Elwood changed"
   - "Elwood gentrification"
   - "Elwood then and now"
+tags:
+  - "elwood"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Elwood's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+The history of Elwood shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Elwood suburb guide](/elwood/) for the current picture.
 

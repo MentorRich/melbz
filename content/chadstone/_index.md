@@ -1,16 +1,16 @@
 ---
-title: "Chadstone Melbourne — Everything You Need to Know"
+title: "Chadstone Melbourne — what you need"
 description: "The complete guide to Chadstone. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "chadstone"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Chadstone Melbourne"
   - "what is Chadstone like"
   - "chadstone suburb"
   - "living in Chadstone"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Chadstone Shopping Centre — Australia's biggest. Plus some residential streets around it.

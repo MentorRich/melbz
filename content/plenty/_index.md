@@ -1,16 +1,16 @@
 ---
-title: "Plenty Melbourne — Everything You Need to Know"
+title: "Plenty Melbourne — what you need"
 description: "The complete guide to Plenty. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "plenty"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Plenty Melbourne"
   - "what is Plenty like"
   - "plenty suburb"
   - "living in Plenty"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Rural-feeling pocket near the Plenty Gorge with large blocks and family living.

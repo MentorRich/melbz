@@ -4,16 +4,22 @@ description: "How expensive is Keilor? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "keilor"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Keilor Melbourne"
   - "how expensive is Keilor"
   - "is Keilor expensive to live in"
   - "Keilor rent"
+tags:
+  - "keilor"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Keilor — no sugar-coating, no made-up figures.
+Before committing to Keilor, run the numbers. Rent is just the start - here is the complete cost breakdown.
 
 Read our full [Keilor suburb guide](/keilor/) for the bigger picture.
 

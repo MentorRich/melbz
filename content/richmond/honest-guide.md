@@ -1,26 +1,16 @@
 ---
 title: "Richmond Honest Guide 2026: Vietnamese Food & Football Culture"
-cover_image: "/images/richmond/honest-guide.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
-tags: ["richmond", "honest-guide", "lifestyle"]
-categories: ["lifestyle"]
-description: "Richmond Honest Guide 2026: Vietnamese Food & Football Culture"
+description: "The unfiltered guide to Richmond in 2026. Victoria Street food, MCG match days, Swan Street pubs, what to skip, and who this suburb actually suits."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jack Morrison"
+cover_image: "/images/shared/cafe-street.jpg"
+cover_image_alt: "Richmond Melbourne Victoria Street scene with Vietnamese restaurants"
+suburb: "richmond"
+tags: ["melbourne", "richmond", "honest-guide"]
 ---
 
-**Updated 16 March 2026 | Jack Morrison reporting**
-
-
-
-
-*Updated 16 March 2026 | Jack Morrison reporting*
-
-
-Richmond is the suburb Melbourne built ..."
-# Richmond Honest Guide 2026: Vietnamese Food & Football Culture
-
-*Updated 16 March 2026 | Jack Morrison reporting*
+*Updated March 2026 | Jack Morrison reporting*
 
 
 Richmond is the suburb Melbourne built on pho and premierships, and honestly, it's never apologised for either. This is the postcode where Vietnamese grandmothers outnumber craft beer sommelis three to one, where the roar from the MCG rattles your ribs on a Saturday afternoon, and where Victoria Street's neon signs flicker like a city within a city. It's chaotic, it's delicious, it's loud, and it is absolutely itself.
@@ -72,15 +62,15 @@ Every suburb guide loves to pretend everything is worth a visit. Richmond Honest
 
 **The nightlife.** Richmond has pubs. Richmond has sports bars. Richmond does not have a happening club scene. If you want cocktails and DJs, head across the river to [Cremorne](/cremorne/honest-guide) or walk south to Chapel Street in [South Yarra](/south-yarra/honest-guide). Richmond's idea of a big night out is aTAB, a parma, and a taxi home by 10:30. There's nothing wrong with that, but manage your expectations.
 
-**Riverside walks.** The Yarra borders Richmond to the north and there are paths along it, but calling them a highlight would be generous. The trails are fine for a jog or a cycle, but they're not exactly picturesque in the way people who don't live in Melbourne imagine riverside walks. You're mostly looking at the other side of the river and wondering why the freeway is so loud.
+**Riverside walks.** The Yarra borders Richmond to the south and there are paths along it, but calling them a highlight would be generous. The trails are fine for a jog or a cycle, but they're not exactly picturesque in the way people who don't live in Melbourne imagine riverside walks. You're mostly looking at the other side of the river and wondering why the freeway is so loud.
 
 ## The Neighbourhood Boundaries
 
 Richmond spills over into some interesting territory, and understanding where it ends and the neighbours begin helps you figure out where to go for what.
 
-**Cremorne** sits to the northeast and has become one of Melbourne's more interesting small precincts. Once a purely industrial zone, Cremorne now has some excellent small bars, a growing food scene, and the sort of converted warehouse aesthetic that makes it feel like Fitzroy ten years ago. If Richmond feels too busy and too established, Cremorne offers a quieter version of the inner-city experience with some genuine gems worth exploring. Check out our full [Cremorne Honest Guide](/cremorne/honest-guide) for more.
+**Cremorne** sits to the south and has become one of Melbourne's more interesting small precincts. Once a purely industrial zone, Cremorne now has some excellent small bars, a growing food scene, and the sort of converted warehouse aesthetic that makes it feel like Fitzroy ten years ago. If Richmond feels too busy and too established, Cremorne offers a quieter version of the inner-city experience with some genuine gems worth exploring. Check out our full [Cremorne Honest Guide](/cremorne/honest-guide) for more.
 
-**Collingwood** borders Richmond to the east and shares some of that same industrial-to-creative transformation. The Smith Street corridor has been Melbourne's most talked-about food strip for several years running, and while it's technically Collingwood, it's a short bike ride from most of Richmond. If you're living in the eastern end of Richmond, Collingwood's restaurants and bars are essentially your local scene. Our [Collingwood Honest Guide](/collingwood/honest-guide) has the full breakdown.
+**Collingwood** borders Richmond to the north and shares some of that same industrial-to-creative transformation. The Smith Street corridor has been Melbourne's most talked-about food strip for several years running, and while it's technically Collingwood, it's a short bike ride from most of Richmond. If you're living in the eastern end of Richmond, Collingwood's restaurants and bars are essentially your local scene. Our [Collingwood Honest Guide](/collingwood/honest-guide) has the full breakdown.
 
 **South Yarra** is across the river to the south and represents the opposite end of Melbourne's personality spectrum. Where Richmond is cheap eats and football, South Yarra is brunch culture and boutique shopping. The two are separated by the Yarra but connected by several bridges and a very high volume of Ubers on weekends. Worth reading our [South Yarra Honest Guide](/south-yarra/honest-guide) to compare and contrast.
 
@@ -97,7 +87,7 @@ Rent in Richmond is what you'd expect for an inner Melbourne suburb that's ten m
 
 The housing stock is a mix. There are Victorian terraces in various states of renovation along the quieter streets south of Bridge Road, 1960s and 70s brick flats scattered throughout, and a growing number of newer apartment buildings, particularly around Punt Road and the eastern end near the Swinburne University campus. The university influence means there's a student population here, which keeps certain parts of the suburb lively at odd hours.
 
-Public transport is strong. Richmond station sits on the Lilydale, Belgrave, and Alamein lines, giving you direct access to the city in under fifteen minutes. Tram routes run along Bridge Road, Swan Street, and Church Street, so you're never far from a connection. The bike network along the river is well-established if that's your thing, though the roads themselves can be a bit of a war zone during footy traffic.
+Public transport is strong. Richmond station sits on the Sandringham, Frankston, Cranbourne, Pakenham, and Glen Waverley lines — making it one of Melbourne's busiest interchanges — giving you direct access to the city in under ten minutes. Tram routes run along Bridge Road, Swan Street, and Church Street, so you're never far from a connection. The bike network along the river is well-established if that's your thing, though the roads themselves can be a bit of a war zone during footy traffic.
 
 The suburb's proximity to the [CBD](/cbd/honest-guide) is genuinely one of its biggest selling points. You can be in the CBD, in the Botanic Gardens, or crossing over to South Melbourne in under half an hour by almost any method of transport.
 
@@ -117,40 +107,19 @@ Come for the pho. Stay for the footy. And whatever you do, don't try to get a pa
 🔖 [Save this guide](#) · 📤 [Share with a friend](#) · 💬 [Tell us what we missed](#)
 
 
-*Updated 16 March 2026 | Jack Morrison reporting*
+## FAQ
 
-### Featured Venues
+**Is Richmond a good suburb to live in?**
+For the right person, yes. If you value diverse food, strong public transport (Richmond Station serves five train lines), proximity to the MCG and CBD, and a suburb with genuine character, Richmond delivers. If you need quiet streets, affordable rent, or a big backyard, look further out.
 
-- **Minamishima** at 4 Lord St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Etta** at 60 Lygon St, Brunswick East (Richmond satellite location: 305 Lygon St, Richmond VIC 3121)
-- **Top Paddock** at 658 Church St, Richmond VIC 3121
-- **Feast of Merit** at 117 Swan St, Richmond VIC 3121
-- **Mountain View Hotel (Cafe Section)** at 70 Bridge Rd, Richmond VIC 3121
-- **I Love Pho 264** at 264 Victoria St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Feast of Merit** at 314 Swan St, Richmond VIC 3121
-- **Ichi Ni** at 12/131-133 The Esplanade, St Kilda (Richmond border/nearby hub), VIC 3182
+**What is Richmond known for?**
+Three things: Victoria Street's Vietnamese food strip ("Little Saigon"), the MCG and AFL football culture, and Swan Street's pub and dining scene. The suburb also has strong coffee culture on Church Street and the Yarra River trails along its southern border.
 
-### Key Highlights
+**How far is Richmond from the city?**
+About 4km east. Under 10 minutes by train from Richmond Station to Flinders Street. 15-20 minutes by tram. 15 minutes cycling along the Yarra trail.
 
-- Swan Street dining and live music
-- Bridge Road shopping precinct
-- Melbourne Cricket Ground (MCG)
+**More Richmond guides:** [Best Asian Food](/richmond/best-asian-food/) | [Best Pubs](/richmond/best-pubs/) | [Cost of Living](/richmond/cost-of-living/) | [Richmond Overview](/richmond/)
 
-### Suburb Vibe
+---
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+*This guide was researched and written by the MELBZ team in March 2026. No sponsorship, no freebies, no favours.*

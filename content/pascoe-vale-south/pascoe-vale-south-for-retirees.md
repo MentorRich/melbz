@@ -4,12 +4,16 @@ description: "Considering retirement in Pascoe Vale South? Quiet streets, health
 date: 2026-03-21
 suburb: "pascoe-vale-south"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Pascoe Vale South retirees Melbourne"
   - "retiring in Pascoe Vale South"
   - "quiet suburbs Melbourne"
+tags:
+  - "pascoe-vale-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Pascoe Vale South? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,16 +4,22 @@ description: "How expensive is Clayton South? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "clayton-south"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Clayton South Melbourne"
   - "how expensive is Clayton South"
   - "is Clayton South expensive to live in"
   - "Clayton South rent"
+tags:
+  - "clayton-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Clayton South — no sugar-coating, no made-up figures.
+Clayton South living costs reflect its position in Melbourne property landscape. Here are the numbers that matter.
 
 Read our full [Clayton South suburb guide](/clayton-south/) for the bigger picture.
 

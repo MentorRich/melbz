@@ -4,15 +4,22 @@ description: "Public transport in Research: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "research"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Research Melbourne"
   - "commute from Research to city"
   - "Research train station"
+tags:
+  - "research"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Research — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Research, you need to know what the daily commute actually looks like.
 
 Check out our full [Research suburb guide](/research/) for the complete picture.
 

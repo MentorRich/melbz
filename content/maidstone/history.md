@@ -4,16 +4,22 @@ description: "The story of Maidstone: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "maidstone"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Maidstone Melbourne history"
   - "how has Maidstone changed"
   - "Maidstone gentrification"
   - "Maidstone then and now"
+tags:
+  - "maidstone"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Maidstone's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Understanding Maidstone means understanding where it came from. The history explains the character.
 
 See our full [Maidstone suburb guide](/maidstone/) for the current picture.
 

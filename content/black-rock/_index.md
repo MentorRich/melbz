@@ -1,16 +1,16 @@
 ---
-title: "Black Rock Melbourne — Everything You Need to Know"
+title: "Black Rock Melbourne — what you need"
 description: "The complete guide to Black Rock. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "black-rock"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Black Rock Melbourne"
   - "what is Black Rock like"
   - "black-rock suburb"
   - "living in Black Rock"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Cliff walks, Half Moon Bay, and one of Melbourne's most scenic coastal suburbs.

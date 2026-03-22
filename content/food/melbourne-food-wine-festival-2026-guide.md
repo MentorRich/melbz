@@ -2,24 +2,16 @@
 title: "Melbourne Food & Wine Festival 2026: The Only Guide You Actually Need"
 cover_image: "/images/food/melbourne-food-wine-festival-2026-guide.jpg"
 date: 2026-03-15
----
-
 lastmod: 2026-03-15
-draft: false
 slug: "melbourne-food-wine-festival-2026-guide"
 description: "Your insider guide to Melbourne Food & Wine Festival 2026 — from free pizza at Leonardo's to Samoan fine dining at Stokehouse. 200+ events, March 20–29. Here's what's worth your time and money."
-keywords:
-  - "Melbourne Food Wine Festival 2026"
-  - "MFWF 2026 best events"
-  - "Melbourne food festival March 2026"
-  - "Melbourne Food Wine Festival what to do"
-  - "Melbourne food events 2026"
+keywords: ["Melbourne Food Wine Festival 2026", "MFWF 2026 best events", "Melbourne food festival March 2026", "Melbourne Food Wine Festival what to do", "Melbourne food events 2026"]
 tags: ["food", "events", "festivals", "melbourne"]
 categories: ["Food & Drink"]
-author: "jules"
-author_image: "/images/authors/jules.jpg"
+author: "Jules Marchetti"
 vibe_score: 9.2
 schema_type: "Event"
+---
 
 The Melbourne Food & Wine Festival is back from **March 20 to 29, 2026**, with over 200 events across the city. That's ten days of long lunches, pastry pop-ups, barbecue throwdowns, and enough degustation menus to bankrupt your savings account.
 
@@ -113,19 +105,10 @@ Ten days. Over 200 events. Your wallet might not survive, but your taste buds wi
 
 ## Related Articles
 
-- [/brunswick/](/brunswick/)
-- [/carlton/](/carlton/)
-- [/collingwood/](/collingwood/)
-- [/st-kilda/](/st-kilda/)
-- [/food/](/food/)
+- [Brunswick](/brunswick/)
+- [Carlton](/carlton/)
+- [Collingwood](/collingwood/)
+- [St Kilda](/st-kilda/)
+- [Food](/food/)
 
-*Find more Melbourne content at [melbz.com.au](/)*
 
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.

@@ -1,17 +1,15 @@
 ---
 title: "Late Night Food in Kensington 2026: Where to Eat After Dark"
+description: "Late Night Food in Kensington 2026: Where to Eat After Dark. Updated for 2026 with real local picks and honest advice for Kensington in Melbourne inner west."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
 cover_image: "/images/kensington/late-night-food.jpg"
-date: 2026-03-16
-author: ethan
-author_image: "/images/authors/ethan.jpg"
+cover_image_alt: "Late Night Food in Kensington Melbourne"
+suburb: "kensington"
 tags: ["kensington", "late-night", "food"]
-categories: ["food"]
-description: "Late Night Food in Kensington 2026: Where to Eat After Dark"
 ---
-
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
-
-
 
 
 *Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
@@ -188,7 +186,7 @@ The kebab house for quick takeaway. Sahara for a proper sit-down. La Tortilleria
 Six spots. No filler. That's the lot.
 
 
-*Have we missed your favourite Kensington late-night spot? Tell us on [Telegram](https://t.me/melbaborne) or email hq@melbz101. We retest every six months.*
+*Have we missed your favourite Kensington late-night spot? Tell us on [Telegram](https://t.me/melbaborne) or email hq@melbz.com.au. We retest every six months.*
 
 
 **About the author:** *Ethan Cross is the Late Night Editor at MELBZ, covering after-dark dining across Melbourne's inner suburbs. He has been writing about Melbourne food since 2019 and has tested late-night menus in more than 40 suburbs.*
@@ -201,12 +199,3 @@ Six spots. No filler. That's the lot.
 - [Kensington Suburb Profile](/kensington)
 
 *Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
-
-## Related Articles
-
-- [/footscray/](/footscray/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/kensington/](/kensington/)
-- [/kensington/hub](/kensington/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*

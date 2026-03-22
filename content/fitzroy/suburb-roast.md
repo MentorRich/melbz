@@ -1,12 +1,13 @@
 ---
 title: "Fitzroy: The Suburb Roast — Every Hot Take, No Apologies"
+description: "Fitzroy gets roasted. The gentrification, the parking, the cafe politics and the Collingwood rivalry. Honest hot takes on Melbourne's most self-aware suburb."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Tyler James"
 cover_image: "/images/fitzroy/suburb-roast.jpg"
-date: 2026-03-16
-author: tyler
-author_image: "/images/authors/tyler.jpg"
-tags: ["fitzroy", "roast", "opinions"]
-categories: ["editorial"]
-description: "Fitzroy: The Suburb Roast — Every Hot Take, No Apologies"
+cover_image_alt: "Fitzroy Melbourne Brunswick Street scene"
+suburb: "fitzroy"
+tags: ["melbourne", "fitzroy", "roast", "opinions"]
 ---
 
 <div class="vibe-score">FITZROY VIBE SCORE: 84/100 ⚡️ ICONIC (+2 this week)</div>
@@ -194,38 +195,8 @@ We're about to drop the full Melbourne Inner North Power Rankings, and Fitzroy's
 
 *Tyler James is MELBZ's Provocative Rankings editor. He has opinions about your suburb and he's not sorry. If you disagree, good — that's the point. Hit us up and let's argue about it.*
 
-### Featured Venues
+---
 
-- **Marion** at 53 Gertrude St, Fitzroy VIC 3065
-- **Cutler & Co.** at 55-57 Gertrude St, Fitzroy VIC 3065
-- **Poodle Bar & Bistro** at 81-83 Gertrude St, Fitzroy VIC 3065
-- **Proud Mary Coffee** at 172 Oxford St, Collingwood, VIC 3066
-- **Archie's All Day** at 189 Gertrude St, Fitzroy, VIC 3065
-- **Industry Beans Fitzroy** at 3/62 Rose St, Fitzroy, VIC 3065
-- **Vegie Bar** at 380 Brunswick St, Fitzroy VIC 3065
-- **Naked for Satan** at 285 Brunswick St, Fitzroy VIC 3065
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy VIC 3065
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy VIC 3065
+**More on Fitzroy:** [Fitzroy Suburb Guide](/fitzroy/) | [Best Restaurants](/fitzroy/best-restaurants/) | [Honest Guide](/fitzroy/honest-guide/)
 
-### Key Highlights
-
-- Brunswick Street shopping and dining
-- The Royal Exhibition Building and Carlton Gardens
-- Independent art galleries and street art tours
-
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 9/10
-- Affordability: 5/10
-- Transport: 9/10
-- Culture: 10/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**Roast another suburb:** [Collingwood](/collingwood/) | [South Yarra](/south-yarra/) | [Brunswick](/brunswick/)

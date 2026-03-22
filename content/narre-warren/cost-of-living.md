@@ -4,16 +4,22 @@ description: "How expensive is Narre Warren? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "narre-warren"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Narre Warren Melbourne"
   - "how expensive is Narre Warren"
   - "is Narre Warren expensive to live in"
   - "Narre Warren rent"
+tags:
+  - "narre-warren"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Narre Warren — no sugar-coating, no made-up figures.
+Let us talk money in Narre Warren. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Narre Warren suburb guide](/narre-warren/) for the bigger picture.
 

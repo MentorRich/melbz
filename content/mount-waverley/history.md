@@ -4,16 +4,22 @@ description: "The story of Mount Waverley: from its origins to today. How this M
 date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Mount Waverley Melbourne history"
   - "how has Mount Waverley changed"
   - "Mount Waverley gentrification"
   - "Mount Waverley then and now"
+tags:
+  - "mount-waverley"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Mount Waverley's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Mount Waverley, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Mount Waverley suburb guide](/mount-waverley/) for the current picture.
 

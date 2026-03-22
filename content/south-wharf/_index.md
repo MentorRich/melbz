@@ -1,16 +1,16 @@
 ---
-title: "South Wharf Melbourne — Everything You Need to Know"
+title: "South Wharf Melbourne — what you need"
 description: "The complete guide to South Wharf. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "south-wharf"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "South Wharf Melbourne"
   - "what is South Wharf like"
   - "south-wharf suburb"
   - "living in South Wharf"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Convention centre district, DFO South Wharf, and Yarra promenade dining.

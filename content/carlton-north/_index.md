@@ -1,16 +1,16 @@
 ---
-title: "Carlton North Melbourne — Everything You Need to Know"
+title: "Carlton North Melbourne — what you need"
 description: "The complete guide to Carlton North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "carlton-north"
 article_type: "profile"
 author: "Mei Lin"
-author_image: "/images/authors/freya.jpg"
 keywords:
   - "Carlton North Melbourne"
   - "what is Carlton North like"
   - "carlton-north suburb"
   - "living in Carlton North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quieter sibling of Carlton with Rathdowne Village charm and leafy residential streets.

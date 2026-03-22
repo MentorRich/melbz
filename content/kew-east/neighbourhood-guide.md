@@ -4,13 +4,18 @@ description: "The insider's guide to Kew East's different pockets, streets, and 
 date: 2026-03-21
 suburb: "kew-east"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Kew East neighbourhood guide"
   - "best streets in Kew East"
   - "Kew East areas"
   - "Kew East pockets Melbourne"
+tags:
+  - "kew-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Kew East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

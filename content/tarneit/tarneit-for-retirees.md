@@ -4,12 +4,16 @@ description: "Considering retirement in Tarneit? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "tarneit"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Tarneit retirees Melbourne"
   - "retiring in Tarneit"
   - "quiet suburbs Melbourne"
+tags:
+  - "tarneit"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Tarneit? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

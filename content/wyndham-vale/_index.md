@@ -1,16 +1,16 @@
 ---
-title: "Wyndham Vale Melbourne — Everything You Need to Know"
+title: "Wyndham Vale Melbourne — what you need"
 description: "The complete guide to Wyndham Vale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "wyndham-vale"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Wyndham Vale Melbourne"
   - "what is Wyndham Vale like"
   - "wyndham-vale suburb"
   - "living in Wyndham Vale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Affordable western living with regional rail access and growing amenities.

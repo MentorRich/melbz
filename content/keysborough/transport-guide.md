@@ -4,15 +4,22 @@ description: "Public transport in Keysborough: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "keysborough"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Keysborough Melbourne"
   - "commute from Keysborough to city"
   - "Keysborough train station"
+tags:
+  - "keysborough"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Keysborough — what works, what's annoying, and how long things actually take.
+The transport story in Keysborough is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Keysborough suburb guide](/keysborough/) for the complete picture.
 

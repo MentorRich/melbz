@@ -3,14 +3,13 @@ title: "Transport in Oakleigh 2026: Trains, Trams & the Commute Reality"
 slug: "transport-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 suburb: "oakleigh"
 suburbs: ["oakleigh"]
 vertical: lifestyle
 tags: ["oakleigh", "transport", "commute", "trains", "trams"]
 description: "How to get around Oakleigh in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/1674564/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Oakleigh Melbourne transport"
 vibe_score: 71
 ---
@@ -51,4 +50,22 @@ For the full picture of living here, check our [Living in Oakleigh guide](/oakle
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Oakleigh
+
+- [Oakleigh History](/oakleigh/history/)
+- [Oakleigh Cost of Living](/oakleigh/cost-of-living/)
+- [Oakleigh Young Professionals Guide](/oakleigh/young-professionals/)
+- [Oakleigh Oakleigh For Retirees](/oakleigh/oakleigh-for-retirees/)
+- [Oakleigh Family Guide](/oakleigh/family-guide/)
+- [Oakleigh Honest Guide](/oakleigh/honest-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Nunawading Suburb Guide](/nunawading/)
+- [Oak Park Suburb Guide](/oak-park/)
+- [Oakleigh South Suburb Guide](/oakleigh-south/)
+- [Officer Suburb Guide](/officer/)

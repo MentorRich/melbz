@@ -4,15 +4,22 @@ description: "Public transport in Pakenham: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "pakenham"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Pakenham Melbourne"
   - "commute from Pakenham to city"
   - "Pakenham train station"
+tags:
+  - "pakenham"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Pakenham — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Pakenham, you need to know what the daily commute actually looks like.
 
 Check out our full [Pakenham suburb guide](/pakenham/) for the complete picture.
 

@@ -3,14 +3,13 @@ title: "Transport in Albert Park 2026: Trains, Trams & the Commute Reality"
 slug: "transport-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Tom O'Brien"
 suburb: "albert-park"
 suburbs: ["albert-park"]
 vertical: lifestyle
 tags: ["albert-park", "transport", "commute", "trains", "trams"]
 description: "How to get around Albert Park in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/3542711/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Albert Park Melbourne transport"
 vibe_score: 83
 ---
@@ -51,4 +50,24 @@ For the full picture of living here, check our [Living in Albert Park guide](/al
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Albert Park
+
+- [Albert Park History](/albert-park/history/)
+- [Albert Park Rent Guide](/albert-park/rent-guide/)
+- [Albert Park Things To Do](/albert-park/things-to-do/)
+- [Albert Park Cost of Living](/albert-park/cost-of-living/)
+- [Albert Park Young Professionals Guide](/albert-park/young-professionals/)
+- [Albert Park Nightlife Guide](/albert-park/nightlife-guide/)
+- [Albert Park Best Cafes](/albert-park/best-cafes/)
+- [Albert Park Best Restaurants](/albert-park/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

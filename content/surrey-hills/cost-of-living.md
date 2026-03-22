@@ -4,16 +4,22 @@ description: "How expensive is Surrey Hills? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "surrey-hills"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Surrey Hills Melbourne"
   - "how expensive is Surrey Hills"
   - "is Surrey Hills expensive to live in"
   - "Surrey Hills rent"
+tags:
+  - "surrey-hills"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Surrey Hills — no sugar-coating, no made-up figures.
+If you are weighing up Surrey Hills against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Surrey Hills suburb guide](/surrey-hills/) for the bigger picture.
 

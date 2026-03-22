@@ -1,61 +1,72 @@
 ---
-title: "Best Cafes in Southbank Melbourne"
-description: "Where to find the best coffee and cafes in Southbank. Local picks, quiet corners, and the spots that actually deliver."
-date: 2026-03-21
+title: "Best Cafes in Southbank — 2026 Local Guide"
+description: "Where to find the best cafes in Southbank. Brolly at Arts Centre, ACMI Cafe, Clement Coffee on Riverside Quay, and Kettle Black on Albert Road nearby."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/southbank/best-cafes.jpg"
+cover_image_alt: "Coffee and pastry at a Southbank cafe near the Arts Centre"
 suburb: "southbank"
-article_type: "best-of"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-keywords:
-  - "best cafes Southbank"
-  - "coffee Southbank Melbourne"
-  - "cafes near Southbank"
-  - "brunch Southbank"
+tags: ["southbank", "cafes", "coffee", "brunch", "riverside"]
 ---
-
 
 ## The Cafe Scene in Southbank
 
-Southbank takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
+Southbank's cafe culture exists to serve three audiences: residents in the towers, workers in the offices, and tourists on the Promenade. The trick is finding the places that serve the first two — those are the ones that actually care about their coffee.
 
-The cafe culture here reflects the neighbourhood. High-rise riverside living with Arts Centre views and Crown Casino on the doorstep.
+## Brolly — Arts Centre Melbourne, 100 St Kilda Road
 
-## What Makes a Good Cafe Here
+Hidden in the basement of the Arts Centre, Brolly is the cafe Southbank locals actually use. Quality Melbourne roasters, properly maintained equipment, baristas who know what they're doing. The food menu features creative seasonal dishes. If you're starting your day near **Sturt Street** with a cultural activity, start here instead.
 
-The best cafes in Southbank aren't just about the coffee (though the coffee matters). They're the places where the staff recognise you after a few visits, where the food is genuinely good rather than just photogenic, and where you can sit for an hour without feeling rushed.
+## ACMI Cafe — Flinders Street (ACMI Foyer)
 
-Local picks tend to be the ones slightly off the main strip — the place your neighbour told you about, not the one with the queue out the door on Instagram.
+One of Southbank's most reliable coffee options. Well-extracted espresso, properly textured milk. The ACMI foyer is a beautiful space, seating is comfortable, and you've got world-class screen culture exhibitions as backup entertainment. Coffee runs around $4.50 — almost shockingly reasonable for Southbank.
 
-## Types of Cafes You'll Find
+## Clement Coffee — Riverside Quay
 
-**The Morning Ritual Spot** — Opens early, nails the basics. Perfect flat white, decent toast, no fuss. In and out in 15 minutes or linger with the paper.
+A proper specialty coffee operation on Riverside Quay near **Southbank Boulevard**. Quality beans, skilled baristas, and a focus on the coffee itself rather than the Instagram-worthy interior. Good for a serious flat white in a precinct where most coffee is hotel-lobby quality.
 
-**The Brunch Destination** — Proper menu, weekend crowds, the kind of place you plan around. Usually has one or two dishes that people specifically come here for. Worth the wait most of the time.
+## The Kettle Black — 50 Albert Road (Southbank border)
 
-**The Work-From-Cafe** — Good WiFi, comfortable seating, doesn't mind you sitting there all morning. Usually slightly quieter on weekdays and has proper bench space.
+Technically on the Southbank/South Melbourne border on Albert Road, The Kettle Black has earned a reputation as one of Melbourne's best brunch cafes. The coffee is consistently excellent, the food menu is creative, and the space is gorgeous. Worth the 10-minute walk from the Promenade.
 
-**The Hidden Local** — The one only neighbourhood people know about. Might not look like much from outside. Often the best value and genuine character.
+## The Waiting Room — Crown Metropole, 8 Whiteman Street
 
-**The All-Day Spot** — Transitions from coffee to lunch to afternoon drinks. Versatile and reliable. Good for meetings and catch-ups at any hour.
+Hotel coffee at Crown Metropole that's executed well enough to justify the $6.50 flat white. Custom blend roasted for the venue, consistent milk texturing. You're paying for the environment as much as the liquid, but the environment is pleasant.
 
-## Coffee Quality in Southbank
+## FAQ
 
-Melbourne sets the bar high for coffee, and Southbank keeps up. Locally roasted beans, proper baristas who care about extraction, and enough competition that bad coffee doesn't survive here long.
+**Where's the best coffee in Southbank?**
+Brolly at Arts Centre Melbourne or Clement Coffee on Riverside Quay for specialty quality. ACMI Cafe for the best value.
 
-You'll find a mix of specialty roasters and reliable multi-roaster setups. Most cafes here give you a choice of milk alternatives without making a thing about it.
+**Is coffee expensive in Southbank?**
+Expect $5.50-6.50 for a flat white at most venues. ACMI Cafe is the exception at around $4.50.
 
-## Tips for Finding Your Spot
+**Are there cafes with WiFi for working in Southbank?**
+ACMI Cafe in the gallery foyer and Brolly at Arts Centre Melbourne both work for laptop sessions. The Kettle Black on Albert Road is another option.
 
-1. **Walk the back streets** — the best cafes aren't always on the main drag
-2. **Go on a weekday first** — easier to get a feel for the place without weekend chaos
-3. **Ask locals** — the barista at one cafe will usually tell you their favourite cafe (which is someone else's)
-4. **Check the food** — great coffee with bad food is a red flag for the overall standard
-5. **Look at who's there** — regulars and locals means the place has earned repeat business
+## The Verdict
 
-## Our Verdict
+Southbank's cafe scene exists to serve volume, not artisan quality — that's the reality of the postcode. But within those constraints, Brolly and Clement Coffee deliver genuinely excellent coffee, ACMI offers surprising value, and The Kettle Black on the border rewards the short walk south. The key is avoiding random Promenade cafes and knowing which venues actually care about extraction. Three to four genuinely good options across **Sturt Street**, **Southbank Boulevard**, and **Clarendon Street** is enough if you know where they are.
 
-Southbank's cafe scene is solid and genuine. You won't struggle to find good coffee within a short walk from anywhere in the suburb. The variety means there's something for every mood and occasion.
+**More on Southbank:** [Southbank Suburb Guide](/southbank/) · [Southbank Cost of Living](/southbank/cost-of-living/) · [Southbank Neighbourhood Guide](/southbank/neighbourhood-guide/)
 
 ---
 
-**More on Southbank:** [Southbank Suburb Guide](/southbank/) · [Southbank Cost of Living](/southbank/cost-of-living/) · [Southbank Neighbourhood Guide](/southbank/neighbourhood-guide/)
+## Explore More of Southbank
+
+- [Southbank History](/southbank/history/)
+- [Southbank Late Night Eats](/southbank/late-night-eats/)
+- [Southbank Rent Guide](/southbank/rent-guide/)
+- [Southbank Southbank For Retirees](/southbank/southbank-for-retirees/)
+- [Southbank New Openings](/southbank/new-openings/)
+- [Southbank Things To Do](/southbank/things-to-do/)
+- [Southbank Cost of Living](/southbank/cost-of-living/)
+- [Southbank Young Professionals Guide](/southbank/young-professionals/)
+
+### Nearby Suburbs Worth Checking
+
+- [Melbourne CBD Suburb Guide](/melbourne-cbd/)
+- [Docklands Suburb Guide](/docklands/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

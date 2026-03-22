@@ -4,13 +4,19 @@ description: "Your weekend in Hampton sorted — from morning coffee to Saturday
 date: 2026-03-21
 suburb: "hampton"
 article_type: "weekend"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "what to do Hampton this weekend"
   - "Hampton weekend"
   - "things to do Hampton Saturday"
   - "Hampton Sunday plans"
+tags:
+  - "hampton"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Hampton does weekends well. Whether you're the type who plans every hour or pref
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Hampton's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/hampton/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Hampton's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Hampton starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Hampton starts slower. The [cafes](/hampton/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Hampton and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Hampton does weekends well. Whether you're the type who plans every hour or pref
 ---
 
 **More on Hampton:** [Hampton Suburb Guide](/hampton/) · [Hampton Things to Do](/hampton/things-to-do/) · [Hampton Best Restaurants](/hampton/best-restaurants/)
+
+---
+
+## Explore More of Hampton
+
+- [Hampton History](/hampton/history/)
+- [Hampton Rent Guide](/hampton/rent-guide/)
+- [Hampton Things To Do](/hampton/things-to-do/)
+- [Hampton Cost of Living](/hampton/cost-of-living/)
+- [Hampton Young Professionals Guide](/hampton/young-professionals/)
+- [Hampton Transport Guide](/hampton/transport-guide/)
+- [Hampton Best Cafes](/hampton/best-cafes/)
+- [Hampton Best Restaurants](/hampton/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

@@ -4,12 +4,18 @@ description: "Is Burwood East a good suburb for young professionals? Social scen
 date: 2026-03-21
 suburb: "burwood-east"
 article_type: "young-professionals"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Burwood East young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Burwood East"
+tags:
+  - "burwood-east"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Burwood East as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

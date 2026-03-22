@@ -4,16 +4,22 @@ description: "The story of Tottenham: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "tottenham"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Tottenham Melbourne history"
   - "how has Tottenham changed"
   - "Tottenham gentrification"
   - "Tottenham then and now"
+tags:
+  - "tottenham"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Tottenham's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Tottenham from quiet farmland to a buzzing residential suburb. Understanding that arc explains a lot.
 
 See our full [Tottenham suburb guide](/tottenham/) for the current picture.
 

@@ -4,15 +4,22 @@ description: "Public transport in Edithvale: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "edithvale"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Edithvale Melbourne"
   - "commute from Edithvale to city"
   - "Edithvale train station"
+tags:
+  - "edithvale"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Edithvale — what works, what's annoying, and how long things actually take.
+Your morning commute from Edithvale depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Edithvale suburb guide](/edithvale/) for the complete picture.
 

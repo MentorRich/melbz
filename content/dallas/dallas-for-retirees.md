@@ -4,12 +4,16 @@ description: "Considering retirement in Dallas? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "dallas"
 article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Dallas retirees Melbourne"
   - "retiring in Dallas"
   - "quiet suburbs Melbourne"
+tags:
+  - "dallas"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Dallas? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

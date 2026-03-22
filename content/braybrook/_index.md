@@ -1,16 +1,16 @@
 ---
-title: "Braybrook Melbourne — Everything You Need to Know"
+title: "Braybrook Melbourne — what you need"
 description: "The complete guide to Braybrook. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "braybrook"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Braybrook Melbourne"
   - "what is Braybrook like"
   - "braybrook suburb"
   - "living in Braybrook"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Diverse community with South Road shops, improving infrastructure, and affordable housing.

@@ -1,16 +1,16 @@
 ---
-title: "Alphington Melbourne — Everything You Need to Know"
+title: "Alphington Melbourne — what you need"
 description: "The complete guide to Alphington. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "alphington"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Alphington Melbourne"
   - "what is Alphington like"
   - "alphington suburb"
   - "living in Alphington"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Riverside living with the old Alphington Paper Mill site now a trendy mixed-use precinct.

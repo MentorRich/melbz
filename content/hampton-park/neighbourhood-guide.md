@@ -4,13 +4,18 @@ description: "The insider's guide to Hampton Park's different pockets, streets, 
 date: 2026-03-21
 suburb: "hampton-park"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Hampton Park neighbourhood guide"
   - "best streets in Hampton Park"
   - "Hampton Park areas"
   - "Hampton Park pockets Melbourne"
+tags:
+  - "hampton-park"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hampton Park isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

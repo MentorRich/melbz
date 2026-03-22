@@ -4,16 +4,22 @@ description: "The story of Travancore: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "travancore"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Travancore Melbourne history"
   - "how has Travancore changed"
   - "Travancore gentrification"
   - "Travancore then and now"
+tags:
+  - "travancore"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Travancore's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+History buffs and new residents alike should know the origin story of Travancore. It explains more than you would expect.
 
 See our full [Travancore suburb guide](/travancore/) for the current picture.
 

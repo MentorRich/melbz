@@ -4,13 +4,18 @@ description: "The insider's guide to Harkaway's different pockets, streets, and 
 date: 2026-03-21
 suburb: "harkaway"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Harkaway neighbourhood guide"
   - "best streets in Harkaway"
   - "Harkaway areas"
   - "Harkaway pockets Melbourne"
+tags:
+  - "harkaway"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Harkaway isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -3,13 +3,13 @@ title: "AFL Season — Melbourne's Best Footy Suburbs"
 description: "Footy season is a different Melbourne. Which suburbs have the best pub culture, proximity to grounds, and matchday atmosphere?"
 date: 2026-03-21
 article_type: "trending"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "afl suburbs melbourne"
   - "footy pubs melbourne"
   - "best suburbs footy melbourne"
   - "richmond tigers pub"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Footy season is a different Melbourne. Which suburbs have the best pub culture, proximity to grounds, and matchday atmosphere?

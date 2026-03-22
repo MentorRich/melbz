@@ -1,16 +1,16 @@
 ---
-title: "Wattle Glen Melbourne — Everything You Need to Know"
+title: "Wattle Glen Melbourne — what you need"
 description: "The complete guide to Wattle Glen. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Wattle Glen Melbourne"
   - "what is Wattle Glen like"
   - "wattle-glen suburb"
   - "living in Wattle Glen"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hurstbridge line stop, bush surroundings, and a tiny community feel.

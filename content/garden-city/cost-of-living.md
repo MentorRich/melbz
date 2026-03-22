@@ -4,16 +4,22 @@ description: "How expensive is Garden City? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "garden-city"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Garden City Melbourne"
   - "how expensive is Garden City"
   - "is Garden City expensive to live in"
   - "Garden City rent"
+tags:
+  - "garden-city"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Garden City — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Garden City, here is exactly how far your dollar goes.
 
 Read our full [Garden City suburb guide](/garden-city/) for the bigger picture.
 

@@ -3,17 +3,17 @@ title: "Camberwell — History and How It's Changed"
 description: "The story of Camberwell: from its origins to today. How this Melbourne suburb evolved and where it's heading next."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-keywords:
-  - "Camberwell Melbourne history"
-  - "how has Camberwell changed"
-  - "Camberwell gentrification"
-  - "Camberwell then and now"
+author: "Kai Thompson"
+tags:
+  - "camberwell"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Camberwell's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Camberwell, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Camberwell suburb guide](/camberwell/) for the current picture.
 

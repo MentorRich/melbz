@@ -1,16 +1,16 @@
 ---
-title: "Harkaway Melbourne — Everything You Need to Know"
+title: "Harkaway Melbourne — what you need"
 description: "The complete guide to Harkaway. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "harkaway"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Harkaway Melbourne"
   - "what is Harkaway like"
   - "harkaway suburb"
   - "living in Harkaway"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Rural village with acreage properties, horse paddocks, and complete countryside feel.

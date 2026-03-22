@@ -1,17 +1,15 @@
 ---
-title: "Neighbourhood Guide in Fitzroy North — 2026 Local Guide"
+title: "Fitzroy North Neighbourhood Guide — 2026 Local Guide"
+description: "Fitzroy North broken down by micro-neighbourhood. Edinburgh Gardens precinct, North Fitzroy Village on St Georges Road, and the Brunswick Street corridor mapped."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Leung"
 cover_image: "/images/fitzroy-north/neighbourhood-guide.jpg"
+cover_image_alt: "Edinburgh Gardens and surrounding Fitzroy North streets"
+suburb: "fitzroy-north"
+tags: ["fitzroy-north", "neighbourhood-guide", "edinburgh-gardens"]
 ---
 
-suburb: "fitzroy-north"
-vertical: "lifestyle"
-author: "marcusl"
-author_image: "/images/authors/marcus.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the neighbourhood guide in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
-tags: ["fitzroy-north"]
-categories: ["neighbourhood"]
 ## The Fitzroy North Neighbourhood Guide 2026
 
 This is your verified guide to living in Fitzroy North in 2026.
@@ -187,41 +185,3 @@ Will it still feel like Fitzroy North in 2030? Yes, but with higher prices, fewe
 - Fitzroy's take on the inner city: [Fitzroy honest guide](/fitzroy/honest-guide)
 - Carlton North's quieter charm: [Carlton North neighbourhood guide](/carlton-north/neighbourhood-guide)
 - Brunswick East's family appeal: [Brunswick East neighbourhood guide](/brunswick-east/neighbourhood-guide)
-
-Living in Fitzroy North? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=fitzroy-north)
-
-### Featured Venues
-
-- **Neighbourhood Wine** at 1 Reid St, Fitzroy North VIC 3068
-- **Piedimonte's (The Deli/Cafe)** at 123 Scotchmer St, Fitzroy North VIC 3068
-- **Just Italy** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Cavallero** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Morning Market** at 559 Barkly St, Fitzroy North VIC 3068
-- **Park Street** at 815 Nicholson St, Fitzroy North VIC 3068
-- **Piedimonte's Supermarket Deli** at 42-50 Wreckyn St, North Fitzroy VIC 3068
-- **North Fitzroy Arms Hotel** at 296 Rae St, North Fitzroy VIC 3068
-- **Pizza Meine Liebe** at 231 St Georges Rd, North Fitzroy VIC 3068
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
-
-### Key Highlights
-
-- Edinburgh Gardens
-- St Georges Road village shops
-- Capital City Trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

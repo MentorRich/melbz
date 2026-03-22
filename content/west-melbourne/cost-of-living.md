@@ -4,16 +4,22 @@ description: "How expensive is West Melbourne? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "west-melbourne"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living West Melbourne Melbourne"
   - "how expensive is West Melbourne"
   - "is West Melbourne expensive to live in"
   - "West Melbourne rent"
+tags:
+  - "west-melbourne"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in West Melbourne — no sugar-coating, no made-up figures.
+The gap between the sticker price of West Melbourne and actual living costs is worth understanding before you move.
 
 Read our full [West Melbourne suburb guide](/west-melbourne/) for the bigger picture.
 

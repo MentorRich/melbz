@@ -4,13 +4,18 @@ description: "The insider's guide to Heidelberg Heights's different pockets, str
 date: 2026-03-21
 suburb: "heidelberg-heights"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Heidelberg Heights neighbourhood guide"
   - "best streets in Heidelberg Heights"
   - "Heidelberg Heights areas"
   - "Heidelberg Heights pockets Melbourne"
+tags:
+  - "heidelberg-heights"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Heidelberg Heights isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

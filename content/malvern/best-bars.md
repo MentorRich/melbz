@@ -4,13 +4,19 @@ description: "The bar scene in Malvern: where to drink, what the vibe is, and th
 date: 2026-03-21
 suburb: "malvern"
 article_type: "nightlife"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "best bars Malvern"
   - "bars in Malvern Melbourne"
   - "nightlife Malvern"
   - "where to drink Malvern"
+tags:
+  - "malvern"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 
@@ -55,4 +61,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Malvern:** [Malvern Suburb Guide](/malvern/) · [Malvern Best Restaurants](/malvern/best-restaurants/) · [Malvern for Young Professionals](/malvern/malvern-for-young-professionals/)
+**More on Malvern:** [Malvern Suburb Guide](/malvern/) · [Malvern Best Restaurants](/malvern/best-[restaurants](/malvern/best-restaurants/)/) · [Malvern for Young Professionals](/malvern/malvern-for-young-professionals/)
+
+---
+
+## Explore More of Malvern
+
+- [Malvern History](/malvern/history/)
+- [Malvern Rent Guide](/malvern/rent-guide/)
+- [Malvern Things To Do](/malvern/things-to-do/)
+- [Malvern Cost of Living](/malvern/cost-of-living/)
+- [Malvern Young Professionals Guide](/malvern/young-professionals/)
+- [Malvern Transport Guide](/malvern/transport-guide/)
+- [Malvern Best Cafes](/malvern/best-cafes/)
+- [Malvern Best Restaurants](/malvern/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

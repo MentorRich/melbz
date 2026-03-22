@@ -4,12 +4,16 @@ description: "Considering retirement in Chelsea Heights? Quiet streets, healthca
 date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Chelsea Heights retirees Melbourne"
   - "retiring in Chelsea Heights"
   - "quiet suburbs Melbourne"
+tags:
+  - "chelsea-heights"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Chelsea Heights? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

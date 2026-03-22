@@ -1,16 +1,16 @@
 ---
-title: "Langwarrin Melbourne — Everything You Need to Know"
+title: "Langwarrin Melbourne — what you need"
 description: "The complete guide to Langwarrin. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "langwarrin"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Langwarrin Melbourne"
   - "what is Langwarrin like"
   - "langwarrin suburb"
   - "living in Langwarrin"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Peninsula Link access, family estates, and equestrian properties on the Peninsula edge.

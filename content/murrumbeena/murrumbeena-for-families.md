@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Murrumbeena? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "murrumbeena"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Murrumbeena good for families"
   - "Murrumbeena family friendly"
   - "raising kids in Murrumbeena"
+tags:
+  - "murrumbeena"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Murrumbeena with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

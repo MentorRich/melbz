@@ -4,15 +4,22 @@ description: "Public transport in Caulfield: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "caulfield"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Caulfield Melbourne"
   - "commute from Caulfield to city"
   - "Caulfield train station"
+tags:
+  - "caulfield"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Caulfield — what works, what's annoying, and how long things actually take.
+Real talk about getting around Caulfield: what the timetable says vs what actually happens.
 
 Check out our full [Caulfield suburb guide](/caulfield/) for the complete picture.
 

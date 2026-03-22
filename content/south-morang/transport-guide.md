@@ -4,15 +4,22 @@ description: "Public transport in South Morang: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "south-morang"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport South Morang Melbourne"
   - "commute from South Morang to city"
   - "South Morang train station"
+tags:
+  - "south-morang"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around South Morang — what works, what's annoying, and how long things actually take.
+The daily commute from South Morang has a personality all its own. It is polarizing.
 
 Check out our full [South Morang suburb guide](/south-morang/) for the complete picture.
 

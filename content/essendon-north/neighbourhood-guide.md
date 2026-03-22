@@ -4,13 +4,18 @@ description: "The insider's guide to Essendon North's different pockets, streets
 date: 2026-03-21
 suburb: "essendon-north"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "Essendon North neighbourhood guide"
   - "best streets in Essendon North"
   - "Essendon North areas"
   - "Essendon North pockets Melbourne"
+tags:
+  - "essendon-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Essendon North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

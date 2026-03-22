@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Oakleigh South? Parks, schools, safety
 date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Oakleigh South good for families"
   - "Oakleigh South family friendly"
   - "raising kids in Oakleigh South"
+tags:
+  - "oakleigh-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Oakleigh South with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

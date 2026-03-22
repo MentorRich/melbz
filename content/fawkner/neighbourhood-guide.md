@@ -4,13 +4,18 @@ description: "The insider's guide to Fawkner's different pockets, streets, and a
 date: 2026-03-21
 suburb: "fawkner"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Fawkner neighbourhood guide"
   - "best streets in Fawkner"
   - "Fawkner areas"
   - "Fawkner pockets Melbourne"
+tags:
+  - "fawkner"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Fawkner isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

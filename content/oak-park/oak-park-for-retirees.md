@@ -4,12 +4,16 @@ description: "Considering retirement in Oak Park? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "oak-park"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Oak Park retirees Melbourne"
   - "retiring in Oak Park"
   - "quiet suburbs Melbourne"
+tags:
+  - "oak-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Oak Park? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

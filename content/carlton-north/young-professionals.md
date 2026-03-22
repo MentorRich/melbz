@@ -3,19 +3,18 @@ title: "Carlton North for Young Professionals 2026: Lifestyle, Cost & Nightlife"
 slug: "young-professionals"
 date: 2026-03-21
 updated: 2026-03-21
-author: dani
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 suburb: "carlton-north"
 suburbs: ["carlton-north"]
 vertical: lifestyle
 tags: ["carlton-north", "young-professionals", "nightlife", "lifestyle"]
 description: "Carlton North for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent."
-cover_image: "https://images.pexels.com/photos/2203178/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/students.jpg"
 cover_alt: "Carlton North nightlife young professionals Melbourne"
 vibe_score: 79
 ---
 
-You're in your mid-20s to early-30s, you earn decent money but not Toorak money, and you want a suburb that has actual things to do after 6pm. Is Carlton North it?
+Thinking about Carlton North as a young professional? The answer depends on three things: your budget, your social life expectations, and your tolerance for commuting.
 
 ## The Young Professional Scorecard
 
@@ -68,4 +67,4 @@ Carlton North works for young professionals who prioritise food and walkability 
 
 ---
 
-*Living the young professional life in Carlton North? Tell us your experience — [hq@melbz101](mailto:hq@melbz101)*
+*Living the young professional life in Carlton North? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*

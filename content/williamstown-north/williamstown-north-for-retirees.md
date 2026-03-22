@@ -4,12 +4,16 @@ description: "Considering retirement in Williamstown North? Quiet streets, healt
 date: 2026-03-21
 suburb: "williamstown-north"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Williamstown North retirees Melbourne"
   - "retiring in Williamstown North"
   - "quiet suburbs Melbourne"
+tags:
+  - "williamstown-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Williamstown North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,16 +4,22 @@ description: "How expensive is Belgrave? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "belgrave"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Tom O'Brien"
 keywords:
   - "cost of living Belgrave Melbourne"
   - "how expensive is Belgrave"
   - "is Belgrave expensive to live in"
   - "Belgrave rent"
+tags:
+  - "belgrave"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Belgrave — no sugar-coating, no made-up figures.
+Belgrave living costs reflect its position in Melbourne property landscape. Here are the numbers that matter.
 
 Read our full [Belgrave suburb guide](/belgrave/) for the bigger picture.
 

@@ -1,12 +1,13 @@
 ---
 title: "Live Music Guide in Balaclava 2026"
 cover_image: "/images/balaclava/live-music.jpg"
-date: 2026-03-18
-author: lina
-author_image: "/images/authors/lina.jpg"
-description: "Where to find live music in Balaclava. Venues, gigs, and the best spots for everything from jazz to rock to DJ sets."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Lina Nguyen"
+description: "Where to find live music in Balaclava 2026. Intimate venues on Carlisle Street, jazz, rock, DJ sets, and the local gig scene near the station area."
 tags: ["balaclava", "live-music"]
-categories: ["live"]
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
+suburb: "balaclava"
 ---
 
 *Updated 18 March 2026 | Nightlife Writer*

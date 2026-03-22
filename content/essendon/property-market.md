@@ -4,13 +4,19 @@ description: "Thinking of buying in Essendon? What the market looks like, what t
 date: 2026-03-21
 suburb: "essendon"
 article_type: "property"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "buying in Essendon"
   - "Essendon property market"
   - "Essendon house prices"
   - "real estate Essendon Melbourne"
+tags:
+  - "essendon"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -80,3 +86,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Essendon:** [Essendon Suburb Guide](/essendon/) · [Essendon Cost of Living](/essendon/cost-of-living/) · [Essendon Neighbourhood Guide](/essendon/neighbourhood-guide/)
+
+---
+
+## Explore More of Essendon
+
+- [Essendon History](/essendon/history/)
+- [Essendon Rent Guide](/essendon/rent-guide/)
+- [Essendon Things To Do](/essendon/things-to-do/)
+- [Essendon Essendon For Retirees](/essendon/essendon-for-retirees/)
+- [Essendon Cost of Living](/essendon/cost-of-living/)
+- [Essendon Young Professionals Guide](/essendon/young-professionals/)
+- [Essendon Nightlife Guide](/essendon/nightlife-guide/)
+- [Essendon Transport Guide](/essendon/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Endeavour Hills Suburb Guide](/endeavour-hills/)
+- [Epping Suburb Guide](/epping/)
+- [Essendon North Suburb Guide](/essendon-north/)
+- [Essendon West Suburb Guide](/essendon-west/)

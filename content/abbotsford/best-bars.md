@@ -1,19 +1,14 @@
 ---
 title: "Best Bars in Abbotsford Melbourne"
-description: "The bar scene in Abbotsford: where to drink, what the vibe is, and the local spots worth knowing about."
-date: 2026-03-21
+description: "The bar scene in Abbotsford: where to drink, what the vibe is, and the local spots worth knowing about. Updated for 2026 with real local picks and honest adv."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
+cover_image: "/images/abbotsford/best-bars.jpg"
+cover_image_alt: "Best Bars in Abbotsford Melbourne"
 suburb: "abbotsford"
-article_type: "nightlife"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
-keywords:
-  - "best bars Abbotsford"
-  - "bars in Abbotsford Melbourne"
-  - "nightlife Abbotsford"
-  - "where to drink Abbotsford"
+tags: ["abbotsford", "best-bars"]
 ---
-
-
 ## The Drinking Scene in Abbotsford
 
 Abbotsford has a bar scene that reflects the suburb — not short on places to drink, with a mix of dive bars, wine spots, and proper cocktail joints. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
@@ -55,4 +50,6 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Abbotsford:** [Abbotsford Suburb Guide](/abbotsford/) · [Abbotsford Best Restaurants](/abbotsford/best-restaurants/) · [Abbotsford for Young Professionals](/abbotsford/abbotsford-for-young-professionals/)
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
+
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

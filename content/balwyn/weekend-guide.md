@@ -4,13 +4,19 @@ description: "Your weekend in Balwyn sorted — from morning coffee to Saturday 
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "weekend"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "what to do Balwyn this weekend"
   - "Balwyn weekend"
   - "things to do Balwyn Saturday"
   - "Balwyn Sunday plans"
+tags:
+  - "balwyn"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Balwyn does weekends well. Whether you're the type who plans every hour or prefe
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Balwyn's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/balwyn/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Balwyn's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Balwyn starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Balwyn starts slower. The [cafes](/balwyn/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Balwyn and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Balwyn does weekends well. Whether you're the type who plans every hour or prefe
 ---
 
 **More on Balwyn:** [Balwyn Suburb Guide](/balwyn/) · [Balwyn Things to Do](/balwyn/things-to-do/) · [Balwyn Best Restaurants](/balwyn/best-restaurants/)
+
+---
+
+## Explore More of Balwyn
+
+- [Balwyn History](/balwyn/history/)
+- [Balwyn Rent Guide](/balwyn/rent-guide/)
+- [Balwyn Balwyn For Retirees](/balwyn/balwyn-for-retirees/)
+- [Balwyn Balwyn For Young Professionals](/balwyn/balwyn-for-young-professionals/)
+- [Balwyn Things To Do](/balwyn/things-to-do/)
+- [Balwyn Cost of Living](/balwyn/cost-of-living/)
+- [Balwyn Neighbourhood Guide](/balwyn/neighbourhood-guide/)
+- [Balwyn Transport Guide](/balwyn/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

@@ -4,12 +4,16 @@ description: "Considering retirement in St Kilda West? Quiet streets, healthcare
 date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "St Kilda West retirees Melbourne"
   - "retiring in St Kilda West"
   - "quiet suburbs Melbourne"
+tags:
+  - "st-kilda-west"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in St Kilda West? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

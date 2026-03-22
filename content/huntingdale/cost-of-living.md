@@ -4,16 +4,22 @@ description: "How expensive is Huntingdale? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "huntingdale"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Huntingdale Melbourne"
   - "how expensive is Huntingdale"
   - "is Huntingdale expensive to live in"
   - "Huntingdale rent"
+tags:
+  - "huntingdale"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Huntingdale — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Huntingdale, here is exactly how far your dollar goes.
 
 Read our full [Huntingdale suburb guide](/huntingdale/) for the bigger picture.
 

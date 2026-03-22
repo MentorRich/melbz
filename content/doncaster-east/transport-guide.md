@@ -4,15 +4,22 @@ description: "Public transport in Doncaster East: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "doncaster-east"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Doncaster East Melbourne"
   - "commute from Doncaster East to city"
   - "Doncaster East train station"
+tags:
+  - "doncaster-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Doncaster East — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Doncaster East. Let us cut through the fluff.
 
 Check out our full [Doncaster East suburb guide](/doncaster-east/) for the complete picture.
 

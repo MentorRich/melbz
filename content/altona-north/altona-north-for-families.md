@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Altona North? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "altona-north"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Altona North good for families"
   - "Altona North family friendly"
   - "raising kids in Altona North"
+tags:
+  - "altona-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Altona North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

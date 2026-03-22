@@ -4,16 +4,22 @@ description: "How expensive is Lalor? Rent, daily costs, and how this Melbourne 
 date: 2026-03-21
 suburb: "lalor"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Lalor Melbourne"
   - "how expensive is Lalor"
   - "is Lalor expensive to live in"
   - "Lalor rent"
+tags:
+  - "lalor"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Lalor — no sugar-coating, no made-up figures.
+Living costs in Lalor have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Lalor suburb guide](/lalor/) for the bigger picture.
 

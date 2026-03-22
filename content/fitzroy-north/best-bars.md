@@ -1,58 +1,55 @@
 ---
-title: "Best Bars in Fitzroy North Melbourne"
-description: "The bar scene in Fitzroy North: where to drink, what the vibe is, and the local spots worth knowing about."
-date: 2026-03-21
+title: "Best Bars in Fitzroy North Melbourne — 2026 Guide"
+description: "The best bars in Fitzroy North for 2026. From Neighbourhood Wine on Reid Street to Long Play cocktails on Brunswick Street, these are the locals' picks."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
+cover_image: "/images/fitzroy-north/best-bars.jpg"
+cover_image_alt: "Brunswick Street Fitzroy North bar scene at night"
 suburb: "fitzroy-north"
-article_type: "nightlife"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-keywords:
-  - "best bars Fitzroy North"
-  - "bars in Fitzroy North Melbourne"
-  - "nightlife Fitzroy North"
-  - "where to drink Fitzroy North"
+tags: ["fitzroy-north", "bars", "nightlife", "brunswick-street"]
 ---
 
+Fitzroy North's bar scene is quieter than [Fitzroy](/fitzroy/best-bars/) proper but more interesting than it gets credit for. The drinking here happens along Brunswick Street's northern stretch, in the laneways off Scotchmer Street, and around the North Fitzroy Village on St Georges Road. These are neighbourhood bars — places where regulars outnumber visitors and the bartenders know your name.
 
-## The Drinking Scene in Fitzroy North
+### 1. Neighbourhood Wine
 
-Fitzroy North has a bar scene that reflects the suburb — not short on places to drink, with a mix of dive bars, wine spots, and proper cocktail joints. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
+**Address:** 1 Reid Street, Fitzroy North
+**Budget:** $14-$18 wines by the glass, small plates $12-$24
 
-## Types of Bars in Fitzroy North
+Neighbourhood Wine is exactly what the name says: a wine bar for the neighbourhood. Natural and low-intervention wines dominate, the by-the-glass selection rotates constantly, and the small plates are designed for sharing. The cheese and charcuterie board is the default order. The space is small and intimate, Reid Street is quiet, and it feels like you have discovered something even though it has been here for years.
 
-**The Local Pub** — Every suburb needs one (or three). Fitzroy North's pubs range from proper old-school locals to renovated versions that keep the character while adding a better tap list.
+### 2. Long Play Cafe-Bar
 
-**Wine Bars** — Small, intimate, usually with a great by-the-glass selection. The kind of place where the bar staff know what they're pouring and can actually help you choose.
+**Address:** 321 Brunswick Street, Fitzroy North
+**Budget:** $16-$22 cocktails, $5 coffee
 
-**Cocktail Spots** — Not as many as Fitzroy or Collingwood, but Fitzroy North has options that hold their own. Smaller, more personal, and you're not paying CBD prices.
+Coffee shop by day, cocktail bar by night. The cocktail menu is concise and well-executed, the espresso is punchy, and the transition from daytime to evening happens naturally. Window seats face Brunswick Street — good for people-watching. The back courtyard catches morning sun.
 
-**Beer Gardens** — Weather-dependent but essential for Melbourne summers. Some of Fitzroy North's best drinking happens outdoors when the weather cooperates.
+### 3. The Terminus Hotel
 
-**The All-Rounder** — The bar that works for everything: after-work drinks, catch-ups, first dates, Saturday nights. Reliable, never amazing, always good enough.
+**Address:** 643-645 Brunswick Street, Fitzroy North
+**Budget:** Pints $10-$12, cocktails $14-$18
 
-## When to Go
+The Terminus is primarily a pub, but the front bar on a Friday night functions as one of the best bar experiences in the inner north. VB and Carlton Draught for under $12, a jukebox with surprising depth, and a crowd that includes everyone from students to long-term locals.
 
-**After work (5-7pm)** — The sweet spot for most Fitzroy North bars. Happy hour-ish, relaxed, locals unwinding.
+### 4. The Delphi Tavern
 
-**Friday night** — The main strip fills up. Get in by 6pm or expect to wait. The energy is good though.
+**Address:** 379 Brunswick Street, Fitzroy North
+**Budget:** Ouzo from $8, wines $8-$14, beers $9-$12
 
-**Saturday** — Peak social time. Bars are full, atmosphere is high, expect queues at popular spots.
+Greek bar culture done right. The ouzo selection is the most extensive in the area. Greek wines alongside Victorian selections. The atmosphere on Sunday afternoons — lamb kleftiko, ouzo, and friends — is one of the best low-key drinking experiences in the inner north.
 
-**Sunday session** — Underrated. Some of Fitzroy North's bars do Sunday sessions that are genuinely great — more relaxed, often live music or DJs, and no Sunday scaries.
+## FAQ
 
-## What Makes Fitzroy North Different
+**Is Fitzroy North good for nightlife?** It is more of a pub and wine bar suburb. For late-night clubs and cocktail bars, head to nearby [Fitzroy](/fitzroy/) or [Collingwood](/collingwood/).
 
-Fitzroy North isn't trying to out-cool the inner-city bar hubs. The bars here work because they serve the locals first — they're places you'd go weekly, not Instagram destinations you visit once.
+**What is the best bar in Fitzroy North for a date?** Neighbourhood Wine on Reid Street — intimate, quiet, excellent wine list.
 
-That gives the suburb's bar scene an authenticity that more hyped areas often lack. The vibe is real because the people are regulars, not tourists.
+**Are Fitzroy North bars cheaper than Fitzroy?** Yes, 10-15% cheaper on average. Pints are under $12 at most pubs.
 
-## Tips
+## Verdict
 
-1. **Support the neighbourhood bar** — they're the ones that make the suburb
-2. **Try the local brewery tap** — if Fitzroy North has one, it's usually worth a visit
-3. **Weeknights are underrated** — fewer people, better service, same drinks
-4. **Ask the bartender** — they know what's good and what's not worth ordering
+Fitzroy North's bar scene is neighbourhood-first: wine bars on quiet streets, pub sessions at the Terminus, cocktails at Long Play. It is not trying to compete with [Fitzroy](/fitzroy/) or [Collingwood](/collingwood/) for nightlife credibility — it is doing its own thing, and doing it well.
 
----
-
-**More on Fitzroy North:** [Fitzroy North Suburb Guide](/fitzroy-north/) · [Fitzroy North Best Restaurants](/fitzroy-north/best-restaurants/) · [Fitzroy North for Young Professionals](/fitzroy-north/fitzroy-north-for-young-professionals/)
+**More on Fitzroy North:** [Fitzroy North nightlife guide](/fitzroy-north/nightlife-guide/) | [Best pubs in Fitzroy North](/fitzroy-north/best-pubs/) | [Fitzroy North suburb guide](/fitzroy-north/)

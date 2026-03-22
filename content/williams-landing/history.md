@@ -4,16 +4,22 @@ description: "The story of Williams Landing: from its origins to today. How this
 date: 2026-03-21
 suburb: "williams-landing"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Williams Landing Melbourne history"
   - "how has Williams Landing changed"
   - "Williams Landing gentrification"
   - "Williams Landing then and now"
+tags:
+  - "williams-landing"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Williams Landing's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Williams Landing was bushland and market gardens. The transformation tells a quintessentially Melbourne story.
 
 See our full [Williams Landing suburb guide](/williams-landing/) for the current picture.
 

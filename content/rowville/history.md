@@ -4,16 +4,22 @@ description: "The story of Rowville: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "rowville"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Rowville Melbourne history"
   - "how has Rowville changed"
   - "Rowville gentrification"
   - "Rowville then and now"
+tags:
+  - "rowville"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Rowville's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Rowville has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Rowville suburb guide](/rowville/) for the current picture.
 

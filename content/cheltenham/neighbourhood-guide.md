@@ -4,13 +4,18 @@ description: "The insider's guide to Cheltenham's different pockets, streets, an
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Cheltenham neighbourhood guide"
   - "best streets in Cheltenham"
   - "Cheltenham areas"
   - "Cheltenham pockets Melbourne"
+tags:
+  - "cheltenham"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Cheltenham isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

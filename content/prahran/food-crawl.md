@@ -1,25 +1,16 @@
 ---
 title: "Prahran Food Crawl 2026: Market to Chapel Street"
-cover_image: "/images/prahran/food-crawl.jpg"
-date: 2026-03-16
-author: tyler
-author_image: "/images/authors/tyler.jpg"
-tags: ["prahran", "food-crawl", "food"]
-categories: ["food"]
-description: "Prahran Food Crawl 2026: Market to Chapel Street"
+description: "A full-day Saturday food crawl through Prahran. From breakfast on Commercial Road to Prahran Market, Entrecote lunch, and dinner on Chapel Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Danny Park"
+cover_image: "/images/shared/melbourne-food.jpg"
+cover_image_alt: "Prahran Melbourne food crawl market and dining"
+suburb: "prahran"
+tags: ["melbourne", "prahran", "food-crawl", "food"]
 ---
 
-**Updated 16 March 2026 | Tyler James reporting**
-
-
-
-There's a version of Prahran where people just wander around..."
-
-*Updated 16 March 2026 | Tyler James reporting*
-
-# Prahran Food Crawl 2026: Market to Chapel Street
-
-*Updated 16 March 2026 | Tyler James reporting*
+*Updated March 2026 | Tyler James reporting*
 
 There's a version of Prahran where people just wander around Chapel Street buying things they don't need from shops they'll forget. That's fine. We're not here for that version.
 
@@ -91,7 +82,7 @@ Several spots along the Chapel Street corridor do exceptional pastries. A season
 
 ### Option C: The Quick Drink
 
-If your stomach is telling you "mate, no more food," pivot to a drink instead. A Spritz at one of the wine bars opening onto the street is a solid palate reset before dinner. [Windsor](/suburb/windsor) is just a short walk south if you want to extend the crawl to its neighbours — their Chapel Street extension has its own crop of bars worth exploring.
+If your stomach is telling you "mate, no more food," pivot to a drink instead. A Spritz at one of the wine bars opening onto the street is a solid palate reset before dinner. [Windsor](/windsor) is just a short walk south if you want to extend the crawl to its neighbours — their Chapel Street extension has its own crop of bars worth exploring.
 
 **Damage:** ~$8–$18 depending on your sweet-to-savoury ratio.
 
@@ -110,7 +101,7 @@ For something less theatrical, the Italian spots along the southern stretch of C
 
 ### The Wildcard: Windsor Border
 
-If you've still got room and energy, the [Windsor](/suburb/windsor) border is right there. Walk south five minutes and you'll hit a string of late-night spots serving everything from Thai to tacos. The overlap between Prahran and Windsor dining is one of Melbourne's best-kept food secrets — same postcodes, fewer tourists.
+If you've still got room and energy, the [Windsor](/windsor) border is right there. Walk south five minutes and you'll hit a string of late-night spots serving everything from Thai to tacos. The overlap between Prahran and Windsor dining is one of Melbourne's best-kept food secrets — same postcodes, fewer tourists.
 
 **Damage:** ~$40–$70 per person depending on venue and alcohol consumption.
 
@@ -130,7 +121,7 @@ Every crawl has gaps. Here's what we left out and why you might want to fill the
 
 ## How Prahran Compares to Its Neighbours
 
-Prahran sits in a golden triangle of Melbourne food. To the south, [Windsor](/suburb/windsor) brings a grittier, more experimental edge — think natural wine bars and late-night dumpling spots. To the east, [South Yarra](/suburb/south-yarra) goes upscale with its restaurants and cafés, catering to the post-gym brunch crowd with impressive consistency. To the north-east, [Armadale](/suburb/armadale) plays the sophisticated older sibling with its High Street strip — think wine bars with curated cheese boards and restaurants where the waitstaff know your name by the second visit.
+Prahran sits in a golden triangle of Melbourne food. To the south, [Windsor](/windsor) brings a grittier, more experimental edge — think natural wine bars and late-night dumpling spots. To the east, [South Yarra](/south-yarra) goes upscale with its restaurants and cafés, catering to the post-gym brunch crowd with impressive consistency. To the north-east, [Armadale](/armadale) plays the sophisticated older sibling with its High Street strip — think wine bars with curated cheese boards and restaurants where the waitstaff know your name by the second visit.
 
 Prahran's sweet spot is the mix: market culture, independent restaurants, and that Chapel Street energy that keeps things from getting too precious. It's not trying to be Armadale. It's not trying to be Windsor. It's just doing its own thing, and doing it well.
 
@@ -163,42 +154,26 @@ Their loss. More spanakopita for us.
 
 
 **Related reading:**
-- [The Windsor Food Scene: Late Nights and Bold Flavours](/suburb/windsor/food-guide)
-- [South Yarra Brunch: The Definitive 2026 Ranking](/suburb/south-yarra/brunch-guide)
-- [Armadale's High Street: Melbourne's Most Underrated Dining Strip](/suburb/armadale/dining)
-- [Prahran Market: A Local's Guide to Not Getting Ripped Off](/suburb/prahran/market-guide)
+- [The Windsor Food Scene: Late Nights and Bold Flavours](/windsor/food-guide)
+- [South Yarra Brunch: The Definitive 2026 Ranking](/south-yarra/brunch-guide)
+- [Armadale's High Street: Melbourne's Most Underrated Dining Strip](/armadale/dining)
+- [Prahran Market: A Local's Guide to Not Getting Ripped Off](/prahran/market-guide)
 
-### Featured Venues
+## FAQ
 
-- **Hawker Hall** at 98 Chapel St, Windsor, VIC 3181
-- **Entrecôte** at 142-144 Greville St, Prahran, VIC 3181
-- **Tokyo Tina** at 66A Chapel St, Windsor, VIC 3181
-- **Tall Timber** at 60 Commercial Rd, Prahran VIC 3181
-- **Journeyman** at 169 Chapel St, Prahran VIC 3181
-- **Oscar Cooper** at 160 Greville St, Prahran VIC 3181
-- **Dragon Hot Pot Prahran** at 180 Commercial Rd, Prahran VIC 3181
-- **Prahran Convenience Store (The Toastie Spot)** at 208 Commercial Rd, Prahran VIC 3181
-- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor VIC 3181
-- **Rice Paper Scissors** at 577 Chapel St, South Yarra, VIC 3141
+**How long does the Prahran food crawl take?**
+A full day: 8am breakfast through to 8-9pm dinner. Budget 10-12 hours with stops.
 
-### Key Highlights
+**How much does the Prahran food crawl cost?**
+$120-$180 per person including drinks. Split dishes at dinner to bring it closer to $100.
 
-- Prahran Market
-- Chapel Street shopping precinct
-- Grattan Gardens
+**Is Prahran Market open on Saturday?**
+Yes, 7am-5pm. Arrive before 9:30am to beat the crowds.
 
-### Suburb Vibe
+## The Verdict
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
+Prahran's food scene in 2026 is diverse, walkable, and stubbornly independent. This crawl takes a full Saturday if you do it right, and doing it right means slowing down and accepting that some of the best food in Melbourne is hiding in a suburb most people drive through.
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/prahran/](/prahran/)
-- [/prahran/hub](/prahran/hub)
+---
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Prahran:** [Market Guide](/prahran/market-guide/) | [Best Restaurants](/prahran/best-restaurants/) | [Cheap Eats](/prahran/cheap-eats/) | [Prahran Suburb Guide](/prahran/)

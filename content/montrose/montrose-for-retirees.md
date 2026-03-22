@@ -4,12 +4,16 @@ description: "Considering retirement in Montrose? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "montrose"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Montrose retirees Melbourne"
   - "retiring in Montrose"
   - "quiet suburbs Melbourne"
+tags:
+  - "montrose"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Montrose? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -1,22 +1,22 @@
 ---
 title: "Things To Do This Weekend in Brunswick East — 2026 Local Guide"
-cover_image: "/images/brunswick-east/things-to-do-this-weekend.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+cover_image: "/images/shared/weekend-activity.jpg"
+cover_image_alt: "Weekend crowd at CERES market in Brunswick East"
+tags:
+  - "brunswick-east"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
 ---
 
-suburb: "brunswick-east"
-vertical: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the things to do this weekend in Brunswick East. Our verified 2026 guide covers the best spots for locals."
-tags: ["brunswick-east"]
-categories: ["things"]
 # Things To Do This Weekend in Brunswick East
 
 Brunswick East doesn't shout about itself. It doesn't need to. While Brunswick's Lygon Street proper gets the tourist traffic and Fitzroy cops the Instagram crowds, Brunswick East quietly ticks along as one of Melbourne's best weekends-without-agenda suburbs. It's the kind of place where you walk out the front door on a Saturday morning with no plan and somehow end up at a vinyl record shop by 10am, eating sourdough toasties in a converted warehouse by 11, and sitting on the Lomond Hotel's beer garden lawn by 2pm with a cold pint while some band you've never heard of plays a set that absolutely rips.
 
-**Last updated: 16 March 2026** | **Brunswick East Vibe Score: 78/100 🟡 SOLID**
+**Last updated: 16 March 2026** | **Last updated: March 2026**
 
 Here's your weekend sorted — no group chat negotiations required.
 
@@ -79,8 +79,6 @@ Late-night transport: rideshare is your best bet after 11pm. The area is well-li
 
 Brunswick East is the suburb that reminds you why Melbourne's inner north is special. It doesn't need a marketing campaign or a rebrand — it just has good cafés, great bars, a pub that's been running since 1888, and the kind of Lygon Street strip that feels like it's actually for the people who live here, not the tourists passing through. If you've never made the trek past the Carlton end of Lygon, this weekend is the one to start.
 
-**Your Brunswick East Vibe Score this week: 78/100** — Autumn is prime time here. Get around it.
-
 
 ## Related Reading
 
@@ -90,7 +88,6 @@ Brunswick East is the suburb that reminds you why Melbourne's inner north is spe
 - [Brunswick East Rent Prices 2026](/brunswick-east/rent-prices/) — can you actually afford it?
 
 *Know a weekend spot we missed? Let us know.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
 ### Featured Venues
 
@@ -120,10 +117,9 @@ Brunswick East is the suburb that reminds you why Melbourne's inner north is spe
 - Culture: 8/10
 ## Related Articles
 
-- [/richmond/](/richmond/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+- [Richmond](/richmond/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

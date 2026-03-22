@@ -4,16 +4,22 @@ description: "How expensive is Glen Waverley? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "glen-waverley"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Glen Waverley Melbourne"
   - "how expensive is Glen Waverley"
   - "is Glen Waverley expensive to live in"
   - "Glen Waverley rent"
+tags:
+  - "glen-waverley"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Glen Waverley — no sugar-coating, no made-up figures.
+Rent in Glen Waverley tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Glen Waverley suburb guide](/glen-waverley/) for the bigger picture.
 

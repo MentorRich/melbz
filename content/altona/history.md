@@ -4,16 +4,22 @@ description: "The story of Altona: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "altona"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Altona Melbourne history"
   - "how has Altona changed"
   - "Altona gentrification"
   - "Altona then and now"
+tags:
+  - "altona"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Altona's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+The name Altona comes from a local landmark. But the real story is what happened after the suburb was named.
 
 See our full [Altona suburb guide](/altona/) for the current picture.
 

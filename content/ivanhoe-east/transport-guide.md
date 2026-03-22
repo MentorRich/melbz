@@ -4,15 +4,22 @@ description: "Public transport in Ivanhoe East: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Ivanhoe East Melbourne"
   - "commute from Ivanhoe East to city"
   - "Ivanhoe East train station"
+tags:
+  - "ivanhoe-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Ivanhoe East — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Ivanhoe East, you need to know what the daily commute actually looks like.
 
 Check out our full [Ivanhoe East suburb guide](/ivanhoe-east/) for the complete picture.
 

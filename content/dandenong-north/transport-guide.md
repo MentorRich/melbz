@@ -4,15 +4,22 @@ description: "Public transport in Dandenong North: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "dandenong-north"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Dandenong North Melbourne"
   - "commute from Dandenong North to city"
   - "Dandenong North train station"
+tags:
+  - "dandenong-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Dandenong North — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Dandenong North. Let us cut through the fluff.
 
 Check out our full [Dandenong North suburb guide](/dandenong-north/) for the complete picture.
 

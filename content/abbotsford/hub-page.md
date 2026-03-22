@@ -1,15 +1,15 @@
 ---
 title: "Abbotsford Melbourne Suburb Guide 2026: The Complete Picture"
+description: "Abbotsford Melbourne Suburb Guide 2026: The Complete Picture of Melbourne's underrated inner-east gem. Updated for 2026 with real local picks and honest advi."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 cover_image: "/images/abbotsford/hub-page.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+cover_image_alt: "Hub Page in Abbotsford Melbourne"
+suburb: "abbotsford"
 tags: ["abbotsford", "suburb-guide"]
-description: "Abbotsford Melbourne Suburb Guide 2026: The Complete Picture of Melbourne's underrated inner-east gem."
 ---
-
 ***Updated 16 March 2026 | Jack Morrison reporting***
-
 
 
 > 🚨 URGENCY BANNER: Rent data sourced from Victoria's official rental bonds database and realestate.com.au listings as of February 2026. Prices vary by property type and condition — these are median estimates for typical units and houses in Abbotsford. If you see a "bargain" significantly below these prices, it almost certainly has a problem the landlord isn't telling you about.
@@ -132,7 +132,7 @@ Abbotsford works if you want:
 - Good transport connections
 
 Abbotsford doesn't work if you want:
-- Buzzing nightlife in your suburb
+- Lively nightlife in your suburb
 - Modern apartment living
 - Parking convenience
 - A suburb that's "happening" every night
@@ -169,30 +169,3 @@ A bar scene. A cinema. A sense of "trendy" — this suburb is authentically itse
 
 
 *Jack Morrison is MELBZ's Suburb Profile Editor. He's lived in and around Abbotsford for years and can tell you exactly where to get the best pho without waiting in line. Follow the MELBZ weekly briefing for your suburb's Vibe Score, new openings, and community confessions.*
-
-### Key Highlights
-
-- Abbotsford Convent arts precinct
-- Collingwood Children's Farm
-- Victoria Street's authentic Vietnamese eateries
-- Yarra Trail river access
-- Historic St Mary's Church
-
-### Suburb Vibe
-
-- Food: 9/10 (Vietnamese is world-class)
-- Nightlife: 4/10 (quiet, residential)
-- Affordability: 7/10 (below [Richmond](/richmond), above [Collingwood](/collingwood))
-- Transport: 8/10 (train + tram, 15 min to CBD)
-- Community: 9/10 (genuine, established, diverse)
-- Overall: 7.5/10
-
-## Related Articles
-
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/richmond/](/richmond/)
-- [/abbotsford/](/abbotsford/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -1,29 +1,20 @@
 ---
 title: "Cost of Living in Coburg 2026: The Real Numbers"
-cover_image: "/images/coburg/cost-of-living.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["coburg", "cost-of-living", "property"]
-categories: ["property"]
-description: "Cost of Living in Coburg 2026: The Real Numbers"
+description: "Cost of living in Coburg 2026 — real rent, grocery, transport, and dining costs on Sydney Road. Monthly budget breakdowns for singles and couples."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/shared/cost-of-living.jpg"
+cover_image_alt: "Sydney Road Coburg shopping strip with grocers and cafes"
+suburb: "coburg"
+tags: ["coburg", "cost-of-living", "rent", "budget"]
 ---
 
-**Updated 16 March 2026 | Marcus Cole reporting**
 
-
-
-
-*Updated 16 March 2026 | Marcus Cole reporting*
-
-
-If you're thinking about moving to Coburg, or you alread..."
 # Cost of Living in Coburg 2026: The Real Numbers
 
-Updated 16 March 2026 | Marcus Cole reporting
 
-
-If you're thinking about moving to Coburg, or you already live there and want to know whether you're actually getting ahead, let's cut through the vibes and look at the numbers. I've been tracking Melbourne's inner-north suburbs for years, and Coburg sits in an interesting spot — cheaper than its neighbours but catching up fast.
+If you're thinking about moving to Coburg, or you already live there and want to know If you'''re actually getting ahead, let's cut through the vibes and look at the numbers. I've been tracking Melbourne's inner-north suburbs for years, and Coburg sits in an interesting spot — cheaper than its neighbours but catching up fast.
 
 Here's what it actually costs to live in Coburg in 2026. No fluff. No aspirational budgets for people earning $150K. Real numbers for real people.
 
@@ -199,42 +190,17 @@ If you're earning above $70K single or $110K as a household, Coburg is genuinely
 But Coburg gives you a better crack at it than most places inside the ring.
 
 
-*Marcus Cole writes about Melbourne property and cost of living for MELBZ. He has lived in four of the suburbs he covers and regrets leaving at least two of them. Follow him for more brutally honest suburb breakdowns.*
+## FAQ
 
-*Have a cost-of-living question about your suburb? [Rate your suburb](/rate) and we'll prioritise it for our next deep dive.*
+**How much does it cost to live in Coburg as a single person?**
+Roughly $3,345 per month including rent ($1,820 for a one-bedroom), groceries, transport, eating out, utilities, and entertainment.
 
-### Featured Venues
+**Is Coburg cheaper than Brunswick?**
+Yes — roughly 10-15% cheaper on rent, plus cheaper coffee and food along Sydney Road. That adds up to $2,000-$3,000 saved per year.
 
-- **Post Office Hotel** at 229-231 Sydney Rd, Coburg VIC 3058
-- **Half Moon Cafe** at 134 Sydney Rd, Coburg VIC 3058
-- **Zeytin** at 128 Sydney Rd, Coburg VIC 3058
-- **Code Black Coffee** at 15-17 Weston St, Brunswick VIC 3056
-- **Post Office Hotel** at 229-231 Sydney Rd, Coburg VIC 3058
-- **True North** at 2A Munro St, Coburg VIC 3058
-- **Half Moon Cafe** at 134 Sydney Rd, Coburg VIC 3058
-- **New Somali Kitchen** at 322 Sydney Rd, Coburg VIC 3058
-- **Coburg Kebab House** at 400 Sydney Rd, Coburg VIC 3058
-- **Half Moon Cafe** at 154 Sydney Rd, Coburg VIC 3058
+**What salary do I need for Coburg?**
+A single person needs roughly $65,000-$72,000 gross. A couple sharing a two-bedroom needs a combined $95,000-$110,000.
 
-### Key Highlights
+---
 
-- Coburg Lake Reserve
-- Pentridge Prison heritage site
-- Sydney Road shopping and dining strip
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/property/](/property/)
-- [/cost-of-living-melbourne/](/cost-of-living-melbourne/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Coburg:** [Coburg Rent Report](/coburg/rent-report/) · [Coburg Suburb Guide](/coburg/) · [Coburg for Young Professionals](/coburg/young-professionals/)

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Berwick? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "berwick"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Tom O'Brien"
 keywords:
   - "is Berwick good for families"
   - "Berwick family friendly"
   - "raising kids in Berwick"
+tags:
+  - "berwick"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Berwick with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

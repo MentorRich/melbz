@@ -4,13 +4,18 @@ description: "The insider's guide to Coolaroo's different pockets, streets, and 
 date: 2026-03-21
 suburb: "coolaroo"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Coolaroo neighbourhood guide"
   - "best streets in Coolaroo"
   - "Coolaroo areas"
   - "Coolaroo pockets Melbourne"
+tags:
+  - "coolaroo"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Coolaroo isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

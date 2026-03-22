@@ -1,16 +1,16 @@
 ---
-title: "Ormond Melbourne — Everything You Need to Know"
+title: "Ormond Melbourne — what you need"
 description: "The complete guide to Ormond. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "ormond"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Ormond Melbourne"
   - "what is Ormond like"
   - "ormond suburb"
   - "living in Ormond"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Village strip on North Road, level crossing gone, and a compact family suburb on the rise.

@@ -1,16 +1,16 @@
 ---
-title: "North Melbourne Melbourne — Everything You Need to Know"
+title: "North Melbourne Melbourne — what you need"
 description: "The complete guide to North Melbourne. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "North Melbourne Melbourne"
   - "what is North Melbourne like"
   - "north-melbourne suburb"
   - "living in North Melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Working-class roots with a growing cafe scene. Close to everything, still relatively affordable.

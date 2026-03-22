@@ -4,15 +4,22 @@ description: "Public transport in Heathmont: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "heathmont"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Heathmont Melbourne"
   - "commute from Heathmont to city"
   - "Heathmont train station"
+tags:
+  - "heathmont"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Heathmont — what works, what's annoying, and how long things actually take.
+Two words define transport in Heathmont: work in progress. Everything else is detail.
 
 Check out our full [Heathmont suburb guide](/heathmont/) for the complete picture.
 

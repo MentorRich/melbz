@@ -1,18 +1,11 @@
 ---
-title: "Camberwell for Families 2026: Schools, Parks & the Parent Verdict"
-slug: "family-guide"
+title: "Camberwell for Families 2026: Schools, Parks and the Parent Verdict"
 date: 2026-03-21
-updated: 2026-03-21
-author: kate
-author_image: "/images/authors/kate.jpg"
+author: "Kate Reynolds"
 suburb: "camberwell"
-suburbs: ["camberwell"]
-vertical: lifestyle
 tags: ["camberwell", "family-guide", "schools", "parks", "families"]
 description: "Is Camberwell good for families? Schools, parks, safety, activities and the honest parent review for 2026."
-cover_image: "https://images.pexels.com/photos/4695077/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Camberwell family friendly parks Melbourne"
-vibe_score: 77
+cover_image: "/images/camberwell/family-guide.jpg"
 ---
 
 Thinking about raising kids in Camberwell? Here's what parents actually need to know — not the real estate pitch, the reality.
@@ -43,15 +36,15 @@ Families feel safe here. The streets are well-lit, the community is active, and 
 
 ## Kid-Friendly Eating
 
-Most cafes in Camberwell are family-tolerant if not explicitly family-friendly. You'll find high chairs, kids' menus at the bigger spots, and at least a few places where a toddler meltdown won't get you death stares. The local bakeries are always a safe bet.
+Most [cafes](/camberwell/best-cafes/) in Camberwell are family-tolerant if not explicitly family-friendly. You'll find high chairs, kids' menus at the bigger spots, and at least a few places where a toddler meltdown won't get you death stares. The local bakeries are always a safe bet.
 
 ## Weekend Activities
 
 Weekends in Camberwell have genuine options. Local markets, community events, library programs, sporting clubs, and enough parks to rotate for variety. The council runs seasonal programs worth checking.
 
-## The Commute Factor
+## The [Commute](/camberwell/transport-guide/) Factor
 
-The commute from Camberwell matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the transport schedule against your actual school and work locations.
+The commute from Camberwell matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the [transport](/camberwell/transport-guide/) schedule against your actual school and work locations.
 
 See our [Camberwell Transport Guide](/camberwell/transport-guide/) for the full breakdown.
 
@@ -67,4 +60,24 @@ Camberwell is a genuinely excellent family suburb. Strong schools, safe streets,
 
 ---
 
-*Are you a Camberwell parent? Tell us what we missed — [hq@melbz101](mailto:hq@melbz101) or DM [@melbz101](https://instagram.com/melbz101).*
+*Are you a Camberwell parent? Tell us what we missed — [hq@melbz.com.au](mailto:hq@melbz.com.au) or DM [@melbz101](https://instagram.com/melbz101).*
+
+---
+
+## Explore More of Camberwell
+
+- [Camberwell History](/camberwell/history/)
+- [Camberwell Camberwell For Retirees](/camberwell/camberwell-for-retirees/)
+- [Camberwell Rent Guide](/camberwell/rent-guide/)
+- [Camberwell Things To Do](/camberwell/things-to-do/)
+- [Camberwell Cost of Living](/camberwell/cost-of-living/)
+- [Camberwell Young Professionals Guide](/camberwell/young-professionals/)
+- [Camberwell Nightlife Guide](/camberwell/nightlife-guide/)
+- [Camberwell Transport Guide](/camberwell/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Glen Iris Suburb Guide](/glen-iris/)

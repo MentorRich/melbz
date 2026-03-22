@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Caroline Springs? Parks, schools, safe
 date: 2026-03-21
 suburb: "caroline-springs"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Caroline Springs good for families"
   - "Caroline Springs family friendly"
   - "raising kids in Caroline Springs"
+tags:
+  - "caroline-springs"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Caroline Springs with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -1,18 +1,18 @@
 ---
 title: "Moving to Melbourne in 2026 — The Complete Guide"
-description: "Everything you need to know about moving to Melbourne. Suburbs, costs, transport, jobs, and the stuff nobody tells you."
+description: "what you need about moving to Melbourne. Suburbs, costs, transport, jobs, and the stuff nobody tells you."
 date: 2026-03-21
 article_type: "trending"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "moving to melbourne 2026"
   - "relocating to melbourne guide"
   - "new to melbourne"
   - "melbourne relocation tips"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Everything you need to know about moving to Melbourne. Suburbs, costs, transport, jobs, and the stuff nobody tells you.
+what you need about moving to Melbourne. Suburbs, costs, transport, jobs, and the stuff nobody tells you.
 
 ## Where to Start Looking — Melbourne's Best Intro Suburbs
 

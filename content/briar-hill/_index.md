@@ -1,16 +1,16 @@
 ---
-title: "Briar Hill Melbourne — Everything You Need to Know"
+title: "Briar Hill Melbourne — what you need"
 description: "The complete guide to Briar Hill. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "briar-hill"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Briar Hill Melbourne"
   - "what is Briar Hill like"
   - "briar-hill suburb"
   - "living in Briar Hill"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small, hilly pocket between Greensborough and Montmorency. Pure suburban quiet.

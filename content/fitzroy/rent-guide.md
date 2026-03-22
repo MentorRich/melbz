@@ -1,71 +1,101 @@
 ---
-title: "Renting in Fitzroy Melbourne — What You Need to Know"
-description: "The honest rental guide for Fitzroy. What to expect, where to look, and how the rental market actually works here."
+title: "Renting in Fitzroy — 2026 Guide"
+description: "What renting in Fitzroy actually costs in 2026. Median rents by property type, where to look, and the application tips that work."
 date: 2026-03-21
 suburb: "fitzroy"
 article_type: "housing"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
+cover_image: "/images/fitzroy/rent-guide.jpg"
 keywords:
   - "renting in Fitzroy"
   - "Fitzroy rental market"
   - "rent Fitzroy Melbourne"
   - "apartments Fitzroy"
+tags:
+  - "fitzroy"
+  - "rent"
+  - "property"
+  - "cost-of-living"
+  - "melbourne"
 ---
 
+Fitzroy's rental market is tight. The suburb's size (one square kilometre), location (four tram stops from the CBD), and lifestyle appeal mean vacancies sit around 1.5–2%, well below Melbourne's average. Good properties attract 15–30 applications. You need to be prepared.
 
-## Renting in Fitzroy — The Real Story
+## Current Rents — March 2026
 
-Looking to rent in Fitzroy? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
+| Property Type | Weekly [Rent](/fitzroy/cost-of-living/) (Median) | Monthly | Annual |
+|--------------|---------------------|---------|--------|
+| Studio | $350–$400 | $1,520–$1,735 | $18,200–$20,800 |
+| 1-bedroom apartment | $430–$480 | $1,865–$2,085 | $22,360–$24,960 |
+| 2-bedroom apartment | $570–$650 | $2,475–$2,825 | $29,640–$33,800 |
+| 2-bedroom terrace/house | $650–$800 | $2,825–$3,475 | $33,800–$41,600 |
+| 3-bedroom house | $750–$950 | $3,260–$4,130 | $39,000–$49,400 |
+| Share house (per room) | $220–$280 | $955–$1,215 | $11,440–$14,560 |
 
-See our full [Fitzroy Cost of Living](/fitzroy/cost-of-living/) guide for the broader picture.
+Prices vary by street and condition. A one-bedroom on a quiet back street like Napier or Gore runs cheaper than one directly above a [Brunswick](/brunswick/) Street shop. A renovated two-bedroom terrace near Edinburgh Gardens commands a premium.
 
-## The Rental Market Right Now
+## Where the Stock Is
 
-Melbourne's rental market is competitive, and Fitzroy reflects that. Good properties attract multiple applications, open inspections draw crowds, and you need to be prepared to act fast.
+**Brunswick Street** — Apartments above shops and in purpose-built blocks behind the main strip. Convenient, noisy, and mid-range for price.
 
-That said, Fitzroy has a steady flow of rental stock. Properties come up regularly across different price tiers, and if you're persistent and realistic, you'll find something.
+**Johnston Street (west end)** — Newer apartment buildings, some warehouse conversions. Quieter than Brunswick Street, slightly cheaper.
 
-## Types of Rentals Available
+**Napier/Gore/George Streets** — Terraces and cottages. The premium residential streets. Houses here rent fast and at the top of the range.
 
-**Studios and One-Bedders** — The solo renter's option. Available in purpose-built apartment blocks and converted older buildings. Location within Fitzroy matters more than the apartment itself.
+**Gertrude Street (east of Smith)** — Smaller apartments and terraces. Less foot traffic, more residential. Good value relative to the suburb.
 
-**Two-Bedroom Apartments** — The most in-demand category. Suits couples, professionals, and sharers. Competition is highest here because it's the sweet spot of space and affordability.
+**Rose Street precinct** — Warehouse conversions and loft-style apartments. Character properties that attract creative-industry tenants.
 
-**Three-Bedroom Houses/Townhouses** — Less common but they exist. Families and share houses compete for these. The backyard premium is real.
+## How to Get a Rental in Fitzroy
 
-**Share Houses** — Fitzroy has an active share house scene. More affordable, social, and a practical way to live in a suburb you couldn't afford alone.
+The market is competitive. Here's what actually works:
 
-## How to Actually Get a Rental in Fitzroy
+1. **Have your application ready before inspecting.** Pre-fill 2Apply or Ignite forms. Attach payslips (last 3 months), photo ID, rental ledger or references, and a personal cover letter. Apply the same day you inspect.
 
-1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental history. Pre-fill the Ignite or 2Apply forms.
+2. **Offer the asking rent or slightly above.** In a tight market, offering $10–$20/week above asking gets attention. Whether that's worth it depends on how badly you want the place.
 
-2. **Apply on the day of inspection** — Properties that sit for a week are rare. Same-day applications show you're serious.
+3. **Be flexible on lease start.** Offering to start sooner gives you an edge. Most landlords want gaps minimised.
 
-3. **Be realistic about your budget** — Work out your actual maximum, then search below that. Gives you room for inevitable rent increases.
+4. **Look beyond Domain and realestate.com.au.** Walk the streets — some landlords still put signs in windows. Check Fairy Floss Real Estate (Fitzroy-focused agency), local Facebook groups ("Fitzroy/[Collingwood](/collingwood/) Housemates"), and Flatmates.com.au for share houses.
 
-4. **Look beyond the main portals** — Walk the streets. Some landlords still put signs in windows. Community noticeboards and local Facebook groups catch listings the apps miss.
+5. **Inspect at different times.** A property that seems quiet at 11am Tuesday might be above a bar that pumps until 2am on Saturdays. Check noise levels before signing.
 
-5. **Be flexible on move-in dates** — Offering to start the lease sooner can give you an edge over applications with later start dates.
+## What to Watch For
 
-6. **Communicate well** — A brief personal note with your application explaining who you are and why you want the property genuinely helps. Agents read them.
+- **Damp in older buildings** — Check bathroom ventilation, window seals, and any musty smell. Some pre-war buildings in Fitzroy have persistent moisture issues.
+- **Street noise** — Properties on Brunswick Street, Smith Street, and Johnston Street cop traffic and bar noise. Back units and upper floors are quieter.
+- **NBN connection type** — Check your specific address at nbnco.com.au. Not all buildings have fibre. FTTN connections can be slow.
+- **Parking** — If your rental doesn't include a space, you'll need a City of Yarra permit ($89/year) for street parking. Some streets are permit-only 24/7.
+- **Lease terms** — Standard is 12 months. Some landlords offer 6-month leases at a premium. Ask about rent review clauses.
 
-## What to Watch Out For
+## Share Houses
 
-- **Damp and ventilation** — Some older Fitzroy properties have moisture issues. Check bathroom fans, window seals, and any musty smells.
+Fitzroy's share house market is active. A room in a shared terrace or apartment runs $220–$280/week including bills in most cases. The culture is generally progressive, social, and pet-friendly (dogs more than cats, in our experience).
 
-- **Street noise** — Main strip properties are convenient but loud. Inspect at different times if possible. Friday 6pm tells you more than Tuesday 11am.
-
-- **Parking** — If your rental doesn't include parking, understand the street parking situation before signing. Some streets in Fitzroy require permits.
-
-- **Internet** — Check NBN availability and connection type for your specific address. Not all units in the same building get the same speeds.
-
-## Is Renting in Fitzroy Worth It?
-
-If you value what Fitzroy offers — the location, the community, the lifestyle — then yes. You'll pay a premium compared to outer suburbs, but you're buying convenience and quality of life.
-
-The key is matching your budget to realistic expectations. A smaller, well-located apartment in Fitzroy may serve you better than a bigger place further out that you never use the extra space in.
+Best places to find listings: Flatmates.com.au, Fairy Floss Real Estate, and the "Inner North Melbourne Housemates" Facebook group.
 
 ---
 
-**More on Fitzroy:** [Fitzroy Suburb Guide](/fitzroy/) · [Fitzroy Cost of Living](/fitzroy/cost-of-living/) · [Fitzroy for Young Professionals](/fitzroy/fitzroy-for-young-professionals/)
+**More from Fitzroy:** [Cost of Living](/fitzroy/cost-of-living/) · [Property Market](/fitzroy/property-market/) · [Young Professionals Guide](/fitzroy/young-professionals/)
+
+*Rental data from Domain, SQM Research, and local agent reports. March 2026.*
+
+---
+
+## Explore More of Fitzroy
+
+- [Fitzroy History](/fitzroy/history/)
+- [Fitzroy Things To Do This Weekend](/fitzroy/things-to-do-this-weekend/)
+- [Fitzroy Cheap Eats](/fitzroy/cheap-eats/)
+- [Fitzroy Suburb Roast](/fitzroy/suburb-roast/)
+- [Fitzroy Date Night Guide](/fitzroy/date-night/)
+- [Fitzroy New Openings](/fitzroy/new-openings/)
+- [Fitzroy Things To Do](/fitzroy/things-to-do/)
+- [Fitzroy Cost of Living](/fitzroy/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

@@ -4,16 +4,22 @@ description: "How expensive is Frankston? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "frankston"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Frankston Melbourne"
   - "how expensive is Frankston"
   - "is Frankston expensive to live in"
   - "Frankston rent"
+tags:
+  - "frankston"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Frankston — no sugar-coating, no made-up figures.
+Rent in Frankston tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Frankston suburb guide](/frankston/) for the bigger picture.
 

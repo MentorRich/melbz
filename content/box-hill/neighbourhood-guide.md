@@ -3,14 +3,13 @@ title: "Box Hill Neighbourhood Guide — Streets and Pockets"
 description: "The insider's guide to Box Hill's different pockets, streets, and areas. Which part suits who — from locals who know."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
-keywords:
-  - "Box Hill neighbourhood guide"
-  - "best streets in Box Hill"
-  - "Box Hill areas"
-  - "Box Hill pockets Melbourne"
+author: "Tyler James"
+tags:
+  - "box-hill"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Box Hill isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

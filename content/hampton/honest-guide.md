@@ -2,16 +2,13 @@
 title: "Hampton Honest Guide 2026: High Street South & Real Opinions"
 cover_image: "/images/hampton/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["hampton", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Hampton Honest Guide 2026: High Street South & Real Opinions"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -170,9 +167,8 @@ Every suburb guide on the internet reads like a real estate brochure. We're not 
 
 ## Related Articles
 
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/south-yarra/](/south-yarra/)
-- [/hampton/](/hampton/)
-- [/hampton/hub](/hampton/hub)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [South Yarra](/south-yarra/)
+- [Hampton](/hampton/)
+- [Hub](/hampton/hub)
 
-*Find more Melbourne content at [melbz.com.au](/)*

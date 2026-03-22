@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Clarinda? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "clarinda"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Clarinda good for families"
   - "Clarinda family friendly"
   - "raising kids in Clarinda"
+tags:
+  - "clarinda"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Clarinda with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -1,16 +1,16 @@
 ---
-title: "Epping Melbourne — Everything You Need to Know"
+title: "Epping Melbourne — what you need"
 description: "The complete guide to Epping. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "epping"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Epping Melbourne"
   - "what is Epping like"
   - "epping suburb"
   - "living in Epping"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Northern Hospital, Pacific Epping, and one of the north's main regional centres.

@@ -4,13 +4,19 @@ description: "Where to eat in Balwyn: the honest guide to the suburb's restauran
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "best-of"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "best restaurants Balwyn"
   - "where to eat Balwyn"
   - "dinner Balwyn Melbourne"
   - "restaurants near Balwyn"
+tags:
+  - "balwyn"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
@@ -56,4 +62,24 @@ The mid-range is where Balwyn shines — restaurants that care about quality but
 
 ---
 
-**More on Balwyn:** [Balwyn Suburb Guide](/balwyn/) · [Balwyn Best Cafes](/balwyn/best-cafes/) · [Balwyn Living Guide](/balwyn/living-in-balwyn/)
+**More on Balwyn:** [Balwyn Suburb Guide](/balwyn/) · [Balwyn Best Cafes](/balwyn/best-[cafes](/balwyn/best-cafes/)/) · [Balwyn Living Guide](/balwyn/living-in-balwyn/)
+
+---
+
+## Explore More of Balwyn
+
+- [Balwyn History](/balwyn/history/)
+- [Balwyn Rent Guide](/balwyn/rent-guide/)
+- [Balwyn Balwyn For Retirees](/balwyn/balwyn-for-retirees/)
+- [Balwyn Balwyn For Young Professionals](/balwyn/balwyn-for-young-professionals/)
+- [Balwyn Things To Do](/balwyn/things-to-do/)
+- [Balwyn Cost of Living](/balwyn/cost-of-living/)
+- [Balwyn Neighbourhood Guide](/balwyn/neighbourhood-guide/)
+- [Balwyn Transport Guide](/balwyn/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

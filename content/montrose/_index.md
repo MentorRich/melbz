@@ -1,16 +1,16 @@
 ---
-title: "Montrose Melbourne — Everything You Need to Know"
+title: "Montrose Melbourne — what you need"
 description: "The complete guide to Montrose. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "montrose"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Montrose Melbourne"
   - "what is Montrose like"
   - "montrose suburb"
   - "living in Montrose"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Montrose village, Silvan Reservoir trails, and a community on the edge of the hills.

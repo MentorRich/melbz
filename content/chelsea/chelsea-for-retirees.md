@@ -4,12 +4,16 @@ description: "Considering retirement in Chelsea? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "chelsea"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Chelsea retirees Melbourne"
   - "retiring in Chelsea"
   - "quiet suburbs Melbourne"
+tags:
+  - "chelsea"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Chelsea? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -3,14 +3,13 @@ title: "Cost of Living in Oakleigh 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "oakleigh"
 suburbs: ["oakleigh"]
 vertical: property
 tags: ["oakleigh", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Oakleigh in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/8836309/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Oakleigh Melbourne cost of living"
 vibe_score: 71
 ---
@@ -28,7 +27,7 @@ This is where most of your money goes. Oakleigh's rental market in 2026 looks li
 | 3-bed house | $576 | $29,952 | 19% below |
 | Share house (per room) | $184 | $9,568 | 19% below |
 
-**Pro tip:** If you're flexible on the exact street, prices can vary 15-20% within Oakleigh alone. The streets closer to transport and the main commercial strip command premium.
+**Pro tip:** If you're flexible on the exact street, prices can vary 15-20% within Oakleigh alone. The streets closer to [transport](/oakleigh/transport-guide/) and the main commercial strip command premium.
 
 ## Monthly Living Costs Breakdown
 
@@ -50,7 +49,7 @@ This is where most of your money goes. Oakleigh's rental market in 2026 looks li
 
 **Eating out:** The average meal out in Oakleigh runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/oakleigh/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Oakleigh, you're on the Zone 1/2 border, so check the exact station — it can make a $5/day difference. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Oakleigh, you're on the Zone 1/2 border, so check the exact station — it can make a $5/day difference. An annual Myki pass is the smart move if you [commute](/oakleigh/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,22 @@ For more context on how this compares, check our [Living in Oakleigh guide](/oak
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Oakleigh
+
+- [Oakleigh History](/oakleigh/history/)
+- [Oakleigh Young Professionals Guide](/oakleigh/young-professionals/)
+- [Oakleigh Oakleigh For Retirees](/oakleigh/oakleigh-for-retirees/)
+- [Oakleigh Transport Guide](/oakleigh/transport-guide/)
+- [Oakleigh Family Guide](/oakleigh/family-guide/)
+- [Oakleigh Honest Guide](/oakleigh/honest-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Nunawading Suburb Guide](/nunawading/)
+- [Oak Park Suburb Guide](/oak-park/)
+- [Oakleigh South Suburb Guide](/oakleigh-south/)
+- [Officer Suburb Guide](/officer/)

@@ -1,16 +1,16 @@
 ---
-title: "Box Hill South Melbourne — Everything You Need to Know"
+title: "Box Hill South Melbourne — what you need"
 description: "The complete guide to Box Hill South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Box Hill South Melbourne"
   - "what is Box Hill South like"
   - "box-hill-south suburb"
   - "living in Box Hill South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet pocket south of Box Hill with access to Gardiners Creek trail.

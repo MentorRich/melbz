@@ -1,17 +1,14 @@
 ---
 title: "Things To Do This Weekend in Abbotsford — 2026 Local Guide"
+description: "Discover the things to do this weekend in Abbotsford. Our verified 2026 guide covers the best spots for locals. Updated for 2026 with real local picks and ho."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Chen"
 cover_image: "/images/abbotsford/things-to-do-this-weekend.jpg"
----
-
+cover_image_alt: "Things To Do This Weekend in Abbotsford Melbourne"
 suburb: "abbotsford"
-vertical: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the things to do this weekend in Abbotsford. Our verified 2026 guide covers the best spots for locals."
 tags: ["abbotsford"]
-categories: ["things"]
+---
 ## The Best Things To Do This Weekend in Abbotsford
 
 There's a particular Saturday morning feeling in Abbotsford that you just don't get anywhere else in Melbourne. It's the sound of coffee grinders firing up at Au79 on Nicholson Street, the smell of woodfire pizza dough being prepped at the Studley Park Boathouse kitchen, and the sight of locals walking their greyhounds through the Yarra Bend Park fog like they're extras in some beautifully shot indie film.
@@ -97,42 +94,8 @@ The best thing about Abbotsford? You can have a completely different weekend her
 
 **Also explore:** [Collingwood weekend guide](/collingwood/things-to-do-this-weekend) · [Richmond weekend guide](/richmond/things-to-do-this-weekend) · [Fitzroy weekend guide](/fitzroy/things-to-do-this-weekend)
 
+---
 
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
 
-Living in Abbotsford? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=abbotsford)
-
-### Featured Venues
-
-- **Lygon Street Nursery & Cafe (Farm Vigano)** at 100-110 Farm Rd, Abbotsford VIC 3067
-- **Dr Morse Bar & Eatery** at 274 Johnston St, Abbotsford VIC 3067
-- **Retreat Hotel Abbotsford** at 226 Nicholson St, Abbotsford VIC 3067
-- **Lune Croissanterie** at 119 Rose St, Fitzroy/Abbotsford border, VIC 3065
-- **Dr. Morse Bar & Eatery** at 274 Johnston St, Abbotsford, VIC 3067
-- **Three Bags Full** at 60 Nicholson St, Abbotsford, VIC 3067
-- **Dr. Morse Bar & Eatery** at 274 Johnston St, Abbotsford VIC 3067
-- **Lentil As Anything (Abbotsford Convent)** at 1 St Heliers St, Abbotsford VIC 3067
-- **Bodriggy Brewing Company** at 245 Johnston St, Abbotsford VIC 3067
-- **Ichi Ni Nana Izakaya** at 127 Brunswick St, Fitzroy, VIC 3065
-
-### Key Highlights
-
-- Abbotsford Convent arts precinct
-- Collingwood Children's Farm
-- Victoria Street's authentic Vietnamese eateries
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

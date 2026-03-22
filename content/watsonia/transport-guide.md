@@ -4,15 +4,22 @@ description: "Public transport in Watsonia: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "watsonia"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Watsonia Melbourne"
   - "commute from Watsonia to city"
   - "Watsonia train station"
+tags:
+  - "watsonia"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Watsonia — what works, what's annoying, and how long things actually take.
+Your morning commute from Watsonia depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Watsonia suburb guide](/watsonia/) for the complete picture.
 

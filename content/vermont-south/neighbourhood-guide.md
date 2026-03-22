@@ -4,13 +4,18 @@ description: "The insider's guide to Vermont South's different pockets, streets,
 date: 2026-03-21
 suburb: "vermont-south"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Vermont South neighbourhood guide"
   - "best streets in Vermont South"
   - "Vermont South areas"
   - "Vermont South pockets Melbourne"
+tags:
+  - "vermont-south"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Vermont South isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

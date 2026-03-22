@@ -1,112 +1,99 @@
 ---
-title: "Transport Guide for Southbank"
+title: "Transport in Southbank 2026: Trams, Walking & the No-Car Lifestyle"
+description: "How to get around Southbank in 2026. No train station but Flinders Street five minutes away, tram 96 along Southbank Boulevard, tram 12 on Clarendon Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 cover_image: "/images/southbank/transport-guide.jpg"
-date: 2026-03-18
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["southbank", "transport-guide"]
-categories: ["transport"]
-description: "Transport Guide for Southbank"
+cover_image_alt: "Tram on Clarendon Street Southbank"
+suburb: "southbank"
+tags: ["southbank", "transport", "trams", "commute", "riverside"]
 ---
 
-*description: "18 March 2026 | Property Editor"*
+## Getting Around Southbank
 
+Southbank's transport story has one notable absence and one major strength. The absence: no dedicated train station. The strength: you can walk to virtually everything, including two major train stations.
 
-### Getting Around Southbank
+## Transport Scorecard
 
-Southbank's transport network makes it one of Melbourne's most accessible suburbs. Whether you're commuting to work, exploring the city, or heading out for leisure, getting around is straightforward.
+| Mode | Available | Quality | Notes |
+|------|-----------|---------|-------|
+| Train | No station | N/A | Flinders Street 5 min walk, Southern Cross 7 min |
+| Tram | Yes | Good | Route 96 (Southbank Blvd), Route 12 (Clarendon St) |
+| Bus | Limited | Average | Some routes along City Road |
+| Cycling | Yes | Good | Capital City Trail along the Yarra |
+| Walking | Yes | Excellent | CBD 10-15 min, South Melbourne 10 min |
+| Driving | Possible | Difficult | Parking scarce and expensive |
 
-**Train services** connect Southbank to Melbourne's CBD and outer suburbs. Peak services run frequently, with journey times to Flinders Street typically under 30 minutes.
+## Trams
 
-**Tram routes** serve the main commercial corridors, providing convenient access to shopping districts, entertainment venues, and neighbouring suburbs.
+**Route 96** along **Southbank Boulevard** — Connects to St Kilda (south) and the CBD/[East Melbourne](/east-melbourne/) (north). One of Southbank's most useful tram routes.
 
-**Bus services** fill gaps in the network, reaching residential areas not covered by train or tram. Many bus routes connect to major train stations for seamless city travel.
-
-**Cycling** is popular in Southbank, with dedicated bike lanes and relatively flat terrain making two-wheeled transport practical. Several bike storage facilities are available near train stations.
-
-**Driving** in Southbank requires attention to parking restrictions. Permit zones operate in residential areas during business hours, with timed parking on main streets.
-*Updated 18 March 2026 | Property Editor*
-
-# Transport Guide for Southbank
-
-Southbank's transport network is a model of urban connectivity, perfectly complementing its riverside lifestyle and cultural precinct status. As a Property Editor who's watched Melbourne's south side evolve, I can tell you that getting around Southbank and beyond is remarkably straightforward.
-
-## Tram Network: Your Best Friend
-
-The tram system is your primary transport option in Southbank. Route 1 runs along Southbank Boulevard, connecting you to St Kilda and beyond, while Route 12 takes you through the CBD to St Kilda via Fitzroy Street. Both routes offer frequent service throughout the day. The City Circle Tram (Route 35) provides free travel around the CBD and Southbank, making it perfect for visitors exploring the area's attractions.
-
-**Pro tip:** The tram stop at Southbank Boulevard near the Crown Entertainment Complex is one of the busiest in Melbourne. During major events, consider walking one stop north to Clarendon Street for a better chance of getting on.
+**Route 12** along **Clarendon Street** — Connects to South Melbourne and the CBD. Useful for accessing South Melbourne Market and the residential areas south.
 
 ## Train Access
 
-Southern Cross Station is your gateway to regional Victoria and beyond. It's just a 10-minute walk from Southbank's northern edge or a quick tram ride away. Flinders Street Station, Melbourne's busiest rail hub, sits directly opposite Southbank across the Yarra River, connected by convenient pedestrian bridges.
+Southbank has **no dedicated train station**. The nearest stations are:
+- **Flinders Street Station** — 5-minute walk across any pedestrian bridge. Access to all metropolitan lines.
+- **Southern Cross Station** — 7-minute walk. Regional services and some metro lines.
 
-## Cycling Infrastructure
+This is genuinely convenient — you're closer to Flinders Street than many suburbs that have their own station.
 
-Southbank's flat terrain and dedicated bike lanes make cycling a viable option. The Capital City Trail runs along the Yarra River, connecting Southbank to the CBD, Docklands, and inner suburbs. Melbourne Bike Share stations are scattered throughout the area, though many locals prefer using their own bikes.
+## Walking
 
-## Walking Connections
+Southbank is one of Melbourne's most walkable suburbs:
+- **CBD** — 10-15 minutes across Princes Bridge or the pedestrian bridges
+- **South Melbourne** — 10 minutes south via Clarendon Street
+- **Flinders Street Station** — 5 minutes
+- **Arts Precinct** — 5-10 minutes along Sturt Street
 
-The Southbank Promenade offers excellent pedestrian access along the Yarra River. The Evan Walker and Seafarers' bridges connect Southbank to Docklands, while the Princes Bridge provides a direct route to Flinders Street Station and Federation Square.
+## Cycling
 
-## Parking Considerations
+The **Capital City Trail** runs along the Yarra through Southbank. Dedicated cycling and walking path connecting east to the Botanic Gardens and west to [Docklands](/docklands/). Flat terrain, well-maintained. Bike parking is improving in newer buildings but still patchy in older ones.
 
-If you're driving, be aware that parking in Southbank can be expensive and limited. The Crown Casino complex offers paid parking, but rates can be steep. Many apartment buildings have secure parking, though spaces often come at a premium.
+## Driving and Parking
 
-## Transport Tips from a Local
+Most residents sell their cars after moving to Southbank. If you keep yours:
+- Street parking is virtually non-existent
+- Public carparks run $25-45/day
+- Apartment parking spaces cost $80-120/week (if separate from the lease)
+- Some newer buildings don't include parking at all
 
-- **Peak hours:** Trams can get extremely crowded during morning (8-9:30am) and evening (5-6:30pm) peak periods. Consider walking to the next stop to find space.
-- **Events:** During major events at the Melbourne Convention Centre or Arts Centre, allow extra time for transport as services can be busier than usual.
-- **Myki cards:** You'll need a Myki card for all public transport except the City Circle Tram. Purchase these at 7-Eleven stores or train stations.
-- **River taxis:** While not a primary transport option, river taxis operate along the Yarra, offering a scenic but pricey alternative to trams and trains.
+## FAQ
 
-## Future Developments
+**Does Southbank have a train station?**
+No. Flinders Street Station is a 5-minute walk across the river. Southern Cross Station is 7 minutes.
 
-The Metro Tunnel project, set to complete in 2025, will add a new underground station at Anzac Station near St Kilda Road, improving access to Southbank's southern areas. This development will significantly enhance the suburb's already impressive transport connectivity.
+**What tram routes serve Southbank?**
+Route 96 along Southbank Boulevard and Route 12 along Clarendon Street.
 
-Whether you're a resident or visitor, Southbank's transport options make it one of Melbourne's most accessible suburbs. The combination of trams, trains, cycling paths, and pedestrian connections means you're never far from your next destination.
+**Do I need a car in Southbank?**
+No. Most residents don't have one. Walking, trams, and cycling cover daily needs. Uber/taxis for everything else.
 
-### Featured Venues
+## The Verdict
 
-- **Rockpool Bar & Grill** at Crown Riverwalk, 8 Whiteman St, Southbank VIC 3006
-- **Pony Dining** at 25-27 Southgate Ave, Southbank VIC 3006
-- **Nobu Melbourne** at Crown Melbourne, 8 Whiteman St, Southbank VIC 3006
-- **Pantry Southbank** at 1/109-111 Clarendon St, Southbank VIC 3006
-- **Baseline Cafe** at 127-129 Southbank Blvd, Southbank VIC 3006
-- **Bondi & Bourke** at 100 Southbank Blvd, Southbank VIC 3006
-- **Ponyfish Island** at Southgate Pedestrian Bridge, Southbank VIC 3006
-- **Nando's Southbank** at 2/28-30 Southgate Ave, Southbank VIC 3006
-- **Grill'd Southbank** at Shop 1, 28-30 Southgate Ave, Southbank VIC 3006
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border)
+Southbank earns a solid **A-** for transport despite having no train station. The 5-minute walk to Flinders Street makes the absence academic. Tram routes 96 and 12 cover the main corridors. Walking is the primary transport mode — you're closer to the CBD than most inner suburbs. The Capital City Trail adds excellent cycling. The only transport cost that hurts is parking — if you insist on a car, budget $80-120/week for a space. For most Southbank residents, going car-free is the smart financial and practical decision.
 
-### Key Highlights
+---
 
-- Arts Centre Melbourne
-- Eureka Skydeck
-- Southbank Promenade
+*Transport data based on PTV timetables and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
 
-### Suburb Vibe
+---
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
+## Explore More of Southbank
 
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/southbank/](/southbank/)
-- [/st-kilda/](/st-kilda/)
-- [/transport/](/transport/)
+- [Southbank History](/southbank/history/)
+- [Southbank Late Night Eats](/southbank/late-night-eats/)
+- [Southbank Rent Guide](/southbank/rent-guide/)
+- [Southbank Southbank For Retirees](/southbank/southbank-for-retirees/)
+- [Southbank New Openings](/southbank/new-openings/)
+- [Southbank Things To Do](/southbank/things-to-do/)
+- [Southbank Cost of Living](/southbank/cost-of-living/)
+- [Southbank Young Professionals Guide](/southbank/young-professionals/)
 
-*Find more Melbourne content at [melbz.com.au](/)*
+### Nearby Suburbs Worth Checking
 
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.
+- [Melbourne CBD Suburb Guide](/melbourne-cbd/)
+- [Docklands Suburb Guide](/docklands/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

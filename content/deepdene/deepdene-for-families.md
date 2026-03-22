@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Deepdene? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "deepdene"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Deepdene good for families"
   - "Deepdene family friendly"
   - "raising kids in Deepdene"
+tags:
+  - "deepdene"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Deepdene with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

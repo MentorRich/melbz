@@ -1,16 +1,16 @@
 ---
 title: "Late Night Food in South Melbourne 2026: After the Market Closes"
 cover_image: "/images/south-melbourne/late-night-food-2026.jpg"
-date: 2026-03-16
-author: ethan
-author_image: "/images/authors/ethan.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
 tags: ["south-melbourne", "late-night", "food"]
-categories: ["food"]
-description: "Late Night Food in South Melbourne 2026: After the Market Closes"
+description: "Claypots Evening Star on Cecil Street, Honey Bar on Clarendon, and where to eat after the market closes. South Melbourne late-night food tested 2026."
+cover_image_alt: "South Melbourne street scene and local dining"
+suburb: "south-melbourne"
 ---
 
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
-
 
 
 South Melbourne Market shu..."
@@ -162,7 +162,7 @@ On-street parking is metered until 8:30pm, then free. The South Melbourne Market
 
 *Prices and hours are correct as of March 2026 but may change. We recommend calling ahead for kitchen closing times, especially on quieter weeknights. All venues were visited anonymously and paid for in full by MELBZ.*
 
-*Got a late-night South Melbourne spot we missed? Drop us a line at hq@melbz101 — we'll check it out.*
+*Got a late-night South Melbourne spot we missed? Drop us a line at hq@melbz.com.au — we'll check it out.*
 
 
 **Related Reading:**
@@ -172,38 +172,3 @@ On-street parking is metered until 8:30pm, then free. The South Melbourne Market
 - [South Yarra After Dark: Food & Drink Guide](/south-yarra/food-guide)
 - [St Kilda Late Night Eats](/st-kilda/late-night-eats)
 
-### Featured Venues
-
-- **Lume** at 226 Coventry St, South Melbourne VIC 3205
-- **Chez Dre** at 285-287 Coventry St, South Melbourne VIC 3205
-- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
-- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
-- **Dead Man Espresso** at 35的市场 St, South Melbourne VIC 3205
-- **Code Black Coffee** at 119 Howard St, North Melbourne (South Melbourne Satellite Location)
-- **South Melbourne Market Dim Sims** at 322-326 Coventry St, South Melbourne VIC 3205
-- **Proper & Son** at Shop 11, South Melbourne Market, Coventry St, South Melbourne VIC 3205
-- **Bambu Asian Eating House** at 283 Clarendon St, South Melbourne VIC 3205
-- **Lulu's Char Koay Teow** at 1/105-107 Market St, South Melbourne VIC 3205
-
-### Key Highlights
-
-- South Melbourne Market
-- Clarendon Street shopping precinct
-- The Australian Centre for Contemporary Art
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/fitzroy/](/fitzroy/)
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/south-melbourne/](/south-melbourne/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -4,13 +4,18 @@ description: "The insider's guide to Tullamarine's different pockets, streets, a
 date: 2026-03-21
 suburb: "tullamarine"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Tullamarine neighbourhood guide"
   - "best streets in Tullamarine"
   - "Tullamarine areas"
   - "Tullamarine pockets Melbourne"
+tags:
+  - "tullamarine"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Tullamarine isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

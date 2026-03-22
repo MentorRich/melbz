@@ -4,16 +4,22 @@ description: "The story of Malvern East: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "malvern-east"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Malvern East Melbourne history"
   - "how has Malvern East changed"
   - "Malvern East gentrification"
   - "Malvern East then and now"
+tags:
+  - "malvern-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Malvern East's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Malvern East was not always the place you see today. Its story starts well over a century ago, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Malvern East suburb guide](/malvern-east/) for the current picture.
 

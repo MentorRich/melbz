@@ -4,15 +4,22 @@ description: "Public transport in Surrey Hills: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "surrey-hills"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Surrey Hills Melbourne"
   - "commute from Surrey Hills to city"
   - "Surrey Hills train station"
+tags:
+  - "surrey-hills"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Surrey Hills — what works, what's annoying, and how long things actually take.
+Public transport in Surrey Hills has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Surrey Hills suburb guide](/surrey-hills/) for the complete picture.
 

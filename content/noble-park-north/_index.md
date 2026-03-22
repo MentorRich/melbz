@@ -1,16 +1,16 @@
 ---
-title: "Noble Park North Melbourne — Everything You Need to Know"
+title: "Noble Park North Melbourne — what you need"
 description: "The complete guide to Noble Park North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Noble Park North Melbourne"
   - "what is Noble Park North like"
   - "noble-park-north suburb"
   - "living in Noble Park North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet northern pocket with family housing and access to Waverley Gardens.

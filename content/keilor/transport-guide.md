@@ -4,15 +4,22 @@ description: "Public transport in Keilor: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "keilor"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Keilor Melbourne"
   - "commute from Keilor to city"
   - "Keilor train station"
+tags:
+  - "keilor"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Keilor — what works, what's annoying, and how long things actually take.
+Real talk about getting around Keilor: what the timetable says vs what actually happens.
 
 Check out our full [Keilor suburb guide](/keilor/) for the complete picture.
 

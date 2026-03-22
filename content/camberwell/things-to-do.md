@@ -3,14 +3,14 @@ title: "Things to Do in Camberwell Melbourne"
 description: "What to do in Camberwell this weekend and beyond. Activities, events, and the stuff locals actually enjoy."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "activities"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-keywords:
-  - "things to do Camberwell"
-  - "Camberwell activities"
-  - "what to do in Camberwell"
-  - "Camberwell weekend plans"
+author: "Oscar Tan"
+tags:
+  - "camberwell"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -53,7 +53,7 @@ More than you think. Camberwell Junction shopping, Sunday market, and heritage h
 
 Melbourne weather means you need indoor plans. Camberwell has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/camberwell/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +69,23 @@ Melbourne weather means you need indoor plans. Camberwell has:
 ---
 
 **More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) · [Camberwell Best Cafes](/camberwell/best-cafes/) · [Camberwell Neighbourhood Guide](/camberwell/neighbourhood-guide/)
+
+---
+
+## Explore More of Camberwell
+
+- [Camberwell History](/camberwell/history/)
+- [Camberwell Camberwell For Retirees](/camberwell/camberwell-for-retirees/)
+- [Camberwell Rent Guide](/camberwell/rent-guide/)
+- [Camberwell Cost of Living](/camberwell/cost-of-living/)
+- [Camberwell Young Professionals Guide](/camberwell/young-professionals/)
+- [Camberwell Nightlife Guide](/camberwell/nightlife-guide/)
+- [Camberwell Transport Guide](/camberwell/transport-guide/)
+- [Camberwell Best Cafes](/camberwell/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Glen Iris Suburb Guide](/glen-iris/)

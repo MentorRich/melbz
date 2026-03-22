@@ -4,15 +4,22 @@ description: "Public transport in Sunshine West: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "sunshine-west"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Sunshine West Melbourne"
   - "commute from Sunshine West to city"
   - "Sunshine West train station"
+tags:
+  - "sunshine-west"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Sunshine West — what works, what's annoying, and how long things actually take.
+Real talk about getting around Sunshine West: what the timetable says vs what actually happens.
 
 Check out our full [Sunshine West suburb guide](/sunshine-west/) for the complete picture.
 

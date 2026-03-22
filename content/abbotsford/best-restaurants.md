@@ -1,19 +1,14 @@
 ---
 title: "Best Restaurants in Abbotsford Melbourne"
-description: "Where to eat in Abbotsford: the honest guide to the suburb's restaurant scene, from weeknight dinners to special occasions."
-date: 2026-03-21
+description: "Where to eat in Abbotsford: the honest guide to the suburb's restaurant scene, from weeknight dinners to special occasions. Updated for 2026 with real local ."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Tan"
+cover_image: "/images/abbotsford/best-restaurants.jpg"
+cover_image_alt: "Best Restaurants in Abbotsford Melbourne"
 suburb: "abbotsford"
-article_type: "best-of"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-keywords:
-  - "best restaurants Abbotsford"
-  - "where to eat Abbotsford"
-  - "dinner Abbotsford Melbourne"
-  - "restaurants near Abbotsford"
+tags: ["abbotsford", "best-restaurants"]
 ---
-
-
 ## Eating Out in Abbotsford
 
 Abbotsford's restaurant scene reflects the suburb's personality. Brewery district vibes with Victoria Street's Vietnamese food strip and Yarra River trails. That translates into a food culture that's eclectic and adventurous.
@@ -56,4 +51,6 @@ The mid-range is where Abbotsford shines — restaurants that care about quality
 
 ---
 
-**More on Abbotsford:** [Abbotsford Suburb Guide](/abbotsford/) · [Abbotsford Best Cafes](/abbotsford/best-cafes/) · [Abbotsford Living Guide](/abbotsford/living-in-abbotsford/)
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
+
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

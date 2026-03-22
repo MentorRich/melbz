@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Clifton Hill? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Clifton Hill good for families"
   - "Clifton Hill family friendly"
   - "raising kids in Clifton Hill"
+tags:
+  - "clifton-hill"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Clifton Hill with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

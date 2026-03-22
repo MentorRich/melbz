@@ -1,16 +1,16 @@
 ---
-title: "Dandenong Melbourne — Everything You Need to Know"
+title: "Dandenong Melbourne — what you need"
 description: "The complete guide to Dandenong. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "dandenong"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Dandenong Melbourne"
   - "what is Dandenong like"
   - "dandenong suburb"
   - "living in Dandenong"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Dandenong Market, the Afghan precinct, and Victoria's most diverse regional centre after the CBD.

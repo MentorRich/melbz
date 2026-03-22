@@ -1,16 +1,16 @@
 ---
-title: "Cranbourne Melbourne — Everything You Need to Know"
+title: "Cranbourne Melbourne — what you need"
 description: "The complete guide to Cranbourne. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "cranbourne"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Cranbourne Melbourne"
   - "what is Cranbourne like"
   - "cranbourne suburb"
   - "living in Cranbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Botanic Gardens, train station, and the Casey corridor's established centre.

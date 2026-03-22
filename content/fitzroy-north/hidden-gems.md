@@ -1,22 +1,18 @@
 ---
-title: "Hidden Gems in Fitzroy North Melbourne — What Most People Miss"
-description: "The spots in Fitzroy North that don't make the top 10 lists but locals would fight to protect. Off the main strip, under the radar."
-date: 2026-03-21
+title: "Hidden Gems in Fitzroy North — What Most People Miss"
+description: "The spots in Fitzroy North that most visitors never find. Scotchmer Street delis, Edinburgh Gardens secret corners, and the side-street finds locals protect."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Tyler Nguyen"
+cover_image: "/images/fitzroy-north/hidden-gems.jpg"
+cover_image_alt: "Quiet side street in Fitzroy North near Edinburgh Gardens"
 suburb: "fitzroy-north"
-article_type: "local-guide"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
-keywords:
-  - "hidden gems Fitzroy North"
-  - "secret spots Fitzroy North"
-  - "local tips Fitzroy North"
-  - "off beaten path Fitzroy North Melbourne"
+tags: ["fitzroy-north", "hidden-gems", "local-tips"]
 ---
 
+## Why [Fitzroy](/fitzroy/) North's Best Bits Are Hidden
 
-## Why Fitzroy North's Best Bits Are Hidden
-
-Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But Fitzroy North's real character lives in the places most visitors never find.
+Every Melbourne suburb has a public face — the main strip, the popular [cafes](/fitzroy-north/best-cafes/), the spots Google tells you about. But Fitzroy North's real character lives in the places most visitors never find.
 
 These aren't "hidden" because someone's keeping secrets. They're hidden because they don't advertise, they don't have social media strategies, and they rely entirely on word of mouth and repeat customers.
 
@@ -62,4 +58,24 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on Fitzroy North:** [Fitzroy North Suburb Guide](/fitzroy-north/) · [Fitzroy North History](/fitzroy-north/history/) · [Fitzroy North Living Guide](/fitzroy-north/living-in-fitzroy-north/)
+**More on Fitzroy North:** [Fitzroy North Suburb Guide](/fitzroy-north/) · [Fitzroy North History](/fitzroy-north/[history](/fitzroy-north/history/)/) · [Fitzroy North Living Guide](/fitzroy-north/living-in-fitzroy-north/)
+
+---
+
+## Explore More of Fitzroy North
+
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

@@ -4,13 +4,18 @@ description: "The insider's guide to Essendon West's different pockets, streets,
 date: 2026-03-21
 suburb: "essendon-west"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Essendon West neighbourhood guide"
   - "best streets in Essendon West"
   - "Essendon West areas"
   - "Essendon West pockets Melbourne"
+tags:
+  - "essendon-west"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Essendon West isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

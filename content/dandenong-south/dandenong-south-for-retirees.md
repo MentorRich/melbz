@@ -4,12 +4,16 @@ description: "Considering retirement in Dandenong South? Quiet streets, healthca
 date: 2026-03-21
 suburb: "dandenong-south"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Dandenong South retirees Melbourne"
   - "retiring in Dandenong South"
   - "quiet suburbs Melbourne"
+tags:
+  - "dandenong-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Dandenong South? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

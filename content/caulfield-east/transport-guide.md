@@ -4,15 +4,22 @@ description: "Public transport in Caulfield East: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "caulfield-east"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Caulfield East Melbourne"
   - "commute from Caulfield East to city"
   - "Caulfield East train station"
+tags:
+  - "caulfield-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Caulfield East — what works, what's annoying, and how long things actually take.
+Two words define transport in Caulfield East: train-dependent. Everything else is detail.
 
 Check out our full [Caulfield East suburb guide](/caulfield-east/) for the complete picture.
 

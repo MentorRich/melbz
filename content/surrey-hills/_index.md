@@ -1,16 +1,16 @@
 ---
-title: "Surrey Hills Melbourne — Everything You Need to Know"
+title: "Surrey Hills Melbourne — what you need"
 description: "The complete guide to Surrey Hills. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "surrey-hills"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Surrey Hills Melbourne"
   - "what is Surrey Hills like"
   - "surrey-hills suburb"
   - "living in Surrey Hills"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Village shopping strip, Union Road cafes, and a strong sense of old Melbourne community.

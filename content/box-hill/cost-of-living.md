@@ -3,17 +3,17 @@ title: "Cost of Living in Box Hill Melbourne"
 description: "How expensive is Box Hill? Rent, daily costs, and how this Melbourne suburb compares to its neighbours. The honest version."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-keywords:
-  - "cost of living Box Hill Melbourne"
-  - "how expensive is Box Hill"
-  - "is Box Hill expensive to live in"
-  - "Box Hill rent"
+author: "Maya Chen"
+tags:
+  - "box-hill"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Box Hill — no sugar-coating, no made-up figures.
+Rent in Box Hill tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Box Hill suburb guide](/box-hill/) for the bigger picture.
 

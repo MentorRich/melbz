@@ -4,16 +4,22 @@ description: "The story of Strathmore: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "strathmore"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Strathmore Melbourne history"
   - "how has Strathmore changed"
   - "Strathmore gentrification"
   - "Strathmore then and now"
+tags:
+  - "strathmore"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Strathmore's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Strathmore is a story of suburban evolution.
 
 See our full [Strathmore suburb guide](/strathmore/) for the current picture.
 

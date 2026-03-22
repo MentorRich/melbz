@@ -4,13 +4,19 @@ description: "The bar scene in Cheltenham: where to drink, what the vibe is, and
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "nightlife"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "best bars Cheltenham"
   - "bars in Cheltenham Melbourne"
   - "nightlife Cheltenham"
   - "where to drink Cheltenham"
+tags:
+  - "cheltenham"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 
@@ -55,4 +61,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham Best Restaurants](/cheltenham/best-restaurants/) · [Cheltenham for Young Professionals](/cheltenham/cheltenham-for-young-professionals/)
+**More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham Best Restaurants](/cheltenham/best-[restaurants](/cheltenham/best-restaurants/)/) · [Cheltenham for Young Professionals](/cheltenham/cheltenham-for-young-professionals/)
+
+---
+
+## Explore More of Cheltenham
+
+- [Cheltenham History](/cheltenham/history/)
+- [Cheltenham Rent Guide](/cheltenham/rent-guide/)
+- [Cheltenham Things To Do](/cheltenham/things-to-do/)
+- [Cheltenham Cost of Living](/cheltenham/cost-of-living/)
+- [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+- [Cheltenham Living In Cheltenham](/cheltenham/living-in-cheltenham/)
+- [Cheltenham Transport Guide](/cheltenham/transport-guide/)
+- [Cheltenham Best Cafes](/cheltenham/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

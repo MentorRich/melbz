@@ -1,12 +1,13 @@
 ---
 title: "Cheap Eats Under $20 in Brunswick East 2026"
 cover_image: "/images/brunswick-east/cheap-eats.jpg"
-date: 2026-03-16
-author: adam
-author_image: "/images/authors/adam.jpg"
+date: 2026-03-22
+author: "Adam Nowak"
+lastmod: 2026-03-22
+cover_image_alt: "Cheap eats on Lygon Street Brunswick East"
+suburb: "brunswick-east"
 tags: ["brunswick-east", "cheap-eats", "food"]
-categories: ["food"]
-description: "Cheap Eats Under $20 in Brunswick East 2026"
+description: "The best cheap eats in Brunswick East for 2026 — seven verified spots under twenty dollars on Lygon Street. Lebanese, Polish, Thai, and more."
 ---
 
 Brunswick East doesn't need a fancy introduction. If you've wandered up Lygon Street past the Carlton border and..."
@@ -124,7 +125,6 @@ The suburb's proximity to Brunswick, Fitzroy North, and Carlton means you can bu
 Brunswick East isn't trying to impress anyone. That's exactly why it's so good.
 
 
-
 ## 🗳️ Quick Poll
 
 **What's your go-to cheap eat in Brunswick East?**
@@ -156,10 +156,9 @@ Know someone who lives in Brunswick East and complains about prices? Forward the
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+- [South Yarra](/south-yarra/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

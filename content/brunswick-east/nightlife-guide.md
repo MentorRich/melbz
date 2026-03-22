@@ -1,24 +1,24 @@
 ---
 title: "Brunswick East After Dark — The Complete Nightlife Guide 2026"
-cover_image: "/images/brunswick-east/nightlife-guide.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+cover_image: "/images/shared/nightlife-bar.jpg"
+cover_image_alt: "Evening drinks at Howler bar and beer garden Brunswick East"
+tags:
+  - "brunswick-east"
+  - "nightlife"
+  - "bars"
+  - "entertainment"
+  - "melbourne"
 ---
 
-suburb: "brunswick-east"
-vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Brunswick East isn't Fitzroy, and it doesn't try to be. Here's your honest guide to drinking, dancing, and getting home safe in Melbourne's most underrated nightlife suburb."
-tags: ["brunswick-east"]
-categories: ["nightlife"]
 # Brunswick East After Dark — The Complete Nightlife Guide 2026
 
 Let's be honest: when someone says "nightlife in Melbourne," Brunswick East doesn't come to mind. Fitzroy has Smith Street. Carlton North has Lygon Street's late-night Italian scene. Even [Brunswick](/brunswick) proper claims the Sydney Road strip. But here's the thing — Brunswick East has been quietly building one of the most interesting, eclectic, and genuinely fun after-dark scenes in the inner north, and it's done it without the pretension or the bouncers.
 
 This is a suburb where you can start the night with a craft beer at a 350-seat brewery, wander to a Lebanese wine bar, end up at a dive bar playing Mario Kart, and be home in bed by midnight without feeling like you missed anything. That's not a lesser nightlife — that's a better one.
 
-**Last updated: 16 March 2026** | **Brunswick East Vibe Score: 78/100 🟢**
+**Last updated: 16 March 2026** | **Last updated: March 2026**
 
 Here's how to do Brunswick East after dark — and get home safe.
 
@@ -149,14 +149,11 @@ Brunswick East after dark is about quality over quantity. You won't find nightcl
 
 **If you only do one night:** Start at Bridge Road Brewers for a paddle, walk to Rocket Society for lamb skewers and Lebanese wine, finish at Creature Bar for cocktails and Jenga. Home by midnight. No regrets.
 
-**Your Brunswick East Vibe Score this week: 78/100** — The nightlife scene is maturing beautifully. East Brunswick Village has given the suburb a proper anchor, and the Lygon Street strip is developing a real identity.
-
 
 *Know a spot we missed? Let us know.*
 *Related reads: [Best Pubs in Brunswick East](/brunswick-east/best-pubs) | [Best Coffee in Brunswick East](/brunswick-east/best-coffee) | [Best Brunch in Brunswick East](/brunswick-east/best-brunch)*
 *Compare energy plans, internet, and insurance for your area at [CompareBlitz](https://compareblitz.com.au?suburb=brunswick-east)*
 
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
 ### Featured Venues
 
@@ -186,10 +183,9 @@ Brunswick East after dark is about quality over quantity. You won't find nightcl
 - Culture: 8/10
 ## Related Articles
 
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/carlton/](/carlton/)
+- [Richmond](/richmond/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

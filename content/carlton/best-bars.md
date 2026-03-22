@@ -1,58 +1,93 @@
 ---
-title: "Best Bars in Carlton Melbourne"
-description: "The bar scene in Carlton: where to drink, what the vibe is, and the local spots worth knowing about."
-date: 2026-03-21
+title: "Best Bars in Carlton 2026: Where Locals Actually Drink"
+description: "The best bars in Carlton for 2026, from Lygon Street wine bars to hidden cocktail spots on the side streets. Real venues, honest reviews from locals."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/shared/melbourne-nightlife.jpg"
+cover_image_alt: "Carlton Melbourne bar scene on Lygon Street"
 suburb: "carlton"
-article_type: "nightlife"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
-keywords:
-  - "best bars Carlton"
-  - "bars in Carlton Melbourne"
-  - "nightlife Carlton"
-  - "where to drink Carlton"
+tags: ["melbourne", "carlton", "bars"]
 ---
 
+Carlton's bar scene sits in the sweet spot between the CBD's polished cocktail temples and [Fitzroy](/fitzroy/)'s warehouse DJ sets. The bars here are neighbourhood places — spots where the bartender remembers your order, the wine list has been curated by someone who actually drinks wine, and nobody's trying to go viral. Here are the ones worth knowing about.
 
-## The Drinking Scene in Carlton
+## 1. Johnny's Green Room
 
-Carlton has a bar scene that reflects the suburb — not short on places to drink, with a mix of dive bars, wine spots, and proper cocktail joints. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
+**294 Lygon Street, Carlton**
 
-## Types of Bars in Carlton
+The rooftop that put Carlton on the after-dark map. Johnny's Green Room sits above the King and Godfree building and channels Italian beach-club energy with city views, spritzes on tap, and DJs on Friday and Saturday nights. The heated rooftop works year-round, and the Aperol Spritz ($18) is poured with enough conviction that you'll forget it's a weeknight.
 
-**The Local Pub** — Every suburb needs one (or three). Carlton's pubs range from proper old-school locals to renovated versions that keep the character while adding a better tap list.
+**Go for:** Rooftop drinks with friends on a warm evening. Arrive by 7pm or book ahead in summer.
 
-**Wine Bars** — Small, intimate, usually with a great by-the-glass selection. The kind of place where the bar staff know what they're pouring and can actually help you choose.
+## 2. Carlton Wine Room
 
-**Cocktail Spots** — Not as many as Fitzroy or Collingwood, but Carlton has options that hold their own. Smaller, more personal, and you're not paying CBD prices.
+**172 Lygon Street, Carlton**
 
-**Beer Gardens** — Weather-dependent but essential for Melbourne summers. Some of Carlton's best drinking happens outdoors when the weather cooperates.
+Small, intimate, and serious about wine without being serious about itself. The Carlton Wine Room has a European wine bar feel with a compact food menu designed to complement what's in the glass. The by-the-glass selection rotates regularly, and the staff are passionate enough to guide you without talking down. Sit at the bar if you're a couple — it's more intimate than the tables.
 
-**The All-Rounder** — The bar that works for everything: after-work drinks, catch-ups, first dates, Saturday nights. Reliable, never amazing, always good enough.
+**Go for:** First dates, quiet weeknight wines, and letting the staff choose your glass.
 
-## When to Go
+## 3. Gerald's Bar
 
-**After work (5-7pm)** — The sweet spot for most Carlton bars. Happy hour-ish, relaxed, locals unwinding.
+**Rathdowne Street, Carlton**
 
-**Friday night** — The main strip fills up. Get in by 6pm or expect to wait. The energy is good though.
+Zero pretension, excellent European wines, and a chalkboard menu that changes daily. Gerald's opens at 5pm and fills with the kind of crowd that knows what a skin-contact orange wine is but won't judge you for ordering a beer. The small plates are designed to keep you drinking, not to be a meal — though order enough of them and you'll leave well fed.
 
-**Saturday** — Peak social time. Bars are full, atmosphere is high, expect queues at popular spots.
+**Go for:** After-work drinks with someone who appreciates good wine.
 
-**Sunday session** — Underrated. Some of Carlton's bars do Sunday sessions that are genuinely great — more relaxed, often live music or DJs, and no Sunday scaries.
+## 4. Bar Bellamy
 
-## What Makes Carlton Different
+**Lygon Street, Carlton**
 
-Carlton isn't trying to out-cool the inner-city bar hubs. The bars here work because they serve the locals first — they're places you'd go weekly, not Instagram destinations you visit once.
+The Martini menu here is the best in the neighbourhood, and the devilled eggs ($12) are the perfect bar snack. Bar Bellamy has a mid-century cocktail bar feel — dim lighting, dark timber, and a bartender who takes their craft seriously without making a performance of it. The Negroni is textbook. The espresso martini is surprisingly restrained.
 
-That gives the suburb's bar scene an authenticity that more hyped areas often lack. The vibe is real because the people are regulars, not tourists.
+**Go for:** Cocktails that are actually well-made, not just expensive.
 
-## Tips
+## 5. Heartattack and Vine
 
-1. **Support the neighbourhood bar** — they're the ones that make the suburb
-2. **Try the local brewery tap** — if Carlton has one, it's usually worth a visit
-3. **Weeknights are underrated** — fewer people, better service, same drinks
-4. **Ask the bartender** — they know what's good and what's not worth ordering
+**329 Lygon Street, Carlton**
+
+This Lygon Street stalwart models itself on a Venetian cicchetti bar and transitions from daytime cafe to evening wine bar with the ease of someone who's been doing it for years. The natural wine list is well-curated, the cicchetti plates are perfect for grazing, and the mismatched furniture gives it the feel of a very stylish friend's living room. Come for coffee at 8am, come back for Nero d'Avola at 8pm.
+
+**Go for:** Natural wine and small plates on a Sunday evening.
+
+## FAQ
+
+### What time do bars close in Carlton?
+
+Most Carlton bars close between 11pm and midnight on weeknights, with Friday and Saturday extending to 1am at some venues. For later nights, the CBD and Fitzroy are a short tram ride away.
+
+### Is Carlton good for a bar crawl?
+
+Yes — Lygon Street and its side streets have enough variety within walking distance. Start at Bar Bellamy for cocktails, move to Carlton Wine Room for a glass of something interesting, and finish at Johnny's Green Room on the rooftop.
+
+## The Verdict
+
+Carlton's bar scene works because it serves the locals first. These aren't Instagram destinations you visit once — they're places you go weekly. The vibe is real because the people are regulars, not tourists. If you want craft cocktails and rooftop views, Carlton has them. If you want a quiet glass of wine with someone you actually want to talk to, it has that too.
+
+For Carlton's pub scene (different energy, different list), see our [best pubs in Carlton guide](/carlton/best-pubs/). For the full after-dark picture, check the [Carlton [nightlife](/carlton/nightlife-guide/) guide](/carlton/nightlife-guide/).
 
 ---
 
-**More on Carlton:** [Carlton Suburb Guide](/carlton/) · [Carlton Best Restaurants](/carlton/best-restaurants/) · [Carlton for Young Professionals](/carlton/carlton-for-young-professionals/)
+**More on Carlton:** [Carlton Suburb Guide](/carlton/) | [Best [Restaurants](/carlton/best-restaurants/) in Carlton](/carlton/best-restaurants/) | [Carlton for Young Professionals](/carlton/young-professionals/)
+
+---
+
+## Explore More of Carlton
+
+- [Carlton History](/carlton/history/)
+- [Carlton Things To Do This Weekend](/carlton/things-to-do-this-weekend/)
+- [Carlton Cheap Eats](/carlton/cheap-eats/)
+- [Carlton Rent Guide](/carlton/rent-guide/)
+- [Carlton Date Night Guide](/carlton/date-night/)
+- [Carlton Carlton For Retirees](/carlton/carlton-for-retirees/)
+- [Carlton New Openings](/carlton/new-openings/)
+- [Carlton Things To Do](/carlton/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

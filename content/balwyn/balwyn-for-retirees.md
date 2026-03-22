@@ -4,12 +4,16 @@ description: "Considering retirement in Balwyn? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Balwyn retirees Melbourne"
   - "retiring in Balwyn"
   - "quiet suburbs Melbourne"
+tags:
+  - "balwyn"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Balwyn? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

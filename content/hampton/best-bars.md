@@ -4,13 +4,19 @@ description: "The bar scene in Hampton: where to drink, what the vibe is, and th
 date: 2026-03-21
 suburb: "hampton"
 article_type: "nightlife"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "best bars Hampton"
   - "bars in Hampton Melbourne"
   - "nightlife Hampton"
   - "where to drink Hampton"
+tags:
+  - "hampton"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 
@@ -55,4 +61,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Hampton:** [Hampton Suburb Guide](/hampton/) · [Hampton Best Restaurants](/hampton/best-restaurants/) · [Hampton for Young Professionals](/hampton/hampton-for-young-professionals/)
+**More on Hampton:** [Hampton Suburb Guide](/hampton/) · [Hampton Best Restaurants](/hampton/best-[restaurants](/hampton/best-restaurants/)/) · [Hampton for Young Professionals](/hampton/hampton-for-young-professionals/)
+
+---
+
+## Explore More of Hampton
+
+- [Hampton History](/hampton/history/)
+- [Hampton Rent Guide](/hampton/rent-guide/)
+- [Hampton Things To Do](/hampton/things-to-do/)
+- [Hampton Cost of Living](/hampton/cost-of-living/)
+- [Hampton Young Professionals Guide](/hampton/young-professionals/)
+- [Hampton Transport Guide](/hampton/transport-guide/)
+- [Hampton Best Cafes](/hampton/best-cafes/)
+- [Hampton Best Restaurants](/hampton/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

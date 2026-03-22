@@ -4,16 +4,22 @@ description: "How expensive is Truganina? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "truganina"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Truganina Melbourne"
   - "how expensive is Truganina"
   - "is Truganina expensive to live in"
   - "Truganina rent"
+tags:
+  - "truganina"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Truganina — no sugar-coating, no made-up figures.
+Everyone asks how expensive is Truganina. The real answer depends on your lifestyle. Here is the data.
 
 Read our full [Truganina suburb guide](/truganina/) for the bigger picture.
 

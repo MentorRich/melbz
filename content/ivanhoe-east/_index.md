@@ -1,16 +1,16 @@
 ---
-title: "Ivanhoe East Melbourne — Everything You Need to Know"
+title: "Ivanhoe East Melbourne — what you need"
 description: "The complete guide to Ivanhoe East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Ivanhoe East Melbourne"
   - "what is Ivanhoe East like"
   - "ivanhoe-east suburb"
   - "living in Ivanhoe East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Exclusive hillside streets with river valley views and proximity to Kew and Heidelberg.

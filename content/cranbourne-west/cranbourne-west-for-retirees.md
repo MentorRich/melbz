@@ -4,12 +4,16 @@ description: "Considering retirement in Cranbourne West? Quiet streets, healthca
 date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Cranbourne West retirees Melbourne"
   - "retiring in Cranbourne West"
   - "quiet suburbs Melbourne"
+tags:
+  - "cranbourne-west"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Cranbourne West? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

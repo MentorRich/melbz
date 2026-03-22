@@ -4,16 +4,22 @@ description: "The story of Canterbury: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "canterbury"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Nadia Keane"
 keywords:
   - "Canterbury Melbourne history"
   - "how has Canterbury changed"
   - "Canterbury gentrification"
   - "Canterbury then and now"
+tags:
+  - "canterbury"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Canterbury's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+Canterbury was not always the place you see today. Its story starts well over a century ago, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Canterbury suburb guide](/canterbury/) for the current picture.
 

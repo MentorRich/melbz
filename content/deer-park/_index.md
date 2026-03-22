@@ -1,16 +1,16 @@
 ---
-title: "Deer Park Melbourne — Everything You Need to Know"
+title: "Deer Park Melbourne — what you need"
 description: "The complete guide to Deer Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "deer-park"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Deer Park Melbourne"
   - "what is Deer Park like"
   - "deer-park suburb"
   - "living in Deer Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Growing western suburb with station access, parks, and affordable family estates.

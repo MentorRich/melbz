@@ -4,12 +4,16 @@ description: "Considering retirement in Sunshine North? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "sunshine-north"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Sunshine North retirees Melbourne"
   - "retiring in Sunshine North"
   - "quiet suburbs Melbourne"
+tags:
+  - "sunshine-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Sunshine North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

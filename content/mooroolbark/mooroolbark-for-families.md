@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Mooroolbark? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "mooroolbark"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Mooroolbark good for families"
   - "Mooroolbark family friendly"
   - "raising kids in Mooroolbark"
+tags:
+  - "mooroolbark"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 Moving to Mooroolbark with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

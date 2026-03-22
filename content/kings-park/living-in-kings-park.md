@@ -4,12 +4,16 @@ description: "What's it really like living in Kings Park? Pros, cons, and the st
 date: 2026-03-21
 suburb: "kings-park"
 article_type: "living-in"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "living in Kings Park Melbourne"
   - "pros and cons of living in Kings Park"
   - "is Kings Park a good place to live"
+tags:
+  - "kings-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about moving to Kings Park? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ Affordable western suburb with community centre and basic amenities. That's the 
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Kings Park delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** You will find enough variety to keep things interesting, from solid weeknight options to places worth booking ahead for.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

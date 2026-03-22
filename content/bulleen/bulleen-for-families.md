@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Bulleen? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "bulleen"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Bulleen good for families"
   - "Bulleen family friendly"
   - "raising kids in Bulleen"
+tags:
+  - "bulleen"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Bulleen with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

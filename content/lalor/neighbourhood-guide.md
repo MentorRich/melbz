@@ -4,13 +4,18 @@ description: "The insider's guide to Lalor's different pockets, streets, and are
 date: 2026-03-21
 suburb: "lalor"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Lalor neighbourhood guide"
   - "best streets in Lalor"
   - "Lalor areas"
   - "Lalor pockets Melbourne"
+tags:
+  - "lalor"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Lalor isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

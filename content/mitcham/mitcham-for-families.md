@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Mitcham? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "mitcham"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "is Mitcham good for families"
   - "Mitcham family friendly"
   - "raising kids in Mitcham"
+tags:
+  - "mitcham"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Mitcham with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

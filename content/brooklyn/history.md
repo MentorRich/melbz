@@ -4,16 +4,22 @@ description: "The story of Brooklyn: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "brooklyn"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Brooklyn Melbourne history"
   - "how has Brooklyn changed"
   - "Brooklyn gentrification"
   - "Brooklyn then and now"
+tags:
+  - "brooklyn"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Brooklyn's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Brooklyn was a railway stop in open paddocks. The transformation tells a quintessentially Melbourne story.
 
 See our full [Brooklyn suburb guide](/brooklyn/) for the current picture.
 

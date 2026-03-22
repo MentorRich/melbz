@@ -4,15 +4,22 @@ description: "Public transport in St Kilda West: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport St Kilda West Melbourne"
   - "commute from St Kilda West to city"
   - "St Kilda West train station"
+tags:
+  - "st-kilda-west"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around St Kilda West — what works, what's annoying, and how long things actually take.
+Public transport in St Kilda West has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [St Kilda West suburb guide](/st-kilda-west/) for the complete picture.
 

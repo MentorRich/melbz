@@ -3,19 +3,18 @@ title: "Carlton North for Families 2026: Schools, Parks & the Parent Verdict"
 slug: "family-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: kate
-author_image: "/images/authors/kate.jpg"
+author: "Kate Sullivan"
 suburb: "carlton-north"
 suburbs: ["carlton-north"]
 vertical: lifestyle
 tags: ["carlton-north", "family-guide", "schools", "parks", "families"]
 description: "Is Carlton North good for families? Schools, parks, safety, activities and the honest parent review for 2026."
-cover_image: "https://images.pexels.com/photos/7628856/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/parks-gardens.jpg"
 cover_alt: "Carlton North family friendly parks Melbourne"
 vibe_score: 79
 ---
 
-Thinking about raising kids in Carlton North? Here's what parents actually need to know — not the real estate pitch, the reality.
+Thinking about raising kids in [Carlton](/carlton/) North? Here's what parents actually need to know — not the real estate pitch, the reality.
 
 ## The Parent Scorecard
 
@@ -24,14 +23,14 @@ Thinking about raising kids in Carlton North? Here's what parents actually need 
 | Schools | B+ | Decent schools, some travel required for top picks |
 | Parks & Playgrounds | A- | Excellent green spaces, well-maintained |
 | Safety | B+ | Normal Melbourne safety, exercise standard precautions |
-| Family Dining | A- | Plenty of family-friendly cafes and restaurants |
+| Family Dining | A- | Plenty of family-friendly [cafes](/carlton-north/best-cafes/) and [restaurants](/carlton-north/best-restaurants/) |
 | Activities | A | Active community programs, markets, weekend events |
 
 **Family Friendliness Grade: B+**
 
 ## Schools
 
-School options in Carlton North are adequate. You've got local primary schools within walking distance and secondary options accessible by a short commute. For the most competitive schools, some families look at neighbouring suburbs — but the local offerings do the job.
+School options in Carlton North are adequate. You've got local primary schools within walking distance and secondary options accessible by a short [commute](/carlton-north/transport-guide/). For the most competitive schools, some families look at neighbouring suburbs — but the local offerings do the job.
 
 ## Parks & Green Spaces
 
@@ -51,7 +50,7 @@ Weekends in Carlton North have genuine options. Local markets, community events,
 
 ## The Commute Factor
 
-The commute from Carlton North matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the transport schedule against your actual school and work locations.
+The commute from Carlton North matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the [transport](/carlton-north/transport-guide/) schedule against your actual school and work locations.
 
 See our [Carlton North Transport Guide](/carlton-north/transport-guide/) for the full breakdown.
 
@@ -67,4 +66,24 @@ Carlton North works for families but it's not a default family suburb. You'll fi
 
 ---
 
-*Are you a Carlton North parent? Tell us what we missed — [hq@melbz101](mailto:hq@melbz101) or DM [@melbz101](https://instagram.com/melbz101).*
+*Are you a Carlton North parent? Tell us what we missed — [hq@melbz.com.au](mailto:hq@melbz.com.au) or DM [@melbz101](https://instagram.com/melbz101).*
+
+---
+
+## Explore More of Carlton North
+
+- [Carlton North History](/carlton-north/history/)
+- [Carlton North Rent Guide](/carlton-north/rent-guide/)
+- [Carlton North Things To Do](/carlton-north/things-to-do/)
+- [Carlton North Cost of Living](/carlton-north/cost-of-living/)
+- [Carlton North Young Professionals Guide](/carlton-north/young-professionals/)
+- [Carlton North Nightlife Guide](/carlton-north/nightlife-guide/)
+- [Carlton North Transport Guide](/carlton-north/transport-guide/)
+- [Carlton North Best Cafes](/carlton-north/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Canterbury Suburb Guide](/canterbury/)
+- [Carlton Suburb Guide](/carlton/)
+- [Carnegie Suburb Guide](/carnegie/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)

@@ -4,16 +4,22 @@ description: "How expensive is Altona? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "altona"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Altona Melbourne"
   - "how expensive is Altona"
   - "is Altona expensive to live in"
   - "Altona rent"
+tags:
+  - "altona"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Altona — no sugar-coating, no made-up figures.
+Rent in Altona tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Altona suburb guide](/altona/) for the bigger picture.
 

@@ -4,16 +4,22 @@ description: "The story of Spotswood: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "spotswood"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Spotswood Melbourne history"
   - "how has Spotswood changed"
   - "Spotswood gentrification"
   - "Spotswood then and now"
+tags:
+  - "spotswood"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Spotswood's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Spotswood, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Spotswood suburb guide](/spotswood/) for the current picture.
 

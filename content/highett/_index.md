@@ -1,16 +1,16 @@
 ---
-title: "Highett Melbourne — Everything You Need to Know"
+title: "Highett Melbourne — what you need"
 description: "The complete guide to Highett. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "highett"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Highett Melbourne"
   - "what is Highett like"
   - "highett suburb"
   - "living in Highett"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Shopping strip revamp, apartment growth, and one of bayside's best value suburbs.

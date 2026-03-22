@@ -4,15 +4,22 @@ description: "Public transport in Blackburn South: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "blackburn-south"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Blackburn South Melbourne"
   - "commute from Blackburn South to city"
   - "Blackburn South train station"
+tags:
+  - "blackburn-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Blackburn South — what works, what's annoying, and how long things actually take.
+The transport story in Blackburn South is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Blackburn South suburb guide](/blackburn-south/) for the complete picture.
 

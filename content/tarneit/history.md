@@ -4,16 +4,22 @@ description: "The story of Tarneit: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "tarneit"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Tarneit Melbourne history"
   - "how has Tarneit changed"
   - "Tarneit gentrification"
   - "Tarneit then and now"
+tags:
+  - "tarneit"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Tarneit's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Tarneit means understanding where it came from. The history explains the character.
 
 See our full [Tarneit suburb guide](/tarneit/) for the current picture.
 

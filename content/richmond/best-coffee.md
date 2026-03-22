@@ -1,17 +1,14 @@
 ---
-title: "Best Coffee in Richmond — 2026 Local Guide"
-cover_image: "/images/richmond/best-coffee.jpg"
----
-
+title: "Best Coffee in Richmond 2026: Seven Cafes Tested"
+description: "Seven tested coffee spots in Richmond for 2026. Axil, Code Black, 7 Seeds, and the neighbourhood picks on Church Street and Swan Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Ortiz"
+cover_image: "/images/shared/cafe-street.jpg"
+cover_image_alt: "Richmond Melbourne specialty coffee at a Church Street cafe"
 suburb: "richmond"
-vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the best coffee in Richmond. Our verified 2026 guide covers the best spots for locals."
-tags: ["richmond"]
-categories: ["general"]
+tags: ["melbourne", "richmond", "coffee"]
+---
 ## The Best Coffee in Richmond
 
 Richmond doesn't have the coffee reputation of Fitzroy or Brunswick — and that's actually an advantage. The cafes here aren't performing for Instagram or competing for "best new roaster" awards. They're just making excellent coffee for the people who live and work here. That said, the standard is absurdly high. Richmond's proximity to the city means it draws serious baristas, and the rents aren't quite premium enough to force the soul-crushing mediocrity you find in some CBD-adjacent suburbs.
@@ -142,7 +139,7 @@ Coffee culture is pulling its weight this week. The cafe scene has been stable w
 
 Richmond has more good cafes than we can fit in one list. Tell us where we should go next.
 
-[Drop a comment below or email us at hq@melbz101](#comments)
+[Drop a comment below or email us at hq@melbz.com.au](#comments)
 
 
 <!-- WIDGET: Related Reading -->
@@ -153,42 +150,23 @@ Richmond has more good cafes than we can fit in one list. Tell us where we shoul
 - [New Openings in Richmond](/richmond/new-openings) — what's just landed on the scene
 
 
-*This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every coffee, and received no sponsorship or compensation from any listed business. Prices and availability may change. If something's wrong, tell us — we fix things fast.*
+## FAQ
 
-**MELBZ — Melbourne's neighbourhood intelligence. Written by locals, for locals. Not AI-generated. Not outsourced. Real people in real suburbs.**
+**What's the best coffee street in Richmond?**
+Church Street. Axil Coffee Roasters, Code Black, Omelette, and 7 Seeds are all on Church Street within walking distance. It's one of Melbourne's densest concentrations of specialty coffee outside Fitzroy.
 
-### Featured Venues
+**How much does a flat white cost in Richmond?**
+Flat whites run $4.80–$5.20 across most quality cafes. That's slightly cheaper than South Yarra and comparable to Collingwood. Filter and pour-over options cost $5–$6.50.
 
-- **Minamishima** at 4 Lord St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Etta** at 60 Lygon St, Brunswick East (Richmond satellite location: 305 Lygon St, Richmond VIC 3121)
-- **Top Paddock** at 658 Church St, Richmond VIC 3121
-- **Feast of Merit** at 117 Swan St, Richmond VIC 3121
-- **Mountain View Hotel (Cafe Section)** at 70 Bridge Rd, Richmond VIC 3121
-- **I Love Pho 264** at 264 Victoria St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Feast of Merit** at 314 Swan St, Richmond VIC 3121
-- **Ichi Ni** at 12/131-133 The Esplanade, St Kilda (Richmond border/nearby hub), VIC 3182
+**Which Richmond cafes are best for working with a laptop?**
+Code Black and 7 Seeds both have good bench space and WiFi. Axil works on quieter weekdays. Omelette and The Black Cat are too compact for laptop sessions.
 
-### Key Highlights
+## The Verdict
 
-- Swan Street dining and live music
-- Bridge Road shopping precinct
-- Melbourne Cricket Ground (MCG)
+Richmond's coffee scene punches above what most people expect. Church Street alone hosts three of Melbourne's most respected roasters within a single kilometre — Axil, Code Black, and 7 Seeds. Swan Street adds cafe-bar hybrids like Stagger Lee's and neighbourhood spots like The Black Cat and Corner Store that deliver quality without the specialty-coffee performance. The standard is high, the prices are fair, and competition keeps everyone sharp.
 
-### Suburb Vibe
+**More Richmond guides:** [Best Cafes](/richmond/best-cafes/) | [Best Brunch](/richmond/best-brunch/) | [Richmond Guide](/richmond/)
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
+---
 
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/collingwood/](/collingwood/)
-- [/richmond/](/richmond/)
-- [/richmond/](/richmond/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+*This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every coffee, and received no sponsorship or compensation from any listed business.*

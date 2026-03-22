@@ -4,12 +4,16 @@ description: "Considering retirement in Canterbury? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "canterbury"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Canterbury retirees Melbourne"
   - "retiring in Canterbury"
   - "quiet suburbs Melbourne"
+tags:
+  - "canterbury"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Canterbury? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

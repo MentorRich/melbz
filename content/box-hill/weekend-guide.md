@@ -3,14 +3,14 @@ title: "What to Do in Box Hill This Weekend"
 description: "Your weekend in Box Hill sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's East."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "weekend"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-keywords:
-  - "what to do Box Hill this weekend"
-  - "Box Hill weekend"
-  - "things to do Box Hill Saturday"
-  - "Box Hill Sunday plans"
+author: "Dani Reyes"
+tags:
+  - "box-hill"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +38,13 @@ Box Hill does weekends well. Whether you're the type who plans every hour or pre
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Box Hill's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/box-hill/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Box Hill's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Box Hill starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Box Hill starts slower. The [cafes](/box-hill/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Box Hill and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +62,23 @@ Box Hill does weekends well. Whether you're the type who plans every hour or pre
 ---
 
 **More on Box Hill:** [Box Hill Suburb Guide](/box-hill/) · [Box Hill Things to Do](/box-hill/things-to-do/) · [Box Hill Best Restaurants](/box-hill/best-restaurants/)
+
+---
+
+## Explore More of Box Hill
+
+- [Box Hill History](/box-hill/history/)
+- [Box Hill Rent Guide](/box-hill/rent-guide/)
+- [Box Hill Box Hill For Families](/box-hill/box-hill-for-families/)
+- [Box Hill Things To Do](/box-hill/things-to-do/)
+- [Box Hill Box Hill For Retirees](/box-hill/box-hill-for-retirees/)
+- [Box Hill Cost of Living](/box-hill/cost-of-living/)
+- [Box Hill Neighbourhood Guide](/box-hill/neighbourhood-guide/)
+- [Box Hill Transport Guide](/box-hill/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

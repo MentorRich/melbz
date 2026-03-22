@@ -4,13 +4,18 @@ description: "The insider's guide to St Albans's different pockets, streets, and
 date: 2026-03-21
 suburb: "st-albans"
 article_type: "neighbourhood"
-author: "dani"
-author_image: "/images/authors/dani.jpg" 
+author: "Dani Reyes"
 keywords:
   - "St Albans neighbourhood guide"
   - "best streets in St Albans"
   - "St Albans areas"
   - "St Albans pockets Melbourne"
+tags:
+  - "st-albans"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 St Albans isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

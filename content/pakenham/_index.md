@@ -1,16 +1,16 @@
 ---
-title: "Pakenham Melbourne — Everything You Need to Know"
+title: "Pakenham Melbourne — what you need"
 description: "The complete guide to Pakenham. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "pakenham"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Pakenham Melbourne"
   - "what is Pakenham like"
   - "pakenham suburb"
   - "living in Pakenham"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 End of the metro train line. Town centre, Main Street shops, and affordable houses at Melbourne's edge.

@@ -4,19 +4,25 @@ description: "The honest rental guide for Glen Iris. What to expect, where to lo
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "housing"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "renting in Glen Iris"
   - "Glen Iris rental market"
   - "rent Glen Iris Melbourne"
   - "apartments Glen Iris"
+tags:
+  - "glen-iris"
+  - "rent"
+  - "property"
+  - "cost-of-living"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Renting in Glen Iris — The Real Story
 
-Looking to rent in Glen Iris? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
+Looking to [rent](/glen-iris/cost-of-living/) in Glen Iris? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
 
 See our full [Glen Iris Cost of Living](/glen-iris/cost-of-living/) guide for the broader picture.
 
@@ -38,7 +44,7 @@ That said, Glen Iris has a steady flow of rental stock. Properties come up regul
 
 ## How to Actually Get a Rental in Glen Iris
 
-1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental history. Pre-fill the Ignite or 2Apply forms.
+1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental [history](/glen-iris/history/). Pre-fill the Ignite or 2Apply forms.
 
 2. **Apply on the day of inspection** — Properties that sit for a week are rare. Same-day applications show you're serious.
 
@@ -69,3 +75,23 @@ The key is matching your budget to realistic expectations. A smaller, well-locat
 ---
 
 **More on Glen Iris:** [Glen Iris Suburb Guide](/glen-iris/) · [Glen Iris Cost of Living](/glen-iris/cost-of-living/) · [Glen Iris for Young Professionals](/glen-iris/glen-iris-for-young-professionals/)
+
+---
+
+## Explore More of Glen Iris
+
+- [Glen Iris History](/glen-iris/history/)
+- [Glen Iris Glen Iris For Retirees](/glen-iris/glen-iris-for-retirees/)
+- [Glen Iris Things To Do](/glen-iris/things-to-do/)
+- [Glen Iris Cost of Living](/glen-iris/cost-of-living/)
+- [Glen Iris Young Professionals Guide](/glen-iris/young-professionals/)
+- [Glen Iris Transport Guide](/glen-iris/transport-guide/)
+- [Glen Iris Best Cafes](/glen-iris/best-cafes/)
+- [Glen Iris Best Restaurants](/glen-iris/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

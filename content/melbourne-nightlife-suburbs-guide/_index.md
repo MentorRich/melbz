@@ -3,13 +3,13 @@ title: "Best Suburbs for Nightlife in Melbourne 2026"
 description: "Where to go out in Melbourne — the suburb-by-suburb guide to bars, clubs, live music, and late-night culture."
 date: 2026-03-21
 article_type: "trending"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "best nightlife suburbs melbourne"
   - "bars suburbs melbourne"
   - "going out melbourne"
   - "nightlife guide melbourne 2026"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Where to go out in Melbourne — the suburb-by-suburb guide to bars, clubs, live music, and late-night culture.

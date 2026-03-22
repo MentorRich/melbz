@@ -4,15 +4,22 @@ description: "Public transport in Templestowe: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "templestowe"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Templestowe Melbourne"
   - "commute from Templestowe to city"
   - "Templestowe train station"
+tags:
+  - "templestowe"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Templestowe — what works, what's annoying, and how long things actually take.
+The transport story in Templestowe is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Templestowe suburb guide](/templestowe/) for the complete picture.
 

@@ -4,17 +4,24 @@ description: "Where to find the best coffee and cafes in Carlton North. Local pi
 date: 2026-03-21
 suburb: "carlton-north"
 article_type: "best-of"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "best cafes Carlton North"
   - "coffee Carlton North Melbourne"
   - "cafes near Carlton North"
   - "brunch Carlton North"
+tags:
+  - "carlton-north"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
-## The Cafe Scene in Carlton North
+## The Cafe Scene in [Carlton](/carlton/) North
 
 Carlton North takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
 
@@ -59,3 +66,23 @@ Carlton North's cafe scene is strong and growing. You won't struggle to find goo
 ---
 
 **More on Carlton North:** [Carlton North Suburb Guide](/carlton-north/) · [Carlton North Cost of Living](/carlton-north/cost-of-living/) · [Carlton North Neighbourhood Guide](/carlton-north/neighbourhood-guide/)
+
+---
+
+## Explore More of Carlton North
+
+- [Carlton North History](/carlton-north/history/)
+- [Carlton North Rent Guide](/carlton-north/rent-guide/)
+- [Carlton North Things To Do](/carlton-north/things-to-do/)
+- [Carlton North Cost of Living](/carlton-north/cost-of-living/)
+- [Carlton North Young Professionals Guide](/carlton-north/young-professionals/)
+- [Carlton North Nightlife Guide](/carlton-north/nightlife-guide/)
+- [Carlton North Transport Guide](/carlton-north/transport-guide/)
+- [Carlton North Best Restaurants](/carlton-north/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Canterbury Suburb Guide](/canterbury/)
+- [Carlton Suburb Guide](/carlton/)
+- [Carnegie Suburb Guide](/carnegie/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)

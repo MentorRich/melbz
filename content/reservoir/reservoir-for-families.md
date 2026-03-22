@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Reservoir? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Reservoir good for families"
   - "Reservoir family friendly"
   - "raising kids in Reservoir"
+tags:
+  - "reservoir"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Reservoir with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

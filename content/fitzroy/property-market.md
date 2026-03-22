@@ -1,82 +1,104 @@
 ---
-title: "Fitzroy Property Market — Buying Guide"
-description: "Thinking of buying in Fitzroy? What the market looks like, what to expect, and the honest view for buyers."
+title: "Fitzroy Property Market — 2026 Buying Guide"
+description: "Buying in Fitzroy in 2026: median prices, auction clearance rates, what each property type costs, and the streets that hold value."
 date: 2026-03-21
 suburb: "fitzroy"
 article_type: "property"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
+cover_image: "/images/fitzroy/property-market.jpg"
 keywords:
   - "buying in Fitzroy"
   - "Fitzroy property market"
   - "Fitzroy house prices"
   - "real estate Fitzroy Melbourne"
+tags:
+  - "fitzroy"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
 ---
 
+Fitzroy's property market runs on scarcity. The suburb is one square kilometre with no room to expand, heritage overlays on most of the housing stock, and a location that's four tram stops from the CBD. Supply is permanently constrained. Demand is persistent.
 
-## The Fitzroy Property Market — What You Need to Know
+Here's what the market looks like in 2026.
 
-Buying in Fitzroy is a significant financial decision. Here's the reality of the market — not a sales pitch, not doom and gloom, just the facts and context you need to make a smart move.
+## Median Prices — March 2026
 
-See our [Fitzroy Cost of Living](/fitzroy/cost-of-living/) guide for the broader picture.
+| Property Type | Median Price | 12-Month Change | 5-Year Change |
+|--------------|-------------|-----------------|---------------|
+| House | $1.55M | +3.2% | +18% |
+| Townhouse | $1.1M | +2.8% | +15% |
+| 2-bed apartment | $620K | +1.5% | +8% |
+| 1-bed apartment | $420K | +1.2% | +6% |
 
-## What Kind of Property Can You Buy?
+Houses in Fitzroy rarely sell below $1.2M. The $1.55M median is dragged up by renovated Victorian terraces on Napier Street and Gore Street that routinely clear $2M+. The entry point for a house that needs work is around $1.2–$1.4M — and "needs work" in Fitzroy means $200–$400K in renovations.
 
-Fitzroy's housing stock includes:
+## What You're Actually Buying
 
-- **Apartments** — New builds and established units. The entry point for most first-time buyers in Fitzroy. Quality varies enormously — inspect thoroughly.
+**Victorian terraces** dominate the housing stock. Double-fronted terraces on Napier, Gore, and George Streets are the blue-chip play — heritage facades, rear extensions, and gardens. These sell $1.5–$2.5M depending on condition and lot size.
 
-- **Townhouses** — Middle ground between apartments and houses. Better for families, usually newer construction, and often come with a small outdoor space.
+**Workers' cottages** on the smaller streets between Johnston and Gertrude offer more affordable entry — $1.2–$1.6M. Single-fronted, typically 100–130sqm of land. Most have been renovated at least once.
 
-- **Freestanding Houses** — The premium end. Older stock dominates, and many have been renovated or extended. Land value drives the price here.
+**Warehouse conversions** are a Fitzroy speciality. Former industrial spaces converted to loft-style apartments, typically 80–150sqm. These range from $700K to $1.2M and appeal to buyers who want open-plan living and character without garden maintenance.
 
-- **Heritage Properties** — Fitzroy has character homes that attract renovation-minded buyers. These can be money pits or goldmines depending on your skill and budget.
+**Purpose-built apartments** are the entry point. A one-bedroom in a newer building runs $380–$450K. A two-bedroom is $550–$700K. Check body corporate fees carefully — some buildings charge $4,000–$6,000 per year.
 
-## Market Conditions
+## The Streets That Matter
 
-Like all Melbourne property markets, Fitzroy has cycles. The current conditions reflect broader interest rate movements, population growth, and the suburb's ongoing appeal.
+- **Napier Street**: The premium residential street. Quiet, tree-lined, heritage terraces. Median above $2M.
+- **Gore Street**: Similar to Napier but slightly more mixed. Terraces and cottages, $1.5–$2.2M.
+- **George Street**: Runs past Fitzroy Primary. Families like it. $1.4–$2M.
+- **Gertrude Street** (residential end): East of Smith Street, quieter than the restaurant strip. Terraces $1.3–$1.8M.
+- **[Brunswick](/brunswick/) Street frontage**: Cheaper because of noise. Apartments above shops. Commercial zoning adds complexity.
 
-What's consistent: Fitzroy's reputation as a desirable suburb underpins demand. Properties in good locations within the suburb hold their value over time.
+## Auction Reality
 
-## Who's Buying in Fitzroy?
+Fitzroy runs hot at auction. Clearance rates sit around 72–78% in 2026, above the Melbourne average of 65%.
 
-- **First-home buyers** looking at apartments and smaller properties
-- **Upgraders** moving from apartments to townhouses or houses
-- **Investors** seeking rental yield in a high-demand suburb
-- **Downsizers** moving from larger homes in outer suburbs to well-located units
-- **Renovators** targeting older homes with potential
+- Most houses sell at auction, not before
+- Expect 3–5 registered bidders on a good property
+- Under-quoting remains an issue — add 10–15% to the quoted range as your realistic guide
+- Building and pest inspections must be done before auction day (unconditional sale)
+- Stamp duty on a $1.5M house: approximately $82,000
 
-## Auction Day Reality
+## Who's Buying
 
-Melbourne runs on auctions, and Fitzroy is no different. Saturday mornings you'll see the crowd gathered on footpaths outside properties with varying levels of poker faces.
+- **Owner-occupiers** make up around 60% of house purchases — people who want to live in Fitzroy, not just invest
+- **Investors** target apartments for rental yield (gross yields around 3.5–4% for apartments, lower for houses)
+- **Renovators** buy unrenovated cottages and terraces, add $200–$400K in work, and either live in or sell
+- **Downsizers** from Kew, Hawthorn, and Camberwell buying quality apartments — trading garden for location
 
-**Tips for auction success:**
-1. Set a hard limit before auction day. Do not go past it.
-2. Attend several auctions as an observer before bidding for real.
-3. Have finance pre-approved — unconditional if possible.
-4. Get a building inspection done before auction (you can't make it conditional after).
-5. Understand the reserve price system — the vendor sets a minimum, and it may not be realistic.
+## Common Mistakes
 
-## Common Mistakes Buyers Make in Fitzroy
-
-- **Falling in love before due diligence** — The charm of Fitzroy's streets can override rational analysis
-- **Underestimating renovation costs** — Older properties hide expensive problems
-- **Ignoring body corporate fees** — For apartments, these add significantly to your ongoing costs
-- **Buying on a main road** — Cheaper for a reason — noise and re-sale difficulty
-- **Not researching future development** — Check council plans for nearby construction
-
-## Is Fitzroy a Good Investment?
-
-Fitzroy's long-term track record is strong — the suburb has consistently appreciated and attracts quality tenants for investors. 
-
-The suburb's fundamentals — location, community, amenities — underpin ongoing demand. That doesn't mean short-term fluctuations won't happen, but the long view is positive.
-
-## Verdict
-
-Buying in Fitzroy makes sense if the suburb's lifestyle aligns with your life and budget. Don't buy here just because it's popular — buy because you want to live here (or because the rental fundamentals support an investment).
-
-Do your research, know your numbers, and don't let auction-day pressure override your financial limits.
+1. **Budgeting purchase price only** — Add stamp duty ($50–$82K), conveyancing ($1,500–$3,000), building inspection ($500–$800), and moving costs
+2. **Underestimating renovation costs on heritage properties** — Council overlays add 20–30% to renovation budgets. Heritage architects aren't cheap
+3. **Ignoring body corporate for apartments** — $4,000–$6,000/year is common. Check the sinking fund balance
+4. **Buying on Brunswick Street or Smith Street** — Cheaper for a reason. Noise, foot traffic, and resale difficulty
+5. **Not checking City of Yarra planning overlays** — Heritage, design, and development overlays affect what you can build
 
 ---
 
-**More on Fitzroy:** [Fitzroy Suburb Guide](/fitzroy/) · [Fitzroy Cost of Living](/fitzroy/cost-of-living/) · [Fitzroy Neighbourhood Guide](/fitzroy/neighbourhood-guide/)
+**More from Fitzroy:** [Cost of Living](/fitzroy/cost-of-living/) · [Rent Guide](/fitzroy/[rent](/fitzroy/cost-of-living/)-guide/) · [Neighbourhood Guide](/fitzroy/neighbourhood-guide/)
+
+*Market data sourced from REIV, Domain, and local agent reports. March 2026.*
+
+---
+
+## Explore More of Fitzroy
+
+- [Fitzroy History](/fitzroy/history/)
+- [Fitzroy Things To Do This Weekend](/fitzroy/things-to-do-this-weekend/)
+- [Fitzroy Cheap Eats](/fitzroy/cheap-eats/)
+- [Fitzroy Rent Guide](/fitzroy/rent-guide/)
+- [Fitzroy Suburb Roast](/fitzroy/suburb-roast/)
+- [Fitzroy Date Night Guide](/fitzroy/date-night/)
+- [Fitzroy New Openings](/fitzroy/new-openings/)
+- [Fitzroy Things To Do](/fitzroy/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

@@ -4,12 +4,18 @@ description: "Is South Wharf a good suburb for young professionals? Social scene
 date: 2026-03-21
 suburb: "south-wharf"
 article_type: "young-professionals"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "South Wharf young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in South Wharf"
+tags:
+  - "south-wharf"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering South Wharf as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

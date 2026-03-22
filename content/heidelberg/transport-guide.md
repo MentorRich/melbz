@@ -3,14 +3,13 @@ title: "Transport in Heidelberg 2026: Trains, Trams & the Commute Reality"
 slug: "transport-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 suburb: "heidelberg"
 suburbs: ["heidelberg"]
 vertical: lifestyle
 tags: ["heidelberg", "transport", "commute", "trains", "trams"]
 description: "How to get around Heidelberg in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/6043766/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Heidelberg Melbourne transport"
 vibe_score: 69
 ---
@@ -51,4 +50,22 @@ For the full picture of living here, check our [Living in Heidelberg guide](/hei
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Heidelberg
+
+- [Heidelberg History](/heidelberg/history/)
+- [Heidelberg Cost of Living](/heidelberg/cost-of-living/)
+- [Heidelberg Young Professionals Guide](/heidelberg/young-professionals/)
+- [Heidelberg Family Guide](/heidelberg/family-guide/)
+- [Heidelberg Honest Guide](/heidelberg/honest-guide/)
+- [Heidelberg Heidelberg For Retirees](/heidelberg/heidelberg-for-retirees/)
+
+### Nearby Suburbs Worth Checking
+
+- [Hawthorn East Suburb Guide](/hawthorn-east/)
+- [Heathmont Suburb Guide](/heathmont/)
+- [Heidelberg Heights Suburb Guide](/heidelberg-heights/)
+- [Heidelberg West Suburb Guide](/heidelberg-west/)

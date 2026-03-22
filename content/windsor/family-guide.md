@@ -1,70 +1,73 @@
 ---
-title: "Windsor for Families 2026: Schools, Parks & the Parent Verdict"
-slug: "family-guide"
-date: 2026-03-21
-updated: 2026-03-21
-author: kate
-author_image: "/images/authors/kate.jpg"
+title: "Windsor for Families 2026: Schools, Parks and the Parent Verdict"
+description: "Is Windsor good for families? Victoria Gardens playground, local primary schools, Chapel Street family dining, and the honest parent review for inner-south living."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kate Sullivan"
+cover_image: "/images/windsor/family-guide.jpg"
+cover_image_alt: "Families in Victoria Gardens Windsor playground"
 suburb: "windsor"
-suburbs: ["windsor"]
-vertical: lifestyle
 tags: ["windsor", "family-guide", "schools", "parks", "families"]
-description: "Is Windsor good for families? Schools, parks, safety, activities and the honest parent review for 2026."
-cover_image: "https://images.pexels.com/photos/6407028/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Windsor family friendly parks Melbourne"
-vibe_score: 78
 ---
 
-Thinking about raising kids in Windsor? Here's what parents actually need to know — not the real estate pitch, the reality.
+Thinking about raising kids in Windsor? Here is what parents actually need to know — not the real estate pitch, the reality.
 
 ## The Parent Scorecard
 
 | Category | Grade | Verdict |
 |----------|-------|---------|
 | Schools | B- | Limited options locally, families often look at nearby suburbs |
-| Parks & Playgrounds | B- | Limited green space, urban density trade-off |
-| Safety | B | Normal Melbourne safety, exercise standard precautions |
-| Family Dining | A- | Plenty of family-friendly cafes and restaurants |
-| Activities | B+ | Some local activities, check council programs |
+| Parks & Playgrounds | B | Victoria Gardens is solid but Windsor is not a green suburb |
+| Safety | B | Residential streets are fine, Chapel Street after midnight less so |
+| Family Dining | A- | Plenty of family-friendly cafes and restaurants on Chapel Street |
+| Activities | B+ | Good for a compact suburb, bigger outings need neighbouring areas |
 
-**Family Friendliness Grade: B-**
+**Family Friendliness Grade: B**
 
 ## Schools
 
-School options in Windsor are adequate. You've got local primary schools within walking distance and secondary options accessible by a short commute. For the most competitive schools, some families look at neighbouring suburbs — but the local offerings do the job.
+Windsor's local primary schools serve the suburb adequately, with Windsor Primary School on Albert Street being the main option. For secondary school, families typically look at the broader Prahran-South Yarra-St Kilda catchment, which includes some of Melbourne's better government and private schools. Check the Victorian Department of Education's school finder for current catchment boundaries — they change.
 
-## Parks & Green Spaces
+## Parks and Green Spaces
 
-Windsor has functional green space. There are parks for a morning run or a play with the kids, though it's not a suburb defined by its outdoor spaces. The council maintains what's there to a reasonable standard.
+**Victoria Gardens** is Windsor's main family park, sitting between Chapel Street and Punt Road. The playground is well-maintained, there is shade for supervising parents, and the space is big enough for kids to run without feeling hemmed in. Weekend mornings fill with families — it is the de facto community gathering spot.
 
-## Safety for Families
+The side streets off Chapel — particularly Albert Street and Union Street — are tree-lined and quiet enough for kids to scooter safely. Windsor is not a suburb defined by its green space, but Victoria Gardens covers the essentials.
 
-Standard Melbourne safety. Main commercial strips are busy and well-lit. Quieter residential streets vary after dark. Normal precautions apply.
+For bigger outdoor adventures, Albert Park and [St Kilda](/st-kilda/) beach are a short tram or bike ride away.
 
 ## Kid-Friendly Eating
 
-Most cafes in Windsor are family-tolerant if not explicitly family-friendly. You'll find high chairs, kids' menus at the bigger spots, and at least a few places where a toddler meltdown won't get you death stares. The local bakeries are always a safe bet.
+Chapel Street has genuinely family-friendly dining options:
 
-## Weekend Activities
+- **Franklin** (177 Chapel Street) — High chairs, space for prams, and food good enough that parents enjoy it too
+- **High Society** (246 Chapel Street) — The florist-cafe vibe gives kids something to look at, outdoor terrace is spacious
+- **Mr Mister** (228 Chapel Street) — Large space, generous portions, kid-friendly corn fritters
+- **The Railway Hotel** (29 Chapel Street) — Proper pub meals, kid-friendly before 6pm, the deck is great for families
+- **The Windsor Castle** (187 Chapel Street) — Sunday roast ($24) that works for the whole family
 
-Weekend activities in Windsor require some planning. There's enough locally to fill a Saturday morning, but for bigger outings, you'll likely head to neighbouring suburbs or the CBD. The local library and parks are reliable standbys.
+## Safety for Families
+
+The residential streets — Albert Street, Union Street, the blocks east of Chapel — are quiet, well-lit, and safe for families. Victoria Gardens is populated with families during daylight hours.
+
+The Chapel Street entertainment strip is the caveat. Friday and Saturday nights after midnight get rowdy. If you are renting with kids, choose a street a block or two off Chapel for peace of mind. See our [safety guide](/windsor/safety-guide/) for the full picture.
 
 ## The Commute Factor
 
-The commute from Windsor matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the transport schedule against your actual school and work locations.
+School drop-offs add 15-30 minutes to your morning. Windsor station on the Sandringham line and the 78 tram on Chapel Street both provide reliable commute options for working parents. If both parents work, check the before/after-school care availability at your chosen school — slots fill quickly.
 
-See our [Windsor Transport Guide](/windsor/transport-guide/) for the full breakdown.
+See our [Windsor transport guide](/windsor/transport-guide/) for the full breakdown.
 
-## The Family Verdict
+## FAQ
 
-Windsor suits a specific kind of family — the ones who prioritise inner-city access and culture over backyard space and school catchment prestige. It's not the easy choice, but the families who choose it tend to love it.
+**Is Windsor too noisy for families?** Not if you choose the right street. The residential blocks east of Chapel Street (Albert Street, Union Street) are significantly quieter than Chapel-facing properties.
 
-### Nearby Family-Friendly Suburbs
+**Are there playgroups in Windsor?** Yes. Check City of Stonnington and City of Port Phillip community services for current programs. The Windsor library also runs children's programs.
 
-- [Prahran](/prahran/family-guide/) — Family Friendliness: B-
-- [South Yarra](/south-yarra/family-guide/) — Family Friendliness: B-
-- [St Kilda](/st-kilda/family-guide/) — Family Friendliness: B
+**How does Windsor compare to [Prahran](/prahran/family-guide/) for families?** Similar — both are inner-suburb compromises between lifestyle and space. Prahran has slightly more green space. Windsor has better value dining and the train station.
 
----
+## Verdict
 
-*Are you a Windsor parent? Tell us what we missed — [hq@melbz101](mailto:hq@melbz101) or DM [@melbz101](https://instagram.com/melbz101).*
+Windsor suits families who prioritise inner-city access, walkability, and food culture over backyard space and school catchment prestige. Victoria Gardens provides the green space, Chapel Street provides the family dining, and the train station provides the commute. It is not the easy choice for families — but the families who choose it tend to love it.
+
+**More on Windsor:** [Windsor suburb guide](/windsor/) | [Windsor cost of living](/windsor/cost-of-living/) | [Windsor safety guide](/windsor/safety-guide/)

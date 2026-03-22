@@ -4,15 +4,22 @@ description: "Public transport in Garden City: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "garden-city"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Garden City Melbourne"
   - "commute from Garden City to city"
   - "Garden City train station"
+tags:
+  - "garden-city"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Garden City — what works, what's annoying, and how long things actually take.
+Public transport in Garden City has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Garden City suburb guide](/garden-city/) for the complete picture.
 

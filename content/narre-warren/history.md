@@ -4,16 +4,22 @@ description: "The story of Narre Warren: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "narre-warren"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Narre Warren Melbourne history"
   - "how has Narre Warren changed"
   - "Narre Warren gentrification"
   - "Narre Warren then and now"
+tags:
+  - "narre-warren"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Narre Warren's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Narre Warren has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Narre Warren suburb guide](/narre-warren/) for the current picture.
 

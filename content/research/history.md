@@ -4,16 +4,22 @@ description: "The story of Research: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "research"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Research Melbourne history"
   - "how has Research changed"
   - "Research gentrification"
   - "Research then and now"
+tags:
+  - "research"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Research's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Research comes from an Indigenous word. But the real story is what happened after the suburb was named.
 
 See our full [Research suburb guide](/research/) for the current picture.
 

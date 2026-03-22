@@ -4,15 +4,22 @@ description: "Public transport in Glen Eira: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "glen-eira"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Glen Eira Melbourne"
   - "commute from Glen Eira to city"
   - "Glen Eira train station"
+tags:
+  - "glen-eira"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Glen Eira — what works, what's annoying, and how long things actually take.
+Glen Eira sits south of the river, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Glen Eira suburb guide](/glen-eira/) for the complete picture.
 

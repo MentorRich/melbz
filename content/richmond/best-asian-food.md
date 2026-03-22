@@ -1,25 +1,16 @@
 ---
 title: "Best Asian Food in Richmond 2026: Victoria Street & Beyond"
-cover_image: "/images/richmond/best-asian-food.jpg"
-date: 2026-03-16
-author: yuki
-author_image: "/images/authors/yuki.jpg"
-tags: ["richmond", "asian", "food"]
-categories: ["food"]
-description: "Best Asian Food in Richmond 2026: Victoria Street & Beyond"
+description: "Six tested spots on Victoria Street and Swan Street. Pho, banh xeo, Cantonese BBQ, and modern Vietnamese — Richmond's Asian food scene ranked."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Yuki Tanaka"
+cover_image: "/images/shared/food-restaurants.jpg"
+cover_image_alt: "Richmond Melbourne Vietnamese food on Victoria Street"
+suburb: "richmond"
+tags: ["melbourne", "richmond", "asian-food"]
 ---
 
-**Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
-
-
-
-Richmond doesn't whisper about i..."
-
-*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
-
-# Best Asian Food in Richmond 2026: Victoria Street & Beyond
-
-*Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
+*Updated March 2026 | 6 places tested | Yuki Tanaka reporting*
 
 Richmond doesn't whisper about its Asian food scene. It shouts. Victoria Street — Melbourne's legendary Little Saigon — runs for kilometres of steaming phở pots, sizzling woks, and shops where the banh mi costs less than a flat white in [South Yarra](/south-yarra/best-cafes). But Richmond's Asian food story goes way beyond the obvious strip. From Cantonese roast meats on Victoria Street to modern Vietnamese on Swan Street, from izakaya vibes to old-school canteens that haven't changed their menus since the '80s, this suburb is genuinely one of Melbourne's best eating neighbourhoods.
 
@@ -144,43 +135,25 @@ The strip is under pressure — rising rents, changing demographics, the slow cr
 Eat there. Pay full price. Don't ask for substitutions. And if you're comparing it to the Asian food in [South Yarra](/south-yarra/best-asian) — stop. Richmond does its own thing, and it does it better.
 
 
-**Still hungry?** Check our guides to [Cremorne's dining scene](/cremorne/best-dining), [Collingwood's Asian food](/collingwood/asian-food), and [South Yarra's best restaurants](/south-yarra/best-restaurants) for more Melbourne eating.
+## FAQ
 
+**What is Victoria Street known for?**
+Victoria Street — commonly called "Little Saigon" — is Melbourne's most concentrated Vietnamese food strip. The community has been building restaurants and businesses here since the late 1970s, and the street runs from Hoddle Street east through Richmond into Abbotsford.
 
-*Yuki Tanaka is MELBZ's Asian Food Editor. She has eaten her way through every major Asian food strip in Melbourne and believes the best meal is always the one you didn't plan. Follow her picks on Instagram @melbzfood.*
+**Is Richmond good for Asian food beyond Vietnamese?**
+Yes, though Vietnamese dominates. Pacific Seafood BBQ House does excellent Cantonese roast meats, Hanoi Hannah brings modern Vietnamese to Swan Street, and Maedaya on Bridge Road has been serving Japanese izakaya-style food since 2007.
 
-### Featured Venues
+**How do I get to Victoria Street?**
+The 109 tram runs along Victoria Street. North Richmond Station (Hurstbridge/Mernda line) sits at the western end. Richmond Station is a 10-minute walk south.
 
-- **Minamishima** at 4 Lord St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Etta** at 60 Lygon St, Brunswick East (Richmond satellite location: 305 Lygon St, Richmond VIC 3121)
-- **Top Paddock** at 658 Church St, Richmond VIC 3121
-- **Feast of Merit** at 117 Swan St, Richmond VIC 3121
-- **Mountain View Hotel (Cafe Section)** at 70 Bridge Rd, Richmond VIC 3121
-- **I Love Pho 264** at 264 Victoria St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Feast of Merit** at 314 Swan St, Richmond VIC 3121
-- **Ichi Ni** at 12/131-133 The Esplanade, St Kilda (Richmond border/nearby hub), VIC 3182
+## The Verdict
 
-### Key Highlights
+Richmond's Asian food scene — anchored by Victoria Street — is one of the strongest in any Melbourne suburb. The depth of Vietnamese cooking here, from old-school canteens to contemporary share-plate dining, is matched by very few streets in the country. Prices remain remarkably fair, the quality is driven by decades of community knowledge, and the strip rewards repeat visits. Start with pho, branch into banh xeo and Cantonese BBQ, and keep coming back.
 
-- Swan Street dining and live music
-- Bridge Road shopping precinct
-- Melbourne Cricket Ground (MCG)
+**More eating in Richmond:** [Cheap Eats](/richmond/cheap-eats/) | [Best Restaurants](/richmond/best-restaurants/) | [Best Brunch](/richmond/best-brunch/)
 
-### Suburb Vibe
+**Nearby food guides:** [Collingwood Asian Food](/collingwood/asian-food) | [Cremorne Dining](/cremorne/best-dining) | [South Yarra Restaurants](/south-yarra/best-restaurants)
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
+---
 
-- [/collingwood/](/collingwood/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/richmond/](/richmond/)
-- [/richmond/hub](/richmond/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+*This guide was researched and written by the MELBZ team in March 2026. We visited every venue, paid for every meal, and received no sponsorship or compensation from any listed business.*

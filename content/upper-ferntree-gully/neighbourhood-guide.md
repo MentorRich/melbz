@@ -4,13 +4,18 @@ description: "The insider's guide to Upper Ferntree Gully's different pockets, s
 date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Upper Ferntree Gully neighbourhood guide"
   - "best streets in Upper Ferntree Gully"
   - "Upper Ferntree Gully areas"
   - "Upper Ferntree Gully pockets Melbourne"
+tags:
+  - "upper-ferntree-gully"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Upper Ferntree Gully isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

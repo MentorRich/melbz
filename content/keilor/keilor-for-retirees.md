@@ -4,12 +4,16 @@ description: "Considering retirement in Keilor? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "keilor"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Keilor retirees Melbourne"
   - "retiring in Keilor"
   - "quiet suburbs Melbourne"
+tags:
+  - "keilor"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Keilor? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

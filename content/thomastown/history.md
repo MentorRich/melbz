@@ -4,16 +4,22 @@ description: "The story of Thomastown: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "thomastown"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Thomastown Melbourne history"
   - "how has Thomastown changed"
   - "Thomastown gentrification"
   - "Thomastown then and now"
+tags:
+  - "thomastown"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Thomastown's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Thomastown means understanding where it came from. The history explains the character.
 
 See our full [Thomastown suburb guide](/thomastown/) for the current picture.
 

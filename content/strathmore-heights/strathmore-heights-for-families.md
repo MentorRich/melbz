@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Strathmore Heights? Parks, schools, sa
 date: 2026-03-21
 suburb: "strathmore-heights"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "is Strathmore Heights good for families"
   - "Strathmore Heights family friendly"
   - "raising kids in Strathmore Heights"
+tags:
+  - "strathmore-heights"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Strathmore Heights with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

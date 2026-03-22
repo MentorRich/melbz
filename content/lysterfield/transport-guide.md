@@ -4,15 +4,22 @@ description: "Public transport in Lysterfield: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "lysterfield"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Lysterfield Melbourne"
   - "commute from Lysterfield to city"
   - "Lysterfield train station"
+tags:
+  - "lysterfield"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Lysterfield — what works, what's annoying, and how long things actually take.
+If you are car-dependent, Lysterfield might surprise you. If you rely on PT, read this first.
 
 Check out our full [Lysterfield suburb guide](/lysterfield/) for the complete picture.
 

@@ -4,15 +4,22 @@ description: "Public transport in Dallas: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "dallas"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Dallas Melbourne"
   - "commute from Dallas to city"
   - "Dallas train station"
+tags:
+  - "dallas"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Dallas — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Dallas, you need to know what the daily commute actually looks like.
 
 Check out our full [Dallas suburb guide](/dallas/) for the complete picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Hampton Park Melbourne — Everything You Need to Know"
+title: "Hampton Park Melbourne — what you need"
 description: "The complete guide to Hampton Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "hampton-park"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Hampton Park Melbourne"
   - "what is Hampton Park like"
   - "hampton-park suburb"
   - "living in Hampton Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Diverse community suburb with parks, schools, and affordable family housing.

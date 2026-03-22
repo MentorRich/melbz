@@ -1,84 +1,79 @@
 ---
-title: "South Yarra Melbourne — Everything You Need to Know"
+title: "South Yarra Melbourne — what you need"
 description: "The complete guide to South Yarra. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
-date: 2026-03-21
-suburb: "south-yarra"
-article_type: "profile"
+date: 2026-03-22
+lastmod: 2026-03-22
 author: "Chris Jones"
-author_image: "/images/authors/jules.jpg"
-keywords:
-  - "South Yarra Melbourne"
-  - "what is South Yarra like"
-  - "south-yarra suburb"
-  - "living in South Yarra"
+cover_image: "/images/shared/cafe-street.jpg"
+cover_image_alt: "South Yarra Melbourne Chapel Street cafes"
+suburb: "south-yarra"
+tags: ["melbourne", "south-yarra", "suburb-guide"]
 ---
 
-Chapel Street shopping, Botanical Gardens, and Melbourne's see-and-be-seen brunch scene.
+Chapel Street shopping, Royal Botanic Gardens on the doorstep, and Melbourne's see-and-be-seen brunch scene. South Yarra is inner south Melbourne at its most polished.
 
 If you're thinking about living in South Yarra, visiting for the first time, or just trying to work out if this place is worth your Saturday afternoon — here's the honest rundown.
 
 ## Where Is South Yarra?
 
-South Yarra sits in Melbourne's Inner South region. It's the kind of suburb where you can feel the neighbourhood's personality the minute you step off public transport. Getting to the city from here isn't a drama — you've got options depending on where exactly you are in the suburb.
+South Yarra sits about 4km south-east of the Melbourne CBD in the City of Stonnington (postcode 3141). It borders Prahran to the south, Toorak to the east, and Richmond across the Yarra River to the north. That matters because your nearby options for food, coffee, and weekend plans extend well beyond South Yarra's own postcode boundaries.
 
-The suburb borders Prahran, Toorak, Richmond. That matters because your nearby options for food, coffee, and weekend plans extend well beyond South Yarra's own postcode boundaries.
+Getting into the city is straightforward. South Yarra station sits on the Sandringham, Frankston, Cranbourne, and Pakenham train lines — you're at Flinders Street in about 10 minutes. Trams run along Toorak Road (route 8), Commercial Road (route 72), and Chapel Street (route 78).
 
 ## What's South Yarra Actually Like?
 
-Chapel Street shopping, Botanical Gardens, and Melbourne's see-and-be-seen brunch scene.
+Every suburb has a specific energy. South Yarra's energy is Chapel Street confidence mixed with Domain Road quiet money. It doesn't have a single personality — the strip between Chapel and Commercial Road is a different experience to the leafy streets near Fawkner Park.
 
-Every suburb has a specific energy. South Yarra has its own thing going on — it's not trying to be everywhere else. The streets have character, the locals know their spots, and there's a pace of life here that either suits you or doesn't.
-
-Walk around on a Saturday morning and you'll pick up the vibe pretty quickly. The cafes tell you a lot — are they packed with young couples or families with prams? That gives you a read on who lives here.
+Walk around on a Saturday morning and you'll pick up the feel quickly. The cafes tell you a lot — packed with young professionals in activewear, dog walkers, and couples splitting a $24 eggs Benedict. That gives you a read on who lives here.
 
 ## Who Lives in South Yarra?
 
-South Yarra draws a particular crowd. The demographics lean towards the kind of people who value what this suburb specifically offers. You'll find a mix — and it's the mix that makes it work.
+South Yarra draws young professionals who want a short commute and long brunches, downsizers from Toorak who swapped mansion maintenance for apartment convenience, international students clustered around the Toorak Road corridor, and established couples who bought in 2015 and feel quietly smug about it.
 
-The community here has its own institutions, its own rhythms, its own complaints about parking. Like every Melbourne suburb, it's evolved over the past couple of decades and the people who live here now aren't necessarily the same crowd from fifteen years ago.
+The community has its own rhythms and its own complaints about parking inspectors. Like every Melbourne suburb, it's evolved over the past couple of decades.
 
 ## Housing in South Yarra
 
-The housing stock in South Yarra tells the story of how the suburb has evolved. You'll find a mix of older homes that have been here for decades alongside newer build quality — townhouses, apartments, and the occasional knockdown-rebuild that sticks out on the street.
+Apartments dominate. The suburb has some of Melbourne's highest apartment density, particularly along the Chapel Street corridor. You'll find everything from 1960s brick walk-ups to glass-and-steel towers built in the last five years.
 
-If you're renting, there's decent variety depending on your budget. Share houses exist for those starting out. Units and apartments work for professionals. Families will need to hunt a bit harder for standalone homes with a backyard, but they're out there.
+If you're renting, expect $450-550/week for a one-bedroom and $600-800/week for a two-bedroom. Houses are rare and expensive — median price sits above $2 million. Share houses exist for those starting out, and they're a practical way to live in a suburb you couldn't afford alone.
 
 ## Getting Around South Yarra
 
-Transport from South Yarra is solid enough to make it work without a car for most people, though having a car definitely helps for some errands and weekend plans.
+Transport from South Yarra is genuinely strong — one of the best-connected suburbs in Melbourne.
 
 **Read the full breakdown:** [South Yarra Transport Guide](/south-yarra/transport-guide/)
 
-Quick version: you can get to the city reasonably easy. The tram and train network serves this area, and cycling infrastructure has been improving steadily.
+Quick version: South Yarra station (Sandringham, Frankston, Cranbourne, Pakenham lines) gets you to the CBD in about 10 minutes. Trams on route 8 (Toorak Road), 72 (Commercial Road), and 78 (Chapel Street) fill the gaps. Cycling along the Capital City Trail is flat, scenic, and separated from traffic.
 
 ## Eating and Drinking in South Yarra
 
-The food scene in South Yarra reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and layers of culture that reward repeat visits without needing to leave the suburb every time you want a decent meal.
+The food scene reflects the suburb's personality — polished but genuine. Chapel Street between Toorak Road and Commercial Road packs restaurants, wine bars, and cafes into every available shopfront. Toorak Road has more neighbourhood-feeling places where the owner doubles as the chef.
 
-Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
+Coffee is sorted. Two Birds One Stone on Claremont Street, Market Lane at Prahran Market, Campos at the Chapel-Toorak corner — you won't struggle to find a proper flat white anywhere in the suburb.
 
 ## Is South Yarra Right for You?
 
 **You'll love South Yarra if:**
-- You want a suburb with genuine character and community
-- You value proximity to Melbourne's best without paying absolute top dollar
-- You like having your local spots — the cafe you don't need to think about, the pub you default to
-- You appreciate a neighbourhood that's evolved naturally rather than been manufactured
+- You want a suburb with genuine character and walkability
+- You value proximity to Melbourne's best parks, food, and nightlife
+- You like having your local spots — the cafe you default to, the pub you don't need to think about
+- Short commute to the CBD matters to you
 
 **It might not be for you if:**
-- You need absolute silence and a massive backyard
-- Budget is extremely tight — some areas of South Yarra have crept up in cost
-- You want everything brand new and shiny
-- You're not comfortable with a suburb that has a strong identity you need to adapt to
+- You need a massive backyard and quiet streets at all hours
+- Budget is tight — South Yarra is premium-priced and the lifestyle costs add up
+- You want a suburb where parking isn't a competitive sport
+- Nightlife noise near Chapel Street bothers you
 
 ## Living Here — The Deep Dive
 
 Want more detail? We've covered every angle:
 
-- **[Living in South Yarra — The Honest Guide](/south-yarra/living-in-south-yarra/)** — Pros, cons, and the unfiltered truth
-- **[Is South Yarra Good for Families?](/south-yarra/south-yarra-for-families/)** — Schools, parks, safety, the works
-- **[Is South Yarra Good for Young Professionals?](/south-yarra/south-yarra-for-young-professionals/)** — Social scene, commute, renting
-- **[Is South Yarra Good for Retirees?](/south-yarra/south-yarra-for-retirees/)** — Quiet streets, healthcare, community
+- **[The Honest Guide to South Yarra](/south-yarra/honest-guide/)** — Pros, cons, and the unfiltered truth
+- **[South Yarra for Families](/south-yarra/family-guide/)** — Schools, parks, safety, the works
+- **[South Yarra for Young Professionals](/south-yarra/young-professionals/)** — Social scene, commute, renting
+- **[South Yarra for Retirees](/south-yarra/south-yarra-for-retirees/)** — Quiet streets, healthcare, community
 - **[Cost of Living in South Yarra](/south-yarra/cost-of-living/)** — Rent, daily costs, and how it compares
 - **[Getting Around South Yarra](/south-yarra/transport-guide/)** — Trains, trams, bikes, driving
 - **[South Yarra Neighbourhood Guide](/south-yarra/neighbourhood-guide/)** — Streets, pockets, and where to be
@@ -87,10 +82,26 @@ Want more detail? We've covered every angle:
 ## Suburbs Near South Yarra
 
 - **[Prahran](/prahran/)** — Greville Street vintage shops, Chapel Street's southern end, and Prahran Market.
-- **[Toorak](/toorak/)** — Melbourne's wealthiest suburb. Toorak Road shops, mansion-lined streets, and old
-- **[Richmond](/richmond/)** — Bridge Road shopping, Victoria Street's Vietnamese food, and Swan Street's pub s
-- **[South Melbourne](/south-melbourne/)** — South Melbourne Market, Clarendon Street cafes, and easy walking distance to eve
+- **[Toorak](/toorak/)** — Melbourne's wealthiest suburb. Toorak Road shops and mansion-lined streets.
+- **[Richmond](/richmond/)** — Bridge Road shopping, Victoria Street's Vietnamese food, and Swan Street's pub scene.
+- **[South Melbourne](/south-melbourne/)** — South Melbourne Market, Clarendon Street cafes, and easy walking distance to the CBD.
 
+## FAQ
+
+**What council is South Yarra in?**
+City of Stonnington.
+
+**What is the postcode for South Yarra?**
+3141.
+
+**Does South Yarra have a train station?**
+Yes. South Yarra station on the Sandringham, Frankston, Cranbourne, and Pakenham lines.
+
+**What trams go through South Yarra?**
+Route 8 (Toorak Road), route 72 (Commercial Road), and route 78 (Chapel Street).
+
+**Is South Yarra expensive?**
+Yes. It's one of Melbourne's pricier inner suburbs for both renting and buying. Median rent for a two-bedroom apartment is around $600-650/week.
 
 ---
 

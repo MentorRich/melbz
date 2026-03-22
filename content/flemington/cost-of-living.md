@@ -3,14 +3,13 @@ title: "Cost of Living in Flemington 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "flemington"
 suburbs: ["flemington"]
 vertical: property
 tags: ["flemington", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Flemington in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/4133120/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Flemington Melbourne cost of living"
 vibe_score: 67
 ---
@@ -28,7 +27,7 @@ This is where most of your money goes. Flemington's rental market in 2026 looks 
 | 3-bed house | $576 | $29,952 | 19% below |
 | Share house (per room) | $184 | $9,568 | 19% below |
 
-**Pro tip:** If you're flexible on the exact street, prices can vary 15-20% within Flemington alone. The streets closer to transport and the main commercial strip command premium.
+**Pro tip:** If you're flexible on the exact street, prices can vary 15-20% within Flemington alone. The streets closer to [transport](/flemington/transport-guide/) and the main commercial strip command premium.
 
 ## Monthly Living Costs Breakdown
 
@@ -50,7 +49,7 @@ This is where most of your money goes. Flemington's rental market in 2026 looks 
 
 **Eating out:** The average meal out in Flemington runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/flemington/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Flemington, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Flemington, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you [commute](/flemington/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,24 @@ For more context on how this compares, check our [Living in Flemington guide](/f
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Flemington
+
+- [Flemington History](/flemington/history/)
+- [Flemington Rent Guide](/flemington/rent-guide/)
+- [Flemington Things To Do](/flemington/things-to-do/)
+- [Flemington Young Professionals Guide](/flemington/young-professionals/)
+- [Flemington Nightlife Guide](/flemington/nightlife-guide/)
+- [Flemington Transport Guide](/flemington/transport-guide/)
+- [Flemington Best Cafes](/flemington/best-cafes/)
+- [Flemington Best Restaurants](/flemington/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Fitzroy North Suburb Guide](/fitzroy-north/)
+- [Footscray Suburb Guide](/footscray/)
+- [Forest Hill Suburb Guide](/forest-hill/)

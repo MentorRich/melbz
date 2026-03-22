@@ -1,16 +1,15 @@
 ---
 title: "Best Pubs in Kensington 2026: Racecourse Road & Beyond"
+description: "Best Pubs in Kensington 2026: Racecourse Road & Beyond. Updated for 2026 with real local picks and honest advice for Kensington in Melbourne inner west."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Thompson"
 cover_image: "/images/kensington/best-pubs-v2.jpg"
-date: 2026-03-16
-author: kai
-author_image: "/images/authors/kai.jpg"
+cover_image_alt: "Best Pubs V2 in Kensington Melbourne"
+suburb: "kensington"
 tags: ["kensington", "pubs", "nightlife"]
-categories: ["nightlife"]
-description: "Best Pubs in Kensington 2026: Racecourse Road & Beyond"
 ---
-
 **Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
-
 
 
 Kensington doesn't shout about its ..."
@@ -155,7 +154,7 @@ Total walk: roughly 2.5 kilometres. Allow 4–6 hours depending on commitment le
 
 Kensington's pub scene in 2026 is in the best shape it's been in years. The dual reopenings of Doutta Galla and Auntie Annie's have injected serious energy into Racecourse Road, Hardimans continues to be a quietly excellent all-rounder, and Bonehead Brewing remains one of Melbourne's most underrated taproom experiences. Add in the RSL's community charm and The Laurel's beautiful restoration just over the border, and you've got a suburb that punches well above its weight.
 
-Whether you're a Kensington local, a race-day visitor, or someone exploring Melbourne's inner west for the first time, this pub crawl is one of the city's under-the-radar spots. Get in before everyone else figures it out.
+If you'''re a Kensington local, a race-day visitor, or someone exploring Melbourne's inner west for the first time, this pub crawl is one of the city's under-the-radar spots. Get in before everyone else figures it out.
 
 
 *Have we missed your favourite Kensington pub? Drop a comment below or tag us on Instagram @melbzdotcomau with your local recommendations.*
@@ -164,14 +163,4 @@ Whether you're a Kensington local, a race-day visitor, or someone exploring Melb
 - [Best Pubs in Flemington 2026](/nightlife/best-pubs-flemington/)
 - [Best Pubs in Footscray 2026](/nightlife/best-pubs-footscray/)
 - [Best Pubs in North Melbourne 2026](/nightlife/best-pubs-north-melbourne/)
-- [Kensington Suburb Guide](/suburbs/kensington/)
-
-## Related Articles
-
-- [/carlton/](/carlton/)
-- [/footscray/](/footscray/)
-- [/best-pubs-melbourne/](/best-pubs-melbourne/)
-- [/nightlife/](/nightlife/)
-- [/kensington/](/kensington/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Kensington Suburb Guide](/kensington/)

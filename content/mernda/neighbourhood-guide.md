@@ -4,13 +4,18 @@ description: "The insider's guide to Mernda's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "mernda"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Mernda neighbourhood guide"
   - "best streets in Mernda"
   - "Mernda areas"
   - "Mernda pockets Melbourne"
+tags:
+  - "mernda"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mernda isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

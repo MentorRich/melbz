@@ -4,13 +4,18 @@ description: "The insider's guide to Keilor's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "keilor"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Keilor neighbourhood guide"
   - "best streets in Keilor"
   - "Keilor areas"
   - "Keilor pockets Melbourne"
+tags:
+  - "keilor"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Keilor isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

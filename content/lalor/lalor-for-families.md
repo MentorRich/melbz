@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Lalor? Parks, schools, safety, and the
 date: 2026-03-21
 suburb: "lalor"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Lalor good for families"
   - "Lalor family friendly"
   - "raising kids in Lalor"
+tags:
+  - "lalor"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Lalor with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

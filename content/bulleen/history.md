@@ -4,16 +4,22 @@ description: "The story of Bulleen: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "bulleen"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Bulleen Melbourne history"
   - "how has Bulleen changed"
   - "Bulleen gentrification"
   - "Bulleen then and now"
+tags:
+  - "bulleen"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Bulleen's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Bulleen and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Bulleen suburb guide](/bulleen/) for the current picture.
 

@@ -4,16 +4,22 @@ description: "How expensive is Carrum Downs? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "carrum-downs"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Carrum Downs Melbourne"
   - "how expensive is Carrum Downs"
   - "is Carrum Downs expensive to live in"
   - "Carrum Downs rent"
+tags:
+  - "carrum-downs"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Carrum Downs — no sugar-coating, no made-up figures.
+If you are weighing up Carrum Downs against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Carrum Downs suburb guide](/carrum-downs/) for the bigger picture.
 

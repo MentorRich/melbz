@@ -4,16 +4,22 @@ description: "The story of Keilor Park: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "keilor-park"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Keilor Park Melbourne history"
   - "how has Keilor Park changed"
   - "Keilor Park gentrification"
   - "Keilor Park then and now"
+tags:
+  - "keilor-park"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Keilor Park's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+The history of Keilor Park is not just dates and facts - it is the DNA of the current personality of this suburb.
 
 See our full [Keilor Park suburb guide](/keilor-park/) for the current picture.
 

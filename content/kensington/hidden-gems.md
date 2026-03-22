@@ -1,22 +1,17 @@
 ---
-title: "Hidden Gems in Kensington Melbourne — What Most People Miss"
-description: "The spots in Kensington that don't make the top 10 lists but locals would fight to protect. Off the main strip, under the radar."
-date: 2026-03-21
+title: "Local Favourites in Kensington Melbourne — What Most People Miss"
+description: "The spots in Kensington that don't make the top 10 lists but locals would fight to protect. Off the main strip, under the radar. Updated for 2026 with real l."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
+cover_image: "/images/kensington/hidden-gems.jpg"
+cover_image_alt: "Local favourites and lesser-known spots in Kensington Melbourne"
 suburb: "kensington"
-article_type: "local-guide"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-keywords:
-  - "hidden gems Kensington"
-  - "secret spots Kensington"
-  - "local tips Kensington"
-  - "off beaten path Kensington Melbourne"
+tags: ["kensington", "hidden-gems"]
 ---
-
-
 ## Why Kensington's Best Bits Are Hidden
 
-Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But Kensington's real character lives in the places most visitors never find.
+Every Melbourne suburb has a public face — the main strip, the popular [cafes](/kensington/best-cafes/), the spots Google tells you about. But Kensington's real character lives in the places most visitors never find.
 
 These aren't "hidden" because someone's keeping secrets. They're hidden because they don't advertise, they don't have social media strategies, and they rely entirely on word of mouth and repeat customers.
 
@@ -48,7 +43,7 @@ Some of Kensington's best eating isn't where you'd expect:
 - **Community notice boards** — yes, physical ones — that tell you more about the suburb's real life than any website
 - **The view** — there's usually a spot in every suburb where you get a perspective on Melbourne that surprises you
 
-## How to Find Your Own Hidden Gems
+## How to Find Your Own Local Favourites
 
 1. **Walk without a destination** — seriously, just wander. The grid will always get you back
 2. **Talk to the people who've been here longest** — the 15-year resident knows things Google doesn't
@@ -62,4 +57,24 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington History](/kensington/history/) · [Kensington Living Guide](/kensington/living-in-kensington/)
+**More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington History](/kensington/[history](/kensington/history/)/) · [Kensington Living Guide](/kensington/living-in-kensington/)
+
+---
+
+## Explore More of Kensington
+
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

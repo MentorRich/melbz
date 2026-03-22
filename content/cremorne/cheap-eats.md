@@ -1,17 +1,15 @@
 ---
 title: "Cheap Eats in Cremorne Under $20 — 2026 Local Guide"
+description: "The best cheap eats in Cremorne for 2026. Beyond the tech-bro reputation, 3121 has genuinely affordable food if you know the warehouse cafes and side-street spots."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Omar Hassan"
 cover_image: "/images/cremorne/cheap-eats.jpg"
+cover_image_alt: "Affordable food at a Cremorne warehouse cafe"
+suburb: "cremorne"
+tags: ["cremorne", "cheap-eats", "budget", "church-street"]
 ---
 
-suburb: "cremorne"
-vertical: "lifestyle"
-author: "omar"
-author_image: "/images/authors/omar.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Cremorne has a reputation for tech-bro spending. Here's the truth: you can eat very well in 3121 for under $20."
-tags: ["cremorne"]
-categories: ["cheap"]
 # Cheap Eats in Cremorne — Eating Well in 3121 Without the Corporate Credit Card
 
 Let's address the elephant in the Cremorne room: this suburb has a reputation for being expensive. And sure, some of that is deserved — when your neighbour is paying $1,200 a week for a warehouse conversion, the café prices tend to follow. But here's what the reputation gets wrong: Cremorne has some of the best value eating in Melbourne's inner east, if you know where to look.
@@ -153,10 +151,9 @@ The $4.50 flat white still exists in Cremorne. That alone is worth celebrating.
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
-- [/food/](/food/)
-- [/cremorne/](/cremorne/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Cheap Eats Melbourne](/cheap-eats-melbourne/)
+- [Food](/food/)
+- [Cremorne](/cremorne/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

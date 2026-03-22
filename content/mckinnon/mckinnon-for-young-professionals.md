@@ -4,12 +4,18 @@ description: "Is McKinnon a good suburb for young professionals? Social scene, c
 date: 2026-03-21
 suburb: "mckinnon"
 article_type: "young-professionals"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "McKinnon young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in McKinnon"
+tags:
+  - "mckinnon"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering McKinnon as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

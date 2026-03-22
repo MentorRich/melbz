@@ -4,16 +4,22 @@ description: "The story of Caulfield North: from its origins to today. How this 
 date: 2026-03-21
 suburb: "caulfield-north"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Caulfield North Melbourne history"
   - "how has Caulfield North changed"
   - "Caulfield North gentrification"
   - "Caulfield North then and now"
+tags:
+  - "caulfield-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Caulfield North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Caulfield North has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Caulfield North suburb guide](/caulfield-north/) for the current picture.
 

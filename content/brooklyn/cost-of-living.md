@@ -4,16 +4,22 @@ description: "How expensive is Brooklyn? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "brooklyn"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Brooklyn Melbourne"
   - "how expensive is Brooklyn"
   - "is Brooklyn expensive to live in"
   - "Brooklyn rent"
+tags:
+  - "brooklyn"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Brooklyn — no sugar-coating, no made-up figures.
+Rent in Brooklyn tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Brooklyn suburb guide](/brooklyn/) for the bigger picture.
 

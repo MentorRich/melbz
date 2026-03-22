@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Bentleigh East? Parks, schools, safety
 date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Bentleigh East good for families"
   - "Bentleigh East family friendly"
   - "raising kids in Bentleigh East"
+tags:
+  - "bentleigh-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Bentleigh East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

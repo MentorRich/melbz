@@ -4,16 +4,22 @@ description: "The story of South Wharf: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "south-wharf"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "South Wharf Melbourne history"
   - "how has South Wharf changed"
   - "South Wharf gentrification"
   - "South Wharf then and now"
+tags:
+  - "south-wharf"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. South Wharf's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+South Wharf was not always the place you see today. Its story starts with post-war immigration, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [South Wharf suburb guide](/south-wharf/) for the current picture.
 

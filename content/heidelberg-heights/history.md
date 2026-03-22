@@ -4,16 +4,22 @@ description: "The story of Heidelberg Heights: from its origins to today. How th
 date: 2026-03-21
 suburb: "heidelberg-heights"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Heidelberg Heights Melbourne history"
   - "how has Heidelberg Heights changed"
   - "Heidelberg Heights gentrification"
   - "Heidelberg Heights then and now"
+tags:
+  - "heidelberg-heights"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Heidelberg Heights's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Heidelberg Heights from an industrial hub to a sought-after neighbourhood. Understanding that arc explains a lot.
 
 See our full [Heidelberg Heights suburb guide](/heidelberg-heights/) for the current picture.
 

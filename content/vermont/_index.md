@@ -1,16 +1,16 @@
 ---
-title: "Vermont Melbourne — Everything You Need to Know"
+title: "Vermont Melbourne — what you need"
 description: "The complete guide to Vermont. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "vermont"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Vermont Melbourne"
   - "what is Vermont like"
   - "vermont suburb"
   - "living in Vermont"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Bellbird Dell, family streets, and a quiet eastern suburb near Eastland.

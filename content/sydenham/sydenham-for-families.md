@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Sydenham? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "sydenham"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Sydenham good for families"
   - "Sydenham family friendly"
   - "raising kids in Sydenham"
+tags:
+  - "sydenham"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Sydenham with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

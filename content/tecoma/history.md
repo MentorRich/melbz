@@ -4,16 +4,22 @@ description: "The story of Tecoma: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "tecoma"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Tecoma Melbourne history"
   - "how has Tecoma changed"
   - "Tecoma gentrification"
   - "Tecoma then and now"
+tags:
+  - "tecoma"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Tecoma's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Tecoma is not just dates and facts - it is the DNA of the current personality of this suburb.
 
 See our full [Tecoma suburb guide](/tecoma/) for the current picture.
 

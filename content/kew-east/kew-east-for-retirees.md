@@ -4,12 +4,16 @@ description: "Considering retirement in Kew East? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "kew-east"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Kew East retirees Melbourne"
   - "retiring in Kew East"
   - "quiet suburbs Melbourne"
+tags:
+  - "kew-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Kew East? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,13 +4,18 @@ description: "The insider's guide to Williams Landing's different pockets, stree
 date: 2026-03-21
 suburb: "williams-landing"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "Williams Landing neighbourhood guide"
   - "best streets in Williams Landing"
   - "Williams Landing areas"
   - "Williams Landing pockets Melbourne"
+tags:
+  - "williams-landing"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Williams Landing isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

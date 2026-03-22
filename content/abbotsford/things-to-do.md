@@ -1,19 +1,14 @@
 ---
 title: "Things to Do in Abbotsford Melbourne"
-description: "What to do in Abbotsford this weekend and beyond. Activities, events, and the stuff locals actually enjoy."
-date: 2026-03-21
+description: "What to do in Abbotsford this weekend and beyond. Activities, events, and the stuff locals actually enjoy. Updated for 2026 with real local picks and honest ."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Tyler James"
+cover_image: "/images/abbotsford/things-to-do.jpg"
+cover_image_alt: "Things To Do in Abbotsford Melbourne"
 suburb: "abbotsford"
-article_type: "activities"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
-keywords:
-  - "things to do Abbotsford"
-  - "Abbotsford activities"
-  - "what to do in Abbotsford"
-  - "Abbotsford weekend plans"
+tags: ["abbotsford", "things-to-do"]
 ---
-
-
 ## What Is There to Do in Abbotsford?
 
 More than you think. Brewery district vibes with Victoria Street's Vietnamese food strip and Yarra River trails. That energy translates into things to do on any day of the week, rain or shine.
@@ -68,4 +63,6 @@ Melbourne weather means you need indoor plans. Abbotsford has:
 
 ---
 
-**More on Abbotsford:** [Abbotsford Suburb Guide](/abbotsford/) · [Abbotsford Best Cafes](/abbotsford/best-cafes/) · [Abbotsford Neighbourhood Guide](/abbotsford/neighbourhood-guide/)
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
+
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

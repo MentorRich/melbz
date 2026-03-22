@@ -1,64 +1,79 @@
 ---
-title: "What to Do in Windsor This Weekend"
-description: "Your weekend in Windsor sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner South."
-date: 2026-03-21
+title: "What to Do in Windsor This Weekend — 2026 Guide"
+description: "Your weekend in Windsor sorted. From Saturday morning coffee at Fourth Chapter to Sunday roast at The Windsor Castle, every hour planned on Chapel Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jack Morrison"
+cover_image: "/images/windsor/weekend-guide.jpg"
+cover_image_alt: "Weekend brunch scene on Chapel Street Windsor"
 suburb: "windsor"
-article_type: "weekend"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
-keywords:
-  - "what to do Windsor this weekend"
-  - "Windsor weekend"
-  - "things to do Windsor Saturday"
-  - "Windsor Sunday plans"
+tags: ["windsor", "weekend", "things-to-do"]
 ---
-
 
 ## Your Weekend in Windsor
 
-Windsor does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
+Windsor does weekends well. The Chapel Street strip comes alive on Saturdays, the parks fill with dog walkers and families, and the pub decks catch afternoon sun. Here is how to spend a proper Windsor weekend.
 
 ## Saturday Morning
 
-**The Coffee Run** — Start at your neighbourhood cafe. Windsor's cafe culture means you've got options from "quick and efficient" to "settle in for two hours." Saturday morning flat whites hit differently when you're not rushing to work.
+**The Coffee Run:** Start at Fourth Chapter (272 Chapel Street) for a pour-over if you are serious about your beans, or Mr Mister (228 Chapel Street) for a reliable $4.50 flat white in a spacious room. Saturday morning flat whites hit differently when you are not rushing to work.
 
-**Market Check** — If there's a weekend market running near Windsor, it's worth the wander. Fresh produce, street food, and the kind of people-watching that makes weekend mornings worthwhile.
+**Brunch:** Franklin (177 Chapel Street) for the ricotta hotcakes ($21) — expect a queue from 9:30. Two Birds One Stone (120 Claremont Street) usually has a shorter wait and equally good food. Staple (173 Chapel Street) for budget-friendly breakfast rolls ($14) without the queue.
 
-**Park Time** — Windsor's green spaces fill up on Saturday mornings with runners, dog walkers, and families. Join the park regulars or find a quiet bench.
+**Park Time:** Victoria Gardens between Chapel and Punt Road fills with runners, dog walkers, and families. Grab takeaway coffee and a bench.
 
 ## Saturday Afternoon
 
-**Lunch Locally** — Don't reach for Uber Eats. Walk to one of Windsor's lunch spots — try somewhere you haven't been before. The mid-afternoon lull means no queues and relaxed service.
+**Shopping the Strip:** Walk Chapel Street from the [Prahran](/prahran/) border south. The vintage and thrift stores through Windsor's section are genuinely good. Independent fashion, vinyl shops, bookshops with opinionated staff.
 
-**Explore the Neighbourhood** — Pick a street you haven't walked down yet. Every suburb has blocks you've driven past but never explored on foot. Saturday afternoon is perfect for this.
+**Afternoon Drinks:** The Railway Hotel deck catches afternoon sun perfectly — a pot and people-watching from above Chapel Street. The Wolf's bifold doors create street-level energy. Wonderland's beer garden is the biggest outdoor option.
 
-**Shop the Independent Stores** — Support local. Windsor's independent shops are the ones that give the suburb its character. Browse without pressure, buy something you didn't know you needed.
+**Park Dinner:** Grab a $18 margherita from Small Print Pizza (431 Chapel Street) — they will deliver to Victoria Gardens. Dinner on a park bench at sunset is peak Windsor.
 
 ## Saturday Night
 
-**Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Windsor's restaurant scene covers date night to casual with mates.
+**Dinner Options:** Book ahead for Firebird (Vietnamese-inspired, $70-$100pp), Maha East (Middle Eastern degustation, $95), or Tipico (Italian, $60-$90pp). Walk-in options: Hawker Hall (sharing, $35-$45pp) or the bar at Firebird.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
-
-**Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Windsor's bottle shops have good selections and the staff usually have recommendations.
+**After Dinner:** Hoo Haa for dancing (three levels, $3 cover after 10pm). Jungle Boy for hidden tiki cocktails (fridge door in Boston Sub). Her Bar for something intimate and quiet.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Windsor starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Slow Start:** Cheeky Monkey (298 Chapel Street) opens at 7am if you want to beat everyone. The big breakfast ($20) and a $4.20 flat white — no queue, no fuss.
 
-**Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Windsor and into the neighbouring suburb. Find a coffee stop halfway through.
+**Sunday Session:** The Railway Hotel deck for afternoon sun. The Osborne rooftop for DJs and golden-hour views. Wonderland for all-day Sunday happy hour.
 
-**Sunday Pub Session** — If Windsor's pubs do Sunday sessions, these are gold. Relaxed, possibly live music, definitely relaxed dress code. The best cure for Sunday evening dread.
+**Sunday Roast:** The Windsor Castle (187 Chapel Street) does a proper Sunday roast ($24) with all the trimmings. Book ahead — it fills up.
 
-**Prep for Monday** — We all have to do it. Grocery run through Windsor's shops, meal prep, and set the week up. At least you're doing it in a suburb with good options.
+## FAQ
 
-## Monthly Rituals
+**What is the best thing to do in Windsor on a rainy weekend?** Better Days Bar for board games and cocktails. Borsch, Vodka & Tears for warmth and vodka. Chapel Street's vintage shops for browsing.
 
-- **Try a new restaurant** you haven't been to yet
-- **Walk a neighbourhood you usually drive through**
-- **Check local event listings** for one-off markets, exhibitions, or community events
-- **Have one completely unplanned day** — no bookings, no plans, just see what Windsor offers when you say yes to whatever comes up
+**Is Windsor good for kids on weekends?** Victoria Gardens playground is the main draw. Franklin, High Society, and Staple welcome families. The Wolf and Railway Hotel are kid-friendly before 6pm.
+
+**When is the quietest time to eat in Windsor?** Sunday dinner. Same quality as Saturday, half the crowds.
+
+## Verdict
+
+A Windsor weekend covers brunch, park time, vintage shopping, afternoon pub sessions, serious dinner, and late-night cocktails — all within a 10-minute walk along Chapel Street. The density is the advantage: you never need to drive, take a tram, or plan logistics. Just walk south.
+
+**More on Windsor:** [Things to do in Windsor](/windsor/things-to-do/) | [Best [restaurants](/windsor/best-restaurants/) in Windsor](/windsor/best-restaurants/) | [Windsor [nightlife](/windsor/nightlife-guide/) guide](/windsor/nightlife-guide/)
 
 ---
 
-**More on Windsor:** [Windsor Suburb Guide](/windsor/) · [Windsor Things to Do](/windsor/things-to-do/) · [Windsor Best Restaurants](/windsor/best-restaurants/)
+## Explore More of Windsor
+
+- [Windsor History](/windsor/history/)
+- [Windsor Things To Do This Weekend](/windsor/things-to-do-this-weekend/)
+- [Windsor Cheap Eats](/windsor/cheap-eats/)
+- [Windsor Rent Guide](/windsor/rent-guide/)
+- [Windsor Date Night Guide](/windsor/date-night/)
+- [Windsor Windsor For Retirees](/windsor/windsor-for-retirees/)
+- [Windsor New Openings](/windsor/new-openings/)
+- [Windsor Things To Do](/windsor/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [St Kilda Suburb Guide](/st-kilda/)
+- [Albert Park Suburb Guide](/albert-park/)

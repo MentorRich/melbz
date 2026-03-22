@@ -4,16 +4,22 @@ description: "The story of Reservoir: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Reservoir Melbourne history"
   - "how has Reservoir changed"
   - "Reservoir gentrification"
   - "Reservoir then and now"
+tags:
+  - "reservoir"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Reservoir's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Reservoir has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Reservoir suburb guide](/reservoir/) for the current picture.
 

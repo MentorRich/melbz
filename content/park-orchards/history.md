@@ -4,16 +4,22 @@ description: "The story of Park Orchards: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "park-orchards"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Park Orchards Melbourne history"
   - "how has Park Orchards changed"
   - "Park Orchards gentrification"
   - "Park Orchards then and now"
+tags:
+  - "park-orchards"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Park Orchards's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+History buffs and new residents alike should know the origin story of Park Orchards. It explains more than you would expect.
 
 See our full [Park Orchards suburb guide](/park-orchards/) for the current picture.
 

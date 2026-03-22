@@ -4,15 +4,22 @@ description: "Public transport in Princes Hill: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "princes-hill"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Princes Hill Melbourne"
   - "commute from Princes Hill to city"
   - "Princes Hill train station"
+tags:
+  - "princes-hill"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Princes Hill — what works, what's annoying, and how long things actually take.
+Princes Hill sits along the bayside stretch, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Princes Hill suburb guide](/princes-hill/) for the complete picture.
 

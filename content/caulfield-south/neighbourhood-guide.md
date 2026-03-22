@@ -4,13 +4,18 @@ description: "The insider's guide to Caulfield South's different pockets, street
 date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Caulfield South neighbourhood guide"
   - "best streets in Caulfield South"
   - "Caulfield South areas"
   - "Caulfield South pockets Melbourne"
+tags:
+  - "caulfield-south"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Caulfield South isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,16 +4,22 @@ description: "The story of South Morang: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "south-morang"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "South Morang Melbourne history"
   - "how has South Morang changed"
   - "South Morang gentrification"
   - "South Morang then and now"
+tags:
+  - "south-morang"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. South Morang's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding South Morang means understanding where it came from. The history explains the character.
 
 See our full [South Morang suburb guide](/south-morang/) for the current picture.
 

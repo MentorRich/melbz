@@ -4,16 +4,22 @@ description: "How expensive is Highett? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "highett"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Highett Melbourne"
   - "how expensive is Highett"
   - "is Highett expensive to live in"
   - "Highett rent"
+tags:
+  - "highett"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Highett — no sugar-coating, no made-up figures.
+The gap between the sticker price of Highett and actual living costs is worth understanding before you move.
 
 Read our full [Highett suburb guide](/highett/) for the bigger picture.
 

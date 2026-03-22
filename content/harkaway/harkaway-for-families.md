@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Harkaway? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "harkaway"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Harkaway good for families"
   - "Harkaway family friendly"
   - "raising kids in Harkaway"
+tags:
+  - "harkaway"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Harkaway with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,15 +4,22 @@ description: "Public transport in Belgrave: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "belgrave"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Belgrave Melbourne"
   - "commute from Belgrave to city"
   - "Belgrave train station"
+tags:
+  - "belgrave"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Belgrave — what works, what's annoying, and how long things actually take.
+Real talk about getting around Belgrave: what the timetable says vs what actually happens.
 
 Check out our full [Belgrave suburb guide](/belgrave/) for the complete picture.
 

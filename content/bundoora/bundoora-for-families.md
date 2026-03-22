@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Bundoora? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "bundoora"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Bundoora good for families"
   - "Bundoora family friendly"
   - "raising kids in Bundoora"
+tags:
+  - "bundoora"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Bundoora with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

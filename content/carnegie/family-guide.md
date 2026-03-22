@@ -3,14 +3,13 @@ title: "Carnegie for Families 2026: Schools, Parks & the Parent Verdict"
 slug: "family-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: kate
-author_image: "/images/authors/kate.jpg"
+author: "Kate Sullivan"
 suburb: "carnegie"
 suburbs: ["carnegie"]
 vertical: lifestyle
 tags: ["carnegie", "family-guide", "schools", "parks", "families"]
 description: "Is Carnegie good for families? Schools, parks, safety, activities and the honest parent review for 2026."
-cover_image: "https://images.pexels.com/photos/8082956/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/parks-gardens.jpg"
 cover_alt: "Carnegie family friendly parks Melbourne"
 vibe_score: 72
 ---
@@ -31,7 +30,7 @@ Thinking about raising kids in Carnegie? Here's what parents actually need to kn
 
 ## Schools
 
-School options in Carnegie are adequate. You've got local primary schools within walking distance and secondary options accessible by a short commute. For the most competitive schools, some families look at neighbouring suburbs — but the local offerings do the job.
+School options in Carnegie are adequate. You've got local primary schools within walking distance and secondary options accessible by a short [commute](/carnegie/transport-guide/). For the most competitive schools, some families look at neighbouring suburbs — but the local offerings do the job.
 
 ## Parks & Green Spaces
 
@@ -51,7 +50,7 @@ Weekend activities in Carnegie require some planning. There's enough locally to 
 
 ## The Commute Factor
 
-The commute from Carnegie matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the transport schedule against your actual school and work locations.
+The commute from Carnegie matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the [transport](/carnegie/transport-guide/) schedule against your actual school and work locations.
 
 See our [Carnegie Transport Guide](/carnegie/transport-guide/) for the full breakdown.
 
@@ -67,4 +66,23 @@ Carnegie works for families but it's not a default family suburb. You'll find wh
 
 ---
 
-*Are you a Carnegie parent? Tell us what we missed — [hq@melbz101](mailto:hq@melbz101) or DM [@melbz101](https://instagram.com/melbz101).*
+*Are you a Carnegie parent? Tell us what we missed — [hq@melbz.com.au](mailto:hq@melbz.com.au) or DM [@melbz101](https://instagram.com/melbz101).*
+
+---
+
+## Explore More of Carnegie
+
+- [Carnegie History](/carnegie/history/)
+- [Carnegie Cost of Living](/carnegie/cost-of-living/)
+- [Carnegie Young Professionals Guide](/carnegie/young-professionals/)
+- [Carnegie Nightlife Guide](/carnegie/nightlife-guide/)
+- [Carnegie Transport Guide](/carnegie/transport-guide/)
+- [Carnegie Honest Guide](/carnegie/honest-guide/)
+- [Carnegie Carnegie For Retirees](/carnegie/carnegie-for-retirees/)
+
+### Nearby Suburbs Worth Checking
+
+- [Carlton Suburb Guide](/carlton/)
+- [Carlton North Suburb Guide](/carlton-north/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)
+- [Carrum Suburb Guide](/carrum/)

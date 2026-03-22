@@ -3,13 +3,13 @@ title: "Best Coffee Suburbs in Melbourne — The Cafe Guide"
 description: "Melbourne's cafe culture is world-famous. Which suburbs do it best? Our picks for coffee lovers."
 date: 2026-03-21
 article_type: "trending"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "best coffee suburbs melbourne"
   - "cafe culture melbourne"
   - "best cafes melbourne suburbs"
   - "flat white melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Melbourne's cafe culture is world-famous. Which suburbs do it best? Our picks for coffee lovers.

@@ -4,15 +4,22 @@ description: "Public transport in Wattle Glen: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Wattle Glen Melbourne"
   - "commute from Wattle Glen to city"
   - "Wattle Glen train station"
+tags:
+  - "wattle-glen"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Wattle Glen — what works, what's annoying, and how long things actually take.
+Public transport in Wattle Glen has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Wattle Glen suburb guide](/wattle-glen/) for the complete picture.
 

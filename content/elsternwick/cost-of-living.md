@@ -1,77 +1,59 @@
 ---
 title: "Cost of Living in Elsternwick Melbourne"
-description: "How expensive is Elsternwick? Rent, daily costs, and how this Melbourne suburb compares to its neighbours. The honest version."
+description: "How expensive is Elsternwick? Rent, daily costs, and how this inner south-east suburb compares to Balaclava, Brighton, and the rest."
 date: 2026-03-21
 suburb: "elsternwick"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-keywords:
-  - "cost of living Elsternwick Melbourne"
-  - "how expensive is Elsternwick"
-  - "is Elsternwick expensive to live in"
-  - "Elsternwick rent"
+author: "Ethan Russo"
+cover_image: "/images/elsternwick/cost-of-living.jpg"
+tags: ["melbourne", "elsternwick", "cost-of-living", "rent"]
 ---
-
-Money matters when you're choosing where to live. Here's the real story on costs in Elsternwick — no sugar-coating, no made-up figures.
-
-Read our full [Elsternwick suburb guide](/elsternwick/) for the bigger picture.
 
 ## Is Elsternwick Expensive?
 
-Elsternwick sits somewhere in the middle of Melbourne's cost spectrum. It's not cheap, but it's not going to break the bank either — assuming you're realistic about expectations.
+Elsternwick sits in the mid-to-upper range for Melbourne's inner south-east. It's cheaper than Brighton, comparable to Balaclava, and more expensive than suburbs further out on the Sandringham line like Cheltenham or Moorabbin. For what the suburb delivers — the Glen Huntly Road strip, the 20-minute train commute, the village feel — it's fair value.
 
-The cost of living here reflects what the suburb offers. Location, community, access to amenities — you get what you pay for, and in Elsternwick, you're generally getting good value for the price point.
+## What Things Actually Cost
 
-## Renting in Elsternwick
+| Item | Price Range |
+|------|-------------|
+| Flat white | $4.80–$5.50 |
+| Brunch for one (main + coffee) | $22–$30 |
+| Pint at the Elsternwick Hotel | $11–$14 |
+| Glass of wine at a bar | $14–$18 |
+| Dinner for two (mid-range) | $80–$130 |
+| Dinner for two (Sails by the Lake) | $120–$160 |
+| Weekly grocery shop (one person) | $90–$130 |
+| 1-bedroom rent (weekly) | $380–$460 |
+| 2-bedroom rent (weekly) | $500–$650 |
+| 3-bedroom house rent (weekly) | $650–$850 |
+| Median house price | ~$1.6M |
+| Median unit price | ~$500K |
+| Council rates (typical house) | $1,600–$2,200/year |
+| Myki daily cap | $10.60 |
 
-The rental market in Elsternwick is active with a reasonable range of options at different price points. There's a mix of apartments, units, townhouses, and the occasional freestanding house.
+## Rent Reality
 
-Studio and one-bedroom apartments are the entry point. Two-bedders suit couples and sharers.
+The rental market in Elsternwick is steady rather than frantic. One-bedroom apartments near the station are the entry point. Two-bedroom places in the residential streets south of Glen Huntly Road are the sweet spot for couples and sharers. Family homes with backyards exist but command a premium — $700+ per week for anything decent with three bedrooms.
 
-Share houses are an option for younger renters. They're common in Elsternwick and a practical way to live in the suburb without the full rent burden.
+Share houses are common and typically run $220–$300 per person per week including bills, depending on the room and location.
 
-Compared to the Melbourne metro average, Elsternwick is roughly on par or slightly below — it represents reasonable value for what you get.
+## How It Compares
 
-## Buying in Elsternwick
+**Cheaper than:** Brighton ($200–$300/week more for equivalent properties), St Kilda (slightly more, plus the chaos tax), Armadale.
 
-The property market in Elsternwick has opportunities for first-home buyers, particularly in the apartment and townhouse market.
+**Similar to:** Balaclava (slightly edgier, similar prices), Caulfield South (quieter, similar range), Ripponlea.
 
-The market has moved over the past few years, like everywhere in Melbourne. What was considered expensive five years ago now looks like good buying in hindsight.
+**More expensive than:** Cheltenham, Moorabbin, Bentleigh — all further down the Sandringham/Frankston lines with longer commutes.
 
-## Day-to-Day Costs
+## Can You Afford Elsternwick?
 
-**Coffee:** Melbourne being Melbourne, you'll pay standard cafe prices. A flat white runs the same here as most inner suburbs. There are cheaper options and fancier ones.
-
-**Groceries:** Supermarket access is good — you've got your major chains plus smaller independent shops. Prices are standard Melbourne. If you shop smart and cook at home, the grocery bill is manageable.
-
-**Eating out:** Elsternwick has options across the price range. You can get a solid weeknight dinner without it being a major financial event. Friday night at the nicer spots will cost you more, obviously.
-
-**Transport:** If you're using PT, a Myki covers your daily commute at standard Melbourne zone pricing. If you drive, factor in potential parking costs.
-
-## How Does Elsternwick Compare to Nearby Suburbs?
-
-The neighbouring suburbs offer slight variations — some slightly cheaper with less going on, others slightly dearer with more action.
-
-Have a look at what's on offer in Balaclava, Ripponlea for comparison.
-
-## Who Can Afford Elsternwick?
-
-Most working Melburnians can find something that fits their budget here, though the best-located properties attract higher rents.
-
-## Tips for Keeping Costs Down in Elsternwick
-
-1. **Cook at home most nights** — the grocery options are good, and you'll save hundreds per month compared to eating out
-2. **Use PT when you can** — saves on parking, petrol, and rego costs
-3. **Find your local spots** — the touristy-looking cafes often charge more than the local favourite around the corner
-4. **Markets and local shops** — often cheaper than the big supermarkets for fresh produce
-5. **Share if you can** — a two-bedder split with a mate in Elsternwick costs less than a studio on your own in a flasher suburb
+On $60K: Tight. You'll need a share house or a small studio. Eating out will be selective.
+On $80K: Workable. A one-bedroom apartment, regular dining on Glen Huntly Road, and PT commuting without stress.
+On $110K+: Comfortable. A decent two-bedroom, dinners out weekly, and the lifestyle the suburb offers without counting every dollar.
 
 ---
 
-**More on Elsternwick:**
-- [Elsternwick Living Guide](/elsternwick/living-in-elsternwick/)
-- [Elsternwick Transport Guide](/elsternwick/transport-guide/)
-- [Elsternwick for Young Professionals](/elsternwick/elsternwick-for-young-professionals/)
+**More on Elsternwick:** [Elsternwick Suburb Guide](/elsternwick/) · [Rent Guide](/elsternwick/rent-guide/) · [Transport Guide](/elsternwick/transport-guide/)
 
-**Nearby suburbs:** [Balaclava](/balaclava/) · [Ripponlea](/ripponlea/) · [Brighton](/brighton/) · [Caulfield North](/caulfield-north/)
+**Nearby suburbs:** [Balaclava](/balaclava/) · [Brighton](/brighton/) · [Caulfield South](/caulfield-south/)

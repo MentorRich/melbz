@@ -1,20 +1,17 @@
 ---
-title: "Things To Do This Weekend in Prahran — 2026 Local Guide"
-cover_image: "/images/prahran/things-to-do-this-weekend.jpg"
----
-
+title: "Things To Do This Weekend in Prahran 2026 — Local Guide"
+description: "Your Prahran weekend sorted. Saturday morning at the market, afternoon pubs, Greville Street shopping, and Chapel Street nightlife picks."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Rodriguez"
+cover_image: "/images/shared/melbourne-weekend.jpg"
+cover_image_alt: "Prahran Melbourne weekend scene with market and cafes"
 suburb: "prahran"
-vertical: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the things to do this weekend in Prahran. Our verified 2026 guide covers the best spots for locals."
-tags: ["prahran"]
-categories: ["things"]
+tags: ["melbourne", "prahran", "weekend", "things-to-do"]
+---
 ## Things To Do This Weekend in Prahran
 
-Prahran on a weekend is a different animal to Prahran on a Tuesday. The market's pumping, the brunch crowds are out in force, Greville Street has that slightly buzzing energy that comes from people actually having time to browse, and by Saturday night, Chapel Street transforms from a shopping strip into a full-blown nightlife corridor. Whether you're a Prahran local looking for fresh ideas or you're heading in from elsewhere, here's how to spend a weekend in Prahran in 2026.
+Prahran on a weekend is a different animal to Prahran on a Tuesday. The market's pumping, the brunch crowds are out in force, Greville Street has that slightly buzzing energy that comes from people actually having time to browse, and by Saturday night, Chapel Street transforms from a shopping strip into a full-blown nightlife corridor. If you'''re a Prahran local looking for fresh ideas or you're heading in from elsewhere, here's how to spend a weekend in Prahran in 2026.
 
 
 ### Saturday Morning: Prahran Market and Coffee
@@ -122,43 +119,21 @@ If you want to extend your weekend, Prahran's location makes it easy to explore 
 Every venue and price listed was verified in February–March 2026. Hours and specials may change — always check before heading out.
 
 
-**Living in Prahran?** [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=prahran)
+## FAQ
 
+**What is the best thing to do in Prahran this weekend?**
+Saturday morning at Prahran Market (arrive before 9am), followed by a Greville Street browse and lunch at Entrecote.
 
-*MELBZ is Melbourne's hyperlocal intelligence platform. We visit every venue, check every price, and write every word ourselves. For more Prahran guides, see our [neighbourhood guide](/prahran/neighbourhood-guide), [best coffee guide](/prahran/best-coffee), or [date night picks](/prahran/date-night). If you're exploring beyond Prahran, check our [South Yarra weekend guide](/south-yarra/things-to-do-this-weekend) or [Windsor weekend guide](/windsor/things-to-do-this-weekend).*
+**Is Prahran Market open on Sunday?**
+Yes. Sunday hours are 9:30am-4pm. Quieter than Saturday, some stalls may be closed, but still worth the visit.
 
-### Featured Venues
+**Can I do a full weekend in Prahran without a car?**
+Absolutely. Everything is walkable within the suburb. Prahran station and trams 72, 78, and 6 connect you to neighbouring suburbs.
 
-- **Hawker Hall** at 98 Chapel St, Windsor, VIC 3181
-- **Entrecôte** at 142-144 Greville St, Prahran, VIC 3181
-- **Tokyo Tina** at 66A Chapel St, Windsor, VIC 3181
-- **Tall Timber** at 60 Commercial Rd, Prahran VIC 3181
-- **Journeyman** at 169 Chapel St, Prahran VIC 3181
-- **Oscar Cooper** at 160 Greville St, Prahran VIC 3181
-- **Dragon Hot Pot Prahran** at 180 Commercial Rd, Prahran VIC 3181
-- **Prahran Convenience Store (The Toastie Spot)** at 208 Commercial Rd, Prahran VIC 3181
-- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor VIC 3181
-- **Rice Paper Scissors** at 577 Chapel St, South Yarra, VIC 3141
+## The Verdict
 
-### Key Highlights
+A Prahran weekend covers every tempo: buzzing market mornings, lazy long lunches, pub afternoons, serious nightlife, and slow Sunday brunches. The compact size means everything is walkable, and the variety means repeat weekends never feel repetitive.
 
-- Prahran Market
-- Chapel Street shopping precinct
-- Grattan Gardens
+---
 
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/things-to-do-melbourne/](/things-to-do-melbourne/)
-- [/events/](/events/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More Prahran:** [Weekend Guide](/prahran/weekend-guide/) | [Best Brunch](/prahran/best-brunch/) | [Nightlife Guide](/prahran/nightlife-guide/) | [Prahran Suburb Guide](/prahran/)

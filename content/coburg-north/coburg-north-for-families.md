@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Coburg North? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "coburg-north"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Coburg North good for families"
   - "Coburg North family friendly"
   - "raising kids in Coburg North"
+tags:
+  - "coburg-north"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Coburg North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

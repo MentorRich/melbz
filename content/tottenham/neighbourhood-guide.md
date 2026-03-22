@@ -4,13 +4,18 @@ description: "The insider's guide to Tottenham's different pockets, streets, and
 date: 2026-03-21
 suburb: "tottenham"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Tottenham neighbourhood guide"
   - "best streets in Tottenham"
   - "Tottenham areas"
   - "Tottenham pockets Melbourne"
+tags:
+  - "tottenham"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Tottenham isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

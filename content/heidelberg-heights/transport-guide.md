@@ -4,15 +4,22 @@ description: "Public transport in Heidelberg Heights: trains, trams, buses, cycl
 date: 2026-03-21
 suburb: "heidelberg-heights"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Heidelberg Heights Melbourne"
   - "commute from Heidelberg Heights to city"
   - "Heidelberg Heights train station"
+tags:
+  - "heidelberg-heights"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Heidelberg Heights — what works, what's annoying, and how long things actually take.
+If you are car-dependent, Heidelberg Heights might surprise you. If you rely on PT, read this first.
 
 Check out our full [Heidelberg Heights suburb guide](/heidelberg-heights/) for the complete picture.
 

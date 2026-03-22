@@ -4,19 +4,24 @@ description: "The spots in Reservoir that don't make the top 10 lists but locals
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "local-guide"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "hidden gems Reservoir"
   - "secret spots Reservoir"
   - "local tips Reservoir"
   - "off beaten path Reservoir Melbourne"
+tags:
+  - "reservoir"
+  - "hidden-gems"
+  - "local-tips"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Why Reservoir's Best Bits Are Hidden
 
-Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But Reservoir's real character lives in the places most visitors never find.
+Every Melbourne suburb has a public face — the main strip, the popular [cafes](/reservoir/best-cafes/), the spots Google tells you about. But Reservoir's real character lives in the places most visitors never find.
 
 These aren't "hidden" because someone's keeping secrets. They're hidden because they don't advertise, they don't have social media strategies, and they rely entirely on word of mouth and repeat customers.
 
@@ -62,4 +67,24 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on Reservoir:** [Reservoir Suburb Guide](/reservoir/) · [Reservoir History](/reservoir/history/) · [Reservoir Living Guide](/reservoir/living-in-reservoir/)
+**More on Reservoir:** [Reservoir Suburb Guide](/reservoir/) · [Reservoir History](/reservoir/[history](/reservoir/history/)/) · [Reservoir Living Guide](/reservoir/living-in-reservoir/)
+
+---
+
+## Explore More of Reservoir
+
+- [Reservoir History](/reservoir/history/)
+- [Reservoir Rent Guide](/reservoir/rent-guide/)
+- [Reservoir Things To Do](/reservoir/things-to-do/)
+- [Reservoir Cost of Living](/reservoir/cost-of-living/)
+- [Reservoir Reservoir For Families](/reservoir/reservoir-for-families/)
+- [Reservoir Neighbourhood Guide](/reservoir/neighbourhood-guide/)
+- [Reservoir Transport Guide](/reservoir/transport-guide/)
+- [Reservoir Best Cafes](/reservoir/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Preston Suburb Guide](/preston/)
+- [Thornbury Suburb Guide](/thornbury/)
+- [Coburg Suburb Guide](/coburg/)
+- [Pascoe Vale Suburb Guide](/pascoe-vale/)

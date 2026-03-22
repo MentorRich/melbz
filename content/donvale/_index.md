@@ -1,16 +1,16 @@
 ---
-title: "Donvale Melbourne — Everything You Need to Know"
+title: "Donvale Melbourne — what you need"
 description: "The complete guide to Donvale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "donvale"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Donvale Melbourne"
   - "what is Donvale like"
   - "donvale suburb"
   - "living in Donvale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hilly, leafy, and family-oriented near Warrandyte with good school access.

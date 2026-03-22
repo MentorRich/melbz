@@ -2,16 +2,13 @@
 title: "Canterbury Honest Guide 2026: The Leafy East Sider"
 cover_image: "/images/canterbury/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Sam Walsh"
 tags: ["canterbury", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Canterbury Honest Guide 2026: The Leafy East Sider"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -189,9 +186,8 @@ Maybe you think it's overpriced. Maybe you think the cafés are all the same. Ma
 
 ## Related Articles
 
-- [/carlton/](/carlton/)
-- [/richmond/](/richmond/)
-- [/canterbury/](/canterbury/)
-- [/canterbury/hub](/canterbury/hub)
+- [Carlton](/carlton/)
+- [Richmond](/richmond/)
+- [Canterbury](/canterbury/)
+- [Hub](/canterbury/hub)
 
-*Find more Melbourne content at [melbz.com.au](/)*

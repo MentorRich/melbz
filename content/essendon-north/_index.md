@@ -1,16 +1,16 @@
 ---
-title: "Essendon North Melbourne — Everything You Need to Know"
+title: "Essendon North Melbourne — what you need"
 description: "The complete guide to Essendon North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "essendon-north"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Essendon North Melbourne"
   - "what is Essendon North like"
   - "essendon-north suburb"
   - "living in Essendon North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet residential extension of Essendon with more space and lower prices.

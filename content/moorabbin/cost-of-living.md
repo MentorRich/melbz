@@ -4,16 +4,22 @@ description: "How expensive is Moorabbin? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "moorabbin"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Moorabbin Melbourne"
   - "how expensive is Moorabbin"
   - "is Moorabbin expensive to live in"
   - "Moorabbin rent"
+tags:
+  - "moorabbin"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Moorabbin — no sugar-coating, no made-up figures.
+The cost question in Moorabbin is straightforward: it is premium but you get what you pay for. Here is what your wallet actually needs to know.
 
 Read our full [Moorabbin suburb guide](/moorabbin/) for the bigger picture.
 

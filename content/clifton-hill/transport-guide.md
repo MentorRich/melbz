@@ -4,15 +4,22 @@ description: "Public transport in Clifton Hill: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Raj Patel"
 keywords:
   - "public transport Clifton Hill Melbourne"
   - "commute from Clifton Hill to city"
   - "Clifton Hill train station"
+tags:
+  - "clifton-hill"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Clifton Hill — what works, what's annoying, and how long things actually take.
+Getting around Clifton Hill comes down to one key train line. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Clifton Hill suburb guide](/clifton-hill/) for the complete picture.
 

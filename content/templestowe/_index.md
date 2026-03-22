@@ -1,16 +1,16 @@
 ---
-title: "Templestowe Melbourne — Everything You Need to Know"
+title: "Templestowe Melbourne — what you need"
 description: "The complete guide to Templestowe. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "templestowe"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Templestowe Melbourne"
   - "what is Templestowe like"
   - "templestowe suburb"
   - "living in Templestowe"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hilly landscape, large blocks, and a green family suburb with river access.

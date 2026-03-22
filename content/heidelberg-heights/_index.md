@@ -1,16 +1,16 @@
 ---
-title: "Heidelberg Heights Melbourne — Everything You Need to Know"
+title: "Heidelberg Heights Melbourne — what you need"
 description: "The complete guide to Heidelberg Heights. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "heidelberg-heights"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Heidelberg Heights Melbourne"
   - "what is Heidelberg Heights like"
   - "heidelberg-heights suburb"
   - "living in Heidelberg Heights"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 More affordable Heidelberg option with community centres and family services.

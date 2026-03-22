@@ -4,16 +4,22 @@ description: "How expensive is Cheltenham? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Cheltenham Melbourne"
   - "how expensive is Cheltenham"
   - "is Cheltenham expensive to live in"
   - "Cheltenham rent"
+tags:
+  - "cheltenham"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Cheltenham — no sugar-coating, no made-up figures.
+If you are weighing up Cheltenham against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Cheltenham suburb guide](/cheltenham/) for the bigger picture.
 

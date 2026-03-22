@@ -4,13 +4,18 @@ description: "The insider's guide to Huntingdale's different pockets, streets, a
 date: 2026-03-21
 suburb: "huntingdale"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Huntingdale neighbourhood guide"
   - "best streets in Huntingdale"
   - "Huntingdale areas"
   - "Huntingdale pockets Melbourne"
+tags:
+  - "huntingdale"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Huntingdale isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

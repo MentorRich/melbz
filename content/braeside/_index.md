@@ -1,16 +1,16 @@
 ---
-title: "Braeside Melbourne — Everything You Need to Know"
+title: "Braeside Melbourne — what you need"
 description: "The complete guide to Braeside. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "braeside"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Braeside Melbourne"
   - "what is Braeside like"
   - "braeside suburb"
   - "living in Braeside"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Braeside Park and surrounding industrial area with some residential edges.

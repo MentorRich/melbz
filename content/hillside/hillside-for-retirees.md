@@ -4,12 +4,16 @@ description: "Considering retirement in Hillside? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "hillside"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Hillside retirees Melbourne"
   - "retiring in Hillside"
   - "quiet suburbs Melbourne"
+tags:
+  - "hillside"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Hillside? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -1,16 +1,16 @@
 ---
-title: "Malvern Melbourne — Everything You Need to Know"
+title: "Malvern Melbourne — what you need"
 description: "The complete guide to Malvern. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "malvern"
 article_type: "profile"
 author: "Tom O'Brien"
-author_image: "/images/authors/tom.jpg"
 keywords:
   - "Malvern Melbourne"
   - "what is Malvern like"
   - "malvern suburb"
   - "living in Malvern"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Glenferrie Road shops, top schools, and established family living in Melbourne's inner south-east.

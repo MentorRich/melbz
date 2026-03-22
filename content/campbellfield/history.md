@@ -4,16 +4,22 @@ description: "The story of Campbellfield: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "campbellfield"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Campbellfield Melbourne history"
   - "how has Campbellfield changed"
   - "Campbellfield gentrification"
   - "Campbellfield then and now"
+tags:
+  - "campbellfield"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Campbellfield's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Understanding Campbellfield means understanding where it came from. The history explains the character.
 
 See our full [Campbellfield suburb guide](/campbellfield/) for the current picture.
 

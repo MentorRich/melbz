@@ -1,17 +1,16 @@
 ---
 title: "Best Bars in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-bars.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "jess"
-author_image: "/images/authors/jess.jpg"
+author: "Jess Harper"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best bars in Melbourne's CBD and surrounds for 2026. Real venues, real prices, and where locals actually drink — from rooftop gin joints to underground whisky dens."
 tags: ["melbourne"]
 categories: ["best"]
+---
+
 # Best Bars in Melbourne — 2026 Guide
 
 Melbourne's bar scene is one of the best in the world, and no, that's not tourism brochure talk — it's what happens when a city with a laneway obsession, a deep immigrant food culture, and a population that takes drinking very seriously collides with bartenders who treat cocktails like engineering problems. The CBD alone has more bars per square kilometre than most cities have in total, and the quality gap between the best and the worst is enormous. This guide closes that gap for you.
@@ -219,10 +218,9 @@ No article about Melbourne's best bars should end without the important bit. If 
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Southbank](/southbank/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

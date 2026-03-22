@@ -4,15 +4,22 @@ description: "Public transport in Balwyn North: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Balwyn North Melbourne"
   - "commute from Balwyn North to city"
   - "Balwyn North train station"
+tags:
+  - "balwyn-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Balwyn North — what works, what's annoying, and how long things actually take.
+Two words define transport in Balwyn North: surprisingly walkable. Everything else is detail.
 
 Check out our full [Balwyn North suburb guide](/balwyn-north/) for the complete picture.
 

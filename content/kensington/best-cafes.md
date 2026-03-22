@@ -1,19 +1,14 @@
 ---
 title: "Best Cafes in Kensington Melbourne"
-description: "Where to find the best coffee and cafes in Kensington. Local picks, quiet corners, and the spots that actually deliver."
-date: 2026-03-21
+description: "Where to find the best coffee and cafes in Kensington. Local picks, quiet corners, and the spots that actually deliver. Updated for 2026 with real local pick."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Tan"
+cover_image: "/images/kensington/best-cafes.jpg"
+cover_image_alt: "Best Cafes in Kensington Melbourne"
 suburb: "kensington"
-article_type: "best-of"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-keywords:
-  - "best cafes Kensington"
-  - "coffee Kensington Melbourne"
-  - "cafes near Kensington"
-  - "brunch Kensington"
+tags: ["kensington", "best-cafes"]
 ---
-
-
 ## The Cafe Scene in Kensington
 
 Kensington takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
@@ -59,3 +54,23 @@ Kensington's cafe scene is strong and growing. You won't struggle to find good c
 ---
 
 **More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington Cost of Living](/kensington/cost-of-living/) · [Kensington Neighbourhood Guide](/kensington/neighbourhood-guide/)
+
+---
+
+## Explore More of Kensington
+
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

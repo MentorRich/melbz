@@ -4,13 +4,19 @@ description: "Raising a dog in Malvern? Off-leash parks, pet-friendly cafes, vet
 date: 2026-03-21
 suburb: "malvern"
 article_type: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "dog friendly Malvern"
   - "off leash park Malvern"
   - "pet friendly cafes Malvern"
   - "walking dog Malvern"
+tags:
+  - "malvern"
+  - "pets"
+  - "dogs"
+  - "parks"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -28,7 +34,7 @@ Malvern has dedicated off-leash areas where your dog can actually run. The local
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/malvern/best-cafes/)
 
 Multiple cafes in Malvern welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +74,23 @@ Veterinary clinics are accessible from Malvern, including emergency after-hours 
 ---
 
 **More on Malvern:** [Malvern Suburb Guide](/malvern/) · [Malvern Things to Do](/malvern/things-to-do/) · [Malvern for Families](/malvern/malvern-for-families/)
+
+---
+
+## Explore More of Malvern
+
+- [Malvern History](/malvern/history/)
+- [Malvern Rent Guide](/malvern/rent-guide/)
+- [Malvern Things To Do](/malvern/things-to-do/)
+- [Malvern Cost of Living](/malvern/cost-of-living/)
+- [Malvern Young Professionals Guide](/malvern/young-professionals/)
+- [Malvern Transport Guide](/malvern/transport-guide/)
+- [Malvern Best Cafes](/malvern/best-cafes/)
+- [Malvern Best Restaurants](/malvern/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

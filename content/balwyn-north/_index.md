@@ -1,16 +1,16 @@
 ---
-title: "Balwyn North Melbourne — Everything You Need to Know"
+title: "Balwyn North Melbourne — what you need"
 description: "The complete guide to Balwyn North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Balwyn North Melbourne"
   - "what is Balwyn North like"
   - "balwyn-north suburb"
   - "living in Balwyn North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 School-focused families, larger blocks, and Greythorn shopping strip.

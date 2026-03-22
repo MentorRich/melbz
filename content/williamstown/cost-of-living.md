@@ -4,13 +4,19 @@ description: "How expensive is Williamstown? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "williamstown"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Williamstown Melbourne"
   - "how expensive is Williamstown"
   - "is Williamstown expensive to live in"
   - "Williamstown rent"
+tags:
+  - "williamstown"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Money matters when you're choosing where to live. Here's the real story on costs in Williamstown — no sugar-coating, no made-up figures.

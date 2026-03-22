@@ -4,16 +4,22 @@ description: "How expensive is St Kilda West? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "st-kilda-west"
 article_type: "cost-of-living"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living St Kilda West Melbourne"
   - "how expensive is St Kilda West"
   - "is St Kilda West expensive to live in"
   - "St Kilda West rent"
+tags:
+  - "st-kilda-west"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in St Kilda West — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In St Kilda West, here is exactly how far your dollar goes.
 
 Read our full [St Kilda West suburb guide](/st-kilda-west/) for the bigger picture.
 

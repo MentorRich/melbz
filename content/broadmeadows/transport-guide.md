@@ -4,15 +4,22 @@ description: "Public transport in Broadmeadows: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "broadmeadows"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Broadmeadows Melbourne"
   - "commute from Broadmeadows to city"
   - "Broadmeadows train station"
+tags:
+  - "broadmeadows"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Broadmeadows — what works, what's annoying, and how long things actually take.
+Getting around Broadmeadows comes down to tram access and walkability. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Broadmeadows suburb guide](/broadmeadows/) for the complete picture.
 

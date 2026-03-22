@@ -4,13 +4,18 @@ description: "The insider's guide to Macleod's different pockets, streets, and a
 date: 2026-03-21
 suburb: "macleod"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Macleod neighbourhood guide"
   - "best streets in Macleod"
   - "Macleod areas"
   - "Macleod pockets Melbourne"
+tags:
+  - "macleod"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Macleod isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -1,16 +1,16 @@
 ---
-title: "Mulgrave Melbourne — Everything You Need to Know"
+title: "Mulgrave Melbourne — what you need"
 description: "The complete guide to Mulgrave. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mulgrave"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Mulgrave Melbourne"
   - "what is Mulgrave like"
   - "mulgrave suburb"
   - "living in Mulgrave"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Waverley Gardens Shopping Centre, corporate parks, and established family living.

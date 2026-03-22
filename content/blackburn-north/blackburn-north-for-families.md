@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Blackburn North? Parks, schools, safet
 date: 2026-03-21
 suburb: "blackburn-north"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Blackburn North good for families"
   - "Blackburn North family friendly"
   - "raising kids in Blackburn North"
+tags:
+  - "blackburn-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Blackburn North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,12 +4,16 @@ description: "What's it really like living in Kooyong? Pros, cons, and the stuff
 date: 2026-03-21
 suburb: "kooyong"
 article_type: "living-in"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "living in Kooyong Melbourne"
   - "pros and cons of living in Kooyong"
   - "is Kooyong a good place to live"
+tags:
+  - "kooyong"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Kooyong? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ Tennis courts, private schools, and one of Melbourne's most exclusive residentia
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Kooyong delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** The dining options range from genuinely good to hidden gems that locals guard jealously. Kooyong eats well without the inner-city markup.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

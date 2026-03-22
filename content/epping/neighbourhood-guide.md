@@ -4,13 +4,18 @@ description: "The insider's guide to Epping's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "epping"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Epping neighbourhood guide"
   - "best streets in Epping"
   - "Epping areas"
   - "Epping pockets Melbourne"
+tags:
+  - "epping"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Epping isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

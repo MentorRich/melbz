@@ -4,16 +4,22 @@ description: "How expensive is Aberfeldie? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "aberfeldie"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Aberfeldie Melbourne"
   - "how expensive is Aberfeldie"
   - "is Aberfeldie expensive to live in"
   - "Aberfeldie rent"
+tags:
+  - "aberfeldie"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Aberfeldie — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Aberfeldie actually cost? No vague estimates - real numbers.
 
 Read our full [Aberfeldie suburb guide](/aberfeldie/) for the bigger picture.
 

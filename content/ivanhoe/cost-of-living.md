@@ -3,14 +3,13 @@ title: "Cost of Living in Ivanhoe 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "ivanhoe"
 suburbs: ["ivanhoe"]
 vertical: property
 tags: ["ivanhoe", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Ivanhoe in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/4556162/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Ivanhoe Melbourne cost of living"
 vibe_score: 73
 ---
@@ -36,7 +35,7 @@ This is where most of your money goes. Ivanhoe's rental market in 2026 looks lik
 |---------|-------------|-------|
 | Rent (1-bed) | $1637 | Biggest line item by far |
 | Groceries | $320-$420 | Depends on Coles vs local market habits |
-| Transport (Myki) | $160-$200 | Zone 1-2 monthly cap |
+| [Transport](/ivanhoe/transport-guide/) (Myki) | $160-$200 | Zone 1-2 monthly cap |
 | Utilities (1-bed) | $180-$240 | Gas + electricity + water |
 | Internet | $70-$90 | NBN, decent speed |
 | Coffee habit | $80-$120 | 1-2 per day at local prices |
@@ -50,7 +49,7 @@ This is where most of your money goes. Ivanhoe's rental market in 2026 looks lik
 
 **Eating out:** The average meal out in Ivanhoe runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/ivanhoe/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Ivanhoe, you're on the Zone 1/2 border, so check the exact station — it can make a $5/day difference. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Ivanhoe, you're on the Zone 1/2 border, so check the exact station — it can make a $5/day difference. An annual Myki pass is the smart move if you [commute](/ivanhoe/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,22 @@ For more context on how this compares, check our [Living in Ivanhoe guide](/ivan
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Ivanhoe
+
+- [Ivanhoe History](/ivanhoe/history/)
+- [Ivanhoe Young Professionals Guide](/ivanhoe/young-professionals/)
+- [Ivanhoe Ivanhoe For Retirees](/ivanhoe/ivanhoe-for-retirees/)
+- [Ivanhoe Transport Guide](/ivanhoe/transport-guide/)
+- [Ivanhoe Family Guide](/ivanhoe/family-guide/)
+- [Ivanhoe Honest Guide](/ivanhoe/honest-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Huntingdale Suburb Guide](/huntingdale/)
+- [Hurstbridge Suburb Guide](/hurstbridge/)
+- [Ivanhoe East Suburb Guide](/ivanhoe-east/)
+- [Jacana Suburb Guide](/jacana/)

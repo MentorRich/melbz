@@ -1,16 +1,16 @@
 ---
 title: "Weekend Guide: Melbourne CBD 2026 — Saturday & Sunday Done Right"
-cover_image: "/images/melbourne-cbd/weekend-guide-v2.jpg"
-date: 2026-03-16
-author: isabella
-author_image: "/images/authors/isabella.jpg"
-tags: ["melbourne-cbd", "weekend", "lifestyle"]
-categories: ["lifestyle"]
-description: "Weekend Guide: Melbourne CBD 2026 — Saturday & Sunday Done Right"
+cover_image: "/images/shared/city-architecture.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Isabella Greco"
+tags: ["melbourne", "melbourne-cbd", "weekend", "lifestyle"]
+description: "Melbourne CBD weekend guide for 2026. Queen Victoria Market Saturday mornings, Chinatown lunch, rooftop sunset drinks and Sunday sessions at Young and Jackson."
 ---
 
 **Updated 16 March 2026 | Isabella Greco reporting**
-
 
 
 The CBD on a weekend is a different anima..."
@@ -44,7 +44,7 @@ If you want the full Melbourne brunch experience — the queue, the tiny tables,
 
 Not a brunch spot per se, but the best place to start your Saturday if you want a flat white ($4.80) and a croissant before doing anything else. The QV outpost is spacious by CBD standards — actual seats, not just a standing bar. Order at the counter, find a corner, and watch the QV precinct wake up. Opens 7am weekends.
 
-> **LOCAL TIP:** Skip Degraves Street on Saturday morning unless you enjoy elbow-to-elbow seating and tourist pricing. The laneway charm is real, but so is the 90-minute wait at some cafes. Hardware Street is two blocks away and significantly better value.
+> **LOCAL TIP:** Skip Degraves Street on Saturday morning unless you enjoy elbow-to-elbow seating and tourist pricing. The laneway charm is real, but so is the 90-minute wait at some [cafes](/melbourne-cbd/best-cafes/). Hardware Street is two blocks away and significantly better value.
 
 ### Late Morning: Laneways Worth Your Time
 
@@ -68,7 +68,7 @@ The laneway behind the opulent buildings of Collins Street. Quieter, more intima
 
 Saturday afternoon in the CBD means galleries that are actually open, free to enter, and not packed with school groups.
 
-**Australian Centre for Contemporary Art (ACCA)** — 111 Sturt Street, Southbank
+**Australian Centre for Contemporary Art (ACCA)** — 111 Sturt Street, [Southbank](/southbank/)
 
 Just across the Yarra from the CBD proper — a 10-minute walk from Flinders Street Station across the Evan Walker Bridge. ACCA is free, always interesting, and the building itself (that rust-red geometric structure) is worth seeing even if the exhibition doesn't grab you. Their current autumn program runs through May 2026 and leans into installation art — expect large-scale, immersive work that fills the galleries floor to ceiling. Open 10am–5pm Tuesday to Sunday. Closed Mondays.
 
@@ -109,7 +109,7 @@ Sunday morning in the CBD is for people who don't want to rush. The pace drops, 
 
 **Hardware Lane** — between Bourke and Little Collins Streets
 
-Hardware Lane is the CBD's best brunch street on Sunday mornings. The restaurants that line both sides set up outdoor tables, and the whole strip feels like a European piazza — minus the euros, plus AFL jerseys.
+Hardware Lane is the CBD's best brunch street on Sunday mornings. The [restaurants](/melbourne-cbd/best-restaurants/) that line both sides set up outdoor tables, and the whole strip feels like a European piazza — minus the euros, plus AFL jerseys.
 
 **Cumulus Inc.** — 45 Flinders Lane, Melbourne
 
@@ -129,9 +129,9 @@ The parkland behind Federation Square that most tourists walk through without st
 
 The formal gardens and parkland that include the Queen Victoria Gardens and the Shrine of Remembrance forecourt. If you're feeling active, the walk up to the Shrine of Remembrance viewing platform (free entry) gives you a 360-degree panorama of the city. The steps are steep — there's a lift and ramp access on the north side. Open 10am–5pm daily, and the underground gallery (free) has a surprisingly moving exhibition about wartime sacrifice.
 
-**Fitzroy Gardens** — between Wellington Parade and Clarendon Street, East Melbourne
+**Fitzroy Gardens** — between Wellington Parade and Clarendon Street, [East Melbourne](/east-melbourne/)
 
-Technically East Melbourne, but a 15-minute walk from the CBD and worth every step. The Cook's Cottage (the reconstructed 1755 cottage of Captain James Cook's parents, $7 adults) is genuinely interesting if you like colonial history. The gardens themselves are beautiful — elm trees, a miniature Tudor village, and a conservatory with rotating floral displays. The diagonal paths mean you can cross the gardens in 10 minutes or lose an hour wandering.
+Technically East Melbourne, but a 15-minute walk from the CBD and worth every step. The Cook's Cottage (the reconstructed 1755 cottage of Captain James Cook's parents, $7 adults) is genuinely interesting if you like colonial [history](/melbourne-cbd/history/). The gardens themselves are beautiful — elm trees, a miniature Tudor village, and a conservatory with rotating floral displays. The diagonal paths mean you can cross the gardens in 10 minutes or lose an hour wandering.
 
 **Southbank Promenade** — along the Yarra, from Queens Bridge Street to the Arts Centre
 
@@ -170,14 +170,14 @@ Not everything in the CBD deserves your weekend. Here's what we left out, and th
 
 **Laneway street art walking tours** — There are dozens of commercial walking tours that cover the CBD's street art, and some are excellent. But this is a self-guided weekend guide. The art is free, the laneways are open, and Google Maps will show you every major mural location. If you want a guided experience (and the stories behind the artists), the Street Art Tours Melbourne group runs $35/person tours departing from Hosier Lane — genuinely worthwhile if you're new to the scene.
 
-**Southern Cross Station and the Docklands** — Docklands has improved significantly since 2020 with new restaurants and the UNSW campus bringing more foot traffic, but it's still a 20-minute tram ride from the CBD centre and doesn't have enough standalone draw to justify a slot in a weekend guide. We'll cover it in a separate Docklands piece when the next wave of venues opens in winter 2026.
+**Southern Cross Station and the [Docklands](/docklands/)** — Docklands has improved significantly since 2020 with new restaurants and the UNSW campus bringing more foot traffic, but it's still a 20-minute tram ride from the CBD centre and doesn't have enough standalone draw to justify a slot in a weekend guide. We'll cover it in a separate Docklands piece when the next wave of venues opens in winter 2026.
 
 
 ## Getting Around: Practical Bits
 
 - **Trams in the CBD** are free within the Free Tram Zone (covers the area from Spring Street to Docklands, and Flinders Street to Victoria Market). You don't need a Myki for CBD travel within this zone.
 - **Myki** is required if you travel beyond the Free Tram Zone — top up at any 7-Eleven or train station. Daily cap is $10.60 for Zone 1+2.
-- **Walking** is honestly the best way to experience the CBD. Everything in this guide is within a 25-minute walk of Flinders Street Station.
+- **Walking** is honestly the best way to experience the CBD. Everything is within a 25-minute walk of Flinders Street Station.
 - **Accessibility:** The CBD has step-free access to most major venues. The City of Melbourne's accessibility map (melbourne.vic.gov.au/accessibility) covers accessible tram stops, crossings, and public toilets. ACCA, NGV, and the Shrine of Remembrance all have lift access and accessible bathrooms.
 - **Weather:** March in Melbourne averages 18–24°C but can swing from 12°C to 32°C in a single day. Bring layers. Always bring layers.
 
@@ -215,38 +215,22 @@ Not everything in the CBD deserves your weekend. Here's what we left out, and th
 
 *Updated 16 March 2026 | Isabella Greco reporting*
 
-### Featured Venues
+---
 
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+## Explore More of Melbourne CBD
 
-### Key Highlights
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Cocktails](/melbourne-cbd/cocktails/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD New To Cbd](/melbourne-cbd/new-to-cbd/)
 
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/southbank/](/southbank/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

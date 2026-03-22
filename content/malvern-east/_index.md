@@ -1,16 +1,16 @@
 ---
-title: "Malvern East Melbourne — Everything You Need to Know"
+title: "Malvern East Melbourne — what you need"
 description: "The complete guide to Malvern East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "malvern-east"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Malvern East Melbourne"
   - "what is Malvern East like"
   - "malvern-east suburb"
   - "living in Malvern East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Central Park, quiet family streets, and proximity to Chadstone shopping.

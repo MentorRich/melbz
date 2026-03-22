@@ -1,16 +1,16 @@
 ---
-title: "Rosanna Melbourne — Everything You Need to Know"
+title: "Rosanna Melbourne — what you need"
 description: "The complete guide to Rosanna. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "rosanna"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Rosanna Melbourne"
   - "what is Rosanna like"
   - "rosanna suburb"
   - "living in Rosanna"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Rosanna Village shops, Yarra River access, and family living on the Hurstbridge line.

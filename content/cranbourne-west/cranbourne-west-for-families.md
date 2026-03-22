@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Cranbourne West? Parks, schools, safet
 date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Cranbourne West good for families"
   - "Cranbourne West family friendly"
   - "raising kids in Cranbourne West"
+tags:
+  - "cranbourne-west"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Cranbourne West with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

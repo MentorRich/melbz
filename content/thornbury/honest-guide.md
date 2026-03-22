@@ -1,16 +1,16 @@
 ---
-title: "Thornbury Honest Guide 2026: High Street North Thornbury Real Opinions"
+title: "Thornbury Honest Guide 2026 — High Street North and Real Opinions"
+description: "The honest guide to Thornbury in 2026. High Street dining, the tram 86 reality, rent versus Northcote, and who this inner north suburb actually suits."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jack Morrison"
 cover_image: "/images/thornbury/honest-guide.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
-tags: ["thornbury", "honest-guide", "lifestyle"]
-categories: ["lifestyle"]
-description: "Thornbury Honest Guide 2026: High Street North & Real Opinions"
+cover_image_alt: "Thornbury Melbourne High Street honest guide"
+suburb: "thornbury"
+tags: ["melbourne", "thornbury", "honest-guide", "lifestyle"]
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
 
 
 Let's get this out of the way immediately: T..."
@@ -33,7 +33,7 @@ But let's talk about which High Street, because this is where a lot of people ge
 
 The residential streets branching off are classic Melbourne: 1920s and 1930s weatherboard and brick, enough renovation happening to keep the tradies busy but not so much that the neighbourhood's been gutted and replaced with those off-the-plan townhouses that look like they were designed by someone who'd never seen a house before.
 
-**Getting here:** The 86 tram from the CBD takes about 35–40 minutes depending on whether it stops for absolutely everyone at every single stop (it will). The 302 and 303 buses handle the east-west thing. No train — the nearest station is Reservoir on the South Morar line, which is a 10-15 minute walk from the southern end of High Street. There's no Thornbury station and honestly, there probably won't be one for a while. The state government moves slower than the 86 tram, which is saying something.
+**Getting here:** Thornbury station sits on the South Morang/Mernda line — about 25 minutes to Flinders Street, trains every 10-15 minutes during peak. It's on Station Street, east of High Street. The 86 tram from the CBD takes about 35-40 minutes depending on whether it stops for absolutely everyone at every single stop (it will). The 302 and 303 buses handle the east-west thing. Between the train and the tram, Thornbury's transport is genuinely solid — one of the suburb's real strengths.
 
 ## What's Actually Good
 
@@ -123,40 +123,5 @@ If you're considering Thornbury, go visit on a Saturday. Walk High Street from t
 
 *Have a Thornbury tip, hot take, or correction? [Submit it here →](/submit)*
 
-*Next up: [The Complete Guide to Northcote's High Street](/northcote/honest-guide) | [Preston Market: Everything You Need to Know](/preston/preston-market)*
+*Next up: [The Complete Guide to Northcote's High Street](/northcote/honest-guide) | [Preston Market: what you need](/preston/preston-market)*
 
-### Featured Venues
-
-- **Umbra** at 769 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
-- **Jerry Joy** at 847 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Umami** at 778 High St, Thornbury VIC 3071
-- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
-- **Umami** at 774 High St, Thornbury VIC 3071
-
-### Key Highlights
-
-- High Street's independent cafes and vintage stores
-- The iconic Thornbury Theatre
-- Penders Park and Merri Creek trail access
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/northcote/](/northcote/)
-- [/prahran/](/prahran/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

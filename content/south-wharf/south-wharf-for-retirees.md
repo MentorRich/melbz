@@ -4,12 +4,16 @@ description: "Considering retirement in South Wharf? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "south-wharf"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "South Wharf retirees Melbourne"
   - "retiring in South Wharf"
   - "quiet suburbs Melbourne"
+tags:
+  - "south-wharf"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in South Wharf? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

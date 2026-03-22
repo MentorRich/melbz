@@ -1,16 +1,16 @@
 ---
 title: "Rent Prices in Brunswick East 2026: What You'll Pay"
 cover_image: "/images/brunswick-east/rent-report.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
+date: 2026-03-22
+author: "Marcus Cole"
+lastmod: 2026-03-22
+cover_image_alt: "Residential properties near Lygon Street Brunswick East"
+suburb: "brunswick-east"
 tags: ["brunswick-east", "rent", "property"]
-categories: ["property"]
-description: "Rent Prices in Brunswick East 2026: What You'll Pay"
+description: "Rent prices in Brunswick East for 2026 — median rents by bedroom count, inner-north suburb comparisons, and the salary you need."
 ---
 
 **Updated 16 March 2026 | Marcus Cole reporting**
-
 
 
 Brunswick East is that sweet spot between "too cool for y..."
@@ -135,10 +135,9 @@ Whether it's worth it depends on what you value. If you want the Merri Creek tra
 
 ## Related Articles
 
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

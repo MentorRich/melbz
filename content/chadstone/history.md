@@ -4,16 +4,22 @@ description: "The story of Chadstone: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "chadstone"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Chadstone Melbourne history"
   - "how has Chadstone changed"
   - "Chadstone gentrification"
   - "Chadstone then and now"
+tags:
+  - "chadstone"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Chadstone's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Chadstone is a story of cultural diversity.
 
 See our full [Chadstone suburb guide](/chadstone/) for the current picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Carlton North? Quiet streets, healthcare
 date: 2026-03-21
 suburb: "carlton-north"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Carlton North retirees Melbourne"
   - "retiring in Carlton North"
   - "quiet suburbs Melbourne"
+tags:
+  - "carlton-north"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Carlton North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

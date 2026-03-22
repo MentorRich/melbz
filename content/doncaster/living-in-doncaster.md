@@ -4,12 +4,16 @@ description: "What's it really like living in Doncaster? Pros, cons, and the stu
 date: 2026-03-21
 suburb: "doncaster"
 article_type: "living-in"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "living in Doncaster Melbourne"
   - "pros and cons of living in Doncaster"
   - "is Doncaster a good place to live"
+tags:
+  - "doncaster"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Doncaster? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ Westfield Doncaster, hilltop views, and a strong Chinese-Australian family commu
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Doncaster delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** From morning coffee to Friday night dinner, Doncaster has you covered without needing to drive 20 minutes for a decent meal.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

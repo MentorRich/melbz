@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Bayswater? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "bayswater"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Bayswater good for families"
   - "Bayswater family friendly"
   - "raising kids in Bayswater"
+tags:
+  - "bayswater"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/beach-bayside.jpg"
 ---
 
 Moving to Bayswater with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

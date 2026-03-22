@@ -4,12 +4,18 @@ description: "Is Caulfield South a good suburb for young professionals? Social s
 date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "young-professionals"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Caulfield South young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Caulfield South"
+tags:
+  - "caulfield-south"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Caulfield South as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

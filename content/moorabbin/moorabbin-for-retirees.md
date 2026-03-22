@@ -4,12 +4,16 @@ description: "Considering retirement in Moorabbin? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "moorabbin"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Moorabbin retirees Melbourne"
   - "retiring in Moorabbin"
   - "quiet suburbs Melbourne"
+tags:
+  - "moorabbin"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Moorabbin? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

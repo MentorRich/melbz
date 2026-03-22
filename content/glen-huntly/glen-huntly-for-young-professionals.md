@@ -4,12 +4,18 @@ description: "Is Glen Huntly a good suburb for young professionals? Social scene
 date: 2026-03-21
 suburb: "glen-huntly"
 article_type: "young-professionals"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Glen Huntly young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Glen Huntly"
+tags:
+  - "glen-huntly"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Glen Huntly as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

@@ -4,12 +4,16 @@ description: "Considering retirement in East Melbourne? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "East Melbourne retirees Melbourne"
   - "retiring in East Melbourne"
   - "quiet suburbs Melbourne"
+tags:
+  - "east-melbourne"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in East Melbourne? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

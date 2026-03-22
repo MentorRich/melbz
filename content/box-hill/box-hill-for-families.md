@@ -3,13 +3,12 @@ title: "Is Box Hill Good for Families?"
 description: "Thinking of raising kids in Box Hill? Parks, schools, safety, and the honest parent verdict on this Melbourne suburb."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
-keywords:
-  - "is Box Hill good for families"
-  - "Box Hill family friendly"
-  - "raising kids in Box Hill"
+author: "Sam Walsh"
+tags:
+  - "box-hill"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Box Hill with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

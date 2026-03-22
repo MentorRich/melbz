@@ -4,13 +4,18 @@ description: "The insider's guide to Princes Hill's different pockets, streets, 
 date: 2026-03-21
 suburb: "princes-hill"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Princes Hill neighbourhood guide"
   - "best streets in Princes Hill"
   - "Princes Hill areas"
   - "Princes Hill pockets Melbourne"
+tags:
+  - "princes-hill"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Princes Hill isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

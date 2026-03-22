@@ -4,12 +4,18 @@ description: "Is Lalor a good suburb for young professionals? Social scene, comm
 date: 2026-03-21
 suburb: "lalor"
 article_type: "young-professionals"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Lalor young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Lalor"
+tags:
+  - "lalor"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Lalor as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

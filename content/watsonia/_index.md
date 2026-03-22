@@ -1,16 +1,16 @@
 ---
-title: "Watsonia Melbourne — Everything You Need to Know"
+title: "Watsonia Melbourne — what you need"
 description: "The complete guide to Watsonia. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "watsonia"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Watsonia Melbourne"
   - "what is Watsonia like"
   - "watsonia suburb"
   - "living in Watsonia"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Watsonia shops, Simpson Barracks nearby, and affordable north-east family living.

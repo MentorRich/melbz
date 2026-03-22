@@ -4,15 +4,22 @@ description: "Public transport in Ringwood: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "ringwood"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Ringwood Melbourne"
   - "commute from Ringwood to city"
   - "Ringwood train station"
+tags:
+  - "ringwood"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Ringwood — what works, what's annoying, and how long things actually take.
+Two words define transport in Ringwood: frustratingly patchy. Everything else is detail.
 
 Check out our full [Ringwood suburb guide](/ringwood/) for the complete picture.
 

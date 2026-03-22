@@ -4,15 +4,22 @@ description: "Public transport in South Kingsville: trains, trams, buses, cyclin
 date: 2026-03-21
 suburb: "south-kingsville"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport South Kingsville Melbourne"
   - "commute from South Kingsville to city"
   - "South Kingsville train station"
+tags:
+  - "south-kingsville"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around South Kingsville — what works, what's annoying, and how long things actually take.
+The daily commute from South Kingsville has a personality all its own. It is patchy but improving.
 
 Check out our full [South Kingsville suburb guide](/south-kingsville/) for the complete picture.
 

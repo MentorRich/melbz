@@ -4,16 +4,22 @@ description: "The story of Ringwood: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "ringwood"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Ringwood Melbourne history"
   - "how has Ringwood changed"
   - "Ringwood gentrification"
   - "Ringwood then and now"
+tags:
+  - "ringwood"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Ringwood's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Ringwood is not just dates and facts - it is the DNA of the current personality of this suburb.
 
 See our full [Ringwood suburb guide](/ringwood/) for the current picture.
 

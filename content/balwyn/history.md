@@ -4,16 +4,22 @@ description: "The story of Balwyn: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Balwyn Melbourne history"
   - "how has Balwyn changed"
   - "Balwyn gentrification"
   - "Balwyn then and now"
+tags:
+  - "balwyn"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Balwyn's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Balwyn means understanding where it came from. The history explains the character.
 
 See our full [Balwyn suburb guide](/balwyn/) for the current picture.
 

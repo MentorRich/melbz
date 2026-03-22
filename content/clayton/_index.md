@@ -1,16 +1,16 @@
 ---
-title: "Clayton Melbourne — Everything You Need to Know"
+title: "Clayton Melbourne — what you need"
 description: "The complete guide to Clayton. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "clayton"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Clayton Melbourne"
   - "what is Clayton like"
   - "clayton suburb"
   - "living in Clayton"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Monash Uni campus, Clayton Road food strip, and a student-plus-family community on the rise.

@@ -1,96 +1,69 @@
 ---
-title: "Camberwell Melbourne — Everything You Need to Know"
-description: "The complete guide to Camberwell. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
-date: 2026-03-21
-suburb: "camberwell"
-article_type: "profile"
-author: "James Mitchell"
-author_image: "/images/authors/james.jpg"
-keywords:
-  - "Camberwell Melbourne"
-  - "what is Camberwell like"
-  - "camberwell suburb"
-  - "living in Camberwell"
+title: "Camberwell"
+cover_image: "/images/shared/cafe-street.jpg"
+description: "Camberwell is Melbourne's inner-east anchor -- Burke Road shopping, the Sunday market that's run since the 1970s, Rivoli Cinema, and a food scene that's quietly outgrown its reputation. Postcode 3124, City of Boroondara, 10km from the CBD."
+author: "Jules Marchetti"
 ---
 
-Camberwell Junction shopping, Sunday market, and heritage homes. Classic Melbourne east.
+Camberwell sits at the junction of Burke Road, Riversdale Road, and Camberwell Road, and that junction defines the suburb. Five roads converge at Camberwell Junction, and the result is a commercial hub that punches harder than most eastern suburbs can manage. The Rivoli Cinema has been here since 1940. The Sunday market has been running in the car park off Station Street since the 1970s. Burke Road's shopping strip runs for over a kilometre north from the junction and still has more independent retailers than chains.
 
-If you're thinking about living in Camberwell, visiting for the first time, or just trying to work out if this place is worth your Saturday afternoon — here's the honest rundown.
+The suburb is 10 kilometres east of the CBD, in the City of Boroondara, postcode 3124. It borders Hawthorn to the west, Canterbury to the south-east, and Surrey Hills to the east. The housing stock is overwhelmingly period -- Edwardian and interwar homes on wide, tree-lined streets, with a growing number of apartment developments near the junction. Median house prices sit around $2.2 million in 2026, and the demographic skews established families, downsizers from larger homes in Canterbury and Balwyn, and professionals who want the eastern suburbs without giving up walkability.
 
-## Where Is Camberwell?
+## What to eat in Camberwell
 
-Camberwell sits in Melbourne's Inner East region. It's the kind of suburb where you can feel the neighbourhood's personality the minute you step off public transport. Getting to the city from here isn't a drama — you've got options depending on where exactly you are in the suburb.
+Burke Road is where most of the eating happens. Elyros at 871 Burke Road does Greek-Mediterranean that would hold its own in Fitzroy -- the lamb shoulder for two ($68) is the dish that fills the place on Friday nights. Prospect Espresso at 2A Prospect Hill Road is the coffee benchmark, pulling specialty beans in a small shopfront that regulars guard jealously. For something fast and sharp, Chengdu Taste at 766 Burke Road does Sichuan that draws people from across the eastern suburbs -- the mapo tofu ($18) and the dan dan noodles ($16) are the orders that matter.
 
-The suburb borders Hawthorn, Canterbury, Surrey Hills. That matters because your nearby options for food, coffee, and weekend plans extend well beyond Camberwell's own postcode boundaries.
+The multicultural mix around the junction has deepened over the past few years. Tao Dumplings at 550 Burke Road does xiao long bao that are worth the queue. Banh Mi Boys at the same address handles the quick lunch crowd. The old Italian dominance has faded, replaced by a broader spread that reflects the suburb's evolving demographics.
 
-## What's Camberwell Actually Like?
+For the full breakdown, see our [guide to Camberwell's best restaurants](/camberwell/best-restaurants/).
 
-Camberwell Junction shopping, Sunday market, and heritage homes. Classic Melbourne east.
+## Burke Road -- the main strip
 
-Every suburb has a specific energy. Camberwell has its own thing going on — it's not trying to be everywhere else. The streets have character, the locals know their spots, and there's a pace of life here that either suits you or doesn't.
+Burke Road is Camberwell's spine and the reason most people visit. The strip runs north from Camberwell Junction, and the mix is old Melbourne: Camberwell Fresh Food Market for groceries, a solid run of cafes between the junction and Canterbury Road, and boutique retail that has survived the online shopping cull because the foot traffic still works. The Saturday morning crowd is prams, golden retrievers, and reusable shopping bags.
 
-Walk around on a Saturday morning and you'll pick up the vibe pretty quickly. The cafes tell you a lot — are they packed with young couples or families with prams? That gives you a read on who lives here.
+The southern end of Burke Road, below the junction, is quieter and more residential but still holds Legacy Camberwell at 570 Burke Road for a proper sit-down dinner and Georges Restaurant and Bar at 562 Burke Road for the occasion meal.
 
-## Who Lives in Camberwell?
+## Riversdale Road
 
-Camberwell draws a particular crowd. The demographics lean towards the kind of people who value what this suburb specifically offers. You'll find a mix — and it's the mix that makes it work.
+Riversdale Road runs east-west and is Camberwell's secondary commercial strip. The tram 70 runs along it, which means you can get to the CBD without touching a train. The food options here lean more casual -- Thai takeaway, a few cafes, the kind of bakeries that have been here for decades. It is quieter than Burke Road and better for it.
 
-The community here has its own institutions, its own rhythms, its own complaints about parking. Like every Melbourne suburb, it's evolved over the past couple of decades and the people who live here now aren't necessarily the same crowd from fifteen years ago.
+## The Camberwell Vibe Score
 
-## Housing in Camberwell
+Our live [Suburb Vibe Score](/vibe-score/) tracks venue openings, foot traffic, social buzz, and event density. Camberwell sits in the upper tier of eastern suburbs -- it dipped when a few Burke Road shops closed in late 2025 but recovered as new operators moved in. Check the latest ranking to see where it sits this week.
 
-The housing stock in Camberwell tells the story of how the suburb has evolved. You'll find a mix of older homes that have been here for decades alongside newer build quality — townhouses, apartments, and the occasional knockdown-rebuild that sticks out on the street.
+## Living in Camberwell -- what it actually costs
 
-If you're renting, there's decent variety depending on your budget. Share houses exist for those starting out. Units and apartments work for professionals. Families will need to hunt a bit harder for standalone homes with a backyard, but they're out there.
+A one-bedroom apartment near the junction runs $400-$500 per week in 2026. A two-bedroom house north of Riversdale Road is $600-$800. Buying is a different conversation: median house prices crossed $2 million in 2024 and haven't slowed. The tradeoff is proximity -- Camberwell station on the Lilydale, Belgrave, and Alamein lines gets you to Flinders Street in about 20 minutes, and Burke Road has enough shops that a car becomes optional for daily errands.
 
-## Getting Around Camberwell
+### Getting around
 
-Transport from Camberwell is solid enough to make it work without a car for most people, though having a car definitely helps for some errands and weekend plans.
+Camberwell station sits at the junction and serves three lines: Lilydale, Belgrave, and Alamein. Trains run every 10-15 minutes during peak. Tram 75 runs along Camberwell Road to the city. Tram 70 runs along Riversdale Road. Most residents walk to the station or the strip, and the Anniversary Trail provides an off-road cycling route connecting Camberwell to Alamein and beyond.
 
-**Read the full breakdown:** [Camberwell Transport Guide](/camberwell/transport-guide/)
+### Is Camberwell good for families?
 
-Quick version: you can get to the city reasonably easy. The tram and train network serves this area, and cycling infrastructure has been improving steadily.
+It is one of the strongest family suburbs in the inner east. Camberwell Primary School and Camberwell High School are both well-regarded. Camberwell Sports Ground has ovals, playgrounds, and weekend sport. The Sunday market is a family ritual. The streets north of Riversdale Road are wide, quiet, and lined with mature trees -- the kind of neighbourhood where kids ride bikes on the footpath and dogs outnumber cats three to one.
 
-## Eating and Drinking in Camberwell
+## Frequently asked questions
 
-The food scene in Camberwell reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and layers of culture that reward repeat visits without needing to leave the suburb every time you want a decent meal.
+**Is Camberwell safe?**
+Very. It is one of the lowest-crime suburbs in Boroondara, which is itself one of the lowest-crime municipalities in Melbourne. The main safety concern is car break-ins around the junction car parks.
 
-Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
+**How far is Camberwell from the CBD?**
+10 kilometres. About 20 minutes by train from Camberwell station to Flinders Street, or 25-30 minutes by tram along Camberwell Road.
 
-## Is Camberwell Right for You?
+**Does Camberwell have nightlife?**
+Barely. A few pubs and wine bars on Burke Road wind down by 10pm. For a proper night out, head to Hawthorn or catch the train into the city.
 
-**You'll love Camberwell if:**
-- You want a suburb with genuine character and community
-- You value proximity to Melbourne's best without paying absolute top dollar
-- You like having your local spots — the cafe you don't need to think about, the pub you default to
-- You appreciate a neighbourhood that's evolved naturally rather than been manufactured
+**What is the Camberwell Market?**
+A Sunday market in the car park off Station Street, running since the 1970s. Second-hand goods, vintage, craft. Get there by 8am for the good stuff.
 
-**It might not be for you if:**
-- You need absolute silence and a massive backyard
-- Budget is extremely tight — some areas of Camberwell have crept up in cost
-- You want everything brand new and shiny
-- You're not comfortable with a suburb that has a strong identity you need to adapt to
+## The verdict
 
-## Living Here — The Deep Dive
+Camberwell is the eastern suburb that actually works as a daily suburb, not just a place to sleep. The junction gives it a commercial centre that most competitors lack, the train station gives it real connectivity, and Burke Road gives it the kind of walkable strip that makes car-free living possible. It is expensive, it is quiet after dark, and it will never be mistaken for Fitzroy. But if you want an inner-east base with good schools, good food, and a Sunday market that has been reliably excellent for fifty years, Camberwell is hard to argue with.
 
-Want more detail? We've covered every angle:
+## Keep exploring
 
-- **[Living in Camberwell — The Honest Guide](/camberwell/living-in-camberwell/)** — Pros, cons, and the unfiltered truth
-- **[Is Camberwell Good for Families?](/camberwell/camberwell-for-families/)** — Schools, parks, safety, the works
-- **[Is Camberwell Good for Young Professionals?](/camberwell/camberwell-for-young-professionals/)** — Social scene, commute, renting
-- **[Is Camberwell Good for Retirees?](/camberwell/camberwell-for-retirees/)** — Quiet streets, healthcare, community
-- **[Cost of Living in Camberwell](/camberwell/cost-of-living/)** — Rent, daily costs, and how it compares
-- **[Getting Around Camberwell](/camberwell/transport-guide/)** — Trains, trams, bikes, driving
-- **[Camberwell Neighbourhood Guide](/camberwell/neighbourhood-guide/)** — Streets, pockets, and where to be
-- **[History of Camberwell](/camberwell/history/)** — How this suburb became what it is today
-
-## Suburbs Near Camberwell
-
-- **[Hawthorn](/hawthorn/)** — Glenferrie Road shops, Swinburne Uni, and some of Melbourne's finest heritage ho
-- **[Canterbury](/canterbury/)** — Quiet prestige suburb with Maling Road village shops and wide, tree-lined street
-- **[Surrey Hills](/surrey-hills/)** — Village shopping strip, Union Road cafes, and a strong sense of old Melbourne co
-- **[Glen Iris](/glen-iris/)** — Gardiner's Creek trail, family homes, and a leafy pocket between Camberwell and 
-
+Camberwell connects naturally to its neighbours. Walk south along Burke Road into [Canterbury](/canterbury/) for Maling Road's village strip and wider, quieter streets. West along Riversdale Road into [Hawthorn](/hawthorn/) for Glenferrie Road's livelier dining and pub scene. East into [Surrey Hills](/surrey-hills/) for Union Road cafes and a strong community feel. North-east toward [Balwyn](/balwyn/) for family-focused residential streets and good schools.
 
 ---
 

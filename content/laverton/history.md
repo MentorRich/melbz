@@ -4,16 +4,22 @@ description: "The story of Laverton: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "laverton"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Laverton Melbourne history"
   - "how has Laverton changed"
   - "Laverton gentrification"
   - "Laverton then and now"
+tags:
+  - "laverton"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Laverton's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Laverton is a story of cultural diversity.
 
 See our full [Laverton suburb guide](/laverton/) for the current picture.
 

@@ -2,10 +2,11 @@
 title: "Privacy Policy"
 description: "MELBZ privacy policy — how we collect, use, and protect your data. Published by Axior Labs."
 date: 2026-03-17
-author: "MELBZ Editorial Team"
+author: "Marcus Cole"
 noAds: true
 tags: ["legal"]
 categories: ["general"]
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 # Privacy Policy

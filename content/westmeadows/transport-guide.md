@@ -4,15 +4,22 @@ description: "Public transport in Westmeadows: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "westmeadows"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Westmeadows Melbourne"
   - "commute from Westmeadows to city"
   - "Westmeadows train station"
+tags:
+  - "westmeadows"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Westmeadows — what works, what's annoying, and how long things actually take.
+Two words define transport in Westmeadows: work in progress. Everything else is detail.
 
 Check out our full [Westmeadows suburb guide](/westmeadows/) for the complete picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Mitcham? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "mitcham"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Mitcham retirees Melbourne"
   - "retiring in Mitcham"
   - "quiet suburbs Melbourne"
+tags:
+  - "mitcham"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Mitcham? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

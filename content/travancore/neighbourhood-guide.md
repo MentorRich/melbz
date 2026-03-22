@@ -4,13 +4,18 @@ description: "The insider's guide to Travancore's different pockets, streets, an
 date: 2026-03-21
 suburb: "travancore"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Travancore neighbourhood guide"
   - "best streets in Travancore"
   - "Travancore areas"
   - "Travancore pockets Melbourne"
+tags:
+  - "travancore"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Travancore isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

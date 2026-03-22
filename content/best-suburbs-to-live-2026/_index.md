@@ -3,13 +3,13 @@ title: "Best Suburbs to Live in Melbourne 2026 — Updated Rankings"
 description: "Which Melbourne suburbs are actually worth living in right now? Our 2026 rankings based on liveability, cost, transport, and community."
 date: 2026-03-21
 article_type: "trending"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "best suburbs melbourne 2026"
   - "most liveable suburbs melbourne"
   - "where to live melbourne"
   - "melbourne suburb rankings"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Which Melbourne suburbs are actually worth living in right now? Our 2026 rankings based on liveability, cost, transport, and community.

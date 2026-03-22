@@ -4,13 +4,18 @@ description: "The insider's guide to Glenroy's different pockets, streets, and a
 date: 2026-03-21
 suburb: "glenroy"
 article_type: "neighbourhood"
-author: "dani"
-author_image: "/images/authors/dani.jpg" 
+author: "Dani Reyes"
 keywords:
   - "Glenroy neighbourhood guide"
   - "best streets in Glenroy"
   - "Glenroy areas"
   - "Glenroy pockets Melbourne"
+tags:
+  - "glenroy"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Glenroy isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

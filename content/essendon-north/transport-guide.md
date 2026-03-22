@@ -4,15 +4,22 @@ description: "Public transport in Essendon North: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "essendon-north"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Essendon North Melbourne"
   - "commute from Essendon North to city"
   - "Essendon North train station"
+tags:
+  - "essendon-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Essendon North — what works, what's annoying, and how long things actually take.
+Your morning commute from Essendon North depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Essendon North suburb guide](/essendon-north/) for the complete picture.
 

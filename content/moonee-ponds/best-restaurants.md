@@ -4,13 +4,19 @@ description: "Where to eat in Moonee Ponds: the honest guide to the suburb's res
 date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "best-of"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "best restaurants Moonee Ponds"
   - "where to eat Moonee Ponds"
   - "dinner Moonee Ponds Melbourne"
   - "restaurants near Moonee Ponds"
+tags:
+  - "moonee-ponds"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
@@ -56,4 +62,24 @@ The mid-range is where Moonee Ponds shines — restaurants that care about quali
 
 ---
 
-**More on Moonee Ponds:** [Moonee Ponds Suburb Guide](/moonee-ponds/) · [Moonee Ponds Best Cafes](/moonee-ponds/best-cafes/) · [Moonee Ponds Living Guide](/moonee-ponds/living-in-moonee-ponds/)
+**More on Moonee Ponds:** [Moonee Ponds Suburb Guide](/moonee-ponds/) · [Moonee Ponds Best Cafes](/moonee-ponds/best-[cafes](/moonee-ponds/best-cafes/)/) · [Moonee Ponds Living Guide](/moonee-ponds/living-in-moonee-ponds/)
+
+---
+
+## Explore More of Moonee Ponds
+
+- [Moonee Ponds History](/moonee-ponds/history/)
+- [Moonee Ponds Rent Guide](/moonee-ponds/rent-guide/)
+- [Moonee Ponds Things To Do](/moonee-ponds/things-to-do/)
+- [Moonee Ponds Cost of Living](/moonee-ponds/cost-of-living/)
+- [Moonee Ponds Young Professionals Guide](/moonee-ponds/young-professionals/)
+- [Moonee Ponds Transport Guide](/moonee-ponds/transport-guide/)
+- [Moonee Ponds Best Cafes](/moonee-ponds/best-cafes/)
+- [Moonee Ponds Weekend Guide](/moonee-ponds/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Montmorency Suburb Guide](/montmorency/)
+- [Montrose Suburb Guide](/montrose/)
+- [Moorabbin Suburb Guide](/moorabbin/)
+- [Mooroolbark Suburb Guide](/mooroolbark/)

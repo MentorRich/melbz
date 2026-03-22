@@ -2,16 +2,13 @@
 title: "Heidelberg Honest Guide 2026: Burgundy Street & Real Opinions"
 cover_image: "/images/heidelberg/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["heidelberg", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Heidelberg Honest Guide 2026: Burgundy Street & Real Opinions"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -35,7 +32,7 @@ Let's get into it.
 
 Burgundy Street is Heidelberg's high street, and it's where most of the action lives. If you're imagining a glamorous strip of boutiques and rooftop bars, lower your expectations and raise your appreciation. This is a practical, working high street — Coles, Woolies, a pharmacy, your mortgage broker, your dentist, and a surprisingly decent run of cafés and restaurants that locals will fight you over.
 
-**The cafés** are where Burgundy Street punches above its weight. You've got places like St Olive Café doing solid brunch plates around $19–$24, and the queues on Saturday mornings tell you everything you need to know. There's no $7 babycino nonsense here — this is a neighbourhood that takes its coffee seriously but doesn't need to perform about it. Expect a flat white to run you $4.50–$5, which is basically Melbourne standard at this point.
+**The cafés** are where Burgundy Street punches above its weight. You've got places like St Olive Café doing solid brunch plates around $19–$24, and the queues on Saturday mornings tell you what you need. There's no $7 babycino nonsense here — this is a neighbourhood that takes its coffee seriously but doesn't need to perform about it. Expect a flat white to run you $4.50–$5, which is basically Melbourne standard at this point.
 
 The stretch between Jika Street and the Plaza has quietly built up a food scene that would embarrass some inner-north suburbs. Vietnamese, Chinese, Italian, and a couple of newer arrivals bringing Middle Eastern and Japanese flavours to the mix. You won't find it in any "top 50 restaurants" list — and that's exactly why the food is good and the prices haven't gone completely mental.
 
@@ -140,10 +137,9 @@ Heidelberg in 2026 is what it's always been: a proper, liveable, unpretentious M
 
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/south-yarra/](/south-yarra/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [Northcote](/northcote/)
+- [South Yarra](/south-yarra/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

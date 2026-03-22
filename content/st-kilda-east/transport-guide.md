@@ -1,54 +1,83 @@
 ---
-title: "Transport in St Kilda East 2026: Trains, Trams & the Commute Reality"
+title: "Getting Around St Kilda East — 2026 Transport Guide"
 slug: "transport-guide"
 date: 2026-03-21
-updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 suburb: "st-kilda-east"
-suburbs: ["st-kilda-east"]
-vertical: lifestyle
-tags: ["st-kilda-east", "transport", "commute", "trains", "trams"]
-description: "How to get around St Kilda East in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/4722432/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "St Kilda East Melbourne transport"
-vibe_score: 71
+tags: ["st-kilda-east", "transport", "commute", "trams"]
+description: "How to get around St Kilda East in 2026. No train station, but trams on Balaclava Road and Glen Huntly Road, Balaclava station next door, and genuinely flat cycling."
+cover_image: "/images/st-kilda-east/transport-guide.jpg"
+keywords:
+  - "transport St Kilda East"
+  - "trams St Kilda East Melbourne"
+  - "getting to St Kilda East"
+  - "commute St Kilda East CBD"
 ---
 
-St Kilda East's transport game scored **B+** in our latest review. Here's what that actually means for your daily commute and weekend plans.
+[St Kilda](/st-kilda/) East has no train station. That's the first thing to know, and it matters less than you'd think. Balaclava station on the Sandringham line sits right on the northern border, and two tram routes cross the suburb. Most locals find the arrangement works well.
 
-## Transport Scorecard
+## The Key Routes
 
-| Mode | Available | Quality | Notes |
-|------|-----------|---------|-------|
-| Train | ✅ | Good | Usable but check frequency |
-| Tram | ✅ | Regular | Multiple routes, connects to CBD |
-| Bus | ✅ | Average | Fills the gaps, runs less often |
-| Cycling | ✅ | Adequate | Mixed lanes, helmet law applies |
-| Driving | ✅ | Tight parking | Permit required on most streets |
+### Train — Balaclava Station (Sandringham Line)
 
-## Getting to the CBD
+Balaclava station sits at the corner of Carlisle Street and Westbury Street, technically in Balaclava but within a 5–10 minute walk for most of St Kilda East. Trains run to Flinders Street in about 12 minutes. Peak frequency is every 10 minutes; off-peak every 15–20 minutes. The station has Myki gates and a small waiting area.
 
-From St Kilda East to the CBD: 20-35 minutes by public transport. Trains run every 10-15 minutes during peak. Reliable but not the fastest commute.
+If you live in the southern part of St Kilda East (near Alma Road or further south), the walk to Balaclava station is closer to 12–15 minutes. In that case, the trams may work better.
 
-## The Tram & Train Routes
+### Tram 3 — Balaclava Road
 
-Check PTV.vic.gov.au for current timetables. The main routes serving St Kilda East connect to the CBD loop and key interchange stations.
+Tram 3 runs along Balaclava Road through the northern section of St Kilda East, connecting to East Malvern in one direction and the CBD via St Kilda Road in the other. Journey to Flinders Street: approximately 25–30 minutes depending on traffic signals. Runs every 8–10 minutes during peak.
+
+### Tram 67 — Glen Huntly Road
+
+Tram 67 runs along Glen Huntly Road on the suburb's southern edge, connecting to Carnegie in one direction and Melbourne University via St Kilda Road in the other. Useful for the southern part of St Kilda East. Journey to the city: approximately 30–35 minutes.
+
+## Commute Times to the CBD
+
+| Mode | From | Time | Frequency |
+|------|------|------|-----------|
+| Train (Balaclava) | Carlisle St end | 12 min + walk | Every 10 min peak |
+| Tram 3 | Balaclava Road | 25–30 min | Every 8–10 min peak |
+| Tram 67 | Glen Huntly Road | 30–35 min | Every 10–12 min peak |
+| Cycling | Alma Road | 25–30 min | Flat route via St Kilda Road |
+| Driving | Hotham Street | 15–25 min | Traffic-dependent |
 
 ## Cycling
 
-Cycling from St Kilda East is possible but not perfect. Some routes have dedicated lanes, others are shared. Flat terrain helps.
+St Kilda East is flat. Completely, boringly flat. That makes it excellent cycling territory. The ride to the CBD via St Kilda Road takes about 25–30 minutes, and there are bike lanes for most of the route. Beach Road connects to the Bay Trail for recreational riding. Most of the suburb's residential streets are quiet enough for comfortable cycling without dedicated infrastructure.
 
-## Driving & Parking
+## Driving and Parking
 
-Parking in St Kilda East is competitive. Street parking requires permits in most residential areas. If you're renting, check whether your building has a car space — they're not guaranteed.
+Parking is competitive, especially near Carlisle Street and the Balaclava station area. Most residential streets require City of Port Phillip parking permits (~$85 per year for residents). If your rental doesn't include a car space, check the street parking situation before signing — some blocks are significantly worse than others.
+
+Driving to the CBD takes 15–25 minutes depending on time of day. Chapel Street and St Kilda Road are the main routes, and both get congested during peak hour.
 
 ## The Verdict
 
-St Kilda East gets a **B+** for transport because it covers the basics well — regular trains and bus connections. Functional. Not amazing, not a dealbreaker. You can make it work.
-
-For the full picture of living here, check our [Living in St Kilda East guide](/st-kilda-east/living-in-st-kilda-east/).
+St Kilda East is genuinely car-optional for most residents. Between Balaclava station, two tram routes, and flat cycling, you can get to the CBD, to the beach, and to the major shopping strips without driving. The lack of a train station within the suburb itself is a non-issue for anyone who can walk 10 minutes.
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+**More from St Kilda East:** [Neighbourhood Guide](/st-kilda-east/) · [Cost of Living](/st-kilda-east/cost-of-living/) · [Honest Guide](/st-kilda-east/honest-guide/)
+
+*Commute times based on PTV data and local testing, March 2026.*
+
+---
+
+## Explore More of St Kilda East
+
+- [St Kilda East History](/st-kilda-east/history/)
+- [St Kilda East Rent Guide](/st-kilda-east/rent-guide/)
+- [St Kilda East St Kilda East For Retirees](/st-kilda-east/st-kilda-east-for-retirees/)
+- [St Kilda East Things To Do](/st-kilda-east/things-to-do/)
+- [St Kilda East Cost of Living](/st-kilda-east/cost-of-living/)
+- [St Kilda East Young Professionals Guide](/st-kilda-east/young-professionals/)
+- [St Kilda East Best Cafes](/st-kilda-east/best-cafes/)
+- [St Kilda East Best Restaurants](/st-kilda-east/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [St Albans Suburb Guide](/st-albans/)
+- [St Kilda Suburb Guide](/st-kilda/)
+- [St Kilda West Suburb Guide](/st-kilda-west/)
+- [Strathmore Suburb Guide](/strathmore/)

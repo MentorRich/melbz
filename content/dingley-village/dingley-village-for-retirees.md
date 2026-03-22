@@ -4,12 +4,16 @@ description: "Considering retirement in Dingley Village? Quiet streets, healthca
 date: 2026-03-21
 suburb: "dingley-village"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Dingley Village retirees Melbourne"
   - "retiring in Dingley Village"
   - "quiet suburbs Melbourne"
+tags:
+  - "dingley-village"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Dingley Village? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

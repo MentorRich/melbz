@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Craigieburn? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "craigieburn"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Craigieburn good for families"
   - "Craigieburn family friendly"
   - "raising kids in Craigieburn"
+tags:
+  - "craigieburn"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Craigieburn with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

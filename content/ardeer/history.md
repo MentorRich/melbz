@@ -4,16 +4,22 @@ description: "The story of Ardeer: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "ardeer"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Ardeer Melbourne history"
   - "how has Ardeer changed"
   - "Ardeer gentrification"
   - "Ardeer then and now"
+tags:
+  - "ardeer"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Ardeer's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+The name Ardeer comes from a local landmark. But the real story is what happened after the suburb was named.
 
 See our full [Ardeer suburb guide](/ardeer/) for the current picture.
 

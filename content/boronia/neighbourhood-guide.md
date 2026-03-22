@@ -4,13 +4,18 @@ description: "The insider's guide to Boronia's different pockets, streets, and a
 date: 2026-03-21
 suburb: "boronia"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Boronia neighbourhood guide"
   - "best streets in Boronia"
   - "Boronia areas"
   - "Boronia pockets Melbourne"
+tags:
+  - "boronia"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Boronia isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

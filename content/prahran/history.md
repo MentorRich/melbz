@@ -1,79 +1,78 @@
 ---
-title: "Prahran — History and How It's Changed"
-description: "The story of Prahran: from its origins to today. How this Melbourne suburb evolved and where it's heading next."
-date: 2026-03-21
+title: "History of Prahran — From Working-Class Roots to Inner-South Icon"
+description: "How Prahran evolved from a 19th-century working-class suburb to one of Melbourne's most dynamic inner-south neighbourhoods. The real story."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/shared/melbourne-heritage.jpg"
+cover_image_alt: "Prahran Melbourne heritage buildings and streetscape"
 suburb: "prahran"
-article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
-keywords:
-  - "Prahran Melbourne history"
-  - "how has Prahran changed"
-  - "Prahran gentrification"
-  - "Prahran then and now"
+tags: ["melbourne", "prahran", "history", "heritage"]
 ---
 
-Every Melbourne suburb has a story. Prahran's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Prahran's history explains why the suburb feels the way it does today. The Victorian terraces, the market, Chapel Street's commercial energy, and the LGBTQ+ community on Commercial Road all have roots that stretch back decades or centuries. Here is the story.
 
-See our full [Prahran suburb guide](/prahran/) for the current picture.
+## The Early Days: 1840s-1880s
 
-## What Prahran Was Originally
+The name Prahran derives from an Aboriginal word, with various spellings recorded in the 1840s. European settlement began in the 1840s as Melbourne expanded south from the Yarra River. By the 1850s Gold Rush, Prahran was growing rapidly as workers, tradespeople, and their families moved into the area.
 
-Before it was what you see today, Prahran was originally a working-class neighbourhood. The original residents built the suburb's foundation — the street grid, the housing stock, the community institutions that still exist in some form.
+**Prahran Market** opened in 1864, making it one of Melbourne's oldest continuously operating fresh food markets. The market was the commercial and social heart of the suburb from the start, and it remains so today, 160 years later.
 
-Like most of Melbourne, Prahran's history is inseparable from the broader story of a city that grew outward from the Yarra in waves. This suburb was settled when Melbourne needed it — whether for housing workers, accommodating families, or providing a retreat from the city centre.
+Chapel Street developed as the main commercial strip during this period. The Victorian-era shopfronts that survive along Chapel and Greville Streets date from the 1870s and 1880s, when Prahran was one of Melbourne's most populated municipalities.
 
-The buildings that survive from this era tell the story. Heritage homes, the layout of the shopping strip, the positioning of parks and public spaces — all designed for a different time, adapted for the present.
+## The Working Suburb: 1890s-1960s
 
-## The Working Years
+For much of the 20th century, Prahran was a working-class suburb. The housing stock of Victorian terraces and Edwardian cottages was built for workers and their families. The pubs, churches, sports clubs, and corner shops formed the social infrastructure.
 
-For much of the 20th century, Prahran was defined by the people who worked here and the industries that employed them. The suburb had a particular economic identity — a character shaped by what people did for a living and how they spent their time.
+The **City of Prahran** was its own municipality from 1856, one of Melbourne's earliest. It governed itself independently until local government amalgamations in the 1990s folded it into the City of Stonnington.
 
-The community institutions from this era — the pubs, the sports clubs, the church halls — were the social infrastructure. People knew their neighbours because they worked together, drank together, and raised their kids on the same streets.
+Migration waves reshaped the suburb through the mid-20th century. Greek, Italian, and Eastern European communities brought new food, new languages, and new energy. The dining culture that defines Prahran today has roots in this period.
 
-Migration waves brought new communities, new food, new languages, and new energy. Melbourne has always been built by people arriving from somewhere else, and Prahran absorbed each wave in its own way.
+## The Creative Turn: 1970s-1990s
 
-## The Shift
+Cheap rents in the 1970s and 1980s attracted artists, musicians, and students. Greville Street became Melbourne's bohemian hub: record shops, vintage stores, galleries, and cafes replacing the milk bars and general stores. **Greville Records**, which opened in 1979, is one of the few survivors from this era.
 
-Prahran's transformation came when the creative class arrived — artists, musicians, students — drawn by cheap rent and character. This wasn't overnight — it happened over a decade or two, gradually enough that long-term residents watched the change happen street by street.
+**Commercial Road** emerged as the centre of Melbourne's LGBTQ+ community during this period. Bars, clubs, and community organisations established a presence that continues today, making Prahran one of Melbourne's most important suburbs for LGBTQ+ culture and history.
 
-New cafes appeared where milk bars used to be. The pub got a renovation. A gallery opened in a former workshop. The rent started going up.
+**Revolver Upstairs** opened on Chapel Street in 1998 and quickly became one of Melbourne's most iconic late-night venues, cementing Prahran's reputation for nightlife.
 
-This is the gentrification story that plays out across Melbourne, but every suburb experiences it differently. Prahran's version has its own specific character — what was lost, what arrived, and how the community negotiated the transition.
+## Gentrification and Change: 2000s-Present
 
-## What Got Lost Along the Way
+The pattern that plays out across inner Melbourne arrived in Prahran too. Property values climbed. New apartment developments replaced older housing. The cafe scene expanded. Rents rose.
 
-Every suburb transformation has a cost. The places that defined the old Prahran — the local institutions, the affordable shops, the character of a suburb that didn't care about Instagram — some of that has gone.
+What Prahran has managed better than some suburbs is holding onto its character through the change. The market still operates. Greville Street still has indie energy. Commercial Road's LGBTQ+ community remains strong. The pubs — the **Prahran Hotel** on Commercial Road, the **College Lawn Hotel** off Greville — are still pouring.
 
-Long-term residents often carry frustration about what was demolished, what closed, and who was priced out. These aren't abstract losses — they're specific buildings, specific businesses, specific people who couldn't stay.
+**Prahran Square**, the conversion of a multi-storey car park into public green space on Chapel Street, represents the suburb's more recent evolution: prioritising community and pedestrians over cars.
 
-This is important to acknowledge honestly. Growth and improvement came at a cost, and the cost was borne unevenly.
+## What Got Lost
 
-## What Arrived
+Every suburb transformation has a cost. Affordable housing is the biggest casualty. The working-class families who built Prahran could not afford to live here now. Some of the independent shops, pubs, and institutions that defined the old suburb have closed. The creative community that thrived on cheap rent has been priced into other suburbs.
 
-The flip side: Prahran gained a lot. Better food options, improved infrastructure, safer streets, higher property values for existing owners, more diversity of things to do.
+This is worth acknowledging honestly. The Prahran of today is richer, more polished, and more expensive than the suburb these communities built.
 
-The new arrivals brought energy and investment. The cafe scene, the restaurant culture, the cultural events — these weren't here before, and they've made the suburb genuinely more liveable for many residents.
+## Prahran Today
 
-Whether the trade was worth it depends on who you ask.
+In 2026, Prahran is a suburb that carries its history visibly. The heritage buildings sit alongside modern developments. The market anchors the community. Chapel Street serves both shopping and nightlife. Greville Street maintains its indie identity. Commercial Road's LGBTQ+ culture remains a defining feature.
 
-## Prahran Today — Where It Sits Now
+The suburb sits in the City of Stonnington (postcode 3181), 5km south-east of the CBD, served by Prahran station on the Sandringham line and trams 72 (Commercial Road), 78 (Chapel Street), and 6 (High Street).
 
-Today, Prahran is a suburb that carries its history visibly. The old buildings alongside the new ones. The established residents alongside the newcomers. The traditional shops next to the trendy ones.
+## FAQ
 
-This isn't a pretend version of itself — it's a real suburb with layers. Walk through Prahran and you're walking through decades of Melbourne's story, compressed into a few streets.
+**How old is Prahran Market?**
+Prahran Market has been operating since 1864, making it one of Melbourne's oldest continuously running fresh food markets.
 
-## Where Is Prahran Heading?
+**What is the history of Chapel Street?**
+Chapel Street developed as Prahran's main commercial strip in the 1870s-1880s. It has served as a shopping, dining, and nightlife destination ever since.
 
-Prahran's trajectory is clear: continued demand, continued development, continued evolution. New apartment developments are adding density. Infrastructure investment is improving transport and public spaces.
+**Why is Commercial Road important to Melbourne's LGBTQ+ community?**
+Commercial Road in Prahran has been the centre of Melbourne's LGBTQ+ community since the 1970s-1980s, with bars, clubs, and community organisations establishing a lasting presence.
 
-The suburb will look different again in ten years. Whether that's good or bad depends on how it's managed and whether the things that make Prahran worth living in are preserved alongside the growth.
+## The Verdict
+
+Understanding Prahran's history explains its present. The suburb's personality, from the market to the music venues to the multicultural dining, comes from layers of community that have built on each other over 180 years. What makes Prahran work in 2026 is that enough of those layers remain visible.
 
 ---
 
-**More on Prahran:**
-- [Prahran Neighbourhood Guide](/prahran/neighbourhood-guide/)
-- [Prahran Living Guide](/prahran/living-in-prahran/)
-- [Prahran for Families](/prahran/prahran-for-families/)
+**More Prahran:** [Neighbourhood Guide](/prahran/neighbourhood-guide/) | [Prahran Suburb Guide](/prahran/) | [Cost of Living](/prahran/cost-of-living/)
 
-**Nearby suburbs:** [South Yarra](/south-yarra/) · [Windsor](/windsor/) · [St Kilda](/st-kilda/) · [Armadale](/armadale/)
+**Nearby suburbs:** [South Yarra](/south-yarra/) | [St Kilda](/st-kilda/) | [Carlton](/carlton/)

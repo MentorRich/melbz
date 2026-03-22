@@ -4,16 +4,22 @@ description: "How expensive is Blackburn South? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "blackburn-south"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Blackburn South Melbourne"
   - "how expensive is Blackburn South"
   - "is Blackburn South expensive to live in"
   - "Blackburn South rent"
+tags:
+  - "blackburn-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Blackburn South — no sugar-coating, no made-up figures.
+Let us talk money in Blackburn South. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Blackburn South suburb guide](/blackburn-south/) for the bigger picture.
 

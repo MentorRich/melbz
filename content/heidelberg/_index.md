@@ -1,16 +1,16 @@
 ---
-title: "Heidelberg Melbourne — Everything You Need to Know"
+title: "Heidelberg Melbourne — what you need"
 description: "The complete guide to Heidelberg. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "heidelberg"
 article_type: "profile"
 author: "Lisa Nguyen"
-author_image: "/images/authors/charlie.jpg"
 keywords:
   - "Heidelberg Melbourne"
   - "what is Heidelberg like"
   - "heidelberg suburb"
   - "living in Heidelberg"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Austin Hospital, Burgundy Street shops, and Yarra River art trails. Historic painters' suburb.

@@ -4,12 +4,18 @@ description: "Is Eltham a good suburb for young professionals? Social scene, com
 date: 2026-03-21
 suburb: "eltham"
 article_type: "young-professionals"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Eltham young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Eltham"
+tags:
+  - "eltham"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Eltham as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

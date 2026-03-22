@@ -4,15 +4,22 @@ description: "Public transport in Maribyrnong: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "maribyrnong"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Maribyrnong Melbourne"
   - "commute from Maribyrnong to city"
   - "Maribyrnong train station"
+tags:
+  - "maribyrnong"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Maribyrnong — what works, what's annoying, and how long things actually take.
+Maribyrnong transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Maribyrnong suburb guide](/maribyrnong/) for the complete picture.
 

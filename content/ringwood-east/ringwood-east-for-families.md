@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Ringwood East? Parks, schools, safety,
 date: 2026-03-21
 suburb: "ringwood-east"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Ringwood East good for families"
   - "Ringwood East family friendly"
   - "raising kids in Ringwood East"
+tags:
+  - "ringwood-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Ringwood East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

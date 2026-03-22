@@ -1,12 +1,13 @@
 ---
 title: "Cheap Eats in Balaclava 2026: Budget-Friendly Spots"
 cover_image: "/images/balaclava/cheap-eats.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Sam Walsh"
 tags: ["balaclava", "cheap-eats", "lifestyle"]
-categories: ["lifestyle"]
-description: "Cheap Eats in Balaclava 2026: Budget-Friendly Spots"
+description: "Budget meals under twenty dollars along Carlisle Street. Balaclava bakery bagels, banh mi, market stalls, and the cheap eats that locals swear by."
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
+suburb: "balaclava"
 ---
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -150,11 +151,11 @@ It's the kind of neighbourhood where the food is better than the facades suggest
 - [Where to Eat in Windsor Under $25](/windsor/cheap-eats/)
 - [Caulfield's Best Hidden Food Gems](/caulfield/food/)
 - [Carlisle Street: A Local's Walking Food Guide](/balaclava/food-walk/)
-- [Balaclava Suburb Guide: Everything You Need to Know](/balaclava/)
+- [Balaclava Suburb Guide: what you need](/balaclava/)
 
 ---
 
-*Have a cheap eat we missed on Carlisle Street? Drop us a line at hq@melbz101 — we'll eat it, test it, and add it.*
+*Have a cheap eat we missed on Carlisle Street? Drop us a line at hq@melbz.com.au — we'll eat it, test it, and add it.*
 
 ---
 
@@ -177,10 +178,9 @@ It's the kind of neighbourhood where the food is better than the facades suggest
 - **Las Chicas** — 203 Carlisle St, Balaclava, VIC 3183 ($$). Open: 7:30 AM - 4:00 PM. *Tip: The courtyard is a the locals know about this on sunny days; arrive before 10 AM to avoid the weekend queue.*
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/balaclava/](/balaclava/)
-- [/st-kilda/](/st-kilda/)
-- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
-- [/food/](/food/)
+- [South Yarra](/south-yarra/)
+- [Balaclava](/balaclava/)
+- [St Kilda](/st-kilda/)
+- [Cheap Eats Melbourne](/cheap-eats-melbourne/)
+- [Food](/food/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

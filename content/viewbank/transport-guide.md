@@ -4,15 +4,22 @@ description: "Public transport in Viewbank: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "viewbank"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Viewbank Melbourne"
   - "commute from Viewbank to city"
   - "Viewbank train station"
+tags:
+  - "viewbank"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Viewbank — what works, what's annoying, and how long things actually take.
+Your morning commute from Viewbank depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Viewbank suburb guide](/viewbank/) for the complete picture.
 

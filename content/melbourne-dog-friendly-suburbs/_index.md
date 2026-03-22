@@ -3,13 +3,13 @@ title: "Most Dog-Friendly Suburbs in Melbourne"
 description: "The best Melbourne suburbs for dog owners — off-leash parks, dog-friendly cafes, and vet access ranked."
 date: 2026-03-21
 article_type: "trending"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "dog friendly suburbs melbourne"
   - "best suburbs dogs melbourne"
   - "off leash parks melbourne"
   - "pet friendly suburbs melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 The best Melbourne suburbs for dog owners — off-leash parks, dog-friendly cafes, and vet access ranked.

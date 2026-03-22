@@ -4,16 +4,22 @@ description: "How expensive is Rosanna? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "rosanna"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Rosanna Melbourne"
   - "how expensive is Rosanna"
   - "is Rosanna expensive to live in"
   - "Rosanna rent"
+tags:
+  - "rosanna"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Rosanna — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Rosanna, here is exactly how far your dollar goes.
 
 Read our full [Rosanna suburb guide](/rosanna/) for the bigger picture.
 

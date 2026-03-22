@@ -4,13 +4,18 @@ description: "The insider's guide to Wantirna South's different pockets, streets
 date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Wantirna South neighbourhood guide"
   - "best streets in Wantirna South"
   - "Wantirna South areas"
   - "Wantirna South pockets Melbourne"
+tags:
+  - "wantirna-south"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Wantirna South isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

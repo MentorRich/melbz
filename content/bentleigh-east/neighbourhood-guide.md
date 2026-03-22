@@ -4,13 +4,18 @@ description: "The insider's guide to Bentleigh East's different pockets, streets
 date: 2026-03-21
 suburb: "bentleigh-east"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Bentleigh East neighbourhood guide"
   - "best streets in Bentleigh East"
   - "Bentleigh East areas"
   - "Bentleigh East pockets Melbourne"
+tags:
+  - "bentleigh-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Bentleigh East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,16 +4,22 @@ description: "How expensive is Hampton Park? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "hampton-park"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Hampton Park Melbourne"
   - "how expensive is Hampton Park"
   - "is Hampton Park expensive to live in"
   - "Hampton Park rent"
+tags:
+  - "hampton-park"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Hampton Park — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Hampton Park, here is exactly how far your dollar goes.
 
 Read our full [Hampton Park suburb guide](/hampton-park/) for the bigger picture.
 

@@ -3,13 +3,13 @@ title: "Easter in Melbourne 2026 — Events, Markets, Long Weekend Ideas"
 description: "How to make the most of Easter in Melbourne. Events, markets, road trip ideas, and the best suburbs for the long weekend."
 date: 2026-03-21
 article_type: "trending"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "easter melbourne 2026"
   - "easter long weekend melbourne"
   - "easter events melbourne"
   - "things to do easter melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 How to make the most of Easter in Melbourne. Events, markets, road trip ideas, and the best suburbs for the long weekend.

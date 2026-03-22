@@ -1,54 +1,77 @@
 ---
-title: "Transport in Carlton 2026: Trains, Trams & the Commute Reality"
-slug: "transport-guide"
-date: 2026-03-21
-updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+title: "Transport in Carlton 2026: Trams, Bikes and the Commute Reality"
+description: "How to get around Carlton Melbourne in 2026. Trams on Lygon and Swanston streets, cycling lanes, nearest train stations, and the real commute times."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Tom Nguyen"
+cover_image: "/images/shared/melbourne-transport.jpg"
+cover_image_alt: "Carlton Melbourne tram on Swanston Street"
 suburb: "carlton"
-suburbs: ["carlton"]
-vertical: lifestyle
-tags: ["carlton", "transport", "commute", "trains", "trams"]
-description: "How to get around Carlton in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/8128014/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Carlton Melbourne transport"
-vibe_score: 82
+tags: ["melbourne", "carlton", "transport"]
 ---
 
-Carlton's transport game scored **A** in our latest review. Here's what that actually means for your daily commute and weekend plans.
+Carlton's transport game is strong for a suburb with no train station. Trams do the heavy lifting, cycling is genuinely practical, and the CBD is close enough to walk when the weather cooperates. Here's what your daily commute actually looks like.
 
 ## Transport Scorecard
 
 | Mode | Available | Quality | Notes |
 |------|-----------|---------|-------|
-| Train | ✅ | Excellent | Metro line, frequent service |
-| Tram | ✅ | Frequent | Multiple routes, connects to CBD |
-| Bus | ✅ | Average | Fills the gaps, runs less often |
-| Cycling | ✅ | Good infrastructure | Protected lanes on key routes |
-| Driving | ✅ | Tight parking | Permit required on most streets |
+| Train | Nearby | Good | No station in Carlton — Melbourne Central and Parliament are closest |
+| Tram | Yes | Excellent | Routes 1, 6 (Swanston/Lygon), 96 (Nicholson Street) |
+| Bus | Limited | Average | Fills gaps, runs less often than trams |
+| Cycling | Yes | Good | Protected lanes on Royal Parade and Swanston Street |
+| Walking | Yes | Excellent | CBD in 20-25 minutes on foot |
 
 ## Getting to the CBD
 
-From Carlton to the CBD: 10-20 minutes by train or tram. Services run every 5-10 minutes during peak. This is one of the best-connected suburbs in Melbourne.
+Carlton has no dedicated train station. This is the single most important transport fact for the suburb. The nearest stations are Melbourne Central (Swanston Street, south end) and Parliament (Spring Street), both reachable in about 10 minutes by tram or 20 minutes on foot.
 
-## The Tram & Train Routes
+By tram, you'll reach the CBD in 10-15 minutes. Services on routes 1 and 6 along Swanston Street run every 5-8 minutes during peak. The 96 tram on Nicholson Street connects to East [Brunswick](/brunswick/) northbound and St Kilda southbound.
 
-Check PTV.vic.gov.au for current timetables. The main routes serving Carlton connect to the CBD loop and key interchange stations.
+## The Tram Routes
+
+**Routes 1 and 6 (Swanston Street / Lygon Street)** — The main north-south arteries. These trams run through the heart of Carlton and straight down into the CBD via Swanston Street. Frequent service, rarely more than a 5-minute wait during peak hours.
+
+**Route 96 (Nicholson Street)** — Runs along Carlton's eastern boundary. Connects to East Brunswick, [Fitzroy](/fitzroy/), and continues south through the CBD to St Kilda Beach. Handy for reaching Fitzroy without changing trams.
 
 ## Cycling
 
-Carlton is genuinely cycleable. Protected lanes on key routes, flat terrain, and under 10km to the CBD. Bike parking is decent at stations.
+Carlton is genuinely cycleable. The terrain is flat, the distances are short, and the infrastructure is improving. Royal Parade has a protected bike lane that runs from Princes Park into the CBD. Swanston Street's bike lane connects you directly to the university precinct and beyond.
 
-## Driving & Parking
+From Carlton to Flinders Street Station: about 15 minutes by bike. Melbourne Bike Share stations dot the suburb, and secure bike parking is available at most major tram stops.
 
-Parking in Carlton is competitive. Street parking requires permits in most residential areas. If you're renting, check whether your building has a car space — they're not guaranteed.
+## Driving and Parking
+
+Driving in Carlton is fine for getting out of the suburb but painful for parking within it. Street parking requires council permits in most residential areas ($50-$150 per year). Metered parking on Lygon Street and Faraday Street is expensive and time-limited. The Wilson car park on Lygon Street charges around $4 per hour.
+
+If you're renting, confirm whether your property includes a car space — they're not guaranteed, and off-street parking adds $50-$100 per week to your [rent](/carlton/cost-of-living/) in some buildings.
 
 ## The Verdict
 
-Carlton gets a **A** for transport because it has excellent multi-modal options and fast CBD access. That's a serious advantage — transport is one of the main reasons people choose this suburb.
+Carlton gets an A- for transport. The tram network is excellent, cycling infrastructure is solid, and the CBD is genuinely walkable. The only thing holding it back from a perfect score is the lack of a train station within the suburb itself — but with Melbourne Central and Parliament both a short tram ride away, that's a minor inconvenience for most residents.
 
-For the full picture of living here, check our [Living in Carlton guide](/carlton/living-in-carlton/).
+For the full picture of living here, see our [Carlton [cost of living](/carlton/cost-of-living/) guide](/carlton/cost-of-living/) and our [Carlton neighbourhood guide](/carlton/neighbourhood-guide/).
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Carlton
+
+- [Carlton History](/carlton/history/)
+- [Carlton Things To Do This Weekend](/carlton/things-to-do-this-weekend/)
+- [Carlton Cheap Eats](/carlton/cheap-eats/)
+- [Carlton Rent Guide](/carlton/rent-guide/)
+- [Carlton Date Night Guide](/carlton/date-night/)
+- [Carlton Carlton For Retirees](/carlton/carlton-for-retirees/)
+- [Carlton New Openings](/carlton/new-openings/)
+- [Carlton Things To Do](/carlton/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

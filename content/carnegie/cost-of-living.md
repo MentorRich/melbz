@@ -3,14 +3,13 @@ title: "Cost of Living in Carnegie 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "carnegie"
 suburbs: ["carnegie"]
 vertical: property
 tags: ["carnegie", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Carnegie in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/1482448/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Carnegie Melbourne cost of living"
 vibe_score: 72
 ---
@@ -28,7 +27,7 @@ This is where most of your money goes. Carnegie's rental market in 2026 looks li
 | 3-bed house | $576 | $29,952 | 19% below |
 | Share house (per room) | $184 | $9,568 | 19% below |
 
-**Pro tip:** If you're flexible on the exact street, prices can vary 15-20% within Carnegie alone. The streets closer to transport and the main commercial strip command premium.
+**Pro tip:** If you're flexible on the exact street, prices can vary 15-20% within Carnegie alone. The streets closer to [transport](/carnegie/transport-guide/) and the main commercial strip command premium.
 
 ## Monthly Living Costs Breakdown
 
@@ -50,7 +49,7 @@ This is where most of your money goes. Carnegie's rental market in 2026 looks li
 
 **Eating out:** The average meal out in Carnegie runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/carnegie/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Carnegie, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Carnegie, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you [commute](/carnegie/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,23 @@ For more context on how this compares, check our [Living in Carnegie guide](/car
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Carnegie
+
+- [Carnegie History](/carnegie/history/)
+- [Carnegie Young Professionals Guide](/carnegie/young-professionals/)
+- [Carnegie Nightlife Guide](/carnegie/nightlife-guide/)
+- [Carnegie Transport Guide](/carnegie/transport-guide/)
+- [Carnegie Family Guide](/carnegie/family-guide/)
+- [Carnegie Honest Guide](/carnegie/honest-guide/)
+- [Carnegie Carnegie For Retirees](/carnegie/carnegie-for-retirees/)
+
+### Nearby Suburbs Worth Checking
+
+- [Carlton Suburb Guide](/carlton/)
+- [Carlton North Suburb Guide](/carlton-north/)
+- [Caroline Springs Suburb Guide](/caroline-springs/)
+- [Carrum Suburb Guide](/carrum/)

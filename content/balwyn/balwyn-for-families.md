@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Balwyn? Parks, schools, safety, and th
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Nadia Keane"
 keywords:
   - "is Balwyn good for families"
   - "Balwyn family friendly"
   - "raising kids in Balwyn"
+tags:
+  - "balwyn"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Balwyn with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

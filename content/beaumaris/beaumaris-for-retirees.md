@@ -4,12 +4,16 @@ description: "Considering retirement in Beaumaris? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "beaumaris"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Dani Reyes"
 keywords:
   - "Beaumaris retirees Melbourne"
   - "retiring in Beaumaris"
   - "quiet suburbs Melbourne"
+tags:
+  - "beaumaris"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Beaumaris? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

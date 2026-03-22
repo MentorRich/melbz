@@ -1,16 +1,16 @@
 ---
-title: "St Albans Melbourne — Everything You Need to Know"
+title: "St Albans Melbourne — what you need"
 description: "The complete guide to St Albans. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "st-albans"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "St Albans Melbourne"
   - "what is St Albans like"
   - "st-albans suburb"
   - "living in St Albans"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Vietnamese food strip, Pacific Werribee access, and a multicultural hub with improving transport.

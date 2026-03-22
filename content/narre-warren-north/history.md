@@ -4,16 +4,22 @@ description: "The story of Narre Warren North: from its origins to today. How th
 date: 2026-03-21
 suburb: "narre-warren-north"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Narre Warren North Melbourne history"
   - "how has Narre Warren North changed"
   - "Narre Warren North gentrification"
   - "Narre Warren North then and now"
+tags:
+  - "narre-warren-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Narre Warren North's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+The history of Narre Warren North shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Narre Warren North suburb guide](/narre-warren-north/) for the current picture.
 

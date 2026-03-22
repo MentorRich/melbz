@@ -1,12 +1,13 @@
 ---
 title: "Cheap Eats Under $20 in Prahran 2026"
-cover_image: "/images/prahran/cheap-eats.jpg"
-date: 2026-03-18
-author: priya
-author_image: "/images/authors/priya.jpg"
-description: "Eat well without breaking the bank. The best cheap eats in Prahran under $20, from Asian eateries to pub counter meals."
-tags: ["prahran", "cheap-eats"]
-categories: ["cheap"]
+description: "Eat well without breaking the bank. The best cheap eats in Prahran under $20, from Asian eateries to Neapolitan pizza and pub counter meals."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sharma"
+cover_image: "/images/shared/melbourne-food.jpg"
+cover_image_alt: "Prahran Melbourne cheap eats dining scene"
+suburb: "prahran"
+tags: ["melbourne", "prahran", "cheap-eats", "food"]
 ---
 
 *Updated 18 March 2026 | Food Editor*
@@ -67,23 +68,19 @@ For more of Melbourne’s top dining experiences beyond Prahran, explore our gui
 — Priya
 
 
+## FAQ
 
-## Venue Addresses & Details
+**Where is the cheapest food in Prahran?**
+Banh Mi Hanoi on Chapel Street ($16.80 for a loaded baguette) and The Dumpling Union on High Street ($14 for 10 dumplings) are the best value options.
 
-- **Dragon Hot Pot Prahran** — 180 Commercial Rd, Prahran VIC 3181 ($$). Open: 11:00 AM - 11:00 PM Daily. *Tip: Go for the signature Ma La Tang broth and weigh your bowl carefully; it's easy to over-order!*
-- **Prahran Convenience Store (The Toastie Spot)** — 208 Commercial Rd, Prahran VIC 3181 ($). Open: 24/7. *Tip: The late-night toasties are a rite of passage for anyone finishing a night out on Chapel Street.*
-- **Borsch, Vodka & Tears** — 173 Chapel St, Windsor VIC 3181 ($$). Open: 12:00 PM - 1:00 AM Daily. *Tip: Order the pierogi and a flight of infused vodkas for a budget-friendly but high-quality dinner experience.*
-- **Phat Milk** — 204 Punt Rd, Prahran VIC 3181 ($$). Open: 7:00 AM - 3:00 PM Daily. *Tip: Their Banh Mi is widely considered some of the best value-for-money lunch in the area.*
-- **HuTong Dumpling Bar** — 162 Commercial Rd, Prahran VIC 3181 ($$). Open: 11:30 AM - 3:00 PM, 5:30 PM - 10:00 PM. *Tip: Stick to the dumpling menu to keep the bill low; the Xiao Long Bao are essential.*
-- **Taco Bell Prahran** — 180-182 Chapel St, Prahran VIC 3181 ($). Open: 10:00 AM - 11:00 PM Daily. *Tip: Check the app for daily deals and 'cravings menu' items to keep your spend under $15.*
-## Related Articles
+**Can you eat well in Prahran for under $15?**
+Yes. The Dumpling Union's pan-fried dumplings ($14 for 10), empanadas from Empanada Bar ($15 for two), and a Vietnamese iced coffee from Banh Mi Hanoi ($3.50) all come in under $15.
 
-- [Best Restaurants in Melbourne](/best-restaurants-melbourne)
-- [Best Cafes & Brunch in Melbourne](/best-cafes-melbourne)
-- [Cheap Eats Under $20 in Melbourne](/cheap-eats-melbourne)
-- [Best Bars in Melbourne](/best-bars-melbourne)
-- [Cost of Living in Melbourne](/cost-of-living-melbourne)
-- [Transport Guide for Melbourne](/transport-guide-melbourne)
+## The Verdict
 
-*Find more Melbourne suburb guides at [melbz.com.au](/)*
+Prahran in 2026 proves great food does not require a luxury price. These spots deliver consistency, care, and value across Vietnamese, Japanese, Latin American, and Italian cuisines, all for under $20. The real international flavours are right here on Chapel Street and Commercial Road.
+
+---
+
+**More Prahran:** [Best Restaurants](/prahran/best-restaurants/) | [Best Cafes](/prahran/best-cafes/) | [Prahran Market Guide](/prahran/market-guide/) | [Prahran Suburb Guide](/prahran/)
 

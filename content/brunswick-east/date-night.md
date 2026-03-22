@@ -1,24 +1,24 @@
 ---
 title: "Date Night in Brunswick East — 2026 Local Guide"
-cover_image: "/images/brunswick-east/date-night.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+cover_image: "/images/shared/date-night.jpg"
+cover_image_alt: "Candlelit dinner at a restaurant on Lygon Street Brunswick East"
+tags:
+  - "brunswick-east"
+  - "date-night"
+  - "restaurants"
+  - "nightlife"
+  - "melbourne"
 ---
 
-suburb: "brunswick-east"
-vertical: "lifestyle"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the date night in Brunswick East. Our verified 2026 guide covers the best spots for locals."
-tags: ["brunswick-east"]
-categories: ["date"]
 # Date Night in Brunswick East: Where to Take Someone You Actually Like
 
 Here's the thing about Brunswick East and date night: this isn't the suburb you go to when you want to impress someone with a $300 degustation and a view of the Yarra. This is the suburb you go to when you want a date that feels real — good food, better wine, an atmosphere that doesn't force you to shout over a DJ, and the kind of neighbourhood charm that says "I know this city" without saying a word.
 
 Brunswick East's Lygon Street strip is one of Melbourne's best date-night corridors precisely because it's unpretentious. Nobody here is judging your shoes. Nobody's taking flash photography of their entree. People are just eating well, drinking better, and actually talking to each other. In 2026, that's basically revolutionary.
 
-**Last updated: 16 March 2026** | **Brunswick East Vibe Score: 78/100 🟡 SOLID**
+**Last updated: 16 March 2026** | **Last updated: March 2026**
 
 
 ## The Romantic Dinner: Etta
@@ -113,8 +113,6 @@ The 96 tram from the CBD drops you right in the thick of Brunswick East's Lygon 
 
 Brunswick East does date night the way Melbourne does best: good food, good wine, nobody trying too hard, and the kind of neighbourhood energy that makes you feel like you've discovered something together. Whether you're pulling out all the stops at Bouvier or keeping it casual at the Lomond Hotel, this suburb rewards people who actually want to spend time with each other.
 
-**Your Brunswick East Vibe Score this week: 78/100** — Date night here isn't about impressing — it's about enjoying.
-
 
 ## Related Reading
 
@@ -124,7 +122,6 @@ Brunswick East does date night the way Melbourne does best: good food, good wine
 - [Brunswick East New Openings](/brunswick-east/new-openings/) — what's fresh on the strip
 
 *Found your new favourite spot? Share it with the community.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
 ### Featured Venues
 
@@ -154,10 +151,9 @@ Brunswick East does date night the way Melbourne does best: good food, good wine
 - Culture: 8/10
 ## Related Articles
 
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/brunswick-east/](/brunswick-east/)
+- [Brunswick](/brunswick/)
+- [Fitzroy](/fitzroy/)
+- [Carlton](/carlton/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Brunswick East](/brunswick-east/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

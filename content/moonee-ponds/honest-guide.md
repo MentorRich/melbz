@@ -2,16 +2,13 @@
 title: "Moonee Ponds Honest Guide 2026: Puckle Street & The Real Deal"
 cover_image: "/images/moonee-ponds/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["moonee-ponds", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Moonee Ponds Honest Guide 2026: Puckle Street & The Real Deal"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -127,10 +124,9 @@ If you're considering a move, come here on a Saturday. Park badly on a side stre
 
 ## Related Articles
 
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/collingwood/](/collingwood/)
-- [/moonee-ponds/](/moonee-ponds/)
+- [Brunswick](/brunswick/)
+- [Fitzroy](/fitzroy/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Collingwood](/collingwood/)
+- [Moonee Ponds](/moonee-ponds/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

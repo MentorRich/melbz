@@ -1,16 +1,16 @@
 ---
-title: "Glen Iris Melbourne — Everything You Need to Know"
+title: "Glen Iris Melbourne — what you need"
 description: "The complete guide to Glen Iris. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "profile"
 author: "Aisha Patel"
-author_image: "/images/authors/aisha.jpg"
 keywords:
   - "Glen Iris Melbourne"
   - "what is Glen Iris like"
   - "glen-iris suburb"
   - "living in Glen Iris"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Gardiner's Creek trail, family homes, and a leafy pocket between Camberwell and Malvern.

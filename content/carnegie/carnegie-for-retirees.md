@@ -4,12 +4,16 @@ description: "Considering retirement in Carnegie? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "carnegie"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Carnegie retirees Melbourne"
   - "retiring in Carnegie"
   - "quiet suburbs Melbourne"
+tags:
+  - "carnegie"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Carnegie? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

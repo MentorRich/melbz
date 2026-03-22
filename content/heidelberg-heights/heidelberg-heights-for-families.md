@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Heidelberg Heights? Parks, schools, sa
 date: 2026-03-21
 suburb: "heidelberg-heights"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "is Heidelberg Heights good for families"
   - "Heidelberg Heights family friendly"
   - "raising kids in Heidelberg Heights"
+tags:
+  - "heidelberg-heights"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Heidelberg Heights with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,13 +4,18 @@ description: "The insider's guide to Cranbourne East's different pockets, street
 date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Cranbourne East neighbourhood guide"
   - "best streets in Cranbourne East"
   - "Cranbourne East areas"
   - "Cranbourne East pockets Melbourne"
+tags:
+  - "cranbourne-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Cranbourne East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,12 +4,16 @@ description: "Considering retirement in Bundoora? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "bundoora"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Bundoora retirees Melbourne"
   - "retiring in Bundoora"
   - "quiet suburbs Melbourne"
+tags:
+  - "bundoora"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Bundoora? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

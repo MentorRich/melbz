@@ -4,16 +4,22 @@ description: "How expensive is Beaumaris? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "beaumaris"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Tom O'Brien"
 keywords:
   - "cost of living Beaumaris Melbourne"
   - "how expensive is Beaumaris"
   - "is Beaumaris expensive to live in"
   - "Beaumaris rent"
+tags:
+  - "beaumaris"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Beaumaris — no sugar-coating, no made-up figures.
+If you are weighing up Beaumaris against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Beaumaris suburb guide](/beaumaris/) for the bigger picture.
 

@@ -1,17 +1,14 @@
 ---
-title: "Neighbourhood Guide — South Yarra, Melbourne 2026"
-cover_image: "/images/south-yarra/neighbourhood-guide.jpg"
----
-
-suburb: "south-yarra"
-vertical: "lifestyle"
-author: "marcusl"
-author_image: "/images/authors/marcus.jpg"
-date: 2026-03-16
-updated: 2026-03-17
+title: "South Yarra Neighbourhood Guide 2026"
 description: "The real South Yarra — where Chapel Street meets the Yarra, designer boutiques sit next to public housing, and the coffee is still worth crossing town for."
-tags: ["south-yarra"]
-categories: ["neighbourhood"]
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/south-yarra/neighbourhood-guide.jpg"
+cover_image_alt: "South Yarra Melbourne neighbourhood street"
+suburb: "south-yarra"
+tags: ["melbourne", "south-yarra", "neighbourhood-guide"]
+---
 # South Yarra Neighbourhood Guide — 2026
 
 South Yarra is Melbourne's suburb of contradictions. One end has million-dollar apartments overlooking the Royal Botanic Gardens. The other end has students sharing three-bedroom units and ducking into Toorak Road for a $5 dumpling. Both are real South Yarra. Both are worth knowing.
@@ -50,7 +47,7 @@ South Yarra is well-served. Perhaps too well-served, if you're trying to justify
 
 **Trains:** South Yarra station sits on the Cranbourne, Pakenham, and Frankston lines. It's a couple of minutes' walk from Chapel Street and gets you to Flinders Street in about 10 minutes. The station was upgraded recently and is in decent shape, though peak hour still tests your personal space boundaries.
 
-**Trams:** The Route 58 tram runs along Toorak Road and is the main north-south artery. The Route 78 runs along Chapel Street through Prahran and Windsor. Both connect to the CBD, and the 78 is particularly useful for exploring the southern end of Chapel Street without walking. The 96 tram runs nearby along Brunswick Street through Fitzroy — you'll need to walk a few blocks east to catch it.
+**Trams:** Route 8 runs along Toorak Road. Route 72 runs along Commercial Road. Route 78 runs along Chapel Street through Prahran and Windsor. All three connect to the CBD, and the 78 is particularly useful for exploring the southern end of Chapel Street without walking.
 
 **Buses:** Several routes cover the eastern side of the suburb. They exist. They work. Nobody's passionate about them.
 
@@ -132,7 +129,7 @@ South Yarra borders several suburbs worth knowing about:
 
 ## The Verdict
 
-South Yarra isn't trying to be the coolest suburb in Melbourne. That ship sailed to Collingwood and Brunswick years ago. What it is — reliably, consistently, and without apology — is one of the most liveable inner suburbs in the city. Great transport. World-class parks. A dining scene that rewards exploration. And the kind of energy that comes from being right in the middle of everything without being overwhelmed by it.
+South Yarra isn't trying to be the coolest suburb in Melbourne. That ship sailed to Collingwood and Brunswick years ago. What it is — reliably, consistently, and without apology — is one of the most liveable inner suburbs in the city. Great transport. Outstanding parks. A dining scene that rewards exploration. And the kind of energy that comes from being right in the middle of everything without being overwhelmed by it.
 
 It's expensive, yes. Parking is a pain, yes. And if you tell a Sydneysider you live in South Yarra, they'll nod politely and ask if it's near the beach (it's not). But for Melburnians who want to walk to brunch, catch a train to work, and end the day with a glass of wine on a street that still feels like a neighbourhood — South Yarra delivers.
 
@@ -146,38 +143,17 @@ It's expensive, yes. Parking is a pain, yes. And if you tell a Sydneysider you l
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
-### Featured Venues
+## FAQ
 
-- **France-Soir** at 11 Toorak Rd, South Yarra VIC 3141
-- **Bar Carolina** at 44 Toorak Rd, South Yarra VIC 3141
-- **L'Hotel Gitan** at 32 Commercial Rd, Prahran/South Yarra VIC 3181
-- **Two Birds One Stone** at 12 Claremont St, South Yarra VIC 3141
-- **Abacus Bar & Kitchen** at 383 Chapel St, South Yarra VIC 3141
-- **Darling Cafe** at 265 Punt Rd, South Yarra VIC 3141
-- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
-- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor, VIC 3181
-- **Dragon Hot Pot South Yarra** at 166 Toorak Rd, South Yarra, VIC 3141
-- **Rice Paper Scissors** at 5-7 Toorak Rd, South Yarra VIC 3141
+**What's the best street in South Yarra?**
+Chapel Street for action, Domain Road for beauty, Murphy Street for quiet local life.
 
-### Key Highlights
+**What council is South Yarra in?**
+City of Stonnington. Postcode 3141.
 
-- Chapel Street shopping precinct
-- Royal Botanic Gardens
-- Como House and Gardens
+**Is South Yarra walkable?**
+Very. The combination of Chapel Street, Toorak Road, and the side streets means most daily needs are within a 10-minute walk.
 
-### Suburb Vibe
+---
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More South Yarra:** [Best Cafes](/south-yarra/best-cafes/) | [Transport Guide](/south-yarra/transport-guide/) | [Cost of Living](/south-yarra/cost-of-living/)

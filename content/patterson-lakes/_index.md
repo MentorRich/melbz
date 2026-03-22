@@ -1,16 +1,16 @@
 ---
-title: "Patterson Lakes Melbourne — Everything You Need to Know"
+title: "Patterson Lakes Melbourne — what you need"
 description: "The complete guide to Patterson Lakes. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Patterson Lakes Melbourne"
   - "what is Patterson Lakes like"
   - "patterson-lakes suburb"
   - "living in Patterson Lakes"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Canal living, boats in backyards, and Melbourne's suburban Venice.

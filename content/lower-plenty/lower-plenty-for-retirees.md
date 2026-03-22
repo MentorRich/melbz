@@ -4,12 +4,16 @@ description: "Considering retirement in Lower Plenty? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Lower Plenty retirees Melbourne"
   - "retiring in Lower Plenty"
   - "quiet suburbs Melbourne"
+tags:
+  - "lower-plenty"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Lower Plenty? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

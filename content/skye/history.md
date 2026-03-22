@@ -4,16 +4,22 @@ description: "The story of Skye: from its origins to today. How this Melbourne s
 date: 2026-03-21
 suburb: "skye"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Skye Melbourne history"
   - "how has Skye changed"
   - "Skye gentrification"
   - "Skye then and now"
+tags:
+  - "skye"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Skye's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Skye comes from an Indigenous word. But the real story is what happened after the suburb was named.
 
 See our full [Skye suburb guide](/skye/) for the current picture.
 

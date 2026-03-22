@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Brighton East? Parks, schools, safety,
 date: 2026-03-21
 suburb: "brighton-east"
 article_type: "families"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "is Brighton East good for families"
   - "Brighton East family friendly"
   - "raising kids in Brighton East"
+tags:
+  - "brighton-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Brighton East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

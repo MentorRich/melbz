@@ -4,12 +4,16 @@ description: "Considering retirement in Kings Park? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "kings-park"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Kings Park retirees Melbourne"
   - "retiring in Kings Park"
   - "quiet suburbs Melbourne"
+tags:
+  - "kings-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Kings Park? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

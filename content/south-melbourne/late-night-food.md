@@ -1,12 +1,13 @@
 ---
 title: "Late Night Food in South Melbourne 2026: Where to Eat After 10pm"
 cover_image: "/images/south-melbourne/late-night-food.jpg"
-date: 2026-03-16
-author: ethan
-author_image: "/images/authors/ethan.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
 tags: ["south-melbourne", "late-night", "food"]
-categories: ["food"]
-description: "Late Night Food in South Melbourne 2026: Where to Eat After 10pm"
+description: "Where to eat after 10pm near South Melbourne in 2026. Stalactites on Lonsdale Street to late-night pub kitchens along Clarendon and Cecil Streets now."
+cover_image_alt: "South Melbourne street scene and local dining"
+suburb: "south-melbourne"
 ---
 
 It's 10:30pm on a Wednesday. You've finished a gig at the Espy, wrapped a late shift at Cro..."
@@ -187,10 +188,9 @@ The key to late-night eating south of the river is knowing that South Melbourne 
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/collingwood/](/collingwood/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/balaclava/](/balaclava/)
+- [South Yarra](/south-yarra/)
+- [St Kilda](/st-kilda/)
+- [Collingwood](/collingwood/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Balaclava](/balaclava/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

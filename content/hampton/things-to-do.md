@@ -4,19 +4,25 @@ description: "What to do in Hampton this weekend and beyond. Activities, events,
 date: 2026-03-21
 suburb: "hampton"
 article_type: "activities"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "things to do Hampton"
   - "Hampton activities"
   - "what to do in Hampton"
   - "Hampton weekend plans"
+tags:
+  - "hampton"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
 ## What Is There to Do in Hampton?
 
-More than you think. Hampton Street village, the beach, and a family-friendly vibe that rivals Brighton at lower cost. That energy translates into things to do on any day of the week, rain or shine.
+More than you think. Hampton Street village, the beach, and a family-friendly vibe that rivals [Brighton](/brighton/) at lower cost. That energy translates into things to do on any day of the week, rain or shine.
 
 ## Outdoor Activities
 
@@ -53,7 +59,7 @@ More than you think. Hampton Street village, the beach, and a family-friendly vi
 
 Melbourne weather means you need indoor plans. Hampton has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/hampton/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Hampton has:
 ---
 
 **More on Hampton:** [Hampton Suburb Guide](/hampton/) · [Hampton Best Cafes](/hampton/best-cafes/) · [Hampton Neighbourhood Guide](/hampton/neighbourhood-guide/)
+
+---
+
+## Explore More of Hampton
+
+- [Hampton History](/hampton/history/)
+- [Hampton Rent Guide](/hampton/rent-guide/)
+- [Hampton Cost of Living](/hampton/cost-of-living/)
+- [Hampton Young Professionals Guide](/hampton/young-professionals/)
+- [Hampton Transport Guide](/hampton/transport-guide/)
+- [Hampton Best Cafes](/hampton/best-cafes/)
+- [Hampton Best Restaurants](/hampton/best-restaurants/)
+- [Hampton Weekend Guide](/hampton/weekend-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Caulfield North? Parks, schools, safet
 date: 2026-03-21
 suburb: "caulfield-north"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Caulfield North good for families"
   - "Caulfield North family friendly"
   - "raising kids in Caulfield North"
+tags:
+  - "caulfield-north"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Caulfield North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

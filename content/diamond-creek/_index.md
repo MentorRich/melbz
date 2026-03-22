@@ -1,16 +1,16 @@
 ---
-title: "Diamond Creek Melbourne — Everything You Need to Know"
+title: "Diamond Creek Melbourne — what you need"
 description: "The complete guide to Diamond Creek. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "diamond-creek"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Diamond Creek Melbourne"
   - "what is Diamond Creek like"
   - "diamond-creek suburb"
   - "living in Diamond Creek"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 End of the suburban feel — Diamond Creek Park, bushwalking access, and strong family community.

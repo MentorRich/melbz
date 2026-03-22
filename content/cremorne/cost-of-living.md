@@ -1,18 +1,13 @@
 ---
-title: "Cost of Living in Cremorne 2026: Rent, Food & the Real Numbers"
-slug: "cost-of-living"
-date: 2026-03-21
-updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+title: "Cost of Living in Cremorne 2026: Rent, Food and the Real Numbers"
+description: "What it actually costs to live in Cremorne in 2026. Warehouse apartment rent on Cremorne Street, Church Street grocery prices, and real transport costs to the CBD."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Alex Turner"
+cover_image: "/images/cremorne/cost-of-living.jpg"
+cover_image_alt: "Cremorne Melbourne warehouse apartments and streetscape"
 suburb: "cremorne"
-suburbs: ["cremorne"]
-vertical: property
 tags: ["cremorne", "cost-of-living", "rent", "property"]
-description: "What it actually costs to live in Cremorne in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/3295561/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Cremorne Melbourne cost of living"
-vibe_score: 77
 ---
 
 Cremorne doesn't come cheap — but it doesn't have to break you either. Here's every dollar you'll spend living here in 2026, from rent to that third flat white you definitely don't need.
@@ -36,7 +31,7 @@ This is where most of your money goes. Cremorne's rental market in 2026 looks li
 |---------|-------------|-------|
 | Rent (1-bed) | $1819 | Biggest line item by far |
 | Groceries | $320-$420 | Depends on Coles vs local market habits |
-| Transport (Myki) | $160-$200 | Zone 1-2 monthly cap |
+| [Transport](/cremorne/transport-guide/) (Myki) | $160-$200 | Zone 1-2 monthly cap |
 | Utilities (1-bed) | $180-$240 | Gas + electricity + water |
 | Internet | $70-$90 | NBN, decent speed |
 | Coffee habit | $80-$120 | 1-2 per day at local prices |
@@ -50,7 +45,7 @@ This is where most of your money goes. Cremorne's rental market in 2026 looks li
 
 **Eating out:** The average meal out in Cremorne runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/cremorne/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Cremorne, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Cremorne, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you [commute](/cremorne/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +62,24 @@ For more context on how this compares, check our [Living in Cremorne guide](/cre
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Cremorne
+
+- [Cremorne History](/cremorne/history/)
+- [Cremorne Things To Do This Weekend](/cremorne/things-to-do-this-weekend/)
+- [Cremorne Cheap Eats](/cremorne/cheap-eats/)
+- [Cremorne Rent Guide](/cremorne/rent-guide/)
+- [Cremorne Date Night Guide](/cremorne/date-night/)
+- [Cremorne Cremorne For Retirees](/cremorne/cremorne-for-retirees/)
+- [Cremorne New Openings](/cremorne/new-openings/)
+- [Cremorne Things To Do](/cremorne/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Cranbourne North Suburb Guide](/cranbourne-north/)
+- [Cranbourne West Suburb Guide](/cranbourne-west/)
+- [Croydon Suburb Guide](/croydon/)
+- [Croydon North Suburb Guide](/croydon-north/)

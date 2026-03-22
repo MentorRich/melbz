@@ -4,19 +4,25 @@ description: "The honest rental guide for Cheltenham. What to expect, where to l
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "housing"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "renting in Cheltenham"
   - "Cheltenham rental market"
   - "rent Cheltenham Melbourne"
   - "apartments Cheltenham"
+tags:
+  - "cheltenham"
+  - "rent"
+  - "property"
+  - "cost-of-living"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Renting in Cheltenham — The Real Story
 
-Looking to rent in Cheltenham? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
+Looking to [rent](/cheltenham/cost-of-living/) in Cheltenham? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
 
 See our full [Cheltenham Cost of Living](/cheltenham/cost-of-living/) guide for the broader picture.
 
@@ -38,7 +44,7 @@ That said, Cheltenham has a steady flow of rental stock. Properties come up regu
 
 ## How to Actually Get a Rental in Cheltenham
 
-1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental history. Pre-fill the Ignite or 2Apply forms.
+1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental [history](/cheltenham/history/). Pre-fill the Ignite or 2Apply forms.
 
 2. **Apply on the day of inspection** — Properties that sit for a week are rare. Same-day applications show you're serious.
 
@@ -69,3 +75,23 @@ The key is matching your budget to realistic expectations. A smaller, well-locat
 ---
 
 **More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham Cost of Living](/cheltenham/cost-of-living/) · [Cheltenham for Young Professionals](/cheltenham/cheltenham-for-young-professionals/)
+
+---
+
+## Explore More of Cheltenham
+
+- [Cheltenham History](/cheltenham/history/)
+- [Cheltenham Things To Do](/cheltenham/things-to-do/)
+- [Cheltenham Cost of Living](/cheltenham/cost-of-living/)
+- [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+- [Cheltenham Living In Cheltenham](/cheltenham/living-in-cheltenham/)
+- [Cheltenham Transport Guide](/cheltenham/transport-guide/)
+- [Cheltenham Best Cafes](/cheltenham/best-cafes/)
+- [Cheltenham Cheltenham For Retirees](/cheltenham/cheltenham-for-retirees/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

@@ -4,13 +4,19 @@ description: "Your weekend in Ascot Vale sorted — from morning coffee to Satur
 date: 2026-03-21
 suburb: "ascot-vale"
 article_type: "weekend"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "what to do Ascot Vale this weekend"
   - "Ascot Vale weekend"
   - "things to do Ascot Vale Saturday"
   - "Ascot Vale Sunday plans"
+tags:
+  - "ascot-vale"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Ascot Vale does weekends well. Whether you're the type who plans every hour or p
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Ascot Vale's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/ascot-vale/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Ascot Vale's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Ascot Vale starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Ascot Vale starts slower. The [cafes](/ascot-vale/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Ascot Vale and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Ascot Vale does weekends well. Whether you're the type who plans every hour or p
 ---
 
 **More on Ascot Vale:** [Ascot Vale Suburb Guide](/ascot-vale/) · [Ascot Vale Things to Do](/ascot-vale/things-to-do/) · [Ascot Vale Best Restaurants](/ascot-vale/best-restaurants/)
+
+---
+
+## Explore More of Ascot Vale
+
+- [Ascot Vale History](/ascot-vale/history/)
+- [Ascot Vale Ascot Vale For Retirees](/ascot-vale/ascot-vale-for-retirees/)
+- [Ascot Vale Rent Guide](/ascot-vale/rent-guide/)
+- [Ascot Vale Things To Do](/ascot-vale/things-to-do/)
+- [Ascot Vale Cost of Living](/ascot-vale/cost-of-living/)
+- [Ascot Vale Young Professionals Guide](/ascot-vale/young-professionals/)
+- [Ascot Vale Nightlife Guide](/ascot-vale/nightlife-guide/)
+- [Ascot Vale Transport Guide](/ascot-vale/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Ardeer Suburb Guide](/ardeer/)
+- [Armadale Suburb Guide](/armadale/)
+- [Ashburton Suburb Guide](/ashburton/)
+- [Ashwood Suburb Guide](/ashwood/)

@@ -4,12 +4,16 @@ description: "Considering retirement in Hoppers Crossing? Quiet streets, healthc
 date: 2026-03-21
 suburb: "hoppers-crossing"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Hoppers Crossing retirees Melbourne"
   - "retiring in Hoppers Crossing"
   - "quiet suburbs Melbourne"
+tags:
+  - "hoppers-crossing"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Hoppers Crossing? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

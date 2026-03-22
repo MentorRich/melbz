@@ -3,20 +3,19 @@ title: "Hidden Gems in Box Hill Melbourne — What Most People Miss"
 description: "The spots in Box Hill that don't make the top 10 lists but locals would fight to protect. Off the main strip, under the radar."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "local-guide"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
-keywords:
-  - "hidden gems Box Hill"
-  - "secret spots Box Hill"
-  - "local tips Box Hill"
-  - "off beaten path Box Hill Melbourne"
+author: "Priya Sandhu"
+tags:
+  - "box-hill"
+  - "hidden-gems"
+  - "local-tips"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Why Box Hill's Best Bits Are Hidden
 
-Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But Box Hill's real character lives in the places most visitors never find.
+Every Melbourne suburb has a public face — the main strip, the popular [cafes](/box-hill/best-cafes/), the spots Google tells you about. But Box Hill's real character lives in the places most visitors never find.
 
 These aren't "hidden" because someone's keeping secrets. They're hidden because they don't advertise, they don't have social media strategies, and they rely entirely on word of mouth and repeat customers.
 
@@ -62,4 +61,24 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on Box Hill:** [Box Hill Suburb Guide](/box-hill/) · [Box Hill History](/box-hill/history/) · [Box Hill Living Guide](/box-hill/living-in-box-hill/)
+**More on Box Hill:** [Box Hill Suburb Guide](/box-hill/) · [Box Hill History](/box-hill/[history](/box-hill/history/)/) · [Box Hill Living Guide](/box-hill/living-in-box-hill/)
+
+---
+
+## Explore More of Box Hill
+
+- [Box Hill History](/box-hill/history/)
+- [Box Hill Rent Guide](/box-hill/rent-guide/)
+- [Box Hill Box Hill For Families](/box-hill/box-hill-for-families/)
+- [Box Hill Things To Do](/box-hill/things-to-do/)
+- [Box Hill Box Hill For Retirees](/box-hill/box-hill-for-retirees/)
+- [Box Hill Cost of Living](/box-hill/cost-of-living/)
+- [Box Hill Neighbourhood Guide](/box-hill/neighbourhood-guide/)
+- [Box Hill Transport Guide](/box-hill/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

@@ -1,15 +1,13 @@
 ---
-title: "Is Cremorne Good for Retirees?"
-description: "Considering retirement in Cremorne? Quiet streets, healthcare access, community feel, and the honest verdict for retirees."
-date: 2026-03-21
+title: "Is Cremorne Good for Retirees? — 2026 Guide"
+description: "Considering retirement in Cremorne? Yarra River walking paths, Church Street services, Richmond station access, and the honest verdict for retirees in 2026."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Lina Park"
+cover_image: "/images/cremorne/cremorne-for-retirees.jpg"
+cover_image_alt: "Yarra River walking path near Cremorne"
 suburb: "cremorne"
-article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
-keywords:
-  - "Cremorne retirees Melbourne"
-  - "retiring in Cremorne"
-  - "quiet suburbs Melbourne"
+tags: ["cremorne", "retirees", "lifestyle"]
 ---
 
 Thinking about retiring in Cremorne? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

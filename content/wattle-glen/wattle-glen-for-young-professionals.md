@@ -4,12 +4,18 @@ description: "Is Wattle Glen a good suburb for young professionals? Social scene
 date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "young-professionals"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Wattle Glen young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Wattle Glen"
+tags:
+  - "wattle-glen"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Wattle Glen as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

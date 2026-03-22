@@ -1,16 +1,16 @@
 ---
-title: "Park Orchards Melbourne — Everything You Need to Know"
+title: "Park Orchards Melbourne — what you need"
 description: "The complete guide to Park Orchards. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "park-orchards"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Park Orchards Melbourne"
   - "what is Park Orchards like"
   - "park-orchards suburb"
   - "living in Park Orchards"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Large bush blocks, horse properties, and a semi-rural pocket within the suburban boundary.

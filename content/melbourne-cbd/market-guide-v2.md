@@ -1,16 +1,16 @@
 ---
 title: "Melbourne CBD Market Guide 2026: Queen Vic & Beyond"
-cover_image: "/images/melbourne-cbd/market-guide-v2.jpg"
-date: 2026-03-16
-author: tyler
-author_image: "/images/authors/tyler.jpg"
-tags: ["melbourne-cbd", "markets", "lifestyle"]
-categories: ["lifestyle"]
-description: "Melbourne CBD Market Guide 2026: Queen Vic & Beyond"
+cover_image: "/images/shared/markets.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Tyler James"
+tags: ["melbourne", "melbourne-cbd", "markets", "lifestyle"]
+description: "Melbourne CBD market guide for 2026. Queen Victoria Market Saturday mornings, night market street food on Wednesdays and seasonal makers markets across the grid."
 ---
 
 **Updated 16 March 2026 | Tyler James reporting**
-
 
 
 There's a moment every Saturday morning where Melbourne f..."
@@ -84,7 +84,7 @@ Food-focused shoppers, date mornings, anyone who finds Queen Vic overwhelming, a
 | **Produce quality** | Excellent, huge variety | Excellent, curated selection |
 | **Best for** | Groceries, variety, atmosphere | Cheese, dim sims, seafood |
 | **Parking** | Ample paid parking nearby | Small on-site car park |
-| **Public transport** | Queen St trams, Flagstaff station | Tram 96, tram 12 |
+| **Public [transport](/melbourne-cbd/transport-guide/)** | Queen St trams, Flagstaff station | Tram 96, tram 12 |
 | **Tourist factor** | High | Low to moderate |
 | **Dining options** | Market hall + surrounding streets | Market stalls + Clarendon St strip |
 | **Vibe** | Big, loud, chaotic, brilliant | Cosy, local, considered |
@@ -121,7 +121,7 @@ The Block Arcade is Degraves' more polished cousin. Running from Collins Street 
 
 Block Arcade trades in artisanal. You won't find a $4 dim sim here. What you will find is hand-crafted chocolate, premium tea, specialty cake shops, and boutiques selling things you didn't know you wanted until you saw them.
 
-The standout is the chocolate. At least two traders in the arcade have been making small-batch confections for over two decades, and they've resisted the homogenisation that's claimed similar shops elsewhere in the city. The ganache tarts are genuinely world-class.
+The standout is the chocolate. At least two traders in the arcade have been making small-batch confections for over two decades, and they've resisted the homogenisation that's claimed similar shops elsewhere in the city. The ganache tarts are genuinely exceptional.
 
 The tea rooms and cafés in Block Arcade offer a different pace from the rest of the CBD market circuit. This is where you sit down, order a pot of something loose-leaf, and eat a scone that's been baked that morning. It's old-fashioned in the best possible way.
 
@@ -186,40 +186,24 @@ The best part? They're all within walking or short tram distance of each other. 
 That's Melbourne. The market city. And it's never been better.
 
 
-*Tyler James is the Roast Editor at MELBZ, covering Melbourne's food, markets, and city life. He has eaten an unreasonable number of South Melbourne dim sims in the name of research. Contact: [hq@melbz101](mailto:hq@melbz101)*
+*Tyler James is the Roast Editor at MELBZ, covering Melbourne's food, markets, and city life. He has eaten an unreasonable number of South Melbourne dim sims in the name of research. Contact: [hq@melbz.com.au](mailto:hq@melbz.com.au)*
 
-### Featured Venues
+---
 
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
+## Explore More of Melbourne CBD
 
-### Key Highlights
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Cocktails](/melbourne-cbd/cocktails/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD Weekend Guide V2](/melbourne-cbd/weekend-guide-v2/)
 
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

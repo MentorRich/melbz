@@ -4,16 +4,22 @@ description: "How expensive is Burnley? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "burnley"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Burnley Melbourne"
   - "how expensive is Burnley"
   - "is Burnley expensive to live in"
   - "Burnley rent"
+tags:
+  - "burnley"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Burnley — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Burnley, here is exactly how far your dollar goes.
 
 Read our full [Burnley suburb guide](/burnley/) for the bigger picture.
 

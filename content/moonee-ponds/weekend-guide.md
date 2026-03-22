@@ -4,13 +4,19 @@ description: "Your weekend in Moonee Ponds sorted — from morning coffee to Sat
 date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "weekend"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "what to do Moonee Ponds this weekend"
   - "Moonee Ponds weekend"
   - "things to do Moonee Ponds Saturday"
   - "Moonee Ponds Sunday plans"
+tags:
+  - "moonee-ponds"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Moonee Ponds does weekends well. Whether you're the type who plans every hour or
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Moonee Ponds's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/moonee-ponds/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Moonee Ponds's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Moonee Ponds starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Moonee Ponds starts slower. The [cafes](/moonee-ponds/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Moonee Ponds and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Moonee Ponds does weekends well. Whether you're the type who plans every hour or
 ---
 
 **More on Moonee Ponds:** [Moonee Ponds Suburb Guide](/moonee-ponds/) · [Moonee Ponds Things to Do](/moonee-ponds/things-to-do/) · [Moonee Ponds Best Restaurants](/moonee-ponds/best-restaurants/)
+
+---
+
+## Explore More of Moonee Ponds
+
+- [Moonee Ponds History](/moonee-ponds/history/)
+- [Moonee Ponds Rent Guide](/moonee-ponds/rent-guide/)
+- [Moonee Ponds Things To Do](/moonee-ponds/things-to-do/)
+- [Moonee Ponds Cost of Living](/moonee-ponds/cost-of-living/)
+- [Moonee Ponds Young Professionals Guide](/moonee-ponds/young-professionals/)
+- [Moonee Ponds Transport Guide](/moonee-ponds/transport-guide/)
+- [Moonee Ponds Best Cafes](/moonee-ponds/best-cafes/)
+- [Moonee Ponds Best Restaurants](/moonee-ponds/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Montmorency Suburb Guide](/montmorency/)
+- [Montrose Suburb Guide](/montrose/)
+- [Moorabbin Suburb Guide](/moorabbin/)
+- [Mooroolbark Suburb Guide](/mooroolbark/)

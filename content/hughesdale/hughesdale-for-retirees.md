@@ -4,12 +4,16 @@ description: "Considering retirement in Hughesdale? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "hughesdale"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Hughesdale retirees Melbourne"
   - "retiring in Hughesdale"
   - "quiet suburbs Melbourne"
+tags:
+  - "hughesdale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Hughesdale? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

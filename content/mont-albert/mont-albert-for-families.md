@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Mont Albert? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "mont-albert"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Mont Albert good for families"
   - "Mont Albert family friendly"
   - "raising kids in Mont Albert"
+tags:
+  - "mont-albert"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Mont Albert with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

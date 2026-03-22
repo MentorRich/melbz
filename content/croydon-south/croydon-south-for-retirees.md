@@ -4,12 +4,16 @@ description: "Considering retirement in Croydon South? Quiet streets, healthcare
 date: 2026-03-21
 suburb: "croydon-south"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Croydon South retirees Melbourne"
   - "retiring in Croydon South"
   - "quiet suburbs Melbourne"
+tags:
+  - "croydon-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Croydon South? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

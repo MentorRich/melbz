@@ -4,12 +4,18 @@ description: "Is Patterson Lakes a good suburb for young professionals? Social s
 date: 2026-03-21
 suburb: "patterson-lakes"
 article_type: "young-professionals"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Patterson Lakes young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Patterson Lakes"
+tags:
+  - "patterson-lakes"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Patterson Lakes as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

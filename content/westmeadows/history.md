@@ -4,16 +4,22 @@ description: "The story of Westmeadows: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "westmeadows"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Westmeadows Melbourne history"
   - "how has Westmeadows changed"
   - "Westmeadows gentrification"
   - "Westmeadows then and now"
+tags:
+  - "westmeadows"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Westmeadows's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Westmeadows has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Westmeadows suburb guide](/westmeadows/) for the current picture.
 

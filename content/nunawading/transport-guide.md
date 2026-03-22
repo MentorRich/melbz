@@ -4,15 +4,22 @@ description: "Public transport in Nunawading: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "nunawading"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Nunawading Melbourne"
   - "commute from Nunawading to city"
   - "Nunawading train station"
+tags:
+  - "nunawading"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Nunawading — what works, what's annoying, and how long things actually take.
+Living in Nunawading means adapting to its transport quirks. Every suburb has them - here are the ones for Nunawading.
 
 Check out our full [Nunawading suburb guide](/nunawading/) for the complete picture.
 

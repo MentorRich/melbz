@@ -1,12 +1,13 @@
 ---
 title: "Late Night Food in South Yarra 2026: Where to Eat After 10pm"
+description: "Eight tested late-night spots in South Yarra from France-Soir's midnight bistro to Chapelli's 24-hour kitchen and Lamb on Chapel's 2am souvlaki."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
 cover_image: "/images/south-yarra/late-night-food.jpg"
-date: 2026-03-16
-author: ethan
-author_image: "/images/authors/ethan.jpg"
-tags: ["south-yarra", "late-night", "food"]
-categories: ["food"]
-description: "Late Night Food in South Yarra 2026: Where to Eat After 10pm."
+cover_image_alt: "South Yarra Melbourne late night food Chapel Street"
+suburb: "south-yarra"
+tags: ["melbourne", "south-yarra", "late-night-food", "restaurants"]
 ---
 
 It's 10:30pm on a Friday. You've just left a packed bar on Chapel Street, the Ubers are surging..."
@@ -43,7 +44,7 @@ We spent two weeks eating our way through South Yarra's late-night options. Eigh
 
 France-Soir has been open since 1986. That's not a typo — nearly four decades of serving steak frites and duck à l'orange to South Yarra residents who refuse to eat dinner at 6:30pm like the rest of Melbourne. Open until midnight every single day, it remains the gold standard for late-night dining in the suburb.
 
-The room still feels like a Parisian brasserie: banquettes, buzzing conversation, waiters who move at a clip. The menu doesn't change much because it doesn't need to. Steak tartare, oysters shucked to order, entrecôte with béarnaise, and a crème caramel that regularly makes "best dessert in Melbourne" shortlists. Mains sit around $35–$55, with entrees starting at $18.
+The room still feels like a Parisian brasserie: banquettes, lively conversation, waiters who move at a clip. The menu doesn't change much because it doesn't need to. Steak tartare, oysters shucked to order, entrecôte with béarnaise, and a crème caramel that regularly makes "best dessert in Melbourne" shortlists. Mains sit around $35–$55, with entrees starting at $18.
 
 The critical thing here is that France-Soir serves its full menu right up to 11pm, not a reduced late-night card with three sad options. You're eating what the 8pm crowd eats, just with fewer people fighting for the same waiter.
 
@@ -206,12 +207,17 @@ If you're heading out tonight, our recommendation is simple: **book France-Soir 
 
 *Ethan Cross is the Late Night Editor at MELBZ. He has eaten dinner after 10pm more times than he'd care to admit and believes the best restaurants are the ones still taking orders when everyone else has gone home.*
 
-## Related Articles
+## FAQ
 
-- [/fitzroy/](/fitzroy/)
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/south-yarra/](/south-yarra/)
-- [/south-yarra/hub](/south-yarra/hub)
+**What's open 24 hours in South Yarra?**
+Chapelli's at 571 Chapel Street. Same menu at 3am as at 3pm.
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**Where's the best late-night restaurant in South Yarra?**
+France-Soir on Toorak Road. Full bistro menu until 11pm, open until midnight, nearly four decades of consistency.
+
+**What's the cheapest late-night food in South Yarra?**
+Lamb on Chapel at 394 Chapel Street. Souvlaki from $12, open until 2am Friday-Saturday.
+
+---
+
+**More South Yarra:** [Best Restaurants](/south-yarra/best-restaurants/) | [Nightlife Guide](/south-yarra/nightlife-guide/) | [Best Bars](/south-yarra/best-bars/)

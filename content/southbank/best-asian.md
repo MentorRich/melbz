@@ -1,119 +1,100 @@
 ---
-title: "Best Asian Food in Southbank: From Pho to Ramen"
+title: "Best Asian Food in Southbank — 2026 Local Guide"
+description: "The best Asian restaurants in Southbank. Shujinko twenty-four-hour ramen on Riverside Quay, Dodee Paidang Thai, OKAMI on Clarendon Street, and more picks."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Nina Chen"
 cover_image: "/images/southbank/best-asian.jpg"
-date: 2026-03-18
-author: nina
-author_image: "/images/authors/nina.jpg"
-tags: ["southbank", "best-asian"]
-categories: ["best"]
-description: "Best Asian Food in Southbank: From Pho to Ramen"
+cover_image_alt: "Bowl of ramen at a Southbank Japanese restaurant"
+suburb: "southbank"
+tags: ["southbank", "asian-food", "restaurants", "dining", "riverside"]
 ---
 
-*description: "18 March 2026 | Wellness Editor"*
+## Best Asian Food in Southbank
 
-*Updated 18 March 2026 | Wellness Editor*
+Southbank's riverfront may be famous for its theatres and towers, but the real show happens inside the [restaurants](/southbank/best-restaurants/). Here are the Asian kitchens worth knowing about — the ones that serve genuinely good food rather than just capitalising on tourist foot traffic.
 
-# Best Asian Food in Southbank: From Pho to Ramen  
-*18 March 2026 – Wellness Editor, Nina*
+## Shujinko — Riverside Quay
 
-Southbank’s riverfront may be famous for its theatres and that 297-metre glass cube, but the real show happens once you duck inside the laneways---
+**Best for:** Late-night ramen (open 24 hours Friday-Saturday)
 
-# Best Asian Food in Southbank: From Pho to Ramen  
-*18 March 2026 – Wellness Editor, Nina*
+Shujinko at Shop 2, 35-37 Riverside Quay serves the kind of tonkotsu ramen that makes 1am feel like a reasonable dinner time. The #1 Black tonkotsu ($17.90) is the signature — rich, deeply flavoured pork broth. The 24-hour weekend schedule means you can refuel post-Eureka Skydeck without resorting to fast food.
 
-Southbank’s riverfront may be famous for its theatres and that 297-metre glass cube, but the real show happens once you duck inside the laneways. Here, restorative broths, probiotic kimchi and collagen-rich tonkotsu bubble away within walking distance of the Arts Centre. Translation: you can slurp something genuinely good for body and mind, then be back in your seat before curtain-up. These are the eight Asian kitchens I send wellness-minded locals (and my out-of-town yogis) to when they need flavour without the food fog.
+## OKAMI — 208-210 Clarendon Street
 
+**Best for:** Japanese all-you-can-eat that's actually good
 
-## 1. **Hanoi Mee Kitchen & Bar**  
-*Ground level, 3 Freshwater Pl, Southbank 3006*  
-**Dish to order:** Slow-cooked 12-hour beef pho (large $18)  
-**Insider tip:** Ask for the "no-msg, half-noodle" option – you’ll get extra herbs and a gentle 300-calorie shave-off. They’ll also swap rice noodles for zucchini ribbons on days when the kitchen is quiet (usually 3-5 pm).
+OKAMI's all-you-can-eat model ($34.80 lunch, $38.80 dinner) sounds indulgent, but the plates are tapas-sized — perfect for sampling widely. Load up on edamame, seaweed salad, and sashimi first. The sushi quality is consistently good for the format. Located on **Clarendon Street**, one of Southbank's key commercial strips.
 
+## Dodee Paidang — 8 Whiteman Street
 
-## 2. **Shujinko Southbank**  
-*Shop 2, 35-37 Riverside Quay, Southbank 3006* (open 24 hrs Fri–Sat)  
-**Dish to order:** #1 Black tonkotsu ramen $17.90  
-**Insider tip:** Skip the heavy pork fat layer by requesting *"aji-tama light"*: kitchen strains the first ladle of broth and tops with a six-minute egg. Midnight cravings? Their 24-hour schedule means you can re-fuel post-Eureka Skydeck without resorting to greasy chips.
+**Best for:** Proper Thai with a serious spice scale
 
+Dodee Paidang at Level 1, 8 Whiteman Street does authentic Thai with a spice scale that runs 0-7. The tom yum noodle with grilled king prawns ($19) is a standout. Their menu is genuine Bangkok-style rather than the diluted suburban Thai most Melburnians are used to. Near the Crown precinct on **Sturt Street**.
 
-## 3. **Fat Buddha** (pan-Asian, gluten-free friendly)  
-*Level 1, 108-112 Clarendon St, Southbank 3006*  
-**Dish to order:** Red curry roasted duck breast with wild rice $29  
-**Insider tip:** 70% of the menu is flagged gluten-free; ask for quinoa instead of rice for a complete-protein boost. Arrive between 5-6 pm for pre-theatre "Power Bowl" deal – main + miso soup for $22.
+## Fat Buddha — 108-112 Clarendon Street
 
+**Best for:** Pan-Asian with gluten-free options
 
-## 4. **OKAMI Japanese All-You-Can-Eat**  
-*208–210 Clarendon St, Southbank 3006*  
-**Price:** $34.80 pp (lunch), $38.80 (dinner)  
-**Insider tip:** Sounds indulgent, but OKAMI’s plates are tapas-sized—perfect for portion control. Load up on edamame, seaweed salad and sashimi first; you’ll rarely need more than one round of tempura. They happily steam veggies in plain water if you ask.
+Fat Buddha at Level 1, 108-112 **Clarendon Street** does pan-Asian with 70% of the menu flagged gluten-free. The red curry roasted duck breast with wild rice ($29) is the signature. Pre-theatre "Power Bowl" deal (main + miso soup for $22) runs 5-6pm.
 
+## Hanoi Mee Kitchen & Bar — 3 Freshwater Place
 
-## 5. **ChiliPadi Southbank** (Malaysian/Peranakan)  
-*15-25 Freshwater Pl, Southbank 3006*  
-**Dish to order:** Assam laksa $16.50  
-**Insider tip:** Request "less oil, more broth" and you’ll cut 10 g of saturated fat while keeping the gut-friendly tamarind kick. Comes loaded with mint and pineapple—natural digestive enzymes that soothe after a big night.
+**Best for:** Vietnamese pho in the Southbank precinct
 
+Hanoi Mee at Ground Level, 3 Freshwater Place serves slow-cooked 12-hour beef pho (large $18). A proper Vietnamese option in a precinct that doesn't have many. The broth is genuinely well-made — not the instant-base version some tourist-zone restaurants resort to.
 
-## 6. **Dodee Paidang Southbank**  
-*Lvl 1, 8 Whiteman St, Southbank 3006*  
-**Dish to order:** Tom yum noodle with grilled king prawns $19  
-**Insider tip:** Their spice scale runs 0-7. Stick to level 2 for metabolic lift without cortisol spike; add a side of fresh coconut water (no added sugar) to balance electrolytes after a sweaty yoga class at the nearby Melbourne Recital Centre.
+## ChiliPadi — 15-25 Freshwater Place
 
+**Best for:** Malaysian laksa and Peranakan flavours
 
-## 7. **Gami Chicken & Beer** (Korean)  
-*52 Clarendon St, Southbank 3006*  
-**Dish to order:** Soy-garlic half chicken $19 + kimchi add-on $3  
-**Insider tip:** Chicken is flash-fried in rice bran oil (high smoke point = less oxidation). Pair with the house-fermented kimchi for a probiotic hit; swap fries for the free side salad to dodge post-lunch sluggishness.
+ChiliPadi does Malaysian and Peranakan cooking with the assam laksa ($16.50) as the standout. Located at Freshwater Place near **Southbank Boulevard**, it's a reliable option for Southeast Asian flavours that go beyond the standard pad Thai.
 
+## Gami Chicken & Beer — 52 Clarendon Street
 
-## 8. **Straits of Malacca**  
-*1/30 Convention Centre Pl, Southbank 3006*  
-**Dish to order:** Roti canai with dhal (2 pc $10)  
-**Insider tip:** Chefs hand-stretch roti at 6 am daily—no frozen dough, no trans-fat margarine. Order a second serve of dhal (lentil protein + fibre) instead of curry chicken to keep things light yet satisfying.
+**Best for:** Korean fried chicken and a cold beer
 
+Gami at 52 **Clarendon Street** does soy-garlic chicken flash-fried in rice bran oil, paired with house-fermented kimchi. Half chicken $19 plus $3 for kimchi. Simple concept, well-executed. Good for a casual weeknight dinner.
 
+## Straits of Malacca — Convention Centre Place
 
-## Venue Addresses & Details
+**Best for:** Hand-stretched roti canai
 
-- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border) ($$-$$$). Open: 11:00 AM - 11:00 PM Daily. *Tip: The 'Feed Me' menu is the best way to experience the kitchen's highlights without the stress of choosing.*
-- **Panda Hot Pot** — 106-108 Bourke St, Melbourne VIC 3000 (Southbank/CBD proximity) ($$-$$$). Open: 11:30 AM - 11:00 PM Daily. *Tip: Book well in advance for weekend nights as the queue can be over an hour long.*
-- **Rockpool Bar & Grill** — 8 Whiteman St, Southbank VIC 3006 ($$$$). Open: 12:00 PM - 3:00 PM, 6:00 PM - 10:00 PM. *Tip: While famous for steak, their Asian-inspired side dishes and seafood starters are world-class.*
-- **Gingerboy** — 27-29 Crossley St, Melbourne VIC 3000 ($$-$$$). Open: 5:00 PM - 10:00 PM Daily. *Tip: Try the son-in-law eggs; they are a cult favorite for a reason.*
-- **Rice Paper Scissors** — 19 Hardware Ln, Melbourne VIC 3000 ($$). Open: 11:30 AM - 10:00 PM Daily. *Tip: Order the betel leaf wraps to start; they are perfectly balanced in flavor.*
-- **Red Spice Road** — 27 McKillop St, Melbourne VIC 3000 ($$-$$$). Open: 12:00 PM - 3:00 PM, 5:00 PM - 10:00 PM. *Tip: Their pork belly is legendary—don't leave without trying it.*
-## Wellness-Fuelled Walking Route  
-Start with a steaming bowl at Hanoi Mee (Freshwater Sq) → stroll 5 min along the river to Arts Centre forecourt for ten deep-breathing lunges → duck into Shujinko if you need a midnight top-up. Total distance: 600 m; negligible cortisol cost.
+Straits of Malacca at 1/30 Convention Centre Place serves roti canai stretched by hand daily — no frozen dough. Two pieces with dhal for $10 is one of Southbank's best-value meals.
 
+## FAQ
 
+**Where's the best late-night Asian food in Southbank?**
+Shujinko on Riverside Quay is open 24 hours Friday-Saturday. Nothing else in Southbank comes close for late-night quality.
 
-## Venue Addresses & Details
+**Is there good cheap Asian food in Southbank?**
+Straits of Malacca's roti canai ($10 for two) and Hanoi Mee's pho ($18) are the best value. OKAMI's all-you-can-eat ($34.80 lunch) is decent value for volume.
 
-- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border) ($$-$$$). Open: 11:00 AM - 11:00 PM Daily. *Tip: The 'Feed Me' menu is the best way to experience the kitchen's highlights without the stress of choosing.*
-- **Panda Hot Pot** — 106-108 Bourke St, Melbourne VIC 3000 (Southbank/CBD proximity) ($$-$$$). Open: 11:30 AM - 11:00 PM Daily. *Tip: Book well in advance for weekend nights as the queue can be over an hour long.*
-- **Rockpool Bar & Grill** — 8 Whiteman St, Southbank VIC 3006 ($$$$). Open: 12:00 PM - 3:00 PM, 6:00 PM - 10:00 PM. *Tip: While famous for steak, their Asian-inspired side dishes and seafood starters are world-class.*
-- **Gingerboy** — 27-29 Crossley St, Melbourne VIC 3000 ($$-$$$). Open: 5:00 PM - 10:00 PM Daily. *Tip: Try the son-in-law eggs; they are a cult favorite for a reason.*
-- **Rice Paper Scissors** — 19 Hardware Ln, Melbourne VIC 3000 ($$). Open: 11:30 AM - 10:00 PM Daily. *Tip: Order the betel leaf wraps to start; they are perfectly balanced in flavor.*
-- **Red Spice Road** — 27 McKillop St, Melbourne VIC 3000 ($$-$$$). Open: 12:00 PM - 3:00 PM, 5:00 PM - 10:00 PM. *Tip: Their pork belly is legendary—don't leave without trying it.*
-## Need-to-Know Quick Guide  
-- **Cash-free zone:** Every venue accepts tap-and-go; split bills at the table.  
-- **Parking hack:** Arts Centre car park validates until 8 pm—$12 flat if you dine and upload your licence plate at any of the above restaurants.  
-- **Dietary codes:** Vegan (Dodee, Fat Buddha), gluten-free (Fat Buddha, ChiliPadi), low-carb noodles (Hanoi Mee, Shujinko on request).  
+**What's the best Asian restaurant on Clarendon Street?**
+OKAMI at 208-210 for Japanese, Fat Buddha at 108-112 for pan-Asian, Gami at 52 for Korean fried chicken.
 
-Eat smart, walk the river, and let Southbank feed both your taste buds and your well-being—no post-meal regret required.
+## The Verdict
 
+Southbank's Asian food scene is stronger than people expect from an entertainment precinct. Eight genuinely good venues across Clarendon Street, Freshwater Place, Riverside Quay, and Whiteman Street. The range covers Japanese, Vietnamese, Thai, Malaysian, Korean, and pan-Asian — enough variety that you could eat Asian every night for a week without repeating. Prices are Southbank-standard ($16-35 for mains), but the quality justifies it.
 
-## Venue Addresses & Details
+**More on Southbank:** [Southbank Suburb Guide](/southbank/) · [Southbank Best Restaurants](/southbank/best-restaurants/) · [Southbank Late Night Eats](/southbank/late-night-eats/)
 
-- **Chin Chin** — 125 Flinders Ln, Melbourne VIC 3000 (Nearby Southbank/CBD border) ($$-$$$). Open: 11:00 AM - 11:00 PM Daily. *Tip: The 'Feed Me' menu is the best way to experience the kitchen's highlights without the stress of choosing.*
-- **Panda Hot Pot** — 106-108 Bourke St, Melbourne VIC 3000 (Southbank/CBD proximity) ($$-$$$). Open: 11:30 AM - 11:00 PM Daily. *Tip: Book well in advance for weekend nights as the queue can be over an hour long.*
-- **Rockpool Bar & Grill** — 8 Whiteman St, Southbank VIC 3006 ($$$$). Open: 12:00 PM - 3:00 PM, 6:00 PM - 10:00 PM. *Tip: While famous for steak, their Asian-inspired side dishes and seafood starters are world-class.*
-- **Gingerboy** — 27-29 Crossley St, Melbourne VIC 3000 ($$-$$$). Open: 5:00 PM - 10:00 PM Daily. *Tip: Try the son-in-law eggs; they are a cult favorite for a reason.*
-- **Rice Paper Scissors** — 19 Hardware Ln, Melbourne VIC 3000 ($$). Open: 11:30 AM - 10:00 PM Daily. *Tip: Order the betel leaf wraps to start; they are perfectly balanced in flavor.*
-- **Red Spice Road** — 27 McKillop St, Melbourne VIC 3000 ($$-$$$). Open: 12:00 PM - 3:00 PM, 5:00 PM - 10:00 PM. *Tip: Their pork belly is legendary—don't leave without trying it.*
-## Related Articles
+---
 
-- [/southbank/](/southbank/)
-- [/southbank/](/southbank/)
-- [/southbank/hub](/southbank/hub)
+## Explore More of Southbank
 
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Southbank History](/southbank/history/)
+- [Southbank Late Night Eats](/southbank/late-night-eats/)
+- [Southbank Rent Guide](/southbank/rent-guide/)
+- [Southbank Southbank For Retirees](/southbank/southbank-for-retirees/)
+- [Southbank New Openings](/southbank/new-openings/)
+- [Southbank Things To Do](/southbank/things-to-do/)
+- [Southbank Cost of Living](/southbank/cost-of-living/)
+- [Southbank Young Professionals Guide](/southbank/young-professionals/)
+
+### Nearby Suburbs Worth Checking
+
+- [Melbourne CBD Suburb Guide](/melbourne-cbd/)
+- [Docklands Suburb Guide](/docklands/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

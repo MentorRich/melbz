@@ -4,12 +4,16 @@ description: "Considering retirement in Strathmore Heights? Quiet streets, healt
 date: 2026-03-21
 suburb: "strathmore-heights"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Strathmore Heights retirees Melbourne"
   - "retiring in Strathmore Heights"
   - "quiet suburbs Melbourne"
+tags:
+  - "strathmore-heights"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Strathmore Heights? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

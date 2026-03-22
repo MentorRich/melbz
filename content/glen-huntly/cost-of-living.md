@@ -4,16 +4,22 @@ description: "How expensive is Glen Huntly? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "glen-huntly"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Glen Huntly Melbourne"
   - "how expensive is Glen Huntly"
   - "is Glen Huntly expensive to live in"
   - "Glen Huntly rent"
+tags:
+  - "glen-huntly"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Glen Huntly — no sugar-coating, no made-up figures.
+Glen Huntly sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Glen Huntly suburb guide](/glen-huntly/) for the bigger picture.
 

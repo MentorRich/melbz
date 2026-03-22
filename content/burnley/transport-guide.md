@@ -4,15 +4,22 @@ description: "Public transport in Burnley: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "burnley"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Raj Patel"
 keywords:
   - "public transport Burnley Melbourne"
   - "commute from Burnley to city"
   - "Burnley train station"
+tags:
+  - "burnley"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Burnley — what works, what's annoying, and how long things actually take.
+The transport story in Burnley is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Burnley suburb guide](/burnley/) for the complete picture.
 

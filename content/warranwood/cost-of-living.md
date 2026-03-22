@@ -4,16 +4,22 @@ description: "How expensive is Warranwood? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "warranwood"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Warranwood Melbourne"
   - "how expensive is Warranwood"
   - "is Warranwood expensive to live in"
   - "Warranwood rent"
+tags:
+  - "warranwood"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Warranwood — no sugar-coating, no made-up figures.
+Living costs in Warranwood have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Warranwood suburb guide](/warranwood/) for the bigger picture.
 

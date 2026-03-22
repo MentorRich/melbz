@@ -4,13 +4,18 @@ description: "The insider's guide to Ormond's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "ormond"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Ormond neighbourhood guide"
   - "best streets in Ormond"
   - "Ormond areas"
   - "Ormond pockets Melbourne"
+tags:
+  - "ormond"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Ormond isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -1,16 +1,16 @@
 ---
-title: "Ringwood North Melbourne — Everything You Need to Know"
+title: "Ringwood North Melbourne — what you need"
 description: "The complete guide to Ringwood North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "ringwood-north"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Ringwood North Melbourne"
   - "what is Ringwood North like"
   - "ringwood-north suburb"
   - "living in Ringwood North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Park-heavy area backing onto bushland trails with family homes and space.

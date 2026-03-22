@@ -4,15 +4,22 @@ description: "Public transport in Ardeer: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "ardeer"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Ardeer Melbourne"
   - "commute from Ardeer to city"
   - "Ardeer train station"
+tags:
+  - "ardeer"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Ardeer — what works, what's annoying, and how long things actually take.
+Getting around Ardeer comes down to train connections through the loop. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Ardeer suburb guide](/ardeer/) for the complete picture.
 

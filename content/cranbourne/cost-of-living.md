@@ -4,16 +4,22 @@ description: "How expensive is Cranbourne? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "cranbourne"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Cranbourne Melbourne"
   - "how expensive is Cranbourne"
   - "is Cranbourne expensive to live in"
   - "Cranbourne rent"
+tags:
+  - "cranbourne"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Cranbourne — no sugar-coating, no made-up figures.
+Before committing to Cranbourne, run the numbers. Rent is just the start - here is the complete cost breakdown.
 
 Read our full [Cranbourne suburb guide](/cranbourne/) for the bigger picture.
 

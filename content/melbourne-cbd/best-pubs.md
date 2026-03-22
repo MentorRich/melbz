@@ -1,16 +1,16 @@
 ---
 title: "Best Pubs in Melbourne CBD 2026: Heritage, Rooftops & Craft"
-cover_image: "/images/melbourne-cbd/best-pubs.jpg"
-date: 2026-03-16
-author: kai
-author_image: "/images/authors/kai.jpg"
-tags: ["melbourne-cbd", "pubs", "nightlife"]
-categories: ["nightlife"]
-description: "Best Pubs in Melbourne CBD 2026: Heritage, Rooftops & Craft"
+cover_image: "/images/shared/nightlife.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Kai Thompson"
+tags: ["melbourne", "melbourne-cbd", "pubs", "nightlife"]
+description: "Six Melbourne CBD pubs tested for 2026. The Mitre Tavern heritage, Young and Jackson craft beer, Garden State rooftop and Duke of Wellington on Flinders Street."
 ---
 
 **Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
-
 
 
 Melbourne's CBD pub scene does..."
@@ -128,7 +128,7 @@ The Kiosk area rotates Melbourne food trucks, which means the offerings change r
 ## 6. The Imperial Hotel — Bourke Street's Rooftop King
 
 **Address:** 296 Bourke Street, Melbourne VIC 3000
-**Vibe:** One of the CBD's biggest rooftop bars attached to a heritage pub, busy and buzzing
+**Vibe:** One of the CBD's biggest rooftop bars attached to a heritage pub, busy and packed
 **Beers on tap:** Carlton Draught, VB, rotating craft taps, bottled range
 **Food highlights:** Pub classics, burgers, substantial salads, parma
 
@@ -183,13 +183,3 @@ Planning a pub crawl across Melbourne's inner suburbs? Check out our suburb-by-s
 
 
 *All venues were visited in February–March 2026. Menus and hours may change. Check each pub's website or call ahead for current trading hours and special events. Prices are per main dish, drinks extra.*
-
-## Related Articles
-
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/richmond/](/richmond/)
-- [/best-pubs-melbourne/](/best-pubs-melbourne/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

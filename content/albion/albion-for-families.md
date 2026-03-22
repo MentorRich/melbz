@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Albion? Parks, schools, safety, and th
 date: 2026-03-21
 suburb: "albion"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Albion good for families"
   - "Albion family friendly"
   - "raising kids in Albion"
+tags:
+  - "albion"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Albion with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

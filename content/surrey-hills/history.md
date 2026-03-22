@@ -4,16 +4,22 @@ description: "The story of Surrey Hills: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "surrey-hills"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Surrey Hills Melbourne history"
   - "how has Surrey Hills changed"
   - "Surrey Hills gentrification"
   - "Surrey Hills then and now"
+tags:
+  - "surrey-hills"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Surrey Hills's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Surrey Hills involve community battles over development.
 
 See our full [Surrey Hills suburb guide](/surrey-hills/) for the current picture.
 

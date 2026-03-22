@@ -4,12 +4,16 @@ description: "Considering retirement in Princes Hill? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "princes-hill"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Princes Hill retirees Melbourne"
   - "retiring in Princes Hill"
   - "quiet suburbs Melbourne"
+tags:
+  - "princes-hill"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Princes Hill? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

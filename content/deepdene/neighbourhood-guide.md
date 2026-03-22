@@ -4,13 +4,18 @@ description: "The insider's guide to Deepdene's different pockets, streets, and 
 date: 2026-03-21
 suburb: "deepdene"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Deepdene neighbourhood guide"
   - "best streets in Deepdene"
   - "Deepdene areas"
   - "Deepdene pockets Melbourne"
+tags:
+  - "deepdene"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Deepdene isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

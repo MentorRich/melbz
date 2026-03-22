@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Chelsea Heights? Parks, schools, safet
 date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "is Chelsea Heights good for families"
   - "Chelsea Heights family friendly"
   - "raising kids in Chelsea Heights"
+tags:
+  - "chelsea-heights"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Chelsea Heights with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

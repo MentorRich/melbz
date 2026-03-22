@@ -4,13 +4,19 @@ description: "The bar scene in Port Melbourne: where to drink, what the vibe is,
 date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "nightlife"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "best bars Port Melbourne"
   - "bars in Port Melbourne Melbourne"
   - "nightlife Port Melbourne"
   - "where to drink Port Melbourne"
+tags:
+  - "port-melbourne"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 
@@ -55,4 +61,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Port Melbourne:** [Port Melbourne Suburb Guide](/port-melbourne/) · [Port Melbourne Best Restaurants](/port-melbourne/best-restaurants/) · [Port Melbourne for Young Professionals](/port-melbourne/port-melbourne-for-young-professionals/)
+**More on Port Melbourne:** [Port Melbourne Suburb Guide](/port-melbourne/) · [Port Melbourne Best Restaurants](/port-melbourne/best-[restaurants](/port-melbourne/best-restaurants/)/) · [Port Melbourne for Young Professionals](/port-melbourne/port-melbourne-for-young-professionals/)
+
+---
+
+## Explore More of Port Melbourne
+
+- [Port Melbourne History](/port-melbourne/history/)
+- [Port Melbourne Rent Guide](/port-melbourne/rent-guide/)
+- [Port Melbourne Things To Do](/port-melbourne/things-to-do/)
+- [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/)
+- [Port Melbourne Young Professionals Guide](/port-melbourne/young-professionals/)
+- [Port Melbourne Nightlife Guide](/port-melbourne/nightlife-guide/)
+- [Port Melbourne Transport Guide](/port-melbourne/transport-guide/)
+- [Port Melbourne Best Cafes](/port-melbourne/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

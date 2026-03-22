@@ -1,16 +1,16 @@
 ---
-title: "Seddon Melbourne — Everything You Need to Know"
+title: "Seddon Melbourne — what you need"
 description: "The complete guide to Seddon. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "seddon"
 article_type: "profile"
 author: "Lisa Nguyen"
-author_image: "/images/authors/charlie.jpg"
 keywords:
   - "Seddon Melbourne"
   - "what is Seddon like"
   - "seddon suburb"
   - "living in Seddon"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Charles Street village, craft beer, and the inner west pocket where young families are buying.

@@ -4,15 +4,22 @@ description: "Public transport in Brighton East: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "brighton-east"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Raj Patel"
 keywords:
   - "public transport Brighton East Melbourne"
   - "commute from Brighton East to city"
   - "Brighton East train station"
+tags:
+  - "brighton-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Brighton East — what works, what's annoying, and how long things actually take.
+Brighton East transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Brighton East suburb guide](/brighton-east/) for the complete picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Eltham Melbourne — Everything You Need to Know"
+title: "Eltham Melbourne — what you need"
 description: "The complete guide to Eltham. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "eltham"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Eltham Melbourne"
   - "what is Eltham like"
   - "eltham suburb"
   - "living in Eltham"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Artists' colony heritage, Montsalvat, Diamond Creek Trail, and Melbourne's most bush-suburb feel.

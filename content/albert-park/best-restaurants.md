@@ -4,13 +4,19 @@ description: "Where to eat in Albert Park: the honest guide to the suburb's rest
 date: 2026-03-21
 suburb: "albert-park"
 article_type: "best-of"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "best restaurants Albert Park"
   - "where to eat Albert Park"
   - "dinner Albert Park Melbourne"
   - "restaurants near Albert Park"
+tags:
+  - "albert-park"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
@@ -56,4 +62,24 @@ The mid-range is where Albert Park shines — restaurants that care about qualit
 
 ---
 
-**More on Albert Park:** [Albert Park Suburb Guide](/albert-park/) · [Albert Park Best Cafes](/albert-park/best-cafes/) · [Albert Park Living Guide](/albert-park/living-in-albert-park/)
+**More on Albert Park:** [Albert Park Suburb Guide](/albert-park/) · [Albert Park Best Cafes](/albert-park/best-[cafes](/albert-park/best-cafes/)/) · [Albert Park Living Guide](/albert-park/living-in-albert-park/)
+
+---
+
+## Explore More of Albert Park
+
+- [Albert Park History](/albert-park/history/)
+- [Albert Park Rent Guide](/albert-park/rent-guide/)
+- [Albert Park Things To Do](/albert-park/things-to-do/)
+- [Albert Park Cost of Living](/albert-park/cost-of-living/)
+- [Albert Park Young Professionals Guide](/albert-park/young-professionals/)
+- [Albert Park Nightlife Guide](/albert-park/nightlife-guide/)
+- [Albert Park Transport Guide](/albert-park/transport-guide/)
+- [Albert Park Best Cafes](/albert-park/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

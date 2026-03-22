@@ -4,15 +4,22 @@ description: "Public transport in Huntingdale: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "huntingdale"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Huntingdale Melbourne"
   - "commute from Huntingdale to city"
   - "Huntingdale train station"
+tags:
+  - "huntingdale"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Huntingdale — what works, what's annoying, and how long things actually take.
+Getting around Huntingdale comes down to proximity to a major station. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Huntingdale suburb guide](/huntingdale/) for the complete picture.
 

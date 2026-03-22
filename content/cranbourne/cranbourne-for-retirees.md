@@ -4,12 +4,16 @@ description: "Considering retirement in Cranbourne? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "cranbourne"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Cranbourne retirees Melbourne"
   - "retiring in Cranbourne"
   - "quiet suburbs Melbourne"
+tags:
+  - "cranbourne"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Cranbourne? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

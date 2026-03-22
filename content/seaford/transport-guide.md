@@ -4,15 +4,22 @@ description: "Public transport in Seaford: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "seaford"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Seaford Melbourne"
   - "commute from Seaford to city"
   - "Seaford train station"
+tags:
+  - "seaford"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Seaford — what works, what's annoying, and how long things actually take.
+Getting around Seaford comes down to a mix of trains and buses. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Seaford suburb guide](/seaford/) for the complete picture.
 

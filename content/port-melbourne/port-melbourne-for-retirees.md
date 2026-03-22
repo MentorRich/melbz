@@ -4,12 +4,16 @@ description: "Considering retirement in Port Melbourne? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Port Melbourne retirees Melbourne"
   - "retiring in Port Melbourne"
   - "quiet suburbs Melbourne"
+tags:
+  - "port-melbourne"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Port Melbourne? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

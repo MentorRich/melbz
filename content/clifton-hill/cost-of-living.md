@@ -4,16 +4,22 @@ description: "How expensive is Clifton Hill? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "clifton-hill"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Clifton Hill Melbourne"
   - "how expensive is Clifton Hill"
   - "is Clifton Hill expensive to live in"
   - "Clifton Hill rent"
+tags:
+  - "clifton-hill"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Clifton Hill — no sugar-coating, no made-up figures.
+The cost question in Clifton Hill is straightforward: it is creeping up year on year. Here is what your wallet actually needs to know.
 
 Read our full [Clifton Hill suburb guide](/clifton-hill/) for the bigger picture.
 

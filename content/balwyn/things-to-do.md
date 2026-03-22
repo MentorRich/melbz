@@ -4,13 +4,19 @@ description: "What to do in Balwyn this weekend and beyond. Activities, events, 
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "activities"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "things to do Balwyn"
   - "Balwyn activities"
   - "what to do in Balwyn"
   - "Balwyn weekend plans"
+tags:
+  - "balwyn"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
@@ -53,7 +59,7 @@ More than you think. Family-oriented suburb with strong Chinese-Australian commu
 
 Melbourne weather means you need indoor plans. Balwyn has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/balwyn/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Balwyn has:
 ---
 
 **More on Balwyn:** [Balwyn Suburb Guide](/balwyn/) · [Balwyn Best Cafes](/balwyn/best-cafes/) · [Balwyn Neighbourhood Guide](/balwyn/neighbourhood-guide/)
+
+---
+
+## Explore More of Balwyn
+
+- [Balwyn History](/balwyn/history/)
+- [Balwyn Rent Guide](/balwyn/rent-guide/)
+- [Balwyn Balwyn For Retirees](/balwyn/balwyn-for-retirees/)
+- [Balwyn Balwyn For Young Professionals](/balwyn/balwyn-for-young-professionals/)
+- [Balwyn Cost of Living](/balwyn/cost-of-living/)
+- [Balwyn Neighbourhood Guide](/balwyn/neighbourhood-guide/)
+- [Balwyn Transport Guide](/balwyn/transport-guide/)
+- [Balwyn Best Cafes](/balwyn/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

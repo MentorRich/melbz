@@ -4,13 +4,18 @@ description: "The insider's guide to Montmorency's different pockets, streets, a
 date: 2026-03-21
 suburb: "montmorency"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Montmorency neighbourhood guide"
   - "best streets in Montmorency"
   - "Montmorency areas"
   - "Montmorency pockets Melbourne"
+tags:
+  - "montmorency"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Montmorency isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

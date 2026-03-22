@@ -4,16 +4,22 @@ description: "How expensive is Carrum? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "carrum"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Carrum Melbourne"
   - "how expensive is Carrum"
   - "is Carrum expensive to live in"
   - "Carrum rent"
+tags:
+  - "carrum"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Carrum — no sugar-coating, no made-up figures.
+Carrum sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Carrum suburb guide](/carrum/) for the bigger picture.
 

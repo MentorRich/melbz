@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Gardenvale? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "gardenvale"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Gardenvale good for families"
   - "Gardenvale family friendly"
   - "raising kids in Gardenvale"
+tags:
+  - "gardenvale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Gardenvale with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

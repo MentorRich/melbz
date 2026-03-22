@@ -4,13 +4,19 @@ description: "Is Flemington safe to live in? The honest breakdown of safety, wha
 date: 2026-03-21
 suburb: "flemington"
 article_type: "safety"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Flemington safe"
   - "Flemington safety"
   - "Flemington crime"
   - "is Flemington dangerous Melbourne"
+tags:
+  - "flemington"
+  - "safety"
+  - "crime"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -22,9 +28,9 @@ Read our full [Flemington suburb guide](/flemington/) for the complete picture.
 
 ## The Day-to-Day Experience
 
-Walking around Flemington during the day feels perfectly safe. The main strip is busy with foot traffic, cafes are full of people, and the overall energy is "normal suburb going about its business."
+Walking around Flemington during the day feels perfectly safe. The main strip is busy with foot traffic, [cafes](/flemington/best-cafes/) are full of people, and the overall energy is "normal suburb going about its business."
 
-Evenings on the main strip are fine — bars and restaurants keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
+Evenings on the main strip are fine — bars and [restaurants](/flemington/best-restaurants/) keep the area populated and well-lit. The back streets are quieter but generally well-lit enough.
 
 Late at night, use the same common sense you'd use anywhere in Melbourne. Stick to lit streets, be aware of your surroundings, and don't leave valuables visible in your car.
 
@@ -48,7 +54,7 @@ Crime statistics exist for every suburb, and Flemington's numbers are in line wi
 1. **Lock everything** — car, house, shed. Basic but important.
 2. **Light your property** — sensor lights on driveways and entrances
 3. **Know your neighbours** — community awareness is genuine security
-4. **Use well-lit routes at night** — especially walking from public transport
+4. **Use well-lit routes at night** — especially walking from public [transport](/flemington/transport-guide/)
 5. **Register with local community groups** — neighbourhood watch-style groups share useful info
 
 ## For Families
@@ -68,3 +74,23 @@ The lifestyle benefits of Flemington — community, walkability, access — outw
 ---
 
 **More on Flemington:** [Flemington Suburb Guide](/flemington/) · [Flemington Living Guide](/flemington/living-in-flemington/) · [Flemington for Families](/flemington/flemington-for-families/)
+
+---
+
+## Explore More of Flemington
+
+- [Flemington History](/flemington/history/)
+- [Flemington Rent Guide](/flemington/rent-guide/)
+- [Flemington Things To Do](/flemington/things-to-do/)
+- [Flemington Cost of Living](/flemington/cost-of-living/)
+- [Flemington Young Professionals Guide](/flemington/young-professionals/)
+- [Flemington Nightlife Guide](/flemington/nightlife-guide/)
+- [Flemington Transport Guide](/flemington/transport-guide/)
+- [Flemington Best Cafes](/flemington/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Fitzroy North Suburb Guide](/fitzroy-north/)
+- [Footscray Suburb Guide](/footscray/)
+- [Forest Hill Suburb Guide](/forest-hill/)

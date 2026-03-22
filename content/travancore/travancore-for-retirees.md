@@ -4,12 +4,16 @@ description: "Considering retirement in Travancore? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "travancore"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Travancore retirees Melbourne"
   - "retiring in Travancore"
   - "quiet suburbs Melbourne"
+tags:
+  - "travancore"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Travancore? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

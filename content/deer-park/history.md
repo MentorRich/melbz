@@ -4,16 +4,22 @@ description: "The story of Deer Park: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "deer-park"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Deer Park Melbourne history"
   - "how has Deer Park changed"
   - "Deer Park gentrification"
   - "Deer Park then and now"
+tags:
+  - "deer-park"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Deer Park's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Deer Park has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Deer Park suburb guide](/deer-park/) for the current picture.
 

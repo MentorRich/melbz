@@ -4,13 +4,18 @@ description: "The insider's guide to Tecoma's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "tecoma"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Tecoma neighbourhood guide"
   - "best streets in Tecoma"
   - "Tecoma areas"
   - "Tecoma pockets Melbourne"
+tags:
+  - "tecoma"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Tecoma isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

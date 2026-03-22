@@ -4,15 +4,22 @@ description: "Public transport in Dandenong: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "dandenong"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Dandenong Melbourne"
   - "commute from Dandenong to city"
   - "Dandenong train station"
+tags:
+  - "dandenong"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Dandenong — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Dandenong, you need to know what the daily commute actually looks like.
 
 Check out our full [Dandenong suburb guide](/dandenong/) for the complete picture.
 

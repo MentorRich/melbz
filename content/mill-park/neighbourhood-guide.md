@@ -4,13 +4,18 @@ description: "The insider's guide to Mill Park's different pockets, streets, and
 date: 2026-03-21
 suburb: "mill-park"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Mill Park neighbourhood guide"
   - "best streets in Mill Park"
   - "Mill Park areas"
   - "Mill Park pockets Melbourne"
+tags:
+  - "mill-park"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mill Park isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -1,16 +1,16 @@
 ---
-title: "Bellfield Melbourne — Everything You Need to Know"
+title: "Bellfield Melbourne — what you need"
 description: "The complete guide to Bellfield. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "bellfield"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Bellfield Melbourne"
   - "what is Bellfield like"
   - "bellfield suburb"
   - "living in Bellfield"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small community between Heidelberg and Ivanhoe. Quiet, family-focused, evolving.

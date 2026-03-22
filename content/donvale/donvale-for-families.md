@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Donvale? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "donvale"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Donvale good for families"
   - "Donvale family friendly"
   - "raising kids in Donvale"
+tags:
+  - "donvale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Donvale with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

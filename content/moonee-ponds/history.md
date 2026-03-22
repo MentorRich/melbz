@@ -4,16 +4,22 @@ description: "The story of Moonee Ponds: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "moonee-ponds"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Moonee Ponds Melbourne history"
   - "how has Moonee Ponds changed"
   - "Moonee Ponds gentrification"
   - "Moonee Ponds then and now"
+tags:
+  - "moonee-ponds"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Moonee Ponds's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+History buffs and new residents alike should know the origin story of Moonee Ponds. It explains more than you would expect.
 
 See our full [Moonee Ponds suburb guide](/moonee-ponds/) for the current picture.
 

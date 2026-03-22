@@ -4,13 +4,18 @@ description: "The insider's guide to Springvale South's different pockets, stree
 date: 2026-03-21
 suburb: "springvale-south"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Springvale South neighbourhood guide"
   - "best streets in Springvale South"
   - "Springvale South areas"
   - "Springvale South pockets Melbourne"
+tags:
+  - "springvale-south"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Springvale South isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

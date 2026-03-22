@@ -3,13 +3,12 @@ title: "Is Box Hill Good for Retirees?"
 description: "Considering retirement in Box Hill? Quiet streets, healthcare access, community feel, and the honest verdict for retirees."
 date: 2026-03-21
 suburb: "box-hill"
-article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
-keywords:
-  - "Box Hill retirees Melbourne"
-  - "retiring in Box Hill"
-  - "quiet suburbs Melbourne"
+author: "Grace Chen"
+tags:
+  - "box-hill"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Box Hill? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -1,58 +1,88 @@
 ---
-title: "Best Bars in Kew Melbourne"
-description: "The bar scene in Kew: where to drink, what the vibe is, and the local spots worth knowing about."
+title: "Best Bars in Kew Melbourne — 2026 Guide"
+cover_image: "/images/kew/best-bars.jpg"
+description: "The best bars in Kew for after-work drinks, date night, and weekend sessions. Real venues, real prices, reviewed by locals."
 date: 2026-03-21
 suburb: "kew"
-article_type: "nightlife"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+article_type: "best-of"
+author: "Grace Chen"
 keywords:
   - "best bars Kew"
   - "bars in Kew Melbourne"
   - "nightlife Kew"
   - "where to drink Kew"
+tags:
+  - "kew"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
 ---
 
+Kew's bar scene is small, refined, and built for regulars rather than bar-hoppers. The suburb has maybe six or seven proper drinking venues, which means the good ones have had to earn repeat business rather than coast on foot traffic. Here are the ones worth your evening.
 
-## The Drinking Scene in Kew
+## Best for a Proper Pub Night
 
-Kew has a bar scene that reflects the suburb — more refined than rowdy, with wine bars and well-curated cocktail spots leading the charge. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
+### Postmaster Hotel — 186 High Street
 
-## Types of Bars in Kew
+The Postmaster is Kew's flagship venue, and it earns the title. Housed in the heritage-listed former Kew Post Office (built 1888), the Grossi family has turned this into a multi-space pub that handles everything from a Tuesday pot to a Saturday celebration. The front bar does traditional pub right — Carlton Draught pots for $8, a parma for $23, and no pretension. The aperitivo bar upstairs shifts the mood: spritzes from $12, small plates, and the kind of golden-hour light that makes everyone look better. The rooftop atrium is the social hub on warm evenings. Happy hour runs Thursday to Saturday, 5-7pm, with $8 pints and $12 spritzes.
 
-**The Local Pub** — Every suburb needs one (or three). Kew's pubs range from proper old-school locals to renovated versions that keep the character while adding a better tap list.
+**When to go:** Thursday or Friday after work for the aperitivo bar. Saturday afternoon for the rooftop.
+**Price:** Two rounds with bar snacks: $60-$80.
 
-**Wine Bars** — Small, intimate, usually with a great by-the-glass selection. The kind of place where the bar staff know what they're pouring and can actually help you choose.
+### Harp of Erin Hotel — 145 Cotham Road
 
-**Cocktail Spots** — Not as many as Fitzroy or Collingwood, but Kew has options that hold their own. Smaller, more personal, and you're not paying CBD prices.
+The Harp has been serving Kew for decades and it knows exactly what it is — a proper local. The front bar is dark wood, low lighting, and the kind of atmosphere that makes you want to stay for one more. Bistro does honest pub classics: parma around $22, steaks around $30, chips that hit the spot. The sports bar fills up during footy season with multiple screens. Live music in the back room on weekends — nothing stadium-scale, but solid for a suburban pub. Pints run $9-$12.
 
-**Beer Gardens** — Weather-dependent but essential for Melbourne summers. Some of Kew's best drinking happens outdoors when the weather cooperates.
+**When to go:** Tuesday or Wednesday for a quiet midweek pint. Saturday afternoon for live music.
+**Price:** Two pints and a bistro meal: $55-$70.
 
-**The All-Rounder** — The bar that works for everything: after-work drinks, catch-ups, first dates, Saturday nights. Reliable, never amazing, always good enough.
+## Best for Wine and Conversation
 
-## When to Go
+### Barr'd Wine & Tapas Bar — near Kew Junction
 
-**After work (5-7pm)** — The sweet spot for most Kew bars. Happy hour-ish, relaxed, locals unwinding.
+Kew's small bar, and it justifies the suburb's wine credentials. Intimate fit-out: low lighting, a handful of tables, and a wine list that takes its subject seriously without taking itself too seriously. By-the-glass options start around $12 and run to $30 for special bottles. The tapas menu works — cheese boards, charcuterie, a few hot plates designed for sharing over a second glass. The crowd is unpretentious people who appreciate good wine. Closes around 11pm, so this is an early-evening destination.
 
-**Friday night** — The main strip fills up. Get in by 6pm or expect to wait. The energy is good though.
+**When to go:** Weeknight date nights. The room works best when it's not packed.
+**Price:** A bottle and tapas board for two: $80-$110.
 
-**Saturday** — Peak social time. Bars are full, atmosphere is high, expect queues at popular spots.
+## Best for a Long Weekend Session
 
-**Sunday session** — Underrated. Some of Kew's bars do Sunday sessions that are genuinely great — more relaxed, often live music or DJs, and no Sunday scaries.
+### Skinny Dog Hotel — Kew Junction area
 
-## What Makes Kew Different
+The Skinny Dog's rooftop beer garden is Kew's best outdoor drinking space — leafy, covered, heated for year-round use. The spritz list is the draw ($12-$16 for Aperol, Campari, and variations), and the pub menu does modern classics with enough care to surprise you. The parma is a genuine contender for best in the eastern suburbs. The atmosphere is lively without being chaotic — this is a Saturday-afternoon-into-evening venue where you start with lunch and see where it goes.
 
-Kew isn't trying to out-cool the inner-city bar hubs. The bars here work because they serve the locals first — they're places you'd go weekly, not Instagram destinations you visit once.
+**When to go:** Saturday from 2pm. Sunday sessions are underrated here.
+**Price:** Afternoon session with food: $70-$90.
 
-That gives the suburb's bar scene an authenticity that more hyped areas often lack. The vibe is real because the people are regulars, not tourists.
+## FAQ
 
-## Tips
+**Is Kew good for a night out?** Kew is good for a civilised evening — pub sessions, wine bars, aperitivo — but it is not a late-night suburb. Most venues close by midnight. For DJ sets and cocktail bars, head to [Richmond](/richmond/) or [Hawthorn](/hawthorn/) via tram 48.
 
-1. **Support the neighbourhood bar** — they're the ones that make the suburb
-2. **Try the local brewery tap** — if Kew has one, it's usually worth a visit
-3. **Weeknights are underrated** — fewer people, better service, same drinks
-4. **Ask the bartender** — they know what's good and what's not worth ordering
+**What is the best bar for a date in Kew?** Barr'd Wine & Tapas Bar for intimate conversation, or the Postmaster's aperitivo bar for something with more energy.
+
+**Are there any cocktail bars in Kew?** The Back Room Bar near Kew Junction does creative cocktails ($22-$28) in a moody, low-lit space. It is small, closes early, and rewards those who seek it out.
 
 ---
 
-**More on Kew:** [Kew Suburb Guide](/kew/) · [Kew Best Restaurants](/kew/best-restaurants/) · [Kew for Young Professionals](/kew/kew-for-young-professionals/)
+**More on Kew:** [Kew Suburb Guide](/kew/) · [Best [Restaurants](/kew/best-restaurants/) in Kew](/kew/best-restaurants/) · [Kew [Nightlife](/kew/nightlife-guide/) Guide](/kew/nightlife-guide/)
+
+---
+
+## Explore More of Kew
+
+- [Kew History](/kew/history/)
+- [Kew Rent Guide](/kew/rent-guide/)
+- [Kew Kew For Retirees](/kew/kew-for-retirees/)
+- [Kew Things To Do](/kew/things-to-do/)
+- [Kew Cost of Living](/kew/cost-of-living/)
+- [Kew Young Professionals Guide](/kew/young-professionals/)
+- [Kew Nightlife Guide](/kew/nightlife-guide/)
+- [Kew Transport Guide](/kew/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Camberwell Suburb Guide](/camberwell/)
+- [Glen Iris Suburb Guide](/glen-iris/)

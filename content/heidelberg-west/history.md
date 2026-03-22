@@ -4,16 +4,22 @@ description: "The story of Heidelberg West: from its origins to today. How this 
 date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Heidelberg West Melbourne history"
   - "how has Heidelberg West changed"
   - "Heidelberg West gentrification"
   - "Heidelberg West then and now"
+tags:
+  - "heidelberg-west"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Heidelberg West's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+The name Heidelberg West comes from an Indigenous word. But the real story is what happened after the suburb was named.
 
 See our full [Heidelberg West suburb guide](/heidelberg-west/) for the current picture.
 

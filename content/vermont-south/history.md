@@ -4,16 +4,22 @@ description: "The story of Vermont South: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "vermont-south"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Vermont South Melbourne history"
   - "how has Vermont South changed"
   - "Vermont South gentrification"
   - "Vermont South then and now"
+tags:
+  - "vermont-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Vermont South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in Vermont South, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [Vermont South suburb guide](/vermont-south/) for the current picture.
 

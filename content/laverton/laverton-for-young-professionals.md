@@ -4,12 +4,18 @@ description: "Is Laverton a good suburb for young professionals? Social scene, c
 date: 2026-03-21
 suburb: "laverton"
 article_type: "young-professionals"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Laverton young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Laverton"
+tags:
+  - "laverton"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Laverton as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

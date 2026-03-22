@@ -4,15 +4,22 @@ description: "Public transport in Ormond: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "ormond"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Ormond Melbourne"
   - "commute from Ormond to city"
   - "Ormond train station"
+tags:
+  - "ormond"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Ormond — what works, what's annoying, and how long things actually take.
+Real talk about getting around Ormond: what the timetable says vs what actually happens.
 
 Check out our full [Ormond suburb guide](/ormond/) for the complete picture.
 

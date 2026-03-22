@@ -3,14 +3,13 @@ title: "Heidelberg for Families 2026: Schools, Parks & the Parent Verdict"
 slug: "family-guide"
 date: 2026-03-21
 updated: 2026-03-21
-author: kate
-author_image: "/images/authors/kate.jpg"
+author: "Kate Sullivan"
 suburb: "heidelberg"
 suburbs: ["heidelberg"]
 vertical: lifestyle
 tags: ["heidelberg", "family-guide", "schools", "parks", "families"]
 description: "Is Heidelberg good for families? Schools, parks, safety, activities and the honest parent review for 2026."
-cover_image: "https://images.pexels.com/photos/6627598/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/parks-gardens.jpg"
 cover_alt: "Heidelberg family friendly parks Melbourne"
 vibe_score: 69
 ---
@@ -49,9 +48,9 @@ Most cafes in Heidelberg are family-tolerant if not explicitly family-friendly. 
 
 Weekend activities in Heidelberg require some planning. There's enough locally to fill a Saturday morning, but for bigger outings, you'll likely head to neighbouring suburbs or the CBD. The local library and parks are reliable standbys.
 
-## The Commute Factor
+## The [Commute](/heidelberg/transport-guide/) Factor
 
-The commute from Heidelberg matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the transport schedule against your actual school and work locations.
+The commute from Heidelberg matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the [transport](/heidelberg/transport-guide/) schedule against your actual school and work locations.
 
 See our [Heidelberg Transport Guide](/heidelberg/transport-guide/) for the full breakdown.
 
@@ -66,4 +65,22 @@ Heidelberg is a genuinely excellent family suburb. Strong schools, safe streets,
 
 ---
 
-*Are you a Heidelberg parent? Tell us what we missed — [hq@melbz101](mailto:hq@melbz101) or DM [@melbz101](https://instagram.com/melbz101).*
+*Are you a Heidelberg parent? Tell us what we missed — [hq@melbz.com.au](mailto:hq@melbz.com.au) or DM [@melbz101](https://instagram.com/melbz101).*
+
+---
+
+## Explore More of Heidelberg
+
+- [Heidelberg History](/heidelberg/history/)
+- [Heidelberg Cost of Living](/heidelberg/cost-of-living/)
+- [Heidelberg Young Professionals Guide](/heidelberg/young-professionals/)
+- [Heidelberg Transport Guide](/heidelberg/transport-guide/)
+- [Heidelberg Honest Guide](/heidelberg/honest-guide/)
+- [Heidelberg Heidelberg For Retirees](/heidelberg/heidelberg-for-retirees/)
+
+### Nearby Suburbs Worth Checking
+
+- [Hawthorn East Suburb Guide](/hawthorn-east/)
+- [Heathmont Suburb Guide](/heathmont/)
+- [Heidelberg Heights Suburb Guide](/heidelberg-heights/)
+- [Heidelberg West Suburb Guide](/heidelberg-west/)

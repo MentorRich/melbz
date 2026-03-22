@@ -4,16 +4,22 @@ description: "How expensive is Parkdale? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "parkdale"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Parkdale Melbourne"
   - "how expensive is Parkdale"
   - "is Parkdale expensive to live in"
   - "Parkdale rent"
+tags:
+  - "parkdale"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Parkdale — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Parkdale actually cost? No vague estimates - real numbers.
 
 Read our full [Parkdale suburb guide](/parkdale/) for the bigger picture.
 

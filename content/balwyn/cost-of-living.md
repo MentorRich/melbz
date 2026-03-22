@@ -4,16 +4,22 @@ description: "How expensive is Balwyn? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Balwyn Melbourne"
   - "how expensive is Balwyn"
   - "is Balwyn expensive to live in"
   - "Balwyn rent"
+tags:
+  - "balwyn"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Balwyn — no sugar-coating, no made-up figures.
+Let us talk money in Balwyn. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Balwyn suburb guide](/balwyn/) for the bigger picture.
 

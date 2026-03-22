@@ -4,12 +4,16 @@ description: "Considering retirement in Glenroy? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "glenroy"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Glenroy retirees Melbourne"
   - "retiring in Glenroy"
   - "quiet suburbs Melbourne"
+tags:
+  - "glenroy"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Glenroy? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

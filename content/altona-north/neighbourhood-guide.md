@@ -4,13 +4,18 @@ description: "The insider's guide to Altona North's different pockets, streets, 
 date: 2026-03-21
 suburb: "altona-north"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Altona North neighbourhood guide"
   - "best streets in Altona North"
   - "Altona North areas"
   - "Altona North pockets Melbourne"
+tags:
+  - "altona-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Altona North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

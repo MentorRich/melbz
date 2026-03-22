@@ -1,20 +1,16 @@
 ---
 title: "New Openings in Fitzroy North — 2026 Local Guide"
+description: "The notable new openings in Fitzroy North from the past 12 months. New cafes, bars, and restaurants on Brunswick Street and St Georges Road that have earned their spot."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Wei"
 cover_image: "/images/fitzroy-north/new-openings.jpg"
+cover_image_alt: "New restaurant opening on Brunswick Street Fitzroy North"
+suburb: "fitzroy-north"
+tags: ["fitzroy-north", "new-openings", "restaurants", "bars"]
 ---
 
-suburb: "fitzroy-north"
-vertical: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the new openings in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
-tags: ["fitzroy-north"]
-categories: ["new"]
-## New Openings in Fitzroy North 2026
-
-This is your verified guide to the newest cafes, bars, and restaurants in Fitzroy North for 2026.
+## New Openings in [Fitzroy](/fitzroy/) North 2026
 
 Fitzroy North isn't exactly gentrification-proof — that ship sailed when the first $14 avocado toast appeared on Brunswick Street — but it's still managed to maintain a mix of old institutions and newcomers that don't all feel like they were designed by the same person with the same brief. In 2026, the suburb is seeing a new wave of venues that are trying to bring something different: less natural wine anxiety, more genuine hospitality; less Instagram obsession, more flavour; less "concept," more substance.
 
@@ -36,18 +32,18 @@ Here's what's opened in the last 12-18 months and actually deserves your attenti
 ### 2. Pearl Diver (Late 2025)
 
 **Address:** 721 Brunswick Street, Fitzroy North (northern end)
-**What it is:** Sustainable seafood-focused bar and restaurant from the team behind Above Board (Collingwood).
+**What it is:** Sustainable seafood-focused bar and restaurant from the team behind Above Board ([Collingwood](/collingwood/)).
 **Why it's good:** Fitzroy North has had a surprising shortage of proper seafood venues, and Pearl Diver is a welcome correction. The menu focuses on responsibly sourced fish and shellfish, with a bar program that leans into cocktails that actually pair with seafood. The fit-out is marine-inspired without being cheesy, and the outdoor area catches evening sun beautifully.
 **Standout dishes:** Oysters ($36/dozen), grilled whole fish (market price), seafood chowder ($24).
 **Price point:** $$$. Mains $28-42.
 **Reservations:** Essential for dinner, especially weekends.
-**Our take:** One of the best new restaurants in the inner north in 2025/26. It's bringing something genuinely new to Brunswick Street — seafood with a conscience and a cocktail to match.
+**Our take:** One of the best new [restaurants](/fitzroy-north/best-restaurants/) in the inner north in 2025/26. It's bringing something genuinely new to Brunswick Street — seafood with a conscience and a cocktail to match.
 
 
 ### 3. Above Board (North) — Planned Mid 2026
 
 **Address:** 450 St Georges Road, Fitzroy North (in the works)
-**What it is:** The Above Board cocktail bar (Northcote) is opening a second venue in Fitzroy North.
+**What it is:** The Above Board cocktail bar ([Northcote](/northcote/)) is opening a second venue in Fitzroy North.
 **Why we're watching:** Above Board has built a reputation for excellent cocktails in a casual, unpretentious setting. If they bring that formula to Fitzroy North, they'll fill a gap: proper cocktail bars that don't require a second mortgage. The St Georges Road location suggests they're targeting the slightly quieter side of the suburb, which could be a winner.
 **Expected opening:** Mid-2026.
 **Price point:** Likely $$-$$$.
@@ -122,43 +118,25 @@ If a new place doesn't meet these criteria, we won't waste your time telling you
 ## Cross-Links
 
 - Keep up with Fitzroy's new spots: [Fitzroy new openings](/fitzroy/new-openings)
-- Carlton North's latest: [Carlton North new openings](/carlton-north/new-openings)
+- [Carlton](/carlton/) North's latest: [Carlton North new openings](/carlton-north/new-openings)
 - Brunswick East's growth: [Brunswick East new openings](/brunswick-east/new-openings)
 
-Living in Fitzroy North? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=fitzroy-north)
+---
 
-### Featured Venues
+## Explore More of Fitzroy North
 
-- **Neighbourhood Wine** at 1 Reid St, Fitzroy North VIC 3068
-- **Piedimonte's (The Deli/Cafe)** at 123 Scotchmer St, Fitzroy North VIC 3068
-- **Just Italy** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Cavallero** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Morning Market** at 559 Barkly St, Fitzroy North VIC 3068
-- **Park Street** at 815 Nicholson St, Fitzroy North VIC 3068
-- **Piedimonte's Supermarket Deli** at 42-50 Wreckyn St, North Fitzroy VIC 3068
-- **North Fitzroy Arms Hotel** at 296 Rae St, North Fitzroy VIC 3068
-- **Pizza Meine Liebe** at 231 St Georges Rd, North Fitzroy VIC 3068
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+- [Fitzroy North Young Professionals Guide](/fitzroy-north/young-professionals/)
 
-### Key Highlights
+### Nearby Suburbs Worth Checking
 
-- Edinburgh Gardens
-- St Georges Road village shops
-- Capital City Trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/northcote/](/northcote/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/carlton/](/carlton/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

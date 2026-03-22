@@ -1,17 +1,14 @@
 ---
 title: "Nightlife Guide in Kensington — 2026 Local Guide"
-cover_image: "/images/kensington/nightlife-guide.jpg"
----
-
-suburb: "kensington"
-vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-date: 2026-03-17
-updated: 2026-03-17
 description: "The complete Kensington nightlife guide for 2026 — from historic pubs to craft breweries, hidden cocktail bars, and the suburb's emerging evening scene."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/kensington/nightlife-guide.jpg"
+cover_image_alt: "Nightlife Guide in Kensington Melbourne"
+suburb: "kensington"
 tags: ["kensington"]
-categories: ["nightlife"]
+---
 # Kensington Nightlife Guide 2026 — Melbourne's Best Kept Western Secret
 
 Kensington doesn't have the name recognition of Fitzroy or Collingwood when it comes to nightlife, and honestly, the locals like it that way. This inner-western suburb has spent the last five years quietly building a bar and pub scene that punches well above its weight. What was once just a strip of old pubs serving the local footy crowd has transformed into something far more interesting — a mix of heritage hotels, craft beer venues, and the kind of neighbourhood bars that reward those willing to venture beyond the well-trodden nightlife postcodes.
@@ -108,42 +105,4 @@ For eats after last drinks, your options are limited to the usual suspects — k
 
 *Know a venue we missed? [Tell us.](/submit)*
 
-*MELBZ — We Know Your Suburb Better Than You Do.*
-
-
 *Also see: [Best Pubs in Kensington](/kensington/best-pubs) · [Best Bars in Kensington](/kensington/best-bars) · [Late Night Food in Kensington](/kensington/late-night-food) · [Footscray Night Out](/footscray/nightlife-guide) · [North Melbourne Evening](/north-melbourne/nightlife-guide)*
-### Featured Venues
-
-- **The Premises** at 202 Bellair St, Kensington VIC 3031
-- **Locanda Kensington** at 506 Macaulay Rd, Kensington VIC 3031
-- **Hardimans Hotel** at 521 Macaulay Rd, Kensington VIC 3031
-- **The Premises** at 202 Bellair St, Kensington VIC 3031
-- **La Tortilleria** at 72 Stubbs St, Kensington VIC 3031
-- **Loco Coffee** at 555 Macaulay Rd, Kensington VIC 3031
-- **IGA Kensington (Hot Food Counter)** at 48-50 Bellair St, Kensington VIC 3031
-- **Laksa King** at 6-12 Pin Oak Crescent, Flemington VIC 3031
-- **Kensington Stockyard Food & Coffee** at 500 Macaulay Rd, Kensington VIC 3031
-- **Laksa King** at 6-12 Pin Oak Crescent, Flemington, VIC 3031
-
-### Key Highlights
-
-- Macaulay Road shopping village
-- J.J. Holland Park
-- Proximity to the Maribyrnong River trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-- [/st-kilda/](/st-kilda/)
-- [/nightlife/](/nightlife/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

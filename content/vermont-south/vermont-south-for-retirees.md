@@ -4,12 +4,16 @@ description: "Considering retirement in Vermont South? Quiet streets, healthcare
 date: 2026-03-21
 suburb: "vermont-south"
 article_type: "retirees"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Vermont South retirees Melbourne"
   - "retiring in Vermont South"
   - "quiet suburbs Melbourne"
+tags:
+  - "vermont-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Vermont South? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

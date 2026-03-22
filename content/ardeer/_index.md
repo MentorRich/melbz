@@ -1,16 +1,16 @@
 ---
-title: "Ardeer Melbourne — Everything You Need to Know"
+title: "Ardeer Melbourne — what you need"
 description: "The complete guide to Ardeer. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "ardeer"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Ardeer Melbourne"
   - "what is Ardeer like"
   - "ardeer suburb"
   - "living in Ardeer"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Primarily industrial with some residential pockets. Adjacent to Deer Park.

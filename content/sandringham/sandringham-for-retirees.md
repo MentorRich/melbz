@@ -4,12 +4,16 @@ description: "Considering retirement in Sandringham? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "sandringham"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Sandringham retirees Melbourne"
   - "retiring in Sandringham"
   - "quiet suburbs Melbourne"
+tags:
+  - "sandringham"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Sandringham? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

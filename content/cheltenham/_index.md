@@ -1,16 +1,16 @@
 ---
-title: "Cheltenham Melbourne — Everything You Need to Know"
+title: "Cheltenham Melbourne — what you need"
 description: "The complete guide to Cheltenham. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Cheltenham Melbourne"
   - "what is Cheltenham like"
   - "cheltenham suburb"
   - "living in Cheltenham"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Southland Shopping Centre access, good transport, and family homes at bayside prices.

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Glenroy? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "glenroy"
 article_type: "families"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "is Glenroy good for families"
   - "Glenroy family friendly"
   - "raising kids in Glenroy"
+tags:
+  - "glenroy"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Glenroy with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,16 +4,22 @@ description: "The story of Blackburn South: from its origins to today. How this 
 date: 2026-03-21
 suburb: "blackburn-south"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Blackburn South Melbourne history"
   - "how has Blackburn South changed"
   - "Blackburn South gentrification"
   - "Blackburn South then and now"
+tags:
+  - "blackburn-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Blackburn South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Blackburn South comes from its early settlers. But the real story is what happened after the suburb was named.
 
 See our full [Blackburn South suburb guide](/blackburn-south/) for the current picture.
 

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Caulfield South? Parks, schools, safet
 date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "families"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "is Caulfield South good for families"
   - "Caulfield South family friendly"
   - "raising kids in Caulfield South"
+tags:
+  - "caulfield-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Caulfield South with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

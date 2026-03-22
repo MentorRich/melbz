@@ -4,13 +4,18 @@ description: "The insider's guide to Wantirna's different pockets, streets, and 
 date: 2026-03-21
 suburb: "wantirna"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Wantirna neighbourhood guide"
   - "best streets in Wantirna"
   - "Wantirna areas"
   - "Wantirna pockets Melbourne"
+tags:
+  - "wantirna"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Wantirna isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

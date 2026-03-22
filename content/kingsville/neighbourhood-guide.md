@@ -4,13 +4,18 @@ description: "The insider's guide to Kingsville's different pockets, streets, an
 date: 2026-03-21
 suburb: "kingsville"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Kingsville neighbourhood guide"
   - "best streets in Kingsville"
   - "Kingsville areas"
   - "Kingsville pockets Melbourne"
+tags:
+  - "kingsville"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Kingsville isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

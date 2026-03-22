@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Watsonia? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "watsonia"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Watsonia good for families"
   - "Watsonia family friendly"
   - "raising kids in Watsonia"
+tags:
+  - "watsonia"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Watsonia with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

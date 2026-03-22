@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Cranbourne East? Parks, schools, safet
 date: 2026-03-21
 suburb: "cranbourne-east"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Cranbourne East good for families"
   - "Cranbourne East family friendly"
   - "raising kids in Cranbourne East"
+tags:
+  - "cranbourne-east"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Cranbourne East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -1,12 +1,13 @@
 ---
 title: "Late Night Eats in Balaclava: Where to Eat After 10pm"
 cover_image: "/images/balaclava/late-night-eats.jpg"
-date: 2026-03-18
-author: liam
-author_image: "/images/authors/liam.jpg"
-description: "Hungry after the bars close? The best late night food options in Balaclava for midnight snacks and post-drinks feasts."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Liam Murphy"
+description: "Hungry after the bars close in Balaclava? Late night food options on Carlisle Street and nearby for midnight snacks and post-drinks feasts in 2026."
 tags: ["balaclava", "late-night-eats"]
-categories: ["late"]
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
+suburb: "balaclava"
 ---
 
 *Updated 18 March 2026 | Pizza & Italian Writer*
@@ -14,7 +15,7 @@ categories: ["late"]
 # Late Night Eats in Balaclava: Where to Eat After 10pm
 March 18, 2026
 
-As a dedicated follower of the perfect crust and a connoisseur of Italian dining across Melbourne's suburbs, I'm excited to share my guide to late-night eats in Balaclava. This Melbourne suburb has a lot to offer, even when the sun goes down. Whether you're a local or just visiting, there's no need to go hungry after 10 pm. Here's where to find the best late-night food in Balaclava.
+As a dedicated follower of the perfect crust and a connoisseur of Italian dining across Melbourne's suburbs, I'm excited to share my guide to late-night eats in Balaclava. This Melbourne suburb has a lot to offer, even when the sun goes down. If you'''re a local or just visiting, there's no need to go hungry after 10 pm. Here's where to find the best late-night food in Balaclava.
 
 
 ## Venue Addresses & Details
@@ -26,7 +27,7 @@ As a dedicated follower of the perfect crust and a connoisseur of Italian dining
 - **Monarch Cakes** — 103 Acland St, St Kilda VIC 3182 ($). Open: Mon-Sun until 9:30 PM. *Tip: Grab a slice of their famous Polish baked cheesecake for a late-night treat.*
 ## Introduction to Balaclava
 
-Balaclava is a suburb in Melbourne's inner suburbs, known for its mix of residential areas, shopping strips, and dining options. For those looking for a great meal after 10 pm, Balaclava has a range of options to satisfy your cravings. In this article, we'll explore the best places to eat late at night in Balaclava.
+Balaclava is a suburb in Melbourne's inner suburbs, known for its mix of residential areas, shopping strips, and dining options. For those looking for a great meal after 10 pm, Balaclava has a range of options to satisfy your cravings. we'll explore the best places to eat late at night in Balaclava.
 
 
 ## Venue Addresses & Details
@@ -128,7 +129,6 @@ Balaclava has a range of great options for late-night eats, from Italian restaur
 * [Melbourne Suburb Guides](/melbourne/)
 * [Best Restaurants in Melbourne](/best-restaurants-melbourne/)
 * [Best Cafes in Melbourne](/best-cafes-melbourne/)
-
 
 
 ## Venue Addresses & Details

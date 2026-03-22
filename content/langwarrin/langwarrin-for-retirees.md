@@ -4,12 +4,16 @@ description: "Considering retirement in Langwarrin? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "langwarrin"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Langwarrin retirees Melbourne"
   - "retiring in Langwarrin"
   - "quiet suburbs Melbourne"
+tags:
+  - "langwarrin"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Langwarrin? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

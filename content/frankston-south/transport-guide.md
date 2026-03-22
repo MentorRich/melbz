@@ -4,15 +4,22 @@ description: "Public transport in Frankston South: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "frankston-south"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Frankston South Melbourne"
   - "commute from Frankston South to city"
   - "Frankston South train station"
+tags:
+  - "frankston-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Frankston South — what works, what's annoying, and how long things actually take.
+The transport story in Frankston South is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Frankston South suburb guide](/frankston-south/) for the complete picture.
 

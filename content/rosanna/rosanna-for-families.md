@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Rosanna? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "rosanna"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Rosanna good for families"
   - "Rosanna family friendly"
   - "raising kids in Rosanna"
+tags:
+  - "rosanna"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Rosanna with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,16 +4,22 @@ description: "The story of Dingley Village: from its origins to today. How this 
 date: 2026-03-21
 suburb: "dingley-village"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Dingley Village Melbourne history"
   - "how has Dingley Village changed"
   - "Dingley Village gentrification"
   - "Dingley Village then and now"
+tags:
+  - "dingley-village"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Dingley Village's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Dingley Village comes from a local landmark. But the real story is what happened after the suburb was named.
 
 See our full [Dingley Village suburb guide](/dingley-village/) for the current picture.
 

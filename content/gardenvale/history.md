@@ -4,16 +4,22 @@ description: "The story of Gardenvale: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "gardenvale"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Gardenvale Melbourne history"
   - "how has Gardenvale changed"
   - "Gardenvale gentrification"
   - "Gardenvale then and now"
+tags:
+  - "gardenvale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Gardenvale's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Gardenvale is one of quiet reinvention.
 
 See our full [Gardenvale suburb guide](/gardenvale/) for the current picture.
 

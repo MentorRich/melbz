@@ -4,13 +4,18 @@ description: "The insider's guide to Chelsea Heights's different pockets, street
 date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "neighbourhood"
-author: "dani"
-author_image: "/images/authors/dani.jpg" 
+author: "Dani Reyes"
 keywords:
   - "Chelsea Heights neighbourhood guide"
   - "best streets in Chelsea Heights"
   - "Chelsea Heights areas"
   - "Chelsea Heights pockets Melbourne"
+tags:
+  - "chelsea-heights"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Chelsea Heights isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

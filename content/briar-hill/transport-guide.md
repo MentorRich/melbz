@@ -4,15 +4,22 @@ description: "Public transport in Briar Hill: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "briar-hill"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Briar Hill Melbourne"
   - "commute from Briar Hill to city"
   - "Briar Hill train station"
+tags:
+  - "briar-hill"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Briar Hill — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Briar Hill transport links. Here is the reality.
 
 Check out our full [Briar Hill suburb guide](/briar-hill/) for the complete picture.
 

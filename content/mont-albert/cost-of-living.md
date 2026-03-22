@@ -4,16 +4,22 @@ description: "How expensive is Mont Albert? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "mont-albert"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Mont Albert Melbourne"
   - "how expensive is Mont Albert"
   - "is Mont Albert expensive to live in"
   - "Mont Albert rent"
+tags:
+  - "mont-albert"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Mont Albert — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Mont Albert actually cost? No vague estimates - real numbers.
 
 Read our full [Mont Albert suburb guide](/mont-albert/) for the bigger picture.
 

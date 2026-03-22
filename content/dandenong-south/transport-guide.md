@@ -4,15 +4,22 @@ description: "Public transport in Dandenong South: trains, trams, buses, cycling
 date: 2026-03-21
 suburb: "dandenong-south"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Dandenong South Melbourne"
   - "commute from Dandenong South to city"
   - "Dandenong South train station"
+tags:
+  - "dandenong-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Dandenong South — what works, what's annoying, and how long things actually take.
+The daily commute from Dandenong South has a personality all its own. It is underrated.
 
 Check out our full [Dandenong South suburb guide](/dandenong-south/) for the complete picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Murrumbeena Melbourne — Everything You Need to Know"
+title: "Murrumbeena Melbourne — what you need"
 description: "The complete guide to Murrumbeena. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "murrumbeena"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Murrumbeena Melbourne"
   - "what is Murrumbeena like"
   - "murrumbeena suburb"
   - "living in Murrumbeena"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Village feel, Boyd Park, and a family pocket between Carnegie and Oakleigh.

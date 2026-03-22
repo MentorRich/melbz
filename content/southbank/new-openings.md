@@ -1,109 +1,67 @@
 ---
-title: "New Openings in Southbank 2026"
+title: "New Openings in Southbank — 2026 Local Guide"
+description: "The latest restaurant and bar openings in Southbank for 2026. The Arts Precinct South development, upgraded Crown dining, and what is opening along the river."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
 cover_image: "/images/southbank/new-openings.jpg"
-date: 2026-03-18
-author: priya
-author_image: "/images/authors/priya.jpg"
-tags: ["southbank", "new-openings"]
-categories: ["new"]
-description: "New Openings in Southbank 2026"
+cover_image_alt: "New restaurant interior in Southbank Melbourne"
+suburb: "southbank"
+tags: ["southbank", "new-openings", "restaurants", "bars", "riverside"]
 ---
 
-*description: "18 March 2026 | Food Editor"*
+## New Openings in Southbank 2026
 
-*Updated 18 March 2026 | Food Editor*
+The Southbank Promenade has always hummed with energy, but a new wave of venues is redefining the riverbank. Here are the openings that matter — the ones moving beyond reliable stalwarts to offer something more nuanced.
 
-# New Openings in Southbank: Your 2026 Culinary Compass
+## Arts Precinct South Development
 
-The Southbank promenade has always hummed with a certain energy—a mix of theatre-goers, tourists, and after-work crowds spilling out from the towers. But lately, that hum has crescendoed. A new wave of venues is redefining the riverbank, moving beyond the reliable stalwarts to offer something more nuanced, more personal, and frankly, more delicious. I’ve spent the last month weaving through construction hoardings and tasting menus to bring you the openings that matter. Forget the chains; this is the new Southbank.
+The biggest change to Southbank's landscape. The ongoing Arts Precinct South development on **Sturt Street** is expanding Melbourne's cultural infrastructure with new gallery spaces, performance venues, and associated dining. Several restaurant and cafe spaces are slated to open throughout 2026. This will deepen Southbank's cultural offering and add dining options that serve the arts community rather than the tourist market.
 
+## Crown Dining Upgrades
 
-## Venue Addresses & Details
+Crown's food court and dining complex have undergone significant upgrades. Several new venues have replaced older chain outlets, bringing genuine quality to the **Whiteman Street** and **Clarendon Street** precinct. The overall experience of eating at Crown has improved — it's no longer just a collection of generic outlets.
 
-- **The River Terrace Kitchen** — 1 Southbank Promenade, Southbank, VIC 3006 ($$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: Book a table on the terrace 30 minutes before sunset for the best city skyline views.*
-- **Komorebi Izakaya** — 25-27 Power Street, Southbank, VIC 3006 ($$). Open: Tue-Sun 5:00 PM - 12:00 AM. *Tip: Try the chef's selection omakase menu which changes daily based on market availability.*
-- **Southbank Social Club** — 88 Queensbridge Street, Southbank, VIC 3006 ($$). Open: Daily 4:00 PM - 2:00 AM. *Tip: The secret entrance is located through the back alleyway near the parking garage.*
-- **Olea Mediterranean** — 12 Freshwater Place, Southbank, VIC 3006 ($$$). Open: Daily 12:00 PM - 10:00 PM. *Tip: Order the house-made sourdough with whipped feta—it is not on the printed menu.*
-- **The Foundry Brewpub** — 40 City Road, Southbank, VIC 3006 ($$). Open: Daily 11:00 AM - 1:00 AM. *Tip: Visit during the 'Golden Hour' on weekdays for discounted tasting paddles.*
-## The Must-Visit New Table
+## Riverside Quay Additions
 
-### 1. **Kuro**
-*Where charcoal meets sophistication*
+The Riverside Quay precinct near **Southbank Boulevard** continues to add venues. New cafe and bar openings complement existing favourites like Shujinko and Hopscotch. The precinct is evolving from purely corporate lunch territory into a more rounded dining destination.
 
-Tucked into the base of a new residential tower just behind the Arts Centre, Kuro is a revelation. It’s an intimate, 30-seat *robatayaki* (fireside cooking) restaurant where the centrepiece is a long, gleaming grill. Chef Aiko Tanaka, formerly of a celebrated CBD izakaya, is working magic with Australian produce over ironbark charcoal.
+## FAQ
 
-- **Address:** 35 Coventry Street, Southbank (enter via the laneway)
-- **Price:** Tasting menu from $145pp. À la carte skewers from $9.
-- **Insider Tip:** The counter seats facing the grill are the only seats worth having. Book at least two weeks out and request them. The dry-aged duck heart skewer, finished with a dust of native pepperberry, is a non-negotiable order.
+**What's the biggest new development in Southbank?**
+The Arts Precinct South expansion on Sturt Street — new gallery spaces, performance venues, and dining.
 
-### 2. **Lucia’s Pasta Fresca**
-*Nonna’s kitchen, reimagined*
+**Are there new [restaurants](/southbank/best-restaurants/) opening at Crown?**
+Yes. Crown's dining complex has been significantly upgraded with several new venues replacing older chains.
 
-A joyful, colourful antidote to stuffy Italian dining. Lucia’s is all about theatre and freshness. Pasta is rolled, cut, and shaped in a glass-walled kitchen right at the front. The vibe is always crowded, loud, and utterly welcoming. They mill their own flour from heritage Victorian grains, and you can taste the difference.
+**What streets should I watch for new openings?**
+Sturt Street (Arts Precinct South), Riverside Quay, and Clarendon Street.
 
-- **Address:** 1 Southbank Boulevard (ground floor, near the pedestrian bridge)
-- **Price:** Pastas $24-$32. Mains $36-$44.
-- **Insider Tip:** Don’t miss the "Pasta of the Moment"—a daily special based on what’s best at the market that morning. Go for lunch on a weekday; the evening wait can be brutal. The *cacio e pepe* made with fermented pepper is a quiet masterpiece.
+## The Verdict
 
-### 3. **The Gilded Lily**
-*Not just a bar*
+Southbank's new openings reflect a suburb that's maturing — moving from pure entertainment precinct toward a more layered dining and cultural destination. The Arts Precinct South development is the most significant change, adding cultural depth that will benefit the food and drink scene along **Sturt Street**. Crown's upgrades bring genuine quality to a complex that needed it. The next 12 months should see Southbank's dining options improve meaningfully.
 
-Is it a bar? A gallery? A living room for the creatively inclined? The Gilded Lily defies easy categorization. Housed in a converted warehouse space with soaring ceilings and rotating art installations, it serves some of the most inventive cocktails in the city alongside a tight menu of "substantial snacks."
+**Explore more of Southbank:**
+- [Best Restaurants in Southbank](/southbank/best-restaurants/)
+- [Best Bars in Southbank](/southbank/best-bars/)
+- [Southbank Neighbourhood Guide](/southbank/neighbourhood-guide/)
 
-- **Address:** 8 Whiteman Street (look for the unmarked brass door)
-- **Price:** Cocktails $24-$28. Snacks $18-$26.
-- **Insider Tip:** The "Smoke & Velvet" (mezcal, roasted pineapple, activated charcoal, egg white) is their signature, but ask for the off-menu "Bartender’s Choice" based on your mood. The wagyu bresaola with truffle honey is the perfect salty companion.
+---
 
-### 4. **Greenhouse**
-*The rooftop farm-to-fork*
+## Explore More of Southbank
 
-This is the sustainability story Southbank needed. Greenhouse is a sprawling rooftop restaurant and urban farm atop the new Meridian complex. About 30% of the herbs, greens, and edible flowers on your plate are grown in their own aeroponic towers. The space is bright, airy, and filled with greenery—literally.
+- [Southbank History](/southbank/history/)
+- [Southbank Late Night Eats](/southbank/late-night-eats/)
+- [Southbank Rent Guide](/southbank/rent-guide/)
+- [Southbank Southbank For Retirees](/southbank/southbank-for-retirees/)
+- [Southbank Things To Do](/southbank/things-to-do/)
+- [Southbank Cost of Living](/southbank/cost-of-living/)
+- [Southbank Young Professionals Guide](/southbank/young-professionals/)
+- [Southbank Neighbourhood Guide](/southbank/neighbourhood-guide/)
 
-- **Address:** Level 10, 180 City Road
-- **Price:** Mains $38-$52. Cocktails $22.
-- **Insider Tip:** Book for a late Sunday lunch. The sun hits the terrace perfectly, and the "Harvest Plate"—a daily changing showcase of their rooftop produce—is a packed, healthy revelation. Their non-alcoholic pairing menu is also one of the best in the city.
+### Nearby Suburbs Worth Checking
 
-### 5. **Nomad Bakehouse**
-*The early bird gets the cruffin*
-
-From the team behind a beloved Middle Eastern restaurant in Fitzroy, Nomad Bakehouse is their first foray south of the river. It’s a sleek, minimalist bakery-café opening at dawn to serve pastries that are worth setting an alarm for. Think flaky, cardamom-scented croissants and a legendary "cruffin" (a croissant-muffin hybrid) filled with Persian lime curd.
-
-- **Address:** 28 Clarendon Street
-- **Price:** Pastries $7-$12. Coffee $5.
-- **Insider Tip:** They open at 6:30am. By 9am on a weekend, the cruffins are gone. Go early, grab your pastry and a coffee, and take a stroll along the quieter, upstream end of the promenade. It’s the perfect Melbourne morning.
-
-
-## Venue Addresses & Details
-
-- **The River Terrace Kitchen** — 1 Southbank Promenade, Southbank, VIC 3006 ($$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: Book a table on the terrace 30 minutes before sunset for the best city skyline views.*
-- **Komorebi Izakaya** — 25-27 Power Street, Southbank, VIC 3006 ($$). Open: Tue-Sun 5:00 PM - 12:00 AM. *Tip: Try the chef's selection omakase menu which changes daily based on market availability.*
-- **Southbank Social Club** — 88 Queensbridge Street, Southbank, VIC 3006 ($$). Open: Daily 4:00 PM - 2:00 AM. *Tip: The secret entrance is located through the back alleyway near the parking garage.*
-- **Olea Mediterranean** — 12 Freshwater Place, Southbank, VIC 3006 ($$$). Open: Daily 12:00 PM - 10:00 PM. *Tip: Order the house-made sourdough with whipped feta—it is not on the printed menu.*
-- **The Foundry Brewpub** — 40 City Road, Southbank, VIC 3006 ($$). Open: Daily 11:00 AM - 1:00 AM. *Tip: Visit during the 'Golden Hour' on weekdays for discounted tasting paddles.*
-## Priya’s Practical Playbook
-
-- **Transport:** Take the tram. Route 1, 3/3a, 5, 6, 16, 64, 67, and 72 all service Southbank. Driving and parking remain a costly headache.
-- **Timing:** For the sit-down restaurants (Kuro, Lucia’s, Gilded Lily), **book**. For Greenhouse and Nomad, walk-ins are easier, but avoid the 12:30-1:30pm weekend crush.
-- **The Local Move:** Do a progressive evening. Start with a cocktail at The Gilded Lily, walk to Lucia’s for pasta, then finish with a skewer or two at Kuro. It’s a 10-minute stroll between all three.
-
-Southbank’s new chapter is less about grand spectacle and more about curated, quality experiences. It’s growing up, offering not just a view of the city, but a genuine taste of it. Get amongst it.
-
-*Got a hot tip on a new Southbank spot? I’m always listening. Find me at @priya.eats on Instagram.*
-
-
-## Venue Addresses & Details
-
-- **The River Terrace Kitchen** — 1 Southbank Promenade, Southbank, VIC 3006 ($$$). Open: Daily 11:00 AM - 11:00 PM. *Tip: Book a table on the terrace 30 minutes before sunset for the best city skyline views.*
-- **Komorebi Izakaya** — 25-27 Power Street, Southbank, VIC 3006 ($$). Open: Tue-Sun 5:00 PM - 12:00 AM. *Tip: Try the chef's selection omakase menu which changes daily based on market availability.*
-- **Southbank Social Club** — 88 Queensbridge Street, Southbank, VIC 3006 ($$). Open: Daily 4:00 PM - 2:00 AM. *Tip: The secret entrance is located through the back alleyway near the parking garage.*
-- **Olea Mediterranean** — 12 Freshwater Place, Southbank, VIC 3006 ($$$). Open: Daily 12:00 PM - 10:00 PM. *Tip: Order the house-made sourdough with whipped feta—it is not on the printed menu.*
-- **The Foundry Brewpub** — 40 City Road, Southbank, VIC 3006 ($$). Open: Daily 11:00 AM - 1:00 AM. *Tip: Visit during the 'Golden Hour' on weekdays for discounted tasting paddles.*
-## Related Articles
-
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/southbank/](/southbank/)
-- [/southbank/](/southbank/)
-- [/southbank/hub](/southbank/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Melbourne CBD Suburb Guide](/melbourne-cbd/)
+- [Docklands Suburb Guide](/docklands/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

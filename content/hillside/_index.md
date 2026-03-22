@@ -1,16 +1,16 @@
 ---
-title: "Hillside Melbourne — Everything You Need to Know"
+title: "Hillside Melbourne — what you need"
 description: "The complete guide to Hillside. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "hillside"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Hillside Melbourne"
   - "what is Hillside like"
   - "hillside suburb"
   - "living in Hillside"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hilly terrain, family estates, and a growing community near Watergardens.

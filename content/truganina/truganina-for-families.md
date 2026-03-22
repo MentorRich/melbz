@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Truganina? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "truganina"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Truganina good for families"
   - "Truganina family friendly"
   - "raising kids in Truganina"
+tags:
+  - "truganina"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Truganina with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

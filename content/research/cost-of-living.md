@@ -4,16 +4,22 @@ description: "How expensive is Research? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "research"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Research Melbourne"
   - "how expensive is Research"
   - "is Research expensive to live in"
   - "Research rent"
+tags:
+  - "research"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Research — no sugar-coating, no made-up figures.
+Before committing to Research, run the numbers. Rent is just the start - here is the complete cost breakdown.
 
 Read our full [Research suburb guide](/research/) for the bigger picture.
 

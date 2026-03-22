@@ -4,16 +4,22 @@ description: "The story of East Melbourne: from its origins to today. How this M
 date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "East Melbourne Melbourne history"
   - "how has East Melbourne changed"
   - "East Melbourne gentrification"
   - "East Melbourne then and now"
+tags:
+  - "east-melbourne"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. East Melbourne's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+If walls could talk in East Melbourne, they would tell stories spanning over a century of Melbourne evolution.
 
 See our full [East Melbourne suburb guide](/east-melbourne/) for the current picture.
 

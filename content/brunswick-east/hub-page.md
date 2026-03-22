@@ -1,12 +1,13 @@
 ---
 title: "Brunswick East Melbourne Suburb Guide 2026: The Complete Picture"
 cover_image: "/images/brunswick-east/hub-page.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+date: 2026-03-22
+author: "Priya Sandhu"
+lastmod: 2026-03-22
+cover_image_alt: "Overview of Brunswick East showing Lygon Street and Merri Creek"
+suburb: "brunswick-east"
 tags: ["brunswick-east", "suburb-guide"]
-categories: ["lifestyle"]
-description: "Brunswick East Melbourne Suburb Guide 2026: The Complete Picture"
+description: "Complete hub guide to Brunswick East in 2026. Rent prices, tram routes 96 and 1, Lygon Street food, CERES, and living costs."
 ---
 
 Brunswick East is what happens when Brunswick's rebel younger sibling gets its act together..."
@@ -210,7 +211,6 @@ If you're a couple earning a combined $160K+, a single professional on $120K+, o
 
 *Know something we got wrong? Spotted a venue we should cover? Drop us a line — we update these guides constantly.*
 
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
 ### Featured Venues
 
@@ -240,10 +240,9 @@ If you're a couple earning a combined $160K+, a single professional on $120K+, o
 - Culture: 8/10
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/collingwood/](/collingwood/)
+- [Northcote](/northcote/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
+- [Fitzroy](/fitzroy/)
+- [Collingwood](/collingwood/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

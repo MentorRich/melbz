@@ -1,16 +1,16 @@
 ---
 title: "Cost of Living in Melbourne CBD 2026: What It Actually Costs"
-cover_image: "/images/melbourne-cbd/cost-of-living.jpg"
-date: 2026-03-16
-author: freya
-author_image: "/images/authors/freya.jpg"
-tags: ["melbourne-cbd", "cost-of-living", "property"]
-categories: ["property"]
-description: "Cost of Living in Melbourne CBD 2026: What It Actually Costs"
+cover_image: "/images/shared/city-architecture.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Freya Anderson"
+tags: ["melbourne", "melbourne-cbd", "cost-of-living", "property"]
+description: "Real cost of living in Melbourne CBD for 2026. Apartment rent from four-eighty per week, grocery costs, transport savings and what your salary actually covers."
 ---
 
 **Updated 16 March 2026 | Freya Anderson reporting**
-
 
 
 You moved to the CBD for the walkability, the..."
@@ -45,7 +45,7 @@ Those "luxury high-rise" studios near Southern Cross — the ones with a pool on
 
 The real CBD sweet spot for renters on a budget? Older apartment buildings on the edges of the CBD — Little Lonsdale, the Williams Street end, or the Flinders Lane fringe south of Queen Street. You won't get a rooftop cinema, but you'll save $80–$120 per week, which is $4,000–$6,000 per year. That's a holiday. Or an emergency fund. Or the deposit on not having a breakdown when your lease renews.
 
-**Cross-link:** For a proper deep dive into CBD apartment rentals by building type and street, see our [CBD Rent Guide 2026](/melbourne-cbd/rent-guide).
+**Cross-link:** For a detailed breakdown of CBD apartment rentals by building type and street, see our [CBD Rent Report 2026](/melbourne-cbd/rent-report/).
 
 For comparison — if CBD prices are making your eyes water, check what your money actually gets you in [South Yarra](/south-yarra/cost-of-living) or [Brunswick](/brunswick/cost-of-living). Both are 15–20 minutes from the CBD by tram and roughly $100/week cheaper on a one-bedroom.
 
@@ -243,39 +243,3 @@ The CBD is expensive, but it's not the most expensive way to live in Melbourne. 
 
 
 *Freya Anderson is MELBZ's Confessions Editor and has lived in, near, and occasionally avoiding Melbourne CBD since 2019. She has opinions about rent prices and will share them whether you ask or not.*
-
-### Featured Venues
-
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-
-### Key Highlights
-
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
-
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

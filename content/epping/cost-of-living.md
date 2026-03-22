@@ -4,16 +4,22 @@ description: "How expensive is Epping? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "epping"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Epping Melbourne"
   - "how expensive is Epping"
   - "is Epping expensive to live in"
   - "Epping rent"
+tags:
+  - "epping"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Epping — no sugar-coating, no made-up figures.
+Before committing to Epping, run the numbers. Rent is just the start - here is the complete cost breakdown.
 
 Read our full [Epping suburb guide](/epping/) for the bigger picture.
 

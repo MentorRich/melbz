@@ -1,70 +1,93 @@
 ---
-title: "Brunswick East for Families 2026: Schools, Parks & the Parent Verdict"
-slug: "family-guide"
-date: 2026-03-21
-updated: 2026-03-21
-author: kate
-author_image: "/images/authors/kate.jpg"
+title: "Brunswick East for Families 2026: Schools, CERES and Parks"
+description: "Is Brunswick East good for families? Schools, CERES Community Park, Merri Creek Trail, kid-friendly cafes on Lygon Street and the verdict."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kate Sullivan"
+cover_image: "/images/shared/family-park.jpg"
+cover_image_alt: "Families at CERES Community Environment Park Brunswick East"
 suburb: "brunswick-east"
-suburbs: ["brunswick-east"]
-vertical: lifestyle
-tags: ["brunswick-east", "family-guide", "schools", "parks", "families"]
-description: "Is Brunswick East good for families? Schools, parks, safety, activities and the honest parent review for 2026."
-cover_image: "https://images.pexels.com/photos/3460463/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Brunswick East family friendly parks Melbourne"
-vibe_score: 78
+tags: ["brunswick-east", "family-guide", "inner-north"]
 ---
 
-Thinking about raising kids in Brunswick East? Here's what parents actually need to know — not the real estate pitch, the reality.
+Thinking about raising kids in Brunswick East? Here's what parents actually need to know.
 
 ## The Parent Scorecard
 
 | Category | Grade | Verdict |
 |----------|-------|---------|
-| Schools | B | Decent schools, some travel required for top picks |
-| Parks & Playgrounds | B+ | Usable parks, adequate for weekend use |
-| Safety | B+ | Normal Melbourne safety, exercise standard precautions |
-| Family Dining | A- | Plenty of family-friendly cafes and restaurants |
-| Activities | A- | Active community programs, markets, weekend events |
+| Schools | B | Solid local primary options, some travel for secondary |
+| Parks & Playgrounds | A- | CERES and Merri Creek Trail are genuine assets |
+| Safety | B+ | Quiet residential streets, well-lit main strips |
+| Family Dining | B+ | Lygon Street [cafes](/brunswick-east/best-cafes/) are family-tolerant |
+| Activities | A- | CERES programs, library, Merri Creek nature |
 
-**Family Friendliness Grade: B**
+**Family Friendliness Grade: B+**
 
 ## Schools
 
-School options in Brunswick East are adequate. You've got local primary schools within walking distance and secondary options accessible by a short commute. For the most competitive schools, some families look at neighbouring suburbs — but the local offerings do the job.
+- **Brunswick East Primary School** — Government, well-regarded, community-focused
+- **St Ambrose's Primary School** — Catholic, established
+- For secondary, families typically look to Brunswick Secondary College or schools in neighbouring suburbs
 
-## Parks & Green Spaces
+Childcare centres operate along Lygon Street and surrounding streets. Competition for spots is fierce — join waitlists early.
 
-Brunswick East has functional green space. There are parks for a morning run or a play with the kids, though it's not a suburb defined by its outdoor spaces. The council maintains what's there to a reasonable standard.
+## Parks and Green Spaces
 
-## Safety for Families
+**CERES Community Environment Park** is Brunswick East's crown jewel for families. Community gardens, organic produce markets, educational programs for kids, nature play areas, and a cafe. It's the kind of place where kids learn about sustainability without realising they're learning.
 
-Standard Melbourne safety. Main commercial strips are busy and well-lit. Quieter residential streets vary after dark. Normal precautions apply.
+**Merri Creek Trail** — Sealed, flat, pram-friendly. Runs along the eastern edge with nature, wildlife, and creek access. Perfect for family walks and cycling.
 
-## Kid-Friendly Eating
+**Fleming Park** — Local park with playground and open green space for weekend cricket and footy.
 
-Most cafes in Brunswick East are family-tolerant if not explicitly family-friendly. You'll find high chairs, kids' menus at the bigger spots, and at least a few places where a toddler meltdown won't get you death stares. The local bakeries are always a safe bet.
+## Kid-Friendly Eating on Lygon Street
 
-## Weekend Activities
+- **Bellboy Cafe** — High chairs, spacious, family-friendly without being a kids' venue
+- **CERES Cafe** — Outdoor seating among gardens, kid-friendly menu
+- **Lomond Hotel** — Family dining in the early evening, kids' menu available
+- **Pope Joan** — Weekend brunch works well for families
 
-Weekends in Brunswick East have genuine options. Local markets, community events, library programs, sporting clubs, and enough parks to rotate for variety. The council runs seasonal programs worth checking.
+## FAQ
 
-## The Commute Factor
+**Is Brunswick East safe for families?**
+Yes. Residential streets between Lygon and Nicholson are quiet and well-maintained. The community feel is strong. See our [Brunswick East Safety Guide](/brunswick-east/safety-guide/).
 
-The commute from Brunswick East matters more with kids. School drop-offs add 15-30 minutes to your morning, and the before/after-school care window is tight. If both parents work, check the transport schedule against your actual school and work locations.
+**Is there a playground in Brunswick East?**
+Fleming Park has a playground. CERES has nature play areas. Edinburgh Gardens in nearby [Fitzroy North](/fitzroy-north/) is a short walk.
 
-See our [Brunswick East Transport Guide](/brunswick-east/transport-guide/) for the full breakdown.
+**Does Brunswick East have good schools?**
+Brunswick East Primary School is well-regarded. For secondary options, families typically [commute](/brunswick-east/transport-guide/) to Brunswick or neighbouring suburbs.
 
 ## The Family Verdict
 
-Brunswick East works for families but it's not a default family suburb. You'll find what you need — schools, parks, safety — but you'll also be sharing the suburb with a younger, social crowd. That's either a pro or a con depending on your stage.
+Brunswick East works well for families who value CERES, the Merri Creek Trail, and Lygon Street's cafe culture. The suburb is quieter than Brunswick with better green space access. The main gap is secondary schooling — most families travel for high school. For primary-age kids, it's one of the better inner-north options.
 
 ### Nearby Family-Friendly Suburbs
 
 - [Brunswick](/brunswick/family-guide/) — Family Friendliness: B
 - [Northcote](/northcote/family-guide/) — Family Friendliness: B+
-- [Fitzroy North](/fitzroy-north/family-guide/) — Family Friendliness: B+
+- [Fitzroy North](/fitzroy-north/) — Family Friendliness: B+
 
 ---
 
-*Are you a Brunswick East parent? Tell us what we missed — [hq@melbz101](mailto:hq@melbz101) or DM [@melbz101](https://instagram.com/melbz101).*
+*Are you a Brunswick East parent? Tell us what we missed — [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Brunswick East
+
+- [Brunswick East History](/brunswick-east/history/)
+- [Brunswick East Things To Do This Weekend](/brunswick-east/things-to-do-this-weekend/)
+- [Brunswick East Cheap Eats](/brunswick-east/cheap-eats/)
+- [Brunswick East Rent Guide](/brunswick-east/rent-guide/)
+- [Brunswick East Date Night Guide](/brunswick-east/date-night/)
+- [Brunswick East New Openings](/brunswick-east/new-openings/)
+- [Brunswick East Things To Do](/brunswick-east/things-to-do/)
+- [Brunswick East Rent Report](/brunswick-east/rent-report/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

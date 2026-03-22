@@ -4,15 +4,22 @@ description: "Public transport in Box Hill South: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "box-hill-south"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Box Hill South Melbourne"
   - "commute from Box Hill South to city"
   - "Box Hill South train station"
+tags:
+  - "box-hill-south"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Box Hill South — what works, what's annoying, and how long things actually take.
+Box Hill South sits on the eastern fringe, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Box Hill South suburb guide](/box-hill-south/) for the complete picture.
 

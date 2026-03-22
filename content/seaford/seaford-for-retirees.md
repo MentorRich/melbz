@@ -4,12 +4,16 @@ description: "Considering retirement in Seaford? Quiet streets, healthcare acces
 date: 2026-03-21
 suburb: "seaford"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Seaford retirees Melbourne"
   - "retiring in Seaford"
   - "quiet suburbs Melbourne"
+tags:
+  - "seaford"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Seaford? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

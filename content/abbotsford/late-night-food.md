@@ -1,17 +1,15 @@
 ---
 title: "Late Night Food in Abbotsford 2026: Where to Eat After 10pm"
+description: "Late Night Food in Abbotsford 2026: Where to Eat After 10pm. Updated for 2026 with real local picks and honest advice for Abbotsford in Melbourne inner east."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
 cover_image: "/images/abbotsford/late-night-food.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
+cover_image_alt: "Late Night Food in Abbotsford Melbourne"
+suburb: "abbotsford"
 tags: ["abbotsford", "late-night-food", "lifestyle"]
-categories: ["lifestyle"]
-description: "Late Night Food in Abbotsford 2026: Where to Eat After 10pm"
 ---
-
 ***Updated 16 March 2026 | Marcus Cole reporting***
-
-
 
 
 Here's the honest truth about Ab..."
@@ -26,7 +24,7 @@ Here's the honest truth about Abbotsford after dark: it's not Chapel Street. You
 
 I walked every block of Abbotsford and the Victoria Street corridor that bleeds into Richmond on a Wednesday, Friday, and Sunday night over the past two weeks. Six spots made the cut. Some surprised me. One I'd been sleeping on for years. And one — well, you'll see.
 
-Abbotsford sits in a funny spot geographically. It's wedged between the [Richmond](/suburb/richmond) food machine (Victoria Street's Vietnamese row is literally a five-minute walk) and the [Collingwood](/suburb/collingwood) scene that keeps getting louder. That means Abbotsford's late-night eating is influenced by both — Thai, Vietnamese, Indian, Cantonese, and the occasional pub burger. But finding all of that past 10pm in one suburb? That's the challenge.
+Abbotsford sits in a funny spot geographically. It's wedged between the [Richmond](/richmond) food machine (Victoria Street's Vietnamese row is literally a five-minute walk) and the [Collingwood](/collingwood) scene that keeps getting louder. That means Abbotsford's late-night eating is influenced by both — Thai, Vietnamese, Indian, Cantonese, and the occasional pub burger. But finding all of that past 10pm in one suburb? That's the challenge.
 
 Let's get into it.
 
@@ -58,7 +56,7 @@ On a Friday night at 10:15pm, there were still eight tables occupied. The kitche
 **Price:** Mains $15–$24 | Entrées $8–$14 | Desserts $10–$14
 **Best for:** Sit-down dinner with mates before the night runs away from you
 
-Jinda Thai has been trading since 2013 and it's one of those places that doesn't need PR because the food does the talking. It sits right in the heart of Abbotsford on Ferguson Street, a short walk from the Convent and the Merri Creek trail.
+Jinda Thai has been trading since 2013 and it's one of those places that doesn't need PR because the food does the talking. It sits right in the centre of Abbotsford on Ferguson Street, a short walk from the Convent and the Merri Creek trail.
 
 The jungle curry ($18) is aggressive — proper Thai heat, not the dialled-back version you get at most Melbourne Thai spots. The pad thai ($16) is fine but unremarkable. What you actually want is the green curry with chicken ($17) and the larb moo ($15), which hits the right sour-savoury balance.
 
@@ -116,7 +114,7 @@ This is where Abbotsford locals end up when Jinda Thai's closed and the curry sh
 **Price:** Pho $14–$17 | Northern specialties $15–$24 | Rice plates $13–$16
 **Best for:** Authentic Northern Vietnamese dishes you won't find at most Melbourne Vietnamese spots
 
-Most of [Richmond's](/suburb/richmond) Victoria Street does Southern Vietnamese — the herby, fresh, lime-forward style. Co Thu Quan goes Northern: heartier broths, fewer herbs, more depth. Their bun cha ($18) — grilled pork patties with rice noodles and dipping broth — is one of the best versions I've had outside of Hanoi.
+Most of [Richmond's](/richmond) Victoria Street does Southern Vietnamese — the herby, fresh, lime-forward style. Co Thu Quan goes Northern: heartier broths, fewer herbs, more depth. Their bun cha ($18) — grilled pork patties with rice noodles and dipping broth — is one of the best versions I've had outside of Hanoi.
 
 The hours aren't super late (9:30pm on weekends), but what makes this spot worth including is that the kitchen runs hot and fast right up to close. We ordered at 9:15pm on a Friday and had food on the table by 9:28. That matters when you're time-parking between venues.
 
@@ -147,9 +145,9 @@ At 9:45pm on a Wednesday, we were one of three tables. No pressure, no rush. Jus
 
 Not every food spot in the area made the cut. Here's what got left off and the reasons:
 
-**Tiamo (Carlton)** — I know, I know. Tiamo is an institution and the late Friday/Saturday sessions are legendary. But it's firmly Carlton, not Abbotsford. If you want the Tiamo experience, our [CBD late-night food guide](/suburb/cbd/late-night-food) covers that corridor properly.
+**Tiamo (Carlton)** — I know, I know. Tiamo is an institution and the late Friday/Saturday sessions are legendary. But it's firmly Carlton, not Abbotsford. If you want the Tiamo experience, our [CBD late-night food guide](/cbd/late-night-food) covers that corridor properly.
 
-**The Tramway Hotel (Fitzroy North)** — Great burgers and monster baos, but it's a pub with food, not a food destination. The kitchen typically wraps up by 9pm on weeknights. If you're after the pub-meets-Asian-fusion vibe, check our [Collingwood food](/suburb/collingwood/eats) coverage instead.
+**The Tramway Hotel (Fitzroy North)** — Great burgers and monster baos, but it's a pub with food, not a food destination. The kitchen typically wraps up by 9pm on weeknights. If you're after the pub-meets-Asian-fusion vibe, check our [Collingwood food](/collingwood/eats) coverage instead.
 
 **Uber Eats / DoorDash dark kitchens** — Half the "restaurants" that show up on delivery apps past 11pm in the Abbotsford catchment are ghost kitchens in industrial estates. We only covered venues you can physically walk into and sit down at. Delivery-only spots will get their own roundup eventually.
 
@@ -158,11 +156,11 @@ Not every food spot in the area made the cut. Here's what got left off and the r
 
 ## The Honest Reckoning
 
-Abbotsford isn't Melbourne's late-night food capital. That crown belongs to the CBD, [Richmond](/suburb/richmond), or parts of Footscray. But what Abbotsford offers is a genuine mix of cuisines in a compact area, with enough range (Thai, Indian, Vietnamese, Cantonese) that you're not locked into a single option.
+Abbotsford isn't Melbourne's late-night food capital. That crown belongs to the CBD, [Richmond](/richmond), or parts of Footscray. But what Abbotsford offers is a genuine mix of cuisines in a compact area, with enough range (Thai, Indian, Vietnamese, Cantonese) that you're not locked into a single option.
 
 The sweet spot for late-night Abbotsford eating is **8:30pm–10:30pm on a weekend**. Outside that window, your best bets are the Victoria Street corridor spots that bleed into Richmond. And honestly? That's fine. The walk from Abbotsford to Victoria Street's Vietnamese strip takes less time than waiting for a table at half the places in the CBD.
 
-If you're coming from [Collingwood](/suburb/collingwood), the smart play is to start at a Smith Street bar, walk south through Abbotsford to hit Jinda Thai or Cam's Kiosk, then finish at Pacific BBQ House or Hungry Nawabz on Victoria Street. That's a proper food crawl route and I'm surprised nobody's mapped it before.
+If you're coming from [Collingwood](/collingwood), the smart play is to start at a Smith Street bar, walk south through Abbotsford to hit Jinda Thai or Cam's Kiosk, then finish at Pacific BBQ House or Hungry Nawabz on Victoria Street. That's a proper food crawl route and I'm surprised nobody's mapped it before.
 
 
 > **💬 REACTION BAR**
@@ -175,19 +173,9 @@ If you're coming from [Collingwood](/suburb/collingwood), the smart play is to s
 
 ## Open Loop
 
-This is just the Abbotsford chapter. We've mapped the late-night food corridors across the entire inner city — and the one that surprised us most was [Collingwood's late-night scene](/suburb/collingwood/late-night-food), where the Smith Street strip has quietly become one of Melbourne's most underrated after-dark eating precinct. That guide drops next week.
+This is just the Abbotsford chapter. We've mapped the late-night food corridors across the entire inner city — and the one that surprised us most was [Collingwood's late-night scene](/collingwood/late-night-food), where the Smith Street strip has quietly become one of Melbourne's most underrated after-dark eating precinct. That guide drops next week.
 
 
 *Updated 16 March 2026 | 6 places tested | Adam Nowak reporting*
 
 *Adam Nowak is the Burgers Editor at MELBZ. He has eaten late-night food in every Melbourne suburb within the ring route and holds strong opinions about the correct closing time for a kitchen. Follow him on the MELBZ Telegram channel for real-time "where to eat right now" updates.*
-
-## Related Articles
-
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

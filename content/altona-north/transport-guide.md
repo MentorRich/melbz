@@ -4,15 +4,22 @@ description: "Public transport in Altona North: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "altona-north"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Altona North Melbourne"
   - "commute from Altona North to city"
   - "Altona North train station"
+tags:
+  - "altona-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Altona North — what works, what's annoying, and how long things actually take.
+If you are car-dependent, Altona North might surprise you. If you rely on PT, read this first.
 
 Check out our full [Altona North suburb guide](/altona-north/) for the complete picture.
 

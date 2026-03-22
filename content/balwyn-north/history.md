@@ -4,16 +4,22 @@ description: "The story of Balwyn North: from its origins to today. How this Mel
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Balwyn North Melbourne history"
   - "how has Balwyn North changed"
   - "Balwyn North gentrification"
   - "Balwyn North then and now"
+tags:
+  - "balwyn-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Balwyn North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Balwyn North is not just dates and facts - it is the DNA of the current personality of this suburb.
 
 See our full [Balwyn North suburb guide](/balwyn-north/) for the current picture.
 

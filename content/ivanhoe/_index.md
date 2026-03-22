@@ -1,16 +1,16 @@
 ---
-title: "Ivanhoe Melbourne — Everything You Need to Know"
+title: "Ivanhoe Melbourne — what you need"
 description: "The complete guide to Ivanhoe. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "ivanhoe"
 article_type: "profile"
 author: "Emma Rodriguez"
-author_image: "/images/authors/ben.jpg"
 keywords:
   - "Ivanhoe Melbourne"
   - "what is Ivanhoe like"
   - "ivanhoe suburb"
   - "living in Ivanhoe"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Upper Heidelberg Road shops, Darebin Creek trails, and an established family community.

@@ -4,13 +4,18 @@ description: "The insider's guide to Mont Albert's different pockets, streets, a
 date: 2026-03-21
 suburb: "mont-albert"
 article_type: "neighbourhood"
-author: "dani"
-author_image: "/images/authors/dani.jpg" 
+author: "Dani Reyes"
 keywords:
   - "Mont Albert neighbourhood guide"
   - "best streets in Mont Albert"
   - "Mont Albert areas"
   - "Mont Albert pockets Melbourne"
+tags:
+  - "mont-albert"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mont Albert isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

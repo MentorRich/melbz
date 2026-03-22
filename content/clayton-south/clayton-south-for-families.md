@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Clayton South? Parks, schools, safety,
 date: 2026-03-21
 suburb: "clayton-south"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Clayton South good for families"
   - "Clayton South family friendly"
   - "raising kids in Clayton South"
+tags:
+  - "clayton-south"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Clayton South with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

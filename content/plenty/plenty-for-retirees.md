@@ -4,12 +4,16 @@ description: "Considering retirement in Plenty? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "plenty"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Plenty retirees Melbourne"
   - "retiring in Plenty"
   - "quiet suburbs Melbourne"
+tags:
+  - "plenty"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Plenty? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

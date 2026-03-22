@@ -1,12 +1,13 @@
 ---
 title: "Best Asian Food in Balaclava: From Pho to Ramen"
 cover_image: "/images/balaclava/best-asian.jpg"
-date: 2026-03-18
-author: nina
-author_image: "/images/authors/nina.jpg"
-description: "From Vietnamese pho to Japanese ramen, Chinese dumplings to Thai curries — the best Asian restaurants in Balaclava."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Nina Chen"
+description: "Vietnamese pho, Japanese ramen, Chinese dumplings, and Thai curries along Carlisle Street and the back streets of Balaclava. Eight spots tested now."
 tags: ["balaclava", "best-asian"]
-categories: ["best"]
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
+suburb: "balaclava"
 ---
 
 *Updated 18 March 2026 | Wellness Editor*
@@ -91,7 +92,6 @@ Start at Pho Nung for an early dinner (they open 17:00), walk 350 m to Kimchi HQ
 Balaclava’s Asian kitchens aren’t just serving comfort; they’re engineering meals for neurotransmitter balance, glycaemic control and micronutrient density. If you treat food as data, this suburb is a liveable lab: you can titrate sodium, dial up probiotics or hit an omega-3 target without leaving a five-block radius. Bookend your crawl with a 20-minute walk through [Elwood Beach](/melbourne/) and you’ll check exercise, circadian light exposure and community connection—three pillars of mental health in one edible itinerary.
 
 For more suburb-specific guides, see our full [Balaclava directory](/balaclava/) or compare these picks with the wider [best-restaurants-melbourne](/best-restaurants-melbourne/) list.
-
 
 
 ## Venue Addresses & Details

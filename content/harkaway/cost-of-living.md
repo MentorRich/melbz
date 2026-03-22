@@ -4,16 +4,22 @@ description: "How expensive is Harkaway? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "harkaway"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Harkaway Melbourne"
   - "how expensive is Harkaway"
   - "is Harkaway expensive to live in"
   - "Harkaway rent"
+tags:
+  - "harkaway"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Harkaway — no sugar-coating, no made-up figures.
+If you are weighing up Harkaway against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Harkaway suburb guide](/harkaway/) for the bigger picture.
 

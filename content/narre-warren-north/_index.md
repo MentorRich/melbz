@@ -1,16 +1,16 @@
 ---
-title: "Narre Warren North Melbourne — Everything You Need to Know"
+title: "Narre Warren North Melbourne — what you need"
 description: "The complete guide to Narre Warren North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "narre-warren-north"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Narre Warren North Melbourne"
   - "what is Narre Warren North like"
   - "narre-warren-north suburb"
   - "living in Narre Warren North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Semi-rural acreage pocket near Berwick with large blocks and horse properties.

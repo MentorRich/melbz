@@ -1,16 +1,16 @@
 ---
-title: "Wheelers Hill Melbourne — Everything You Need to Know"
+title: "Wheelers Hill Melbourne — what you need"
 description: "The complete guide to Wheelers Hill. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "wheelers-hill"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Wheelers Hill Melbourne"
   - "what is Wheelers Hill like"
   - "wheelers-hill suburb"
   - "living in Wheelers Hill"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Jells Park, hilltop estates, and a quiet family suburb with panoramic views.

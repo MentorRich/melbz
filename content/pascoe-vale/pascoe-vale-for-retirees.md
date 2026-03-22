@@ -4,12 +4,16 @@ description: "Considering retirement in Pascoe Vale? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "pascoe-vale"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Pascoe Vale retirees Melbourne"
   - "retiring in Pascoe Vale"
   - "quiet suburbs Melbourne"
+tags:
+  - "pascoe-vale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Pascoe Vale? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

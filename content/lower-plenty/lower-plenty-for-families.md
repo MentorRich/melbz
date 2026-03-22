@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Lower Plenty? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Lower Plenty good for families"
   - "Lower Plenty family friendly"
   - "raising kids in Lower Plenty"
+tags:
+  - "lower-plenty"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Lower Plenty with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,12 +4,16 @@ description: "Considering retirement in Ormond? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "ormond"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Ormond retirees Melbourne"
   - "retiring in Ormond"
   - "quiet suburbs Melbourne"
+tags:
+  - "ormond"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Ormond? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

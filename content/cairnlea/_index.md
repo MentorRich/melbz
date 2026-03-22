@@ -1,16 +1,16 @@
 ---
-title: "Cairnlea Melbourne — Everything You Need to Know"
+title: "Cairnlea Melbourne — what you need"
 description: "The complete guide to Cairnlea. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "cairnlea"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Marcus Cole"
 keywords:
   - "Cairnlea Melbourne"
   - "what is Cairnlea like"
   - "cairnlea suburb"
   - "living in Cairnlea"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Newer planned estate with family amenities, parks, and good schools.

@@ -4,16 +4,22 @@ description: "The story of Greensborough: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "greensborough"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Greensborough Melbourne history"
   - "how has Greensborough changed"
   - "Greensborough gentrification"
   - "Greensborough then and now"
+tags:
+  - "greensborough"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Greensborough's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Greensborough and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Greensborough suburb guide](/greensborough/) for the current picture.
 

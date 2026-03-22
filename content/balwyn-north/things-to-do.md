@@ -4,17 +4,23 @@ description: "What to do in Balwyn North this weekend and beyond. Activities, ev
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "activities"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "things to do Balwyn North"
   - "Balwyn North activities"
   - "what to do in Balwyn North"
   - "Balwyn North weekend plans"
+tags:
+  - "balwyn-north"
+  - "activities"
+  - "things-to-do"
+  - "entertainment"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 
-## What Is There to Do in Balwyn North?
+## What Is There to Do in [Balwyn](/balwyn/) North?
 
 More than you think. School-focused families, larger blocks, and Greythorn shopping strip. That energy translates into things to do on any day of the week, rain or shine.
 
@@ -53,7 +59,7 @@ More than you think. School-focused families, larger blocks, and Greythorn shopp
 
 Melbourne weather means you need indoor plans. Balwyn North has:
 - **Cinema** — A trip to the local or nearby multiplex
-- **Cafes for hours** — Grab a book and settle in
+- **[Cafes](/balwyn-north/best-cafes/) for hours** — Grab a book and settle in
 - **Library** — Free WiFi, quiet space, community hub
 - **Shopping** — Browse the local shops, especially the independent ones,
 
@@ -69,3 +75,23 @@ Melbourne weather means you need indoor plans. Balwyn North has:
 ---
 
 **More on Balwyn North:** [Balwyn North Suburb Guide](/balwyn-north/) · [Balwyn North Best Cafes](/balwyn-north/best-cafes/) · [Balwyn North Neighbourhood Guide](/balwyn-north/neighbourhood-guide/)
+
+---
+
+## Explore More of Balwyn North
+
+- [Balwyn North History](/balwyn-north/history/)
+- [Balwyn North Rent Guide](/balwyn-north/rent-guide/)
+- [Balwyn North Living In Balwyn North](/balwyn-north/living-in-balwyn-north/)
+- [Balwyn North Cost of Living](/balwyn-north/cost-of-living/)
+- [Balwyn North Neighbourhood Guide](/balwyn-north/neighbourhood-guide/)
+- [Balwyn North Transport Guide](/balwyn-north/transport-guide/)
+- [Balwyn North Best Cafes](/balwyn-north/best-cafes/)
+- [Balwyn North Best Restaurants](/balwyn-north/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Balaclava Suburb Guide](/balaclava/)
+- [Balwyn Suburb Guide](/balwyn/)
+- [Bayswater Suburb Guide](/bayswater/)
+- [Bayswater North Suburb Guide](/bayswater-north/)

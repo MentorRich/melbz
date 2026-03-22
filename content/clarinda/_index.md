@@ -1,16 +1,16 @@
 ---
-title: "Clarinda Melbourne — Everything You Need to Know"
+title: "Clarinda Melbourne — what you need"
 description: "The complete guide to Clarinda. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "clarinda"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Clarinda Melbourne"
   - "what is Clarinda like"
   - "clarinda suburb"
   - "living in Clarinda"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet residential suburb south of Oakleigh with local parks and family streets.

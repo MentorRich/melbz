@@ -1,16 +1,16 @@
 ---
-title: "Belgrave Melbourne — Everything You Need to Know"
+title: "Belgrave Melbourne — what you need"
 description: "The complete guide to Belgrave. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "belgrave"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Belgrave Melbourne"
   - "what is Belgrave like"
   - "belgrave suburb"
   - "living in Belgrave"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Puffing Billy terminus, Dandenong Ranges village, and artists' community in the hills.

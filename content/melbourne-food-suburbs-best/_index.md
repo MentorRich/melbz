@@ -3,13 +3,13 @@ title: "Best Melbourne Suburbs for Food Lovers"
 description: "Which suburbs have the best food scene? From fine dining to late-night kebabs — Melbourne's tastiest postcodes."
 date: 2026-03-21
 article_type: "trending"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "best food suburbs melbourne"
   - "foodie suburbs melbourne"
   - "best restaurants suburbs melbourne"
   - "food scene melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Which suburbs have the best food scene? From fine dining to late-night kebabs — Melbourne's tastiest postcodes.

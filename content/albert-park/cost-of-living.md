@@ -3,14 +3,13 @@ title: "Cost of Living in Albert Park 2026: Rent, Food & the Real Numbers"
 slug: "cost-of-living"
 date: 2026-03-21
 updated: 2026-03-21
-author: alex
-author_image: "/images/authors/alex.jpg"
+author: "Alex Turner"
 suburb: "albert-park"
 suburbs: ["albert-park"]
 vertical: property
 tags: ["albert-park", "cost-of-living", "rent", "property"]
 description: "What it actually costs to live in Albert Park in 2026. Real rent data, grocery prices, transport costs, and the hidden expenses nobody warns you about."
-cover_image: "https://images.pexels.com/photos/5465200/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/city-architecture.jpg"
 cover_alt: "Albert Park Melbourne cost of living"
 vibe_score: 83
 ---
@@ -36,7 +35,7 @@ This is where most of your money goes. Albert Park's rental market in 2026 looks
 |---------|-------------|-------|
 | Rent (1-bed) | $1819 | Biggest line item by far |
 | Groceries | $320-$420 | Depends on Coles vs local market habits |
-| Transport (Myki) | $160-$200 | Zone 1-2 monthly cap |
+| [Transport](/albert-park/transport-guide/) (Myki) | $160-$200 | Zone 1-2 monthly cap |
 | Utilities (1-bed) | $180-$240 | Gas + electricity + water |
 | Internet | $70-$90 | NBN, decent speed |
 | Coffee habit | $80-$120 | 1-2 per day at local prices |
@@ -50,7 +49,7 @@ This is where most of your money goes. Albert Park's rental market in 2026 looks
 
 **Eating out:** The average meal out in Albert Park runs $18-$25 for lunch and $30-$50 for dinner. Check our [cheap eats guide](/albert-park/cheap-eats/) for the spots that don't punish your wallet.
 
-**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Albert Park, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you commute daily.
+**Transport:** A full-price Myki costs $10 daily cap, $50 weekly cap in Zone 1-2. If you're in Albert Park, you're firmly in Zone 1, which keeps your Myki costs predictable. An annual Myki pass is the smart move if you [commute](/albert-park/transport-guide/) daily.
 
 ## The Hidden Costs Nobody Warns You About
 
@@ -67,4 +66,24 @@ For more context on how this compares, check our [Living in Albert Park guide](/
 
 ---
 
-*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz101](mailto:hq@melbz101)*
+*Prices current as of March 2026. We update quarterly. Got a correction? [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Albert Park
+
+- [Albert Park History](/albert-park/history/)
+- [Albert Park Rent Guide](/albert-park/rent-guide/)
+- [Albert Park Things To Do](/albert-park/things-to-do/)
+- [Albert Park Young Professionals Guide](/albert-park/young-professionals/)
+- [Albert Park Nightlife Guide](/albert-park/nightlife-guide/)
+- [Albert Park Transport Guide](/albert-park/transport-guide/)
+- [Albert Park Best Cafes](/albert-park/best-cafes/)
+- [Albert Park Best Restaurants](/albert-park/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

@@ -1,16 +1,16 @@
 ---
-title: "Strathmore Melbourne — Everything You Need to Know"
+title: "Strathmore Melbourne — what you need"
 description: "The complete guide to Strathmore. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "strathmore"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Strathmore Melbourne"
   - "what is Strathmore like"
   - "strathmore suburb"
   - "living in Strathmore"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Strathmore Secondary School zone, wide streets, and an established family community.

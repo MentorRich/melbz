@@ -4,13 +4,18 @@ description: "The insider's guide to Westmeadows's different pockets, streets, a
 date: 2026-03-21
 suburb: "westmeadows"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Westmeadows neighbourhood guide"
   - "best streets in Westmeadows"
   - "Westmeadows areas"
   - "Westmeadows pockets Melbourne"
+tags:
+  - "westmeadows"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Westmeadows isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

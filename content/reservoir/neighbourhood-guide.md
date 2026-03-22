@@ -4,13 +4,18 @@ description: "The insider's guide to Reservoir's different pockets, streets, and
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Reservoir neighbourhood guide"
   - "best streets in Reservoir"
   - "Reservoir areas"
   - "Reservoir pockets Melbourne"
+tags:
+  - "reservoir"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Reservoir isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

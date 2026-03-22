@@ -4,15 +4,22 @@ description: "Public transport in Gladstone Park: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "gladstone-park"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Gladstone Park Melbourne"
   - "commute from Gladstone Park to city"
   - "Gladstone Park train station"
+tags:
+  - "gladstone-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Gladstone Park — what works, what's annoying, and how long things actually take.
+The daily commute from Gladstone Park has a personality all its own. It is reliable but boring.
 
 Check out our full [Gladstone Park suburb guide](/gladstone-park/) for the complete picture.
 

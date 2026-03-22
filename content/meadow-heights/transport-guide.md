@@ -4,15 +4,22 @@ description: "Public transport in Meadow Heights: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Meadow Heights Melbourne"
   - "commute from Meadow Heights to city"
   - "Meadow Heights train station"
+tags:
+  - "meadow-heights"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Meadow Heights — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Meadow Heights transport links. Here is the reality.
 
 Check out our full [Meadow Heights suburb guide](/meadow-heights/) for the complete picture.
 

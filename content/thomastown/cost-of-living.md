@@ -4,16 +4,22 @@ description: "How expensive is Thomastown? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "thomastown"
 article_type: "cost-of-living"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Thomastown Melbourne"
   - "how expensive is Thomastown"
   - "is Thomastown expensive to live in"
   - "Thomastown rent"
+tags:
+  - "thomastown"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Thomastown — no sugar-coating, no made-up figures.
+The gap between the sticker price of Thomastown and actual living costs is worth understanding before you move.
 
 Read our full [Thomastown suburb guide](/thomastown/) for the bigger picture.
 

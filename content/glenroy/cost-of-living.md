@@ -4,16 +4,22 @@ description: "How expensive is Glenroy? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "glenroy"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Glenroy Melbourne"
   - "how expensive is Glenroy"
   - "is Glenroy expensive to live in"
   - "Glenroy rent"
+tags:
+  - "glenroy"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Glenroy — no sugar-coating, no made-up figures.
+The gap between the sticker price of Glenroy and actual living costs is worth understanding before you move.
 
 Read our full [Glenroy suburb guide](/glenroy/) for the bigger picture.
 

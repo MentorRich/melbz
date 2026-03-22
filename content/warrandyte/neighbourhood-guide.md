@@ -4,13 +4,18 @@ description: "The insider's guide to Warrandyte's different pockets, streets, an
 date: 2026-03-21
 suburb: "warrandyte"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Warrandyte neighbourhood guide"
   - "best streets in Warrandyte"
   - "Warrandyte areas"
   - "Warrandyte pockets Melbourne"
+tags:
+  - "warrandyte"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Warrandyte isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

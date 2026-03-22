@@ -4,16 +4,22 @@ description: "The story of Croydon: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "croydon"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Croydon Melbourne history"
   - "how has Croydon changed"
   - "Croydon gentrification"
   - "Croydon then and now"
+tags:
+  - "croydon"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Croydon's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Croydon was working-class cottages and factories. The transformation tells a quintessentially Melbourne story.
 
 See our full [Croydon suburb guide](/croydon/) for the current picture.
 

@@ -4,12 +4,18 @@ description: "Is Cranbourne West a good suburb for young professionals? Social s
 date: 2026-03-21
 suburb: "cranbourne-west"
 article_type: "young-professionals"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Cranbourne West young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Cranbourne West"
+tags:
+  - "cranbourne-west"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Cranbourne West as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

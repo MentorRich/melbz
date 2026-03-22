@@ -4,16 +4,22 @@ description: "The story of Heidelberg: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "heidelberg"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Heidelberg Melbourne history"
   - "how has Heidelberg changed"
   - "Heidelberg gentrification"
   - "Heidelberg then and now"
+tags:
+  - "heidelberg"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Heidelberg's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Heidelberg means understanding where it came from. The history explains the character.
 
 See our full [Heidelberg suburb guide](/heidelberg/) for the current picture.
 

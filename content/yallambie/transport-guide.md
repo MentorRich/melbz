@@ -4,15 +4,22 @@ description: "Public transport in Yallambie: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "yallambie"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Yallambie Melbourne"
   - "commute from Yallambie to city"
   - "Yallambie train station"
+tags:
+  - "yallambie"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Yallambie — what works, what's annoying, and how long things actually take.
+The transport story in Yallambie is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Yallambie suburb guide](/yallambie/) for the complete picture.
 

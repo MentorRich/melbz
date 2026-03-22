@@ -4,16 +4,22 @@ description: "How expensive is Lower Plenty? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "cost-of-living"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Lower Plenty Melbourne"
   - "how expensive is Lower Plenty"
   - "is Lower Plenty expensive to live in"
   - "Lower Plenty rent"
+tags:
+  - "lower-plenty"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Lower Plenty — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Lower Plenty actually cost? No vague estimates - real numbers.
 
 Read our full [Lower Plenty suburb guide](/lower-plenty/) for the bigger picture.
 

@@ -1,17 +1,16 @@
 ---
 title: "Nightlife Guide in Essendon — 2026 Local Guide"
 cover_image: "/images/essendon/nightlife-guide.jpg"
----
-
 suburb: "essendon"
 vertical: "lifestyle"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Discover the nightlife in Essendon. Our verified 2026 guide covers the best spots for locals."
 tags: ["essendon"]
 categories: ["nightlife"]
+---
+
 ## Nightlife Guide in Essendon
 
 Essendon doesn't get mentioned in the same breath as Fitzroy or Collingwood when Melburnians talk about nightlife. That's their loss. Essendon is a suburb that's comfortable in its own skin — working-class roots, family-oriented, with a pub culture that's genuinely good and completely unpretentious.
@@ -161,7 +160,7 @@ Essendon scores well on community and consistency. Nightlife isn't the suburb's 
 
 The pub you default to. The route you take. The feed you get on the way home. Share your local knowledge.
 
-[Drop a comment below or email us at hq@melbz101](#comments)
+[Drop a comment below or email us at hq@melbz.com.au](#comments)
 
 
 <!-- WIDGET: Related Reading -->
@@ -177,10 +176,8 @@ The pub you default to. The route you take. The feed you get on the way home. Sh
 **MELBZ — Melbourne's neighbourhood intelligence. Written by locals, for locals. Not AI-generated. Not outsourced. Real people in real suburbs.**}
 ## Related Articles
 
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Boronia? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "boronia"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Boronia good for families"
   - "Boronia family friendly"
   - "raising kids in Boronia"
+tags:
+  - "boronia"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Boronia with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

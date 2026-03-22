@@ -1,16 +1,16 @@
 ---
-title: "Heidelberg West Melbourne — Everything You Need to Know"
+title: "Heidelberg West Melbourne — what you need"
 description: "The complete guide to Heidelberg West. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "profile"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Heidelberg West Melbourne"
   - "what is Heidelberg West like"
   - "heidelberg-west suburb"
   - "living in Heidelberg West"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Olympic Village history, changing demographics, and improving amenities on a budget.

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Jacana? Parks, schools, safety, and th
 date: 2026-03-21
 suburb: "jacana"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Jacana good for families"
   - "Jacana family friendly"
   - "raising kids in Jacana"
+tags:
+  - "jacana"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Jacana with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

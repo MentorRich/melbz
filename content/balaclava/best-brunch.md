@@ -1,20 +1,18 @@
 ---
 title: "Best Brunch in Balaclava — 2026 Local Guide"
 cover_image: "/images/balaclava/best-brunch.jpg"
+suburb: "balaclava"
+author: "Dani Reyes"
+date: 2026-03-22
+lastmod: 2026-03-22
+description: "Eight Balaclava brunch spots tested along Carlisle Street and Hotham Street. Where the locals eat on Saturday morning without the Fitzroy queues."
+tags: ["balaclava"]
+cover_image_alt: "Carlisle Street Balaclava dining and local life"
 ---
 
-suburb: "balaclava"
-vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the best brunch in Balaclava. Our verified 2026 guide covers the best spots for locals."
-tags: ["balaclava"]
-categories: ["best"]
 # Best Brunch in Balaclava — 8 Spots Worth Waking Up For in 2026
 
-Balaclava doesn't get the brunch hype that Fitzroy or Carlton do, and honestly? That's perfect. You won't queue for an hour behind a Instagram influencer photographing their acai bowl. You'll sit down, order something that actually tastes good, and be done before the 96 tram even leaves St Kilda. That's the Balaclava brunch advantage.
+Balaclava doesn't get the brunch hype that Fitzroy or Carlton do, and honestly? That's perfect. You won't queue for an hour behind a Instagram influencer photographing their acai bowl. You'll sit down, order something that actually tastes good, and be done before the 96 tram even leaves [St Kilda](/st-kilda/). That's the Balaclava brunch advantage.
 
 **Last updated: 16 March 2026** | **Balaclava Vibe Score: 72/100** 🟢
 
@@ -87,7 +85,7 @@ The brunch here isn't trying to reinvent the wheel. It's the reliable, well-made
 **Order this:** Breakfast wrap ($15) with a flat white ($4.80)
 **Address:** 280 Carlisle Street, Balaclava (entrance on Nelson Street)
 **Hours:** Mon–Fri 7am–3pm, Sat–Sun 8am–3pm
-**Insider tip:** If you're catching the Sandringham line from Balaclava Station, grab takeaway here. The station entrance is directly across from the ordering window — it's practically a commute-through café.
+**Insider tip:** If you're catching the Sandringham line from Balaclava Station, grab takeaway here. The station entrance is directly across from the ordering window — it's practically a [commute](/balaclava/transport-guide/)-through café.
 
 
 ## 6. Blencowes Milk Bar
@@ -147,38 +145,22 @@ Living in Balaclava? [Compare energy plans, internet, and insurance for your are
 
 *MELBZ — We Know Your Suburb Better Than You Do.*
 
-### Featured Venues
+---
 
-- **Ilona Staller** at 281 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Bibi** at 257 Carlisle St, Balaclava VIC 3183
-- **Wall Two 80** at 280 Carlisle St, Balaclava VIC 3183
-- **Batch Espresso** at 333 Carlisle St, Balaclava VIC 3183
-- **Monarch Cakes** at 103 Acland St, St Kilda VIC 3182
-- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
-- **Bagelicious** at 174 Balaclava Rd, Caulfield North, VIC 3161
-- **Wallis & Social** at 285 Carlisle St, Balaclava, VIC 3183
-- **Ichi Ni Izakaya** at 12/100 The Esplanade, St Kilda, VIC 3182
+## Explore More of Balaclava
 
-### Key Highlights
+- [Balaclava History](/balaclava/history/)
+- [Balaclava Late Night Eats](/balaclava/late-night-eats/)
+- [Balaclava Things To Do This Weekend](/balaclava/things-to-do-this-weekend/)
+- [Balaclava Balaclava For Retirees](/balaclava/balaclava-for-retirees/)
+- [Balaclava Cheap Eats](/balaclava/cheap-eats/)
+- [Balaclava Rent Guide](/balaclava/rent-guide/)
+- [Balaclava Date Night Guide](/balaclava/date-night/)
+- [Balaclava Live Music](/balaclava/live-music/)
 
-- Carlisle Street cafe and dining scene
-- Proximity to St Kilda and the beach
-- Historic architecture and local markets
+### Nearby Suburbs Worth Checking
 
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/balaclava/](/balaclava/)
-- [/st-kilda/](/st-kilda/)
-- [/balaclava/](/balaclava/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

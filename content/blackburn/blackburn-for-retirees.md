@@ -4,12 +4,16 @@ description: "Considering retirement in Blackburn? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "blackburn"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Blackburn retirees Melbourne"
   - "retiring in Blackburn"
   - "quiet suburbs Melbourne"
+tags:
+  - "blackburn"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Blackburn? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

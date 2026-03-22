@@ -4,12 +4,16 @@ description: "Considering retirement in Harkaway? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "harkaway"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Harkaway retirees Melbourne"
   - "retiring in Harkaway"
   - "quiet suburbs Melbourne"
+tags:
+  - "harkaway"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Harkaway? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

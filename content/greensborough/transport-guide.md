@@ -4,15 +4,22 @@ description: "Public transport in Greensborough: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "greensborough"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Greensborough Melbourne"
   - "commute from Greensborough to city"
   - "Greensborough train station"
+tags:
+  - "greensborough"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Greensborough — what works, what's annoying, and how long things actually take.
+The transport story in Greensborough is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Greensborough suburb guide](/greensborough/) for the complete picture.
 

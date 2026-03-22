@@ -4,16 +4,22 @@ description: "The story of Deepdene: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "deepdene"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Deepdene Melbourne history"
   - "how has Deepdene changed"
   - "Deepdene gentrification"
   - "Deepdene then and now"
+tags:
+  - "deepdene"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Deepdene's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+The history of Deepdene shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Deepdene suburb guide](/deepdene/) for the current picture.
 

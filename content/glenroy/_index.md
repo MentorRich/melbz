@@ -1,16 +1,16 @@
 ---
-title: "Glenroy Melbourne — Everything You Need to Know"
+title: "Glenroy Melbourne — what you need"
 description: "The complete guide to Glenroy. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "glenroy"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Glenroy Melbourne"
   - "what is Glenroy like"
   - "glenroy suburb"
   - "living in Glenroy"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Train station revamp, diverse food strip, and affordable family living in the north.

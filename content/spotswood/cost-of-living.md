@@ -4,16 +4,22 @@ description: "How expensive is Spotswood? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "spotswood"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Spotswood Melbourne"
   - "how expensive is Spotswood"
   - "is Spotswood expensive to live in"
   - "Spotswood rent"
+tags:
+  - "spotswood"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Spotswood — no sugar-coating, no made-up figures.
+Spotswood sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Spotswood suburb guide](/spotswood/) for the bigger picture.
 

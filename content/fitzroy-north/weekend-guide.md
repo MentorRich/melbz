@@ -1,20 +1,16 @@
 ---
-title: "What to Do in Fitzroy North This Weekend"
-description: "Your weekend in Fitzroy North sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner North."
-date: 2026-03-21
+title: "What to Do in Fitzroy North This Weekend — 2026 Guide"
+description: "Your weekend in Fitzroy North sorted. Saturday brunch at Loretta's, Edinburgh Gardens picnics, pub sessions at the Terminus, and Sunday roast at the Delphi Tavern."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Chen"
+cover_image: "/images/fitzroy-north/weekend-guide.jpg"
+cover_image_alt: "Weekend brunch and park scene in Fitzroy North"
 suburb: "fitzroy-north"
-article_type: "weekend"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-keywords:
-  - "what to do Fitzroy North this weekend"
-  - "Fitzroy North weekend"
-  - "things to do Fitzroy North Saturday"
-  - "Fitzroy North Sunday plans"
+tags: ["fitzroy-north", "weekend", "things-to-do"]
 ---
 
-
-## Your Weekend in Fitzroy North
+## Your Weekend in [Fitzroy](/fitzroy/) North
 
 Fitzroy North does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
 
@@ -38,13 +34,13 @@ Fitzroy North does weekends well. Whether you're the type who plans every hour o
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Fitzroy North's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/fitzroy-north/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Fitzroy North's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Fitzroy North starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Fitzroy North starts slower. The [cafes](/fitzroy-north/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Fitzroy North and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +58,23 @@ Fitzroy North does weekends well. Whether you're the type who plans every hour o
 ---
 
 **More on Fitzroy North:** [Fitzroy North Suburb Guide](/fitzroy-north/) · [Fitzroy North Things to Do](/fitzroy-north/things-to-do/) · [Fitzroy North Best Restaurants](/fitzroy-north/best-restaurants/)
+
+---
+
+## Explore More of Fitzroy North
+
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

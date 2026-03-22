@@ -4,15 +4,22 @@ description: "Public transport in Bayswater: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "bayswater"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Bayswater Melbourne"
   - "commute from Bayswater to city"
   - "Bayswater train station"
+tags:
+  - "bayswater"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Bayswater — what works, what's annoying, and how long things actually take.
+Getting around Bayswater comes down to bus routes and bike paths. Here is what actually works for daily commuting and weekend trips.
 
 Check out our full [Bayswater suburb guide](/bayswater/) for the complete picture.
 

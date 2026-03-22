@@ -4,15 +4,22 @@ description: "Public transport in Ferntree Gully: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "ferntree-gully"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Ferntree Gully Melbourne"
   - "commute from Ferntree Gully to city"
   - "Ferntree Gully train station"
+tags:
+  - "ferntree-gully"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Ferntree Gully — what works, what's annoying, and how long things actually take.
+Living in Ferntree Gully means adapting to its transport quirks. Every suburb has them - here are the ones for Ferntree Gully.
 
 Check out our full [Ferntree Gully suburb guide](/ferntree-gully/) for the complete picture.
 

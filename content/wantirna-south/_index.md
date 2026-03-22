@@ -1,16 +1,16 @@
 ---
-title: "Wantirna South Melbourne — Everything You Need to Know"
+title: "Wantirna South Melbourne — what you need"
 description: "The complete guide to Wantirna South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "wantirna-south"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Wantirna South Melbourne"
   - "what is Wantirna South like"
   - "wantirna-south suburb"
   - "living in Wantirna South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Knox City Shopping Centre, Westfield Knox, and family suburbia with Dandenong Creek parkland.

@@ -4,16 +4,22 @@ description: "The story of Craigieburn: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "craigieburn"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Craigieburn Melbourne history"
   - "how has Craigieburn changed"
   - "Craigieburn gentrification"
   - "Craigieburn then and now"
+tags:
+  - "craigieburn"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Craigieburn's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Craigieburn comes from its early settlers. But the real story is what happened after the suburb was named.
 
 See our full [Craigieburn suburb guide](/craigieburn/) for the current picture.
 

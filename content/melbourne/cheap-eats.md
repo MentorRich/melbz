@@ -1,17 +1,16 @@
 ---
 title: "Cheap Eats in Melbourne Under $20 — 2026 Local Guide"
 cover_image: "/images/melbourne/cheap-eats.jpg"
----
-
 suburb: "melbourne"
 vertical: "food"
-author: "omar"
-author_image: "/images/authors/omar.jpg"
+author: "Omar Hassan"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Cheap eats in Melbourne that are actually good. Our verified 2026 guide covers the best meals under $20 across the CBD and inner suburbs."
 tags: ["melbourne"]
 categories: ["cheap"]
+---
+
 # Cheap Eats in Melbourne Under $20 — 2026 Guide
 
 Melbourne's a city where a flat white costs $4.80 and a degustation can set you back $300, and somehow both feel normal. But between those two extremes lives the real Melbourne food scene — the $12 banh mi, the $13.90 noodle soup, the $10 rice bowl that keeps you going through a Wednesday arvo without touching your savings. This is the stuff that feeds the city. Not the tourist trail, not the Instagram traps — the meals that working Melburnians actually eat.
@@ -170,10 +169,9 @@ You can eat well in Melbourne CBD for under $20 every day of the week. The trick
 
 ## Related Articles
 
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
-- [/south-yarra/](/south-yarra/)
-- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
-- [/food/](/food/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
+- [South Yarra](/south-yarra/)
+- [Cheap Eats Melbourne](/cheap-eats-melbourne/)
+- [Food](/food/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

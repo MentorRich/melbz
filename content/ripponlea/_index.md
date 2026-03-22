@@ -1,16 +1,16 @@
 ---
-title: "Ripponlea Melbourne — Everything You Need to Know"
+title: "Ripponlea Melbourne — what you need"
 description: "The complete guide to Ripponlea. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "ripponlea"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Ripponlea Melbourne"
   - "what is Ripponlea like"
   - "ripponlea suburb"
   - "living in Ripponlea"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Heritage mansion (Rippon Lea Estate), quiet streets, and easy access to both the beach and the city.

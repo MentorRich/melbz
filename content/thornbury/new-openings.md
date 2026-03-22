@@ -1,17 +1,15 @@
 ---
 title: "New Openings in Thornbury — Your 2026 What's Fresh Guide"
+description: "Thornbury's newest restaurants, cafes, and bars in 2026. We verify what is actually open and worth your time on High Street. No hype, just real spots."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Chen"
 cover_image: "/images/thornbury/new-openings.jpg"
+cover_image_alt: "Thornbury Melbourne new restaurant and cafe openings"
+suburb: "thornbury"
+tags: ["melbourne", "thornbury", "new-openings", "restaurants"]
 ---
 
-suburb: "thornbury"
-vertical: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Thornbury's newest restaurants, cafes, and bars in 2026. We verify what's actually open and worth your time — no vapourware, no hype, just real spots."
-tags: ["thornbury"]
-categories: ["new"]
 # New Openings in Thornbury — Your 2026 What's Fresh Guide
 
 Thornbury's High Street is in a near-perpetual state of renovation, which is exactly why we love it. While other suburbs chase the next big thing with queues and influencer launches, Thornbury's new spots open quietly, build a local following, and either stabilize or disappear within six months. That filter — the community vote by foot traffic — is a brutal but effective quality control mechanism. Here's what's actually open and worth your time in 2026, plus a few legitimately opening soon spots to watch.
@@ -153,37 +151,3 @@ Thornbury's new openings in 2026 are modest but solid: Casa Sicilia (2024) and L
 
 **What We Skipped and Why:** We excluded anything that's rumored or not yet signed a lease. If it's not open, it doesn't belong here. We also left off pop-ups that run less than a month — they're not openings, they're experiments. Stick to the real ones.
 
-### Featured Venues
-
-- **Umbra** at 769 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Cedar Bakery** at 812 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Psarakos Market Cafe** at 299-307 Plenty Rd, Preston/Thornbury border VIC 3072
-- **Jerry Joy** at 847 High St, Thornbury VIC 3071
-- **Welcome to Thornbury** at 520 High St, Thornbury VIC 3071
-- **Umami** at 778 High St, Thornbury VIC 3071
-- **Pizza Meine Liebe** at 231 High St, Northcote/Thornbury border, VIC 3070
-- **Umami** at 774 High St, Thornbury VIC 3071
-
-### Key Highlights
-
-- High Street's independent cafes and vintage stores
-- The iconic Thornbury Theatre
-- Penders Park and Merri Creek trail access
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/northcote/](/northcote/)
-- [/thornbury/](/thornbury/)
-- [/thornbury/hub](/thornbury/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*

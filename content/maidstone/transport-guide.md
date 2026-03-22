@@ -4,15 +4,22 @@ description: "Public transport in Maidstone: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "maidstone"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Maidstone Melbourne"
   - "commute from Maidstone to city"
   - "Maidstone train station"
+tags:
+  - "maidstone"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Maidstone — what works, what's annoying, and how long things actually take.
+The transport story in Maidstone is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [Maidstone suburb guide](/maidstone/) for the complete picture.
 

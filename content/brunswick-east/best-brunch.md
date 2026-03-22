@@ -1,22 +1,22 @@
 ---
 title: "9 Best Brunch Spots in Brunswick East — 2026 Local Guide"
-cover_image: "/images/brunswick-east/best-brunch.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+cover_image: "/images/shared/brunch-spread.jpg"
+cover_image_alt: "Brunch spread at a cafe on Lygon Street Brunswick East"
+tags:
+  - "brunswick-east"
+  - "brunch"
+  - "cafes"
+  - "food"
+  - "melbourne"
 ---
 
-suburb: "brunswick-east"
-vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Brunswick East has quietly become one of Melbourne's most reliable brunch neighbourhoods. Here are the 9 spots worth waking up for."
-tags: ["brunswick-east"]
-categories: ["best"]
 # 9 Best Brunch Spots in Brunswick East — 2026 Local Guide
 
 Brunswick East doesn't do brunch the way Carlton North does — all Lygon Street theatres and Italian heritage pretensions. And it certainly doesn't do it like Fitzroy North, where half the cafes are vying for a Broadsheet listing. Brunswick East brunch is something else entirely: unpretentious, locally owned, and built around regulars rather than one-off Instagram visits. The suburb has quietly assembled one of the most reliable brunch scenes in the inner north, and if you haven't explored it lately, you're missing out.
 
-**Last updated: 16 March 2026** | **Brunswick East Vibe Score: 78/100 🟢**
+**Last updated: 16 March 2026** | **Last updated: March 2026**
 
 Here are the nine spots that make setting an alarm on a Saturday genuinely worthwhile.
 
@@ -126,14 +126,11 @@ Brunswick East brunch isn't about spectacle. It's about places that have earned 
 
 **If you only try one:** Bellboy for polish, Wild Life for the full sensory experience, El Mirage for the "actual local" vibe.
 
-**Your Brunswick East Vibe Score this week: 78/100** — The brunch scene is genuinely one of the suburb's strongest assets. East Brunswick Village has make betterd the area, and the old guard (Smug Relish, El Mirage, A1) keeps it grounded.
-
 
 *Know a spot we missed? Let us know.*
 *Related reads: [Best Coffee in Brunswick East](/brunswick-east/best-coffee) | [Best Pubs in Brunswick East](/brunswick-east/best-pubs) | [Brunswick East Nightlife Guide](/brunswick-east/nightlife-guide)*
 *Compare energy plans, internet, and insurance for your area at [CompareBlitz](https://compareblitz.com.au?suburb=brunswick-east)*
 
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
 ### Featured Venues
 
@@ -163,10 +160,9 @@ Brunswick East brunch isn't about spectacle. It's about places that have earned 
 - Culture: 8/10
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/richmond/](/richmond/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/carlton/](/carlton/)
+- [Northcote](/northcote/)
+- [Richmond](/richmond/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Mernda? Parks, schools, safety, and th
 date: 2026-03-21
 suburb: "mernda"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Mernda good for families"
   - "Mernda family friendly"
   - "raising kids in Mernda"
+tags:
+  - "mernda"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Mernda with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

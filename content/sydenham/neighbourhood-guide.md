@@ -4,13 +4,18 @@ description: "The insider's guide to Sydenham's different pockets, streets, and 
 date: 2026-03-21
 suburb: "sydenham"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Sydenham neighbourhood guide"
   - "best streets in Sydenham"
   - "Sydenham areas"
   - "Sydenham pockets Melbourne"
+tags:
+  - "sydenham"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Sydenham isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

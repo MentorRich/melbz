@@ -4,12 +4,18 @@ description: "Is Sunshine West a good suburb for young professionals? Social sce
 date: 2026-03-21
 suburb: "sunshine-west"
 article_type: "young-professionals"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Sunshine West young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Sunshine West"
+tags:
+  - "sunshine-west"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Sunshine West as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

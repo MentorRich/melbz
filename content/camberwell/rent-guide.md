@@ -3,20 +3,20 @@ title: "Renting in Camberwell Melbourne — What You Need to Know"
 description: "The honest rental guide for Camberwell. What to expect, where to look, and how the rental market actually works here."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "housing"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-keywords:
-  - "renting in Camberwell"
-  - "Camberwell rental market"
-  - "rent Camberwell Melbourne"
-  - "apartments Camberwell"
+author: "Maya Chen"
+tags:
+  - "camberwell"
+  - "rent"
+  - "property"
+  - "cost-of-living"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Renting in Camberwell — The Real Story
 
-Looking to rent in Camberwell? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
+Looking to [rent](/camberwell/cost-of-living/) in Camberwell? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
 
 See our full [Camberwell Cost of Living](/camberwell/cost-of-living/) guide for the broader picture.
 
@@ -38,7 +38,7 @@ That said, Camberwell has a steady flow of rental stock. Properties come up regu
 
 ## How to Actually Get a Rental in Camberwell
 
-1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental history. Pre-fill the Ignite or 2Apply forms.
+1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental [history](/camberwell/history/). Pre-fill the Ignite or 2Apply forms.
 
 2. **Apply on the day of inspection** — Properties that sit for a week are rare. Same-day applications show you're serious.
 
@@ -69,3 +69,23 @@ The key is matching your budget to realistic expectations. A smaller, well-locat
 ---
 
 **More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) · [Camberwell Cost of Living](/camberwell/cost-of-living/) · [Camberwell for Young Professionals](/camberwell/camberwell-for-young-professionals/)
+
+---
+
+## Explore More of Camberwell
+
+- [Camberwell History](/camberwell/history/)
+- [Camberwell Camberwell For Retirees](/camberwell/camberwell-for-retirees/)
+- [Camberwell Things To Do](/camberwell/things-to-do/)
+- [Camberwell Cost of Living](/camberwell/cost-of-living/)
+- [Camberwell Young Professionals Guide](/camberwell/young-professionals/)
+- [Camberwell Nightlife Guide](/camberwell/nightlife-guide/)
+- [Camberwell Transport Guide](/camberwell/transport-guide/)
+- [Camberwell Best Cafes](/camberwell/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Glen Iris Suburb Guide](/glen-iris/)

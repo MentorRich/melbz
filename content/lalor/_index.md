@@ -1,16 +1,16 @@
 ---
-title: "Lalor Melbourne — Everything You Need to Know"
+title: "Lalor Melbourne — what you need"
 description: "The complete guide to Lalor. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "lalor"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Lalor Melbourne"
   - "what is Lalor like"
   - "lalor suburb"
   - "living in Lalor"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Multicultural community, train access, and affordable houses in Melbourne's growth corridor.

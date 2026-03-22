@@ -4,16 +4,22 @@ description: "How expensive is Burwood East? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "burwood-east"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Burwood East Melbourne"
   - "how expensive is Burwood East"
   - "is Burwood East expensive to live in"
   - "Burwood East rent"
+tags:
+  - "burwood-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Burwood East — no sugar-coating, no made-up figures.
+Burwood East sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Burwood East suburb guide](/burwood-east/) for the bigger picture.
 

@@ -4,16 +4,22 @@ description: "How expensive is Lynbrook? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "lynbrook"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Lynbrook Melbourne"
   - "how expensive is Lynbrook"
   - "is Lynbrook expensive to live in"
   - "Lynbrook rent"
+tags:
+  - "lynbrook"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Lynbrook — no sugar-coating, no made-up figures.
+Lynbrook sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Lynbrook suburb guide](/lynbrook/) for the bigger picture.
 

@@ -1,27 +1,18 @@
 ---
 title: "Best Pubs in Richmond 2026: Punt Road to Church Street"
-cover_image: "/images/richmond/best-pubs.jpg"
-date: 2026-03-16
-author: kai
-author_image: "/images/authors/kai.jpg"
-tags: ["richmond", "pubs", "nightlife"]
-categories: ["nightlife"]
-description: "Best Pubs in Richmond 2026: Punt Road to Church Street"
+description: "Six tested pubs in Richmond for 2026. Corner Hotel, Bridge Hotel, Prince Alfred, and the full pub crawl route from River Street to Bridge Road."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Thompson"
+cover_image: "/images/shared/nightlife.jpg"
+cover_image_alt: "Richmond Melbourne pub scene on Swan Street"
+suburb: "richmond"
+tags: ["melbourne", "richmond", "pubs"]
 ---
 
-**Updated 16 March 2026 | 6 places tested | Kai Thompson reporting**
+*Updated March 2026 | 6 pubs tested | Kai Thompson reporting*
 
-
-
-Richmond has always been Melbourne'..."
-
-*Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
-
-# Best Pubs in Richmond 2026: Punt Road to Church Street
-
-*Updated 16 March 2026 | 6 places tested | Kai Thompson reporting*
-
-Richmond has always been Melbourne's working-class pub heartland. While neighbouring [Cremorne](/melbourne/nightlife/best-pubs-cremorne/) has gone glossy and [Collingwood](/melbourne/nightlife/best-pubs-collingwood/) has gone artisan, Richmond still somehow manages to keep one foot in the old school and one in the new. Whether you're rolling in from the MCG, finishing a shift on Bridge Road, or just chasing a cold pot on a warm arvo, this suburb delivers.
+Richmond has always been Melbourne's working-class pub heartland. While neighbouring [Cremorne](/cremorne/best-pubs/) has gone glossy and [Collingwood](/collingwood/best-pubs/) has gone artisan, Richmond still somehow manages to keep one foot in the old school and one in the new. Whether you're rolling in from the MCG, finishing a shift on Bridge Road, or just chasing a cold pot on a warm arvo, this suburb delivers.
 
 We walked the strip from Punt Road to Church Street, ducking into every pub that looked worth a stop. Here's what made the cut.
 
@@ -123,7 +114,7 @@ The Royston is the kind of pub where you walk in alone and leave with three new 
 
 ## What We Skipped and Why
 
-**The Grace Darling Hotel** (Smith Street, Collingwood) — Technically Collingwood, though it borders Richmond. We're covering it in our [best pubs in Collingwood](/melbourne/nightlife/best-pubs-collingwood/) guide instead.
+**The Grace Darling Hotel** (Smith Street, Collingwood) — Technically Collingwood, though it borders Richmond. We're covering it in our [best pubs in Collingwood](/collingwood/best-pubs/) guide instead.
 
 **PJ O'Brien's** (Bridge Road) — A solid Irish pub, but the experience is pretty standard-issue Irish chain venue. You know exactly what you're getting, and if that's your thing, go for it. It just didn't offer enough to make this list.
 
@@ -131,7 +122,7 @@ The Royston is the kind of pub where you walk in alone and leave with three new 
 
 **The Riser** — The newest addition to the Richmond pub scene (late 2025), and one we'll be covering in a dedicated review once it's had time to settle in. Early buzz is promising.
 
-**Any pub inside the MCG precinct** — Game-day venues inside the ground are a separate category entirely. We'll cover those in our [footy season guide](/melbourne/nightlife/melbourne-footy-pubs/).
+**Any pub inside the MCG precinct** — Game-day venues inside the ground are a separate category entirely. We'll cover those in our [footy season guide](/melbourne-footy-pubs/).
 
 ## The Verdict
 
@@ -142,71 +133,25 @@ If you want live music, the Corner Hotel is non-negotiable. For architecture and
 **The best pub crawl route:** Start at the Royston (River Street) → Corner Hotel (Swan Street) → Royal Saxon (Church Street) → Prince Alfred (Church Street) → Richmond Republic (Bridge/Church corner) → The Bridge Hotel (Bridge Road). That's six pubs, roughly 3 kilometres, and one excellent day out.
 
 
-*Related reads: [Best Pubs in Cremorne](/melbourne/nightlife/best-pubs-cremorne/) · [Best Pubs in Collingwood](/melbourne/nightlife/best-pubs-collingwood/) · [Best Pubs in South Yarra](/melbourne/nightlife/best-pubs-south-yarra/)*
+## FAQ
 
+**What's the best pub for live music in Richmond?**
+The Corner Hotel at 57 Swan Street. One of Melbourne's most important mid-size live music venues — it's hosted acts from Powderfinger to Tkay Maidza. The rooftop bar is a separate experience worth visiting even without a gig.
 
-### 🗳️ POLL: What's your go-to Richmond pub?
+**Which Richmond pub has the best beer garden?**
+The Prince Alfred on Church Street has the largest and most popular outdoor area. The Royston on River Street is smaller but more intimate. The Bridge Hotel's cobblestone courtyard is architecturally unique.
 
-- 🎸 Corner Hotel — for the music
-- 🍺 Bridge Hotel — for the laneway
-- ☀️ Prince Alfred — for the beer garden
-- 🍕 Royal Saxon — for the parma
-- 🍗 Richmond Republic — for the chicken
-- 🍻 The Royston — for the craft beer
+**Are Richmond pubs busy on match days?**
+Yes. Every pub within walking distance of the MCG fills on AFL game days. If you want quieter drinking, head to the Royston or Church Street's northern end.
 
+**Getting there:** Richmond is 4km from the CBD. Train to Richmond or East Richmond station. Tram 78 runs along Church Street. Tram 75 covers Bridge Road.
 
-### 📰 Get the Richmond Nightlife Brief
+**Best night to go:** Thursday and Friday are the sweet spot — enough atmosphere, not overwhelming. Saturdays get hectic near the MCG on game days. Sundays are for the courtyard session.
 
-Every Thursday, we send the best bar openings, pub events, and live music picks from Richmond and the inner east. No spam. Just the good stuff.
+**More Richmond nightlife:** [Best Bars](/richmond/best-bars/) | [Date Night](/richmond/date-night/) | [Honest Guide](/richmond/honest-guide/)
 
-**[Subscribe →]**
+**Nearby pub guides:** [Best Pubs in Collingwood](/collingwood/best-pubs/) | [Best Pubs in Cremorne](/cremorne/best-pubs/) | [Best Pubs in South Yarra](/south-yarra/best-pubs/)
 
+---
 
-### 💬 Join the Conversation
-
-Got a Richmond pub we missed? Think we got it wrong? Drop your opinion in the comments below — we read every one.
-
-
-### 📍 Plan Your Night
-
-**Getting there:** Richmond is 4km from the CBD. Train to Richmond or East Richmond station. Tram 78 runs the length of Church Street. Tram 75 covers Bridge Road. Park off-street if you're drinking — parking enforcement on Bridge Road is ruthless.
-
-**Best night to go:** Thursday and Friday are the sweet spot — busy enough for atmosphere, quiet enough to get served. Saturdays get hectic, especially near the MCG on game day. Sundays are for the courtyard.
-
-*— Kai Thompson, Pubs Editor, MELBZ*
-
-### Featured Venues
-
-- **Minamishima** at 4 Lord St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Etta** at 60 Lygon St, Brunswick East (Richmond satellite location: 305 Lygon St, Richmond VIC 3121)
-- **Top Paddock** at 658 Church St, Richmond VIC 3121
-- **Feast of Merit** at 117 Swan St, Richmond VIC 3121
-- **Mountain View Hotel (Cafe Section)** at 70 Bridge Rd, Richmond VIC 3121
-- **I Love Pho 264** at 264 Victoria St, Richmond VIC 3121
-- **Kong BBQ** at 599 Church St, Richmond VIC 3121
-- **Feast of Merit** at 314 Swan St, Richmond VIC 3121
-- **Ichi Ni** at 12/131-133 The Esplanade, St Kilda (Richmond border/nearby hub), VIC 3182
-
-### Key Highlights
-
-- Swan Street dining and live music
-- Bridge Road shopping precinct
-- Melbourne Cricket Ground (MCG)
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/collingwood/](/collingwood/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/best-pubs-melbourne/](/best-pubs-melbourne/)
-- [/nightlife/](/nightlife/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+*This guide was researched and written by the MELBZ team in March 2026. We visited every pub, paid for our own drinks, and received no sponsorship or compensation from any listed venue.*

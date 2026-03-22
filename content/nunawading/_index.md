@@ -1,16 +1,16 @@
 ---
-title: "Nunawading Melbourne — Everything You Need to Know"
+title: "Nunawading Melbourne — what you need"
 description: "The complete guide to Nunawading. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "nunawading"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Nunawading Melbourne"
   - "what is Nunawading like"
   - "nunawading suburb"
   - "living in Nunawading"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Whitehorse Road retail corridor, train access, and a practical family suburb.

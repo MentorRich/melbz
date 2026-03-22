@@ -1,17 +1,15 @@
 ---
 title: "Neighbourhood Guide in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/neighbourhood-guide.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "marcusl"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Liu"
 date: 2026-03-16
 updated: 2026-03-17
 description: "Discover the neighbourhood guide in Melbourne. Our verified 2026 guide covers the best spots for locals."
 tags: ["melbourne"]
 categories: ["neighbourhood"]
+---
 # Neighbourhood Guide to Melbourne — 2026
 
 Melbourne's CBD isn't one neighbourhood. It's a patchwork of micro-precincts, each with its own personality, its own crowd, and its own unspoken rules. Get the postcode wrong and you'll end up in a $38 cocktail bar when you wanted a $7 pot at the pub. Walk one block too far east and you've crossed from "cosy laneway dining" into "corporate happy hour territory." The difference between Degraves Street and Hardware Lane isn't just geography — it's a statement about what kind of afternoon you're after.
@@ -163,10 +161,9 @@ Living in Melbourne? [Compare energy plans, internet, and insurance for your are
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/st-kilda/](/st-kilda/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
+- [South Yarra](/south-yarra/)
+- [Southbank](/southbank/)
+- [St Kilda](/st-kilda/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

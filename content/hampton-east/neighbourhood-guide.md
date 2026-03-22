@@ -4,13 +4,18 @@ description: "The insider's guide to Hampton East's different pockets, streets, 
 date: 2026-03-21
 suburb: "hampton-east"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Hampton East neighbourhood guide"
   - "best streets in Hampton East"
   - "Hampton East areas"
   - "Hampton East pockets Melbourne"
+tags:
+  - "hampton-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hampton East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

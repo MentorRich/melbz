@@ -4,13 +4,18 @@ description: "The insider's guide to Warranwood's different pockets, streets, an
 date: 2026-03-21
 suburb: "warranwood"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Warranwood neighbourhood guide"
   - "best streets in Warranwood"
   - "Warranwood areas"
   - "Warranwood pockets Melbourne"
+tags:
+  - "warranwood"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Warranwood isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,16 +4,22 @@ description: "How expensive is Frankston South? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "frankston-south"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Frankston South Melbourne"
   - "how expensive is Frankston South"
   - "is Frankston South expensive to live in"
   - "Frankston South rent"
+tags:
+  - "frankston-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Frankston South — no sugar-coating, no made-up figures.
+Frankston South sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Frankston South suburb guide](/frankston-south/) for the bigger picture.
 

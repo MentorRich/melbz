@@ -4,19 +4,24 @@ description: "The spots in North Melbourne that don't make the top 10 lists but 
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "local-guide"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "hidden gems North Melbourne"
   - "secret spots North Melbourne"
   - "local tips North Melbourne"
   - "off beaten path North Melbourne Melbourne"
+tags:
+  - "north-melbourne"
+  - "hidden-gems"
+  - "local-tips"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Why North Melbourne's Best Bits Are Hidden
 
-Every Melbourne suburb has a public face — the main strip, the popular cafes, the spots Google tells you about. But North Melbourne's real character lives in the places most visitors never find.
+Every Melbourne suburb has a public face — the main strip, the popular [cafes](/north-melbourne/best-cafes/), the spots Google tells you about. But North Melbourne's real character lives in the places most visitors never find.
 
 These aren't "hidden" because someone's keeping secrets. They're hidden because they don't advertise, they don't have social media strategies, and they rely entirely on word of mouth and repeat customers.
 
@@ -62,4 +67,24 @@ The best suburban experiences happen when you put your phone away and just pay a
 
 ---
 
-**More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne History](/north-melbourne/history/) · [North Melbourne Living Guide](/north-melbourne/living-in-north-melbourne/)
+**More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne History](/north-melbourne/[history](/north-melbourne/history/)/) · [North Melbourne Living Guide](/north-melbourne/living-in-north-melbourne/)
+
+---
+
+## Explore More of North Melbourne
+
+- [North Melbourne History](/north-melbourne/history/)
+- [North Melbourne Rent Guide](/north-melbourne/rent-guide/)
+- [North Melbourne Things To Do](/north-melbourne/things-to-do/)
+- [North Melbourne Cost of Living](/north-melbourne/cost-of-living/)
+- [North Melbourne Neighbourhood Guide](/north-melbourne/neighbourhood-guide/)
+- [North Melbourne Transport Guide](/north-melbourne/transport-guide/)
+- [North Melbourne Best Cafes](/north-melbourne/best-cafes/)
+- [North Melbourne Best Restaurants](/north-melbourne/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

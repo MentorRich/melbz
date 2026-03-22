@@ -4,16 +4,22 @@ description: "The story of Mulgrave: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "mulgrave"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Mulgrave Melbourne history"
   - "how has Mulgrave changed"
   - "Mulgrave gentrification"
   - "Mulgrave then and now"
+tags:
+  - "mulgrave"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Mulgrave's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Mulgrave is not just dates and facts - it is the DNA of the current personality of this suburb.
 
 See our full [Mulgrave suburb guide](/mulgrave/) for the current picture.
 

@@ -4,13 +4,18 @@ description: "The insider's guide to Coburg North's different pockets, streets, 
 date: 2026-03-21
 suburb: "coburg-north"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Coburg North neighbourhood guide"
   - "best streets in Coburg North"
   - "Coburg North areas"
   - "Coburg North pockets Melbourne"
+tags:
+  - "coburg-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Coburg North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

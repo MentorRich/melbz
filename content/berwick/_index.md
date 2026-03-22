@@ -1,16 +1,16 @@
 ---
-title: "Berwick Melbourne — Everything You Need to Know"
+title: "Berwick Melbourne — what you need"
 description: "The complete guide to Berwick. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "berwick"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Berwick Melbourne"
   - "what is Berwick like"
   - "berwick suburb"
   - "living in Berwick"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Heritage village centre, Wilson Botanic Park, and the Casey region's most established suburb.

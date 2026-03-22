@@ -4,13 +4,18 @@ description: "The insider's guide to Strathmore Heights's different pockets, str
 date: 2026-03-21
 suburb: "strathmore-heights"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Strathmore Heights neighbourhood guide"
   - "best streets in Strathmore Heights"
   - "Strathmore Heights areas"
   - "Strathmore Heights pockets Melbourne"
+tags:
+  - "strathmore-heights"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Strathmore Heights isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

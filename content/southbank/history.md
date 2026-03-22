@@ -1,79 +1,55 @@
 ---
-title: "Southbank — History and How It's Changed"
-description: "The story of Southbank: from its origins to today. How this Melbourne suburb evolved and where it's heading next."
-date: 2026-03-21
+title: "History of Southbank Melbourne — From Industrial Wasteland to Arts Precinct"
+description: "How Southbank evolved from factories and warehouses to Crown Casino, Arts Centre Melbourne, the NGV, and Melbourne's premier riverside entertainment precinct."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/southbank/history.jpg"
+cover_image_alt: "Arts Centre Melbourne spire and Southbank skyline"
 suburb: "southbank"
-article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
-keywords:
-  - "Southbank Melbourne history"
-  - "how has Southbank changed"
-  - "Southbank gentrification"
-  - "Southbank then and now"
+tags: ["southbank", "history", "arts", "melbourne"]
 ---
 
-Every Melbourne suburb has a story. Southbank's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Southbank's history is one of Melbourne's most dramatic transformations — from industrial wasteland to cultural powerhouse in barely three decades.
 
-See our full [Southbank suburb guide](/southbank/) for the current picture.
+## Before Southbank
 
-## What Southbank Was Originally
+The land on the south bank of the Yarra was Wurundjeri Woi-wurrung country for thousands of years before European settlement. The river was a food source and meeting place. European settlement in the 1830s-40s quickly turned the south bank into an industrial zone — warehouses, factories, and wharves serving Melbourne's growing trade economy.
 
-Before it was what you see today, Southbank was built around industry and working families. The original residents built the suburb's foundation — the street grid, the housing stock, the community institutions that still exist in some form.
+## The Industrial Years
 
-Like most of Melbourne, Southbank's history is inseparable from the broader story of a city that grew outward from the Yarra in waves. This suburb was settled when Melbourne needed it — whether for housing workers, accommodating families, or providing a retreat from the city centre.
+For over a century, Southbank was defined by industry. Factories lined **City Road** and **Sturt Street**. Warehouses stretched along the riverfront. The area was working-class, noisy, and polluted. Nobody considered it a place to live — it was a place to work.
 
-The buildings that survive from this era tell the story. Heritage homes, the layout of the shopping strip, the positioning of parks and public spaces — all designed for a different time, adapted for the present.
+The **National Gallery of Victoria** opened on **St Kilda Road** in 1968, and **Arts Centre Melbourne** followed with the Theatres Building in 1984 and Hamer Hall in 1982. These were the first hints that the south bank of the Yarra might become something more than an industrial zone.
 
-## The Working Years
+## The Transformation — 1990s Onward
 
-For much of the 20th century, Southbank was defined by the people who worked here and the industries that employed them. The suburb had a particular economic identity — a character shaped by what people did for a living and how they spent their time.
+The real transformation began in the early 1990s when the Southgate complex opened (1992) and **Crown Casino** arrived (1997). Crown was controversial then and remains so — it brought jobs, tourism, and entertainment, but also gambling and the social issues that come with it.
 
-The community institutions from this era — the pubs, the sports clubs, the church halls — were the social infrastructure. People knew their neighbours because they worked together, drank together, and raised their kids on the same streets.
+The apartment towers followed. Eureka Tower (2006), at 297 metres, was Australia's tallest residential building when completed. **Southbank Boulevard**, **Clarendon Street**, and **Kavanagh Street** filled with high-rise residential developments throughout the 2000s and 2010s. Australia 108 (2020) pushed even higher.
 
-Migration waves brought new communities, new food, new languages, and new energy. Melbourne has always been built by people arriving from somewhere else, and Southbank absorbed each wave in its own way.
+## The Arts Precinct
 
-## The Shift
+The Melbourne Arts Precinct along **Sturt Street** has become one of the densest concentrations of world-class cultural venues in Australia: Arts Centre Melbourne, NGV, Melbourne Recital Centre, Malthouse Theatre, and ACMI. The ongoing Arts Precinct South development continues to expand this cultural infrastructure.
 
-Southbank's transformation came when the factories closed or moved, and the suburb reinvented itself. This wasn't overnight — it happened over a decade or two, gradually enough that long-term residents watched the change happen street by street.
+## FAQ
 
-New cafes appeared where milk bars used to be. The pub got a renovation. A gallery opened in a former workshop. The rent started going up.
+**When did Southbank become residential?**
+The first major apartment towers went up in the late 1990s and early 2000s, following the opening of Southgate (1992) and Crown Casino (1997).
 
-This is the gentrification story that plays out across Melbourne, but every suburb experiences it differently. Southbank's version has its own specific character — what was lost, what arrived, and how the community negotiated the transition.
+**What was Southbank before the apartments?**
+An industrial zone — factories, warehouses, and wharves. It was not residential.
 
-## What Got Lost Along the Way
+**When did Crown Casino open?**
+1997, at the temporary site. The permanent complex on the current site opened in 1997.
 
-Every suburb transformation has a cost. The places that defined the old Southbank — the local institutions, the affordable shops, the character of a suburb that didn't care about Instagram — some of that has gone.
+## The Verdict
 
-Long-term residents often carry frustration about what was demolished, what closed, and who was priced out. These aren't abstract losses — they're specific buildings, specific businesses, specific people who couldn't stay.
-
-This is important to acknowledge honestly. Growth and improvement came at a cost, and the cost was borne unevenly.
-
-## What Arrived
-
-The flip side: Southbank gained a lot. Better food options, improved infrastructure, safer streets, higher property values for existing owners, more diversity of things to do.
-
-The new arrivals brought energy and investment. The cafe scene, the restaurant culture, the cultural events — these weren't here before, and they've made the suburb genuinely more liveable for many residents.
-
-Whether the trade was worth it depends on who you ask.
-
-## Southbank Today — Where It Sits Now
-
-Today, Southbank is a suburb that carries its history visibly. The old buildings alongside the new ones. The established residents alongside the newcomers. The traditional shops next to the trendy ones.
-
-This isn't a pretend version of itself — it's a real suburb with layers. Walk through Southbank and you're walking through decades of Melbourne's story, compressed into a few streets.
-
-## Where Is Southbank Heading?
-
-Southbank's trajectory is clear: continued demand, continued development, continued evolution. New apartment developments are adding density. Infrastructure investment is improving transport and public spaces.
-
-The suburb will look different again in ten years. Whether that's good or bad depends on how it's managed and whether the things that make Southbank worth living in are preserved alongside the growth.
-
----
+Southbank is Melbourne's most deliberately manufactured suburb — built from scratch on former industrial land in barely 30 years. The result is a precinct with world-class cultural venues, spectacular river views, and residential density that rivals Hong Kong, but without the organic community character that develops over decades. Give it another decade — the infrastructure is there, and the community is slowly catching up. The Arts Precinct alone justifies Southbank's existence.
 
 **More on Southbank:**
 - [Southbank Neighbourhood Guide](/southbank/neighbourhood-guide/)
-- [Southbank Living Guide](/southbank/living-in-southbank/)
-- [Southbank for Families](/southbank/southbank-for-families/)
+- [Southbank Honest Guide](/southbank/honest-guide/)
+- [Southbank for Families](/southbank/family-guide/)
 
-**Nearby suburbs:** [Melbourne CBD](/melbourne-cbd/) · [South Melbourne](/south-melbourne/) · [St Kilda Road](/st-kilda-road/)
+**Nearby suburbs:** [Melbourne CBD](/melbourne-cbd/) · [South Melbourne](/south-melbourne/) · [St Kilda](/st-kilda/)

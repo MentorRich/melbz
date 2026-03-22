@@ -1,16 +1,16 @@
 ---
-title: "Blackburn South Melbourne — Everything You Need to Know"
+title: "Blackburn South Melbourne — what you need"
 description: "The complete guide to Blackburn South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "blackburn-south"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Blackburn South Melbourne"
   - "what is Blackburn South like"
   - "blackburn-south suburb"
   - "living in Blackburn South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet residential pocket south of Blackburn with forest and creek access.

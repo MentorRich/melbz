@@ -4,12 +4,16 @@ description: "What's it really like living in Glen Eira? Pros, cons, and the stu
 date: 2026-03-21
 suburb: "glen-eira"
 article_type: "living-in"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "living in Glen Eira Melbourne"
   - "pros and cons of living in Glen Eira"
   - "is Glen Eira a good place to live"
+tags:
+  - "glen-eira"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Glen Eira? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ Council area locality with parks and family-oriented residential streets. That's
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Glen Eira delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** The food scene covers the essentials and then some - good coffee, reliable dinner spots, and a few places that punch well above their weight.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

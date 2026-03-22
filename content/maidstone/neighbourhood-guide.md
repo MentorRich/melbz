@@ -4,13 +4,18 @@ description: "The insider's guide to Maidstone's different pockets, streets, and
 date: 2026-03-21
 suburb: "maidstone"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Maidstone neighbourhood guide"
   - "best streets in Maidstone"
   - "Maidstone areas"
   - "Maidstone pockets Melbourne"
+tags:
+  - "maidstone"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Maidstone isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

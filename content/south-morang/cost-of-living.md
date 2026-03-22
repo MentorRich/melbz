@@ -4,16 +4,22 @@ description: "How expensive is South Morang? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "south-morang"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living South Morang Melbourne"
   - "how expensive is South Morang"
   - "is South Morang expensive to live in"
   - "South Morang rent"
+tags:
+  - "south-morang"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in South Morang — no sugar-coating, no made-up figures.
+South Morang living costs reflect its position in Melbourne property landscape. Here are the numbers that matter.
 
 Read our full [South Morang suburb guide](/south-morang/) for the bigger picture.
 

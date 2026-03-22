@@ -4,16 +4,22 @@ description: "The story of Brighton East: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "brighton-east"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Brighton East Melbourne history"
   - "how has Brighton East changed"
   - "Brighton East gentrification"
   - "Brighton East then and now"
+tags:
+  - "brighton-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Brighton East's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Brighton East was working-class cottages and factories. The transformation tells a quintessentially Melbourne story.
 
 See our full [Brighton East suburb guide](/brighton-east/) for the current picture.
 

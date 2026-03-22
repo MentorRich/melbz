@@ -1,17 +1,16 @@
 ---
 title: "Best Coffee in Melbourne — 2026 Local Guide"
 cover_image: "/images/melbourne/best-coffee.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 date: 2026-03-16
 updated: 2026-03-17
 description: "The best coffee in Melbourne's CBD and surrounds for 2026. Real cafes, real prices, and where Melburnians actually get their daily fix — from flat whites to filter."
 tags: ["melbourne"]
 categories: ["general"]
+---
+
 # Best Coffee in Melbourne — 2026 Guide
 
 Right, let's get something straight. Melbourne's coffee reputation isn't a myth, but it also isn't a free pass for every cafe with a La Marzocca and a minimal interior to charge $5.50 for a flat white that tastes like warm milk. The city has some of the best coffee in the world — and some of the most overhyped. This guide separates the two.
@@ -206,10 +205,9 @@ Most of the cafes on this list are walkable within the CBD. Bring a Myki for any
 
 ## Related Articles
 
-- [/collingwood/](/collingwood/)
-- [/carlton/](/carlton/)
-- [/south-yarra/](/south-yarra/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/melbourne/](/melbourne/)
+- [Collingwood](/collingwood/)
+- [Carlton](/carlton/)
+- [South Yarra](/south-yarra/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Melbourne](/melbourne/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -1,16 +1,16 @@
 ---
-title: "Officer Melbourne — Everything You Need to Know"
+title: "Officer Melbourne — what you need"
 description: "The complete guide to Officer. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "officer"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Officer Melbourne"
   - "what is Officer like"
   - "officer suburb"
   - "living in Officer"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Melbourne's fastest-growing suburb. New estates, new schools, and a brand new town centre.

@@ -1,16 +1,16 @@
 ---
-title: "Ringwood East Melbourne — Everything You Need to Know"
+title: "Ringwood East Melbourne — what you need"
 description: "The complete guide to Ringwood East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "ringwood-east"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Ringwood East Melbourne"
   - "what is Ringwood East like"
   - "ringwood-east suburb"
   - "living in Ringwood East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Eastland-adjacent living at a lower price point. Train access and family homes.

@@ -4,16 +4,22 @@ description: "The story of Huntingdale: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "huntingdale"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Huntingdale Melbourne history"
   - "how has Huntingdale changed"
   - "Huntingdale gentrification"
   - "Huntingdale then and now"
+tags:
+  - "huntingdale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Huntingdale's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Huntingdale from quiet farmland to a buzzing residential suburb. Understanding that arc explains a lot.
 
 See our full [Huntingdale suburb guide](/huntingdale/) for the current picture.
 

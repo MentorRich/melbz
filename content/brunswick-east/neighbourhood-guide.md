@@ -1,24 +1,21 @@
 ---
 title: "Neighbourhood Guide to Brunswick East — 2026 Local Guide"
 cover_image: "/images/brunswick-east/neighbourhood-guide.jpg"
----
-
 suburb: "brunswick-east"
-vertical: "lifestyle"
-author: "marcusl"
-author_image: "/images/authors/marcus.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the neighbourhood guide to Brunswick East. Our verified 2026 guide covers the best spots for locals."
+author: "Marcus Cole"
+lastmod: 2026-03-22
+cover_image_alt: "Lygon Street Brunswick East with multicultural shopfronts"
+date: 2026-03-22
+description: "The complete neighbourhood guide to Brunswick East for 2026 — Lygon Street, Nicholson Street, CERES, and why people keep moving here."
 tags: ["brunswick-east"]
-categories: ["neighbourhood"]
-# Brunswick East Neighbourhood Guide 2026: Everything You Need to Know
+---
+# Brunswick East Neighbourhood Guide 2026: what you need
 
 Brunswick East is what happens when a suburb stops trying to be anything and becomes exactly what it is: one of Melbourne's most liveable inner-north pockets. It doesn't have the media profile of [Fitzroy](/froyo/), the student energy of [Brunswick](/brunswick/) proper, or the gentrification buzz of [Carlton North](/carlton-north/). What it has is better — a neighbourhood that works. Great cafés, serious restaurants, a pub that's been running since 1888, the Merri Creek trail on one side, and Lygon Street on the other. That's it. That's the pitch. And honestly, it's enough.
 
 If you're thinking about moving here, already live here and want to know your suburb better, or just want to understand why people keep banging on about this stretch of Lygon Street, this is your guide.
 
-**Vibe Score: 78/100 🟡 SOLID** | **Rank: #18 in Melbourne**
+**Last updated: March 2026**
 
 
 ## The Geography
@@ -148,8 +145,6 @@ Living in Brunswick East means you can walk to all three in under 20 minutes. Th
 
 Brunswick East isn't trying to be anything other than a great place to live, eat, and drink. It has the Lygon Street strip that keeps getting better (Daphne, Bar Elsie, the Etta empire), a pub that's been running since the 1880s, the Merri Creek trail connecting it to the rest of the inner north, and a residential character that prioritises actual living over "lifestyle." It's not the flashiest suburb in Melbourne. It's not the cheapest. But it might be the one that makes you happiest.
 
-**Your Brunswick East Vibe Score this week: 78/100** — Autumn is prime time. Get to know your suburb.
-
 
 ## Related Reading
 
@@ -160,7 +155,6 @@ Brunswick East isn't trying to be anything other than a great place to live, eat
 - [Brunswick East Things To Do This Weekend](/brunswick-east/things-to-do-this-weekend/) — your weekend planner
 
 *Live here? Rate your suburb and help us keep the Vibe Score accurate.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
 ### Featured Venues
 
@@ -190,10 +184,9 @@ Brunswick East isn't trying to be anything other than a great place to live, eat
 - Culture: 8/10
 ## Related Articles
 
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [Richmond](/richmond/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

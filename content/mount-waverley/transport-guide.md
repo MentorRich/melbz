@@ -4,15 +4,22 @@ description: "Public transport in Mount Waverley: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Mount Waverley Melbourne"
   - "commute from Mount Waverley to city"
   - "Mount Waverley train station"
+tags:
+  - "mount-waverley"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Mount Waverley — what works, what's annoying, and how long things actually take.
+Living in Mount Waverley means adapting to its transport quirks. Every suburb has them - here are the ones for Mount Waverley.
 
 Check out our full [Mount Waverley suburb guide](/mount-waverley/) for the complete picture.
 

@@ -4,19 +4,25 @@ description: "The honest rental guide for Port Melbourne. What to expect, where 
 date: 2026-03-21
 suburb: "port-melbourne"
 article_type: "housing"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "renting in Port Melbourne"
   - "Port Melbourne rental market"
   - "rent Port Melbourne Melbourne"
   - "apartments Port Melbourne"
+tags:
+  - "port-melbourne"
+  - "rent"
+  - "property"
+  - "cost-of-living"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
 ## Renting in Port Melbourne — The Real Story
 
-Looking to rent in Port Melbourne? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
+Looking to [rent](/port-melbourne/cost-of-living/) in Port Melbourne? Here's what you're dealing with — the market conditions, the types of properties available, and the stuff agents won't tell you.
 
 See our full [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/) guide for the broader picture.
 
@@ -38,7 +44,7 @@ That said, Port Melbourne has a steady flow of rental stock. Properties come up 
 
 ## How to Actually Get a Rental in Port Melbourne
 
-1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental history. Pre-fill the Ignite or 2Apply forms.
+1. **Have your application ready before inspecting** — Reference letters, payslips, ID, rental [history](/port-melbourne/history/). Pre-fill the Ignite or 2Apply forms.
 
 2. **Apply on the day of inspection** — Properties that sit for a week are rare. Same-day applications show you're serious.
 
@@ -69,3 +75,23 @@ The key is matching your budget to realistic expectations. A smaller, well-locat
 ---
 
 **More on Port Melbourne:** [Port Melbourne Suburb Guide](/port-melbourne/) · [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/) · [Port Melbourne for Young Professionals](/port-melbourne/port-melbourne-for-young-professionals/)
+
+---
+
+## Explore More of Port Melbourne
+
+- [Port Melbourne History](/port-melbourne/history/)
+- [Port Melbourne Things To Do](/port-melbourne/things-to-do/)
+- [Port Melbourne Cost of Living](/port-melbourne/cost-of-living/)
+- [Port Melbourne Young Professionals Guide](/port-melbourne/young-professionals/)
+- [Port Melbourne Nightlife Guide](/port-melbourne/nightlife-guide/)
+- [Port Melbourne Transport Guide](/port-melbourne/transport-guide/)
+- [Port Melbourne Best Cafes](/port-melbourne/best-cafes/)
+- [Port Melbourne Best Restaurants](/port-melbourne/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

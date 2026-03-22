@@ -4,15 +4,22 @@ description: "Public transport in Williams Landing: trains, trams, buses, cyclin
 date: 2026-03-21
 suburb: "williams-landing"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Williams Landing Melbourne"
   - "commute from Williams Landing to city"
   - "Williams Landing train station"
+tags:
+  - "williams-landing"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Williams Landing — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Williams Landing, you need to know what the daily commute actually looks like.
 
 Check out our full [Williams Landing suburb guide](/williams-landing/) for the complete picture.
 

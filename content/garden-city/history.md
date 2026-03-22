@@ -4,16 +4,22 @@ description: "The story of Garden City: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "garden-city"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Garden City Melbourne history"
   - "how has Garden City changed"
   - "Garden City gentrification"
   - "Garden City then and now"
+tags:
+  - "garden-city"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Garden City's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Melbourne suburbs each carry their own history. The story of Garden City is a story of cultural diversity.
 
 See our full [Garden City suburb guide](/garden-city/) for the current picture.
 

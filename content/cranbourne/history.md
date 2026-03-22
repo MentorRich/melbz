@@ -4,16 +4,22 @@ description: "The story of Cranbourne: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "cranbourne"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Cranbourne Melbourne history"
   - "how has Cranbourne changed"
   - "Cranbourne gentrification"
   - "Cranbourne then and now"
+tags:
+  - "cranbourne"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Cranbourne's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Cranbourne means understanding where it came from. The history explains the character.
 
 See our full [Cranbourne suburb guide](/cranbourne/) for the current picture.
 

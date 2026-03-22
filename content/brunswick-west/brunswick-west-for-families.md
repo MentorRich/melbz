@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Brunswick West? Parks, schools, safety
 date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Brunswick West good for families"
   - "Brunswick West family friendly"
   - "raising kids in Brunswick West"
+tags:
+  - "brunswick-west"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Brunswick West with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

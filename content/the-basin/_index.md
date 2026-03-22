@@ -1,16 +1,16 @@
 ---
-title: "The Basin Melbourne — Everything You Need to Know"
+title: "The Basin Melbourne — what you need"
 description: "The complete guide to The Basin. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "the-basin"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "The Basin Melbourne"
   - "what is The Basin like"
   - "the-basin suburb"
   - "living in The Basin"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Semi-rural pocket near the Dandenong Ranges with a strong community identity.

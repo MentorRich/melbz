@@ -4,15 +4,22 @@ description: "Public transport in Beaconsfield: trains, trams, buses, cycling, a
 date: 2026-03-21
 suburb: "beaconsfield"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Beaconsfield Melbourne"
   - "commute from Beaconsfield to city"
   - "Beaconsfield train station"
+tags:
+  - "beaconsfield"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Beaconsfield — what works, what's annoying, and how long things actually take.
+Public transport in Beaconsfield has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Beaconsfield suburb guide](/beaconsfield/) for the complete picture.
 

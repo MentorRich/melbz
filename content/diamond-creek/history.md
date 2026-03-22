@@ -4,16 +4,22 @@ description: "The story of Diamond Creek: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "diamond-creek"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Diamond Creek Melbourne history"
   - "how has Diamond Creek changed"
   - "Diamond Creek gentrification"
   - "Diamond Creek then and now"
+tags:
+  - "diamond-creek"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Diamond Creek's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Diamond Creek was a quiet rural settlement. The transformation tells a quintessentially Melbourne story.
 
 See our full [Diamond Creek suburb guide](/diamond-creek/) for the current picture.
 

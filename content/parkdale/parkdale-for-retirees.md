@@ -4,12 +4,16 @@ description: "Considering retirement in Parkdale? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "parkdale"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Parkdale retirees Melbourne"
   - "retiring in Parkdale"
   - "quiet suburbs Melbourne"
+tags:
+  - "parkdale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Parkdale? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

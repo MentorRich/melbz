@@ -4,16 +4,22 @@ description: "How expensive is Brighton East? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "brighton-east"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Brighton East Melbourne"
   - "how expensive is Brighton East"
   - "is Brighton East expensive to live in"
   - "Brighton East rent"
+tags:
+  - "brighton-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Brighton East — no sugar-coating, no made-up figures.
+Rent in Brighton East tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Brighton East suburb guide](/brighton-east/) for the bigger picture.
 

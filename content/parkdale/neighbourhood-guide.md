@@ -4,13 +4,18 @@ description: "The insider's guide to Parkdale's different pockets, streets, and 
 date: 2026-03-21
 suburb: "parkdale"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Parkdale neighbourhood guide"
   - "best streets in Parkdale"
   - "Parkdale areas"
   - "Parkdale pockets Melbourne"
+tags:
+  - "parkdale"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Parkdale isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

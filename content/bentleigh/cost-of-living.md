@@ -4,16 +4,22 @@ description: "How expensive is Bentleigh? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "bentleigh"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Bentleigh Melbourne"
   - "how expensive is Bentleigh"
   - "is Bentleigh expensive to live in"
   - "Bentleigh rent"
+tags:
+  - "bentleigh"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Bentleigh — no sugar-coating, no made-up figures.
+Bentleigh sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Bentleigh suburb guide](/bentleigh/) for the bigger picture.
 

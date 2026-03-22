@@ -1,19 +1,14 @@
 ---
 title: "How Safe Is Abbotsford Melbourne?"
-description: "Is Abbotsford safe to live in? The honest breakdown of safety, what to be aware of, and how locals experience the suburb day-to-day."
-date: 2026-03-21
+description: "Is Abbotsford safe to live in? The honest breakdown of safety, what to be aware of, and how locals experience the suburb day-to-day. Updated for 2026 with re."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/abbotsford/safety-guide.jpg"
+cover_image_alt: "Safety Guide in Abbotsford Melbourne"
 suburb: "abbotsford"
-article_type: "safety"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
-keywords:
-  - "is Abbotsford safe"
-  - "Abbotsford safety"
-  - "Abbotsford crime"
-  - "is Abbotsford dangerous Melbourne"
+tags: ["abbotsford", "safety-guide"]
 ---
-
-
 ## Safety in Abbotsford — The Honest Answer
 
 "Is Abbotsford safe?" is probably in the top five questions people ask before moving here. The honest answer: generally yes, with the same caveats that apply to any Melbourne suburb.
@@ -67,4 +62,6 @@ The lifestyle benefits of Abbotsford — community, walkability, access — outw
 
 ---
 
-**More on Abbotsford:** [Abbotsford Suburb Guide](/abbotsford/) · [Abbotsford Living Guide](/abbotsford/living-in-abbotsford/) · [Abbotsford for Families](/abbotsford/abbotsford-for-families/)
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
+
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

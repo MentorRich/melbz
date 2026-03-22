@@ -4,13 +4,19 @@ description: "The bar scene in Balwyn: where to drink, what the vibe is, and the
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "nightlife"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Dani Reyes"
 keywords:
   - "best bars Balwyn"
   - "bars in Balwyn Melbourne"
   - "nightlife Balwyn"
   - "where to drink Balwyn"
+tags:
+  - "balwyn"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 
@@ -55,4 +61,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on Balwyn:** [Balwyn Suburb Guide](/balwyn/) · [Balwyn Best Restaurants](/balwyn/best-restaurants/) · [Balwyn for Young Professionals](/balwyn/balwyn-for-young-professionals/)
+**More on Balwyn:** [Balwyn Suburb Guide](/balwyn/) · [Balwyn Best Restaurants](/balwyn/best-[restaurants](/balwyn/best-restaurants/)/) · [Balwyn for Young Professionals](/balwyn/balwyn-for-young-professionals/)
+
+---
+
+## Explore More of Balwyn
+
+- [Balwyn History](/balwyn/history/)
+- [Balwyn Rent Guide](/balwyn/rent-guide/)
+- [Balwyn Balwyn For Retirees](/balwyn/balwyn-for-retirees/)
+- [Balwyn Balwyn For Young Professionals](/balwyn/balwyn-for-young-professionals/)
+- [Balwyn Things To Do](/balwyn/things-to-do/)
+- [Balwyn Cost of Living](/balwyn/cost-of-living/)
+- [Balwyn Neighbourhood Guide](/balwyn/neighbourhood-guide/)
+- [Balwyn Transport Guide](/balwyn/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Camberwell Suburb Guide](/camberwell/)

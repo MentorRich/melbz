@@ -4,16 +4,22 @@ description: "How expensive is Burwood? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "burwood"
 article_type: "cost-of-living"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "cost of living Burwood Melbourne"
   - "how expensive is Burwood"
   - "is Burwood expensive to live in"
   - "Burwood rent"
+tags:
+  - "burwood"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Burwood — no sugar-coating, no made-up figures.
+If you are weighing up Burwood against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Burwood suburb guide](/burwood/) for the bigger picture.
 

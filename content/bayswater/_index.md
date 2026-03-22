@@ -1,16 +1,16 @@
 ---
-title: "Bayswater Melbourne — Everything You Need to Know"
+title: "Bayswater Melbourne — what you need"
 description: "The complete guide to Bayswater. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "bayswater"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Bayswater Melbourne"
   - "what is Bayswater like"
   - "bayswater suburb"
   - "living in Bayswater"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mountain Highway shops, train access, and affordable eastern suburbs living near the Dandenongs.

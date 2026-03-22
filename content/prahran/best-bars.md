@@ -1,58 +1,106 @@
 ---
-title: "Best Bars in Prahran Melbourne"
-description: "The bar scene in Prahran: where to drink, what the vibe is, and the local spots worth knowing about."
-date: 2026-03-21
+title: "Best Bars in Prahran 2026 — Chapel Street to Greville Street"
+description: "The best bars in Prahran for 2026. Cocktail lounges, wine bars, rooftop spots and local pubs across Chapel Street and Greville Street."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/shared/melbourne-bar.jpg"
+cover_image_alt: "Prahran Melbourne bar scene at night"
 suburb: "prahran"
-article_type: "nightlife"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-keywords:
-  - "best bars Prahran"
-  - "bars in Prahran Melbourne"
-  - "nightlife Prahran"
-  - "where to drink Prahran"
+tags: ["melbourne", "prahran", "bars", "nightlife"]
 ---
 
+Prahran's bar scene runs the full spectrum: speakeasy cocktail dens on Greville Street, rowdy Chapel Street pubs, wine bars tucked into laneways, and rooftop spots that come alive from October to March. Here are the bars worth your time in 2026.
 
-## The Drinking Scene in Prahran
+## 1. Eau De Vie — The Cocktail Institution
 
-Prahran has a bar scene that reflects the suburb — not short on places to drink, with a mix of dive bars, wine spots, and proper cocktail joints. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
+**Where:** Greville Street, Prahran
+**Vibe:** Speakeasy, low-lit, serious cocktails
+**Price:** Cocktails $18-$24, whisky from $14
 
-## Types of Bars in Prahran
+Eau De Vie is Prahran's benchmark cocktail bar. Dark wood panelling, a whisky list that runs to multiple pages, and bartenders who treat their craft like a calling. The cocktails are precise and seasonal, rotating quarterly with a core menu of house classics. If you like your drinks made with genuine care, this is the bar.
 
-**The Local Pub** — Every suburb needs one (or three). Prahran's pubs range from proper old-school locals to renovated versions that keep the character while adding a better tap list.
+**The move:** Thursday nights are quieter, which means more bartender attention. Ask for an off-menu recommendation and you will not be disappointed.
 
-**Wine Bars** — Small, intimate, usually with a great by-the-glass selection. The kind of place where the bar staff know what they're pouring and can actually help you choose.
+## 2. The Emerson — The Rooftop
 
-**Cocktail Spots** — Not as many as Fitzroy or Collingwood, but Prahran has options that hold their own. Smaller, more personal, and you're not paying CBD prices.
+**Where:** Chapel Street, Prahran
+**Vibe:** Smart casual, sunset drinks, DJ sets
+**Price:** Cocktails $18-$22, beers $10-$14
 
-**Beer Gardens** — Weather-dependent but essential for Melbourne summers. Some of Prahran's best drinking happens outdoors when the weather cooperates.
+The Emerson fills a gap in Prahran's bar scene: a proper rooftop with city views, a dressed-up crowd, and DJs who set the mood without drowning conversation. From October to March this is one of the best sunset drink spots in the inner south. Winter shifts to the stylish indoor spaces.
 
-**The All-Rounder** — The bar that works for everything: after-work drinks, catch-ups, first dates, Saturday nights. Reliable, never amazing, always good enough.
+**The move:** Sunday afternoon sessions in summer are underrated. The rooftop is less crowded, the DJ plays chilled house, and the vibe is genuinely relaxed.
 
-## When to Go
+## 3. Leonards House of Love — The Indie Bar
 
-**After work (5-7pm)** — The sweet spot for most Prahran bars. Happy hour-ish, relaxed, locals unwinding.
+**Where:** Chapel Street, Prahran
+**Vibe:** Intimate, craft cocktails, indie soundtrack
+**Price:** Cocktails $16-$20, beers $9-$14
 
-**Friday night** — The main strip fills up. Get in by 6pm or expect to wait. The energy is good though.
+Leonards does the neighbourhood bar thing perfectly. Maybe 60-80 people at capacity, craft cocktails that change seasonally, and a playlist running from indie rock to soul. It is the Thursday or Friday night bar when you want to go out without going "out out." The back room occasionally hosts live music and comedy nights worth checking for.
 
-**Saturday** — Peak social time. Bars are full, atmosphere is high, expect queues at popular spots.
+**The move:** Ask the bartender for a recommendation rather than reading the menu. They genuinely enjoy suggesting something you would not have ordered yourself.
 
-**Sunday session** — Underrated. Some of Prahran's bars do Sunday sessions that are genuinely great — more relaxed, often live music or DJs, and no Sunday scaries.
+## 4. Borsch, Vodka & Tears — The Character Pick
 
-## What Makes Prahran Different
+**Where:** 173 Chapel Street, [Windsor](/windsor/) (on the Prahran border)
+**Vibe:** Bohemian, moody, Eastern European
+**Price:** Vodka flights from $18, mains $16-$24
 
-Prahran isn't trying to out-cool the inner-city bar hubs. The bars here work because they serve the locals first — they're places you'd go weekly, not Instagram destinations you visit once.
+Technically Windsor but spiritually Prahran. Borsch, Vodka & Tears serves Polish and Ukrainian food alongside an absurd selection of infused vodkas in a dimly lit room with genuine atmosphere. The pierogi are excellent, the beetroot soup is the real thing, and ordering a vodka flight is the correct opening move.
 
-That gives the suburb's bar scene an authenticity that more hyped areas often lack. The vibe is real because the people are regulars, not tourists.
+**The move:** Go on a weeknight when the room is quieter and the staff have time to walk you through the vodka infusions. The horseradish vodka is divisive but worth trying.
 
-## Tips
+## 5. Alp's Wine House — The Wine Bar
 
-1. **Support the neighbourhood bar** — they're the ones that make the suburb
-2. **Try the local brewery tap** — if Prahran has one, it's usually worth a visit
-3. **Weeknights are underrated** — fewer people, better service, same drinks
-4. **Ask the bartender** — they know what's good and what's not worth ordering
+**Where:** Near Prahran Market
+**Vibe:** Natural wine, sharing plates, relaxed
+**Price:** Wine by the glass $12-$20, cheese boards $28-$38
+
+Alp's Wine House has a genuinely excellent wine list with a focus on minimal-intervention producers from Australia and Europe. The food is designed for sharing: charcuterie, cheese boards, and small plates that pair well without demanding full attention. Perfect for a first date or a long catch-up with friends.
+
+**The move:** The outdoor seating on a sunny afternoon with a bottle and a cheese board is peak Prahran. No bookings needed for outside; just arrive early.
+
+## Getting There and Getting Home
+
+Prahran's bars cluster along Chapel Street and Greville Street. The 78 tram runs along Chapel Street until around 1am. Prahran station (Sandringham line) is a short walk from Greville Street venues. Night Network buses cover the area on Friday and Saturday nights. Ride-share pick-up zones are near Prahran Station: do not try to get picked up mid-strip after midnight.
+
+## FAQ
+
+**What is the best cocktail bar in Prahran?**
+Eau De Vie on Greville Street is the standout for serious cocktails and whisky.
+
+**Are Prahran bars expensive?**
+Cocktails run $16-$24, beers $9-$14, wine from $12 per glass. Comparable to other inner-south suburbs, slightly cheaper than the CBD.
+
+**What is the best night to go out in Prahran?**
+Thursday and Friday nights hit the sweet spot between atmosphere and not being overcrowded. Saturday is busiest.
+
+## The Verdict
+
+Prahran's bar scene works because it serves locals first. These are not one-visit Instagram destinations; they are weekly spots for people who actually live here. The variety, from speakeasy to rooftop to wine bar, means every mood is covered.
 
 ---
 
-**More on Prahran:** [Prahran Suburb Guide](/prahran/) · [Prahran Best Restaurants](/prahran/best-restaurants/) · [Prahran for Young Professionals](/prahran/prahran-for-young-professionals/)
+**More Prahran:** [Nightlife Guide](/prahran/[nightlife](/prahran/nightlife-guide/)-guide/) | [Best Pubs](/prahran/best-pubs/) | [Date Night](/prahran/date-night/) | [Prahran Suburb Guide](/prahran/)
+
+---
+
+## Explore More of Prahran
+
+- [Prahran History](/prahran/history/)
+- [Prahran Late Night Eats](/prahran/late-night-eats/)
+- [Prahran Things To Do This Weekend](/prahran/things-to-do-this-weekend/)
+- [Prahran Cheap Eats](/prahran/cheap-eats/)
+- [Prahran Rent Guide](/prahran/rent-guide/)
+- [Prahran Prahran For Retirees](/prahran/prahran-for-retirees/)
+- [Prahran Date Night Guide](/prahran/date-night/)
+- [Prahran Food Crawl](/prahran/food-crawl/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)
+- [Albert Park Suburb Guide](/albert-park/)

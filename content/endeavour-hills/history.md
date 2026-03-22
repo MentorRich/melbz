@@ -4,16 +4,22 @@ description: "The story of Endeavour Hills: from its origins to today. How this 
 date: 2026-03-21
 suburb: "endeavour-hills"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Endeavour Hills Melbourne history"
   - "how has Endeavour Hills changed"
   - "Endeavour Hills gentrification"
   - "Endeavour Hills then and now"
+tags:
+  - "endeavour-hills"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Endeavour Hills's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every Melbourne suburb has a backstory. The one for Endeavour Hills is tied to Melbourne's industrial past.
 
 See our full [Endeavour Hills suburb guide](/endeavour-hills/) for the current picture.
 

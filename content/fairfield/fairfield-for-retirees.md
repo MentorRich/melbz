@@ -4,12 +4,16 @@ description: "Considering retirement in Fairfield? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "fairfield"
 article_type: "retirees"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Fairfield retirees Melbourne"
   - "retiring in Fairfield"
   - "quiet suburbs Melbourne"
+tags:
+  - "fairfield"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Fairfield? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

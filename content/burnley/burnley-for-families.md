@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Burnley? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "burnley"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Burnley good for families"
   - "Burnley family friendly"
   - "raising kids in Burnley"
+tags:
+  - "burnley"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Burnley with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,15 +4,22 @@ description: "Public transport in Forest Hill: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "forest-hill"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Forest Hill Melbourne"
   - "commute from Forest Hill to city"
   - "Forest Hill train station"
+tags:
+  - "forest-hill"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Forest Hill — what works, what's annoying, and how long things actually take.
+Forest Hill sits in the western growth corridor, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Forest Hill suburb guide](/forest-hill/) for the complete picture.
 

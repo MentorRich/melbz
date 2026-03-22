@@ -1,16 +1,16 @@
 ---
-title: "Yallambie Melbourne — Everything You Need to Know"
+title: "Yallambie Melbourne — what you need"
 description: "The complete guide to Yallambie. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "yallambie"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Yallambie Melbourne"
   - "what is Yallambie like"
   - "yallambie suburb"
   - "living in Yallambie"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet and leafy near La Trobe Uni. Residential streets backing onto parkland.

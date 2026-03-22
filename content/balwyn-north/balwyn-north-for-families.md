@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Balwyn North? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Balwyn North good for families"
   - "Balwyn North family friendly"
   - "raising kids in Balwyn North"
+tags:
+  - "balwyn-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Balwyn North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

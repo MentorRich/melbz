@@ -4,12 +4,16 @@ description: "Considering retirement in Doncaster? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "doncaster"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Doncaster retirees Melbourne"
   - "retiring in Doncaster"
   - "quiet suburbs Melbourne"
+tags:
+  - "doncaster"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Doncaster? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

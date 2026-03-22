@@ -4,16 +4,22 @@ description: "The story of Lilydale: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "lilydale"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Lilydale Melbourne history"
   - "how has Lilydale changed"
   - "Lilydale gentrification"
   - "Lilydale then and now"
+tags:
+  - "lilydale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Lilydale's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Lilydale means understanding where it came from. The history explains the character.
 
 See our full [Lilydale suburb guide](/lilydale/) for the current picture.
 

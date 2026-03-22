@@ -4,15 +4,22 @@ description: "Public transport in Jacana: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "jacana"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Jacana Melbourne"
   - "commute from Jacana to city"
   - "Jacana train station"
+tags:
+  - "jacana"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Jacana — what works, what's annoying, and how long things actually take.
+Public transport in Jacana has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Jacana suburb guide](/jacana/) for the complete picture.
 

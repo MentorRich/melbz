@@ -1,24 +1,24 @@
 ---
 title: "New Openings in Brunswick East — 2026 Local Guide"
-cover_image: "/images/brunswick-east/new-openings.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+cover_image: "/images/shared/new-opening.jpg"
+cover_image_alt: "New restaurant opening on Lygon Street Brunswick East"
+tags:
+  - "brunswick-east"
+  - "new-openings"
+  - "restaurants"
+  - "bars"
+  - "melbourne"
 ---
 
-suburb: "brunswick-east"
-vertical: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the new openings in Brunswick East. Our verified 2026 guide covers the best spots for locals."
-tags: ["brunswick-east"]
-categories: ["new"]
 # New Openings in Brunswick East: What Just Landed on Lygon Street
 
 Brunswick East has been quietly having a moment. While Melbourne's food media obsesses over whatever Andrew McConnell is opening in the CBD, this stretch of Lygon Street between Nicholson Street and the [Fitzroy North](/froyo-north/) border has been collecting some of the most exciting new venues in the inner north. And the best part? None of them feel like they're trying to be the next big thing. They just are.
 
 If you've been sleeping on Brunswick East — or if you moved here six months ago and still haven't explored past the IGA — this is your catch-up guide. Here's everything that's opened in the last twelve months that's worth walking through the door for.
 
-**Last updated: 16 March 2026** | **Brunswick East Vibe Score: 78/100 🟡 SOLID**
+**Last updated: 16 March 2026** | **Last updated: March 2026**
 
 
 ## Daphne — The One Everyone's Talking About
@@ -102,8 +102,6 @@ Brunswick East in 2026 isn't trying to be the next Fitzroy. It's not chasing hyp
 
 The new openings only make it better. Daphne proves the Etta crew can do casual. Bar Elsie brings European warmth to a strip that was already heating up. The Coffee Bar strips café culture back to its essentials. And Da Bepi answers the question that Brunswick East residents have been asking for years: where do we go after dinner?
 
-**Your Brunswick East Vibe Score this week: 78/100** — The openings are landing. Get here before everyone else does.
-
 
 ## Related Reading
 
@@ -113,7 +111,6 @@ The new openings only make it better. Daphne proves the Etta crew can do casual.
 - [Best Pubs in Carlton North](/carlton-north/best-pubs/) — the other side of the creek
 
 *Spotted a new opening we've missed? Tell us.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
 
 ### Featured Venues
 
@@ -143,10 +140,9 @@ The new openings only make it better. Daphne proves the Etta crew can do casual.
 - Culture: 8/10
 ## Related Articles
 
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/brunswick-east/](/brunswick-east/)
-- [/brunswick-east/hub](/brunswick-east/hub)
+- [Brunswick](/brunswick/)
+- [Fitzroy](/fitzroy/)
+- [Carlton](/carlton/)
+- [Brunswick East](/brunswick-east/)
+- [Hub](/brunswick-east/hub)
 
-*Find more Melbourne content at [melbz.com.au](/)*

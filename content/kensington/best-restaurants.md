@@ -1,22 +1,17 @@
 ---
 title: "Best Restaurants in Kensington Melbourne"
-description: "Where to eat in Kensington: the honest guide to the suburb's restaurant scene, from weeknight dinners to special occasions."
-date: 2026-03-21
+description: "Where to eat in Kensington: the honest guide to the suburb's restaurant scene, from weeknight dinners to special occasions. Updated for 2026 with real local ."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
+cover_image: "/images/kensington/best-restaurants.jpg"
+cover_image_alt: "Best Restaurants in Kensington Melbourne"
 suburb: "kensington"
-article_type: "best-of"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
-keywords:
-  - "best restaurants Kensington"
-  - "where to eat Kensington"
-  - "dinner Kensington Melbourne"
-  - "restaurants near Kensington"
+tags: ["kensington", "best-restaurants"]
 ---
-
-
 ## Eating Out in Kensington
 
-Kensington's restaurant scene reflects the suburb's personality. Warehouse conversions, Macaulay Road cafes, and the closest inner-west suburb to the city. That translates into a food culture that's eclectic and adventurous.
+Kensington's restaurant scene reflects the suburb's personality. Warehouse conversions, Macaulay Road [cafes](/kensington/best-cafes/), and the closest inner-west suburb to the city. That translates into a food culture that's eclectic and adventurous.
 
 You've got options from casual weeknight dinners to proper sit-down spots you save for birthdays. The range is what makes it work — you don't need to leave the suburb for good food.
 
@@ -57,3 +52,23 @@ The mid-range is where Kensington shines — restaurants that care about quality
 ---
 
 **More on Kensington:** [Kensington Suburb Guide](/kensington/) · [Kensington Best Cafes](/kensington/best-cafes/) · [Kensington Living Guide](/kensington/living-in-kensington/)
+
+---
+
+## Explore More of Kensington
+
+- [Kensington History](/kensington/history/)
+- [Kensington Cheap Eats](/kensington/cheap-eats/)
+- [Kensington Cheap Eats V2](/kensington/cheap-eats-v2/)
+- [Kensington Rent Guide](/kensington/rent-guide/)
+- [Kensington Food Crawl](/kensington/food-crawl/)
+- [Kensington Honest Guide V2](/kensington/honest-guide-v2/)
+- [Kensington Suburb Guide](/kensington/suburb-guide/)
+- [Kensington Living Guide](/kensington/living-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Keilor East Suburb Guide](/keilor-east/)
+- [Keilor Park Suburb Guide](/keilor-park/)
+- [Kew Suburb Guide](/kew/)
+- [Kew East Suburb Guide](/kew-east/)

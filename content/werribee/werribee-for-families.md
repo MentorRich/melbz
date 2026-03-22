@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Werribee? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "werribee"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Werribee good for families"
   - "Werribee family friendly"
   - "raising kids in Werribee"
+tags:
+  - "werribee"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Werribee with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

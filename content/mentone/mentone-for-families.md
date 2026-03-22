@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Mentone? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "mentone"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Mentone good for families"
   - "Mentone family friendly"
   - "raising kids in Mentone"
+tags:
+  - "mentone"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Mentone with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

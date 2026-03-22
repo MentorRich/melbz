@@ -4,16 +4,22 @@ description: "How expensive is Scoresby? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "scoresby"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Scoresby Melbourne"
   - "how expensive is Scoresby"
   - "is Scoresby expensive to live in"
   - "Scoresby rent"
+tags:
+  - "scoresby"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Scoresby — no sugar-coating, no made-up figures.
+The cost of living in Scoresby surprises some people. Whether that is a good or bad surprise depends on your budget.
 
 Read our full [Scoresby suburb guide](/scoresby/) for the bigger picture.
 

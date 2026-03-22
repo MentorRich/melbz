@@ -4,15 +4,22 @@ description: "Public transport in Upwey: trains, trams, buses, cycling, and how 
 date: 2026-03-21
 suburb: "upwey"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Upwey Melbourne"
   - "commute from Upwey to city"
   - "Upwey train station"
+tags:
+  - "upwey"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Upwey — what works, what's annoying, and how long things actually take.
+Public transport in Upwey has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Upwey suburb guide](/upwey/) for the complete picture.
 

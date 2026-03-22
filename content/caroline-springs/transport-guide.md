@@ -4,15 +4,22 @@ description: "Public transport in Caroline Springs: trains, trams, buses, cyclin
 date: 2026-03-21
 suburb: "caroline-springs"
 article_type: "transport"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "public transport Caroline Springs Melbourne"
   - "commute from Caroline Springs to city"
   - "Caroline Springs train station"
+tags:
+  - "caroline-springs"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Caroline Springs — what works, what's annoying, and how long things actually take.
+Caroline Springs sits in the western growth corridor, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Caroline Springs suburb guide](/caroline-springs/) for the complete picture.
 

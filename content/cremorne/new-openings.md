@@ -1,17 +1,15 @@
 ---
 title: "New Openings in Cremorne — 2026 Local Guide"
+description: "The notable new openings in Cremorne from the past 12 months. New cafes, bars, and restaurants in the 3121 warehouse precinct that have earned their spot already."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Wei"
 cover_image: "/images/cremorne/new-openings.jpg"
+cover_image_alt: "New restaurant opening in a Cremorne warehouse conversion"
+suburb: "cremorne"
+tags: ["cremorne", "new-openings", "restaurants", "bars"]
 ---
 
-suburb: "cremorne"
-vertical: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-date: 2026-03-16
-updated: 2026-03-17
-description: "Cremorne's dining scene keeps evolving. Here are the newest restaurants, cafes, and bars to hit 3121 in 2025-2026."
-tags: ["cremorne"]
-categories: ["new"]
 # New Openings in Cremorne — What's New in 3121 in 2026
 
 Cremorne's dining scene moves fast. While Richmond takes years to gentrify a single block, Cremorne seems to reinvent itself every six months. The tech money influx means capital is available, venues are converting, and operators are testing concepts that would be too risky elsewhere.
@@ -135,10 +133,9 @@ The common thread? None of them are trying to be anything they're not. They unde
 
 ## Related Articles
 
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/cremorne/](/cremorne/)
-- [/cremorne/hub](/cremorne/hub)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [Cremorne](/cremorne/)
+- [Hub](/cremorne/hub)
 
-*Find more Melbourne content at [melbz.com.au](/)*

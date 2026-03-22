@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Maidstone? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "maidstone"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Maidstone good for families"
   - "Maidstone family friendly"
   - "raising kids in Maidstone"
+tags:
+  - "maidstone"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Maidstone with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

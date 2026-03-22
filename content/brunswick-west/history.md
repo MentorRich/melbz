@@ -4,16 +4,22 @@ description: "The story of Brunswick West: from its origins to today. How this M
 date: 2026-03-21
 suburb: "brunswick-west"
 article_type: "history"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Brunswick West Melbourne history"
   - "how has Brunswick West changed"
   - "Brunswick West gentrification"
   - "Brunswick West then and now"
+tags:
+  - "brunswick-west"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Brunswick West's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Brunswick West was not always the place you see today. Its story starts in the railway expansion of the 1880s, and the transformations since tell you a lot about modern Melbourne.
 
 See our full [Brunswick West suburb guide](/brunswick-west/) for the current picture.
 

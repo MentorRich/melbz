@@ -4,13 +4,18 @@ description: "The insider's guide to Lower Plenty's different pockets, streets, 
 date: 2026-03-21
 suburb: "lower-plenty"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Lower Plenty neighbourhood guide"
   - "best streets in Lower Plenty"
   - "Lower Plenty areas"
   - "Lower Plenty pockets Melbourne"
+tags:
+  - "lower-plenty"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Lower Plenty isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

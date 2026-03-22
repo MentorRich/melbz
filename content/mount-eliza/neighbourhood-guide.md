@@ -4,13 +4,18 @@ description: "The insider's guide to Mount Eliza's different pockets, streets, a
 date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Mount Eliza neighbourhood guide"
   - "best streets in Mount Eliza"
   - "Mount Eliza areas"
   - "Mount Eliza pockets Melbourne"
+tags:
+  - "mount-eliza"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mount Eliza isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

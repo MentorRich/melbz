@@ -4,13 +4,20 @@ description: "Where to find the best coffee and cafes in Cheltenham. Local picks
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "best-of"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Priya Sandhu"
 keywords:
   - "best cafes Cheltenham"
   - "coffee Cheltenham Melbourne"
   - "cafes near Cheltenham"
   - "brunch Cheltenham"
+tags:
+  - "cheltenham"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
@@ -18,7 +25,7 @@ keywords:
 
 Cheltenham takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
 
-The cafe culture here reflects the neighbourhood. Southland Shopping Centre access, good transport, and family homes at bayside prices.
+The cafe culture here reflects the neighbourhood. Southland Shopping Centre access, good [transport](/cheltenham/transport-guide/), and family homes at bayside prices.
 
 ## What Makes a Good Cafe Here
 
@@ -59,3 +66,23 @@ Cheltenham's cafe scene is solid and genuine. You won't struggle to find good co
 ---
 
 **More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham Cost of Living](/cheltenham/cost-of-living/) · [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+
+---
+
+## Explore More of Cheltenham
+
+- [Cheltenham History](/cheltenham/history/)
+- [Cheltenham Rent Guide](/cheltenham/rent-guide/)
+- [Cheltenham Things To Do](/cheltenham/things-to-do/)
+- [Cheltenham Cost of Living](/cheltenham/cost-of-living/)
+- [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+- [Cheltenham Living In Cheltenham](/cheltenham/living-in-cheltenham/)
+- [Cheltenham Transport Guide](/cheltenham/transport-guide/)
+- [Cheltenham Cheltenham For Retirees](/cheltenham/cheltenham-for-retirees/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

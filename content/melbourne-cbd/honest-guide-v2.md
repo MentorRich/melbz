@@ -1,17 +1,16 @@
 ---
 title: "Melbourne CBD Honest Guide 2026: Love Letters & Complaints"
-cover_image: "/images/melbourne-cbd/honest-guide-v2.jpg"
-date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
-tags: ["melbourne-cbd", "honest-guide", "lifestyle"]
-categories: ["lifestyle"]
-description: "Melbourne CBD Honest Guide 2026: Love Letters & Complaints"
+cover_image: "/images/shared/city-architecture.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Jack Morrison"
+tags: ["melbourne", "melbourne-cbd", "honest-guide", "lifestyle"]
+description: "Melbourne CBD honest guide 2026. The real pros and cons of living in postcode 3000, from Flinders Street Station crowds to Chinatown dumplings at 2am."
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -30,7 +29,7 @@ This is the honest guide. No tourism board copy. No "world's most liveable city"
 
 ## The Love Letters
 
-### The Coffee Is Genuinely World-Class. We Don't Need to Say It. We Know.
+### The Coffee Is Genuinely Excellent. We Don't Need to Say It. We Know.
 
 You know those places overseas where you pay $7 for a flat white that tastes like someone waved a milk bottle over an espresso from across the room? Melbourne CBD doesn't have that problem. Within the Hoddle Grid alone, you've got Patricia, Industry Beans, Higher Ground, and about forty other spots that'll make you a genuinely excellent coffee for under five bucks. The standard is absurdly high, and if a café in the CBD serves bad coffee, it usually doesn't survive past six months.
 
@@ -38,7 +37,7 @@ The laneways are where the magic lives. Centre Place, Degraves, Hardware Lane �
 
 ### The Cultural Ecosystem Is Unmatched in Australia
 
-Love it or not, the CBD is where Melbourne's cultural identity actually lives. The NGV runs world-class exhibitions for free. The Arts Centre hosts things that make you feel sophisticated for once in your life. The Comedy Festival takes over the entire city in April. Live music venues — from the Forum to smaller spots tucked behind flinders street — are still thriving.
+Love it or not, the CBD is where Melbourne's cultural identity actually lives. The NGV runs excellent exhibitions for free. The Arts Centre hosts things that make you feel sophisticated for once in your life. The Comedy Festival takes over the entire city in April. Live music venues — from the Forum to smaller spots tucked behind flinders street — are still thriving.
 
 Then you've got the libraries, the galleries, the pop-up events, and the weird stuff that just... happens. Someone's always doing something unexpected in a car park or a basement. That randomness is hard to replicate anywhere else in Australia, and it's one of the CBD's genuine competitive advantages.
 
@@ -99,14 +98,14 @@ The CBD works best when you treat it as a base camp for a wider inner-city life.
 
 ## The Honest Verdict
 
-Melbourne CBD in 2026 is a place of contradictions. The cultural infrastructure is world-class, the food scene is relentless, and the walkability is a genuine luxury. But the housing quality, the weekend tourist pressure, and the cost of living are real compromises that you make every single day.
+Melbourne CBD in 2026 is a place of contradictions. The cultural infrastructure is excellent, the food scene is relentless, and the walkability is a genuine luxury. But the housing quality, the weekend tourist pressure, and the cost of living are real compromises that you make every single day.
 
 If you're young, sociable, and can afford the rent — it's brilliant. If you need space, quiet, and a garden, it's probably not for you. If you're somewhere in between, like most of us, you'll develop a complicated relationship with the place that involves a lot of complaining and not very much actual leaving.
 
 That's the thing about the CBD. It frustrates you constantly, and you stay anyway. There's something in that.
 
 
-*What's your CBD experience? Drop us a line at [hq@melbz101](mailto:hq@melbz101) — we read every message and we're always looking for honest perspectives.*
+*What's your CBD experience? Drop us a line at [hq@melbz.com.au](mailto:hq@melbz.com.au) — we read every message and we're always looking for honest perspectives.*
 
 
 <!-- Engagement Widget 1: Poll -->
@@ -133,39 +132,3 @@ That's the thing about the CBD. It frustrates you constantly, and you stay anywa
 <!-- Engagement Widget 4: Comment Prompt -->
 > **HOT TAKE?**
 > Think we got something wrong? Think the CBD is actually perfect and we're just grumpy? Tell us at [@melbz101](https://instagram.com/melbzcomau) — we'll feature the best responses in next week's newsletter.
-
-### Featured Venues
-
-- **Gimlet at Cavendish House** at 33 Russell St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-- **Flower Drum** at 17 Market Ln, Melbourne VIC 3000
-- **Higher Ground** at 650 Little Bourke St, Melbourne VIC 3000
-- **Patricia Coffee Brewers** at 493-495 Little Bourke St, Melbourne VIC 3000
-- **Brother Baba Budan** at 359 Little Bourke St, Melbourne VIC 3000
-- **I Love Dumplings** at 188 Little Bourke St, Melbourne VIC 3000
-- **Banh Mi Stand** at 157 Elizabeth St, Melbourne VIC 3000
-- **Crossways Food for Life** at Level 1, 123 Swanston St, Melbourne VIC 3000
-- **Chin Chin** at 125 Flinders Ln, Melbourne VIC 3000
-
-### Key Highlights
-
-- Federation Square
-- Hosier Lane street art
-- Queen Victoria Market
-
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 8/10
-- Affordability: 5/10
-- Transport: 10/10
-- Culture: 9/10
-## Related Articles
-
-- [/southbank/](/southbank/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

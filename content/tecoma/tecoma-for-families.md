@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Tecoma? Parks, schools, safety, and th
 date: 2026-03-21
 suburb: "tecoma"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Tecoma good for families"
   - "Tecoma family friendly"
   - "raising kids in Tecoma"
+tags:
+  - "tecoma"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Tecoma with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

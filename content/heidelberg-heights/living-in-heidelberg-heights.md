@@ -4,12 +4,16 @@ description: "What's it really like living in Heidelberg Heights? Pros, cons, an
 date: 2026-03-21
 suburb: "heidelberg-heights"
 article_type: "living-in"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "living in Heidelberg Heights Melbourne"
   - "pros and cons of living in Heidelberg Heights"
   - "is Heidelberg Heights a good place to live"
+tags:
+  - "heidelberg-heights"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about moving to Heidelberg Heights? Here's what you're actually getting into — from someone who's spent proper time here, not someone who drove through once.
@@ -24,7 +28,7 @@ More affordable Heidelberg option with community centres and family services. Th
 
 **The location just works.** You're close enough to the city that commuting doesn't eat your life, but you've still got a neighbourhood that feels like its own place — not just a stop on the way to somewhere else.
 
-**The food scene punches above its weight.** Whether it's the local cafe that nails a flat white every time, or the restaurant you save for Friday nights, Heidelberg Heights delivers without making you travel halfway across Melbourne for a decent meal.
+**The food scene punches above its weight.** The dining options range from genuinely good to hidden gems that locals guard jealously. Heidelberg Heights eats well without the inner-city markup.
 
 **Community actually exists here.** People say "hi" to each other. The barista knows your order. The park has the same faces on Sunday mornings. It's not forced — it's just what happens when a suburb has enough going for it that people stick around.
 

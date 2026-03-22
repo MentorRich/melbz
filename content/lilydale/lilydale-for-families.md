@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Lilydale? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "lilydale"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Lilydale good for families"
   - "Lilydale family friendly"
   - "raising kids in Lilydale"
+tags:
+  - "lilydale"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Lilydale with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

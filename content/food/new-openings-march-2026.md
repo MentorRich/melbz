@@ -1,20 +1,17 @@
 ---
 title: "19 New Melbourne Restaurants, Bars and Bakeries to Try in March 2026"
 cover_image: "/images/food/new-openings-march-2026.jpg"
----
-
-suburb: melbourne-wide
-vertical: food
-author: "oscar"
-author_role: "Senior Food Editor"
-author_image: "/images/authors/jules.jpg"
+suburb: "melbourne-wide"
+vertical: "food"
+author: "Oscar Marchetti"
 updated: 2026-03-14
 description: "Every exciting new restaurant, bar and bakery that opened in Melbourne in February and March 2026 — from Tokyo's Ginza Kagari ramen to Carlton's Aunty's Dumplings, a new Lune flagship and Korean burger joints. Your guide to what's new right now."
 keywords: ["new Melbourne restaurants 2026", "new restaurants Melbourne March 2026", "Melbourne new openings 2026", "new bars Melbourne", "Melbourne restaurant openings", "new food Melbourne", "Melbourne dining 2026", "where to eat Melbourne this month", "Ginza Kagari Melbourne", "Lune CBD Melbourne"]
-cover_alt: "A bright, bustling new Melbourne restaurant interior with diners and chefs at work"
+cover_alt: "A new Melbourne restaurant interior with diners and chefs at work"
 date: 2026-03-18
 tags: ["food"]
 categories: ["new"]
+---
 Melbourne's hospitality machine never stops. Here are 19 new restaurants, bars and bakeries that opened in February and March 2026 — from a Tokyo ramen institution making its Australian debut to a mother-daughter dumpling shop in Carlton, a CBD Lune flagship and a Korean burger joint that's already generating serious hype.
 
 **What's inside:**
@@ -253,14 +250,13 @@ The trend: international arrivals choosing Melbourne (Ginza Kagari, Cafe Ogawa),
 
 For more suburb-specific food guides, check our [Carlton cheap eats](/carlton/cheap-eats/), [Fitzroy restaurants](/fitzroy/best-restaurants/), or [St Kilda bars](/st-kilda/best-bars/).
 
-*Last updated: March 14, 2026. Spotted a new opening we've missed? Email hq@melbz101.*
+*Last updated: March 14, 2026. Spotted a new opening we've missed? Email hq@melbz.com.au.*
 
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/st-kilda/](/st-kilda/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [Prahran](/prahran/)
+- [St Kilda](/st-kilda/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

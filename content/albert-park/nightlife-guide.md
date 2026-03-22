@@ -2,8 +2,7 @@
 title: "Albert Park Nightlife Guide 2026: Pubs, Bars & Lake Views"
 cover_image: "/images/albert-park/nightlife-guide.jpg"
 date: 2026-03-18
-author: lina
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 tags: ["albert-park", "nightlife", "bars"]
 categories: ["nightlife"]
 description: "Albert Park Nightlife Guide 2026: Pubs, Bars & Lake Views"
@@ -86,10 +85,9 @@ After exploring Albert Park's nightlife, why not venture to nearby suburbs that 
 *This guide is part of MELBZ's comprehensive Melbourne nightlife coverage. For more suburb guides, explore our complete collection at melbz.com.au.*
 ## Related Articles
 
-- [/prahran/](/prahran/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/st-kilda/](/st-kilda/)
-- [/nightlife/](/nightlife/)
-- [/things-to-do/](/things-to-do/)
+- [Prahran](/prahran/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [St Kilda](/st-kilda/)
+- [Nightlife](/nightlife/)
+- [Things To Do](/things-to-do/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -1,17 +1,15 @@
 ---
-title: "Things To Do This Weekend in South Yarra — 2026 Local Guide"
+title: "Things To Do This Weekend in South Yarra 2026"
+description: "Your South Yarra weekend sorted. Saturday brunch at Liar Liar, Botanic Gardens walk, Chapel Street shopping, dinner at Thirty Eight Chairs, drinks at Beverly."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Petrovic"
 cover_image: "/images/south-yarra/things-to-do-this-weekend.jpg"
+cover_image_alt: "South Yarra Melbourne weekend Royal Botanic Gardens"
+suburb: "south-yarra"
+tags: ["melbourne", "south-yarra", "weekend", "things-to-do"]
 ---
 
-suburb: "south-yarra"
-vertical: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the things to do this weekend in South Yarra. Our verified 2026 guide covers the best spots for locals."
-tags: ["south-yarra"]
-categories: ["things"]
 # Things To Do This Weekend in South Yarra
 
 *Updated 16 March 2026 | Maya Petrovic reporting | 8 places reviewed*
@@ -236,38 +234,17 @@ Not everything in South Yarra deserves your weekend. Here's what we left out and
 
 *Data sourced from venue websites, on-the-ground visits, and PTV timetables. Last verified 16 March 2026. MELBZ knows your suburb.*
 
-### Featured Venues
+## FAQ
 
-- **France-Soir** at 11 Toorak Rd, South Yarra VIC 3141
-- **Bar Carolina** at 44 Toorak Rd, South Yarra VIC 3141
-- **L'Hotel Gitan** at 32 Commercial Rd, Prahran/South Yarra VIC 3181
-- **Two Birds One Stone** at 12 Claremont St, South Yarra VIC 3141
-- **Abacus Bar & Kitchen** at 383 Chapel St, South Yarra VIC 3141
-- **Darling Cafe** at 265 Punt Rd, South Yarra VIC 3141
-- **I Love Pho 264** at 264 Victoria St, Richmond, VIC 3121
-- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor, VIC 3181
-- **Dragon Hot Pot South Yarra** at 166 Toorak Rd, South Yarra, VIC 3141
-- **Rice Paper Scissors** at 5-7 Toorak Rd, South Yarra VIC 3141
+**What's the best way to spend a Saturday in South Yarra?**
+Brunch at Liar Liar or Two Birds One Stone, walk through the Botanic Gardens, browse Chapel Street shops, dinner at Thirty Eight Chairs, drinks at Beverly.
 
-### Key Highlights
+**How much does a weekend in South Yarra cost?**
+Budget $90-150 per person for brunch, one dinner, and a few drinks. The gardens and walking are free.
 
-- Chapel Street shopping precinct
-- Royal Botanic Gardens
-- Como House and Gardens
+**What's free to do in South Yarra?**
+The Royal Botanic Gardens (38 hectares, open daily), the Yarra River trail, and Chapel Street window shopping.
 
-### Suburb Vibe
+---
 
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/brunswick/](/brunswick/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**More South Yarra:** [Best Brunch](/south-yarra/best-brunch/) | [Best Bars](/south-yarra/best-bars/) | [Things to Do](/south-yarra/things-to-do/)

@@ -4,16 +4,22 @@ description: "How expensive is Kings Park? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "kings-park"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Kings Park Melbourne"
   - "how expensive is Kings Park"
   - "is Kings Park expensive to live in"
   - "Kings Park rent"
+tags:
+  - "kings-park"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Kings Park — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Kings Park actually cost? No vague estimates - real numbers.
 
 Read our full [Kings Park suburb guide](/kings-park/) for the bigger picture.
 

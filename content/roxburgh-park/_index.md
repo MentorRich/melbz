@@ -1,16 +1,16 @@
 ---
-title: "Roxburgh Park Melbourne — Everything You Need to Know"
+title: "Roxburgh Park Melbourne — what you need"
 description: "The complete guide to Roxburgh Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "roxburgh-park"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Roxburgh Park Melbourne"
   - "what is Roxburgh Park like"
   - "roxburgh-park suburb"
   - "living in Roxburgh Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 New estates, shopping centre, and affordable family homes in the northern corridor.

@@ -4,12 +4,16 @@ description: "Considering retirement in Taylors Lakes? Quiet streets, healthcare
 date: 2026-03-21
 suburb: "taylors-lakes"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Taylors Lakes retirees Melbourne"
   - "retiring in Taylors Lakes"
   - "quiet suburbs Melbourne"
+tags:
+  - "taylors-lakes"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Taylors Lakes? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

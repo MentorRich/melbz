@@ -1,16 +1,16 @@
 ---
-title: "Elwood Melbourne — Everything You Need to Know"
+title: "Elwood Melbourne — what you need"
 description: "The complete guide to Elwood. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "elwood"
 article_type: "profile"
 author: "Dave Wilson"
-author_image: "/images/authors/nina.jpg"
 keywords:
   - "Elwood Melbourne"
   - "what is Elwood like"
   - "elwood suburb"
   - "living in Elwood"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Elwood Beach, Ormond Road village, and a relaxed bayside lifestyle without St Kilda's chaos.

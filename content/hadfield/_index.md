@@ -1,16 +1,16 @@
 ---
-title: "Hadfield Melbourne — Everything You Need to Know"
+title: "Hadfield Melbourne — what you need"
 description: "The complete guide to Hadfield. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "hadfield"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Hadfield Melbourne"
   - "what is Hadfield like"
   - "hadfield suburb"
   - "living in Hadfield"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small suburb between Fawkner and Glenroy. Quiet, multicultural, and family-oriented.

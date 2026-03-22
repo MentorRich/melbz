@@ -4,13 +4,18 @@ description: "The insider's guide to Aberfeldie's different pockets, streets, an
 date: 2026-03-21
 suburb: "aberfeldie"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Aberfeldie neighbourhood guide"
   - "best streets in Aberfeldie"
   - "Aberfeldie areas"
   - "Aberfeldie pockets Melbourne"
+tags:
+  - "aberfeldie"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Aberfeldie isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

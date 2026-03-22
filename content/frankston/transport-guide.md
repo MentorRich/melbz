@@ -4,15 +4,22 @@ description: "Public transport in Frankston: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "frankston"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Frankston Melbourne"
   - "commute from Frankston to city"
   - "Frankston train station"
+tags:
+  - "frankston"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Frankston — what works, what's annoying, and how long things actually take.
+Real talk about getting around Frankston: what the timetable says vs what actually happens.
 
 Check out our full [Frankston suburb guide](/frankston/) for the complete picture.
 

@@ -4,12 +4,18 @@ description: "Is Montrose a good suburb for young professionals? Social scene, c
 date: 2026-03-21
 suburb: "montrose"
 article_type: "young-professionals"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Montrose young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Montrose"
+tags:
+  - "montrose"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Montrose as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

@@ -4,16 +4,22 @@ description: "The story of Hallam: from its origins to today. How this Melbourne
 date: 2026-03-21
 suburb: "hallam"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Hallam Melbourne history"
   - "how has Hallam changed"
   - "Hallam gentrification"
   - "Hallam then and now"
+tags:
+  - "hallam"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Hallam's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Hallam has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Hallam suburb guide](/hallam/) for the current picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Hurstbridge? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "hurstbridge"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Hurstbridge retirees Melbourne"
   - "retiring in Hurstbridge"
   - "quiet suburbs Melbourne"
+tags:
+  - "hurstbridge"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Hurstbridge? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

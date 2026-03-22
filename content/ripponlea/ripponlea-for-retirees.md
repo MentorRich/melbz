@@ -4,12 +4,16 @@ description: "Considering retirement in Ripponlea? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "ripponlea"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Ripponlea retirees Melbourne"
   - "retiring in Ripponlea"
   - "quiet suburbs Melbourne"
+tags:
+  - "ripponlea"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Ripponlea? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

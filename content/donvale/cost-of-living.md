@@ -4,16 +4,22 @@ description: "How expensive is Donvale? Rent, daily costs, and how this Melbourn
 date: 2026-03-21
 suburb: "donvale"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Donvale Melbourne"
   - "how expensive is Donvale"
   - "is Donvale expensive to live in"
   - "Donvale rent"
+tags:
+  - "donvale"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Donvale — no sugar-coating, no made-up figures.
+Your monthly burn rate in Donvale depends on a few key factors. Here is an honest accounting.
 
 Read our full [Donvale suburb guide](/donvale/) for the bigger picture.
 

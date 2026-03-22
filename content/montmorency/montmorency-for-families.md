@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Montmorency? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "montmorency"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Montmorency good for families"
   - "Montmorency family friendly"
   - "raising kids in Montmorency"
+tags:
+  - "montmorency"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Montmorency with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

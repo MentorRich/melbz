@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Mount Waverley? Parks, schools, safety
 date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Mount Waverley good for families"
   - "Mount Waverley family friendly"
   - "raising kids in Mount Waverley"
+tags:
+  - "mount-waverley"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Mount Waverley with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -1,17 +1,14 @@
 ---
-title: "Nightlife Guide in Coburg 2026: Pubs, Bars & After Dark"
-cover_image: "/images/coburg/nightlife-guide.jpg"
----
-
+title: "Nightlife Guide in Coburg 2026: Pubs, Bars and After Dark"
+description: "The complete nightlife guide to Coburg for 2026 — best pubs, wine bars, cocktail spots, and what happens when Sydney Road goes dark on a Friday."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/shared/nightlife-bar.jpg"
+cover_image_alt: "Evening drinks at a wine bar on Sydney Road Coburg"
 suburb: "coburg"
-vertical: "nightlife"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "The complete nightlife guide to Coburg for 2026 — best pubs, bars, late-night spots, and what happens when Sydney Road goes dark."
-tags: ["coburg"]
-categories: ["nightlife"]
+tags: ["coburg", "nightlife", "bars", "pubs"]
+---
 # Nightlife Guide in Coburg 2026: Pubs, Bars & After Dark
 
 Let's be honest: Coburg isn't Lygon Street. It's not Chapel Street. It's not even Brunswick on a Friday night. And that's exactly the point.
@@ -20,14 +17,14 @@ Coburg's nightlife is a different animal — quieter, more local, less likely to
 
 That said, the scene is evolving. New openings like Gemini and Strangeloves Wine Bar are adding a layer of sophistication that Coburg's nightlife never had before, while the old guard — the Post Office Hotel, the Cornish Arms, the pubs that have been here for decades — keep doing what they do best. Here's the full picture.
 
-**Last updated: 16 March 2026** | **Coburg Vibe Score: 72/100 🟢**
+**Last updated: March 2026**
 
 
 ## 1. Post Office Hotel
 
 **The vibe:** The quintessential Melbourne neighbourhood pub. Good beer, no pretension, locals who've been coming here for years.
 
-The Post Office Hotel on the corner of Bell and Sydney Roads is Coburg's pub. It's been here in various forms for over a century, and the current incarnation strikes the perfect balance between traditional Australian pub and modern neighbourhood bar. The beer selection goes beyond the usual VB-and-XXXX Gold menu — you'll find craft taps from Victorian breweries alongside the classics. The wine list is surprisingly good for a pub. And the food does exactly what pub food should: satisfy without overcomplicating.
+The Post Office Hotel on the corner of Bell and Sydney Roads is Coburg's pub. It's been here in various forms for over a century, and the current incarnation strikes the perfect balance between traditional Australian pub and modern neighbourhood bar. The beer selection goes beyond the usual VB-and-X Gold menu — you'll find craft taps from Victorian breweries alongside the classics. The wine list is surprisingly good for a pub. And the food does exactly what pub food should: satisfy without overcomplicating.
 
 The front bar is the local's domain — pool table, TAB, a TV showing whatever sport is on. The back dining area does parma nights and pub specials that draw the after-work crowd. On Fridays, it fills up with a mix of Coburg locals, Merri-Bek council workers, and the odd Brunswick escapee looking for a quieter drink.
 
@@ -140,15 +137,17 @@ Coburg nightlife is about quality over quantity. The Post Office Hotel is the ne
 **Your Coburg Vibe Score this week: 72/100** — Quiet confidence. No need to shout.
 
 
-*Know a nightlife spot we missed? Let us know.*
-*MELBZ — We Know Your Suburb Better Than You Do.*
+## FAQ
 
-## Related Articles
+**Does Coburg have good nightlife?**
+It's improved significantly. Strangeloves and Gemini have added real quality. But for a big night with multiple venue options, [Brunswick](/brunswick/) or the CBD is still your best bet.
 
-- [/brunswick/](/brunswick/)
-- [/carlton/](/carlton/)
-- [/northcote/](/northcote/)
-- [/south-yarra/](/south-yarra/)
-- [/nightlife/](/nightlife/)
+**What's the latest a bar stays open in Coburg?**
+Gemini until 1am Fri-Sat. Post Office Hotel until 1am Fri-Sat. My Aeon depends on the event.
 
-*Find more Melbourne content at [melbz.com.au](/)*
+**Where's the best live music in Coburg?**
+My Aeon (96a Sydney Road) is the main live music venue. Punk, DJs, community events. Follow them on Instagram for listings.
+
+---
+
+**More Coburg:** [Coburg Best Bars](/coburg/best-bars/) · [Coburg Best Pubs](/coburg/best-pubs/) · [Coburg Suburb Guide](/coburg/)

@@ -4,15 +4,22 @@ description: "Public transport in Kings Park: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "kings-park"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport Kings Park Melbourne"
   - "commute from Kings Park to city"
   - "Kings Park train station"
+tags:
+  - "kings-park"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Kings Park — what works, what's annoying, and how long things actually take.
+Real talk about getting around Kings Park: what the timetable says vs what actually happens.
 
 Check out our full [Kings Park suburb guide](/kings-park/) for the complete picture.
 

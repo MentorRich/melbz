@@ -4,15 +4,22 @@ description: "Public transport in Mont Albert: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "mont-albert"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Mont Albert Melbourne"
   - "commute from Mont Albert to city"
   - "Mont Albert train station"
+tags:
+  - "mont-albert"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Mont Albert — what works, what's annoying, and how long things actually take.
+If you are car-dependent, Mont Albert might surprise you. If you rely on PT, read this first.
 
 Check out our full [Mont Albert suburb guide](/mont-albert/) for the complete picture.
 

@@ -4,16 +4,22 @@ description: "How expensive is Strathmore? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "strathmore"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Strathmore Melbourne"
   - "how expensive is Strathmore"
   - "is Strathmore expensive to live in"
   - "Strathmore rent"
+tags:
+  - "strathmore"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Strathmore — no sugar-coating, no made-up figures.
+Your monthly burn rate in Strathmore depends on a few key factors. Here is an honest accounting.
 
 Read our full [Strathmore suburb guide](/strathmore/) for the bigger picture.
 

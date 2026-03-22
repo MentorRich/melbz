@@ -1,16 +1,16 @@
 ---
-title: "Frankston North Melbourne — Everything You Need to Know"
+title: "Frankston North Melbourne — what you need"
 description: "The complete guide to Frankston North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "frankston-north"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Frankston North Melbourne"
   - "what is Frankston North like"
   - "frankston-north suburb"
   - "living in Frankston North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Affordable pocket north of Frankston with community investment and improving reputation.

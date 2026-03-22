@@ -4,16 +4,22 @@ description: "How expensive is Broadmeadows? Rent, daily costs, and how this Mel
 date: 2026-03-21
 suburb: "broadmeadows"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Broadmeadows Melbourne"
   - "how expensive is Broadmeadows"
   - "is Broadmeadows expensive to live in"
   - "Broadmeadows rent"
+tags:
+  - "broadmeadows"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Broadmeadows — no sugar-coating, no made-up figures.
+Broadmeadows is not the cheapest option, but it might offer the best value - depending on what you prioritise.
 
 Read our full [Broadmeadows suburb guide](/broadmeadows/) for the bigger picture.
 

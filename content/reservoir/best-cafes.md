@@ -4,13 +4,20 @@ description: "Where to find the best coffee and cafes in Reservoir. Local picks,
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "best-of"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "best cafes Reservoir"
   - "coffee Reservoir Melbourne"
   - "cafes near Reservoir"
   - "brunch Reservoir"
+tags:
+  - "reservoir"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
@@ -59,3 +66,23 @@ Reservoir's cafe scene is strong and growing. You won't struggle to find good co
 ---
 
 **More on Reservoir:** [Reservoir Suburb Guide](/reservoir/) · [Reservoir Cost of Living](/reservoir/cost-of-living/) · [Reservoir Neighbourhood Guide](/reservoir/neighbourhood-guide/)
+
+---
+
+## Explore More of Reservoir
+
+- [Reservoir History](/reservoir/history/)
+- [Reservoir Rent Guide](/reservoir/rent-guide/)
+- [Reservoir Things To Do](/reservoir/things-to-do/)
+- [Reservoir Cost of Living](/reservoir/cost-of-living/)
+- [Reservoir Reservoir For Families](/reservoir/reservoir-for-families/)
+- [Reservoir Neighbourhood Guide](/reservoir/neighbourhood-guide/)
+- [Reservoir Transport Guide](/reservoir/transport-guide/)
+- [Reservoir Best Restaurants](/reservoir/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Preston Suburb Guide](/preston/)
+- [Thornbury Suburb Guide](/thornbury/)
+- [Coburg Suburb Guide](/coburg/)
+- [Pascoe Vale Suburb Guide](/pascoe-vale/)

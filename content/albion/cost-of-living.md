@@ -4,16 +4,22 @@ description: "How expensive is Albion? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "albion"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Albion Melbourne"
   - "how expensive is Albion"
   - "is Albion expensive to live in"
   - "Albion rent"
+tags:
+  - "albion"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Albion — no sugar-coating, no made-up figures.
+If you are weighing up Albion against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Albion suburb guide](/albion/) for the bigger picture.
 

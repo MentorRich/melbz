@@ -1,17 +1,15 @@
 ---
 title: "Late Night Food in Kensington 2026: Where to Eat After 10pm"
+description: "Late Night Food in Kensington 2026: Where to Eat After 10pm. Updated for 2026 with real local picks and honest advice for Kensington in Melbourne inner west."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
 cover_image: "/images/kensington/late-night-food-v2.jpg"
-date: 2026-03-16
-author: ethan
-author_image: "/images/authors/ethan.jpg"
+cover_image_alt: "Late Night Food V2 in Kensington Melbourne"
+suburb: "kensington"
 tags: ["kensington", "late-night", "food"]
-categories: ["food"]
-description: "Late Night Food in Kensington 2026: Where to Eat After 10pm"
 ---
-
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
-
-
 
 
 *Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
@@ -129,7 +127,7 @@ When it's firing, though, it's one of the most interesting late-night food exper
 
 Not every Kensington venue made the list. Here's what didn't cut it and why:
 
-**Laksa King (6-12 Pin Oak Crescent, Flemington)** — Before you @ me: Laksa King is a Melbourne institution and the laksa is world-class. But the kitchen closes at 9pm most nights (10pm on Fridays and Saturdays at best). That puts it firmly in the "early dinner" category, not the late-night space this guide covers. If you're eating at 7pm, absolutely go here. If you're eating at 11pm, it's lights out. We'll cover it in a separate Flemington dining guide.
+**Laksa King (6-12 Pin Oak Crescent, Flemington)** — Before you @ me: Laksa King is a Melbourne institution and the laksa is excellent. But the kitchen closes at 9pm most nights (10pm on Fridays and Saturdays at best). That puts it firmly in the "early dinner" category, not the late-night space this guide covers. If you're eating at 7pm, absolutely go here. If you're eating at 11pm, it's lights out. We'll cover it in a separate Flemington dining guide.
 
 **Restaurants near the Flemington Racecourse** — Race day is a different beast entirely, with temporary food stalls and extended hours. But on a normal Tuesday night? Most of the spots near the actual racecourse shut by 8pm. Not useful for this roundup.
 
@@ -162,7 +160,7 @@ We're building the ultimate late-night power rankings for Melbourne's inner west
 *Cast your vote on our Instagram @melbzdotcom — we update the rankings monthly.*
 
 
-*Have we missed your favourite Kensington late-night spot? Drop us a line at [hq@melbz101](mailto:hq@melbz101) and we'll check it out for the next update.*
+*Have we missed your favourite Kensington late-night spot? Drop us a line at [hq@melbz.com.au](mailto:hq@melbz.com.au) and we'll check it out for the next update.*
 
 
 **More from MELBZ's food team:**
@@ -170,12 +168,3 @@ We're building the ultimate late-night power rankings for Melbourne's inner west
 - [Footscray's Vietnamese Strip: A Complete Guide](/food/footscray-vietnamese-guide)
 - [North Melbourne After Dark](/food/north-melbourne-late-night)
 - [The Inner West Kebab Rankings](/food/best-kebabs-inner-west)
-
-## Related Articles
-
-- [/footscray/](/footscray/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/kensington/](/kensington/)
-- [/kensington/hub](/kensington/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*

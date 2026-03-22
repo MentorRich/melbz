@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Bonbeach? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "bonbeach"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Bonbeach good for families"
   - "Bonbeach family friendly"
   - "raising kids in Bonbeach"
+tags:
+  - "bonbeach"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/beach-bayside.jpg"
 ---
 
 Moving to Bonbeach with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

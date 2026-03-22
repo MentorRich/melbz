@@ -1,97 +1,72 @@
 ---
-title: "Fitzroy North Melbourne — Everything You Need to Know"
-description: "The complete guide to Fitzroy North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
-date: 2026-03-21
-suburb: "fitzroy-north"
-article_type: "profile"
+title: "Fitzroy North Melbourne — Edinburgh Gardens, Brunswick Street and the Quieter Inner North"
+description: "Fitzroy North sits 4km from the CBD with Edinburgh Gardens, Brunswick Street's northern end, and St Georges Road village. The quieter sibling suburb to Fitzroy."
+date: 2026-03-22
+lastmod: 2026-03-22
 author: "Dave Wilson"
-author_image: "/images/authors/nina.jpg"
-keywords:
-  - "Fitzroy North Melbourne"
-  - "what is Fitzroy North like"
-  - "fitzroy-north suburb"
-  - "living in Fitzroy North"
+cover_image: "/images/shared/parks-gardens.jpg"
+cover_image_alt: "Edinburgh Gardens Fitzroy North on a sunny weekend"
+suburb: "fitzroy-north"
+tags: ["fitzroy-north", "inner-north", "edinburgh-gardens"]
 ---
 
-Edinburgh Gardens picnics, Brunswick Street's quieter end, and a strong local community feel.
+Fitzroy North is what happens when you take Fitzroy's creative energy, add parks and trees, and dial the noise down by about 40%. It sits 4km north of the CBD in the City of Yarra, postcode 3068. The suburb centres on two strips: Brunswick Street's northern stretch (the quieter end, above Edinburgh Gardens) and St Georges Road, which runs through the North Fitzroy Village — the local shopping strip with independent retailers, cafes, and Piedimonte's supermarket.
 
-If you're thinking about living in Fitzroy North, visiting for the first time, or just trying to work out if this place is worth your Saturday afternoon — here's the honest rundown.
+The defining feature is Edinburgh Gardens: a sprawling park that functions as the suburb's living room. On any given Saturday, it holds hundreds of people — picnickers, dog walkers, cricket matches, the community market, and the kind of casual social gathering that makes inner-north living worth the rent.
 
-## Where Is Fitzroy North?
+## What to eat in Fitzroy North
 
-Fitzroy North sits in Melbourne's Inner North region. It's the kind of suburb where you can feel the neighbourhood's personality the minute you step off public transport. Getting to the city from here isn't a drama — you've got options depending on where exactly you are in the suburb.
+The food scene clusters around Brunswick Street and Scotchmer Street. Industry Beans on Rose Street (technically Fitzroy, but claimed by Fitzroy North locals) does truffle scrambled eggs ($22) that draw queues. Loretta's at 380 Brunswick Street is the all-rounder — eggs Benedict ($22), corn fritters ($19), and a flat white ($5) that is consistently excellent. Bababababababa on Nicholson Street serves Turkish eggs ($17) and breakfast pide ($19) that are genuinely different from anything else in the inner north.
 
-The suburb borders Fitzroy, Northcote, Carlton North. That matters because your nearby options for food, coffee, and weekend plans extend well beyond Fitzroy North's own postcode boundaries.
+The Delphi Cafe at 379 Brunswick Street brings Greek breakfast culture — halloumi, feta, olives, and a $12 bougatsa pastry that is one of the cheapest good breakfasts in Melbourne. For coffee, Code Black at 156 Brunswick Street roasts in-house, and the single-origin pour-over ($6.50) rotates weekly.
 
-## What's Fitzroy North Actually Like?
+For the full rundown, see our [guide to Fitzroy North's best restaurants](/fitzroy-north/best-restaurants/) and [best brunch spots](/fitzroy-north/best-brunch/).
 
-Edinburgh Gardens picnics, Brunswick Street's quieter end, and a strong local community feel.
+## The pub scene
 
-Every suburb has a specific energy. Fitzroy North has its own thing going on — it's not trying to be everywhere else. The streets have character, the locals know their spots, and there's a pace of life here that either suits you or doesn't.
+The Terminus Hotel at 643 Brunswick Street is the heart of the pub scene — VB for under $10, $22 parma, and Monday schnitty nights. The Delphi Tavern at 379 Brunswick Street brings Greek pub food with lamb souvlaki ($16) and an ouzo selection that is the most extensive in the area. Neighbourhood Wine on Reid Street does natural wine with a considered food menu.
 
-Walk around on a Saturday morning and you'll pick up the vibe pretty quickly. The cafes tell you a lot — are they packed with young couples or families with prams? That gives you a read on who lives here.
+## Living in Fitzroy North — what it actually costs
 
-## Who Lives in Fitzroy North?
+A one-bedroom apartment runs $400-$500 per week in 2026. A two-bedroom is $520-$680. Share house rooms go for $220-$310. You need about $75K-$95K to live here solo comfortably.
 
-Fitzroy North draws a particular crowd. The demographics lean towards the kind of people who value what this suburb specifically offers. You'll find a mix — and it's the mix that makes it work.
+The key streets: Scotchmer Street for the village feel, Reid Street for quiet residential living near Edinburgh Gardens, Alfred Crescent for some of Melbourne's most beautiful terraces bordering the park. Brunswick Street's northern end for walkability to cafes and pubs.
 
-The community here has its own institutions, its own rhythms, its own complaints about parking. Like every Melbourne suburb, it's evolved over the past couple of decades and the people who live here now aren't necessarily the same crowd from fifteen years ago.
+### Getting around
 
-## Housing in Fitzroy North
+Fitzroy North does not have its own train station. The nearest is Rushall station on the Hurstbridge/Mernda line, on the suburb's eastern edge. Tram route 11 runs along St Georges Road, and the 86 tram runs along Brunswick Street — both connect to the CBD in about 20-25 minutes. Cycling is excellent: the Capital City Trail and Merri Creek paths run along the eastern boundary. For the full breakdown, read our [Fitzroy North transport guide](/fitzroy-north/transport-guide/).
 
-The housing stock in Fitzroy North tells the story of how the suburb has evolved. You'll find a mix of older homes that have been here for decades alongside newer build quality — townhouses, apartments, and the occasional knockdown-rebuild that sticks out on the street.
+## Who Fitzroy North suits
 
-If you're renting, there's decent variety depending on your budget. Share houses exist for those starting out. Units and apartments work for professionals. Families will need to hunt a bit harder for standalone homes with a backyard, but they're out there.
-
-## Getting Around Fitzroy North
-
-Transport from Fitzroy North is solid enough to make it work without a car for most people, though having a car definitely helps for some errands and weekend plans.
-
-**Read the full breakdown:** [Fitzroy North Transport Guide](/fitzroy-north/transport-guide/)
-
-Quick version: you can get to the city reasonably easy. The tram and train network serves this area, and cycling infrastructure has been improving steadily.
-
-## Eating and Drinking in Fitzroy North
-
-The food scene in Fitzroy North reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and a food scene that punches above its weight without needing to leave the suburb every time you want a decent meal.
-
-Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
-
-## Is Fitzroy North Right for You?
-
-**You'll love Fitzroy North if:**
-- You want a suburb with genuine character and community
-- You value proximity to Melbourne's best without paying absolute top dollar
-- You like having your local spots — the cafe you don't need to think about, the pub you default to
-- You appreciate a neighbourhood that's evolved naturally rather than been manufactured
+**You will love Fitzroy North if:**
+- You want Edinburgh Gardens on your doorstep
+- You prefer a quieter alternative to [Fitzroy](/fitzroy/) but still want inner-north culture
+- You value village-style shopping on St Georges Road
+- You cycle — the bike infrastructure is genuinely excellent
 
 **It might not be for you if:**
-- You need absolute silence and a massive backyard
-- Budget is extremely tight — some areas of Fitzroy North have crept up in cost
-- You want everything brand new and shiny
-- You're not comfortable with a suburb that has a strong identity you need to adapt to
+- You need a train station within walking distance (Rushall is the closest)
+- You want late-night nightlife on your doorstep (head to [Fitzroy](/fitzroy/) or [Collingwood](/collingwood/))
+- Budget is very tight — inner-north rent is not cheap
+- You need lots of parking — residential streets are competitive
 
-## Living Here — The Deep Dive
+## FAQ
 
-Want more detail? We've covered every angle:
+**Does Fitzroy North have a train station?** No dedicated station. The nearest is Rushall on the Hurstbridge/Mernda line, on the eastern edge. Most locals use trams or cycle.
 
-- **[Living in Fitzroy North — The Honest Guide](/fitzroy-north/living-in-fitzroy-north/)** — Pros, cons, and the unfiltered truth
-- **[Is Fitzroy North Good for Families?](/fitzroy-north/fitzroy-north-for-families/)** — Schools, parks, safety, the works
-- **[Is Fitzroy North Good for Young Professionals?](/fitzroy-north/fitzroy-north-for-young-professionals/)** — Social scene, commute, renting
-- **[Is Fitzroy North Good for Retirees?](/fitzroy-north/fitzroy-north-for-retirees/)** — Quiet streets, healthcare, community
-- **[Cost of Living in Fitzroy North](/fitzroy-north/cost-of-living/)** — Rent, daily costs, and how it compares
-- **[Getting Around Fitzroy North](/fitzroy-north/transport-guide/)** — Trains, trams, bikes, driving
-- **[Fitzroy North Neighbourhood Guide](/fitzroy-north/neighbourhood-guide/)** — Streets, pockets, and where to be
-- **[History of Fitzroy North](/fitzroy-north/history/)** — How this suburb became what it is today
+**What council is Fitzroy North in?** City of Yarra.
 
-## Suburbs Near Fitzroy North
+**Is Fitzroy North the same as North Fitzroy?** Locals use both names interchangeably. The suburb is officially "Fitzroy North" but "North Fitzroy" is equally common.
 
-- **[Fitzroy](/fitzroy/)** — Melbourne's creative soul — street art, live music, small bars, and Brunswick St
-- **[Northcote](/northcote/)** — High Street's village feel — record shops, wine bars, All Nations Park, and a fi
-- **[Carlton North](/carlton-north/)** — Quieter sibling of Carlton with Rathdowne Village charm and leafy residential st
-- **[Clifton Hill](/clifton-hill/)** — A quiet pocket between Collingwood and Northcote with Queens Parade cafes and Me
+**How far is Fitzroy North from the CBD?** About 4km. 20-25 minutes by tram, 15-20 minutes cycling.
 
+## Suburbs near Fitzroy North
+
+- **[Fitzroy](/fitzroy/)** — Melbourne's creative soul: street art, live music, Brunswick Street's southern end
+- **[Northcote](/northcote/)** — High Street's village feel: record shops, wine bars, All Nations Park
+- **[Carlton North](/carlton-north/)** — Quieter sibling of Carlton with Rathdowne Village charm
+- **[Clifton Hill](/clifton-hill/)** — A quiet pocket between Collingwood and Northcote with Queens Parade cafes
 
 ---
 
-*Got something to add about Fitzroy North? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+*Got something to add about Fitzroy North? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*

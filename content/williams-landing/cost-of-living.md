@@ -4,16 +4,22 @@ description: "How expensive is Williams Landing? Rent, daily costs, and how this
 date: 2026-03-21
 suburb: "williams-landing"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Williams Landing Melbourne"
   - "how expensive is Williams Landing"
   - "is Williams Landing expensive to live in"
   - "Williams Landing rent"
+tags:
+  - "williams-landing"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Williams Landing — no sugar-coating, no made-up figures.
+Williams Landing sits at an interesting price point in Melbourne. Here is what that means for your bank account.
 
 Read our full [Williams Landing suburb guide](/williams-landing/) for the bigger picture.
 

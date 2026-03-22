@@ -4,16 +4,22 @@ description: "How expensive is Oakleigh South? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Oakleigh South Melbourne"
   - "how expensive is Oakleigh South"
   - "is Oakleigh South expensive to live in"
   - "Oakleigh South rent"
+tags:
+  - "oakleigh-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Oakleigh South — no sugar-coating, no made-up figures.
+Everyone asks how expensive is Oakleigh South. The real answer depends on your lifestyle. Here is the data.
 
 Read our full [Oakleigh South suburb guide](/oakleigh-south/) for the bigger picture.
 

@@ -4,16 +4,22 @@ description: "How expensive is Parkville? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "parkville"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Parkville Melbourne"
   - "how expensive is Parkville"
   - "is Parkville expensive to live in"
   - "Parkville rent"
+tags:
+  - "parkville"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Parkville — no sugar-coating, no made-up figures.
+The cost of living in Parkville surprises some people. Whether that is a good or bad surprise depends on your budget.
 
 Read our full [Parkville suburb guide](/parkville/) for the bigger picture.
 

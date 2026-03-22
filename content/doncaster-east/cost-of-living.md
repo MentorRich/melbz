@@ -4,16 +4,22 @@ description: "How expensive is Doncaster East? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "doncaster-east"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Doncaster East Melbourne"
   - "how expensive is Doncaster East"
   - "is Doncaster East expensive to live in"
   - "Doncaster East rent"
+tags:
+  - "doncaster-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Doncaster East — no sugar-coating, no made-up figures.
+The cost question in Doncaster East is straightforward: rent has jumped but groceries are reasonable. Here is what your wallet actually needs to know.
 
 Read our full [Doncaster East suburb guide](/doncaster-east/) for the bigger picture.
 

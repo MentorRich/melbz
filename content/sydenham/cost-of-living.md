@@ -4,16 +4,22 @@ description: "How expensive is Sydenham? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "sydenham"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Sydenham Melbourne"
   - "how expensive is Sydenham"
   - "is Sydenham expensive to live in"
   - "Sydenham rent"
+tags:
+  - "sydenham"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Sydenham — no sugar-coating, no made-up figures.
+If you are weighing up Sydenham against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Sydenham suburb guide](/sydenham/) for the bigger picture.
 

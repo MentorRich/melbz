@@ -4,16 +4,22 @@ description: "How expensive is Viewbank? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "viewbank"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Viewbank Melbourne"
   - "how expensive is Viewbank"
   - "is Viewbank expensive to live in"
   - "Viewbank rent"
+tags:
+  - "viewbank"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Viewbank — no sugar-coating, no made-up figures.
+Budget reality check: what does daily life in Viewbank actually cost? No vague estimates - real numbers.
 
 Read our full [Viewbank suburb guide](/viewbank/) for the bigger picture.
 

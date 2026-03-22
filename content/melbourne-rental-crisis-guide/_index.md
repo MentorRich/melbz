@@ -3,13 +3,13 @@ title: "Melbourne Rental Crisis — How to Find a Place in 2026"
 description: "The rental market is tough. Here are practical strategies that actually work for finding a rental in Melbourne right now."
 date: 2026-03-21
 article_type: "trending"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "melbourne rental crisis"
   - "how to find rental melbourne"
   - "rental tips melbourne 2026"
   - "apartment hunting melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 The rental market is tough. Here are practical strategies that actually work for finding a rental in Melbourne right now.

@@ -4,12 +4,16 @@ description: "Considering retirement in McKinnon? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "mckinnon"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "McKinnon retirees Melbourne"
   - "retiring in McKinnon"
   - "quiet suburbs Melbourne"
+tags:
+  - "mckinnon"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in McKinnon? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,15 +4,22 @@ description: "Public transport in Skye: trains, trams, buses, cycling, and how l
 date: 2026-03-21
 suburb: "skye"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Skye Melbourne"
   - "commute from Skye to city"
   - "Skye train station"
+tags:
+  - "skye"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Skye — what works, what's annoying, and how long things actually take.
+If you are car-dependent, Skye might surprise you. If you rely on PT, read this first.
 
 Check out our full [Skye suburb guide](/skye/) for the complete picture.
 

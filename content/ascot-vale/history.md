@@ -4,16 +4,22 @@ description: "The story of Ascot Vale: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "ascot-vale"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Ascot Vale Melbourne history"
   - "how has Ascot Vale changed"
   - "Ascot Vale gentrification"
   - "Ascot Vale then and now"
+tags:
+  - "ascot-vale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Ascot Vale's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Ascot Vale and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Ascot Vale suburb guide](/ascot-vale/) for the current picture.
 

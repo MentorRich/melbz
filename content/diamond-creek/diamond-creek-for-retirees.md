@@ -4,12 +4,16 @@ description: "Considering retirement in Diamond Creek? Quiet streets, healthcare
 date: 2026-03-21
 suburb: "diamond-creek"
 article_type: "retirees"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Diamond Creek retirees Melbourne"
   - "retiring in Diamond Creek"
   - "quiet suburbs Melbourne"
+tags:
+  - "diamond-creek"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Diamond Creek? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

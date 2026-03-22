@@ -4,16 +4,22 @@ description: "How expensive is Dandenong? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "dandenong"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Dandenong Melbourne"
   - "how expensive is Dandenong"
   - "is Dandenong expensive to live in"
   - "Dandenong rent"
+tags:
+  - "dandenong"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Dandenong — no sugar-coating, no made-up figures.
+Dandenong is not the cheapest option, but it might offer the best value - depending on what you prioritise.
 
 Read our full [Dandenong suburb guide](/dandenong/) for the bigger picture.
 

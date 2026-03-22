@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Research? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "research"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Research good for families"
   - "Research family friendly"
   - "raising kids in Research"
+tags:
+  - "research"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Research with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

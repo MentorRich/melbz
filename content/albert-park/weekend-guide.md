@@ -4,13 +4,19 @@ description: "Your weekend in Albert Park sorted — from morning coffee to Satu
 date: 2026-03-21
 suburb: "albert-park"
 article_type: "weekend"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "what to do Albert Park this weekend"
   - "Albert Park weekend"
   - "things to do Albert Park Saturday"
   - "Albert Park Sunday plans"
+tags:
+  - "albert-park"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -38,13 +44,13 @@ Albert Park does weekends well. Whether you're the type who plans every hour or 
 
 **Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Albert Park's restaurant scene covers date night to casual with mates.
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
+**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the [restaurants](/albert-park/best-restaurants/), where the prices drop and the regulars appear.
 
 **Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Albert Park's bottle shops have good selections and the staff usually have recommendations.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Albert Park starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Sleep In. Then Coffee.** — Sunday in Albert Park starts slower. The [cafes](/albert-park/best-cafes/) know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
 
 **Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Albert Park and into the neighbouring suburb. Find a coffee stop halfway through.
 
@@ -62,3 +68,23 @@ Albert Park does weekends well. Whether you're the type who plans every hour or 
 ---
 
 **More on Albert Park:** [Albert Park Suburb Guide](/albert-park/) · [Albert Park Things to Do](/albert-park/things-to-do/) · [Albert Park Best Restaurants](/albert-park/best-restaurants/)
+
+---
+
+## Explore More of Albert Park
+
+- [Albert Park History](/albert-park/history/)
+- [Albert Park Rent Guide](/albert-park/rent-guide/)
+- [Albert Park Things To Do](/albert-park/things-to-do/)
+- [Albert Park Cost of Living](/albert-park/cost-of-living/)
+- [Albert Park Young Professionals Guide](/albert-park/young-professionals/)
+- [Albert Park Nightlife Guide](/albert-park/nightlife-guide/)
+- [Albert Park Transport Guide](/albert-park/transport-guide/)
+- [Albert Park Best Cafes](/albert-park/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

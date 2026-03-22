@@ -4,15 +4,22 @@ description: "Public transport in South Wharf: trains, trams, buses, cycling, an
 date: 2026-03-21
 suburb: "south-wharf"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport South Wharf Melbourne"
   - "commute from South Wharf to city"
   - "South Wharf train station"
+tags:
+  - "south-wharf"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around South Wharf — what works, what's annoying, and how long things actually take.
+Public transport in South Wharf has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [South Wharf suburb guide](/south-wharf/) for the complete picture.
 

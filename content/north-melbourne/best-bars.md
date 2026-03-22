@@ -4,13 +4,19 @@ description: "The bar scene in North Melbourne: where to drink, what the vibe is
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "nightlife"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "best bars North Melbourne"
   - "bars in North Melbourne Melbourne"
   - "nightlife North Melbourne"
   - "where to drink North Melbourne"
+tags:
+  - "north-melbourne"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
+cover_image: "/images/shared/nightlife.jpg"
 ---
 
 
@@ -24,7 +30,7 @@ North Melbourne has a bar scene that reflects the suburb — not short on places
 
 **Wine Bars** — Small, intimate, usually with a great by-the-glass selection. The kind of place where the bar staff know what they're pouring and can actually help you choose.
 
-**Cocktail Spots** — Not as many as Fitzroy or Collingwood, but North Melbourne has options that hold their own. Smaller, more personal, and you're not paying CBD prices.
+**Cocktail Spots** — Not as many as [Fitzroy](/fitzroy/) or [Collingwood](/collingwood/), but North Melbourne has options that hold their own. Smaller, more personal, and you're not paying CBD prices.
 
 **Beer Gardens** — Weather-dependent but essential for Melbourne summers. Some of North Melbourne's best drinking happens outdoors when the weather cooperates.
 
@@ -55,4 +61,24 @@ That gives the suburb's bar scene an authenticity that more hyped areas often la
 
 ---
 
-**More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne Best Restaurants](/north-melbourne/best-restaurants/) · [North Melbourne for Young Professionals](/north-melbourne/north-melbourne-for-young-professionals/)
+**More on North Melbourne:** [North Melbourne Suburb Guide](/north-melbourne/) · [North Melbourne Best Restaurants](/north-melbourne/best-[restaurants](/north-melbourne/best-restaurants/)/) · [North Melbourne for Young Professionals](/north-melbourne/north-melbourne-for-young-professionals/)
+
+---
+
+## Explore More of North Melbourne
+
+- [North Melbourne History](/north-melbourne/history/)
+- [North Melbourne Rent Guide](/north-melbourne/rent-guide/)
+- [North Melbourne Things To Do](/north-melbourne/things-to-do/)
+- [North Melbourne Cost of Living](/north-melbourne/cost-of-living/)
+- [North Melbourne Neighbourhood Guide](/north-melbourne/neighbourhood-guide/)
+- [North Melbourne Transport Guide](/north-melbourne/transport-guide/)
+- [North Melbourne Best Cafes](/north-melbourne/best-cafes/)
+- [North Melbourne Best Restaurants](/north-melbourne/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

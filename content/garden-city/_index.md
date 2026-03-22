@@ -1,16 +1,16 @@
 ---
-title: "Garden City Melbourne — Everything You Need to Know"
+title: "Garden City Melbourne — what you need"
 description: "The complete guide to Garden City. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "garden-city"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Garden City Melbourne"
   - "what is Garden City like"
   - "garden-city suburb"
   - "living in Garden City"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Tiny pocket between Port Melbourne and the Westgate, primarily industrial transitioning.

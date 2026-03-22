@@ -4,15 +4,22 @@ description: "Public transport in Brooklyn: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "brooklyn"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Brooklyn Melbourne"
   - "commute from Brooklyn to city"
   - "Brooklyn train station"
+tags:
+  - "brooklyn"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Brooklyn — what works, what's annoying, and how long things actually take.
+Living in Brooklyn means adapting to its transport quirks. Every suburb has them - here are the ones for Brooklyn.
 
 Check out our full [Brooklyn suburb guide](/brooklyn/) for the complete picture.
 

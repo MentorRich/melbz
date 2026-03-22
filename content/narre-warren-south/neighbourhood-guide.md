@@ -4,13 +4,18 @@ description: "The insider's guide to Narre Warren South's different pockets, str
 date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Narre Warren South neighbourhood guide"
   - "best streets in Narre Warren South"
   - "Narre Warren South areas"
   - "Narre Warren South pockets Melbourne"
+tags:
+  - "narre-warren-south"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Narre Warren South isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

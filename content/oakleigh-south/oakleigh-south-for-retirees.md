@@ -4,12 +4,16 @@ description: "Considering retirement in Oakleigh South? Quiet streets, healthcar
 date: 2026-03-21
 suburb: "oakleigh-south"
 article_type: "retirees"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Oakleigh South retirees Melbourne"
   - "retiring in Oakleigh South"
   - "quiet suburbs Melbourne"
+tags:
+  - "oakleigh-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Oakleigh South? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

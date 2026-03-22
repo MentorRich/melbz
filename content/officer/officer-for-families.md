@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Officer? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "officer"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Officer good for families"
   - "Officer family friendly"
   - "raising kids in Officer"
+tags:
+  - "officer"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Officer with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

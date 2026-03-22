@@ -4,12 +4,16 @@ description: "Considering retirement in Garden City? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "garden-city"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Garden City retirees Melbourne"
   - "retiring in Garden City"
   - "quiet suburbs Melbourne"
+tags:
+  - "garden-city"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Garden City? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

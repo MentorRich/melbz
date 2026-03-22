@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Noble Park? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "noble-park"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Noble Park good for families"
   - "Noble Park family friendly"
   - "raising kids in Noble Park"
+tags:
+  - "noble-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Noble Park with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

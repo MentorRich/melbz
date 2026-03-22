@@ -1,16 +1,16 @@
 ---
 title: "Best Asian Food in South Melbourne 2026: Market Eats & Beyond"
 cover_image: "/images/south-melbourne/best-asian-food.jpg"
-date: 2026-03-16
-author: yuki
-author_image: "/images/authors/yuki.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Yuki Tanaka"
 tags: ["south-melbourne", "asian", "food"]
-categories: ["food"]
-description: "Best Asian Food in South Melbourne 2026: Market Eats & Beyond"
+description: "From the legendary dim sims at South Melbourne Market to laksa bowls on Cecil Street, here are the best Asian food spots in 3205 for 2026 tested."
+cover_image_alt: "South Melbourne street scene and local dining"
+suburb: "south-melbourne"
 ---
 
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
-
 
 
 South Melbourne doesn't shout..."
@@ -147,7 +147,7 @@ The market is the beating heart. Clarendon Street is the backbone. And the back 
 - [Best Food in South Yarra 2026](/suburbs/south-yarra) — For when you want the polished end of Asian dining
 - [Best Vietnamese in St Kilda](/suburbs/st-kilda) — Fitzroy Street's pho game is underrated
 - [CBD Dumpling Crawl Guide](/suburbs/melbourne-cbd) — Little Bourke Street's finest, mapped out
-- [South Melbourne Suburb Guide](/suburbs/south-melbourne) — Everything you need to know about living and eating here
+- [South Melbourne Suburb Guide](/suburbs/south-melbourne) — what you need about living and eating here
 
 
 *Yuki Tanaka is MELBZ's Asian Food Editor. She has been eating her way through Melbourne's suburbs since 2019 and has strong opinions about wok hei. Follow her recs or don't — but don't say you weren't warned about the jungle curry.*
@@ -156,10 +156,9 @@ The market is the beating heart. Clarendon Street is the backbone. And the back 
 
 ## Related Articles
 
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/fitzroy/](/fitzroy/)
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/south-melbourne/](/south-melbourne/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Fitzroy](/fitzroy/)
+- [South Yarra](/south-yarra/)
+- [St Kilda](/st-kilda/)
+- [South Melbourne](/south-melbourne/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

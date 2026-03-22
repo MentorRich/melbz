@@ -1,19 +1,14 @@
 ---
 title: "Dog-Friendly Abbotsford — Parks, Cafes and Walks"
-description: "Raising a dog in Abbotsford? Off-leash parks, pet-friendly cafes, vet access, and what doggo life looks like in this suburb."
-date: 2026-03-21
+description: "Raising a dog in Abbotsford? Off-leash parks, pet-friendly cafes, vet access, and what doggo life looks like in this suburb. Updated for 2026 with real local."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Chen"
+cover_image: "/images/abbotsford/pet-friendly.jpg"
+cover_image_alt: "Pet Friendly in Abbotsford Melbourne"
 suburb: "abbotsford"
-article_type: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-keywords:
-  - "dog friendly Abbotsford"
-  - "off leash park Abbotsford"
-  - "pet friendly cafes Abbotsford"
-  - "walking dog Abbotsford"
+tags: ["abbotsford", "pet-friendly"]
 ---
-
-
 ## Being a Dog Owner in Abbotsford
 
 Melbourne is a dog city, and Abbotsford holds its own for four-legged residents. Whether you've got a cattle dog that needs actual exercise or a French Bulldog that considers a 10-minute waddle an expedition, this suburb has something for you.
@@ -67,4 +62,6 @@ Veterinary clinics are accessible from Abbotsford, including emergency after-hou
 
 ---
 
-**More on Abbotsford:** [Abbotsford Suburb Guide](/abbotsford/) · [Abbotsford Things to Do](/abbotsford/things-to-do/) · [Abbotsford for Families](/abbotsford/abbotsford-for-families/)
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
+
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

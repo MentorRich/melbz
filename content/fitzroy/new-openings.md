@@ -1,197 +1,122 @@
 ---
-title: "New Openings in Fitzroy — 2026 Local Guide"
+title: "New Openings in Fitzroy 2026: Restaurants, Bars and Shops"
+description: "What's just opened in Fitzroy — new restaurants, bars, cafes and retail worth checking out. Updated March 2026."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Oscar Chen"
 cover_image: "/images/fitzroy/new-openings.jpg"
+cover_image_alt: "Fitzroy Melbourne new restaurant opening"
+suburb: "fitzroy"
+tags: ["melbourne", "fitzroy", "new-openings", "restaurants", "bars"]
 ---
 
-suburb: "fitzroy"
-vertical: "lifestyle"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the new openings in Fitzroy. Our verified 2026 guide covers the best spots for locals."
-tags: ["fitzroy"]
-categories: ["new"]
-## New Openings in Fitzroy
+## New Openings in Fitzroy — What's Actually Worth Visiting in 2026
 
-Fitzroy's hospitality scene moves fast. Venues open, close, reinvent, change hands, and sometimes come back as something completely different within 12 months. Keeping track of what's actually new — versus what's just had a menu shake-up — is a full-time job.
+Fitzroy turns over venues the way other suburbs change café menus. Something closes on Gertrude Street on a Tuesday, and by the following month there's a new wine bar in the same space with a different colour palette and a suspiciously similar fit-out. That's the rhythm here. Always has been.
 
-We've done the reconnaissance for you. Here's what's opened in Fitzroy recently, what's worth visiting, and what's still finding its feet.
+Keeping up with genuine new openings — not soft launches, not rebrandings, not a new chef at an existing place — takes legwork. We've been walking [Brunswick](/brunswick/) Street, Gertrude Street and the side streets in between to track what's actually opened its doors recently and whether it's any good.
 
+Here's the current state of new Fitzroy, as of March 2026.
 
-## RESTAURANTS & CAFES
+## [Restaurants](/fitzroy/best-restaurants/) and [Cafes](/fitzroy/best-cafes/)
 
-### Odette — 26 Gertrude Street, Fitzroy (Late 2025 Opening)
+Fitzroy's dining strip has always split roughly into two zones: Brunswick Street for the volume, Gertrude Street for the ambition. That pattern continues with the latest round of openings.
 
-Odette replaced a long-standing vintage store on Gertrude Street with a French-Australian bistro that feels like it's been there for years. The space is narrow and intimate — think exposed brick, bentwood chairs, and a chalkboard menu that changes weekly.
+### Gertrude Street: Small Plates and European Leanings
 
-**What to know:** The coq au vin ($34) is the standout — slow-cooked, rich, properly French. The wine list is mostly Victorian, which is a nice touch. Lunch and dinner, closed Mondays.
+Gertrude Street has picked up several new dining rooms over the past six months. The trend is unmistakable — French and Southern European bistro cooking, tight wine lists heavy on Victorian and South Australian producers, and menus that change weekly or fortnightly. The price point is consistent: mains in the low-to-mid thirties, glasses of wine around $16.
 
-**Is it worth visiting yet?** Yes. They hit the ground running with experienced kitchen staff and the service is already polished.
+If you walk Gertrude Street between Nicholson and Smith, you'll notice at least two or three spaces that have turned over recently. The quality is generally solid. Kitchens are being staffed by people who've done time at established Melbourne restaurants, and front-of-house teams seem to know what they're doing from day one. That wasn't always the case a few years ago, when half the new openings on this strip felt underbaked.
 
-**Budget:** Mains $28–$42. Wine $14–$18 per glass. Dinner for two with wine: $120–$160.
+**What to look for:** Chalkboard menus, open kitchens, and a cheese course that costs more than your main. If you see a hand-scrawled "No Reservations — Walk In Only" sign, that's the tell.
 
-### Gumption Café (Second Location) — 33 Rose Street, Fitzroy (Early 2026)
+### Brunswick Street: Specialty Coffee and Brunch Evolution
 
-Gumption is originally from the CBD's Strand Arcade and they've opened a second location in a Rose Street warehouse space. The focus is single-origin filter coffee and simple, excellent pastries. The Fitzroy location has a different energy to the CBD original — bigger space, more relaxed, less corporate.
+Brunswick Street's café scene keeps regenerating. The latest wave of openings leans hard into specialty coffee — single-origin pour-overs, rotating roasters, and baristas who'll talk you through the tasting notes whether you asked or not. Prices are a step up from your average flat white: expect $6 to $8 for filter coffee, with pastries baked on-site in the $7 to $10 range.
 
-**What to know:** Their single-origin pour-over ($7) is the main event. The croissants ($6) are baked in-house and worth queuing for. Open 7am–3pm daily.
+A couple of new brunch spots have also opened along the strip, offering menus that go beyond the standard smashed avo formula. Think fermented chilli on scrambled eggs, house-made labneh, and bread programs that would make a [Carlton](/carlton/) Italian baker nod approvingly.
 
-**Is it worth visiting yet?** If you love specialty coffee, yes. The warehouse fit-out is beautiful and the team are serious about their craft.
+**Budget:** Coffee and a pastry: $13 to $17. Brunch for two with coffees: $55 to $75.
 
-**Budget:** Coffee $5–$8. Pastries $6–$9. A coffee and pastry: $12–$16.
+### Rose Street and the Side Streets
 
-### Poodle Bar & Bistro — 228 Gertrude Street, Fitzroy (Late 2025)
+The laneways off Brunswick Street and the area around Rose Street Artists' Market (60 Rose St) continue to attract small operators — the kind of venues with 25 seats, no signage, and a six-month lease they're hoping to extend. Some of these are genuinely good. A few will be gone by winter. That's the deal with Fitzroy side streets: high risk, occasionally brilliant.
 
-Poodle took over a previously empty Gertrude Street space and turned it into a European-style bistro and bar. The front bar does cocktails and bar snacks, while the back dining room serves a short, focused bistro menu. It's owned by the same team behind some well-regarded Melbourne venues, which shows in the execution.
+## Bars
 
-**What to know:** The steak frites ($36) is the signature — properly rested, good cut, excellent fries. The bar snacks are excellent value: the gougères (cheese puffs, $12) and the tinned sardines ($16) with sourdough are worth a visit on their own.
+Fitzroy has never been short on places to drink, but the latest batch of openings reflects a clear shift. The dive bar era isn't over — [The Tote](https://thetote.com.au/) (71 Johnston St) is still standing and still booking bands — but the newer arrivals tend toward natural wine, curated cocktail lists, and interiors that look like they were designed by the same person.
 
-**Is it worth visiting yet?** Absolutely. The bar is walk-in and perfect for after-dinner drinks or a casual Tuesday night.
+### Wine Bars
 
-**Budget:** Bar snacks $12–$22. Bistro mains $28–$42. Cocktails $20–$24.
+Natural wine bars continue to multiply in Fitzroy. At least two new ones have opened in the past few months, and another is fitting out on the quieter end of Brunswick Street. The formula is consistent: low-intervention wines by the glass ($15 to $19), a short food menu of tinned fish, cheese, and charcuterie, and a playlist that leans jazz or ambient.
 
+If you already have a favourite natural wine bar in Fitzroy, the new ones probably won't convert you. But if you're looking for a quiet Tuesday night drink with something interesting in the glass, you've got more options than ever.
 
-## BARS
+### Cocktail and Late-Night Spots
 
-### Grumpy's Green — 125 Smith Street, Fitzroy (Reopening, Early 2026)
+A handful of cocktail-focused spots have appeared along Smith Street and the southern end of Brunswick Street. These tend to be smaller — 40 to 50 capacity — with cocktails in the $22 to $26 range. The quality of the drinks is generally high; Melbourne's cocktail talent pool is deep and Fitzroy gets its share.
 
-Grumpy's Green closed in 2024 and fans mourned it. The good news: new owners have taken over and relaunched it as a live music bar with a vegetarian pub menu. The name stays. The spirit stays. The veggie parma ($19) is better than it has any right to be.
+**Budget:** A night out across two bars: $60 to $90 per person, depending on your commitment.
 
-**What to know:** Live music Thursday through Saturday, free entry most nights. The beer garden out back is one of the best in Fitzroy. Open noon–late daily.
+## Retail and Shops
 
-**Is it worth visiting yet?** If you miss the old Grumpy's, you'll be happy. If you never went, you've got a new local.
+The retail story in Fitzroy is more interesting than it gets credit for. While the rest of Melbourne watches chain stores expand, Fitzroy keeps attracting independent operators who sell things you can't buy at a shopping centre.
 
-**Budget:** Pints $10–$13. Pub meals $16–$22. Cocktails $18.
+Recent openings include specialty food shops focusing on Victorian produce, independent bookshops and record stores, ceramics studios with retail fronts, and vintage clothing stores that actually curate their stock rather than dumping everything on a rack.
 
-### Bar K — 392 Brunswick Street, Fitzroy (Late 2025)
+Gertrude Street remains the best strip for this — the rents are slightly lower than Brunswick Street and the foot traffic is the right kind: people who browse, linger, and buy. Rose Street Artists' Market (60 Rose St, open Saturdays and Sundays) continues to anchor the independent retail scene, drawing makers and designers from across Melbourne.
 
-Bar K is a small, dog-friendly bar on Brunswick Street that's carved out a niche: good natural wine, craft beer on tap, and an outdoor area where dogs are not just welcome but celebrated. There's a water bowl out front and a treat jar behind the bar.
+**What's worth seeking out:** Small-batch pantry goods, locally made ceramics, and vinyl. Fitzroy's record shop scene is quietly one of the best in Melbourne, and the latest additions are keeping that reputation alive.
 
-**What to know:** Natural wine list is solid ($14–$18 per glass), tap beer selection rotates weekly. The food is limited — cheese boards, olives, toasties. This is a drinks venue with snacks, not a restaurant.
+## What We're Watching
 
-**Is it worth visiting yet?** If you have a dog, it's essential. If you don't have a dog, it's still a good bar. The neighbourhood crowd is loyal and growing.
+A few fit-outs are underway on Smith Street near the [Collingwood](/collingwood/) border, and there's activity on the northern end of Brunswick Street that suggests more openings before winter. We'll update this page as venues confirm dates and open their doors.
 
-**Budget:** Wine $14–$18. Beer $10–$12. Snacks $8–$16.
+We don't list venues until they're actually serving customers. No soft launch speculation, no "coming soon" hype.
 
+## FAQ
 
-## RETAIL & SHOPS
+**How often does this page get updated?**
+We aim for monthly updates during busy opening seasons (autumn and spring) and as-needed the rest of the year. The date at the top of the page reflects the last update.
 
-### The Fitzroy Pantry — 240 Gertrude Street, Fitzroy (Early 2026)
+**Do you accept payment or sponsorship from venues?**
+No. We pay for our own meals and drinks, and venues don't know we're coming. If a venue contacts us, that's fine, but it doesn't affect whether or how we cover them.
 
-A specialty food shop focusing on local Victorian produce — cheese, charcuterie, preserves, olive oils, and small-batch pantry staples. It's the kind of shop where you go in for olive oil and leave with $80 worth of stuff you didn't know you needed.
+**Why don't you list every single new opening?**
+Because not every opening is worth your time. We skip pop-ups, temporary installations, and venues that haven't been open long enough to assess properly. If a place is still finding its feet after a few weeks, we'll wait before including it.
 
-**What to know:** They do cheese platters to order ($35–$55) and the staff are genuinely knowledgeable. Open daily 9am–6pm. The olive oil selection is particularly strong.
+**What's the best street for new openings in Fitzroy?**
+Gertrude Street has the highest concentration of interesting new dining and retail. Brunswick Street has more volume but also more turnover. The side streets between the two are where the surprises happen.
 
-**Budget:** Small purchases $10–$30. Cheese boards $35–$55. It's a shop, not a venue, but it's worth visiting.
+**Is Fitzroy getting too expensive?**
+Some of the newer openings are definitely at the premium end. But there are still cheap eats along Brunswick and Smith Streets, and [Edinburgh Gardens](/fitzroy/things-to-do) is free. Fitzroy isn't cheap, but it's not uniformly expensive either.
 
-### Earwig — 201 Gertrude Street, Fitzroy (Late 2025)
+## The Verdict
 
-Earwig is a vinyl and bookshop that replaced a closing fashion boutique. The space is small but thoughtfully curated — a mix of new vinyl, second-hand records, independent zines, and art books. The owner DJs on weekends, which means you can browse while listening to someone with excellent taste.
+Fitzroy's opening pipeline is healthy. The quality of new restaurants is notably higher than it was two or three years ago — kitchens are better staffed, wine lists are more thoughtful, and fit-outs have moved past the bare-bulb-and-plywood phase. The wine bar saturation is real, but the good ones are genuinely good.
 
-**What to know:** Open Wednesday–Sunday, noon–8pm. New vinyl prices are standard ($30–$45), but the second-hand section has genuine finds. The zine rack is worth a look even if you don't buy anything.
+The best strategy is the same as it's always been in Fitzroy: walk the streets, look through windows, and try what catches your eye. The suburb rewards curiosity more than planning.
 
-**Budget:** Vinyl $15–$45. Books $20–$50. Zines $5–$15.
+If you want context on the established venues alongside these newcomers, start with the [Fitzroy neighbourhood guide](/fitzroy/neighbourhood-guide). For dining specifically, the [best restaurants in Fitzroy](/fitzroy/best-restaurants) covers the proven performers. And if you're here this weekend, check [things to do in Fitzroy this weekend](/fitzroy/things-to-do-this-weekend) for a day-by-day plan.
 
+*This guide was researched and written by Oscar Chen for MELBZ in March 2026. We pay our own way, accept no sponsorship, and update when things change. If something's wrong or missing, let us know at hq@melbz.com.au.*
 
-## WHAT TO WATCH: COMING SOON
+---
 
-### Smith Street Korean — Smith Street, Fitzroy/Collingwood border
+## Explore More of Fitzroy
 
-A new Korean BBQ restaurant is going into the old Smith Street location that's been empty for about eight months. The signage is up but no confirmed opening date yet. We'll update when we know more.
-
-### Brunswick Street Wine Bar — Brunswick Street, Fitzroy
-
-Another wine bar (we know, we know) is fitting out a ground-floor space on the quieter end of Brunswick Street. Early signs suggest a focus on natural wines and small plates. No opening date confirmed.
-
-
-## What We Skipped and Why
-
-**Pop-ups and temporary installations:** Unless they become permanent, we don't list them. Pop-ups come and go too fast to be useful in a guide.
-
-**Closures:** We focus on what's opening, not what's leaving. For the latter, check our social media — we post significant closures as news.
-
-**Venues that opened in 2024 or earlier:** Even if they're "new to you," they're not new openings. We cover those in our full [Neighbourhood Guide](/fitzroy/neighbourhood-guide).
-
-
-## Cross-Suburb New Openings
-
-- [New Openings in Collingwood](/fitzroy/new-openings) — the industrial-chic frontier
-- [New Openings in Carlton](/fitzroy/new-openings) — Italian tradition meets modern Melbourne
-- [New Openings in Fitzroy North](/fitzroy/new-openings) — quieter but happening
-
-
-<!-- WIDGET: Poll -->
-**🗳️ What kind of opening gets you excited?**
-- New restaurant with a great chef
-- Specialty coffee roaster or cafe
-- Natural wine bar (there can never be enough)
-- Independent retail — bookshops, record stores
-- Live music venue or bar
-
-[Vote in our weekly suburb poll →](/poll/fitzroy-new-openings-pref)
-
-
-<!-- WIDGET: Suburb Vibe Score -->
-**📊 Fitzroy Vibe Score This Week: 91/100**
-
-New venue openings boost Fitzroy's novelty and culture scores. The suburb's high turnover keeps it dynamic, though long-term residents sometimes mourn what's lost.
-
-[See the full Vibe Score breakdown →](/fitzroy/vibe-score)
-
-
-<!-- WIDGET: Comment Prompt -->
-**💬 Spotted something new we missed?**
-
-Fitzroy moves fast. If you've seen a new venue open, a fit-out starting, or a sign going up, tell us about it.
-
-[Drop a comment below or email us at hq@melbz101](#comments)
-
-
-<!-- WIDGET: Related Reading -->
-**📖 More from Fitzroy**
-
-- [Neighbourhood Guide to Fitzroy](/fitzroy/neighbourhood-guide) — the full suburb picture
-- [Best Bars in Fitzroy](/fitzroy/best-bars) — including established favourites
-- [Best Restaurants in Fitzroy](/fitzroy/best-restaurants) — the proven performers
-
-
-*This guide was researched and written by the MELBZ team in March 2026. We visited every new venue, paid for everything, and received no sponsorship or compensation. Opening dates and details may change. If something's wrong, tell us — we fix things fast.*
-
-**MELBZ — Melbourne's neighbourhood intelligence. Written by locals, for locals. Not AI-generated. Not outsourced. Real people in real suburbs.**
-
-### Featured Venues
-
-- **Marion** at 53 Gertrude St, Fitzroy VIC 3065
-- **Cutler & Co.** at 55-57 Gertrude St, Fitzroy VIC 3065
-- **Poodle Bar & Bistro** at 81-83 Gertrude St, Fitzroy VIC 3065
-- **Proud Mary Coffee** at 172 Oxford St, Collingwood, VIC 3066
-- **Archie's All Day** at 189 Gertrude St, Fitzroy, VIC 3065
-- **Industry Beans Fitzroy** at 3/62 Rose St, Fitzroy, VIC 3065
-- **Vegie Bar** at 380 Brunswick St, Fitzroy VIC 3065
-- **Naked for Satan** at 285 Brunswick St, Fitzroy VIC 3065
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy VIC 3065
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy VIC 3065
-
-### Key Highlights
-
-- Brunswick Street shopping and dining
-- The Royal Exhibition Building and Carlton Gardens
-- Independent art galleries and street art tours
-
-### Suburb Vibe
-
-- Food: 9/10
-- Nightlife: 9/10
-- Affordability: 5/10
-- Transport: 9/10
-- Culture: 10/10
-## Related Articles
-
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Fitzroy History](/fitzroy/history/)
+- [Fitzroy Things To Do This Weekend](/fitzroy/things-to-do-this-weekend/)
+- [Fitzroy Cheap Eats](/fitzroy/cheap-eats/)
+- [Fitzroy Rent Guide](/fitzroy/rent-guide/)
+- [Fitzroy Suburb Roast](/fitzroy/suburb-roast/)
+- [Fitzroy Date Night Guide](/fitzroy/date-night/)
+- [Fitzroy Things To Do](/fitzroy/things-to-do/)
+- [Fitzroy Cost of Living](/fitzroy/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

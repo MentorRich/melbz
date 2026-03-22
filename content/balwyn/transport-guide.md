@@ -4,15 +4,22 @@ description: "Public transport in Balwyn: trains, trams, buses, cycling, and how
 date: 2026-03-21
 suburb: "balwyn"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Balwyn Melbourne"
   - "commute from Balwyn to city"
   - "Balwyn train station"
+tags:
+  - "balwyn"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Balwyn — what works, what's annoying, and how long things actually take.
+Before you sign a lease in Balwyn, you need to know what the daily commute actually looks like.
 
 Check out our full [Balwyn suburb guide](/balwyn/) for the complete picture.
 

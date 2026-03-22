@@ -4,12 +4,18 @@ description: "Is Mentone a good suburb for young professionals? Social scene, co
 date: 2026-03-21
 suburb: "mentone"
 article_type: "young-professionals"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Mentone young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Mentone"
+tags:
+  - "mentone"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Mentone as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

@@ -4,13 +4,18 @@ description: "The insider's guide to Bayswater North's different pockets, street
 date: 2026-03-21
 suburb: "bayswater-north"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Bayswater North neighbourhood guide"
   - "best streets in Bayswater North"
   - "Bayswater North areas"
   - "Bayswater North pockets Melbourne"
+tags:
+  - "bayswater-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Bayswater North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

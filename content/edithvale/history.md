@@ -4,16 +4,22 @@ description: "The story of Edithvale: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "edithvale"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Edithvale Melbourne history"
   - "how has Edithvale changed"
   - "Edithvale gentrification"
   - "Edithvale then and now"
+tags:
+  - "edithvale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Edithvale's story is one of holiday destination turned permanent residential community. Understanding that history explains why the suburb feels the way it does today.
+Edithvale has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Edithvale suburb guide](/edithvale/) for the current picture.
 

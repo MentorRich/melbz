@@ -4,16 +4,22 @@ description: "The story of Kilsyth: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "kilsyth"
 article_type: "history"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Kilsyth Melbourne history"
   - "how has Kilsyth changed"
   - "Kilsyth gentrification"
   - "Kilsyth then and now"
+tags:
+  - "kilsyth"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Kilsyth's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Kilsyth involve post-war migration and renewal.
 
 See our full [Kilsyth suburb guide](/kilsyth/) for the current picture.
 

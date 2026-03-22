@@ -4,15 +4,22 @@ description: "Public transport in Hughesdale: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "hughesdale"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Hughesdale Melbourne"
   - "commute from Hughesdale to city"
   - "Hughesdale train station"
+tags:
+  - "hughesdale"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Hughesdale — what works, what's annoying, and how long things actually take.
+Hughesdale transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Hughesdale suburb guide](/hughesdale/) for the complete picture.
 

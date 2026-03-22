@@ -4,16 +4,22 @@ description: "How expensive is Caulfield South? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Caulfield South Melbourne"
   - "how expensive is Caulfield South"
   - "is Caulfield South expensive to live in"
   - "Caulfield South rent"
+tags:
+  - "caulfield-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Caulfield South — no sugar-coating, no made-up figures.
+If you are weighing up Caulfield South against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Caulfield South suburb guide](/caulfield-south/) for the bigger picture.
 

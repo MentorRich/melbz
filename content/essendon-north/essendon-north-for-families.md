@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Essendon North? Parks, schools, safety
 date: 2026-03-21
 suburb: "essendon-north"
 article_type: "families"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "is Essendon North good for families"
   - "Essendon North family friendly"
   - "raising kids in Essendon North"
+tags:
+  - "essendon-north"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Essendon North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

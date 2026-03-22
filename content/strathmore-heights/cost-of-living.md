@@ -4,16 +4,22 @@ description: "How expensive is Strathmore Heights? Rent, daily costs, and how th
 date: 2026-03-21
 suburb: "strathmore-heights"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Strathmore Heights Melbourne"
   - "how expensive is Strathmore Heights"
   - "is Strathmore Heights expensive to live in"
   - "Strathmore Heights rent"
+tags:
+  - "strathmore-heights"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Strathmore Heights — no sugar-coating, no made-up figures.
+Your monthly burn rate in Strathmore Heights depends on a few key factors. Here is an honest accounting.
 
 Read our full [Strathmore Heights suburb guide](/strathmore-heights/) for the bigger picture.
 

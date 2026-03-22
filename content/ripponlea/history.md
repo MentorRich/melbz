@@ -4,16 +4,22 @@ description: "The story of Ripponlea: from its origins to today. How this Melbou
 date: 2026-03-21
 suburb: "ripponlea"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Ripponlea Melbourne history"
   - "how has Ripponlea changed"
   - "Ripponlea gentrification"
   - "Ripponlea then and now"
+tags:
+  - "ripponlea"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Ripponlea's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+The past century transformed Ripponlea from quiet farmland to a buzzing residential suburb. Understanding that arc explains a lot.
 
 See our full [Ripponlea suburb guide](/ripponlea/) for the current picture.
 

@@ -4,15 +4,22 @@ description: "Public transport in St Albans: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "st-albans"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport St Albans Melbourne"
   - "commute from St Albans to city"
   - "St Albans train station"
+tags:
+  - "st-albans"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around St Albans — what works, what's annoying, and how long things actually take.
+St Albans transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [St Albans suburb guide](/st-albans/) for the complete picture.
 

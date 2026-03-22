@@ -4,13 +4,18 @@ description: "The insider's guide to Scoresby's different pockets, streets, and 
 date: 2026-03-21
 suburb: "scoresby"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Scoresby neighbourhood guide"
   - "best streets in Scoresby"
   - "Scoresby areas"
   - "Scoresby pockets Melbourne"
+tags:
+  - "scoresby"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Scoresby isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

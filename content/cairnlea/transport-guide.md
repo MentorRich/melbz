@@ -4,15 +4,22 @@ description: "Public transport in Cairnlea: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "cairnlea"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Cairnlea Melbourne"
   - "commute from Cairnlea to city"
   - "Cairnlea train station"
+tags:
+  - "cairnlea"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Cairnlea — what works, what's annoying, and how long things actually take.
+Your morning commute from Cairnlea depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Cairnlea suburb guide](/cairnlea/) for the complete picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Hampton Park? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "hampton-park"
 article_type: "retirees"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Hampton Park retirees Melbourne"
   - "retiring in Hampton Park"
   - "quiet suburbs Melbourne"
+tags:
+  - "hampton-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Hampton Park? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

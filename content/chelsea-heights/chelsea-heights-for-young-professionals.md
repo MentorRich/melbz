@@ -4,12 +4,18 @@ description: "Is Chelsea Heights a good suburb for young professionals? Social s
 date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "young-professionals"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Chelsea Heights young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Chelsea Heights"
+tags:
+  - "chelsea-heights"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Chelsea Heights as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

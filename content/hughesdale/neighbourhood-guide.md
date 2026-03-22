@@ -4,13 +4,18 @@ description: "The insider's guide to Hughesdale's different pockets, streets, an
 date: 2026-03-21
 suburb: "hughesdale"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Hughesdale neighbourhood guide"
   - "best streets in Hughesdale"
   - "Hughesdale areas"
   - "Hughesdale pockets Melbourne"
+tags:
+  - "hughesdale"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hughesdale isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

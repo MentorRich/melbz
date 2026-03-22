@@ -4,12 +4,16 @@ description: "Considering retirement in Huntingdale? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "huntingdale"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Huntingdale retirees Melbourne"
   - "retiring in Huntingdale"
   - "quiet suburbs Melbourne"
+tags:
+  - "huntingdale"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Huntingdale? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

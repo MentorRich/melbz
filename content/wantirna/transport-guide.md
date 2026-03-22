@@ -4,15 +4,22 @@ description: "Public transport in Wantirna: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "wantirna"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Wantirna Melbourne"
   - "commute from Wantirna to city"
   - "Wantirna train station"
+tags:
+  - "wantirna"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Wantirna — what works, what's annoying, and how long things actually take.
+Your morning commute from Wantirna depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Wantirna suburb guide](/wantirna/) for the complete picture.
 

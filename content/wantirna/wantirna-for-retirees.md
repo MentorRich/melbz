@@ -4,12 +4,16 @@ description: "Considering retirement in Wantirna? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "wantirna"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Wantirna retirees Melbourne"
   - "retiring in Wantirna"
   - "quiet suburbs Melbourne"
+tags:
+  - "wantirna"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Wantirna? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

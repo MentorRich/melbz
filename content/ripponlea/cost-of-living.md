@@ -4,16 +4,22 @@ description: "How expensive is Ripponlea? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "ripponlea"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Ripponlea Melbourne"
   - "how expensive is Ripponlea"
   - "is Ripponlea expensive to live in"
   - "Ripponlea rent"
+tags:
+  - "ripponlea"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Ripponlea — no sugar-coating, no made-up figures.
+Rent in Ripponlea tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Ripponlea suburb guide](/ripponlea/) for the bigger picture.
 

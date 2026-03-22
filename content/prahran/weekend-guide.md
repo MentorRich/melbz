@@ -1,64 +1,82 @@
 ---
-title: "What to Do in Prahran This Weekend"
-description: "Your weekend in Prahran sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner South."
-date: 2026-03-21
+title: "Your Weekend in Prahran 2026 — Saturday to Sunday Sorted"
+description: "How to spend a weekend in Prahran. Saturday morning markets, afternoon pubs, Sunday brunch spots, and what to do when Melbourne weather misbehaves."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/shared/melbourne-weekend.jpg"
+cover_image_alt: "Prahran Melbourne weekend scene with market and cafes"
 suburb: "prahran"
-article_type: "weekend"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
-keywords:
-  - "what to do Prahran this weekend"
-  - "Prahran weekend"
-  - "things to do Prahran Saturday"
-  - "Prahran Sunday plans"
+tags: ["melbourne", "prahran", "weekend", "things-to-do"]
 ---
 
-
-## Your Weekend in Prahran
-
-Prahran does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
+Prahran does weekends well. The market anchors Saturday morning, Chapel Street and Greville Street fill the afternoons, and the bar scene takes over after dark. Here is how to spend a weekend in Prahran.
 
 ## Saturday Morning
 
-**The Coffee Run** — Start at your neighbourhood cafe. Prahran's cafe culture means you've got options from "quick and efficient" to "settle in for two hours." Saturday morning flat whites hit differently when you're not rushing to work.
+**The Market:** Start at **Prahran Market** (163 Commercial Road). Open from 7am on Saturdays, get there before 9am to avoid the crush. Hit the butcher and cheese counter first, then do produce. Grab a gozleme from **Anatolia Gozleme Kitchen** ($12-$15) and a coffee from one of the market vendors.
 
-**Market Check** — If there's a weekend market running near Prahran, it's worth the wander. Fresh produce, street food, and the kind of people-watching that makes weekend mornings worthwhile.
-
-**Park Time** — Prahran's green spaces fill up on Saturday mornings with runners, dog walkers, and families. Join the park regulars or find a quiet bench.
+**Post-Market Wander:** Walk five minutes to **Greville Street** for a browse through boutiques, vintage shops, and **Greville Records**. **Chapel Street Bazaar** (217 Chapel Street) is the indoor vintage market that rewards patience.
 
 ## Saturday Afternoon
 
-**Lunch Locally** — Don't reach for Uber Eats. Walk to one of Prahran's lunch spots — try somewhere you haven't been before. The mid-afternoon lull means no queues and relaxed service.
+**Option A: Long Lunch.** **Entrecote** (131-133 Greville Street) for steak frites and wine in the courtyard. Budget $60-$90 per person.
 
-**Explore the Neighbourhood** — Pick a street you haven't walked down yet. Every suburb has blocks you've driven past but never explored on foot. Saturday afternoon is perfect for this.
+**Option B: Pub Session.** **Prahran Hotel** (398 Commercial Road) for footy on the telly, cold schooners ($8-$12), and a parma ($24). Or the **College Lawn Hotel** (36 Graelburn Street) for the garden that catches afternoon sun.
 
-**Shop the Independent Stores** — Support local. Prahran's independent shops are the ones that give the suburb its character. Browse without pressure, buy something you didn't know you needed.
+**Option C: Park and Coffee.** **Tone Coffee** (180 Commercial Road) or **ST. ALi** (12-13 Yarra Street, [South Yarra](/south-yarra/)), then walk the residential streets between Chapel Street and Williams Road. Golden-hour light on the Victorian terraces is Melbourne at its best.
 
 ## Saturday Night
 
-**Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Prahran's restaurant scene covers date night to casual with mates.
-
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
-
-**Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Prahran's bottle shops have good selections and the staff usually have recommendations.
+Start at **Leonards House of Love** for cocktails ($16-$20) in an intimate setting. If the night escalates, **Revolver Upstairs** (229 Chapel Street) is the anchor: DJs, a sound system that hits hard, and sessions that run until Sunday morning. **The Emerson** has rooftop drinks in warmer months. Getting home: the 78 tram runs until around 1am; Night Network buses after that.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Prahran starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Brunch:** **Grand Lafayette** (358 Commercial Road) for corn fritters ($19) and French toast ($22). Arrive before 9:30am. Or **Staple** for a short-menu, perfectly executed experience at 8am.
 
-**Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Prahran and into the neighbouring suburb. Find a coffee stop halfway through.
+**Afternoon:** Wine and cheese at **Alp's Wine House** near the market. Or catch a film at the **Jam Factory** cinema on Chapel Street. Or a lazy Sunday session at the **Prahran Hotel** garden bar.
 
-**Sunday Pub Session** — If Prahran's pubs do Sunday sessions, these are gold. Relaxed, possibly live music, definitely relaxed dress code. The best cure for Sunday evening dread.
+**Prep for Monday:** Grocery run through the market (also open Sunday 9:30am-4pm, slower and more relaxed than Saturday).
 
-**Prep for Monday** — We all have to do it. Grocery run through Prahran's shops, meal prep, and set the week up. At least you're doing it in a suburb with good options.
+## If It Is Raining
 
-## Monthly Rituals
+Prahran Market is fully covered. Chapel Street Bazaar is indoors. The Jam Factory has cinemas. The [cafes](/prahran/best-cafes/) along Greville Street welcome long sits with a book.
 
-- **Try a new restaurant** you haven't been to yet
-- **Walk a neighbourhood you usually drive through**
-- **Check local event listings** for one-off markets, exhibitions, or community events
-- **Have one completely unplanned day** — no bookings, no plans, just see what Prahran offers when you say yes to whatever comes up
+## FAQ
+
+**What time does Prahran Market open on Saturday?**
+7am. Best to arrive before 9am for fewer crowds and best produce selection.
+
+**What is the best pub in Prahran for a Sunday session?**
+The Prahran Hotel garden bar is the reliable choice. The College Lawn Hotel is more relaxed and slightly less crowded.
+
+**Can you do a full weekend in Prahran without a car?**
+Absolutely. Everything is walkable within the suburb. Prahran station and trams 72 and 78 connect you to neighbouring suburbs if you want to extend.
+
+## The Verdict
+
+A Prahran weekend covers every mood: market mornings, long lunches, pub afternoons, serious [nightlife](/prahran/nightlife-guide/), and slow Sunday brunches. The suburb's compact size means everything is walkable, and the variety means you can do something different every weekend.
 
 ---
 
-**More on Prahran:** [Prahran Suburb Guide](/prahran/) · [Prahran Things to Do](/prahran/things-to-do/) · [Prahran Best Restaurants](/prahran/best-restaurants/)
+**More Prahran:** [Things to Do](/prahran/things-to-do/) | [Best Restaurants](/prahran/best-[restaurants](/prahran/best-restaurants/)/) | [Nightlife Guide](/prahran/nightlife-guide/) | [Prahran Suburb Guide](/prahran/)
+
+---
+
+## Explore More of Prahran
+
+- [Prahran History](/prahran/history/)
+- [Prahran Late Night Eats](/prahran/late-night-eats/)
+- [Prahran Things To Do This Weekend](/prahran/things-to-do-this-weekend/)
+- [Prahran Cheap Eats](/prahran/cheap-eats/)
+- [Prahran Rent Guide](/prahran/rent-guide/)
+- [Prahran Prahran For Retirees](/prahran/prahran-for-retirees/)
+- [Prahran Date Night Guide](/prahran/date-night/)
+- [Prahran Food Crawl](/prahran/food-crawl/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)
+- [Albert Park Suburb Guide](/albert-park/)

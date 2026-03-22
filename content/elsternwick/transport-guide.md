@@ -1,79 +1,52 @@
 ---
 title: "Getting Around Elsternwick — Transport Guide"
-description: "Public transport in Elsternwick: trains, trams, buses, cycling, and how long it actually takes to get to the city."
+description: "Public transport in Elsternwick: Sandringham line trains, tram 67, cycling to the bay, and how long it actually takes to get to the city."
 date: 2026-03-21
 suburb: "elsternwick"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
-keywords:
-  - "public transport Elsternwick Melbourne"
-  - "commute from Elsternwick to city"
-  - "Elsternwick train station"
+author: "Tyler Nash"
+cover_image: "/images/elsternwick/transport-guide.jpg"
+tags: ["melbourne", "elsternwick", "transport", "commute"]
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Elsternwick — what works, what's annoying, and how long things actually take.
+## Getting Around Elsternwick — The Honest Version
 
-Check out our full [Elsternwick suburb guide](/elsternwick/) for the complete picture.
+Elsternwick's transport story starts and ends with the train. The Sandringham line puts you at Flinders Street in about 20 minutes, and the station sits right on Glen Huntly Road, which means most residents can walk to a train in under 10 minutes. For a suburb 9 kilometres from the CBD, that's a genuine advantage.
 
-## Getting Around Elsternwick — The Quick Version
+## Train — Elsternwick Station (Sandringham Line)
 
-Public transport in Elsternwick is good. You can get to the city in roughly 20 to 40 minutes during peak hours. A car is useful but not essential for most daily needs.
+Elsternwick station is on the Sandringham line. Trains to Flinders Street run every 10–12 minutes during peak, every 15–20 minutes off-peak. The journey takes about 20 minutes door-to-platform.
 
-## Train Access
+The station itself is modest — no lifts on the older platform side, which is worth noting for accessibility. The station precinct on Glen Huntly Road has been improved in recent years, but it's still a commuter station, not a destination.
 
-Elsternwick has convenient train station access.
+**Key connections:**
+- Flinders Street — 20 minutes
+- Richmond — 15 minutes (change here for most other lines)
+- Sandringham — 10 minutes south
+- Southern Cross — 25 minutes (via city loop)
 
-Services run regularly during peak hours and taper off in the evenings. Weekend services are less frequent but still usable for most plans.
+## Tram — Route 67
 
-Getting to the city by train is Elsternwick's strongest PT link. During morning peak, trains come frequently enough that you don't really check the timetable — you just show up and one arrives.
-
-## Tram Access
-
-Elsternwick has tram services running through or near the suburb. Trams connect you to the city and to neighbouring suburbs without needing to get to a train station first.
-
-The tram is particularly handy for shorter trips — hopping to the next suburb for dinner, or getting into the city when you don't feel like dealing with the train schedule.
-
-Frequency is reasonable during peak hours and drops back in the evenings and weekends, as with most Melbourne tram routes.
-
+Tram 67 runs along Glen Huntly Road, connecting Carnegie to the east with St Kilda Beach to the west. It's useful for lateral trips — getting to Carnegie for shopping, or heading to Acland Street without the car. Frequency is every 8–12 minutes during peak, dropping to every 15–20 minutes evenings and weekends.
 
 ## Bus Routes
 
-Buses in Elsternwick serve as connectors — linking residential streets to train stations, shopping centres, and neighbouring suburbs that aren't directly on a train line.
+Bus 623 runs along Nepean Highway connecting Brighton to Caulfield station. Route 246 connects Elsternwick to Clifton Hill via St Kilda and the CBD — it's a slow ride but covers ground no train line does.
 
-Bus routes run along the main roads and connect to key transport hubs.
+## Cycling
 
-Frequency varies. Main routes during peak hours are reasonable. Off-peak and weekends, plan ahead or have a backup plan.
-
-## Commute to the City — How Long Does It Actually Take?
-
-Realistically, expect 20 to 40 minutes door-to-door during peak hours, depending on which part of Elsternwick you live in and where in the city you're headed.
-
-That includes walking to the stop, waiting, travelling, and walking at the other end. On a good day it's faster. On a bad day (signal faults, track works), add 20 minutes and a healthy dose of frustration.
-
-**Train:** The most reliable option for city-bound commuting.
-**Driving:** Depends entirely on traffic. Can be faster off-peak, absolute pain during peak.
-**Cycling:** Viable if you're within a reasonable distance and the route doesn't involve a death wish at major intersections.
+Elsternwick is flat, which helps. The ride to St Kilda Beach is about 15 minutes. The ride to the CBD via the bay trail is 40–45 minutes and genuinely scenic. Local streets are quiet enough for cycling, though Glen Huntly Road itself is not ideal during peak traffic.
 
 ## Driving and Parking
 
-Parking is generally easier here than inner-city suburbs. Most residential areas have street parking, and the shopping centres offer off-street options. It gets tighter near the station and main shops.
+Nepean Highway provides the main north-south driving corridor. Street parking on Glen Huntly Road is timed (1–2 hours). Residential streets have mostly unrestricted parking, though permit zones exist closer to the station. Weekend parking near the shops is competitive but manageable if you're willing to walk a block.
 
-## Walking and Cycling
+## The Commute Verdict
 
-Elsternwick is reasonably walkable for daily needs, with footpaths along main roads and a few dedicated cycling paths.
-
-Cycling infrastructure exists on main routes and through some parks. It's feasible for keen cyclists but not as developed as inner suburbs.
-
-## PT Verdict — Is Elsternwick Well Connected?
-
-Elsternwick has solid connections — not inner-city level, but good enough that PT is a realistic daily option. A car is helpful but not essential.
+Elsternwick's 20-minute train to the city is its transport trump card. Tram 67 adds east-west flexibility. Cycling to the bay is a genuine lifestyle option. The suburb works without a car for most daily needs, though a car helps for weekend trips and the grocery run.
 
 ---
 
-**More on Elsternwick:**
-- [Elsternwick Cost of Living](/elsternwick/cost-of-living/)
-- [Elsternwick Living Guide](/elsternwick/living-in-elsternwick/)
-- [Elsternwick Neighbourhood Guide](/elsternwick/neighbourhood-guide/)
+**More on Elsternwick:** [Elsternwick Suburb Guide](/elsternwick/) · [Cost of Living](/elsternwick/cost-of-living/) · [Living Guide](/elsternwick/living-in-elsternwick/)
 
-**Nearby suburbs:** [Balaclava](/balaclava/) · [Ripponlea](/ripponlea/) · [Brighton](/brighton/) · [Caulfield North](/caulfield-north/)
+**Nearby suburbs:** [Balaclava](/balaclava/) · [Brighton](/brighton/) · [Caulfield South](/caulfield-south/)

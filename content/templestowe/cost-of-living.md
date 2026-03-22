@@ -4,16 +4,22 @@ description: "How expensive is Templestowe? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "templestowe"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Templestowe Melbourne"
   - "how expensive is Templestowe"
   - "is Templestowe expensive to live in"
   - "Templestowe rent"
+tags:
+  - "templestowe"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Templestowe — no sugar-coating, no made-up figures.
+The cost question in Templestowe is straightforward: the value depends on exactly where you land. Here is what your wallet actually needs to know.
 
 Read our full [Templestowe suburb guide](/templestowe/) for the bigger picture.
 

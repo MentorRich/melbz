@@ -2,16 +2,13 @@
 title: "Malvern Honest Guide 2026: High Street & Glenferrie Road"
 cover_image: "/images/malvern/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["malvern", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Malvern Honest Guide 2026: High Street & Glenferrie Road"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -171,10 +168,9 @@ You won't brag about it at dinner parties. But you'll sleep well. And after a fe
 
 ## Related Articles
 
-- [/collingwood/](/collingwood/)
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/malvern/](/malvern/)
-- [/malvern/hub](/malvern/hub)
+- [Collingwood](/collingwood/)
+- [Prahran](/prahran/)
+- [South Yarra](/south-yarra/)
+- [Malvern](/malvern/)
+- [Hub](/malvern/hub)
 
-*Find more Melbourne content at [melbz.com.au](/)*

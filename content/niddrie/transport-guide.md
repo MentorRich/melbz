@@ -4,15 +4,22 @@ description: "Public transport in Niddrie: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "niddrie"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Niddrie Melbourne"
   - "commute from Niddrie to city"
   - "Niddrie train station"
+tags:
+  - "niddrie"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Niddrie — what works, what's annoying, and how long things actually take.
+The commute question is make-or-break for most people considering Niddrie. Let us cut through the fluff.
 
 Check out our full [Niddrie suburb guide](/niddrie/) for the complete picture.
 

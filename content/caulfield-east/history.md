@@ -4,16 +4,22 @@ description: "The story of Caulfield East: from its origins to today. How this M
 date: 2026-03-21
 suburb: "caulfield-east"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Caulfield East Melbourne history"
   - "how has Caulfield East changed"
   - "Caulfield East gentrification"
   - "Caulfield East then and now"
+tags:
+  - "caulfield-east"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Caulfield East's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Caulfield East has reinvented itself multiple times. Each era left its mark, and you can still see them today.
 
 See our full [Caulfield East suburb guide](/caulfield-east/) for the current picture.
 

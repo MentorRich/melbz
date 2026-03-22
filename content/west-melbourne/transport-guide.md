@@ -4,15 +4,22 @@ description: "Public transport in West Melbourne: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "west-melbourne"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport West Melbourne Melbourne"
   - "commute from West Melbourne to city"
   - "West Melbourne train station"
+tags:
+  - "west-melbourne"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around West Melbourne — what works, what's annoying, and how long things actually take.
+The transport story in West Melbourne is more nuanced than close to the city or middle of nowhere. Let us unpack it.
 
 Check out our full [West Melbourne suburb guide](/west-melbourne/) for the complete picture.
 

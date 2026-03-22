@@ -4,16 +4,22 @@ description: "How expensive is Croydon South? Rent, daily costs, and how this Me
 date: 2026-03-21
 suburb: "croydon-south"
 article_type: "cost-of-living"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "cost of living Croydon South Melbourne"
   - "how expensive is Croydon South"
   - "is Croydon South expensive to live in"
   - "Croydon South rent"
+tags:
+  - "croydon-south"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Croydon South — no sugar-coating, no made-up figures.
+Rent in Croydon South tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Croydon South suburb guide](/croydon-south/) for the bigger picture.
 

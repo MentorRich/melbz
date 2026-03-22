@@ -4,12 +4,18 @@ description: "Is Meadow Heights a good suburb for young professionals? Social sc
 date: 2026-03-21
 suburb: "meadow-heights"
 article_type: "young-professionals"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Meadow Heights young professionals Melbourne"
   - "best suburbs for young professionals Melbourne"
   - "renting in Meadow Heights"
+tags:
+  - "meadow-heights"
+  - "young-professionals"
+  - "lifestyle"
+  - "nightlife"
+  - "melbourne"
+cover_image: "/images/shared/students.jpg"
 ---
 
 Considering Meadow Heights as a young professional? Here's what you actually need to know — the social scene, the commute, the rent situation, and whether this suburb has the energy that suits your stage of life.

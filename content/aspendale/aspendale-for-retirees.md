@@ -4,12 +4,16 @@ description: "Considering retirement in Aspendale? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "aspendale"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Aspendale retirees Melbourne"
   - "retiring in Aspendale"
   - "quiet suburbs Melbourne"
+tags:
+  - "aspendale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Aspendale? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

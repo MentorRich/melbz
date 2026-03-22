@@ -4,12 +4,16 @@ description: "Considering retirement in Narre Warren South? Quiet streets, healt
 date: 2026-03-21
 suburb: "narre-warren-south"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Narre Warren South retirees Melbourne"
   - "retiring in Narre Warren South"
   - "quiet suburbs Melbourne"
+tags:
+  - "narre-warren-south"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Narre Warren South? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

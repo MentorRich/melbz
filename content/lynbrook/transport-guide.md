@@ -4,15 +4,22 @@ description: "Public transport in Lynbrook: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "lynbrook"
 article_type: "transport"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "public transport Lynbrook Melbourne"
   - "commute from Lynbrook to city"
   - "Lynbrook train station"
+tags:
+  - "lynbrook"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Lynbrook — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Lynbrook transport links. Here is the reality.
 
 Check out our full [Lynbrook suburb guide](/lynbrook/) for the complete picture.
 

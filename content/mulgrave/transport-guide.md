@@ -4,15 +4,22 @@ description: "Public transport in Mulgrave: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "mulgrave"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Mulgrave Melbourne"
   - "commute from Mulgrave to city"
   - "Mulgrave train station"
+tags:
+  - "mulgrave"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Mulgrave — what works, what's annoying, and how long things actually take.
+Two words define transport in Mulgrave: better than expected. Everything else is detail.
 
 Check out our full [Mulgrave suburb guide](/mulgrave/) for the complete picture.
 

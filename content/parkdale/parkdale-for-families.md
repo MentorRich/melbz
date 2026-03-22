@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Parkdale? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "parkdale"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Parkdale good for families"
   - "Parkdale family friendly"
   - "raising kids in Parkdale"
+tags:
+  - "parkdale"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Parkdale with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

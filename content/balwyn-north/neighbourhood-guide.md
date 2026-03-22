@@ -4,13 +4,18 @@ description: "The insider's guide to Balwyn North's different pockets, streets, 
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Balwyn North neighbourhood guide"
   - "best streets in Balwyn North"
   - "Balwyn North areas"
   - "Balwyn North pockets Melbourne"
+tags:
+  - "balwyn-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Balwyn North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

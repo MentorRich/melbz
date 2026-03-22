@@ -4,12 +4,16 @@ description: "Considering retirement in Heidelberg West? Quiet streets, healthca
 date: 2026-03-21
 suburb: "heidelberg-west"
 article_type: "retirees"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Heidelberg West retirees Melbourne"
   - "retiring in Heidelberg West"
   - "quiet suburbs Melbourne"
+tags:
+  - "heidelberg-west"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Heidelberg West? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

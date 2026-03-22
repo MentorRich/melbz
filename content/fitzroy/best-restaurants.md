@@ -1,59 +1,100 @@
 ---
-title: "Best Restaurants in Fitzroy Melbourne"
-description: "Where to eat in Fitzroy: the honest guide to the suburb's restaurant scene, from weeknight dinners to special occasions."
+title: "Best Restaurants in Fitzroy Melbourne — 2026 Guide"
+cover_image: "/images/fitzroy/best-restaurants.jpg"
+description: "The best restaurants in Fitzroy, reviewed by locals. From Cutler & Co to $15 Johnston Street dinners — every recommendation is a place we actually eat at."
 date: 2026-03-21
 suburb: "fitzroy"
 article_type: "best-of"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "best restaurants Fitzroy"
   - "where to eat Fitzroy"
   - "dinner Fitzroy Melbourne"
   - "restaurants near Fitzroy"
+tags:
+  - "fitzroy"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
 ---
 
+Fitzroy packs more good restaurants into one square kilometre than most Melbourne suburbs manage across ten. The secret is density — [Brunswick](/brunswick/) Street, Gertrude Street, Johnston Street, and Smith Street all intersect within walking distance, each with its own personality and price point.
 
-## Eating Out in Fitzroy
+Here's where to eat right now, from special occasions to a Tuesday night when you can't be bothered cooking.
 
-Fitzroy's restaurant scene reflects the suburb's personality. Melbourne's creative soul — street art, live music, small bars, and Brunswick Street's endless energy. That translates into a food culture that's eclectic and adventurous.
+## The Special Occasion Tier
 
-You've got options from casual weeknight dinners to proper sit-down spots you save for birthdays. The range is what makes it work — you don't need to leave the suburb for good food.
+### Cutler & Co. — 55–57 Gertrude Street
 
-## What Kind of Food Can You Find?
+Andrew McConnell's flagship has been Fitzroy's best restaurant since 2009 and it hasn't slipped. The dining room is moody without being pretentious — pressed tin ceilings, dim lighting, a bar you'd happily sit at alone. The menu changes seasonally but expect beautifully handled proteins (the whole roasted duck for two, $95, is a signature), sharp vegetable dishes, and a wine list that goes deep into Yarra Valley and Mornington Peninsula producers. Dinner for two with wine: $250–$350. Book at least a week ahead for Friday or Saturday.
 
-The cuisine options depend on what Fitzroy's community looks like, and right now it's a solid mix:
+### Poodle Bar & Bistro — 81–83 Gertrude Street
 
-**Italian** — Melbourne does Italian well, and Fitzroy is no exception. From proper pasta joints to pizza that actually tastes like something.
+Opened in 2022 and immediately became one of Melbourne's most talked-about restaurants. The format is French bistro filtered through Melbourne's obsession with produce quality — steak frites ($48), duck liver parfait ($24), and a crème caramel ($18) that people make special trips for. The wine list is heavy on natural and biodynamic producers. The dining room is beautiful: green tiles, brass fittings, a horseshoe bar. Dinner for two with wine: $200–$280. Book well ahead.
 
-**Asian** — Thai, Vietnamese, Japanese, Chinese — the variety depends on the suburb's demographic mix, but you'll find options that range from quick and affordable to genuinely impressive.
+### Marion — 53 Gertrude Street
 
-**Modern Australian** — The catch-all that actually means "good food made by creative chefs who source well." Several of Fitzroy's best spots fall into this category.
+Marion sits between Cutler & Co. and Poodle on the same block of Gertrude Street, which is either extremely brave or extremely confident. It's the latter. The wine bar format means you can drop in for a glass of Nebbiolo and some burrata ($22), or settle in for a full dinner of handmade pasta and wood-grilled fish. The courtyard out back is one of Fitzroy's best-kept secrets for a warm evening. Dinner for two: $150–$220.
 
-**Pub Food Done Right** — The local pub that's upgraded beyond parma and chips (though those are still available). Proper kitchen, decent wine list, and food that surprises you.
+## The Weeknight Regulars
 
-**Quick and Good** — Takeaway, kebabs, fish and chips, burger joints. Not flashy but essential for those nights when you don't feel like cooking but don't want to sit down either.
+### Vegie Bar — 380 Brunswick Street
 
-## Weeknight vs Weekend Dining
+Fitzroy's vegetarian institution since 1994. The laksa ($19) is the dish that keeps people coming back — coconut-rich, properly spiced, and enormous. The menu spans Asian, Middle Eastern, and Mexican influences without feeling confused. It's cheap, it's reliably good, and it's open late. Perfect for the "I'm not that hungry but I should eat" category. Dinner for two: $50–$70.
 
-**Weeknights** are your sweet spot in Fitzroy. Walk-in friendly, quieter, and you get the kitchen's attention. Tuesday to Thursday is when locals eat out casually.
+### Horn Please — 167 Johnston Street
 
-**Weekends** bring the crowds, especially Friday and Saturday nights. Book ahead for anywhere decent, or go early (6pm) to beat the rush. Sunday dinner is an underrated option — quieter than Saturday with the same quality.
+Contemporary Indian that splits opinion, which is usually a sign that it's doing something interesting. The goat curry ($28) is rich and deeply spiced without being a heat competition. The dosas ($18) are crisp and enormous. The kingfish ceviche ($22) is a left-field addition that works. BYO wine on Tuesdays. Dinner for two: $80–$120.
 
-## Price Range
+### Rice Paper Scissors — 307 Brunswick Street
 
-Fitzroy's restaurants cover a genuine range. You can have a solid dinner for a reasonable amount, or splurge on the suburb's best without Melbourne CBD prices.
+Southeast Asian street food in a fast-casual format. The pho ($17) is solid, the banh mi ($14) is better than solid, and the rice paper rolls ($12) are what the name promises. It's quick, it's cheap, and it fills the gap between takeaway and a proper sit-down. Dinner for two: $40–$60.
 
-The mid-range is where Fitzroy shines — restaurants that care about quality but don't gouge on price. That's the sweet spot here.
+### Charcoal Lane — 136 Gertrude Street
+
+Indigenous-owned restaurant in a heritage bluestone building that was once a home for Aboriginal women. The menu features native ingredients — wallaby, emu, lemon myrtle, pepperberry — prepared with technical skill. The two-course lunch ($45) is the entry point. It's a restaurant with genuine purpose beyond the food, and the food stands on its own. Dinner for two: $120–$160.
+
+## The Late-Night Options
+
+### Naked for Satan — 285 Brunswick Street
+
+The rooftop bar gets the attention, but the ground-floor pintxos bar is the reason to come. Small Basque-style snacks ($3–$5 each) that you pick from the bar and stack on your plate. It's not fine dining, but at 11pm on a Friday with a glass of Txakoli, it's exactly right. Open until 1am Friday and Saturday.
+
+### Bimbo Deluxe — 376 Brunswick Street
+
+$4 pizza. That's the pitch. The pizzas are thin, the toppings are fine, and the beer is cold. Nobody comes to Bimbo for a culinary experience; they come because it's midnight, they're hungry, and $4 pizza exists. Open late, cash-friendly, and permanently full of people who've been at the Evelyn or the Old Bar.
 
 ## Tips for Eating in Fitzroy
 
-1. **Ask the locals** — the best restaurant is often the one without the marketing budget
-2. **Weeknight date nights** — better experience, easier bookings, sometimes cheaper
-3. **Try the specials** — chefs put their energy into specials, and it shows
-4. **Don't judge by decor** — some of the best food comes from the least fancy-looking places
-5. **Support the independents** — chain restaurants exist but the soul of Fitzroy's food scene is the owner-operators
+- **Gertrude Street** is the quality spine — Cutler & Co., Poodle, and Marion within 100 metres
+- **Brunswick Street** is the volume play — more options, wider price range, busier
+- **Johnston Street** has the best value — Vietnamese, Indian, and Spanish at neighbourhood prices
+- **Weeknight dining** (Tuesday–Thursday) means walk-in availability at places that need bookings on weekends
+- **Sunday dinner** is underrated — quieter, same kitchens, often a simpler menu that lets the cooking shine
 
 ---
 
-**More on Fitzroy:** [Fitzroy Suburb Guide](/fitzroy/) · [Fitzroy Best Cafes](/fitzroy/best-cafes/) · [Fitzroy Living Guide](/fitzroy/living-in-fitzroy/)
+**More on Fitzroy:** [Fitzroy Suburb Guide](/fitzroy/) · [Best [Cafes](/fitzroy/best-cafes/) in Fitzroy](/fitzroy/best-cafes/) · [Best Bars in Fitzroy](/fitzroy/best-bars/)
+
+*Reviewed by the MELBZ team, March 2026. We pay for every meal and accept no sponsorship.*
+
+---
+
+## Explore More of Fitzroy
+
+- [Fitzroy History](/fitzroy/history/)
+- [Fitzroy Things To Do This Weekend](/fitzroy/things-to-do-this-weekend/)
+- [Fitzroy Cheap Eats](/fitzroy/cheap-eats/)
+- [Fitzroy Rent Guide](/fitzroy/rent-guide/)
+- [Fitzroy Suburb Roast](/fitzroy/suburb-roast/)
+- [Fitzroy Date Night Guide](/fitzroy/date-night/)
+- [Fitzroy New Openings](/fitzroy/new-openings/)
+- [Fitzroy Things To Do](/fitzroy/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

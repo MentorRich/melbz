@@ -4,15 +4,22 @@ description: "Public transport in Alphington: trains, trams, buses, cycling, and
 date: 2026-03-21
 suburb: "alphington"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "public transport Alphington Melbourne"
   - "commute from Alphington to city"
   - "Alphington train station"
+tags:
+  - "alphington"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Alphington — what works, what's annoying, and how long things actually take.
+The daily commute from Alphington has a personality all its own. It is reliable but boring.
 
 Check out our full [Alphington suburb guide](/alphington/) for the complete picture.
 

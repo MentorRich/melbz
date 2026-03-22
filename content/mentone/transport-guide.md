@@ -4,15 +4,22 @@ description: "Public transport in Mentone: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "mentone"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Mentone Melbourne"
   - "commute from Mentone to city"
   - "Mentone train station"
+tags:
+  - "mentone"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Mentone — what works, what's annoying, and how long things actually take.
+Forget what the real estate agent told you about Mentone transport links. Here is the reality.
 
 Check out our full [Mentone suburb guide](/mentone/) for the complete picture.
 

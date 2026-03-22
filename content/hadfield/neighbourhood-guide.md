@@ -4,13 +4,18 @@ description: "The insider's guide to Hadfield's different pockets, streets, and 
 date: 2026-03-21
 suburb: "hadfield"
 article_type: "neighbourhood"
-author: "lina"
-author_image: "/images/authors/lina.jpg" 
+author: "Lina Nguyen"
 keywords:
   - "Hadfield neighbourhood guide"
   - "best streets in Hadfield"
   - "Hadfield areas"
   - "Hadfield pockets Melbourne"
+tags:
+  - "hadfield"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Hadfield isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,12 +4,16 @@ description: "Considering retirement in Bayswater North? Quiet streets, healthca
 date: 2026-03-21
 suburb: "bayswater-north"
 article_type: "retirees"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Bayswater North retirees Melbourne"
   - "retiring in Bayswater North"
   - "quiet suburbs Melbourne"
+tags:
+  - "bayswater-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/beach-bayside.jpg"
 ---
 
 Thinking about retiring in Bayswater North? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

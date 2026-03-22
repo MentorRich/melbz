@@ -4,16 +4,22 @@ description: "How expensive is Mordialloc? Rent, daily costs, and how this Melbo
 date: 2026-03-21
 suburb: "mordialloc"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Mordialloc Melbourne"
   - "how expensive is Mordialloc"
   - "is Mordialloc expensive to live in"
   - "Mordialloc rent"
+tags:
+  - "mordialloc"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Mordialloc — no sugar-coating, no made-up figures.
+The gap between the sticker price of Mordialloc and actual living costs is worth understanding before you move.
 
 Read our full [Mordialloc suburb guide](/mordialloc/) for the bigger picture.
 

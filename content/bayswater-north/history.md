@@ -4,16 +4,22 @@ description: "The story of Bayswater North: from its origins to today. How this 
 date: 2026-03-21
 suburb: "bayswater-north"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Bayswater North Melbourne history"
   - "how has Bayswater North changed"
   - "Bayswater North gentrification"
   - "Bayswater North then and now"
+tags:
+  - "bayswater-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Bayswater North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+History buffs and new residents alike should know the origin story of Bayswater North. It explains more than you would expect.
 
 See our full [Bayswater North suburb guide](/bayswater-north/) for the current picture.
 

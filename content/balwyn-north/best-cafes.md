@@ -4,17 +4,24 @@ description: "Where to find the best coffee and cafes in Balwyn North. Local pic
 date: 2026-03-21
 suburb: "balwyn-north"
 article_type: "best-of"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "best cafes Balwyn North"
   - "coffee Balwyn North Melbourne"
   - "cafes near Balwyn North"
   - "brunch Balwyn North"
+tags:
+  - "balwyn-north"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
-## The Cafe Scene in Balwyn North
+## The Cafe Scene in [Balwyn](/balwyn/) North
 
 Balwyn North takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
 
@@ -59,3 +66,23 @@ Balwyn North's cafe scene is solid and genuine. You won't struggle to find good 
 ---
 
 **More on Balwyn North:** [Balwyn North Suburb Guide](/balwyn-north/) · [Balwyn North Cost of Living](/balwyn-north/cost-of-living/) · [Balwyn North Neighbourhood Guide](/balwyn-north/neighbourhood-guide/)
+
+---
+
+## Explore More of Balwyn North
+
+- [Balwyn North History](/balwyn-north/history/)
+- [Balwyn North Rent Guide](/balwyn-north/rent-guide/)
+- [Balwyn North Living In Balwyn North](/balwyn-north/living-in-balwyn-north/)
+- [Balwyn North Things To Do](/balwyn-north/things-to-do/)
+- [Balwyn North Cost of Living](/balwyn-north/cost-of-living/)
+- [Balwyn North Neighbourhood Guide](/balwyn-north/neighbourhood-guide/)
+- [Balwyn North Transport Guide](/balwyn-north/transport-guide/)
+- [Balwyn North Best Restaurants](/balwyn-north/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [Balaclava Suburb Guide](/balaclava/)
+- [Balwyn Suburb Guide](/balwyn/)
+- [Bayswater Suburb Guide](/bayswater/)
+- [Bayswater North Suburb Guide](/bayswater-north/)

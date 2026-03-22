@@ -3,13 +3,13 @@ title: "Apartment vs House in Melbourne — Which Suburb Suits Which?"
 description: "Should you rent a house or apartment? It depends on the suburb. Here's the breakdown for Melbourne."
 date: 2026-03-21
 article_type: "trending"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "apartment vs house melbourne"
   - "renting apartment melbourne"
   - "house vs unit melbourne"
   - "best apartments melbourne suburbs"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Should you rent a house or apartment? It depends on the suburb. Here's the breakdown for Melbourne.

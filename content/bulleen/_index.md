@@ -1,16 +1,16 @@
 ---
-title: "Bulleen Melbourne — Everything You Need to Know"
+title: "Bulleen Melbourne — what you need"
 description: "The complete guide to Bulleen. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "bulleen"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Bulleen Melbourne"
   - "what is Bulleen like"
   - "bulleen suburb"
   - "living in Bulleen"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Heide Museum of Modern Art, riverside parks, and family homes with eastern suburbs access.

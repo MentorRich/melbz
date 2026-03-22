@@ -4,12 +4,16 @@ description: "Thinking of raising kids in The Basin? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "the-basin"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is The Basin good for families"
   - "The Basin family friendly"
   - "raising kids in The Basin"
+tags:
+  - "the-basin"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to The Basin with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

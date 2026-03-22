@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Williamstown North? Parks, schools, sa
 date: 2026-03-21
 suburb: "williamstown-north"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Williamstown North good for families"
   - "Williamstown North family friendly"
   - "raising kids in Williamstown North"
+tags:
+  - "williamstown-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Williamstown North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

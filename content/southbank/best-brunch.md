@@ -1,100 +1,83 @@
 ---
-title: "Best Brunch in Southbank — Weekend Breakfast Spots"
-date: 2026-03-17
+title: "Best Brunch in Southbank — 2026 Local Guide"
+description: "Where to brunch in Southbank. Brolly at Arts Centre Melbourne, Thirty Two Steps on the Promenade, Bearbrass at Crown, and the honest weekend guide."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Priya Sandhu"
+cover_image: "/images/southbank/best-brunch.jpg"
+cover_image_alt: "Brunch plate with coffee at a Southbank riverside cafe"
+suburb: "southbank"
+tags: ["southbank", "brunch", "breakfast", "cafes", "riverside"]
 ---
 
-updated: 2026-03-17
-author: "Priya Sandhu"
-author_image: "/images/authors/priya.jpg"
-suburb: "southbank"
-vertical: "food"
-tags: ["brunch", "breakfast", "southbank", "melbourne", "weekend"]
-categories: ["Food & Drink"]
-description: "Where to get brunch in Southbank Melbourne. The best weekend breakfast spots along the river and near Crown."
-cover_image: "/images/southbank/best-brunch.jpg"
+## The Best Brunch in Southbank
 
-Southbank isn't famous for brunch. This postcode is more known for fine dining and cocktail bars than leisurely weekend breakfasts. But if you live here, work here, or find yourself here on a Saturday morning, there are actually some solid options for eggs, avo, and the kind of coffee that makes the weekend feel worthwhile.
+Southbank isn't famous for brunch. This postcode is more known for fine dining and cocktail bars than leisurely weekend breakfasts. But if you live here or find yourself here on a Saturday morning, there are solid options — you just need to know where to look, because the Promenade tourist traps will happily charge you $32 for average eggs.
 
-The key is knowing where to look. Because Southbank's brunch scene is real — it's just not obvious.
+## Brolly — Arts Centre Melbourne, 100 St Kilda Road
 
-## The Southbank Brunch Reality
+**Best for:** The genuine cafe experience Southbank locals actually use
 
-Here's the honest truth: Southbank's brunch scene exists primarily to serve the suburb's function as a tourism and entertainment precinct. Most of the venues along the Southbank Promenade are designed for tourists with no local knowledge, and their breakfast menus reflect that — competent but uninspired, convenient but not compelling.
+Hidden in the basement of the Arts Centre on **Sturt Street**, Brolly is Southbank's most genuinely excellent brunch option. Creative menu, consistent execution, comfortable space for lingering. The eggs are always cooked to order, seasonal dishes keep things interesting, and the coffee is excellent. Prices $18-28 for most dishes. Come early on weekends.
 
-But look a little deeper — into the hotels, the cultural venues, and the side streets — and you'll find brunch options that actually deliver. These are the spots where Southbank locals actually eat breakfast, and they're worth knowing about.
+## Thirty Two Steps — 32 Southbank Promenade
 
-## Where Southbank Locals Actually Brunch
+**Best for:** Brunch with stunning river views
 
-### Brolly at Arts Centre Melbourne
+Riverside venue overlooking the Yarra with the Melbourne skyline behind it. The menu is classically Melbourne (smashed avo, eggs benny, breakfast burgers), execution is consistent. You're paying for the location as much as the food ($20+ for any proper plate). Book ahead for weekend brunch.
 
-Hidden in the basement of the Arts Centre, Brolly is Southbank's most genuinely excellent brunch option. The menu is creative without being precious, the execution is consistently strong, and the space is comfortable enough for lingering weekend breakfasts. The coffee is excellent, the service is warm, and the entire experience feels like a proper cafe rather than a tourist-adjacent venue.
+## Bearbrass — Crown Promenade, 8 Whiteman Street
 
-The eggs here are always cooked exactly to order, the seasonal menu keeps things interesting, and the prices are reasonable for what you get ($18-$28 for most dishes). Come early on weekends to secure a table, or accept that you might be waiting 20 minutes for a seat.
+**Best for:** Hotel breakfast done right
 
-**Address:** Arts Centre Melbourne, 100 St Kilda Road, Melbourne VIC 3004  
-**Hours:** Mon-Fri 7:30am-4pm, Sat-Sun 8am-5pm  
-**Expect to pay:** $18-$30 per person
+Hotel breakfast that actually delivers. Creative menu, quality ingredients, beautiful space with warm timber and soft lighting. Mains $22-30. The granola with house-made yogurt is excellent. This is the "fancy brunch" option when you want proper service without a tourist-strip vibe.
 
-### Thirty Two Steps
+## ACMI Cafe — Flinders Street (ACMI Foyer)
 
-This riverside venue offers breakfast with genuinely stunning views — you're literally eating overlooking the Yarra and the Melbourne skyline. The menu is classically Melbourne (smashed avo, eggs benny, breakfast burgers), the execution is consistent, and the setting is genuinely pleasant for weekend breakfast.
+**Best for:** Quick coffee and pastry before a cultural outing
 
-The prices are Southbank-standard (expect $20+ for any proper brunch plate), but you're paying for the location as much as the food. The service is professional and the coffee is solid. Book ahead for weekend brunch, or accept the wait.
+Gallery cafe with excellent takeaway coffee and surprisingly good pastries. Quality is genuinely impressive for an institutional cafe, and prices are reasonable for Southbank (coffee around $4.50). Grab a latte and a croissant in the ACMI foyer and start your day with caffeine and screen culture exhibitions.
 
-**Address:** 32 Southbank Promenade, Southbank VIC 3006  
-**Hours:** Daily 7am-3pm  
-**Expect to pay:** $20-$35 per person
+## The Quick Market Option
 
-### Bearbrass at Crown Promenade
+For budget brunch, take the tram 10 minutes south to **South Melbourne Market**. The dim sims are legendary, the produce is fresh, and the pace of life feels like a different decade. It's what Southbank locals do when they want real food at real prices.
 
-Hotel breakfast often gets a bad reputation, but Bearbrass actually delivers a proper brunch experience. The menu is creative enough to be interesting, the ingredients are quality, and the execution is solid across the board. The space is beautiful — all warm timber and soft lighting — and the weekend brunch crowd is mix of locals and hotel guests who all seem to know they've found something good.
+## FAQ
 
-Prices are on the higher side (mains are $22-$30), but the quality justifies it. The granola with house-made yogurt is genuinely excellent, and the eggs are always cooked exactly to order. This is your best bet for a "fancy" brunch that feels like a proper cafe experience.
+**What's the best brunch spot in Southbank for locals?**
+Brolly at Arts Centre Melbourne. Most locals don't bother with the Promenade [restaurants](/southbank/best-restaurants/).
 
-**Address:** Crown Promenade, 8 Whiteman Street, Southbank VIC 3006  
-**Hours:** Daily 7am-11am for breakfast  
-**Expect to pay:** $22-$35 per person
+**Is brunch expensive in Southbank?**
+Yes. Expect $20-35 per person at sit-down venues. ACMI Cafe is the budget-friendly alternative.
 
-### Mesh Restaurant
+**Where should I brunch with a view in Southbank?**
+Thirty Two Steps at 32 Southbank Promenade has stunning Yarra and CBD views.
 
-Mesh at Crown Promenade offers a more formal breakfast experience — think tablecloths, extensive menus, and the kind of service that makes you feel like you're somewhere special. The food is hotel-breakfast quality (competent but not exciting), but the experience is genuinely pleasant if you're in the mood for proper sit-down breakfast.
+## The Verdict
 
-The buffet option is actually excellent value at $45 per person, featuring a spread of hot and cold options, fresh pastries, and unlimited coffee. If you've got visiting family who want "a proper Australian breakfast," this hits the spot without requiring you to navigate a trendy cafe scene.
+Southbank's brunch scene is functional, expensive, and designed primarily for the entertainment precinct's audience. But Brolly delivers genuine cafe culture at Arts Centre Melbourne, Thirty Two Steps offers stunning river views, and Bearbrass makes hotel breakfast feel special. Manage expectations — you're not going to discover the next brunch trend here. But solid, reliable breakfast in pleasant surroundings is available if you know where to look along **Southbank Boulevard**, **Sturt Street**, and the Promenade.
 
-**Address:** Crown Promenade, 8 Whiteman Street, Southbank VIC 3006  
-**Hours:** Daily 6:30am-10:30am for breakfast  
-**Expect to pay:** $25-$50 per person
+**Explore more brunch guides nearby:**
+- [Best Brunch in [Melbourne CBD](/melbourne-cbd/) — 10 min walk north](/melbourne-cbd/)
+- [Best Brunch in South Melbourne — 10 min south](/south-melbourne/)
+- [Best Brunch in St Kilda — 20 min on tram 96](/st-kilda/)
 
-## The Quick Coffee and Pastry Option
+---
 
-If you don't have time for a proper brunch sit-down, ACMI's cafe offers excellent takeaway coffee and a selection of pastries that hit the spot. The quality is genuinely impressive for a gallery cafe, and the prices are surprisingly reasonable.
+## Explore More of Southbank
 
-Grab a latte and a croissant, find a seat in the ACMI foyer, and start your Southbank day with caffeine and carbs. It's not a brunch experience, but it's exactly what you need when your weekend morning is already full.
+- [Southbank History](/southbank/history/)
+- [Southbank Late Night Eats](/southbank/late-night-eats/)
+- [Southbank Rent Guide](/southbank/rent-guide/)
+- [Southbank Southbank For Retirees](/southbank/southbank-for-retirees/)
+- [Southbank New Openings](/southbank/new-openings/)
+- [Southbank Things To Do](/southbank/things-to-do/)
+- [Southbank Cost of Living](/southbank/cost-of-living/)
+- [Southbank Young Professionals Guide](/southbank/young-professionals/)
 
-## The Honest Take
+### Nearby Suburbs Worth Checking
 
-Southbank's brunch scene isn't going to make you fall in love with the postcode. It's functional, expensive, and designed primarily for tourists. But within those constraints, Brolly delivers genuine cafe culture, Thirty Two Steps offers stunning river views, and Bearbrass makes hotel breakfast feel special.
-
-The key is managing expectations. You're not going to discover the next big brunch trend in Southbank. You're going to find solid, reliable breakfast in pleasant surroundings, and sometimes that's exactly what you need.
-
-
-*Priya Sandhu believes that $18 is the new normal for brunch and has accepted her fate. She still hasn't found the perfect avo in Southbank, but Brolly gets closest.*
-
-Updated 2026-03-17 | Priya Sandhu reporting
-## Related Articles
-
-- [/southbank/](/southbank/)
-- [/st-kilda/](/st-kilda/)
-- [/southbank/](/southbank/)
-- [/southbank/hub](/southbank/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*
-
-### More to Explore
-
-Melbourne has so much to offer. Consider adding these to your list:
-
-- **[Venue Name]** — [What they do], [Address].
-- **[Another Spot]** — [What they're known for], [Address].
-
-The city rewards curiosity. The best experiences often come from wandering down unfamiliar streets and discovering venues that don't have the marketing budget of the big names.
+- [Melbourne CBD Suburb Guide](/melbourne-cbd/)
+- [Docklands Suburb Guide](/docklands/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

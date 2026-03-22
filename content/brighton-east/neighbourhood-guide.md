@@ -4,13 +4,18 @@ description: "The insider's guide to Brighton East's different pockets, streets,
 date: 2026-03-21
 suburb: "brighton-east"
 article_type: "neighbourhood"
-author: "grace"
-author_image: "/images/authors/grace.jpg" 
+author: "Grace Chen"
 keywords:
   - "Brighton East neighbourhood guide"
   - "best streets in Brighton East"
   - "Brighton East areas"
   - "Brighton East pockets Melbourne"
+tags:
+  - "brighton-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Brighton East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

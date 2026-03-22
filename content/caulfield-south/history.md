@@ -4,16 +4,22 @@ description: "The story of Caulfield South: from its origins to today. How this 
 date: 2026-03-21
 suburb: "caulfield-south"
 article_type: "history"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Caulfield South Melbourne history"
   - "how has Caulfield South changed"
   - "Caulfield South gentrification"
   - "Caulfield South then and now"
+tags:
+  - "caulfield-south"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Caulfield South's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The name Caulfield South comes from its early settlers. But the real story is what happened after the suburb was named.
 
 See our full [Caulfield South suburb guide](/caulfield-south/) for the current picture.
 

@@ -4,16 +4,22 @@ description: "How expensive is Caulfield? Rent, daily costs, and how this Melbou
 date: 2026-03-21
 suburb: "caulfield"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Caulfield Melbourne"
   - "how expensive is Caulfield"
   - "is Caulfield expensive to live in"
   - "Caulfield rent"
+tags:
+  - "caulfield"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Caulfield — no sugar-coating, no made-up figures.
+The cost of living in Caulfield surprises some people. Whether that is a good or bad surprise depends on your budget.
 
 Read our full [Caulfield suburb guide](/caulfield/) for the bigger picture.
 

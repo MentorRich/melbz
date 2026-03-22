@@ -4,15 +4,22 @@ description: "Public transport in Braeside: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "braeside"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Braeside Melbourne"
   - "commute from Braeside to city"
   - "Braeside train station"
+tags:
+  - "braeside"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Braeside — what works, what's annoying, and how long things actually take.
+Your morning commute from Braeside depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Braeside suburb guide](/braeside/) for the complete picture.
 

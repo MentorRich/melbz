@@ -1,16 +1,16 @@
 ---
-title: "Williams Landing Melbourne — Everything You Need to Know"
+title: "Williams Landing Melbourne — what you need"
 description: "The complete guide to Williams Landing. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "williams-landing"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Williams Landing Melbourne"
   - "what is Williams Landing like"
   - "williams-landing suburb"
   - "living in Williams Landing"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 New station, new shopping centre, and a purpose-built transit-oriented suburb.

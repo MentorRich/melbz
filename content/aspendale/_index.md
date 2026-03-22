@@ -1,16 +1,16 @@
 ---
-title: "Aspendale Melbourne — Everything You Need to Know"
+title: "Aspendale Melbourne — what you need"
 description: "The complete guide to Aspendale. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "aspendale"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Aspendale Melbourne"
   - "what is Aspendale like"
   - "aspendale suburb"
   - "living in Aspendale"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Aspendale Beach, wetlands, and affordable bayside living south of Mordialloc.

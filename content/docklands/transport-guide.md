@@ -1,79 +1,71 @@
 ---
 title: "Getting Around Docklands — Transport Guide"
-description: "Public transport in Docklands: trains, trams, buses, cycling, and how long it actually takes to get to the city."
+description: "Transport in Docklands: no train station, tram 86 and 70, walking to Southern Cross, and how the precinct actually connects."
 date: 2026-03-21
 suburb: "docklands"
 article_type: "transport"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
-keywords:
-  - "public transport Docklands Melbourne"
-  - "commute from Docklands to city"
-  - "Docklands train station"
+author: "Marcus Liu"
+cover_image: "/images/docklands/transport-guide.jpg"
+tags: ["melbourne", "docklands", "transport", "commute"]
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Docklands — what works, what's annoying, and how long things actually take.
+## Getting Around Docklands — The Honest Version
 
-Check out our full [Docklands suburb guide](/docklands/) for the complete picture.
+Docklands has no dedicated train station. That's the first thing to know. The nearest station is Southern Cross, which is a 10–15 minute walk from most Docklands apartments — longer if you're in Yarra's Edge or the far end of NewQuay. The precinct was designed around trams, walking, and the assumption that residents would walk to the CBD.
 
-## Getting Around Docklands — The Quick Version
+## Trams — The Main Option
 
-Public transport in Docklands is excellent. You can get to the city in roughly under 20 minutes during peak hours. A car is useful but not essential for most daily needs.
+**Tram 86** — Runs along the Bourke Street extension through Docklands to Bundoora. This is the primary tram for Victoria Harbour residents and anyone living along the Bourke Street corridor. Frequency: every 6–10 minutes during peak.
 
-## Train Access
+**Tram 70** — Runs along the harbour from Docklands to Flinders Street via the waterfront. Useful for getting to the eastern end of Docklands and connecting to the CBD's tram network. Frequency varies.
 
-Docklands has convenient train station access.
+**Free Tram Zone** — Docklands falls entirely within the Melbourne Free Tram Zone. All tram travel within the precinct and into the CBD is free. This is a genuine financial advantage — no Myki costs for daily commuting if your workplace is in the city.
 
-Services run regularly during peak hours and taper off in the evenings. Weekend services are less frequent but still usable for most plans.
+## Walking to the CBD
 
-Getting to the city by train is Docklands's strongest PT link. During morning peak, trains come frequently enough that you don't really check the timetable — you just show up and one arrives.
+Most Docklands residents walk to work. The Bourke Street bridge and Collins Street extension connect directly to the CBD grid. Walking times from various precincts:
 
-## Tram Access
+- **Victoria Harbour to Southern Cross** — 10 minutes
+- **NewQuay to Bourke Street CBD** — 15 minutes
+- **Yarra's Edge to Flinders Street** — 20 minutes
+- **The District to Southern Cross** — 12 minutes
 
-Docklands has tram services running through or near the suburb. Trams connect you to the city and to neighbouring suburbs without needing to get to a train station first.
+These are genuine walking distances on flat, paved routes. In good weather, walking is faster and more pleasant than waiting for a tram.
 
-The tram is particularly handy for shorter trips — hopping to the next suburb for dinner, or getting into the city when you don't feel like dealing with the train schedule.
+## Cycling
 
-Frequency is reasonable during peak hours and drops back in the evenings and weekends, as with most Melbourne tram routes.
-
-
-## Bus Routes
-
-Buses in Docklands serve as connectors — linking residential streets to train stations, shopping centres, and neighbouring suburbs that aren't directly on a train line.
-
-Bus routes complement the strong train and tram network. They fill in gaps for areas between rail lines.
-
-Frequency varies. Main routes during peak hours are reasonable. Off-peak and weekends, plan ahead or have a backup plan.
-
-## Commute to the City — How Long Does It Actually Take?
-
-Realistically, expect under 20 minutes door-to-door during peak hours, depending on which part of Docklands you live in and where in the city you're headed.
-
-That includes walking to the stop, waiting, travelling, and walking at the other end. On a good day it's faster. On a bad day (signal faults, track works), add 20 minutes and a healthy dose of frustration.
-
-**Train:** The most reliable option for city-bound commuting.
-**Driving:** Depends entirely on traffic. Can be faster off-peak, absolute pain during peak.
-**Cycling:** Viable if you're within a reasonable distance and the route doesn't involve a death wish at major intersections.
+Docklands is flat and has reasonable cycling infrastructure along the waterfront. The Capital City Trail connects through the precinct. Bike-share stations (where operational) are scattered across the precincts. The ride to Flinders Street takes about 10 minutes.
 
 ## Driving and Parking
 
-Parking in central {name} ranges from annoying to genuinely irritating, especially on weekends and evenings. Residential permits help but don't solve everything. If you live here with a car, you'll quickly develop opinions about parking.
+Most Docklands apartments include at least one car space, which is unusual for CBD-adjacent living. Street parking is limited and metered. The major roads — Docklands Drive, Harbour Esplanade, Footscray Road — connect to the West Gate Freeway and CityLink. Driving out of the precinct is easier than driving into Melbourne's inner suburbs.
 
-## Walking and Cycling
+Game day parking is a separate issue entirely. On AFL match days, Docklands' streets and car parks fill with stadium traffic. If you live here, learn the game schedule.
 
-Docklands is very walkable — you can handle most daily errands on foot without feeling like you're going on a hike.
+## The Verdict
 
-Cycling infrastructure is strong — bike lanes on main roads and shared paths through parks make it a legitimate daily transport option.
-
-## PT Verdict — Is Docklands Well Connected?
-
-Docklands scores well for public transport. You can comfortably live here without a car for daily needs, though a car adds convenience for weekend plans and anything off the PT grid.
+Docklands' transport works because of its proximity to the CBD, not because of its own infrastructure. The trams are useful, the walking distances are manageable, and the free tram zone saves money. But the precinct lacks the transport density of older suburbs — no train station, limited bus routes, and tram frequency that drops significantly after peak hours. Living here without a car works if your life centres on the CBD. If you need to travel to other suburbs regularly, a car or rideshare becomes necessary.
 
 ---
 
-**More on Docklands:**
+**More on Docklands:** [Docklands Suburb Guide](/docklands/) · [Cost of Living](/docklands/cost-of-living/) · [Living Guide](/docklands/living-in-docklands/)
+
+---
+
+## Explore More of Docklands
+
+- [Docklands History](/docklands/history/)
+- [Docklands Rent Guide](/docklands/rent-guide/)
+- [Docklands Docklands For Young Professionals](/docklands/docklands-for-young-professionals/)
+- [Docklands Docklands For Retirees](/docklands/docklands-for-retirees/)
+- [Docklands Living In Docklands](/docklands/living-in-docklands/)
+- [Docklands Things To Do](/docklands/things-to-do/)
 - [Docklands Cost of Living](/docklands/cost-of-living/)
-- [Docklands Living Guide](/docklands/living-in-docklands/)
 - [Docklands Neighbourhood Guide](/docklands/neighbourhood-guide/)
 
-**Nearby suburbs:** [Melbourne CBD](/melbourne-cbd/) · [West Melbourne](/west-melbourne/) · [North Melbourne](/north-melbourne/)
+### Nearby Suburbs Worth Checking
+
+- [Melbourne CBD Suburb Guide](/melbourne-cbd/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

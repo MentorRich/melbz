@@ -4,16 +4,22 @@ description: "How expensive is Dandenong North? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "dandenong-north"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living Dandenong North Melbourne"
   - "how expensive is Dandenong North"
   - "is Dandenong North expensive to live in"
   - "Dandenong North rent"
+tags:
+  - "dandenong-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Dandenong North — no sugar-coating, no made-up figures.
+Living costs in Dandenong North have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Dandenong North suburb guide](/dandenong-north/) for the bigger picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Macleod Melbourne — Everything You Need to Know"
+title: "Macleod Melbourne — what you need"
 description: "The complete guide to Macleod. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "macleod"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Macleod Melbourne"
   - "what is Macleod like"
   - "macleod suburb"
   - "living in Macleod"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Cherry Street shops, Gresswell Forest, and a quiet family pocket north of Heidelberg.

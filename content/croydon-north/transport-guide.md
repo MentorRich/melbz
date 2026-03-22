@@ -4,15 +4,22 @@ description: "Public transport in Croydon North: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "croydon-north"
 article_type: "transport"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "public transport Croydon North Melbourne"
   - "commute from Croydon North to city"
   - "Croydon North train station"
+tags:
+  - "croydon-north"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Croydon North — what works, what's annoying, and how long things actually take.
+Croydon North sits just beyond the inner ring, and that shapes everything about how you get around. The honest breakdown:
 
 Check out our full [Croydon North suburb guide](/croydon-north/) for the complete picture.
 

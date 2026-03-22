@@ -4,16 +4,22 @@ description: "How expensive is North Melbourne? Rent, daily costs, and how this 
 date: 2026-03-21
 suburb: "north-melbourne"
 article_type: "cost-of-living"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "cost of living North Melbourne Melbourne"
   - "how expensive is North Melbourne"
   - "is North Melbourne expensive to live in"
   - "North Melbourne rent"
+tags:
+  - "north-melbourne"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in North Melbourne — no sugar-coating, no made-up figures.
+The gap between the sticker price of North Melbourne and actual living costs is worth understanding before you move.
 
 Read our full [North Melbourne suburb guide](/north-melbourne/) for the bigger picture.
 

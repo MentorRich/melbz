@@ -4,16 +4,22 @@ description: "The story of Chelsea Heights: from its origins to today. How this 
 date: 2026-03-21
 suburb: "chelsea-heights"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Bec Taylor"
 keywords:
   - "Chelsea Heights Melbourne history"
   - "how has Chelsea Heights changed"
   - "Chelsea Heights gentrification"
   - "Chelsea Heights then and now"
+tags:
+  - "chelsea-heights"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Chelsea Heights's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Chelsea Heights shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Chelsea Heights suburb guide](/chelsea-heights/) for the current picture.
 

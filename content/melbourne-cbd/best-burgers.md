@@ -1,16 +1,16 @@
 ---
 title: "Best Burgers in Melbourne CBD 2026: The Definitive Rankings"
-cover_image: "/images/melbourne-cbd/best-burgers.jpg"
-date: 2026-03-16
-author: adam
-author_image: "/images/authors/adam.jpg"
-tags: ["melbourne-cbd", "burgers", "food"]
-categories: ["food"]
-description: "Best Burgers in Melbourne CBD 2026: The Definitive Rankings"
+cover_image: "/images/shared/food-restaurants.jpg"
+cover_image_alt: "Melbourne CBD scene"
+date: 2026-03-22
+lastmod: 2026-03-22
+suburb: "melbourne-cbd"
+author: "Adam Nowak"
+tags: ["melbourne", "melbourne-cbd", "burgers", "food"]
+description: "Seven Melbourne CBD burger spots ranked for 2026. Smash burgers on Swanston Street, premium beef on Collins and late-night options near Southern Cross."
 ---
 
 **Updated 16 March 2026 | 8 places tested | Adam Nowak reporting**
-
 
 
 Look, Melbourne's CBD has no sho..."
@@ -58,7 +58,7 @@ They're also one of the few CBD spots that genuinely cater to late-night diners,
 
 ## 3. Burgertory — The Contender
 
-**Where:** Spencer St, Melbourne CBD (also Southbank at 250 City Rd)
+**Where:** Spencer St, Melbourne CBD (also [Southbank](/southbank/) at 250 City Rd)
 **Style:** Loaded burgers with creative toppings
 **Price range:** $14–$20
 
@@ -192,12 +192,22 @@ The real winner? You. Because within a 1km radius of Flinders Street Station, yo
 
 **About the author:** *Adam Nowak is the Burgers Editor at MELBZ, covering Melbourne's burger scene since 2019. He has eaten approximately 340 CBD burgers for "research" and regrets nothing except the time he ordered a salad at a burger restaurant. Follow MELBZ on [Instagram](https://instagram.com/maborosu) for daily food content across Melbourne.*
 
-## Related Articles
+---
 
-- [/collingwood/](/collingwood/)
-- [/footscray/](/footscray/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/southbank/](/southbank/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+## Explore More of Melbourne CBD
 
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Melbourne CBD History](/melbourne-cbd/history/)
+- [Melbourne CBD Cocktails](/melbourne-cbd/cocktails/)
+- [Melbourne CBD Melbourne Cbd For Retirees](/melbourne-cbd/melbourne-cbd-for-retirees/)
+- [Melbourne CBD Cheap Eats](/melbourne-cbd/cheap-eats/)
+- [Melbourne CBD Cheap Eats V2](/melbourne-cbd/cheap-eats-v2/)
+- [Melbourne CBD Rent Guide](/melbourne-cbd/rent-guide/)
+- [Melbourne CBD Best Restaurants V2](/melbourne-cbd/best-restaurants-v2/)
+- [Melbourne CBD Weekend Guide V2](/melbourne-cbd/weekend-guide-v2/)
+
+### Nearby Suburbs Worth Checking
+
+- [Docklands Suburb Guide](/docklands/)
+- [Southbank Suburb Guide](/southbank/)
+- [West Melbourne Suburb Guide](/west-melbourne/)
+- [East Melbourne Suburb Guide](/east-melbourne/)

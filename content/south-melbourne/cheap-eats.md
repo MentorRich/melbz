@@ -1,17 +1,16 @@
 ---
 title: "Cheap Eats Under $20 in South Melbourne 2026"
 cover_image: "/images/south-melbourne/cheap-eats.jpg"
-date: 2026-03-16
-author: yuki
-author_image: "/images/authors/yuki.jpg"
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Yuki Tanaka"
 tags: ["south-melbourne", "cheap-eats", "food"]
-categories: ["food"]
-description: "Cheap Eats Under $20 in South Melbourne 2026"
+description: "Ba Ba Rolls lemongrass beef, Market Borek for under five dollars, and the South Melbourne Market food hall stalls where twenty dollars goes the furthest."
+cover_image_alt: "South Melbourne street scene and local dining"
+suburb: "south-melbourne"
 ---
 
 **Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting**
-
-
 
 
 *Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting*
@@ -155,7 +154,7 @@ Not everything under $20 deserves your attention. Here's what I passed on and wh
 
 **The haloumi pie stands.** I wanted to love these. The concept is solid — flaky pastry, melted haloumi, done. But three separate vendors I tried were serving pre-made pies that had clearly been sitting too long. Dry pastry, rubbery cheese. If your local bakery does a better version, skip the market version.
 
-**Any cafe doing "brekkie for $20."** The brunch places on Claremont Street and Dorcas Street charge $18–$22 for eggs on toast with a coffee, and frankly, the quality doesn't match the price. You're paying for the postcode. A Market Borek and a coffee from a market stall does the same job for $7.
+**Any cafe doing "brekkie for $20."** The brunch places on Clarendon Street and Dorcas Street charge $18–$22 for eggs on toast with a coffee, and frankly, the quality doesn't match the price. You're paying for the postcode. A Market Borek and a coffee from a market stall does the same job for $7.
 
 **The premium poke bowl spots outside the market.** Some of the newer poke places on Park Street and Fitzroy Street charge $18–$22 for a standard bowl. South Melbourne Seafoods does it at $13.80 with comparable freshness. Do the maths.
 
@@ -201,38 +200,3 @@ Your $20 is safe here. Spend it wisely.
 
 *Looking for more budget food across Melbourne? Browse our **[Cheap Eats by Suburb](/food/cheap-eats-melbourne)** directory, or hit up our **[Melbourne Dim Sum Trail](/food/dim-sum-trail)** if dumplings are more your speed.*
 
-### Featured Venues
-
-- **Lume** at 226 Coventry St, South Melbourne VIC 3205
-- **Chez Dre** at 285-287 Coventry St, South Melbourne VIC 3205
-- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
-- **St Ali Coffee Roasters** at 12-18 Yarra Pl, South Melbourne VIC 3205
-- **Dead Man Espresso** at 35的市场 St, South Melbourne VIC 3205
-- **Code Black Coffee** at 119 Howard St, North Melbourne (South Melbourne Satellite Location)
-- **South Melbourne Market Dim Sims** at 322-326 Coventry St, South Melbourne VIC 3205
-- **Proper & Son** at Shop 11, South Melbourne Market, Coventry St, South Melbourne VIC 3205
-- **Bambu Asian Eating House** at 283 Clarendon St, South Melbourne VIC 3205
-- **Lulu's Char Koay Teow** at 1/105-107 Market St, South Melbourne VIC 3205
-
-### Key Highlights
-
-- South Melbourne Market
-- Clarendon Street shopping precinct
-- The Australian Centre for Contemporary Art
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/fitzroy/](/fitzroy/)
-- [/cheap-eats-melbourne/](/cheap-eats-melbourne/)
-- [/food/](/food/)
-- [/south-melbourne/](/south-melbourne/)
-- [/south-melbourne/hub](/south-melbourne/hub)
-
-*Find more Melbourne content at [melbz.com.au](/)*

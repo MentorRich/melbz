@@ -1,16 +1,16 @@
 ---
-title: "Seaholme Melbourne — Everything You Need to Know"
+title: "Seaholme Melbourne — what you need"
 description: "The complete guide to Seaholme. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "seaholme"
 article_type: "profile"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Seaholme Melbourne"
   - "what is Seaholme like"
   - "seaholme suburb"
   - "living in Seaholme"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small bayside pocket with Jawbone Reserve and quiet residential streets.

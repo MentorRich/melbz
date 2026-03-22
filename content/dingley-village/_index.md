@@ -1,16 +1,16 @@
 ---
-title: "Dingley Village Melbourne — Everything You Need to Know"
+title: "Dingley Village Melbourne — what you need"
 description: "The complete guide to Dingley Village. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "dingley-village"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Dingley Village Melbourne"
   - "what is Dingley Village like"
   - "dingley-village suburb"
   - "living in Dingley Village"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Village atmosphere, Spring Road shops, and family estates near bayside access.

@@ -4,16 +4,22 @@ description: "How expensive is Doreen? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "doreen"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Doreen Melbourne"
   - "how expensive is Doreen"
   - "is Doreen expensive to live in"
   - "Doreen rent"
+tags:
+  - "doreen"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Doreen — no sugar-coating, no made-up figures.
+Let us talk money in Doreen. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Doreen suburb guide](/doreen/) for the bigger picture.
 

@@ -1,16 +1,16 @@
 ---
-title: "Oak Park Melbourne — Everything You Need to Know"
+title: "Oak Park Melbourne — what you need"
 description: "The complete guide to Oak Park. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "oak-park"
 article_type: "profile"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Oak Park Melbourne"
   - "what is Oak Park like"
   - "oak-park suburb"
   - "living in Oak Park"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Quiet suburb between Glenroy and Pascoe Vale. Parks, train access, and residential calm.

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Keilor East? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "keilor-east"
 article_type: "families"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "is Keilor East good for families"
   - "Keilor East family friendly"
   - "raising kids in Keilor East"
+tags:
+  - "keilor-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Keilor East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

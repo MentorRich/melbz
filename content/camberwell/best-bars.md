@@ -1,58 +1,67 @@
 ---
-title: "Best Bars in Camberwell Melbourne"
-description: "The bar scene in Camberwell: where to drink, what the vibe is, and the local spots worth knowing about."
+title: "Best Bars in Camberwell Melbourne -- 2026 Guide"
+cover_image: "/images/camberwell/best-bars.jpg"
+description: "The bars and pubs in Camberwell worth knowing about. Wine bars on Burke Road, the local pub, and where to drink in the eastern suburbs."
 date: 2026-03-21
 suburb: "camberwell"
-article_type: "nightlife"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
-keywords:
-  - "best bars Camberwell"
-  - "bars in Camberwell Melbourne"
-  - "nightlife Camberwell"
-  - "where to drink Camberwell"
+author: "Marcus Cole"
+tags:
+  - "camberwell"
+  - "bars"
+  - "nightlife"
+  - "drinks"
+  - "melbourne"
 ---
 
+Camberwell's bar scene is modest and makes no apology for it. This is not Fitzroy. There are no laneway cocktail bars or rooftop anything. What exists is a handful of solid spots that serve the locals well, mostly along Burke Road and Camberwell Road.
 
-## The Drinking Scene in Camberwell
+## The bars
 
-Camberwell has a bar scene that reflects the suburb — more refined than rowdy, with wine bars and well-curated cocktail spots leading the charge. Whether you want a quiet after-work beer, a proper cocktail, or a place to meet friends on a Saturday night, this suburb covers it.
+### East End Wine Bar -- 309 Camberwell Road
 
-## Types of Bars in Camberwell
+The best bar in Camberwell, and it knows it. East End occupies a converted space in a heritage building and focuses on small-producer Victorian wines by the glass. The cheese and charcuterie plates ($24-$32) are designed for grazing. The courtyard out the back is the draw in summer. Regular wine tastings bring a crowd that actually cares about what they are drinking.
 
-**The Local Pub** — Every suburb needs one (or three). Camberwell's pubs range from proper old-school locals to renovated versions that keep the character while adding a better tap list.
+**Vibe:** Wine-focused, unhurried, couples and small groups.
+**Price:** Glass of wine $14-$18, cheese plate $28.
 
-**Wine Bars** — Small, intimate, usually with a great by-the-glass selection. The kind of place where the bar staff know what they're pouring and can actually help you choose.
+### Camberwell Hotel -- 205 Camberwell Road
 
-**Cocktail Spots** — Not as many as Fitzroy or Collingwood, but Camberwell has options that hold their own. Smaller, more personal, and you're not paying CBD prices.
+The local pub, operating since 1867. The public bar is unpretentious and functional -- cold beer, a TAB, and conversation. The beer garden fills on Saturday afternoons in summer. The bistro does pub classics at pub prices -- the parma ($24) is reliable, not remarkable. Live music on weekends brings a different crowd.
 
-**Beer Gardens** — Weather-dependent but essential for Melbourne summers. Some of Camberwell's best drinking happens outdoors when the weather cooperates.
+**Vibe:** Traditional pub, mixed ages, families welcome in the garden.
+**Price:** Pint $12-$14, parma $24.
 
-**The All-Rounder** — The bar that works for everything: after-work drinks, catch-ups, first dates, Saturday nights. Reliable, never amazing, always good enough.
+### Bar None -- 260 Camberwell Road
 
-## When to Go
+Smaller and more drinks-focused than the Camberwell Hotel. Bar None does craft beer, a decent cocktail list, and whisky tastings on Thursday nights. The food menu is deliberately limited to bar snacks. The long bar encourages conversation. This is where the under-40 crowd in Camberwell gravitates.
 
-**After work (5-7pm)** — The sweet spot for most Camberwell bars. Happy hour-ish, relaxed, locals unwinding.
+**Vibe:** Drinks-focused, conversational, younger local crowd.
+**Price:** Craft beer $12-$14, cocktail $20-$24.
 
-**Friday night** — The main strip fills up. Get in by 6pm or expect to wait. The energy is good though.
+## The honest take on Camberwell [nightlife](/camberwell/nightlife-guide/)
 
-**Saturday** — Peak social time. Bars are full, atmosphere is high, expect queues at popular spots.
-
-**Sunday session** — Underrated. Some of Camberwell's bars do Sunday sessions that are genuinely great — more relaxed, often live music or DJs, and no Sunday scaries.
-
-## What Makes Camberwell Different
-
-Camberwell isn't trying to out-cool the inner-city bar hubs. The bars here work because they serve the locals first — they're places you'd go weekly, not Instagram destinations you visit once.
-
-That gives the suburb's bar scene an authenticity that more hyped areas often lack. The vibe is real because the people are regulars, not tourists.
-
-## Tips
-
-1. **Support the neighbourhood bar** — they're the ones that make the suburb
-2. **Try the local brewery tap** — if Camberwell has one, it's usually worth a visit
-3. **Weeknights are underrated** — fewer people, better service, same drinks
-4. **Ask the bartender** — they know what's good and what's not worth ordering
+Most Burke Road venues close by 10pm. If you want a proper night out, catch the train to the CBD (20 minutes from Camberwell station) or the tram to [Hawthorn](/hawthorn/) for Glenferrie Road's pub strip. Camberwell does after-work drinks and Saturday afternoon sessions well. It does not do late nights.
 
 ---
 
-**More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) · [Camberwell Best Restaurants](/camberwell/best-restaurants/) · [Camberwell for Young Professionals](/camberwell/camberwell-for-young-professionals/)
+**More on Camberwell:** [Camberwell Suburb Guide](/camberwell/) | [Best [Restaurants](/camberwell/best-restaurants/) in Camberwell](/camberwell/best-restaurants/) | [Camberwell for Young Professionals](/camberwell/young-professionals/)
+
+---
+
+## Explore More of Camberwell
+
+- [Camberwell History](/camberwell/history/)
+- [Camberwell Camberwell For Retirees](/camberwell/camberwell-for-retirees/)
+- [Camberwell Rent Guide](/camberwell/rent-guide/)
+- [Camberwell Things To Do](/camberwell/things-to-do/)
+- [Camberwell Cost of Living](/camberwell/cost-of-living/)
+- [Camberwell Young Professionals Guide](/camberwell/young-professionals/)
+- [Camberwell Nightlife Guide](/camberwell/nightlife-guide/)
+- [Camberwell Transport Guide](/camberwell/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Kew Suburb Guide](/kew/)
+- [Glen Iris Suburb Guide](/glen-iris/)

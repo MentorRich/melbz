@@ -4,19 +4,25 @@ description: "Where to eat in Cheltenham: the honest guide to the suburb's resta
 date: 2026-03-21
 suburb: "cheltenham"
 article_type: "best-of"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Dani Reyes"
 keywords:
   - "best restaurants Cheltenham"
   - "where to eat Cheltenham"
   - "dinner Cheltenham Melbourne"
   - "restaurants near Cheltenham"
+tags:
+  - "cheltenham"
+  - "restaurants"
+  - "dining"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/food-restaurants.jpg"
 ---
 
 
 ## Eating Out in Cheltenham
 
-Cheltenham's restaurant scene reflects the suburb's personality. Southland Shopping Centre access, good transport, and family homes at bayside prices. That translates into a food culture that's unpretentious and honestly good.
+Cheltenham's restaurant scene reflects the suburb's personality. Southland Shopping Centre access, good [transport](/cheltenham/transport-guide/), and family homes at bayside prices. That translates into a food culture that's unpretentious and honestly good.
 
 You've got options from casual weeknight dinners to proper sit-down spots you save for birthdays. The range is what makes it work — you don't need to leave the suburb for good food.
 
@@ -56,4 +62,24 @@ The mid-range is where Cheltenham shines — restaurants that care about quality
 
 ---
 
-**More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham Best Cafes](/cheltenham/best-cafes/) · [Cheltenham Living Guide](/cheltenham/living-in-cheltenham/)
+**More on Cheltenham:** [Cheltenham Suburb Guide](/cheltenham/) · [Cheltenham Best Cafes](/cheltenham/best-[cafes](/cheltenham/best-cafes/)/) · [Cheltenham Living Guide](/cheltenham/living-in-cheltenham/)
+
+---
+
+## Explore More of Cheltenham
+
+- [Cheltenham History](/cheltenham/history/)
+- [Cheltenham Rent Guide](/cheltenham/rent-guide/)
+- [Cheltenham Things To Do](/cheltenham/things-to-do/)
+- [Cheltenham Cost of Living](/cheltenham/cost-of-living/)
+- [Cheltenham Neighbourhood Guide](/cheltenham/neighbourhood-guide/)
+- [Cheltenham Living In Cheltenham](/cheltenham/living-in-cheltenham/)
+- [Cheltenham Transport Guide](/cheltenham/transport-guide/)
+- [Cheltenham Best Cafes](/cheltenham/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Brighton Suburb Guide](/brighton/)
+- [Sandringham Suburb Guide](/sandringham/)
+- [Mentone Suburb Guide](/mentone/)
+- [Mordialloc Suburb Guide](/mordialloc/)

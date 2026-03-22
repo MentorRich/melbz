@@ -1,17 +1,16 @@
 ---
 title: "Things To Do This Weekend in Melbourne — March 2026 Guide"
 cover_image: "/images/melbourne/things-to-do-this-weekend.jpg"
----
-
 suburb: "melbourne"
 vertical: "lifestyle"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 date: 2026-03-17
 updated: 2026-03-17
 description: "Your actual guide to things to do this weekend in Melbourne. Real venues, real prices, no tourism brochure nonsense. March 2026."
 tags: ["melbourne"]
 categories: ["things"]
+---
+
 # Things To Do This Weekend in Melbourne — March 2026
 
 Melbourne's turning on one of those late-autumn weekends where the weather can't decide if it's summer's last gasp or winter's opening act. Good news: everything on this list works rain or shine. We've pulled together what's actually worth your time this weekend (21–22 March), from a new film festival to rooftop drinks to the sort of lazy Sunday that starts with a croissant and ends at a pub with nowhere to be.
@@ -123,7 +122,7 @@ Melbourne Food & Wine Festival is the headline act this weekend. But honestly, t
 → [Best Cheap Eats in Melbourne Under $20](/melbourne/cheap-eats/) — because weekend plans always start with food
 → [Date Night in Melbourne — Where to Actually Take Someone](/melbourne/date-night/) — the restaurants, the bars, the walking routes
 → [New Openings in Melbourne — March 2026](/melbourne/new-openings/) — the venues that just opened their doors
-→ [Carlton Guide 2026 — Everything You Need to Know](/carlton/) — Lygon Street, the gardens, and where the locals actually eat
+→ [Carlton Guide 2026 — what you need](/carlton/) — Lygon Street, the gardens, and where the locals actually eat
 
 *Explore more suburbs: [South Melbourne](/south-melbourne/) · [South Yarra](/south-yarra/) · [Carlton](/carlton/)*
 
@@ -154,10 +153,9 @@ Melbourne Food & Wine Festival is the headline act this weekend. But honestly, t
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/southbank/](/southbank/)
-- [/richmond/](/richmond/)
-- [/collingwood/](/collingwood/)
-- [/fitzroy/](/fitzroy/)
+- [South Yarra](/south-yarra/)
+- [Southbank](/southbank/)
+- [Richmond](/richmond/)
+- [Collingwood](/collingwood/)
+- [Fitzroy](/fitzroy/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

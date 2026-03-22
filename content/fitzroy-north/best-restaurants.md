@@ -1,59 +1,87 @@
 ---
-title: "Best Restaurants in Fitzroy North Melbourne"
-description: "Where to eat in Fitzroy North: the honest guide to the suburb's restaurant scene, from weeknight dinners to special occasions."
-date: 2026-03-21
+title: "Best Restaurants in Fitzroy North Melbourne — 2026 Guide"
+description: "The best restaurants in Fitzroy North for 2026. From Turkish brunch at Bababababababa to Greek taverna dining at the Delphi, Brunswick Street's quieter end delivers."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/fitzroy-north/best-restaurants.jpg"
+cover_image_alt: "Restaurant dining on Brunswick Street Fitzroy North"
 suburb: "fitzroy-north"
-article_type: "best-of"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-keywords:
-  - "best restaurants Fitzroy North"
-  - "where to eat Fitzroy North"
-  - "dinner Fitzroy North Melbourne"
-  - "restaurants near Fitzroy North"
+tags: ["fitzroy-north", "restaurants", "dining", "brunswick-street"]
 ---
 
+[Fitzroy](/fitzroy/) North's restaurant scene reflects its multicultural roots. Greek tavernas sit alongside Turkish breakfast spots, Italian delis, and modern Australian [cafes](/fitzroy-north/best-cafes/). The strip runs along Brunswick Street's northern end and spills into Scotchmer Street and St Georges Road's North Fitzroy Village.
 
-## Eating Out in Fitzroy North
+### 1. Bababababababa
 
-Fitzroy North's restaurant scene reflects the suburb's personality. Edinburgh Gardens picnics, Brunswick Street's quieter end, and a strong local community feel. That translates into a food culture that's eclectic and adventurous.
+**Address:** 206 Nicholson Street, Fitzroy North
+**Budget:** $16-$22 per main
+**Cuisine:** Turkish
 
-You've got options from casual weeknight dinners to proper sit-down spots you save for birthdays. The range is what makes it work — you don't need to leave the suburb for good food.
+Turkish eggs ($17) with warm yogurt, chilli butter, and thick bread. Breakfast pide ($19) loaded with egg, cheese, olives, and herbs. About 15 seats, intimate, feels like eating at someone's home. The Turkish coffee ($5) is made traditionally.
 
-## What Kind of Food Can You Find?
+### 2. The Delphi Tavern
 
-The cuisine options depend on what Fitzroy North's community looks like, and right now it's a solid mix:
+**Address:** 379 Brunswick Street, Fitzroy North
+**Budget:** $16-$28 per main
+**Cuisine:** Greek
 
-**Italian** — Melbourne does Italian well, and Fitzroy North is no exception. From proper pasta joints to pizza that actually tastes like something.
+Lamb souvlaki wraps ($16), meze platter for two ($28), and the Sunday lamb kleftiko (book ahead — it sells out). The ouzo selection is extensive and the bartenders serve it properly.
 
-**Asian** — Thai, Vietnamese, Japanese, Chinese — the variety depends on the suburb's demographic mix, but you'll find options that range from quick and affordable to genuinely impressive.
+### 3. Pizza Meine Liebe
 
-**Modern Australian** — The catch-all that actually means "good food made by creative chefs who source well." Several of Fitzroy North's best spots fall into this category.
+**Address:** 231 St Georges Road, Fitzroy North
+**Budget:** $18-$28 per pizza
+**Cuisine:** Neapolitan pizza
 
-**Pub Food Done Right** — The local pub that's upgraded beyond parma and chips (though those are still available). Proper kitchen, decent wine list, and food that surprises you.
+Wood-fired Neapolitan pizza on St Georges Road. The margherita is the benchmark, the seasonal specials show creativity, and the BYO wine policy keeps the bill manageable.
 
-**Quick and Good** — Takeaway, kebabs, fish and chips, burger joints. Not flashy but essential for those nights when you don't feel like cooking but don't want to sit down either.
+### 4. Neighbourhood Wine
 
-## Weeknight vs Weekend Dining
+**Address:** 1 Reid Street, Fitzroy North
+**Budget:** $12-$24 small plates, $14-$18 wines by glass
+**Cuisine:** Modern Australian small plates
 
-**Weeknights** are your sweet spot in Fitzroy North. Walk-in friendly, quieter, and you get the kitchen's attention. Tuesday to Thursday is when locals eat out casually.
+Natural wine bar with a considered food menu. The cheese and charcuterie board is the default order. The rotating wine list favours Victorian and Australian producers.
 
-**Weekends** bring the crowds, especially Friday and Saturday nights. Book ahead for anywhere decent, or go early (6pm) to beat the rush. Sunday dinner is an underrated option — quieter than Saturday with the same quality.
+### 5. Just Italy
 
-## Price Range
+**Address:** 158 Scotchmer Street, Fitzroy North
+**Budget:** $16-$26 per main
+**Cuisine:** Italian
 
-Fitzroy North's restaurants cover a genuine range. You can have a solid dinner for a reasonable amount, or splurge on the suburb's best without Melbourne CBD prices.
+Pasta and pizza on Scotchmer Street. Fresh pasta made in-house, proper Italian technique, and prices that reflect the neighbourhood rather than the CBD.
 
-The mid-range is where Fitzroy North shines — restaurants that care about quality but don't gouge on price. That's the sweet spot here.
+## FAQ
 
-## Tips for Eating in Fitzroy North
+**What is the best restaurant in Fitzroy North?** Bababababababa for something different. The Delphi for reliable Greek. Pizza Meine Liebe for pizza. Neighbourhood Wine for a special evening.
 
-1. **Ask the locals** — the best restaurant is often the one without the marketing budget
-2. **Weeknight date nights** — better experience, easier bookings, sometimes cheaper
-3. **Try the specials** — chefs put their energy into specials, and it shows
-4. **Don't judge by decor** — some of the best food comes from the least fancy-looking places
-5. **Support the independents** — chain restaurants exist but the soul of Fitzroy North's food scene is the owner-operators
+**Do I need to book?** Essential for the Delphi on Sundays (lamb kleftiko sells out). Recommended for Neighbourhood Wine on weekends. Bababababababa is tiny — weekdays are easier.
+
+**How does Fitzroy North compare to Fitzroy for dining?** Fitzroy has more volume and more high-end options. Fitzroy North is quieter, cheaper, and more neighbourhood-focused. The quality is comparable.
+
+## Verdict
+
+Fitzroy North's restaurant scene is multicultural and personal. Turkish, Greek, Italian, and modern Australian — all within walking distance on Brunswick Street and St Georges Road. The prices sit below [Fitzroy](/fitzroy/best-restaurants/) and the atmosphere is more local. Edinburgh Gardens is a 5-minute walk from most of these venues for a post-dinner stroll.
+
+**More on Fitzroy North:** [Cheap eats in Fitzroy North](/fitzroy-north/cheap-eats/) | [Best brunch in Fitzroy North](/fitzroy-north/best-brunch/) | [Fitzroy North suburb guide](/fitzroy-north/)
 
 ---
 
-**More on Fitzroy North:** [Fitzroy North Suburb Guide](/fitzroy-north/) · [Fitzroy North Best Cafes](/fitzroy-north/best-cafes/) · [Fitzroy North Living Guide](/fitzroy-north/living-in-fitzroy-north/)
+## Explore More of Fitzroy North
+
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

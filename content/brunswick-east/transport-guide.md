@@ -1,54 +1,96 @@
 ---
-title: "Transport in Brunswick East 2026: Trains, Trams & the Commute Reality"
-slug: "transport-guide"
-date: 2026-03-21
-updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+title: "Transport in Brunswick East 2026: No Train but Plenty of Options"
+description: "How to get around Brunswick East in 2026. No train station but tram routes 96 and 1, Merri Creek cycling, and real commute times."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jack Morrison"
+cover_image: "/images/shared/tram-stop.jpg"
+cover_image_alt: "Tram stop on Nicholson Street Brunswick East with Route 96"
 suburb: "brunswick-east"
-suburbs: ["brunswick-east"]
-vertical: lifestyle
-tags: ["brunswick-east", "transport", "commute", "trains", "trams"]
-description: "How to get around Brunswick East in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/9296570/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Brunswick East Melbourne transport"
-vibe_score: 78
+tags: ["brunswick-east", "transport", "inner-north"]
 ---
 
-Brunswick East's transport game scored **B+** in our latest review. Here's what that actually means for your daily commute and weekend plans.
+Brunswick East's transport situation has one key fact you need to know upfront: **there is no train station in Brunswick East**. The nearest stations are Jewell (on the Upfield line in Brunswick) and Rushall (on the South Morang line in [Fitzroy](/fitzroy/) North). What Brunswick East does have is strong tram connections and excellent cycling infrastructure.
 
 ## Transport Scorecard
 
 | Mode | Available | Quality | Notes |
 |------|-----------|---------|-------|
-| Train | ✅ | Good | Usable but check frequency |
-| Tram | ✅ | Regular | Multiple routes, connects to CBD |
-| Bus | ✅ | Average | Fills the gaps, runs less often |
-| Cycling | ✅ | Adequate | Mixed lanes, helmet law applies |
-| Driving | ✅ | Tight parking | Permit required on most streets |
+| Train | No | N/A | Nearest: Jewell or Rushall stations |
+| Tram | Yes | Very good | Route 96 on Nicholson St, Route 1 on Lygon St |
+| Bus | Yes | Average | East-west connections |
+| Cycling | Yes | Excellent | Merri Creek Trail, flat terrain |
+| Driving | Yes | Parking tight | Competitive near Lygon Street |
 
 ## Getting to the CBD
 
-From Brunswick East to the CBD: 20-35 minutes by public transport. Trains run every 10-15 minutes during peak. Reliable but not the fastest commute.
+**By tram (Route 96):** Nicholson Street to the CBD in about 20-25 minutes. Every 5-8 minutes during peak. This is the fastest public transport option and one of Melbourne's most reliable tram routes.
 
-## The Tram & Train Routes
+**By tram (Route 1):** Lygon Street through [Carlton](/carlton/) to the CBD. About 25-30 minutes. Less frequent than the 96 but convenient if you live on the western side of the suburb.
 
-Check PTV.vic.gov.au for current timetables. The main routes serving Brunswick East connect to the CBD loop and key interchange stations.
+**By bike:** The Merri Creek Trail connects to the Capital City Trail and gets you to the CBD in about 25-30 minutes. Flat, sealed, and separated from traffic. A genuinely practical daily commute option.
+
+**By train (nearest stations):** Walk to Jewell station (Brunswick, Upfield line) — about 10-15 minutes from western Brunswick East. Or Rushall station (Fitzroy North, South Morang line) — about 10-15 minutes from southern Brunswick East.
+
+## Key Streets
+
+- **Lygon Street** — Main strip running north-south. Tram Route 1. [Cafes](/brunswick-east/best-cafes/), [restaurants](/brunswick-east/best-restaurants/), bars
+- **Nicholson Street** — Eastern boundary. Tram Route 96. Fast CBD connection
+- **Albert Street** — East-west connector through the middle of the suburb
+- **Glenlyon Road** — Residential east-west street, connects Lygon to the Merri Creek
+- **Park Street** — Southern boundary, connects to Fitzroy North
 
 ## Cycling
 
-Cycling from Brunswick East is possible but not perfect. Some routes have dedicated lanes, others are shared. Flat terrain helps.
+Brunswick East is one of Melbourne's best cycling suburbs:
 
-## Driving & Parking
+- **Merri Creek Trail** — Runs along the eastern edge. Sealed, flat, connects to the city via Capital City Trail
+- **Lygon Street** has bike lanes in sections
+- **CERES Community Environment Park** is a hub for cycling culture
+- The terrain is flat, making daily cycling genuinely practical
 
-Parking in Brunswick East is competitive. Street parking requires permits in most residential areas. If you're renting, check whether your building has a car space — they're not guaranteed.
+## Driving and Parking
+
+- **Lygon Street parking** is competitive, especially on weekends. Use side streets
+- **Nicholson Street** is a main arterial — fast but busy
+- **Residential streets** between Lygon and Nicholson have some permit zones
+- Most rentals near Lygon Street don't include car spaces — check before signing
+
+## FAQ
+
+**Does Brunswick East have a train station?**
+No. The nearest stations are Jewell (Upfield line, Brunswick) and Rushall (South Morang line, Fitzroy North), both 10-15 minutes walk from different parts of the suburb.
+
+**What trams serve Brunswick East?**
+Route 96 on Nicholson Street (fast, frequent, to CBD) and Route 1 on Lygon Street (through Carlton to CBD).
+
+**Can I commute from Brunswick East without a car?**
+Yes. Tram Route 96 is excellent for CBD commuting. The Merri Creek Trail makes cycling practical. A car is nice but genuinely optional.
 
 ## The Verdict
 
-Brunswick East gets a **B+** for transport because it covers the basics well — regular trains and bus connections. Functional. Not amazing, not a dealbreaker. You can make it work.
-
-For the full picture of living here, check our [Living in Brunswick East guide](/brunswick-east/living-in-brunswick-east/).
+Brunswick East gets a B+ for transport despite having no train station. Tram Route 96 on Nicholson Street is one of Melbourne's best tram services — fast, frequent, and direct. The Merri Creek Trail makes cycling a genuine commute option. The trade-off is clear: no train access means slightly longer journeys to suburbs not on the tram network. For CBD commuters, the trams and bikes more than compensate.
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+**More Brunswick East:** [Brunswick East Suburb Guide](/brunswick-east/) · [Brunswick East Cost of Living](/brunswick-east/cost-of-living/) · [Brunswick East Honest Guide](/brunswick-east/honest-guide/)
+
+---
+
+## Explore More of Brunswick East
+
+- [Brunswick East History](/brunswick-east/history/)
+- [Brunswick East Things To Do This Weekend](/brunswick-east/things-to-do-this-weekend/)
+- [Brunswick East Cheap Eats](/brunswick-east/cheap-eats/)
+- [Brunswick East Rent Guide](/brunswick-east/rent-guide/)
+- [Brunswick East Date Night Guide](/brunswick-east/date-night/)
+- [Brunswick East New Openings](/brunswick-east/new-openings/)
+- [Brunswick East Things To Do](/brunswick-east/things-to-do/)
+- [Brunswick East Rent Report](/brunswick-east/rent-report/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

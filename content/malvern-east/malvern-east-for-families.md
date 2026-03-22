@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Malvern East? Parks, schools, safety, 
 date: 2026-03-21
 suburb: "malvern-east"
 article_type: "families"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "is Malvern East good for families"
   - "Malvern East family friendly"
   - "raising kids in Malvern East"
+tags:
+  - "malvern-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Malvern East with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

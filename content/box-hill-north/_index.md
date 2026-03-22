@@ -1,16 +1,16 @@
 ---
-title: "Box Hill North Melbourne — Everything You Need to Know"
+title: "Box Hill North Melbourne — what you need"
 description: "The complete guide to Box Hill North. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "box-hill-north"
 article_type: "profile"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Box Hill North Melbourne"
   - "what is Box Hill North like"
   - "box-hill-north suburb"
   - "living in Box Hill North"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Residential streets, good schools, and quick access to Box Hill Central.

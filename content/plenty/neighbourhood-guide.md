@@ -4,13 +4,18 @@ description: "The insider's guide to Plenty's different pockets, streets, and ar
 date: 2026-03-21
 suburb: "plenty"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Plenty neighbourhood guide"
   - "best streets in Plenty"
   - "Plenty areas"
   - "Plenty pockets Melbourne"
+tags:
+  - "plenty"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Plenty isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

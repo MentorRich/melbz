@@ -1,18 +1,13 @@
 ---
-title: "Transport in Cremorne 2026: Trains, Trams & the Commute Reality"
-slug: "transport-guide"
-date: 2026-03-21
-updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+title: "Transport in Cremorne 2026: No Train Station, But Here Is How You Get Around"
+description: "How to get around Cremorne in 2026. No dedicated train station but Richmond is close. Church Street trams, Yarra River cycling paths, and real commute times."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jack Morrison"
+cover_image: "/images/cremorne/transport-guide.jpg"
+cover_image_alt: "Church Street Cremorne with tram and cyclists"
 suburb: "cremorne"
-suburbs: ["cremorne"]
-vertical: lifestyle
-tags: ["cremorne", "transport", "commute", "trains", "trams"]
-description: "How to get around Cremorne in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/9951260/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Cremorne Melbourne transport"
-vibe_score: 77
+tags: ["cremorne", "transport", "commute", "cycling"]
 ---
 
 Cremorne's transport game scored **B** in our latest review. Here's what that actually means for your daily commute and weekend plans.
@@ -51,4 +46,24 @@ For the full picture of living here, check our [Living in Cremorne guide](/cremo
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Cremorne
+
+- [Cremorne History](/cremorne/history/)
+- [Cremorne Things To Do This Weekend](/cremorne/things-to-do-this-weekend/)
+- [Cremorne Cheap Eats](/cremorne/cheap-eats/)
+- [Cremorne Rent Guide](/cremorne/rent-guide/)
+- [Cremorne Date Night Guide](/cremorne/date-night/)
+- [Cremorne Cremorne For Retirees](/cremorne/cremorne-for-retirees/)
+- [Cremorne New Openings](/cremorne/new-openings/)
+- [Cremorne Things To Do](/cremorne/things-to-do/)
+
+### Nearby Suburbs Worth Checking
+
+- [Cranbourne North Suburb Guide](/cranbourne-north/)
+- [Cranbourne West Suburb Guide](/cranbourne-west/)
+- [Croydon Suburb Guide](/croydon/)
+- [Croydon North Suburb Guide](/croydon-north/)

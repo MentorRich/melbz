@@ -1,16 +1,16 @@
 ---
-title: "Essendon Melbourne — Everything You Need to Know"
+title: "Essendon Melbourne — what you need"
 description: "The complete guide to Essendon. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "essendon"
 article_type: "profile"
 author: "Aisha Patel"
-author_image: "/images/authors/aisha.jpg"
 keywords:
   - "Essendon Melbourne"
   - "what is Essendon like"
   - "essendon suburb"
   - "living in Essendon"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Rose Street shopping, Bombers territory, and one of Melbourne's most complete family suburbs.

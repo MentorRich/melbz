@@ -4,16 +4,22 @@ description: "The story of Vermont: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "vermont"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Vermont Melbourne history"
   - "how has Vermont changed"
   - "Vermont gentrification"
   - "Vermont then and now"
+tags:
+  - "vermont"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Vermont's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Every neighbourhood has chapters. The most interesting ones for Vermont involve post-war migration and renewal.
 
 See our full [Vermont suburb guide](/vermont/) for the current picture.
 

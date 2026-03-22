@@ -4,16 +4,22 @@ description: "How expensive is Jacana? Rent, daily costs, and how this Melbourne
 date: 2026-03-21
 suburb: "jacana"
 article_type: "cost-of-living"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "cost of living Jacana Melbourne"
   - "how expensive is Jacana"
   - "is Jacana expensive to live in"
   - "Jacana rent"
+tags:
+  - "jacana"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Jacana — no sugar-coating, no made-up figures.
+Rent in Jacana tells one story. Groceries, coffee, and parking tell another. Here is the full picture.
 
 Read our full [Jacana suburb guide](/jacana/) for the bigger picture.
 

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Mill Park? Parks, schools, safety, and
 date: 2026-03-21
 suburb: "mill-park"
 article_type: "families"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "is Mill Park good for families"
   - "Mill Park family friendly"
   - "raising kids in Mill Park"
+tags:
+  - "mill-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Mill Park with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

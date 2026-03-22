@@ -4,13 +4,18 @@ description: "The insider's guide to Wattle Glen's different pockets, streets, a
 date: 2026-03-21
 suburb: "wattle-glen"
 article_type: "neighbourhood"
-author: "jack"
-author_image: "/images/authors/jack.jpg" 
+author: "Jack Morrison"
 keywords:
   - "Wattle Glen neighbourhood guide"
   - "best streets in Wattle Glen"
   - "Wattle Glen areas"
   - "Wattle Glen pockets Melbourne"
+tags:
+  - "wattle-glen"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Wattle Glen isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

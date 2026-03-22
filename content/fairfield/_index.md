@@ -1,16 +1,16 @@
 ---
-title: "Fairfield Melbourne — Everything You Need to Know"
+title: "Fairfield Melbourne — what you need"
 description: "The complete guide to Fairfield. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "fairfield"
 article_type: "profile"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Fairfield Melbourne"
   - "what is Fairfield like"
   - "fairfield suburb"
   - "living in Fairfield"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Fairfield Village charm, Yarra River trails, and one of Melbourne's most underrated family pockets.

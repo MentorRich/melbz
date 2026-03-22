@@ -3,13 +3,13 @@ title: "Best Melbourne Suburbs for Families 2026"
 description: "Raising kids in Melbourne? The suburbs that actually deliver on schools, parks, safety, and community."
 date: 2026-03-21
 article_type: "trending"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "best suburbs families melbourne"
   - "family friendly suburbs melbourne"
   - "where to raise kids melbourne"
   - "best schools suburbs melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Raising kids in Melbourne? The suburbs that actually deliver on schools, parks, safety, and community.

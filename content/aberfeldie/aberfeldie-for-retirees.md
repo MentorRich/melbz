@@ -4,12 +4,16 @@ description: "Considering retirement in Aberfeldie? Quiet streets, healthcare ac
 date: 2026-03-21
 suburb: "aberfeldie"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Aberfeldie retirees Melbourne"
   - "retiring in Aberfeldie"
   - "quiet suburbs Melbourne"
+tags:
+  - "aberfeldie"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Aberfeldie? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

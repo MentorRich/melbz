@@ -4,15 +4,22 @@ description: "Public transport in Ringwood East: trains, trams, buses, cycling, 
 date: 2026-03-21
 suburb: "ringwood-east"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Ringwood East Melbourne"
   - "commute from Ringwood East to city"
   - "Ringwood East train station"
+tags:
+  - "ringwood-east"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Ringwood East — what works, what's annoying, and how long things actually take.
+Ringwood East transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Ringwood East suburb guide](/ringwood-east/) for the complete picture.
 

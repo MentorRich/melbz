@@ -4,16 +4,22 @@ description: "The story of Springvale: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "springvale"
 article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Springvale Melbourne history"
   - "how has Springvale changed"
   - "Springvale gentrification"
   - "Springvale then and now"
+tags:
+  - "springvale"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Springvale's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+The history of Springvale shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Springvale suburb guide](/springvale/) for the current picture.
 

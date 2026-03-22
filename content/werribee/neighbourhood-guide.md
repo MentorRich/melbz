@@ -4,13 +4,18 @@ description: "The insider's guide to Werribee's different pockets, streets, and 
 date: 2026-03-21
 suburb: "werribee"
 article_type: "neighbourhood"
-author: "priya"
-author_image: "/images/authors/priya.jpg" 
+author: "Priya Sandhu"
 keywords:
   - "Werribee neighbourhood guide"
   - "best streets in Werribee"
   - "Werribee areas"
   - "Werribee pockets Melbourne"
+tags:
+  - "werribee"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Werribee isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

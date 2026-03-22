@@ -4,16 +4,22 @@ description: "The story of Mooroolbark: from its origins to today. How this Melb
 date: 2026-03-21
 suburb: "mooroolbark"
 article_type: "history"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Mooroolbark Melbourne history"
   - "how has Mooroolbark changed"
   - "Mooroolbark gentrification"
   - "Mooroolbark then and now"
+tags:
+  - "mooroolbark"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Mooroolbark's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Mooroolbark is not just dates and facts - it is the DNA of the current personality of this suburb.
 
 See our full [Mooroolbark suburb guide](/mooroolbark/) for the current picture.
 

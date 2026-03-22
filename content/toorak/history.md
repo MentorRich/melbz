@@ -1,79 +1,73 @@
 ---
-title: "Toorak — History and How It's Changed"
-description: "The story of Toorak: from its origins to today. How this Melbourne suburb evolved and where it's heading next."
-date: 2026-03-21
+title: "Toorak — History and How It Became Melbourne's Address"
+description: "The history of Toorak: from 1840s gold rush mansions to Melbourne's wealthiest suburb today. Como House, Toorak Road, and how old money built 3142."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Maya Richardson"
+cover_image: "/images/toorak/history.jpg"
+cover_image_alt: "Como House and its heritage gardens in Toorak, a National Trust property dating to 1847"
 suburb: "toorak"
-article_type: "history"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
-keywords:
+tags:
   - "Toorak Melbourne history"
   - "how has Toorak changed"
-  - "Toorak gentrification"
+  - "Como House Toorak"
   - "Toorak then and now"
 ---
 
-Every Melbourne suburb has a story. Toorak's story is one of established wealth and careful preservation. Understanding that history explains why the suburb feels the way it does today.
+Toorak's history isn't the gentrification story that defines most Melbourne inner suburbs. There was no working-class-to-trendy transformation, no waves of affordable housing replaced by cafe culture. Toorak has been Melbourne's prestige address since the suburb was first established, and understanding that continuity explains why the suburb feels the way it does today.
 
 See our full [Toorak suburb guide](/toorak/) for the current picture.
 
-## What Toorak Was Originally
+## The Origins — 1840s to 1860s
 
-Before it was what you see today, Toorak was always been one of Melbourne's more well-to-do addresses. The original residents built the suburb's foundation — the street grid, the housing stock, the community institutions that still exist in some form.
+The name "Toorak" comes from Toorak House, a grand residence built in 1849 for James Jackson, a merchant, near what is now the intersection of Toorak Road and St Georges Road. The house's name itself likely derives from an Aboriginal word, though the exact language and meaning are debated.
 
-Like most of Melbourne, Toorak's history is inseparable from the broader story of a city that grew outward from the Yarra in waves. This suburb was settled when Melbourne needed it — whether for housing workers, accommodating families, or providing a retreat from the city centre.
+When Melbourne's gold rush generated enormous wealth in the 1850s, the newly rich looked for elevated land away from the river flats and swamps of the city centre. The ridge above the Yarra — where Toorak sits — offered exactly that: high ground with views, clean air, and enough distance from the noise of commerce. The wealthy built mansions here from the start.
 
-The buildings that survive from this era tell the story. Heritage homes, the layout of the shopping strip, the positioning of parks and public spaces — all designed for a different time, adapted for the present.
+Como House on Como Avenue, built in 1847 and expanded in the 1870s, is the best surviving example of this era. Now managed by the National Trust, its Italianate architecture and landscaped gardens preserve what the suburb looked like when it was a collection of estates rather than a suburb.
 
-## The Working Years
+## The Establishment Era — 1870s to 1920s
 
-For much of the 20th century, Toorak was defined by the people who worked here and the industries that employed them. The suburb had a particular economic identity — a character shaped by what people did for a living and how they spent their time.
+By the late 19th century, Toorak was firmly established as Melbourne's most fashionable address. The streets that radiate off Toorak Road — Irving Road, Albany Road, St Georges Road, Lansell Road — filled with grand homes in Victorian and Edwardian styles. The suburb attracted families whose wealth came from pastoralism, mining, banking, and the professions.
 
-The community institutions from this era — the pubs, the sports clubs, the church halls — were the social infrastructure. People knew their neighbours because they worked together, drank together, and raised their kids on the same streets.
+Toorak Road itself developed as a commercial strip serving these households. The village that exists today between Canterbury Road and Wallace Avenue has its roots in this period — a curated collection of shops that catered to residents who expected quality.
 
-Migration waves brought new communities, new food, new languages, and new energy. Melbourne has always been built by people arriving from somewhere else, and Toorak absorbed each wave in its own way.
+The private schools that define Toorak's family appeal were established during this era. Melbourne Grammar School (founded 1858, though technically across the river) and Lauriston Girls' School (founded 1901 on Huntingtower Road) became pillars of the suburb's identity.
 
-## The Shift
+## The 20th Century — Stability and Subdivision
 
-Toorak's transformation came when it has maintained its status while carefully modernising infrastructure and amenities. This wasn't overnight — it happened over a decade or two, gradually enough that long-term residents watched the change happen street by street.
+Unlike suburbs such as [Fitzroy](/fitzroy/) or [Collingwood](/collingwood/) — which cycled through boom, decline, and gentrification — Toorak remained wealthy throughout the 20th century. The demographic stayed remarkably consistent: established families, professional elites, and old money.
 
-New cafes appeared where milk bars used to be. The pub got a renovation. A gallery opened in a former workshop. The rent started going up.
+The main change was architectural. Post-war subdivisions carved some of the larger estates into townhouse developments and apartment blocks. Kooyong Road and Canterbury Road saw particular density increases. The mansion-to-units conversion became a Toorak pattern — grand gardens replaced by driveways, ballrooms divided into two-bedroom flats.
 
-This is the gentrification story that plays out across Melbourne, but every suburb experiences it differently. Toorak's version has its own specific character — what was lost, what arrived, and how the community negotiated the transition.
+This wasn't decline — it was the suburb adapting to a city that needed more housing. The new apartments attracted a broader (if still wealthy) demographic, and the village shops evolved to serve them.
 
-## What Got Lost Along the Way
+## Toorak Today
 
-Every suburb transformation has a cost. The places that defined the old Toorak — the local institutions, the affordable shops, the character of a suburb that didn't care about Instagram — some of that has gone.
+The suburb in 2026 carries its history visibly. Period mansions on Irving Road sit alongside 1970s apartment blocks on Canterbury Road. The village shops include both old-establishment businesses and newer arrivals. France-Soir on Toorak Road has been serving French bistro food since the 1980s and feels like it's been here since the gold rush.
 
-Long-term residents often carry frustration about what was demolished, what closed, and who was priced out. These aren't abstract losses — they're specific buildings, specific businesses, specific people who couldn't stay.
+Toorak's cultural contribution is subtle but real: Como House hosts events and exhibitions, the gardens are maintained as public parkland, and the National Trust connection gives the suburb heritage credibility that newer prestigious suburbs (like parts of Brighton) don't possess.
 
-This is important to acknowledge honestly. Growth and improvement came at a cost, and the cost was borne unevenly.
+## FAQ
 
-## What Arrived
+**Has Toorak always been wealthy?**
+Essentially yes. Since the 1850s, it has been one of Melbourne's most expensive and prestigious addresses. There was no working-class phase.
 
-The flip side: Toorak gained a lot. Better food options, improved infrastructure, safer streets, higher property values for existing owners, more diversity of things to do.
+**What is Como House?**
+A National Trust heritage property on Como Avenue, built 1847. One of Melbourne's finest surviving colonial mansions with extensive gardens open to the public.
 
-The new arrivals brought energy and investment. The cafe scene, the restaurant culture, the cultural events — these weren't here before, and they've made the suburb genuinely more liveable for many residents.
+**When was Toorak Village established?**
+The commercial strip on Toorak Road dates to the late 19th century, though individual shops have turned over many times since.
 
-Whether the trade was worth it depends on who you ask.
+## Verdict
 
-## Toorak Today — Where It Sits Now
-
-Today, Toorak is a suburb that carries its history visibly. The old buildings alongside the new ones. The established residents alongside the newcomers. The traditional shops next to the trendy ones.
-
-This isn't a pretend version of itself — it's a real suburb with layers. Walk through Toorak and you're walking through decades of Melbourne's story, compressed into a few streets.
-
-## Where Is Toorak Heading?
-
-Toorak's trajectory is clear: continued demand, continued development, continued evolution. New apartment developments are adding density. Infrastructure investment is improving transport and public spaces.
-
-The suburb will look different again in ten years. Whether that's good or bad depends on how it's managed and whether the things that make Toorak worth living in are preserved alongside the growth.
+Toorak's history is one of remarkable consistency. While most Melbourne suburbs have reinvented themselves at least once, Toorak has maintained its position at the top of the property ladder for nearly 180 years. That stability gives the suburb a depth of character — in its architecture, its institutions, and its self-image — that more recently gentrified areas are still developing.
 
 ---
 
 **More on Toorak:**
 - [Toorak Neighbourhood Guide](/toorak/neighbourhood-guide/)
-- [Toorak Living Guide](/toorak/living-in-toorak/)
+- [Living in Toorak](/toorak/living-in-toorak/)
 - [Toorak for Families](/toorak/toorak-for-families/)
 
-**Nearby suburbs:** [South Yarra](/south-yarra/) · [Armadale](/armadale/) · [Hawthorn](/hawthorn/) · [Malvern](/malvern/)
+**Nearby suburbs:** [South Yarra](/south-yarra/) · [Hawthorn](/hawthorn/) · [Prahran](/prahran/) · [Richmond](/richmond/)

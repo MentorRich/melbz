@@ -1,20 +1,16 @@
 ---
 title: "Best Pubs in Fitzroy North — 2026 Local Guide"
+description: "The best pubs in Fitzroy North for 2026. The Terminus Hotel, Delphi Tavern, Builders Arms and more. Real pubs with real pints at real inner-north prices."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Jensen"
 cover_image: "/images/fitzroy-north/best-pubs.jpg"
+cover_image_alt: "Classic pub scene on Brunswick Street Fitzroy North"
+suburb: "fitzroy-north"
+tags: ["fitzroy-north", "pubs", "nightlife", "brunswick-street"]
 ---
 
-suburb: "fitzroy-north"
-vertical: "lifestyle"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-date: 2026-03-16
-updated: 2026-03-16
-description: "Discover the best pubs in Fitzroy North. Our verified 2026 guide covers the best spots for locals."
-tags: ["fitzroy-north"]
-categories: ["general"]
-## The Best Pubs in Fitzroy North
-
-This is your verified guide to the best pubs in Fitzroy North for 2026.
+## The Best Pubs in [Fitzroy](/fitzroy/) North
 
 Fitzroy North is a suburb that knows what it is. It's not trying to be the next Fitzroy with its natural wine bars and $26 cocktails served in antique teacups. Fitzroy North is a place where you can still get a pint for under $12, where the carpet has seen things, and where the pub is still the pub — not a "venue," not a "concept," just a place to drink with your mates and maybe argue about whether the footy team should have traded that bloke in the off-season.
 
@@ -30,7 +26,7 @@ Here's where to get a proper drink in Fitzroy North.
 
 The Terminus is the beating heart of Brunswick Street's pub scene, and it's been that way for decades. This is the kind of pub where the carpet has stories to tell, where the regulars have their own glasses behind the bar, and where you can still get a VB for under $10 in 2026 without feeling like you've won the lottery.
 
-The front bar is classic pub territory — pool table slightly off-level, jukebox with a surprisingly deep catalogue of 90s rock, and a beer selection that covers the essentials without trying to impress anyone from Copenhagen. VB, Carlton Draught, Carlton Cold, plus a rotating craft tap that usually features something from a Victorian microbrewery. Pints run $10-12, which by inner north standards feels almost revolutionary.
+The front bar is classic pub territory — pool table slightly off-level, jukebox with a surprisingly deep catalogue of 90s rock, and a beer selection that covers the essentials without trying to impress anyone from Copenhagen. VB, [Carlton](/carlton/) Draught, Carlton Cold, plus a rotating craft tap that usually features something from a Victorian microbrewery. Pints run $10-12, which by inner north standards feels almost revolutionary.
 
 The bistro does honest pub food. The parma ($22) is solid, the steak sandwich ($20) doesn't pretend to be anything it's not, and the weekly specials board occasionally throws out something genuinely good. Monday schnitty nights are a local ritual that draws a mix of students, tradies finishing late shifts, and people who've lived here since before the word "gentrification" entered the vocabulary.
 
@@ -86,7 +82,7 @@ The front bar is classic pub territory — pool table, jukebox, plenty of seatin
 **Address:** 210 Gertrude Street, Fitzroy (near Fitzroy North border)
 **Best for:** Historic pub, classic pub grub, weekend sessions
 
-The Marquis of Lorne is one of Melbourne's oldest pubs, and it wears its history without being precious about it. The building dates back to the 1850s, the front bar has that worn-in comfort that only comes from decades of use, and the beer garden out the back is one of the best in the inner north.
+The Marquis of Lorne is one of Melbourne's oldest pubs, and it wears its [history](/fitzroy-north/history/) without being precious about it. The building dates back to the 1850s, the front bar has that worn-in comfort that only comes from decades of use, and the beer garden out the back is one of the best in the inner north.
 
 The beer selection is solid — VB, Carlton Draught, plus a rotating craft tap. The wine list is basic but adequate. The cocktails are straightforward, which is exactly what you want from a pub this old.
 
@@ -115,7 +111,7 @@ What makes the Rob Roy special is the atmosphere — it's the kind of place wher
 
 ### 7. The Grace Darling Hotel
 
-**Address:** 114 Smith Street, Collingwood (near Fitzroy North border)
+**Address:** 114 Smith Street, [Collingwood](/collingwood/) (near Fitzroy North border)
 **Best for:** Historic pub, rooftop bar, something a bit different
 
 The Grace Darling is technically in Collingwood, but it's close enough to Fitzroy North and good enough to deserve a mention. This is one of Melbourne's oldest pubs, and it's got the kind of character that comes from being around since 1854. The building itself is beautiful — Victorian architecture with all the trimmings, and a rooftop bar that's one of the best in the inner north.
@@ -145,7 +141,7 @@ Compared to Fitzroy proper, Fitzroy North pubs are 10-15% cheaper on average. Co
 
 ## Getting Home From the Pub
 
-Fitzroy North pubs are well-served by public transport, but it pays to plan your route home, especially late at night.
+Fitzroy North pubs are well-served by public [transport](/fitzroy-north/transport-guide/), but it pays to plan your route home, especially late at night.
 
 **Trams:** The 86 tram runs along Brunswick Street and is your best bet for getting home. Services run regularly until around 1am on weeknights and later on weekends. The 11 tram runs along the eastern edge via St Georges Road.
 
@@ -162,40 +158,22 @@ Fitzroy North pubs are well-served by public transport, but it pays to plan your
 - Carlton North has its own pub gems: [Carlton North's best pubs](/carlton-north/best-pubs)
 - North-west flavour: [Brunswick East's best pubs](/brunswick-east/best-pubs)
 
-Living in Fitzroy North? [Compare energy plans, internet, and insurance for your area.](https://compareblitz.com.au?suburb=fitzroy-north)
+---
 
-### Featured Venues
+## Explore More of Fitzroy North
 
-- **Neighbourhood Wine** at 1 Reid St, Fitzroy North VIC 3068
-- **Piedimonte's (The Deli/Cafe)** at 123 Scotchmer St, Fitzroy North VIC 3068
-- **Just Italy** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Cavallero** at 158 Scotchmer St, Fitzroy North VIC 3068
-- **Morning Market** at 559 Barkly St, Fitzroy North VIC 3068
-- **Park Street** at 815 Nicholson St, Fitzroy North VIC 3068
-- **Piedimonte's Supermarket Deli** at 42-50 Wreckyn St, North Fitzroy VIC 3068
-- **North Fitzroy Arms Hotel** at 296 Rae St, North Fitzroy VIC 3068
-- **Pizza Meine Liebe** at 231 St Georges Rd, North Fitzroy VIC 3068
-- **Rice Paper Scissors** at 307 Brunswick St, Fitzroy, VIC 3065
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
 
-### Key Highlights
+### Nearby Suburbs Worth Checking
 
-- Edinburgh Gardens
-- St Georges Road village shops
-- Capital City Trail
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/collingwood/](/collingwood/)
-- [/best-pubs-melbourne/](/best-pubs-melbourne/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

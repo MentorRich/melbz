@@ -2,16 +2,13 @@
 title: "Flemington Honest Guide 2026: Racecourse Road & Newmarket"
 cover_image: "/images/flemington/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["flemington", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Flemington Honest Guide 2026: Racecourse Road & Newmarket"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -152,20 +149,19 @@ Lived in Flemington for years? Just moved in? Passing through on Cup Day? We wan
 |--------|------|----------|----------|
 | [Ascot Vale](/suburbs/ascot-vale/) | Family-friendly with racing pedigree | Next door | Schools, quiet streets, Moonee Ponds retail |
 | [Kensington](/suburbs/kensington/) | Village feel, inner-city convenience | 1km east | Train access, local cafes, terrace charm |
-| [Footscray](/suburbs/footscray/) | Cultural melting pot, incredible food | 2km west | Vietnamese, Ethiopian, craft beer, river walks |
+| [Footscray](/suburbs/footscray/) | Cultural mix, incredible food | 2km west | Vietnamese, Ethiopian, craft beer, river walks |
 
 *Click any suburb to read the full Honest Guide.*
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
-*Have a correction or tip? Email hq@melbz101*
+*Have a correction or tip? Email hq@melbz.com.au*
 
 ## Related Articles
 
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+- [Fitzroy](/fitzroy/)
+- [Footscray](/footscray/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

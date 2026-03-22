@@ -4,16 +4,22 @@ description: "How expensive is Williamstown North? Rent, daily costs, and how th
 date: 2026-03-21
 suburb: "williamstown-north"
 article_type: "cost-of-living"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "cost of living Williamstown North Melbourne"
   - "how expensive is Williamstown North"
   - "is Williamstown North expensive to live in"
   - "Williamstown North rent"
+tags:
+  - "williamstown-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Williamstown North — no sugar-coating, no made-up figures.
+Let us talk money in Williamstown North. Not the median house price headlines - the actual weekly costs of living here.
 
 Read our full [Williamstown North suburb guide](/williamstown-north/) for the bigger picture.
 

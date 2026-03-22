@@ -4,15 +4,22 @@ description: "Public transport in Bulleen: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "bulleen"
 article_type: "transport"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "public transport Bulleen Melbourne"
   - "commute from Bulleen to city"
   - "Bulleen train station"
+tags:
+  - "bulleen"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Bulleen — what works, what's annoying, and how long things actually take.
+Bulleen transport is not glamorous, but it gets the job done - mostly. Here is exactly how.
 
 Check out our full [Bulleen suburb guide](/bulleen/) for the complete picture.
 

@@ -4,16 +4,22 @@ description: "The story of Upper Ferntree Gully: from its origins to today. How 
 date: 2026-03-21
 suburb: "upper-ferntree-gully"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Upper Ferntree Gully Melbourne history"
   - "how has Upper Ferntree Gully changed"
   - "Upper Ferntree Gully gentrification"
   - "Upper Ferntree Gully then and now"
+tags:
+  - "upper-ferntree-gully"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Upper Ferntree Gully's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+From its earliest days to now, Upper Ferntree Gully has been shaped by waves of change. Here is the timeline that matters.
 
 See our full [Upper Ferntree Gully suburb guide](/upper-ferntree-gully/) for the current picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Doreen? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "doreen"
 article_type: "retirees"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Doreen retirees Melbourne"
   - "retiring in Doreen"
   - "quiet suburbs Melbourne"
+tags:
+  - "doreen"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Doreen? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

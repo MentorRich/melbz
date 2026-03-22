@@ -4,13 +4,18 @@ description: "The insider's guide to Mont Albert North's different pockets, stre
 date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "neighbourhood"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg" 
+author: "Oscar Tan"
 keywords:
   - "Mont Albert North neighbourhood guide"
   - "best streets in Mont Albert North"
   - "Mont Albert North areas"
   - "Mont Albert North pockets Melbourne"
+tags:
+  - "mont-albert-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mont Albert North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

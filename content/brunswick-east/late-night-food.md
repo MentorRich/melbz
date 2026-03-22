@@ -1,17 +1,16 @@
 ---
 title: "Late Night Food in Brunswick East 2026: Where to Eat After Dark"
 cover_image: "/images/brunswick-east/late-night-food.jpg"
-date: 2026-03-16
-author: ethan
-author_image: "/images/authors/ethan.jpg"
+date: 2026-03-22
+author: "Ethan Cole"
+lastmod: 2026-03-22
+cover_image_alt: "Late night dining on Lygon Street Brunswick East"
+suburb: "brunswick-east"
 tags: ["brunswick-east", "late-night", "food"]
-categories: ["food"]
-description: "Late Night Food in Brunswick East 2026: Where to Eat After Dark"
+description: "Late-night food in Brunswick East for 2026 — tested spots open after 10pm on Lygon Street. Where to eat when the strip goes dark."
 ---
 
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
-
-
 
 
 *Updated 16 March 2026 | 6 places tested | Ethan Cross reporting*
@@ -23,7 +22,7 @@ Brunswick East doesn't..."
 **Updated 16 March 2026 | 6 places tested | Ethan Cross reporting**
 
 
-Brunswick East doesn't roll up its awnings at 9pm. While half of Melbourne retreats to Uber Eats and the couch, Lygon Street's northern stretch hums with woodfired ovens, robata grills, and cocktail bars that won't judge you for ordering a second plate of carbonara at 11pm. This is the suburb where Carlton's Italian heritage meets Brunswick's punk edge — and the after-dark food scene is genuinely excellent.
+Brunswick East doesn't roll up its awnings at 9pm. While half of Melbourne retreats to Uber Eats and the couch, Lygon Street's northern stretch hums with woodfired ovens, robata grills, and cocktail bars that won't judge you for ordering a second plate of carbonara at 11pm. This is the suburb where [Carlton](/carlton/)'s Italian heritage meets Brunswick's punk edge — and the after-dark food scene is genuinely excellent.
 
 I spent two weeks eating my way through every late-night option in Brunswick East (and one nearby outlier on Sydney Road) to figure out where's actually worth your evening. Here's what made the cut.
 
@@ -134,7 +133,7 @@ The Lucato brothers have created something that feels genuinely new for Melbourn
 
 **Kura Robata & Sake (22–30 Lygon St):** A polished Japanese robata grill that replaced the acclaimed Faye. The food is well-executed but the kitchen tends to wind down earlier than the venues listed above, and the prices skew higher without the late-night flexibility.
 
-**Fitzroy North options:** We deliberately kept this list to Brunswick East and its immediate borders. If you're willing to cross Alexandra Parade, you'll find spots like the Duke of Edinburgh and various Brunswick Road venues that stay open late — we'll cover those in a separate guide.
+**[Fitzroy](/fitzroy/) North options:** We deliberately kept this list to Brunswick East and its immediate borders. If you're willing to cross Alexandra Parade, you'll find spots like the Duke of Edinburgh and various Brunswick Road venues that stay open late — we'll cover those in a separate guide.
 
 
 ## 📊 Quick Comparison
@@ -167,7 +166,7 @@ The 86 tram runs the full length of Lygon Street, making it easy to bar-hop betw
 
 **Last orders:**
 
-Brunswick East's late-night food scene in 2026 is better than it's ever been. The arrival of venues like Da Bepi and 98 Lygon St has raised the bar well beyond the kebab-and-chips standard that used to define after-dark eating in the northern suburbs. Whether you're after a quick slice before bed or a three-hour izakaya session, Lygon Street and its surrounds have you covered.
+Brunswick East's late-night food scene in 2026 is better than it's ever been. The arrival of venues like Da Bepi and 98 Lygon St has raised the bar well beyond the kebab-and-chips standard that used to define after-dark eating in the northern suburbs. If you'''re after a quick slice before bed or a three-hour izakaya session, Lygon Street and its surrounds have you covered.
 
 Now go eat. It's late, and the kitchen's still open.
 
@@ -195,16 +194,15 @@ Now go eat. It's late, and the kitchen's still open.
 ### Suburb Vibe
 
 - Food: 8/10
-- Nightlife: 7/10
+- [Nightlife](/brunswick-east/nightlife-guide/): 7/10
 - Affordability: 6/10
-- Transport: 9/10
+- [Transport](/brunswick-east/transport-guide/): 9/10
 - Culture: 8/10
 ## Related Articles
 
-- [/brunswick/](/brunswick/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/brunswick-east/](/brunswick-east/)
-- [/brunswick-east/hub](/brunswick-east/hub)
+- [Brunswick](/brunswick/)
+- [Fitzroy](/fitzroy/)
+- [Carlton](/carlton/)
+- [Brunswick East](/brunswick-east/)
+- [Hub](/brunswick-east/hub)
 
-*Find more Melbourne content at [melbz.com.au](/)*

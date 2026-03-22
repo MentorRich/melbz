@@ -2,16 +2,13 @@
 title: "Port Melbourne Honest Guide 2026: Bay Street & The Beach"
 cover_image: "/images/port-melbourne/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["port-melbourne", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Port Melbourne Honest Guide 2026: Bay Street & The Beach"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -199,10 +196,9 @@ If you want the bay, the city access, and a no-pretence neighbourhood, Port Melb
 
 ## Related Articles
 
-- [/south-yarra/](/south-yarra/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [South Yarra](/south-yarra/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

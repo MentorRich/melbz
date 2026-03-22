@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Keilor Park? Parks, schools, safety, a
 date: 2026-03-21
 suburb: "keilor-park"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Keilor Park good for families"
   - "Keilor Park family friendly"
   - "raising kids in Keilor Park"
+tags:
+  - "keilor-park"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Keilor Park with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

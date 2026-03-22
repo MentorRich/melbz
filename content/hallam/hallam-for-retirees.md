@@ -4,12 +4,16 @@ description: "Considering retirement in Hallam? Quiet streets, healthcare access
 date: 2026-03-21
 suburb: "hallam"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Hallam retirees Melbourne"
   - "retiring in Hallam"
   - "quiet suburbs Melbourne"
+tags:
+  - "hallam"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Hallam? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

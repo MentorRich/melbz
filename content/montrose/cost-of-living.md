@@ -4,16 +4,22 @@ description: "How expensive is Montrose? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "montrose"
 article_type: "cost-of-living"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "cost of living Montrose Melbourne"
   - "how expensive is Montrose"
   - "is Montrose expensive to live in"
   - "Montrose rent"
+tags:
+  - "montrose"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Montrose — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Montrose, here is exactly how far your dollar goes.
 
 Read our full [Montrose suburb guide](/montrose/) for the bigger picture.
 

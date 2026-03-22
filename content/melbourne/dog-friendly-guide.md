@@ -2,15 +2,13 @@
 title: "Dog-Friendly Guide to Melbourne 2026: Parks, Cafes, and"
 cover_image: "/images/melbourne/dog-friendly-guide.jpg"
 date: 2026-03-16
-author: hannah
-author_image: "/images/authors/hannah.jpg"
+author: "Hannah Webb"
 tags: ["melbourne", "dogs", "pets", "parks"]
 categories: ["lifestyle"]
 description: "Dog-Friendly Guide to Melbourne 2026: Parks, Cafes, and Everything for Your Pup."
 ---
 
 **Updated 16 March 2026 | Hannah Levy reporting**
-
 
 
 Melbourne has always been a c...
@@ -216,10 +214,9 @@ Now go take them outside. They've been waiting.
 
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/richmond/](/richmond/)
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/collingwood/](/collingwood/)
+- [Northcote](/northcote/)
+- [Richmond](/richmond/)
+- [St Kilda](/st-kilda/)
+- [Fitzroy](/fitzroy/)
+- [Collingwood](/collingwood/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

@@ -4,15 +4,22 @@ description: "Public transport in Vermont: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "vermont"
 article_type: "transport"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "public transport Vermont Melbourne"
   - "commute from Vermont to city"
   - "Vermont train station"
+tags:
+  - "vermont"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Vermont — what works, what's annoying, and how long things actually take.
+Public transport in Vermont has its strengths and weaknesses. Here is the unfiltered version locals will not always tell you.
 
 Check out our full [Vermont suburb guide](/vermont/) for the complete picture.
 

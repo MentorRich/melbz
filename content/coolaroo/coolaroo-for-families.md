@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Coolaroo? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "coolaroo"
 article_type: "families"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "is Coolaroo good for families"
   - "Coolaroo family friendly"
   - "raising kids in Coolaroo"
+tags:
+  - "coolaroo"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Coolaroo with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

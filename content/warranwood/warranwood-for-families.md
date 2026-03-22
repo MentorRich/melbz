@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Warranwood? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "warranwood"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Warranwood good for families"
   - "Warranwood family friendly"
   - "raising kids in Warranwood"
+tags:
+  - "warranwood"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Warranwood with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

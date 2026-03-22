@@ -4,16 +4,22 @@ description: "The story of Croydon North: from its origins to today. How this Me
 date: 2026-03-21
 suburb: "croydon-north"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Croydon North Melbourne history"
   - "how has Croydon North changed"
   - "Croydon North gentrification"
   - "Croydon North then and now"
+tags:
+  - "croydon-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Croydon North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Croydon North shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Croydon North suburb guide](/croydon-north/) for the current picture.
 

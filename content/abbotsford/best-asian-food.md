@@ -1,16 +1,15 @@
 ---
 title: "Best Asian Food in Abbotsford 2026: Vietnamese, Thai & More"
+description: "Best Asian Food in Abbotsford 2026: Vietnamese, Thai & More. Updated for 2026 with real local picks and honest advice for Abbotsford in Melbourne inner east."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Yuki Tanaka"
 cover_image: "/images/abbotsford/best-asian-food.jpg"
-date: 2026-03-16
-author: yuki
-author_image: "/images/authors/yuki.jpg"
+cover_image_alt: "Best Asian Food in Abbotsford Melbourne"
+suburb: "abbotsford"
 tags: ["abbotsford", "asian", "food"]
-categories: ["food"]
-description: "Best Asian Food in Abbotsford 2026: Vietnamese, Thai & More"
 ---
-
 ***Updated 16 March 2026 | 6 places tested | Yuki Tanaka reporting***
-
 
 
 Abbotsford doesn't shout about its Asian food scene the way some suburbs do. There's no neon-lit strip flogging pad thai to tourists, no Instagram-famous banh mi stand with a queue around the block. What Abbotsford does have is a quietly fierce collection of Thai, Vietnamese, and Korean spots that locals guard jealously and visitors stumble upon by accident.
@@ -93,36 +92,3 @@ Abbotsford's Asian food scene is not about flash or Instagram. It's about solid,
 
 
 *Yuki Tanaka is MELBZ's Asian Food Editor. She grew up eating at her grandmother's knee in Footscray and has spent a decade exploring Melbourne's Asian food scene. She believes Abbotsford is underrated and wants to keep it that way.*
-
-### Featured Venues
-
-- **Café Hà Nội** at 277 Victoria St, Abbotsford VIC 3067
-- **Siam Spicy** at 152 Victoria St, Abbotsford VIC 3067  
-- **Kochi Korean BBQ** at 89 Nicholson St, Abbotsford VIC 3067
-- **Laksa King** at 205 Victoria St, Abbotsford VIC 3067
-- **Sakura Sushi** at 45 Nicholson St, Abbotsford VIC 3067
-
-### Key Highlights
-
-- Authentic Vietnamese without the tourist crowds
-- Thai curries that rival Collingwood
-- Hidden Korean BBQ gem
-- Malaysian laksa worth the trip
-
-### Suburb Vibe
-
-- Asian Food Quality: 7/10
-- Value for Money: 8/10
-- Variety: 6/10
-- Authenticity: 9/10
-- Overall: 7.5/10
-
-## Related Articles
-
-- [/collingwood/](/collingwood/)
-- [/richmond/](/richmond/)
-- [/fitzroy/](/fitzroy/)
-- [/carlton/](/carlton/)
-- [/abbotsford/](/abbotsford/)
-
-*Find more Melbourne content at [melbz.com.au](/)*

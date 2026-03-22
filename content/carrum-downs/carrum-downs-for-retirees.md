@@ -4,12 +4,16 @@ description: "Considering retirement in Carrum Downs? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "carrum-downs"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Carrum Downs retirees Melbourne"
   - "retiring in Carrum Downs"
   - "quiet suburbs Melbourne"
+tags:
+  - "carrum-downs"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Carrum Downs? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

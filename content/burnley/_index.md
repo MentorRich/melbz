@@ -1,16 +1,16 @@
 ---
-title: "Burnley Melbourne — Everything You Need to Know"
+title: "Burnley Melbourne — what you need"
 description: "The complete guide to Burnley. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "burnley"
 article_type: "profile"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "Burnley Melbourne"
   - "what is Burnley like"
   - "burnley suburb"
   - "living in Burnley"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Tiny suburb between Richmond and Hawthorn. The Gardens, Burnley Station, and not much else — that's the charm.

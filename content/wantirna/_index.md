@@ -1,16 +1,16 @@
 ---
-title: "Wantirna Melbourne — Everything You Need to Know"
+title: "Wantirna Melbourne — what you need"
 description: "The complete guide to Wantirna. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "wantirna"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Wantirna Melbourne"
   - "what is Wantirna like"
   - "wantirna suburb"
   - "living in Wantirna"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Wantirna Mall, creek trails, and established family streets in the outer east.

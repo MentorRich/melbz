@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Montrose? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "montrose"
 article_type: "families"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "is Montrose good for families"
   - "Montrose family friendly"
   - "raising kids in Montrose"
+tags:
+  - "montrose"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Montrose with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

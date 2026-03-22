@@ -1,64 +1,82 @@
 ---
-title: "What to Do in Kew This Weekend"
-description: "Your weekend in Kew sorted — from morning coffee to Saturday night plans. Updated weekly ideas for Melbourne's Inner East."
+title: "What to Do in Kew This Weekend — 2026 Guide"
+cover_image: "/images/kew/weekend-guide.jpg"
+description: "Your weekend in Kew sorted — from Studley Park morning walks to Saturday night at the Postmaster. Real plans for Melbourne's inner east."
 date: 2026-03-21
 suburb: "kew"
 article_type: "weekend"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "what to do Kew this weekend"
   - "Kew weekend"
   - "things to do Kew Saturday"
   - "Kew Sunday plans"
+tags:
+  - "kew"
+  - "weekend"
+  - "activities"
+  - "things-to-do"
+  - "melbourne"
 ---
 
-
-## Your Weekend in Kew
-
-Kew does weekends well. Whether you're the type who plans every hour or prefers to see where the day takes you, this suburb gives you enough options without overwhelming you.
+Kew does weekends at a pace that suits its character — unhurried, leafy, and centred on good food and the Yarra River trails rather than events and [nightlife](/kew/nightlife-guide/). Here is how locals actually spend a Kew weekend.
 
 ## Saturday Morning
 
-**The Coffee Run** — Start at your neighbourhood cafe. Kew's cafe culture means you've got options from "quick and efficient" to "settle in for two hours." Saturday morning flat whites hit differently when you're not rushing to work.
+**The Yarra Walk** — Start early at Studley Park Road and walk the Yarra Boulevard loop through Yarra Bend Park before the day warms up. Allow 60-90 minutes. The canopy is dense, the river is quiet, and the flying fox colony at Bellbird is most active at dawn. Bring the dog — most sections are off-leash before 9am.
 
-**Market Check** — If there's a weekend market running near Kew, it's worth the wander. Fresh produce, street food, and the kind of people-watching that makes weekend mornings worthwhile.
+**Brunch at Ora** — Come off the trail hungry and head to Ora on Pakington Street. The corn fritters and shakshuka are the picks. Weekday walk-ins are easy; Saturday before 9am or after 11:30am avoids the peak. Budget $50-$65 for two with coffee.
 
-**Park Time** — Kew's green spaces fill up on Saturday mornings with runners, dog walkers, and families. Join the park regulars or find a quiet bench.
+**Kew Junction errands** — The practical part. Coles for the weekly shop, the Kew Library if you need to return books or grab something new, and the chemist for whatever you forgot during the week.
 
 ## Saturday Afternoon
 
-**Lunch Locally** — Don't reach for Uber Eats. Walk to one of Kew's lunch spots — try somewhere you haven't been before. The mid-afternoon lull means no queues and relaxed service.
+**Studley Park Boathouse** — Hire a rowboat ($35/hour) and paddle the Yarra. On a clear Saturday afternoon this is one of inner Melbourne's most pleasant activities. The boathouse cafe serves lunch on the deck if you would rather eat than row.
 
-**Explore the Neighbourhood** — Pick a street you haven't walked down yet. Every suburb has blocks you've driven past but never explored on foot. Saturday afternoon is perfect for this.
-
-**Shop the Independent Stores** — Support local. Kew's independent shops are the ones that give the suburb its character. Browse without pressure, buy something you didn't know you needed.
+**High Street browsing** — Walk the strip between Kew Junction and the Cotham Road intersection. The independent shops, the bottle shop for Saturday night wine, and a flat white from Kew Grind to keep you moving.
 
 ## Saturday Night
 
-**Dinner Plans** — Book ahead for the popular spots or walk in early (6pm) to skip the wait. Kew's restaurant scene covers date night to casual with mates.
+**Dinner at Centonove** — Book ahead for the handmade pasta and Italian wine list at 109 High Street. Two courses with wine for two runs $140-$180. Alternatively, Hanoi Hannah at 186 High Street does contemporary Vietnamese with cocktails in a more energetic room ($100-$130 for two).
 
-**Drinks After** — Move to a bar post-dinner. The locally preferred spots are usually a block or two from the restaurants, where the prices drop and the regulars appear.
-
-**Low-Key Alternative** — Bottle shop run, snacks from the deli, couch. Kew's bottle shops have good selections and the staff usually have recommendations.
+**Drinks at the Postmaster** — Walk down to the Postmaster Hotel for post-dinner drinks. The aperitivo bar for spritzes if the weather is warm, or the front bar for a nightcap pot. Most of Kew wraps up by 11pm, and that is fine.
 
 ## Sunday
 
-**Sleep In. Then Coffee.** — Sunday in Kew starts slower. The cafes know this — service is relaxed, tables turn slower, and nobody judges you for staring at your phone.
+**Slow start** — Sunday in Kew starts at the pace the suburb was designed for. Coffee from Short Straw, the Sunday papers at the kitchen table, and no particular urgency about anything.
 
-**Sunday Walk** — The long walk you didn't do Saturday because you were too comfortable. Loop through Kew and into the neighbouring suburb. Find a coffee stop halfway through.
+**Afternoon walk** — Denmark Street between Cotham Road and High Street for the best heritage architecture in the suburb. Follow it with Howard Dawson Reserve for a sit on the grass.
 
-**Sunday Pub Session** — If Kew's pubs do Sunday sessions, these are gold. Relaxed, possibly live music, definitely relaxed dress code. The best cure for Sunday evening dread.
+**Sunday pub session** — The Harp of Erin on Cotham Road does a genuine Sunday session. Quieter than Saturday, possibly live music in the back room, and the kind of unhurried afternoon that sets up the week properly.
 
-**Prep for Monday** — We all have to do it. Grocery run through Kew's shops, meal prep, and set the week up. At least you're doing it in a suburb with good options.
+## FAQ
 
-## Monthly Rituals
+**Is there enough to do in Kew for a whole weekend?** Yes, if your idea of a good weekend involves outdoor walking, good food, and relaxation rather than events and nightlife. Kew is built for the low-key weekend, and it does it exceptionally well.
 
-- **Try a new restaurant** you haven't been to yet
-- **Walk a neighbourhood you usually drive through**
-- **Check local event listings** for one-off markets, exhibitions, or community events
-- **Have one completely unplanned day** — no bookings, no plans, just see what Kew offers when you say yes to whatever comes up
+**What if I want nightlife on Saturday?** Take tram 48 to [Richmond](/richmond/) — you are there in 15 minutes with access to Swan Street and Bridge Road venues. Or head to [Hawthorn](/hawthorn/)'s Glenferrie Road strip for bars and late-night options.
+
+**Best rainy weekend plan in Kew?** Kew Library in the morning, lunch at Hanoi Rose on High Street, and an afternoon at the Postmaster with a book and a pot.
 
 ---
 
-**More on Kew:** [Kew Suburb Guide](/kew/) · [Kew Things to Do](/kew/things-to-do/) · [Kew Best Restaurants](/kew/best-restaurants/)
+**More on Kew:** [Kew Suburb Guide](/kew/) · [Things to Do in Kew](/kew/things-to-do/) · [Best [Restaurants](/kew/best-restaurants/) in Kew](/kew/best-restaurants/)
+
+---
+
+## Explore More of Kew
+
+- [Kew History](/kew/history/)
+- [Kew Rent Guide](/kew/rent-guide/)
+- [Kew Kew For Retirees](/kew/kew-for-retirees/)
+- [Kew Things To Do](/kew/things-to-do/)
+- [Kew Cost of Living](/kew/cost-of-living/)
+- [Kew Young Professionals Guide](/kew/young-professionals/)
+- [Kew Nightlife Guide](/kew/nightlife-guide/)
+- [Kew Transport Guide](/kew/transport-guide/)
+
+### Nearby Suburbs Worth Checking
+
+- [Richmond Suburb Guide](/richmond/)
+- [Hawthorn Suburb Guide](/hawthorn/)
+- [Camberwell Suburb Guide](/camberwell/)
+- [Glen Iris Suburb Guide](/glen-iris/)

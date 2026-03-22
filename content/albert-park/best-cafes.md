@@ -4,13 +4,20 @@ description: "Where to find the best coffee and cafes in Albert Park. Local pick
 date: 2026-03-21
 suburb: "albert-park"
 article_type: "best-of"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "best cafes Albert Park"
   - "coffee Albert Park Melbourne"
   - "cafes near Albert Park"
   - "brunch Albert Park"
+tags:
+  - "albert-park"
+  - "cafes"
+  - "brunch"
+  - "coffee"
+  - "food"
+  - "melbourne"
+cover_image: "/images/shared/cafe-street.jpg"
 ---
 
 
@@ -59,3 +66,23 @@ Albert Park's cafe scene is laid-back but legitimate. You won't struggle to find
 ---
 
 **More on Albert Park:** [Albert Park Suburb Guide](/albert-park/) · [Albert Park Cost of Living](/albert-park/cost-of-living/) · [Albert Park Neighbourhood Guide](/albert-park/neighbourhood-guide/)
+
+---
+
+## Explore More of Albert Park
+
+- [Albert Park History](/albert-park/history/)
+- [Albert Park Rent Guide](/albert-park/rent-guide/)
+- [Albert Park Things To Do](/albert-park/things-to-do/)
+- [Albert Park Cost of Living](/albert-park/cost-of-living/)
+- [Albert Park Young Professionals Guide](/albert-park/young-professionals/)
+- [Albert Park Nightlife Guide](/albert-park/nightlife-guide/)
+- [Albert Park Transport Guide](/albert-park/transport-guide/)
+- [Albert Park Best Restaurants](/albert-park/best-restaurants/)
+
+### Nearby Suburbs Worth Checking
+
+- [South Yarra Suburb Guide](/south-yarra/)
+- [Prahran Suburb Guide](/prahran/)
+- [Windsor Suburb Guide](/windsor/)
+- [St Kilda Suburb Guide](/st-kilda/)

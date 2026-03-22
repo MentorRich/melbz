@@ -4,12 +4,16 @@ description: "Considering retirement in Lysterfield? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "lysterfield"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Lysterfield retirees Melbourne"
   - "retiring in Lysterfield"
   - "quiet suburbs Melbourne"
+tags:
+  - "lysterfield"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Lysterfield? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

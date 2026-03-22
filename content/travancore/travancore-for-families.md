@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Travancore? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "travancore"
 article_type: "families"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "is Travancore good for families"
   - "Travancore family friendly"
   - "raising kids in Travancore"
+tags:
+  - "travancore"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Travancore with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

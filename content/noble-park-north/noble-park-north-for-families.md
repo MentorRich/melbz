@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Noble Park North? Parks, schools, safe
 date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "families"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "is Noble Park North good for families"
   - "Noble Park North family friendly"
   - "raising kids in Noble Park North"
+tags:
+  - "noble-park-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Moving to Noble Park North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

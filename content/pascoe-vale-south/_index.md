@@ -1,16 +1,16 @@
 ---
-title: "Pascoe Vale South Melbourne — Everything You Need to Know"
+title: "Pascoe Vale South Melbourne — what you need"
 description: "The complete guide to Pascoe Vale South. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "pascoe-vale-south"
 article_type: "profile"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Pascoe Vale South Melbourne"
   - "what is Pascoe Vale South like"
   - "pascoe-vale-south suburb"
   - "living in Pascoe Vale South"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small pocket between Pascoe Vale and Coburg. Quiet, close to everything.

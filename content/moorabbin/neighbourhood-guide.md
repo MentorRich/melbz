@@ -4,13 +4,18 @@ description: "The insider's guide to Moorabbin's different pockets, streets, and
 date: 2026-03-21
 suburb: "moorabbin"
 article_type: "neighbourhood"
-author: "maya"
-author_image: "/images/authors/maya.jpg" 
+author: "Maya Chen"
 keywords:
   - "Moorabbin neighbourhood guide"
   - "best streets in Moorabbin"
   - "Moorabbin areas"
   - "Moorabbin pockets Melbourne"
+tags:
+  - "moorabbin"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moorabbin isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

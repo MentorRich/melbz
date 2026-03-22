@@ -1,16 +1,16 @@
 ---
-title: "Caulfield East Melbourne — Everything You Need to Know"
+title: "Caulfield East Melbourne — what you need"
 description: "The complete guide to Caulfield East. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "caulfield-east"
 article_type: "profile"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Caulfield East Melbourne"
   - "what is Caulfield East like"
   - "caulfield-east suburb"
   - "living in Caulfield East"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Small residential pocket near Caulfield Racecourse.

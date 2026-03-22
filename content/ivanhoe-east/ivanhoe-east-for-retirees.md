@@ -4,12 +4,16 @@ description: "Considering retirement in Ivanhoe East? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "ivanhoe-east"
 article_type: "retirees"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "Ivanhoe East retirees Melbourne"
   - "retiring in Ivanhoe East"
   - "quiet suburbs Melbourne"
+tags:
+  - "ivanhoe-east"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Ivanhoe East? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

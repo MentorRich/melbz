@@ -4,13 +4,18 @@ description: "The insider's guide to Cranbourne's different pockets, streets, an
 date: 2026-03-21
 suburb: "cranbourne"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Cranbourne neighbourhood guide"
   - "best streets in Cranbourne"
   - "Cranbourne areas"
   - "Cranbourne pockets Melbourne"
+tags:
+  - "cranbourne"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Cranbourne isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

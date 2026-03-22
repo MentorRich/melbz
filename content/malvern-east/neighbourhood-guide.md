@@ -4,13 +4,18 @@ description: "The insider's guide to Malvern East's different pockets, streets, 
 date: 2026-03-21
 suburb: "malvern-east"
 article_type: "neighbourhood"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg" 
+author: "Tyler James"
 keywords:
   - "Malvern East neighbourhood guide"
   - "best streets in Malvern East"
   - "Malvern East areas"
   - "Malvern East pockets Melbourne"
+tags:
+  - "malvern-east"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Malvern East isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

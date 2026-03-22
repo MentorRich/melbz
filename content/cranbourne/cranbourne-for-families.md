@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Cranbourne? Parks, schools, safety, an
 date: 2026-03-21
 suburb: "cranbourne"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Cranbourne good for families"
   - "Cranbourne family friendly"
   - "raising kids in Cranbourne"
+tags:
+  - "cranbourne"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Cranbourne with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

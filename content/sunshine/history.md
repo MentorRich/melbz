@@ -4,16 +4,22 @@ description: "The story of Sunshine: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "sunshine"
 article_type: "history"
-author: "oscar"
-author_image: "/images/authors/oscar.jpg"
+author: "Oscar Tan"
 keywords:
   - "Sunshine Melbourne history"
   - "how has Sunshine changed"
   - "Sunshine gentrification"
   - "Sunshine then and now"
+tags:
+  - "sunshine"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Sunshine's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Before the cafes and apartments, Sunshine was bushland and market gardens. The transformation tells a quintessentially Melbourne story.
 
 See our full [Sunshine suburb guide](/sunshine/) for the current picture.
 

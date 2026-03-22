@@ -4,12 +4,16 @@ description: "Considering retirement in Bonbeach? Quiet streets, healthcare acce
 date: 2026-03-21
 suburb: "bonbeach"
 article_type: "retirees"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Bonbeach retirees Melbourne"
   - "retiring in Bonbeach"
   - "quiet suburbs Melbourne"
+tags:
+  - "bonbeach"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/beach-bayside.jpg"
 ---
 
 Thinking about retiring in Bonbeach? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

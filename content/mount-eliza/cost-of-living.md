@@ -4,16 +4,22 @@ description: "How expensive is Mount Eliza? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Mount Eliza Melbourne"
   - "how expensive is Mount Eliza"
   - "is Mount Eliza expensive to live in"
   - "Mount Eliza rent"
+tags:
+  - "mount-eliza"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Mount Eliza — no sugar-coating, no made-up figures.
+If you are weighing up Mount Eliza against nearby alternatives, costs will be a major factor. Let us break it down.
 
 Read our full [Mount Eliza suburb guide](/mount-eliza/) for the bigger picture.
 

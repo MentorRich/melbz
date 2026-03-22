@@ -4,16 +4,22 @@ description: "How expensive is Cairnlea? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "cairnlea"
 article_type: "cost-of-living"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "cost of living Cairnlea Melbourne"
   - "how expensive is Cairnlea"
   - "is Cairnlea expensive to live in"
   - "Cairnlea rent"
+tags:
+  - "cairnlea"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Cairnlea — no sugar-coating, no made-up figures.
+Living costs in Cairnlea have shifted over the past year. Here is where things stand in 2026.
 
 Read our full [Cairnlea suburb guide](/cairnlea/) for the bigger picture.
 

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Bayswater North? Parks, schools, safet
 date: 2026-03-21
 suburb: "bayswater-north"
 article_type: "families"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "is Bayswater North good for families"
   - "Bayswater North family friendly"
   - "raising kids in Bayswater North"
+tags:
+  - "bayswater-north"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/beach-bayside.jpg"
 ---
 
 Moving to Bayswater North with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

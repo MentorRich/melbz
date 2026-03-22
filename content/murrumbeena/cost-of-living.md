@@ -4,16 +4,22 @@ description: "How expensive is Murrumbeena? Rent, daily costs, and how this Melb
 date: 2026-03-21
 suburb: "murrumbeena"
 article_type: "cost-of-living"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "cost of living Murrumbeena Melbourne"
   - "how expensive is Murrumbeena"
   - "is Murrumbeena expensive to live in"
   - "Murrumbeena rent"
+tags:
+  - "murrumbeena"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Murrumbeena — no sugar-coating, no made-up figures.
+Money stretches differently in every suburb. In Murrumbeena, here is exactly how far your dollar goes.
 
 Read our full [Murrumbeena suburb guide](/murrumbeena/) for the bigger picture.
 

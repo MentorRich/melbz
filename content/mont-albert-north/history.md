@@ -4,16 +4,22 @@ description: "The story of Mont Albert North: from its origins to today. How thi
 date: 2026-03-21
 suburb: "mont-albert-north"
 article_type: "history"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Mont Albert North Melbourne history"
   - "how has Mont Albert North changed"
   - "Mont Albert North gentrification"
   - "Mont Albert North then and now"
+tags:
+  - "mont-albert-north"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Mont Albert North's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Mont Albert North and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Mont Albert North suburb guide](/mont-albert-north/) for the current picture.
 

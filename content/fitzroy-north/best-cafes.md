@@ -1,61 +1,82 @@
 ---
-title: "Best Cafes in Fitzroy North Melbourne"
-description: "Where to find the best coffee and cafes in Fitzroy North. Local picks, quiet corners, and the spots that actually deliver."
-date: 2026-03-21
+title: "Best Cafes in Fitzroy North Melbourne — 2026 Guide"
+description: "The best cafes in Fitzroy North for 2026. From Code Black roasters to Delphi Cafe Greek pastries, these are the Brunswick Street cafes locals go to every week."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Ethan Cole"
+cover_image: "/images/fitzroy-north/best-cafes.jpg"
+cover_image_alt: "Cafe scene on Brunswick Street Fitzroy North"
 suburb: "fitzroy-north"
-article_type: "best-of"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
-keywords:
-  - "best cafes Fitzroy North"
-  - "coffee Fitzroy North Melbourne"
-  - "cafes near Fitzroy North"
-  - "brunch Fitzroy North"
+tags: ["fitzroy-north", "cafes", "coffee", "brunch"]
 ---
 
+[Fitzroy](/fitzroy/) North's cafe scene runs along Brunswick Street's northern end, with gems hidden on Scotchmer Street and around the North Fitzroy Village on St Georges Road. The quality is high, the competition is fierce, and the prices are competitive with the rest of the inner north.
 
-## The Cafe Scene in Fitzroy North
+### 1. Code Black Coffee
 
-Fitzroy North takes its coffee seriously — this is Melbourne after all. Whether you need a pre-work flat white, a lazy Saturday brunch, or somewhere to park yourself with a laptop for three hours, this suburb has options.
+**Address:** 156 Brunswick Street, Fitzroy North
+**Budget:** Flat white $4.80, pour-over $6.50
 
-The cafe culture here reflects the neighbourhood. Edinburgh Gardens picnics, Brunswick Street's quieter end, and a strong local community feel.
+In-house roasting on a Probat, rotating single-origin filters, and baristas who care about extraction without being precious. The space is dark and moody — all black walls and timber. The food is minimal (pastries, toast) because the coffee is the point.
 
-## What Makes a Good Cafe Here
+### 2. Loretta's
 
-The best cafes in Fitzroy North aren't just about the coffee (though the coffee matters). They're the places where the staff recognise you after a few visits, where the food is genuinely good rather than just photogenic, and where you can sit for an hour without feeling rushed.
+**Address:** 380 Brunswick Street, Fitzroy North
+**Budget:** Flat white $5, mains $14-$24
 
-Local picks tend to be the ones slightly off the main strip — the place your neighbour told you about, not the one with the queue out the door on Instagram.
+The neighbourhood anchor. Eggs Benedict ($22) is the benchmark, corn fritters ($19) are golden-crisp, and the chai latte ($5.50) is made with real spice paste. High ceilings, natural light, and an atmosphere that works whether you are staying 20 minutes or 2 hours.
 
-## Types of Cafes You'll Find
+### 3. Delphi Cafe
 
-**The Morning Ritual Spot** — Opens early, nails the basics. Perfect flat white, decent toast, no fuss. In and out in 15 minutes or linger with the paper.
+**Address:** 379 Brunswick Street, Fitzroy North
+**Budget:** Flat white $4.50, Greek breakfast $18, bougatsa $12
 
-**The Brunch Destination** — Proper menu, weekend crowds, the kind of place you plan around. Usually has one or two dishes that people specifically come here for. Worth the wait most of the time.
+Greek-influenced breakfast alongside solid espresso. Spanakopita with your morning coffee, breakfast gyros in warm pita, and the bougatsa pastry for $12 — one of the cheapest good breakfasts in Melbourne.
 
-**The Work-From-Cafe** — Good WiFi, comfortable seating, doesn't mind you sitting there all morning. Usually slightly quieter on weekdays and has proper bench space.
+### 4. Alimentari
 
-**The Hidden Local** — The one only neighbourhood people know about. Might not look like much from outside. Often the best value and genuine character.
+**Address:** 289 Brunswick Street, Fitzroy (near Fitzroy North border)
+**Budget:** Flat white $4.50, sfogliatella $4.50
 
-**The All-Day Spot** — Transitions from coffee to lunch to afternoon drinks. Versatile and reliable. Good for meetings and catch-ups at any hour.
+Italian deli-cafe with cured meats, imported cheeses, and a pastry cabinet. Coffee and a sfogliatella eaten on the footpath is one of Melbourne's simple perfect breakfast experiences.
 
-## Coffee Quality in Fitzroy North
+### 5. Piedimonte's Cafe
 
-Melbourne sets the bar high for coffee, and Fitzroy North keeps up. Locally roasted beans, proper baristas who care about extraction, and enough competition that bad coffee doesn't survive here long.
+**Address:** 123 Scotchmer Street, Fitzroy North
+**Budget:** Flat white $4.50, light meals $10-$16
 
-You'll find a mix of specialty roasters and reliable multi-roaster setups. Most cafes here give you a choice of milk alternatives without making a thing about it.
+Part of the Piedimonte's supermarket family, this cafe on Scotchmer Street serves reliable coffee and simple food. Popular with locals doing their morning shop — grab a coffee while you fill the trolley.
 
-## Tips for Finding Your Spot
+## FAQ
 
-1. **Walk the back streets** — the best cafes aren't always on the main drag
-2. **Go on a weekday first** — easier to get a feel for the place without weekend chaos
-3. **Ask locals** — the barista at one cafe will usually tell you their favourite cafe (which is someone else's)
-4. **Check the food** — great coffee with bad food is a red flag for the overall standard
-5. **Look at who's there** — regulars and locals means the place has earned repeat business
+**Which Fitzroy North cafe has the best coffee?** Code Black for specialty single-origin. Loretta's for a reliable daily flat white. Delphi for something different (Greek iced coffee).
 
-## Our Verdict
+**Are Fitzroy North cafes dog-friendly?** Most welcome dogs in outdoor areas. Loretta's and Code Black both have outdoor seating.
 
-Fitzroy North's cafe scene is strong and growing. You won't struggle to find good coffee within a short walk from anywhere in the suburb. The variety means there's something for every mood and occasion.
+**Best cafe to work from?** Loretta's has the best space and WiFi. Long Play (321 Brunswick Street) also works well for laptop sessions.
+
+## Verdict
+
+Five cafes within a 10-minute walk, each doing something different. Code Black for serious coffee, Loretta's for all-day dining, Delphi for Greek tradition, Alimentari for Italian charm. The inner north sets a high bar for cafe culture, and Fitzroy North meets it.
+
+**More on Fitzroy North:** [Best coffee in Fitzroy North](/fitzroy-north/best-coffee/) | [Best brunch in Fitzroy North](/fitzroy-north/best-brunch/) | [Fitzroy North suburb guide](/fitzroy-north/)
 
 ---
 
-**More on Fitzroy North:** [Fitzroy North Suburb Guide](/fitzroy-north/) · [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/) · [Fitzroy North Neighbourhood Guide](/fitzroy-north/neighbourhood-guide/)
+## Explore More of Fitzroy North
+
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

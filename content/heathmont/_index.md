@@ -1,16 +1,16 @@
 ---
-title: "Heathmont Melbourne — Everything You Need to Know"
+title: "Heathmont Melbourne — what you need"
 description: "The complete guide to Heathmont. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "heathmont"
 article_type: "profile"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Heathmont Melbourne"
   - "what is Heathmont like"
   - "heathmont suburb"
   - "living in Heathmont"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Heathmont village, tree-lined streets, and a family suburb with semi-rural edges.

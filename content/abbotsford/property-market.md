@@ -1,19 +1,14 @@
 ---
 title: "Abbotsford Property Market — Buying Guide"
-description: "Thinking of buying in Abbotsford? What the market looks like, what to expect, and the honest view for buyers."
-date: 2026-03-21
+description: "Thinking of buying in Abbotsford? What the market looks like, what to expect, and the honest view for buyers. Updated for 2026 with real local picks and hone."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Kai Thompson"
+cover_image: "/images/abbotsford/property-market.jpg"
+cover_image_alt: "Property Market in Abbotsford Melbourne"
 suburb: "abbotsford"
-article_type: "property"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
-keywords:
-  - "buying in Abbotsford"
-  - "Abbotsford property market"
-  - "Abbotsford house prices"
-  - "real estate Abbotsford Melbourne"
+tags: ["abbotsford", "property-market"]
 ---
-
-
 ## The Abbotsford Property Market — What You Need to Know
 
 Buying in Abbotsford is a significant financial decision. Here's the reality of the market — not a sales pitch, not doom and gloom, just the facts and context you need to make a smart move.
@@ -79,4 +74,6 @@ Do your research, know your numbers, and don't let auction-day pressure override
 
 ---
 
-**More on Abbotsford:** [Abbotsford Suburb Guide](/abbotsford/) · [Abbotsford Cost of Living](/abbotsford/cost-of-living/) · [Abbotsford Neighbourhood Guide](/abbotsford/neighbourhood-guide/)
+**More Abbotsford guides:** [Abbotsford Suburb Guide](/abbotsford/) · [Best Restaurants](/abbotsford/best-restaurants/) · [Cost of Living](/abbotsford/cost-of-living/)
+
+**Nearby suburbs:** [Collingwood](/collingwood/) · [Richmond](/richmond/) · [Fitzroy](/fitzroy/)

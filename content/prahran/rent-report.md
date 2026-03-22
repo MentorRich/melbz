@@ -1,17 +1,16 @@
 ---
 title: "Rent Prices in Prahran 2026: Chapel Street Premium"
-cover_image: "/images/prahran/rent-report.jpg"
-date: 2026-03-16
-author: marcus
-author_image: "/images/authors/marcus.jpg"
-tags: ["prahran", "rent", "property"]
-categories: ["property"]
-description: "Rent Prices in Prahran 2026: Chapel Street Premium"
+description: "Detailed rent report for Prahran in 2026. Median prices, suburb comparison with South Yarra and Windsor, salary requirements, and market analysis."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Marcus Cole"
+cover_image: "/images/shared/melbourne-apartment.jpg"
+cover_image_alt: "Prahran Melbourne apartment and residential street"
+suburb: "prahran"
+tags: ["melbourne", "prahran", "rent", "property"]
 ---
 
-*description: "16 March 2026 | Marcus Cole reporting"*
-
-*Updated 16 March 2026 | Marcus Cole reporting*
+*Updated March 2026 | Marcus Cole reporting*
 
 # Rent Prices in Prahran 2026: Chapel Street Premium
 
@@ -121,7 +120,7 @@ Every rent article makes promises it can't keep. Here's what we deliberately lef
 
 Prahran in 2026 is what it's always been: one of Melbourne's most liveable inner suburbs, with excellent food, strong public transport, and a vibe that sits comfortably between buzzy and relaxed. The Chapel Street premium is real — you're paying for the postcode, the proximity, and the personality.
 
-But at $440 a week for a 1-bed and $590 for a 2-bed, you need to go in with your eyes open. Check your numbers. Use the 30% rule as a starting point, not a suggestion. And if Prahran's maths don't work for your salary, Windsor and Balastrava are right there — same trams, same inner-south energy, and a few hundred dollars a month back in your pocket.
+But at $440 a week for a 1-bed and $590 for a 2-bed, you need to go in with your eyes open. Check your numbers. Use the 30% rule as a starting point, not a suggestion. And if Prahran's maths don't work for your salary, Windsor and Balaclava are right there — same trams, same inner-south energy, and a few hundred dollars a month back in your pocket.
 
 The best thing you can do is visit the suburb, walk the streets between the market and the station, grab a coffee on Greville Street, and decide if the premium is worth it for *your* life. Because the data tells you what it costs. Only you can tell yourself if it's worth it.
 
@@ -137,38 +136,8 @@ The best thing you can do is visit the suburb, walk the streets between the mark
 
 *Sources: Domain Rental Report Q1 2026, REA Market Insights, ABS Salary Data (Cat. 6302.0), CBRE Australian Apartment Market Report 2025, The Age/Sydney Morning Herald property analysis (Feb 2026), Victorian Rental Tenancy Data. All rent figures reflect median asking rents as at March 2026. Individual results vary.*
 
-### Featured Venues
+---
 
-- **Hawker Hall** at 98 Chapel St, Windsor, VIC 3181
-- **Entrecôte** at 142-144 Greville St, Prahran, VIC 3181
-- **Tokyo Tina** at 66A Chapel St, Windsor, VIC 3181
-- **Tall Timber** at 60 Commercial Rd, Prahran VIC 3181
-- **Journeyman** at 169 Chapel St, Prahran VIC 3181
-- **Oscar Cooper** at 160 Greville St, Prahran VIC 3181
-- **Dragon Hot Pot Prahran** at 180 Commercial Rd, Prahran VIC 3181
-- **Prahran Convenience Store (The Toastie Spot)** at 208 Commercial Rd, Prahran VIC 3181
-- **Borsch, Vodka & Tears** at 173 Chapel St, Windsor VIC 3181
-- **Rice Paper Scissors** at 577 Chapel St, South Yarra, VIC 3141
+**More Prahran:** [Cost of Living](/prahran/cost-of-living/) | [Rent Guide](/prahran/rent-guide/) | [Prahran Suburb Guide](/prahran/)
 
-### Key Highlights
-
-- Prahran Market
-- Chapel Street shopping precinct
-- Grattan Gardens
-
-### Suburb Vibe
-
-- Food: 8/10
-- Nightlife: 7/10
-- Affordability: 6/10
-- Transport: 9/10
-- Culture: 8/10
-## Related Articles
-
-- [/prahran/](/prahran/)
-- [/south-yarra/](/south-yarra/)
-- [/st-kilda/](/st-kilda/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/balaclava/](/balaclava/)
-
-*Find more Melbourne content at [melbz.com.au](/)*
+**Compare:** [South Yarra](/south-yarra/) | [St Kilda](/st-kilda/) | [Carlton](/carlton/)

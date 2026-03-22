@@ -1,97 +1,95 @@
 ---
-title: "Richmond Melbourne — Everything You Need to Know"
-description: "The complete guide to Richmond. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
-date: 2026-03-21
-suburb: "richmond"
-article_type: "profile"
+title: "Richmond Melbourne — The Suburb That Runs on Pho and Footy"
+description: "Richmond guide 2026: Victoria Street Vietnamese food, Swan Street pubs, MCG on the doorstep, and genuine inner-city living 4km from the CBD."
+date: 2026-03-22
+lastmod: 2026-03-22
 author: "Mark Thompson"
-author_image: "/images/authors/sage.jpg"
-keywords:
-  - "Richmond Melbourne"
-  - "what is Richmond like"
-  - "richmond suburb"
-  - "living in Richmond"
+cover_image: "/images/shared/cafe-street.jpg"
+cover_image_alt: "Richmond Melbourne street scene with shops and cafes"
+suburb: "richmond"
+tags: ["melbourne", "richmond", "suburb-guide"]
 ---
 
-Bridge Road shopping, Victoria Street's Vietnamese food, and Swan Street's pub scene. Quintessential Melbourne.
-
-If you're thinking about living in Richmond, visiting for the first time, or just trying to work out if this place is worth your Saturday afternoon — here's the honest rundown.
+Victoria Street's Vietnamese food strip, Swan Street's pub scene, the MCG roaring on a Saturday afternoon. Richmond is inner Melbourne at its most unapologetic — 4km east of the CBD, postcode 3121, governed by the City of Yarra, and completely sure of itself.
 
 ## Where Is Richmond?
 
-Richmond sits in Melbourne's Inner East region. It's the kind of suburb where you can feel the neighbourhood's personality the minute you step off public transport. Getting to the city from here isn't a drama — you've got options depending on where exactly you are in the suburb.
+Richmond sits in Melbourne's inner east, bordered by the Yarra River to the south and Hoddle Street to the west. It shares boundaries with Collingwood to the north, Abbotsford to the northeast, Hawthorn to the east, and South Yarra and Cremorne to the south.
 
-The suburb borders Collingwood, South Yarra, Cremorne. That matters because your nearby options for food, coffee, and weekend plans extend well beyond Richmond's own postcode boundaries.
+Four key streets define the suburb: **Bridge Road** runs east-west as the traditional shopping strip (though it has quietened in recent years). **Swan Street** runs parallel, packed with restaurants, pubs, and bars. **Victoria Street** — Melbourne's "Little Saigon" — is one of the country's great food corridors. And **Church Street** connects them all north-south, anchoring the cafe and retail scene.
 
-## What's Richmond Actually Like?
+## Getting Around
 
-Bridge Road shopping, Victoria Street's Vietnamese food, and Swan Street's pub scene. Quintessential Melbourne.
+Richmond is a genuine transport hub. **Richmond Station** serves the Sandringham, Frankston, Cranbourne, Pakenham, and Glen Waverley lines — making it one of Melbourne's busiest interchanges. **East Richmond** and **Burnley** stations add more options. Tram routes 48 and 75 run along Bridge Road, the 70 along Swan Street, and the 109 along Victoria Street. Cycling along the Yarra River trails connects you to the CBD in under 15 minutes.
 
-Every suburb has a specific energy. Richmond has its own thing going on — it's not trying to be everywhere else. The streets have character, the locals know their spots, and there's a pace of life here that either suits you or doesn't.
+You can live here without a car. On match days at the MCG, you'll be grateful you don't have one.
 
-Walk around on a Saturday morning and you'll pick up the vibe pretty quickly. The cafes tell you a lot — are they packed with young couples or families with prams? That gives you a read on who lives here.
+## What Richmond Feels Like
 
-## Who Lives in Richmond?
+This is a suburb of distinct strips. Victoria Street is loud, aromatic, and packed with Vietnamese bakeries, pho restaurants, and Asian grocers. Swan Street turns on at night — pubs spill onto footpaths, the Corner Hotel draws live music crowds, and the MCG precinct charges the air on game days. Bridge Road is quieter now, the factory outlet boom having faded, but decent cafes and a few solid restaurants hold the line. Church Street connects it all with coffee shops and neighbourhood dining.
 
-Richmond draws a particular crowd. The demographics lean towards the kind of people who value what this suburb specifically offers. You'll find a mix — and it's the mix that makes it work.
+The residential streets between these strips are a mix of Victorian terraces, weatherboard cottages, 1960s brick flats, and newer apartment developments. Housing commission towers stand alongside renovated period homes. That contrast is Richmond — it has never been one thing.
 
-The community here has its own institutions, its own rhythms, its own complaints about parking. Like every Melbourne suburb, it's evolved over the past couple of decades and the people who live here now aren't necessarily the same crowd from fifteen years ago.
+## Who Lives Here?
 
-## Housing in Richmond
+Young professionals in apartments near Swan Street. Families in terraces around Church Street. Students from Swinburne University. Vietnamese families who built Victoria Street from the late 1970s onward. Italian-Australian families who have called the eastern end home since the postwar era. Footy diehards who chose the postcode for its proximity to Punt Road Oval and the MCG.
 
-The housing stock in Richmond tells the story of how the suburb has evolved. You'll find a mix of older homes that have been here for decades alongside newer build quality — townhouses, apartments, and the occasional knockdown-rebuild that sticks out on the street.
-
-If you're renting, there's decent variety depending on your budget. Share houses exist for those starting out. Units and apartments work for professionals. Families will need to hunt a bit harder for standalone homes with a backyard, but they're out there.
-
-## Getting Around Richmond
-
-Transport from Richmond is solid enough to make it work without a car for most people, though having a car definitely helps for some errands and weekend plans.
-
-**Read the full breakdown:** [Richmond Transport Guide](/richmond/transport-guide/)
-
-Quick version: you can get to the city reasonably easy. The tram and train network serves this area, and cycling infrastructure has been improving steadily.
-
-## Eating and Drinking in Richmond
-
-The food scene in Richmond reflects the suburb's personality. You've got your standby cafes that everyone in the neighbourhood swears by, a few proper restaurants that are worth a dedicated visit, and options for every mood and budget without needing to leave the suburb every time you want a decent meal.
-
-Coffee is sorted — this is Melbourne, after all. You won't struggle to find a flat white within a short walk from pretty much anywhere in the suburb.
+Richmond works because these groups share streets, share pubs, share the 109 tram, and argue about parking with equal passion.
 
 ## Is Richmond Right for You?
 
-**You'll love Richmond if:**
-- You want a suburb with genuine character and community
-- You value proximity to Melbourne's best without paying absolute top dollar
-- You like having your local spots — the cafe you don't need to think about, the pub you default to
-- You appreciate a neighbourhood that's evolved naturally rather than been manufactured
+**You'll appreciate Richmond if:**
+- You want genuine food diversity without leaving your postcode
+- Public transport access matters — Richmond Station connects to five train lines
+- You like being close to the MCG, Melbourne Park, and the Yarra River trails
+- You want inner-city energy at slightly less than South Yarra prices
 
-**It might not be for you if:**
-- You need absolute silence and a massive backyard
-- Budget is extremely tight — some areas of Richmond have crept up in cost
-- You want everything brand new and shiny
-- You're not comfortable with a suburb that has a strong identity you need to adapt to
+**It might frustrate you if:**
+- Match-day crowds and traffic bother you (there are roughly 50 AFL games at the MCG per year)
+- You need quiet residential streets at all hours — Swan Street gets loud on weekends
+- Budget is very tight — median rent for a one-bed unit runs around $500/week
+- You want a big backyard — standalone houses with gardens are scarce and expensive
 
-## Living Here — The Deep Dive
+## Explore Richmond
 
-Want more detail? We've covered every angle:
+### Eating & Drinking
+- **[Best Asian Food in Richmond](/richmond/best-asian-food/)** — Victoria Street's finest, ranked
+- **[Best Restaurants](/richmond/best-restaurants/)** — From Italian to modern Australian
+- **[Best Pubs](/richmond/best-pubs/)** — Corner Hotel to the Royston, the full crawl
+- **[Best Bars](/richmond/best-bars/)** — Wine bars, cocktail spots, and rooftop drinks
+- **[Best Coffee](/richmond/best-coffee/)** — Axil, Code Black, and the neighbourhood picks
+- **[Best Cafes](/richmond/best-cafes/)** — Weekend brunch and weekday regulars
+- **[Best Brunch](/richmond/best-brunch/)** — Saturday morning sorted
+- **[Cheap Eats](/richmond/cheap-eats/)** — Under $20, mostly on Victoria Street
+- **[Date Night](/richmond/date-night/)** — Where to take someone you actually like
 
-- **[Living in Richmond — The Honest Guide](/richmond/living-in-richmond/)** — Pros, cons, and the unfiltered truth
-- **[Is Richmond Good for Families?](/richmond/richmond-for-families/)** — Schools, parks, safety, the works
-- **[Is Richmond Good for Young Professionals?](/richmond/richmond-for-young-professionals/)** — Social scene, commute, renting
-- **[Is Richmond Good for Retirees?](/richmond/richmond-for-retirees/)** — Quiet streets, healthcare, community
-- **[Cost of Living in Richmond](/richmond/cost-of-living/)** — Rent, daily costs, and how it compares
-- **[Getting Around Richmond](/richmond/transport-guide/)** — Trains, trams, bikes, driving
-- **[Richmond Neighbourhood Guide](/richmond/neighbourhood-guide/)** — Streets, pockets, and where to be
-- **[History of Richmond](/richmond/history/)** — How this suburb became what it is today
+### Living Here
+- **[Cost of Living](/richmond/cost-of-living/)** — Real prices, rent vs buy, weekly budgets
+- **[Family Guide](/richmond/family-guide/)** — Schools, parks, and the parent verdict
+- **[Honest Guide](/richmond/honest-guide/)** — The unfiltered overview
+- **[History of Richmond](/richmond/history/)** — How this suburb became what it is
+
+## FAQ
+
+**What train lines run through Richmond?**
+Richmond Station serves the Sandringham, Frankston, Cranbourne, Pakenham, and Glen Waverley lines. East Richmond and Burnley stations provide additional access.
+
+**What is Victoria Street known for?**
+Victoria Street — often called "Little Saigon" — is Melbourne's premier Vietnamese food strip, running from Hoddle Street east through Richmond and into Abbotsford. Dozens of pho restaurants, bakeries, and Asian grocers line the street.
+
+**How far is Richmond from the CBD?**
+About 4km east. Richmond Station to Flinders Street takes under 10 minutes by train. Trams take 15-20 minutes. Cycling along the Yarra trail takes about 15 minutes.
+
+**Is Richmond good for families?**
+Richmond works for families who want inner-city convenience. Richmond Primary School and Yarra Primary School are well-regarded. Parks include Citizens Park, Barkly Gardens, and the Yarra River trails. The suburb is noisier than outer alternatives, particularly around Swan Street and on MCG match days.
 
 ## Suburbs Near Richmond
 
-- **[Collingwood](/collingwood/)** — Warehouses turned breweries, Smith Street's restaurant strip, and Melbourne's ed
-- **[South Yarra](/south-yarra/)** — Chapel Street shopping, Botanical Gardens, and Melbourne's see-and-be-seen brunc
-- **[Cremorne](/cremorne/)** — Melbourne's tech startup hub. Church Street cafes, coworking spaces, and the Yar
-- **[Abbotsford](/abbotsford/)** — Brewery district vibes with Victoria Street's Vietnamese food strip and Yarra Ri
-
+- **[Collingwood](/collingwood/)** — Smith Street dining, brewery culture, and creative energy just north of Victoria Street
+- **[South Yarra](/south-yarra/)** — Chapel Street shopping and the Botanical Gardens across the Yarra River
+- **[Cremorne](/cremorne/)** — Richmond's quieter southern neighbour with a growing cafe and tech scene
+- **[Abbotsford](/abbotsford/)** — Victoria Street continues east into a more residential stretch with Yarra River access
 
 ---
 
-*Got something to add about Richmond? Reckon we missed something? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*
+*Got something to add about Richmond? Email [hq@melbz.com.au](mailto:hq@melbz.com.au).*

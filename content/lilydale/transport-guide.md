@@ -4,15 +4,22 @@ description: "Public transport in Lilydale: trains, trams, buses, cycling, and h
 date: 2026-03-21
 suburb: "lilydale"
 article_type: "transport"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "public transport Lilydale Melbourne"
   - "commute from Lilydale to city"
   - "Lilydale train station"
+tags:
+  - "lilydale"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Lilydale — what works, what's annoying, and how long things actually take.
+The daily commute from Lilydale has a personality all its own. It is practical.
 
 Check out our full [Lilydale suburb guide](/lilydale/) for the complete picture.
 

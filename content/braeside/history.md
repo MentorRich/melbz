@@ -4,16 +4,22 @@ description: "The story of Braeside: from its origins to today. How this Melbour
 date: 2026-03-21
 suburb: "braeside"
 article_type: "history"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Braeside Melbourne history"
   - "how has Braeside changed"
   - "Braeside gentrification"
   - "Braeside then and now"
+tags:
+  - "braeside"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Braeside's story is one of industrial origins evolving into a mixed-use community. Understanding that history explains why the suburb feels the way it does today.
+Walk down any street in Braeside and you are walking through layers of Melbourne history. Here is what happened here.
 
 See our full [Braeside suburb guide](/braeside/) for the current picture.
 

@@ -4,12 +4,16 @@ description: "Considering retirement in Deer Park? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "deer-park"
 article_type: "retirees"
-author: "maya"
-author_image: "/images/authors/maya.jpg"
+author: "Maya Chen"
 keywords:
   - "Deer Park retirees Melbourne"
   - "retiring in Deer Park"
   - "quiet suburbs Melbourne"
+tags:
+  - "deer-park"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/parks-gardens.jpg"
 ---
 
 Thinking about retiring in Deer Park? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

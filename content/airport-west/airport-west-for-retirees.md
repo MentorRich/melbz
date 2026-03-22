@@ -4,12 +4,16 @@ description: "Considering retirement in Airport West? Quiet streets, healthcare 
 date: 2026-03-21
 suburb: "airport-west"
 article_type: "retirees"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg"
+author: "Marcus Cole"
 keywords:
   - "Airport West retirees Melbourne"
   - "retiring in Airport West"
   - "quiet suburbs Melbourne"
+tags:
+  - "airport-west"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Airport West? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Fawkner? Parks, schools, safety, and t
 date: 2026-03-21
 suburb: "fawkner"
 article_type: "families"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "is Fawkner good for families"
   - "Fawkner family friendly"
   - "raising kids in Fawkner"
+tags:
+  - "fawkner"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Fawkner with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

@@ -4,13 +4,18 @@ description: "The insider's guide to Lynbrook's different pockets, streets, and 
 date: 2026-03-21
 suburb: "lynbrook"
 article_type: "neighbourhood"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg" 
+author: "Ethan Cole"
 keywords:
   - "Lynbrook neighbourhood guide"
   - "best streets in Lynbrook"
   - "Lynbrook areas"
   - "Lynbrook pockets Melbourne"
+tags:
+  - "lynbrook"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Lynbrook isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

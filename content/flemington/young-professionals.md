@@ -3,19 +3,18 @@ title: "Flemington for Young Professionals 2026: Lifestyle, Cost & Nightlife"
 slug: "young-professionals"
 date: 2026-03-21
 updated: 2026-03-21
-author: dani
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 suburb: "flemington"
 suburbs: ["flemington"]
 vertical: lifestyle
 tags: ["flemington", "young-professionals", "nightlife", "lifestyle"]
 description: "Flemington for young professionals in 2026. The bars, the commute, the cost, and whether it's worth paying inner-city rent."
-cover_image: "https://images.pexels.com/photos/4845644/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
+cover_image: "/images/shared/students.jpg"
 cover_alt: "Flemington nightlife young professionals Melbourne"
 vibe_score: 67
 ---
 
-You're in your mid-20s to early-30s, you earn decent money but not Toorak money, and you want a suburb that has actual things to do after 6pm. Is Flemington it?
+Flemington attracts a certain kind of young professional. Here is whether you fit the profile - and whether it fits yours.
 
 ## The Young Professional Scorecard
 
@@ -68,4 +67,4 @@ Flemington suits young professionals who are over the inner-city premium and wan
 
 ---
 
-*Living the young professional life in Flemington? Tell us your experience — [hq@melbz101](mailto:hq@melbz101)*
+*Living the young professional life in Flemington? Tell us your experience — [hq@melbz.com.au](mailto:hq@melbz.com.au)*

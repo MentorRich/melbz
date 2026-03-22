@@ -4,15 +4,22 @@ description: "Public transport in Fairfield: trains, trams, buses, cycling, and 
 date: 2026-03-21
 suburb: "fairfield"
 article_type: "transport"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "public transport Fairfield Melbourne"
   - "commute from Fairfield to city"
   - "Fairfield train station"
+tags:
+  - "fairfield"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Fairfield — what works, what's annoying, and how long things actually take.
+Your morning commute from Fairfield depends entirely on which direction you are heading. Here is the breakdown by mode.
 
 Check out our full [Fairfield suburb guide](/fairfield/) for the complete picture.
 

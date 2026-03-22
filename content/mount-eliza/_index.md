@@ -1,16 +1,16 @@
 ---
-title: "Mount Eliza Melbourne — Everything You Need to Know"
+title: "Mount Eliza Melbourne — what you need"
 description: "The complete guide to Mount Eliza. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mount-eliza"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Mount Eliza Melbourne"
   - "what is Mount Eliza like"
   - "mount-eliza suburb"
   - "living in Mount Eliza"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Village shops, Canadian Bay Beach, and the Mornington Peninsula's most affluent family pocket.

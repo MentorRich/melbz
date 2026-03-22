@@ -4,16 +4,22 @@ description: "The story of Mitcham: from its origins to today. How this Melbourn
 date: 2026-03-21
 suburb: "mitcham"
 article_type: "history"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "Mitcham Melbourne history"
   - "how has Mitcham changed"
   - "Mitcham gentrification"
   - "Mitcham then and now"
+tags:
+  - "mitcham"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Mitcham's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+Understanding Mitcham means understanding where it came from. The history explains the character.
 
 See our full [Mitcham suburb guide](/mitcham/) for the current picture.
 

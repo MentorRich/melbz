@@ -4,12 +4,16 @@ description: "Considering retirement in Mont Albert? Quiet streets, healthcare a
 date: 2026-03-21
 suburb: "mont-albert"
 article_type: "retirees"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
 keywords:
   - "Mont Albert retirees Melbourne"
   - "retiring in Mont Albert"
   - "quiet suburbs Melbourne"
+tags:
+  - "mont-albert"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Mont Albert? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

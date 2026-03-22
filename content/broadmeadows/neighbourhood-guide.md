@@ -4,13 +4,18 @@ description: "The insider's guide to Broadmeadows's different pockets, streets, 
 date: 2026-03-21
 suburb: "broadmeadows"
 article_type: "neighbourhood"
-author: "dani"
-author_image: "/images/authors/dani.jpg" 
+author: "Dani Reyes"
 keywords:
   - "Broadmeadows neighbourhood guide"
   - "best streets in Broadmeadows"
   - "Broadmeadows areas"
   - "Broadmeadows pockets Melbourne"
+tags:
+  - "broadmeadows"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Broadmeadows isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

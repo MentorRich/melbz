@@ -2,16 +2,13 @@
 title: "Elwood Honest Guide 2026: The Village by the Bay"
 cover_image: "/images/elwood/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["elwood", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Elwood Honest Guide 2026: The Village by the Bay"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -183,10 +180,9 @@ Tell us something about Elwood that only a local would know. The weirder the bet
 
 ## Related Articles
 
-- [/st-kilda/](/st-kilda/)
-- [/fitzroy/](/fitzroy/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
-- [/balaclava/](/balaclava/)
+- [St Kilda](/st-kilda/)
+- [Fitzroy](/fitzroy/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
+- [Balaclava](/balaclava/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

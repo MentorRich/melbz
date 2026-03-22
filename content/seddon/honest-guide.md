@@ -2,16 +2,13 @@
 title: "Seddon Honest Guide 2026: The Quiet West Sider"
 cover_image: "/images/seddon/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 tags: ["seddon", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Seddon Honest Guide 2026: The Quiet West Sider"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -161,10 +158,9 @@ Just don't tell too many people. We've got parking to worry about.
 
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/fitzroy/](/fitzroy/)
-- [/footscray/](/footscray/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
+- [Northcote](/northcote/)
+- [Fitzroy](/fitzroy/)
+- [Footscray](/footscray/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

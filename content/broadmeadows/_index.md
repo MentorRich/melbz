@@ -1,16 +1,16 @@
 ---
-title: "Broadmeadows Melbourne — Everything You Need to Know"
+title: "Broadmeadows Melbourne — what you need"
 description: "The complete guide to Broadmeadows. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "broadmeadows"
 article_type: "profile"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "Broadmeadows Melbourne"
   - "what is Broadmeadows like"
   - "broadmeadows suburb"
   - "living in Broadmeadows"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Northern regional centre with major investment, train access, and one of Melbourne's most diverse communities.

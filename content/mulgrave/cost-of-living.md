@@ -4,16 +4,22 @@ description: "How expensive is Mulgrave? Rent, daily costs, and how this Melbour
 date: 2026-03-21
 suburb: "mulgrave"
 article_type: "cost-of-living"
-author: "kai"
-author_image: "/images/authors/kai.jpg"
+author: "Kai Thompson"
 keywords:
   - "cost of living Mulgrave Melbourne"
   - "how expensive is Mulgrave"
   - "is Mulgrave expensive to live in"
   - "Mulgrave rent"
+tags:
+  - "mulgrave"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Mulgrave — no sugar-coating, no made-up figures.
+Mulgrave is not the cheapest option, but it might offer the best value - depending on what you prioritise.
 
 Read our full [Mulgrave suburb guide](/mulgrave/) for the bigger picture.
 

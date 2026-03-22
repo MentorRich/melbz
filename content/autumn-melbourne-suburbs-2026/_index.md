@@ -3,13 +3,13 @@ title: "Best Melbourne Suburbs for Autumn Vibes"
 description: "Autumn in Melbourne is peak liveability. The suburbs that shine when the leaves turn and the weather cools."
 date: 2026-03-21
 article_type: "trending"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "autumn melbourne"
   - "melbourne autumn things to do"
   - "autumn suburbs melbourne"
   - "melbourne march april may"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Autumn in Melbourne is peak liveability. The suburbs that shine when the leaves turn and the weather cools.

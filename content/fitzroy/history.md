@@ -1,79 +1,94 @@
 ---
-title: "Fitzroy — History and How It's Changed"
-description: "The story of Fitzroy: from its origins to today. How this Melbourne suburb evolved and where it's heading next."
+title: "Fitzroy History — From Workers' Cottages to Wine Bars"
+description: "The history of Fitzroy: Aboriginal land, 1850s settlement, migrant waves, pub rock, gentrification, and how the suburb became what it is today."
 date: 2026-03-21
 suburb: "fitzroy"
 article_type: "history"
-author: "priya"
-author_image: "/images/authors/priya.jpg"
+author: "Priya Sandhu"
+cover_image: "/images/fitzroy/history.jpg"
 keywords:
   - "Fitzroy Melbourne history"
   - "how has Fitzroy changed"
   - "Fitzroy gentrification"
   - "Fitzroy then and now"
+tags:
+  - "fitzroy"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
 ---
 
-Every Melbourne suburb has a story. Fitzroy's story is one of working-class roots that have given way to a creative, gentrified present. Understanding that history explains why the suburb feels the way it does today.
+Fitzroy was Melbourne's first suburb. Proclaimed in 1839 — just four years after Melbourne itself — it was carved from the land of the Wurundjeri people of the Kulin Nation, who had lived along the Merri Creek and Yarra River for tens of thousands of years. That history predates everything that follows and should be acknowledged first.
 
-See our full [Fitzroy suburb guide](/fitzroy/) for the current picture.
+## 1839–1900: The Working Suburb
 
-## What Fitzroy Was Originally
+Fitzroy was laid out as a residential grid north of the infant Melbourne settlement. By the 1850s, the gold rush had flooded Victoria with immigrants and Fitzroy absorbed thousands of them. The street grid between Nicholson and Smith Streets filled with workers' cottages and double-fronted terraces — the same buildings that sell for $1.5 million today.
 
-Before it was what you see today, Fitzroy was originally a working-class neighbourhood. The original residents built the suburb's foundation — the street grid, the housing stock, the community institutions that still exist in some form.
+The suburb was working-class from the start. Boot factories, tanneries, and breweries lined Johnston Street and Smith Street. The workers who staffed them lived on the surrounding streets — Gore, Napier, George, Moor. The pubs arrived early: the Napier Hotel, the Rose Hotel, and the Rainbow Hotel were all established by the 1860s and still serve beer today.
 
-Like most of Melbourne, Fitzroy's history is inseparable from the broader story of a city that grew outward from the Yarra in waves. This suburb was settled when Melbourne needed it — whether for housing workers, accommodating families, or providing a retreat from the city centre.
+By 1900, Fitzroy was Melbourne's most densely populated suburb. It was also one of the poorest. The terraces that look charming now were cramped, poorly ventilated, and shared between multiple families. Infant mortality rates in Fitzroy were among the highest in the colony.
 
-The buildings that survive from this era tell the story. Heritage homes, the layout of the shopping strip, the positioning of parks and public spaces — all designed for a different time, adapted for the present.
+## 1900–1950: Poverty and Community
 
-## The Working Years
+Fitzroy spent the first half of the 20th century as one of Melbourne's most disadvantaged suburbs. The 1930s Depression hit hard. The housing stock deteriorated. The suburb developed a reputation for poverty, crime, and overcrowding that persisted for decades.
 
-For much of the 20th century, Fitzroy was defined by the people who worked here and the industries that employed them. The suburb had a particular economic identity — a character shaped by what people did for a living and how they spent their time.
+But community life was strong. The Fitzroy Football Club (founded 1883) was the suburb's sporting identity. St Patrick's Cathedral (nearby in East Melbourne) anchored the Irish Catholic community. The pubs were living rooms. Neighbours knew each other because they had no choice — the terraces shared walls, and the back lanes were common ground.
 
-The community institutions from this era — the pubs, the sports clubs, the church halls — were the social infrastructure. People knew their neighbours because they worked together, drank together, and raised their kids on the same streets.
+## 1950s–1970s: Migration and Public Housing
 
-Migration waves brought new communities, new food, new languages, and new energy. Melbourne has always been built by people arriving from somewhere else, and Fitzroy absorbed each wave in its own way.
+Post-war migration transformed Fitzroy. Italian, Greek, and later Vietnamese and Turkish families settled in the suburb, drawn by cheap [rent](/fitzroy/cost-of-living/) and established migrant networks. Johnston Street became a hub of Spanish and South American businesses. Victoria Parade's Vietnamese [restaurants](/fitzroy/best-restaurants/) date from this era.
 
-## The Shift
+In the 1960s, the Victorian Housing Commission demolished blocks of terraces and replaced them with the high-rise public housing towers that still stand today. Atherton Gardens (1968) on [Brunswick](/brunswick/) Street and the towers on Gertrude Street and Napier Street brought social housing residents into the suburb in large numbers. The towers were controversial then and remain so — they're ageing infrastructure, but they're also home to tight-knit communities.
 
-Fitzroy's transformation came when the creative class arrived — artists, musicians, students — drawn by cheap rent and character. This wasn't overnight — it happened over a decade or two, gradually enough that long-term residents watched the change happen street by street.
+## 1970s–1990s: Punk, Pubs, and the Creative Shift
 
-New cafes appeared where milk bars used to be. The pub got a renovation. A gallery opened in a former workshop. The rent started going up.
+Cheap rent and proximity to the city attracted artists, musicians, and students through the 1970s and '80s. Fitzroy became the epicentre of Melbourne's pub rock and post-punk scenes. The Crystal Ballroom on Brunswick Street hosted The Birthday Party, The Go-Betweens, and countless local bands. Nick Cave lived on Gertrude Street. The Tote (opened 1980 on Johnston Street) became a temple for punk and alternative music.
 
-This is the gentrification story that plays out across Melbourne, but every suburb experiences it differently. Fitzroy's version has its own specific character — what was lost, what arrived, and how the community negotiated the transition.
+Brunswick Street evolved from a working-class shopping strip to a bohemian high street. The Black Cat cafe, Mario's, and the Vegie Bar (opened 1994) defined the strip's identity. Second-hand bookshops, record stores, and artist studios moved into shopfronts that had been boot-makers and haberdashers.
 
-## What Got Lost Along the Way
+This was the era that created the "Fitzroy" that people romanticise — cheap, creative, unpredictable, and resistant to anything corporate.
 
-Every suburb transformation has a cost. The places that defined the old Fitzroy — the local institutions, the affordable shops, the character of a suburb that didn't care about Instagram — some of that has gone.
+## 2000s–Present: Gentrification
 
-Long-term residents often carry frustration about what was demolished, what closed, and who was priced out. These aren't abstract losses — they're specific buildings, specific businesses, specific people who couldn't stay.
+The same qualities that attracted artists — character housing, walkability, proximity to the CBD — attracted professionals with larger budgets. Property prices began climbing in the early 2000s and haven't stopped. The median house price crossed $1 million around 2015 and sits above $1.5 million in 2026.
 
-This is important to acknowledge honestly. Growth and improvement came at a cost, and the cost was borne unevenly.
+The gentrification of Fitzroy has been documented extensively and argued about even more. What's undeniable:
 
-## What Arrived
+- **What arrived:** Cutler & Co. (2009), Naked for Satan (2010), Lune Croissanterie (2015), Poodle Bar & Bistro (2022). A restaurant and bar scene that rivals any suburb in Australia.
+- **What left:** Affordable housing, many of the migrant-run shops on Johnston Street, the milk bars, the cheap studios that made the creative scene possible in the first place.
+- **What remains:** The public housing towers, the Napier Hotel, the Tote, Edinburgh Gardens, and a community that — despite the changes — still shows up for each other.
 
-The flip side: Fitzroy gained a lot. Better food options, improved infrastructure, safer streets, higher property values for existing owners, more diversity of things to do.
+The tension between old and new Fitzroy is the suburb's defining characteristic. The $2.5 million terrace renovation and the Commission flat share the same postcode — 3065. The $24 crème caramel at Poodle and the $9.50 banh mi at N Lee Bakery are 400 metres apart. Fitzroy holds both without resolving the contradiction.
 
-The new arrivals brought energy and investment. The cafe scene, the restaurant culture, the cultural events — these weren't here before, and they've made the suburb genuinely more liveable for many residents.
+## What's Next
 
-Whether the trade was worth it depends on who you ask.
+Fitzroy has no room to expand. The heritage overlays prevent large-scale demolition. The public housing towers are state-owned and not going anywhere. What changes now is incremental — shop tenancies turning over, apartment buildings filling vacant lots, and the ongoing negotiation between preservation and evolution.
 
-## Fitzroy Today — Where It Sits Now
-
-Today, Fitzroy is a suburb that carries its history visibly. The old buildings alongside the new ones. The established residents alongside the newcomers. The traditional shops next to the trendy ones.
-
-This isn't a pretend version of itself — it's a real suburb with layers. Walk through Fitzroy and you're walking through decades of Melbourne's story, compressed into a few streets.
-
-## Where Is Fitzroy Heading?
-
-Fitzroy's trajectory is clear: continued demand, continued development, continued evolution. New apartment developments are adding density. Infrastructure investment is improving transport and public spaces.
-
-The suburb will look different again in ten years. Whether that's good or bad depends on how it's managed and whether the things that make Fitzroy worth living in are preserved alongside the growth.
+The suburb's future depends on whether the things that make it worth living in — the community, the culture, the diversity — survive alongside the rising property values. History suggests they'll adapt. History also suggests something will be lost in the process.
 
 ---
 
-**More on Fitzroy:**
-- [Fitzroy Neighbourhood Guide](/fitzroy/neighbourhood-guide/)
-- [Fitzroy Living Guide](/fitzroy/living-in-fitzroy/)
-- [Fitzroy for Families](/fitzroy/fitzroy-for-families/)
+**More from Fitzroy:** [Neighbourhood Guide](/fitzroy/neighbourhood-guide/) · [Suburb Guide](/fitzroy/) · [Hidden Gems](/fitzroy/hidden-gems/)
 
-**Nearby suburbs:** [Collingwood](/collingwood/) · [Carlton](/carlton/) · [Fitzroy North](/fitzroy-north/) · [East Melbourne](/east-melbourne/)
+*Researched from local historical records, City of Yarra archives, and long-term resident interviews. March 2026.*
+
+---
+
+## Explore More of Fitzroy
+
+- [Fitzroy Things To Do This Weekend](/fitzroy/things-to-do-this-weekend/)
+- [Fitzroy Cheap Eats](/fitzroy/cheap-eats/)
+- [Fitzroy Rent Guide](/fitzroy/rent-guide/)
+- [Fitzroy Suburb Roast](/fitzroy/suburb-roast/)
+- [Fitzroy Date Night Guide](/fitzroy/date-night/)
+- [Fitzroy New Openings](/fitzroy/new-openings/)
+- [Fitzroy Things To Do](/fitzroy/things-to-do/)
+- [Fitzroy Cost of Living](/fitzroy/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)
+- [Brunswick Suburb Guide](/brunswick/)

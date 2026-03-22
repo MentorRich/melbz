@@ -4,16 +4,22 @@ description: "The story of Warranwood: from its origins to today. How this Melbo
 date: 2026-03-21
 suburb: "warranwood"
 article_type: "history"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
+author: "Dani Reyes"
 keywords:
   - "Warranwood Melbourne history"
   - "how has Warranwood changed"
   - "Warranwood gentrification"
   - "Warranwood then and now"
+tags:
+  - "warranwood"
+  - "history"
+  - "heritage"
+  - "culture"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Every Melbourne suburb has a story. Warranwood's story is one of farmland and orchards that became suburban housing in the post-war boom. Understanding that history explains why the suburb feels the way it does today.
+The history of Warranwood shapes everything from its street layout to its cafe culture. Here is how it all started.
 
 See our full [Warranwood suburb guide](/warranwood/) for the current picture.
 

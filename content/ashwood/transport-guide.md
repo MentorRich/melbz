@@ -4,15 +4,22 @@ description: "Public transport in Ashwood: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "ashwood"
 article_type: "transport"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Sam Walsh"
 keywords:
   - "public transport Ashwood Melbourne"
   - "commute from Ashwood to city"
   - "Ashwood train station"
+tags:
+  - "ashwood"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Ashwood — what works, what's annoying, and how long things actually take.
+If you are car-dependent, Ashwood might surprise you. If you rely on PT, read this first.
 
 Check out our full [Ashwood suburb guide](/ashwood/) for the complete picture.
 

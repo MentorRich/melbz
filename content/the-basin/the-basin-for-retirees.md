@@ -4,12 +4,16 @@ description: "Considering retirement in The Basin? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "the-basin"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "The Basin retirees Melbourne"
   - "retiring in The Basin"
   - "quiet suburbs Melbourne"
+tags:
+  - "the-basin"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in The Basin? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

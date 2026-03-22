@@ -1,16 +1,16 @@
 ---
-title: "Mordialloc Melbourne — Everything You Need to Know"
+title: "Mordialloc Melbourne — what you need"
 description: "The complete guide to Mordialloc. What it's like to live here, cost of living, transport, food, and who this suburb actually suits."
 date: 2026-03-21
 suburb: "mordialloc"
 article_type: "profile"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "Mordialloc Melbourne"
   - "what is Mordialloc like"
   - "mordialloc suburb"
   - "living in Mordialloc"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 The creek, the pier, fish and chips — Mordialloc is bayside Melbourne at its most relaxed.

@@ -4,15 +4,22 @@ description: "Public transport in East Melbourne: trains, trams, buses, cycling,
 date: 2026-03-21
 suburb: "east-melbourne"
 article_type: "transport"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "public transport East Melbourne Melbourne"
   - "commute from East Melbourne to city"
   - "East Melbourne train station"
+tags:
+  - "east-melbourne"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around East Melbourne — what works, what's annoying, and how long things actually take.
+Real talk about getting around East Melbourne: what the timetable says vs what actually happens.
 
 Check out our full [East Melbourne suburb guide](/east-melbourne/) for the complete picture.
 

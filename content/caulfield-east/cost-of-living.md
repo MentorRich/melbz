@@ -4,16 +4,22 @@ description: "How expensive is Caulfield East? Rent, daily costs, and how this M
 date: 2026-03-21
 suburb: "caulfield-east"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Priya Sandhu"
 keywords:
   - "cost of living Caulfield East Melbourne"
   - "how expensive is Caulfield East"
   - "is Caulfield East expensive to live in"
   - "Caulfield East rent"
+tags:
+  - "caulfield-east"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Caulfield East — no sugar-coating, no made-up figures.
+The cost of living in Caulfield East surprises some people. Whether that is a good or bad surprise depends on your budget.
 
 Read our full [Caulfield East suburb guide](/caulfield-east/) for the bigger picture.
 

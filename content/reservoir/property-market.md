@@ -4,13 +4,19 @@ description: "Thinking of buying in Reservoir? What the market looks like, what 
 date: 2026-03-21
 suburb: "reservoir"
 article_type: "property"
-author: "ethan"
-author_image: "/images/authors/ethan.jpg"
+author: "Ethan Cole"
 keywords:
   - "buying in Reservoir"
   - "Reservoir property market"
   - "Reservoir house prices"
   - "real estate Reservoir Melbourne"
+tags:
+  - "reservoir"
+  - "property"
+  - "real-estate"
+  - "investment"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 
@@ -80,3 +86,23 @@ Do your research, know your numbers, and don't let auction-day pressure override
 ---
 
 **More on Reservoir:** [Reservoir Suburb Guide](/reservoir/) · [Reservoir Cost of Living](/reservoir/cost-of-living/) · [Reservoir Neighbourhood Guide](/reservoir/neighbourhood-guide/)
+
+---
+
+## Explore More of Reservoir
+
+- [Reservoir History](/reservoir/history/)
+- [Reservoir Rent Guide](/reservoir/rent-guide/)
+- [Reservoir Things To Do](/reservoir/things-to-do/)
+- [Reservoir Cost of Living](/reservoir/cost-of-living/)
+- [Reservoir Reservoir For Families](/reservoir/reservoir-for-families/)
+- [Reservoir Neighbourhood Guide](/reservoir/neighbourhood-guide/)
+- [Reservoir Transport Guide](/reservoir/transport-guide/)
+- [Reservoir Best Cafes](/reservoir/best-cafes/)
+
+### Nearby Suburbs Worth Checking
+
+- [Preston Suburb Guide](/preston/)
+- [Thornbury Suburb Guide](/thornbury/)
+- [Coburg Suburb Guide](/coburg/)
+- [Pascoe Vale Suburb Guide](/pascoe-vale/)

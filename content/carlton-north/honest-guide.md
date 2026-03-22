@@ -2,16 +2,13 @@
 title: "Carlton North Honest Guide 2026: Lygon North & Real Talk"
 cover_image: "/images/carlton-north/honest-guide.jpg"
 date: 2026-03-16
-author: jack
-author_image: "/images/authors/jack.jpg"
+author: "Yemi Okafor"
 tags: ["carlton-north", "honest-guide", "lifestyle"]
 categories: ["lifestyle"]
 description: "Carlton North Honest Guide 2026: Lygon North & Real Talk"
 ---
 
 **Updated 16 March 2026 | Jack Morrison reporting**
-
-
 
 
 *Updated 16 March 2026 | Jack Morrison reporting*
@@ -182,10 +179,9 @@ Carlton North isn't for everyone. But for the people it's for — and there are 
 - Culture: 8/10
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/fitzroy/](/fitzroy/)
-- [/brunswick/](/brunswick/)
-- [/melbourne-cbd/](/melbourne-cbd/)
-- [/carlton/](/carlton/)
+- [Northcote](/northcote/)
+- [Fitzroy](/fitzroy/)
+- [Brunswick](/brunswick/)
+- [Melbourne Cbd](/melbourne-cbd/)
+- [Carlton](/carlton/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

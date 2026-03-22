@@ -4,16 +4,22 @@ description: "How expensive is Noble Park North? Rent, daily costs, and how this
 date: 2026-03-21
 suburb: "noble-park-north"
 article_type: "cost-of-living"
-author: "jack"
-author_image: "/images/authors/jack.jpg"
+author: "Jack Morrison"
 keywords:
   - "cost of living Noble Park North Melbourne"
   - "how expensive is Noble Park North"
   - "is Noble Park North expensive to live in"
   - "Noble Park North rent"
+tags:
+  - "noble-park-north"
+  - "cost-of-living"
+  - "property"
+  - "rent"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Money matters when you're choosing where to live. Here's the real story on costs in Noble Park North — no sugar-coating, no made-up figures.
+Your monthly burn rate in Noble Park North depends on a few key factors. Here is an honest accounting.
 
 Read our full [Noble Park North suburb guide](/noble-park-north/) for the bigger picture.
 

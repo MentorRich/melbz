@@ -4,12 +4,16 @@ description: "Thinking of raising kids in Wantirna? Parks, schools, safety, and 
 date: 2026-03-21
 suburb: "wantirna"
 article_type: "families"
-author: "grace"
-author_image: "/images/authors/grace.jpg"
+author: "Grace Chen"
 keywords:
   - "is Wantirna good for families"
   - "Wantirna family friendly"
   - "raising kids in Wantirna"
+tags:
+  - "wantirna"
+  - "suburb-guide"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Moving to Wantirna with kids? Here's the straight answer from the perspective of families who actually live here — not a real estate listing.

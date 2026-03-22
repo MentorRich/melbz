@@ -4,13 +4,18 @@ description: "The insider's guide to Forest Hill's different pockets, streets, a
 date: 2026-03-21
 suburb: "forest-hill"
 article_type: "neighbourhood"
-author: "kai"
-author_image: "/images/authors/kai.jpg" 
+author: "Kai Thompson"
 keywords:
   - "Forest Hill neighbourhood guide"
   - "best streets in Forest Hill"
   - "Forest Hill areas"
   - "Forest Hill pockets Melbourne"
+tags:
+  - "forest-hill"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Forest Hill isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -4,15 +4,22 @@ description: "Public transport in Macleod: trains, trams, buses, cycling, and ho
 date: 2026-03-21
 suburb: "macleod"
 article_type: "transport"
-author: "tyler"
-author_image: "/images/authors/tyler.jpg"
+author: "Tyler James"
 keywords:
   - "public transport Macleod Melbourne"
   - "commute from Macleod to city"
   - "Macleod train station"
+tags:
+  - "macleod"
+  - "transport"
+  - "commute"
+  - "trains"
+  - "trams"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
-Transport can make or break a suburb. Here's the honest rundown on getting around Macleod — what works, what's annoying, and how long things actually take.
+Macleod transport gets a mixed report card from locals. Here is why, and what it means for your commute.
 
 Check out our full [Macleod suburb guide](/macleod/) for the complete picture.
 

@@ -1,20 +1,16 @@
 ---
 title: "Dog-Friendly Fitzroy North — Parks, Cafes and Walks"
-description: "Raising a dog in Fitzroy North? Off-leash parks, pet-friendly cafes, vet access, and what doggo life looks like in this suburb."
-date: 2026-03-21
+description: "Raising a dog in Fitzroy North? Edinburgh Gardens off-leash areas, dog-friendly cafes on Brunswick Street, Merri Creek walks, and the best routes for every breed."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Dani Reyes"
+cover_image: "/images/fitzroy-north/pet-friendly.jpg"
+cover_image_alt: "Dog walking in Edinburgh Gardens Fitzroy North"
 suburb: "fitzroy-north"
-article_type: "lifestyle"
-author: "dani"
-author_image: "/images/authors/dani.jpg"
-keywords:
-  - "dog friendly Fitzroy North"
-  - "off leash park Fitzroy North"
-  - "pet friendly cafes Fitzroy North"
-  - "walking dog Fitzroy North"
+tags: ["fitzroy-north", "pet-friendly", "dogs", "parks"]
 ---
 
-
-## Being a Dog Owner in Fitzroy North
+## Being a Dog Owner in [Fitzroy](/fitzroy/) North
 
 Melbourne is a dog city, and Fitzroy North holds its own for four-legged residents. Whether you've got a cattle dog that needs actual exercise or a French Bulldog that considers a 10-minute waddle an expedition, this suburb has something for you.
 
@@ -28,7 +24,7 @@ Fitzroy North has dedicated off-leash areas where your dog can actually run. The
 - Some parks have better fencing than others — know your dog's recall before going fully off-leash
 - There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
 
-## Dog-Friendly Cafes
+## Dog-Friendly [Cafes](/fitzroy-north/best-cafes/)
 
 Multiple cafes in Fitzroy North welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
 
@@ -68,3 +64,23 @@ Veterinary clinics are accessible from Fitzroy North, including emergency after-
 ---
 
 **More on Fitzroy North:** [Fitzroy North Suburb Guide](/fitzroy-north/) · [Fitzroy North Things to Do](/fitzroy-north/things-to-do/) · [Fitzroy North for Families](/fitzroy-north/fitzroy-north-for-families/)
+
+---
+
+## Explore More of Fitzroy North
+
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

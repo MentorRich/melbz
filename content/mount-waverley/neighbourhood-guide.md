@@ -4,13 +4,18 @@ description: "The insider's guide to Mount Waverley's different pockets, streets
 date: 2026-03-21
 suburb: "mount-waverley"
 article_type: "neighbourhood"
-author: "dani"
-author_image: "/images/authors/dani.jpg" 
+author: "Dani Reyes"
 keywords:
   - "Mount Waverley neighbourhood guide"
   - "best streets in Mount Waverley"
   - "Mount Waverley areas"
   - "Mount Waverley pockets Melbourne"
+tags:
+  - "mount-waverley"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Mount Waverley isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

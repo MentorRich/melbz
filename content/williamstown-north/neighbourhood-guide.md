@@ -4,13 +4,18 @@ description: "The insider's guide to Williamstown North's different pockets, str
 date: 2026-03-21
 suburb: "williamstown-north"
 article_type: "neighbourhood"
-author: "marcus"
-author_image: "/images/authors/marcus.jpg" 
+author: "Marcus Cole"
 keywords:
   - "Williamstown North neighbourhood guide"
   - "best streets in Williamstown North"
   - "Williamstown North areas"
   - "Williamstown North pockets Melbourne"
+tags:
+  - "williamstown-north"
+  - "suburb-guide"
+  - "lifestyle"
+  - "melbourne"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Williamstown North isn't one monolithic block. Like most Melbourne suburbs, it has different pockets with different personalities. Here's how to read the suburb from the inside.

@@ -2,15 +2,13 @@
 title: "Melbourne Dating Diaries 2026: The Unfiltered Truth About"
 cover_image: "/images/melbourne/dating-diaries.jpg"
 date: 2026-03-16
-author: freya
-author_image: "/images/authors/freya.jpg"
+author: "Freya Anderson"
 tags: ["melbourne", "dating", "confessions"]
 categories: ["editorial"]
 description: "Melbourne Dating Diaries 2026: The Unfiltered Truth About Dating in Every Suburb."
 ---
 
 **Updated 16 March 2026 | Freya Anderson reporting**
-
 
 
 Look, I've been running M...
@@ -188,10 +186,9 @@ We said it. We meant it. And we know half of you are furiously typing your rebut
 
 ## Related Articles
 
-- [/northcote/](/northcote/)
-- [/south-yarra/](/south-yarra/)
-- [/prahran/](/prahran/)
-- [/southbank/](/southbank/)
-- [/st-kilda/](/st-kilda/)
+- [Northcote](/northcote/)
+- [South Yarra](/south-yarra/)
+- [Prahran](/prahran/)
+- [Southbank](/southbank/)
+- [St Kilda](/st-kilda/)
 
-*Find more Melbourne content at [melbz.com.au](/)*

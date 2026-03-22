@@ -1,21 +1,16 @@
 ---
-title: "Transport in Fitzroy North 2026: Trains, Trams & the Commute Reality"
-slug: "transport-guide"
-date: 2026-03-21
-updated: 2026-03-21
-author: jack
-author_image: "/images/authors/jack.jpg"
+title: "Transport in Fitzroy North 2026: Trams, Cycling and the Commute Reality"
+description: "How to get around Fitzroy North in 2026. Tram 11 on St Georges Road, the 86 on Brunswick Street, Merri Creek cycling paths, and real commute times to the CBD."
+date: 2026-03-22
+lastmod: 2026-03-22
+author: "Jack Morrison"
+cover_image: "/images/fitzroy-north/transport-guide.jpg"
+cover_image_alt: "Brunswick Street tram stop Fitzroy North"
 suburb: "fitzroy-north"
-suburbs: ["fitzroy-north"]
-vertical: lifestyle
-tags: ["fitzroy-north", "transport", "commute", "trains", "trams"]
-description: "How to get around Fitzroy North in 2026. Trains, trams, buses, cycling, and the real commute times nobody puts on the listing."
-cover_image: "https://images.pexels.com/photos/4765856/pexels-photo.jpeg?auto=compress&cs=tinysrgb&w=800"
-cover_alt: "Fitzroy North Melbourne transport"
-vibe_score: 80
+tags: ["fitzroy-north", "transport", "commute", "trams", "cycling"]
 ---
 
-Fitzroy North's transport game scored **B+** in our latest review. Here's what that actually means for your daily commute and weekend plans.
+[Fitzroy](/fitzroy/) North's transport game scored **B+** in our latest review. Here's what that actually means for your daily commute and weekend plans.
 
 ## Transport Scorecard
 
@@ -51,4 +46,24 @@ For the full picture of living here, check our [Living in Fitzroy North guide](/
 
 ---
 
-*Commute times based on PTV data and local testing, March 2026. [hq@melbz101](mailto:hq@melbz101)*
+*Commute times based on PTV data and local testing, March 2026. [hq@melbz.com.au](mailto:hq@melbz.com.au)*
+
+---
+
+## Explore More of Fitzroy North
+
+- [Fitzroy North History](/fitzroy-north/history/)
+- [Fitzroy North Things To Do This Weekend](/fitzroy-north/things-to-do-this-weekend/)
+- [Fitzroy North Cheap Eats](/fitzroy-north/cheap-eats/)
+- [Fitzroy North Rent Guide](/fitzroy-north/rent-guide/)
+- [Fitzroy North Date Night Guide](/fitzroy-north/date-night/)
+- [Fitzroy North New Openings](/fitzroy-north/new-openings/)
+- [Fitzroy North Things To Do](/fitzroy-north/things-to-do/)
+- [Fitzroy North Cost of Living](/fitzroy-north/cost-of-living/)
+
+### Nearby Suburbs Worth Checking
+
+- [Fitzroy Suburb Guide](/fitzroy/)
+- [Carlton Suburb Guide](/carlton/)
+- [Collingwood Suburb Guide](/collingwood/)
+- [Northcote Suburb Guide](/northcote/)

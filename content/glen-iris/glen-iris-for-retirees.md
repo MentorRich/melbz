@@ -4,12 +4,16 @@ description: "Considering retirement in Glen Iris? Quiet streets, healthcare acc
 date: 2026-03-21
 suburb: "glen-iris"
 article_type: "retirees"
-author: "lina"
-author_image: "/images/authors/lina.jpg"
+author: "Lina Nguyen"
 keywords:
   - "Glen Iris retirees Melbourne"
   - "retiring in Glen Iris"
   - "quiet suburbs Melbourne"
+tags:
+  - "glen-iris"
+  - "melbourne"
+  - "suburb-guide"
+cover_image: "/images/shared/city-architecture.jpg"
 ---
 
 Thinking about retiring in Glen Iris? Here's the honest assessment — not the real estate pitch, but what it's actually like day-to-day for people in retirement.

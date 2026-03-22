@@ -11,54 +11,77 @@ tags: ["kensington", "pet-friendly"]
 ---
 ## Being a Dog Owner in Kensington
 
-Melbourne is a dog city, and Kensington holds its own for four-legged residents. Whether you've got a cattle dog that needs actual exercise or a French Bulldog that considers a 10-minute waddle an expedition, this suburb has something for you.
+Melbourne is a dog city, and Kensington — sitting just 4km from the CBD on the Craigieburn and Sunbury lines — is a genuinely good suburb for dog owners. JJ Holland Park, the Maribyrnong River trail access, and the Bellair Street cafe culture that actively welcomes dogs create a setup that works for both high-energy breeds and apartment dogs.
 
 ## Off-Leash Parks and Spaces
 
-Kensington has dedicated off-leash areas where your dog can actually run. The local parks have designated off-leash zones (usually with time restrictions — check the signage).
+**JJ Holland Park** on Bellair Street has a designated off-leash area that gets heavy use from the local dog community. The grassed area is large enough for a proper run, and the park's central location means most Kensington residents are within walking distance. Morning sessions before 9am are the most popular.
+
+**Kensington Recreation Reserve** on Altona Street has additional off-leash access during designated hours. The space is more open than JJ Holland, which suits larger or higher-energy breeds.
+
+**Kensington Banks** — The newer residential area near the Maribyrnong River has parkland with off-leash zones. The riverside setting gives dogs more variety than the manicured parks.
+
+Check Moonee Valley Council signage for current time restrictions — typically off-leash before 9am and after 5pm at most parks.
 
 **What to expect:**
-- Morning and afternoon are prime dog socialisation hours
-- You'll start recognising the regular dogs before you learn their owners' names
-- Some parks have better fencing than others — know your dog's recall before going fully off-leash
-- There's usually an informal dog group that meets daily — just show up and you'll be absorbed into it
+- Morning (before 9am) is prime dog socialisation time at JJ Holland Park
+- The dog community in Kensington is tight — regulars know each other and their dogs
+- JJ Holland Park has partial fencing but is not fully enclosed — know your dog's recall
+- A daily morning dog group meets informally — show up with your dog and you will be welcomed
 
 ## Dog-Friendly [Cafes](/kensington/best-cafes/)
 
-Multiple cafes in Kensington welcome dogs in their outdoor areas. Water bowls appear without asking, and the occasional dog treat materialises. This is Melbourne — cafe dogs are part of the culture.
+Bellair Street cafes are some of the most dog-friendly in the inner west. Water bowls, outdoor seating designed with dog owners in mind, and the occasional treat from behind the counter. This is Melbourne cafe-dog culture at its best.
+
+The concentration of cafes along Bellair Street between Kensington station and JJ Holland Park means you can walk your dog, hit the off-leash area, and stop for coffee all within a 30-minute loop. It is practically engineered for dog owners.
 
 **Tips:**
-- Outdoor seating areas are your best bet
-- Go during quieter periods if your dog is new to cafe culture
-- A well-behaved dog gets you faster service (staff love dogs)
-- Tie-up points exist at most main strip cafes
+- Bellair Street outdoor seating is the go-to for dogs
+- Weekend brunch is peak dog-and-coffee time — every second table has a dog under it
+- Tie-up points exist at most Bellair Street cafes
+- Some Macaulay Road cafes also welcome dogs outdoors
 
 ## Walking Routes
 
-The walking options around Kensington suit dogs of all energy levels:
+Kensington is compact, but it connects well to longer routes:
 
-- **Short neighbourhood loop** — 20-30 minutes through residential streets. Good for daily maintenance walks.
-- **Park circuit** — Follow the paths through the local park system. Flat, safe, and usually encounters other dogs for socialising.
-- **Extended walk** — Connect through to neighbouring suburbs via trails and footpaths. Good for weekend energy burns.
+- **JJ Holland Park and Bellair Street loop** — A 20 to 30 minute circuit through the park and along the cafe strip. Flat, well-paved, and you will encounter other dogs the entire way.
+- **Maribyrnong River trail** — Accessible from the western side of Kensington (via Kensington Banks), the river trail runs north toward Ascot Vale and south toward Footscray. Flat, paved, and traffic-separated. This is the best longer walk option.
+- **Flemington racecourse perimeter** — Walk east from Kensington into Flemington and loop around the racecourse precinct (Epsom Road, Fisher Parade). A flat, quiet route outside of race days.
+- **Through to North Melbourne** — Head east from Bellair Street through the residential streets into North Melbourne. About 2km each way, passing through Arden Street and its own collection of cafes.
 
 ## Vet Access
 
-Veterinary clinics are accessible from Kensington, including emergency after-hours options within a reasonable drive. Having a vet you trust nearby is one of the underrated factors in choosing where to live with pets.
+Veterinary clinics operate in Kensington and the neighbouring suburbs of Flemington and North Melbourne. Emergency after-hours services are accessible within a 10-minute drive. The inner-west is well-serviced for pet healthcare.
 
 ## What Dog Owners Love About Kensington
 
-- Genuine dog community — daily park friends
-- Cafe culture that includes dogs
-- Good walking paths without needing to drive somewhere
-- Enough green space for daily exercise
-- Friendly neighbours who don't mind dogs
+- JJ Holland Park's off-leash area is well-located and well-used
+- Bellair Street cafe culture that genuinely embraces dogs
+- Maribyrnong River trail access for longer walks
+- Compact suburb means everything is walking distance
+- Active, sociable dog community
 
 ## What Could Be Better
 
-- Off-leash areas could be bigger in some parks
-- Peak times get crowded with dogs — early morning is quieter
-- Some rental properties have strict pet policies
-- Not every cafe is equally dog-friendly — learn which ones are genuine about it
+- JJ Holland Park is not fully fenced — dogs with poor recall need management
+- Weekend mornings at the park get crowded with dogs and families
+- Some rental properties (especially newer apartments) have strict pet policies — always check
+- Limited off-leash options beyond JJ Holland and the recreation reserve
+
+## FAQ
+
+**Is Kensington a good suburb for dogs?**
+Yes. JJ Holland Park, the Maribyrnong River trail, and the dog-friendly Bellair Street cafe scene make it one of the better inner-city suburbs for dog owners.
+
+**Where are the off-leash dog parks in Kensington?**
+JJ Holland Park and Kensington Recreation Reserve have designated off-leash zones. The Kensington Banks riverside area also has off-leash access. Time restrictions apply — check council signage.
+
+**Which cafes in Kensington allow dogs?**
+Most Bellair Street cafes allow dogs in their outdoor seating areas. Water bowls are standard, and the general attitude is welcoming. Weekend brunch is peak dog-cafe time.
+
+**What is the best walking route for dogs in Kensington?**
+The Maribyrnong River trail (accessed from the western side of Kensington) is the best longer route. For daily exercise, the JJ Holland Park and Bellair Street loop is a 20 to 30 minute option with a coffee stop built in.
 
 ---
 

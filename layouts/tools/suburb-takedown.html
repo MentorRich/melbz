@@ -84,9 +84,9 @@
   <p class="subtitle">Type your suburb below. Brace yourself.</p>
 
   <div class="api-config" id="apiConfig">
-    <label for="apiKeyInput">Anthropic API Key</label>
-    <input type="password" id="apiKeyInput" placeholder="sk-ant-...">
-    <div class="note">Your key stays in your browser (localStorage). Never sent anywhere except Anthropic.</div>
+    <label for="apiKeyInput">OpenRouter API Key</label>
+    <input type="password" id="apiKeyInput" placeholder="sk-or-v1-...">
+    <div class="note">Your key stays in your browser (localStorage). Never sent anywhere except OpenRouter.</div>
     <button id="saveKeyBtn">Save key</button>
   </div>
 
@@ -135,12 +135,18 @@
     SLUG_MAP[s] = s.toLowerCase().replace(/\s+/g,'-');
   });
 
-  var API_KEY = localStorage.getItem('melbz_anthropic_key') || '{{ .Site.Params.anthropic_api_key | default "" }}';
+  /* ── OpenRouter API config ── */
+  var SITE_KEY = '{{ .Site.Params.openrouter_api_key | default "" }}';
+  var API_KEY = localStorage.getItem('melbz_openrouter_key') || SITE_KEY;
+  var API_URL = 'https://openrouter.ai/api/v1/chat/completions';
+  var MODEL = 'google/gemini-2.5-flash-preview-05-20';
+  var SYSTEM_PROMPT = "You are a sharp, well-informed Melbourne local who has lived in or spent significant time in most Melbourne suburbs. You write honest suburb assessments in a voice that is dry, specific, and affectionate underneath the directness \u2014 think a trusted friend who gives you the real version, not the real estate brochure version. You know Melbourne deeply: its geography, its suburb identities, its contradictions, its housing market, its transport network, its food culture, its social dynamics. You write about suburbs with genuine knowledge \u2014 specific streets, real cultural references, honest strengths and weaknesses. Your tone is never mean-spirited or contemptuous \u2014 you roast with affection, not contempt. You always write exactly 3 paragraphs. Paragraph 1: the honest reputation and what it is based on. Paragraph 2: what people get wrong about it and what it actually delivers for residents. Paragraph 3: who this suburb genuinely suits and who should look elsewhere \u2014 end with one specific thing the suburb does better than anywhere else in Melbourne. Never fabricate specific venue names, addresses, or statistics you cannot verify. Speak from the perspective of accumulated Melbourne knowledge, not invented facts.";
+
   var recentLookups = JSON.parse(localStorage.getItem('melbz_recent_takes') || '[]');
   var currentSuburb = '';
   var currentTake = '';
 
-  // API key config
+  // API key config — show only if no key from site config or localStorage
   if (!API_KEY) {
     document.getElementById('apiConfig').classList.add('visible');
   }
@@ -148,7 +154,7 @@
     var k = document.getElementById('apiKeyInput').value.trim();
     if (k) {
       API_KEY = k;
-      localStorage.setItem('melbz_anthropic_key', k);
+      localStorage.setItem('melbz_openrouter_key', k);
       document.getElementById('apiConfig').classList.remove('visible');
     }
   });
@@ -232,19 +238,22 @@
       loadTxt.textContent = LOADING_MSGS[msgIdx];
     }, 1500);
 
-    fetch('https://api.anthropic.com/v1/messages', {
+    /* ── OpenRouter API call (OpenAI-compatible format) ── */
+    fetch(API_URL, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'x-api-key': API_KEY,
-        'anthropic-version': '2023-06-01',
-        'anthropic-dangerous-direct-browser-access': 'true'
+        'Authorization': 'Bearer ' + API_KEY,
+        'HTTP-Referer': 'https://melbz.com.au',
+        'X-Title': 'MELBZ'
       },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
+        model: MODEL,
         max_tokens: 1024,
-        system: "You are a sharp, well-informed Melbourne local who has lived in or spent significant time in most Melbourne suburbs. You write honest suburb assessments in a voice that is dry, specific, and affectionate underneath the directness \u2014 think a trusted friend who gives you the real version, not the real estate brochure version. You know Melbourne deeply: its geography, its suburb identities, its contradictions, its housing market, its transport network, its food culture, its social dynamics. You write about suburbs with genuine knowledge \u2014 specific streets, real cultural references, honest strengths and weaknesses. Your tone is never mean-spirited or contemptuous \u2014 you roast with affection, not contempt. You always write exactly 3 paragraphs. Paragraph 1: the honest reputation and what it is based on. Paragraph 2: what people get wrong about it and what it actually delivers for residents. Paragraph 3: who this suburb genuinely suits and who should look elsewhere \u2014 end with one specific thing the suburb does better than anywhere else in Melbourne. Never fabricate specific venue names, addresses, or statistics you cannot verify. Speak from the perspective of accumulated Melbourne knowledge, not invented facts.",
-        messages: [{role: 'user', content: 'Give me the honest Melbourne take on ' + match + '.'}]
+        messages: [
+          {role: 'system', content: SYSTEM_PROMPT},
+          {role: 'user', content: 'Give me the honest Melbourne take on ' + match + '.'}
+        ]
       })
     })
     .then(function(r){
@@ -253,8 +262,13 @@
       return r.json();
     })
     .then(function(data){
-      var text = (data.content && data.content[0] && data.content[0].text) || '';
+      /* OpenRouter returns OpenAI format: data.choices[0].message.content */
+      var text = '';
+      if (data.choices && data.choices[0] && data.choices[0].message) {
+        text = data.choices[0].message.content || '';
+      }
       text = text.trim();
+      if (!text) throw new Error('Empty response');
       currentTake = text;
       showResult(match, text);
       saveRecent(match, text);
